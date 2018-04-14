@@ -1,21 +1,15 @@
-﻿using CrusaderKingsStoryGen.MapGen;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Drawing.Drawing2D;
-using System.Drawing.Imaging;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using LibNoise.Modfiers;
-
-namespace CrusaderKingsStoryGen
+﻿namespace CrusaderKingsStoryGen
 {
+    using CrusaderKingsStoryGen.MapGen;
+    using LibNoise.Modfiers;
+    using System;
+    using System.Collections.Generic;
+    using System.Drawing;
+    using System.Drawing.Drawing2D;
+    using System.Drawing.Imaging;
+    using System.IO;
+    using System.Windows.Forms;
+
     public partial class MapGenerator : Form
     {
         GeneratedTerrainMap map;

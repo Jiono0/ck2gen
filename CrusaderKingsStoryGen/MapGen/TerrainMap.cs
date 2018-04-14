@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using LibNoise;
-using LibNoise.Modfiers;
-using LibNoise.Modifiers;
+﻿
 
 namespace CrusaderKingsStoryGen.MapGen
 {
+    using LibNoise;
+    using LibNoise.Modfiers;
+    using LibNoise.Modifiers;
+
     public class TerrainMap
     {
         Perlin terrainType = new Perlin();
