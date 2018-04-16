@@ -4,6 +4,7 @@
 
 namespace CrusaderKingsStoryGen.Parsers
 {
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System;
     using System.Collections.Generic;
     using System.Drawing;
@@ -41,8 +42,6 @@ namespace CrusaderKingsStoryGen.Parsers
                 line++;
             }
         }
-
-        public abstract ScriptScope CreateScope();
 
         public ScriptScope Scope { get; set; }
 

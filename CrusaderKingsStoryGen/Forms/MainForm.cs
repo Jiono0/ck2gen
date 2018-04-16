@@ -17,8 +17,10 @@ namespace CrusaderKingsStoryGen.Forms
     using System.Windows.Forms;
     using System.Xml;
     using CrusaderKingsStoryGen.PropertyPageProxies;
-    using CrusaderKingsStoryGen.Simulation;
     using Microsoft.Win32;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.Parsers;
 
     public partial class MainForm : Form
     {

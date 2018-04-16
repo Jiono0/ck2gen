@@ -4,13 +4,13 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
+    using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.Parsers;
-    using System;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.Drawing;
     using System.Linq;
-    using System.Windows.Forms;
-    
+
     public class CultureManager
     {
         public static CultureManager instance = new CultureManager();

@@ -12,6 +12,7 @@ namespace CrusaderKingsStoryGen.MapGen
     using csDelaunay;
     using FloodFill2;
     using LibNoise.Modfiers;
+    using CrusaderKingsStoryGen.Helpers;
 
     public class ProvinceBitmapManager
     {

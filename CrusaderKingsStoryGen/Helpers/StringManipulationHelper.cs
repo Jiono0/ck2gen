@@ -10,6 +10,8 @@ namespace CrusaderKingsStoryGen.Helpers
 
     public class StringManipulationHelper
     {
+
+        private List<string> firstLetters = new KingdomHelper().firstLetters;
         public string changeFirstLetter(string input)
         {
             string orig = input;

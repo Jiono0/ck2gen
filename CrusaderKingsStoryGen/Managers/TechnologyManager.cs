@@ -4,11 +4,12 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using System;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
-    using CrusaderKingsStoryGen.Simulation;
 
     class TechnologyManager
     {

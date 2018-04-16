@@ -4,12 +4,15 @@
 
 namespace CrusaderKingsStoryGen.Parsers
 {
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System;
     using System.Collections.Generic;
     using System.Drawing;
     using System.Linq;
 
-    class CharacterParser : Parser
+    public class CharacterParser : Parser
     {
         public string religion = "pagan";
         public string culture = "norse";

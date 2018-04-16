@@ -2,6 +2,8 @@
 // Copyright policies set by https://github.com/yemmlie
 // </copyright>
 
+using CrusaderKingsStoryGen.Parsers;
+
 namespace CrusaderKingsStoryGen.PropertyPageProxies
 {
     class ReligionGroupProxy

@@ -4,8 +4,6 @@
 
 namespace CrusaderKingsStoryGen.ScriptHelpers
 {
-    using System;
-
     class ScopeProxy
     {
         ScriptScope scope;

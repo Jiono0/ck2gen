@@ -9,6 +9,7 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
     using System.ComponentModel;
     using System.Drawing;
     using CrusaderKingsStoryGen.Forms;
+    using CrusaderKingsStoryGen.Parsers;
 
     class CultureProxy
     {

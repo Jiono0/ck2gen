@@ -9,9 +9,11 @@ namespace CrusaderKingsStoryGen.Parsers
     using System.Drawing;
     using System.IO;
     using System.Linq;
-    using CrusaderKingsStoryGen.Simulation;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
-    class ProvinceParser :  Parser
+    public class ProvinceParser :  Parser
     {
         public string ProvinceName { get; set; }
 

@@ -5,7 +5,6 @@
 namespace CrusaderKingsStoryGen.Helpers
 {
     using System.Text.RegularExpressions;
-    using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.Managers;
 
     public static class StarHelper

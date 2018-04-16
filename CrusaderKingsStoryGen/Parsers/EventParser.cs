@@ -4,7 +4,7 @@
 
 namespace CrusaderKingsStoryGen.Parsers
 {
-    using System;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
 
     class EventParser : Parser

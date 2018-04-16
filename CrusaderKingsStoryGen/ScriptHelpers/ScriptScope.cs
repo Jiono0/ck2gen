@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
+using System.Xml;
 
 namespace CrusaderKingsStoryGen.ScriptHelpers
 {
@@ -27,7 +26,7 @@ namespace CrusaderKingsStoryGen.ScriptHelpers
             set { this._data = "\t\t\t" + value.Trim(); }
         }
 
-        internal delegate void CopyDelegate(object o);
+        public delegate void CopyDelegate(object o);
 
         public void FillFrom(ScriptScope from, CopyDelegate copy)
         {

@@ -7,6 +7,8 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
     using System.ComponentModel;
     using System.Drawing;
     using CrusaderKingsStoryGen.Forms;
+    using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class TitleProxy
     {

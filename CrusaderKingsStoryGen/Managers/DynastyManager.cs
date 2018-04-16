@@ -8,6 +8,8 @@ namespace CrusaderKingsStoryGen.Managers
     using System.Collections.Generic;
     using System.Drawing;
     using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     public class Dynasty
     {

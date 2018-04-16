@@ -4,7 +4,8 @@
 
 namespace CrusaderKingsStoryGen.Helpers
 {
-    using System;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.Drawing;
 

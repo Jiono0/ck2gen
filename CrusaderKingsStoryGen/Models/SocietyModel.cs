@@ -6,7 +6,6 @@ namespace CrusaderKingsStoryGen.Models
 {
     using CrusaderKingsStoryGen.Parsers;
     using CrusaderKingsStoryGen.ScriptHelpers;
-    using System;
 
     partial class SocietyManager
     {

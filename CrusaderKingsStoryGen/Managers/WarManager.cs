@@ -4,9 +4,9 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using System;
+    using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
-    using CrusaderKingsStoryGen.Simulation;
 
     class WarManager
     {

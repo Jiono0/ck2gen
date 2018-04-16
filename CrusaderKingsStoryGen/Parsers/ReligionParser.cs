@@ -4,14 +4,15 @@
 
 namespace CrusaderKingsStoryGen.Parsers
 {
-    using System;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.Drawing;
     using System.Linq;
     using System.Xml;
-    using CrusaderKingsStoryGen.Simulation;
 
-    class ReligionParser : Parser
+    public class ReligionParser : Parser
     {
         public ReligionGroupParser Group;
 

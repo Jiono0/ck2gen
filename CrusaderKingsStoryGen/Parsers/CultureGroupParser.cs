@@ -1,8 +1,10 @@
-﻿using System;
+﻿using CrusaderKingsStoryGen.Helpers;
+using CrusaderKingsStoryGen.Managers;
+using CrusaderKingsStoryGen.ScriptHelpers;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace CrusaderKingsStoryGen.Parsers
 {
@@ -223,11 +225,6 @@ namespace CrusaderKingsStoryGen.Parsers
         }
 
         public Color color;
-
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
 
         public void Init()
         {

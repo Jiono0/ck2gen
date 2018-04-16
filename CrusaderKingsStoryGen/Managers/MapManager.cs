@@ -15,8 +15,10 @@ namespace CrusaderKingsStoryGen.Managers
     using System.Text;
     using CrusaderKingsStoryGen.Forms;
     using CrusaderKingsStoryGen.MapGen;
-    using CrusaderKingsStoryGen.Simulation;
     using LibNoise.Modfiers;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class MapManager
     {
@@ -505,7 +507,7 @@ namespace CrusaderKingsStoryGen.Managers
                 this.LoadAdjacencies();
             }
 
-            Simulation.SimulationManager.instance.Init();
+            SimulationManager.instance.Init();
         }
 
         private static void DoProgress(BackgroundWorker worker, int progress, int maxProgress)

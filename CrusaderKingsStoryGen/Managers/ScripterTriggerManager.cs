@@ -4,6 +4,8 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
+    using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
 
     class ScripterTriggerManager

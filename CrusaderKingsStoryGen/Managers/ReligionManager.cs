@@ -4,7 +4,10 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using System;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Interfaces;
+    using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.Linq;
     using System.Xml;

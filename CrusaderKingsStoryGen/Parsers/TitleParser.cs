@@ -9,9 +9,11 @@ namespace CrusaderKingsStoryGen.Parsers
     using System.Drawing;
     using System.Linq;
     using System.Windows.Forms;
-    using CrusaderKingsStoryGen.Simulation;
+    using CrusaderKingsStoryGen.ScriptHelpers;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.Helpers;
 
-    class TitleParser : Parser
+    public class TitleParser : Parser
     {
         public int Rank = 1;
         public Dictionary<string, TitleParser> SubTitles = new Dictionary<string, TitleParser>();

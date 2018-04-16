@@ -4,7 +4,8 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using System;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.IO;
 
     internal class SpriteManager

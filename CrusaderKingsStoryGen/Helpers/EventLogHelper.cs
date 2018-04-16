@@ -4,6 +4,7 @@
 
 namespace CrusaderKingsStoryGen.Helpers
 {
+    using CrusaderKingsStoryGen.Managers;
     using System.Collections.Generic;
     using System.IO;
 
@@ -57,7 +58,7 @@ namespace CrusaderKingsStoryGen.Helpers
                 return;
             }
 
-            this.files[title].WriteLine(Simulation.SimulationManager.instance.Year + " - " + text);
+            this.files[title].WriteLine(SimulationManager.instance.Year + " - " + text);
         }
 
         public void Save()

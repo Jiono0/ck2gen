@@ -6,6 +6,7 @@
 
 namespace CrusaderKingsStoryGen.MapGen
 {
+    using CrusaderKingsStoryGen.Helpers;
     using LibNoise;
     using LibNoise.Modfiers;
     using LibNoise.Modifiers;

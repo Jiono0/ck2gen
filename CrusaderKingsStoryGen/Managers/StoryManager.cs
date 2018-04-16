@@ -4,7 +4,6 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using System;
     using System.Collections.Generic;
     using CrusaderKingsStoryGen.Forms;
 

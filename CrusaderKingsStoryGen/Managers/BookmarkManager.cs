@@ -9,7 +9,6 @@ namespace CrusaderKingsStoryGen.Managers
     using System.IO;
     using System.Linq;
     using System.Text;
-    using CrusaderKingsStoryGen.Simulation;
 
     public class BookmarkManager
     {

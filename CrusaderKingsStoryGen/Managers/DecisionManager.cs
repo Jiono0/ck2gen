@@ -4,7 +4,7 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using System;
+    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;

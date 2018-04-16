@@ -5,11 +5,12 @@
 namespace CrusaderKingsStoryGen.Helpers
 {
     using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.Parsers;
     using System;
     using System.Collections.Generic;
     using System.Text;
 
-    public class CulturalDna
+    public class KingdomHelper
     {
         private List<string> vowels = new List<string>() { "a", "e", "i", "o", "u", "ae", "y" };
         public CultureParser culture;
@@ -47,15 +48,13 @@ namespace CrusaderKingsStoryGen.Helpers
         {
         };
 
-        public CulturalDna()
+        public KingdomHelper()
         {
             this.wordLengthBias = 1.0f;
+            firstLetters = new List<string> { "a", "e", "d", "k", "q", "w", "r", "t", "r", "s", "t", "l", "n", "k", "b", };
         }
 
-        private List<string> firstLetters = new List<string>()
-        {
-            "a", "e", "d", "k", "q", "w", "r", "t", "r", "s", "t", "l", "n", "k", "b",
-        };
+        public List<string> firstLetters { get; set; }
 
         List<string> cons = new List<string> { "q", "w", "r", "t", "r", "s", "t", "l", "n", "k", "b", "m", "c", "f", "g", "h", "p", "v", "x", "y", "z" };
 
@@ -86,9 +85,9 @@ namespace CrusaderKingsStoryGen.Helpers
             this.dna = c;
         }
 
-        public CulturalDna MutateSmall(int numChanges)
+        public KingdomHelper MutateSmall(int numChanges)
         {
-            var c = new CulturalDna();
+            var c = new KingdomHelper();
 
             c.empTitle = this.empTitle;
             c.kingTitle = this.kingTitle;
@@ -127,10 +126,10 @@ namespace CrusaderKingsStoryGen.Helpers
             return c;
         }
 
-        public CulturalDna Mutate(int numChanges, CultureParser rel)
+        public KingdomHelper Mutate(int numChanges, CultureParser rel)
         {
            this.culture = rel;
-            var c = new CulturalDna();
+            var c = new KingdomHelper();
 
             c.empTitle = this.empTitle;
             c.kingTitle = this.kingTitle;
@@ -188,7 +187,7 @@ namespace CrusaderKingsStoryGen.Helpers
 
             do
             {
-                if (Simulation.SimulationManager.instance.AllowCustomTitles)
+                if (SimulationManager.instance.AllowCustomTitles)
                 {
                     this.empTitle = this.ConstructWord(2, 5);
                     this.kingTitle = this.ConstructWord(2, 5);
@@ -310,7 +309,7 @@ namespace CrusaderKingsStoryGen.Helpers
 
 
                     {
-                        if (Simulation.SimulationManager.instance.AllowCustomTitles)
+                        if (SimulationManager.instance.AllowCustomTitles)
                         {
                             //    case 0:
                             this.empTitle = this.ConstructWord(2, 5);
@@ -403,7 +402,7 @@ namespace CrusaderKingsStoryGen.Helpers
                         break;
                     case 10:
 
-                        if (Simulation.SimulationManager.instance.AllowCustomTitles)
+                        if (SimulationManager.instance.AllowCustomTitles)
                         {
                             //    for (int n = 0; n < 3; n++)
                                 switch (RandomIntHelper.Next(6))
@@ -490,7 +489,7 @@ namespace CrusaderKingsStoryGen.Helpers
         private int AddRandomStartNames(int count)
         {
             int c = count;
-            CulturalDna dna = CulturalDnaManager.instance.GetVanillaCulture((string)null);
+            KingdomHelper dna = CulturalDnaManager.instance.GetVanillaCulture((string)null);
             List<string> choices = new List<string>();
             int added = 0;
             for (int n = 0; n < c; n++)
@@ -528,7 +527,7 @@ namespace CrusaderKingsStoryGen.Helpers
         private int AddRandomEndNames(int count)
         {
             int c = count;
-            CulturalDna dna = CulturalDnaManager.instance.GetVanillaCulture((string)null);
+            KingdomHelper dna = CulturalDnaManager.instance.GetVanillaCulture((string)null);
             List<string> choices = new List<string>();
             int added = 0;
             for (int n = 0; n < c; n++)
