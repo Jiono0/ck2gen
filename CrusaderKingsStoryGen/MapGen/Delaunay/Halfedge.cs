@@ -1,10 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿// <copyright file="Halfedge.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
-namespace csDelaunay {
+namespace csDelaunay
+{
+    using System.Collections.Generic;
 
-	public class Halfedge {
-
+    public class Halfedge {
 		#region Pool
 		private static Queue<Halfedge> pool = new Queue<Halfedge>();
 
@@ -15,6 +17,7 @@ namespace csDelaunay {
 				return new Halfedge(edge,lr);
 			}
 		}
+
 		public static Halfedge CreateDummy() {
 			return Create(null, null);
 		}
@@ -33,44 +36,46 @@ namespace csDelaunay {
 		public float ystar;
 
 		public Halfedge(Edge edge, LR lr) {
-			Init(edge, lr);
+			this.Init(edge, lr);
 		}
 
 		private Halfedge Init(Edge edge, LR lr) {
 			this.edge = edge;
-			leftRight = lr;
-			nextInPriorityQueue = null;
-			vertex = null;
+			this.leftRight = lr;
+			this.nextInPriorityQueue = null;
+			this.vertex = null;
 
 			return this;
 		}
 
 		public override string ToString() {
-			return "Halfedge (LeftRight: " + leftRight + "; vertex: " + vertex + ")";
+			return "Halfedge (LeftRight: " + this.leftRight + "; vertex: " + this.vertex + ")";
 		}
 
 		public void Dispose() {
-			if (edgeListLeftNeighbor != null || edgeListRightNeighbor != null) {
+			if (this.edgeListLeftNeighbor != null || this.edgeListRightNeighbor != null) {
 				// still in EdgeList
 				return;
 			}
-			if (nextInPriorityQueue != null) {
+
+			if (this.nextInPriorityQueue != null) {
 				// still in PriorityQueue
 				return;
 			}
-			edge = null;
-			leftRight = null;
-			vertex = null;
+
+			this.edge = null;
+			this.leftRight = null;
+			this.vertex = null;
 			pool.Enqueue(this);
 		}
 
 		public void ReallyDispose() {
-			edgeListLeftNeighbor = null;
-			edgeListRightNeighbor = null;
-			nextInPriorityQueue = null;
-			edge = null;
-			leftRight = null;
-			vertex = null;
+			this.edgeListLeftNeighbor = null;
+			this.edgeListRightNeighbor = null;
+			this.nextInPriorityQueue = null;
+			this.edge = null;
+			this.leftRight = null;
+			this.vertex = null;
 			pool.Enqueue(this);
 		}
 
@@ -79,45 +84,49 @@ namespace csDelaunay {
 			bool rightOfSite, above, fast;
 			float dxp, dyp, dxs, t1, t2, t3, y1;
 
-			topSite = edge.RightSite;
+			topSite = this.edge.RightSite;
 			rightOfSite = p.x > topSite.x;
 			if (rightOfSite && this.leftRight == LR.LEFT) {
 				return true;
 			}
+
 			if (!rightOfSite && this.leftRight == LR.RIGHT) {
 				return false;
 			}
 
-			if (edge.a == 1) {
+			if (this.edge.a == 1) {
 				dyp = p.y - topSite.y;
 				dxp = p.x - topSite.x;
 				fast = false;
-				if ((!rightOfSite && edge.b < 0) || (rightOfSite && edge.b >= 0)) {
-					above = dyp >= edge.b * dxp;
+				if ((!rightOfSite && this.edge.b < 0) || (rightOfSite && this.edge.b >= 0)) {
+					above = dyp >= this.edge.b * dxp;
 					fast = above;
 				} else {
-					above = p.x + p.y * edge.b > edge.c;
-					if (edge.b < 0) {
+					above = p.x + p.y * this.edge.b > this.edge.c;
+					if (this.edge.b < 0) {
 						above = !above;
-					} 
+					}
+
 					if (!above) {
 						fast = true;
 					}
 				}
+
 				if (!fast) {
-					dxs = topSite.x - edge.LeftSite.x;
-					above = edge.b * (dxp * dxp - dyp * dyp) < dxs * dyp * (1+2 * dxp/dxs + edge.b * edge.b);
-					if (edge.b < 0) {
+					dxs = topSite.x - this.edge.LeftSite.x;
+					above = this.edge.b * (dxp * dxp - dyp * dyp) < dxs * dyp * (1+2 * dxp/dxs + this.edge.b * this.edge.b);
+					if (this.edge.b < 0) {
 						above = !above;
 					}
 				}
 			} else {
-				y1 = edge.c - edge.a * p.x;
+				y1 = this.edge.c - this.edge.a * p.x;
 				t1 = p.y - y1;
 				t2 = p.x - topSite.x;
 				t3 = y1 - topSite.y;
 				above = t1 * t1 > t2 * t2 + t3 * t3;
 			}
+
 			return this.leftRight == LR.LEFT ? above : !above;
 		}
 		#endregion

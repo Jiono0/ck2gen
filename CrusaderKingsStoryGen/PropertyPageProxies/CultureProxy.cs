@@ -1,13 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// <copyright file="CultureProxy.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace CrusaderKingsStoryGen.PropertyPageProxies
 {
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel;
+    using System.Drawing;
+    using CrusaderKingsStoryGen.Forms;
+
     class CultureProxy
     {
         private CultureParser culture;
@@ -16,21 +18,22 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         {
             this.culture = title;
         }
+
         [Category("Culture Details"),
          DisplayName("Name")]
         public string Name
         {
             get
             {
-                return culture.LanguageName;
-
+                return this.culture.LanguageName;
             }
+
             set
             {
-                culture.LanguageName = value;
-                LanguageManager.instance.Add(culture.Scope.Name, value);
+                this.culture.LanguageName = value;
+                LanguageManager.instance.Add(this.culture.Scope.Name, value);
 
-                Form1.instance.RefreshTree();
+                MainForm.instance.RefreshTree();
             }
         }
 
@@ -40,15 +43,16 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         {
             get {
                     CultureParser.gfxStyles v = CultureParser.gfxStyles.africangfx;
-                
-                    Enum.TryParse<CultureParser.gfxStyles>(culture.dna.portraitPool[0], out v);
+
+                    Enum.TryParse<CultureParser.gfxStyles>(this.culture.dna.portraitPool[0], out v);
                     return v;
                 }
+
             set
             {
-                culture.dna.portraitPool.Clear();
-                culture.dna.portraitPool.Add(value.ToString());
-                culture.ScopeCultureDetails();
+                this.culture.dna.portraitPool.Clear();
+                this.culture.dna.portraitPool.Add(value.ToString());
+                this.culture.ScopeCultureDetails();
             }
         }
 
@@ -61,9 +65,9 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
 
         public List<string> MaleNames
         {
-            get { return culture.dna.maleNameBlockSet; }
-            
+            get { return this.culture.dna.maleNameBlockSet; }
         }
+
         [Category("Character Names"),
          DisplayName("Female Names")]
         [Editor(@"System.Windows.Forms.Design.StringCollectionEditor," +
@@ -72,8 +76,7 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         [TypeConverter(typeof(CsvConverter))]
         public List<string> FemaleNames
         {
-            get { return culture.dna.femaleNameBlockSet; }
-           
+            get { return this.culture.dna.femaleNameBlockSet; }
         }
 
         [Category("Title Language"),
@@ -82,14 +85,14 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         {
             get
             {
-                return culture.dna.empTitle.Lang();
-
+                return this.culture.dna.empTitle.Lang();
             }
+
             set
             {
-                culture.dna.empTitle = value.AddSafe();
+                this.culture.dna.empTitle = value.AddSafe();
 
-                Form1.instance.RefreshTree();
+                MainForm.instance.RefreshTree();
             }
         }
 
@@ -102,14 +105,14 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         {
             get
             {
-                return Color.FromArgb(255, culture.r, culture.g, culture.b);
-
+                return Color.FromArgb(255, this.culture.r, this.culture.g, this.culture.b);
             }
+
             set
             {
-                culture.r = value.R;
-                culture.g = value.G;
-                culture.b = value.B;
+                this.culture.r = value.R;
+                this.culture.g = value.G;
+                this.culture.b = value.B;
             }
         }
 
@@ -119,80 +122,83 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         {
             get
             {
-                return culture.dna.kingTitle.Lang();
-
+                return this.culture.dna.kingTitle.Lang();
             }
+
             set
             {
-                culture.dna.kingTitle = value.AddSafe();
+                this.culture.dna.kingTitle = value.AddSafe();
 
-                Form1.instance.RefreshTree();
+                MainForm.instance.RefreshTree();
             }
         }
+
         [Category("Title Language"),
              DisplayName("Duke Title")]
         public string DukeTitle
         {
             get
             {
-                return culture.dna.dukeTitle.Lang();
-
+                return this.culture.dna.dukeTitle.Lang();
             }
+
             set
             {
-                culture.dna.dukeTitle = value.AddSafe();
-                
+                this.culture.dna.dukeTitle = value.AddSafe();
 
-                Form1.instance.RefreshTree();
+
+                MainForm.instance.RefreshTree();
             }
         }
+
         [Category("Title Language"),
                    DisplayName("Count Title")]
         public string CountTitle
         {
             get
             {
-                return culture.dna.countTitle.Lang();
-
+                return this.culture.dna.countTitle.Lang();
             }
+
             set
             {
-                culture.dna.countTitle= value.AddSafe();
-                Form1.instance.RefreshTree();
+                this.culture.dna.countTitle= value.AddSafe();
+                MainForm.instance.RefreshTree();
             }
         }
+
         [Category("Title Language"),
                       DisplayName("Baron Title")]
         public string BaronTitle
         {
             get
             {
-                return culture.dna.baronTitle.Lang();
-
+                return this.culture.dna.baronTitle.Lang();
             }
+
             set
             {
-                culture.dna.baronTitle= value.AddSafe();
+                this.culture.dna.baronTitle= value.AddSafe();
 
-                Form1.instance.RefreshTree();
+                MainForm.instance.RefreshTree();
             }
         }
+
         [Category("Title Language"),
                           DisplayName("Mayor Title")]
         public string MayorTitle
         {
             get
             {
-                return culture.dna.mayorTitle.Lang();
-
+                return this.culture.dna.mayorTitle.Lang();
             }
+
             set
             {
-                culture.dna.mayorTitle = value.AddSafe();
+                this.culture.dna.mayorTitle = value.AddSafe();
 
-                Form1.instance.RefreshTree();
+                MainForm.instance.RefreshTree();
             }
         }
-
     }
 }

@@ -1,11 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿// <copyright file="HalfedgePriorityQueue.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
-namespace csDelaunay {
-
-	// Also know as heap
-	public class HalfedgePriorityQueue {
-
+namespace csDelaunay
+{
+    // Also know as heap
+    public class HalfedgePriorityQueue {
 		private Halfedge[] hash;
 		private int count;
 		private int minBucked;
@@ -17,57 +17,61 @@ namespace csDelaunay {
 		public HalfedgePriorityQueue(float ymin, float deltaY, int sqrtSitesNb) {
 			this.ymin = ymin;
 			this.deltaY = deltaY;
-			hashSize = 4 * sqrtSitesNb;
-			Init();
+			this.hashSize = 4 * sqrtSitesNb;
+			this.Init();
 		}
 
 		public void Dispose() {
 			// Get rid of dummies
-			for (int i = 0; i < hashSize; i++) {
-				hash[i].Dispose();
+			for (int i = 0; i < this.hashSize; i++) {
+				this.hash[i].Dispose();
 			}
-			hash = null;
+
+			this.hash = null;
 		}
 
 		public void Init() {
-			count = 0;
-			minBucked = 0;
-			hash = new Halfedge[hashSize];
+			this.count = 0;
+			this.minBucked = 0;
+			this.hash = new Halfedge[this.hashSize];
 			// Dummy Halfedge at the top of each hash
-			for (int i = 0; i < hashSize; i++) {
-				hash[i] = Halfedge.CreateDummy();
-				hash[i].nextInPriorityQueue = null;
+			for (int i = 0; i < this.hashSize; i++) {
+				this.hash[i] = Halfedge.CreateDummy();
+				this.hash[i].nextInPriorityQueue = null;
 			}
 		}
 
 		public void Insert(Halfedge halfedge) {
 			Halfedge previous, next;
 
-			int insertionBucket = Bucket(halfedge);
-			if (insertionBucket < minBucked) {
-				minBucked = insertionBucket;
+			int insertionBucket = this.Bucket(halfedge);
+			if (insertionBucket < this.minBucked) {
+				this.minBucked = insertionBucket;
 			}
-			previous = hash[insertionBucket];
+
+			previous = this.hash[insertionBucket];
 			while ((next = previous.nextInPriorityQueue) != null &&
 			       (halfedge.ystar > next.ystar || (halfedge.ystar == next.ystar && halfedge.vertex.x > next.vertex.x))) {
 				previous = next;
 			}
+
 			halfedge.nextInPriorityQueue = previous.nextInPriorityQueue;
 			previous.nextInPriorityQueue = halfedge;
-			count++;
+			this.count++;
 		}
 
 		public void Remove(Halfedge halfedge) {
 			Halfedge previous;
-			int removalBucket = Bucket(halfedge);
+			int removalBucket = this.Bucket(halfedge);
 
 			if (halfedge.vertex != null) {
-				previous = hash[removalBucket];
+				previous = this.hash[removalBucket];
 				while (previous.nextInPriorityQueue != halfedge) {
 					previous = previous.nextInPriorityQueue;
 				}
+
 				previous.nextInPriorityQueue = halfedge.nextInPriorityQueue;
-				count--;
+				this.count--;
 				halfedge.vertex = null;
 				halfedge.nextInPriorityQueue = null;
 				halfedge.Dispose();
@@ -75,35 +79,43 @@ namespace csDelaunay {
 		}
 
 		private int Bucket(Halfedge halfedge) {
-			int theBucket = (int)((halfedge.ystar - ymin)/deltaY * hashSize);
-			if (theBucket < 0) theBucket = 0;
-			if (theBucket >= hashSize) theBucket = hashSize - 1;
-			return theBucket;
+			int theBucket = (int)((halfedge.ystar - this.ymin)/this.deltaY * this.hashSize);
+			if (theBucket < 0)
+            {
+                theBucket = 0;
+            }
+
+            if (theBucket >= this.hashSize)
+            {
+                theBucket = this.hashSize - 1;
+            }
+
+            return theBucket;
 		}
 
 		private bool IsEmpty(int bucket) {
-			return (hash[bucket].nextInPriorityQueue == null);
+			return (this.hash[bucket].nextInPriorityQueue == null);
 		}
 
 		/*
 		 * move minBucket until it contains an actual Halfedge (not just the dummy at the top);
 		 */
 		private void AdjustMinBucket() {
-			while (minBucked < hashSize - 1 && IsEmpty(minBucked)) {
-				minBucked++;
+			while (this.minBucked < this.hashSize - 1 && this.IsEmpty(this.minBucked)) {
+				this.minBucked++;
 			}
 		}
 
 		public bool Empty() {
-			return count == 0;
+			return this.count == 0;
 		}
 
 		/*
 		 * @return coordinates of the Halfedge's vertex in V*, the transformed Voronoi diagram
 		 */
 		public Vector2f Min() {
-			AdjustMinBucket();
-			Halfedge answer = hash[minBucked].nextInPriorityQueue;
+			this.AdjustMinBucket();
+			Halfedge answer = this.hash[this.minBucked].nextInPriorityQueue;
 			return new Vector2f(answer.vertex.x, answer.ystar);
 		}
 
@@ -114,10 +126,10 @@ namespace csDelaunay {
 			Halfedge answer;
 
 			// Get the first real Halfedge in minBucket
-			answer = hash[minBucked].nextInPriorityQueue;
+			answer = this.hash[this.minBucked].nextInPriorityQueue;
 
-			hash[minBucked].nextInPriorityQueue = answer.nextInPriorityQueue;
-			count--;
+			this.hash[this.minBucked].nextInPriorityQueue = answer.nextInPriorityQueue;
+			this.count--;
 			answer.nextInPriorityQueue = null;
 
 			return answer;

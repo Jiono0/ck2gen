@@ -1,8 +1,11 @@
-using System;
-using System.Drawing;
+// <copyright file="FloodFillRangeQueue.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace FloodFill2
 {
+    using System;
+
     /// <summary>A queue of FloodFillRanges.</summary>
 	public class FloodFillRangeQueue
 	{
@@ -15,61 +18,61 @@ namespace FloodFill2
         /// </summary>
         public int Count
         {
-            get { return size; }
+            get { return this.size; }
         }
 
 		public FloodFillRangeQueue():this(10000)
 		{
-
 		}
 
         public FloodFillRangeQueue(int initialSize)
         {
-            array = new FloodFillRange[initialSize];
-            head = 0;
-            size = 0;
+            this.array = new FloodFillRange[initialSize];
+            this.head = 0;
+            this.size = 0;
         }
 
         /// <summary>Gets the <see cref="FloodFillRange"/> at the beginning of the queue.</summary>
-        public FloodFillRange First 
+        public FloodFillRange First
 		{
-			get { return array[head]; }
+			get { return this.array[this.head]; }
 		}
 
         /// <summary>Adds a <see cref="FloodFillRange"/> to the end of the queue.</summary>
-        public void Enqueue(ref FloodFillRange r) 
+        public void Enqueue(ref FloodFillRange r)
 		{
-			if (size+head == array.Length) 
+			if (this.size+this.head == this.array.Length)
 			{
-                FloodFillRange[] newArray = new FloodFillRange[2 * array.Length];
-                Array.Copy(array, head, newArray, 0, size);
-				array = newArray;
-                head = 0;
+                FloodFillRange[] newArray = new FloodFillRange[2 * this.array.Length];
+                Array.Copy(this.array, this.head, newArray, 0, this.size);
+				this.array = newArray;
+                this.head = 0;
 			}
-            array[head+(size++)] = r;
+
+            this.array[this.head+(this.size++)] = r;
 		}
 
         /// <summary>Removes and returns the <see cref="FloodFillRange"/> at the beginning of the queue.</summary>
-        public FloodFillRange Dequeue() 
+        public FloodFillRange Dequeue()
 		{
             FloodFillRange range = new FloodFillRange();
-            if (size>0)
+            if (this.size>0)
             {
-                range = array[head];
-                array[head] = new FloodFillRange();
-                head++;//advance head position
-                size--;//update size to exclude dequeued item
+                range = this.array[this.head];
+                this.array[this.head] = new FloodFillRange();
+                this.head++;//advance head position
+                this.size--;//update size to exclude dequeued item
             }
+
             return range;
 		}
 
         /// <summary>Remove all FloodFillRanges from the queue.</summary>
-		/*public void Clear() 
+		/*public void Clear()
 		{
 			if (size > 0)
 				Array.Clear(array, 0, size);
 			size = 0;
 		}*/
-
 	}
 }

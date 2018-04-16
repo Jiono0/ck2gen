@@ -1,27 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-using csDelaunay;
-using FloodFill2;
-using LibNoise.Modfiers;
+﻿// <copyright file="ProvinceBitmapManager.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace CrusaderKingsStoryGen.MapGen
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Drawing;
+    using System.Linq;
+    using System.Text;
+    using csDelaunay;
+    using FloodFill2;
+    using LibNoise.Modfiers;
+
     public class ProvinceBitmapManager
     {
-
         public static ProvinceBitmapManager instance = new ProvinceBitmapManager();
 
         public class Province
         {
-            public List<Point> points = new List<Point>(); 
+            public List<Point> points = new List<Point>();
+
             public Color Color { get; set; }
+
             public Color AreaColor { get; set; }
+
             public bool isSea { get; set; }
+
             public List<Point> border = new List<Point>();
             public List<Point> coast = new List<Point>();
             public List<Province> adjacent = new List<Province>();
@@ -33,20 +38,24 @@ namespace CrusaderKingsStoryGen.MapGen
             public MapGenManager.SeaZone seaZone;
             public int ID;
        }
+
         public List<Province> provinces = new List<Province>();
         public Dictionary<Color, Province> colorProvinceMap = new Dictionary<Color, Province>();
         public HashSet<Color> areaColors = new HashSet<Color>();
         Color last = Color.White;
         private float provincesDelta = 1.0f;
+
         public void Init(LockBitmap bmp, float sizeDelta, GeneratedTerrainMap generatedMap)
         {
-            provincesDelta = sizeDelta;
-            if (provincesDelta < 0.5f)
-                provincesDelta *= 1.8f;
+            this.provincesDelta = sizeDelta;
+            if (this.provincesDelta < 0.5f)
+            {
+                this.provincesDelta *= 1.8f;
+            }
 
-            LoadProvinceColors();
+            this.LoadProvinceColors();
             Color col = Color.FromArgb(255, 1, 0, 0);
-            
+
             int r = 1;
             int g = 0;
             int b = 0;
@@ -66,15 +75,14 @@ namespace CrusaderKingsStoryGen.MapGen
                     for (int y = 0; y < generatedMap.Map.Height; y++)
                     {
                         float height = generatedMap.Map.GetHeight(x, y);
-                    
+
                         if (height >= highmountainLevel * 255)
                         {
                             gg.FillEllipse(br, new Rectangle(x - 2, y - 2, 4, 4));
                         }
-
-
                     }
                 }
+
             LockBitmap bmp2 = new LockBitmap(new Bitmap(bmp.Source));
             bmp2.LockBits();
             using (Graphics gg = Graphics.FromImage(bmp.Source))
@@ -98,10 +106,9 @@ namespace CrusaderKingsStoryGen.MapGen
                     {
                             gg.FillEllipse(br, new Rectangle(x - 5, y - 5, 10, 10));
                      }
-
-
                 }
             }
+
             bmp2.UnlockBits();
             generatedMap.Map.UnlockBits();
             generatedMap.MoistureMap.UnlockBits();
@@ -110,16 +117,15 @@ namespace CrusaderKingsStoryGen.MapGen
             bmp.LockBits();
             UnsafeQueueLinearFloodFiller filler = new UnsafeQueueLinearFloodFiller(null);
             filler.Bitmap = bmp;
-            Bitmap = bmp;
+            this.Bitmap = bmp;
             for (int x = 0; x < bmp.Width; x++)
             {
                 for (int y = 0; y < bmp.Height; y++)
                 {
-              
                     Color pix = bmp.GetPixel(x, y);
                     if (pix == Color.FromArgb(255, 69, 91, 186) || pix == Color.FromArgb(255, 130, 158, 75))
                     {
-                        areaColors.Add(col);
+                        this.areaColors.Add(col);
                         filler.FillColor = col;
                         filler.FloodFill(new Point(x, y));
 
@@ -131,13 +137,21 @@ namespace CrusaderKingsStoryGen.MapGen
                                 for (int xx = -1; xx <= 1; xx++)
                                 {
                                     if (xx == 0 && yy == 0)
+                                    {
                                         continue;
+                                    }
+
                                     if (point.X + xx < 0 || point.Y + yy < 0 || point.X + xx >= bmp.Width || point.Y + yy >= bmp.Height)
+                                    {
                                         continue;
+                                    }
 
                                     var ccc = bmp.GetPixel(xx + point.X, yy + point.Y);
                                     if (col.R == ccc.R && ccc.G == col.G && ccc.B == col.B)
+                                    {
                                         continue;
+                                    }
+
                                     if (ccc.R > 0 || ccc.G > 0 || ccc.B > 0)
                                     {
                                         valid = true;
@@ -156,96 +170,110 @@ namespace CrusaderKingsStoryGen.MapGen
                         {
                             int numProvinces = (int) (filler.pts.Count / (3000));
                             if (pix == Color.FromArgb(255, 130, 158, 75))
+                            {
                                 numProvinces = (int) (numProvinces * sizeDelta);
+                            }
+
                             if (numProvinces == 0)
+                            {
                                 numProvinces = 1;
+                            }
+
                             if (pix != Color.FromArgb(255, 130, 158, 75))
                             {
                                 numProvinces /= 6;
                                 if (numProvinces < 1)
+                                {
                                     numProvinces = 1;
+                                }
                             }
-                            CreateProvinces(numProvinces, col, filler.pts, bmp.Width, bmp.Height, bmp, pix != Color.FromArgb(255, 130, 158, 75));
-                            FixupProvinces(col, filler, bmp);
+
+                            this.CreateProvinces(numProvinces, col, filler.pts, bmp.Width, bmp.Height, bmp, pix != Color.FromArgb(255, 130, 158, 75));
+                            this.FixupProvinces(col, filler, bmp);
                         }
+
                         r += 1;
                         if (r > 255)
                         {
                             r = 0;
                             g += 1;
                         }
+
                         if (g > 255)
                         {
                             g = 0;
                             b += 1;
                         }
+
                         col = Color.FromArgb(255, r, g, b);
                     }
                 }
             }
-            provinces = provinces.Distinct().ToList();
-            foreach (var province in provinces)
+
+            this.provinces = this.provinces.Distinct().ToList();
+            foreach (var province in this.provinces)
             {
                 province.points.Clear();
-                colorProvinceMap[province.Color] = province;
+                this.colorProvinceMap[province.Color] = province;
             }
+
             for (int x = 0; x < bmp.Width; x++)
             {
                 for (int y = 0; y < bmp.Height; y++)
                 {
                     Color pix = bmp.GetPixel(x, y);
-                    if (colorProvinceMap.ContainsKey(pix))
+                    if (this.colorProvinceMap.ContainsKey(pix))
                     {
-                        colorProvinceMap[pix].points.Add(new Point(x, y));
+                        this.colorProvinceMap[pix].points.Add(new Point(x, y));
                     }
                     else
                     {
-                        
                     }
                 }
             }
 
-            CalculateDetails();
-           
+            this.CalculateDetails();
+
             bmp.UnlockDirect();
-         
+
 
         //    bmp.Save24("C:\\Users\\LEMMY\\Documents\\terrainNew.bmp");
-
-          
-    
         }
 
         private void CalculateDetails()
         {
-
-
             int cc = 1;
-            ProvinceSea.Clear();
-            ProvinceLand.Clear();
-            
+            this.ProvinceSea.Clear();
+            this.ProvinceLand.Clear();
 
-            provinces = provinces.Distinct().OrderBy(p => p.isSea).ToList();
+
+            this.provinces = this.provinces.Distinct().OrderBy(p => p.isSea).ToList();
             int ii = 1;
-            for (int index = 0; index < provinces.Count; index++)
+            for (int index = 0; index < this.provinces.Count; index++)
             {
-                var provinceDetailse = provinces[index];
+                var provinceDetailse = this.provinces[index];
                 if (provinceDetailse.points.Count == 0)
                 {
-                    provinces.Remove(provinceDetailse);
+                    this.provinces.Remove(provinceDetailse);
                      index--;
                     continue;
                 }
+
                 if(provinceDetailse.isSea)
-                    ProvinceSea.Add(provinceDetailse);
+                {
+                    this.ProvinceSea.Add(provinceDetailse);
+                }
                 else
-                    ProvinceLand.Add(provinceDetailse);
+                {
+                    this.ProvinceLand.Add(provinceDetailse);
+                }
+
                 provinceDetailse.ID = ii;
-             
+
                 ii++;
             }
 
-            foreach (var provinceDetails in provinces)
+            foreach (var provinceDetails in this.provinces)
             {
                 foreach (var point in provinceDetails.points)
                 {
@@ -255,27 +283,34 @@ namespace CrusaderKingsStoryGen.MapGen
                     {
                         provinceDetails.min.X = x;
                     }
+
                     if (y < provinceDetails.min.Y)
                     {
                         provinceDetails.min.Y = y;
                     }
+
                     if (x > provinceDetails.max.X)
                     {
                         provinceDetails.max.X = x;
                     }
+
                     if (y > provinceDetails.max.Y)
                     {
                         provinceDetails.max.Y = y;
                     }
                 }
             }
-            for (int y = 0; y < Bitmap.Height; y++)
-                for (int x = 0; x < Bitmap.Width; x++)
+
+            for (int y = 0; y < this.Bitmap.Height; y++)
+                for (int x = 0; x < this.Bitmap.Width; x++)
                 {
-                    var pixel = Bitmap.GetPixel(x, y);
+                    var pixel = this.Bitmap.GetPixel(x, y);
                     if (pixel.R == 0 && pixel.G == 0 && pixel.B == 0)
+                    {
                         continue;
-                    var provinceDetails = colorProvinceMap[pixel];
+                    }
+
+                    var provinceDetails = this.colorProvinceMap[pixel];
 
 
                     for (int yy = -1; yy <= 1; yy++)
@@ -283,19 +318,23 @@ namespace CrusaderKingsStoryGen.MapGen
                         for (int xx = -1; xx <= 1; xx++)
                         {
                             if (xx == 0 && yy == 0)
+                            {
                                 continue;
-                            if (x + xx < 0 || y + yy < 0 || x + xx >= Bitmap.Width || y + yy >= Bitmap.Height)
-                                continue;
+                            }
 
-                            var pixel2 = Bitmap.GetPixel(x + xx, y + yy);
+                            if (x + xx < 0 || y + yy < 0 || x + xx >= this.Bitmap.Width || y + yy >= this.Bitmap.Height)
+                            {
+                                continue;
+                            }
+
+                            var pixel2 = this.Bitmap.GetPixel(x + xx, y + yy);
                             if (pixel2.R == 0 && pixel2.G == 0 && pixel2.B == 0)
                             {
                                 provinceDetails.barrier.Add(new Point(x+xx, y+yy));
-
                             }
                             else
                             {
-                                var provinceDetails2 = colorProvinceMap[pixel2];
+                                var provinceDetails2 = this.colorProvinceMap[pixel2];
                                 if (provinceDetails2 != provinceDetails)
                                 {
                                     provinceDetails.border.Add(new Point(x + xx, y + yy));
@@ -303,23 +342,22 @@ namespace CrusaderKingsStoryGen.MapGen
                                     {
                                         provinceDetails2.adjacent.Add(provinceDetails);
                                         provinceDetails.adjacent.Add(provinceDetails2);
-
                                     }
                                 }
-                                if (provinceDetails2.isSea)
-                                    provinceDetails.coast.Add(new Point(x + xx, y + yy));
-                            }
-                         
 
+                                if (provinceDetails2.isSea)
+                                {
+                                    provinceDetails.coast.Add(new Point(x + xx, y + yy));
+                                }
+                            }
                         }
                     }
-
                 }
 
 
 
 
-            var seaProv2 = new List<Province>(ProvinceSea);
+            var seaProv2 = new List<Province>(this.ProvinceSea);
 
             List<MapGenManager.SeaZone> seaZones = new List<MapGenManager.SeaZone>();
 
@@ -349,7 +387,9 @@ namespace CrusaderKingsStoryGen.MapGen
                         }
 
                         if (chosen.Count >= 30)
+                        {
                             break;
+                        }
                     }
                 }
 
@@ -359,10 +399,9 @@ namespace CrusaderKingsStoryGen.MapGen
                 {
                     provinceDetailse.seaZone = sz;
                 }
-
             }
 
-            int id = ProvinceLand.Count + 1;
+            int id = this.ProvinceLand.Count + 1;
             foreach (var seaZone in seaZones)
             {
                 foreach (var provinceDetailse in seaZone.Provinces)
@@ -405,20 +444,20 @@ namespace CrusaderKingsStoryGen.MapGen
                 MapGenManager.OceanZone z = new MapGenManager.OceanZone() { seaZones = chosenZones };
 
                 oceanZones.Add(z);
-
-
             }
+
             this.provinces = this.provinces.OrderBy(p => p.ID).ToList();
 
-            CalculatePositions();
+            this.CalculatePositions();
            // CalculateClimate();
             this.OceanZones = oceanZones;
             this.SeaZones = seaZones;
-            SaveDefinitions();
-            SaveDefaultMap();
+            this.SaveDefinitions();
+            this.SaveDefaultMap();
         }
 
         private LockBitmap heat;
+
         public void CalculateClimate(LockBitmap heatMap)
         {
             var provinces = new List<Province>(this.ProvinceLand);
@@ -429,7 +468,7 @@ namespace CrusaderKingsStoryGen.MapGen
                 new System.IO.StreamWriter(Globals.MapOutputTotalDir + "map\\climate.txt", false,
                     Encoding.GetEncoding(1252)))
             {
-                provinces.Sort(SortByHeat);
+                provinces.Sort(this.SortByHeat);
 
                 int numHeavy = provinces.Count/7;
                int numNormal = provinces.Count/6;
@@ -440,6 +479,7 @@ namespace CrusaderKingsStoryGen.MapGen
                     numNormal /= 2;
                     numHeavy /= 2;
                 }
+
                 if (Globals.Climate == 4)
                 {
                     numHeavy = 0;
@@ -453,9 +493,9 @@ namespace CrusaderKingsStoryGen.MapGen
                 List<Province> normal = new List<Province>();
                 List<Province> light = new List<Province>();
                 int c = 1;
-                String h = "";
-                String n = "";
-                String l = "";
+                string h = "";
+                string n = "";
+                string l = "";
                 for (int x = 0; x < provinces.Count; x++)
                 {
                     var p = provinces[x];
@@ -475,8 +515,8 @@ namespace CrusaderKingsStoryGen.MapGen
                         light.Add(p);
                         l = l + " " + p.ID;
                     }
-                    c++;
 
+                    c++;
                 }
 
                 filein.WriteLine("mild_winter = {");
@@ -488,24 +528,22 @@ namespace CrusaderKingsStoryGen.MapGen
                 filein.WriteLine("severe_winter = {");
                 filein.WriteLine(h);
                 filein.WriteLine("}");
-
             }
 
             heatMap.UnlockBits();
-            foreach (var value in colorProvinceMap.Values)
+            foreach (var value in this.colorProvinceMap.Values)
             {
                 value.points.Clear();
                 value.border.Clear();
                 value.coast.Clear();
                 value.adjacent.Clear();
-
             }
+
             this.provinces.Clear();
-            ProvinceSea.Clear();
-            ProvinceLand.Clear();
-            OceanZones.Clear();
-            SeaZones.Clear();
-        
+            this.ProvinceSea.Clear();
+            this.ProvinceLand.Clear();
+            this.OceanZones.Clear();
+            this.SeaZones.Clear();
         }
 
         public int SortByHeat(Province x, Province y)
@@ -513,13 +551,19 @@ namespace CrusaderKingsStoryGen.MapGen
             var p1 = x.points[0];
             var p2 = y.points[0];
 
-            float h = heat.GetPixel(p1.X, p1.Y).R / 255.0f;
-            float h2 = heat.GetPixel(p2.X, p2.Y).R / 255.0f;
+            float h = this.heat.GetPixel(p1.X, p1.Y).R / 255.0f;
+            float h2 = this.heat.GetPixel(p2.X, p2.Y).R / 255.0f;
 
             if (h > h2)
+            {
                 return 1;
+            }
+
             if (h < h2)
+            {
                 return -1;
+            }
+
             return 0;
         }
 
@@ -531,7 +575,7 @@ namespace CrusaderKingsStoryGen.MapGen
                 new System.IO.StreamWriter(Globals.MapOutputTotalDir + "map\\definition.csv", false, Encoding.GetEncoding(1252)))
             {
                 file.Write("province;red;green;blue;x;x" + Environment.NewLine);
-                foreach (var def in provinces)
+                foreach (var def in this.provinces)
                 {
                     file.Write(def.ID + ";" + def.Color.R + ";" + def.Color.G + ";" + def.Color.B + ";x;x" + Environment.NewLine);
                 }
@@ -551,11 +595,10 @@ namespace CrusaderKingsStoryGen.MapGen
 
         private void CalculatePositions()
         {
-
             using (System.IO.StreamWriter filein =
                 new System.IO.StreamWriter(Globals.MapOutputTotalDir + "map\\positions.txt", false, Encoding.GetEncoding(1252)))
             {
-                foreach (var provinceDetailse in provinces)
+                foreach (var provinceDetailse in this.provinces)
                 {
                     Point min = provinceDetailse.min;
                     Point max = provinceDetailse.max;
@@ -567,22 +610,28 @@ namespace CrusaderKingsStoryGen.MapGen
                     Rectangle rect = new Rectangle(min.X, min.Y, max.X - min.X, max.Y - min.Y);
                     var centre = provinceDetailse.points.Where(p => rect.Contains(p)).ToList();
                     if(centre.Count==0)
+                    {
                         centre.AddRange(provinceDetailse.points);
-                    var town = centre.OrderBy(p => Rand.Next(10000000)).First();
-                    var army = centre.OrderBy(p => Rand.Next(10000000)).First();
-                    var councillers = centre.OrderBy(p => Rand.Next(10000000)).First();
-                    var ports = provinceDetailse.coast.OrderBy(p => Rand.Next(10000000));
+                    }
+
+                    var town = centre.OrderBy(p => RandomIntHelper.Next(10000000)).First();
+                    var army = centre.OrderBy(p => RandomIntHelper.Next(10000000)).First();
+                    var councillers = centre.OrderBy(p => RandomIntHelper.Next(10000000)).First();
+                    var ports = provinceDetailse.coast.OrderBy(p => RandomIntHelper.Next(10000000));
                     var port = town;
                     if (ports.Count() > 0)
-                        port = ports.OrderBy(p => Rand.Next(10000000)).First();
-                    var text = centre.OrderBy(p => Rand.Next(10000000)).First();
+                    {
+                        port = ports.OrderBy(p => RandomIntHelper.Next(10000000)).First();
+                    }
+
+                    var text = centre.OrderBy(p => RandomIntHelper.Next(10000000)).First();
                     //provinceDetailse.points.Remove(provinceDetailse.border);
 
-                    town.Y = Bitmap.Height - town.Y - 1;
-                    army.Y = Bitmap.Height - army.Y - 1;
-                    councillers.Y = Bitmap.Height - councillers.Y - 1;
-                    port.Y = Bitmap.Height - port.Y - 1;
-                    text.Y = Bitmap.Height - text.Y - 1;
+                    town.Y = this.Bitmap.Height - town.Y - 1;
+                    army.Y = this.Bitmap.Height - army.Y - 1;
+                    councillers.Y = this.Bitmap.Height - councillers.Y - 1;
+                    port.Y = this.Bitmap.Height - port.Y - 1;
+                    text.Y = this.Bitmap.Height - text.Y - 1;
 
                     filein.WriteLine(provinceDetailse.ID + "=");
                     filein.WriteLine("{");
@@ -615,22 +664,27 @@ namespace CrusaderKingsStoryGen.MapGen
             {
                 Color test = bmp.GetPixel(point.X, point.Y);
                 if (done.Contains(test))
+                {
                     continue;
-                if (test.R == 0 && test.B == 0 && test.G == 0)
-                    continue;
+                }
 
-                Province p = colorProvinceMap[test];
-             
+                if (test.R == 0 && test.B == 0 && test.G == 0)
+                {
+                    continue;
+                }
+
+                Province p = this.colorProvinceMap[test];
+
                 filler.FillColor = Color.White;
                 filler.FloodFill(point);
 
                 Color t = bmp.GetPixel(676, 1935);
 
-                if (t != last)
+                if (t != this.last)
                 {
-
                 }
-                last = t;
+
+                this.last = t;
                 bool trimmed = false;
 
                 int minX = 1000000;
@@ -641,21 +695,32 @@ namespace CrusaderKingsStoryGen.MapGen
                 foreach (var pt in filler.pts)
                 {
                     if (pt.X < minX)
+                    {
                         minX = pt.X;
+                    }
+
                     if (pt.Y < minY)
+                    {
                         minY = pt.Y;
+                    }
 
                     if (pt.X > maxX)
+                    {
                         maxX = pt.X;
-                    if (pt.Y > maxY)
-                        maxY = pt.Y;
+                    }
 
+                    if (pt.Y > maxY)
+                    {
+                        maxY = pt.Y;
+                    }
                 }
 
                 bool tooSmall = false;
 
                 if (maxX - minX < 16 || maxY - minY < 16)
+                {
                     tooSmall = true;
+                }
 
                 if (filler.pts.Count < 100 || tooSmall)
                 {
@@ -663,10 +728,11 @@ namespace CrusaderKingsStoryGen.MapGen
                     {
                         done.Add(test);
                     }
-                    Color newCol = FindBestNeighbour(filler.pts, test, true);
+
+                    Color newCol = this.FindBestNeighbour(filler.pts, test, true);
                     if (newCol == Color.White)
                     {
-                        newCol = FindBestNeighbour(filler.pts, test, false);
+                        newCol = this.FindBestNeighbour(filler.pts, test, false);
                     }
 
                     if (newCol != Color.White)
@@ -675,20 +741,21 @@ namespace CrusaderKingsStoryGen.MapGen
                         filler.FloodFill(point);
                         trimmed = true;
                         if (newCol.R == 0 && newCol.B == 0 && newCol.G == 0)
+                        {
                             continue;
+                        }
 
-                        colorProvinceMap[newCol].points.AddRange(filler.pts);
+                        this.colorProvinceMap[newCol].points.AddRange(filler.pts);
                     }
                     else
                     {
                     //    filler.FillColor = Color.Black;
                      //   filler.FloodFill(point);
                      //   trimmed = true;
-
                     }
+
                     if (!trimmed)
                     {
-                        
                     }
                 }
 
@@ -696,18 +763,17 @@ namespace CrusaderKingsStoryGen.MapGen
                 {
                     if (filler.pts.Count == p.points.Count)
                     {
-
                         filler.FillColor = test;
                         filler.FloodFill(point);
                         done.Add(test);
 
                         t = bmp.GetPixel(676, 1935);
 
-                        if (t != last)
+                        if (t != this.last)
                         {
-
                         }
-                        last = t;
+
+                        this.last = t;
                     }
                     else
                     {
@@ -715,36 +781,34 @@ namespace CrusaderKingsStoryGen.MapGen
                         pNew.AreaColor = col;
                         do
                         {
-                            pNew.Color = colorMap[totalGeneratedProvinces++];
-
-                        } while ((pNew.Color.G == 0 && pNew.Color.B == 0) || pNew.Color == Color.FromArgb(255, 69, 91, 186) || pNew.Color == Color.FromArgb(255, 130, 158, 75) || colorProvinceMap.ContainsKey(pNew.Color));
+                            pNew.Color = this.colorMap[this.totalGeneratedProvinces++];
+                        } while ((pNew.Color.G == 0 && pNew.Color.B == 0) || pNew.Color == Color.FromArgb(255, 69, 91, 186) || pNew.Color == Color.FromArgb(255, 130, 158, 75) || this.colorProvinceMap.ContainsKey(pNew.Color));
 
                         filler.FillColor = pNew.Color;
                         filler.FloodFill(point);
                         t = bmp.GetPixel(676, 1935);
 
-                        if (t != last)
+                        if (t != this.last)
                         {
-
                         }
-                        last = t;
 
-                        provinces.Add(pNew);
-                        colorProvinceMap[pNew.Color] = pNew;
+                        this.last = t;
+
+                        this.provinces.Add(pNew);
+                        this.colorProvinceMap[pNew.Color] = pNew;
                         done.Add(pNew.Color);
                         pNew.points.AddRange(filler.pts);
                         pNew.points.ForEach(o => p.points.Remove(o));
                         pNew.isSea = p.isSea;
                     }
                 }
-           
             }
         }
 
         private Color FindBestNeighbour(List<Point> pts, Color col, bool careAboutSea)
         {
             Dictionary<Color, int> count = new Dictionary<Color, int>();
-            bool isSea = colorProvinceMap[col].isSea;
+            bool isSea = this.colorProvinceMap[col].isSea;
             foreach (var point in pts)
             {
                 int x = point.X;
@@ -754,11 +818,16 @@ namespace CrusaderKingsStoryGen.MapGen
                     for (int xx = -1; xx <= 1; xx++)
                     {
                         if (xx == 0 && yy == 0)
+                        {
                             continue;
-                        if (x + xx < 0 || y + yy < 0 || x + xx >= Bitmap.Width || y + yy >= Bitmap.Height)
-                            continue;
+                        }
 
-                        var pixel2 = Bitmap.GetPixel(x + xx, y + yy);
+                        if (x + xx < 0 || y + yy < 0 || x + xx >= this.Bitmap.Width || y + yy >= this.Bitmap.Height)
+                        {
+                            continue;
+                        }
+
+                        var pixel2 = this.Bitmap.GetPixel(x + xx, y + yy);
                         if (pixel2.R == 0 && pixel2.G == 0 && pixel2.B == 0)
                         {
                             if (count.ContainsKey(pixel2))
@@ -767,9 +836,11 @@ namespace CrusaderKingsStoryGen.MapGen
                             {
                                 count[pixel2] = 1;
                             }
+
                             continue;
                         }
-                        if (pixel2 != col && colorProvinceMap.ContainsKey(pixel2) && (!careAboutSea || (colorProvinceMap[pixel2].isSea == isSea)))
+
+                        if (pixel2 != col && this.colorProvinceMap.ContainsKey(pixel2) && (!careAboutSea || (this.colorProvinceMap[pixel2].isSea == isSea)))
                         {
                             if (count.ContainsKey(pixel2))
                                 count[pixel2]++;
@@ -781,6 +852,7 @@ namespace CrusaderKingsStoryGen.MapGen
                     }
                 }
             }
+
             Color biggest = Color.White;
             int biggestCount = 0;
 
@@ -806,43 +878,51 @@ namespace CrusaderKingsStoryGen.MapGen
 
             public TerritoryPoint(int x, int y)
             {
-                Owner = -1;
-                Position = new Point(x, y);
+                this.Owner = -1;
+                this.Position = new Point(x, y);
             }
+
             public TerritoryPoint()
             {
-                Owner = -1;
+                this.Owner = -1;
              }
 
             public bool Sea { get; set; }
         }
+
         private int SortByDistance(TerritoryPoint x, TerritoryPoint y)
         {
             float dist = x.Distance;
             float dist2 = y.Distance;
 
             if (dist < dist2)
+            {
                 return -1;
+            }
+
             if (dist > dist2)
+            {
                 return 1;
+            }
 
             return 0;
         }
+
         public int RegionGridSize { get; set; } = 128;
 
         private void AddPointToRegion(TerritoryPoint newPoint)
         {
-            int xx = newPoint.Position.X / RegionGridSize;
-            int yy = newPoint.Position.Y / RegionGridSize;
+            int xx = newPoint.Position.X / this.RegionGridSize;
+            int yy = newPoint.Position.Y / this.RegionGridSize;
             List<TerritoryPoint> list = null;
-            if (!Regions.ContainsKey(new Point(xx, yy)))
+            if (!this.Regions.ContainsKey(new Point(xx, yy)))
             {
                 list = new List<TerritoryPoint>();
-                Regions[new Point(xx, yy)] = list;
+                this.Regions[new Point(xx, yy)] = list;
             }
             else
             {
-                list = Regions[new Point(xx, yy)];
+                list = this.Regions[new Point(xx, yy)];
             }
 
 
@@ -851,9 +931,8 @@ namespace CrusaderKingsStoryGen.MapGen
 
         private void SaveDefaultMap()
         {
-         
-            String str = @"
-max_provinces = " + (provinces.Count + 1) + @"
+            string str = @"
+max_provinces = " + (this.provinces.Count + 1) + @"
 definitions = ""definition.csv""
 provinces = ""provinces.bmp""
 positions = ""positions.txt""
@@ -872,38 +951,31 @@ seasons = ""seasons.txt""
 
 ";
 
-            String filename = Globals.MapOutputTotalDir + "map\\default.map";
+            string filename = Globals.MapOutputTotalDir + "map\\default.map";
             using (System.IO.StreamWriter file =
                 new System.IO.StreamWriter(filename, false, Encoding.GetEncoding(1252)))
             {
-
                 file.Write(str);
-                foreach (var seaZone in SeaZones)
+                foreach (var seaZone in this.SeaZones)
                 {
                     seaZone.Provinces = seaZone.Provinces.OrderBy(a => a.ID).ToList();
                     file.WriteLine("sea_zones = { " + seaZone.Provinces[0].ID + " " + seaZone.Provinces[seaZone.Provinces.Count - 1].ID + "}");
-
-
                 }
-                foreach (var oceanZone in OceanZones)
+
+                foreach (var oceanZone in this.OceanZones)
                 {
-                    String strr = "";
+                    string strr = "";
 
                     foreach (var seaZone in oceanZone.seaZones)
                     {
                         strr += seaZone.ID + " ";
                     }
+
                     file.WriteLine(@"ocean_region = { 
      sea_zones = { " + strr + @"}
 }");
-
-
                 }
-
             }
-
-
-
         }
 
 
@@ -911,6 +983,7 @@ seasons = ""seasons.txt""
         const int minPointsPerTerritory = 8;
         public Dictionary<int, Color> colorMap = new Dictionary<int, Color>();
         Dictionary<Color, int> invColorMap = new Dictionary<Color, int>();
+
         private void LoadProvinceColors()
         {
             using (System.IO.StreamReader filein =
@@ -925,9 +998,15 @@ seasons = ""seasons.txt""
                     {
                         count++;
                         if (count == 1)
+                        {
                             continue;
+                        }
+
                         if (line.Length == 0)
+                        {
                             continue;
+                        }
+
                         var sp = line.Split(';');
 
                         int id = idd++;//Convert.ToInt32(sp[0]);
@@ -936,23 +1015,27 @@ seasons = ""seasons.txt""
                         int b = Convert.ToInt32(sp[3]);
 
                         Color col = Color.FromArgb(255, r, g, b);
-                        colorMap[id] = col;
-                        invColorMap[col] = id;
+                        this.colorMap[id] = col;
+                        this.invColorMap[col] = id;
                     }
                 }
 
                 filein.Close();
             }
         }
+
         int[] provinceSize = new int[20000];
 
         private int totalGeneratedProvinces = 0;
+
         private void CreateProvinces(int numProvinces, Color testColor, List<Point> pts, int w, int h, LockBitmap provinces, bool bSea)
         {
-            Regions.Clear();
+            this.Regions.Clear();
             int numPoints = numProvinces * 50;
             if (bSea)
+            {
                 numPoints = numProvinces*50;
+            }
 
             #region GenerateRandomPoints
 
@@ -968,11 +1051,9 @@ seasons = ""seasons.txt""
                 bool duplicate = true;
 
 
-             
-                {
-                  
 
-                    int nn = Rand.Next(pts.Count);
+                {
+                    int nn = RandomIntHelper.Next(pts.Count);
                     newPoint = pts[nn];
 
                  //   pts.RemoveAt(nn);
@@ -986,16 +1067,19 @@ seasons = ""seasons.txt""
                                             }*/
                 }
 
-             
+
                 {
                     vpoints.Add(new Vector2f(newPoint.X, newPoint.Y));
-                
                 }
             }
+
             points.Clear();
             int vorStrength = 0;
             if (pts.Count > 150)
+            {
                 vorStrength += 2;
+            }
+
             Voronoi v = new Voronoi(vpoints, new Rectf(0, 0, w, h), 0);
             var coords = v.SiteCoords();
             coords = coords.Where(c => usePts.Contains(new Point((int) c.x, (int) c.y))).ToList();
@@ -1009,7 +1093,6 @@ seasons = ""seasons.txt""
                 if (newPoint != null)
                 {
                     points.Add(newPoint);
-
                 }
             }
 
@@ -1017,7 +1100,7 @@ seasons = ""seasons.txt""
 
             if (points.Count == 0)
             {
-                points.Add(new TerritoryPoint() {Position = usePts.OrderBy(o=>Rand.Next(1000000)).First()});
+                points.Add(new TerritoryPoint() {Position = usePts.OrderBy(o=>RandomIntHelper.Next(1000000)).First()});
             }
 
             #region GenerateTerritories
@@ -1030,7 +1113,7 @@ seasons = ""seasons.txt""
                 int i = 0;//rand.Next(points.Count());
                 while (initialPoint == null)
                 {
-                    i = Rand.Next(origPoints.Count());
+                    i = RandomIntHelper.Next(origPoints.Count());
                     initialPoint = origPoints[i];
                     if (initialPoint.Owner != -1)
                         initialPoint = null;
@@ -1038,13 +1121,14 @@ seasons = ""seasons.txt""
                     {
                         i = points.IndexOf(initialPoint);
                     }
-
                 }
+
                 bool requireSea = false;
                 if (initialPoint.Sea)
                 {
                     requireSea = true;
                 }
+
                 foreach (TerritoryPoint p in points)
                 {
                     int dx = p.Position.X - initialPoint.Position.X;
@@ -1052,39 +1136,39 @@ seasons = ""seasons.txt""
                     p.Distance = (float)Math.Sqrt(dx * dx + dy * dy);
                 }
 
-                points.Sort(SortByDistance);
+                points.Sort(this.SortByDistance);
 
                 int c = 0;
-           
+
                 for (c = 0; c < Math.Min(maxPointsPerTerritory, points.Count); c++)
-                    if (points[c].Owner != -1) break;
-
-                int owner = n + totalGeneratedProvinces;
-                while ((colorMap[owner + 1].G==0 && colorMap[owner + 1].B==0) || colorMap[owner + 1] == Color.FromArgb(255, 69, 91, 186) || colorMap[owner + 1] == Color.FromArgb(255, 130, 158, 75) || colorProvinceMap.ContainsKey(colorMap[owner+1])) 
                 {
-                    owner = n + (++totalGeneratedProvinces);
+                    if (points[c].Owner != -1)
+                    {
+                        break;
+                    }
+                }
 
-                } 
+                int owner = n + this.totalGeneratedProvinces;
+                while ((this.colorMap[owner + 1].G==0 && this.colorMap[owner + 1].B==0) || this.colorMap[owner + 1] == Color.FromArgb(255, 69, 91, 186) || this.colorMap[owner + 1] == Color.FromArgb(255, 130, 158, 75) || this.colorProvinceMap.ContainsKey(this.colorMap[owner+1]))
+                {
+                    owner = n + (++this.totalGeneratedProvinces);
+                }
 
 
                 // if (c >= minPointsPerTerritory)// || i >= seaStart)
                 {
                     for (int c2 = 0; c2 < c; c2++)
                     {
-
                         if (points[c2].Owner == -1)
                         {
-
                             points[c2].Owner = owner;
                             origPoints.Remove(points[c2]);
-                            AddPointToRegion(points[c2]);
+                            this.AddPointToRegion(points[c2]);
                         }
-
                     }
                 }
 
-                totalGeneratedProvinces++;
-
+                this.totalGeneratedProvinces++;
             }
 
             #endregion
@@ -1094,7 +1178,7 @@ seasons = ""seasons.txt""
             {
                 int x = point.X;
                 int y = point.Y;
-          
+
                     float minDist = 1000000000;
                     TerritoryPoint closest = null;
 
@@ -1109,27 +1193,27 @@ seasons = ""seasons.txt""
                         {
                             for (int yy = -range; yy <= range; yy++)
                             {
-                                int gx = x / RegionGridSize;
-                                int gy = y / RegionGridSize;
+                                int gx = x / this.RegionGridSize;
+                                int gy = y / this.RegionGridSize;
 
                                 int tx = xx + gx;
                                 int ty = yy + gy;
 
-                                if (Regions.ContainsKey(new Point(tx, ty)))
+                                if (this.Regions.ContainsKey(new Point(tx, ty)))
                                 {
-                                    var l = Regions[new Point(tx, ty)];
+                                    var l = this.Regions[new Point(tx, ty)];
 
                                     list.AddRange(l.Where(p => p.Owner != -1));
                                 }
-
-
                             }
                         }
 
                         if (list.Count > 1)
-                            break;
+                    {
+                        break;
+                    }
 
-                        range++;
+                    range++;
                     }
 
 
@@ -1148,27 +1232,25 @@ seasons = ""seasons.txt""
 
                     if (closest.Owner != -1)
                     {
-                   
-                        var col = colorMap[closest.Owner + 1];
-                        if (!colorProvinceMap.ContainsKey(col))
+                        var col = this.colorMap[closest.Owner + 1];
+                        if (!this.colorProvinceMap.ContainsKey(col))
                         {
                             var p = new Province();
                             p.Color = col;
                             p.isSea = bSea;
-                            colorProvinceMap[col] = p;
+                            this.colorProvinceMap[col] = p;
                             this.provinces.Add(p);
-                            
                         }
-                        colorProvinceMap[col].points.Add(new Point(x, y));
-                        provinces.SetPixel(x, y, col);
 
+                        this.colorProvinceMap[col].points.Add(new Point(x, y));
+                        provinces.SetPixel(x, y, col);
                     }
                 }
 
             if (!bSea)
             {
                 List<Point> choices = new List<Point>();
-                var pt = usePts.OrderBy(o => Rand.Next(10000000));
+                var pt = usePts.OrderBy(o => RandomIntHelper.Next(10000000));
                 for (int nn = 0; nn < 2; nn++)
                 {
                     foreach (var point in pt)
@@ -1183,25 +1265,27 @@ seasons = ""seasons.txt""
                             for (int yy = -1; yy <= 1; yy++)
                             {
                                 if (xx == 0 && yy == 0)
+                                {
                                     continue;
+                                }
 
                                 Color test = provinces.GetPixel(x + xx, y + yy);
                                 var p = new Point(x + xx, y + yy);
                                 if (test != use)
                                     if (usePts.Contains(p))
+                                    {
                                         choices.Add(p);
+                                    }
                             }
                         }
 
                         if (choices.Count == 1)
                         {
-                            Point p = choices[Rand.Next(choices.Count)];
-                            colorProvinceMap[provinces.GetPixel(p.X, p.Y)].points.Remove(p);
+                            Point p = choices[RandomIntHelper.Next(choices.Count)];
+                            this.colorProvinceMap[provinces.GetPixel(p.X, p.Y)].points.Remove(p);
                             provinces.SetPixel(p.X, p.Y, use);
-                            colorProvinceMap[use].points.Add(p);
-
+                            this.colorProvinceMap[use].points.Add(p);
                         }
-
                     }
                 }
 
@@ -1218,27 +1302,30 @@ seasons = ""seasons.txt""
                         for (int yy = -1; yy <= 1; yy++)
                         {
                             if (xx == 0 && yy == 0)
+                            {
                                 continue;
+                            }
 
                             Color test = provinces.GetPixel(x + xx, y + yy);
                             var p = new Point(x + xx, y + yy);
                             if (test != use)
                                 if (usePts.Contains(p))
+                                {
                                     choicesc.Add(test);
+                                }
                         }
                     }
 
                     if (choices.Count >= 7)
                     {
-                        Color p = choicesc[Rand.Next(choicesc.Count)];
-                        colorProvinceMap[provinces.GetPixel(x, y)].points.Remove(new Point(x, y));
+                        Color p = choicesc[RandomIntHelper.Next(choicesc.Count)];
+                        this.colorProvinceMap[provinces.GetPixel(x, y)].points.Remove(new Point(x, y));
                         provinces.SetPixel(x, y, p);
-                        colorProvinceMap[p].points.Add(new Point(x, y));
+                        this.colorProvinceMap[p].points.Add(new Point(x, y));
                     }
-
                 }
             }
-           
+
             #endregion
         }
     }

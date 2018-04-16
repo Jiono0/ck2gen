@@ -1,15 +1,15 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Drawing;
-using System.Diagnostics;
-using CrusaderKingsStoryGen;
-using LibNoise.Modfiers;
+// <copyright file="AbstractFloodFiller.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace FloodFill2
 {
+    using System.Diagnostics;
+    using System.Drawing;
+    using LibNoise.Modfiers;
+
     /// <summary>
-    /// 
+    ///
     /// </summary>
     /// <param name="x"></param>
     /// <param name="y"></param>
@@ -21,7 +21,6 @@ namespace FloodFill2
     /// </summary>
     public abstract class AbstractFloodFiller
     {
-
         protected LockBitmap bitmap;
         protected byte[] tolerance = new byte[] { 0, 0, 0 };
         protected Color fillColor = Color.Magenta;
@@ -48,7 +47,6 @@ namespace FloodFill2
 
         public AbstractFloodFiller()
         {
-
         }
 
         public AbstractFloodFiller(AbstractFloodFiller configSource)
@@ -65,53 +63,54 @@ namespace FloodFill2
 
         public bool Slow
         {
-            get { return slow; }
-            set { slow = value; }
+            get { return this.slow; }
+            set { this.slow = value; }
         }
 
         public Color FillColor
         {
-            get { return fillColor; }
-            set { fillColor = value; }
+            get { return this.fillColor; }
+            set { this.fillColor = value; }
         }
 
         public bool FillDiagonally
         {
-            get { return fillDiagonally; }
-            set { fillDiagonally = value; }
+            get { return this.fillDiagonally; }
+            set { this.fillDiagonally = value; }
         }
 
         public byte[] Tolerance
         {
-            get { return tolerance; }
-            set { tolerance = value; }
+            get { return this.tolerance; }
+            set { this.tolerance = value; }
         }
 
         public LockBitmap Bitmap
         {
-            get { return bitmap; }
-            set 
-            { 
-                bitmap = value;
+            get { return this.bitmap; }
+
+            set
+            {
+                this.bitmap = value;
             }
         }
 
         public abstract void FloodFill(Point pt);
 
         protected void PrepareForFloodFill(Point pt)
-        {   
+        {
             //cache data in member variables to decrease overhead of property calls
             //this is especially important with Width and Height, as they call
-            //GdipGetImageWidth() and GdipGetImageHeight() respectively in gdiplus.dll - 
+            //GdipGetImageWidth() and GdipGetImageHeight() respectively in gdiplus.dll -
             //which means major overhead.
-            byteFillColor = new byte[] { fillColor.B, fillColor.G, fillColor.R };
-            bitmapStride=bitmap.Stride;
-            bitmapPixelFormatSize=bitmap.Depth/8;
-          
-            bitmapWidth = bitmap.Width;
-            bitmapHeight = bitmap.Height;
+            this.byteFillColor = new byte[] { this.fillColor.B, this.fillColor.G, this.fillColor.R };
+            this.bitmapStride=this.bitmap.Stride;
+            this.bitmapPixelFormatSize=this.bitmap.Depth/8;
 
-            pixelsChecked = new bool[(bitmap.Width* bitmap.Height)];
+            this.bitmapWidth = this.bitmap.Width;
+            this.bitmapHeight = this.bitmap.Height;
+
+            this.pixelsChecked = new bool[(this.bitmap.Width* this.bitmap.Height)];
         }
     }
 }

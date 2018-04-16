@@ -1,7 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Runtime.InteropServices;
+// <copyright file="QueueLinearFloodFiller.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace FloodFill2
 {
@@ -10,7 +9,6 @@ namespace FloodFill2
     /// </summary>
     public class QueueLinearFloodFiller : AbstractFloodFiller
     {
-
         //Queue of floodfill ranges. We use our own class to increase performance.
         //To use .NET Queue class, change this to:
         //<FloodFillRange> ranges = new Queue<FloodFillRange>();
@@ -24,33 +22,33 @@ namespace FloodFill2
         /// <param name="pt">The starting point for the fill.</param>
         public override void FloodFill(System.Drawing.Point pt)
         {
-            watch.Reset();
-            watch.Start();
+            this.watch.Reset();
+            this.watch.Start();
 
             //***Prepare for fill.
-            PrepareForFloodFill(pt);
+            this.PrepareForFloodFill(pt);
 
-            ranges = new FloodFillRangeQueue(((bitmapWidth+bitmapHeight)/2)*5);//new Queue<FloodFillRange>();
+            this.ranges = new FloodFillRangeQueue(((this.bitmapWidth+this.bitmapHeight)/2)*5);//new Queue<FloodFillRange>();
 
             //***Get starting color.
             int x = pt.X; int y = pt.Y;
-            int idx = CoordsToByteIndex(ref x, ref y);
-            startColor = new byte[] { bitmap.Pixels[idx], bitmap.Pixels[idx + 1], bitmap.Pixels[idx + 2] };
-            
+            int idx = this.CoordsToByteIndex(ref x, ref y);
+            this.startColor = new byte[] { this.bitmap.Pixels[idx], this.bitmap.Pixels[idx + 1], this.bitmap.Pixels[idx + 2] };
+
             bool[] pixelsChecked=this.pixelsChecked;
 
             //***Do first call to floodfill.
-            LinearFill(ref x, ref y);
+            this.LinearFill(ref x, ref y);
 
             //***Call floodfill routine while floodfill ranges still exist on the queue
-            while (ranges.Count > 0)
+            while (this.ranges.Count > 0)
             {
                 //**Get Next Range Off the Queue
-                FloodFillRange range = ranges.Dequeue();
+                FloodFillRange range = this.ranges.Dequeue();
 
 	            //**Check Above and Below Each Pixel in the Floodfill Range
-                int downPxIdx = (bitmapWidth * (range.Y + 1)) + range.StartX;//CoordsToPixelIndex(lFillLoc,y+1);
-                int upPxIdx = (bitmapWidth * (range.Y - 1)) + range.StartX;//CoordsToPixelIndex(lFillLoc, y - 1);
+                int downPxIdx = (this.bitmapWidth * (range.Y + 1)) + range.StartX;//CoordsToPixelIndex(lFillLoc,y+1);
+                int upPxIdx = (this.bitmapWidth * (range.Y - 1)) + range.StartX;//CoordsToPixelIndex(lFillLoc, y - 1);
                 int upY=range.Y - 1;//so we can pass the y coord by ref
                 int downY = range.Y + 1;
                 int tempIdx;
@@ -58,22 +56,26 @@ namespace FloodFill2
                 {
                     //*Start Fill Upwards
                     //if we're not above the top of the bitmap and the pixel above this one is within the color tolerance
-                    tempIdx = CoordsToByteIndex(ref i, ref upY);
-                    if (range.Y > 0 && (!pixelsChecked[upPxIdx]) && CheckPixel(ref tempIdx))
-                        LinearFill(ref i, ref upY);
-                    
+                    tempIdx = this.CoordsToByteIndex(ref i, ref upY);
+                    if (range.Y > 0 && (!pixelsChecked[upPxIdx]) && this.CheckPixel(ref tempIdx))
+                    {
+                        this.LinearFill(ref i, ref upY);
+                    }
+
                     //*Start Fill Downwards
                     //if we're not below the bottom of the bitmap and the pixel below this one is within the color tolerance
-                    tempIdx = CoordsToByteIndex(ref i, ref downY);
-                    if (range.Y < (bitmapHeight - 1) && (!pixelsChecked[downPxIdx]) && CheckPixel(ref tempIdx))
-                        LinearFill(ref i, ref downY);
+                    tempIdx = this.CoordsToByteIndex(ref i, ref downY);
+                    if (range.Y < (this.bitmapHeight - 1) && (!pixelsChecked[downPxIdx]) && this.CheckPixel(ref tempIdx))
+                    {
+                        this.LinearFill(ref i, ref downY);
+                    }
+
                     downPxIdx++;
                     upPxIdx++;
                 }
-                
             }
 
-            watch.Stop();
+            this.watch.Stop();
         }
 
        /// <summary>
@@ -86,7 +88,6 @@ namespace FloodFill2
        /// <param name="y">The y coordinate to check at.</param>
        void LinearFill(ref int x, ref int y)
         {
-            
            //cache some bitmap and fill info in local variables for a little extra speed
            byte[] bitmapBits=this.bitmapBits;
            bool[] pixelsChecked=this.pixelsChecked;
@@ -96,7 +97,7 @@ namespace FloodFill2
 
             //***Find Left Edge of Color Area
             int lFillLoc = x; //the location to check/fill on the left
-            int idx = CoordsToByteIndex(ref x, ref y); //the byte index of the current location
+            int idx = this.CoordsToByteIndex(ref x, ref y); //the byte index of the current location
             int pxIdx = (bitmapWidth * y) + x;//CoordsToPixelIndex(x,y);
             while (true)
             {
@@ -107,21 +108,26 @@ namespace FloodFill2
                 //**indicate that this pixel has already been checked and filled
                 pixelsChecked[pxIdx] = true;
                 //**screen update for 'slow' fill
-                if (slow) UpdateScreen(ref lFillLoc, ref y);
+                if (this.slow)
+                {
+                    this.UpdateScreen(ref lFillLoc, ref y);
+                }
                 //**de-increment
                 lFillLoc--;     //de-increment counter
                 pxIdx--;        //de-increment pixel index
                 idx -= bitmapPixelFormatSize;//de-increment byte index
                 //**exit loop if we're at edge of bitmap or color area
-                if (lFillLoc <= 0 || (pixelsChecked[pxIdx]) || !CheckPixel(ref idx))
+                if (lFillLoc <= 0 || (pixelsChecked[pxIdx]) || !this.CheckPixel(ref idx))
+                {
                     break;
-
+                }
             }
+
             lFillLoc++;
 
             //***Find Right Edge of Color Area
             int rFillLoc = x; //the location to check/fill on the left
-            idx = CoordsToByteIndex(ref x, ref y);
+            idx = this.CoordsToByteIndex(ref x, ref y);
             pxIdx = (bitmapWidth * y) + x;
             while (true)
             {
@@ -132,21 +138,26 @@ namespace FloodFill2
                 //**indicate that this pixel has already been checked and filled
                 pixelsChecked[pxIdx] = true;
                 //**screen update for 'slow' fill
-                if (slow) UpdateScreen(ref rFillLoc, ref y);
+                if (this.slow)
+                {
+                    this.UpdateScreen(ref rFillLoc, ref y);
+                }
                 //**increment
                 rFillLoc++;     //increment counter
                 pxIdx++;        //increment pixel index
                 idx += bitmapPixelFormatSize;//increment byte index
                 //**exit loop if we're at edge of bitmap or color area
-                if (rFillLoc >= bitmapWidth || pixelsChecked[pxIdx] || !CheckPixel(ref idx))
+                if (rFillLoc >= bitmapWidth || pixelsChecked[pxIdx] || !this.CheckPixel(ref idx))
+                {
                     break;
-
+                }
             }
+
             rFillLoc--;
 
            //add range to queue
            FloodFillRange r = new FloodFillRange(lFillLoc, rFillLoc, y);
-           ranges.Enqueue(ref r);
+           this.ranges.Enqueue(ref r);
         }
 
         ///<summary>Sees if a pixel is within the color tolerance range.</summary>
@@ -161,10 +172,10 @@ namespace FloodFill2
                 px++;
             }
             return ret;*/
-            
-            return (bitmapBits[px] >= (startColor[0] - tolerance[0])) && bitmapBits[px] <= (startColor[0] + tolerance[0]) &&
-                (bitmapBits[px + 1] >= (startColor[1] - tolerance[1])) && bitmapBits[px + 1] <= (startColor[1] + tolerance[1]) &&
-                (bitmapBits[px + 2] >= (startColor[2] - tolerance[2])) && bitmapBits[px + 2] <= (startColor[2] + tolerance[2]);
+
+            return (this.bitmapBits[px] >= (this.startColor[0] - this.tolerance[0])) && this.bitmapBits[px] <= (this.startColor[0] + this.tolerance[0]) &&
+                (this.bitmapBits[px + 1] >= (this.startColor[1] - this.tolerance[1])) && this.bitmapBits[px + 1] <= (this.startColor[1] + this.tolerance[1]) &&
+                (this.bitmapBits[px + 2] >= (this.startColor[2] - this.tolerance[2])) && this.bitmapBits[px + 2] <= (this.startColor[2] + this.tolerance[2]);
         }
 
         ///<summary>Calculates and returns the byte index for the pixel (x,y).</summary>
@@ -172,7 +183,7 @@ namespace FloodFill2
         ///<param name="y">The y coordinate of the pixel whose byte index should be returned.</param>
         protected int CoordsToByteIndex(ref int x, ref int y)
         {
-            return (bitmapStride * y) + (x * bitmapPixelFormatSize);
+            return (this.bitmapStride * y) + (x * this.bitmapPixelFormatSize);
         }
 
         /// <summary>
@@ -183,9 +194,8 @@ namespace FloodFill2
         /// <returns></returns>
         protected int CoordsToPixelIndex(int x, int y)
         {
-            return (bitmapWidth * y) + x;
+            return (this.bitmapWidth * y) + x;
         }
-
     }
 
     /// <summary>
@@ -199,9 +209,9 @@ namespace FloodFill2
 
         public FloodFillRange(int startX, int endX, int y)
         {
-            StartX=startX;
-            EndX = endX;
-            Y = y;
+            this.StartX=startX;
+            this.EndX = endX;
+            this.Y = y;
         }
     }
 }

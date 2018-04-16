@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// <copyright file="Noise.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace CrusaderKingsStoryGen.MapGen
 {
+    using System;
+
     public class NoiseGenerator
     {
         public int Seed { get; private set; }
@@ -17,30 +17,31 @@ namespace CrusaderKingsStoryGen.MapGen
         public double Persistence { get; set; }
 
         public double FrequencyX { get; set; }
+
         public double FrequencyY { get; set; }
 
         public NoiseGenerator(int seed)
         {
             Random r = new Random(seed);
             //LOOOL
-            Seed = Rand.Next(Int32.MaxValue);
-            Octaves = 8;
-            Amplitude = 1;
-            FrequencyX = 0.015;
-            FrequencyY = 0.015;
-            Persistence = 0.65;
+            this.Seed = RandomIntHelper.Next(int.MaxValue);
+            this.Octaves = 8;
+            this.Amplitude = 1;
+            this.FrequencyX = 0.015;
+            this.FrequencyY = 0.015;
+            this.Persistence = 0.65;
         }
 
         public NoiseGenerator()
         {
             Random r = new Random();
             //LOOOL
-            Seed = Rand.Next(Int32.MaxValue);
-            Octaves = 8;
-            Amplitude = 1;
-            FrequencyX = 0.015;
-            FrequencyY = 0.015;
-            Persistence = 0.65;
+            this.Seed = RandomIntHelper.Next(int.MaxValue);
+            this.Octaves = 8;
+            this.Amplitude = 1;
+            this.FrequencyX = 0.015;
+            this.FrequencyY = 0.015;
+            this.Persistence = 0.65;
         }
 
         public double Noise(double x, double y)
@@ -48,35 +49,50 @@ namespace CrusaderKingsStoryGen.MapGen
             y *= 1.5f;
             //returns -1 to 1
             double total = 0.0;
-            double freqx = FrequencyX, amp = Amplitude, freqy = FrequencyY;
-            for (int i = 0; i < Octaves; ++i)
+            double freqx = this.FrequencyX, amp = this.Amplitude, freqy = this.FrequencyY;
+            for (int i = 0; i < this.Octaves; ++i)
             {
-                total = total + Smooth(x * freqx, y * freqy) * amp;
+                total = total + this.Smooth(x * freqx, y * freqy) * amp;
                 freqx *= 2;
                 freqy *= 2;
-                amp *= Persistence;
+                amp *= this.Persistence;
             }
-            if (total < -2.4) total = -2.4;
-            else if (total > 2.4) total = 2.4;
+
+            if (total < -2.4)
+            {
+                total = -2.4;
+            }
+            else if (total > 2.4)
+            {
+                total = 2.4;
+            }
 
             return ((total / 2.4) / 2.0f) + 0.5f;
         }
+
         public double Noise(double x, double y, float mul)
         {
             //returns -1 to 1
             double total = 0.0;
-            double freqx = FrequencyX, amp = Amplitude, freqy = FrequencyY;
-            for (int i = 0; i < Octaves; ++i)
+            double freqx = this.FrequencyX, amp = this.Amplitude, freqy = this.FrequencyY;
+            for (int i = 0; i < this.Octaves; ++i)
             {
-                total = total + Smooth(x * freqx, y * freqy) * amp;
+                total = total + this.Smooth(x * freqx, y * freqy) * amp;
                 freqx *= 2;
                 freqy *= 2;
                 x *= mul;
                 y *= mul;
-                amp *= Persistence;
+                amp *= this.Persistence;
             }
-            if (total < -2.4) total = -2.4;
-            else if (total > 2.4) total = 2.4;
+
+            if (total < -2.4)
+            {
+                total = -2.4;
+            }
+            else if (total > 2.4)
+            {
+                total = 2.4;
+            }
 
             return (total / 2.4);
         }
@@ -86,7 +102,7 @@ namespace CrusaderKingsStoryGen.MapGen
             int n = x + y * 57;
             n = (n << 13) ^ n;
 
-            return (1.0 - ((n * (n * n * 15731 + 789221) + Seed) & 0x7fffffff) / 1073741824.0);
+            return (1.0 - ((n * (n * n * 15731 + 789221) + this.Seed) & 0x7fffffff) / 1073741824.0);
         }
 
         private double Interpolate(double x, double y, double a)
@@ -99,19 +115,19 @@ namespace CrusaderKingsStoryGen.MapGen
         {
             double ox = x;
             double oy = y;
-            x *= Mul;
-            y *= Mul;
-            double n1 = NoiseGeneration((int)x, (int)y);
-            double n2 = NoiseGeneration((int)x + 1, (int)y);
-            double n3 = NoiseGeneration((int)x, (int)y + 1);
-            double n4 = NoiseGeneration((int)x + 1, (int)y + 1);
+            x *= this.Mul;
+            y *= this.Mul;
+            double n1 = this.NoiseGeneration((int)x, (int)y);
+            double n2 = this.NoiseGeneration((int)x + 1, (int)y);
+            double n3 = this.NoiseGeneration((int)x, (int)y + 1);
+            double n4 = this.NoiseGeneration((int)x + 1, (int)y + 1);
 
-            double i1 = Interpolate(n1, n2, x - (int)x);
-            double i2 = Interpolate(n3, n4, x - (int)x);
+            double i1 = this.Interpolate(n1, n2, x - (int)x);
+            double i2 = this.Interpolate(n3, n4, x - (int)x);
 
 
 
-            return Interpolate(i1, i2, y - (int)y);
+            return this.Interpolate(i1, i2, y - (int)y);
         }
 
         public double Mul = 512;

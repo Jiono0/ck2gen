@@ -1,22 +1,25 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿// <copyright file="Triangle.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
-namespace csDelaunay {
+namespace csDelaunay
+{
+    using System.Collections.Generic;
 
-	public class Triangle {
-
+    public class Triangle {
 		private List<Site> sites;
-		public List<Site> Sites {get{return sites;}}
+
+		public List<Site> Sites {get{return this.sites;}}
 
 		public Triangle(Site a, Site b, Site c) {
-			sites = new List<Site>();
-			sites.Add(a);
-			sites.Add(b);
-			sites.Add(c);
+			this.sites = new List<Site>();
+			this.sites.Add(a);
+			this.sites.Add(b);
+			this.sites.Add(c);
 		}
 
 		public void Dispose() {
-			sites.Clear();
+			this.sites.Clear();
 		}
 	}
 }
