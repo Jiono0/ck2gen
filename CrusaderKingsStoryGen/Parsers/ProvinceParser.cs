@@ -438,11 +438,6 @@ namespace CrusaderKingsStoryGen.Parsers
             }
         }
 
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
-
         public List<ProvinceParser> Adjacent = new List<ProvinceParser>();
 
         public void AddAdjacent(ProvinceParser prov)

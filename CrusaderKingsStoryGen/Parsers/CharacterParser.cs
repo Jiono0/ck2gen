@@ -2268,11 +2268,6 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public bool TickDisable { get; set; }
 
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
-
         private void RemoveDeathDates(ScriptScope scope)
         {
             //     foreach (var child in scope.Children)

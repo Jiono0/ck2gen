@@ -17,7 +17,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public string LanguageName { get; set; }
 
-        public StringManipulationHelper dna { get; set; }
+        public KingdomHelper dna { get; set; }
 
         public List<Dynasty> Dynasties = new List<Dynasty>();
         private bool dirty = true;
@@ -111,11 +111,6 @@ namespace CrusaderKingsStoryGen.Parsers
             this.group = group;
         }
 
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
-
         public void Init()
         {
             if (this.Name == "kedaras")
@@ -199,7 +194,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public void DoDetailsForCulture()
         {
-            this.dna.culture = this;
+            dna.culture = this;
             if (this.dna.portraitPool.Count == 0)
             {
                 int c = 1;
@@ -295,8 +290,8 @@ namespace CrusaderKingsStoryGen.Parsers
             List<string> maleNameBlockSet;//= new List<string>();
             List<string> femaleNameBlockSet;//= new List<string>();
 
-            maleNameBlockSet = this.dna.maleNameBlockSet;
-            femaleNameBlockSet = this.dna.femaleNameBlockSet;
+            maleNameBlockSet = dna.maleNameBlockSet;
+            femaleNameBlockSet = dna.femaleNameBlockSet;
 
             this.Scope.Clear();
             var portrait = this.dna.portraitPool[0];

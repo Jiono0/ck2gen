@@ -114,11 +114,6 @@ namespace CrusaderKingsStoryGen.Parsers
             return tot;
         }
 
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
-
         public ReligionParser BranchReligion(string name)
         {
             ScriptScope scope = new ScriptScope();

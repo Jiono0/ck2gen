@@ -4,8 +4,9 @@
 
 namespace CrusaderKingsStoryGen.Parsers
 {
-    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class EventParser : Parser
     {
@@ -56,10 +57,5 @@ namespace CrusaderKingsStoryGen.Parsers
         public ScriptScope Trigger { get; set; }
 
         public ScriptScope MeanTime { get; set; }
-
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
     }
 }

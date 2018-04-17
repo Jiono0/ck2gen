@@ -1163,11 +1163,6 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public List<TitleParser> Wars = new List<TitleParser>();
 
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
-
         public void Remove()
         {
             this.Scope.Parent.Remove(this.Scope);

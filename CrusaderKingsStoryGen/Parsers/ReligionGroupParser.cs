@@ -44,11 +44,6 @@ namespace CrusaderKingsStoryGen.Parsers
             }
         }
 
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
-
         public void RemoveReligion(string name)
         {
             var r = ReligionManager.instance.ReligionMap[name];
