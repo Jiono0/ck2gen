@@ -1,12 +1,12 @@
-﻿using CrusaderKingsStoryGen.Helpers;
-using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.IO;
-using System.Xml;
-
-namespace CrusaderKingsStoryGen.ScriptHelpers
+﻿namespace CrusaderKingsStoryGen.ScriptHelpers
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Drawing;
+    using System.IO;
+    using System.Xml;
+    using CrusaderKingsStoryGen.Helpers;
+
     public class ScriptScope
     {
         public bool FromVanilla { get; set; } = false;

@@ -4,13 +4,13 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Xml;
     using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.Interfaces;
     using CrusaderKingsStoryGen.Parsers;
     using CrusaderKingsStoryGen.ScriptHelpers;
-    using System;
-    using System.Collections.Generic;
-    using System.Xml;
 
     internal class CharacterManager : ISerializeXml
     {

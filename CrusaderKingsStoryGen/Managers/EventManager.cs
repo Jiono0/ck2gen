@@ -4,11 +4,11 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using CrusaderKingsStoryGen.Parsers;
-    using CrusaderKingsStoryGen.ScriptHelpers;
     using System;
     using System.Collections.Generic;
     using System.IO;
+    using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class EventNamespace
     {

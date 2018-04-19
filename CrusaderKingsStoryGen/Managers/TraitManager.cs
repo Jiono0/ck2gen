@@ -4,11 +4,11 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
+    using System.Collections.Generic;
+    using System.IO;
     using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.Parsers;
     using CrusaderKingsStoryGen.ScriptHelpers;
-    using System.Collections.Generic;
-    using System.IO;
 
     class TraitManager
     {

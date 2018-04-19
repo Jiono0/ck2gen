@@ -4,10 +4,10 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class DecisionManager
     {

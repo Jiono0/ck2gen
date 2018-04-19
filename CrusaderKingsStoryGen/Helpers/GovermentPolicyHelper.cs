@@ -4,10 +4,10 @@
 
 namespace CrusaderKingsStoryGen.Helpers
 {
-    using CrusaderKingsStoryGen.Managers;
-    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.Drawing;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     public class GovermentPolicyHelper
     {

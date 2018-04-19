@@ -4,10 +4,10 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
-    using CrusaderKingsStoryGen.Helpers;
-    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
     using System.IO;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class Module
     {

@@ -4,13 +4,13 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
     using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.Models;
     using CrusaderKingsStoryGen.Parsers;
     using CrusaderKingsStoryGen.ScriptHelpers;
-    using System;
-    using System.Collections.Generic;
-    using System.IO;
 
     public class SocietyManager
     {

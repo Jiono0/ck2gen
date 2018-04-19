@@ -4,9 +4,9 @@
 
 namespace CrusaderKingsStoryGen.Managers
 {
+    using System.Collections.Generic;
     using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.ScriptHelpers;
-    using System.Collections.Generic;
 
     internal class CulturalDnaManager
     {

@@ -4,9 +4,9 @@
 
 namespace CrusaderKingsStoryGen.Helpers
 {
-    using CrusaderKingsStoryGen.Managers;
     using System.Collections.Generic;
     using System.IO;
+    using CrusaderKingsStoryGen.Managers;
 
     public class EventLogHelper
     {

@@ -1,13 +1,13 @@
-﻿using CrusaderKingsStoryGen.Helpers;
-using CrusaderKingsStoryGen.Managers;
-using CrusaderKingsStoryGen.ScriptHelpers;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Windows.Forms;
-
-namespace CrusaderKingsStoryGen.Parsers
+﻿namespace CrusaderKingsStoryGen.Parsers
 {
+    using System.Collections.Generic;
+    using System.Drawing;
+    using System.Linq;
+    using System.Windows.Forms;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
+
     public class CultureGroupParser : Parser
     {
         public List<CultureParser> Cultures = new List<CultureParser>();

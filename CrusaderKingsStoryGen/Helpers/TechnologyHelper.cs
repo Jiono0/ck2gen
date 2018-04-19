@@ -4,8 +4,8 @@
 
 namespace CrusaderKingsStoryGen.Helpers
 {
-    using CrusaderKingsStoryGen.ScriptHelpers;
     using System.Collections.Generic;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class TechnologyHelper
     {

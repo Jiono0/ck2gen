@@ -1,14 +1,14 @@
-﻿using CrusaderKingsStoryGen.Helpers;
-using CrusaderKingsStoryGen.Managers;
-using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Text;
-
-namespace CrusaderKingsStoryGen.ScriptHelpers
+﻿namespace CrusaderKingsStoryGen.ScriptHelpers
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Drawing;
+    using System.IO;
+    using System.Linq;
+    using System.Text;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Managers;
+
     public class ScriptLoader
     {
         public static ScriptLoader instance = new ScriptLoader();

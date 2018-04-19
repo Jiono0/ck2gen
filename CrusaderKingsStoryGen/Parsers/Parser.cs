@@ -4,11 +4,11 @@
 
 namespace CrusaderKingsStoryGen.Parsers
 {
-    using CrusaderKingsStoryGen.ScriptHelpers;
     using System;
     using System.Collections.Generic;
     using System.Drawing;
     using System.Xml;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     public class Parser
     {

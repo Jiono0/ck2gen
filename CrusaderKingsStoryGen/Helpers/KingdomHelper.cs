@@ -4,12 +4,12 @@
 
 namespace CrusaderKingsStoryGen.Helpers
 {
-    using CrusaderKingsStoryGen.Managers;
-    using CrusaderKingsStoryGen.Parsers;
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.Parsers;
 
     public class KingdomHelper
     {
