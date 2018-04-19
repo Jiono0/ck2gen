@@ -17,12 +17,12 @@ public struct Rectf {
 
 	public float left {
 		get {
-			return this.x;}
+			return this.x; }
 	}
 
 	public float right {
 		get {
-			return this.x+this.width;
+			return this.x + this.width;
 		}
 	}
 
@@ -34,7 +34,7 @@ public struct Rectf {
 
 	public float bottom {
 		get {
-			return this.y+this.height;
+			return this.y + this.height;
 		}
 	}
 

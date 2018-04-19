@@ -356,7 +356,7 @@ namespace CrusaderKingsStoryGen.MapGen
 
                         var sp = line.Split(';');
 
-                        int id = idd++;//Convert.ToInt32(sp[0]);
+                        int id = idd++; //Convert.ToInt32(sp[0]);
                         int r = Convert.ToInt32(sp[1]);
                         int g = Convert.ToInt32(sp[2]);
                         int b = Convert.ToInt32(sp[3]);
@@ -411,7 +411,7 @@ namespace CrusaderKingsStoryGen.MapGen
         private int numTerritories = 1500;
         private const int maxPointsPerTerritory = 25;
         private const int minPointsPerTerritory = 8;
-        private int numPoints = 0;// numTerritories * 20;
+        private int numPoints = 0; // numTerritories * 20;
 
         private int seaStart = 0;
 
@@ -544,7 +544,7 @@ namespace CrusaderKingsStoryGen.MapGen
             for (int n = 0; n < numTerritories; n++)
             {
                 TerritoryPoint initialPoint = null;
-                int i = 0;//rand.Next(points.Count());
+                int i = 0; //rand.Next(points.Count());
                 while (initialPoint == null)
                 {
                     i = RandomIntHelper.Next(origPoints.Count());

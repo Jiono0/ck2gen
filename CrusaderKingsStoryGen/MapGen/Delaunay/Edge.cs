@@ -31,16 +31,16 @@ namespace csDelaunay
 			dy = s1.y - s0.y;
 			absdx = dx > 0 ? dx : -dx;
 			absdy = dy > 0 ? dy : -dy;
-			c = s0.x * dx + s0.y * dy + (dx*dx + dy*dy) * 0.5f;
+			c = s0.x * dx + s0.y * dy + (dx * dx + dy * dy) * 0.5f;
 
 			if (absdx > absdy) {
 				a = 1;
-				b = dy/dx;
+				b = dy / dx;
 				c /= dx;
 			} else {
 				b = 1;
-				a = dx/dy;
-				c/= dy;
+				a = dx / dy;
+				c /= dy;
 			}
 
 			Edge edge = Edge.Create();
@@ -98,11 +98,11 @@ namespace csDelaunay
 		// The two Voronoi vertices that the edge connects (if one of them is null, the edge extends to infinity)
 		private Vertex leftVertex;
 
-		public Vertex LeftVertex {get{return this.leftVertex;}}
+		public Vertex LeftVertex {get{return this.leftVertex; }}
 
 		private Vertex rightVertex;
 
-		public Vertex RightVertex {get{return this.rightVertex;}}
+		public Vertex RightVertex {get{return this.rightVertex; }}
 
 		public Vertex Vertex(LR leftRight) {
 			return leftRight == LR.LEFT ? this.leftVertex : this.rightVertex;
@@ -146,7 +146,7 @@ namespace csDelaunay
 		// representing the clipped coordinates of the left and the right ends...
 		private Dictionary<LR, Vector2f> clippedVertices;
 
-		public Dictionary<LR, Vector2f> ClippedEnds {get{return this.clippedVertices;}}
+		public Dictionary<LR, Vector2f> ClippedEnds {get{return this.clippedVertices; }}
 
 		// Unless the entire Edge is outside the bounds.
 		// In that case visible will be false:
@@ -157,9 +157,9 @@ namespace csDelaunay
 		// The two input Sites for which this Edge is a bisector:
 		private Dictionary<LR, Site> sites;
 
-		public Site LeftSite {get{return this.sites[LR.LEFT];} set{this.sites[LR.LEFT]=value;}}
+		public Site LeftSite {get{return this.sites[LR.LEFT]; } set{this.sites[LR.LEFT] = value; }}
 
-		public Site RightSite {get{return this.sites[LR.RIGHT];} set{this.sites[LR.RIGHT]=value;}}
+		public Site RightSite {get{return this.sites[LR.RIGHT]; } set{this.sites[LR.RIGHT] = value; }}
 
 		public Site Site(LR leftRight) {
 			return this.sites[leftRight];
@@ -167,7 +167,7 @@ namespace csDelaunay
 
 		private int edgeIndex;
 
-		public int EdgeIndex {get{return this.edgeIndex;}}
+		public int EdgeIndex {get{return this.edgeIndex; }}
 
 		public void Dispose() {
 			this.leftVertex = null;
@@ -251,18 +251,18 @@ namespace csDelaunay
 
 				if (x0 > xmax) {
 					x0 = xmax;
-					y0 = (this.c - x0)/this.b;
+					y0 = (this.c - x0) / this.b;
 				} else if (x0 < xmin) {
 					x0 = xmin;
-					y0 = (this.c - x0)/this.b;
+					y0 = (this.c - x0) / this.b;
 				}
 
 				if (x1 > xmax) {
 					x1 = xmax;
-					y1 = (this.c - x1)/this.b;
+					y1 = (this.c - x1) / this.b;
 				} else if (x1 < xmin) {
 					x1 = xmin;
-					y1 = (this.c - x1)/this.b;
+					y1 = (this.c - x1) / this.b;
 				}
 			} else {
 				x0 = xmin;
@@ -293,18 +293,18 @@ namespace csDelaunay
 
 				if (y0 > ymax) {
 					y0 = ymax;
-					x0 = (this.c - y0)/this.a;
+					x0 = (this.c - y0) / this.a;
 				} else if (y0 < ymin) {
 					y0 = ymin;
-					x0 = (this.c - y0)/this.a;
+					x0 = (this.c - y0) / this.a;
 				}
 
 				if (y1 > ymax) {
 					y1 = ymax;
-					x1 = (this.c - y1)/this.a;
+					x1 = (this.c - y1) / this.a;
 				} else if (y1 < ymin) {
 					y1 = ymin;
-					x1 = (this.c - y1)/this.a;
+					x1 = (this.c - y1) / this.a;
 				}
 			}
 

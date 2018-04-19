@@ -11,9 +11,9 @@ namespace csDelaunay
 		private List<Edge> edges;
 		private List<LR> edgeOrientations;
 
-		public List<Edge> Edges {get{return this.edges;}}
+		public List<Edge> Edges {get{return this.edges; }}
 
-		public List<LR> EdgeOrientations {get{return this.edgeOrientations;}}
+		public List<LR> EdgeOrientations {get{return this.edgeOrientations; }}
 
 		public EdgeReorderer(List<Edge> origEdges, Type criterion) {
 			this.edges = new List<Edge>();

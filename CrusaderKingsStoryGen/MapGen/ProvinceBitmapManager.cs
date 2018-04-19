@@ -70,7 +70,7 @@ namespace CrusaderKingsStoryGen.MapGen
             generatedMap.MoistureMap.LockBits();
             generatedMap.HeatMap.LockBits();
             SolidBrush br = new SolidBrush(Color.Black);
-            using(Graphics gg = Graphics.FromImage(bmp.Source))
+            using (Graphics gg = Graphics.FromImage(bmp.Source))
                 for (int x = 0; x < generatedMap.Map.Width; x++)
                 {
                     for (int y = 0; y < generatedMap.Map.Height; y++)
@@ -91,8 +91,8 @@ namespace CrusaderKingsStoryGen.MapGen
             {
                 for (int y = 0; y < generatedMap.Map.Height; y++)
                 {
-                    float heat = generatedMap.HeatMap.GetHeight(x, y) / 255.0f;// + (Rand.Next(-30, 30) / 8000.0f);
-                    float moisture = generatedMap.MoistureMap.GetHeight(x/4, y/4) / 255.0f;// + (Rand.Next(-30, 30) / 8000.0f);
+                    float heat = generatedMap.HeatMap.GetHeight(x, y) / 255.0f; // + (Rand.Next(-30, 30) / 8000.0f);
+                    float moisture = generatedMap.MoistureMap.GetHeight(x / 4, y / 4) / 255.0f; // + (Rand.Next(-30, 30) / 8000.0f);
 
                     float no = (float)((float)((noiseH.Noise(x / DivNoise / 8, y / DivNoise / 8)) - 0.5f) * 0.2);
                     heat += no * 1.4f;
@@ -103,7 +103,7 @@ namespace CrusaderKingsStoryGen.MapGen
                     bool hot = heat > desertLevel;
                     bool dry = moisture <= desertDry;
 
-                    if (hot && dry && bmp2.GetPixel(x, y)== Color.FromArgb(255, 130, 158, 75))
+                    if (hot && dry && bmp2.GetPixel(x, y) == Color.FromArgb(255, 130, 158, 75))
                     {
                             gg.FillEllipse(br, new Rectangle(x - 5, y - 5, 10, 10));
                      }
@@ -169,10 +169,10 @@ namespace CrusaderKingsStoryGen.MapGen
                         }
 
                         {
-                            int numProvinces = (int) (filler.pts.Count / (3000));
+                            int numProvinces = (int)(filler.pts.Count / (3000));
                             if (pix == Color.FromArgb(255, 130, 158, 75))
                             {
-                                numProvinces = (int) (numProvinces * sizeDelta);
+                                numProvinces = (int)(numProvinces * sizeDelta);
                             }
 
                             if (numProvinces == 0)
@@ -260,7 +260,7 @@ namespace CrusaderKingsStoryGen.MapGen
                     continue;
                 }
 
-                if(provinceDetailse.isSea)
+                if (provinceDetailse.isSea)
                 {
                     this.ProvinceSea.Add(provinceDetailse);
                 }
@@ -331,7 +331,7 @@ namespace CrusaderKingsStoryGen.MapGen
                             var pixel2 = this.Bitmap.GetPixel(x + xx, y + yy);
                             if (pixel2.R == 0 && pixel2.G == 0 && pixel2.B == 0)
                             {
-                                provinceDetails.barrier.Add(new Point(x+xx, y+yy));
+                                provinceDetails.barrier.Add(new Point(x + xx, y + yy));
                             }
                             else
                             {
@@ -471,9 +471,9 @@ namespace CrusaderKingsStoryGen.MapGen
             {
                 provinces.Sort(this.SortByHeat);
 
-                int numHeavy = provinces.Count/7;
-               int numNormal = provinces.Count/6;
-                int numLight = provinces.Count/5;
+                int numHeavy = provinces.Count / 7;
+               int numNormal = provinces.Count / 6;
+                int numLight = provinces.Count / 5;
                 if (Globals.Climate == 3)
                 {
                     numHeavy /= 2;
@@ -610,7 +610,7 @@ namespace CrusaderKingsStoryGen.MapGen
                     max.Y -= c.Y / 3;
                     Rectangle rect = new Rectangle(min.X, min.Y, max.X - min.X, max.Y - min.Y);
                     var centre = provinceDetailse.points.Where(p => rect.Contains(p)).ToList();
-                    if(centre.Count==0)
+                    if (centre.Count == 0)
                     {
                         centre.AddRange(provinceDetailse.points);
                     }
@@ -1010,7 +1010,7 @@ seasons = ""seasons.txt""
 
                         var sp = line.Split(';');
 
-                        int id = idd++;//Convert.ToInt32(sp[0]);
+                        int id = idd++; //Convert.ToInt32(sp[0]);
                         int r = Convert.ToInt32(sp[1]);
                         int g = Convert.ToInt32(sp[2]);
                         int b = Convert.ToInt32(sp[3]);
@@ -1035,7 +1035,7 @@ seasons = ""seasons.txt""
             int numPoints = numProvinces * 50;
             if (bSea)
             {
-                numPoints = numProvinces*50;
+                numPoints = numProvinces * 50;
             }
 
             #region GenerateRandomPoints
@@ -1083,7 +1083,7 @@ seasons = ""seasons.txt""
 
             Voronoi v = new Voronoi(vpoints, new Rectf(0, 0, w, h), 0);
             var coords = v.SiteCoords();
-            coords = coords.Where(c => usePts.Contains(new Point((int) c.x, (int) c.y))).ToList();
+            coords = coords.Where(c => usePts.Contains(new Point((int)c.x, (int)c.y))).ToList();
             for (int n = 0; n < coords.Count; n++)
             {
                 TerritoryPoint newPoint = null;
@@ -1101,7 +1101,7 @@ seasons = ""seasons.txt""
 
             if (points.Count == 0)
             {
-                points.Add(new TerritoryPoint() {Position = usePts.OrderBy(o=>RandomIntHelper.Next(1000000)).First()});
+                points.Add(new TerritoryPoint() {Position = usePts.OrderBy(o => RandomIntHelper.Next(1000000)).First()});
             }
 
             #region GenerateTerritories
@@ -1111,7 +1111,7 @@ seasons = ""seasons.txt""
             for (int n = 0; n < numProvinces; n++)
             {
                 TerritoryPoint initialPoint = null;
-                int i = 0;//rand.Next(points.Count());
+                int i = 0; //rand.Next(points.Count());
                 while (initialPoint == null)
                 {
                     i = RandomIntHelper.Next(origPoints.Count());
@@ -1150,7 +1150,7 @@ seasons = ""seasons.txt""
                 }
 
                 int owner = n + this.totalGeneratedProvinces;
-                while ((this.colorMap[owner + 1].G==0 && this.colorMap[owner + 1].B==0) || this.colorMap[owner + 1] == Color.FromArgb(255, 69, 91, 186) || this.colorMap[owner + 1] == Color.FromArgb(255, 130, 158, 75) || this.colorProvinceMap.ContainsKey(this.colorMap[owner+1]))
+                while ((this.colorMap[owner + 1].G == 0 && this.colorMap[owner + 1].B == 0) || this.colorMap[owner + 1] == Color.FromArgb(255, 69, 91, 186) || this.colorMap[owner + 1] == Color.FromArgb(255, 130, 158, 75) || this.colorProvinceMap.ContainsKey(this.colorMap[owner + 1]))
                 {
                     owner = n + (++this.totalGeneratedProvinces);
                 }

@@ -112,7 +112,7 @@ namespace CrusaderKingsStoryGen.Managers
             for (int index = 0; index < this.Scripts.Count; index++)
             {
                 var script = this.Scripts[index];
-                if(script.Name.Contains("culture_conversion_events"))
+                if (script.Name.Contains("culture_conversion_events"))
                 {
                     continue;
                 }
@@ -134,7 +134,7 @@ namespace CrusaderKingsStoryGen.Managers
 
                     if (r is ScriptCommand)
                     {
-                        root = ((ScriptCommand) r).Parent;
+                        root = ((ScriptCommand)r).Parent;
                     }
 
                     while (root.Parent != null && root.Parent != script.Root)
@@ -181,11 +181,11 @@ namespace CrusaderKingsStoryGen.Managers
                         {
                             foreach (var o in sc.Children)
                             {
-                                if (o is ScriptCommand && ((ScriptCommand) o).Name.Trim() == "where")
+                                if (o is ScriptCommand && ((ScriptCommand)o).Name.Trim() == "where")
                                 {
                                     try
                                     {
-                                        if (((ScriptCommand) o).Value is ScriptReference)
+                                        if (((ScriptCommand)o).Value is ScriptReference)
                                         {
                                             int prov = Convert.ToInt32(((ScriptReference)((ScriptCommand)o).Value).Referenced);
                                             toDelete.Add((ScriptCommand)o);
@@ -357,7 +357,7 @@ namespace CrusaderKingsStoryGen.Managers
                 ScriptReference val = c.Value as ScriptReference;
                 if (c.Value is ScriptReference)
                 {
-                    if(val != null && this.Exclude.Contains(val.Referenced))
+                    if (val != null && this.Exclude.Contains(val.Referenced))
                     {
                         return true;
                     }

@@ -75,19 +75,19 @@ namespace CrusaderKingsStoryGen.Managers
                 this.ChristianGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count) / 2];
                 this.ChristianGroupSub.Name = this.ChristianGroupSub.Scope.Name;
                 this.AllReligionGroups.Remove(this.ChristianGroupSub);
-                this.MuslimGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count)/2];
+                this.MuslimGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count) / 2];
                 this.MuslimGroupSub.Name = this.MuslimGroupSub.Scope.Name;
                 this.AllReligionGroups.Remove(this.MuslimGroupSub);
-                this.IndianGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count)/2];
+                this.IndianGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count) / 2];
                 this.IndianGroupSub.Name = this.IndianGroupSub.Scope.Name;
                 this.AllReligionGroups.Remove(this.IndianGroupSub);
-                this.ZoroGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count)/2];
+                this.ZoroGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count) / 2];
                 this.ZoroGroupSub.Name = this.ZoroGroupSub.Scope.Name;
                 this.AllReligionGroups.Remove(this.ZoroGroupSub);
-                this.PaganGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count)/2];
+                this.PaganGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count) / 2];
                 this.PaganGroupSub.Name = this.PaganGroupSub.Scope.Name;
                 this.AllReligionGroups.Remove(this.PaganGroupSub);
-                this.JewGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count)/2];
+                this.JewGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count) / 2];
                 this.JewGroupSub.Name = this.JewGroupSub.Scope.Name;
                 this.AllReligionGroups.Remove(this.JewGroupSub);
 
@@ -110,7 +110,7 @@ namespace CrusaderKingsStoryGen.Managers
             {
                 if (this.AllReligionGroups.Count > 3)
                 {
-                    this.ChristianGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count/2)];
+                    this.ChristianGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count / 2)];
                     this.ChristianGroupSub.Name = this.ChristianGroupSub.Scope.Name;
                     this.AllReligionGroups.Remove(this.ChristianGroupSub);
                     this.MuslimGroupSub = this.AllReligionGroups[RandomIntHelper.Next(this.AllReligionGroups.Count / 2)];
@@ -248,7 +248,7 @@ namespace CrusaderKingsStoryGen.Managers
 
             foreach (var religionParser in this.AllReligions)
             {
-                if(religionParser.Provinces.Count > 0)
+                if (religionParser.Provinces.Count > 0)
                 {
                     religionParser.CreateSocietyDetails(religionParser.Provinces[0].Culture.Name);
                 }

@@ -162,7 +162,7 @@ namespace CrusaderKingsStoryGen.Managers
 
                 if (child is ScriptScope)
                 {
-                    if(!this.IncludeDecision((child as ScriptScope).Name))
+                    if (!this.IncludeDecision((child as ScriptScope).Name))
                     {
                         node.Remove(child);
                         index--;
@@ -185,7 +185,7 @@ namespace CrusaderKingsStoryGen.Managers
 
                 if (child is ScriptCommand)
                 {
-                    ScriptCommand c = (ScriptCommand) child;
+                    ScriptCommand c = (ScriptCommand)child;
                     if (c.Name == "religion" || c.Name == "religion_group")
                     {
                         if (c.Value.ToString().ToUpper() == "FROM" || c.Value.ToString().ToUpper() == "ROOT" || c.Value.ToString().ToUpper().Contains("PREV"))
@@ -251,7 +251,7 @@ namespace CrusaderKingsStoryGen.Managers
 
         public void Correct(ScriptScope node, Dictionary<string, string> searchReplace, string prefix)
         {
-            if (node.Name != null && node.Name.StartsWith(prefix) && node.NameSearchReplaced !=null)
+            if (node.Name != null && node.Name.StartsWith(prefix) && node.NameSearchReplaced != null)
             {
                 node.Parent.ChildrenMap.Remove(node.Name);
                 node.Name = node.NameSearchReplaced;

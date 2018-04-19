@@ -87,7 +87,7 @@ namespace CrusaderKingsStoryGen.Parsers
             this.religion = top.religion;
             if (top.culture == null || !CultureManager.instance.CultureMap.ContainsKey(top.culture))
             {
-                top.culture = CultureManager.instance.CultureMap.Values.OrderBy(r=>RandomIntHelper.Next(10000)).First().Name;
+                top.culture = CultureManager.instance.CultureMap.Values.OrderBy(r => RandomIntHelper.Next(10000)).First().Name;
             }
 
             this.culture = top.culture;
@@ -104,12 +104,12 @@ namespace CrusaderKingsStoryGen.Parsers
             }
 
             this.SetProperty("culture", this.culture);
-            if (this._chrName != null && name==null)
+            if (this._chrName != null && name == null)
             {
                 name = this._chrName;
             }
 
-            if (name==null)
+            if (name == null)
             {
                 name = CultureManager.instance.CultureMap[this.culture].PickCharacterName(this.isFemale);
             }
@@ -150,7 +150,7 @@ namespace CrusaderKingsStoryGen.Parsers
         {
             get
             {
-                if(this._chrName == null)
+                if (this._chrName == null)
                 {
                     this.UpdateCultural();
                 }
@@ -202,7 +202,7 @@ namespace CrusaderKingsStoryGen.Parsers
                 var chr = this.TopLiegeCharacter;
                 if (chr == this)
                 {
-                    if(this.Dynasty==null)
+                    if (this.Dynasty == null)
                     {
                         return new Color();
                     }
@@ -457,13 +457,13 @@ namespace CrusaderKingsStoryGen.Parsers
             int max = 1;
             if (this.ConquererTimer > 0)
             {
-                max = Math.Min(targets.Count/3, max);
+                max = Math.Min(targets.Count / 3, max);
             }
 
             targets.Sort(this.DistanceToCapital);
             for (int i = 0; i < 1; i++)
             {
-                ProvinceParser t = targets[RandomIntHelper.Next(Math.Min(max*3, targets.Count))];
+                ProvinceParser t = targets[RandomIntHelper.Next(Math.Min(max * 3, targets.Count))];
                 TitleParser tit = TitleManager.instance.TitleMap[t.ProvinceTitle];
                 //    while (tit.Liege != null)
                 //       tit = tit.Liege;
@@ -572,7 +572,7 @@ namespace CrusaderKingsStoryGen.Parsers
         }
 
         //attack / Capture duchies
-        public void GiveTitle(TitleParser t, bool doLaws=true)
+        public void GiveTitle(TitleParser t, bool doLaws = true)
         {
             if (t.Holder == this)
             {
@@ -839,7 +839,7 @@ namespace CrusaderKingsStoryGen.Parsers
             }
         }
 
-        public bool GiveTitleSoft(TitleParser t, bool capture=false, bool doScript=true, bool delayValidate=false)
+        public bool GiveTitleSoft(TitleParser t, bool capture = false, bool doScript = true, bool delayValidate = false)
         {
             if (t == null)
             {
@@ -851,7 +851,7 @@ namespace CrusaderKingsStoryGen.Parsers
                 return true;
             }
 
-            if (this.ID == 1036062 || (t.Holder != null && t.Holder.ID== 1036062))
+            if (this.ID == 1036062 || (t.Holder != null && t.Holder.ID == 1036062))
             {
             }
 
@@ -968,7 +968,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
             this.SetColorOfChildren(t);
 
-            if(doScript)
+            if (doScript)
             {
                 /* t.heldDates.Add(new TitleParser.HeldDate()
                  {
@@ -1787,7 +1787,7 @@ namespace CrusaderKingsStoryGen.Parsers
                                     var chr = SimulationManager.instance.AddCharacter(this.culture, this.religion);
                                     var title = TitleManager.instance.CreateDukeScriptScope(province, chr);
                                     chr.GiveTitle(title);
-                                    if(province.Title.Holder != null)
+                                    if (province.Title.Holder != null)
                                 {
                                     province.Title.Holder.RemoveTitle(province.Title);
                                 }
@@ -2727,7 +2727,7 @@ namespace CrusaderKingsStoryGen.Parsers
                         {
                             if (titleParser.Value.Holder != this && titleParser.Value.Holder != null && RandomIntHelper.Next(3) == 0)
                             {
-                                if(!titleParser.Value.Holder.Purged)
+                                if (!titleParser.Value.Holder.Purged)
                                 {
                                     return titleParser.Value.Holder;
                                 }
@@ -2762,7 +2762,7 @@ namespace CrusaderKingsStoryGen.Parsers
                     bool fem = !firstMale;
                     if (!firstMale && !firstFemale)
                     {
-                        fem = RandomIntHelper.Next(2)==0;
+                        fem = RandomIntHelper.Next(2) == 0;
                     }
 
                     if (!allowFemale)
@@ -3036,7 +3036,7 @@ namespace CrusaderKingsStoryGen.Parsers
             {
                 if (provinceParser.Title.Holder == null || !provinceParser.Title.AnyHolder() || provinceParser.Title.Holder.PrimaryTitle.Rank == 1)
                 {
-                    if(!options.Contains(provinceParser.Title) && !this.Titles.Contains(provinceParser.Title))
+                    if (!options.Contains(provinceParser.Title) && !this.Titles.Contains(provinceParser.Title))
                     {
                         options.Add(provinceParser.Title);
                     }
@@ -3056,7 +3056,7 @@ namespace CrusaderKingsStoryGen.Parsers
         public bool AddDated(string date, string command, ScriptScope scope = null)
         {
             bool added = false;
-            bool useDate = !command.Contains("=") ;
+            bool useDate = !command.Contains("=");
                 foreach (var child in this.Scope.Children)
             {
                 if (scope != null)
@@ -3207,7 +3207,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
             for (int n = 0; n < num; n++)
             {
-                yearOfBirth += RandomIntHelper.Next(3)+1;
+                yearOfBirth += RandomIntHelper.Next(3) + 1;
 
                 var kid = this.Father.CreateKidWith(this.Mother, yearOfBirth);
 
@@ -3505,12 +3505,12 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public void DoMinorPlayer()
         {
-            if (SimulationManager.instance.AllowSimConquer && RandomIntHelper.Next(10)==0)
+            if (SimulationManager.instance.AllowSimConquer && RandomIntHelper.Next(10) == 0)
             {
                 List<TitleParser> duchies = new List<TitleParser>();
                  var provinces2 = this.GetAllProvinces();
 
-                provinces2.ForEach(p => p.Adjacent.Where(o => o.ProvinceTitle != null && o.Title.Liege == null && o.Title.Rank == 1 && o.Title.TopmostTitle != this.PrimaryTitle.TopmostTitle).ToList().ForEach(aa=>duchies.Add(aa.Title)));
+                provinces2.ForEach(p => p.Adjacent.Where(o => o.ProvinceTitle != null && o.Title.Liege == null && o.Title.Rank == 1 && o.Title.TopmostTitle != this.PrimaryTitle.TopmostTitle).ToList().ForEach(aa => duchies.Add(aa.Title)));
 
                 if (duchies.Count > 0)
                 {
@@ -3555,11 +3555,11 @@ namespace CrusaderKingsStoryGen.Parsers
 
                         var provinces =
                             this.GetAllProvinces()
-                                .Where(p => p.Adjacent.Any(o => o.ProvinceTitle != null && o.Title.TopmostTitle == war && o.Title.Liege != null && o.Title.Liege.Rank==2));
+                                .Where(p => p.Adjacent.Any(o => o.ProvinceTitle != null && o.Title.TopmostTitle == war && o.Title.Liege != null && o.Title.Liege.Rank == 2));
 
                             List<TitleParser> duchies = new List<TitleParser>();
 
-                            provinces.ToList().ForEach(p=> duchies.Add(p.Title.Liege));
+                            provinces.ToList().ForEach(p => duchies.Add(p.Title.Liege));
                                 duchies.RemoveAll(a => a == null);
                                 duchies.RemoveAll(a => a.Liege == null);
                                 if (duchies.Count > 0)
@@ -3606,7 +3606,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
                             List<TitleParser> duchies = new List<TitleParser>();
 
-                            provinces.ToList().Where(p=>p.Title.Liege != null).ToList().ForEach(p => duchies.Add(p.Title.Liege));
+                            provinces.ToList().Where(p => p.Title.Liege != null).ToList().ForEach(p => duchies.Add(p.Title.Liege));
 
                             if (duchies.Count > 0)
                             {
@@ -3666,7 +3666,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public void AddRandomTraits()
         {
-            PrimaryTrait trait = (PrimaryTrait) RandomIntHelper.Next(5);
+            PrimaryTrait trait = (PrimaryTrait)RandomIntHelper.Next(5);
 
             TraitManager.instance.FillCharacter(this, trait);
         }
@@ -3749,13 +3749,13 @@ namespace CrusaderKingsStoryGen.Parsers
 
             this.Dynasty.Members.Add(this);
             int m = this.Scope.GetInt("mother");
-            if(m != 0 && CharacterManager.instance.CharacterMap.ContainsKey(m))
+            if (m != 0 && CharacterManager.instance.CharacterMap.ContainsKey(m))
             {
                 this.Mother = CharacterManager.instance.CharacterMap[m];
             }
 
             int f = this.Scope.GetInt("father");
-            if(f != 0 && CharacterManager.instance.CharacterMap.ContainsKey(f))
+            if (f != 0 && CharacterManager.instance.CharacterMap.ContainsKey(f))
             {
                 this.Father = CharacterManager.instance.CharacterMap[f];
             }

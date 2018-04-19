@@ -58,7 +58,7 @@ namespace CrusaderKingsStoryGen.MapGen
             this.baseLandTerrain.Frequency = (2.0);
             ScaleBiasOutput flatTerrain = new ScaleBiasOutput(this.baseLandTerrain);
             flatTerrain.Scale = 0.005;
-            flatTerrain.Bias = this.seaLevel;//SeaLevel;
+            flatTerrain.Bias = this.seaLevel; //SeaLevel;
             this.MinLandFreq = 0.2f;
             this.MaxLandFreq = 1f;
             if (this.LandBitmap != null)
@@ -68,14 +68,14 @@ namespace CrusaderKingsStoryGen.MapGen
 
             ScaleBiasOutput hillTerrain = new ScaleBiasOutput(this.baseLandTerrain);
             hillTerrain.Scale = 0.09;
-            hillTerrain.Bias = this.seaLevel + 0.2;//SeaLevel;
+            hillTerrain.Bias = this.seaLevel + 0.2; //SeaLevel;
 
             ScaleBiasOutput waterTerrain = new ScaleBiasOutput(this.baseWaterTerrain);
-            waterTerrain.Bias = -0.33f;//SeaLevel;
+            waterTerrain.Bias = -0.33f; //SeaLevel;
             waterTerrain.Scale = 0.001;
 
             Perlin waterLandType = new Perlin();
-            float landFreq = RandomIntHelper.Next((int) (this.MinLandFreq*10000), (int) (this.MaxLandFreq*10000))/10000.0f;
+            float landFreq = RandomIntHelper.Next((int)(this.MinLandFreq * 10000), (int)(this.MaxLandFreq * 10000)) / 10000.0f;
             waterLandType.Persistence = 0.45;
             waterLandType.Frequency = landFreq;
             //waterLandType.OctaveCount = 12;
@@ -166,7 +166,7 @@ namespace CrusaderKingsStoryGen.MapGen
             this.baseLandTerrain.Frequency = (2.0);
             ScaleBiasOutput flatTerrain = new ScaleBiasOutput(this.baseLandTerrain);
             flatTerrain.Scale = 0.005;
-            flatTerrain.Bias = this.seaLevel;//SeaLevel;
+            flatTerrain.Bias = this.seaLevel; //SeaLevel;
             this.MinLandFreq = 0.2f;
             this.MaxLandFreq = 1f;
             if (this.LandBitmap != null)
@@ -176,10 +176,10 @@ namespace CrusaderKingsStoryGen.MapGen
 
             ScaleBiasOutput hillTerrain = new ScaleBiasOutput(this.baseLandTerrain);
             hillTerrain.Scale = 0.09;
-            hillTerrain.Bias = this.seaLevel + 0.2;//SeaLevel;
+            hillTerrain.Bias = this.seaLevel + 0.2; //SeaLevel;
 
             ScaleBiasOutput waterTerrain = new ScaleBiasOutput(this.baseWaterTerrain);
-            waterTerrain.Bias = -0.33f;//SeaLevel;
+            waterTerrain.Bias = -0.33f; //SeaLevel;
             waterTerrain.Scale = 0.001;
 
             Perlin waterLandType = new Perlin();
@@ -250,14 +250,14 @@ namespace CrusaderKingsStoryGen.MapGen
             this.baseLandTerrain.Frequency = (2.0);
             ScaleBiasOutput flatTerrain = new ScaleBiasOutput(this.baseLandTerrain);
             flatTerrain.Scale = 0.005;
-            flatTerrain.Bias = this.seaLevel;//SeaLevel;
+            flatTerrain.Bias = this.seaLevel; //SeaLevel;
 
             ScaleBiasOutput hillTerrain = new ScaleBiasOutput(this.baseLandTerrain);
             hillTerrain.Scale = 0.065;
-            hillTerrain.Bias = this.seaLevel + 0.2;//SeaLevel;
+            hillTerrain.Bias = this.seaLevel + 0.2; //SeaLevel;
 
             ScaleBiasOutput waterTerrain = new ScaleBiasOutput(this.baseWaterTerrain);
-            waterTerrain.Bias = -0.73f;//SeaLevel;
+            waterTerrain.Bias = -0.73f; //SeaLevel;
             waterTerrain.Scale = 0.05;
 
             Perlin waterLandType = new Perlin();
@@ -323,14 +323,14 @@ namespace CrusaderKingsStoryGen.MapGen
             this.baseLandTerrain.Frequency = (2.0);
             ScaleBiasOutput flatTerrain = new ScaleBiasOutput(this.baseLandTerrain);
             flatTerrain.Scale = 0.005;
-            flatTerrain.Bias = this.seaLevel;//SeaLevel;
+            flatTerrain.Bias = this.seaLevel; //SeaLevel;
 
             ScaleBiasOutput hillTerrain = new ScaleBiasOutput(this.baseLandTerrain);
             hillTerrain.Scale = 0.065;
-            hillTerrain.Bias = this.seaLevel + 0.2;//SeaLevel;
+            hillTerrain.Bias = this.seaLevel + 0.2; //SeaLevel;
 
             ScaleBiasOutput waterTerrain = new ScaleBiasOutput(this.baseWaterTerrain);
-            waterTerrain.Bias = -0.73f;//SeaLevel;
+            waterTerrain.Bias = -0.73f; //SeaLevel;
             waterTerrain.Scale = 0.05;
 
             Perlin waterLandType = new Perlin();

@@ -30,7 +30,7 @@ namespace CrusaderKingsStoryGen.Managers
         public void Load(string modFile)
         {
             Mod mod = new Mod();
-            mod.name = modFile.Substring(modFile.LastIndexOf("\\")+1).Replace(".mod", "").Trim();
+            mod.name = modFile.Substring(modFile.LastIndexOf("\\") + 1).Replace(".mod", "").Trim();
             this.Mods.Add(mod);
             string usePath = "";
             using (System.IO.StreamReader file =
@@ -69,7 +69,7 @@ namespace CrusaderKingsStoryGen.Managers
                 }
             }
 
-            this.rootDir = modFile.Substring(0, modFile.LastIndexOf("\\") + 1) + usePath.Replace("mod\\", "")+ "\\";
+            this.rootDir = modFile.Substring(0, modFile.LastIndexOf("\\") + 1) + usePath.Replace("mod\\", "") + "\\";
             this.LoadDir(this.rootDir, mod);
         }
 
@@ -133,7 +133,7 @@ namespace CrusaderKingsStoryGen.Managers
 
             foreach (var mod in this.Mods)
             {
-                if(mod.name=="vanilla")
+                if (mod.name == "vanilla")
                 {
                     continue;
                 }
@@ -153,7 +153,7 @@ namespace CrusaderKingsStoryGen.Managers
 
         public void Init()
         {
-            foreach (var setting in Globals.Settings.Where(k => k.Key.StartsWith("Mod")).OrderBy(p=>p.Key).ToList())
+            foreach (var setting in Globals.Settings.Where(k => k.Key.StartsWith("Mod")).OrderBy(p => p.Key).ToList())
             {
                 ModManager.instance.ModsToLoad.Add(setting.Value);
             }

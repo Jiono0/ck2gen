@@ -31,15 +31,15 @@ namespace csDelaunay
 		#region Object
 		private Vector2f coord;
 
-		public Vector2f Coord {get{return this.coord;}set{this.coord=value;}}
+		public Vector2f Coord {get{return this.coord; }set{this.coord = value; }}
 
-		public float x {get{return this.coord.x;}}
+		public float x {get{return this.coord.x; }}
 
-		public float y {get{return this.coord.y;}}
+		public float y {get{return this.coord.y; }}
 
 		private int vertexIndex;
 
-		public int VertexIndex {get{return this.vertexIndex;}}
+		public int VertexIndex {get{return this.vertexIndex; }}
 
 		public Vertex(float x, float y) {
 			this.Init(x,y);
@@ -94,8 +94,8 @@ namespace csDelaunay
 				return null;
 			}
 
-			intersectionX = (edge0.c * edge1.b - edge1.c * edge0.b)/determinant;
-			intersectionY = (edge1.c * edge0.a - edge0.c * edge1.a)/determinant;
+			intersectionX = (edge0.c * edge1.b - edge1.c * edge0.b) / determinant;
+			intersectionY = (edge1.c * edge0.a - edge0.c * edge1.a) / determinant;
 
 			if (Voronoi.CompareByYThenX(edge0.RightSite, edge1.RightSite) < 0) {
 				halfedge = halfedge0;

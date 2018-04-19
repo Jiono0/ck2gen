@@ -87,7 +87,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
             r.Name = r.Scope.Name;
             r.Group = this;
-            var col= this.Col();
+            var col = this.Col();
             r.r = col.R;
             r.g = col.G;
             r.b = col.B;

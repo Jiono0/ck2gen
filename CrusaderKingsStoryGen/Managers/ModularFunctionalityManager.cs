@@ -227,7 +227,7 @@ namespace CrusaderKingsStoryGen.Managers
                 trait.Do(@" 
 	
                 opposites = {
-	                "+ otherSchools + @"
+	                " + otherSchools + @"
 
                 }
 

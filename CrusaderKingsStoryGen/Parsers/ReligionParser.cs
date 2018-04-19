@@ -129,13 +129,13 @@ namespace CrusaderKingsStoryGen.Parsers
         public void RandomReligionProperties()
         {
             this.divine_blood = RandomIntHelper.Next(2) == 0;
-            this.female_temple_holders =RandomIntHelper.Next(2)==0;
+            this.female_temple_holders = RandomIntHelper.Next(2) == 0;
             this.priests_can_inherit = RandomIntHelper.Next(2) == 0;
 
             this.matrilineal_marriages = RandomIntHelper.Next(4) != 0;
 
             bool warLike = RandomIntHelper.Next(4) != 0;
-            if(RandomIntHelper.Next(2)==0)
+            if (RandomIntHelper.Next(2) == 0)
             {
                 this.Resilience = RandomIntHelper.Next(2);
             }
@@ -161,7 +161,7 @@ namespace CrusaderKingsStoryGen.Parsers
                     this.pacifist = true;
                 }
 
-                if(RandomIntHelper.Next(2)==0)
+                if (RandomIntHelper.Next(2) == 0)
                 {
                     this.can_call_crusade = false;
                 }
@@ -284,7 +284,7 @@ namespace CrusaderKingsStoryGen.Parsers
             KingdomHelper dna = null;
             if (this.capital == null)
             {
-                dna = CulturalDnaManager.instance.GetVanillaCulture((string) null);
+                dna = CulturalDnaManager.instance.GetVanillaCulture((string)null);
             }
             else
             {
@@ -360,7 +360,7 @@ namespace CrusaderKingsStoryGen.Parsers
             this.b = b;
 
             string gods = "";
-            if(bNew)
+            if (bNew)
             {
                 for (int n = 0; n < 10; n++)
                 {
@@ -414,7 +414,7 @@ namespace CrusaderKingsStoryGen.Parsers
             this.ScopeReligionDetails();
         }
 
-        public bool intermarry ;
+        public bool intermarry;
 
         public void ScopeReligionDetails()
         {
@@ -428,7 +428,7 @@ namespace CrusaderKingsStoryGen.Parsers
 		         
 		            ai_convert_other_group = " + this.ai_convert_other_group + @" # always try to convert
 	
-		            color = { " + (this.r/255.0f) + " " + (this.g/255.0f) + " " + (this.b/255.0f) + @" }
+		            color = { " + (this.r / 255.0f) + " " + (this.g / 255.0f) + " " + (this.b / 255.0f) + @" }
 		
 		            crusade_name = " + this.safecrusade_name + @"
 		            scripture_name = " + this.safescripture_name + @"
@@ -897,7 +897,7 @@ namespace CrusaderKingsStoryGen.Parsers
                 b = 0;
             }
 
-            for (int n=0;n<nChanges;n++)
+            for (int n = 0; n < nChanges; n++)
             {
                 this.MakeChange();
             }

@@ -38,7 +38,7 @@ namespace CrusaderKingsStoryGen.Parsers
                 if (child is ScriptCommand)
                 {
                     ScriptCommand c = child as ScriptCommand;
-                    if(c.Name == "id" && node.Name == "character_event")
+                    if (c.Name == "id" && node.Name == "character_event")
                     {
                         if (!this.LinkedEventIDs.Contains(c.Value.ToString()))
                         {

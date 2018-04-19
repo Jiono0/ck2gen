@@ -70,29 +70,29 @@ namespace csDelaunay
 		private const float EPSILON = 0.005f;
 
 		private static bool CloseEnough(Vector2f p0, Vector2f p1) {
-			return (p0-p1).magnitude < EPSILON;
+			return (p0 - p1).magnitude < EPSILON;
 		}
 
 		private int siteIndex;
 
-		public int SiteIndex {get{return this.siteIndex;} set{this.siteIndex=value;}}
+		public int SiteIndex {get{return this.siteIndex; } set{this.siteIndex = value; }}
 
 		private Vector2f coord;
 
-		public Vector2f Coord {get{return this.coord;}set{this.coord=value;}}
+		public Vector2f Coord {get{return this.coord; }set{this.coord = value; }}
 
-		public float x {get{return this.coord.x;}}
+		public float x {get{return this.coord.x; }}
 
-		public float y {get{return this.coord.y;}}
+		public float y {get{return this.coord.y; }}
 
 		private float weigth;
 
-		public float Weigth {get{return this.weigth;}}
+		public float Weigth {get{return this.weigth; }}
 
 		// The edges that define this Site's Voronoi region:
 		private List<Edge> edges;
 
-		public List<Edge> Edges {get{return this.edges;}}
+		public List<Edge> Edges {get{return this.edges; }}
 
 		// which end of each edge hooks up with the previous edge in edges:
 		private List<LR> edgeOrientations;
@@ -241,7 +241,7 @@ namespace csDelaunay
 		}
 
 		private void Connect(ref List<Vector2f> points, int j, Rectf bounds, bool closingUp = false) {
-			Vector2f rightPoint = points[points.Count-1];
+			Vector2f rightPoint = points[points.Count - 1];
 			Edge newEdge = this.edges[j];
 			LR newOrientation = this.edgeOrientations[j];
 

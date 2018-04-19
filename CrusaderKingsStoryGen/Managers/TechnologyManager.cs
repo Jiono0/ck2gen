@@ -60,7 +60,7 @@ namespace CrusaderKingsStoryGen.Managers
             return;
             if (year == -1)
             {
-                year = SimulationManager.instance.Year-3;
+                year = SimulationManager.instance.Year - 3;
                 this.useYear = year;
             }
             else
@@ -68,7 +68,7 @@ namespace CrusaderKingsStoryGen.Managers
                 this.useYear = year;
                 if (this.lastYear == -1)
                 {
-                    this.SaveOutTech(this.useYear-2);
+                    this.SaveOutTech(this.useYear - 2);
                 }
             }
 
@@ -169,7 +169,7 @@ namespace CrusaderKingsStoryGen.Managers
                 this.Groups[mil].Date[y].Add(new ScriptCommand("economy", eco, this.Groups[mil].Date[y]));
                 this.Groups[mil].Date[y].Add(new ScriptCommand("culture", cul, this.Groups[mil].Date[y]));
                 this.Groups[mil].Titles = new ScriptScope("titles");
-                this.Groups[mil].Titles.Add("\t\t"+name);
+                this.Groups[mil].Titles.Add("\t\t" + name);
                 this.Script.Root.AllowDuplicates = true;
                 var tech = new ScriptScope("technology");
                 this.Script.Root.Add(tech);
@@ -194,11 +194,11 @@ namespace CrusaderKingsStoryGen.Managers
                 delta = 0;
             }
 
-            float d = (max - min)*delta;
+            float d = (max - min) * delta;
             d += min;
 
             d *= 10.0f;
-            d = (int) d;
+            d = (int)d;
             d /= 10.0f;
 
             return d;
@@ -248,7 +248,7 @@ namespace CrusaderKingsStoryGen.Managers
                 if (provinceParser.economicTechPoints > this.holdingCost)
                 {
                     bool bTribal = false;
-                    if (provinceParser.government=="tribal")
+                    if (provinceParser.government == "tribal")
                     {
                         bTribal = true;
                     }
@@ -267,7 +267,7 @@ namespace CrusaderKingsStoryGen.Managers
                             bool done = false;
                             if (this.numMerchantRepublics < this.maxMerchantRepublics)
                             {
-                                if (provinceParser.Adjacent.Where(p => !p.land && p.Range.Y - p.Range.X > 10).Any() && provinceParser.Title.Liege != null && provinceParser.Title.Liege.Rank==2 && provinceParser.Title.Liege.CapitalProvince == provinceParser )
+                                if (provinceParser.Adjacent.Where(p => !p.land && p.Range.Y - p.Range.X > 10).Any() && provinceParser.Title.Liege != null && provinceParser.Title.Liege.Rank == 2 && provinceParser.Title.Liege.CapitalProvince == provinceParser )
                                 {
                                     if (RandomIntHelper.Next(4) == 0)
                                     {
@@ -417,7 +417,7 @@ namespace CrusaderKingsStoryGen.Managers
                             }
                         }
                     }
-                    else if(provinceParser.militaryTechPoints > this.holdingCost)
+                    else if (provinceParser.militaryTechPoints > this.holdingCost)
                     {
                         if (provinceParser.ActiveBaronies < provinceParser.Max_settlements)
                         {

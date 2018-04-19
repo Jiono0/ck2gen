@@ -76,7 +76,7 @@ namespace CrusaderKingsStoryGen.Managers
             do
             {
                 this.Name = culture.dna.GetDynastyName();
-            } while (this.Name == null || this.Name.Trim().Length==0);
+            } while (this.Name == null || this.Name.Trim().Length == 0);
 
             var nameScope = new ScriptCommand("name", this.Name, scope);
 

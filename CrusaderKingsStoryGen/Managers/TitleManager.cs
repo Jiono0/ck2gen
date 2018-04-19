@@ -135,7 +135,7 @@ namespace CrusaderKingsStoryGen.Managers
 
             foreach (var titleParser in array)
             {
-                if(this.PromoteToTop(titleParser.Value))
+                if (this.PromoteToTop(titleParser.Value))
                 {
                     titleParser.Value.SubTitles.Clear();
                 }
@@ -245,7 +245,7 @@ namespace CrusaderKingsStoryGen.Managers
                 {
                     name = cultureParser.dna.GetMaleName();
                     namesafe = "d_" + StarHelper.SafeName(name);
-                } while (this.TitleMap.ContainsKey(namesafe) || LanguageManager.instance.Get(namesafe)!="");
+                } while (this.TitleMap.ContainsKey(namesafe) || LanguageManager.instance.Get(namesafe) != "");
 
                 LanguageManager.instance.Add(namesafe, name);
                 string composition = compositions[RandomIntHelper.Next(compositions.Length)];
@@ -411,7 +411,7 @@ namespace CrusaderKingsStoryGen.Managers
             var rand = RandomIntHelper.Get();
             Color col = Color.FromArgb(255, rand.Next(200) + 55, rand.Next(200) + 55, rand.Next(200) + 55);
             ScriptScope scope = new ScriptScope();
-            if(capital != null)
+            if (capital != null)
             {
                 scope.Parent = capital.Title.Scope;
             }
@@ -422,7 +422,7 @@ namespace CrusaderKingsStoryGen.Managers
 
             TitleParser title = new TitleParser(scope);
             this.TieredTitles[title.Name] = title;
-            if(capital != null)
+            if (capital != null)
             {
                 capital.Title.Scope.Add(title.Scope);
             }
@@ -591,7 +591,7 @@ namespace CrusaderKingsStoryGen.Managers
 
         public void AddTitle(TitleParser title)
         {
-            if(!this.Titles.Contains(title))
+            if (!this.Titles.Contains(title))
             {
                 this.Titles.Add(title);
             }
@@ -626,7 +626,7 @@ namespace CrusaderKingsStoryGen.Managers
                         titleParser.culture = "norse";
                 }
 
-                if(titleParser.Rank > 1 && titleParser.Scope.Find("capital")==null)
+                if (titleParser.Rank > 1 && titleParser.Scope.Find("capital") == null)
                 {
                 }
 
@@ -653,7 +653,7 @@ namespace CrusaderKingsStoryGen.Managers
                     else
                         cap.Value = ca.id;
                     titleParser.CapitalProvince = ca;
-                    if(titleParser.Holder!=null)
+                    if (titleParser.Holder != null)
                     {
                         titleParser.Holder.GiveTitleSoftPlusIntermediate(titleParser.CapitalProvince.Title);
                     }
@@ -686,8 +686,8 @@ namespace CrusaderKingsStoryGen.Managers
                         break;
                 }
 
-                if(titleParser.Rank > 0)
-                if(!titleParser.Scope.HasNamed("culture"))
+                if (titleParser.Rank > 0)
+                if (!titleParser.Scope.HasNamed("culture"))
                     {
                         titleParser.Scope.Add(new ScriptCommand() { Name = "culture", Value = titleParser.culture });
                     }
@@ -696,7 +696,7 @@ namespace CrusaderKingsStoryGen.Managers
                 {
                 }
 
-                if(tit != null && tit.Trim().Length > 0)
+                if (tit != null && tit.Trim().Length > 0)
                 if (!titleParser.Scope.HasNamed("title_female") && !titleParser.Scope.HasNamed("title"))
                     titleParser.Scope.Do(
                     @"
@@ -801,7 +801,7 @@ namespace CrusaderKingsStoryGen.Managers
                     {
                         while (titleScript.Root.HasNamed(scriptScope.Name))
                         {
-                            var indexOf = scriptScope.Name.LastIndexOf(".");//(v - 1));
+                            var indexOf = scriptScope.Name.LastIndexOf("."); //(v - 1));
                             scriptScope.Name = scriptScope.Name.Substring(0, indexOf) + "." + v;
                             v++;
                         }
@@ -894,7 +894,7 @@ namespace CrusaderKingsStoryGen.Managers
             var list = new List<TitleParser>();
             foreach (var titleParser in this.Titles)
             {
-                if(titleParser.Rank==1)
+                if (titleParser.Rank == 1)
                 {
                     list.Add(titleParser);
                 }
@@ -1089,7 +1089,7 @@ namespace CrusaderKingsStoryGen.Managers
                                     {
                                     }
 
-                                    if(com.Value.ToString()=="-")
+                                    if (com.Value.ToString() == "-")
                                     {
                                         titleParser.LiegeDirect = null;
                                     }
@@ -1121,7 +1121,7 @@ namespace CrusaderKingsStoryGen.Managers
                                 else
                                 {
                                     titleParser.Holder = null;
-                                    if(!SimulationManager.instance.DestroyedTitles.Contains(titleParser))
+                                    if (!SimulationManager.instance.DestroyedTitles.Contains(titleParser))
                                     {
                                         SimulationManager.instance.DestroyedTitles.Add(titleParser);
                                     }

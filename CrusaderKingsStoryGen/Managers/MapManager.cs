@@ -909,8 +909,8 @@ namespace CrusaderKingsStoryGen.Managers
             float h = MainForm.instance.renderPanel.Height;
             float xrat = (float)this.ProvinceBitmap.Width / w;
             float yrat = (float)this.ProvinceBitmap.Height / h;
-            float xx = x;// * RenderMod * xrat;
-            float yy = y;// * RenderMod * yrat;
+            float xx = x; // * RenderMod * xrat;
+            float yy = y; // * RenderMod * yrat;
 
             x = (int)this.ConvertCanvasXToWorld(x);
             y = (int)this.ConvertCanvasYToWorld(y);
@@ -1345,8 +1345,8 @@ namespace CrusaderKingsStoryGen.Managers
 
                         float x = this.ConvertWorldXToCanvas(p.X);
                         float y = this.ConvertWorldYToCanvas(p.Y);
-                        float x2 = this.ConvertWorldXToCanvas(p.X + bmp.Width+1);
-                        float y2 = this.ConvertWorldYToCanvas(p.Y + bmp.Height+1);
+                        float x2 = this.ConvertWorldXToCanvas(p.X + bmp.Width + 1);
+                        float y2 = this.ConvertWorldYToCanvas(p.Y + bmp.Height + 1);
                         float ww = x2 - x;
                         float hhh = y2 - y;
 
@@ -1397,7 +1397,7 @@ namespace CrusaderKingsStoryGen.Managers
                                 bmp.Width, bmp.Height, GraphicsUnit.Pixel, this.ia);
                             this.ia.SetColorMatrix(this.cm2);
 
-                            if(this.Zoom > 0.45f)
+                            if (this.Zoom > 0.45f)
                             graphics.DrawImage(bmpo,
                                                         dRect, 0, 0,
                                                         bmpo.Width, bmpo.Height, GraphicsUnit.Pixel, this.ia);
@@ -1437,8 +1437,8 @@ namespace CrusaderKingsStoryGen.Managers
                                     int cy = titleParser.TextPos.Y;
                                     cy -= 12;
 
-                                    cx = (int) this.ConvertWorldXToCanvas(cx);
-                                    cy = (int) this.ConvertWorldYToCanvas(cy);
+                                    cx = (int)this.ConvertWorldXToCanvas(cx);
+                                    cy = (int)this.ConvertWorldYToCanvas(cy);
                                     Font font = MainForm.DefaultFont;
                                     Font font2 = MainForm.DefaultFont2;
 
@@ -1470,13 +1470,12 @@ namespace CrusaderKingsStoryGen.Managers
                                     Rectangle dRect =
                                         new Rectangle(
                                             new Point(
-                                                (int)
-                                                ((cx -
+                                                (int)((cx -
                                                   (graphics.MeasureString(titleParser.LangRealmName, font).Width / 2)) +
                                                  1), cy + 1),
                                             new Size(
-                                                (int) graphics.MeasureString(titleParser.LangRealmName, font).Width,
-                                                (int) graphics.MeasureString(titleParser.LangRealmName, font).Height));
+                                                (int)graphics.MeasureString(titleParser.LangRealmName, font).Width,
+                                                (int)graphics.MeasureString(titleParser.LangRealmName, font).Height));
                                     dRect.Inflate(6, 6);
                                     if (eClipRectangle.IntersectsWith(dRect))
 

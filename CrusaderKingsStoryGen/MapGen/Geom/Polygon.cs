@@ -38,7 +38,7 @@ namespace csDelaunay
 			float signedDoubleArea = 0;
 
 			for (index = 0; index < n; index++) {
-				nextIndex = (index+1) % n;
+				nextIndex = (index + 1) % n;
 				point = this.vertices[index];
 				next = this.vertices[nextIndex];
 				signedDoubleArea += point.x * next.y - next.x * point.y;

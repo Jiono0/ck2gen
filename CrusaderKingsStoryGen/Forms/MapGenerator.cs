@@ -63,7 +63,7 @@ namespace CrusaderKingsStoryGen.Forms
                 this.seedBox.Value = RandomIntHelper.Next(10000000);
             }
 
-            int seed = (int) this.seedBox.Value;
+            int seed = (int)this.seedBox.Value;
             this.usedSeed = seed;
             int w = 3072;
             if (this.mapvlarge.Checked)
@@ -516,41 +516,39 @@ namespace CrusaderKingsStoryGen.Forms
                 this.LandCommands.Add(new DrawCommand(new Point(x, y), this.drawRadius));
                 var r = new Rectangle(x - this.drawRadius, y - this.drawRadius, x + this.drawRadius, y + this.drawRadius);
 
-                float delStartX = r.X / (float) this.preview.Width;
-                float delStartY = r.Y / (float) this.preview.Height;
-                float delEndX = r.Right / (float) this.preview.Width;
-                float delEndY = r.Bottom / (float) this.preview.Height;
+                float delStartX = r.X / (float)this.preview.Width;
+                float delStartY = r.Y / (float)this.preview.Height;
+                float delEndX = r.Right / (float)this.preview.Width;
+                float delEndY = r.Bottom / (float)this.preview.Height;
 
 
-                Rectangle src = new Rectangle((int) (this.mountainProxyBitmap.Source.Width * delStartX),
-                    (int) (this.mountainProxyBitmap.Source.Height * delStartY),
-                    (int)
-                    ((this.mountainProxyBitmap.Source.Width * delEndX) - (this.mountainProxyBitmap.Source.Width * delStartX)),
-                    (int)
-                    ((this.mountainProxyBitmap.Source.Height * delEndY) - (this.mountainProxyBitmap.Source.Height * delStartY)));
+                Rectangle src = new Rectangle((int)(this.mountainProxyBitmap.Source.Width * delStartX),
+                    (int)(this.mountainProxyBitmap.Source.Height * delStartY),
+                    (int)((this.mountainProxyBitmap.Source.Width * delEndX) - (this.mountainProxyBitmap.Source.Width * delStartX)),
+                    (int)((this.mountainProxyBitmap.Source.Height * delEndY) - (this.mountainProxyBitmap.Source.Height * delStartY)));
 
-                delStartX = src.X / (float) this.mountainProxyBitmap.Source.Width;
-                delStartY = src.Y / (float) this.mountainProxyBitmap.Source.Height;
-                delEndX = src.Right / (float) this.mountainProxyBitmap.Source.Width;
-                delEndY = src.Bottom / (float) this.mountainProxyBitmap.Source.Height;
+                delStartX = src.X / (float)this.mountainProxyBitmap.Source.Width;
+                delStartY = src.Y / (float)this.mountainProxyBitmap.Source.Height;
+                delEndX = src.Right / (float)this.mountainProxyBitmap.Source.Width;
+                delEndY = src.Bottom / (float)this.mountainProxyBitmap.Source.Height;
 
 
-                src = new Rectangle((int) (this.preview.Width * delStartX), (int) (this.preview.Height * delStartY),
-                    (int) ((this.preview.Width * delEndX) - (this.preview.Width * delStartX)),
-                    (int) ((this.preview.Height * delEndY) - (this.preview.Height * delStartY)));
+                src = new Rectangle((int)(this.preview.Width * delStartX), (int)(this.preview.Height * delStartY),
+                    (int)((this.preview.Width * delEndX) - (this.preview.Width * delStartX)),
+                    (int)((this.preview.Height * delEndY) - (this.preview.Height * delStartY)));
 
                 this.preview.Invalidate(src);
             }
 
             if (this.water.Checked)
             {
-                this.SeaCommands.Add(new DrawCommand(new Point(x, y), (int) (this.drawRadius / 2.5)));
+                this.SeaCommands.Add(new DrawCommand(new Point(x, y), (int)(this.drawRadius / 2.5)));
                 this.preview.Invalidate(new Rectangle(x - this.drawRadius, y - this.drawRadius, x + this.drawRadius, y + this.drawRadius));
             }
 
             if (this.mountain.Checked)
             {
-                this.MountainCommands.Add(new DrawCommand(new Point(x, y), (int) (this.drawRadius / 2.5)));
+                this.MountainCommands.Add(new DrawCommand(new Point(x, y), (int)(this.drawRadius / 2.5)));
                 this.preview.Invalidate(new Rectangle(x - this.drawRadius, y - this.drawRadius, x + this.drawRadius, y + this.drawRadius));
             }
         }
@@ -592,11 +590,11 @@ namespace CrusaderKingsStoryGen.Forms
                             var rect = new Rectangle(drawCommand.Point.X - drawCommand.Radius,
                                 drawCommand.Point.Y - drawCommand.Radius, drawCommand.Radius * 2, drawCommand.Radius * 2);
 
-                            float deltaX = this.mountainProxyBitmap.Source.Width / (float) this.preview.Width;
-                            float deltaY = this.mountainProxyBitmap.Source.Height / (float) this.preview.Height;
+                            float deltaX = this.mountainProxyBitmap.Source.Width / (float)this.preview.Width;
+                            float deltaY = this.mountainProxyBitmap.Source.Height / (float)this.preview.Height;
 
-                            Point ap = new Point((int) (rect.X * deltaX), (int) (rect.Y * deltaY));
-                            Point bp = new Point((int) (rect.Right * deltaX), (int) (rect.Bottom * deltaY));
+                            Point ap = new Point((int)(rect.X * deltaX), (int)(rect.Y * deltaY));
+                            Point bp = new Point((int)(rect.Right * deltaX), (int)(rect.Bottom * deltaY));
                             rect = new Rectangle(ap.X, ap.Y, bp.X - ap.X, bp.Y - ap.Y);
                             gg.FillEllipse(a, rect);
                             gg2.FillEllipse(d, rect);
@@ -607,11 +605,11 @@ namespace CrusaderKingsStoryGen.Forms
                             var rect = new Rectangle(drawCommand.Point.X - drawCommand.Radius,
                                 drawCommand.Point.Y - drawCommand.Radius, drawCommand.Radius * 2, drawCommand.Radius * 2);
 
-                            float deltaX = this.mountainProxyBitmap.Source.Width / (float) this.preview.Width;
-                            float deltaY = this.mountainProxyBitmap.Source.Height / (float) this.preview.Height;
+                            float deltaX = this.mountainProxyBitmap.Source.Width / (float)this.preview.Width;
+                            float deltaY = this.mountainProxyBitmap.Source.Height / (float)this.preview.Height;
 
-                            Point ap = new Point((int) (rect.X * deltaX), (int) (rect.Y * deltaY));
-                            Point bp = new Point((int) (rect.Right * deltaX), (int) (rect.Bottom * deltaY));
+                            Point ap = new Point((int)(rect.X * deltaX), (int)(rect.Y * deltaY));
+                            Point bp = new Point((int)(rect.Right * deltaX), (int)(rect.Bottom * deltaY));
                             rect = new Rectangle(ap.X, ap.Y, bp.X - ap.X, bp.Y - ap.Y);
 
                             gg.FillEllipse(d, rect);
@@ -635,11 +633,11 @@ namespace CrusaderKingsStoryGen.Forms
                         var rect = new Rectangle(drawCommand.Point.X - drawCommand.Radius,
                             drawCommand.Point.Y - drawCommand.Radius, drawCommand.Radius * 2, drawCommand.Radius * 2);
 
-                        float deltaX = this.mountainProxyBitmap.Source.Width / (float) this.preview.Width;
-                        float deltaY = this.mountainProxyBitmap.Source.Height / (float) this.preview.Height;
+                        float deltaX = this.mountainProxyBitmap.Source.Width / (float)this.preview.Width;
+                        float deltaY = this.mountainProxyBitmap.Source.Height / (float)this.preview.Height;
 
-                        Point ap = new Point((int) (rect.X * deltaX), (int) (rect.Y * deltaY));
-                        Point bp = new Point((int) (rect.Right * deltaX), (int) (rect.Bottom * deltaY));
+                        Point ap = new Point((int)(rect.X * deltaX), (int)(rect.Y * deltaY));
+                        Point bp = new Point((int)(rect.Right * deltaX), (int)(rect.Bottom * deltaY));
                         rect = new Rectangle(ap.X, ap.Y, bp.X - ap.X, bp.Y - ap.Y);
 
                         gg.FillEllipse(c, rect);
@@ -674,7 +672,7 @@ namespace CrusaderKingsStoryGen.Forms
                 float yy = this.last.Y;
                 while (Math.Abs(Math.Round(xx) - e.X) > 0.001f && Math.Abs(Math.Round(yy) - e.Y) > 0.001f)
                 {
-                    this.Draw((int) Math.Round(xx), (int) Math.Round(yy));
+                    this.Draw((int)Math.Round(xx), (int)Math.Round(yy));
                     xx += difx;
                     yy += dify;
                 }
@@ -802,8 +800,8 @@ namespace CrusaderKingsStoryGen.Forms
 
                 LockBitmap lbmp = new LockBitmap(bmp);
 
-                float deltaX = w / (float) this.preview.Width;
-                float deltaY = h / (float) this.preview.Height;
+                float deltaX = w / (float)this.preview.Width;
+                float deltaY = h / (float)this.preview.Height;
 
                 lbmp.LockBits();
                 lbmp2.LockBits();
@@ -813,12 +811,12 @@ namespace CrusaderKingsStoryGen.Forms
                 {
                     for (int y = 0; y < bmp.Height; y++)
                     {
-                        float dx = this.mountainProxyBitmap.Width / (float) bmp.Width;
-                        float dy = this.mountainProxyBitmap.Height / (float) bmp.Height;
+                        float dx = this.mountainProxyBitmap.Width / (float)bmp.Width;
+                        float dy = this.mountainProxyBitmap.Height / (float)bmp.Height;
 
-                        var col = this.mountainProxyBitmap.GetPixel((int) (x * dx), (int) (y * dy));
+                        var col = this.mountainProxyBitmap.GetPixel((int)(x * dx), (int)(y * dy));
 
-                        var col2 = this.landProxyBitmap.GetPixel((int) (x * dx), (int) (y * dy));
+                        var col2 = this.landProxyBitmap.GetPixel((int)(x * dx), (int)(y * dy));
 
                         int xx = x;
                         int yy = y;
@@ -1122,7 +1120,7 @@ namespace CrusaderKingsStoryGen.Forms
             this.HeightMapBitmap.LockBits();
             this.bFromHeightMap = true;
             this.adjustedHeight.LockBits();
-            float seaLevel = (float) this.seaLevel.Value;
+            float seaLevel = (float)this.seaLevel.Value;
 
             for (int x = 0; x < this.adjustedHeight.Width; x++)
             {

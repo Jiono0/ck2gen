@@ -49,7 +49,7 @@ namespace CrusaderKingsStoryGen.Managers
 
         private void CreateStart(List<CharacterParser> attackers, List<CharacterParser> defenders, int yearStart)
         {
-            var scope = new ScriptScope(yearStart+".1.1");
+            var scope = new ScriptScope(yearStart + ".1.1");
             foreach (var characterParser in attackers)
             {
                 scope.Add(new ScriptCommand("add_attacker", characterParser.ID, scope));
@@ -70,7 +70,7 @@ namespace CrusaderKingsStoryGen.Managers
             scope.Add(new ScriptCommand("recipient", recipient.ID, scope));
             scope.Add(new ScriptCommand("casus_belli", casusBelli, scope));
             scope.Add(new ScriptCommand("landed_title", title, scope));
-            scope.Add(new ScriptCommand("date", yearStart.ToString()+".1.1", scope));
+            scope.Add(new ScriptCommand("date", yearStart.ToString() + ".1.1", scope));
 
             this.warScript.Root.Add(scope);
         }

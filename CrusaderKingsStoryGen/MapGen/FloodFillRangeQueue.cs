@@ -21,7 +21,7 @@ namespace FloodFill2
             get { return this.size; }
         }
 
-		public FloodFillRangeQueue():this(10000)
+		public FloodFillRangeQueue() : this(10000)
 		{
 		}
 
@@ -41,7 +41,7 @@ namespace FloodFill2
         /// <summary>Adds a <see cref="FloodFillRange"/> to the end of the queue.</summary>
         public void Enqueue(ref FloodFillRange r)
 		{
-			if (this.size+this.head == this.array.Length)
+			if (this.size + this.head == this.array.Length)
 			{
                 FloodFillRange[] newArray = new FloodFillRange[2 * this.array.Length];
                 Array.Copy(this.array, this.head, newArray, 0, this.size);
@@ -49,19 +49,19 @@ namespace FloodFill2
                 this.head = 0;
 			}
 
-            this.array[this.head+(this.size++)] = r;
+            this.array[this.head + (this.size++)] = r;
 		}
 
         /// <summary>Removes and returns the <see cref="FloodFillRange"/> at the beginning of the queue.</summary>
         public FloodFillRange Dequeue()
 		{
             FloodFillRange range = new FloodFillRange();
-            if (this.size>0)
+            if (this.size > 0)
             {
                 range = this.array[this.head];
                 this.array[this.head] = new FloodFillRange();
-                this.head++;//advance head position
-                this.size--;//update size to exclude dequeued item
+                this.head++; //advance head position
+                this.size--; //update size to exclude dequeued item
             }
 
             return range;

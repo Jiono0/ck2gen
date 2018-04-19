@@ -9,7 +9,7 @@ namespace csDelaunay
     public class Triangle {
 		private List<Site> sites;
 
-		public List<Site> Sites {get{return this.sites;}}
+		public List<Site> Sites {get{return this.sites; }}
 
 		public Triangle(Site a, Site b, Site c) {
 			this.sites = new List<Site>();

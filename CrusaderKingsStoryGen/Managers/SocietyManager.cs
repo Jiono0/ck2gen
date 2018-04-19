@@ -106,7 +106,7 @@ namespace CrusaderKingsStoryGen.Managers
 
             SocietyModel.CreateAssassinTemplate(this.Scripts[0].Root, ScripterTriggerManager.instance.script.Root, name, r);
 
-            (this.Scripts[0].Root.Children[this.Scripts[0].Root.Children.Count-1] as ScriptScope).Tag1 = r;
+            (this.Scripts[0].Root.Children[this.Scripts[0].Root.Children.Count - 1] as ScriptScope).Tag1 = r;
 
             //   newSociety.FillFrom(temp, new ScriptScope.CopyDelegate(SocietyModify));
         }

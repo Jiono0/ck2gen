@@ -35,19 +35,19 @@ namespace FloodFill2
                 this.startColor = new byte[] { colorPtr[0], colorPtr[1], colorPtr[2] };
                 this.LinearFloodFill4(ref x, ref y);
 
-                bool[] pixelsChecked=this.pixelsChecked;
+                bool[] pixelsChecked = this.pixelsChecked;
 
                 while (this.ranges.Count > 0)
                 {
                     FloodFillRange range = this.ranges.Dequeue();
 
                     //START THE LOOP UPWARDS AND DOWNWARDS
-                    int upY = range.Y - 1;//so we can pass the y coord by ref
+                    int upY = range.Y - 1; //so we can pass the y coord by ref
                     int downY = range.Y + 1;
                     byte* upPtr = (byte*)(this.scan0 + this.CoordsToIndex(ref range.StartX, ref upY));
                     byte* downPtr = (byte*)(this.scan0 + this.CoordsToIndex(ref range.StartX, ref downY));
-                    int downPxIdx = (this.bitmapWidth * (range.Y + 1)) + range.StartX;//CoordsToPixelIndex(range.StartX,range.Y+1);
-                    int upPxIdx = (this.bitmapWidth * (range.Y - 1)) + range.StartX;//CoordsToPixelIndex(range.StartX, range.Y - 1);
+                    int downPxIdx = (this.bitmapWidth * (range.Y + 1)) + range.StartX; //CoordsToPixelIndex(range.StartX,range.Y+1);
+                    int upPxIdx = (this.bitmapWidth * (range.Y - 1)) + range.StartX; //CoordsToPixelIndex(range.StartX, range.Y - 1);
                     for (int i = range.StartX; i <= range.EndX; i++)
                     {
                         //START LOOP UPWARDS
@@ -79,10 +79,10 @@ namespace FloodFill2
             byte* p = (byte*)(this.scan0 + (this.CoordsToIndex(ref x, ref y)));
 
             //cache some bitmap and fill info in local variables for a little extra speed
-            bool[] pixelsChecked=this.pixelsChecked;
-            byte[] byteFillColor= this.byteFillColor;
-            int bitmapPixelFormatSize=this.bitmapPixelFormatSize;
-            int bitmapWidth=this.bitmapWidth;
+            bool[] pixelsChecked = this.pixelsChecked;
+            byte[] byteFillColor = this.byteFillColor;
+            int bitmapPixelFormatSize = this.bitmapPixelFormatSize;
+            int bitmapWidth = this.bitmapWidth;
 
             //FIND LEFT EDGE OF COLOR AREA
             int lFillLoc = x; //the location to check/fill on the left

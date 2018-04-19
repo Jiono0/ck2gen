@@ -141,7 +141,7 @@ namespace CrusaderKingsStoryGen.MapGen
                     N.Z += 1.0f;
                     N.Z /= 2.0f;
 
-                    outBmp.SetPixel(x, y, Color.FromArgb(255, (int) (N.X*255), (int) (N.Z * 255), (int) (N.Y * 255)));;
+                    outBmp.SetPixel(x, y, Color.FromArgb(255, (int)(N.X * 255), (int)(N.Z * 255), (int)(N.Y * 255)));;
                 }
 
             outBmp.UnlockBits();

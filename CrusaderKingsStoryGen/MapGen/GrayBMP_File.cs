@@ -22,11 +22,11 @@ static class GrayBMP_File
     {
         for (int x = 0; x < 256; x++)
         {
-            if (color.R == Color_palette[x*4 + 2] &&
-                color.G == Color_palette[x*4 + 1] &&
-                color.B == Color_palette[x*4])
+            if (color.R == Color_palette[x * 4 + 2] &&
+                color.G == Color_palette[x * 4 + 1] &&
+                color.B == Color_palette[x * 4])
             {
-                return (byte) x;
+                return (byte)x;
             }
         }
 
@@ -34,10 +34,10 @@ static class GrayBMP_File
     }
 
     //creates byte array of 256 color grayscale palette
-    static byte[] create_palette(bool trees=false, bool rivers=false)
+    static byte[] create_palette(bool trees = false, bool rivers = false)
     {
         byte[] color_palette = new byte[1024];
-        int ii=0;
+        int ii = 0;
         if (rivers)
         {
             setColor(ii++, 0, 255, 0, color_palette);
@@ -95,8 +95,8 @@ static class GrayBMP_File
             setColor(ii++, 213, 160, 0, color_palette);
         }
 
-        if(!rivers)
-        for (int i = 4*16; i < 256; i++)
+        if (!rivers)
+        for (int i = 4 * 16; i < 256; i++)
         {
             color_palette[i * 4 + 0] = (byte)(i); //bule
             color_palette[i * 4 + 1] = (byte)(i); //green
@@ -169,7 +169,7 @@ static class GrayBMP_File
 
 
     //creates a grayscale bitmap file of Image specified by Path
-    static public bool CreateGrayBitmapFile(Image Image, string Path, bool trees = false, bool rivers=false)
+    static public bool CreateGrayBitmapFile(Image Image, string Path, bool trees = false, bool rivers = false)
     {
         try
         {

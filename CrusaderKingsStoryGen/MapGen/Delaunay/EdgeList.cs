@@ -12,11 +12,11 @@ namespace csDelaunay
 		private Halfedge[] hash;
 		private Halfedge leftEnd;
 
-		public Halfedge LeftEnd {get{return this.leftEnd;}}
+		public Halfedge LeftEnd {get{return this.leftEnd; }}
 
 		private Halfedge rightEnd;
 
-		public Halfedge RightEnd {get{return this.rightEnd;}}
+		public Halfedge RightEnd {get{return this.rightEnd; }}
 
 		public void Dispose() {
 			Halfedge halfedge = this.leftEnd;
@@ -86,7 +86,7 @@ namespace csDelaunay
 			Halfedge halfedge;
 
 			// Use hash table to get close to desired halfedge
-			bucket = (int)((p.x - this.xmin)/this.deltaX * this.hashSize);
+			bucket = (int)((p.x - this.xmin) / this.deltaX * this.hashSize);
 			if (bucket < 0) {
 				bucket = 0;
 			}

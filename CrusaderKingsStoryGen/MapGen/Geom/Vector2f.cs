@@ -29,7 +29,7 @@ public struct Vector2f {
 
 	public float magnitude {
 		get{
-			return (float)Math.Sqrt(this.x*this.x + this.y*this.y);
+			return (float)Math.Sqrt(this.x * this.x + this.y * this.y);
 		}
 	}
 
@@ -41,7 +41,7 @@ public struct Vector2f {
 
 	public static Vector2f Normalize(Vector2f a) {
 		float magnitude = a.magnitude;
-		return new Vector2f(a.x/magnitude, a.y/magnitude);
+		return new Vector2f(a.x / magnitude, a.y / magnitude);
 	}
 
 	public override bool Equals(object other) {
@@ -49,13 +49,13 @@ public struct Vector2f {
 			return false;
 		}
 
-		Vector2f v = (Vector2f) other;
+		Vector2f v = (Vector2f)other;
 		return this.x == v.x &&
 			this.y == v.y;
 	}
 
 	public override string ToString () {
-		return string.Format ("[Vector2f]"+this.x+","+this.y);
+		return string.Format ("[Vector2f]" + this.x + "," + this.y);
 	}
 
 	public override int GetHashCode () {
@@ -78,7 +78,7 @@ public struct Vector2f {
     public static float DistanceSquare(Vector2f a, Vector2f b) {
 		float cx = b.x - a.x;
 		float cy = b.y - a.y;
-		return cx*cx + cy*cy;
+		return cx * cx + cy * cy;
 	}
 
 	public static bool operator == (Vector2f a, Vector2f b) {
@@ -92,15 +92,15 @@ public struct Vector2f {
 	}
 
 	public static Vector2f operator - (Vector2f a, Vector2f b) {
-		return new Vector2f( a.x-b.x, a.y-b.y);
+		return new Vector2f( a.x - b.x, a.y - b.y);
 	}
 
 	public static Vector2f operator + (Vector2f a, Vector2f b) {
-		return new Vector2f( a.x+b.x, a.y+b.y);
+		return new Vector2f( a.x + b.x, a.y + b.y);
 	}
 
 	public static Vector2f operator * (Vector2f a, int i) {
-		return new Vector2f(a.x*i, a.y*i);
+		return new Vector2f(a.x * i, a.y * i);
 	}
 
 	public static Vector2f Min(Vector2f a, Vector2f b) {

@@ -136,10 +136,10 @@ namespace CrusaderKingsStoryGen.Managers
                                     if (str.Contains(key))
                                     {
                                         int i = str.IndexOf(';');
-                                        string sub = str.Substring(i+1);
+                                        string sub = str.Substring(i + 1);
                                         if (sub.Contains(key))
                                         {
-                                            str = str.Substring(0, i+1) + sub.ReplaceMinusEscape(key, this.substitutions[key]);
+                                            str = str.Substring(0, i + 1) + sub.ReplaceMinusEscape(key, this.substitutions[key]);
                                             bReplaced = true;
                                         }
                                     }
@@ -277,7 +277,7 @@ namespace CrusaderKingsStoryGen.Managers
 
                 if (ReligionManager.instance.JewGroupSub.Religions[0].holySites.Any())
                 {
-                    var sHolyPlace = ReligionManager.instance.JewGroupSub.Religions[0].holySites.ToList()[1];//First();
+                    var sHolyPlace = ReligionManager.instance.JewGroupSub.Religions[0].holySites.ToList()[1]; //First();
                     this.substitutions["Jerusalem"] = this.Get(sHolyPlace.ProvinceTitle);
                 }
 

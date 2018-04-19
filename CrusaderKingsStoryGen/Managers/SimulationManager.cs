@@ -18,7 +18,7 @@ namespace CrusaderKingsStoryGen.Managers
         public static SimulationManager instance = new SimulationManager();
         public List<CharacterParser> characters = new List<CharacterParser>();
         public int PreYear = 0;
-        public int MaxYear = 400;//1337;
+        public int MaxYear = 400; //1337;
         public static int StartYear = 200;
         public int Year = SimulationManager.StartYear;
 
@@ -452,7 +452,7 @@ namespace CrusaderKingsStoryGen.Managers
                 {
                     if (parser.IsAdjacent(dTitle))
                     {
-                        if(!adj.Contains(parser))
+                        if (!adj.Contains(parser))
                         {
                             adj.Add(parser);
                         }
@@ -870,7 +870,7 @@ namespace CrusaderKingsStoryGen.Managers
                 if (titleParser.Rank == 3 && !titleParser.landless)
                 {
                     kingdoms.Add(titleParser);
-                    if(titleParser.Liege != empire)
+                    if (titleParser.Liege != empire)
                         titleParser.DoSetLiegeEvent(null);
                     else
                     {
@@ -959,7 +959,7 @@ namespace CrusaderKingsStoryGen.Managers
                     return;
                 }
 
-                if (this.Year%100 == 0 && this.Active)
+                if (this.Year % 100 == 0 && this.Active)
                 {
                     CharacterManager.instance.DoPurge();
                 }
@@ -1171,7 +1171,7 @@ namespace CrusaderKingsStoryGen.Managers
 
             int latest = SimulationManager.StartYear;
 
-            if(BookmarkManager.instance.ImportantYears.Count > 0)
+            if (BookmarkManager.instance.ImportantYears.Count > 0)
             {
                 latest = BookmarkManager.instance.ImportantYears[BookmarkManager.instance.ImportantYears.Count - 1];
             }
@@ -1200,7 +1200,7 @@ namespace CrusaderKingsStoryGen.Managers
                         titlee.Holder.GetIslands();
                         dejure = titlee.GetAllDejureProvinces();
                         total = titlee.GetAllProvinces();
-                        if (total.Count / (float) dejure.Count < 0.05f)
+                        if (total.Count / (float)dejure.Count < 0.05f)
                         {
                             int num = titlee.Holder.GetAllProvincesReal().Count;
 
@@ -1242,7 +1242,7 @@ namespace CrusaderKingsStoryGen.Managers
                 if (RandomIntHelper.Next(30) == 0)
                 {
                     SimulationManager.instance.PickMajorEvent();
-                    if(RandomIntHelper.Next(20)==0)
+                    if (RandomIntHelper.Next(20) == 0)
                     {
                         BookmarkManager.instance.AddImportantYear(this.Year - 1);
                     }
@@ -1251,7 +1251,7 @@ namespace CrusaderKingsStoryGen.Managers
 
           //  if (Year > latest + 5)
             {
-                for(int x=0;x<1;x++)
+                for (int x = 0; x < 1; x++)
                 {
                     SimulationManager.instance.PickMinorEvent();
                 }
@@ -1379,7 +1379,7 @@ namespace CrusaderKingsStoryGen.Managers
                             }
                         }
 
-                        if (chr.PrimaryTitle==null)
+                        if (chr.PrimaryTitle == null)
                         {
                             continue;
                         }
@@ -1396,7 +1396,7 @@ namespace CrusaderKingsStoryGen.Managers
 
                      //   DoTech(chr);
 
-                        if (this.Year%10 == 0)
+                        if (this.Year % 10 == 0)
                         {
                          //   chr.PrimaryTitle.PickNewCapital();
                         }
@@ -1408,7 +1408,7 @@ namespace CrusaderKingsStoryGen.Managers
                         }
 
                         chr.Islands = chr.GetIslands();
-                        if (SimulationManager.instance.AllowSimRevolt && chr.Liege==null)
+                        if (SimulationManager.instance.AllowSimRevolt && chr.Liege == null)
                         {
                             this.HandleBreakaways(chr);
                         }
@@ -1482,14 +1482,14 @@ namespace CrusaderKingsStoryGen.Managers
 
                     chanceOfCollapse *= 3;
 
-                    float delta = titleParser.Holder.RealmSize/400.0f;
+                    float delta = titleParser.Holder.RealmSize / 400.0f;
                     delta = 1.0f - delta;
                     if (delta < 0.4f)
                     {
                         delta = 0.4f;
                     }
 
-                    chanceOfCollapse = (int) (chanceOfCollapse*delta);
+                    chanceOfCollapse = (int)(chanceOfCollapse * delta);
 
                     if (RandomIntHelper.Next(chanceOfCollapse) == 0 && !titleParser.Holder.IsMajorPlayer)
                     {
@@ -1828,16 +1828,16 @@ namespace CrusaderKingsStoryGen.Managers
                 }
             }
 
-            if(instance.AllowSimReligionSpread)
+            if (instance.AllowSimReligionSpread)
                 if (chr.PrimaryTitle.Rank >= 2)
                 {
                     //if (Rand.Next(5) == 0)
                     {
-                        var provinces = chr.GetAllProvinces().Where(a=>a.Religion != chr.Religion).ToList();
+                        var provinces = chr.GetAllProvinces().Where(a => a.Religion != chr.Religion).ToList();
                         provinces = provinces.OrderBy(a => a.DistanceTo(chr.PrimaryTitle.CapitalProvince)).ToList();
 
                         int i = 2;
-                        if(RandomIntHelper.Next(30)==0)
+                        if (RandomIntHelper.Next(30) == 0)
                         {
                             i = 10;
                         }
@@ -2019,7 +2019,7 @@ namespace CrusaderKingsStoryGen.Managers
 
             if (this.Year < 800)
             {
-                if (this.Year%5 == 0)
+                if (this.Year % 5 == 0)
                 {
                     chr.PrimaryTitle.DoTechPointTick();
                 }
@@ -2087,7 +2087,7 @@ namespace CrusaderKingsStoryGen.Managers
                 chr.DoMinorPlayer();
             }
 
-            if (chr.IsMajorPlayer && RandomIntHelper.Next(3)==0)
+            if (chr.IsMajorPlayer && RandomIntHelper.Next(3) == 0)
             {
                 chr.DoMajorPlayer();
             }
@@ -2444,9 +2444,9 @@ namespace CrusaderKingsStoryGen.Managers
                 }
 
                 List<TitleParser> choices = new List<TitleParser>();
-                toWar.GetAllProvinces().ForEach(o=> o.Adjacent.Where(p => p.ProvinceTitle != null && p.Title.TopmostTitle != toWar.TopmostTitle).ToList().ForEach(q=> choices.Add(q.Title.TopmostTitle)));
+                toWar.GetAllProvinces().ForEach(o => o.Adjacent.Where(p => p.ProvinceTitle != null && p.Title.TopmostTitle != toWar.TopmostTitle).ToList().ForEach(q => choices.Add(q.Title.TopmostTitle)));
 
-                choices = choices.Distinct().Where(p=>!toWar.Wars.Contains(p)).ToList();
+                choices = choices.Distinct().Where(p => !toWar.Wars.Contains(p)).ToList();
                 if (choices.Count == 0)
                 {
                     return;
@@ -2458,7 +2458,7 @@ namespace CrusaderKingsStoryGen.Managers
             }
         }
 
-        void MajorCollapse(TitleParser toDestroy=null)
+        void MajorCollapse(TitleParser toDestroy = null)
         {
             if (!this.AllowSimRevolt)
             {
@@ -2512,7 +2512,7 @@ namespace CrusaderKingsStoryGen.Managers
                 var toMakeIndependent = 1;
                 choices = choices.OrderBy(a => a.Value.CapitalProvince.DistanceTo(toDestroy.CapitalProvince)).Reverse().ToList();
                 choices2 = choices2.OrderBy(a => a.Value.CapitalProvince.DistanceTo(toDestroy.CapitalProvince)).Reverse().ToList();
-                if(choices2.Count > 0)
+                if (choices2.Count > 0)
                 {
                     choices.Add(choices2[0]);
                 }
@@ -2540,7 +2540,7 @@ namespace CrusaderKingsStoryGen.Managers
         void MajorConquerer()
         {
             var list =
-                TitleManager.instance.Titles.Where(t => t.Holder!=null && t.Holder.PrimaryTitle == t && t.Holder.PrimaryTitle.Rank >= 1 && t.Holder.PrimaryTitle.Rank < 3  && !t.Holder.IsMinorPlayer)
+                TitleManager.instance.Titles.Where(t => t.Holder != null && t.Holder.PrimaryTitle == t && t.Holder.PrimaryTitle.Rank >= 1 && t.Holder.PrimaryTitle.Rank < 3  && !t.Holder.IsMinorPlayer)
                     .OrderBy(t => RandomIntHelper.Next(10000000)).ToList();
 
             if (list.Any())
@@ -2670,7 +2670,7 @@ namespace CrusaderKingsStoryGen.Managers
                 List<CharacterParser.ProvinceIsland> seperateIslands = new List<CharacterParser.ProvinceIsland>();
                 foreach (var provinceIsland in chr.Islands)
                 {
-                    if(!provinceIsland.Provinces.Contains(chr.PrimaryTitle.DejureCapitalProvince))
+                    if (!provinceIsland.Provinces.Contains(chr.PrimaryTitle.DejureCapitalProvince))
                     {
                         seperateIslands.Add(provinceIsland);
                     }
@@ -2699,17 +2699,17 @@ namespace CrusaderKingsStoryGen.Managers
                             // allow a single province gap...
 
                             bool oneAway = false;
-                            if(!chr.IsMajorPlayer && ((chr.PrimaryTitle.Rank > 2 && seperateIsland.Provinces.Count >= 20) || (chr.PrimaryTitle.Rank > 3 && seperateIsland.Provinces.Count >= 30)))
+                            if (!chr.IsMajorPlayer && ((chr.PrimaryTitle.Rank > 2 && seperateIsland.Provinces.Count >= 20) || (chr.PrimaryTitle.Rank > 3 && seperateIsland.Provinces.Count >= 30)))
                             foreach (var p in seperateIsland.Provinces)
                             {
-                                    if (p.Adjacent.Count(a => !a.land && !a.river) > 0 && chr.MainIsland.Provinces.Any(a=>a.Adjacent.Any(b=> !b.land && !b.river)))
+                                    if (p.Adjacent.Count(a => !a.land && !a.river) > 0 && chr.MainIsland.Provinces.Any(a => a.Adjacent.Any(b => !b.land && !b.river)))
                                     {
                                         oneAway = true;
                                     }
                                 }
 
 
-                            if(!oneAway && !chr.IsMajorPlayer)
+                            if (!oneAway && !chr.IsMajorPlayer)
                             {
                                 for (var index = 0; index < seperateIsland.Provinces.Count; index++)
                                 {
@@ -3030,7 +3030,7 @@ namespace CrusaderKingsStoryGen.Managers
                 {
                     var h = chr.NonRelatedHeir;
                     giveAway.CapitalProvince.Title.Log("Given to " + h.ID + " in HandleTitles - Too many king titles");
-                    if(giveAway.CapitalProvince.Title.Liege != null)
+                    if (giveAway.CapitalProvince.Title.Liege != null)
                     {
                         giveAway.CapitalProvince.Title.Liege.Log("Given to " + h.ID + " in HandleTitles - Too many king titles");
                     }
@@ -3053,7 +3053,7 @@ namespace CrusaderKingsStoryGen.Managers
                 if (was == chr.NumberofKingTitles)
                 {
                     timeout--;
-                    if(timeout < 0)
+                    if (timeout < 0)
                     {
                         break;
                     }
@@ -3131,7 +3131,7 @@ namespace CrusaderKingsStoryGen.Managers
                 }
             }
 
-            while (chr.NumberofDukeTitles >= 3 && chr.PrimaryTitle.Rank ==2 && chr.Titles.Any(t=>t.Liege != null && t.Rank == 2) && !chr.IsMajorPlayer)
+            while (chr.NumberofDukeTitles >= 3 && chr.PrimaryTitle.Rank == 2 && chr.Titles.Any(t => t.Liege != null && t.Rank == 2) && !chr.IsMajorPlayer)
             {
                 // give away a duchy to a vassal...
 
@@ -3210,7 +3210,7 @@ namespace CrusaderKingsStoryGen.Managers
                 var capitalDuchy = chr.PrimaryTitle.CapitalProvince.Title.Liege;
 
                 choices.AddRange(chr.Titles.Where(t => t.Rank == 1 && t.Liege != capitalDuchy));
-                if(choices.Count==0)
+                if (choices.Count == 0)
                 {
                     choices.AddRange(chr.Titles.Where(t => t.Rank == 1 && t.Owns.Count > 0 && (capitalDuchy == null || t.Owns[0] != capitalDuchy.CapitalProvince)));
                 }
@@ -3343,7 +3343,7 @@ namespace CrusaderKingsStoryGen.Managers
                 h.GiveTitleSoft(parser);
             }
 
-            if(h.PrimaryTitle.Rank == prim.Rank)
+            if (h.PrimaryTitle.Rank == prim.Rank)
             {
                 h.PrimaryTitle = prim;
             }
@@ -3485,7 +3485,7 @@ namespace CrusaderKingsStoryGen.Managers
             TitleManager.instance.LoadVanilla();
             foreach (var instanceTitle in TitleManager.instance.Titles)
             {
-                if(instanceTitle.Rank > 1)
+                if (instanceTitle.Rank > 1)
                 {
                     instanceTitle.LiegeDirect = null;
                 }

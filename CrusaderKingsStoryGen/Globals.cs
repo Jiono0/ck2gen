@@ -75,7 +75,7 @@ namespace CrusaderKingsStoryGen
 
         public static string ModRootDir
         {
-            get { return ModDir.Substring(0, ModDir.Substring(0, ModDir.Length-1).LastIndexOf('\\')) + "\\"; }
+            get { return ModDir.Substring(0, ModDir.Substring(0, ModDir.Length - 1).LastIndexOf('\\')) + "\\"; }
         }
 
         public static void LoadSettings(StreamReader file, string firstLine)
@@ -100,7 +100,7 @@ namespace CrusaderKingsStoryGen
 
                 foreach (var keyValuePair in list)
                 {
-                    file.WriteLine(keyValuePair.Key + "="+ keyValuePair.Value);
+                    file.WriteLine(keyValuePair.Key + "=" + keyValuePair.Value);
                 }
 
 

@@ -13,17 +13,17 @@ namespace csDelaunay
 
 		private List<Edge> edges;
 
-		public List<Edge> Edges {get{return this.edges;}}
+		public List<Edge> Edges {get{return this.edges; }}
 
 		// TODO generalize this so it doesn't have to be a rectangle;
 		// then we can make the fractal voronois-within-voronois
 		private Rectf plotBounds;
 
-		public Rectf PlotBounds {get{return this.plotBounds;}}
+		public Rectf PlotBounds {get{return this.plotBounds; }}
 
 		private Dictionary<Vector2f,Site> sitesIndexedByLocation;
 
-		public Dictionary<Vector2f,Site> SitesIndexedByLocation {get{return this.sitesIndexedByLocation;}}
+		public Dictionary<Vector2f,Site> SitesIndexedByLocation {get{return this.sitesIndexedByLocation; }}
 
 		private Random weigthDistributor;
 
@@ -128,7 +128,7 @@ namespace csDelaunay
 		}*/
 
 		public List<Edge> HullEdges() {
-			return this.edges.FindAll(edge=>edge.IsPartOfConvexHull());
+			return this.edges.FindAll(edge => edge.IsPartOfConvexHull());
 		}
 
 		public List<Vector2f> HullPointsInOrder() {
@@ -335,30 +335,30 @@ namespace csDelaunay
 					float y1 = 0;
 					float a = 0;
 					// For all vertices except last
-					for (int j = 0; j < region.Count-1; j++) {
+					for (int j = 0; j < region.Count - 1; j++) {
 						x0 = region[j].x;
 						y0 = region[j].y;
-						x1 = region[j+1].x;
-						y1 = region[j+1].y;
-						a = x0*y1 - x1*y0;
+						x1 = region[j + 1].x;
+						y1 = region[j + 1].y;
+						a = x0 * y1 - x1 * y0;
 						signedArea += a;
-						centroid.x += (x0 + x1)*a;
-						centroid.y += (y0 + y1)*a;
+						centroid.x += (x0 + x1) * a;
+						centroid.y += (y0 + y1) * a;
 					}
 
 					// Do last vertex
-					x0 = region[region.Count-1].x;
-					y0 = region[region.Count-1].y;
+					x0 = region[region.Count - 1].x;
+					y0 = region[region.Count - 1].y;
 					x1 = region[0].x;
 					y1 = region[0].y;
-					a = x0*y1 - x1*y0;
+					a = x0 * y1 - x1 * y0;
 					signedArea += a;
-					centroid.x += (x0 + x1)*a;
-					centroid.y += (y0 + y1)*a;
+					centroid.x += (x0 + x1) * a;
+					centroid.y += (y0 + y1) * a;
 
 					signedArea *= 0.5f;
-					centroid.x /= (6*signedArea);
-					centroid.y /= (6*signedArea);
+					centroid.x /= (6 * signedArea);
+					centroid.y /= (6 * signedArea);
 					// Move site to the centroid of its Voronoi cell
 					newPoints.Add(centroid);
 					site = this.sites.Next();

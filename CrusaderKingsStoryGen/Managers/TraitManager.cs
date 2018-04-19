@@ -110,7 +110,7 @@ namespace CrusaderKingsStoryGen.Managers
 );
 
 
-            ScriptScope c = (ScriptScope) this.last.Children[this.last.Children.Count - 1];
+            ScriptScope c = (ScriptScope)this.last.Children[this.last.Children.Count - 1];
             var op = new ScriptScope("opposites");
             c.Add(op);
             this.opposites.Add(op);
@@ -154,7 +154,7 @@ namespace CrusaderKingsStoryGen.Managers
 
             string s = files[RandomIntHelper.Next(files.Length)];
 
-            string srcend = s.Substring(s.LastIndexOf('\\')+1);
+            string srcend = s.Substring(s.LastIndexOf('\\') + 1);
             this.AddTrait(safeName, srcend);
         }
 

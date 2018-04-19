@@ -71,7 +71,7 @@ namespace csDelaunay
 
 			// here's where we assume that the sites have been sorted on y:
 			ymin = this.sites[0].y;
-			ymax = this.sites[this.sites.Count-1].y;
+			ymax = this.sites[this.sites.Count - 1].y;
 
 			return new Rectf(xmin, ymin, xmax - xmin, ymax - ymin);
 		}

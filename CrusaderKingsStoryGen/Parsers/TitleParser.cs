@@ -21,7 +21,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public void SetCapital(ProvinceParser cap)
         {
-            if(this.Scope.Find("capital")!=null)
+            if (this.Scope.Find("capital") != null)
             {
                 this.Scope.Remove(this.Scope.Find("capital"));
             }
@@ -80,8 +80,8 @@ namespace CrusaderKingsStoryGen.Parsers
             Rectangle tot = Rectangle.Empty;
             foreach (var provinceParser in prov)
             {
-                int cx = provinceParser.Bounds.X + (provinceParser.Bounds.Width/2);
-                int cy = provinceParser.Bounds.Y + (provinceParser.Bounds.Height/2);
+                int cx = provinceParser.Bounds.X + (provinceParser.Bounds.Width / 2);
+                int cy = provinceParser.Bounds.Y + (provinceParser.Bounds.Height / 2);
 
                 avx += cx;
                 avy += cy;
@@ -119,7 +119,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
             avx /= prov.Count;
             avy /= prov.Count;
-            this.TextPos = new Point((int) avx, (int) avy);
+            this.TextPos = new Point((int)avx, (int)avy);
             return tot;
         }
 
@@ -483,7 +483,7 @@ namespace CrusaderKingsStoryGen.Parsers
             }
 
             this.SubTitles[sub.Name] = sub;
-            if(sub.Scope.Parent != null)
+            if (sub.Scope.Parent != null)
             {
                 sub.Scope.Parent.Remove(sub.Scope);
             }
@@ -678,7 +678,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public bool PickNewCapital()
         {
-            var c = this.GetAllDirectProvinces().OrderBy(o=>o.TempleCount + o.TownCount + o.TownCount).Reverse().ToList();
+            var c = this.GetAllDirectProvinces().OrderBy(o => o.TempleCount + o.TownCount + o.TownCount).Reverse().ToList();
 
             if (this.government == "republic")
             {
@@ -687,7 +687,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
             if (c.Count == 0)
             {
-                c = this.GetAllProvincesTitleOnly().Where(p=>p.republic == (this.government == "republic")).OrderBy(o => o.TempleCount + o.TownCount + o.CastleCount).Reverse().ToList();
+                c = this.GetAllProvincesTitleOnly().Where(p => p.republic == (this.government == "republic")).OrderBy(o => o.TempleCount + o.TownCount + o.CastleCount).Reverse().ToList();
                 if (c.Count == 0)
                 {
                     return false;
@@ -862,11 +862,11 @@ namespace CrusaderKingsStoryGen.Parsers
         {
             get
             {
-                if(CultureManager.instance.CultureMap.ContainsKey(this.culture))
+                if (CultureManager.instance.CultureMap.ContainsKey(this.culture))
                     return CultureManager.instance.CultureMap[this.culture];
                 else
                 {
-                    return CultureManager.instance.CultureMap.OrderBy(o=> RandomIntHelper.Next(1000000)).First().Value;
+                    return CultureManager.instance.CultureMap.OrderBy(o => RandomIntHelper.Next(1000000)).First().Value;
                 }
             }
         }
@@ -923,7 +923,7 @@ namespace CrusaderKingsStoryGen.Parsers
                 {
                     if (titleParser.Value.Rank > 1)
                         tot += titleParser.Value.TotalTech;
-                    else if(titleParser.Value.Rank==1)
+                    else if (titleParser.Value.Rank == 1)
                     {
                         if (titleParser.Value.Owns.Count == 0)
                         {
@@ -1273,7 +1273,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public void GetRandomLowRankLandedTitle(List<TitleParser> choices)
         {
-            if(this.Owns.Count > 0 && this.Holder.PrimaryTitle.Rank==1)
+            if (this.Owns.Count > 0 && this.Holder.PrimaryTitle.Rank == 1)
             {
                 choices.Add(this);
             }
@@ -1313,7 +1313,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
             foreach (var provinceParser in provinces)
             {
-                if(start.Adjacent.Contains(provinceParser))
+                if (start.Adjacent.Contains(provinceParser))
                 {
                     split.Add(provinceParser);
                 }
@@ -1961,7 +1961,7 @@ namespace CrusaderKingsStoryGen.Parsers
                     }
 
 
-                    float techAdd = closest/1500.0f;
+                    float techAdd = closest / 1500.0f;
                     if (techAdd > 1.0f)
                     {
                         techAdd = 1.0f;
@@ -2168,7 +2168,7 @@ namespace CrusaderKingsStoryGen.Parsers
             }
         }
 
-        public TreeNode AddTreeNode(TreeView inspectTree, TreeNode parent=null)
+        public TreeNode AddTreeNode(TreeView inspectTree, TreeNode parent = null)
         {
             if (this.Name.StartsWith("e_spain"))
             {
@@ -2217,7 +2217,7 @@ namespace CrusaderKingsStoryGen.Parsers
                     res = parent.Nodes.Add(this.Owns[0].EditorName + " " + "(" + tit + ")");
                 }
                 else
-                    res = parent.Nodes.Add(LanguageManager.instance.Get(this.Name) + " " + "("+tit+")");
+                    res = parent.Nodes.Add(LanguageManager.instance.Get(this.Name) + " " + "(" + tit + ")");
                 res.Tag = this;
                 res.ImageIndex = this.Rank;
             }
@@ -2271,8 +2271,8 @@ namespace CrusaderKingsStoryGen.Parsers
                     continue;
                 }
 
-                var title = provinceParser.Title;//provinceParser.Title.FindTopmostTitleContainingAllProvinces(provinces, Holder.PrimaryTitle);
-                if (title.Rank < this.Rank && (title.Holder==null || title.Holder.PrimaryTitle.Rank < this.Rank))
+                var title = provinceParser.Title; //provinceParser.Title.FindTopmostTitleContainingAllProvinces(provinces, Holder.PrimaryTitle);
+                if (title.Rank < this.Rank && (title.Holder == null || title.Holder.PrimaryTitle.Rank < this.Rank))
                 {
                //     if (!title.DoSetLiegeEvent(this))
                     {
@@ -2303,7 +2303,7 @@ namespace CrusaderKingsStoryGen.Parsers
             for (var index = 0; index < titles.Count; index++)
             {
                 var titleParser = titles[index];
-                if (titleParser.Dejure != null && (titleParser.Dejure.Holder == null || titleParser.Dejure.SubTitles.Count==0))
+                if (titleParser.Dejure != null && (titleParser.Dejure.Holder == null || titleParser.Dejure.SubTitles.Count == 0))
                 {
                     int c = 0;
                     List<TitleParser> has = new List<TitleParser>();
@@ -2317,13 +2317,13 @@ namespace CrusaderKingsStoryGen.Parsers
                         }
                     }
 
-                    float percent = c / (float) titleParser.Dejure.DejureSub.Count;
+                    float percent = c / (float)titleParser.Dejure.DejureSub.Count;
 
                     if (percent > 0.5f)
                     {
                         this.Holder.GiveTitleSoft(titleParser.Dejure, true, true);
                         titles.Add(titleParser.Dejure);
-                        if(titleParser.Dejure.Rank < this.Rank)
+                        if (titleParser.Dejure.Rank < this.Rank)
                         {
                             titleParser.Dejure.DoSetLiegeEvent(this);
                         }
@@ -2343,7 +2343,7 @@ namespace CrusaderKingsStoryGen.Parsers
             this.TopmostTitle.ValidateRealm(new List<CharacterParser>(), this.TopmostTitle);
         }
 
-        internal TitleParser FindTopmostTitleContainingAllProvinces(List<ProvinceParser> provinces, TitleParser except=null, bool dejure = true)
+        internal TitleParser FindTopmostTitleContainingAllProvinces(List<ProvinceParser> provinces, TitleParser except = null, bool dejure = true)
         {
             if (this.Owns.Count > 0)
             {
@@ -2368,7 +2368,7 @@ namespace CrusaderKingsStoryGen.Parsers
             {
                 List<ProvinceParser> provinceParsers = null;
 
-                if(dejure)
+                if (dejure)
                 {
                     provinceParsers  = this.GetAllDejureProvinces();
                 }
@@ -2393,7 +2393,7 @@ namespace CrusaderKingsStoryGen.Parsers
                     percent = 0;
                 }
 
-                if (percent <1f || except == this)
+                if (percent < 1f || except == this)
                 {
                     return null;
                 }
@@ -2457,7 +2457,7 @@ namespace CrusaderKingsStoryGen.Parsers
             var choices = new List<CharacterParser>();
             foreach (var titleParser in this.SubTitles)
             {
-                if(titleParser.Value.Holder != null && titleParser.Value.Holder.PrimaryTitle.Rank < this.Rank)
+                if (titleParser.Value.Holder != null && titleParser.Value.Holder.PrimaryTitle.Rank < this.Rank)
                 {
                     choices.Add(titleParser.Value.Holder);
                 }
@@ -2518,7 +2518,7 @@ namespace CrusaderKingsStoryGen.Parsers
                     }
                     else
                     {
-                        this.Log("Made vassal of neighbour (" + toGiveTo.Name+ ") due to being a seperate island");
+                        this.Log("Made vassal of neighbour (" + toGiveTo.Name + ") due to being a seperate island");
                         this.DoSetLiegeEvent(toGiveTo);
                     }
                 }
@@ -2541,7 +2541,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
         private List<TitleParser> GetAllDuchies(List<TitleParser> duchies)
         {
-            if(this.Rank == 2)
+            if (this.Rank == 2)
             {
                 duchies.Add(this);
             }

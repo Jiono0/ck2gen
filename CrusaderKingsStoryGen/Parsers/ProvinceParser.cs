@@ -102,7 +102,7 @@ namespace CrusaderKingsStoryGen.Parsers
                     continue;
                 }
 
-                if (barony.enabled && cc==0)
+                if (barony.enabled && cc == 0)
                 {
                     s.Root.Add(new ScriptCommand(barony.title, barony.type, s.Root));
                 }
@@ -112,7 +112,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
             var cities = this.baronies.Where(c => c.type == "city" && c.enabled);
 
-            if(cities.Any())
+            if (cities.Any())
             if (this.Adjacent.Where(o => !o.land).Count() > 0)
                 s.Root.Do(@"1.1.1 = { 
                    " + cities.First().title + @" = ct_port_1
@@ -222,7 +222,7 @@ namespace CrusaderKingsStoryGen.Parsers
 
         public void AddBarony(string name, TitleParser title)
         {
-             this.baronies.Add(new Barony() { province = this, title = name, titleParser = title, enabled =false});
+             this.baronies.Add(new Barony() { province = this, title = name, titleParser = title, enabled = false});
          }
 
         public CharacterParser TotalLeader
@@ -287,7 +287,7 @@ namespace CrusaderKingsStoryGen.Parsers
                     this._culture.RemoveProvince(this);
                 }
 
-                if (this._culture != value && value != null && this.initialCulture!="" && !this.loadingFromHistoryFiles)
+                if (this._culture != value && value != null && this.initialCulture != "" && !this.loadingFromHistoryFiles)
                 {
                     ScriptScope thing = new ScriptScope();
                     thing.Name = SimulationManager.instance.Year + ".4.1";
@@ -492,7 +492,7 @@ namespace CrusaderKingsStoryGen.Parsers
             {
                 if (child is ScriptCommand)
                 {
-                    ScriptCommand c = (ScriptCommand) child;
+                    ScriptCommand c = (ScriptCommand)child;
 
                     if (c.Name.StartsWith("b_"))
                     {

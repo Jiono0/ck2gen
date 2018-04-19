@@ -37,7 +37,7 @@ namespace CrusaderKingsStoryGen.Forms
                     }
                 }
 
-                if(!found)
+                if (!found)
                 {
                     this.inactiveMods.Items.Add(modN);
                 }
@@ -93,7 +93,7 @@ namespace CrusaderKingsStoryGen.Forms
 
                 this.activeMods.Items.Remove(this.activeMods.SelectedItem);
 
-                this.activeMods.Items.Insert(pos-1, item.ToString());
+                this.activeMods.Items.Insert(pos - 1, item.ToString());
                 this.activeMods.SelectedItem = item;
             }
         }
@@ -104,7 +104,7 @@ namespace CrusaderKingsStoryGen.Forms
             {
                 var item = this.activeMods.SelectedItem;
                 int pos = this.activeMods.SelectedIndex;
-                if (pos == this.activeMods.Items.Count-1)
+                if (pos == this.activeMods.Items.Count - 1)
                 {
                     return;
                 }

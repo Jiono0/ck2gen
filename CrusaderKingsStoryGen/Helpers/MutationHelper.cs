@@ -89,7 +89,7 @@ namespace CrusaderKingsStoryGen.Helpers
 
         public static int TechSpreadRate { get; set; } = 2;
 
-        public static int HoldingDevSpeed { get; set; }= 2;
+        public static int HoldingDevSpeed { get; set; } = 2;
 
  #region Conquerers
         private static int _conquerers = 2;

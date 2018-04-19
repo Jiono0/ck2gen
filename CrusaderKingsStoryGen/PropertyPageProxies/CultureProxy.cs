@@ -165,7 +165,7 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
 
             set
             {
-                this.culture.dna.countTitle= value.AddSafe();
+                this.culture.dna.countTitle = value.AddSafe();
                 MainForm.instance.RefreshTree();
             }
         }
@@ -181,7 +181,7 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
 
             set
             {
-                this.culture.dna.baronTitle= value.AddSafe();
+                this.culture.dna.baronTitle = value.AddSafe();
 
                 MainForm.instance.RefreshTree();
             }

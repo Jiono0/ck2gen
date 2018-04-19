@@ -10,7 +10,7 @@ namespace CrusaderKingsStoryGen.Models
 
     public class SocietyModel
     {
-        public static void CreateAssassinTemplate(ScriptScope parentSociety, ScriptScope parentScriptTrigger, string societyName, ReligionParser religion, ReligionGroupParser religiongroup=null)
+        public static void CreateAssassinTemplate(ScriptScope parentSociety, ScriptScope parentScriptTrigger, string societyName, ReligionParser religion, ReligionGroupParser religiongroup = null)
         {
             if (religiongroup == null)
             {

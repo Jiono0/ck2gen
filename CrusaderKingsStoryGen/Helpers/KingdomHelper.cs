@@ -360,10 +360,10 @@ namespace CrusaderKingsStoryGen.Helpers
                 switch (RandomIntHelper.Next(12))
                 {
                     case 0:
-                        this.founder_named_dynasties = false;//!founder_named_dynasties;
+                        this.founder_named_dynasties = false; //!founder_named_dynasties;
                         break;
                     case 1:
-                        this.dynasty_title_names = false;//!dynasty_title_names;
+                        this.dynasty_title_names = false; //!dynasty_title_names;
                         break;
                     case 2:
                         this.baron_titles_hidden = !this.baron_titles_hidden;

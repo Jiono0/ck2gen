@@ -61,7 +61,7 @@ namespace CrusaderKingsStoryGen.Helpers
         public bool can_grant_kingdoms_and_empires_to_other_government = true;
         public bool can_be_granted_kingdoms_and_empires_by_other_government = true;
         public bool free_retract_vassalage = true;
-        public int max_consorts = 3 ;
+        public int max_consorts = 3;
 
         public double aggression = 4;
         public string name;
@@ -133,7 +133,7 @@ namespace CrusaderKingsStoryGen.Helpers
                 " + (this.title_prefix != null ? @"
 			        title_prefix = " + this.title_prefix : "") + @"
             
-                merchant_republic = " + (this.type=="republic" ? "yes" : "no") + @"
+                merchant_republic = " + (this.type == "republic" ? "yes" : "no") + @"
                 uses_decadence = " + (this.uses_decadence ? "yes" : "no") + @"
                 uses_piety_for_law_change = " + (this.uses_piety_for_law_change ? "yes" : "no") + @"
                 uses_prestige_for_law_change = " + (this.uses_prestige_for_law_change ? "yes" : "no") + @"
@@ -232,7 +232,7 @@ namespace CrusaderKingsStoryGen.Helpers
                 g.DoChange();
             }
 
-            if(!GovernmentManager.instance.governments.Contains(g))
+            if (!GovernmentManager.instance.governments.Contains(g))
             {
                 GovernmentManager.instance.governments.Add(g);
             }

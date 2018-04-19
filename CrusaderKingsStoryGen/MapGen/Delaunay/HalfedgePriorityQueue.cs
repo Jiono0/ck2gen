@@ -79,7 +79,7 @@ namespace csDelaunay
 		}
 
 		private int Bucket(Halfedge halfedge) {
-			int theBucket = (int)((halfedge.ystar - this.ymin)/this.deltaY * this.hashSize);
+			int theBucket = (int)((halfedge.ystar - this.ymin) / this.deltaY * this.hashSize);
 			if (theBucket < 0)
             {
                 theBucket = 0;

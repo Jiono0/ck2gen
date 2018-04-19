@@ -15,7 +15,7 @@ namespace CrusaderKingsStoryGen.Forms
         public TerrainGenNew()
         {
             this.InitializeComponent();
-            this.noise.Init(new Random().Next(100000), 3072/6, 2048/6);
+            this.noise.Init(new Random().Next(100000), 3072 / 6, 2048 / 6);
             //preview.Image = noise.ResultBitmap2;
             this.pictureBox1.Image = this.noise.ResultBitmap;
         }

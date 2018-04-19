@@ -28,7 +28,7 @@ namespace CrusaderKingsStoryGen.Helpers
             return tex.Source;
         }
 
-        public NoiseTextureHelper(int width, int height, IModule source, float delta = 1.0f, float capMax=-1, float capMin=-1)
+        public NoiseTextureHelper(int width, int height, IModule source, float delta = 1.0f, float capMax = -1, float capMin = -1)
         {
             this.Source = new Bitmap(width, height, PixelFormat.Format8bppIndexed);
             ColorPalette pal = this.Source.Palette;
@@ -42,13 +42,13 @@ namespace CrusaderKingsStoryGen.Helpers
 
             this.capMax = capMax;
             this.capMin = capMin;
-            this.DefaultFrequencyDiv = this.DefaultFrequencyDiv*delta;
+            this.DefaultFrequencyDiv = this.DefaultFrequencyDiv * delta;
             this.heights = new double[width,height];
             for (int x = 0; x < width; x++)
             {
                 for (int y = 0; y < height; y++)
                 {
-                    this.SetHeight(x, y, (float)((source.GetValue(x/ this.DefaultFrequencyDiv, 0, y/ this.DefaultFrequencyDiv))));
+                    this.SetHeight(x, y, (float)((source.GetValue(x / this.DefaultFrequencyDiv, 0, y / this.DefaultFrequencyDiv))));
                 }
             }
 
@@ -57,7 +57,7 @@ namespace CrusaderKingsStoryGen.Helpers
 
         public float GetHeightDelta(int x, int y)
         {
-            return (float) ((this.heights[x, y] - this.minRange) / this.Range);
+            return (float)((this.heights[x, y] - this.minRange) / this.Range);
         }
 
         private void ApplyNoise()
@@ -80,7 +80,7 @@ namespace CrusaderKingsStoryGen.Helpers
 
                     double adj = h - this.minRange;
 
-                    adj = adj/range;
+                    adj = adj / range;
                     if (range == 0 || double.IsNaN(range) || double.IsInfinity(range))
                     {
                         adj = this.minRange;

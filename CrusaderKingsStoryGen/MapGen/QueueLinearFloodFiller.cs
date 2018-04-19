@@ -28,14 +28,14 @@ namespace FloodFill2
             //***Prepare for fill.
             this.PrepareForFloodFill(pt);
 
-            this.ranges = new FloodFillRangeQueue(((this.bitmapWidth+this.bitmapHeight)/2)*5);//new Queue<FloodFillRange>();
+            this.ranges = new FloodFillRangeQueue(((this.bitmapWidth + this.bitmapHeight) / 2) * 5); //new Queue<FloodFillRange>();
 
             //***Get starting color.
             int x = pt.X; int y = pt.Y;
             int idx = this.CoordsToByteIndex(ref x, ref y);
             this.startColor = new byte[] { this.bitmap.Pixels[idx], this.bitmap.Pixels[idx + 1], this.bitmap.Pixels[idx + 2] };
 
-            bool[] pixelsChecked=this.pixelsChecked;
+            bool[] pixelsChecked = this.pixelsChecked;
 
             //***Do first call to floodfill.
             this.LinearFill(ref x, ref y);
@@ -47,9 +47,9 @@ namespace FloodFill2
                 FloodFillRange range = this.ranges.Dequeue();
 
 	            //**Check Above and Below Each Pixel in the Floodfill Range
-                int downPxIdx = (this.bitmapWidth * (range.Y + 1)) + range.StartX;//CoordsToPixelIndex(lFillLoc,y+1);
-                int upPxIdx = (this.bitmapWidth * (range.Y - 1)) + range.StartX;//CoordsToPixelIndex(lFillLoc, y - 1);
-                int upY=range.Y - 1;//so we can pass the y coord by ref
+                int downPxIdx = (this.bitmapWidth * (range.Y + 1)) + range.StartX; //CoordsToPixelIndex(lFillLoc,y+1);
+                int upPxIdx = (this.bitmapWidth * (range.Y - 1)) + range.StartX; //CoordsToPixelIndex(lFillLoc, y - 1);
+                int upY = range.Y - 1; //so we can pass the y coord by ref
                 int downY = range.Y + 1;
                 int tempIdx;
                 for (int i = range.StartX; i <= range.EndX; i++)
@@ -89,22 +89,22 @@ namespace FloodFill2
        void LinearFill(ref int x, ref int y)
         {
            //cache some bitmap and fill info in local variables for a little extra speed
-           byte[] bitmapBits=this.bitmapBits;
-           bool[] pixelsChecked=this.pixelsChecked;
-           byte[] byteFillColor= this.byteFillColor;
-           int bitmapPixelFormatSize=this.bitmapPixelFormatSize;
-           int bitmapWidth=this.bitmapWidth;
+           byte[] bitmapBits = this.bitmapBits;
+           bool[] pixelsChecked = this.pixelsChecked;
+           byte[] byteFillColor = this.byteFillColor;
+           int bitmapPixelFormatSize = this.bitmapPixelFormatSize;
+           int bitmapWidth = this.bitmapWidth;
 
             //***Find Left Edge of Color Area
             int lFillLoc = x; //the location to check/fill on the left
             int idx = this.CoordsToByteIndex(ref x, ref y); //the byte index of the current location
-            int pxIdx = (bitmapWidth * y) + x;//CoordsToPixelIndex(x,y);
+            int pxIdx = (bitmapWidth * y) + x; //CoordsToPixelIndex(x,y);
             while (true)
             {
                 //**fill with the color
                 bitmapBits[idx] = byteFillColor[0];
-                bitmapBits[idx+1] = byteFillColor[1];
-                bitmapBits[idx+2] = byteFillColor[2];
+                bitmapBits[idx + 1] = byteFillColor[1];
+                bitmapBits[idx + 2] = byteFillColor[2];
                 //**indicate that this pixel has already been checked and filled
                 pixelsChecked[pxIdx] = true;
                 //**screen update for 'slow' fill
@@ -115,7 +115,7 @@ namespace FloodFill2
                 //**de-increment
                 lFillLoc--;     //de-increment counter
                 pxIdx--;        //de-increment pixel index
-                idx -= bitmapPixelFormatSize;//de-increment byte index
+                idx -= bitmapPixelFormatSize; //de-increment byte index
                 //**exit loop if we're at edge of bitmap or color area
                 if (lFillLoc <= 0 || (pixelsChecked[pxIdx]) || !this.CheckPixel(ref idx))
                 {
@@ -145,7 +145,7 @@ namespace FloodFill2
                 //**increment
                 rFillLoc++;     //increment counter
                 pxIdx++;        //increment pixel index
-                idx += bitmapPixelFormatSize;//increment byte index
+                idx += bitmapPixelFormatSize; //increment byte index
                 //**exit loop if we're at edge of bitmap or color area
                 if (rFillLoc >= bitmapWidth || pixelsChecked[pxIdx] || !this.CheckPixel(ref idx))
                 {
@@ -209,7 +209,7 @@ namespace FloodFill2
 
         public FloodFillRange(int startX, int endX, int y)
         {
-            this.StartX=startX;
+            this.StartX = startX;
             this.EndX = endX;
             this.Y = y;
         }

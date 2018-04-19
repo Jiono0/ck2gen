@@ -35,9 +35,9 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
             {
                 using (ColorPickerDialog form = new ColorPickerDialog())
                 {
-                    if(value !=null)
+                    if (value != null)
                     {
-                        form.Color =(Color) value ;
+                        form.Color = (Color)value;
                     }
 
                     if (svc.ShowDialog(form) == DialogResult.OK)

@@ -114,7 +114,7 @@ namespace csDelaunay
 
 				if (!fast) {
 					dxs = topSite.x - this.edge.LeftSite.x;
-					above = this.edge.b * (dxp * dxp - dyp * dyp) < dxs * dyp * (1+2 * dxp/dxs + this.edge.b * this.edge.b);
+					above = this.edge.b * (dxp * dxp - dyp * dyp) < dxs * dyp * (1 + 2 * dxp / dxs + this.edge.b * this.edge.b);
 					if (this.edge.b < 0) {
 						above = !above;
 					}

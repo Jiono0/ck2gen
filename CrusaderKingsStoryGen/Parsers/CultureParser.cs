@@ -287,8 +287,8 @@
 
         public void ScopeCultureDetails()
         {
-            List<string> maleNameBlockSet;//= new List<string>();
-            List<string> femaleNameBlockSet;//= new List<string>();
+            List<string> maleNameBlockSet; //= new List<string>();
+            List<string> femaleNameBlockSet; //= new List<string>();
 
             maleNameBlockSet = dna.maleNameBlockSet;
             femaleNameBlockSet = dna.femaleNameBlockSet;

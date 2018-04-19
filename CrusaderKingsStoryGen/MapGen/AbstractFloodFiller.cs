@@ -104,13 +104,13 @@ namespace FloodFill2
             //GdipGetImageWidth() and GdipGetImageHeight() respectively in gdiplus.dll -
             //which means major overhead.
             this.byteFillColor = new byte[] { this.fillColor.B, this.fillColor.G, this.fillColor.R };
-            this.bitmapStride=this.bitmap.Stride;
-            this.bitmapPixelFormatSize=this.bitmap.Depth/8;
+            this.bitmapStride = this.bitmap.Stride;
+            this.bitmapPixelFormatSize = this.bitmap.Depth / 8;
 
             this.bitmapWidth = this.bitmap.Width;
             this.bitmapHeight = this.bitmap.Height;
 
-            this.pixelsChecked = new bool[(this.bitmap.Width* this.bitmap.Height)];
+            this.pixelsChecked = new bool[(this.bitmap.Width * this.bitmap.Height)];
         }
     }
 }

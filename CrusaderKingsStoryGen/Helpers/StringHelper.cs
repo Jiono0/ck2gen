@@ -79,7 +79,7 @@ namespace CrusaderKingsStoryGen.Helpers
             int nIndex = 0;
             do
             {
-                lIndex = nIndex+1;
+                lIndex = nIndex + 1;
                 nIndex = str.IndexOf(toCount, lIndex);
                 if (nIndex != -1)
                 {
@@ -96,7 +96,7 @@ namespace CrusaderKingsStoryGen.Helpers
 
             do
             {
-                fromIdx = str.IndexOf(from, fromIdx+1);
+                fromIdx = str.IndexOf(from, fromIdx + 1);
                 if (fromIdx == -1)
                 {
                     break;
@@ -209,7 +209,7 @@ namespace CrusaderKingsStoryGen.Helpers
                     if (end != -1)
                     {
                         string token = str.Substring(x, end - x + 1);
-                        remain = str.Substring(end+1).Trim();
+                        remain = str.Substring(end + 1).Trim();
                         return token.Trim();
                     }
                 }
@@ -221,7 +221,7 @@ namespace CrusaderKingsStoryGen.Helpers
 
                     return token.Trim();
                 }
-                else if (c == '=' && x==0)
+                else if (c == '=' && x == 0)
                 {
                     string token = "=";
                     remain = str.Substring(1).Trim();
