@@ -19,8 +19,9 @@ namespace CrusaderKingsStoryGen.Managers
     using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.Parsers;
     using CrusaderKingsStoryGen.ScriptHelpers;
+    using DevIL;
 
-    class MapManager
+    public class MapManager
     {
         public class ProvinceMapBitmap
         {
@@ -969,11 +970,11 @@ namespace CrusaderKingsStoryGen.Managers
             {
                 if (MainForm.instance.GenerateMap)
                 {
-                    this.colorMap = DevIL.DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
+                    this.colorMap = DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
                 }
                 else
                 {
-                    this.colorMap = DevIL.DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
+                    this.colorMap = DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
                 }
             }
 
@@ -1001,11 +1002,11 @@ namespace CrusaderKingsStoryGen.Managers
             {
                 if (MainForm.instance.GenerateMap)
                 {
-                    this.colorMap = DevIL.DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
+                    this.colorMap = DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
                 }
                 else
                 {
-                    this.colorMap = DevIL.DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
+                    this.colorMap = DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
                 }
             }
 
@@ -1034,11 +1035,11 @@ namespace CrusaderKingsStoryGen.Managers
             {
                 if (MainForm.instance.GenerateMap)
                 {
-                    this.colorMap = DevIL.DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
+                    this.colorMap = DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
                 }
                 else
                 {
-                    this.colorMap = DevIL.DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
+                    this.colorMap = DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
                 }
             }
 
@@ -1066,11 +1067,11 @@ namespace CrusaderKingsStoryGen.Managers
             {
                 if (MainForm.instance.GenerateMap)
                 {
-                    this.colorMap = DevIL.DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
+                    this.colorMap = DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
                 }
                 else
                 {
-                    this.colorMap = DevIL.DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
+                    this.colorMap = DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
                 }
             }
 
@@ -1126,11 +1127,11 @@ namespace CrusaderKingsStoryGen.Managers
                 {
                     if (MainForm.instance.GenerateMap)
                     {
-                        this.colorMap = DevIL.DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
+                        this.colorMap = DevIL.LoadBitmap(Globals.ModDir + "map\\terrain.bmp");
                     }
                     else
                     {
-                        this.colorMap = DevIL.DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
+                        this.colorMap = DevIL.LoadBitmap(Globals.MapDir + "map\\terrain\\colormap.dds");
                     }
                 }
 

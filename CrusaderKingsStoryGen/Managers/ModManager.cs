@@ -24,7 +24,7 @@ namespace CrusaderKingsStoryGen.Managers
             mod.name = "vanilla";
             this.Mods.Add(mod);
             this.rootDir = Globals.GameDir;
-            this.LoadDir(Globals.GameDir, mod);
+            this.LoadDir(new string[] { Globals.GameDir }, mod);
         }
 
         public void Load(string modFile)
@@ -32,7 +32,7 @@ namespace CrusaderKingsStoryGen.Managers
             Mod mod = new Mod();
             mod.name = modFile.Substring(modFile.LastIndexOf("\\") + 1).Replace(".mod", "").Trim();
             this.Mods.Add(mod);
-            string usePath = "";
+            string usePath = Globals.GameDir;
             using (System.IO.StreamReader file =
                 new System.IO.StreamReader(modFile, Encoding.GetEncoding(1252)))
             {
@@ -69,8 +69,12 @@ namespace CrusaderKingsStoryGen.Managers
                 }
             }
 
-            this.rootDir = modFile.Substring(0, modFile.LastIndexOf("\\") + 1) + usePath.Replace("mod\\", "") + "\\";
-            this.LoadDir(this.rootDir, mod);
+            //this.rootDir = modFile.Substring(0, modFile.LastIndexOf("\\") + 1) + usePath.Replace("mod\\", "");
+            string[] dirs = new string[] {
+            modFile.Substring(0, modFile.LastIndexOf("\\") + 1),
+            usePath.Replace("mod\\", string.Empty),
+            };
+            this.LoadDir(dirs, mod);
         }
 
         public string[] GetFiles(string path)
@@ -91,16 +95,15 @@ namespace CrusaderKingsStoryGen.Managers
             return str.ToArray();
         }
 
-        public void LoadDir(string dir, Mod mod)
+        public void LoadDir(string[] dir, Mod mod)
         {
-            string[] dirs = Directory.GetDirectories(dir);
-
-            foreach (var s in dirs)
+            List<string> directories = new List<string>();
+            foreach (var directory in dir)
             {
-                this.LoadDir(s, mod);
+                directories.Add(Directory.GetFiles(directory)[0]);
             }
 
-            string[] files = Directory.GetFiles(dir);
+            string[] files = directories.ToArray();
 
             foreach (var file in files)
             {
@@ -123,7 +126,7 @@ namespace CrusaderKingsStoryGen.Managers
             this.LoadVanilla();
             foreach (var m in this.ModsToLoad)
             {
-                this.Load(Globals.ModRootDir + m + ".mod");
+                this.Load(Globals.ModRootDir + m + ".mod.mod");
             }
         }
 

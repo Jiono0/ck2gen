@@ -50,7 +50,15 @@ namespace CrusaderKingsStoryGen.Forms
 
         private void inactiveMods_MouseDoubleClick(object sender, MouseEventArgs e)
         {
-            this.Add(this.inactiveMods.SelectedItem.ToString());
+            try
+            {
+                this.Add(this.inactiveMods.SelectedItem.ToString());
+            }
+            catch (NullReferenceException ex)
+            {
+                // Silently fail to allow continued selection of mods
+                return;
+            }
         }
 
         public void Add(string str)

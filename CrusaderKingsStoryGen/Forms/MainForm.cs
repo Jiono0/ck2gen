@@ -21,6 +21,7 @@ namespace CrusaderKingsStoryGen.Forms
     using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.Managers;
     using CrusaderKingsStoryGen.Parsers;
+    using DevIL;
 
     public partial class MainForm : Form
     {
