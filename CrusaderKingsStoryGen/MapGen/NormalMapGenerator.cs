@@ -6,6 +6,7 @@ namespace CrusaderKingsStoryGen.MapGen
 {
     using System;
     using System.Drawing;
+    using CrusaderKingsStoryGen.Helpers;
     using LibNoise.Modfiers;
 
     public struct Vector3

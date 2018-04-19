@@ -8,6 +8,7 @@ namespace CrusaderKingsStoryGen.MapGen
     using System.Drawing;
     using System.Drawing.Imaging;
     using System.IO;
+    using CrusaderKingsStoryGen.Helpers;
     using LibNoise.Modfiers;
 
     public class GeneratedTerrainMap

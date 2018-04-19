@@ -4,6 +4,7 @@
 
 namespace CrusaderKingsStoryGen.MapGen
 {
+    using CrusaderKingsStoryGen.Helpers;
     using System;
 
     public class NoiseGenerator

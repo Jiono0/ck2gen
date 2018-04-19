@@ -12,6 +12,7 @@ namespace CrusaderKingsStoryGen.MapGen
     using System.IO;
     using System.Linq;
     using System.Text;
+    using CrusaderKingsStoryGen.Helpers;
     using csDelaunay;
     using LibNoise.Modfiers;
 

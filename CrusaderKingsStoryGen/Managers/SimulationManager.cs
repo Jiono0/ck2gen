@@ -9,7 +9,9 @@ namespace CrusaderKingsStoryGen.Managers
     using System.Diagnostics;
     using System.Linq;
     using CrusaderKingsStoryGen.Forms;
+    using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class SimulationManager
     {

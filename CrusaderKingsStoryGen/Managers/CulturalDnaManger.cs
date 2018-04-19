@@ -11,10 +11,10 @@ namespace CrusaderKingsStoryGen.Managers
     internal class CulturalDnaManager
     {
         public static CulturalDnaManager instance = new CulturalDnaManager();
-        public Dictionary<string, StringManipulationHelper> dna = new Dictionary<string, StringManipulationHelper>();
+        public Dictionary<string, KingdomHelper> dna = new Dictionary<string, KingdomHelper>();
         public List<string> dnaTypes = new List<string>();
 
-        public StringManipulationHelper GetVanillaCulture(string culture)
+        public KingdomHelper GetVanillaCulture(string culture)
         {
             if (culture == null)
             {
@@ -24,7 +24,7 @@ namespace CrusaderKingsStoryGen.Managers
             return this.dna[culture]; ;
         }
 
-        public StringManipulationHelper GetVanillaCulture(StringManipulationHelper not)
+        public KingdomHelper GetVanillaCulture(KingdomHelper not)
         {
             string culture = this.dnaTypes[RandomIntHelper.Next(this.dnaTypes.Count)];
 
@@ -36,16 +36,16 @@ namespace CrusaderKingsStoryGen.Managers
             return this.dna[culture]; ;
         }
 
-        public StringManipulationHelper GetNewFromVanillaCulture(string culture = null)
+        public KingdomHelper GetNewFromVanillaCulture(string culture = null)
         {
             if (culture == null)
             {
                 culture = this.dnaTypes[RandomIntHelper.Next(this.dnaTypes.Count)];
             }
 
-            StringManipulationHelper dna = this.dna[culture];
+            KingdomHelper dna = this.dna[culture];
             dna.culture = null;
-            StringManipulationHelper dna2 = dna.Mutate(32, null);
+            KingdomHelper dna2 = dna.Mutate(32, null);
             dna2.DoRandom();
             return dna2;
         }
@@ -66,7 +66,7 @@ namespace CrusaderKingsStoryGen.Managers
                             continue;
                         }
 
-                        StringManipulationHelper dna = new StringManipulationHelper();
+                        KingdomHelper dna = new KingdomHelper();
                         foreach (var scope in scriptScope.Scopes)
                         {
                             if (scope.Name == "male_names" || scope.Name == "female_names")

@@ -11,6 +11,7 @@ namespace CrusaderKingsStoryGen.Forms
     using System.Drawing.Imaging;
     using System.IO;
     using System.Windows.Forms;
+    using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.MapGen;
     using LibNoise.Modfiers;
 

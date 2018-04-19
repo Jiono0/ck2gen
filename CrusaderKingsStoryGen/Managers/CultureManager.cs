@@ -644,7 +644,7 @@ namespace CrusaderKingsStoryGen.Managers
                             p.Cultures.Add(r);
                             r.Group = p;
                             r.LanguageName = LanguageManager.instance.Get(r.Name);
-                            StringManipulationHelper dna = new StringManipulationHelper();
+                            KingdomHelper dna = new KingdomHelper();
                             foreach (var scope in r.Scope.Scopes)
                             {
                                 if (scope.Name == "male_names" || scope.Name == "female_names")

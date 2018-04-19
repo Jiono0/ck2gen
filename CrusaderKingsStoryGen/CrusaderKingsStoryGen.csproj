@@ -116,7 +116,6 @@
     </Compile>
     <Compile Include="Helpers\KingdomHelper.cs" />
     <Compile Include="Managers\CulturalDnaManger.cs" />
-    <Compile Include="Helpers\StringManipulationHelper.cs" />
     <Compile Include="Managers\CultureManager.cs" />
     <Compile Include="Helpers\DateHelper.cs" />
     <Compile Include="Managers\DecisionManager.cs" />

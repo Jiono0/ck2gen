@@ -281,7 +281,7 @@ namespace CrusaderKingsStoryGen.Parsers
         public void CreateRandomReligion(ReligionGroupParser group)
         {
             string culture = "";
-            StringManipulationHelper dna = null;
+            KingdomHelper dna = null;
             if (this.capital == null)
             {
                 dna = CulturalDnaManager.instance.GetVanillaCulture((string) null);
@@ -325,7 +325,7 @@ namespace CrusaderKingsStoryGen.Parsers
         }
 
         private void DoReligionScope(string god, string devil, string priest, string scripture_name, string crusade_name,
-            StringManipulationHelper dna, int r, int g, int b, bool bNew = true)
+            KingdomHelper dna, int r, int g, int b, bool bNew = true)
         {
             string safegod = StarHelper.SafeName(god);
             string safedevil = StarHelper.SafeName(devil);
@@ -530,7 +530,7 @@ namespace CrusaderKingsStoryGen.Parsers
         public int r;
         public int g;
         public int b;
-        private StringManipulationHelper dna;
+        private KingdomHelper dna;
         public bool uses_decadence;
         private bool uses_jizya_tax;
 

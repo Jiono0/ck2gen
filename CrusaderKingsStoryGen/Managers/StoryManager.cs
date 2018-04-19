@@ -6,6 +6,7 @@ namespace CrusaderKingsStoryGen.Managers
 {
     using System.Collections.Generic;
     using CrusaderKingsStoryGen.Forms;
+    using CrusaderKingsStoryGen.Helpers;
 
     class StoryManager
     {
