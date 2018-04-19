@@ -4,12 +4,13 @@
 
 namespace CrusaderKingsStoryGen.Models
 {
+    using CrusaderKingsStoryGen.Managers;
     using CrusaderKingsStoryGen.Parsers;
     using CrusaderKingsStoryGen.ScriptHelpers;
 
-    partial class SocietyManager
+    public class SocietyModel
     {
-        public void CreateAssassinTemplate(ScriptScope parentSociety, ScriptScope parentScriptTrigger, string societyName, ReligionParser religion, ReligionGroupParser religiongroup=null)
+        public static void CreateAssassinTemplate(ScriptScope parentSociety, ScriptScope parentScriptTrigger, string societyName, ReligionParser religion, ReligionGroupParser religiongroup=null)
         {
             if (religiongroup == null)
             {
@@ -343,8 +344,7 @@ namespace CrusaderKingsStoryGen.Models
                 }}
             ");
 
-
-            this.secretSocieties.Add((parentSociety.Children[parentSociety.Children.Count-1] as ScriptScope).Name);
+            SocietyManager.instance.secretSocieties.Add((parentSociety.Children[parentSociety.Children.Count - 1] as ScriptScope).Name);
         }
     }
 }

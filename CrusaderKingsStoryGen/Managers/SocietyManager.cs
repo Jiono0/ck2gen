@@ -5,13 +5,14 @@
 namespace CrusaderKingsStoryGen.Managers
 {
     using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Models;
     using CrusaderKingsStoryGen.Parsers;
     using CrusaderKingsStoryGen.ScriptHelpers;
     using System;
     using System.Collections.Generic;
     using System.IO;
 
-    partial class SocietyManager
+    public class SocietyManager
     {
         public enum Template
         {
@@ -57,7 +58,7 @@ namespace CrusaderKingsStoryGen.Managers
             Template.hermetics,
          };
 
-        public List<string> secretSocieties = new List<string>();
+        public List<string> secretSocieties { get; set; }
         public List<string> monasticSocieties = new List<string>();
         public static SocietyManager instance = new SocietyManager();
         public List<Script> Scripts = new List<Script>();
@@ -67,6 +68,11 @@ namespace CrusaderKingsStoryGen.Managers
         private string contextName;
         public Dictionary<Template, List<string>> TestContainer = new Dictionary<Template, List<string>>();
         private ReligionParser contextReligion;
+
+        public SocietyManager()
+        {
+            secretSocieties = new List<string>();
+        }
 
         public void CreateSocietyForReligion(ReligionParser r, string c, ScriptScope scope, Template template)
         {
@@ -98,7 +104,7 @@ namespace CrusaderKingsStoryGen.Managers
             this.contextName = name;
             this.contextReligion = r;
 
-            this.CreateAssassinTemplate(this.Scripts[0].Root, ScripterTriggerManager.instance.script.Root, name, r);
+            SocietyModel.CreateAssassinTemplate(this.Scripts[0].Root, ScripterTriggerManager.instance.script.Root, name, r);
 
             (this.Scripts[0].Root.Children[this.Scripts[0].Root.Children.Count-1] as ScriptScope).Tag1 = r;
 
