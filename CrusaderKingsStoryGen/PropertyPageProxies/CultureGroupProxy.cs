@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// <copyright file="CultureGroupProxy.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
+
+using CrusaderKingsStoryGen.Parsers;
 
 namespace CrusaderKingsStoryGen.PropertyPageProxies
 {

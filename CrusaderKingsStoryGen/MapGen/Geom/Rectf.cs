@@ -1,7 +1,8 @@
-﻿using System.Collections;
+﻿// <copyright file="Rectf.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 public struct Rectf {
-	
 	public static readonly Rectf zero = new Rectf(0,0,0,0);
 	public static readonly Rectf one = new Rectf(1,1,1,1);
 
@@ -16,36 +17,36 @@ public struct Rectf {
 
 	public float left {
 		get {
-			return x;}
+			return this.x; }
 	}
 
 	public float right {
 		get {
-			return x+width;
+			return this.x + this.width;
 		}
 	}
 
 	public float top {
 		get {
-			return y;
+			return this.y;
 		}
 	}
-	
+
 	public float bottom {
 		get {
-			return y+height;
+			return this.y + this.height;
 		}
 	}
 
 	public Vector2f topLeft {
 		get {
-			return new Vector2f(left, top);
+			return new Vector2f(this.left, this.top);
 		}
 	}
 
 	public Vector2f bottomRight {
 		get {
-			return new Vector2f(right, bottom);
+			return new Vector2f(this.right, this.bottom);
 		}
 	}
 }

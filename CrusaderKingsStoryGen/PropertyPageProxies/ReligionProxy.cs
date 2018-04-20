@@ -1,13 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// <copyright file="ReligionProxy.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace CrusaderKingsStoryGen.PropertyPageProxies
 {
+    using System.ComponentModel;
+    using System.Drawing;
+    using CrusaderKingsStoryGen.Forms;
+    using CrusaderKingsStoryGen.Helpers;
+    using CrusaderKingsStoryGen.Managers;
+    using CrusaderKingsStoryGen.Parsers;
+
     class ReligionProxy
     {
         private ReligionParser religion;
@@ -16,150 +19,171 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         {
             this.religion = title;
         }
+
         [Category("Religion Details"),
          DisplayName("Name")]
         public string Name
         {
             get
             {
-                return religion.LanguageName;
-
+                return this.religion.LanguageName;
             }
+
             set
             {
-                religion.LanguageName = value;
-                LanguageManager.instance.Add(religion.Scope.Name, value);
+                this.religion.LanguageName = value;
+                LanguageManager.instance.Add(this.religion.Scope.Name, value);
 
-                Form1.instance.RefreshTree();
+                MainForm.instance.RefreshTree();
             }
         }
 
         void test()
         {
-            
         }
 
         [Category("Religion Head"),
          DisplayName("Head Name")]
         public string PopeName
         {
-            get { return religion.PopeName.Lang(); }
+            get { return this.religion.PopeName.Lang(); }
+
             set
             {
-                religion.PopeName = value.AddSafe();
-                religion.ScopeReligionDetails();
+                this.religion.PopeName = value.AddSafe();
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Religion Head"),
               DisplayName("Has Head")]
         public bool HasHead
         {
-            get { return religion.hasLeader; }
+            get { return this.religion.hasLeader; }
+
             set
             {
-                religion.hasLeader = value;
-                religion.ScopeReligionDetails();
+                this.religion.hasLeader = value;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Religion Traditions"),
                     DisplayName("Heir Designation")]
         public bool HeirDes
         {
-            get { return religion.has_heir_designation; }
+            get { return this.religion.has_heir_designation; }
+
             set
             {
-                religion.has_heir_designation = value;
-                religion.ScopeReligionDetails();
+                this.religion.has_heir_designation = value;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Religion Traditions"),
                     DisplayName("Concubines")]
         public int Concubines
         {
-            get { return religion.max_consorts; }
+            get { return this.religion.max_consorts; }
+
             set
             {
-                religion.max_consorts = value;
-                religion.max_wives = 1;
-                religion.ScopeReligionDetails();
+                this.religion.max_consorts = value;
+                this.religion.max_wives = 1;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Marriage Rules"),
            DisplayName("Max Wives")]
         public int Wives
         {
-            get { return religion.max_wives; }
+            get { return this.religion.max_wives; }
+
             set
             {
-                religion.max_wives = value;
-                religion.max_consorts = 0;
-                religion.ScopeReligionDetails();
+                this.religion.max_wives = value;
+                this.religion.max_consorts = 0;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Marriage Rules"),
                DisplayName("Sibling Marriage")]
         public bool SiblingMarriage
         {
-            get { return religion.bs_marriage; }
+            get { return this.religion.bs_marriage; }
+
             set
             {
-                religion.bs_marriage = value;
-                religion.ScopeReligionDetails();
+                this.religion.bs_marriage = value;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Marriage Rules"),
                 DisplayName("Parent Child Marriage")]
         public bool ParentChildMarriage
         {
-            get { return religion.pc_marriage; }
+            get { return this.religion.pc_marriage; }
+
             set
             {
-                religion.pc_marriage = value;
-                religion.ScopeReligionDetails();
+                this.religion.pc_marriage = value;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Marriage Rules"),
                     DisplayName("Uncle-Niece/Aunty-Nephew Marriage")]
         public bool UncleMarriage
         {
-            get { return !religion.psc_marriage; }
+            get { return !this.religion.psc_marriage; }
+
             set
             {
-                religion.psc_marriage = !value;
-                religion.ScopeReligionDetails();
+                this.religion.psc_marriage = !value;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Marriage Rules"),
                             DisplayName("Cousin Marriage")]
         public bool CousinMarriage
         {
-            get { return !religion.cousin_marriage; }
+            get { return !this.religion.cousin_marriage; }
+
             set
             {
-                religion.cousin_marriage = !value;
-                religion.ScopeReligionDetails();
+                this.religion.cousin_marriage = !value;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Marriage Rules"),
         DisplayName("Matrilineal Marriage")]
         public bool Matrilineal
         {
-            get { return !religion.matrilineal_marriages; }
+            get { return !this.religion.matrilineal_marriages; }
+
             set
             {
-                religion.matrilineal_marriages = !value;
-                religion.ScopeReligionDetails();
+                this.religion.matrilineal_marriages = !value;
+                this.religion.ScopeReligionDetails();
             }
         }
+
         [Category("Marriage Rules"),
              DisplayName("Religious Intermarrying")]
         public bool Intermarry
         {
-            get { return !religion.intermarry; }
+            get { return !this.religion.intermarry; }
+
             set
             {
-                religion.intermarry = !value;
-                religion.ScopeReligionDetails();
+                this.religion.intermarry = !value;
+                this.religion.ScopeReligionDetails();
             }
         }
 
@@ -172,16 +196,15 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         {
             get
             {
-                return Color.FromArgb(255, religion.r, religion.g, religion.b);
-                
+                return Color.FromArgb(255, this.religion.r, this.religion.g, this.religion.b);
             }
+
             set
             {
-                religion.r = value.R;
-                religion.g = value.G;
-                religion.b = value.B;
+                this.religion.r = value.R;
+                this.religion.g = value.G;
+                this.religion.b = value.B;
             }
         }
-
     }
 }

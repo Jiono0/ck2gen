@@ -1,40 +1,48 @@
-﻿namespace CrusaderKingsStoryGen.PropertyPageProxies
+﻿// <copyright file="TitleProxy.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
+
+namespace CrusaderKingsStoryGen.PropertyPageProxies
 {
     using System.ComponentModel;
     using System.Drawing;
+    using CrusaderKingsStoryGen.Forms;
+    using CrusaderKingsStoryGen.Parsers;
+    using CrusaderKingsStoryGen.ScriptHelpers;
 
     class TitleProxy
     {
         private TitleParser title;
-        
-      
+
+
         public TitleProxy(TitleParser title)
         {
             this.title = title;
         }
+
         [Category("Appearance"),
         DisplayName("Color")]
         [Editor(@"CrusaderKingsStoryGen.PropertyPageProxies.MyColorEditor",
             typeof(System.Drawing.Design.UITypeEditor)),
              TypeConverter(typeof(MyColorConverter))]
- 
+
         public Color Color
         {
             get
             {
-                return title.color;
-
+                return this.title.color;
             }
+
             set
             {
-                title.color = value;
-                title.color2 = value;
-                title.SetProperty("color", title.color);
-                title.SetProperty("color2", title.color);
-                foreach (var provinceParser in title.GetAllProvinces())
+                this.title.color = value;
+                this.title.color2 = value;
+                this.title.SetProperty("color", this.title.color);
+                this.title.SetProperty("color2", this.title.color);
+                foreach (var provinceParser in this.title.GetAllProvinces())
                 {
-                    provinceParser.SetProperty("color", title.color);
-                    provinceParser.SetProperty("color2", title.color);
+                    provinceParser.SetProperty("color", this.title.color);
+                    provinceParser.SetProperty("color2", this.title.color);
                 }
             }
         }
@@ -46,16 +54,16 @@
         {
             get
             {
-                return title.LangName;
-
+                return this.title.LangName;
             }
+
             set
             {
-
-                title.RenameSoft(value);
-                Form1.instance.RefreshTree(title);
+                this.title.RenameSoft(value);
+                MainForm.instance.RefreshTree(this.title);
             }
         }
+
         [Category("Title Details"),
                 DisplayName("Tag")]
 
@@ -63,47 +71,47 @@
         {
             get
             {
-                return title.Name;
-
+                return this.title.Name;
             }
-           
         }
+
         [Category("Ruler Details"),
             DisplayName("Name")]
         public string LeaderName
         {
             get
             {
-                return title.Holder.ChrName;
-
+                return this.title.Holder.ChrName;
             }
-            set { title.Holder.ChrName = value; }
+
+            set { this.title.Holder.ChrName = value; }
         }
+
         [Category("Ruler Details"),
             DisplayName("Dynasty")]
         public string LeaderDynasty
         {
             get
             {
-                return (title.Holder.Dynasty.NameScope as ScriptCommand).Value.ToString();
-
+                return (this.title.Holder.Dynasty.NameScope as ScriptCommand).Value.ToString();
             }
-            set { title.Holder.Dynasty.Name = value; }
+
+            set { this.title.Holder.Dynasty.Name = value; }
         }
+
         [Category("Liege Details"),
               DisplayName("Liege")]
         public string Liege
         {
             get
             {
-                if (title.Liege != null)
+                if (this.title.Liege != null)
                 {
-                    return title.Liege.Name;
+                    return this.title.Liege.Name;
                 }
 
                 return "<Independent>";
             }
-            
         }
     }
 }

@@ -1,15 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Drawing.Imaging;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using LibNoise.Modfiers;
+﻿// <copyright file="GeneratedTerrainMap.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace CrusaderKingsStoryGen.MapGen
 {
+    using System;
+    using System.Drawing;
+    using System.Drawing.Imaging;
+    using System.IO;
+    using CrusaderKingsStoryGen.Helpers;
+    using LibNoise.Modfiers;
+
     public class GeneratedTerrainMap
     {
         private float DivNoise = 1.0f;
@@ -22,9 +23,14 @@ namespace CrusaderKingsStoryGen.MapGen
             this.preview = preview;
             //            this.preview = false;
             if (seed != 0)
-                Rand.SetSeed(seed);
+            {
+                RandomIntHelper.SetSeed(seed);
+            }
             else
-                Rand.SetSeed(new Random().Next(1000000));
+            {
+                RandomIntHelper.SetSeed(new Random().Next(1000000));
+            }
+
             if (!preview)
             {
                 this.Width = width / 4;
@@ -35,25 +41,30 @@ namespace CrusaderKingsStoryGen.MapGen
                 this.Width = width;
                 this.Height = height;
             }
-            DivNoise = 1200.0f * (Height / 2048.0f);
+
+            this.DivNoise = 1200.0f * (this.Height / 2048.0f);
             Bitmap terrainMap = null;
             if (preview)
-                terrainMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
+            {
+                terrainMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            }
             else
-                terrainMap = new Bitmap(Width * 4, Height * 4, PixelFormat.Format24bppRgb);
+            {
+                terrainMap = new Bitmap(this.Width * 4, this.Height * 4, PixelFormat.Format24bppRgb);
+            }
 
-            Bitmap moistureMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
-            Bitmap heatMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
-            Bitmap trees = new Bitmap((int)((Width * 4) / 8.04188481675f), (int)((Height * 4) / 8.04188481675f));
+            Bitmap moistureMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            Bitmap heatMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            Bitmap trees = new Bitmap((int)((this.Width * 4) / 8.04188481675f), (int)((this.Height * 4) / 8.04188481675f));
             this.Trees = new LockBitmap(trees);
             this.MoistureMap = new LockBitmap(moistureMap);
             this.HeatMap = new LockBitmap(heatMap);
 
             this.TerrainMap = new LockBitmap(terrainMap);
-            heightSeed1 = Rand.Next(10000000);
-            heightSeed2 = Rand.Next(10000000);
-            CreateInitialHeightMap();
-            CreateInitialTerrainMap();
+            this.heightSeed1 = RandomIntHelper.Next(10000000);
+            this.heightSeed2 = RandomIntHelper.Next(10000000);
+            this.CreateInitialHeightMap();
+            this.CreateInitialTerrainMap();
             //     Save();
         }
 
@@ -62,9 +73,13 @@ namespace CrusaderKingsStoryGen.MapGen
             Bitmap terrainMap = null;
 
             if (seed != 0)
-                Rand.SetSeed(seed);
+            {
+                RandomIntHelper.SetSeed(seed);
+            }
             else
-                Rand.SetSeed(new Random().Next(1000000));
+            {
+                RandomIntHelper.SetSeed(new Random().Next(1000000));
+            }
 
             if (!preview)
             {
@@ -78,33 +93,42 @@ namespace CrusaderKingsStoryGen.MapGen
             }
 
             if (preview)
-                terrainMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
+            {
+                terrainMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            }
             else
-                terrainMap = new Bitmap(Width * 4, Height * 4, PixelFormat.Format24bppRgb);
+            {
+                terrainMap = new Bitmap(this.Width * 4, this.Height * 4, PixelFormat.Format24bppRgb);
+            }
 
-            Bitmap moistureMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
-            Bitmap heatMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
-            Bitmap trees = new Bitmap((int)((Width * 4) / 8.04188481675f), (int)((Height * 4) / 8.04188481675f));
+            Bitmap moistureMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            Bitmap heatMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            Bitmap trees = new Bitmap((int)((this.Width * 4) / 8.04188481675f), (int)((this.Height * 4) / 8.04188481675f));
             this.Trees = new LockBitmap(trees);
             this.MoistureMap = new LockBitmap(moistureMap);
             this.HeatMap = new LockBitmap(heatMap);
             this.TerrainMap = new LockBitmap(terrainMap);
 
-            heightSeed1 = Rand.Next(10000000);
-            heightSeed2 = Rand.Next(10000000);
-            Map = heightMap;
+            this.heightSeed1 = RandomIntHelper.Next(10000000);
+            this.heightSeed2 = RandomIntHelper.Next(10000000);
+            this.Map = heightMap;
 
-            CreateInitialTerrainMap();
+            this.CreateInitialTerrainMap();
         }
 
         public void Init(int width, int height, LockBitmap landBitmap = null, LockBitmap hillBitmap = null, LockBitmap mountainBitmap = null, int seed = 0, bool preview = false)
         {
             this.preview = preview;
-   
+
             if (seed != 0)
-                Rand.SetSeed(seed);
+            {
+                RandomIntHelper.SetSeed(seed);
+            }
             else
-                Rand.SetSeed(new Random().Next(1000000));
+            {
+                RandomIntHelper.SetSeed(new Random().Next(1000000));
+            }
+
             if (!preview)
             {
                 this.Width = width / 4;
@@ -115,25 +139,30 @@ namespace CrusaderKingsStoryGen.MapGen
                 this.Width = width;
                 this.Height = height;
             }
-            DivNoise = 1200.0f * (Height / 2048.0f);
+
+            this.DivNoise = 1200.0f * (this.Height / 2048.0f);
             Bitmap terrainMap = null;
             if (preview)
-                terrainMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
+            {
+                terrainMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            }
             else
-                terrainMap = new Bitmap(Width * 4, Height * 4, PixelFormat.Format24bppRgb);
+            {
+                terrainMap = new Bitmap(this.Width * 4, this.Height * 4, PixelFormat.Format24bppRgb);
+            }
 
-            Bitmap moistureMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
-            Bitmap heatMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
-            Bitmap trees = new Bitmap((int)((Width * 4) / 8.04188481675f), (int)((Height * 4) / 8.04188481675f));
+            Bitmap moistureMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            Bitmap heatMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
+            Bitmap trees = new Bitmap((int)((this.Width * 4) / 8.04188481675f), (int)((this.Height * 4) / 8.04188481675f));
             this.Trees = new LockBitmap(trees);
             this.MoistureMap = new LockBitmap(moistureMap);
             this.HeatMap = new LockBitmap(heatMap);
 
             this.TerrainMap = new LockBitmap(terrainMap);
-            heightSeed1 = Rand.Next(10000000);
-            heightSeed2 = Rand.Next(10000000);
-            CreateInitialHeightMap(landBitmap, hillBitmap, mountainBitmap);
-            CreateInitialTerrainMap();
+            this.heightSeed1 = RandomIntHelper.Next(10000000);
+            this.heightSeed2 = RandomIntHelper.Next(10000000);
+            this.CreateInitialHeightMap(landBitmap, hillBitmap, mountainBitmap);
+            this.CreateInitialTerrainMap();
 
 
             //     Save();
@@ -146,21 +175,21 @@ namespace CrusaderKingsStoryGen.MapGen
         public void Refine()
         {
             var provinceMap = MapGenManager.instance.ProvinceMap;
-            CreateHeightMap(provinceMap);
-            CreateTerrainMap();
+            this.CreateHeightMap(provinceMap);
+            this.CreateTerrainMap();
             MapGenManager.instance.ProvinceMap = null;
             provinceMap.Source.Dispose();
             provinceMap = null;
-           ConvertTo24bpp(Map.Source).Save(Globals.MapOutputTotalDir + "map\\topology.bmp", System.Drawing.Imaging.ImageFormat.Bmp);
-            var normalMap = NormalMapGenerator.instance.Create(Map);
+           ConvertTo24bpp(this.Map.Source).Save(Globals.MapOutputTotalDir + "map\\topology.bmp", System.Drawing.Imaging.ImageFormat.Bmp);
+            var normalMap = NormalMapGenerator.instance.Create(this.Map);
 
             ConvertTo24bpp(normalMap.Source).Save(Globals.MapOutputTotalDir + "map\\world_normal_height.bmp", System.Drawing.Imaging.ImageFormat.Bmp);
-            Map.Source.Dispose();
-            Map.Source = null;
+            this.Map.Source.Dispose();
+            this.Map.Source = null;
             ProvinceBitmapManager.instance = new ProvinceBitmapManager();
-            CreateColorMap();
+            this.CreateColorMap();
 
-            UpdateHeightMap();
+            this.UpdateHeightMap();
         }
 
         public static Color SeaColor = Color.FromArgb(255, 69, 91, 186);
@@ -184,6 +213,7 @@ namespace CrusaderKingsStoryGen.MapGen
         public static Color SnowMountainTopColor = Color.FromArgb(255, 255, 255, 255);
 
         public static Color MountainRockColor = Color.FromArgb(255, 65, 42, 17);
+
         public void CreateColorMap()
         {
             GC.Collect();
@@ -193,10 +223,10 @@ namespace CrusaderKingsStoryGen.MapGen
             Bitmap desert = ConvertTo24bpp(new Bitmap(Directory.GetCurrentDirectory() + "\\data\\desert.png"));
             Bitmap mountain = ConvertTo24bpp(new Bitmap(Directory.GetCurrentDirectory() + "\\data\\mountain.png"));
 
-            Bitmap mountainAlpha = new Bitmap(Width, Height, PixelFormat.Format8bppIndexed);
-            Bitmap grassAlpha = new Bitmap(Width, Height, PixelFormat.Format8bppIndexed);
-            Bitmap desertAlpha = new Bitmap(Width, Height, PixelFormat.Format8bppIndexed);
-            Bitmap finalMap = new Bitmap(Width, Height, PixelFormat.Format24bppRgb);
+            Bitmap mountainAlpha = new Bitmap(this.Width, this.Height, PixelFormat.Format8bppIndexed);
+            Bitmap grassAlpha = new Bitmap(this.Width, this.Height, PixelFormat.Format8bppIndexed);
+            Bitmap desertAlpha = new Bitmap(this.Width, this.Height, PixelFormat.Format8bppIndexed);
+            Bitmap finalMap = new Bitmap(this.Width, this.Height, PixelFormat.Format24bppRgb);
             LockBitmap lOcean = new LockBitmap(ocean);
             LockBitmap lMountain = new LockBitmap(mountain);
             LockBitmap lGrass = new LockBitmap(grass);
@@ -209,12 +239,12 @@ namespace CrusaderKingsStoryGen.MapGen
             lGrassAlpha.LockBits();
             lDesertAlpha.LockBits();
             lMountainAlpha.LockBits();
-            TerrainMap.LockBits();
-            for (int x = 0; x < Width; x++)
+            this.TerrainMap.LockBits();
+            for (int x = 0; x < this.Width; x++)
             {
-                for (int y = 0; y < Height; y++)
+                for (int y = 0; y < this.Height; y++)
                 {
-                    Color col = TerrainMap.GetPixel(x, y);
+                    Color col = this.TerrainMap.GetPixel(x, y);
 
                     if (col != SeaColor)
                     {
@@ -229,20 +259,19 @@ namespace CrusaderKingsStoryGen.MapGen
                             lMountainAlpha.SetPixel(x, y, Color.Gray);
                         else if (col == DesertSandColor)
                             lDesertAlpha.SetPixel(x, y, Color.White);
-                        else if (col == MountainRockColor|| col == HillsDesertColor || col == SandMountainColor || col == SnowMountainTopColor)
+                        else if (col == MountainRockColor || col == HillsDesertColor || col == SandMountainColor || col == SnowMountainTopColor)
                             lMountainAlpha.SetPixel(x, y, Color.White);
-                        
-                        
                     }
                 }
             }
-            TerrainMap.UnlockBits();
-         
-            
+
+            this.TerrainMap.UnlockBits();
+
+
             lGrassAlpha.Blur(1);
-          
+
             lDesertAlpha.Blur(1);
-          
+
             lMountainAlpha.Blur(1);
 
             lOcean.LockBits();
@@ -250,14 +279,16 @@ namespace CrusaderKingsStoryGen.MapGen
             lDesert.LockBits();
             lMountain.LockBits();
             lFinal.LockBits();
-            
-            for (int x = 0; x < Width; x++)
+
+            for (int x = 0; x < this.Width; x++)
             {
-                for (int y = 0; y < Height; y++)
+                for (int y = 0; y < this.Height; y++)
                 {
                     int sx = x;
                     if (sx >= 3072)
+                    {
                         sx -= 3072;
+                    }
 
                     float grassAlphaVal = lGrassAlpha.GetPixel(x, y).R / 255.0f;
                     float desertAlphaVal = lDesertAlpha.GetPixel(x, y).R / 255.0f;
@@ -268,34 +299,32 @@ namespace CrusaderKingsStoryGen.MapGen
                     Color mountainCol = lMountain.GetPixel(sx, y);
                     Color desCol = lDesert.GetPixel(sx, y);
 
-                    float r = seaCol.R/255.0f;
+                    float r = seaCol.R / 255.0f;
                     float g = seaCol.G / 255.0f;
                     float b = seaCol.B / 255.0f;
 
-                    r = Lerp(r, grassCol.R / 255.0f, grassAlphaVal);
-                    g = Lerp(g, grassCol.G / 255.0f, grassAlphaVal);
-                    b = Lerp(b, grassCol.B / 255.0f, grassAlphaVal);
+                    r = this.Lerp(r, grassCol.R / 255.0f, grassAlphaVal);
+                    g = this.Lerp(g, grassCol.G / 255.0f, grassAlphaVal);
+                    b = this.Lerp(b, grassCol.B / 255.0f, grassAlphaVal);
 
-                    r = Lerp(r, desCol.R / 255.0f, desertAlphaVal);
-                    g = Lerp(g, desCol.G / 255.0f, desertAlphaVal);
-                    b = Lerp(b, desCol.B / 255.0f, desertAlphaVal);
+                    r = this.Lerp(r, desCol.R / 255.0f, desertAlphaVal);
+                    g = this.Lerp(g, desCol.G / 255.0f, desertAlphaVal);
+                    b = this.Lerp(b, desCol.B / 255.0f, desertAlphaVal);
 
-                    r = Lerp(r, mountainCol.R / 255.0f, mountainAlphaValue);
-                    g = Lerp(g, mountainCol.G / 255.0f, mountainAlphaValue);
-                    b = Lerp(b, mountainCol.B / 255.0f, mountainAlphaValue);
+                    r = this.Lerp(r, mountainCol.R / 255.0f, mountainAlphaValue);
+                    g = this.Lerp(g, mountainCol.G / 255.0f, mountainAlphaValue);
+                    b = this.Lerp(b, mountainCol.B / 255.0f, mountainAlphaValue);
 
-                    Color final = Color.FromArgb(255, (int) (r*255), (int) (g*255), (int) (b*255));
-                    
+                    Color final = Color.FromArgb(255, (int)(r * 255), (int)(g * 255), (int)(b * 255));
+
                     lFinal.SetPixel(x, y, final);
-
-                    
                 }
             }
 
 
             lGrassAlpha.UnlockBits();
             lDesertAlpha.UnlockBits();
-            
+
             lMountainAlpha.UnlockBits();
             lGrassAlpha.Source.Dispose();
             lMountainAlpha.Source.Dispose();
@@ -310,13 +339,25 @@ namespace CrusaderKingsStoryGen.MapGen
             lMountain.UnlockBits();
             lFinal.UnlockBits();
             if (!Directory.Exists(Globals.MapOutputTotalDir))
+            {
                 Directory.CreateDirectory(Globals.MapOutputTotalDir);
+            }
+
             if (!Directory.Exists(Globals.MapOutputTotalDir + "map\\"))
+            {
                 Directory.CreateDirectory(Globals.MapOutputTotalDir + "map\\");
+            }
+
             if (!Directory.Exists(Globals.MapOutputTotalDir + "map\\terrain\\"))
+            {
                 Directory.CreateDirectory(Globals.MapOutputTotalDir + "map\\terrain\\");
-            if(File.Exists(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds"))
+            }
+
+            if (File.Exists(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds"))
+            {
                 File.Delete(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds");
+            }
+
             lOcean.Source.Dispose();
             lGrass.Source.Dispose();
             lDesert.Source.Dispose();
@@ -326,52 +367,55 @@ namespace CrusaderKingsStoryGen.MapGen
             DevIL.DevIL.SaveBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds", lFinal.Source);
             lFinal.Source.Dispose();
             lFinal = null;
-
         }
+
         private void UpdateHeightMap()
         {
-         
         }
 
         public LockBitmap MoistureMap { get; set; }
+
         public LockBitmap HeatMap { get; set; }
 
-       
+
         public static Bitmap ConvertTo24bpp(Image img)
         {
             var bmp = new Bitmap(img.Width, img.Height, System.Drawing.Imaging.PixelFormat.Format24bppRgb);
             using (var gr = Graphics.FromImage(bmp))
+            {
                 gr.DrawImage(img, new Rectangle(0, 0, img.Width, img.Height));
+            }
+
             return bmp;
         }
 
 
         private void CreateTerrainMap()
         {
-            MoistureMap.ResizeImage(Map.Width, Map.Height);
-            HeatMap.LockBits();
-            MoistureMap.LockBits();
-            Map.LockBits();
-            Trees.LockBits();
-            TerrainMap.LockBits();
+            this.MoistureMap.ResizeImage(this.Map.Width, this.Map.Height);
+            this.HeatMap.LockBits();
+            this.MoistureMap.LockBits();
+            this.Map.LockBits();
+            this.Trees.LockBits();
+            this.TerrainMap.LockBits();
             MapGenManager.instance.ProvinceMap.LockBits();
             NoiseGenerator noiseH = new NoiseGenerator();
             NoiseGenerator noiseM = new NoiseGenerator();
             noiseM.Octaves = 4;
-            for (int x = 0; x < Map.Width; x++)
-                for (int y = 0; y < Map.Height; y++)
+            for (int x = 0; x < this.Map.Width; x++)
+                for (int y = 0; y < this.Map.Height; y++)
                 {
                     Color col = Color.AliceBlue;
-                    float heat = GetHeat(x, y);// + (Rand.Next(-30, 30) / 8000.0f);
-                    float moisture = GetMoisture(x*4, y*4);// + (Rand.Next(-30, 30) / 8000.0f);
-                    float no = (float)((float)((noiseH.Noise(x / DivNoise / 8, y / DivNoise / 8)) - 0.5f) * 0.2);
-                    float tree = (float)((float)((noiseM.Noise(x / DivNoise, y / DivNoise)) - 0.5f));
+                    float heat = this.GetHeat(x, y); // + (Rand.Next(-30, 30) / 8000.0f);
+                    float moisture = this.GetMoisture(x * 4, y * 4); // + (Rand.Next(-30, 30) / 8000.0f);
+                    float no = (float)((float)((noiseH.Noise(x / this.DivNoise / 8, y / this.DivNoise / 8)) - 0.5f) * 0.2);
+                    float tree = (float)((float)((noiseM.Noise(x / this.DivNoise, y / this.DivNoise)) - 0.5f));
 
                     tree += no * 12.0f;
                     heat += no * 3.0f;
                     moisture -= no * 3.0f;
 
-                    float height = Map.GetHeight(x, y) / 255.0f;
+                    float height = this.Map.GetHeight(x, y) / 255.0f;
 
                     float desertLevel = 0.48f;
                     float shyDesertLevel = 0.43f;
@@ -400,13 +444,12 @@ namespace CrusaderKingsStoryGen.MapGen
                     bool dry = moisture < desertDry;
                     bool nearlyDry = moisture < desertDry;
                     bool wetCold = moisture > tundraWetLevel;
-                    bool sea = Color.FromArgb(255, 69, 91, 186) == TerrainMap.GetPixel(x, y);
+                    bool sea = Color.FromArgb(255, 69, 91, 186) == this.TerrainMap.GetPixel(x, y);
                     bool trees = tree > 0.99f;
                     bool temptrees = tree > 0.99f;
                     if (sea)
                     {
                         col = SeaColor;
-
                     }
                     else
                     {
@@ -418,61 +461,65 @@ namespace CrusaderKingsStoryGen.MapGen
 
                                 if (trees && wet)
                                 {
-                                    float dx = x / (float)Width;
-                                    float dy = y / (float)Height;
-                                    int tx = (int)(Trees.Width * dx);
-                                    int ty = (int)(Trees.Height * dy);
-                                    if (Rand.Next(2) == 0)
+                                    float dx = x / (float)this.Width;
+                                    float dy = y / (float)this.Height;
+                                    int tx = (int)(this.Trees.Width * dx);
+                                    int ty = (int)(this.Trees.Height * dy);
+                                    if (RandomIntHelper.Next(2) == 0)
                                         if (height > 107 / 255.0f)
-                                            Trees.SetPixel(tx, ty, Color.FromArgb(255, 154, 156, 51));
+                                        {
+                                            this.Trees.SetPixel(tx, ty, Color.FromArgb(255, 154, 156, 51));
+                                        }
                                 }
-
                             }
                             else if (hot && dry)
                                 col = DesertSandColor;
                             else if (slightlyHot && dry)
                                 col = SandyGrassColor;
-                            else 
+                            else
                             {
-                                if(nearlyDry)
-                                    col = DesertSandColor;                        
+                                if (nearlyDry)
+                                {
+                                    col = DesertSandColor;
+                                }
                                 else
+                                {
                                     col = TemperateGrassColor;
+                                }
                             }
-
                         }
                         else if (cold)
                         {
-                        
                             col = NorthernGrassColor;
 
                             if (temptrees)
                             {
                                 col = Color.FromArgb(255, 0, 86, 6);
 
-                                float dx = x / (float)Width;
-                                float dy = y / (float)Height;
-                                int tx = (int)(Trees.Width * dx);
-                                int ty = (int)(Trees.Height * dy);
-                                if (Rand.Next(4) == 0)
+                                float dx = x / (float)this.Width;
+                                float dy = y / (float)this.Height;
+                                int tx = (int)(this.Trees.Width * dx);
+                                int ty = (int)(this.Trees.Height * dy);
+                                if (RandomIntHelper.Next(4) == 0)
                                     if (height > 107 / 255.0f)
-                                        Trees.SetPixel(tx, ty, Color.FromArgb(255, 30, 139, 109));
+                                    {
+                                        this.Trees.SetPixel(tx, ty, Color.FromArgb(255, 30, 139, 109));
+                                    }
                             }
                             else
                             {
-                                if (Rand.Next(18) == 0)
+                                if (RandomIntHelper.Next(18) == 0)
                                 {
-                                    float dx = x / (float)Width;
-                                    float dy = y / (float)Height;
-                                    int tx = (int)(Trees.Width * dx);
-                                    int ty = (int)(Trees.Height * dy);
+                                    float dx = x / (float)this.Width;
+                                    float dy = y / (float)this.Height;
+                                    int tx = (int)(this.Trees.Width * dx);
+                                    int ty = (int)(this.Trees.Height * dy);
                                     if (height > 107 / 255.0f)
-                                        Trees.SetPixel(tx, ty, Color.FromArgb(255, 30, 139, 109));
+                                    {
+                                        this.Trees.SetPixel(tx, ty, Color.FromArgb(255, 30, 139, 109));
+                                    }
                                 }
                             }
-
-                       
-
                         }
                         else
                         {
@@ -481,28 +528,30 @@ namespace CrusaderKingsStoryGen.MapGen
                             if (temptrees)
                             {
                                 col = TemperateForestColor;
-                                float dx = x / (float)Width;
-                                float dy = y / (float)(Height);
-                                int tx = (int)(Trees.Width * dx);
-                                int ty = (int)(Trees.Height * dy);
-                                if (Rand.Next(4) == 0)
+                                float dx = x / (float)this.Width;
+                                float dy = y / (float)(this.Height);
+                                int tx = (int)(this.Trees.Width * dx);
+                                int ty = (int)(this.Trees.Height * dy);
+                                if (RandomIntHelper.Next(4) == 0)
                                     if (height > 107 / 255.0f)
-                                        Trees.SetPixel(tx, ty, Color.FromArgb(255, 76, 156, 51));
+                                    {
+                                        this.Trees.SetPixel(tx, ty, Color.FromArgb(255, 76, 156, 51));
+                                    }
                             }
                             else
                             {
-
-                                if (Rand.Next(18) == 0)
+                                if (RandomIntHelper.Next(18) == 0)
                                 {
-                                    float dx = x / (float)Width;
-                                    float dy = y / (float)Height;
-                                    int tx = (int)(Trees.Width * dx);
-                                    int ty = (int)(Trees.Height * dy);
+                                    float dx = x / (float)this.Width;
+                                    float dy = y / (float)this.Height;
+                                    int tx = (int)(this.Trees.Width * dx);
+                                    int ty = (int)(this.Trees.Height * dy);
                                     if (height > 107 / 255.0f)
-                                        Trees.SetPixel(tx, ty, Color.FromArgb(255, 76, 156, 51));
+                                    {
+                                        this.Trees.SetPixel(tx, ty, Color.FromArgb(255, 76, 156, 51));
+                                    }
                                 }
                             }
-
                         }
 
 
@@ -520,7 +569,7 @@ namespace CrusaderKingsStoryGen.MapGen
                                 col = SnowMountainTopColor;
                             }
                         }
-                        
+
                         else if (height > mountainLevel)
                         {
                             if (hot)
@@ -536,7 +585,6 @@ namespace CrusaderKingsStoryGen.MapGen
                         {
                             if (hot)
                             {
-
                             }
                             else
                             {
@@ -556,90 +604,85 @@ namespace CrusaderKingsStoryGen.MapGen
                                 else
                                 {
                                     col = DesertSandColor;
-                                    float dx = x / (float)Width;
-                                    float dy = y / (float)(Height);
-                                    int tx = (int)(Trees.Width * dx);
-                                    int ty = (int)(Trees.Height * dy);
-                                    Trees.SetPixel(tx, ty, Color.FromArgb(255, 0, 0, 0));
-
+                                    float dx = x / (float)this.Width;
+                                    float dy = y / (float)(this.Height);
+                                    int tx = (int)(this.Trees.Width * dx);
+                                    int ty = (int)(this.Trees.Height * dy);
+                                    this.Trees.SetPixel(tx, ty, Color.FromArgb(255, 0, 0, 0));
                                 }
                             }
                         }
                     }
 
-                    TerrainMap.SetPixel(x, y, col);
+                    this.TerrainMap.SetPixel(x, y, col);
                 }
 
             MapGenManager.instance.ProvinceMap.UnlockBits();
-            TerrainMap.UnlockBits();
-            HeatMap.UnlockBits();
-            MoistureMap.UnlockBits();
+            this.TerrainMap.UnlockBits();
+            this.HeatMap.UnlockBits();
+            this.MoistureMap.UnlockBits();
 
-            MoistureMap.Source.Dispose();
+            this.MoistureMap.Source.Dispose();
           //  HeatMap.Source.Dispose();
           //  HeatMap = null;
-            MoistureMap = null;
-            HeatMap.Source.Dispose();
-            HeatMap = null;
-            Map.UnlockBits();
-            Trees.UnlockBits();
-            
+            this.MoistureMap = null;
+            this.HeatMap.Source.Dispose();
+            this.HeatMap = null;
+            this.Map.UnlockBits();
+            this.Trees.UnlockBits();
         }
 
 
 
         private void CreateInitialTerrainMap()
         {
-            Map.LockBits();
-            TerrainMap.LockBits();
-              for (int x = 0; x < Map.Width; x++)
-                for (int y = 0; y < Map.Height; y++)
+            this.Map.LockBits();
+            this.TerrainMap.LockBits();
+              for (int x = 0; x < this.Map.Width; x++)
+                for (int y = 0; y < this.Map.Height; y++)
                 {
                     Color col = Color.AliceBlue;
-                
-                    float height = Map.GetHeight(x, y) / 255.0f;
+
+                    float height = this.Map.GetHeight(x, y) / 255.0f;
 
                     float sealevel = (96 / 255.0f);
                     bool sea = height < sealevel;
                     if (sea)
                     {
                         col = Color.FromArgb(255, 69, 91, 186);
-
                     }
                     else
                     {
-                     
                         col = Color.FromArgb(255, 130, 158, 75);
-
                     }
 
-                    TerrainMap.SetPixel(x, y, col);
+                    this.TerrainMap.SetPixel(x, y, col);
                 }
 
-            TerrainMap.UnlockBits();
-            Map.UnlockBits();
+            this.TerrainMap.UnlockBits();
+            this.Map.UnlockBits();
         }
 
         private float GetHeat(int x, int y)
         {
-            return HeatMap.GetPixel(x, y).R / 255.0f;
+            return this.HeatMap.GetPixel(x, y).R / 255.0f;
         }
 
         private float GetMoisture(int x, int y)
         {
-            return MoistureMap.GetPixel(x/4, y/4).R / 255.0f;
+            return this.MoistureMap.GetPixel(x / 4, y / 4).R / 255.0f;
         }
 
         public void CreateHeatMap()
         {
             NoiseGenerator noise = new NoiseGenerator();
-            HeatMap.LockBits();
-            for (int x = 0; x < HeatMap.Width; x++)
-                for (int y = 0; y < HeatMap.Height; y++)
+            this.HeatMap.LockBits();
+            for (int x = 0; x < this.HeatMap.Width; x++)
+                for (int y = 0; y < this.HeatMap.Height; y++)
                 {
-                    float orig = (float)noise.Noise(x / DivNoise / 4, y / DivNoise / 4);
+                    float orig = (float)noise.Noise(x / this.DivNoise / 4, y / this.DivNoise / 4);
 
-                    float ydel = y / (float)(HeatMap.Height);
+                    float ydel = y / (float)(this.HeatMap.Height);
 
                     if (Globals.Climate == 0)
                     {
@@ -652,28 +695,33 @@ namespace CrusaderKingsStoryGen.MapGen
                             ydel = (0.5f - ydel) * 2.0f;
 
                         ydel = 1.0f - ydel;
-
                     }
+
                     if (Globals.Climate == 1)
                     {
                         ydel *= 1.3f;
                         if (ydel > 1)
+                        {
                             ydel = 1;
-
+                        }
                     }
+
                     if (Globals.Climate == 2)
                     {
                         ydel *= 1.3f;
                         if (ydel > 1)
+                        {
                             ydel = 1;
+                        }
 
                         ydel = 1.0f - ydel;
-
                     }
+
                     if (Globals.Climate == 3)
                     {
                         ydel = 0.4f;
                     }
+
                     if (Globals.Climate == 4)
                     {
                         ydel = 1f;
@@ -682,59 +730,67 @@ namespace CrusaderKingsStoryGen.MapGen
                     float o = orig;
                     orig *= ydel;
                     //  ydel *= ydel;
-                  
+
                     orig *= ydel;
                     orig = (orig + orig + ydel) / 3.0f;
 
-                 
+
                     orig = (orig + orig + o) / 3.0f;
                     orig *= orig;
                     if (Globals.Climate == 0)
                     {
-                        orig = (orig + orig + orig + orig + orig + ydel)/6.0f;
+                        orig = (orig + orig + orig + orig + orig + ydel) / 6.0f;
                     }
-                    if (orig > 1)
-                        orig = 1;
-                    HeatMap.SetPixel(x, y, Color.FromArgb(255, (int)(255 * orig), (int)(255 * orig), (int)(255 * orig)));
 
+                    if (orig > 1)
+                    {
+                        orig = 1;
+                    }
+
+                    this.HeatMap.SetPixel(x, y, Color.FromArgb(255, (int)(255 * orig), (int)(255 * orig), (int)(255 * orig)));
                 }
 
-            HeatMap.UnlockBits();
-            HeatMap.ResizeImage(Map.Source.Width / 16, Map.Source.Height / 16);
-            HeatMap.ResizeImage(Map.Source.Width, Map.Source.Height);
+            this.HeatMap.UnlockBits();
+            this.HeatMap.ResizeImage(this.Map.Source.Width / 16, this.Map.Source.Height / 16);
+            this.HeatMap.ResizeImage(this.Map.Source.Width, this.Map.Source.Height);
 
-            HeatMap.Save24(Globals.MapOutputTotalDir + "heatmap.bmp");
-            
+            this.HeatMap.Save24(Globals.MapOutputTotalDir + "heatmap.bmp");
         }
 
 
         public void AdjustMoistureMap()
         {
-            MoistureMap.LockBits();
-            Map.LockBits();
-            for (int x = 0; x < MoistureMap.Width; x++)
-                for (int y = 0; y < MoistureMap.Height; y++)
+            this.MoistureMap.LockBits();
+            this.Map.LockBits();
+            for (int x = 0; x < this.MoistureMap.Width; x++)
+                for (int y = 0; y < this.MoistureMap.Height; y++)
                 {
-                    float orig = (float)MoistureMap.GetPixel(x, y).R / 255.0f;
+                    float orig = (float)this.MoistureMap.GetPixel(x, y).R / 255.0f;
 
-                    float height = Map.GetHeight(x*4, y * 4) / 255.0f;
-                    if (height*255.0f < 102)
+                    float height = this.Map.GetHeight(x * 4, y * 4) / 255.0f;
+                    if (height * 255.0f < 102)
+                    {
                         orig = 1.0f;
+                    }
+
                     if (orig > 1.0f)
+                    {
                         orig = 1.0f;
+                    }
 
                     height = 1.0f - height;
-                    if(height > 0.54f)
+                    if (height > 0.54f)
+                    {
                         orig = (orig + orig + 1) / 3.0f;
+                    }
 
-                    MoistureMap.SetPixel(x, y, Color.FromArgb(255, (int)(255 * orig), (int)(255 * orig), (int)(255 * orig)));
-
+                    this.MoistureMap.SetPixel(x, y, Color.FromArgb(255, (int)(255 * orig), (int)(255 * orig), (int)(255 * orig)));
                 }
 
-            Map.UnlockBits();
-            MoistureMap.UnlockBits();
-            MoistureMap.ResizeImage(MoistureMap.Source.Width / 16, MoistureMap.Source.Height / 16);
-            MoistureMap.ResizeImage(Width, Height);
+            this.Map.UnlockBits();
+            this.MoistureMap.UnlockBits();
+            this.MoistureMap.ResizeImage(this.MoistureMap.Source.Width / 16, this.MoistureMap.Source.Height / 16);
+            this.MoistureMap.ResizeImage(this.Width, this.Height);
 
         //    MoistureMap.Save24(Globals.MapOutputTotalDir + "moisture.bmp");
         }
@@ -742,13 +798,13 @@ namespace CrusaderKingsStoryGen.MapGen
         public void CreateMoistureMap()
         {
             NoiseGenerator noise = new NoiseGenerator();
-            MoistureMap.LockBits();
-            for (int x = 0; x < MoistureMap.Width; x++)
-                for (int y = 0; y < MoistureMap.Height; y++)
+            this.MoistureMap.LockBits();
+            for (int x = 0; x < this.MoistureMap.Width; x++)
+                for (int y = 0; y < this.MoistureMap.Height; y++)
                 {
-                    float orig = (float)noise.Noise(x / DivNoise / 4, y / DivNoise / 4);
+                    float orig = (float)noise.Noise(x / this.DivNoise / 4, y / this.DivNoise / 4);
                     orig *= orig;
-                    float ydel = y / (float)MoistureMap.Height;
+                    float ydel = y / (float)this.MoistureMap.Height;
                     if (ydel > 0.5f)
                     {
                         ydel -= 0.5f;
@@ -759,37 +815,40 @@ namespace CrusaderKingsStoryGen.MapGen
 
                     orig = (orig + orig +  ydel) / 3.0f;
 
-                    MoistureMap.SetPixel(x, y, Color.FromArgb(255, (int)(255 * orig), (int)(255 * orig), (int)(255 * orig)));
-
+                    this.MoistureMap.SetPixel(x, y, Color.FromArgb(255, (int)(255 * orig), (int)(255 * orig), (int)(255 * orig)));
                 }
 
-            MoistureMap.UnlockBits();
-            MoistureMap.ResizeImage(Map.Source.Width / 32, Map.Source.Height / 32);
-            MoistureMap.ResizeImage(Width, Height);
+            this.MoistureMap.UnlockBits();
+            this.MoistureMap.ResizeImage(this.Map.Source.Width / 32, this.Map.Source.Height / 32);
+            this.MoistureMap.ResizeImage(this.Width, this.Height);
         }
 
         private void CreateHeightMap(LockBitmap provinceMap)
         {
-            Map.LockBits();
+            this.Map.LockBits();
             provinceMap.LockBits();
             //   NewMap.LockBits();
-            for (int x = 0; x < Width; x++)
+            for (int x = 0; x < this.Width; x++)
             {
-                for (int y = 0; y < Height; y++)
+                for (int y = 0; y < this.Height; y++)
                 {
-                   float height = Map.GetHeight(x, y) / 255.0f;
+                   float height = this.Map.GetHeight(x, y) / 255.0f;
 
                     if (height < 76 / 255.0f)
+                    {
                         height = 76 / 255.0f;
+                    }
 
                     if (height >= 96 &&
                         ProvinceBitmapManager.instance.colorProvinceMap[provinceMap.GetPixel(x, y)].isSea)
+                    {
                         height = 94;
+                    }
 
-                    Map.SetPixel(x, y, Color.FromArgb(255, (int)(255 * height), (int)(255 * height), (int)(255 * height)));
-
+                    this.Map.SetPixel(x, y, Color.FromArgb(255, (int)(255 * height), (int)(255 * height), (int)(255 * height)));
                 }
             }
+
             provinceMap.UnlockBits();
 
             ConvertTo24bpp(provinceMap.Source).Save(Globals.MapOutputTotalDir + "map\\provinces.bmp", System.Drawing.Imaging.ImageFormat.Bmp);
@@ -797,8 +856,7 @@ namespace CrusaderKingsStoryGen.MapGen
             provinceMap = null;
             ProvinceBitmapManager.instance.colorProvinceMap.Clear();
             ProvinceBitmapManager.instance.colorMap.Clear();
-            Map.UnlockBits();
- 
+            this.Map.UnlockBits();
         }
 
         private float Lerp(float a, float b, float d)
@@ -811,19 +869,20 @@ namespace CrusaderKingsStoryGen.MapGen
         }
 
         private TerrainMap noiseTerrain;
+
         private void CreateInitialHeightMap(LockBitmap landBitmap = null, LockBitmap hillBitmap = null, LockBitmap mountainBitmap = null)
         {
-            NoiseGenerator noise = new NoiseGenerator(heightSeed1);
-            NoiseGenerator noise2 = new NoiseGenerator(heightSeed2);
-            noiseTerrain= new TerrainMap(landBitmap, hillBitmap, mountainBitmap);
-            if(landBitmap != null)
-                noiseTerrain.Init(Rand.Next(1000000), Width*4, Height * 4);
+            NoiseGenerator noise = new NoiseGenerator(this.heightSeed1);
+            NoiseGenerator noise2 = new NoiseGenerator(this.heightSeed2);
+            this.noiseTerrain = new TerrainMap(landBitmap, hillBitmap, mountainBitmap);
+            if (landBitmap != null)
+                this.noiseTerrain.Init(RandomIntHelper.Next(1000000), this.Width * 4, this.Height * 4);
             else
             {
-                noiseTerrain.InitGen(Rand.Next(1000000), Width * 4, Height * 4);
+                this.noiseTerrain.InitGen(RandomIntHelper.Next(1000000), this.Width * 4, this.Height * 4);
             }
-            Map = noiseTerrain.ResultBitmap;
-    
+
+            this.Map = this.noiseTerrain.ResultBitmap;
         }
 
         public LockBitmap TerrainMap { get; set; }
@@ -832,35 +891,34 @@ namespace CrusaderKingsStoryGen.MapGen
 
 
         public int Height { get; set; }
+
         public int Width { get; set; }
-     
+
         public void UpdateFromProvinces()
         {
-            Width *= 4;
-            Height *= 4;
-            TerrainMap.LockBits();
-          
-            Refine();
-          
+            this.Width *= 4;
+            this.Height *= 4;
+            this.TerrainMap.LockBits();
+
+            this.Refine();
+
             File.Delete(Globals.MapOutputTotalDir + "map\\terrain.bmp");
-            GrayBMP_File.CreateGrayBitmapFile(TerrainMap.Source, Globals.MapOutputTotalDir + "map\\terrain.bmp");
-            TerrainMap.Source.Dispose();
-            TerrainMap = null;
-            GrayBMP_File.CreateGrayBitmapFile(Trees.Source, Globals.MapOutputTotalDir + "map\\trees.bmp", true);
-            LockBitmap rivers = new LockBitmap(Width, Height);
+            GrayBMP_File.CreateGrayBitmapFile(this.TerrainMap.Source, Globals.MapOutputTotalDir + "map\\terrain.bmp");
+            this.TerrainMap.Source.Dispose();
+            this.TerrainMap = null;
+            GrayBMP_File.CreateGrayBitmapFile(this.Trees.Source, Globals.MapOutputTotalDir + "map\\trees.bmp", true);
+            LockBitmap rivers = new LockBitmap(this.Width, this.Height);
             rivers.LockBits();
-            for (int x = 0; x < Width; x++)
-                for (int y = 0; y < Height; y++)
+            for (int x = 0; x < this.Width; x++)
+                for (int y = 0; y < this.Height; y++)
                 {
                     rivers.SetPixel(x, y, Color.FromArgb(255, 255, 0, 128));
-
                 }
 
             rivers.UnlockBits();
 
-       
-            GrayBMP_File.CreateGrayBitmapFile(rivers.Source, Globals.MapOutputTotalDir + "map\\rivers.bmp", false, true);
 
+            GrayBMP_File.CreateGrayBitmapFile(rivers.Source, Globals.MapOutputTotalDir + "map\\rivers.bmp", false, true);
         }
     }
 }

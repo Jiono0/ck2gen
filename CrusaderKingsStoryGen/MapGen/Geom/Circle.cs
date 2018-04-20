@@ -1,8 +1,10 @@
-﻿using System.Collections;
+﻿// <copyright file="Circle.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
-namespace csDelaunay {
-	public class Circle {
-
+namespace csDelaunay
+{
+    public class Circle {
 		public Vector2f center;
 		public float radius;
 
@@ -12,7 +14,7 @@ namespace csDelaunay {
 		}
 
 		public override string ToString () {
-			return "Circle (center: " + center + "; radius: " + radius + ")";
+			return "Circle (center: " + this.center + "; radius: " + this.radius + ")";
 		}
 	}
 }

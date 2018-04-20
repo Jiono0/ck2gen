@@ -1,10 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿// <copyright file="LineSegment.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
-namespace csDelaunay {
+namespace csDelaunay
+{
+    using System.Collections.Generic;
 
-	public class LineSegment {
-
+    public class LineSegment {
 		public static List<LineSegment> VisibleLineSegments(List<Edge> edges) {
 			List<LineSegment> segments = new List<LineSegment>();
 
@@ -25,9 +27,11 @@ namespace csDelaunay {
 			if (length0 < length1) {
 				return 1;
 			}
+
 			if (length0 > length1) {
 				return -1;
 			}
+
 			return 0;
 		}
 

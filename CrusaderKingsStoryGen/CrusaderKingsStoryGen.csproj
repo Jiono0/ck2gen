@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\StyleCopPlus.MSBuild.4.7.49.5\build\StyleCopPlus.MSBuild.props" Condition="Exists('packages\StyleCopPlus.MSBuild.4.7.49.5\build\StyleCopPlus.MSBuild.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -12,6 +13,9 @@
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
+    <StyleCopTreatErrorsAsWarnings>True</StyleCopTreatErrorsAsWarnings>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -85,7 +89,7 @@
     </Reference>
     <Reference Include="DevIL.NET2, Version=1.1.2619.31671, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\devil\DevIL.NET2.dll</HintPath>
+      <HintPath>DLLs\DevIL.NET2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -101,41 +105,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArbitaryFileEditor.cs" />
-    <Compile Include="BookmarkManager.cs" />
-    <Compile Include="CharacterManager.cs" />
-    <Compile Include="CreateBookmark.cs">
+    <Compile Include="Helpers\FileEditorHelper.cs" />
+    <Compile Include="Managers\BookmarkManager.cs" />
+    <Compile Include="Managers\CharacterManager.cs" />
+    <Compile Include="Forms\CreateBookmark.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CreateBookmark.Designer.cs">
+    <Compile Include="Forms\CreateBookmark.Designer.cs">
       <DependentUpon>CreateBookmark.cs</DependentUpon>
     </Compile>
-    <Compile Include="CulturalDna.cs" />
-    <Compile Include="CulturalDnaManger.cs" />
-    <Compile Include="CultureDnaStringManip.cs" />
-    <Compile Include="CultureManager.cs" />
-    <Compile Include="DateFunctions.cs" />
-    <Compile Include="DecisionManager.cs" />
-    <Compile Include="DynastyManager.cs" />
-    <Compile Include="EventLogger.cs" />
-    <Compile Include="EventManager.cs" />
-    <Compile Include="EventParser.cs" />
-    <Compile Include="FlagManager.cs" />
-    <Compile Include="GenerationOptions.cs" />
+    <Compile Include="Helpers\KingdomHelper.cs" />
+    <Compile Include="Managers\CulturalDnaManger.cs" />
+    <Compile Include="Managers\CultureManager.cs" />
+    <Compile Include="Helpers\DateHelper.cs" />
+    <Compile Include="Managers\DecisionManager.cs" />
+    <Compile Include="Managers\DynastyManager.cs" />
+    <Compile Include="Helpers\EventLogHelper.cs" />
+    <Compile Include="Managers\EventManager.cs" />
+    <Compile Include="Parsers\CultureGroupParser.cs" />
+    <Compile Include="Parsers\CultureParser.cs" />
+    <Compile Include="Parsers\EventParser.cs" />
+    <Compile Include="Managers\FlagManager.cs" />
+    <Compile Include="Helpers\MutationHelper.cs" />
     <Compile Include="Globals.cs" />
-    <Compile Include="Government.cs" />
-    <Compile Include="GovernmentManager.cs" />
-    <Compile Include="ISerializeXml.cs" />
-    <Compile Include="LanguageManager.cs" />
-    <Compile Include="MainResources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>MainResources.resx</DependentUpon>
-    </Compile>
-    <Compile Include="MapGenerator.cs">
+    <Compile Include="Helpers\GovermentPolicyHelper.cs" />
+    <Compile Include="Managers\GovernmentManager.cs" />
+    <Compile Include="Interfaces\ISerializeXml.cs" />
+    <Compile Include="Managers\LanguageManager.cs" />
+    <Compile Include="Forms\MapGenerator.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MapGenerator.Designer.cs">
+    <Compile Include="Forms\MapGenerator.Designer.cs">
       <DependentUpon>MapGenerator.cs</DependentUpon>
     </Compile>
     <Compile Include="MapGen\AbstractFloodFiller.cs" />
@@ -170,26 +170,26 @@
     <Compile Include="MapGen\MapGenManager.cs" />
     <Compile Include="MapGen\Noise.cs" />
     <Compile Include="MapGen\UnsafeQueueLinearFloodFiller.cs" />
-    <Compile Include="MapManager.cs" />
-    <Compile Include="ModManager.cs" />
-    <Compile Include="ModSelect.cs">
+    <Compile Include="Managers\MapManager.cs" />
+    <Compile Include="Managers\ModManager.cs" />
+    <Compile Include="Forms\ModSelect.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ModSelect.Designer.cs">
+    <Compile Include="Forms\ModSelect.Designer.cs">
       <DependentUpon>ModSelect.cs</DependentUpon>
     </Compile>
-    <Compile Include="ModularFunctionalityManager.cs" />
-    <Compile Include="MultiSelectTreeview.cs">
+    <Compile Include="Managers\ModularFunctionalityManager.cs" />
+    <Compile Include="Controls\MultiSelectTreeview.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="NicknameManager.cs" />
-    <Compile Include="NoiseTexture.cs" />
-    <Compile Include="OnActionsManager.cs" />
-    <Compile Include="Parser.cs" />
-    <Compile Include="Progress\AlertForm.cs">
+    <Compile Include="Managers\NicknameManager.cs" />
+    <Compile Include="Helpers\NoiseTextureHelper.cs" />
+    <Compile Include="Managers\OnActionsManager.cs" />
+    <Compile Include="Parsers\Parser.cs" />
+    <Compile Include="Forms\AlertForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Progress\AlertForm.designer.cs">
+    <Compile Include="Forms\AlertForm.designer.cs">
       <DependentUpon>AlertForm.cs</DependentUpon>
     </Compile>
     <Compile Include="PropertyPageProxies\CsvConverter.cs" />
@@ -199,73 +199,82 @@
     <Compile Include="PropertyPageProxies\ReligionGroupProxy.cs" />
     <Compile Include="PropertyPageProxies\ReligionProxy.cs" />
     <Compile Include="PropertyPageProxies\TitleProxy.cs" />
-    <Compile Include="ProvinceParser.cs" />
-    <Compile Include="Rand.cs" />
-    <Compile Include="RegionManager.cs" />
-    <Compile Include="ReligionGroupParser.cs" />
-    <Compile Include="ReligionManager.cs" />
-    <Compile Include="ReligionParser.cs" />
-    <Compile Include="ScriptBlueprint.cs">
+    <Compile Include="Parsers\ProvinceParser.cs" />
+    <Compile Include="Helpers\RandomIntHelper.cs" />
+    <Compile Include="Managers\RegionManager.cs" />
+    <Compile Include="Parsers\ReligionGroupParser.cs" />
+    <Compile Include="Managers\ReligionManager.cs" />
+    <Compile Include="Parsers\ReligionParser.cs" />
+    <Compile Include="Forms\ScriptBlueprint.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ScriptBlueprint.Designer.cs">
+    <Compile Include="Forms\ScriptBlueprint.Designer.cs">
       <DependentUpon>ScriptBlueprint.cs</DependentUpon>
     </Compile>
-    <Compile Include="ScripterTriggerManager.cs" />
-    <Compile Include="RenderPanel.cs">
+    <Compile Include="Resources\MainResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MainResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Managers\ScripterTriggerManager.cs" />
+    <Compile Include="Controls\RenderPanel.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="RenderPanel.Designer.cs">
+    <Compile Include="Controls\RenderPanel.Designer.cs">
       <DependentUpon>RenderPanel.cs</DependentUpon>
     </Compile>
-    <Compile Include="ScopeProxy.cs" />
-    <Compile Include="Simulation\CharacterParser.cs" />
-    <Compile Include="Simulation\SimulationManager.cs" />
-    <Compile Include="SocietyManager.cs" />
-    <Compile Include="SocietyTemplates.cs" />
-    <Compile Include="SpriteManager.cs" />
-    <Compile Include="StarNames.cs" />
-    <Compile Include="Story\StoryManager.cs" />
-    <Compile Include="StringExtensions.cs" />
-    <Compile Include="TechnologyGroup.cs" />
-    <Compile Include="TechnologyManager.cs" />
-    <Compile Include="TerrainGenNew.cs">
+    <Compile Include="ScriptHelpers\ScopeProxy.cs" />
+    <Compile Include="Parsers\CharacterParser.cs" />
+    <Compile Include="Managers\SimulationManager.cs" />
+    <Compile Include="Managers\SocietyManager.cs" />
+    <Compile Include="ScriptHelpers\ScriptCommand.cs" />
+    <Compile Include="ScriptHelpers\ScriptHelper.cs" />
+    <Compile Include="ScriptHelpers\ScriptLoader.cs" />
+    <Compile Include="ScriptHelpers\ScriptReference.cs" />
+    <Compile Include="ScriptHelpers\ScriptScope.cs" />
+    <Compile Include="Models\SocietyModel.cs" />
+    <Compile Include="Managers\SpriteManager.cs" />
+    <Compile Include="Helpers\StarHelper.cs" />
+    <Compile Include="Managers\StoryManager.cs" />
+    <Compile Include="Helpers\StringHelper.cs" />
+    <Compile Include="Helpers\TechnologyHelper.cs" />
+    <Compile Include="Managers\TechnologyManager.cs" />
+    <Compile Include="Forms\TerrainGenNew.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TerrainGenNew.Designer.cs">
+    <Compile Include="Forms\TerrainGenNew.Designer.cs">
       <DependentUpon>TerrainGenNew.cs</DependentUpon>
     </Compile>
-    <Compile Include="TitleManager.cs" />
-    <Compile Include="TitleParser.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Managers\TitleManager.cs" />
+    <Compile Include="Parsers\TitleParser.cs" />
+    <Compile Include="Forms\MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ScriptLoader.cs" />
-    <Compile Include="TraitManager.cs" />
-    <Compile Include="WarManager.cs" />
-    <Compile Include="XmlExtensions.cs" />
-    <EmbeddedResource Include="CreateBookmark.resx">
+    <Compile Include="Managers\TraitManager.cs" />
+    <Compile Include="Managers\WarManager.cs" />
+    <EmbeddedResource Include="Forms\CreateBookmark.resx">
       <DependentUpon>CreateBookmark.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MainResources.resx">
+    <EmbeddedResource Include="Resources\MainResources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
       <LastGenOutput>MainResources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="MapGenerator.resx">
+    <EmbeddedResource Include="Forms\MapGenerator.resx">
       <DependentUpon>MapGenerator.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ModSelect.resx">
+    <EmbeddedResource Include="Forms\ModSelect.resx">
       <DependentUpon>ModSelect.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Progress\AlertForm.resx">
+    <EmbeddedResource Include="Forms\AlertForm.resx">
       <DependentUpon>AlertForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -278,10 +287,10 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="ScriptBlueprint.resx">
+    <EmbeddedResource Include="Forms\ScriptBlueprint.resx">
       <DependentUpon>ScriptBlueprint.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="TerrainGenNew.resx">
+    <EmbeddedResource Include="Forms\TerrainGenNew.resx">
       <DependentUpon>TerrainGenNew.cs</DependentUpon>
     </EmbeddedResource>
     <Content Include="data\common\disease\00_disease.txt">
@@ -306,6 +315,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <AdditionalFiles Include="stylecop.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -347,11 +357,11 @@
     <Content Include="data\common\trade_routes\00_silk_route.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="DevIL.dll">
+    <Content Include="DLLs\DevIL.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="DevIL.NET2.dll" />
-    <Content Include="ILU.dll">
+    <Content Include="DLLs\DevIL.NET2.dll" />
+    <Content Include="DLLs\ILU.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Resource Include="Resources\icons.png" />
@@ -359,6 +369,10 @@
   <ItemGroup>
     <Folder Include="data\mapstuff\statics\" />
     <Folder Include="MapGen\NoiseLib\" />
+    <Folder Include="Options\" />
+    <Folder Include="Progress\" />
+    <Folder Include="Simulation\" />
+    <Folder Include="Story\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LibNoise\LibNoise\LibNoise.csproj">
@@ -366,7 +380,19 @@
       <Name>LibNoise</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="packages\StyleCop.Analyzers.1.0.2\analyzers\dotnet\cs\StyleCop.Analyzers.CodeFixes.dll" />
+    <Analyzer Include="packages\StyleCop.Analyzers.1.0.2\analyzers\dotnet\cs\StyleCop.Analyzers.dll" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\StyleCopPlus.MSBuild.4.7.49.5\build\StyleCopPlus.MSBuild.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\StyleCopPlus.MSBuild.4.7.49.5\build\StyleCopPlus.MSBuild.props'))" />
+    <Error Condition="!Exists('packages\StyleCop.MSBuild.5.0.0\build\StyleCop.MSBuild.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\StyleCop.MSBuild.5.0.0\build\StyleCop.MSBuild.targets'))" />
+  </Target>
+  <Import Project="packages\StyleCop.MSBuild.5.0.0\build\StyleCop.MSBuild.targets" Condition="Exists('packages\StyleCop.MSBuild.5.0.0\build\StyleCop.MSBuild.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

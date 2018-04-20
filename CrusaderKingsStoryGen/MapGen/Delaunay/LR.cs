@@ -1,7 +1,9 @@
-﻿namespace csDelaunay {
-	
-	public class LR {
+﻿// <copyright file="LR.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
+namespace csDelaunay {
+	public class LR {
 		public static readonly LR LEFT = new LR("left");
 		public static readonly LR RIGHT = new LR("right");
 
@@ -16,7 +18,7 @@
 		}
 
 		public override string ToString() {
-			return name;
+			return this.name;
 		}
 	}
 }

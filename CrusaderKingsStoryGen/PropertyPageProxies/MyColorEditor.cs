@@ -1,13 +1,17 @@
-﻿using System;
-using System.ComponentModel;
-using System.Drawing;
-using System.Drawing.Design;
-using System.Windows.Forms;
-using System.Windows.Forms.Design;
-using Cyotek.Windows.Forms;
+﻿// <copyright file="MyColorEditor.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace CrusaderKingsStoryGen.PropertyPageProxies
 {
+    using System;
+    using System.ComponentModel;
+    using System.Drawing;
+    using System.Drawing.Design;
+    using System.Windows.Forms;
+    using System.Windows.Forms.Design;
+    using Cyotek.Windows.Forms;
+
     public class MyColorConverter : ColorConverter
     {
         public override bool GetStandardValuesSupported(ITypeDescriptorContext context)
@@ -15,6 +19,7 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
             return false;
         }
     }
+
     public class MyColorEditor : UITypeEditor
     {
         public override UITypeEditorEditStyle GetEditStyle(ITypeDescriptorContext context)
@@ -24,15 +29,17 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
 
         public override object EditValue(ITypeDescriptorContext context, IServiceProvider provider, object value)
         {
-          
             IWindowsFormsEditorService svc = (IWindowsFormsEditorService)provider.GetService(typeof(IWindowsFormsEditorService));
 
             if (svc != null)
             {
                 using (ColorPickerDialog form = new ColorPickerDialog())
                 {
-                    if(value !=null)
-                        form.Color =(Color) value ;
+                    if (value != null)
+                    {
+                        form.Color = (Color)value;
+                    }
+
                     if (svc.ShowDialog(form) == DialogResult.OK)
                     {
                         return form.Color;
@@ -51,7 +58,9 @@ namespace CrusaderKingsStoryGen.PropertyPageProxies
         public override void PaintValue(PaintValueEventArgs e)
         {
             if (e.Value == null)
+            {
                 return;
+            }
 
             using (SolidBrush brush = new SolidBrush((Color)e.Value))
             {

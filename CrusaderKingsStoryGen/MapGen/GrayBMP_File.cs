@@ -1,11 +1,14 @@
-﻿/* Create by: Muhammad Chishty Asheque
+﻿// <copyright file="GrayBMP_File.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
+
+/* Create by: Muhammad Chishty Asheque
  * Date: Friday, April 02, 2010
- * Contact: twinkle_rip@hotmail.com 
+ * Contact: twinkle_rip@hotmail.com
  */
 
 using System;
 using System.Drawing;
-using System.Dynamic;
 using System.IO;
 
 static class GrayBMP_File
@@ -14,24 +17,27 @@ static class GrayBMP_File
     static byte[] DIB_header = new byte[40];
     static byte[] Color_palette = new byte[1024]; //a palette containing 256 colors
     static byte[] Bitmap_Data = null;
+
     private static byte GetIndex(Color color)
     {
         for (int x = 0; x < 256; x++)
         {
-            if (color.R == Color_palette[x*4 + 2] &&
-                color.G == Color_palette[x*4 + 1] &&
-                color.B == Color_palette[x*4])
-                return (byte) x;
+            if (color.R == Color_palette[x * 4 + 2] &&
+                color.G == Color_palette[x * 4 + 1] &&
+                color.B == Color_palette[x * 4])
+            {
+                return (byte)x;
+            }
         }
 
         return 0;
     }
 
     //creates byte array of 256 color grayscale palette
-    static byte[] create_palette(bool trees=false, bool rivers=false)
+    static byte[] create_palette(bool trees = false, bool rivers = false)
     {
         byte[] color_palette = new byte[1024];
-        int ii=0;
+        int ii = 0;
         if (rivers)
         {
             setColor(ii++, 0, 255, 0, color_palette);
@@ -52,8 +58,6 @@ static class GrayBMP_File
             setColor(ii++, 24, 206, 0, color_palette);
             setColor(254, 255, 0, 128, color_palette);
             setColor(255, 255, 255, 255, color_palette);
-
-
         }
         else if (!trees)
         {
@@ -73,7 +77,6 @@ static class GrayBMP_File
             setColor(ii++, 213, 144, 199, color_palette);
             setColor(ii++, 127, 27, 60, color_palette);
             setColor(ii++, 69, 91, 186, color_palette);
-
         }
         else
         {
@@ -90,23 +93,22 @@ static class GrayBMP_File
             setColor(ii++, 83, 85, 0, color_palette);
             setColor(ii++, 255, 255, 0, color_palette);
             setColor(ii++, 213, 160, 0, color_palette);
-
         }
 
-        if(!rivers)
-        for (int i = 4*16; i < 256; i++)
+        if (!rivers)
+        for (int i = 4 * 16; i < 256; i++)
         {
             color_palette[i * 4 + 0] = (byte)(i); //bule
             color_palette[i * 4 + 1] = (byte)(i); //green
             color_palette[i * 4 + 2] = (byte)(i); //red
             color_palette[i * 4 + 3] = (byte)0; //padding
         }
+
         return color_palette;
     }
 
     private static void setColor(int i, int r, int g, int b, byte[] colorPalette)
     {
-
         colorPalette[i * 4 + 0] = (byte)b;
         colorPalette[i * 4 + 1] = (byte)g;
         colorPalette[i * 4 + 2] = (byte)r;
@@ -140,6 +142,7 @@ static class GrayBMP_File
         Copy_to_Index(DIB_header, BitConverter.GetBytes(0), 36); //number of important colors used N.B. 0 = all colors are imprtant
         //Create Color palett
     }
+
     //convert the color pixels of Source image into a grayscale bitmap (raw data)
     static byte[] ConvertToGrayscale(Image Source)
     {
@@ -153,18 +156,20 @@ static class GrayBMP_File
                 Color c = source.GetPixel(x, y);
                 bytes[(source.Height - 1 - y) * source.Width + (source.Height - 1 - y) * padding + x] = (byte)GetIndex(c);
             }
+
             //add the padding
             for (int i = 0; i < padding; i++)
             {
                 bytes[(source.Height - y) * source.Width + (source.Height - 1 - y) * padding + i] = (byte)0;
             }
         }
+
         return bytes;
     }
 
 
     //creates a grayscale bitmap file of Image specified by Path
-    static public bool CreateGrayBitmapFile(Image Image, string Path, bool trees = false, bool rivers=false)
+    static public bool CreateGrayBitmapFile(Image Image, string Path, bool trees = false, bool rivers = false)
     {
         try
         {
@@ -184,6 +189,7 @@ static class GrayBMP_File
             return false;
         }
     }
+
     //returns a byte array of a grey scale bitmap image
     static public byte[] CreateGrayBitmapArray(Image Image)
     {
@@ -205,6 +211,7 @@ static class GrayBMP_File
             return new byte[1]; //return a null single byte array if fails
         }
     }
+
     //adds dtata of Source array to Destinition array at the Index
     static bool Copy_to_Index(byte[] destination, byte[] source, int index)
     {
@@ -214,6 +221,7 @@ static class GrayBMP_File
             {
                 destination[i + index] = source[i];
             }
+
             return true;
         }
         catch

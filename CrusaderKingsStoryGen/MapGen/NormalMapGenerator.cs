@@ -1,25 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using LibNoise.Modfiers;
+﻿// <copyright file="NormalMapGenerator.cs" company="Yemmlie - 252afh fork">
+// Copyright policies set by https://github.com/yemmlie
+// </copyright>
 
 namespace CrusaderKingsStoryGen.MapGen
 {
+    using System;
+    using System.Drawing;
+    using CrusaderKingsStoryGen.Helpers;
+    using LibNoise.Modfiers;
+
     public struct Vector3
     {
         public float X { get; set; }
+
         public float Y { get; set; }
+
         public float Z { get; set; }
 
         public Vector3(float x, float y, float z)
         {
-            X = x;
-            Y = y;
-            Z = z;
+            this.X = x;
+            this.Y = y;
+            this.Z = z;
         }
+
         public void Normalize()
         {
             Normalize(ref this, out this);
@@ -57,9 +61,10 @@ namespace CrusaderKingsStoryGen.MapGen
                      (value1.Y - value2.Y) * (value1.Y - value2.Y) +
                      (value1.Z - value2.Z) * (value1.Z - value2.Z);
         }
+
         public static void Normalize(ref Vector3 value, out Vector3 result)
-        {        
-            result = new Vector3(value.X,value.Y,value.Z);    
+        {
+            result = new Vector3(value.X,value.Y,value.Z);
             float factor;
             Distance(ref value, ref zero, out factor);
             factor = 1f / factor;
@@ -67,9 +72,10 @@ namespace CrusaderKingsStoryGen.MapGen
             result.Y = value.Y * factor;
             result.Z = value.Z * factor;
         }
-        private static Vector3 zero = new Vector3(0f, 0f, 0f);
 
+        private static Vector3 zero = new Vector3(0f, 0f, 0f);
     }
+
     public class NormalMapGenerator
     {
         public static NormalMapGenerator instance = new NormalMapGenerator();
@@ -83,7 +89,7 @@ namespace CrusaderKingsStoryGen.MapGen
             int texheight = bmp.Height;
 
             float texelSize = 1.0f / (float)texwidth;
-            float normalStrength = (float)(Rand.Next(40) + 60) / 100.0f;
+            float normalStrength = (float)(RandomIntHelper.Next(40) + 60) / 100.0f;
             normalStrength /= 10.0f;
             byte pixel;
             float tl, l, bl, b, tr, r, br, t;
@@ -103,13 +109,13 @@ namespace CrusaderKingsStoryGen.MapGen
                     br = bmp.GetPixel(x + 1, y + 1).R / 255.0f;
 
                     // Compute dx using Sobel:
-                    //           -1 0 1 
+                    //           -1 0 1
                     //           -2 0 2
                     //           -1 0 1
                     float dX = tr + 2 * r + br - tl - 2 * l - bl;
 
                     // Compute dy using Sobel:
-                    //           -1 -2 -1 
+                    //           -1 -2 -1
                     //            0  0  0
                     //            1  2  1
                     float dY = bl + 2 * b + br - tl - 2 * t - tr;
@@ -118,9 +124,14 @@ namespace CrusaderKingsStoryGen.MapGen
 
                     Vector3 N;
                     if (pixel < 95)
+                    {
                         N = new Vector3(dX, 4, dY);
+                    }
                     else
+                    {
                         N = new Vector3(dX, normalStrength, dY);
+                    }
+
                     N = Vector3.Normalize(N);
                     N.X = -N.X;
                     N.X += 1.0f;
@@ -130,8 +141,9 @@ namespace CrusaderKingsStoryGen.MapGen
                     N.Z += 1.0f;
                     N.Z /= 2.0f;
 
-                    outBmp.SetPixel(x, y, Color.FromArgb(255, (int) (N.X*255), (int) (N.Z * 255), (int) (N.Y * 255)));;
+                    outBmp.SetPixel(x, y, Color.FromArgb(255, (int)(N.X * 255), (int)(N.Z * 255), (int)(N.Y * 255)));;
                 }
+
             outBmp.UnlockBits();
             return outBmp;
         }
