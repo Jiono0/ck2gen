@@ -1,0 +1,119 @@
+200 - Title given to 1000083
+200 - vassal: c_qeirurt - Given to 1000086 via AddCharacterForTitle
+200 - sub vassal: c_qeirurt - Given to 1000086 via AddCharacterForTitle
+200 - vassal: c_qeirurt - Holder 1000086 - Primary title: c_qeirurt has lost the title: c_qeirurt
+200 - sub vassal: c_qeirurt - Holder 1000086 - Primary title: c_qeirurt has lost the title: c_qeirurt
+200 - vassal: c_qeirurt - Title given to 1000086
+200 - sub vassal: c_qeirurt - Title given to 1000086
+200 - vassal: c_barujman - Given to 1000088 via AddCharacterForTitle
+200 - sub vassal: c_barujman - Given to 1000088 via AddCharacterForTitle
+200 - vassal: c_barujman - Holder 1000088 - Primary title: c_barujman has lost the title: c_barujman
+200 - sub vassal: c_barujman - Holder 1000088 - Primary title: c_barujman has lost the title: c_barujman
+200 - vassal: c_barujman - Title given to 1000088
+200 - sub vassal: c_barujman - Title given to 1000088
+200 - vassal: c_kuremka - Holder 1000083 - Primary title: c_kuremka has lost the title: c_kuremka
+200 - sub vassal: c_kuremka - Holder 1000083 - Primary title: c_kuremka has lost the title: c_kuremka
+200 - vassal: c_kuremka - Title given to 1000083 - Primary title: d_bibobad
+200 - sub vassal: c_kuremka - Title given to 1000083 - Primary title: d_bibobad
+200 - Holder (1000083) has gained c_kuremka
+200 - vassal: c_qeirurt - Holder 1000083 - Primary title: c_qeirurt has lost the title: c_qeirurt
+200 - sub vassal: c_qeirurt - Holder 1000083 - Primary title: c_qeirurt has lost the title: c_qeirurt
+200 - vassal: c_qeirurt - Title given to 1000083 - Primary title: d_bibobad
+200 - sub vassal: c_qeirurt - Title given to 1000083 - Primary title: d_bibobad
+200 - Holder (1000083) has gained c_qeirurt
+200 - vassal: c_barujman - Holder 1000083 - Primary title: c_barujman has lost the title: c_barujman
+200 - sub vassal: c_barujman - Holder 1000083 - Primary title: c_barujman has lost the title: c_barujman
+200 - vassal: c_barujman - Title given to 1000083 - Primary title: d_bibobad
+200 - sub vassal: c_barujman - Title given to 1000083 - Primary title: d_bibobad
+200 - Holder (1000083) has gained c_barujman
+200 - vassal: c_kitota - Title given to 1000083 - Primary title: d_bibobad
+200 - Holder (1000083) has gained c_kitota
+214 - Holder 1001689 - Primary title: d_bibobad has lost the title: d_bibobad
+214 - Title given to 1001689
+214 - vassal: c_kitota - Holder 1001689 - Primary title: c_kitota has lost the title: c_kitota
+214 - vassal: c_kitota - Title given to 1001689 - Primary title: d_bibobad
+214 - Holder (1001689) has gained c_kitota
+214 - vassal: c_barujman - Holder 1001689 - Primary title: c_barujman has lost the title: c_barujman
+214 - vassal: c_barujman - Title given to 1001689 - Primary title: d_bibobad
+214 - Holder (1001689) has gained c_barujman
+214 - vassal: c_qeirurt - Holder 1001689 - Primary title: c_qeirurt has lost the title: c_qeirurt
+214 - vassal: c_qeirurt - Title given to 1001689 - Primary title: d_bibobad
+214 - Holder (1001689) has gained c_qeirurt
+214 - vassal: c_kuremka - Holder 1001689 - Primary title: c_kuremka has lost the title: c_kuremka
+214 - vassal: c_kuremka - Title given to 1001689 - Primary title: d_bibobad
+214 - Holder (1001689) has gained c_kuremka
+228 - Holder 1000070 - Primary title: d_bibobad has lost the title: d_bibobad
+228 - Title given to 1000070 - Primary title: d_raimama
+228 - vassal: c_kuremka - Holder 1000070 - Primary title: c_kuremka has lost the title: c_kuremka
+228 - vassal: c_kuremka - Title given to 1000070 - Primary title: d_raimama
+228 - vassal: c_qeirurt - Holder 1000070 - Primary title: c_qeirurt has lost the title: c_qeirurt
+228 - vassal: c_qeirurt - Title given to 1000070 - Primary title: d_raimama
+228 - vassal: c_barujman - Holder 1000070 - Primary title: c_barujman has lost the title: c_barujman
+228 - vassal: c_barujman - Title given to 1000070 - Primary title: d_raimama
+228 - vassal: c_kitota - Holder 1000070 - Primary title: c_kitota has lost the title: c_kitota
+228 - vassal: c_kitota - Title given to 1000070 - Primary title: d_raimama
+229 - Holder 1003319 - Primary title: d_bibobad has lost the title: c_eralemar
+229 - Holder 1003320 - Primary title: d_bibobad has lost the title: c_regyamka
+251 - Holder 1002789 - Primary title: d_bibobad has lost the title: d_bibobad
+251 - Title given to 1002789
+251 - vassal: c_kitota - Setting to vassal of d_raimama in Validate Realm
+251 - Lost vassal: c_kitota
+251 - vassal: c_barujman - Setting to vassal of d_raimama in Validate Realm
+251 - Lost vassal: c_barujman
+251 - vassal: c_qeirurt - Setting to vassal of d_raimama in Validate Realm
+251 - Lost vassal: c_qeirurt
+251 - vassal: c_kuremka - Setting to vassal of d_raimama in Validate Realm
+251 - Lost vassal: c_kuremka
+251 - Holder (1002789) has gained d_raimama
+251 - Holder (1002789) has gained c_kitota
+251 - Holder (1002789) has gained c_barujman
+251 - Holder (1002789) has gained c_qeirurt
+251 - Holder (1002789) has gained c_kuremka
+251 - Holder (1002789) has gained c_baravid
+252 - Destroyed due to flagged problem
+252 - Made independent
+252 - Title destroyed
+263 - Given to 1002789 in TestCreateEmpire
+263 - Title given to 1002789 - Primary title: d_raimama
+263 - Made independent for title creation d_bibobad for d_raimama
+263 - Made independent
+263 - Gained vassal: c_baravid
+263 - Gained vassal: c_kuremka
+263 - Gained vassal: c_qeirurt
+263 - Gained vassal: c_barujman
+263 - Gained vassal: c_kitota
+264 - vassal: c_kitota - Title given to 1005485
+267 - sub vassal: c_regyamka - Setting to vassal of d_bibobad in Validate Realm
+267 - Gained vassal: c_regyamka
+267 - Holder 1004991 - Primary title: d_bibobad has lost the title: d_bibobad
+267 - Title given to 1004991 - Primary title: d_raimama
+267 - vassal: c_baravid - Holder 1004991 - Primary title: c_baravid has lost the title: c_regyamka
+267 - vassal: c_regyamka - Title given to 1004991 - Primary title: d_raimama
+272 - vassal: c_baravid - Holder 1004991 - Primary title: c_baravid has lost the title: c_baravid
+272 - vassal: c_baravid - Title given to 1004991 - Primary title: d_raimama
+272 - vassal: c_kuremka - Holder 1004991 - Primary title: c_kuremka has lost the title: c_kuremka
+272 - vassal: c_kuremka - Title given to 1004991 - Primary title: d_raimama
+272 - vassal: c_qeirurt - Holder 1004991 - Primary title: c_qeirurt has lost the title: c_qeirurt
+272 - vassal: c_qeirurt - Title given to 1004991 - Primary title: d_raimama
+272 - vassal: c_barujman - Holder 1004991 - Primary title: c_barujman has lost the title: c_barujman
+272 - vassal: c_barujman - Title given to 1004991 - Primary title: d_raimama
+272 - vassal: c_baravid - Title given to 1005998
+327 - Title given to 1006163
+327 - vassal: c_baravid - Made vassal of neighbour (k_ebriga) due to being a seperate island
+327 - sub vassal: c_baravid - Made vassal of neighbour (k_ebriga) due to being a seperate island
+327 - Lost vassal: c_baravid
+327 - vassal: c_barujman - Setting to vassal of d_raimama in Validate Realm
+327 - Lost vassal: c_barujman
+327 - vassal: c_qeirurt - Setting to vassal of d_raimama in Validate Realm
+327 - Lost vassal: c_qeirurt
+327 - vassal: c_kuremka - Setting to vassal of d_raimama in Validate Realm
+327 - Lost vassal: c_kuremka
+327 - vassal: c_regyamka - Setting to vassal of d_raimama in Validate Realm
+327 - Lost vassal: c_regyamka
+327 - vassal: c_kitota - Made vassal of neighbour (k_ebriga) due to being a seperate island
+327 - sub vassal: c_kitota - Made vassal of neighbour (k_ebriga) due to being a seperate island
+327 - Lost vassal: c_kitota
+327 - Holder 1009068 - Primary title: d_bibobad has lost the title: d_bibobad
+327 - Title given to 1009068
+328 - Destroyed due to flagged problem
+328 - Title destroyed

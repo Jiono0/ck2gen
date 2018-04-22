@@ -1,0 +1,159 @@
+200 - Title given to 1000901
+200 - vassal: c_kevilie - Given to 1000904 via AddCharacterForTitle
+200 - sub vassal: c_kevilie - Given to 1000904 via AddCharacterForTitle
+200 - vassal: c_kevilie - Holder 1000904 - Primary title: c_kevilie has lost the title: c_kevilie
+200 - sub vassal: c_kevilie - Holder 1000904 - Primary title: c_kevilie has lost the title: c_kevilie
+200 - vassal: c_kevilie - Title given to 1000904
+200 - sub vassal: c_kevilie - Title given to 1000904
+200 - vassal: c_nituncan - Holder 1000901 - Primary title: c_nituncan has lost the title: c_nituncan
+200 - sub vassal: c_nituncan - Holder 1000901 - Primary title: c_nituncan has lost the title: c_nituncan
+200 - vassal: c_nituncan - Title given to 1000901 - Primary title: d_esonava
+200 - sub vassal: c_nituncan - Title given to 1000901 - Primary title: d_esonava
+200 - Holder (1000901) has gained c_nituncan
+200 - vassal: c_kevilie - Holder 1000901 - Primary title: c_kevilie has lost the title: c_kevilie
+200 - sub vassal: c_kevilie - Holder 1000901 - Primary title: c_kevilie has lost the title: c_kevilie
+200 - vassal: c_kevilie - Title given to 1000901 - Primary title: d_esonava
+200 - sub vassal: c_kevilie - Title given to 1000901 - Primary title: d_esonava
+200 - Holder (1000901) has gained c_kevilie
+200 - Holder 1001065 - Primary title: d_esonava has lost the title: d_esonava
+200 - Title given to 1001065 - Primary title: k_raming
+200 - vassal: c_nituncan - Holder 1001065 - Primary title: c_nituncan has lost the title: c_nituncan
+200 - vassal: c_nituncan - Title given to 1001065 - Primary title: k_raming
+209 - vassal: c_nituncan - Given to 1002199 in HandleTitles - Too many duke titles
+209 - vassal: c_nituncan - Title given to 1002199
+209 - Title given to 1002199 - Primary title: c_nituncan
+209 - vassal: c_nituncan - Holder (1002199) has gained d_esonava
+209 - Too many dukes, given to dejure: k_raming
+228 - Holder 1001901 - Primary title: d_esonava has lost the title: d_esonava
+228 - Title given to 1001901 - Primary title: k_raming
+228 - vassal: c_nituncan - Holder 1001901 - Primary title: c_nituncan has lost the title: c_nituncan
+228 - vassal: c_nituncan - Title given to 1001901 - Primary title: k_raming
+234 - Gained vassal: c_qilber
+234 - Gained vassal: c_kekava
+234 - Gained vassal: c_egnozar
+234 - Gained vassal: c_kusilie
+234 - Holder 1003062 - Primary title: d_esonava has lost the title: c_kusilie
+234 - vassal: c_kusilie - Title given to 1003062 - Primary title: k_raming
+234 - vassal: c_kusilie - Setting to vassal of k_raming in Validate Realm
+234 - Lost vassal: c_kusilie
+234 - Holder 1003062 - Primary title: d_esonava has lost the title: c_egnozar
+234 - vassal: c_egnozar - Title given to 1003062 - Primary title: k_raming
+234 - vassal: c_egnozar - Setting to vassal of k_raming in Validate Realm
+234 - Lost vassal: c_egnozar
+234 - Holder 1003062 - Primary title: d_esonava has lost the title: c_kekava
+234 - vassal: c_kekava - Title given to 1003062 - Primary title: k_raming
+234 - vassal: c_kekava - Setting to vassal of k_raming in Validate Realm
+234 - Lost vassal: c_kekava
+234 - Holder 1003062 - Primary title: d_esonava has lost the title: c_qilber
+234 - vassal: c_qilber - Title given to 1003062 - Primary title: k_raming
+234 - vassal: c_qilber - Setting to vassal of k_raming in Validate Realm
+234 - Lost vassal: c_qilber
+234 - Holder 1003062 - Primary title: d_esonava has lost the title: d_esonava
+234 - Title given to 1003062 - Primary title: k_raming
+234 - vassal: c_nituncan - Holder 1003062 - Primary title: c_nituncan has lost the title: c_nituncan
+234 - vassal: c_nituncan - Title given to 1003062 - Primary title: k_raming
+240 - Gained vassal: c_kusilie
+240 - Gained vassal: c_egnozar
+240 - Gained vassal: c_kekava
+240 - Gained vassal: c_qilber
+240 - Holder 1001731 - Primary title: d_esonava has lost the title: d_esonava
+240 - Title given to 1001731 - Primary title: k_raming
+240 - vassal: c_nituncan - Holder 1001731 - Primary title: c_nituncan has lost the title: c_nituncan
+240 - vassal: c_nituncan - Title given to 1001731 - Primary title: k_raming
+240 - vassal: c_qilber - Holder 1001731 - Primary title: c_qilber has lost the title: c_qilber
+240 - vassal: c_qilber - Title given to 1001731 - Primary title: k_raming
+240 - vassal: c_kekava - Holder 1001731 - Primary title: c_kekava has lost the title: c_kekava
+240 - vassal: c_kekava - Title given to 1001731 - Primary title: k_raming
+240 - vassal: c_egnozar - Holder 1001731 - Primary title: c_egnozar has lost the title: c_egnozar
+240 - vassal: c_egnozar - Title given to 1001731 - Primary title: k_raming
+240 - vassal: c_kusilie - Holder 1001731 - Primary title: c_kusilie has lost the title: c_kusilie
+240 - vassal: c_kusilie - Title given to 1001731 - Primary title: k_raming
+241 - vassal: c_nituncan - Given to 1004094 in HandleTitles - Too many duke titles
+241 - vassal: c_nituncan - Title given to 1004094
+241 - Title given to 1004094 - Primary title: c_nituncan
+241 - vassal: c_nituncan - Holder (1004094) has gained d_esonava
+241 - vassal: c_qilber - Setting to vassal of k_raming in Validate Realm
+241 - Lost vassal: c_qilber
+241 - vassal: c_kekava - Setting to vassal of k_raming in Validate Realm
+241 - Lost vassal: c_kekava
+241 - vassal: c_egnozar - Setting to vassal of k_raming in Validate Realm
+241 - Lost vassal: c_egnozar
+241 - vassal: c_kusilie - Setting to vassal of k_raming in Validate Realm
+241 - Lost vassal: c_kusilie
+241 - Too many dukes, given to dejure: k_raming
+279 - Holder 1004462 - Primary title: d_esonava has lost the title: d_esonava
+279 - Title given to 1004462
+279 - vassal: c_nituncan - Holder 1004462 - Primary title: c_nituncan has lost the title: c_nituncan
+279 - vassal: c_nituncan - Title given to 1004462 - Primary title: d_esonava
+279 - Holder (1004462) has gained c_nituncan
+298 - Holder 1006509 - Primary title: d_esonava has lost the title: d_esonava
+298 - Title given to 1006509
+298 - vassal: c_nituncan - Holder 1006509 - Primary title: c_nituncan has lost the title: c_nituncan
+298 - vassal: c_nituncan - Title given to 1006509 - Primary title: d_esonava
+298 - Holder (1006509) has gained c_nituncan
+300 - vassal: c_kevilie - Holder 1006509 - Primary title: c_kevilie has lost the title: c_kevilie
+300 - vassal: c_kevilie - Title given to 1006509 - Primary title: d_esonava
+300 - Holder (1006509) has gained c_kevilie
+315 - Holder 1007694 - Primary title: d_esonava has lost the title: d_esonava
+315 - Title given to 1007694
+315 - vassal: c_kevilie - Holder 1007694 - Primary title: c_kevilie has lost the title: c_kevilie
+315 - vassal: c_kevilie - Title given to 1007694 - Primary title: d_esonava
+315 - Holder (1007694) has gained c_kevilie
+315 - vassal: c_nituncan - Holder 1007694 - Primary title: c_nituncan has lost the title: c_nituncan
+315 - vassal: c_nituncan - Title given to 1007694 - Primary title: d_esonava
+315 - Holder (1007694) has gained c_nituncan
+319 - Holder 1005082 - Primary title: d_esonava has lost the title: d_esonava
+319 - Title given to 1005082 - Primary title: d_kyeleh
+319 - vassal: c_kevilie - Holder 1005082 - Primary title: c_kevilie has lost the title: c_kevilie
+319 - vassal: c_kevilie - Title given to 1005082 - Primary title: d_kyeleh
+319 - vassal: c_nituncan - Holder 1005082 - Primary title: c_nituncan has lost the title: c_nituncan
+319 - vassal: c_nituncan - Title given to 1005082 - Primary title: d_kyeleh
+322 - Gained vassal: c_wioyna
+322 - Gained vassal: c_qipurgen
+322 - Gained vassal: c_tuqadla
+322 - Holder 1007605 - Primary title: d_esonava has lost the title: d_esonava
+322 - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: c_tuqadla - Holder 1007605 - Primary title: c_tuqadla has lost the title: c_tuqadla
+322 - vassal: c_tuqadla - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: c_qipurgen - Holder 1007605 - Primary title: c_qipurgen has lost the title: c_qipurgen
+322 - vassal: c_qipurgen - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: c_wioyna - Holder 1007605 - Primary title: c_wioyna has lost the title: c_wioyna
+322 - vassal: c_wioyna - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: c_kevilie - Holder 1007605 - Primary title: c_kevilie has lost the title: c_kevilie
+322 - vassal: c_kevilie - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: c_nituncan - Holder 1007605 - Primary title: c_nituncan has lost the title: c_nituncan
+322 - vassal: c_nituncan - Title given to 1007605 - Primary title: d_kyeleh
+339 - Holder (1007605) has gained d_kyeleh
+339 - vassal: c_tuqadla - Set liege on title creation d_kyeleh
+339 - Lost vassal: c_tuqadla
+339 - vassal: c_qipurgen - Set liege on title creation d_kyeleh
+339 - Lost vassal: c_qipurgen
+339 - vassal: c_wioyna - Set liege on title creation d_kyeleh
+339 - Lost vassal: c_wioyna
+339 - vassal: c_kevilie - Set liege on title creation d_kyeleh
+339 - Lost vassal: c_kevilie
+339 - vassal: c_nituncan - Set liege on title creation d_kyeleh
+339 - Lost vassal: c_nituncan
+340 - Destroyed due to flagged problem
+340 - Made independent
+340 - Title destroyed
+344 - Given to 1007605 in TestCreateEmpire
+344 - Title given to 1007605 - Primary title: d_kyeleh
+344 - Made independent for title creation d_esonava for d_kyeleh
+344 - Gained vassal: c_nituncan
+344 - Gained vassal: c_kevilie
+344 - Gained vassal: c_wioyna
+344 - Gained vassal: c_qipurgen
+344 - Gained vassal: c_tuqadla
+344 - Destroyed due to no capital's obtainable
+344 - Title destroyed
+344 - vassal: c_nituncan - Setting independent due to liege destruction
+344 - vassal: c_nituncan - Made independent
+344 - vassal: c_kevilie - Setting independent due to liege destruction
+344 - vassal: c_kevilie - Made independent
+344 - vassal: c_tuqadla - Setting independent due to liege destruction
+344 - vassal: c_tuqadla - Made independent
+344 - vassal: c_qipurgen - Setting independent due to liege destruction
+344 - vassal: c_qipurgen - Made independent
+344 - vassal: c_wioyna - Setting independent due to liege destruction
+344 - vassal: c_wioyna - Made independent

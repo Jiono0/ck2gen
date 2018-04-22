@@ -1,0 +1,56 @@
+200 - Title given to 1000278
+200 - vassal: c_tamimon - Holder 1000278 - Primary title: c_tamimon has lost the title: c_tamimon
+200 - sub vassal: c_tamimon - Holder 1000278 - Primary title: c_tamimon has lost the title: c_tamimon
+200 - vassal: c_tamimon - Title given to 1000278 - Primary title: d_tairya
+200 - sub vassal: c_tamimon - Title given to 1000278 - Primary title: d_tairya
+200 - Holder (1000278) has gained c_tamimon
+200 - vassal: c_wairick - Holder 1000278 - Primary title: c_wairick has lost the title: c_wairick
+200 - sub vassal: c_wairick - Holder 1000278 - Primary title: c_wairick has lost the title: c_wairick
+200 - vassal: c_wairick - Title given to 1000278 - Primary title: d_tairya
+200 - sub vassal: c_wairick - Title given to 1000278 - Primary title: d_tairya
+200 - Holder (1000278) has gained c_wairick
+200 - Holder 1001025 - Primary title: d_tairya has lost the title: c_wairick
+200 - vassal: c_wairick - Title given to 1001025 - Primary title: k_kilimon
+201 - Holder 1000275 - Primary title: d_tairya has lost the title: d_tairya
+201 - Title given to 1000275 - Primary title: d_nikay
+201 - vassal: c_wairick - Setting to vassal of k_kilimon in Validate Realm
+201 - Lost vassal: c_wairick
+201 - vassal: c_tamimon - Holder 1000275 - Primary title: c_tamimon has lost the title: c_tamimon
+201 - vassal: c_tamimon - Title given to 1000275 - Primary title: d_nikay
+235 - Gained vassal: c_qetoc
+235 - Gained vassal: c_qairadg
+235 - Gained vassal: c_wamosse
+235 - Holder 1001376 - Primary title: d_tairya has lost the title: d_tairya
+235 - Title given to 1001376 - Primary title: k_kilimon
+235 - vassal: c_tamimon - Holder 1001376 - Primary title: c_tamimon has lost the title: c_tamimon
+235 - vassal: c_tamimon - Title given to 1001376 - Primary title: k_kilimon
+235 - vassal: c_wamosse - Holder 1001376 - Primary title: c_wamosse has lost the title: c_wamosse
+235 - vassal: c_wamosse - Title given to 1001376 - Primary title: k_kilimon
+235 - vassal: c_qairadg - Holder 1001376 - Primary title: c_qairadg has lost the title: c_qairadg
+235 - vassal: c_qairadg - Title given to 1001376 - Primary title: k_kilimon
+235 - vassal: c_qetoc - Holder 1001376 - Primary title: c_qetoc has lost the title: c_qetoc
+235 - vassal: c_qetoc - Title given to 1001376 - Primary title: k_kilimon
+239 - vassal: c_tamimon - Title given to 1003821
+239 - vassal: c_wamosse - Title given to 1003822
+245 - Gained vassal: c_wairick
+245 - Gained vassal: c_riatay
+245 - Gained vassal: c_ribeza
+245 - Holder 1003198 - Primary title: d_tairya has lost the title: d_tairya
+245 - Title given to 1003198 - Primary title: k_kilimon
+245 - vassal: c_ribeza - Holder 1003198 - Primary title: c_ribeza has lost the title: c_ribeza
+245 - vassal: c_ribeza - Title given to 1003198 - Primary title: k_kilimon
+245 - vassal: c_riatay - Holder 1003198 - Primary title: c_riatay has lost the title: c_riatay
+245 - vassal: c_riatay - Title given to 1003198 - Primary title: k_kilimon
+245 - vassal: c_qetoc - Holder 1003198 - Primary title: c_qetoc has lost the title: c_qetoc
+245 - vassal: c_qetoc - Title given to 1003198 - Primary title: k_kilimon
+245 - vassal: c_qairadg - Holder 1003198 - Primary title: c_qairadg has lost the title: c_qairadg
+245 - vassal: c_qairadg - Title given to 1003198 - Primary title: k_kilimon
+245 - vassal: c_wairick - Holder 1003198 - Primary title: c_wairick has lost the title: c_wairick
+245 - vassal: c_wairick - Title given to 1003198 - Primary title: k_kilimon
+271 - Holder 1004784 - Primary title: d_tairya has lost the title: d_tairya
+271 - Title given to 1004784 - Primary title: k_kilimon
+271 - vassal: c_wairick - Holder 1004784 - Primary title: c_wairick has lost the title: c_wairick
+271 - vassal: c_wairick - Title given to 1004784 - Primary title: k_kilimon
+271 - vassal: c_qairadg - Holder 1004784 - Primary title: c_qairadg has lost the title: c_qairadg
+271 - vassal: c_qairadg - Title given to 1004784 - Primary title: k_kilimon
+271 - vassal: c_qetoc - Holder 1004784 - Primary title: c_qetoc has lost the title: c_qetoc

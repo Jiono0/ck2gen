@@ -1,0 +1,215 @@
+200 - Title given to 1000262
+200 - vassal: c_kazilu - Given to 1000266 via AddCharacterForTitle
+200 - sub vassal: c_kazilu - Given to 1000266 via AddCharacterForTitle
+200 - vassal: c_kazilu - Holder 1000266 - Primary title: c_kazilu has lost the title: c_kazilu
+200 - sub vassal: c_kazilu - Holder 1000266 - Primary title: c_kazilu has lost the title: c_kazilu
+200 - vassal: c_kazilu - Title given to 1000266
+200 - sub vassal: c_kazilu - Title given to 1000266
+200 - vassal: c_raev - Holder 1000262 - Primary title: c_raev has lost the title: c_raev
+200 - sub vassal: c_raev - Holder 1000262 - Primary title: c_raev has lost the title: c_raev
+200 - vassal: c_raev - Title given to 1000262 - Primary title: d_wunes
+200 - sub vassal: c_raev - Title given to 1000262 - Primary title: d_wunes
+200 - Holder (1000262) has gained c_raev
+200 - vassal: c_kunihka - Holder 1000262 - Primary title: c_kunihka has lost the title: c_kunihka
+200 - sub vassal: c_kunihka - Holder 1000262 - Primary title: c_kunihka has lost the title: c_kunihka
+200 - vassal: c_kunihka - Title given to 1000262 - Primary title: d_wunes
+200 - sub vassal: c_kunihka - Title given to 1000262 - Primary title: d_wunes
+200 - Holder (1000262) has gained c_kunihka
+200 - vassal: c_kazilu - Holder 1000262 - Primary title: c_kazilu has lost the title: c_kazilu
+200 - sub vassal: c_kazilu - Holder 1000262 - Primary title: c_kazilu has lost the title: c_kazilu
+200 - vassal: c_kazilu - Title given to 1000262 - Primary title: d_wunes
+200 - sub vassal: c_kazilu - Title given to 1000262 - Primary title: d_wunes
+200 - Holder (1000262) has gained c_kazilu
+200 - vassal: c_wunimha - Title given to 1000262 - Primary title: d_wunes
+200 - Holder (1000262) has gained c_wunimha
+216 - Holder 1002170 - Primary title: d_wunes has lost the title: d_wunes
+216 - Title given to 1002170
+216 - vassal: c_wunimha - Holder 1002170 - Primary title: c_wunimha has lost the title: c_wunimha
+216 - vassal: c_wunimha - Title given to 1002170 - Primary title: d_wunes
+216 - Holder (1002170) has gained c_wunimha
+216 - vassal: c_kazilu - Holder 1002170 - Primary title: c_kazilu has lost the title: c_kazilu
+216 - vassal: c_kazilu - Title given to 1002170 - Primary title: d_wunes
+216 - Holder (1002170) has gained c_kazilu
+216 - vassal: c_kunihka - Holder 1002170 - Primary title: c_kunihka has lost the title: c_kunihka
+216 - vassal: c_kunihka - Title given to 1002170 - Primary title: d_wunes
+216 - Holder (1002170) has gained c_kunihka
+216 - vassal: c_raev - Holder 1002170 - Primary title: c_raev has lost the title: c_raev
+216 - vassal: c_raev - Title given to 1002170 - Primary title: d_wunes
+216 - Holder (1002170) has gained c_raev
+227 - Holder 1001878 - Primary title: d_wunes has lost the title: d_wunes
+227 - Title given to 1001878 - Primary title: d_tadata
+227 - vassal: c_raev - Holder 1001878 - Primary title: c_raev has lost the title: c_raev
+227 - vassal: c_raev - Title given to 1001878 - Primary title: d_tadata
+227 - vassal: c_kunihka - Holder 1001878 - Primary title: c_kunihka has lost the title: c_kunihka
+227 - vassal: c_kunihka - Title given to 1001878 - Primary title: d_tadata
+227 - vassal: c_kazilu - Holder 1001878 - Primary title: c_kazilu has lost the title: c_kazilu
+227 - vassal: c_kazilu - Title given to 1001878 - Primary title: d_tadata
+227 - vassal: c_wunimha - Holder 1001878 - Primary title: c_wunimha has lost the title: c_wunimha
+227 - vassal: c_wunimha - Title given to 1001878 - Primary title: d_tadata
+228 - Holder 1003260 - Primary title: d_wunes has lost the title: c_dunenes
+247 - Holder 1004440 - Primary title: d_wunes has lost the title: d_wunes
+247 - Title given to 1004440
+247 - vassal: c_wunimha - Setting to vassal of d_tadata in Validate Realm
+247 - Lost vassal: c_wunimha
+247 - vassal: c_kazilu - Setting to vassal of d_tadata in Validate Realm
+247 - Lost vassal: c_kazilu
+247 - vassal: c_kunihka - Setting to vassal of d_tadata in Validate Realm
+247 - Lost vassal: c_kunihka
+247 - vassal: c_raev - Setting to vassal of d_tadata in Validate Realm
+247 - Lost vassal: c_raev
+247 - Holder (1004440) has gained d_tadata
+247 - Holder (1004440) has gained c_wunimha
+247 - Holder (1004440) has gained c_kazilu
+247 - Holder (1004440) has gained c_kunihka
+247 - Holder (1004440) has gained c_raev
+247 - Holder (1004440) has gained c_nazyata
+248 - Destroyed due to flagged problem
+248 - Made independent
+248 - Title destroyed
+260 - Given to 1004440 in TestCreateEmpire
+260 - Title given to 1004440 - Primary title: d_tadata
+260 - Made independent for title creation d_wunes for d_tadata
+260 - Made independent
+260 - Gained vassal: c_nazyata
+260 - Gained vassal: c_raev
+260 - Gained vassal: c_kunihka
+260 - Gained vassal: c_kazilu
+260 - Gained vassal: c_wunimha
+260 - Destroyed due to no capital's obtainable
+260 - Title destroyed
+260 - vassal: c_nazyata - Setting independent due to liege destruction
+260 - vassal: c_nazyata - Made independent
+260 - vassal: c_raev - Setting independent due to liege destruction
+260 - vassal: c_raev - Made independent
+260 - vassal: c_kunihka - Setting independent due to liege destruction
+260 - vassal: c_kunihka - Made independent
+260 - vassal: c_kazilu - Setting independent due to liege destruction
+260 - vassal: c_kazilu - Made independent
+260 - vassal: c_wunimha - Setting independent due to liege destruction
+260 - vassal: c_wunimha - Made independent
+263 - Given to 1004440 in TestCreateEmpire
+263 - Title given to 1004440 - Primary title: d_tadata
+263 - Made independent for title creation d_wunes for d_tadata
+263 - Made independent
+263 - Gained vassal: c_nazyata
+263 - Gained vassal: c_kunihka
+263 - Gained vassal: c_kazilu
+263 - Gained vassal: c_wunimha
+263 - Gained vassal: c_dunenes
+263 - Destroyed due to no capital's obtainable
+263 - Title destroyed
+263 - vassal: c_dunenes - Setting independent due to liege destruction
+263 - vassal: c_dunenes - Made independent
+263 - vassal: c_wunimha - Setting independent due to liege destruction
+263 - vassal: c_wunimha - Made independent
+263 - vassal: c_kazilu - Setting independent due to liege destruction
+263 - vassal: c_kazilu - Made independent
+263 - vassal: c_kunihka - Setting independent due to liege destruction
+263 - vassal: c_kunihka - Made independent
+263 - vassal: c_nazyata - Setting independent due to liege destruction
+263 - vassal: c_nazyata - Made independent
+276 - Given to 1004440 in TestCreateEmpire
+276 - Title given to 1004440 - Primary title: d_tadata
+276 - Made independent for title creation d_wunes for d_tadata
+276 - Made independent
+276 - Gained vassal: c_nazyata
+276 - Gained vassal: c_kunihka
+276 - Gained vassal: c_kazilu
+276 - Gained vassal: c_wunimha
+276 - Gained vassal: c_raev
+276 - Destroyed due to no capital's obtainable
+276 - Title destroyed
+276 - vassal: c_raev - Setting independent due to liege destruction
+276 - vassal: c_raev - Made independent
+276 - vassal: c_wunimha - Setting independent due to liege destruction
+276 - vassal: c_wunimha - Made independent
+276 - vassal: c_kazilu - Setting independent due to liege destruction
+276 - vassal: c_kazilu - Made independent
+276 - vassal: c_kunihka - Setting independent due to liege destruction
+276 - vassal: c_kunihka - Made independent
+276 - vassal: c_nazyata - Setting independent due to liege destruction
+276 - vassal: c_nazyata - Made independent
+299 - Given to 1005673 in TestCreateEmpire
+299 - Title given to 1005673 - Primary title: d_tadata
+299 - Made independent for title creation d_wunes for d_tadata
+299 - Made independent
+299 - Gained vassal: c_dunenes
+299 - Gained vassal: c_raev
+299 - Gained vassal: c_wunimha
+299 - Gained vassal: c_kazilu
+299 - Gained vassal: c_nazyata
+299 - Destroyed due to no capital's obtainable
+299 - Title destroyed
+299 - vassal: c_nazyata - Setting independent due to liege destruction
+299 - vassal: c_nazyata - Made independent
+299 - vassal: c_kazilu - Setting independent due to liege destruction
+299 - vassal: c_kazilu - Made independent
+299 - vassal: c_wunimha - Setting independent due to liege destruction
+299 - vassal: c_wunimha - Made independent
+299 - vassal: c_raev - Setting independent due to liege destruction
+299 - vassal: c_raev - Made independent
+299 - vassal: c_dunenes - Setting independent due to liege destruction
+299 - vassal: c_dunenes - Made independent
+310 - Given to 1005673 in TestCreateEmpire
+310 - Title given to 1005673 - Primary title: d_tadata
+310 - Made independent for title creation d_wunes for d_tadata
+310 - Made independent
+310 - Gained vassal: c_kunihka
+310 - Gained vassal: c_nazyata
+310 - Gained vassal: c_wunimha
+310 - Gained vassal: c_raev
+310 - Gained vassal: c_dunenes
+310 - Destroyed due to no capital's obtainable
+310 - Title destroyed
+310 - vassal: c_dunenes - Setting independent due to liege destruction
+310 - vassal: c_dunenes - Made independent
+310 - vassal: c_raev - Setting independent due to liege destruction
+310 - vassal: c_raev - Made independent
+310 - vassal: c_wunimha - Setting independent due to liege destruction
+310 - vassal: c_wunimha - Made independent
+310 - vassal: c_nazyata - Setting independent due to liege destruction
+310 - vassal: c_nazyata - Made independent
+310 - vassal: c_kunihka - Setting independent due to liege destruction
+310 - vassal: c_kunihka - Made independent
+317 - Given to 1005673 in TestCreateEmpire
+317 - Title given to 1005673 - Primary title: d_tadata
+317 - Made independent for title creation d_wunes for d_tadata
+317 - Made independent
+317 - Gained vassal: c_kunihka
+317 - Gained vassal: c_wunimha
+317 - Gained vassal: c_raev
+317 - Gained vassal: c_dunenes
+317 - Gained vassal: c_kazilu
+317 - Destroyed due to no capital's obtainable
+317 - Title destroyed
+317 - vassal: c_kazilu - Setting independent due to liege destruction
+317 - vassal: c_kazilu - Made independent
+317 - vassal: c_dunenes - Setting independent due to liege destruction
+317 - vassal: c_dunenes - Made independent
+317 - vassal: c_raev - Setting independent due to liege destruction
+317 - vassal: c_raev - Made independent
+317 - vassal: c_wunimha - Setting independent due to liege destruction
+317 - vassal: c_wunimha - Made independent
+317 - vassal: c_kunihka - Setting independent due to liege destruction
+317 - vassal: c_kunihka - Made independent
+320 - Given to 1005673 in TestCreateEmpire
+320 - Title given to 1005673 - Primary title: d_tadata
+320 - Made independent for title creation d_wunes for d_tadata
+320 - Made independent
+320 - Gained vassal: c_nazyata
+320 - Gained vassal: c_kazilu
+320 - Gained vassal: c_raev
+320 - Gained vassal: c_wunimha
+320 - Gained vassal: c_kunihka
+320 - Destroyed due to no capital's obtainable
+320 - Title destroyed
+320 - vassal: c_kunihka - Setting independent due to liege destruction
+320 - vassal: c_kunihka - Made independent
+320 - vassal: c_wunimha - Setting independent due to liege destruction
+320 - vassal: c_wunimha - Made independent
+320 - vassal: c_raev - Setting independent due to liege destruction
+320 - vassal: c_raev - Made independent
+320 - vassal: c_kazilu - Setting independent due to liege destruction
+320 - vassal: c_kazilu - Made independent
+320 - vassal: c_nazyata - Setting independent due to liege destruction
+320 - vassal: c_nazyata - Made independent

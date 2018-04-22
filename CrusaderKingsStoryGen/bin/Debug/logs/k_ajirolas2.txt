@@ -1,0 +1,228 @@
+200 - Title given to 1001020
+200 - vassal: d_sajile - Holder 1001020 - Primary title: d_sajile has lost the title: d_sajile
+200 - sub vassal: d_sajile - Holder 1001020 - Primary title: d_sajile has lost the title: d_sajile
+200 - vassal: d_sajile - Title given to 1001020 - Primary title: k_ajirolas
+200 - sub vassal: d_sajile - Title given to 1001020 - Primary title: k_ajirolas
+200 - Holder (1001020) has gained d_sajile
+200 - sub vassal: c_tirile - Holder 1001020 - Primary title: c_tirile has lost the title: c_tirile
+200 - sub vassal: c_tirile - Title given to 1001020 - Primary title: k_ajirolas
+200 - Holder (1001020) has gained c_tirile
+200 - vassal: d_nipude - Holder 1000220 - Primary title: d_nipude has lost the title: d_nipude
+200 - sub vassal: d_nipude - Holder 1000220 - Primary title: d_nipude has lost the title: d_nipude
+200 - vassal: d_nipude - Title given to 1000220 - Primary title: d_kiraky
+200 - sub vassal: d_nipude - Title given to 1000220 - Primary title: d_kiraky
+200 - vassal: d_kiraky - Holder (1000220) has gained d_nipude
+200 - sub vassal: d_kiraky - Holder (1000220) has gained d_nipude
+200 - sub vassal: c_riplas - Holder 1000220 - Primary title: c_riplas has lost the title: c_riplas
+200 - sub vassal: c_riplas - Title given to 1000220 - Primary title: d_kiraky
+200 - vassal: d_kiraky - Holder (1000220) has gained c_riplas
+200 - sub vassal: d_kiraky - Holder (1000220) has gained c_riplas
+200 - sub vassal: c_niraise - Holder 1000220 - Primary title: c_niraise has lost the title: c_niraise
+200 - sub vassal: c_niraise - Title given to 1000220 - Primary title: d_kiraky
+200 - vassal: d_kiraky - Holder (1000220) has gained c_niraise
+200 - sub vassal: d_kiraky - Holder (1000220) has gained c_niraise
+200 - sub vassal: c_tajolas - Holder 1000220 - Primary title: c_tajolas has lost the title: c_tajolas
+200 - sub vassal: c_tajolas - Title given to 1000220 - Primary title: d_kiraky
+200 - vassal: d_kiraky - Holder (1000220) has gained c_tajolas
+200 - sub vassal: d_kiraky - Holder (1000220) has gained c_tajolas
+200 - Gained vassal: d_sonesse
+200 - vassal: d_sonesse - Given to neighbour holder of k_ajirolas
+200 - sub vassal: d_sonesse - Given to neighbour holder of k_ajirolas
+200 - vassal: d_sonesse - Holder 1001020 - Primary title: d_sonesse has lost the title: d_sonesse
+200 - sub vassal: d_sonesse - Holder 1001020 - Primary title: d_sonesse has lost the title: d_sonesse
+200 - vassal: d_sonesse - Title given to 1001020 - Primary title: k_ajirolas
+200 - sub vassal: d_sonesse - Title given to 1001020 - Primary title: k_ajirolas
+200 - Holder (1001020) has gained d_sonesse
+205 - Gained vassal: d_ebirude
+209 - Holder 1000220 - Primary title: k_ajirolas has lost the title: k_ajirolas
+209 - Title given to 1000220 - Primary title: d_nipude
+209 - vassal: d_nipude - Holder (1000220) has gained k_ajirolas
+209 - sub vassal: d_nipude - Holder (1000220) has gained k_ajirolas
+209 - vassal: d_sajile - Holder 1000220 - Primary title: d_sajile has lost the title: d_sajile
+209 - sub vassal: d_sajile - Holder 1000220 - Primary title: d_sajile has lost the title: d_sajile
+209 - vassal: d_sajile - Title given to 1000220 - Primary title: k_ajirolas
+209 - sub vassal: d_sajile - Title given to 1000220 - Primary title: k_ajirolas
+209 - Holder (1000220) has gained d_sajile
+209 - sub vassal: c_tirile - Setting to vassal of d_sonesse in Validate Realm
+209 - vassal: d_sajile - Lost vassal: c_tirile
+209 - sub vassal: d_sajile - Lost vassal: c_tirile
+209 - vassal: d_sonesse - Gained vassal: c_tirile
+209 - sub vassal: d_sonesse - Gained vassal: c_tirile
+209 - vassal: d_sonesse - Holder 1000220 - Primary title: d_sonesse has lost the title: c_tirile
+209 - sub vassal: d_sonesse - Holder 1000220 - Primary title: d_sonesse has lost the title: c_tirile
+209 - sub vassal: c_tirile - Title given to 1000220 - Primary title: k_ajirolas
+209 - Holder (1000220) has gained c_tirile
+209 - sub vassal: c_tirile - Setting to vassal of k_ajirolas in Validate Realm
+209 - vassal: d_sonesse - Lost vassal: c_tirile
+209 - sub vassal: d_sonesse - Lost vassal: c_tirile
+209 - Gained vassal: c_tirile
+209 - vassal: d_sonesse - Holder 1000220 - Primary title: d_sonesse has lost the title: d_sonesse
+209 - sub vassal: d_sonesse - Holder 1000220 - Primary title: d_sonesse has lost the title: d_sonesse
+209 - vassal: d_sonesse - Title given to 1000220 - Primary title: k_ajirolas
+209 - sub vassal: d_sonesse - Title given to 1000220 - Primary title: k_ajirolas
+209 - Holder (1000220) has gained d_sonesse
+210 - sub vassal: c_arolas - Holder 1000220 - Primary title: c_arolas has lost the title: c_arolas
+210 - sub vassal: c_arolas - Title given to 1000220 - Primary title: k_ajirolas
+210 - Holder (1000220) has gained c_arolas
+210 - sub vassal: c_arolas - Given to 1002184 in HandleTitles - Too many duke titles
+210 - Holder 1002184 - Primary title: k_ajirolas has lost the title: c_arolas
+210 - sub vassal: c_arolas - Title given to 1002184
+210 - Holder 1002184 - Primary title: k_ajirolas has lost the title: d_sajile
+210 - vassal: d_sajile - Title given to 1002184 - Primary title: c_arolas
+210 - sub vassal: d_sajile - Title given to 1002184 - Primary title: c_arolas
+210 - sub vassal: c_arolas - Holder (1002184) has gained d_sajile
+210 - vassal: d_sajile - Too many dukes, given to dejure: k_ajirolas
+210 - sub vassal: d_sajile - Too many dukes, given to dejure: k_ajirolas
+210 - sub vassal: c_seza - Given to 1002186 in HandleTitles - Too many duke titles
+210 - Holder 1002186 - Primary title: k_ajirolas has lost the title: c_seza
+210 - sub vassal: c_seza - Title given to 1002186
+210 - Holder 1002186 - Primary title: k_ajirolas has lost the title: d_kiraky
+210 - vassal: d_kiraky - Title given to 1002186 - Primary title: c_seza
+210 - sub vassal: d_kiraky - Title given to 1002186 - Primary title: c_seza
+210 - sub vassal: c_seza - Holder (1002186) has gained d_kiraky
+210 - sub vassal: c_wesse - Setting to vassal of k_ajirolas in Validate Realm
+210 - vassal: d_kiraky - Lost vassal: c_wesse
+210 - sub vassal: d_kiraky - Lost vassal: c_wesse
+210 - Gained vassal: c_wesse
+210 - vassal: d_kiraky - Too many dukes, given to dejure: k_ajirolas
+210 - sub vassal: d_kiraky - Too many dukes, given to dejure: k_ajirolas
+213 - vassal: d_kiraky - Holder 1000198 - Primary title: d_kiraky has lost the title: d_kiraky
+213 - sub vassal: d_kiraky - Holder 1000198 - Primary title: d_kiraky has lost the title: d_kiraky
+213 - vassal: d_kiraky - Title given to 1000198 - Primary title: d_lughan
+213 - sub vassal: d_kiraky - Title given to 1000198 - Primary title: d_lughan
+213 - vassal: d_lughan - Holder (1000198) has gained d_kiraky
+213 - sub vassal: d_lughan - Holder (1000198) has gained d_kiraky
+213 - sub vassal: c_seza - Holder 1000198 - Primary title: c_seza has lost the title: c_seza
+213 - sub vassal: c_seza - Title given to 1000198 - Primary title: d_lughan
+213 - vassal: d_lughan - Holder (1000198) has gained c_seza
+213 - sub vassal: d_lughan - Holder (1000198) has gained c_seza
+217 - vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: d_lughan
+217 - sub vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: d_lughan
+217 - vassal: d_lughan - Title given to 1001739
+217 - sub vassal: d_lughan - Title given to 1001739
+217 - sub vassal: c_lanamur - Setting to vassal of d_kiraky in Validate Realm
+217 - vassal: d_lughan - Lost vassal: c_lanamur
+217 - sub vassal: d_lughan - Lost vassal: c_lanamur
+217 - sub vassal: c_rajile - Setting to vassal of d_kiraky in Validate Realm
+217 - vassal: d_lughan - Lost vassal: c_rajile
+217 - sub vassal: d_lughan - Lost vassal: c_rajile
+217 - sub vassal: c_tivude - Setting to vassal of d_kiraky in Validate Realm
+217 - vassal: d_lughan - Lost vassal: c_tivude
+217 - sub vassal: d_lughan - Lost vassal: c_tivude
+217 - vassal: d_kiraky - Gained vassal: c_tivude
+217 - sub vassal: d_kiraky - Gained vassal: c_tivude
+217 - vassal: d_kiraky - Gained vassal: c_rajile
+217 - sub vassal: d_kiraky - Gained vassal: c_rajile
+217 - vassal: d_kiraky - Gained vassal: c_lanamur
+217 - sub vassal: d_kiraky - Gained vassal: c_lanamur
+217 - vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: c_lanamur
+217 - sub vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: c_lanamur
+217 - sub vassal: c_lanamur - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: d_lughan - Holder (1001739) has gained c_lanamur
+217 - sub vassal: d_lughan - Holder (1001739) has gained c_lanamur
+217 - sub vassal: c_lanamur - Setting to vassal of d_lughan in Validate Realm
+217 - vassal: d_kiraky - Lost vassal: c_lanamur
+217 - sub vassal: d_kiraky - Lost vassal: c_lanamur
+217 - vassal: d_lughan - Gained vassal: c_lanamur
+217 - sub vassal: d_lughan - Gained vassal: c_lanamur
+217 - vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: c_rajile
+217 - sub vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: c_rajile
+217 - sub vassal: c_rajile - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: d_lughan - Holder (1001739) has gained c_rajile
+217 - sub vassal: d_lughan - Holder (1001739) has gained c_rajile
+217 - sub vassal: c_rajile - Setting to vassal of d_lughan in Validate Realm
+217 - vassal: d_kiraky - Lost vassal: c_rajile
+217 - sub vassal: d_kiraky - Lost vassal: c_rajile
+217 - vassal: d_lughan - Gained vassal: c_rajile
+217 - sub vassal: d_lughan - Gained vassal: c_rajile
+217 - vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: c_tivude
+217 - sub vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: c_tivude
+217 - sub vassal: c_tivude - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: d_lughan - Holder (1001739) has gained c_tivude
+217 - sub vassal: d_lughan - Holder (1001739) has gained c_tivude
+217 - sub vassal: c_tivude - Setting to vassal of d_lughan in Validate Realm
+217 - vassal: d_kiraky - Lost vassal: c_tivude
+217 - sub vassal: d_kiraky - Lost vassal: c_tivude
+217 - vassal: d_lughan - Gained vassal: c_tivude
+217 - sub vassal: d_lughan - Gained vassal: c_tivude
+217 - vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: d_kiraky
+217 - sub vassal: d_kiraky - Holder 1001739 - Primary title: d_kiraky has lost the title: d_kiraky
+217 - vassal: d_kiraky - Title given to 1001739 - Primary title: d_lughan
+217 - sub vassal: d_kiraky - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: d_lughan - Holder (1001739) has gained d_kiraky
+217 - sub vassal: d_lughan - Holder (1001739) has gained d_kiraky
+217 - sub vassal: c_seza - Holder 1001739 - Primary title: c_seza has lost the title: c_seza
+217 - sub vassal: c_seza - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: d_lughan - Holder (1001739) has gained c_seza
+217 - sub vassal: d_lughan - Holder (1001739) has gained c_seza
+223 - vassal: d_riereba - Holder 1002271 - Primary title: d_riereba has lost the title: d_riereba
+223 - sub vassal: d_riereba - Holder 1002271 - Primary title: d_riereba has lost the title: d_riereba
+223 - vassal: d_riereba - Title given to 1002271
+223 - sub vassal: d_riereba - Title given to 1002271
+223 - sub vassal: c_rovolas - Holder 1002271 - Primary title: c_rovolas has lost the title: c_rovolas
+223 - sub vassal: c_rovolas - Title given to 1002271 - Primary title: d_riereba
+223 - vassal: d_riereba - Holder (1002271) has gained c_rovolas
+223 - sub vassal: d_riereba - Holder (1002271) has gained c_rovolas
+223 - sub vassal: c_kanaise - Holder 1002271 - Primary title: c_kanaise has lost the title: c_kanaise
+223 - sub vassal: c_kanaise - Title given to 1002271 - Primary title: d_riereba
+223 - vassal: d_riereba - Holder (1002271) has gained c_kanaise
+223 - sub vassal: d_riereba - Holder (1002271) has gained c_kanaise
+223 - sub vassal: c_laise - Holder 1002271 - Primary title: c_laise has lost the title: c_laise
+223 - sub vassal: c_laise - Title given to 1002271 - Primary title: d_riereba
+223 - vassal: d_riereba - Holder (1002271) has gained c_laise
+223 - sub vassal: d_riereba - Holder (1002271) has gained c_laise
+223 - sub vassal: c_tesse - Holder 1002271 - Primary title: c_tesse has lost the title: c_tesse
+223 - sub vassal: c_tesse - Title given to 1002271 - Primary title: d_riereba
+223 - vassal: d_riereba - Holder (1002271) has gained c_tesse
+223 - sub vassal: d_riereba - Holder (1002271) has gained c_tesse
+234 - vassal: d_lirolas - Holder 1001570 - Primary title: d_lirolas has lost the title: d_lirolas
+234 - sub vassal: d_lirolas - Holder 1001570 - Primary title: d_lirolas has lost the title: d_lirolas
+234 - vassal: d_lirolas - Title given to 1001570
+234 - sub vassal: d_lirolas - Title given to 1001570
+234 - sub vassal: c_sierude - Holder 1001570 - Primary title: c_sierude has lost the title: c_sierude
+234 - sub vassal: c_sierude - Title given to 1001570 - Primary title: d_lirolas
+234 - vassal: d_lirolas - Holder (1001570) has gained c_sierude
+234 - sub vassal: d_lirolas - Holder (1001570) has gained c_sierude
+234 - sub vassal: c_kirile - Holder 1001570 - Primary title: c_kirile has lost the title: c_kirile
+234 - sub vassal: c_kirile - Title given to 1001570 - Primary title: d_lirolas
+234 - vassal: d_lirolas - Holder (1001570) has gained c_kirile
+234 - sub vassal: d_lirolas - Holder (1001570) has gained c_kirile
+236 - Holder 1001480 - Primary title: k_ajirolas has lost the title: k_ajirolas
+236 - Title given to 1001480
+236 - vassal: d_sonesse - Holder 1001480 - Primary title: d_sonesse has lost the title: d_sonesse
+236 - sub vassal: d_sonesse - Holder 1001480 - Primary title: d_sonesse has lost the title: d_sonesse
+236 - vassal: d_sonesse - Title given to 1001480 - Primary title: k_ajirolas
+236 - sub vassal: d_sonesse - Title given to 1001480 - Primary title: k_ajirolas
+236 - Holder (1001480) has gained d_sonesse
+236 - vassal: c_tirile - Setting to vassal of d_nipude in Validate Realm
+236 - sub vassal: c_tirile - Setting to vassal of d_nipude in Validate Realm
+236 - Lost vassal: c_tirile
+236 - vassal: c_wesse - Setting to vassal of d_nipude in Validate Realm
+236 - sub vassal: c_wesse - Setting to vassal of d_nipude in Validate Realm
+236 - Lost vassal: c_wesse
+236 - vassal: d_nipude - Gained vassal: c_wesse
+236 - sub vassal: d_nipude - Gained vassal: c_wesse
+236 - vassal: d_nipude - Gained vassal: c_tirile
+236 - sub vassal: d_nipude - Gained vassal: c_tirile
+236 - vassal: d_nipude - Holder 1001480 - Primary title: d_nipude has lost the title: d_nipude
+236 - sub vassal: d_nipude - Holder 1001480 - Primary title: d_nipude has lost the title: d_nipude
+236 - vassal: d_nipude - Title given to 1001480 - Primary title: k_ajirolas
+236 - sub vassal: d_nipude - Title given to 1001480 - Primary title: k_ajirolas
+236 - Holder (1001480) has gained d_nipude
+236 - sub vassal: c_tirile - Holder 1001480 - Primary title: c_tirile has lost the title: c_tirile
+236 - sub vassal: c_tirile - Title given to 1001480 - Primary title: k_ajirolas
+236 - Holder (1001480) has gained c_tirile
+236 - sub vassal: c_tajolas - Holder 1001480 - Primary title: c_tajolas has lost the title: c_tajolas
+236 - sub vassal: c_tajolas - Title given to 1001480 - Primary title: k_ajirolas
+236 - Holder (1001480) has gained c_tajolas
+236 - sub vassal: c_niraise - Holder 1001480 - Primary title: c_niraise has lost the title: c_niraise
+236 - sub vassal: c_niraise - Title given to 1001480 - Primary title: k_ajirolas
+236 - Holder (1001480) has gained c_niraise
+236 - sub vassal: c_riplas - Holder 1001480 - Primary title: c_riplas has lost the title: c_riplas
+236 - sub vassal: c_riplas - Title given to 1001480 - Primary title: k_ajirolas
+236 - Holder (1001480) has gained c_riplas
+236 - sub vassal: c_wesse - Holder 1001480 - Primary title: c_wesse has lost the title: c_wesse
+236 - sub vassal: c_wesse - Title given to 1001480 - Primary title: k_ajirolas
+236 - Holder (1001480) has gained c_wesse
+238 - vassal: d_lirolas - Holder 1003746 - Primary title: d_lirolas has lost the title: d_lirolas
+238 - sub vassal: d_lirolas - Holder 1003746 - Primary title: d_lirolas has lost the t

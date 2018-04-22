@@ -1,0 +1,78 @@
+200 - Title given to 1000618
+200 - vassal: c_likega - Given to 1000621 via AddCharacterForTitle
+200 - sub vassal: c_likega - Given to 1000621 via AddCharacterForTitle
+200 - vassal: c_likega - Holder 1000621 - Primary title: c_likega has lost the title: c_likega
+200 - sub vassal: c_likega - Holder 1000621 - Primary title: c_likega has lost the title: c_likega
+200 - vassal: c_likega - Title given to 1000621
+200 - sub vassal: c_likega - Title given to 1000621
+200 - vassal: c_dievalka - Given to 1000623 via AddCharacterForTitle
+200 - sub vassal: c_dievalka - Given to 1000623 via AddCharacterForTitle
+200 - vassal: c_dievalka - Holder 1000623 - Primary title: c_dievalka has lost the title: c_dievalka
+200 - sub vassal: c_dievalka - Holder 1000623 - Primary title: c_dievalka has lost the title: c_dievalka
+200 - vassal: c_dievalka - Title given to 1000623
+200 - sub vassal: c_dievalka - Title given to 1000623
+200 - vassal: c_selyilni - Holder 1000618 - Primary title: c_selyilni has lost the title: c_selyilni
+200 - sub vassal: c_selyilni - Holder 1000618 - Primary title: c_selyilni has lost the title: c_selyilni
+200 - vassal: c_selyilni - Title given to 1000618 - Primary title: d_taqas
+200 - sub vassal: c_selyilni - Title given to 1000618 - Primary title: d_taqas
+200 - Holder (1000618) has gained c_selyilni
+200 - vassal: c_likega - Holder 1000618 - Primary title: c_likega has lost the title: c_likega
+200 - sub vassal: c_likega - Holder 1000618 - Primary title: c_likega has lost the title: c_likega
+200 - vassal: c_likega - Title given to 1000618 - Primary title: d_taqas
+200 - sub vassal: c_likega - Title given to 1000618 - Primary title: d_taqas
+200 - Holder (1000618) has gained c_likega
+200 - vassal: c_eturina - Title given to 1000618 - Primary title: d_taqas
+200 - Holder (1000618) has gained c_eturina
+234 - Holder 1002052 - Primary title: d_taqas has lost the title: d_taqas
+234 - Title given to 1002052
+234 - vassal: c_selyilni - Holder 1002052 - Primary title: c_selyilni has lost the title: c_selyilni
+234 - vassal: c_selyilni - Title given to 1002052 - Primary title: d_taqas
+234 - Holder (1002052) has gained c_selyilni
+234 - vassal: c_likega - Holder 1002052 - Primary title: c_likega has lost the title: c_likega
+234 - vassal: c_likega - Title given to 1002052 - Primary title: d_taqas
+234 - Holder (1002052) has gained c_likega
+234 - vassal: c_eturina - Holder 1002052 - Primary title: c_eturina has lost the title: c_eturina
+234 - vassal: c_eturina - Title given to 1002052 - Primary title: d_taqas
+234 - Holder (1002052) has gained c_eturina
+244 - Holder 1001522 - Primary title: d_taqas has lost the title: d_taqas
+244 - Title given to 1001522 - Primary title: k_egzora
+244 - vassal: c_eturina - Holder 1001522 - Primary title: c_eturina has lost the title: c_eturina
+244 - vassal: c_eturina - Title given to 1001522 - Primary title: k_egzora
+244 - vassal: c_likega - Holder 1001522 - Primary title: c_likega has lost the title: c_likega
+244 - vassal: c_likega - Title given to 1001522 - Primary title: k_egzora
+244 - vassal: c_selyilni - Holder 1001522 - Primary title: c_selyilni has lost the title: c_selyilni
+244 - vassal: c_selyilni - Title given to 1001522 - Primary title: k_egzora
+244 - vassal: c_selyilni - Given to 1004257 in HandleTitles - Too many duke titles
+244 - vassal: c_selyilni - Title given to 1004257
+244 - Title given to 1004257 - Primary title: c_selyilni
+244 - vassal: c_selyilni - Holder (1004257) has gained d_taqas
+244 - vassal: c_eturina - Setting to vassal of k_egzora in Validate Realm
+244 - Lost vassal: c_eturina
+244 - vassal: c_likega - Setting to vassal of k_egzora in Validate Realm
+244 - Lost vassal: c_likega
+244 - Too many dukes, given to dejure: k_egzora
+272 - Holder 1004384 - Primary title: d_taqas has lost the title: d_taqas
+272 - Title given to 1004384
+272 - vassal: c_selyilni - Holder 1004384 - Primary title: c_selyilni has lost the title: c_selyilni
+272 - vassal: c_selyilni - Title given to 1004384 - Primary title: d_taqas
+272 - Holder (1004384) has gained c_selyilni
+288 - Holder 1006282 - Primary title: d_taqas has lost the title: d_taqas
+288 - Title given to 1006282
+288 - vassal: c_selyilni - Holder 1006282 - Primary title: c_selyilni has lost the title: c_selyilni
+288 - vassal: c_selyilni - Title given to 1006282 - Primary title: d_taqas
+288 - Holder (1006282) has gained c_selyilni
+330 - Holder 1007219 - Primary title: d_taqas has lost the title: d_taqas
+330 - Title given to 1007219
+330 - vassal: c_selyilni - Holder 1007219 - Primary title: c_selyilni has lost the title: c_selyilni
+330 - vassal: c_selyilni - Title given to 1007219 - Primary title: d_taqas
+330 - Holder (1007219) has gained c_selyilni
+349 - Holder 1010105 - Primary title: d_taqas has lost the title: d_taqas
+349 - Title given to 1010105
+349 - vassal: c_selyilni - Holder 1010105 - Primary title: c_selyilni has lost the title: c_selyilni
+349 - vassal: c_selyilni - Title given to 1010105 - Primary title: d_taqas
+349 - Holder (1010105) has gained c_selyilni
+373 - Holder 1011401 - Primary title: d_taqas has lost the title: d_taqas
+373 - Title given to 1011401
+373 - vassal: c_selyilni - Holder 1011401 - Primary title: c_selyilni has lost the title: c_selyilni
+373 - vassal: c_selyilni - Title given to 1011401 - Primary title: d_taqas
+373 - Holder (1011401) has gained c_selyilni

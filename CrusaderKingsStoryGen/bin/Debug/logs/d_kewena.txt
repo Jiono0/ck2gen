@@ -1,0 +1,92 @@
+200 - Title given to 1000315
+200 - vassal: c_teweamm - Given to 1000318 via AddCharacterForTitle
+200 - sub vassal: c_teweamm - Given to 1000318 via AddCharacterForTitle
+200 - vassal: c_teweamm - Holder 1000318 - Primary title: c_teweamm has lost the title: c_teweamm
+200 - sub vassal: c_teweamm - Holder 1000318 - Primary title: c_teweamm has lost the title: c_teweamm
+200 - vassal: c_teweamm - Title given to 1000318
+200 - sub vassal: c_teweamm - Title given to 1000318
+200 - vassal: c_evezan - Holder 1000315 - Primary title: c_evezan has lost the title: c_evezan
+200 - sub vassal: c_evezan - Holder 1000315 - Primary title: c_evezan has lost the title: c_evezan
+200 - vassal: c_evezan - Title given to 1000315 - Primary title: d_kewena
+200 - sub vassal: c_evezan - Title given to 1000315 - Primary title: d_kewena
+200 - Holder (1000315) has gained c_evezan
+200 - vassal: c_teweamm - Holder 1000315 - Primary title: c_teweamm has lost the title: c_teweamm
+200 - sub vassal: c_teweamm - Holder 1000315 - Primary title: c_teweamm has lost the title: c_teweamm
+200 - vassal: c_teweamm - Title given to 1000315 - Primary title: d_kewena
+200 - sub vassal: c_teweamm - Title given to 1000315 - Primary title: d_kewena
+200 - Holder (1000315) has gained c_teweamm
+200 - vassal: c_epakena - Title given to 1000315 - Primary title: d_kewena
+200 - Holder (1000315) has gained c_epakena
+202 - Holder (1000315) has gained d_kulava
+202 - Holder (1000315) has gained c_wenes
+202 - Holder (1000315) has gained c_tezena
+202 - Holder (1000315) has gained c_qasan
+203 - vassal: c_teweamm - Title given to 1001708
+205 - Holder (1000315) has gained c_nezena
+205 - Holder (1000315) has gained c_disana
+206 - vassal: c_evezan - Given to 1001955 in HandleTitles - Too many duke titles
+206 - vassal: c_evezan - Title given to 1001955
+206 - Title given to 1001045 - Primary title: k_nanava
+206 - vassal: c_epakena - Setting to vassal of d_quhka in Validate Realm
+206 - Lost vassal: c_epakena
+206 - Too many dukes, made direct title into vassal of k_nanava
+206 - Title given to 1001956
+229 - Holder 1002427 - Primary title: d_kewena has lost the title: d_kewena
+229 - Title given to 1002427 - Primary title: k_nanava
+229 - vassal: c_evezan - Holder 1002427 - Primary title: c_evezan has lost the title: c_evezan
+229 - vassal: c_evezan - Title given to 1002427 - Primary title: k_nanava
+229 - vassal: c_teweamm - Holder 1002427 - Primary title: c_teweamm has lost the title: c_teweamm
+229 - vassal: c_teweamm - Title given to 1002427 - Primary title: k_nanava
+229 - vassal: c_evezan - Given to 1003347 in HandleTitles - Too many duke titles
+229 - vassal: c_evezan - Title given to 1003347
+229 - Title given to 1003347 - Primary title: c_evezan
+229 - vassal: c_evezan - Holder (1003347) has gained d_kewena
+229 - vassal: c_teweamm - Setting to vassal of k_nanava in Validate Realm
+229 - Lost vassal: c_teweamm
+229 - Too many dukes, given to dejure: k_nanava
+275 - Holder (1003347) has gained d_lebisey
+275 - Holder (1003347) has gained c_buisan
+275 - Holder (1003347) has gained c_lazena
+281 - Gained vassal: c_buisan
+281 - Gained vassal: c_lazena
+281 - Holder 1003643 - Primary title: d_kewena has lost the title: d_kewena
+281 - Title given to 1003643 - Primary title: d_lebisey
+281 - vassal: c_lazena - Holder 1003643 - Primary title: c_lazena has lost the title: c_lazena
+281 - vassal: c_lazena - Title given to 1003643 - Primary title: d_lebisey
+281 - vassal: c_buisan - Holder 1003643 - Primary title: c_buisan has lost the title: c_buisan
+281 - vassal: c_buisan - Title given to 1003643 - Primary title: d_lebisey
+281 - vassal: c_evezan - Holder 1003643 - Primary title: c_evezan has lost the title: c_evezan
+281 - vassal: c_evezan - Title given to 1003643 - Primary title: d_lebisey
+289 - Holder 1006607 - Primary title: d_kewena has lost the title: d_kewena
+289 - Title given to 1006607
+289 - vassal: c_lazena - Holder 1006607 - Primary title: c_lazena has lost the title: c_lazena
+289 - vassal: c_lazena - Title given to 1006607 - Primary title: d_kewena
+289 - Holder (1006607) has gained c_lazena
+289 - vassal: c_buisan - Holder 1006607 - Primary title: c_buisan has lost the title: c_buisan
+289 - vassal: c_buisan - Title given to 1006607 - Primary title: d_kewena
+289 - Holder (1006607) has gained c_buisan
+289 - vassal: c_evezan - Holder 1006607 - Primary title: c_evezan has lost the title: c_evezan
+289 - vassal: c_evezan - Title given to 1006607 - Primary title: d_kewena
+289 - Holder (1006607) has gained c_evezan
+347 - Holder 1009075 - Primary title: d_kewena has lost the title: d_kewena
+347 - Title given to 1009075
+347 - vassal: c_evezan - Holder 1009075 - Primary title: c_evezan has lost the title: c_evezan
+347 - vassal: c_evezan - Title given to 1009075 - Primary title: d_kewena
+347 - Holder (1009075) has gained c_evezan
+347 - vassal: c_buisan - Holder 1009075 - Primary title: c_buisan has lost the title: c_buisan
+347 - vassal: c_buisan - Title given to 1009075 - Primary title: d_kewena
+347 - Holder (1009075) has gained c_buisan
+347 - vassal: c_lazena - Holder 1009075 - Primary title: c_lazena has lost the title: c_lazena
+347 - vassal: c_lazena - Title given to 1009075 - Primary title: d_kewena
+347 - Holder (1009075) has gained c_lazena
+391 - Holder 1011834 - Primary title: d_kewena has lost the title: d_kewena
+391 - Title given to 1011834
+391 - vassal: c_evezan - Holder 1011834 - Primary title: c_evezan has lost the title: c_evezan
+391 - vassal: c_evezan - Title given to 1011834 - Primary title: d_kewena
+391 - Holder (1011834) has gained c_evezan
+391 - vassal: c_buisan - Holder 1011834 - Primary title: c_buisan has lost the title: c_buisan
+391 - vassal: c_buisan - Title given to 1011834 - Primary title: d_kewena
+391 - Holder (1011834) has gained c_buisan
+391 - vassal: c_lazena - Holder 1011834 - Primary title: c_lazena has lost the title: c_lazena
+391 - vassal: c_lazena - Title given to 1011834 - Primary title: d_kewena
+391 - Holder (1011834) has gained c_lazena

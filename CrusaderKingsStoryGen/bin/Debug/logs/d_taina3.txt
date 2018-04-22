@@ -1,0 +1,30 @@
+200 - Title given to 1000681
+200 - vassal: c_eladevi - Holder 1000681 - Primary title: c_eladevi has lost the title: c_eladevi
+200 - sub vassal: c_eladevi - Holder 1000681 - Primary title: c_eladevi has lost the title: c_eladevi
+200 - vassal: c_eladevi - Title given to 1000681 - Primary title: d_taina
+200 - sub vassal: c_eladevi - Title given to 1000681 - Primary title: d_taina
+200 - Holder (1000681) has gained c_eladevi
+200 - vassal: c_dalakai - Holder 1000681 - Primary title: c_dalakai has lost the title: c_dalakai
+200 - sub vassal: c_dalakai - Holder 1000681 - Primary title: c_dalakai has lost the title: c_dalakai
+200 - vassal: c_dalakai - Title given to 1000681 - Primary title: d_taina
+200 - sub vassal: c_dalakai - Title given to 1000681 - Primary title: d_taina
+200 - Holder (1000681) has gained c_dalakai
+231 - Holder 1001510 - Primary title: d_taina has lost the title: d_taina
+231 - Title given to 1001510
+231 - vassal: c_eladevi - Holder 1001510 - Primary title: c_eladevi has lost the title: c_eladevi
+231 - vassal: c_eladevi - Title given to 1001510 - Primary title: d_taina
+231 - Holder (1001510) has gained c_eladevi
+231 - vassal: c_dalakai - Holder 1001510 - Primary title: c_dalakai has lost the title: c_dalakai
+231 - vassal: c_dalakai - Title given to 1001510 - Primary title: d_taina
+231 - Holder (1001510) has gained c_dalakai
+266 - Holder (1001510) has gained k_qonauna
+267 - vassal: c_dalakai - Title given to 1005388
+270 - Holder 1003449 - Primary title: d_taina has lost the title: d_taina
+270 - Title given to 1003449 - Primary title: k_qonauna
+270 - vassal: c_eladevi - Setting to vassal of d_ronauna in Validate Realm
+270 - Lost vassal: c_eladevi
+277 - vassal: c_dalakai - Independent as conquerer
+277 - vassal: c_dalakai - Made independent
+277 - Destroyed due to no capital's obtainable
+277 - Made independent
+277 - Title destroyed

@@ -1,0 +1,200 @@
+200 - Title given to 1000019 - Primary title: c_ralius
+200 - Holder 1001030 - Primary title: d_bihka has lost the title: d_bihka
+200 - Title given to 1001030 - Primary title: k_rutolas
+219 - Gained vassal: c_alasoka
+219 - Holder 1000476 - Primary title: d_bihka has lost the title: c_alasoka
+219 - vassal: c_alasoka - Title given to 1000476 - Primary title: k_rutolas
+219 - vassal: c_alasoka - Setting to vassal of k_rutolas in Validate Realm
+219 - Lost vassal: c_alasoka
+219 - Holder 1000476 - Primary title: d_bihka has lost the title: d_bihka
+219 - Title given to 1000476 - Primary title: k_rutolas
+227 - Gained vassal: c_qabine
+227 - Gained vassal: c_laren
+227 - Gained vassal: c_tedolf
+227 - Gained vassal: c_alasoka
+227 - Holder 1001534 - Primary title: d_bihka has lost the title: d_bihka
+227 - Title given to 1001534 - Primary title: k_rutolas
+227 - vassal: c_alasoka - Holder 1001534 - Primary title: c_alasoka has lost the title: c_alasoka
+227 - vassal: c_alasoka - Title given to 1001534 - Primary title: k_rutolas
+227 - vassal: c_tedolf - Holder 1001534 - Primary title: c_tedolf has lost the title: c_tedolf
+227 - vassal: c_tedolf - Title given to 1001534 - Primary title: k_rutolas
+227 - vassal: c_laren - Holder 1001534 - Primary title: c_laren has lost the title: c_laren
+227 - vassal: c_laren - Title given to 1001534 - Primary title: k_rutolas
+227 - vassal: c_qabine - Holder 1001534 - Primary title: c_qabine has lost the title: c_qabine
+227 - vassal: c_qabine - Title given to 1001534 - Primary title: k_rutolas
+228 - vassal: c_alasoka - Title given to 1003202
+228 - vassal: c_tedolf - Title given to 1003203
+228 - vassal: c_laren - Title given to 1003204
+229 - vassal: c_qabine - Given to 1003272 in HandleTitles - Too many duke titles
+229 - vassal: c_qabine - Title given to 1003272
+229 - Title given to 1003272 - Primary title: c_qabine
+229 - vassal: c_qabine - Holder (1003272) has gained d_bihka
+229 - Too many dukes, given to dejure: k_rutolas
+233 - Holder 1001534 - Primary title: d_bihka has lost the title: d_bihka
+233 - Title given to 1001534 - Primary title: k_rutolas
+233 - vassal: c_qabine - Holder 1001534 - Primary title: c_qabine has lost the title: c_qabine
+233 - vassal: c_qabine - Title given to 1001534 - Primary title: k_rutolas
+233 - vassal: c_qabine - Given to 1003521 in HandleTitles - Too many duke titles
+233 - vassal: c_qabine - Title given to 1003521
+233 - Title given to 1003521 - Primary title: c_qabine
+233 - vassal: c_qabine - Holder (1003521) has gained d_bihka
+233 - Too many dukes, given to dejure: k_rutolas
+269 - Holder 1003876 - Primary title: d_bihka has lost the title: d_bihka
+269 - Title given to 1003876
+269 - vassal: c_qabine - Holder 1003876 - Primary title: c_qabine has lost the title: c_qabine
+269 - vassal: c_qabine - Title given to 1003876 - Primary title: d_bihka
+269 - Holder (1003876) has gained c_qabine
+302 - Holder 1005618 - Primary title: d_bihka has lost the title: d_bihka
+302 - Title given to 1005618
+302 - vassal: c_qabine - Holder 1005618 - Primary title: c_qabine has lost the title: c_qabine
+302 - vassal: c_qabine - Title given to 1005618 - Primary title: d_bihka
+302 - Holder (1005618) has gained c_qabine
+317 - Holder 1007470 - Primary title: d_bihka has lost the title: d_bihka
+317 - Title given to 1007470
+317 - vassal: c_qabine - Holder 1007470 - Primary title: c_qabine has lost the title: c_qabine
+317 - vassal: c_qabine - Title given to 1007470 - Primary title: d_bihka
+317 - Holder (1007470) has gained c_qabine
+327 - Holder 1008333 - Primary title: d_bihka has lost the title: c_qabine
+327 - vassal: c_qabine - Title given to 1008333 - Primary title: d_setistof
+327 - vassal: c_qabine - Setting to vassal of d_setistof in Validate Realm
+327 - Lost vassal: c_qabine
+327 - Holder 1008333 - Primary title: d_bihka has lost the title: d_bihka
+327 - Title given to 1008333 - Primary title: d_setistof
+328 - vassal: c_laren - Holder 1008333 - Primary title: c_laren has lost the title: c_laren
+328 - vassal: c_laren - Title given to 1008333 - Primary title: d_bihka
+328 - Holder (1008333) has gained c_laren
+329 - vassal: c_laren - Set liege on title creation d_tulyla
+329 - Lost vassal: c_laren
+329 - vassal: c_tedolf - Holder 1008333 - Primary title: c_tedolf has lost the title: c_tedolf
+329 - vassal: c_tedolf - Title given to 1008333 - Primary title: d_setistof
+329 - vassal: c_tedolf - Given to 1008553 in HandleTitles - Too many duke titles
+329 - vassal: c_tedolf - Title given to 1008553
+329 - Title given to 1007933 - Primary title: k_rutolas
+329 - Too many dukes, made direct title into vassal of k_rutolas
+329 - Title given to 1008554
+346 - Holder 1007679 - Primary title: d_bihka has lost the title: d_bihka
+346 - Title given to 1007679 - Primary title: d_rupew
+346 - Setting independent in Validate Realm
+346 - Made independent
+347 - sub vassal: c_remistof - Made independent due to being a seperate island
+347 - sub vassal: c_remistof - Made independent
+347 - vassal: c_alasoka - Made vassal of neighbour (k_koumba) due to being a seperate island
+347 - sub vassal: c_alasoka - Made vassal of neighbour (k_koumba) due to being a seperate island
+347 - Lost vassal: c_alasoka
+347 - sub vassal: c_ajuloet - Made vassal of neighbour (k_saloet) due to being a seperate island
+347 - sub vassal: c_ajuloet - Setting to vassal of d_bihka in Validate Realm
+347 - Gained vassal: c_ajuloet
+347 - Gained vassal: c_ajuloet
+347 - vassal: c_ajuloet - Given to neighbour holder of k_saloet
+347 - sub vassal: c_ajuloet - Given to neighbour holder of k_saloet
+347 - sub vassal: c_rerans - Made vassal of neighbour (k_saloet) due to being a seperate island
+347 - sub vassal: c_rerans - Setting to vassal of d_bihka in Validate Realm
+347 - Gained vassal: c_rerans
+347 - Gained vassal: c_rerans
+347 - vassal: c_rerans - Given to neighbour holder of k_saloet
+347 - sub vassal: c_rerans - Given to neighbour holder of k_saloet
+347 - sub vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+347 - sub vassal: c_rohn - Setting to vassal of d_bihka in Validate Realm
+347 - Gained vassal: c_rohn
+347 - Gained vassal: c_rohn
+347 - vassal: c_rohn - Given to neighbour holder of k_saloet
+347 - sub vassal: c_rohn - Given to neighbour holder of k_saloet
+347 - sub vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+347 - sub vassal: c_weniana - Setting to vassal of d_bihka in Validate Realm
+347 - Gained vassal: c_weniana
+347 - Gained vassal: c_weniana
+347 - vassal: c_weniana - Given to neighbour holder of k_saloet
+347 - sub vassal: c_weniana - Given to neighbour holder of k_saloet
+347 - sub vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+347 - sub vassal: c_tabine - Setting to vassal of d_bihka in Validate Realm
+347 - Gained vassal: c_tabine
+347 - Gained vassal: c_tabine
+347 - vassal: c_tabine - Given to neighbour holder of k_saloet
+347 - sub vassal: c_tabine - Given to neighbour holder of k_saloet
+348 - Holder (1007679) has gained d_sarura
+348 - vassal: c_rerans - Set liege on title creation d_sarura
+348 - sub vassal: c_rerans - Set liege on title creation d_sarura
+348 - Lost vassal: c_rerans
+348 - vassal: c_rohn - Set liege on title creation d_sarura
+348 - sub vassal: c_rohn - Set liege on title creation d_sarura
+348 - Lost vassal: c_rohn
+348 - vassal: c_weniana - Set liege on title creation d_sarura
+348 - sub vassal: c_weniana - Set liege on title creation d_sarura
+348 - Lost vassal: c_weniana
+348 - vassal: c_ajuloet - Set liege on title creation d_sarura
+348 - sub vassal: c_ajuloet - Set liege on title creation d_sarura
+348 - Lost vassal: c_ajuloet
+348 - vassal: c_tabine - Set liege on title creation d_sarura
+348 - sub vassal: c_tabine - Set liege on title creation d_sarura
+348 - Lost vassal: c_tabine
+348 - sub vassal: c_rerans - Made vassal of neighbour (k_saloet) due to being a seperate island
+348 - sub vassal: c_rerans - Setting to vassal of d_bihka in Validate Realm
+348 - Gained vassal: c_rerans
+348 - Gained vassal: c_rerans
+348 - vassal: c_rerans - Given to neighbour holder of k_saloet
+348 - sub vassal: c_rerans - Given to neighbour holder of k_saloet
+348 - sub vassal: c_ajuloet - Made vassal of neighbour (k_saloet) due to being a seperate island
+348 - sub vassal: c_ajuloet - Setting to vassal of d_bihka in Validate Realm
+348 - Gained vassal: c_ajuloet
+348 - Gained vassal: c_ajuloet
+348 - vassal: c_ajuloet - Given to neighbour holder of k_saloet
+348 - sub vassal: c_ajuloet - Given to neighbour holder of k_saloet
+348 - sub vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+348 - sub vassal: c_rohn - Setting to vassal of d_bihka in Validate Realm
+348 - Gained vassal: c_rohn
+348 - Gained vassal: c_rohn
+348 - vassal: c_rohn - Given to neighbour holder of k_saloet
+348 - sub vassal: c_rohn - Given to neighbour holder of k_saloet
+348 - sub vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+348 - sub vassal: c_weniana - Setting to vassal of d_bihka in Validate Realm
+348 - Gained vassal: c_weniana
+348 - Gained vassal: c_weniana
+348 - vassal: c_weniana - Given to neighbour holder of k_saloet
+348 - sub vassal: c_weniana - Given to neighbour holder of k_saloet
+348 - sub vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+348 - sub vassal: c_tabine - Setting to vassal of d_bihka in Validate Realm
+348 - Gained vassal: c_tabine
+348 - Gained vassal: c_tabine
+348 - vassal: c_tabine - Given to neighbour holder of k_saloet
+348 - sub vassal: c_tabine - Given to neighbour holder of k_saloet
+349 - vassal: c_rerans - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - sub vassal: c_rerans - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - Lost vassal: c_rerans
+349 - sub vassal: c_rerans - Setting to vassal of d_bihka in Validate Realm
+349 - Gained vassal: c_rerans
+349 - Gained vassal: c_rerans
+349 - vassal: c_rerans - Given to neighbour holder of k_saloet
+349 - sub vassal: c_rerans - Given to neighbour holder of k_saloet
+349 - vassal: c_ajuloet - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - sub vassal: c_ajuloet - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - Lost vassal: c_ajuloet
+349 - sub vassal: c_ajuloet - Setting to vassal of d_bihka in Validate Realm
+349 - Gained vassal: c_ajuloet
+349 - Gained vassal: c_ajuloet
+349 - vassal: c_ajuloet - Given to neighbour holder of k_saloet
+349 - sub vassal: c_ajuloet - Given to neighbour holder of k_saloet
+349 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - sub vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - Lost vassal: c_rohn
+349 - sub vassal: c_rohn - Setting to vassal of d_bihka in Validate Realm
+349 - Gained vassal: c_rohn
+349 - Gained vassal: c_rohn
+349 - vassal: c_rohn - Given to neighbour holder of k_saloet
+349 - sub vassal: c_rohn - Given to neighbour holder of k_saloet
+349 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - sub vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - Lost vassal: c_weniana
+349 - sub vassal: c_weniana - Setting to vassal of d_bihka in Validate Realm
+349 - Gained vassal: c_weniana
+349 - Gained vassal: c_weniana
+349 - vassal: c_weniana - Given to neighbour holder of k_saloet
+349 - sub vassal: c_weniana - Given to neighbour holder of k_saloet
+349 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - sub vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+349 - Lost vassal: c_tabine
+349 - sub vassal: c_tabine - Setting to vassal of d_bihka in Validate Realm
+349 - Gained vassal: c_tabine
+349 - Gained vassal: c_tabine
+349 - vassal: c_tabine - Given to neighbour holder of k_saloet
+349 - sub vassal: c_tabine - Given to neighbour holder of k_saloet
+350 - vassal: c_rerans - Made vassal of neighbour (k_saloet)

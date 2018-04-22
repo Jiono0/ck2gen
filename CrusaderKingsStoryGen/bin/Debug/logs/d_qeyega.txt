@@ -1,0 +1,44 @@
+200 - Title given to 1000580
+200 - vassal: c_denew - Holder 1000580 - Primary title: c_denew has lost the title: c_denew
+200 - sub vassal: c_denew - Holder 1000580 - Primary title: c_denew has lost the title: c_denew
+200 - vassal: c_denew - Title given to 1000580 - Primary title: d_qeyega
+200 - sub vassal: c_denew - Title given to 1000580 - Primary title: d_qeyega
+200 - Holder (1000580) has gained c_denew
+200 - vassal: c_katurga - Holder 1000580 - Primary title: c_katurga has lost the title: c_katurga
+200 - sub vassal: c_katurga - Holder 1000580 - Primary title: c_katurga has lost the title: c_katurga
+200 - vassal: c_katurga - Title given to 1000580 - Primary title: d_qeyega
+200 - sub vassal: c_katurga - Title given to 1000580 - Primary title: d_qeyega
+200 - Holder (1000580) has gained c_katurga
+200 - vassal: c_rurora - Holder 1000580 - Primary title: c_rurora has lost the title: c_rurora
+200 - sub vassal: c_rurora - Holder 1000580 - Primary title: c_rurora has lost the title: c_rurora
+200 - vassal: c_rurora - Title given to 1000580 - Primary title: d_qeyega
+200 - sub vassal: c_rurora - Title given to 1000580 - Primary title: d_qeyega
+200 - Holder (1000580) has gained c_rurora
+200 - vassal: c_quris - Holder 1000580 - Primary title: c_quris has lost the title: c_quris
+200 - sub vassal: c_quris - Holder 1000580 - Primary title: c_quris has lost the title: c_quris
+200 - vassal: c_quris - Title given to 1000580 - Primary title: d_qeyega
+200 - sub vassal: c_quris - Title given to 1000580 - Primary title: d_qeyega
+200 - Holder (1000580) has gained c_quris
+200 - Holder 1001056 - Primary title: d_qeyega has lost the title: d_qeyega
+200 - Title given to 1001056 - Primary title: k_kadew
+200 - vassal: c_quris - Holder 1001056 - Primary title: c_quris has lost the title: c_quris
+200 - vassal: c_quris - Title given to 1001056 - Primary title: k_kadew
+200 - vassal: c_rurora - Holder 1001056 - Primary title: c_rurora has lost the title: c_rurora
+200 - vassal: c_rurora - Title given to 1001056 - Primary title: k_kadew
+200 - vassal: c_katurga - Holder 1001056 - Primary title: c_katurga has lost the title: c_katurga
+200 - vassal: c_katurga - Title given to 1001056 - Primary title: k_kadew
+200 - vassal: c_denew - Holder 1001056 - Primary title: c_denew has lost the title: c_denew
+200 - vassal: c_denew - Title given to 1001056 - Primary title: k_kadew
+218 - Holder 1001563 - Primary title: d_qeyega has lost the title: d_qeyega
+218 - Title given to 1001563 - Primary title: k_kadew
+218 - vassal: c_denew - Setting to vassal of d_tutis in Validate Realm
+218 - Lost vassal: c_denew
+218 - vassal: c_katurga - Setting to vassal of d_tutis in Validate Realm
+218 - Lost vassal: c_katurga
+218 - vassal: c_rurora - Setting to vassal of d_tutis in Validate Realm
+218 - Lost vassal: c_rurora
+218 - vassal: c_quris - Setting to vassal of d_tutis in Validate Realm
+218 - Lost vassal: c_quris
+219 - Destroyed due to flagged problem
+219 - Made independent
+219 - Title destroyed

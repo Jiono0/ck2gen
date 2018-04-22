@@ -1,0 +1,102 @@
+200 - Title given to 1000511
+200 - vassal: c_kurinya - Given to 1000514 via AddCharacterForTitle
+200 - sub vassal: c_kurinya - Given to 1000514 via AddCharacterForTitle
+200 - vassal: c_kurinya - Holder 1000514 - Primary title: c_kurinya has lost the title: c_kurinya
+200 - sub vassal: c_kurinya - Holder 1000514 - Primary title: c_kurinya has lost the title: c_kurinya
+200 - vassal: c_kurinya - Title given to 1000514
+200 - sub vassal: c_kurinya - Title given to 1000514
+200 - vassal: c_wibyka - Holder 1000511 - Primary title: c_wibyka has lost the title: c_wibyka
+200 - sub vassal: c_wibyka - Holder 1000511 - Primary title: c_wibyka has lost the title: c_wibyka
+200 - vassal: c_wibyka - Title given to 1000511 - Primary title: d_beta-va
+200 - sub vassal: c_wibyka - Title given to 1000511 - Primary title: d_beta-va
+200 - Holder (1000511) has gained c_wibyka
+200 - vassal: c_kurinya - Holder 1000511 - Primary title: c_kurinya has lost the title: c_kurinya
+200 - sub vassal: c_kurinya - Holder 1000511 - Primary title: c_kurinya has lost the title: c_kurinya
+200 - vassal: c_kurinya - Title given to 1000511 - Primary title: d_beta-va
+200 - sub vassal: c_kurinya - Title given to 1000511 - Primary title: d_beta-va
+200 - Holder (1000511) has gained c_kurinya
+200 - vassal: c_liba-va - Holder 1000511 - Primary title: c_liba-va has lost the title: c_liba-va
+200 - sub vassal: c_liba-va - Holder 1000511 - Primary title: c_liba-va has lost the title: c_liba-va
+200 - vassal: c_liba-va - Title given to 1000511 - Primary title: d_beta-va
+200 - sub vassal: c_liba-va - Title given to 1000511 - Primary title: d_beta-va
+200 - Holder (1000511) has gained c_liba-va
+200 - vassal: c_kebina - Title given to 1000511 - Primary title: d_beta-va
+200 - Holder (1000511) has gained c_kebina
+203 - Holder 1001266 - Primary title: d_beta-va has lost the title: d_beta-va
+203 - Title given to 1001266
+203 - vassal: c_kebina - Holder 1001266 - Primary title: c_kebina has lost the title: c_kebina
+203 - vassal: c_kebina - Title given to 1001266 - Primary title: d_beta-va
+203 - Holder (1001266) has gained c_kebina
+203 - vassal: c_liba-va - Holder 1001266 - Primary title: c_liba-va has lost the title: c_liba-va
+203 - vassal: c_liba-va - Title given to 1001266 - Primary title: d_beta-va
+203 - Holder (1001266) has gained c_liba-va
+203 - vassal: c_kurinya - Holder 1001266 - Primary title: c_kurinya has lost the title: c_kurinya
+203 - vassal: c_kurinya - Title given to 1001266 - Primary title: d_beta-va
+203 - Holder (1001266) has gained c_kurinya
+203 - vassal: c_wibyka - Holder 1001266 - Primary title: c_wibyka has lost the title: c_wibyka
+203 - vassal: c_wibyka - Title given to 1001266 - Primary title: d_beta-va
+203 - Holder (1001266) has gained c_wibyka
+212 - Holder 1001050 - Primary title: d_beta-va has lost the title: d_beta-va
+212 - Title given to 1001050 - Primary title: k_karavor
+212 - vassal: c_kebina - Holder 1001050 - Primary title: c_kebina has lost the title: c_kebina
+212 - vassal: c_kebina - Title given to 1001050 - Primary title: k_karavor
+212 - vassal: c_liba-va - Holder 1001050 - Primary title: c_liba-va has lost the title: c_liba-va
+212 - vassal: c_liba-va - Title given to 1001050 - Primary title: k_karavor
+212 - vassal: c_kurinya - Holder 1001050 - Primary title: c_kurinya has lost the title: c_kurinya
+212 - vassal: c_kurinya - Title given to 1001050 - Primary title: k_karavor
+212 - vassal: c_wibyka - Holder 1001050 - Primary title: c_wibyka has lost the title: c_wibyka
+212 - vassal: c_wibyka - Title given to 1001050 - Primary title: k_karavor
+212 - vassal: c_kebina - Title given to 1002380
+234 - vassal: c_liba-va - Title given to 1003668
+239 - Holder 1001748 - Primary title: d_beta-va has lost the title: d_beta-va
+239 - Title given to 1001748 - Primary title: k_karavor
+239 - vassal: c_wibyka - Setting to vassal of d_sievisey in Validate Realm
+239 - Lost vassal: c_wibyka
+239 - vassal: c_kurinya - Setting to vassal of d_sievisey in Validate Realm
+239 - Lost vassal: c_kurinya
+245 - Holder 1002510 - Primary title: d_beta-va has lost the title: d_beta-va
+245 - Title given to 1002510 - Primary title: k_karavor
+255 - Gained vassal: c_wibyka
+255 - Gained vassal: c_tetina
+255 - Gained vassal: c_tetyuk
+255 - Gained vassal: c_wadyilni
+255 - Gained vassal: c_bilisey
+255 - Holder 1002873 - Primary title: d_beta-va has lost the title: c_bilisey
+255 - vassal: c_bilisey - Title given to 1002873 - Primary title: k_karavor
+255 - vassal: c_bilisey - Setting to vassal of k_karavor in Validate Realm
+255 - Lost vassal: c_bilisey
+255 - Holder 1002873 - Primary title: d_beta-va has lost the title: c_wadyilni
+255 - vassal: c_wadyilni - Title given to 1002873 - Primary title: k_karavor
+255 - vassal: c_wadyilni - Setting to vassal of k_karavor in Validate Realm
+255 - Lost vassal: c_wadyilni
+255 - Holder 1002873 - Primary title: d_beta-va has lost the title: c_tetyuk
+255 - vassal: c_tetyuk - Title given to 1002873 - Primary title: k_karavor
+255 - vassal: c_tetyuk - Setting to vassal of k_karavor in Validate Realm
+255 - Lost vassal: c_tetyuk
+255 - Holder 1002873 - Primary title: d_beta-va has lost the title: d_beta-va
+255 - Title given to 1002873 - Primary title: k_karavor
+255 - vassal: c_tetina - Holder 1002873 - Primary title: c_tetina has lost the title: c_tetina
+255 - vassal: c_tetina - Title given to 1002873 - Primary title: k_karavor
+255 - vassal: c_wibyka - Holder 1002873 - Primary title: c_wibyka has lost the title: c_wibyka
+255 - vassal: c_wibyka - Title given to 1002873 - Primary title: k_karavor
+280 - Holder 1005961 - Primary title: d_beta-va has lost the title: d_beta-va
+280 - Title given to 1005961 - Primary title: k_karavor
+280 - vassal: c_tetina - Setting to vassal of d_sievisey in Validate Realm
+280 - Lost vassal: c_tetina
+280 - vassal: c_wibyka - Setting to vassal of d_sievisey in Validate Realm
+280 - Lost vassal: c_wibyka
+300 - vassal: c_kebina - Holder 1005961 - Primary title: c_kebina has lost the title: c_kebina
+300 - vassal: c_kebina - Title given to 1005961 - Primary title: k_karavor
+300 - vassal: c_kebina - Title given to 1007625
+322 - Holder 1006955 - Primary title: d_beta-va has lost the title: d_beta-va
+322 - Title given to 1006955 - Primary title: k_karavor
+343 - Holder 1009898 - Primary title: d_beta-va has lost the title: d_beta-va
+343 - Title given to 1009898 - Primary title: k_karavor
+350 - Holder 1010281 - Primary title: d_beta-va has lost the title: d_beta-va
+350 - Title given to 1010281 - Primary title: k_karavor
+388 - Holder 1010389 - Primary title: d_beta-va has lost the title: d_beta-va
+388 - Title given to 1010389 - Primary title: k_karavor
+394 - Holder 1012357 - Primary title: d_beta-va has lost the title: d_beta-va
+394 - Title given to 1012357 - Primary title: k_karavor
+397 - Holder 1012666 - Primary title: d_beta-va has lost the title: d_beta-va
+397 - Title given to 1012666 - Primary title: k_karavor

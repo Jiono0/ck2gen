@@ -1,0 +1,94 @@
+200 - Title given to 1000590
+200 - vassal: c_dandu - Given to 1000593 via AddCharacterForTitle
+200 - sub vassal: c_dandu - Given to 1000593 via AddCharacterForTitle
+200 - vassal: c_dandu - Holder 1000593 - Primary title: c_dandu has lost the title: c_dandu
+200 - sub vassal: c_dandu - Holder 1000593 - Primary title: c_dandu has lost the title: c_dandu
+200 - vassal: c_dandu - Title given to 1000593
+200 - sub vassal: c_dandu - Title given to 1000593
+200 - vassal: c_nedinya - Holder 1000590 - Primary title: c_nedinya has lost the title: c_nedinya
+200 - sub vassal: c_nedinya - Holder 1000590 - Primary title: c_nedinya has lost the title: c_nedinya
+200 - vassal: c_nedinya - Title given to 1000590 - Primary title: d_asenyas
+200 - sub vassal: c_nedinya - Title given to 1000590 - Primary title: d_asenyas
+200 - Holder (1000590) has gained c_nedinya
+200 - vassal: c_dandu - Holder 1000590 - Primary title: c_dandu has lost the title: c_dandu
+200 - sub vassal: c_dandu - Holder 1000590 - Primary title: c_dandu has lost the title: c_dandu
+200 - vassal: c_dandu - Title given to 1000590 - Primary title: d_asenyas
+200 - sub vassal: c_dandu - Title given to 1000590 - Primary title: d_asenyas
+200 - Holder (1000590) has gained c_dandu
+200 - vassal: c_dievalka - Holder 1000590 - Primary title: c_dievalka has lost the title: c_dievalka
+200 - sub vassal: c_dievalka - Holder 1000590 - Primary title: c_dievalka has lost the title: c_dievalka
+200 - vassal: c_dievalka - Title given to 1000590 - Primary title: d_asenyas
+200 - sub vassal: c_dievalka - Title given to 1000590 - Primary title: d_asenyas
+200 - Holder (1000590) has gained c_dievalka
+200 - vassal: c_kiban - Title given to 1000590 - Primary title: d_asenyas
+200 - Holder (1000590) has gained c_kiban
+221 - Holder 1001966 - Primary title: d_asenyas has lost the title: d_asenyas
+221 - Title given to 1001966
+221 - vassal: c_nedinya - Holder 1001966 - Primary title: c_nedinya has lost the title: c_nedinya
+221 - vassal: c_nedinya - Title given to 1001966 - Primary title: d_asenyas
+221 - Holder (1001966) has gained c_nedinya
+221 - vassal: c_dandu - Holder 1001966 - Primary title: c_dandu has lost the title: c_dandu
+221 - vassal: c_dandu - Title given to 1001966 - Primary title: d_asenyas
+221 - Holder (1001966) has gained c_dandu
+221 - vassal: c_dievalka - Holder 1001966 - Primary title: c_dievalka has lost the title: c_dievalka
+221 - vassal: c_dievalka - Title given to 1001966 - Primary title: d_asenyas
+221 - Holder (1001966) has gained c_dievalka
+221 - vassal: c_kiban - Holder 1001966 - Primary title: c_kiban has lost the title: c_kiban
+221 - vassal: c_kiban - Title given to 1001966 - Primary title: d_asenyas
+221 - Holder (1001966) has gained c_kiban
+222 - Holder 1001414 - Primary title: d_asenyas has lost the title: d_asenyas
+222 - Title given to 1001414 - Primary title: d_torew
+222 - vassal: c_nedinya - Holder 1001414 - Primary title: c_nedinya has lost the title: c_nedinya
+222 - vassal: c_nedinya - Title given to 1001414 - Primary title: d_torew
+222 - vassal: c_dandu - Holder 1001414 - Primary title: c_dandu has lost the title: c_dandu
+222 - vassal: c_dandu - Title given to 1001414 - Primary title: d_torew
+222 - vassal: c_dievalka - Holder 1001414 - Primary title: c_dievalka has lost the title: c_dievalka
+222 - vassal: c_dievalka - Title given to 1001414 - Primary title: d_torew
+222 - vassal: c_kiban - Holder 1001414 - Primary title: c_kiban has lost the title: c_kiban
+222 - vassal: c_kiban - Title given to 1001414 - Primary title: d_torew
+229 - Holder (1001414) has gained k_egzora
+230 - vassal: c_dievalka - Title given to 1003426
+230 - vassal: c_dandu - Title given to 1003427
+230 - vassal: c_nedinya - Title given to 1003428
+230 - vassal: c_kiban - Title given to 1003429
+237 - Holder 1001522 - Primary title: d_asenyas has lost the title: d_asenyas
+237 - Title given to 1001522 - Primary title: k_egzora
+253 - Holder 1004837 - Primary title: d_asenyas has lost the title: d_asenyas
+253 - Title given to 1004837 - Primary title: k_egzora
+256 - Gained vassal: c_dahosco
+256 - Gained vassal: c_korael
+256 - Gained vassal: c_qenavor
+256 - Gained vassal: c_bevavor
+256 - Gained vassal: c_kibavor
+256 - Holder 1003532 - Primary title: d_asenyas has lost the title: d_asenyas
+256 - Title given to 1003532 - Primary title: k_egzora
+256 - vassal: c_kibavor - Setting to vassal of d_divance in Validate Realm
+256 - Lost vassal: c_kibavor
+256 - vassal: c_bevavor - Setting to vassal of d_divance in Validate Realm
+256 - Lost vassal: c_bevavor
+256 - vassal: c_qenavor - Setting to vassal of d_divance in Validate Realm
+256 - Lost vassal: c_qenavor
+256 - vassal: c_korael - Setting to vassal of d_divance in Validate Realm
+256 - Lost vassal: c_korael
+256 - vassal: c_dahosco - Setting to vassal of d_divance in Validate Realm
+256 - Lost vassal: c_dahosco
+292 - Holder 1004941 - Primary title: d_asenyas has lost the title: d_asenyas
+292 - Title given to 1004941 - Primary title: k_egzora
+312 - Holder 1007318 - Primary title: d_asenyas has lost the title: d_asenyas
+312 - Title given to 1007318 - Primary title: k_egzora
+324 - vassal: c_dandu - Given to 1008922 in HandleTitles - Too many duke titles
+324 - vassal: c_dandu - Holder 1008922 - Primary title: c_dandu has lost the title: c_dandu
+324 - vassal: c_dandu - Title given to 1008922
+324 - Title given to 1008922 - Primary title: c_dandu
+324 - vassal: c_dandu - Holder (1008922) has gained d_asenyas
+324 - Too many dukes, given to dejure: k_egzora
+370 - Holder 1011290 - Primary title: d_asenyas has lost the title: d_asenyas
+370 - Title given to 1011290
+370 - vassal: c_dandu - Holder 1011290 - Primary title: c_dandu has lost the title: c_dandu
+370 - vassal: c_dandu - Title given to 1011290 - Primary title: d_asenyas
+370 - Holder (1011290) has gained c_dandu
+393 - Holder 1012151 - Primary title: d_asenyas has lost the title: d_asenyas
+393 - Title given to 1012151
+393 - vassal: c_dandu - Holder 1012151 - Primary title: c_dandu has lost the title: c_dandu
+393 - vassal: c_dandu - Title given to 1012151 - Primary title: d_asenyas
+393 - Holder (1012151) has gained c_dandu

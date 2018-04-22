@@ -1,0 +1,60 @@
+200 - Title given to 1001022
+200 - vassal: d_rovaise - Holder 1001022 - Primary title: d_rovaise has lost the title: c_nakesse
+200 - sub vassal: d_rovaise - Holder 1001022 - Primary title: d_rovaise has lost the title: c_nakesse
+200 - sub vassal: c_nakesse - Title given to 1001022 - Primary title: k_karolas
+200 - Holder (1001022) has gained c_nakesse
+200 - vassal: d_ribril - Holder 1001022 - Primary title: d_ribril has lost the title: d_ribril
+200 - sub vassal: d_ribril - Holder 1001022 - Primary title: d_ribril has lost the title: d_ribril
+200 - vassal: d_ribril - Title given to 1001022 - Primary title: k_karolas
+200 - sub vassal: d_ribril - Title given to 1001022 - Primary title: k_karolas
+200 - Holder (1001022) has gained d_ribril
+201 - Holder 1001531 - Primary title: k_karolas has lost the title: k_karolas
+201 - Title given to 1001531
+201 - vassal: d_ribril - Holder 1001531 - Primary title: d_ribril has lost the title: d_ribril
+201 - sub vassal: d_ribril - Holder 1001531 - Primary title: d_ribril has lost the title: d_ribril
+201 - vassal: d_ribril - Title given to 1001531 - Primary title: k_karolas
+201 - sub vassal: d_ribril - Title given to 1001531 - Primary title: k_karolas
+201 - Holder (1001531) has gained d_ribril
+201 - sub vassal: c_nakesse - Holder 1001531 - Primary title: c_nakesse has lost the title: c_nakesse
+201 - sub vassal: c_nakesse - Title given to 1001531 - Primary title: k_karolas
+201 - Holder (1001531) has gained c_nakesse
+201 - sub vassal: c_nakesse - Setting to vassal of k_karolas in Validate Realm
+201 - vassal: d_rovaise - Lost vassal: c_nakesse
+201 - sub vassal: d_rovaise - Lost vassal: c_nakesse
+201 - Gained vassal: c_nakesse
+205 - vassal: d_ebirude - Captured byk_ajirolas in minor war
+205 - sub vassal: d_ebirude - Captured byk_ajirolas in minor war
+205 - Lost vassal: d_ebirude
+206 - vassal: d_relay - Made vassal of neighbour (k_ehelama) due to being a seperate island
+206 - sub vassal: d_relay - Made vassal of neighbour (k_ehelama) due to being a seperate island
+206 - Lost vassal: d_relay
+206 - sub vassal: c_tiuhoro - Made vassal of neighbour (k_ehelama) due to being a seperate island
+206 - vassal: d_ribril - Lost vassal: c_tiuhoro
+206 - sub vassal: d_ribril - Lost vassal: c_tiuhoro
+206 - sub vassal: c_tiuhoro - Setting independent in Validate Realm
+206 - sub vassal: c_tiuhoro - Made independent
+206 - sub vassal: c_qirza - Holder 1001028 - Primary title: c_qirza has lost the title: c_tiuhoro
+206 - sub vassal: c_qirza - Made vassal of neighbour (k_ehelama) due to being a seperate island
+206 - vassal: d_ribril - Lost vassal: c_qirza
+206 - sub vassal: d_ribril - Lost vassal: c_qirza
+206 - Holder 1001699 - Primary title: k_karolas has lost the title: k_karolas
+206 - Title given to 1001699
+206 - vassal: d_ribril - Holder 1001699 - Primary title: d_ribril has lost the title: d_ribril
+206 - sub vassal: d_ribril - Holder 1001699 - Primary title: d_ribril has lost the title: d_ribril
+206 - vassal: d_ribril - Title given to 1001699 - Primary title: k_karolas
+206 - sub vassal: d_ribril - Title given to 1001699 - Primary title: k_karolas
+206 - Holder (1001699) has gained d_ribril
+206 - vassal: c_nakesse - Holder 1001699 - Primary title: c_nakesse has lost the title: c_nakesse
+206 - sub vassal: c_nakesse - Holder 1001699 - Primary title: c_nakesse has lost the title: c_nakesse
+206 - vassal: c_nakesse - Title given to 1001699 - Primary title: k_karolas
+206 - sub vassal: c_nakesse - Title given to 1001699 - Primary title: k_karolas
+206 - Holder (1001699) has gained c_nakesse
+207 - vassal: d_ribril - Destroyed due to flagged problem
+207 - sub vassal: d_ribril - Destroyed due to flagged problem
+207 - vassal: d_ribril - Made independent
+207 - sub vassal: d_ribril - Made independent
+217 - Holder 1000206 - Primary title: k_karolas has lost the title: k_karolas
+217 - Title given to 1000206 - Primary title: d_rovaise
+217 - vassal: d_rovaise - Holder (1000206) has gained k_karolas
+217 - sub vassal: d_rovaise - Holder (1000206) has gained k_karolas
+217 - vassal

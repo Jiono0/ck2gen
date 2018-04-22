@@ -1,0 +1,151 @@
+200 - Title given to 1000331
+200 - vassal: c_tasenes - Given to 1000334 via AddCharacterForTitle
+200 - sub vassal: c_tasenes - Given to 1000334 via AddCharacterForTitle
+200 - vassal: c_tasenes - Holder 1000334 - Primary title: c_tasenes has lost the title: c_tasenes
+200 - sub vassal: c_tasenes - Holder 1000334 - Primary title: c_tasenes has lost the title: c_tasenes
+200 - vassal: c_tasenes - Title given to 1000334
+200 - sub vassal: c_tasenes - Title given to 1000334
+200 - vassal: c_sazihka - Holder 1000331 - Primary title: c_sazihka has lost the title: c_sazihka
+200 - sub vassal: c_sazihka - Holder 1000331 - Primary title: c_sazihka has lost the title: c_sazihka
+200 - vassal: c_sazihka - Title given to 1000331 - Primary title: d_laev
+200 - sub vassal: c_sazihka - Title given to 1000331 - Primary title: d_laev
+200 - Holder (1000331) has gained c_sazihka
+200 - vassal: c_tasenes - Holder 1000331 - Primary title: c_tasenes has lost the title: c_tasenes
+200 - sub vassal: c_tasenes - Holder 1000331 - Primary title: c_tasenes has lost the title: c_tasenes
+200 - vassal: c_tasenes - Title given to 1000331 - Primary title: d_laev
+200 - sub vassal: c_tasenes - Title given to 1000331 - Primary title: d_laev
+200 - Holder (1000331) has gained c_tasenes
+200 - vassal: c_rewena - Holder 1000331 - Primary title: c_rewena has lost the title: c_rewena
+200 - sub vassal: c_rewena - Holder 1000331 - Primary title: c_rewena has lost the title: c_rewena
+200 - vassal: c_rewena - Title given to 1000331 - Primary title: d_laev
+200 - sub vassal: c_rewena - Title given to 1000331 - Primary title: d_laev
+200 - Holder (1000331) has gained c_rewena
+220 - Holder (1000331) has gained k_anula
+221 - vassal: c_rewena - Title given to 1002888
+237 - Gained vassal: c_qisan
+237 - Gained vassal: c_dewimha
+237 - Gained vassal: c_wuhyata
+237 - Holder 1000281 - Primary title: d_laev has lost the title: d_laev
+237 - Title given to 1000281 - Primary title: k_anula
+237 - vassal: c_sazihka - Setting to vassal of d_talda in Validate Realm
+237 - Lost vassal: c_sazihka
+237 - vassal: c_tasenes - Setting to vassal of d_talda in Validate Realm
+237 - Lost vassal: c_tasenes
+237 - vassal: c_wuhyata - Setting to vassal of d_talda in Validate Realm
+237 - Lost vassal: c_wuhyata
+237 - vassal: c_dewimha - Setting to vassal of d_talda in Validate Realm
+237 - Lost vassal: c_dewimha
+237 - vassal: c_qisan - Setting to vassal of d_talda in Validate Realm
+237 - Lost vassal: c_qisan
+248 - Holder 1002416 - Primary title: d_laev has lost the title: d_laev
+248 - Title given to 1002416 - Primary title: k_anula
+266 - Gained vassal: c_qisan
+266 - Gained vassal: c_dewimha
+266 - Gained vassal: c_wuhyata
+266 - Gained vassal: c_tasenes
+266 - Gained vassal: c_quhana
+266 - Holder 1004773 - Primary title: d_laev has lost the title: d_laev
+266 - Title given to 1004773 - Primary title: k_anula
+266 - vassal: c_quhana - Holder 1004773 - Primary title: c_quhana has lost the title: c_quhana
+266 - vassal: c_quhana - Title given to 1004773 - Primary title: k_anula
+266 - vassal: c_tasenes - Holder 1004773 - Primary title: c_tasenes has lost the title: c_tasenes
+266 - vassal: c_tasenes - Title given to 1004773 - Primary title: k_anula
+266 - vassal: c_wuhyata - Holder 1004773 - Primary title: c_wuhyata has lost the title: c_wuhyata
+266 - vassal: c_wuhyata - Title given to 1004773 - Primary title: k_anula
+266 - vassal: c_dewimha - Holder 1004773 - Primary title: c_dewimha has lost the title: c_dewimha
+266 - vassal: c_dewimha - Title given to 1004773 - Primary title: k_anula
+266 - vassal: c_qisan - Holder 1004773 - Primary title: c_qisan has lost the title: c_qisan
+266 - vassal: c_qisan - Title given to 1004773 - Primary title: k_anula
+267 - Holder 1005689 - Primary title: d_laev has lost the title: d_laev
+267 - Title given to 1005689 - Primary title: k_anula
+267 - vassal: c_quhana - Holder 1005689 - Primary title: c_quhana has lost the title: c_quhana
+267 - vassal: c_quhana - Title given to 1005689 - Primary title: k_anula
+267 - vassal: c_tasenes - Holder 1005689 - Primary title: c_tasenes has lost the title: c_tasenes
+267 - vassal: c_tasenes - Title given to 1005689 - Primary title: k_anula
+267 - vassal: c_wuhyata - Holder 1005689 - Primary title: c_wuhyata has lost the title: c_wuhyata
+267 - vassal: c_wuhyata - Title given to 1005689 - Primary title: k_anula
+267 - vassal: c_dewimha - Holder 1005689 - Primary title: c_dewimha has lost the title: c_dewimha
+267 - vassal: c_dewimha - Title given to 1005689 - Primary title: k_anula
+267 - vassal: c_qisan - Holder 1005689 - Primary title: c_qisan has lost the title: c_qisan
+267 - vassal: c_qisan - Title given to 1005689 - Primary title: k_anula
+269 - Holder 1005829 - Primary title: d_laev has lost the title: d_laev
+269 - Title given to 1005829 - Primary title: k_anula
+269 - vassal: c_quhana - Holder 1005829 - Primary title: c_quhana has lost the title: c_quhana
+269 - vassal: c_quhana - Title given to 1005829 - Primary title: k_anula
+269 - vassal: c_tasenes - Holder 1005829 - Primary title: c_tasenes has lost the title: c_tasenes
+269 - vassal: c_tasenes - Title given to 1005829 - Primary title: k_anula
+269 - vassal: c_wuhyata - Holder 1005829 - Primary title: c_wuhyata has lost the title: c_wuhyata
+269 - vassal: c_wuhyata - Title given to 1005829 - Primary title: k_anula
+269 - vassal: c_dewimha - Holder 1005829 - Primary title: c_dewimha has lost the title: c_dewimha
+269 - vassal: c_dewimha - Title given to 1005829 - Primary title: k_anula
+269 - vassal: c_qisan - Holder 1005829 - Primary title: c_qisan has lost the title: c_qisan
+269 - vassal: c_qisan - Title given to 1005829 - Primary title: k_anula
+315 - Holder 1006954 - Primary title: d_laev has lost the title: d_laev
+315 - Title given to 1006954 - Primary title: k_anula
+315 - vassal: c_quhana - Holder 1006954 - Primary title: c_quhana has lost the title: c_quhana
+315 - vassal: c_quhana - Title given to 1006954 - Primary title: k_anula
+315 - vassal: c_tasenes - Holder 1006954 - Primary title: c_tasenes has lost the title: c_tasenes
+315 - vassal: c_tasenes - Title given to 1006954 - Primary title: k_anula
+315 - vassal: c_wuhyata - Holder 1006954 - Primary title: c_wuhyata has lost the title: c_wuhyata
+315 - vassal: c_wuhyata - Title given to 1006954 - Primary title: k_anula
+315 - vassal: c_dewimha - Holder 1006954 - Primary title: c_dewimha has lost the title: c_dewimha
+315 - vassal: c_dewimha - Title given to 1006954 - Primary title: k_anula
+315 - vassal: c_qisan - Holder 1006954 - Primary title: c_qisan has lost the title: c_qisan
+315 - vassal: c_qisan - Title given to 1006954 - Primary title: k_anula
+331 - Holder 1008915 - Primary title: d_laev has lost the title: d_laev
+331 - Title given to 1008915 - Primary title: k_anula
+331 - vassal: c_qisan - Setting to vassal of d_binihka in Validate Realm
+331 - Lost vassal: c_qisan
+331 - vassal: c_dewimha - Setting to vassal of d_binihka in Validate Realm
+331 - Lost vassal: c_dewimha
+331 - vassal: c_wuhyata - Setting to vassal of d_binihka in Validate Realm
+331 - Lost vassal: c_wuhyata
+331 - vassal: c_tasenes - Setting to vassal of d_binihka in Validate Realm
+331 - Lost vassal: c_tasenes
+331 - vassal: c_quhana - Setting to vassal of d_binihka in Validate Realm
+331 - Lost vassal: c_quhana
+332 - Holder 1009370 - Primary title: d_laev has lost the title: d_laev
+332 - Title given to 1009370 - Primary title: k_anula
+340 - Gained vassal: c_qisan
+340 - Gained vassal: c_dewimha
+340 - Gained vassal: c_wuhyata
+340 - Gained vassal: c_tasenes
+340 - Gained vassal: c_quhana
+340 - Holder 1006709 - Primary title: d_laev has lost the title: d_laev
+340 - Title given to 1006709 - Primary title: k_anula
+340 - vassal: c_quhana - Holder 1006709 - Primary title: c_quhana has lost the title: c_quhana
+340 - vassal: c_quhana - Title given to 1006709 - Primary title: k_anula
+340 - vassal: c_tasenes - Holder 1006709 - Primary title: c_tasenes has lost the title: c_tasenes
+340 - vassal: c_tasenes - Title given to 1006709 - Primary title: k_anula
+340 - vassal: c_wuhyata - Holder 1006709 - Primary title: c_wuhyata has lost the title: c_wuhyata
+340 - vassal: c_wuhyata - Title given to 1006709 - Primary title: k_anula
+340 - vassal: c_dewimha - Holder 1006709 - Primary title: c_dewimha has lost the title: c_dewimha
+340 - vassal: c_dewimha - Title given to 1006709 - Primary title: k_anula
+340 - vassal: c_qisan - Holder 1006709 - Primary title: c_qisan has lost the title: c_qisan
+340 - vassal: c_qisan - Title given to 1006709 - Primary title: k_anula
+341 - Holder 1009791 - Primary title: d_laev has lost the title: d_laev
+341 - Title given to 1009791 - Primary title: k_anula
+341 - vassal: c_quhana - Holder 1009791 - Primary title: c_quhana has lost the title: c_quhana
+341 - vassal: c_quhana - Title given to 1009791 - Primary title: k_anula
+341 - vassal: c_tasenes - Holder 1009791 - Primary title: c_tasenes has lost the title: c_tasenes
+341 - vassal: c_tasenes - Title given to 1009791 - Primary title: k_anula
+341 - vassal: c_wuhyata - Holder 1009791 - Primary title: c_wuhyata has lost the title: c_wuhyata
+341 - vassal: c_wuhyata - Title given to 1009791 - Primary title: k_anula
+341 - vassal: c_dewimha - Holder 1009791 - Primary title: c_dewimha has lost the title: c_dewimha
+341 - vassal: c_dewimha - Title given to 1009791 - Primary title: k_anula
+341 - vassal: c_qisan - Holder 1009791 - Primary title: c_qisan has lost the title: c_qisan
+341 - vassal: c_qisan - Title given to 1009791 - Primary title: k_anula
+380 - Holder 1009894 - Primary title: d_laev has lost the title: d_laev
+380 - Title given to 1009894 - Primary title: k_anula
+380 - vassal: c_quhana - Setting to vassal of d_tadata in Validate Realm
+380 - Lost vassal: c_quhana
+380 - vassal: c_tasenes - Setting to vassal of d_tadata in Validate Realm
+380 - Lost vassal: c_tasenes
+380 - vassal: c_wuhyata - Setting to vassal of d_tadata in Validate Realm
+380 - Lost vassal: c_wuhyata
+380 - vassal: c_dewimha - Setting to vassal of d_tadata in Validate Realm
+380 - Lost vassal: c_dewimha
+380 - vassal: c_qisan - Setting to vassal of d_tadata in Validate Realm
+380 - Lost vassal: c_qisan
+392 - Holder 1012416 - Primary title: d_laev has lost the title: d_laev
+392 - Title given to 1012416 - Primary title: k_anula

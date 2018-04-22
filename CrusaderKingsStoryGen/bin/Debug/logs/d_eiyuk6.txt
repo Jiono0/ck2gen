@@ -1,0 +1,47 @@
+200 - Title given to 1000658
+200 - vassal: c_sagana - Given to 1000662 via AddCharacterForTitle
+200 - sub vassal: c_sagana - Given to 1000662 via AddCharacterForTitle
+200 - vassal: c_sagana - Holder 1000662 - Primary title: c_sagana has lost the title: c_sagana
+200 - sub vassal: c_sagana - Holder 1000662 - Primary title: c_sagana has lost the title: c_sagana
+200 - vassal: c_sagana - Title given to 1000662
+200 - sub vassal: c_sagana - Title given to 1000662
+200 - vassal: c_nyefay - Holder 1000658 - Primary title: c_nyefay has lost the title: c_nyefay
+200 - sub vassal: c_nyefay - Holder 1000658 - Primary title: c_nyefay has lost the title: c_nyefay
+200 - vassal: c_nyefay - Title given to 1000658 - Primary title: d_eiyuk
+200 - sub vassal: c_nyefay - Title given to 1000658 - Primary title: d_eiyuk
+200 - Holder (1000658) has gained c_nyefay
+200 - vassal: c_deryab - Holder 1000658 - Primary title: c_deryab has lost the title: c_deryab
+200 - sub vassal: c_deryab - Holder 1000658 - Primary title: c_deryab has lost the title: c_deryab
+200 - vassal: c_deryab - Title given to 1000658 - Primary title: d_eiyuk
+200 - sub vassal: c_deryab - Title given to 1000658 - Primary title: d_eiyuk
+200 - Holder (1000658) has gained c_deryab
+200 - vassal: c_dabay - Holder 1000658 - Primary title: c_dabay has lost the title: c_dabay
+200 - sub vassal: c_dabay - Holder 1000658 - Primary title: c_dabay has lost the title: c_dabay
+200 - vassal: c_dabay - Title given to 1000658 - Primary title: d_eiyuk
+200 - sub vassal: c_dabay - Title given to 1000658 - Primary title: d_eiyuk
+200 - Holder (1000658) has gained c_dabay
+200 - Made vassal of neighbour (k_nalaga) due to being a seperate island
+200 - Given to neighbour holder of k_nalaga
+200 - Holder 1001041 - Primary title: d_eiyuk has lost the title: d_eiyuk
+200 - Title given to 1001041 - Primary title: k_nalaga
+200 - vassal: c_nyefay - Given to 1001412 in HandleTitles - Too many duke titles
+200 - vassal: c_dabay - Holder 1001412 - Primary title: c_dabay has lost the title: c_nyefay
+200 - vassal: c_nyefay - Title given to 1001412
+200 - Title given to 1001412 - Primary title: c_nyefay
+200 - vassal: c_nyefay - Holder (1001412) has gained d_eiyuk
+200 - Too many dukes, made direct title into vassal of k_nalaga
+201 - Holder 1001508 - Primary title: d_eiyuk has lost the title: d_eiyuk
+201 - Title given to 1001508
+201 - vassal: c_nyefay - Holder 1001508 - Primary title: c_nyefay has lost the title: c_nyefay
+201 - vassal: c_nyefay - Title given to 1001508 - Primary title: d_eiyuk
+201 - Holder (1001508) has gained c_nyefay
+232 - Holder 1002655 - Primary title: d_eiyuk has lost the title: d_eiyuk
+232 - Title given to 1002655
+232 - vassal: c_nyefay - Holder 1002655 - Primary title: c_nyefay has lost the title: c_nyefay
+232 - vassal: c_nyefay - Title given to 1002655 - Primary title: d_eiyuk
+232 - Holder (1002655) has gained c_nyefay
+250 - Holder 1003811 - Primary title: d_eiyuk has lost the title: d_eiyuk
+250 - Title given to 1003811
+250 - vassal: c_nyefay - Holder 1003811 - Primary title: c_nyefay has lost the title: c_nyefay
+250 - vassal: c_nyefay - Title given to 1003811 - Primary title: d_eiyuk
+250 - Holder (1003811) has gained c_nyefay

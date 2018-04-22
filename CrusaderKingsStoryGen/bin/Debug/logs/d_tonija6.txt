@@ -1,0 +1,42 @@
+200 - Title given to 1000092
+200 - vassal: c_renava - Given to 1000095 via AddCharacterForTitle
+200 - sub vassal: c_renava - Given to 1000095 via AddCharacterForTitle
+200 - vassal: c_renava - Holder 1000095 - Primary title: c_renava has lost the title: c_renava
+200 - sub vassal: c_renava - Holder 1000095 - Primary title: c_renava has lost the title: c_renava
+200 - vassal: c_renava - Title given to 1000095
+200 - sub vassal: c_renava - Title given to 1000095
+200 - vassal: c_kozama - Holder 1000092 - Primary title: c_kozama has lost the title: c_kozama
+200 - sub vassal: c_kozama - Holder 1000092 - Primary title: c_kozama has lost the title: c_kozama
+200 - vassal: c_kozama - Title given to 1000092 - Primary title: d_tonija
+200 - sub vassal: c_kozama - Title given to 1000092 - Primary title: d_tonija
+200 - Holder (1000092) has gained c_kozama
+200 - vassal: c_renava - Holder 1000092 - Primary title: c_renava has lost the title: c_renava
+200 - sub vassal: c_renava - Holder 1000092 - Primary title: c_renava has lost the title: c_renava
+200 - vassal: c_renava - Title given to 1000092 - Primary title: d_tonija
+200 - sub vassal: c_renava - Title given to 1000092 - Primary title: d_tonija
+200 - Holder (1000092) has gained c_renava
+200 - vassal: c_wozija - Holder 1000092 - Primary title: c_wozija has lost the title: c_wozija
+200 - sub vassal: c_wozija - Holder 1000092 - Primary title: c_wozija has lost the title: c_wozija
+200 - vassal: c_wozija - Title given to 1000092 - Primary title: d_tonija
+200 - sub vassal: c_wozija - Title given to 1000092 - Primary title: d_tonija
+200 - Holder (1000092) has gained c_wozija
+208 - Holder (1000092) has gained k_bozemar
+209 - vassal: c_kozama - Given to 1002117 in HandleTitles - Too many duke titles
+209 - vassal: c_kozama - Title given to 1002117
+209 - Title given to 1002117 - Primary title: c_kozama
+209 - vassal: c_kozama - Holder (1002117) has gained d_tonija
+209 - vassal: c_wozija - Setting to vassal of k_bozemar in Validate Realm
+209 - Lost vassal: c_wozija
+209 - vassal: c_renava - Setting to vassal of k_bozemar in Validate Realm
+209 - Lost vassal: c_renava
+209 - Too many dukes, given to dejure: k_bozemar
+226 - Holder 1003042 - Primary title: d_tonija has lost the title: d_tonija
+226 - Title given to 1003042
+226 - vassal: c_kozama - Holder 1003042 - Primary title: c_kozama has lost the title: c_kozama
+226 - vassal: c_kozama - Title given to 1003042 - Primary title: d_tonija
+226 - Holder (1003042) has gained c_kozama
+232 - Holder 1003244 - Primary title: d_tonija has lost the title: d_tonija
+232 - Title given to 1003244
+232 - vassal: c_kozama - Holder 1003244 - Primary title: c_kozama has lost the title: c_kozama
+232 - vassal: c_kozama - Title given to 1003244 - Primary title: d_tonija
+232 - Holder (1003244) has gained c_kozama

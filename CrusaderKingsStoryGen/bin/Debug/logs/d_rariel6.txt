@@ -1,0 +1,150 @@
+200 - Title given to 1000616
+200 - vassal: c_ebiel - Given to 1000619 via AddCharacterForTitle
+200 - sub vassal: c_ebiel - Given to 1000619 via AddCharacterForTitle
+200 - vassal: c_ebiel - Holder 1000619 - Primary title: c_ebiel has lost the title: c_ebiel
+200 - sub vassal: c_ebiel - Holder 1000619 - Primary title: c_ebiel has lost the title: c_ebiel
+200 - vassal: c_ebiel - Title given to 1000619
+200 - sub vassal: c_ebiel - Title given to 1000619
+200 - vassal: c_ramati - Holder 1000616 - Primary title: c_ramati has lost the title: c_ramati
+200 - sub vassal: c_ramati - Holder 1000616 - Primary title: c_ramati has lost the title: c_ramati
+200 - vassal: c_ramati - Title given to 1000616 - Primary title: d_rariel
+200 - sub vassal: c_ramati - Title given to 1000616 - Primary title: d_rariel
+200 - Holder (1000616) has gained c_ramati
+200 - vassal: c_ebiel - Holder 1000616 - Primary title: c_ebiel has lost the title: c_ebiel
+200 - sub vassal: c_ebiel - Holder 1000616 - Primary title: c_ebiel has lost the title: c_ebiel
+200 - vassal: c_ebiel - Title given to 1000616 - Primary title: d_rariel
+200 - sub vassal: c_ebiel - Title given to 1000616 - Primary title: d_rariel
+200 - Holder (1000616) has gained c_ebiel
+200 - vassal: c_sabdiel - Holder 1000616 - Primary title: c_sabdiel has lost the title: c_sabdiel
+200 - sub vassal: c_sabdiel - Holder 1000616 - Primary title: c_sabdiel has lost the title: c_sabdiel
+200 - vassal: c_sabdiel - Title given to 1000616 - Primary title: d_rariel
+200 - sub vassal: c_sabdiel - Title given to 1000616 - Primary title: d_rariel
+200 - Holder (1000616) has gained c_sabdiel
+226 - Holder 1000585 - Primary title: d_rariel has lost the title: d_rariel
+226 - Title given to 1000585 - Primary title: d_amiel
+226 - vassal: c_ramati - Holder 1000585 - Primary title: c_ramati has lost the title: c_ramati
+226 - vassal: c_ramati - Title given to 1000585 - Primary title: d_amiel
+226 - vassal: c_ebiel - Holder 1000585 - Primary title: c_ebiel has lost the title: c_ebiel
+226 - vassal: c_ebiel - Title given to 1000585 - Primary title: d_amiel
+226 - vassal: c_sabdiel - Holder 1000585 - Primary title: c_sabdiel has lost the title: c_sabdiel
+226 - vassal: c_sabdiel - Title given to 1000585 - Primary title: d_amiel
+227 - Holder 1003117 - Primary title: d_rariel has lost the title: c_kanazsi
+242 - vassal: c_sabdiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+242 - Lost vassal: c_sabdiel
+242 - Gained vassal: c_sabdiel
+242 - Gained vassal: c_sabdiel
+242 - vassal: c_sabdiel - Given to neighbour holder of k_nalaga
+242 - vassal: c_ebiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+242 - Lost vassal: c_ebiel
+242 - Gained vassal: c_ebiel
+242 - Gained vassal: c_ebiel
+242 - vassal: c_ebiel - Given to neighbour holder of k_nalaga
+242 - vassal: c_ramati - Made vassal of neighbour (k_nalaga) due to being a seperate island
+242 - Lost vassal: c_ramati
+242 - Gained vassal: c_ramati
+242 - Gained vassal: c_ramati
+242 - vassal: c_ramati - Given to neighbour holder of k_nalaga
+243 - vassal: c_sabdiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+243 - Lost vassal: c_sabdiel
+243 - Gained vassal: c_sabdiel
+243 - Gained vassal: c_sabdiel
+243 - vassal: c_sabdiel - Given to neighbour holder of k_nalaga
+243 - vassal: c_ebiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+243 - Lost vassal: c_ebiel
+243 - Gained vassal: c_ebiel
+243 - Gained vassal: c_ebiel
+243 - vassal: c_ebiel - Given to neighbour holder of k_nalaga
+243 - vassal: c_ramati - Made vassal of neighbour (k_nalaga) due to being a seperate island
+243 - Lost vassal: c_ramati
+243 - Gained vassal: c_ramati
+243 - Gained vassal: c_ramati
+243 - vassal: c_ramati - Given to neighbour holder of k_nalaga
+244 - vassal: c_sabdiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+244 - Lost vassal: c_sabdiel
+244 - Gained vassal: c_sabdiel
+244 - Gained vassal: c_sabdiel
+244 - vassal: c_sabdiel - Given to neighbour holder of k_nalaga
+244 - vassal: c_ebiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+244 - Lost vassal: c_ebiel
+244 - Gained vassal: c_ebiel
+244 - Gained vassal: c_ebiel
+244 - vassal: c_ebiel - Given to neighbour holder of k_nalaga
+244 - vassal: c_ramati - Made vassal of neighbour (k_nalaga) due to being a seperate island
+244 - Lost vassal: c_ramati
+244 - Gained vassal: c_ramati
+244 - Gained vassal: c_ramati
+244 - vassal: c_ramati - Given to neighbour holder of k_nalaga
+245 - Holder 1002276 - Primary title: d_rariel has lost the title: d_rariel
+245 - Title given to 1002276
+245 - vassal: c_sabdiel - Setting to vassal of d_amiel in Validate Realm
+245 - Lost vassal: c_sabdiel
+245 - vassal: c_ebiel - Setting to vassal of d_amiel in Validate Realm
+245 - Lost vassal: c_ebiel
+245 - vassal: c_ramati - Setting to vassal of d_amiel in Validate Realm
+245 - Lost vassal: c_ramati
+245 - Holder (1002276) has gained d_amiel
+245 - Holder (1002276) has gained c_sabdiel
+245 - Holder (1002276) has gained c_ebiel
+245 - Holder (1002276) has gained c_ramati
+245 - Holder (1002276) has gained c_dabiel
+245 - Holder (1002276) has gained c_todya
+245 - Gained vassal: c_sabdiel
+245 - Gained vassal: c_sabdiel
+245 - vassal: c_sabdiel - Given to neighbour holder of k_nalaga
+245 - Gained vassal: c_ebiel
+245 - Gained vassal: c_ebiel
+245 - vassal: c_ebiel - Given to neighbour holder of k_nalaga
+245 - Gained vassal: c_ramati
+245 - Gained vassal: c_ramati
+245 - vassal: c_ramati - Given to neighbour holder of k_nalaga
+246 - Destroyed due to no capital's obtainable
+246 - Made independent
+246 - Title destroyed
+246 - vassal: c_sabdiel - Setting liege to this liege in SoftDestroy
+246 - Lost vassal: c_sabdiel
+246 - vassal: c_ebiel - Setting to vassal of d_amiel in Validate Realm
+246 - Lost vassal: c_ebiel
+246 - vassal: c_ramati - Setting to vassal of d_amiel in Validate Realm
+246 - Lost vassal: c_ramati
+247 - Given to 1002276 in TestCreateEmpire
+247 - Title given to 1002276 - Primary title: d_amiel
+247 - Made independent for title creation d_rariel for d_amiel
+247 - Made independent
+247 - Gained vassal: c_sabdiel
+247 - Gained vassal: c_ebiel
+247 - Gained vassal: c_ramati
+247 - Gained vassal: c_dabiel
+247 - Gained vassal: c_todya
+247 - Destroyed due to no capital's obtainable
+247 - Title destroyed
+247 - vassal: c_ramati - Setting independent due to liege destruction
+247 - vassal: c_ramati - Made independent
+247 - vassal: c_ebiel - Setting independent due to liege destruction
+247 - vassal: c_ebiel - Made independent
+247 - vassal: c_sabdiel - Setting independent due to liege destruction
+247 - vassal: c_sabdiel - Made independent
+247 - vassal: c_dabiel - Setting independent due to liege destruction
+247 - vassal: c_dabiel - Made independent
+247 - vassal: c_todya - Setting independent due to liege destruction
+247 - vassal: c_todya - Made independent
+251 - Given to 1002276 in TestCreateEmpire
+251 - Title given to 1002276 - Primary title: d_amiel
+251 - Made independent for title creation d_rariel for d_amiel
+251 - Made independent
+251 - Gained vassal: c_sabdiel
+251 - Gained vassal: c_ramati
+251 - Gained vassal: c_dabiel
+251 - Gained vassal: c_todya
+251 - Gained vassal: c_kanazsi
+251 - Destroyed due to no capital's obtainable
+251 - Title destroyed
+251 - vassal: c_kanazsi - Setting independent due to liege destruction
+251 - vassal: c_kanazsi - Made independent
+251 - vassal: c_todya - Setting independent due to liege destruction
+251 - vassal: c_todya - Made independent
+251 - vassal: c_dabiel - Setting independent due to liege destruction
+251 - vassal: c_dabiel - Made independent
+251 - vassal: c_ramati - Setting independent due to liege destruction
+251 - vassal: c_ramati - Made independent
+251 - vassal: c_sabdiel - Setting independent due to liege destruction
+251 - vassal: c_sabdiel - Made independent

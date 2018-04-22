@@ -1,0 +1,55 @@
+200 - Title given to 1000910
+200 - vassal: c_latehis - Given to 1000913 via AddCharacterForTitle
+200 - sub vassal: c_latehis - Given to 1000913 via AddCharacterForTitle
+200 - vassal: c_latehis - Holder 1000913 - Primary title: c_latehis has lost the title: c_latehis
+200 - sub vassal: c_latehis - Holder 1000913 - Primary title: c_latehis has lost the title: c_latehis
+200 - vassal: c_latehis - Title given to 1000913
+200 - sub vassal: c_latehis - Title given to 1000913
+200 - vassal: c_taye - Given to 1000915 via AddCharacterForTitle
+200 - sub vassal: c_taye - Given to 1000915 via AddCharacterForTitle
+200 - vassal: c_taye - Holder 1000915 - Primary title: c_taye has lost the title: c_taye
+200 - sub vassal: c_taye - Holder 1000915 - Primary title: c_taye has lost the title: c_taye
+200 - vassal: c_taye - Title given to 1000915
+200 - sub vassal: c_taye - Title given to 1000915
+200 - vassal: c_tasevi - Holder 1000910 - Primary title: c_tasevi has lost the title: c_tasevi
+200 - sub vassal: c_tasevi - Holder 1000910 - Primary title: c_tasevi has lost the title: c_tasevi
+200 - vassal: c_tasevi - Title given to 1000910 - Primary title: d_lamomo
+200 - sub vassal: c_tasevi - Title given to 1000910 - Primary title: d_lamomo
+200 - Holder (1000910) has gained c_tasevi
+200 - vassal: c_latehis - Holder 1000910 - Primary title: c_latehis has lost the title: c_latehis
+200 - sub vassal: c_latehis - Holder 1000910 - Primary title: c_latehis has lost the title: c_latehis
+200 - vassal: c_latehis - Title given to 1000910 - Primary title: d_lamomo
+200 - sub vassal: c_latehis - Title given to 1000910 - Primary title: d_lamomo
+200 - Holder (1000910) has gained c_latehis
+200 - vassal: c_taye - Holder 1000910 - Primary title: c_taye has lost the title: c_taye
+200 - sub vassal: c_taye - Holder 1000910 - Primary title: c_taye has lost the title: c_taye
+200 - vassal: c_taye - Title given to 1000910 - Primary title: d_lamomo
+200 - sub vassal: c_taye - Title given to 1000910 - Primary title: d_lamomo
+200 - Holder (1000910) has gained c_taye
+247 - Holder 1002109 - Primary title: d_lamomo has lost the title: d_lamomo
+247 - Title given to 1002109
+247 - vassal: c_taye - Holder 1002109 - Primary title: c_taye has lost the title: c_taye
+247 - vassal: c_taye - Title given to 1002109 - Primary title: d_lamomo
+247 - Holder (1002109) has gained c_taye
+247 - vassal: c_latehis - Holder 1002109 - Primary title: c_latehis has lost the title: c_latehis
+247 - vassal: c_latehis - Title given to 1002109 - Primary title: d_lamomo
+247 - Holder (1002109) has gained c_latehis
+247 - vassal: c_tasevi - Holder 1002109 - Primary title: c_tasevi has lost the title: c_tasevi
+247 - vassal: c_tasevi - Title given to 1002109 - Primary title: d_lamomo
+247 - Holder (1002109) has gained c_tasevi
+256 - Holder (1002109) has gained d_bimude
+263 - Holder 1004474 - Primary title: d_lamomo has lost the title: d_lamomo
+263 - Title given to 1004474
+263 - vassal: c_taye - Setting to vassal of d_bimude in Validate Realm
+263 - Lost vassal: c_taye
+263 - vassal: c_latehis - Setting to vassal of d_bimude in Validate Realm
+263 - Lost vassal: c_latehis
+263 - vassal: c_tasevi - Setting to vassal of d_bimude in Validate Realm
+263 - Lost vassal: c_tasevi
+263 - Holder (1004474) has gained d_bimude
+263 - Holder (1004474) has gained c_taye
+263 - Holder (1004474) has gained c_latehis
+263 - Holder (1004474) has gained c_tasevi
+264 - Destroyed due to flagged problem
+264 - Made independent
+264 - Title destroyed

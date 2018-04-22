@@ -1,0 +1,51 @@
+200 - Title given to 1000022 - Primary title: c_tuisr
+200 - Given to 1000507 via AddCharacterForTitle
+200 - Title given to 1000507
+200 - Given to 1000508 via AddCharacterForTitle
+200 - Holder 1000508 - Primary title: c_tadyilni has lost the title: c_tadyilni
+200 - Title given to 1000508
+200 - Holder 1000505 - Primary title: c_tadyilni has lost the title: c_tadyilni
+200 - Title given to 1000505 - Primary title: d_kisina
+215 - Setting to vassal of d_eturava in Validate Realm
+215 - Title given to 1002510 - Primary title: d_kisina
+215 - Setting to vassal of d_kisina in Validate Realm
+246 - Given to 1004398 in HandleTitles - Too many duke titles
+246 - Title given to 1004398
+246 - Holder (1004398) has gained d_kisina
+251 - Holder 1003333 - Primary title: c_tadyilni has lost the title: c_tadyilni
+251 - Title given to 1003333 - Primary title: d_edyuk
+285 - Holder 1004449 - Primary title: c_tadyilni has lost the title: c_tadyilni
+285 - Title given to 1004449 - Primary title: d_edyuk
+288 - Set liege on title creation d_edyuk
+288 - Setting independent due to liege destruction
+288 - Made independent
+289 - Title given to 1006945
+289 - Too many dukes, made direct title into vassal of d_kisina
+290 - Holder 1004449 - Primary title: c_tadyilni has lost the title: c_tadyilni
+290 - Title given to 1004449 - Primary title: d_kisina
+292 - Set liege on title creation d_edyuk
+292 - Setting independent due to liege destruction
+292 - Made independent
+293 - Set liege on title creation d_edyuk
+293 - Setting independent due to liege destruction
+293 - Made independent
+294 - Given to neighbour holder of k_kadew
+294 - Title given to 1004478 - Primary title: k_kadew
+308 - sub vassal: c_quris - Setting independent in Validate Realm
+308 - sub vassal: c_quris - Made independent
+308 - sub vassal: c_benenia - Setting independent in Validate Realm
+308 - sub vassal: c_benenia - Made independent
+308 - Holder 1006523 - Primary title: c_tadyilni has lost the title: c_tadyilni
+308 - Title given to 1006523 - Primary title: k_kadew
+309 - Holder 1006897 - Primary title: c_tadyilni has lost the title: c_tadyilni
+309 - Title given to 1006897 - Primary title: k_kadew
+324 - Holder 1007321 - Primary title: c_tadyilni has lost the title: c_tadyilni
+324 - Title given to 1007321 - Primary title: k_kadew
+329 - Holder 1007217 - Primary title: c_tadyilni has lost the title: c_tadyilni
+329 - Title given to 1007217 - Primary title: k_kadew
+333 - Holder 1008961 - Primary title: c_tadyilni has lost the title: c_tadyilni
+333 - Title given to 1008961 - Primary title: k_kadew
+339 - Holder 1009261 - Primary title: c_tadyilni has lost the title: c_tadyilni
+339 - Title given to 1009261 - Primary title: k_kadew
+340 - Title given to 1009742
+340 - Too many dukes, made direct title into vassal of k_kadew

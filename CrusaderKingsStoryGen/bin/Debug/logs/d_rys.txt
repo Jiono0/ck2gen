@@ -1,0 +1,34 @@
+200 - Title given to 1000167
+200 - vassal: c_asasin - Given to 1000170 via AddCharacterForTitle
+200 - sub vassal: c_asasin - Given to 1000170 via AddCharacterForTitle
+200 - vassal: c_asasin - Holder 1000170 - Primary title: c_asasin has lost the title: c_asasin
+200 - sub vassal: c_asasin - Holder 1000170 - Primary title: c_asasin has lost the title: c_asasin
+200 - vassal: c_asasin - Title given to 1000170
+200 - sub vassal: c_asasin - Title given to 1000170
+200 - vassal: c_araliel - Holder 1000167 - Primary title: c_araliel has lost the title: c_araliel
+200 - sub vassal: c_araliel - Holder 1000167 - Primary title: c_araliel has lost the title: c_araliel
+200 - vassal: c_araliel - Title given to 1000167 - Primary title: d_rys
+200 - sub vassal: c_araliel - Title given to 1000167 - Primary title: d_rys
+200 - Holder (1000167) has gained c_araliel
+200 - vassal: c_asasin - Holder 1000167 - Primary title: c_asasin has lost the title: c_asasin
+200 - sub vassal: c_asasin - Holder 1000167 - Primary title: c_asasin has lost the title: c_asasin
+200 - vassal: c_asasin - Title given to 1000167 - Primary title: d_rys
+200 - sub vassal: c_asasin - Title given to 1000167 - Primary title: d_rys
+200 - Holder (1000167) has gained c_asasin
+200 - vassal: c_nitachi - Holder 1000167 - Primary title: c_nitachi has lost the title: c_nitachi
+200 - sub vassal: c_nitachi - Holder 1000167 - Primary title: c_nitachi has lost the title: c_nitachi
+200 - vassal: c_nitachi - Title given to 1000167 - Primary title: d_rys
+200 - sub vassal: c_nitachi - Title given to 1000167 - Primary title: d_rys
+200 - Holder (1000167) has gained c_nitachi
+208 - Holder (1000167) has gained k_witimon
+226 - Holder 1000239 - Primary title: d_rys has lost the title: d_rys
+226 - Title given to 1000239 - Primary title: k_witimon
+226 - vassal: c_araliel - Setting to vassal of d_qayaska in Validate Realm
+226 - Lost vassal: c_araliel
+226 - vassal: c_asasin - Setting to vassal of d_qayaska in Validate Realm
+226 - Lost vassal: c_asasin
+226 - vassal: c_nitachi - Setting to vassal of d_qayaska in Validate Realm
+226 - Lost vassal: c_nitachi
+227 - Destroyed due to flagged problem
+227 - Made independent
+227 - Title destroyed

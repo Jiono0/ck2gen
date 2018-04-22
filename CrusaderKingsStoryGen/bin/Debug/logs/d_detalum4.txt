@@ -1,0 +1,157 @@
+200 - Title given to 1000235
+200 - vassal: c_kibeza - Given to 1000239 via AddCharacterForTitle
+200 - sub vassal: c_kibeza - Given to 1000239 via AddCharacterForTitle
+200 - vassal: c_kibeza - Holder 1000239 - Primary title: c_kibeza has lost the title: c_kibeza
+200 - sub vassal: c_kibeza - Holder 1000239 - Primary title: c_kibeza has lost the title: c_kibeza
+200 - vassal: c_kibeza - Title given to 1000239
+200 - sub vassal: c_kibeza - Title given to 1000239
+200 - vassal: c_karay - Holder 1000235 - Primary title: c_karay has lost the title: c_karay
+200 - sub vassal: c_karay - Holder 1000235 - Primary title: c_karay has lost the title: c_karay
+200 - vassal: c_karay - Title given to 1000235 - Primary title: d_detalum
+200 - sub vassal: c_karay - Title given to 1000235 - Primary title: d_detalum
+200 - Holder (1000235) has gained c_karay
+200 - vassal: c_anaveza - Holder 1000235 - Primary title: c_anaveza has lost the title: c_anaveza
+200 - sub vassal: c_anaveza - Holder 1000235 - Primary title: c_anaveza has lost the title: c_anaveza
+200 - vassal: c_anaveza - Title given to 1000235 - Primary title: d_detalum
+200 - sub vassal: c_anaveza - Title given to 1000235 - Primary title: d_detalum
+200 - Holder (1000235) has gained c_anaveza
+200 - vassal: c_kibeza - Holder 1000235 - Primary title: c_kibeza has lost the title: c_kibeza
+200 - sub vassal: c_kibeza - Holder 1000235 - Primary title: c_kibeza has lost the title: c_kibeza
+200 - vassal: c_kibeza - Title given to 1000235 - Primary title: d_detalum
+200 - sub vassal: c_kibeza - Title given to 1000235 - Primary title: d_detalum
+200 - Holder (1000235) has gained c_kibeza
+200 - vassal: c_tibasz - Title given to 1000235 - Primary title: d_detalum
+200 - Holder (1000235) has gained c_tibasz
+210 - Holder 1001177 - Primary title: d_detalum has lost the title: d_detalum
+210 - Title given to 1001177
+210 - vassal: c_tibasz - Holder 1001177 - Primary title: c_tibasz has lost the title: c_tibasz
+210 - vassal: c_tibasz - Title given to 1001177 - Primary title: d_detalum
+210 - Holder (1001177) has gained c_tibasz
+210 - vassal: c_kibeza - Holder 1001177 - Primary title: c_kibeza has lost the title: c_kibeza
+210 - vassal: c_kibeza - Title given to 1001177 - Primary title: d_detalum
+210 - Holder (1001177) has gained c_kibeza
+210 - vassal: c_anaveza - Holder 1001177 - Primary title: c_anaveza has lost the title: c_anaveza
+210 - vassal: c_anaveza - Title given to 1001177 - Primary title: d_detalum
+210 - Holder (1001177) has gained c_anaveza
+210 - vassal: c_karay - Holder 1001177 - Primary title: c_karay has lost the title: c_karay
+210 - vassal: c_karay - Title given to 1001177 - Primary title: d_detalum
+210 - Holder (1001177) has gained c_karay
+260 - Holder (1001177) has gained d_kalimon
+260 - Holder (1001177) has gained c_tavalum
+261 - Title given to 1003747
+261 - vassal: c_karay - Setting to vassal of d_kalimon in Validate Realm
+261 - Lost vassal: c_karay
+261 - vassal: c_anaveza - Setting to vassal of d_kalimon in Validate Realm
+261 - Lost vassal: c_anaveza
+261 - vassal: c_kibeza - Setting to vassal of d_kalimon in Validate Realm
+261 - Lost vassal: c_kibeza
+261 - vassal: c_tibasz - Setting to vassal of d_kalimon in Validate Realm
+261 - Lost vassal: c_tibasz
+261 - Holder (1003747) has gained c_karay
+261 - Gained vassal: c_karay
+261 - Holder (1003747) has gained c_anaveza
+261 - Gained vassal: c_anaveza
+261 - Holder (1003747) has gained c_kibeza
+261 - Gained vassal: c_kibeza
+261 - Holder (1003747) has gained c_tibasz
+261 - Gained vassal: c_tibasz
+261 - Holder (1003747) has gained d_kalimon
+261 - Holder (1003747) has gained c_tavalum
+300 - Holder 1005081 - Primary title: d_detalum has lost the title: d_detalum
+300 - Title given to 1005081
+300 - vassal: c_karay - Setting to vassal of d_kalimon in Validate Realm
+300 - Lost vassal: c_karay
+300 - vassal: c_anaveza - Setting to vassal of d_kalimon in Validate Realm
+300 - Lost vassal: c_anaveza
+300 - vassal: c_kibeza - Setting to vassal of d_kalimon in Validate Realm
+300 - Lost vassal: c_kibeza
+300 - vassal: c_tibasz - Setting to vassal of d_kalimon in Validate Realm
+300 - Lost vassal: c_tibasz
+300 - Holder (1005081) has gained d_kalimon
+300 - Holder (1005081) has gained c_karay
+300 - Holder (1005081) has gained c_anaveza
+300 - Holder (1005081) has gained c_kibeza
+300 - Holder (1005081) has gained c_tibasz
+300 - Holder (1005081) has gained c_tavalum
+301 - Destroyed due to flagged problem
+301 - Made independent
+301 - Title destroyed
+303 - Given to 1005081 in TestCreateEmpire
+303 - Title given to 1005081 - Primary title: d_kalimon
+303 - Made independent for title creation d_detalum for d_kalimon
+303 - Made independent
+303 - Gained vassal: c_karay
+303 - Gained vassal: c_anaveza
+303 - Gained vassal: c_kibeza
+303 - Gained vassal: c_tibasz
+303 - Gained vassal: c_tavalum
+303 - Destroyed due to no capital's obtainable
+303 - Title destroyed
+303 - vassal: c_karay - Setting independent due to liege destruction
+303 - vassal: c_karay - Made independent
+303 - vassal: c_anaveza - Setting independent due to liege destruction
+303 - vassal: c_anaveza - Made independent
+303 - vassal: c_kibeza - Setting independent due to liege destruction
+303 - vassal: c_kibeza - Made independent
+303 - vassal: c_tibasz - Setting independent due to liege destruction
+303 - vassal: c_tibasz - Made independent
+303 - vassal: c_tavalum - Setting independent due to liege destruction
+303 - vassal: c_tavalum - Made independent
+309 - Given to 1005081 in TestCreateEmpire
+309 - Title given to 1005081 - Primary title: d_kalimon
+309 - Made independent for title creation d_detalum for d_kalimon
+309 - Made independent
+309 - Gained vassal: c_karay
+309 - Gained vassal: c_anaveza
+309 - Gained vassal: c_kibeza
+309 - Gained vassal: c_tavalum
+309 - Gained vassal: c_anamolas
+309 - Destroyed due to no capital's obtainable
+309 - Title destroyed
+309 - vassal: c_anamolas - Setting independent due to liege destruction
+309 - vassal: c_anamolas - Made independent
+309 - vassal: c_tavalum - Setting independent due to liege destruction
+309 - vassal: c_tavalum - Made independent
+309 - vassal: c_kibeza - Setting independent due to liege destruction
+309 - vassal: c_kibeza - Made independent
+309 - vassal: c_anaveza - Setting independent due to liege destruction
+309 - vassal: c_anaveza - Made independent
+309 - vassal: c_karay - Setting independent due to liege destruction
+309 - vassal: c_karay - Made independent
+316 - Given to 1007465 in TestCreateEmpire
+316 - Title given to 1007465 - Primary title: d_kalimon
+316 - Made independent for title creation d_detalum for d_kalimon
+316 - Made independent
+316 - Gained vassal: c_karay
+316 - Gained vassal: c_anaveza
+316 - Gained vassal: c_kibeza
+316 - Gained vassal: c_tibasz
+316 - Gained vassal: c_tavalum
+316 - Destroyed due to no capital's obtainable
+316 - Title destroyed
+316 - vassal: c_tavalum - Setting independent due to liege destruction
+316 - vassal: c_tavalum - Made independent
+316 - vassal: c_tibasz - Setting independent due to liege destruction
+316 - vassal: c_tibasz - Made independent
+316 - vassal: c_kibeza - Setting independent due to liege destruction
+316 - vassal: c_kibeza - Made independent
+316 - vassal: c_anaveza - Setting independent due to liege destruction
+316 - vassal: c_anaveza - Made independent
+316 - vassal: c_karay - Setting independent due to liege destruction
+316 - vassal: c_karay - Made independent
+320 - Given to 1007465 in TestCreateEmpire
+320 - Title given to 1007465 - Primary title: d_kalimon
+320 - Made independent for title creation d_detalum for d_kalimon
+320 - Made independent
+320 - Gained vassal: c_anamolas
+320 - Gained vassal: c_tavalum
+320 - Gained vassal: c_kibeza
+320 - Gained vassal: c_anaveza
+320 - Gained vassal: c_karay
+320 - Destroyed due to no capital's obtainable
+320 - Title destroyed
+320 - vassal: c_karay - Setting independent due to liege destruction
+320 - vassal: c_karay - Made independent
+320 - vassal: c_anaveza - Setting independent due to liege destruction
+320 - vassal: c_anaveza - Made independent
+320 - vassa

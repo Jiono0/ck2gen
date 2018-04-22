@@ -1,0 +1,86 @@
+200 - Title given to 1000099
+200 - vassal: c_wobad - Given to 1000102 via AddCharacterForTitle
+200 - sub vassal: c_wobad - Given to 1000102 via AddCharacterForTitle
+200 - vassal: c_wobad - Holder 1000102 - Primary title: c_wobad has lost the title: c_wobad
+200 - sub vassal: c_wobad - Holder 1000102 - Primary title: c_wobad has lost the title: c_wobad
+200 - vassal: c_wobad - Title given to 1000102
+200 - sub vassal: c_wobad - Title given to 1000102
+200 - vassal: c_relay - Holder 1000099 - Primary title: c_relay has lost the title: c_relay
+200 - sub vassal: c_relay - Holder 1000099 - Primary title: c_relay has lost the title: c_relay
+200 - vassal: c_relay - Title given to 1000099 - Primary title: d_emeiriga
+200 - sub vassal: c_relay - Title given to 1000099 - Primary title: d_emeiriga
+200 - Holder (1000099) has gained c_relay
+200 - vassal: c_wobad - Holder 1000099 - Primary title: c_wobad has lost the title: c_wobad
+200 - sub vassal: c_wobad - Holder 1000099 - Primary title: c_wobad has lost the title: c_wobad
+200 - vassal: c_wobad - Title given to 1000099 - Primary title: d_emeiriga
+200 - sub vassal: c_wobad - Title given to 1000099 - Primary title: d_emeiriga
+200 - Holder (1000099) has gained c_wobad
+200 - vassal: c_litota - Holder 1000099 - Primary title: c_litota has lost the title: c_litota
+200 - sub vassal: c_litota - Holder 1000099 - Primary title: c_litota has lost the title: c_litota
+200 - vassal: c_litota - Title given to 1000099 - Primary title: d_emeiriga
+200 - sub vassal: c_litota - Title given to 1000099 - Primary title: d_emeiriga
+200 - Holder (1000099) has gained c_litota
+200 - vassal: c_safoshel - Title given to 1000099 - Primary title: d_emeiriga
+200 - Holder (1000099) has gained c_safoshel
+200 - Holder 1001036 - Primary title: d_emeiriga has lost the title: d_emeiriga
+200 - Title given to 1001036 - Primary title: k_ruatota
+200 - vassal: c_safoshel - Holder 1001036 - Primary title: c_safoshel has lost the title: c_safoshel
+200 - vassal: c_safoshel - Title given to 1001036 - Primary title: k_ruatota
+200 - vassal: c_litota - Holder 1001036 - Primary title: c_litota has lost the title: c_litota
+200 - vassal: c_litota - Title given to 1001036 - Primary title: k_ruatota
+200 - vassal: c_wobad - Holder 1001036 - Primary title: c_wobad has lost the title: c_wobad
+200 - vassal: c_wobad - Title given to 1001036 - Primary title: k_ruatota
+200 - vassal: c_relay - Holder 1001036 - Primary title: c_relay has lost the title: c_relay
+200 - vassal: c_relay - Title given to 1001036 - Primary title: k_ruatota
+203 - vassal: c_safoshel - Title given to 1001739
+227 - Holder 1001556 - Primary title: d_emeiriga has lost the title: d_emeiriga
+227 - Title given to 1001556 - Primary title: k_ruatota
+227 - vassal: c_litota - Setting to vassal of d_kitiga in Validate Realm
+227 - Lost vassal: c_litota
+227 - vassal: c_wobad - Setting to vassal of d_kitiga in Validate Realm
+227 - Lost vassal: c_wobad
+227 - vassal: c_relay - Setting to vassal of d_kitiga in Validate Realm
+227 - Lost vassal: c_relay
+228 - Holder 1003287 - Primary title: d_emeiriga has lost the title: d_emeiriga
+228 - Title given to 1003287 - Primary title: k_ruatota
+254 - Holder 1004894 - Primary title: d_emeiriga has lost the title: d_emeiriga
+254 - Title given to 1004894 - Primary title: k_ruatota
+291 - Holder 1005372 - Primary title: d_emeiriga has lost the title: d_emeiriga
+291 - Title given to 1005372 - Primary title: k_ruatota
+300 - vassal: c_safoshel - Holder 1005372 - Primary title: c_safoshel has lost the title: c_safoshel
+300 - vassal: c_safoshel - Title given to 1005372 - Primary title: k_ruatota
+300 - vassal: c_safoshel - Title given to 1007614
+302 - Holder 1007497 - Primary title: d_emeiriga has lost the title: d_emeiriga
+302 - Title given to 1007497 - Primary title: k_ruatota
+333 - vassal: c_safoshel - Holder 1007497 - Primary title: c_safoshel has lost the title: c_safoshel
+333 - vassal: c_safoshel - Title given to 1007497 - Primary title: k_ruatota
+333 - vassal: c_safoshel - Given to 1009411 in HandleTitles - Too many duke titles
+333 - vassal: c_safoshel - Title given to 1009411
+333 - Title given to 1009411 - Primary title: c_safoshel
+333 - vassal: c_safoshel - Holder (1009411) has gained d_emeiriga
+333 - Too many dukes, given to dejure: k_ruatota
+347 - Holder 1009686 - Primary title: d_emeiriga has lost the title: d_emeiriga
+347 - Title given to 1009686
+347 - vassal: c_safoshel - Holder 1009686 - Primary title: c_safoshel has lost the title: c_safoshel
+347 - vassal: c_safoshel - Title given to 1009686 - Primary title: d_emeiriga
+347 - Holder (1009686) has gained c_safoshel
+349 - Holder 1007497 - Primary title: d_emeiriga has lost the title: d_emeiriga
+349 - Title given to 1007497 - Primary title: k_ruatota
+349 - vassal: c_safoshel - Holder 1007497 - Primary title: c_safoshel has lost the title: c_safoshel
+349 - vassal: c_safoshel - Title given to 1007497 - Primary title: k_ruatota
+349 - vassal: c_safoshel - Title given to 1006765
+362 - Holder 1008531 - Primary title: d_emeiriga has lost the title: d_emeiriga
+362 - Title given to 1008531 - Primary title: k_ruatota
+368 - Holder 1011098 - Primary title: d_emeiriga has lost the title: d_emeiriga
+368 - Title given to 1011098 - Primary title: k_ruatota
+375 - Holder 1011541 - Primary title: d_emeiriga has lost the title: d_emeiriga
+375 - Title given to 1011541 - Primary title: k_ruatota
+379 - Made vassal of neighbour (k_ebriga) due to being a seperate island
+379 - Given to neighbour holder of k_ebriga
+379 - Holder 1009410 - Primary title: d_emeiriga has lost the title: d_emeiriga
+379 - Title given to 1009410 - Primary title: k_ebriga
+380 - vassal: c_safoshel - Made vassal of neighbour (d_kitiga) due to being a seperate island
+380 - Lost vassal: c_safoshel
+381 - Destroyed due to flagged problem
+381 - Made independent
+381 - Title destroyed

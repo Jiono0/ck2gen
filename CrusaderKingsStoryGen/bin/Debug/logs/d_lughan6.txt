@@ -1,0 +1,55 @@
+200 - Title given to 1000198
+200 - vassal: c_rajile - Given to 1000201 via AddCharacterForTitle
+200 - sub vassal: c_rajile - Given to 1000201 via AddCharacterForTitle
+200 - vassal: c_rajile - Holder 1000201 - Primary title: c_rajile has lost the title: c_rajile
+200 - sub vassal: c_rajile - Holder 1000201 - Primary title: c_rajile has lost the title: c_rajile
+200 - vassal: c_rajile - Title given to 1000201
+200 - sub vassal: c_rajile - Title given to 1000201
+200 - vassal: c_tivude - Holder 1000198 - Primary title: c_tivude has lost the title: c_tivude
+200 - sub vassal: c_tivude - Holder 1000198 - Primary title: c_tivude has lost the title: c_tivude
+200 - vassal: c_tivude - Title given to 1000198 - Primary title: d_lughan
+200 - sub vassal: c_tivude - Title given to 1000198 - Primary title: d_lughan
+200 - Holder (1000198) has gained c_tivude
+200 - vassal: c_rajile - Holder 1000198 - Primary title: c_rajile has lost the title: c_rajile
+200 - sub vassal: c_rajile - Holder 1000198 - Primary title: c_rajile has lost the title: c_rajile
+200 - vassal: c_rajile - Title given to 1000198 - Primary title: d_lughan
+200 - sub vassal: c_rajile - Title given to 1000198 - Primary title: d_lughan
+200 - Holder (1000198) has gained c_rajile
+200 - vassal: c_lanamur - Holder 1000198 - Primary title: c_lanamur has lost the title: c_lanamur
+200 - sub vassal: c_lanamur - Holder 1000198 - Primary title: c_lanamur has lost the title: c_lanamur
+200 - vassal: c_lanamur - Title given to 1000198 - Primary title: d_lughan
+200 - sub vassal: c_lanamur - Title given to 1000198 - Primary title: d_lughan
+200 - Holder (1000198) has gained c_lanamur
+213 - Holder (1000198) has gained d_kiraky
+213 - Holder (1000198) has gained c_seza
+217 - Title given to 1001739
+217 - vassal: c_lanamur - Setting to vassal of d_kiraky in Validate Realm
+217 - Lost vassal: c_lanamur
+217 - vassal: c_rajile - Setting to vassal of d_kiraky in Validate Realm
+217 - Lost vassal: c_rajile
+217 - vassal: c_tivude - Setting to vassal of d_kiraky in Validate Realm
+217 - Lost vassal: c_tivude
+217 - Holder (1001739) has gained c_lanamur
+217 - Gained vassal: c_lanamur
+217 - Holder (1001739) has gained c_rajile
+217 - Gained vassal: c_rajile
+217 - Holder (1001739) has gained c_tivude
+217 - Gained vassal: c_tivude
+217 - Holder (1001739) has gained d_kiraky
+217 - Holder (1001739) has gained c_seza
+241 - Holder 1003105 - Primary title: d_lughan has lost the title: d_lughan
+241 - Title given to 1003105
+241 - vassal: c_lanamur - Setting to vassal of d_kiraky in Validate Realm
+241 - Lost vassal: c_lanamur
+241 - vassal: c_rajile - Setting to vassal of d_kiraky in Validate Realm
+241 - Lost vassal: c_rajile
+241 - vassal: c_tivude - Setting to vassal of d_kiraky in Validate Realm
+241 - Lost vassal: c_tivude
+241 - Holder (1003105) has gained d_kiraky
+241 - Holder (1003105) has gained c_lanamur
+241 - Holder (1003105) has gained c_rajile
+241 - Holder (1003105) has gained c_tivude
+241 - Holder (1003105) has gained c_seza
+242 - Destroyed due to flagged problem
+242 - Made independent
+242 - Title destroyed

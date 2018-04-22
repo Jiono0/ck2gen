@@ -1,0 +1,122 @@
+200 - Title given to 1000520
+200 - vassal: c_kamatok - Holder 1000520 - Primary title: c_kamatok has lost the title: c_kamatok
+200 - sub vassal: c_kamatok - Holder 1000520 - Primary title: c_kamatok has lost the title: c_kamatok
+200 - vassal: c_kamatok - Title given to 1000520 - Primary title: d_sisora
+200 - sub vassal: c_kamatok - Title given to 1000520 - Primary title: d_sisora
+200 - Holder (1000520) has gained c_kamatok
+200 - vassal: c_rakohn - Holder 1000520 - Primary title: c_rakohn has lost the title: c_rakohn
+200 - sub vassal: c_rakohn - Holder 1000520 - Primary title: c_rakohn has lost the title: c_rakohn
+200 - vassal: c_rakohn - Title given to 1000520 - Primary title: d_sisora
+200 - sub vassal: c_rakohn - Title given to 1000520 - Primary title: d_sisora
+200 - Holder (1000520) has gained c_rakohn
+236 - Holder 1001889 - Primary title: d_sisora has lost the title: d_sisora
+236 - Title given to 1001889
+236 - vassal: c_kamatok - Holder 1001889 - Primary title: c_kamatok has lost the title: c_kamatok
+236 - vassal: c_kamatok - Title given to 1001889 - Primary title: d_sisora
+236 - Holder (1001889) has gained c_kamatok
+236 - vassal: c_rakohn - Holder 1001889 - Primary title: c_rakohn has lost the title: c_rakohn
+236 - vassal: c_rakohn - Title given to 1001889 - Primary title: d_sisora
+236 - Holder (1001889) has gained c_rakohn
+272 - Holder 1003807 - Primary title: d_sisora has lost the title: d_sisora
+272 - Title given to 1003807
+272 - vassal: c_kamatok - Holder 1003807 - Primary title: c_kamatok has lost the title: c_kamatok
+272 - vassal: c_kamatok - Title given to 1003807 - Primary title: d_sisora
+272 - Holder (1003807) has gained c_kamatok
+272 - vassal: c_rakohn - Holder 1003807 - Primary title: c_rakohn has lost the title: c_rakohn
+272 - vassal: c_rakohn - Title given to 1003807 - Primary title: d_sisora
+272 - Holder (1003807) has gained c_rakohn
+309 - Holder 1006213 - Primary title: d_sisora has lost the title: d_sisora
+309 - Title given to 1006213
+309 - vassal: c_kamatok - Holder 1006213 - Primary title: c_kamatok has lost the title: c_kamatok
+309 - vassal: c_kamatok - Title given to 1006213 - Primary title: d_sisora
+309 - Holder (1006213) has gained c_kamatok
+309 - vassal: c_rakohn - Holder 1006213 - Primary title: c_rakohn has lost the title: c_rakohn
+309 - vassal: c_rakohn - Title given to 1006213 - Primary title: d_sisora
+309 - Holder (1006213) has gained c_rakohn
+319 - Holder 1006212 - Primary title: d_sisora has lost the title: d_sisora
+319 - Title given to 1006212 - Primary title: d_rinde
+319 - vassal: c_kamatok - Holder 1006212 - Primary title: c_kamatok has lost the title: c_kamatok
+319 - vassal: c_kamatok - Title given to 1006212 - Primary title: d_rinde
+319 - vassal: c_rakohn - Holder 1006212 - Primary title: c_rakohn has lost the title: c_rakohn
+319 - vassal: c_rakohn - Title given to 1006212 - Primary title: d_rinde
+332 - Captured byd_namba in minor war
+332 - Made independent
+332 - Given to 1008505 in minor war along with lower
+332 - Title given to 1008505 - Primary title: d_namba
+332 - vassal: c_rakohn - Assigned in handle titles: d_rinde
+332 - Lost vassal: c_rakohn
+332 - vassal: c_kamatok - Setting to vassal of d_rinde in Validate Realm
+332 - Lost vassal: c_kamatok
+333 - Destroyed due to flagged problem
+333 - Title destroyed
+338 - Given to 1006212 in TestCreateEmpire
+338 - Title given to 1006212 - Primary title: d_rinde
+338 - Made independent for title creation d_sisora for d_rinde
+338 - Made independent
+338 - Gained vassal: c_rakohn
+338 - Gained vassal: c_kamatok
+338 - Gained vassal: c_egisabha
+338 - Gained vassal: c_loaneri
+338 - Gained vassal: c_wisen
+339 - Gained vassal: c_ridamba
+339 - vassal: c_ridamba - Given to neighbour holder of d_sisora
+339 - sub vassal: c_ridamba - Given to neighbour holder of d_sisora
+339 - vassal: c_ridamba - Holder 1006212 - Primary title: c_ridamba has lost the title: c_ridamba
+339 - sub vassal: c_ridamba - Holder 1006212 - Primary title: c_ridamba has lost the title: c_ridamba
+339 - vassal: c_ridamba - Title given to 1006212 - Primary title: d_sisora
+339 - sub vassal: c_ridamba - Title given to 1006212 - Primary title: d_sisora
+339 - Holder (1006212) has gained c_ridamba
+339 - Gained vassal: c_tupamba
+339 - vassal: c_tupamba - Given to neighbour holder of d_sisora
+339 - sub vassal: c_tupamba - Given to neighbour holder of d_sisora
+339 - vassal: c_tupamba - Holder 1006212 - Primary title: c_tupamba has lost the title: c_tupamba
+339 - sub vassal: c_tupamba - Holder 1006212 - Primary title: c_tupamba has lost the title: c_tupamba
+339 - vassal: c_tupamba - Title given to 1006212 - Primary title: d_sisora
+339 - sub vassal: c_tupamba - Title given to 1006212 - Primary title: d_sisora
+339 - Holder (1006212) has gained c_tupamba
+340 - Holder 1009092 - Primary title: d_sisora has lost the title: c_ridamba
+340 - vassal: c_ridamba - Title given to 1009092
+340 - sub vassal: c_ridamba - Title given to 1009092
+340 - Holder 1009093 - Primary title: d_sisora has lost the title: c_loaneri
+340 - vassal: c_loaneri - Title given to 1009093
+340 - sub vassal: c_loaneri - Title given to 1009093
+345 - Holder 1009092 - Primary title: d_sisora has lost the title: d_sisora
+345 - Title given to 1009092 - Primary title: c_ridamba
+345 - vassal: c_ridamba - Holder (1009092) has gained d_sisora
+345 - sub vassal: c_ridamba - Holder (1009092) has gained d_sisora
+345 - vassal: c_tupamba - Holder 1009092 - Primary title: c_tupamba has lost the title: c_tupamba
+345 - sub vassal: c_tupamba - Holder 1009092 - Primary title: c_tupamba has lost the title: c_tupamba
+345 - vassal: c_tupamba - Title given to 1009092 - Primary title: d_sisora
+345 - sub vassal: c_tupamba - Title given to 1009092 - Primary title: d_sisora
+345 - Holder (1009092) has gained c_tupamba
+345 - vassal: c_wisen - Holder 1009092 - Primary title: c_wisen has lost the title: c_wisen
+345 - sub vassal: c_wisen - Holder 1009092 - Primary title: c_wisen has lost the title: c_wisen
+345 - vassal: c_wisen - Title given to 1009092 - Primary title: d_sisora
+345 - sub vassal: c_wisen - Title given to 1009092 - Primary title: d_sisora
+345 - Holder (1009092) has gained c_wisen
+345 - vassal: c_egisabha - Holder 1009092 - Primary title: c_egisabha has lost the title: c_egisabha
+345 - sub vassal: c_egisabha - Holder 1009092 - Primary title: c_egisabha has lost the title: c_egisabha
+345 - vassal: c_egisabha - Title given to 1009092 - Primary title: d_sisora
+345 - sub vassal: c_egisabha - Title given to 1009092 - Primary title: d_sisora
+345 - Holder (1009092) has gained c_egisabha
+345 - vassal: c_kamatok - Holder 1009092 - Primary title: c_kamatok has lost the title: c_kamatok
+345 - sub vassal: c_kamatok - Holder 1009092 - Primary title: c_kamatok has lost the title: c_kamatok
+345 - vassal: c_kamatok - Title given to 1009092 - Primary title: d_sisora
+345 - sub vassal: c_kamatok - Title given to 1009092 - Primary title: d_sisora
+345 - Holder (1009092) has gained c_kamatok
+345 - vassal: c_rakohn - Holder 1009092 - Primary title: c_rakohn has lost the title: c_rakohn
+345 - sub vassal: c_rakohn - Holder 1009092 - Primary title: c_rakohn has lost the title: c_rakohn
+345 - vassal: c_rakohn - Title given to 1009092 - Primary title: d_sisora
+345 - sub vassal: c_rakohn - Title given to 1009092 - Primary title: d_sisora
+345 - Holder (1009092) has gained c_rakohn
+346 - Holder 1006992 - Primary title: d_sisora has lost the title: c_tupamba
+346 - vassal: c_tupamba - Title given to 1006992
+346 - sub vassal: c_tupamba - Title given to 1006992
+349 - Holder 1009537 - Primary title: d_sisora has lost the title: d_sisora
+349 - Title given to 1009537
+349 - vassal: c_ridamba - Holder 1009537 - Primary title: c_ridamba has lost the title: c_ridamba
+349 - sub vassal: c_ridamba - Holder 1009537 - Primary title: c_ridamba has lost the title: c_ridamba
+349 - vassal: c_ridamba - Title given to 1009537 - Primary title: d_sisora
+349 - sub vassal: c_ridamba - Title given to 1009537 - Primary title: d_sisora
+349 - Holder (1009537) has gained c_ridamba
+349 - vassal: c_wisen - Holder 1

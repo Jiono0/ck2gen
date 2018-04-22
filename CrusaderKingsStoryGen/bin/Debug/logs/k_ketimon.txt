@@ -1,0 +1,961 @@
+200 - Title given to 1001059
+200 - vassal: d_kyarevna - Holder 1001059 - Primary title: d_kyarevna has lost the title: d_kyarevna
+200 - sub vassal: d_kyarevna - Holder 1001059 - Primary title: d_kyarevna has lost the title: d_kyarevna
+200 - vassal: d_kyarevna - Title given to 1001059 - Primary title: k_ketimon
+200 - sub vassal: d_kyarevna - Title given to 1001059 - Primary title: k_ketimon
+200 - Holder (1001059) has gained d_kyarevna
+200 - vassal: d_tudatha - Holder 1001059 - Primary title: d_tudatha has lost the title: d_tudatha
+200 - sub vassal: d_tudatha - Holder 1001059 - Primary title: d_tudatha has lost the title: d_tudatha
+200 - vassal: d_tudatha - Title given to 1001059 - Primary title: k_ketimon
+200 - sub vassal: d_tudatha - Title given to 1001059 - Primary title: k_ketimon
+200 - Holder (1001059) has gained d_tudatha
+200 - vassal: d_tyaai - Holder 1001059 - Primary title: d_tyaai has lost the title: d_tyaai
+200 - sub vassal: d_tyaai - Holder 1001059 - Primary title: d_tyaai has lost the title: d_tyaai
+200 - vassal: d_tyaai - Title given to 1001059 - Primary title: k_ketimon
+200 - sub vassal: d_tyaai - Title given to 1001059 - Primary title: k_ketimon
+200 - Holder (1001059) has gained d_tyaai
+200 - sub vassal: c_rasild - Holder 1001059 - Primary title: c_rasild has lost the title: c_rasild
+200 - sub vassal: c_rasild - Title given to 1001059 - Primary title: k_ketimon
+200 - Holder (1001059) has gained c_rasild
+200 - Gained vassal: d_lavugh
+200 - vassal: d_lavugh - Given to neighbour holder of k_ketimon
+200 - sub vassal: d_lavugh - Given to neighbour holder of k_ketimon
+200 - vassal: d_lavugh - Holder 1001059 - Primary title: d_lavugh has lost the title: d_lavugh
+200 - sub vassal: d_lavugh - Holder 1001059 - Primary title: d_lavugh has lost the title: d_lavugh
+200 - vassal: d_lavugh - Title given to 1001059 - Primary title: k_ketimon
+200 - sub vassal: d_lavugh - Title given to 1001059 - Primary title: k_ketimon
+200 - Holder (1001059) has gained d_lavugh
+200 - vassal: d_tyaai - Destroyed due to flagged problem
+200 - sub vassal: d_tyaai - Destroyed due to flagged problem
+200 - vassal: d_tyaai - Made independent
+200 - sub vassal: d_tyaai - Made independent
+200 - Gained vassal: c_abuqina
+200 - sub vassal: c_esetunas - Given to 1001427 in HandleTitles - Too many duke titles
+200 - sub vassal: c_esetunas - Holder 1001427 - Primary title: c_esetunas has lost the title: c_esetunas
+200 - sub vassal: c_esetunas - Title given to 1001427
+200 - Holder 1001427 - Primary title: k_ketimon has lost the title: d_lavugh
+200 - vassal: d_lavugh - Title given to 1001427 - Primary title: c_esetunas
+200 - sub vassal: d_lavugh - Title given to 1001427 - Primary title: c_esetunas
+200 - sub vassal: c_esetunas - Holder (1001427) has gained d_lavugh
+200 - vassal: d_lavugh - Too many dukes, made direct title into vassal of k_ketimon
+200 - sub vassal: d_lavugh - Too many dukes, made direct title into vassal of k_ketimon
+200 - vassal: c_abuqina - Made independent due to being a seperate island
+200 - sub vassal: c_abuqina - Made independent due to being a seperate island
+200 - vassal: c_abuqina - Made independent
+200 - sub vassal: c_abuqina - Made independent
+219 - vassal: d_lavugh - Holder 1001730 - Primary title: d_lavugh has lost the title: d_lavugh
+219 - sub vassal: d_lavugh - Holder 1001730 - Primary title: d_lavugh has lost the title: d_lavugh
+219 - vassal: d_lavugh - Title given to 1001730
+219 - sub vassal: d_lavugh - Title given to 1001730
+219 - sub vassal: c_esetunas - Holder 1001730 - Primary title: c_esetunas has lost the title: c_esetunas
+219 - sub vassal: c_esetunas - Title given to 1001730 - Primary title: d_lavugh
+219 - vassal: d_lavugh - Holder (1001730) has gained c_esetunas
+219 - sub vassal: d_lavugh - Holder (1001730) has gained c_esetunas
+225 - Holder 1002264 - Primary title: k_ketimon has lost the title: k_ketimon
+225 - Title given to 1002264
+225 - vassal: d_kyarevna - Holder 1002264 - Primary title: d_kyarevna has lost the title: d_kyarevna
+225 - sub vassal: d_kyarevna - Holder 1002264 - Primary title: d_kyarevna has lost the title: d_kyarevna
+225 - vassal: d_kyarevna - Title given to 1002264 - Primary title: k_ketimon
+225 - sub vassal: d_kyarevna - Title given to 1002264 - Primary title: k_ketimon
+225 - Holder (1002264) has gained d_kyarevna
+225 - sub vassal: c_rasild - Setting to vassal of d_tudatha in Validate Realm
+225 - vassal: d_kyarevna - Lost vassal: c_rasild
+225 - sub vassal: d_kyarevna - Lost vassal: c_rasild
+225 - vassal: d_tudatha - Gained vassal: c_rasild
+225 - sub vassal: d_tudatha - Gained vassal: c_rasild
+225 - vassal: d_tudatha - Holder 1002264 - Primary title: d_tudatha has lost the title: d_tudatha
+225 - sub vassal: d_tudatha - Holder 1002264 - Primary title: d_tudatha has lost the title: d_tudatha
+225 - vassal: d_tudatha - Title given to 1002264 - Primary title: k_ketimon
+225 - sub vassal: d_tudatha - Title given to 1002264 - Primary title: k_ketimon
+225 - Holder (1002264) has gained d_tudatha
+225 - sub vassal: c_rasild - Holder 1002264 - Primary title: c_rasild has lost the title: c_rasild
+225 - sub vassal: c_rasild - Title given to 1002264 - Primary title: k_ketimon
+225 - Holder (1002264) has gained c_rasild
+237 - vassal: d_emongul - Holder 1002056 - Primary title: d_emongul has lost the title: d_emongul
+237 - sub vassal: d_emongul - Holder 1002056 - Primary title: d_emongul has lost the title: d_emongul
+237 - vassal: d_emongul - Title given to 1002056
+237 - sub vassal: d_emongul - Title given to 1002056
+237 - sub vassal: c_batunas - Holder 1002056 - Primary title: c_batunas has lost the title: c_batunas
+237 - sub vassal: c_batunas - Title given to 1002056 - Primary title: d_emongul
+237 - vassal: d_emongul - Holder (1002056) has gained c_batunas
+237 - sub vassal: d_emongul - Holder (1002056) has gained c_batunas
+237 - sub vassal: c_nyarild - Holder 1002056 - Primary title: c_nyarild has lost the title: c_nyarild
+237 - sub vassal: c_nyarild - Title given to 1002056 - Primary title: d_emongul
+237 - vassal: d_emongul - Holder (1002056) has gained c_nyarild
+237 - sub vassal: d_emongul - Holder (1002056) has gained c_nyarild
+237 - sub vassal: c_nyarevna - Holder 1002056 - Primary title: c_nyarevna has lost the title: c_nyarevna
+237 - sub vassal: c_nyarevna - Title given to 1002056 - Primary title: d_emongul
+237 - vassal: d_emongul - Holder (1002056) has gained c_nyarevna
+237 - sub vassal: d_emongul - Holder (1002056) has gained c_nyarevna
+237 - sub vassal: c_ehkand - Holder 1002056 - Primary title: c_ehkand has lost the title: c_ehkand
+237 - sub vassal: c_ehkand - Title given to 1002056 - Primary title: d_emongul
+237 - vassal: d_emongul - Holder (1002056) has gained c_ehkand
+237 - sub vassal: d_emongul - Holder (1002056) has gained c_ehkand
+237 - sub vassal: c_natand - Holder 1002056 - Primary title: c_natand has lost the title: c_natand
+237 - sub vassal: c_natand - Title given to 1002056 - Primary title: d_emongul
+237 - vassal: d_emongul - Holder (1002056) has gained c_natand
+237 - sub vassal: d_emongul - Holder (1002056) has gained c_natand
+240 - vassal: d_kaul - Holder 1001535 - Primary title: d_kaul has lost the title: d_kaul
+240 - sub vassal: d_kaul - Holder 1001535 - Primary title: d_kaul has lost the title: d_kaul
+240 - vassal: d_kaul - Title given to 1001535
+240 - sub vassal: d_kaul - Title given to 1001535
+240 - sub vassal: c_qetuguo - Holder 1001535 - Primary title: c_qetuguo has lost the title: c_qetuguo
+240 - sub vassal: c_qetuguo - Title given to 1001535 - Primary title: d_kaul
+240 - vassal: d_kaul - Holder (1001535) has gained c_qetuguo
+240 - sub vassal: d_kaul - Holder (1001535) has gained c_qetuguo
+240 - sub vassal: c_asetina - Holder 1001535 - Primary title: c_asetina has lost the title: c_asetina
+240 - sub vassal: c_asetina - Title given to 1001535 - Primary title: d_kaul
+240 - vassal: d_kaul - Holder (1001535) has gained c_asetina
+240 - sub vassal: d_kaul - Holder (1001535) has gained c_asetina
+240 - sub vassal: c_renina - Holder 1001535 - Primary title: c_renina has lost the title: c_renina
+240 - sub vassal: c_renina - Title given to 1001535 - Primary title: d_kaul
+240 - vassal: d_kaul - Holder (1001535) has gained c_renina
+240 - sub vassal: d_kaul - Holder (1001535) has gained c_renina
+240 - sub vassal: c_nara - Holder 1001535 - Primary title: c_nara has lost the title: c_nara
+240 - sub vassal: c_nara - Title given to 1001535 - Primary title: d_kaul
+240 - vassal: d_kaul - Holder (1001535) has gained c_nara
+240 - sub vassal: d_kaul - Holder (1001535) has gained c_nara
+241 - vassal: d_lavugh - Holder 1002264 - Primary title: d_lavugh has lost the title: d_lavugh
+241 - sub vassal: d_lavugh - Holder 1002264 - Primary title: d_lavugh has lost the title: d_lavugh
+241 - vassal: d_lavugh - Title given to 1002264 - Primary title: k_ketimon
+241 - sub vassal: d_lavugh - Title given to 1002264 - Primary title: k_ketimon
+241 - Holder (1002264) has gained d_lavugh
+241 - sub vassal: c_esetunas - Holder 1002264 - Primary title: c_esetunas has lost the title: c_esetunas
+241 - sub vassal: c_esetunas - Title given to 1002264 - Primary title: k_ketimon
+241 - Holder (1002264) has gained c_esetunas
+241 - sub vassal: c_rasild - Given to 1004090 in HandleTitles - Too many duke titles
+241 - Holder 1004090 - Primary title: k_ketimon has lost the title: c_rasild
+241 - sub vassal: c_rasild - Title given to 1004090
+241 - Holder 1004090 - Primary title: k_ketimon has lost the title: d_tudatha
+241 - vassal: d_tudatha - Title given to 1004090 - Primary title: c_rasild
+241 - sub vassal: d_tudatha - Title given to 1004090 - Primary title: c_rasild
+241 - sub vassal: c_rasild - Holder (1004090) has gained d_tudatha
+241 - vassal: d_tudatha - Too many dukes, given to dejure: k_ketimon
+241 - sub vassal: d_tudatha - Too many dukes, given to dejure: k_ketimon
+241 - Holder 1004091 - Primary title: k_ketimon has lost the title: k_ketimon
+241 - Title given to 1004091
+241 - vassal: d_kyarevna - Holder 1004091 - Primary title: d_kyarevna has lost the title: d_kyarevna
+241 - sub vassal: d_kyarevna - Holder 1004091 - Primary title: d_kyarevna has lost the title: d_kyarevna
+241 - vassal: d_kyarevna - Title given to 1004091 - Primary title: k_ketimon
+241 - sub vassal: d_kyarevna - Title given to 1004091 - Primary title: k_ketimon
+241 - Holder (1004091) has gained d_kyarevna
+241 - vassal: d_lavugh - Holder 1004091 - Primary title: d_lavugh has lost the title: d_lavugh
+241 - sub vassal: d_lavugh - Holder 1004091 - Primary title: d_lavugh has lost the title: d_lavugh
+241 - vassal: d_lavugh - Title given to 1004091 - Primary title: k_ketimon
+241 - sub vassal: d_lavugh - Title given to 1004091 - Primary title: k_ketimon
+241 - Holder (1004091) has gained d_lavugh
+241 - sub vassal: c_esetunas - Holder 1004091 - Primary title: c_esetunas has lost the title: c_esetunas
+241 - sub vassal: c_esetunas - Title given to 1004091 - Primary title: k_ketimon
+241 - Holder (1004091) has gained c_esetunas
+242 - vassal: d_rasina - Holder 1002308 - Primary title: d_rasina has lost the title: d_rasina
+242 - sub vassal: d_rasina - Holder 1002308 - Primary title: d_rasina has lost the title: d_rasina
+242 - vassal: d_rasina - Title given to 1002308
+242 - sub vassal: d_rasina - Title given to 1002308
+242 - sub vassal: c_amatand - Holder 1002308 - Primary title: c_amatand has lost the title: c_amatand
+242 - sub vassal: c_amatand - Title given to 1002308 - Primary title: d_rasina
+242 - vassal: d_rasina - Holder (1002308) has gained c_amatand
+242 - sub vassal: d_rasina - Holder (1002308) has gained c_amatand
+242 - sub vassal: c_kedith - Holder 1002308 - Primary title: c_kedith has lost the title: c_kedith
+242 - sub vassal: c_kedith - Title given to 1002308 - Primary title: d_rasina
+242 - vassal: d_rasina - Holder (1002308) has gained c_kedith
+242 - sub vassal: d_rasina - Holder (1002308) has gained c_kedith
+242 - sub vassal: c_bicuqi - Holder 1002308 - Primary title: c_bicuqi has lost the title: c_bicuqi
+242 - sub vassal: c_bicuqi - Title given to 1002308 - Primary title: d_rasina
+242 - vassal: d_rasina - Holder (1002308) has gained c_bicuqi
+242 - sub vassal: d_rasina - Holder (1002308) has gained c_bicuqi
+249 - vassal: d_tudatha - Holder 1004137 - Primary title: d_tudatha has lost the title: d_tudatha
+249 - sub vassal: d_tudatha - Holder 1004137 - Primary title: d_tudatha has lost the title: d_tudatha
+249 - vassal: d_tudatha - Title given to 1004137
+249 - sub vassal: d_tudatha - Title given to 1004137
+249 - sub vassal: c_rasild - Holder 1004137 - Primary title: c_rasild has lost the title: c_rasild
+249 - sub vassal: c_rasild - Title given to 1004137 - Primary title: d_tudatha
+249 - vassal: d_tudatha - Holder (1004137) has gained c_rasild
+249 - sub vassal: d_tudatha - Holder (1004137) has gained c_rasild
+249 - Holder 1004137 - Primary title: k_ketimon has lost the title: k_ketimon
+249 - Title given to 1004137 - Primary title: d_tudatha
+249 - vassal: d_tudatha - Holder (1004137) has gained k_ketimon
+249 - sub vassal: d_tudatha - Holder (1004137) has gained k_ketimon
+249 - vassal: d_kyarevna - Holder 1004137 - Primary title: d_kyarevna has lost the title: d_kyarevna
+249 - sub vassal: d_kyarevna - Holder 1004137 - Primary title: d_kyarevna has lost the title: d_kyarevna
+249 - vassal: d_kyarevna - Title given to 1004137 - Primary title: k_ketimon
+249 - sub vassal: d_kyarevna - Title given to 1004137 - Primary title: k_ketimon
+249 - Holder (1004137) has gained d_kyarevna
+249 - vassal: d_lavugh - Holder 1004137 - Primary title: d_lavugh has lost the title: d_lavugh
+249 - sub vassal: d_lavugh - Holder 1004137 - Primary title: d_lavugh has lost the title: d_lavugh
+249 - vassal: d_lavugh - Title given to 1004137 - Primary title: k_ketimon
+249 - sub vassal: d_lavugh - Title given to 1004137 - Primary title: k_ketimon
+249 - Holder (1004137) has gained d_lavugh
+249 - sub vassal: c_esetunas - Holder 1004137 - Primary title: c_esetunas has lost the title: c_esetunas
+249 - sub vassal: c_esetunas - Title given to 1004137 - Primary title: k_ketimon
+249 - Holder (1004137) has gained c_esetunas
+250 - sub vassal: c_esetunas - Given to 1004662 in HandleTitles - Too many duke titles
+250 - Holder 1004662 - Primary title: k_ketimon has lost the title: c_esetunas
+250 - sub vassal: c_esetunas - Title given to 1004662
+250 - Holder 1004662 - Primary title: k_ketimon has lost the title: d_lavugh
+250 - vassal: d_lavugh - Title given to 1004662 - Primary title: c_esetunas
+250 - sub vassal: d_lavugh - Title given to 1004662 - Primary title: c_esetunas
+250 - sub vassal: c_esetunas - Holder (1004662) has gained d_lavugh
+250 - vassal: d_lavugh - Too many dukes, made direct title into vassal of k_ketimon
+250 - sub vassal: d_lavugh - Too many dukes, made direct title into vassal of k_ketimon
+260 - vassal: d_emongul - Holder 1004521 - Primary title: d_emongul has lost the title: d_emongul
+260 - sub vassal: d_emongul - Holder 1004521 - Primary title: d_emongul has lost the title: d_emongul
+260 - vassal: d_emongul - Title given to 1004521
+260 - sub vassal: d_emongul - Title given to 1004521
+260 - sub vassal: c_batunas - Holder 1004521 - Primary title: c_batunas has lost the title: c_batunas
+260 - sub vassal: c_batunas - Title given to 1004521 - Primary title: d_emongul
+260 - vassal: d_emongul - Holder (1004521) has gained c_batunas
+260 - sub vassal: d_emongul - Holder (1004521) has gained c_batunas
+260 - sub vassal: c_nyarild - Holder 1004521 - Primary title: c_nyarild has lost the title: c_nyarild
+260 - sub vassal: c_nyarild - Title given to 1004521 - Primary title: d_emongul
+260 - vassal: d_emongul - Holder (1004521) has gained c_nyarild
+260 - sub vassal: d_emongul - Holder (1004521) has gained c_nyarild
+260 - sub vassal: c_nyarevna - Holder 1004521 - Primary title: c_nyarevna has lost the title: c_nyarevna
+260 - sub vassal: c_nyarevna - Title given to 1004521 - Primary title: d_emongul
+260 - vassal: d_emongul - Holder (1004521) has gained c_nyarevna
+260 - sub vassal: d_emongul - Holder (1004521) has gained c_nyarevna
+260 - sub vassal: c_ehkand - Holder 1004521 - Primary title: c_ehkand has lost the title: c_ehkand
+260 - sub vassal: c_ehkand - Title given to 1004521 - Primary title: d_emongul
+260 - vassal: d_emongul - Holder (1004521) has gained c_ehkand
+260 - sub vassal: d_emongul - Holder (1004521) has gained c_ehkand
+260 - sub vassal: c_natand - Holder 1004521 - Primary title: c_natand has lost the title: c_natand
+260 - sub vassal: c_natand - Title given to 1004521 - Primary title: d_emongul
+260 - vassal: d_emongul - Holder (1004521) has gained c_natand
+260 - sub vassal: d_emongul - Holder (1004521) has gained c_natand
+271 - vassal: d_rasina - Holder 1004315 - Primary title: d_rasina has lost the title: d_rasina
+271 - sub vassal: d_rasina - Holder 1004315 - Primary title: d_rasina has lost the title: d_rasina
+271 - vassal: d_rasina - Title given to 1004315
+271 - sub vassal: d_rasina - Title given to 1004315
+271 - sub vassal: c_bicuqi - Holder 1004315 - Primary title: c_bicuqi has lost the title: c_bicuqi
+271 - sub vassal: c_bicuqi - Title given to 1004315 - Primary title: d_rasina
+271 - vassal: d_rasina - Holder (1004315) has gained c_bicuqi
+271 - sub vassal: d_rasina - Holder (1004315) has gained c_bicuqi
+271 - sub vassal: c_kedith - Holder 1004315 - Primary title: c_kedith has lost the title: c_kedith
+271 - sub vassal: c_kedith - Title given to 1004315 - Primary title: d_rasina
+271 - vassal: d_rasina - Holder (1004315) has gained c_kedith
+271 - sub vassal: d_rasina - Holder (1004315) has gained c_kedith
+271 - sub vassal: c_amatand - Holder 1004315 - Primary title: c_amatand has lost the title: c_amatand
+271 - sub vassal: c_amatand - Title given to 1004315 - Primary title: d_rasina
+271 - vassal: d_rasina - Holder (1004315) has gained c_amatand
+271 - sub vassal: d_rasina - Holder (1004315) has gained c_amatand
+274 - Holder 1005209 - Primary title: k_ketimon has lost the title: k_ketimon
+274 - Title given to 1005209
+274 - vassal: d_kyarevna - Holder 1005209 - Primary title: d_kyarevna has lost the title: d_kyarevna
+274 - sub vassal: d_kyarevna - Holder 1005209 - Primary title: d_kyarevna has lost the title: d_kyarevna
+274 - vassal: d_kyarevna - Title given to 1005209 - Primary title: k_ketimon
+274 - sub vassal: d_kyarevna - Title given to 1005209 - Primary title: k_ketimon
+274 - Holder (1005209) has gained d_kyarevna
+274 - vassal: d_tudatha - Holder 1005209 - Primary title: d_tudatha has lost the title: c_rasild
+274 - sub vassal: d_tudatha - Holder 1005209 - Primary title: d_tudatha has lost the title: c_rasild
+274 - sub vassal: c_rasild - Title given to 1005209 - Primary title: k_ketimon
+274 - Holder (1005209) has gained c_rasild
+274 - sub vassal: c_rasild - Setting to vassal of k_ketimon in Validate Realm
+274 - vassal: d_tudatha - Lost vassal: c_rasild
+274 - sub vassal: d_tudatha - Lost vassal: c_rasild
+274 - Gained vassal: c_rasild
+274 - vassal: d_tudatha - Holder 1005209 - Primary title: d_tudatha has lost the title: d_tudatha
+274 - sub vassal: d_tudatha - Holder 1005209 - Primary title: d_tudatha has lost the title: d_tudatha
+274 - vassal: d_tudatha - Title given to 1005209 - Primary title: k_ketimon
+274 - sub vassal: d_tudatha - Title given to 1005209 - Primary title: k_ketimon
+274 - Holder (1005209) has gained d_tudatha
+275 - vassal: d_lavugh - Holder 1004767 - Primary title: d_lavugh has lost the title: d_lavugh
+275 - sub vassal: d_lavugh - Holder 1004767 - Primary title: d_lavugh has lost the title: d_lavugh
+275 - vassal: d_lavugh - Title given to 1004767
+275 - sub vassal: d_lavugh - Title given to 1004767
+275 - sub vassal: c_esetunas - Holder 1004767 - Primary title: c_esetunas has lost the title: c_esetunas
+275 - sub vassal: c_esetunas - Title given to 1004767 - Primary title: d_lavugh
+275 - vassal: d_lavugh - Holder (1004767) has gained c_esetunas
+275 - sub vassal: d_lavugh - Holder (1004767) has gained c_esetunas
+277 - vassal: d_rasina - Holder 1006178 - Primary title: d_rasina has lost the title: d_rasina
+277 - sub vassal: d_rasina - Holder 1006178 - Primary title: d_rasina has lost the title: d_rasina
+277 - vassal: d_rasina - Title given to 1006178
+277 - sub vassal: d_rasina - Title given to 1006178
+277 - sub vassal: c_bicuqi - Holder 1006178 - Primary title: c_bicuqi has lost the title: c_bicuqi
+277 - sub vassal: c_bicuqi - Title given to 1006178 - Primary title: d_rasina
+277 - vassal: d_rasina - Holder (1006178) has gained c_bicuqi
+277 - sub vassal: d_rasina - Holder (1006178) has gained c_bicuqi
+277 - sub vassal: c_kedith - Holder 1006178 - Primary title: c_kedith has lost the title: c_kedith
+277 - sub vassal: c_kedith - Title given to 1006178 - Primary title: d_rasina
+277 - vassal: d_rasina - Holder (1006178) has gained c_kedith
+277 - sub vassal: d_rasina - Holder (1006178) has gained c_kedith
+277 - sub vassal: c_amatand - Holder 1006178 - Primary title: c_amatand has lost the title: c_amatand
+277 - sub vassal: c_amatand - Title given to 1006178 - Primary title: d_rasina
+277 - vassal: d_rasina - Holder (1006178) has gained c_amatand
+277 - sub vassal: d_rasina - Holder (1006178) has gained c_amatand
+278 - vassal: d_kaul - Holder 1004190 - Primary title: d_kaul has lost the title: d_kaul
+278 - sub vassal: d_kaul - Holder 1004190 - Primary title: d_kaul has lost the title: d_kaul
+278 - vassal: d_kaul - Title given to 1004190
+278 - sub vassal: d_kaul - Title given to 1004190
+278 - sub vassal: c_nara - Holder 1004190 - Primary title: c_nara has lost the title: c_nara
+278 - sub vassal: c_nara - Title given to 1004190 - Primary title: d_kaul
+278 - vassal: d_kaul - Holder (1004190) has gained c_nara
+278 - sub vassal: d_kaul - Holder (1004190) has gained c_nara
+278 - sub vassal: c_renina - Holder 1004190 - Primary title: c_renina has lost the title: c_renina
+278 - sub vassal: c_renina - Title given to 1004190 - Primary title: d_kaul
+278 - vassal: d_kaul - Holder (1004190) has gained c_renina
+278 - sub vassal: d_kaul - Holder (1004190) has gained c_renina
+278 - sub vassal: c_asetina - Holder 1004190 - Primary title: c_asetina has lost the title: c_asetina
+278 - sub vassal: c_asetina - Title given to 1004190 - Primary title: d_kaul
+278 - vassal: d_kaul - Holder (1004190) has gained c_asetina
+278 - sub vassal: d_kaul - Holder (1004190) has gained c_asetina
+278 - sub vassal: c_qetuguo - Holder 1004190 - Primary title: c_qetuguo has lost the title: c_qetuguo
+278 - sub vassal: c_qetuguo - Title given to 1004190 - Primary title: d_kaul
+278 - vassal: d_kaul - Holder (1004190) has gained c_qetuguo
+278 - sub vassal: d_kaul - Holder (1004190) has gained c_qetuguo
+279 - vassal: d_kaul - Holder 1004521 - Primary title: d_kaul has lost the title: d_kaul
+279 - sub vassal: d_kaul - Holder 1004521 - Primary title: d_kaul has lost the title: d_kaul
+279 - vassal: d_kaul - Title given to 1004521 - Primary title: d_emongul
+279 - sub vassal: d_kaul - Title given to 1004521 - Primary title: d_emongul
+279 - vassal: d_emongul - Holder (1004521) has gained d_kaul
+279 - sub vassal: d_emongul - Holder (1004521) has gained d_kaul
+279 - sub vassal: c_nara - Holder 1004521 - Primary title: c_nara has lost the title: c_nara
+279 - sub vassal: c_nara - Title given to 1004521 - Primary title: d_emongul
+279 - vassal: d_emongul - Holder (1004521) has gained c_nara
+279 - sub vassal: d_emongul - Holder (1004521) has gained c_nara
+279 - sub vassal: c_renina - Holder 1004521 - Primary title: c_renina has lost the title: c_renina
+279 - sub vassal: c_renina - Title given to 1004521 - Primary title: d_emongul
+279 - vassal: d_emongul - Holder (1004521) has gained c_renina
+279 - sub vassal: d_emongul - Holder (1004521) has gained c_renina
+279 - sub vassal: c_asetina - Holder 1004521 - Primary title: c_asetina has lost the title: c_asetina
+279 - sub vassal: c_asetina - Title given to 1004521 - Primary title: d_emongul
+279 - vassal: d_emongul - Holder (1004521) has gained c_asetina
+279 - sub vassal: d_emongul - Holder (1004521) has gained c_asetina
+279 - sub vassal: c_qetuguo - Holder 1004521 - Primary title: c_qetuguo has lost the title: c_qetuguo
+279 - sub vassal: c_qetuguo - Title given to 1004521 - Primary title: d_emongul
+279 - vassal: d_emongul - Holder (1004521) has gained c_qetuguo
+279 - sub vassal: d_emongul - Holder (1004521) has gained c_qetuguo
+280 - vassal: d_emongul - Holder 1006449 - Primary title: d_emongul has lost the title: c_asetina
+280 - sub vassal: d_emongul - Holder 1006449 - Primary title: d_emongul has lost the title: c_asetina
+280 - sub vassal: c_asetina - Title given to 1006449
+280 - vassal: d_emongul - Holder 1006450 - Primary title: d_emongul has lost the title: c_qetuguo
+280 - sub vassal: d_emongul - Holder 1006450 - Primary title: d_emongul has lost the title: c_qetuguo
+280 - sub vassal: c_qetuguo - Title given to 1006450
+280 - vassal: d_emongul - Holder 1006451 - Primary title: d_emongul has lost the title: c_nara
+280 - sub vassal: d_emongul - Holder 1006451 - Primary title: d_emongul has lost the title: c_nara
+280 - sub vassal: c_nara - Title given to 1006451
+280 - vassal: d_emongul - Holder 1003208 - Primary title: d_emongul has lost the title: c_renina
+280 - sub vassal: d_emongul - Holder 1003208 - Primary title: d_emongul has lost the title: c_renina
+280 - sub vassal: c_renina - Title given to 1003208
+284 - vassal: d_rasina - Holder 1005209 - Primary title: d_rasina has lost the title: d_rasina
+284 - sub vassal: d_rasina - Holder 1005209 - Primary title: d_rasina has lost the title: d_rasina
+284 - vassal: d_rasina - Title given to 1005209 - Primary title: k_ketimon
+284 - sub vassal: d_rasina - Title given to 1005209 - Primary title: k_ketimon
+284 - Holder (1005209) has gained d_rasina
+284 - sub vassal: c_amatand - Holder 1005209 - Primary title: c_amatand has lost the title: c_amatand
+284 - sub vassal: c_amatand - Title given to 1005209 - Primary title: k_ketimon
+284 - Holder (1005209) has gained c_amatand
+284 - sub vassal: c_kedith - Holder 1005209 - Primary title: c_kedith has lost the title: c_kedith
+284 - sub vassal: c_kedith - Title given to 1005209 - Primary title: k_ketimon
+284 - Holder (1005209) has gained c_kedith
+284 - sub vassal: c_bicuqi - Holder 1005209 - Primary title: c_bicuqi has lost the title: c_bicuqi
+284 - sub vassal: c_bicuqi - Title given to 1005209 - Primary title: k_ketimon
+284 - Holder (1005209) has gained c_bicuqi
+284 - sub vassal: c_qurimon - Holder 1005209 - Primary title: c_qurimon has lost the title: c_ehanona
+284 - sub vassal: c_ehanona - Title given to 1005209 - Primary title: k_ketimon
+284 - Holder (1005209) has gained c_ehanona
+284 - sub vassal: c_ehanona - Given to 1006677 in HandleTitles - Too many duke titles
+284 - Holder 1006677 - Primary title: k_ketimon has lost the title: c_ehanona
+284 - sub vassal: c_ehanona - Title given to 1006677
+284 - Holder 1006677 - Primary title: k_ketimon has lost the title: d_kyarevna
+284 - vassal: d_kyarevna - Title given to 1006677 - Primary title: c_ehanona
+284 - sub vassal: d_kyarevna - Title given to 1006677 - Primary title: c_ehanona
+284 - sub vassal: c_ehanona - Holder (1006677) has gained d_kyarevna
+284 - vassal: d_kyarevna - Too many dukes, given to dejure: k_ketimon
+284 - sub vassal: d_kyarevna - Too many dukes, given to dejure: k_ketimon
+296 - vassal: d_emongul - Holder 1006017 - Primary title: d_emongul has lost the title: d_emongul
+296 - sub vassal: d_emongul - Holder 1006017 - Primary title: d_emongul has lost the title: d_emongul
+296 - vassal: d_emongul - Title given to 1006017
+296 - sub vassal: d_emongul - Title given to 1006017
+296 - sub vassal: c_natand - Setting to vassal of d_kaul in Validate Realm
+296 - vassal: d_emongul - Lost vassal: c_natand
+296 - sub vassal: d_emongul - Lost vassal: c_natand
+296 - sub vassal: c_ehkand - Setting to vassal of d_kaul in Validate Realm
+296 - vassal: d_emongul - Lost vassal: c_ehkand
+296 - sub vassal: d_emongul - Lost vassal: c_ehkand
+296 - sub vassal: c_nyarevna - Setting to vassal of d_kaul in Validate Realm
+296 - vassal: d_emongul - Lost vassal: c_nyarevna
+296 - sub vassal: d_emongul - Lost vassal: c_nyarevna
+296 - sub vassal: c_nyarild - Setting to vassal of d_kaul in Validate Realm
+296 - vassal: d_emongul - Lost vassal: c_nyarild
+296 - sub vassal: d_emongul - Lost vassal: c_nyarild
+296 - sub vassal: c_batunas - Setting to vassal of d_kaul in Validate Realm
+296 - vassal: d_emongul - Lost vassal: c_batunas
+296 - sub vassal: d_emongul - Lost vassal: c_batunas
+296 - vassal: d_kaul - Gained vassal: c_batunas
+296 - sub vassal: d_kaul - Gained vassal: c_batunas
+296 - vassal: d_kaul - Gained vassal: c_nyarild
+296 - sub vassal: d_kaul - Gained vassal: c_nyarild
+296 - vassal: d_kaul - Gained vassal: c_nyarevna
+296 - sub vassal: d_kaul - Gained vassal: c_nyarevna
+296 - vassal: d_kaul - Gained vassal: c_ehkand
+296 - sub vassal: d_kaul - Gained vassal: c_ehkand
+296 - vassal: d_kaul - Gained vassal: c_natand
+296 - sub vassal: d_kaul - Gained vassal: c_natand
+296 - vassal: d_kaul - Holder 1006017 - Primary title: d_kaul has lost the title: d_kaul
+296 - sub vassal: d_kaul - Holder 1006017 - Primary title: d_kaul has lost the title: d_kaul
+296 - vassal: d_kaul - Title given to 1006017 - Primary title: d_emongul
+296 - sub vassal: d_kaul - Title given to 1006017 - Primary title: d_emongul
+296 - vassal: d_emongul - Holder (1006017) has gained d_kaul
+296 - sub vassal: d_emongul - Holder (1006017) has gained d_kaul
+296 - sub vassal: c_natand - Holder 1006017 - Primary title: c_natand has lost the title: c_natand
+296 - sub vassal: c_natand - Title given to 1006017 - Primary title: d_emongul
+296 - vassal: d_emongul - Holder (1006017) has gained c_natand
+296 - sub vassal: d_emongul - Holder (1006017) has gained c_natand
+296 - sub vassal: c_ehkand - Holder 1006017 - Primary title: c_ehkand has lost the title: c_ehkand
+296 - sub vassal: c_ehkand - Title given to 1006017 - Primary title: d_emongul
+296 - vassal: d_emongul - Holder (1006017) has gained c_ehkand
+296 - sub vassal: d_emongul - Holder (1006017) has gained c_ehkand
+296 - sub vassal: c_nyarevna - Holder 1006017 - Primary title: c_nyarevna has lost the title: c_nyarevna
+296 - sub vassal: c_nyarevna - Title given to 1006017 - Primary title: d_emongul
+296 - vassal: d_emongul - Holder (1006017) has gained c_nyarevna
+296 - sub vassal: d_emongul - Holder (1006017) has gained c_nyarevna
+296 - sub vassal: c_nyarild - Holder 1006017 - Primary title: c_nyarild has lost the title: c_nyarild
+296 - sub vassal: c_nyarild - Title given to 1006017 - Primary title: d_emongul
+296 - vassal: d_emongul - Holder (1006017) has gained c_nyarild
+296 - sub vassal: d_emongul - Holder (1006017) has gained c_nyarild
+296 - sub vassal: c_batunas - Holder 1006017 - Primary title: c_batunas has lost the title: c_batunas
+296 - sub vassal: c_batunas - Title given to 1006017 - Primary title: d_emongul
+296 - vassal: d_emongul - Holder (1006017) has gained c_batunas
+296 - sub vassal: d_emongul - Holder (1006017) has gained c_batunas
+297 - vassal: d_emongul - Destroyed due to flagged problem
+297 - sub vassal: d_emongul - Destroyed due to flagged problem
+297 - vassal: d_emongul - Made independent
+297 - sub vassal: d_emongul - Made independent
+297 - vassal: d_kyarevna - Holder 1006999 - Primary title: d_kyarevna has lost the title: d_kyarevna
+297 - sub vassal: d_kyarevna - Holder 1006999 - Primary title: d_kyarevna has lost the title: d_kyarevna
+297 - vassal: d_kyarevna - Title given to 1006999
+297 - sub vassal: d_kyarevna - Title given to 1006999
+297 - sub vassal: c_ehanona - Holder 1006999 - Primary title: c_ehanona has lost the title: c_ehanona
+297 - sub vassal: c_ehanona - Title given to 1006999 - Primary title: d_kyarevna
+297 - vassal: d_kyarevna - Holder (1006999) has gained c_ehanona
+297 - sub vassal: d_kyarevna - Holder (1006999) has gained c_ehanona
+300 - sub vassal: c_qurimon - Holder 1006999 - Primary title: c_qurimon has lost the title: c_qurimon
+300 - sub vassal: c_qurimon - Title given to 1006999 - Primary title: d_kyarevna
+300 - vassal: d_kyarevna - Holder (1006999) has gained c_qurimon
+300 - sub vassal: d_kyarevna - Holder (1006999) has gained c_qurimon
+302 - Holder 1006352 - Primary title: k_ketimon has lost the title: k_ketimon
+302 - Title given to 1006352
+302 - vassal: d_rasina - Holder 1006352 - Primary title: d_rasina has lost the title: d_rasina
+302 - sub vassal: d_rasina - Holder 1006352 - Primary title: d_rasina has lost the title: d_rasina
+302 - vassal: d_rasina - Title given to 1006352 - Primary title: k_ketimon
+302 - sub vassal: d_rasina - Title given to 1006352 - Primary title: k_ketimon
+302 - Holder (1006352) has gained d_rasina
+302 - sub vassal: c_bicuqi - Setting to vassal of d_tudatha in Validate Realm
+302 - vassal: d_rasina - Lost vassal: c_bicuqi
+302 - sub vassal: d_rasina - Lost vassal: c_bicuqi
+302 - sub vassal: c_kedith - Setting to vassal of d_tudatha in Validate Realm
+302 - vassal: d_rasina - Lost vassal: c_kedith
+302 - sub vassal: d_rasina - Lost vassal: c_kedith
+302 - sub vassal: c_amatand - Setting to vassal of d_tudatha in Validate Realm
+302 - vassal: d_rasina - Lost vassal: c_amatand
+302 - sub vassal: d_rasina - Lost vassal: c_amatand
+302 - vassal: c_rasild - Setting to vassal of d_tudatha in Validate Realm
+302 - sub vassal: c_rasild - Setting to vassal of d_tudatha in Validate Realm
+302 - Lost vassal: c_rasild
+302 - vassal: d_tudatha - Gained vassal: c_rasild
+302 - sub vassal: d_tudatha - Gained vassal: c_rasild
+302 - vassal: d_tudatha - Gained vassal: c_amatand
+302 - sub vassal: d_tudatha - Gained vassal: c_amatand
+302 - vassal: d_tudatha - Gained vassal: c_kedith
+302 - sub vassal: d_tudatha - Gained vassal: c_kedith
+302 - vassal: d_tudatha - Gained vassal: c_bicuqi
+302 - sub vassal: d_tudatha - Gained vassal: c_bicuqi
+302 - vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: c_bicuqi
+302 - sub vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: c_bicuqi
+302 - sub vassal: c_bicuqi - Title given to 1006352 - Primary title: k_ketimon
+302 - Holder (1006352) has gained c_bicuqi
+302 - sub vassal: c_bicuqi - Setting to vassal of k_ketimon in Validate Realm
+302 - vassal: d_tudatha - Lost vassal: c_bicuqi
+302 - sub vassal: d_tudatha - Lost vassal: c_bicuqi
+302 - Gained vassal: c_bicuqi
+302 - vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: c_kedith
+302 - sub vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: c_kedith
+302 - sub vassal: c_kedith - Title given to 1006352 - Primary title: k_ketimon
+302 - Holder (1006352) has gained c_kedith
+302 - sub vassal: c_kedith - Setting to vassal of k_ketimon in Validate Realm
+302 - vassal: d_tudatha - Lost vassal: c_kedith
+302 - sub vassal: d_tudatha - Lost vassal: c_kedith
+302 - Gained vassal: c_kedith
+302 - vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: c_amatand
+302 - sub vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: c_amatand
+302 - sub vassal: c_amatand - Title given to 1006352 - Primary title: k_ketimon
+302 - Holder (1006352) has gained c_amatand
+302 - sub vassal: c_amatand - Setting to vassal of k_ketimon in Validate Realm
+302 - vassal: d_tudatha - Lost vassal: c_amatand
+302 - sub vassal: d_tudatha - Lost vassal: c_amatand
+302 - Gained vassal: c_amatand
+302 - vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: c_rasild
+302 - sub vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: c_rasild
+302 - sub vassal: c_rasild - Title given to 1006352 - Primary title: k_ketimon
+302 - Holder (1006352) has gained c_rasild
+302 - sub vassal: c_rasild - Setting to vassal of k_ketimon in Validate Realm
+302 - vassal: d_tudatha - Lost vassal: c_rasild
+302 - sub vassal: d_tudatha - Lost vassal: c_rasild
+302 - Gained vassal: c_rasild
+302 - vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: d_tudatha
+302 - sub vassal: d_tudatha - Holder 1006352 - Primary title: d_tudatha has lost the title: d_tudatha
+302 - vassal: d_tudatha - Title given to 1006352 - Primary title: k_ketimon
+302 - sub vassal: d_tudatha - Title given to 1006352 - Primary title: k_ketimon
+302 - Holder (1006352) has gained d_tudatha
+303 - vassal: d_rasina - Destroyed due to flagged problem
+303 - sub vassal: d_rasina - Destroyed due to flagged problem
+303 - vassal: d_rasina - Made independent
+303 - sub vassal: d_rasina - Made independent
+307 - sub vassal: c_dohafer - Holder 1004767 - Primary title: c_dohafer has lost the title: c_dohafer
+307 - sub vassal: c_dohafer - Title given to 1004767 - Primary title: d_lavugh
+307 - vassal: d_lavugh - Holder (1004767) has gained c_dohafer
+307 - sub vassal: d_lavugh - Holder (1004767) has gained c_dohafer
+307 - sub vassal: c_eroxelge - Holder 1004767 - Primary title: c_eroxelge has lost the title: c_eroxelge
+307 - sub vassal: c_eroxelge - Title given to 1004767 - Primary title: d_lavugh
+307 - vassal: d_lavugh - Holder (1004767) has gained c_eroxelge
+307 - sub vassal: d_lavugh - Holder (1004767) has gained c_eroxelge
+307 - sub vassal: c_ahkina - Holder 1004767 - Primary title: c_ahkina has lost the title: c_ahkina
+307 - sub vassal: c_ahkina - Title given to 1004767 - Primary title: d_lavugh
+307 - vassal: d_lavugh - Holder (1004767) has gained c_ahkina
+307 - sub vassal: d_lavugh - Holder (1004767) has gained c_ahkina
+307 - vassal: d_kaul - Holder (1006017) has gained d_emongul
+307 - sub vassal: d_kaul - Holder (1006017) has gained d_emongul
+307 - Gained vassal: d_emongul
+307 - vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+307 - sub vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+307 - vassal: d_emongul - Made independent
+307 - sub vassal: d_emongul - Made independent
+307 - sub vassal: c_batunas - Set liege on title creation d_emongul
+307 - vassal: d_kaul - Lost vassal: c_batunas
+307 - sub vassal: d_kaul - Lost vassal: c_batunas
+307 - sub vassal: c_nyarild - Set liege on title creation d_emongul
+307 - vassal: d_kaul - Lost vassal: c_nyarild
+307 - sub vassal: d_kaul - Lost vassal: c_nyarild
+307 - sub vassal: c_nyarevna - Set liege on title creation d_emongul
+307 - vassal: d_kaul - Lost vassal: c_nyarevna
+307 - sub vassal: d_kaul - Lost vassal: c_nyarevna
+307 - sub vassal: c_ehkand - Set liege on title creation d_emongul
+307 - vassal: d_kaul - Lost vassal: c_ehkand
+307 - sub vassal: d_kaul - Lost vassal: c_ehkand
+307 - sub vassal: c_natand - Set liege on title creation d_emongul
+307 - vassal: d_kaul - Lost vassal: c_natand
+307 - sub vassal: d_kaul - Lost vassal: c_natand
+307 - sub vassal: c_batunas - Setting independent due to liege destruction
+307 - sub vassal: c_batunas - Made independent
+307 - sub vassal: c_nyarild - Setting independent due to liege destruction
+307 - sub vassal: c_nyarild - Made independent
+307 - sub vassal: c_nyarevna - Setting independent due to liege destruction
+307 - sub vassal: c_nyarevna - Made independent
+307 - sub vassal: c_ehkand - Setting independent due to liege destruction
+307 - sub vassal: c_ehkand - Made independent
+307 - sub vassal: c_natand - Setting independent due to liege destruction
+307 - sub vassal: c_natand - Made independent
+308 - vassal: d_kaul - Holder (1006017) has gained d_emongul
+308 - sub vassal: d_kaul - Holder (1006017) has gained d_emongul
+308 - Gained vassal: d_emongul
+308 - vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+308 - sub vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+308 - vassal: d_emongul - Made independent
+308 - sub vassal: d_emongul - Made independent
+308 - sub vassal: c_natand - Setting independent due to liege destruction
+308 - sub vassal: c_natand - Made independent
+308 - sub vassal: c_ehkand - Setting independent due to liege destruction
+308 - sub vassal: c_ehkand - Made independent
+308 - sub vassal: c_nyarevna - Setting independent due to liege destruction
+308 - sub vassal: c_nyarevna - Made independent
+308 - sub vassal: c_nyarild - Setting independent due to liege destruction
+308 - sub vassal: c_nyarild - Made independent
+308 - sub vassal: c_batunas - Setting independent due to liege destruction
+308 - sub vassal: c_batunas - Made independent
+310 - vassal: d_kyarevna - Holder 1008154 - Primary title: d_kyarevna has lost the title: d_kyarevna
+310 - sub vassal: d_kyarevna - Holder 1008154 - Primary title: d_kyarevna has lost the title: d_kyarevna
+310 - vassal: d_kyarevna - Title given to 1008154
+310 - sub vassal: d_kyarevna - Title given to 1008154
+310 - sub vassal: c_qurimon - Holder 1008154 - Primary title: c_qurimon has lost the title: c_qurimon
+310 - sub vassal: c_qurimon - Title given to 1008154 - Primary title: d_kyarevna
+310 - vassal: d_kyarevna - Holder (1008154) has gained c_qurimon
+310 - sub vassal: d_kyarevna - Holder (1008154) has gained c_qurimon
+310 - sub vassal: c_ehanona - Holder 1008154 - Primary title: c_ehanona has lost the title: c_ehanona
+310 - sub vassal: c_ehanona - Title given to 1008154 - Primary title: d_kyarevna
+310 - vassal: d_kyarevna - Holder (1008154) has gained c_ehanona
+310 - sub vassal: d_kyarevna - Holder (1008154) has gained c_ehanona
+311 - vassal: d_kaul - Holder 1007951 - Primary title: d_kaul has lost the title: d_kaul
+311 - sub vassal: d_kaul - Holder 1007951 - Primary title: d_kaul has lost the title: d_kaul
+311 - vassal: d_kaul - Title given to 1007951
+311 - sub vassal: d_kaul - Title given to 1007951
+311 - vassal: d_kaul - Holder (1007951) has gained c_batunas
+311 - sub vassal: d_kaul - Holder (1007951) has gained c_batunas
+311 - vassal: d_kaul - Holder (1007951) has gained c_nyarild
+311 - sub vassal: d_kaul - Holder (1007951) has gained c_nyarild
+311 - vassal: d_kaul - Holder (1007951) has gained c_nyarevna
+311 - sub vassal: d_kaul - Holder (1007951) has gained c_nyarevna
+311 - vassal: d_kaul - Holder (1007951) has gained c_ehkand
+311 - sub vassal: d_kaul - Holder (1007951) has gained c_ehkand
+311 - vassal: d_kaul - Holder (1007951) has gained c_natand
+311 - sub vassal: d_kaul - Holder (1007951) has gained c_natand
+315 - vassal: d_kaul - Holder 1008154 - Primary title: d_kaul has lost the title: d_kaul
+315 - sub vassal: d_kaul - Holder 1008154 - Primary title: d_kaul has lost the title: d_kaul
+315 - vassal: d_kaul - Title given to 1008154 - Primary title: d_kyarevna
+315 - sub vassal: d_kaul - Title given to 1008154 - Primary title: d_kyarevna
+315 - vassal: d_kyarevna - Holder (1008154) has gained d_kaul
+315 - sub vassal: d_kyarevna - Holder (1008154) has gained d_kaul
+315 - vassal: d_kyarevna - Holder (1008154) has gained c_batunas
+315 - sub vassal: d_kyarevna - Holder (1008154) has gained c_batunas
+315 - vassal: d_kyarevna - Holder (1008154) has gained c_nyarild
+315 - sub vassal: d_kyarevna - Holder (1008154) has gained c_nyarild
+315 - vassal: d_kyarevna - Holder (1008154) has gained c_nyarevna
+315 - sub vassal: d_kyarevna - Holder (1008154) has gained c_nyarevna
+315 - vassal: d_kyarevna - Holder (1008154) has gained c_ehkand
+315 - sub vassal: d_kyarevna - Holder (1008154) has gained c_ehkand
+315 - vassal: d_kyarevna - Holder (1008154) has gained c_natand
+315 - sub vassal: d_kyarevna - Holder (1008154) has gained c_natand
+316 - vassal: d_kaul - Holder 1008524 - Primary title: d_kaul has lost the title: c_qurimon
+316 - sub vassal: d_kaul - Holder 1008524 - Primary title: d_kaul has lost the title: c_qurimon
+316 - sub vassal: c_qurimon - Title given to 1008524
+316 - vassal: d_kaul - Holder 1008525 - Primary title: d_kaul has lost the title: c_nyarevna
+316 - sub vassal: d_kaul - Holder 1008525 - Primary title: d_kaul has lost the title: c_nyarevna
+316 - vassal: d_kaul - Gained vassal: c_nyarevna
+316 - sub vassal: d_kaul - Gained vassal: c_nyarevna
+316 - vassal: d_lavugh - Holder 1006242 - Primary title: d_lavugh has lost the title: d_lavugh
+316 - sub vassal: d_lavugh - Holder 1006242 - Primary title: d_lavugh has lost the title: d_lavugh
+316 - vassal: d_lavugh - Title given to 1006242
+316 - sub vassal: d_lavugh - Title given to 1006242
+316 - sub vassal: c_esetunas - Holder 1006242 - Primary title: c_esetunas has lost the title: c_esetunas
+316 - sub vassal: c_esetunas - Title given to 1006242 - Primary title: d_lavugh
+316 - vassal: d_lavugh - Holder (1006242) has gained c_esetunas
+316 - sub vassal: d_lavugh - Holder (1006242) has gained c_esetunas
+316 - sub vassal: c_dohafer - Holder 1006242 - Primary title: c_dohafer has lost the title: c_dohafer
+316 - sub vassal: c_dohafer - Title given to 1006242 - Primary title: d_lavugh
+316 - vassal: d_lavugh - Holder (1006242) has gained c_dohafer
+316 - sub vassal: d_lavugh - Holder (1006242) has gained c_dohafer
+316 - sub vassal: c_eroxelge - Holder 1006242 - Primary title: c_eroxelge has lost the title: c_eroxelge
+316 - sub vassal: c_eroxelge - Title given to 1006242 - Primary title: d_lavugh
+316 - vassal: d_lavugh - Holder (1006242) has gained c_eroxelge
+316 - sub vassal: d_lavugh - Holder (1006242) has gained c_eroxelge
+316 - sub vassal: c_ahkina - Holder 1006242 - Primary title: c_ahkina has lost the title: c_ahkina
+316 - sub vassal: c_ahkina - Title given to 1006242 - Primary title: d_lavugh
+316 - vassal: d_lavugh - Holder (1006242) has gained c_ahkina
+316 - sub vassal: d_lavugh - Holder (1006242) has gained c_ahkina
+322 - vassal: d_lavugh - Holder 1006352 - Primary title: d_lavugh has lost the title: d_lavugh
+322 - sub vassal: d_lavugh - Holder 1006352 - Primary title: d_lavugh has lost the title: d_lavugh
+322 - vassal: d_lavugh - Title given to 1006352 - Primary title: k_ketimon
+322 - sub vassal: d_lavugh - Title given to 1006352 - Primary title: k_ketimon
+322 - Holder (1006352) has gained d_lavugh
+322 - sub vassal: c_ahkina - Holder 1006352 - Primary title: c_ahkina has lost the title: c_ahkina
+322 - sub vassal: c_ahkina - Title given to 1006352 - Primary title: k_ketimon
+322 - Holder (1006352) has gained c_ahkina
+322 - sub vassal: c_eroxelge - Holder 1006352 - Primary title: c_eroxelge has lost the title: c_eroxelge
+322 - sub vassal: c_eroxelge - Title given to 1006352 - Primary title: k_ketimon
+322 - Holder (1006352) has gained c_eroxelge
+322 - sub vassal: c_dohafer - Holder 1006352 - Primary title: c_dohafer has lost the title: c_dohafer
+322 - sub vassal: c_dohafer - Title given to 1006352 - Primary title: k_ketimon
+322 - Holder (1006352) has gained c_dohafer
+322 - sub vassal: c_esetunas - Holder 1006352 - Primary title: c_esetunas has lost the title: c_esetunas
+322 - sub vassal: c_esetunas - Title given to 1006352 - Primary title: k_ketimon
+322 - Holder (1006352) has gained c_esetunas
+322 - Holder 1004392 - Primary title: k_ketimon has lost the title: c_esetunas
+322 - sub vassal: c_esetunas - Title given to 1004392
+322 - Holder 1008820 - Primary title: k_ketimon has lost the title: c_dohafer
+322 - sub vassal: c_dohafer - Title given to 1008820
+322 - Holder 1008821 - Primary title: k_ketimon has lost the title: c_ahkina
+322 - sub vassal: c_ahkina - Title given to 1008821
+327 - vassal: d_kaul - Holder 1009025 - Primary title: d_kaul has lost the title: d_kaul
+327 - sub vassal: d_kaul - Holder 1009025 - Primary title: d_kaul has lost the title: d_kaul
+327 - vassal: d_kaul - Title given to 1009025
+327 - sub vassal: d_kaul - Title given to 1009025
+327 - vassal: d_kyarevna - Holder 1009025 - Primary title: d_kyarevna has lost the title: d_kyarevna
+327 - sub vassal: d_kyarevna - Holder 1009025 - Primary title: d_kyarevna has lost the title: d_kyarevna
+327 - vassal: d_kyarevna - Title given to 1009025 - Primary title: d_kaul
+327 - sub vassal: d_kyarevna - Title given to 1009025 - Primary title: d_kaul
+327 - vassal: d_kaul - Holder (1009025) has gained d_kyarevna
+327 - sub vassal: d_kaul - Holder (1009025) has gained d_kyarevna
+327 - vassal: d_kaul - Holder (1009025) has gained c_natand
+327 - sub vassal: d_kaul - Holder (1009025) has gained c_natand
+327 - vassal: d_kaul - Holder (1009025) has gained c_ehkand
+327 - sub vassal: d_kaul - Holder (1009025) has gained c_ehkand
+327 - vassal: d_kaul - Holder (1009025) has gained c_nyarild
+327 - sub vassal: d_kaul - Holder (1009025) has gained c_nyarild
+327 - vassal: d_kaul - Holder (1009025) has gained c_batunas
+327 - sub vassal: d_kaul - Holder (1009025) has gained c_batunas
+327 - vassal: d_kaul - Holder (1009025) has gained c_ehanona
+327 - sub vassal: d_kaul - Holder (1009025) has gained c_ehanona
+330 - Holder 1008984 - Primary title: k_ketimon has lost the title: k_ketimon
+330 - Title given to 1008984
+330 - vassal: d_tudatha - Holder 1008984 - Primary title: d_tudatha has lost the title: d_tudatha
+330 - sub vassal: d_tudatha - Holder 1008984 - Primary title: d_tudatha has lost the title: d_tudatha
+330 - vassal: d_tudatha - Title given to 1008984 - Primary title: k_ketimon
+330 - sub vassal: d_tudatha - Title given to 1008984 - Primary title: k_ketimon
+330 - Holder (1008984) has gained d_tudatha
+330 - vassal: c_rasild - Setting to vassal of d_lavugh in Validate Realm
+330 - sub vassal: c_rasild - Setting to vassal of d_lavugh in Validate Realm
+330 - Lost vassal: c_rasild
+330 - vassal: c_amatand - Setting to vassal of d_lavugh in Validate Realm
+330 - sub vassal: c_amatand - Setting to vassal of d_lavugh in Validate Realm
+330 - Lost vassal: c_amatand
+330 - vassal: c_kedith - Setting to vassal of d_lavugh in Validate Realm
+330 - sub vassal: c_kedith - Setting to vassal of d_lavugh in Validate Realm
+330 - Lost vassal: c_kedith
+330 - vassal: c_bicuqi - Setting to vassal of d_lavugh in Validate Realm
+330 - sub vassal: c_bicuqi - Setting to vassal of d_lavugh in Validate Realm
+330 - Lost vassal: c_bicuqi
+330 - vassal: d_lavugh - Gained vassal: c_bicuqi
+330 - sub vassal: d_lavugh - Gained vassal: c_bicuqi
+330 - vassal: d_lavugh - Gained vassal: c_kedith
+330 - sub vassal: d_lavugh - Gained vassal: c_kedith
+330 - vassal: d_lavugh - Gained vassal: c_amatand
+330 - sub vassal: d_lavugh - Gained vassal: c_amatand
+330 - vassal: d_lavugh - Gained vassal: c_rasild
+330 - sub vassal: d_lavugh - Gained vassal: c_rasild
+330 - vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: c_rasild
+330 - sub vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: c_rasild
+330 - sub vassal: c_rasild - Title given to 1008984 - Primary title: k_ketimon
+330 - Holder (1008984) has gained c_rasild
+330 - sub vassal: c_rasild - Setting to vassal of k_ketimon in Validate Realm
+330 - vassal: d_lavugh - Lost vassal: c_rasild
+330 - sub vassal: d_lavugh - Lost vassal: c_rasild
+330 - Gained vassal: c_rasild
+330 - vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: c_amatand
+330 - sub vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: c_amatand
+330 - sub vassal: c_amatand - Title given to 1008984 - Primary title: k_ketimon
+330 - Holder (1008984) has gained c_amatand
+330 - sub vassal: c_amatand - Setting to vassal of k_ketimon in Validate Realm
+330 - vassal: d_lavugh - Lost vassal: c_amatand
+330 - sub vassal: d_lavugh - Lost vassal: c_amatand
+330 - Gained vassal: c_amatand
+330 - vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: c_kedith
+330 - sub vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: c_kedith
+330 - sub vassal: c_kedith - Title given to 1008984 - Primary title: k_ketimon
+330 - Holder (1008984) has gained c_kedith
+330 - sub vassal: c_kedith - Setting to vassal of k_ketimon in Validate Realm
+330 - vassal: d_lavugh - Lost vassal: c_kedith
+330 - sub vassal: d_lavugh - Lost vassal: c_kedith
+330 - Gained vassal: c_kedith
+330 - vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: c_bicuqi
+330 - sub vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: c_bicuqi
+330 - sub vassal: c_bicuqi - Title given to 1008984 - Primary title: k_ketimon
+330 - Holder (1008984) has gained c_bicuqi
+330 - sub vassal: c_bicuqi - Setting to vassal of k_ketimon in Validate Realm
+330 - vassal: d_lavugh - Lost vassal: c_bicuqi
+330 - sub vassal: d_lavugh - Lost vassal: c_bicuqi
+330 - Gained vassal: c_bicuqi
+330 - vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: d_lavugh
+330 - sub vassal: d_lavugh - Holder 1008984 - Primary title: d_lavugh has lost the title: d_lavugh
+330 - vassal: d_lavugh - Title given to 1008984 - Primary title: k_ketimon
+330 - sub vassal: d_lavugh - Title given to 1008984 - Primary title: k_ketimon
+330 - Holder (1008984) has gained d_lavugh
+330 - sub vassal: c_eroxelge - Holder 1008984 - Primary title: c_eroxelge has lost the title: c_eroxelge
+330 - sub vassal: c_eroxelge - Title given to 1008984 - Primary title: k_ketimon
+330 - Holder (1008984) has gained c_eroxelge
+353 - vassal: d_kaul - Holder (1009025) has gained d_emongul
+353 - sub vassal: d_kaul - Holder (1009025) has gained d_emongul
+353 - Gained vassal: d_emongul
+353 - vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+353 - sub vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+353 - vassal: d_emongul - Made independent
+353 - sub vassal: d_emongul - Made independent
+353 - sub vassal: c_natand - Setting independent due to liege destruction
+353 - sub vassal: c_natand - Made independent
+353 - sub vassal: c_ehkand - Setting independent due to liege destruction
+353 - sub vassal: c_ehkand - Made independent
+353 - sub vassal: c_nyarild - Setting independent due to liege destruction
+353 - sub vassal: c_nyarild - Made independent
+353 - sub vassal: c_batunas - Setting independent due to liege destruction
+353 - sub vassal: c_batunas - Made independent
+353 - sub vassal: c_ehanona - Setting independent due to liege destruction
+353 - sub vassal: c_ehanona - Made independent
+355 - vassal: d_kaul - Holder (1009025) has gained d_emongul
+355 - sub vassal: d_kaul - Holder (1009025) has gained d_emongul
+355 - Gained vassal: d_emongul
+355 - vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+355 - sub vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+355 - vassal: d_emongul - Made independent
+355 - sub vassal: d_emongul - Made independent
+355 - sub vassal: c_natand - Setting independent due to liege destruction
+355 - sub vassal: c_natand - Made independent
+355 - sub vassal: c_ehkand - Setting independent due to liege destruction
+355 - sub vassal: c_ehkand - Made independent
+355 - sub vassal: c_nyarild - Setting independent due to liege destruction
+355 - sub vassal: c_nyarild - Made independent
+355 - sub vassal: c_batunas - Setting independent due to liege destruction
+355 - sub vassal: c_batunas - Made independent
+355 - sub vassal: c_ehanona - Setting independent due to liege destruction
+355 - sub vassal: c_ehanona - Made independent
+364 - vassal: d_kaul - Holder 1009890 - Primary title: d_kaul has lost the title: d_kaul
+364 - sub vassal: d_kaul - Holder 1009890 - Primary title: d_kaul has lost the title: d_kaul
+364 - vassal: d_kaul - Title given to 1009890
+364 - sub vassal: d_kaul - Title given to 1009890
+364 - vassal: d_kyarevna - Holder 1009890 - Primary title: d_kyarevna has lost the title: d_kyarevna
+364 - sub vassal: d_kyarevna - Holder 1009890 - Primary title: d_kyarevna has lost the title: d_kyarevna
+364 - vassal: d_kyarevna - Title given to 1009890 - Primary title: d_kaul
+364 - sub vassal: d_kyarevna - Title given to 1009890 - Primary title: d_kaul
+364 - vassal: d_kaul - Holder (1009890) has gained d_kyarevna
+364 - sub vassal: d_kaul - Holder (1009890) has gained d_kyarevna
+364 - vassal: d_kaul - Holder (1009890) has gained c_natand
+364 - sub vassal: d_kaul - Holder (1009890) has gained c_natand
+364 - vassal: d_kaul - Holder (1009890) has gained c_ehkand
+364 - sub vassal: d_kaul - Holder (1009890) has gained c_ehkand
+364 - vassal: d_kaul - Holder (1009890) has gained c_nyarild
+364 - sub vassal: d_kaul - Holder (1009890) has gained c_nyarild
+364 - vassal: d_kaul - Holder (1009890) has gained c_batunas
+364 - sub vassal: d_kaul - Holder (1009890) has gained c_batunas
+364 - vassal: d_kaul - Holder (1009890) has gained c_ehanona
+364 - sub vassal: d_kaul - Holder (1009890) has gained c_ehanona
+378 - vassal: d_kaul - Holder (1009890) has gained d_emongul
+378 - sub vassal: d_kaul - Holder (1009890) has gained d_emongul
+378 - Gained vassal: d_emongul
+378 - vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+378 - sub vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+378 - vassal: d_emongul - Made independent
+378 - sub vassal: d_emongul - Made independent
+378 - sub vassal: c_ehanona - Setting independent due to liege destruction
+378 - sub vassal: c_ehanona - Made independent
+378 - sub vassal: c_batunas - Setting independent due to liege destruction
+378 - sub vassal: c_batunas - Made independent
+378 - sub vassal: c_nyarild - Setting independent due to liege destruction
+378 - sub vassal: c_nyarild - Made independent
+378 - sub vassal: c_ehkand - Setting independent due to liege destruction
+378 - sub vassal: c_ehkand - Made independent
+378 - sub vassal: c_natand - Setting independent due to liege destruction
+378 - sub vassal: c_natand - Made independent
+385 - vassal: d_kaul - Holder 1011047 - Primary title: d_kaul has lost the title: d_kaul
+385 - sub vassal: d_kaul - Holder 1011047 - Primary title: d_kaul has lost the title: d_kaul
+385 - vassal: d_kaul - Title given to 1011047
+385 - sub vassal: d_kaul - Title given to 1011047
+385 - vassal: d_kyarevna - Holder 1011047 - Primary title: d_kyarevna has lost the title: d_kyarevna
+385 - sub vassal: d_kyarevna - Holder 1011047 - Primary title: d_kyarevna has lost the title: d_kyarevna
+385 - vassal: d_kyarevna - Title given to 1011047 - Primary title: d_kaul
+385 - sub vassal: d_kyarevna - Title given to 1011047 - Primary title: d_kaul
+385 - vassal: d_kaul - Holder (1011047) has gained d_kyarevna
+385 - sub vassal: d_kaul - Holder (1011047) has gained d_kyarevna
+385 - vassal: d_kaul - Holder (1011047) has gained c_ehanona
+385 - sub vassal: d_kaul - Holder (1011047) has gained c_ehanona
+385 - vassal: d_kaul - Holder (1011047) has gained c_batunas
+385 - sub vassal: d_kaul - Holder (1011047) has gained c_batunas
+385 - vassal: d_kaul - Holder (1011047) has gained c_nyarild
+385 - sub vassal: d_kaul - Holder (1011047) has gained c_nyarild
+385 - vassal: d_kaul - Holder (1011047) has gained c_ehkand
+385 - sub vassal: d_kaul - Holder (1011047) has gained c_ehkand
+385 - vassal: d_kaul - Holder (1011047) has gained c_natand
+385 - sub vassal: d_kaul - Holder (1011047) has gained c_natand
+392 - Holder 1010764 - Primary title: k_ketimon has lost the title: k_ketimon
+392 - Title given to 1010764
+392 - vassal: d_lavugh - Holder 1010764 - Primary title: d_lavugh has lost the title: d_lavugh
+392 - sub vassal: d_lavugh - Holder 1010764 - Primary title: d_lavugh has lost the title: d_lavugh
+392 - vassal: d_lavugh - Title given to 1010764 - Primary title: k_ketimon
+392 - sub vassal: d_lavugh - Title given to 1010764 - Primary title: k_ketimon
+392 - Holder (1010764) has gained d_lavugh
+392 - sub vassal: c_eroxelge - Setting to vassal of d_tudatha in Validate Realm
+392 - vassal: d_lavugh - Lost vassal: c_eroxelge
+392 - sub vassal: d_lavugh - Lost vassal: c_eroxelge
+392 - vassal: c_bicuqi - Setting to vassal of d_tudatha in Validate Realm
+392 - sub vassal: c_bicuqi - Setting to vassal of d_tudatha in Validate Realm
+392 - Lost vassal: c_bicuqi
+392 - vassal: c_kedith - Setting to vassal of d_tudatha in Validate Realm
+392 - sub vassal: c_kedith - Setting to vassal of d_tudatha in Validate Realm
+392 - Lost vassal: c_kedith
+392 - vassal: c_amatand - Setting to vassal of d_tudatha in Validate Realm
+392 - sub vassal: c_amatand - Setting to vassal of d_tudatha in Validate Realm
+392 - Lost vassal: c_amatand
+392 - vassal: c_rasild - Setting to vassal of d_tudatha in Validate Realm
+392 - sub vassal: c_rasild - Setting to vassal of d_tudatha in Validate Realm
+392 - Lost vassal: c_rasild
+392 - vassal: d_tudatha - Gained vassal: c_rasild
+392 - sub vassal: d_tudatha - Gained vassal: c_rasild
+392 - vassal: d_tudatha - Gained vassal: c_amatand
+392 - sub vassal: d_tudatha - Gained vassal: c_amatand
+392 - vassal: d_tudatha - Gained vassal: c_kedith
+392 - sub vassal: d_tudatha - Gained vassal: c_kedith
+392 - vassal: d_tudatha - Gained vassal: c_bicuqi
+392 - sub vassal: d_tudatha - Gained vassal: c_bicuqi
+392 - vassal: d_tudatha - Gained vassal: c_eroxelge
+392 - sub vassal: d_tudatha - Gained vassal: c_eroxelge
+392 - vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_eroxelge
+392 - sub vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_eroxelge
+392 - sub vassal: c_eroxelge - Title given to 1010764 - Primary title: k_ketimon
+392 - Holder (1010764) has gained c_eroxelge
+392 - sub vassal: c_eroxelge - Setting to vassal of k_ketimon in Validate Realm
+392 - vassal: d_tudatha - Lost vassal: c_eroxelge
+392 - sub vassal: d_tudatha - Lost vassal: c_eroxelge
+392 - Gained vassal: c_eroxelge
+392 - vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_bicuqi
+392 - sub vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_bicuqi
+392 - sub vassal: c_bicuqi - Title given to 1010764 - Primary title: k_ketimon
+392 - Holder (1010764) has gained c_bicuqi
+392 - sub vassal: c_bicuqi - Setting to vassal of k_ketimon in Validate Realm
+392 - vassal: d_tudatha - Lost vassal: c_bicuqi
+392 - sub vassal: d_tudatha - Lost vassal: c_bicuqi
+392 - Gained vassal: c_bicuqi
+392 - vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_kedith
+392 - sub vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_kedith
+392 - sub vassal: c_kedith - Title given to 1010764 - Primary title: k_ketimon
+392 - Holder (1010764) has gained c_kedith
+392 - sub vassal: c_kedith - Setting to vassal of k_ketimon in Validate Realm
+392 - vassal: d_tudatha - Lost vassal: c_kedith
+392 - sub vassal: d_tudatha - Lost vassal: c_kedith
+392 - Gained vassal: c_kedith
+392 - vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_amatand
+392 - sub vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_amatand
+392 - sub vassal: c_amatand - Title given to 1010764 - Primary title: k_ketimon
+392 - Holder (1010764) has gained c_amatand
+392 - sub vassal: c_amatand - Setting to vassal of k_ketimon in Validate Realm
+392 - vassal: d_tudatha - Lost vassal: c_amatand
+392 - sub vassal: d_tudatha - Lost vassal: c_amatand
+392 - Gained vassal: c_amatand
+392 - vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_rasild
+392 - sub vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: c_rasild
+392 - sub vassal: c_rasild - Title given to 1010764 - Primary title: k_ketimon
+392 - Holder (1010764) has gained c_rasild
+392 - sub vassal: c_rasild - Setting to vassal of k_ketimon in Validate Realm
+392 - vassal: d_tudatha - Lost vassal: c_rasild
+392 - sub vassal: d_tudatha - Lost vassal: c_rasild
+392 - Gained vassal: c_rasild
+392 - vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: d_tudatha
+392 - sub vassal: d_tudatha - Holder 1010764 - Primary title: d_tudatha has lost the title: d_tudatha
+392 - vassal: d_tudatha - Title given to 1010764 - Primary title: k_ketimon
+392 - sub vassal: d_tudatha - Title given to 1010764 - Primary title: k_ketimon
+392 - Holder (1010764) has gained d_tudatha
+395 - vassal: d_kaul - Holder (1011047) has gained d_emongul
+395 - sub vassal: d_kaul - Holder (1011047) has gained d_emongul
+395 - Gained vassal: d_emongul
+395 - vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+395 - sub vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+395 - vassal: d_emongul - Made independent
+395 - sub vassal: d_emongul - Made independent
+395 - sub vassal: c_natand - Setting independent due to liege destruction
+395 - sub vassal: c_natand - Made independent
+395 - sub vassal: c_ehkand - Setting independent due to liege destruction
+395 - sub vassal: c_ehkand - Made independent
+395 - sub vassal: c_nyarild - Setting independent due to liege destruction
+395 - sub vassal: c_nyarild - Made independent
+395 - sub vassal: c_batunas - Setting independent due to liege destruction
+395 - sub vassal: c_batunas - Made independent
+395 - sub vassal: c_ehanona - Setting independent due to liege destruction
+395 - sub vassal: c_ehanona - Made independent
+396 - vassal: d_kaul - Holder (1011047) has gained d_emongul
+396 - sub vassal: d_kaul - Holder (1011047) has gained d_emongul
+396 - Gained vassal: d_emongul
+396 - vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+396 - sub vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+396 - vassal: d_emongul - Made independent
+396 - sub vassal: d_emongul - Made independent
+396 - sub vassal: c_natand - Setting independent due to liege destruction
+396 - sub vassal: c_natand - Made independent
+396 - sub vassal: c_ehkand - Setting independent due to liege destruction
+396 - sub vassal: c_ehkand - Made independent
+396 - sub vassal: c_nyarild - Setting independent due to liege destruction
+396 - sub vassal: c_nyarild - Made independent
+396 - sub vassal: c_batunas - Setting independent due to liege destruction
+396 - sub vassal: c_batunas - Made independent
+396 - sub vassal: c_ehanona - Setting independent due to liege destruction
+396 - sub vassal: c_ehanona - Made independent
+398 - vassal: d_kaul - Holder (1011047) has gained d_emongul
+398 - sub vassal: d_kaul - Holder (1011047) has gained d_emongul
+398 - Gained vassal: d_emongul
+398 - vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+398 - sub vassal: d_emongul - Made independent for title creation d_emongul for d_kaul
+398 - vassal: d_emongul - Made independent
+398 - sub vassal: d_emongul - Made independent
+398 - sub vassal: c_natand - Setting independent due to liege destruction
+398 - sub vassal: c_natand - Made independent
+398 - sub vassal: c_ehkand - Setting independent due to liege destruction
+398 - sub vassal: c_ehkand - Made independent
+398 - sub vassal: c_nyarild - Setting independent due to liege destruction
+398 - sub vassal: c_nyarild - Made independent
+398 - sub vassal: c_batunas - Setting independent due to liege destruction
+398 - sub vassal: c_batunas - Made independent
+398 - sub vassal: c_ehanona - Setting independent due to liege destruction
+398 - sub vassal: c_ehanona - Made independent

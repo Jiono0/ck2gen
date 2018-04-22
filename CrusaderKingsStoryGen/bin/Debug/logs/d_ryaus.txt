@@ -1,0 +1,89 @@
+200 - Title given to 1000992
+200 - vassal: c_eberodar - Given to 1000995 via AddCharacterForTitle
+200 - sub vassal: c_eberodar - Given to 1000995 via AddCharacterForTitle
+200 - vassal: c_eberodar - Holder 1000995 - Primary title: c_eberodar has lost the title: c_eberodar
+200 - sub vassal: c_eberodar - Holder 1000995 - Primary title: c_eberodar has lost the title: c_eberodar
+200 - vassal: c_eberodar - Title given to 1000995
+200 - sub vassal: c_eberodar - Title given to 1000995
+200 - vassal: c_reyide - Holder 1000992 - Primary title: c_reyide has lost the title: c_reyide
+200 - sub vassal: c_reyide - Holder 1000992 - Primary title: c_reyide has lost the title: c_reyide
+200 - vassal: c_reyide - Title given to 1000992 - Primary title: d_ryaus
+200 - sub vassal: c_reyide - Title given to 1000992 - Primary title: d_ryaus
+200 - Holder (1000992) has gained c_reyide
+200 - vassal: c_eberodar - Holder 1000992 - Primary title: c_eberodar has lost the title: c_eberodar
+200 - sub vassal: c_eberodar - Holder 1000992 - Primary title: c_eberodar has lost the title: c_eberodar
+200 - vassal: c_eberodar - Title given to 1000992 - Primary title: d_ryaus
+200 - sub vassal: c_eberodar - Title given to 1000992 - Primary title: d_ryaus
+200 - Holder (1000992) has gained c_eberodar
+200 - vassal: c_ejoanaus - Holder 1000992 - Primary title: c_ejoanaus has lost the title: c_ejoanaus
+200 - sub vassal: c_ejoanaus - Holder 1000992 - Primary title: c_ejoanaus has lost the title: c_ejoanaus
+200 - vassal: c_ejoanaus - Title given to 1000992 - Primary title: d_ryaus
+200 - sub vassal: c_ejoanaus - Title given to 1000992 - Primary title: d_ryaus
+200 - Holder (1000992) has gained c_ejoanaus
+200 - Holder (1000992) has gained d_elifon
+200 - Holder (1000992) has gained c_nelill
+200 - Holder (1000992) has gained c_relarcus
+200 - Holder (1000992) has gained c_darcus
+201 - vassal: c_ejoanaus - Title given to 1001552
+231 - vassal: c_reyide - Given to 1003487 in HandleTitles - Too many duke titles
+231 - vassal: c_reyide - Title given to 1003487
+231 - Title given to 1002139 - Primary title: k_damoava
+231 - vassal: c_eberodar - Setting to vassal of d_elifon in Validate Realm
+231 - Lost vassal: c_eberodar
+231 - Too many dukes, made direct title into vassal of k_damoava
+231 - Title given to 1003488
+276 - Holder 1003596 - Primary title: d_ryaus has lost the title: d_ryaus
+276 - Title given to 1003596
+287 - Holder 1006837 - Primary title: d_ryaus has lost the title: d_ryaus
+287 - Title given to 1006837
+292 - Holder (1006837) has gained d_tyio
+292 - Holder (1006837) has gained d_ruisill
+292 - Holder (1006837) has gained c_telide
+292 - Holder (1006837) has gained c_kaykaus
+292 - Holder (1006837) has gained c_tamoas
+292 - Holder (1006837) has gained c_kerar
+300 - vassal: c_ejoanaus - Holder 1006837 - Primary title: c_ejoanaus has lost the title: c_ejoanaus
+300 - vassal: c_ejoanaus - Title given to 1006837 - Primary title: d_tyio
+300 - Holder (1006837) has gained c_ryelovya
+303 - Gained vassal: c_telide
+303 - Gained vassal: c_tamoas
+303 - Gained vassal: c_kerar
+303 - Gained vassal: c_ryelovya
+303 - Holder 1006356 - Primary title: d_ryaus has lost the title: d_ryaus
+303 - Title given to 1006356 - Primary title: k_damoava
+303 - vassal: c_ryelovya - Holder 1006356 - Primary title: c_ryelovya has lost the title: c_ryelovya
+303 - vassal: c_ryelovya - Title given to 1006356 - Primary title: k_damoava
+303 - vassal: c_ejoanaus - Holder 1006356 - Primary title: c_ejoanaus has lost the title: c_ejoanaus
+303 - vassal: c_ejoanaus - Title given to 1006356 - Primary title: k_damoava
+303 - vassal: c_kerar - Holder 1006356 - Primary title: c_kerar has lost the title: c_kerar
+303 - vassal: c_kerar - Title given to 1006356 - Primary title: k_damoava
+303 - vassal: c_tamoas - Holder 1006356 - Primary title: c_tamoas has lost the title: c_tamoas
+303 - vassal: c_tamoas - Title given to 1006356 - Primary title: k_damoava
+303 - vassal: c_telide - Holder 1006356 - Primary title: c_telide has lost the title: c_telide
+303 - vassal: c_telide - Title given to 1006356 - Primary title: k_damoava
+303 - vassal: c_ejoanaus - Title given to 1007852
+303 - vassal: c_ryelovya - Title given to 1005827
+303 - vassal: c_kerar - Title given to 1007853
+303 - vassal: c_telide - Title given to 1007854
+303 - vassal: c_tamoas - Title given to 1007855
+310 - vassal: c_reyide - Given to 1008219 in HandleTitles - Too many duke titles
+310 - vassal: c_reyide - Holder 1008219 - Primary title: c_reyide has lost the title: c_reyide
+310 - vassal: c_reyide - Title given to 1008219
+310 - Title given to 1008219 - Primary title: c_reyide
+310 - vassal: c_reyide - Holder (1008219) has gained d_ryaus
+310 - Too many dukes, given to dejure: k_damoava
+327 - Holder 1008252 - Primary title: d_ryaus has lost the title: d_ryaus
+327 - Title given to 1008252
+327 - vassal: c_reyide - Holder 1008252 - Primary title: c_reyide has lost the title: c_reyide
+327 - vassal: c_reyide - Title given to 1008252 - Primary title: d_ryaus
+327 - Holder (1008252) has gained c_reyide
+346 - Holder 1009515 - Primary title: d_ryaus has lost the title: d_ryaus
+346 - Title given to 1009515
+346 - vassal: c_reyide - Holder 1009515 - Primary title: c_reyide has lost the title: c_reyide
+346 - vassal: c_reyide - Title given to 1009515 - Primary title: d_ryaus
+346 - Holder (1009515) has gained c_reyide
+370 - Holder 1010338 - Primary title: d_ryaus has lost the title: d_ryaus
+370 - Title given to 1010338
+370 - vassal: c_reyide - Holder 1010338 - Primary title: c_reyide has lost the title: c_reyide
+370 - vassal: c_reyide - Title given to 1010338 - Primary title: d_ryaus
+370 - Holder (1010338) has gained c_reyide

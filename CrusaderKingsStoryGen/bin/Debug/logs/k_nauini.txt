@@ -1,0 +1,1346 @@
+200 - Title given to 1001052
+200 - vassal: d_rurega - Holder 1001052 - Primary title: d_rurega has lost the title: d_rurega
+200 - sub vassal: d_rurega - Holder 1001052 - Primary title: d_rurega has lost the title: d_rurega
+200 - vassal: d_rurega - Title given to 1001052 - Primary title: k_nauini
+200 - sub vassal: d_rurega - Title given to 1001052 - Primary title: k_nauini
+200 - Holder (1001052) has gained d_rurega
+200 - vassal: d_nane - Holder 1001052 - Primary title: d_nane has lost the title: d_nane
+200 - sub vassal: d_nane - Holder 1001052 - Primary title: d_nane has lost the title: d_nane
+200 - vassal: d_nane - Title given to 1001052 - Primary title: k_nauini
+200 - sub vassal: d_nane - Title given to 1001052 - Primary title: k_nauini
+200 - Holder (1001052) has gained d_nane
+200 - vassal: d_kinako - Holder 1001052 - Primary title: d_kinako has lost the title: d_kinako
+200 - sub vassal: d_kinako - Holder 1001052 - Primary title: d_kinako has lost the title: d_kinako
+200 - vassal: d_kinako - Title given to 1001052 - Primary title: k_nauini
+200 - sub vassal: d_kinako - Title given to 1001052 - Primary title: k_nauini
+200 - Holder (1001052) has gained d_kinako
+200 - vassal: d_anunagan - Holder 1001052 - Primary title: d_anunagan has lost the title: d_anunagan
+200 - sub vassal: d_anunagan - Holder 1001052 - Primary title: d_anunagan has lost the title: d_anunagan
+200 - vassal: d_anunagan - Title given to 1001052 - Primary title: k_nauini
+200 - sub vassal: d_anunagan - Title given to 1001052 - Primary title: k_nauini
+200 - Holder (1001052) has gained d_anunagan
+200 - vassal: d_echesari - Holder 1001052 - Primary title: d_echesari has lost the title: d_echesari
+200 - sub vassal: d_echesari - Holder 1001052 - Primary title: d_echesari has lost the title: d_echesari
+200 - vassal: d_echesari - Title given to 1001052 - Primary title: k_nauini
+200 - sub vassal: d_echesari - Title given to 1001052 - Primary title: k_nauini
+200 - Holder (1001052) has gained d_echesari
+200 - vassal: d_nulodar - Holder 1001052 - Primary title: d_nulodar has lost the title: d_nulodar
+200 - sub vassal: d_nulodar - Holder 1001052 - Primary title: d_nulodar has lost the title: d_nulodar
+200 - vassal: d_nulodar - Title given to 1001052 - Primary title: k_nauini
+200 - sub vassal: d_nulodar - Title given to 1001052 - Primary title: k_nauini
+200 - Holder (1001052) has gained d_nulodar
+200 - sub vassal: c_tetina - Holder 1001052 - Primary title: c_tetina has lost the title: c_tetina
+200 - sub vassal: c_tetina - Title given to 1001052 - Primary title: k_nauini
+200 - Holder (1001052) has gained c_tetina
+200 - Holder (1001052) has gained c_kavutlu
+200 - sub vassal: c_ajediya - Given to 1001409 in HandleTitles - Too many duke titles
+200 - sub vassal: c_ajediya - Holder 1001409 - Primary title: c_ajediya has lost the title: c_ajediya
+200 - sub vassal: c_ajediya - Title given to 1001409
+200 - Holder 1001409 - Primary title: k_nauini has lost the title: d_rurega
+200 - vassal: d_rurega - Title given to 1001409 - Primary title: c_ajediya
+200 - sub vassal: d_rurega - Title given to 1001409 - Primary title: c_ajediya
+200 - sub vassal: c_ajediya - Holder (1001409) has gained d_rurega
+200 - sub vassal: c_tetina - Setting to vassal of k_nauini in Validate Realm
+200 - vassal: d_rurega - Lost vassal: c_tetina
+200 - sub vassal: d_rurega - Lost vassal: c_tetina
+200 - Gained vassal: c_tetina
+200 - vassal: d_rurega - Too many dukes, given to dejure: k_nauini
+200 - sub vassal: d_rurega - Too many dukes, given to dejure: k_nauini
+200 - vassal: d_nulodar - Destroyed due to flagged problem
+200 - sub vassal: d_nulodar - Destroyed due to flagged problem
+200 - vassal: d_nulodar - Made independent
+200 - sub vassal: d_nulodar - Made independent
+200 - Gained vassal: c_dinexiu
+200 - sub vassal: c_ranily - Given to 1001411 in HandleTitles - Too many duke titles
+200 - sub vassal: c_dahounu - Holder 1001411 - Primary title: c_dahounu has lost the title: c_ranily
+200 - sub vassal: c_ranily - Title given to 1001411
+200 - Holder 1001411 - Primary title: k_nauini has lost the title: d_nane
+200 - vassal: d_nane - Title given to 1001411 - Primary title: c_ranily
+200 - sub vassal: d_nane - Title given to 1001411 - Primary title: c_ranily
+200 - sub vassal: c_ranily - Holder (1001411) has gained d_nane
+200 - vassal: d_nane - Too many dukes, given to dejure: k_nauini
+200 - sub vassal: d_nane - Too many dukes, given to dejure: k_nauini
+200 - vassal: d_anunagan - Destroyed due to flagged problem
+200 - sub vassal: d_anunagan - Destroyed due to flagged problem
+200 - vassal: d_anunagan - Made independent
+200 - sub vassal: d_anunagan - Made independent
+200 - Gained vassal: c_bibyuk
+200 - vassal: d_nane - Made independent due to being a seperate island
+200 - sub vassal: d_nane - Made independent due to being a seperate island
+200 - vassal: d_nane - Made independent
+200 - sub vassal: d_nane - Made independent
+200 - sub vassal: c_enizi - Made vassal of neighbour (d_nane) due to being a seperate island
+200 - vassal: d_kinako - Lost vassal: c_enizi
+200 - sub vassal: d_kinako - Lost vassal: c_enizi
+200 - sub vassal: c_enizi - Setting independent in Validate Realm
+200 - sub vassal: c_enizi - Made independent
+200 - sub vassal: c_anayan - Holder 1001411 - Primary title: c_anayan has lost the title: c_enizi
+200 - sub vassal: c_anayan - Made vassal of neighbour (d_nane) due to being a seperate island
+200 - vassal: d_kinako - Lost vassal: c_anayan
+200 - sub vassal: d_kinako - Lost vassal: c_anayan
+200 - vassal: c_bibyuk - Made independent due to being a seperate island
+200 - sub vassal: c_bibyuk - Made independent due to being a seperate island
+200 - vassal: c_bibyuk - Made independent
+200 - sub vassal: c_bibyuk - Made independent
+200 - vassal: c_dinexiu - Made independent due to being a seperate island
+200 - sub vassal: c_dinexiu - Made independent due to being a seperate island
+200 - vassal: c_dinexiu - Made independent
+200 - sub vassal: c_dinexiu - Made independent
+200 - Holder 1001050 - Primary title: k_nauini has lost the title: c_kavutlu
+200 - Holder 1000465 - Primary title: k_nauini has lost the title: k_nauini
+200 - Title given to 1000465 - Primary title: d_sibalka
+200 - vassal: d_sibalka - Holder (1000465) has gained k_nauini
+200 - sub vassal: d_sibalka - Holder (1000465) has gained k_nauini
+200 - vassal: c_tetina - Setting to vassal of d_kinako in Validate Realm
+200 - sub vassal: c_tetina - Setting to vassal of d_kinako in Validate Realm
+200 - Lost vassal: c_tetina
+200 - vassal: d_kinako - Gained vassal: c_tetina
+200 - sub vassal: d_kinako - Gained vassal: c_tetina
+200 - vassal: d_kinako - Holder 1000465 - Primary title: d_kinako has lost the title: d_kinako
+200 - sub vassal: d_kinako - Holder 1000465 - Primary title: d_kinako has lost the title: d_kinako
+200 - vassal: d_kinako - Title given to 1000465 - Primary title: k_nauini
+200 - sub vassal: d_kinako - Title given to 1000465 - Primary title: k_nauini
+200 - Holder (1000465) has gained d_kinako
+200 - sub vassal: c_tetina - Setting to vassal of d_echesari in Validate Realm
+200 - vassal: d_kinako - Lost vassal: c_tetina
+200 - sub vassal: d_kinako - Lost vassal: c_tetina
+200 - vassal: d_echesari - Gained vassal: c_tetina
+200 - sub vassal: d_echesari - Gained vassal: c_tetina
+200 - vassal: d_echesari - Holder 1000465 - Primary title: d_echesari has lost the title: c_tetina
+200 - sub vassal: d_echesari - Holder 1000465 - Primary title: d_echesari has lost the title: c_tetina
+200 - sub vassal: c_tetina - Title given to 1000465 - Primary title: k_nauini
+200 - Holder (1000465) has gained c_tetina
+200 - sub vassal: c_tetina - Setting to vassal of k_nauini in Validate Realm
+200 - vassal: d_echesari - Lost vassal: c_tetina
+200 - sub vassal: d_echesari - Lost vassal: c_tetina
+200 - Gained vassal: c_tetina
+200 - vassal: d_echesari - Holder 1000465 - Primary title: d_echesari has lost the title: d_echesari
+200 - sub vassal: d_echesari - Holder 1000465 - Primary title: d_echesari has lost the title: d_echesari
+200 - vassal: d_echesari - Title given to 1000465 - Primary title: k_nauini
+200 - sub vassal: d_echesari - Title given to 1000465 - Primary title: k_nauini
+200 - Holder (1000465) has gained d_echesari
+201 - vassal: d_kinako - Destroyed due to flagged problem
+201 - sub vassal: d_kinako - Destroyed due to flagged problem
+201 - vassal: d_kinako - Made independent
+201 - sub vassal: d_kinako - Made independent
+201 - Holder (1000465) has gained c_qonanal
+201 - Holder 1001561 - Primary title: k_nauini has lost the title: c_tetina
+201 - vassal: c_tetina - Title given to 1001561
+201 - sub vassal: c_tetina - Title given to 1001561
+201 - Holder 1001045 - Primary title: k_nauini has lost the title: c_qonanal
+202 - Holder (1000465) has gained c_qonanal
+202 - Holder 1001045 - Primary title: k_nauini has lost the title: c_qonanal
+203 - Holder (1000465) has gained c_qonanal
+203 - Holder 1001045 - Primary title: k_nauini has lost the title: c_qonanal
+204 - vassal: d_rikalka - Holder 1000540 - Primary title: d_rikalka has lost the title: d_rikalka
+204 - sub vassal: d_rikalka - Holder 1000540 - Primary title: d_rikalka has lost the title: d_rikalka
+204 - vassal: d_rikalka - Title given to 1000540 - Primary title: d_kadiya
+204 - sub vassal: d_rikalka - Title given to 1000540 - Primary title: d_kadiya
+204 - vassal: d_kadiya - Holder (1000540) has gained d_rikalka
+204 - sub vassal: d_kadiya - Holder (1000540) has gained d_rikalka
+204 - sub vassal: c_webisey - Holder 1000540 - Primary title: c_webisey has lost the title: c_webisey
+204 - sub vassal: c_webisey - Title given to 1000540 - Primary title: d_kadiya
+204 - vassal: d_kadiya - Holder (1000540) has gained c_webisey
+204 - sub vassal: d_kadiya - Holder (1000540) has gained c_webisey
+204 - sub vassal: c_nazenes - Holder 1000540 - Primary title: c_nazenes has lost the title: c_nazenes
+204 - sub vassal: c_nazenes - Title given to 1000540 - Primary title: d_kadiya
+204 - vassal: d_kadiya - Holder (1000540) has gained c_nazenes
+204 - sub vassal: d_kadiya - Holder (1000540) has gained c_nazenes
+204 - sub vassal: c_alitini - Holder 1000540 - Primary title: c_alitini has lost the title: c_alitini
+204 - sub vassal: c_alitini - Title given to 1000540 - Primary title: d_kadiya
+204 - vassal: d_kadiya - Holder (1000540) has gained c_alitini
+204 - sub vassal: d_kadiya - Holder (1000540) has gained c_alitini
+204 - Holder (1000465) has gained c_qonanal
+204 - Holder 1001045 - Primary title: k_nauini has lost the title: c_qonanal
+204 - Holder 1001257 - Primary title: k_nauini has lost the title: k_nauini
+204 - Title given to 1001257
+204 - vassal: d_sibalka - Holder 1001257 - Primary title: d_sibalka has lost the title: d_sibalka
+204 - sub vassal: d_sibalka - Holder 1001257 - Primary title: d_sibalka has lost the title: d_sibalka
+204 - vassal: d_sibalka - Title given to 1001257 - Primary title: k_nauini
+204 - sub vassal: d_sibalka - Title given to 1001257 - Primary title: k_nauini
+204 - Holder (1001257) has gained d_sibalka
+204 - sub vassal: c_eturyka - Setting to vassal of d_echesari in Validate Realm
+204 - vassal: d_sibalka - Lost vassal: c_eturyka
+204 - sub vassal: d_sibalka - Lost vassal: c_eturyka
+204 - sub vassal: c_radyuk - Setting to vassal of d_echesari in Validate Realm
+204 - vassal: d_sibalka - Lost vassal: c_radyuk
+204 - sub vassal: d_sibalka - Lost vassal: c_radyuk
+204 - sub vassal: c_wibyuk - Setting to vassal of d_echesari in Validate Realm
+204 - vassal: d_sibalka - Lost vassal: c_wibyuk
+204 - sub vassal: d_sibalka - Lost vassal: c_wibyuk
+204 - sub vassal: c_kada-va - Setting to vassal of d_echesari in Validate Realm
+204 - vassal: d_sibalka - Lost vassal: c_kada-va
+204 - sub vassal: d_sibalka - Lost vassal: c_kada-va
+204 - vassal: d_echesari - Gained vassal: c_kada-va
+204 - sub vassal: d_echesari - Gained vassal: c_kada-va
+204 - vassal: d_echesari - Gained vassal: c_wibyuk
+204 - sub vassal: d_echesari - Gained vassal: c_wibyuk
+204 - vassal: d_echesari - Gained vassal: c_radyuk
+204 - sub vassal: d_echesari - Gained vassal: c_radyuk
+204 - vassal: d_echesari - Gained vassal: c_eturyka
+204 - sub vassal: d_echesari - Gained vassal: c_eturyka
+204 - vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: c_eturyka
+204 - sub vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: c_eturyka
+204 - sub vassal: c_eturyka - Title given to 1001257 - Primary title: k_nauini
+204 - Holder (1001257) has gained c_eturyka
+204 - sub vassal: c_eturyka - Setting to vassal of k_nauini in Validate Realm
+204 - vassal: d_echesari - Lost vassal: c_eturyka
+204 - sub vassal: d_echesari - Lost vassal: c_eturyka
+204 - Gained vassal: c_eturyka
+204 - vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: c_radyuk
+204 - sub vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: c_radyuk
+204 - sub vassal: c_radyuk - Title given to 1001257 - Primary title: k_nauini
+204 - Holder (1001257) has gained c_radyuk
+204 - sub vassal: c_radyuk - Setting to vassal of k_nauini in Validate Realm
+204 - vassal: d_echesari - Lost vassal: c_radyuk
+204 - sub vassal: d_echesari - Lost vassal: c_radyuk
+204 - Gained vassal: c_radyuk
+204 - vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: c_wibyuk
+204 - sub vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: c_wibyuk
+204 - sub vassal: c_wibyuk - Title given to 1001257 - Primary title: k_nauini
+204 - Holder (1001257) has gained c_wibyuk
+204 - sub vassal: c_wibyuk - Setting to vassal of k_nauini in Validate Realm
+204 - vassal: d_echesari - Lost vassal: c_wibyuk
+204 - sub vassal: d_echesari - Lost vassal: c_wibyuk
+204 - Gained vassal: c_wibyuk
+204 - vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: c_kada-va
+204 - sub vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: c_kada-va
+204 - sub vassal: c_kada-va - Title given to 1001257 - Primary title: k_nauini
+204 - Holder (1001257) has gained c_kada-va
+204 - sub vassal: c_kada-va - Setting to vassal of k_nauini in Validate Realm
+204 - vassal: d_echesari - Lost vassal: c_kada-va
+204 - sub vassal: d_echesari - Lost vassal: c_kada-va
+204 - Gained vassal: c_kada-va
+204 - vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: d_echesari
+204 - sub vassal: d_echesari - Holder 1001257 - Primary title: d_echesari has lost the title: d_echesari
+204 - vassal: d_echesari - Title given to 1001257 - Primary title: k_nauini
+204 - sub vassal: d_echesari - Title given to 1001257 - Primary title: k_nauini
+204 - Holder (1001257) has gained d_echesari
+205 - vassal: d_sibalka - Destroyed due to flagged problem
+205 - sub vassal: d_sibalka - Destroyed due to flagged problem
+205 - vassal: d_sibalka - Made independent
+205 - sub vassal: d_sibalka - Made independent
+205 - vassal: d_rikalka - Holder 1001883 - Primary title: d_rikalka has lost the title: c_kibayda
+205 - sub vassal: d_rikalka - Holder 1001883 - Primary title: d_rikalka has lost the title: c_kibayda
+205 - sub vassal: c_kibayda - Title given to 1001883
+205 - Holder (1001257) has gained c_qonanal
+205 - Holder 1001045 - Primary title: k_nauini has lost the title: c_qonanal
+213 - Holder 1000516 - Primary title: k_nauini has lost the title: k_nauini
+213 - Title given to 1000516 - Primary title: d_wibini
+213 - vassal: d_wibini - Holder (1000516) has gained k_nauini
+213 - sub vassal: d_wibini - Holder (1000516) has gained k_nauini
+213 - vassal: c_eturyka - Setting to vassal of d_echesari in Validate Realm
+213 - sub vassal: c_eturyka - Setting to vassal of d_echesari in Validate Realm
+213 - Lost vassal: c_eturyka
+213 - vassal: c_radyuk - Setting to vassal of d_echesari in Validate Realm
+213 - sub vassal: c_radyuk - Setting to vassal of d_echesari in Validate Realm
+213 - Lost vassal: c_radyuk
+213 - vassal: c_wibyuk - Setting to vassal of d_echesari in Validate Realm
+213 - sub vassal: c_wibyuk - Setting to vassal of d_echesari in Validate Realm
+213 - Lost vassal: c_wibyuk
+213 - vassal: c_kada-va - Setting to vassal of d_echesari in Validate Realm
+213 - sub vassal: c_kada-va - Setting to vassal of d_echesari in Validate Realm
+213 - Lost vassal: c_kada-va
+213 - vassal: d_echesari - Gained vassal: c_kada-va
+213 - sub vassal: d_echesari - Gained vassal: c_kada-va
+213 - vassal: d_echesari - Gained vassal: c_wibyuk
+213 - sub vassal: d_echesari - Gained vassal: c_wibyuk
+213 - vassal: d_echesari - Gained vassal: c_radyuk
+213 - sub vassal: d_echesari - Gained vassal: c_radyuk
+213 - vassal: d_echesari - Gained vassal: c_eturyka
+213 - sub vassal: d_echesari - Gained vassal: c_eturyka
+213 - vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: c_eturyka
+213 - sub vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: c_eturyka
+213 - sub vassal: c_eturyka - Title given to 1000516 - Primary title: k_nauini
+213 - Holder (1000516) has gained c_eturyka
+213 - sub vassal: c_eturyka - Setting to vassal of k_nauini in Validate Realm
+213 - vassal: d_echesari - Lost vassal: c_eturyka
+213 - sub vassal: d_echesari - Lost vassal: c_eturyka
+213 - Gained vassal: c_eturyka
+213 - vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: c_radyuk
+213 - sub vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: c_radyuk
+213 - sub vassal: c_radyuk - Title given to 1000516 - Primary title: k_nauini
+213 - Holder (1000516) has gained c_radyuk
+213 - sub vassal: c_radyuk - Setting to vassal of k_nauini in Validate Realm
+213 - vassal: d_echesari - Lost vassal: c_radyuk
+213 - sub vassal: d_echesari - Lost vassal: c_radyuk
+213 - Gained vassal: c_radyuk
+213 - vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: c_wibyuk
+213 - sub vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: c_wibyuk
+213 - sub vassal: c_wibyuk - Title given to 1000516 - Primary title: k_nauini
+213 - Holder (1000516) has gained c_wibyuk
+213 - sub vassal: c_wibyuk - Setting to vassal of k_nauini in Validate Realm
+213 - vassal: d_echesari - Lost vassal: c_wibyuk
+213 - sub vassal: d_echesari - Lost vassal: c_wibyuk
+213 - Gained vassal: c_wibyuk
+213 - vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: c_kada-va
+213 - sub vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: c_kada-va
+213 - sub vassal: c_kada-va - Title given to 1000516 - Primary title: k_nauini
+213 - Holder (1000516) has gained c_kada-va
+213 - sub vassal: c_kada-va - Setting to vassal of k_nauini in Validate Realm
+213 - vassal: d_echesari - Lost vassal: c_kada-va
+213 - sub vassal: d_echesari - Lost vassal: c_kada-va
+213 - Gained vassal: c_kada-va
+213 - vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: d_echesari
+213 - sub vassal: d_echesari - Holder 1000516 - Primary title: d_echesari has lost the title: d_echesari
+213 - vassal: d_echesari - Title given to 1000516 - Primary title: k_nauini
+213 - sub vassal: d_echesari - Title given to 1000516 - Primary title: k_nauini
+213 - Holder (1000516) has gained d_echesari
+214 - Holder 1002476 - Primary title: k_nauini has lost the title: c_egandni
+214 - sub vassal: c_egandni - Title given to 1002476
+215 - Holder 1001409 - Primary title: k_nauini has lost the title: k_nauini
+215 - Title given to 1001409 - Primary title: d_rurega
+215 - vassal: d_rurega - Holder (1001409) has gained k_nauini
+215 - sub vassal: d_rurega - Holder (1001409) has gained k_nauini
+215 - vassal: c_eturyka - Setting to vassal of d_wibini in Validate Realm
+215 - sub vassal: c_eturyka - Setting to vassal of d_wibini in Validate Realm
+215 - Lost vassal: c_eturyka
+215 - vassal: c_radyuk - Setting to vassal of d_wibini in Validate Realm
+215 - sub vassal: c_radyuk - Setting to vassal of d_wibini in Validate Realm
+215 - Lost vassal: c_radyuk
+215 - vassal: c_wibyuk - Setting to vassal of d_wibini in Validate Realm
+215 - sub vassal: c_wibyuk - Setting to vassal of d_wibini in Validate Realm
+215 - Lost vassal: c_wibyuk
+215 - vassal: c_kada-va - Setting to vassal of d_wibini in Validate Realm
+215 - sub vassal: c_kada-va - Setting to vassal of d_wibini in Validate Realm
+215 - Lost vassal: c_kada-va
+215 - vassal: d_wibini - Gained vassal: c_kada-va
+215 - sub vassal: d_wibini - Gained vassal: c_kada-va
+215 - vassal: d_wibini - Gained vassal: c_wibyuk
+215 - sub vassal: d_wibini - Gained vassal: c_wibyuk
+215 - vassal: d_wibini - Gained vassal: c_radyuk
+215 - sub vassal: d_wibini - Gained vassal: c_radyuk
+215 - vassal: d_wibini - Gained vassal: c_eturyka
+215 - sub vassal: d_wibini - Gained vassal: c_eturyka
+215 - vassal: d_wibini - Holder 1001409 - Primary title: d_wibini has lost the title: d_wibini
+215 - sub vassal: d_wibini - Holder 1001409 - Primary title: d_wibini has lost the title: d_wibini
+215 - vassal: d_wibini - Title given to 1001409 - Primary title: k_nauini
+215 - sub vassal: d_wibini - Title given to 1001409 - Primary title: k_nauini
+215 - Holder (1001409) has gained d_wibini
+215 - sub vassal: c_netiya - Setting to vassal of d_echesari in Validate Realm
+215 - vassal: d_wibini - Lost vassal: c_netiya
+215 - sub vassal: d_wibini - Lost vassal: c_netiya
+215 - sub vassal: c_eturyka - Setting to vassal of d_echesari in Validate Realm
+215 - vassal: d_wibini - Lost vassal: c_eturyka
+215 - sub vassal: d_wibini - Lost vassal: c_eturyka
+215 - sub vassal: c_radyuk - Setting to vassal of d_echesari in Validate Realm
+215 - vassal: d_wibini - Lost vassal: c_radyuk
+215 - sub vassal: d_wibini - Lost vassal: c_radyuk
+215 - sub vassal: c_wibyuk - Setting to vassal of d_echesari in Validate Realm
+215 - vassal: d_wibini - Lost vassal: c_wibyuk
+215 - sub vassal: d_wibini - Lost vassal: c_wibyuk
+215 - sub vassal: c_kada-va - Setting to vassal of d_echesari in Validate Realm
+215 - vassal: d_wibini - Lost vassal: c_kada-va
+215 - sub vassal: d_wibini - Lost vassal: c_kada-va
+215 - vassal: d_echesari - Gained vassal: c_kada-va
+215 - sub vassal: d_echesari - Gained vassal: c_kada-va
+215 - vassal: d_echesari - Gained vassal: c_wibyuk
+215 - sub vassal: d_echesari - Gained vassal: c_wibyuk
+215 - vassal: d_echesari - Gained vassal: c_radyuk
+215 - sub vassal: d_echesari - Gained vassal: c_radyuk
+215 - vassal: d_echesari - Gained vassal: c_eturyka
+215 - sub vassal: d_echesari - Gained vassal: c_eturyka
+215 - vassal: d_echesari - Gained vassal: c_netiya
+215 - sub vassal: d_echesari - Gained vassal: c_netiya
+215 - vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_netiya
+215 - sub vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_netiya
+215 - sub vassal: c_netiya - Title given to 1001409 - Primary title: k_nauini
+215 - Holder (1001409) has gained c_netiya
+215 - sub vassal: c_netiya - Setting to vassal of k_nauini in Validate Realm
+215 - vassal: d_echesari - Lost vassal: c_netiya
+215 - sub vassal: d_echesari - Lost vassal: c_netiya
+215 - Gained vassal: c_netiya
+215 - vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_eturyka
+215 - sub vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_eturyka
+215 - sub vassal: c_eturyka - Title given to 1001409 - Primary title: k_nauini
+215 - Holder (1001409) has gained c_eturyka
+215 - sub vassal: c_eturyka - Setting to vassal of k_nauini in Validate Realm
+215 - vassal: d_echesari - Lost vassal: c_eturyka
+215 - sub vassal: d_echesari - Lost vassal: c_eturyka
+215 - Gained vassal: c_eturyka
+215 - vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_radyuk
+215 - sub vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_radyuk
+215 - sub vassal: c_radyuk - Title given to 1001409 - Primary title: k_nauini
+215 - Holder (1001409) has gained c_radyuk
+215 - sub vassal: c_radyuk - Setting to vassal of k_nauini in Validate Realm
+215 - vassal: d_echesari - Lost vassal: c_radyuk
+215 - sub vassal: d_echesari - Lost vassal: c_radyuk
+215 - Gained vassal: c_radyuk
+215 - vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_wibyuk
+215 - sub vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_wibyuk
+215 - sub vassal: c_wibyuk - Title given to 1001409 - Primary title: k_nauini
+215 - Holder (1001409) has gained c_wibyuk
+215 - sub vassal: c_wibyuk - Setting to vassal of k_nauini in Validate Realm
+215 - vassal: d_echesari - Lost vassal: c_wibyuk
+215 - sub vassal: d_echesari - Lost vassal: c_wibyuk
+215 - Gained vassal: c_wibyuk
+215 - vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_kada-va
+215 - sub vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: c_kada-va
+215 - sub vassal: c_kada-va - Title given to 1001409 - Primary title: k_nauini
+215 - Holder (1001409) has gained c_kada-va
+215 - sub vassal: c_kada-va - Setting to vassal of k_nauini in Validate Realm
+215 - vassal: d_echesari - Lost vassal: c_kada-va
+215 - sub vassal: d_echesari - Lost vassal: c_kada-va
+215 - Gained vassal: c_kada-va
+215 - vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: d_echesari
+215 - sub vassal: d_echesari - Holder 1001409 - Primary title: d_echesari has lost the title: d_echesari
+215 - vassal: d_echesari - Title given to 1001409 - Primary title: k_nauini
+215 - sub vassal: d_echesari - Title given to 1001409 - Primary title: k_nauini
+215 - Holder (1001409) has gained d_echesari
+216 - vassal: d_echesari - Destroyed due to flagged problem
+216 - sub vassal: d_echesari - Destroyed due to flagged problem
+216 - vassal: d_echesari - Made independent
+216 - sub vassal: d_echesari - Made independent
+216 - Gained vassal: c_elyka
+216 - Holder 1002594 - Primary title: k_nauini has lost the title: c_ajediya
+216 - sub vassal: c_ajediya - Title given to 1002594
+216 - vassal: c_elyka - Made independent due to being a seperate island
+216 - sub vassal: c_elyka - Made independent due to being a seperate island
+216 - vassal: c_elyka - Made independent
+216 - sub vassal: c_elyka - Made independent
+220 - Holder (1001409) has gained c_qonanal
+220 - Holder (1001409) has gained c_kavutlu
+220 - Holder 1002828 - Primary title: k_nauini has lost the title: c_kavutlu
+220 - Gained vassal: c_kavutlu
+220 - Holder 1002829 - Primary title: k_nauini has lost the title: c_qonanal
+220 - Gained vassal: c_qonanal
+220 - vassal: c_kavutlu - Made independent due to being a seperate island
+220 - sub vassal: c_kavutlu - Made independent due to being a seperate island
+220 - vassal: c_kavutlu - Made independent
+220 - sub vassal: c_kavutlu - Made independent
+220 - vassal: c_qonanal - Made independent due to being a seperate island
+220 - sub vassal: c_qonanal - Made independent due to being a seperate island
+220 - vassal: c_qonanal - Made independent
+220 - sub vassal: c_qonanal - Made independent
+224 - Holder 1002181 - Primary title: k_nauini has lost the title: k_nauini
+224 - Title given to 1002181
+224 - vassal: d_rurega - Holder 1002181 - Primary title: d_rurega has lost the title: d_rurega
+224 - sub vassal: d_rurega - Holder 1002181 - Primary title: d_rurega has lost the title: d_rurega
+224 - vassal: d_rurega - Title given to 1002181 - Primary title: k_nauini
+224 - sub vassal: d_rurega - Title given to 1002181 - Primary title: k_nauini
+224 - Holder (1002181) has gained d_rurega
+224 - vassal: c_kada-va - Setting to vassal of d_wibini in Validate Realm
+224 - sub vassal: c_kada-va - Setting to vassal of d_wibini in Validate Realm
+224 - Lost vassal: c_kada-va
+224 - vassal: c_wibyuk - Setting to vassal of d_wibini in Validate Realm
+224 - sub vassal: c_wibyuk - Setting to vassal of d_wibini in Validate Realm
+224 - Lost vassal: c_wibyuk
+224 - vassal: c_radyuk - Setting to vassal of d_wibini in Validate Realm
+224 - sub vassal: c_radyuk - Setting to vassal of d_wibini in Validate Realm
+224 - Lost vassal: c_radyuk
+224 - vassal: c_eturyka - Setting to vassal of d_wibini in Validate Realm
+224 - sub vassal: c_eturyka - Setting to vassal of d_wibini in Validate Realm
+224 - Lost vassal: c_eturyka
+224 - vassal: c_netiya - Setting to vassal of d_wibini in Validate Realm
+224 - sub vassal: c_netiya - Setting to vassal of d_wibini in Validate Realm
+224 - Lost vassal: c_netiya
+224 - vassal: d_wibini - Gained vassal: c_netiya
+224 - sub vassal: d_wibini - Gained vassal: c_netiya
+224 - vassal: d_wibini - Gained vassal: c_eturyka
+224 - sub vassal: d_wibini - Gained vassal: c_eturyka
+224 - vassal: d_wibini - Gained vassal: c_radyuk
+224 - sub vassal: d_wibini - Gained vassal: c_radyuk
+224 - vassal: d_wibini - Gained vassal: c_wibyuk
+224 - sub vassal: d_wibini - Gained vassal: c_wibyuk
+224 - vassal: d_wibini - Gained vassal: c_kada-va
+224 - sub vassal: d_wibini - Gained vassal: c_kada-va
+224 - vassal: d_wibini - Holder 1002181 - Primary title: d_wibini has lost the title: d_wibini
+224 - sub vassal: d_wibini - Holder 1002181 - Primary title: d_wibini has lost the title: d_wibini
+224 - vassal: d_wibini - Title given to 1002181 - Primary title: k_nauini
+224 - sub vassal: d_wibini - Title given to 1002181 - Primary title: k_nauini
+224 - Holder (1002181) has gained d_wibini
+224 - sub vassal: c_kada-va - Holder 1002181 - Primary title: c_kada-va has lost the title: c_kada-va
+224 - sub vassal: c_kada-va - Title given to 1002181 - Primary title: k_nauini
+224 - Holder (1002181) has gained c_kada-va
+224 - sub vassal: c_wibyuk - Holder 1002181 - Primary title: c_wibyuk has lost the title: c_wibyuk
+224 - sub vassal: c_wibyuk - Title given to 1002181 - Primary title: k_nauini
+224 - Holder (1002181) has gained c_wibyuk
+224 - sub vassal: c_radyuk - Holder 1002181 - Primary title: c_radyuk has lost the title: c_radyuk
+224 - sub vassal: c_radyuk - Title given to 1002181 - Primary title: k_nauini
+224 - Holder (1002181) has gained c_radyuk
+224 - sub vassal: c_eturyka - Holder 1002181 - Primary title: c_eturyka has lost the title: c_eturyka
+224 - sub vassal: c_eturyka - Title given to 1002181 - Primary title: k_nauini
+224 - Holder (1002181) has gained c_eturyka
+224 - sub vassal: c_netiya - Holder 1002181 - Primary title: c_netiya has lost the title: c_netiya
+224 - sub vassal: c_netiya - Title given to 1002181 - Primary title: k_nauini
+224 - Holder (1002181) has gained c_netiya
+227 - vassal: d_rikalka - Holder 1001629 - Primary title: d_rikalka has lost the title: d_rikalka
+227 - sub vassal: d_rikalka - Holder 1001629 - Primary title: d_rikalka has lost the title: d_rikalka
+227 - vassal: d_rikalka - Title given to 1001629
+227 - sub vassal: d_rikalka - Title given to 1001629
+227 - sub vassal: c_alitini - Setting to vassal of d_kadiya in Validate Realm
+227 - vassal: d_rikalka - Lost vassal: c_alitini
+227 - sub vassal: d_rikalka - Lost vassal: c_alitini
+227 - sub vassal: c_nazenes - Setting to vassal of d_kadiya in Validate Realm
+227 - vassal: d_rikalka - Lost vassal: c_nazenes
+227 - sub vassal: d_rikalka - Lost vassal: c_nazenes
+227 - sub vassal: c_webisey - Setting to vassal of d_kadiya in Validate Realm
+227 - vassal: d_rikalka - Lost vassal: c_webisey
+227 - sub vassal: d_rikalka - Lost vassal: c_webisey
+227 - vassal: d_kadiya - Gained vassal: c_webisey
+227 - sub vassal: d_kadiya - Gained vassal: c_webisey
+227 - vassal: d_kadiya - Gained vassal: c_nazenes
+227 - sub vassal: d_kadiya - Gained vassal: c_nazenes
+227 - vassal: d_kadiya - Gained vassal: c_alitini
+227 - sub vassal: d_kadiya - Gained vassal: c_alitini
+227 - vassal: d_kadiya - Holder 1001629 - Primary title: d_kadiya has lost the title: d_kadiya
+227 - sub vassal: d_kadiya - Holder 1001629 - Primary title: d_kadiya has lost the title: d_kadiya
+227 - vassal: d_kadiya - Title given to 1001629 - Primary title: d_rikalka
+227 - sub vassal: d_kadiya - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: d_rikalka - Holder (1001629) has gained d_kadiya
+227 - sub vassal: d_rikalka - Holder (1001629) has gained d_kadiya
+227 - sub vassal: c_alitini - Holder 1001629 - Primary title: c_alitini has lost the title: c_alitini
+227 - sub vassal: c_alitini - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: d_rikalka - Holder (1001629) has gained c_alitini
+227 - sub vassal: d_rikalka - Holder (1001629) has gained c_alitini
+227 - sub vassal: c_nazenes - Holder 1001629 - Primary title: c_nazenes has lost the title: c_nazenes
+227 - sub vassal: c_nazenes - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: d_rikalka - Holder (1001629) has gained c_nazenes
+227 - sub vassal: d_rikalka - Holder (1001629) has gained c_nazenes
+227 - sub vassal: c_webisey - Holder 1001629 - Primary title: c_webisey has lost the title: c_webisey
+227 - sub vassal: c_webisey - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: d_rikalka - Holder (1001629) has gained c_webisey
+227 - sub vassal: d_rikalka - Holder (1001629) has gained c_webisey
+227 - sub vassal: c_lauisey - Holder 1001629 - Primary title: c_lauisey has lost the title: c_lauisey
+227 - sub vassal: c_lauisey - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: d_rikalka - Holder (1001629) has gained c_lauisey
+227 - sub vassal: d_rikalka - Holder (1001629) has gained c_lauisey
+227 - sub vassal: c_qulava - Holder 1001629 - Primary title: c_qulava has lost the title: c_qulava
+227 - sub vassal: c_qulava - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: d_rikalka - Holder (1001629) has gained c_qulava
+227 - sub vassal: d_rikalka - Holder (1001629) has gained c_qulava
+228 - vassal: d_rikalka - Destroyed due to flagged problem
+228 - sub vassal: d_rikalka - Destroyed due to flagged problem
+228 - vassal: d_rikalka - Made independent
+228 - sub vassal: d_rikalka - Made independent
+233 - vassal: d_kadiya - Holder (1001629) has gained d_rikalka
+233 - sub vassal: d_kadiya - Holder (1001629) has gained d_rikalka
+233 - Gained vassal: d_rikalka
+233 - vassal: d_rikalka - Made independent for title creation d_rikalka for d_kadiya
+233 - sub vassal: d_rikalka - Made independent for title creation d_rikalka for d_kadiya
+233 - vassal: d_rikalka - Made independent
+233 - sub vassal: d_rikalka - Made independent
+233 - sub vassal: c_alitini - Set liege on title creation d_rikalka
+233 - vassal: d_kadiya - Lost vassal: c_alitini
+233 - sub vassal: d_kadiya - Lost vassal: c_alitini
+233 - sub vassal: c_nazenes - Set liege on title creation d_rikalka
+233 - vassal: d_kadiya - Lost vassal: c_nazenes
+233 - sub vassal: d_kadiya - Lost vassal: c_nazenes
+233 - sub vassal: c_webisey - Set liege on title creation d_rikalka
+233 - vassal: d_kadiya - Lost vassal: c_webisey
+233 - sub vassal: d_kadiya - Lost vassal: c_webisey
+233 - sub vassal: c_lauisey - Set liege on title creation d_rikalka
+233 - vassal: d_kadiya - Lost vassal: c_lauisey
+233 - sub vassal: d_kadiya - Lost vassal: c_lauisey
+233 - sub vassal: c_qulava - Set liege on title creation d_rikalka
+233 - vassal: d_kadiya - Lost vassal: c_qulava
+233 - sub vassal: d_kadiya - Lost vassal: c_qulava
+233 - sub vassal: c_webisey - Setting independent due to liege destruction
+233 - sub vassal: c_webisey - Made independent
+233 - sub vassal: c_nazenes - Setting independent due to liege destruction
+233 - sub vassal: c_nazenes - Made independent
+233 - sub vassal: c_alitini - Setting independent due to liege destruction
+233 - sub vassal: c_alitini - Made independent
+233 - sub vassal: c_lauisey - Setting independent due to liege destruction
+233 - sub vassal: c_lauisey - Made independent
+233 - sub vassal: c_qulava - Setting independent due to liege destruction
+233 - sub vassal: c_qulava - Made independent
+233 - sub vassal: c_kibayda - Holder 1001629 - Primary title: c_kibayda has lost the title: c_kibayda
+233 - sub vassal: c_kibayda - Title given to 1001629 - Primary title: d_kadiya
+233 - vassal: d_kadiya - Holder (1001629) has gained c_kibayda
+233 - sub vassal: d_kadiya - Holder (1001629) has gained c_kibayda
+233 - vassal: d_kebisey - Holder 1002296 - Primary title: d_kebisey has lost the title: d_kebisey
+233 - sub vassal: d_kebisey - Holder 1002296 - Primary title: d_kebisey has lost the title: d_kebisey
+233 - vassal: d_kebisey - Title given to 1002296
+233 - sub vassal: d_kebisey - Title given to 1002296
+233 - sub vassal: c_kilyuk - Holder 1002296 - Primary title: c_kilyuk has lost the title: c_kilyuk
+233 - sub vassal: c_kilyuk - Title given to 1002296 - Primary title: d_kebisey
+233 - vassal: d_kebisey - Holder (1002296) has gained c_kilyuk
+233 - sub vassal: d_kebisey - Holder (1002296) has gained c_kilyuk
+233 - sub vassal: c_nandu - Holder 1002296 - Primary title: c_nandu has lost the title: c_nandu
+233 - sub vassal: c_nandu - Title given to 1002296 - Primary title: d_kebisey
+233 - vassal: d_kebisey - Holder (1002296) has gained c_nandu
+233 - sub vassal: d_kebisey - Holder (1002296) has gained c_nandu
+233 - vassal: d_kebisey - Captured byk_karavor in minor war
+233 - sub vassal: d_kebisey - Captured byk_karavor in minor war
+233 - Lost vassal: d_kebisey
+233 - vassal: c_tetina - Made vassal of neighbour (k_karavor) due to being a seperate island
+233 - sub vassal: c_tetina - Made vassal of neighbour (k_karavor) due to being a seperate island
+233 - Lost vassal: c_tetina
+233 - sub vassal: c_nandan - Made vassal of neighbour (k_karavor) due to being a seperate island
+233 - vassal: d_rurega - Lost vassal: c_nandan
+233 - sub vassal: d_rurega - Lost vassal: c_nandan
+233 - sub vassal: c_ajediya - Made vassal of neighbour (k_karavor) due to being a seperate island
+233 - vassal: d_rurega - Lost vassal: c_ajediya
+233 - sub vassal: d_rurega - Lost vassal: c_ajediya
+234 - vassal: d_rurega - Destroyed due to flagged problem
+234 - sub vassal: d_rurega - Destroyed due to flagged problem
+234 - vassal: d_rurega - Made independent
+234 - sub vassal: d_rurega - Made independent
+234 - vassal: d_kadiya - Holder 1003649 - Primary title: d_kadiya has lost the title: c_lauisey
+234 - sub vassal: d_kadiya - Holder 1003649 - Primary title: d_kadiya has lost the title: c_lauisey
+234 - vassal: d_kadiya - Gained vassal: c_lauisey
+234 - sub vassal: d_kadiya - Gained vassal: c_lauisey
+236 - vassal: d_kadiya - Holder (1001629) has gained d_rikalka
+236 - sub vassal: d_kadiya - Holder (1001629) has gained d_rikalka
+236 - Gained vassal: d_rikalka
+236 - vassal: d_rikalka - Made independent for title creation d_rikalka for d_kadiya
+236 - sub vassal: d_rikalka - Made independent for title creation d_rikalka for d_kadiya
+236 - vassal: d_rikalka - Made independent
+236 - sub vassal: d_rikalka - Made independent
+236 - sub vassal: c_kibayda - Set liege on title creation d_rikalka
+236 - vassal: d_kadiya - Lost vassal: c_kibayda
+236 - sub vassal: d_kadiya - Lost vassal: c_kibayda
+236 - sub vassal: c_kibayda - Setting independent due to liege destruction
+236 - sub vassal: c_kibayda - Made independent
+236 - sub vassal: c_qulava - Setting independent due to liege destruction
+236 - sub vassal: c_qulava - Made independent
+236 - sub vassal: c_webisey - Setting independent due to liege destruction
+236 - sub vassal: c_webisey - Made independent
+236 - sub vassal: c_nazenes - Setting independent due to liege destruction
+236 - sub vassal: c_nazenes - Made independent
+236 - sub vassal: c_alitini - Setting independent due to liege destruction
+236 - sub vassal: c_alitini - Made independent
+236 - sub vassal: c_lauisey - Holder 1001629 - Primary title: c_lauisey has lost the title: c_lauisey
+236 - sub vassal: c_lauisey - Title given to 1001629 - Primary title: d_kadiya
+236 - vassal: d_kadiya - Holder (1001629) has gained c_lauisey
+236 - sub vassal: d_kadiya - Holder (1001629) has gained c_lauisey
+237 - vassal: d_kadiya - Holder 1003828 - Primary title: d_kadiya has lost the title: c_nazenes
+237 - sub vassal: d_kadiya - Holder 1003828 - Primary title: d_kadiya has lost the title: c_nazenes
+237 - vassal: d_kadiya - Gained vassal: c_nazenes
+237 - sub vassal: d_kadiya - Gained vassal: c_nazenes
+247 - vassal: d_kadiya - Holder 1002181 - Primary title: d_kadiya has lost the title: d_kadiya
+247 - sub vassal: d_kadiya - Holder 1002181 - Primary title: d_kadiya has lost the title: d_kadiya
+247 - vassal: d_kadiya - Title given to 1002181 - Primary title: k_nauini
+247 - sub vassal: d_kadiya - Title given to 1002181 - Primary title: k_nauini
+247 - Holder (1002181) has gained d_kadiya
+247 - sub vassal: c_lauisey - Holder 1002181 - Primary title: c_lauisey has lost the title: c_lauisey
+247 - sub vassal: c_lauisey - Title given to 1002181 - Primary title: k_nauini
+247 - Holder (1002181) has gained c_lauisey
+247 - Holder (1002181) has gained c_kibayda
+247 - Holder (1002181) has gained c_qulava
+247 - Holder (1002181) has gained c_webisey
+247 - Holder (1002181) has gained c_alitini
+247 - Holder 1004472 - Primary title: k_nauini has lost the title: c_alitini
+247 - Gained vassal: c_alitini
+247 - Holder 1004473 - Primary title: k_nauini has lost the title: c_kibayda
+247 - Gained vassal: c_kibayda
+247 - Holder 1004474 - Primary title: k_nauini has lost the title: c_webisey
+247 - Gained vassal: c_webisey
+247 - Holder 1004475 - Primary title: k_nauini has lost the title: c_lauisey
+247 - sub vassal: c_lauisey - Title given to 1004475
+247 - Holder 1004476 - Primary title: k_nauini has lost the title: c_qulava
+247 - Gained vassal: c_qulava
+250 - vassal: d_wibina - Holder 1003964 - Primary title: d_wibina has lost the title: d_wibina
+250 - sub vassal: d_wibina - Holder 1003964 - Primary title: d_wibina has lost the title: d_wibina
+250 - vassal: d_wibina - Title given to 1003964
+250 - sub vassal: d_wibina - Title given to 1003964
+250 - sub vassal: c_dedisey - Holder 1003964 - Primary title: c_dedisey has lost the title: c_dedisey
+250 - sub vassal: c_dedisey - Title given to 1003964 - Primary title: d_wibina
+250 - vassal: d_wibina - Holder (1003964) has gained c_dedisey
+250 - sub vassal: d_wibina - Holder (1003964) has gained c_dedisey
+250 - sub vassal: c_qityuk - Holder 1003964 - Primary title: c_qityuk has lost the title: c_qityuk
+250 - sub vassal: c_qityuk - Title given to 1003964 - Primary title: d_wibina
+250 - vassal: d_wibina - Holder (1003964) has gained c_qityuk
+250 - sub vassal: d_wibina - Holder (1003964) has gained c_qityuk
+250 - sub vassal: c_ribega - Holder 1003964 - Primary title: c_ribega has lost the title: c_ribega
+250 - sub vassal: c_ribega - Title given to 1003964 - Primary title: d_wibina
+250 - vassal: d_wibina - Holder (1003964) has gained c_ribega
+250 - sub vassal: d_wibina - Holder (1003964) has gained c_ribega
+260 - Holder 1004473 - Primary title: k_nauini has lost the title: k_nauini
+260 - Title given to 1004473 - Primary title: c_kibayda
+260 - vassal: c_kibayda - Holder (1004473) has gained k_nauini
+260 - sub vassal: c_kibayda - Holder (1004473) has gained k_nauini
+260 - vassal: d_kadiya - Holder 1004473 - Primary title: d_kadiya has lost the title: d_kadiya
+260 - sub vassal: d_kadiya - Holder 1004473 - Primary title: d_kadiya has lost the title: d_kadiya
+260 - vassal: d_kadiya - Title given to 1004473 - Primary title: k_nauini
+260 - sub vassal: d_kadiya - Title given to 1004473 - Primary title: k_nauini
+260 - Holder (1004473) has gained d_kadiya
+260 - vassal: d_wibini - Holder 1004473 - Primary title: d_wibini has lost the title: d_wibini
+260 - sub vassal: d_wibini - Holder 1004473 - Primary title: d_wibini has lost the title: d_wibini
+260 - vassal: d_wibini - Title given to 1004473 - Primary title: k_nauini
+260 - sub vassal: d_wibini - Title given to 1004473 - Primary title: k_nauini
+260 - Holder (1004473) has gained d_wibini
+260 - sub vassal: c_kada-va - Holder 1004473 - Primary title: c_kada-va has lost the title: c_kada-va
+260 - sub vassal: c_kada-va - Title given to 1004473 - Primary title: k_nauini
+260 - Holder (1004473) has gained c_kada-va
+260 - sub vassal: c_wibyuk - Holder 1004473 - Primary title: c_wibyuk has lost the title: c_wibyuk
+260 - sub vassal: c_wibyuk - Title given to 1004473 - Primary title: k_nauini
+260 - Holder (1004473) has gained c_wibyuk
+260 - sub vassal: c_radyuk - Holder 1004473 - Primary title: c_radyuk has lost the title: c_radyuk
+260 - sub vassal: c_radyuk - Title given to 1004473 - Primary title: k_nauini
+260 - Holder (1004473) has gained c_radyuk
+260 - sub vassal: c_eturyka - Holder 1004473 - Primary title: c_eturyka has lost the title: c_eturyka
+260 - sub vassal: c_eturyka - Title given to 1004473 - Primary title: k_nauini
+260 - Holder (1004473) has gained c_eturyka
+260 - sub vassal: c_netiya - Holder 1004473 - Primary title: c_netiya has lost the title: c_netiya
+260 - sub vassal: c_netiya - Title given to 1004473 - Primary title: k_nauini
+260 - Holder (1004473) has gained c_netiya
+261 - Holder 1005315 - Primary title: k_nauini has lost the title: c_kibayda
+261 - vassal: c_kibayda - Title given to 1005315
+261 - sub vassal: c_kibayda - Title given to 1005315
+268 - vassal: d_wibina - Holder 1005070 - Primary title: d_wibina has lost the title: d_wibina
+268 - sub vassal: d_wibina - Holder 1005070 - Primary title: d_wibina has lost the title: d_wibina
+268 - vassal: d_wibina - Title given to 1005070
+268 - sub vassal: d_wibina - Title given to 1005070
+268 - sub vassal: c_ribega - Holder 1005070 - Primary title: c_ribega has lost the title: c_ribega
+268 - sub vassal: c_ribega - Title given to 1005070 - Primary title: d_wibina
+268 - vassal: d_wibina - Holder (1005070) has gained c_ribega
+268 - sub vassal: d_wibina - Holder (1005070) has gained c_ribega
+268 - sub vassal: c_qityuk - Holder 1005070 - Primary title: c_qityuk has lost the title: c_qityuk
+268 - sub vassal: c_qityuk - Title given to 1005070 - Primary title: d_wibina
+268 - vassal: d_wibina - Holder (1005070) has gained c_qityuk
+268 - sub vassal: d_wibina - Holder (1005070) has gained c_qityuk
+268 - sub vassal: c_dedisey - Holder 1005070 - Primary title: c_dedisey has lost the title: c_dedisey
+268 - sub vassal: c_dedisey - Title given to 1005070 - Primary title: d_wibina
+268 - vassal: d_wibina - Holder (1005070) has gained c_dedisey
+268 - sub vassal: d_wibina - Holder (1005070) has gained c_dedisey
+271 - vassal: d_wibina - Holder 1004476 - Primary title: d_wibina has lost the title: d_wibina
+271 - sub vassal: d_wibina - Holder 1004476 - Primary title: d_wibina has lost the title: d_wibina
+271 - vassal: d_wibina - Title given to 1004476 - Primary title: c_qulava
+271 - sub vassal: d_wibina - Title given to 1004476 - Primary title: c_qulava
+271 - vassal: c_qulava - Holder (1004476) has gained d_wibina
+271 - sub vassal: c_qulava - Holder (1004476) has gained d_wibina
+271 - vassal: c_qulava - Setting to vassal of d_wibina in Validate Realm
+271 - sub vassal: c_qulava - Setting to vassal of d_wibina in Validate Realm
+271 - Lost vassal: c_qulava
+271 - vassal: d_wibina - Gained vassal: c_qulava
+271 - sub vassal: d_wibina - Gained vassal: c_qulava
+271 - sub vassal: c_ribega - Holder 1004476 - Primary title: c_ribega has lost the title: c_ribega
+271 - sub vassal: c_ribega - Title given to 1004476 - Primary title: d_wibina
+271 - vassal: d_wibina - Holder (1004476) has gained c_ribega
+271 - sub vassal: d_wibina - Holder (1004476) has gained c_ribega
+271 - sub vassal: c_qityuk - Holder 1004476 - Primary title: c_qityuk has lost the title: c_qityuk
+271 - sub vassal: c_qityuk - Title given to 1004476 - Primary title: d_wibina
+271 - vassal: d_wibina - Holder (1004476) has gained c_qityuk
+271 - sub vassal: d_wibina - Holder (1004476) has gained c_qityuk
+271 - sub vassal: c_dedisey - Holder 1004476 - Primary title: c_dedisey has lost the title: c_dedisey
+271 - sub vassal: c_dedisey - Title given to 1004476 - Primary title: d_wibina
+271 - vassal: d_wibina - Holder (1004476) has gained c_dedisey
+271 - sub vassal: d_wibina - Holder (1004476) has gained c_dedisey
+282 - Holder 1005633 - Primary title: k_nauini has lost the title: k_nauini
+282 - Title given to 1005633
+282 - vassal: d_kadiya - Holder 1005633 - Primary title: d_kadiya has lost the title: d_kadiya
+282 - sub vassal: d_kadiya - Holder 1005633 - Primary title: d_kadiya has lost the title: d_kadiya
+282 - vassal: d_kadiya - Title given to 1005633 - Primary title: k_nauini
+282 - sub vassal: d_kadiya - Title given to 1005633 - Primary title: k_nauini
+282 - Holder (1005633) has gained d_kadiya
+282 - vassal: d_wibini - Holder 1005633 - Primary title: d_wibini has lost the title: d_wibini
+282 - sub vassal: d_wibini - Holder 1005633 - Primary title: d_wibini has lost the title: d_wibini
+282 - vassal: d_wibini - Title given to 1005633 - Primary title: k_nauini
+282 - sub vassal: d_wibini - Title given to 1005633 - Primary title: k_nauini
+282 - Holder (1005633) has gained d_wibini
+282 - sub vassal: c_netiya - Holder 1005633 - Primary title: c_netiya has lost the title: c_netiya
+282 - sub vassal: c_netiya - Title given to 1005633 - Primary title: k_nauini
+282 - Holder (1005633) has gained c_netiya
+282 - sub vassal: c_eturyka - Holder 1005633 - Primary title: c_eturyka has lost the title: c_eturyka
+282 - sub vassal: c_eturyka - Title given to 1005633 - Primary title: k_nauini
+282 - Holder (1005633) has gained c_eturyka
+282 - sub vassal: c_radyuk - Holder 1005633 - Primary title: c_radyuk has lost the title: c_radyuk
+282 - sub vassal: c_radyuk - Title given to 1005633 - Primary title: k_nauini
+282 - Holder (1005633) has gained c_radyuk
+282 - sub vassal: c_wibyuk - Holder 1005633 - Primary title: c_wibyuk has lost the title: c_wibyuk
+282 - sub vassal: c_wibyuk - Title given to 1005633 - Primary title: k_nauini
+282 - Holder (1005633) has gained c_wibyuk
+282 - sub vassal: c_kada-va - Holder 1005633 - Primary title: c_kada-va has lost the title: c_kada-va
+282 - sub vassal: c_kada-va - Title given to 1005633 - Primary title: k_nauini
+282 - Holder (1005633) has gained c_kada-va
+294 - Gained vassal: d_kanyuk
+294 - vassal: d_kanyuk - Given to neighbour holder of k_nauini
+294 - sub vassal: d_kanyuk - Given to neighbour holder of k_nauini
+294 - vassal: d_kanyuk - Holder 1005633 - Primary title: d_kanyuk has lost the title: d_kanyuk
+294 - sub vassal: d_kanyuk - Holder 1005633 - Primary title: d_kanyuk has lost the title: d_kanyuk
+294 - vassal: d_kanyuk - Title given to 1005633 - Primary title: k_nauini
+294 - sub vassal: d_kanyuk - Title given to 1005633 - Primary title: k_nauini
+294 - Holder (1005633) has gained d_kanyuk
+294 - vassal: c_rebiya - Setting independent in Validate Realm
+294 - vassal: c_rebiya - Made independent
+294 - Holder (1005633) has gained c_rebiya
+294 - Gained vassal: d_kebisey
+294 - vassal: d_kebisey - Given to neighbour holder of k_nauini
+294 - sub vassal: d_kebisey - Given to neighbour holder of k_nauini
+294 - vassal: d_kebisey - Holder 1005633 - Primary title: d_kebisey has lost the title: d_kebisey
+294 - sub vassal: d_kebisey - Holder 1005633 - Primary title: d_kebisey has lost the title: d_kebisey
+294 - vassal: d_kebisey - Title given to 1005633 - Primary title: k_nauini
+294 - sub vassal: d_kebisey - Title given to 1005633 - Primary title: k_nauini
+294 - Holder (1005633) has gained d_kebisey
+294 - Gained vassal: c_ajediya
+294 - vassal: c_ajediya - Given to neighbour holder of k_nauini
+294 - sub vassal: c_ajediya - Given to neighbour holder of k_nauini
+294 - vassal: c_ajediya - Holder 1005633 - Primary title: c_ajediya has lost the title: c_ajediya
+294 - sub vassal: c_ajediya - Holder 1005633 - Primary title: c_ajediya has lost the title: c_ajediya
+294 - vassal: c_ajediya - Title given to 1005633 - Primary title: k_nauini
+294 - sub vassal: c_ajediya - Title given to 1005633 - Primary title: k_nauini
+294 - Holder (1005633) has gained c_ajediya
+294 - sub vassal: c_kilyuk - Given to 1007233 in HandleTitles - Too many duke titles
+294 - sub vassal: c_nandu - Holder 1007233 - Primary title: c_nandu has lost the title: c_kilyuk
+294 - sub vassal: c_kilyuk - Title given to 1007233
+294 - Holder 1007233 - Primary title: k_nauini has lost the title: d_kebisey
+294 - vassal: d_kebisey - Title given to 1007233 - Primary title: c_kilyuk
+294 - sub vassal: d_kebisey - Title given to 1007233 - Primary title: c_kilyuk
+294 - sub vassal: c_kilyuk - Holder (1007233) has gained d_kebisey
+294 - vassal: d_kebisey - Too many dukes, given to dejure: k_nauini
+294 - sub vassal: d_kebisey - Too many dukes, given to dejure: k_nauini
+294 - sub vassal: c_lauisey - Given to 1007234 in HandleTitles - Too many duke titles
+294 - sub vassal: c_lauisey - Holder 1007234 - Primary title: c_lauisey has lost the title: c_lauisey
+294 - sub vassal: c_lauisey - Title given to 1007234
+294 - Holder 1007234 - Primary title: k_nauini has lost the title: d_kadiya
+294 - vassal: d_kadiya - Title given to 1007234 - Primary title: c_lauisey
+294 - sub vassal: d_kadiya - Title given to 1007234 - Primary title: c_lauisey
+294 - sub vassal: c_lauisey - Holder (1007234) has gained d_kadiya
+294 - vassal: d_kadiya - Too many dukes, given to dejure: k_nauini
+294 - sub vassal: d_kadiya - Too many dukes, given to dejure: k_nauini
+294 - Holder 1007235 - Primary title: k_nauini has lost the title: c_ajediya
+294 - vassal: c_ajediya - Title given to 1007235
+294 - sub vassal: c_ajediya - Title given to 1007235
+294 - Holder 1002946 - Primary title: k_nauini has lost the title: c_rebiya
+294 - Gained vassal: c_rebiya
+294 - vassal: c_rebiya - Made vassal of neighbour (k_karavor) due to being a seperate island
+294 - sub vassal: c_rebiya - Made vassal of neighbour (k_karavor) due to being a seperate island
+294 - Lost vassal: c_rebiya
+299 - vassal: d_wibina - Holder 1006333 - Primary title: d_wibina has lost the title: d_wibina
+299 - sub vassal: d_wibina - Holder 1006333 - Primary title: d_wibina has lost the title: d_wibina
+299 - vassal: d_wibina - Title given to 1006333
+299 - sub vassal: d_wibina - Title given to 1006333
+299 - sub vassal: c_dedisey - Holder 1006333 - Primary title: c_dedisey has lost the title: c_dedisey
+299 - sub vassal: c_dedisey - Title given to 1006333 - Primary title: d_wibina
+299 - vassal: d_wibina - Holder (1006333) has gained c_dedisey
+299 - sub vassal: d_wibina - Holder (1006333) has gained c_dedisey
+299 - sub vassal: c_qityuk - Holder 1006333 - Primary title: c_qityuk has lost the title: c_qityuk
+299 - sub vassal: c_qityuk - Title given to 1006333 - Primary title: d_wibina
+299 - vassal: d_wibina - Holder (1006333) has gained c_qityuk
+299 - sub vassal: d_wibina - Holder (1006333) has gained c_qityuk
+299 - sub vassal: c_ribega - Holder 1006333 - Primary title: c_ribega has lost the title: c_ribega
+299 - sub vassal: c_ribega - Title given to 1006333 - Primary title: d_wibina
+299 - vassal: d_wibina - Holder (1006333) has gained c_ribega
+299 - sub vassal: d_wibina - Holder (1006333) has gained c_ribega
+299 - sub vassal: c_qulava - Holder 1006333 - Primary title: c_qulava has lost the title: c_qulava
+299 - sub vassal: c_qulava - Title given to 1006333 - Primary title: d_wibina
+299 - vassal: d_wibina - Holder (1006333) has gained c_qulava
+299 - sub vassal: d_wibina - Holder (1006333) has gained c_qulava
+300 - sub vassal: c_egandni - Holder 1005633 - Primary title: c_egandni has lost the title: c_egandni
+300 - sub vassal: c_egandni - Title given to 1005633 - Primary title: k_nauini
+300 - Holder (1005633) has gained c_egandni
+300 - Holder 1007627 - Primary title: k_nauini has lost the title: c_radyuk
+300 - sub vassal: c_radyuk - Title given to 1007627
+302 - vassal: d_wibina - Holder 1004474 - Primary title: d_wibina has lost the title: d_wibina
+302 - sub vassal: d_wibina - Holder 1004474 - Primary title: d_wibina has lost the title: d_wibina
+302 - vassal: d_wibina - Title given to 1004474 - Primary title: c_webisey
+302 - sub vassal: d_wibina - Title given to 1004474 - Primary title: c_webisey
+302 - vassal: c_webisey - Holder (1004474) has gained d_wibina
+302 - sub vassal: c_webisey - Holder (1004474) has gained d_wibina
+302 - vassal: c_webisey - Setting to vassal of d_wibina in Validate Realm
+302 - sub vassal: c_webisey - Setting to vassal of d_wibina in Validate Realm
+302 - Lost vassal: c_webisey
+302 - vassal: d_wibina - Gained vassal: c_webisey
+302 - sub vassal: d_wibina - Gained vassal: c_webisey
+302 - sub vassal: c_qulava - Holder 1004474 - Primary title: c_qulava has lost the title: c_qulava
+302 - sub vassal: c_qulava - Title given to 1004474 - Primary title: d_wibina
+302 - vassal: d_wibina - Holder (1004474) has gained c_qulava
+302 - sub vassal: d_wibina - Holder (1004474) has gained c_qulava
+302 - sub vassal: c_ribega - Holder 1004474 - Primary title: c_ribega has lost the title: c_ribega
+302 - sub vassal: c_ribega - Title given to 1004474 - Primary title: d_wibina
+302 - vassal: d_wibina - Holder (1004474) has gained c_ribega
+302 - sub vassal: d_wibina - Holder (1004474) has gained c_ribega
+302 - sub vassal: c_qityuk - Holder 1004474 - Primary title: c_qityuk has lost the title: c_qityuk
+302 - sub vassal: c_qityuk - Title given to 1004474 - Primary title: d_wibina
+302 - vassal: d_wibina - Holder (1004474) has gained c_qityuk
+302 - sub vassal: d_wibina - Holder (1004474) has gained c_qityuk
+302 - sub vassal: c_dedisey - Holder 1004474 - Primary title: c_dedisey has lost the title: c_dedisey
+302 - sub vassal: c_dedisey - Title given to 1004474 - Primary title: d_wibina
+302 - vassal: d_wibina - Holder (1004474) has gained c_dedisey
+302 - sub vassal: d_wibina - Holder (1004474) has gained c_dedisey
+305 - vassal: d_wibina - Holder 1007807 - Primary title: d_wibina has lost the title: d_wibina
+305 - sub vassal: d_wibina - Holder 1007807 - Primary title: d_wibina has lost the title: d_wibina
+305 - vassal: d_wibina - Title given to 1007807
+305 - sub vassal: d_wibina - Title given to 1007807
+305 - sub vassal: c_webisey - Holder 1007807 - Primary title: c_webisey has lost the title: c_webisey
+305 - sub vassal: c_webisey - Title given to 1007807 - Primary title: d_wibina
+305 - vassal: d_wibina - Holder (1007807) has gained c_webisey
+305 - sub vassal: d_wibina - Holder (1007807) has gained c_webisey
+305 - sub vassal: c_qulava - Holder 1007807 - Primary title: c_qulava has lost the title: c_qulava
+305 - sub vassal: c_qulava - Title given to 1007807 - Primary title: d_wibina
+305 - vassal: d_wibina - Holder (1007807) has gained c_qulava
+305 - sub vassal: d_wibina - Holder (1007807) has gained c_qulava
+305 - sub vassal: c_ribega - Holder 1007807 - Primary title: c_ribega has lost the title: c_ribega
+305 - sub vassal: c_ribega - Title given to 1007807 - Primary title: d_wibina
+305 - vassal: d_wibina - Holder (1007807) has gained c_ribega
+305 - sub vassal: d_wibina - Holder (1007807) has gained c_ribega
+305 - sub vassal: c_qityuk - Holder 1007807 - Primary title: c_qityuk has lost the title: c_qityuk
+305 - sub vassal: c_qityuk - Title given to 1007807 - Primary title: d_wibina
+305 - vassal: d_wibina - Holder (1007807) has gained c_qityuk
+305 - sub vassal: d_wibina - Holder (1007807) has gained c_qityuk
+305 - sub vassal: c_dedisey - Holder 1007807 - Primary title: c_dedisey has lost the title: c_dedisey
+305 - sub vassal: c_dedisey - Title given to 1007807 - Primary title: d_wibina
+305 - vassal: d_wibina - Holder (1007807) has gained c_dedisey
+305 - sub vassal: d_wibina - Holder (1007807) has gained c_dedisey
+312 - Gained vassal: c_nandan
+319 - Holder 1007848 - Primary title: k_nauini has lost the title: k_nauini
+319 - Title given to 1007848
+319 - vassal: d_kanyuk - Holder 1007848 - Primary title: d_kanyuk has lost the title: d_kanyuk
+319 - sub vassal: d_kanyuk - Holder 1007848 - Primary title: d_kanyuk has lost the title: d_kanyuk
+319 - vassal: d_kanyuk - Title given to 1007848 - Primary title: k_nauini
+319 - sub vassal: d_kanyuk - Title given to 1007848 - Primary title: k_nauini
+319 - Holder (1007848) has gained d_kanyuk
+319 - vassal: d_wibini - Holder 1007848 - Primary title: d_wibini has lost the title: d_wibini
+319 - sub vassal: d_wibini - Holder 1007848 - Primary title: d_wibini has lost the title: d_wibini
+319 - vassal: d_wibini - Title given to 1007848 - Primary title: k_nauini
+319 - sub vassal: d_wibini - Title given to 1007848 - Primary title: k_nauini
+319 - Holder (1007848) has gained d_wibini
+319 - sub vassal: c_egandni - Holder 1007848 - Primary title: c_egandni has lost the title: c_egandni
+319 - sub vassal: c_egandni - Title given to 1007848 - Primary title: k_nauini
+319 - Holder (1007848) has gained c_egandni
+319 - sub vassal: c_kada-va - Holder 1007848 - Primary title: c_kada-va has lost the title: c_kada-va
+319 - sub vassal: c_kada-va - Title given to 1007848 - Primary title: k_nauini
+319 - Holder (1007848) has gained c_kada-va
+319 - sub vassal: c_wibyuk - Holder 1007848 - Primary title: c_wibyuk has lost the title: c_wibyuk
+319 - sub vassal: c_wibyuk - Title given to 1007848 - Primary title: k_nauini
+319 - Holder (1007848) has gained c_wibyuk
+319 - sub vassal: c_eturyka - Holder 1007848 - Primary title: c_eturyka has lost the title: c_eturyka
+319 - sub vassal: c_eturyka - Title given to 1007848 - Primary title: k_nauini
+319 - Holder (1007848) has gained c_eturyka
+319 - sub vassal: c_netiya - Holder 1007848 - Primary title: c_netiya has lost the title: c_netiya
+319 - sub vassal: c_netiya - Title given to 1007848 - Primary title: k_nauini
+319 - Holder (1007848) has gained c_netiya
+321 - vassal: d_kadiya - Holder 1007848 - Primary title: d_kadiya has lost the title: d_kadiya
+321 - sub vassal: d_kadiya - Holder 1007848 - Primary title: d_kadiya has lost the title: d_kadiya
+321 - vassal: d_kadiya - Title given to 1007848 - Primary title: k_nauini
+321 - sub vassal: d_kadiya - Title given to 1007848 - Primary title: k_nauini
+321 - Holder (1007848) has gained d_kadiya
+321 - sub vassal: c_lauisey - Holder 1007848 - Primary title: c_lauisey has lost the title: c_lauisey
+321 - sub vassal: c_lauisey - Title given to 1007848 - Primary title: k_nauini
+321 - Holder (1007848) has gained c_lauisey
+321 - sub vassal: c_lauisey - Given to 1008767 in HandleTitles - Too many duke titles
+321 - Holder 1008767 - Primary title: k_nauini has lost the title: c_lauisey
+321 - sub vassal: c_lauisey - Title given to 1008767
+321 - Holder 1008767 - Primary title: k_nauini has lost the title: d_kadiya
+321 - vassal: d_kadiya - Title given to 1008767 - Primary title: c_lauisey
+321 - sub vassal: d_kadiya - Title given to 1008767 - Primary title: c_lauisey
+321 - sub vassal: c_lauisey - Holder (1008767) has gained d_kadiya
+321 - vassal: d_kadiya - Too many dukes, given to dejure: k_nauini
+321 - sub vassal: d_kadiya - Too many dukes, given to dejure: k_nauini
+334 - vassal: d_kebisey - Holder 1007592 - Primary title: d_kebisey has lost the title: d_kebisey
+334 - sub vassal: d_kebisey - Holder 1007592 - Primary title: d_kebisey has lost the title: d_kebisey
+334 - vassal: d_kebisey - Title given to 1007592
+334 - sub vassal: d_kebisey - Title given to 1007592
+334 - sub vassal: c_kilyuk - Holder 1007592 - Primary title: c_kilyuk has lost the title: c_kilyuk
+334 - sub vassal: c_kilyuk - Title given to 1007592 - Primary title: d_kebisey
+334 - vassal: d_kebisey - Holder (1007592) has gained c_kilyuk
+334 - sub vassal: d_kebisey - Holder (1007592) has gained c_kilyuk
+343 - vassal: d_kadiya - Holder 1008959 - Primary title: d_kadiya has lost the title: d_kadiya
+343 - sub vassal: d_kadiya - Holder 1008959 - Primary title: d_kadiya has lost the title: d_kadiya
+343 - vassal: d_kadiya - Title given to 1008959
+343 - sub vassal: d_kadiya - Title given to 1008959
+343 - sub vassal: c_lauisey - Holder 1008959 - Primary title: c_lauisey has lost the title: c_lauisey
+343 - sub vassal: c_lauisey - Title given to 1008959 - Primary title: d_kadiya
+343 - vassal: d_kadiya - Holder (1008959) has gained c_lauisey
+343 - sub vassal: d_kadiya - Holder (1008959) has gained c_lauisey
+344 - vassal: d_kebisey - Holder 1005315 - Primary title: d_kebisey has lost the title: d_kebisey
+344 - sub vassal: d_kebisey - Holder 1005315 - Primary title: d_kebisey has lost the title: d_kebisey
+344 - vassal: d_kebisey - Title given to 1005315 - Primary title: c_kibayda
+344 - sub vassal: d_kebisey - Title given to 1005315 - Primary title: c_kibayda
+344 - vassal: c_kibayda - Holder (1005315) has gained d_kebisey
+344 - sub vassal: c_kibayda - Holder (1005315) has gained d_kebisey
+344 - vassal: c_kibayda - Setting to vassal of d_kebisey in Validate Realm
+344 - sub vassal: c_kibayda - Setting to vassal of d_kebisey in Validate Realm
+344 - Lost vassal: c_kibayda
+344 - vassal: d_kebisey - Gained vassal: c_kibayda
+344 - sub vassal: d_kebisey - Gained vassal: c_kibayda
+344 - sub vassal: c_kilyuk - Holder 1005315 - Primary title: c_kilyuk has lost the title: c_kilyuk
+344 - sub vassal: c_kilyuk - Title given to 1005315 - Primary title: d_kebisey
+344 - vassal: d_kebisey - Holder (1005315) has gained c_kilyuk
+344 - sub vassal: d_kebisey - Holder (1005315) has gained c_kilyuk
+346 - vassal: d_kebisey - Holder 1008959 - Primary title: d_kebisey has lost the title: d_kebisey
+346 - sub vassal: d_kebisey - Holder 1008959 - Primary title: d_kebisey has lost the title: d_kebisey
+346 - vassal: d_kebisey - Title given to 1008959 - Primary title: d_kadiya
+346 - sub vassal: d_kebisey - Title given to 1008959 - Primary title: d_kadiya
+346 - vassal: d_kadiya - Holder (1008959) has gained d_kebisey
+346 - sub vassal: d_kadiya - Holder (1008959) has gained d_kebisey
+346 - sub vassal: c_kibayda - Holder 1008959 - Primary title: c_kibayda has lost the title: c_kibayda
+346 - sub vassal: c_kibayda - Title given to 1008959 - Primary title: d_kadiya
+346 - vassal: d_kadiya - Holder (1008959) has gained c_kibayda
+346 - sub vassal: d_kadiya - Holder (1008959) has gained c_kibayda
+346 - sub vassal: c_kilyuk - Holder 1008959 - Primary title: c_kilyuk has lost the title: c_kilyuk
+346 - sub vassal: c_kilyuk - Title given to 1008959 - Primary title: d_kadiya
+346 - vassal: d_kadiya - Holder (1008959) has gained c_kilyuk
+346 - sub vassal: d_kadiya - Holder (1008959) has gained c_kilyuk
+350 - vassal: d_wibina - Holder 1008803 - Primary title: d_wibina has lost the title: d_wibina
+350 - sub vassal: d_wibina - Holder 1008803 - Primary title: d_wibina has lost the title: d_wibina
+350 - vassal: d_wibina - Title given to 1008803
+350 - sub vassal: d_wibina - Title given to 1008803
+350 - sub vassal: c_webisey - Holder 1008803 - Primary title: c_webisey has lost the title: c_webisey
+350 - sub vassal: c_webisey - Title given to 1008803 - Primary title: d_wibina
+350 - vassal: d_wibina - Holder (1008803) has gained c_webisey
+350 - sub vassal: d_wibina - Holder (1008803) has gained c_webisey
+350 - sub vassal: c_qulava - Holder 1008803 - Primary title: c_qulava has lost the title: c_qulava
+350 - sub vassal: c_qulava - Title given to 1008803 - Primary title: d_wibina
+350 - vassal: d_wibina - Holder (1008803) has gained c_qulava
+350 - sub vassal: d_wibina - Holder (1008803) has gained c_qulava
+350 - sub vassal: c_ribega - Holder 1008803 - Primary title: c_ribega has lost the title: c_ribega
+350 - sub vassal: c_ribega - Title given to 1008803 - Primary title: d_wibina
+350 - vassal: d_wibina - Holder (1008803) has gained c_ribega
+350 - sub vassal: d_wibina - Holder (1008803) has gained c_ribega
+350 - sub vassal: c_qityuk - Holder 1008803 - Primary title: c_qityuk has lost the title: c_qityuk
+350 - sub vassal: c_qityuk - Title given to 1008803 - Primary title: d_wibina
+350 - vassal: d_wibina - Holder (1008803) has gained c_qityuk
+350 - sub vassal: d_wibina - Holder (1008803) has gained c_qityuk
+350 - sub vassal: c_dedisey - Holder 1008803 - Primary title: c_dedisey has lost the title: c_dedisey
+350 - sub vassal: c_dedisey - Title given to 1008803 - Primary title: d_wibina
+350 - vassal: d_wibina - Holder (1008803) has gained c_dedisey
+350 - sub vassal: d_wibina - Holder (1008803) has gained c_dedisey
+354 - vassal: d_wibina - Holder 1007848 - Primary title: d_wibina has lost the title: d_wibina
+354 - sub vassal: d_wibina - Holder 1007848 - Primary title: d_wibina has lost the title: d_wibina
+354 - vassal: d_wibina - Title given to 1007848 - Primary title: k_nauini
+354 - sub vassal: d_wibina - Title given to 1007848 - Primary title: k_nauini
+354 - Holder (1007848) has gained d_wibina
+354 - sub vassal: c_webisey - Holder 1007848 - Primary title: c_webisey has lost the title: c_webisey
+354 - sub vassal: c_webisey - Title given to 1007848 - Primary title: k_nauini
+354 - Holder (1007848) has gained c_webisey
+354 - sub vassal: c_qulava - Holder 1007848 - Primary title: c_qulava has lost the title: c_qulava
+354 - sub vassal: c_qulava - Title given to 1007848 - Primary title: k_nauini
+354 - Holder (1007848) has gained c_qulava
+354 - sub vassal: c_ribega - Holder 1007848 - Primary title: c_ribega has lost the title: c_ribega
+354 - sub vassal: c_ribega - Title given to 1007848 - Primary title: k_nauini
+354 - Holder (1007848) has gained c_ribega
+354 - sub vassal: c_qityuk - Holder 1007848 - Primary title: c_qityuk has lost the title: c_qityuk
+354 - sub vassal: c_qityuk - Title given to 1007848 - Primary title: k_nauini
+354 - Holder (1007848) has gained c_qityuk
+354 - sub vassal: c_dedisey - Holder 1007848 - Primary title: c_dedisey has lost the title: c_dedisey
+354 - sub vassal: c_dedisey - Title given to 1007848 - Primary title: k_nauini
+354 - Holder (1007848) has gained c_dedisey
+354 - sub vassal: c_dedisey - Given to 1010505 in HandleTitles - Too many duke titles
+354 - Holder 1010505 - Primary title: k_nauini has lost the title: c_dedisey
+354 - sub vassal: c_dedisey - Title given to 1010505
+354 - Holder 1010505 - Primary title: k_nauini has lost the title: d_wibina
+354 - vassal: d_wibina - Title given to 1010505 - Primary title: c_dedisey
+354 - sub vassal: d_wibina - Title given to 1010505 - Primary title: c_dedisey
+354 - sub vassal: c_dedisey - Holder (1010505) has gained d_wibina
+354 - sub vassal: c_webisey - Setting to vassal of k_nauini in Validate Realm
+354 - vassal: d_wibina - Lost vassal: c_webisey
+354 - sub vassal: d_wibina - Lost vassal: c_webisey
+354 - sub vassal: c_qulava - Setting to vassal of k_nauini in Validate Realm
+354 - vassal: d_wibina - Lost vassal: c_qulava
+354 - sub vassal: d_wibina - Lost vassal: c_qulava
+354 - sub vassal: c_ribega - Setting to vassal of k_nauini in Validate Realm
+354 - vassal: d_wibina - Lost vassal: c_ribega
+354 - sub vassal: d_wibina - Lost vassal: c_ribega
+354 - sub vassal: c_qityuk - Setting to vassal of k_nauini in Validate Realm
+354 - vassal: d_wibina - Lost vassal: c_qityuk
+354 - sub vassal: d_wibina - Lost vassal: c_qityuk
+354 - Gained vassal: c_qityuk
+354 - Gained vassal: c_ribega
+354 - Gained vassal: c_qulava
+354 - Gained vassal: c_webisey
+354 - vassal: d_wibina - Too many dukes, given to dejure: k_nauini
+354 - sub vassal: d_wibina - Too many dukes, given to dejure: k_nauini
+354 - Holder 1010506 - Primary title: k_nauini has lost the title: c_ribega
+354 - vassal: c_ribega - Title given to 1010506
+354 - sub vassal: c_ribega - Title given to 1010506
+354 - Holder 1010507 - Primary title: k_nauini has lost the title: c_qulava
+354 - vassal: c_qulava - Title given to 1010507
+354 - sub vassal: c_qulava - Title given to 1010507
+354 - Holder 1010508 - Primary title: k_nauini has lost the title: c_webisey
+354 - vassal: c_webisey - Title given to 1010508
+354 - sub vassal: c_webisey - Title given to 1010508
+354 - Holder 1010510 - Primary title: k_nauini has lost the title: c_qityuk
+354 - vassal: c_qityuk - Title given to 1010510
+354 - sub vassal: c_qityuk - Title given to 1010510
+356 - vassal: d_wibina - Holder 1008959 - Primary title: d_wibina has lost the title: d_wibina
+356 - sub vassal: d_wibina - Holder 1008959 - Primary title: d_wibina has lost the title: d_wibina
+356 - vassal: d_wibina - Title given to 1008959 - Primary title: d_kebisey
+356 - sub vassal: d_wibina - Title given to 1008959 - Primary title: d_kebisey
+356 - vassal: d_kebisey - Holder (1008959) has gained d_wibina
+356 - sub vassal: d_kebisey - Holder (1008959) has gained d_wibina
+356 - sub vassal: c_dedisey - Holder 1008959 - Primary title: c_dedisey has lost the title: c_dedisey
+356 - sub vassal: c_dedisey - Title given to 1008959 - Primary title: d_kadiya
+356 - vassal: d_kadiya - Holder (1008959) has gained c_dedisey
+356 - sub vassal: d_kadiya - Holder (1008959) has gained c_dedisey
+357 - sub vassal: c_lauisey - Given to 1010658 in HandleTitles - Too many duke titles
+357 - vassal: d_wibina - Holder 1010658 - Primary title: d_wibina has lost the title: c_lauisey
+357 - sub vassal: d_wibina - Holder 1010658 - Primary title: d_wibina has lost the title: c_lauisey
+357 - sub vassal: c_lauisey - Title given to 1010658
+357 - vassal: d_wibina - Holder 1007848 - Primary title: d_wibina has lost the title: d_kadiya
+357 - sub vassal: d_wibina - Holder 1007848 - Primary title: d_wibina has lost the title: d_kadiya
+357 - vassal: d_kadiya - Title given to 1007848 - Primary title: k_nauini
+357 - sub vassal: d_kadiya - Title given to 1007848 - Primary title: k_nauini
+357 - Holder (1007848) has gained d_kadiya
+357 - vassal: d_kadiya - Too many dukes, made direct title into vassal of k_nauini
+357 - sub vassal: d_kadiya - Too many dukes, made direct title into vassal of k_nauini
+357 - Holder 1010659 - Primary title: k_nauini has lost the title: d_kadiya
+357 - vassal: d_kadiya - Title given to 1010659
+357 - sub vassal: d_kadiya - Title given to 1010659
+361 - vassal: d_wibina - Holder 1010219 - Primary title: d_wibina has lost the title: d_wibina
+361 - sub vassal: d_wibina - Holder 1010219 - Primary title: d_wibina has lost the title: d_wibina
+361 - vassal: d_wibina - Title given to 1010219
+361 - sub vassal: d_wibina - Title given to 1010219
+361 - sub vassal: c_dedisey - Setting to vassal of d_kebisey in Validate Realm
+361 - vassal: d_wibina - Lost vassal: c_dedisey
+361 - sub vassal: d_wibina - Lost vassal: c_dedisey
+361 - vassal: d_kebisey - Gained vassal: c_dedisey
+361 - sub vassal: d_kebisey - Gained vassal: c_dedisey
+361 - vassal: d_kebisey - Holder 1010219 - Primary title: d_kebisey has lost the title: d_kebisey
+361 - sub vassal: d_kebisey - Holder 1010219 - Primary title: d_kebisey has lost the title: d_kebisey
+361 - vassal: d_kebisey - Title given to 1010219 - Primary title: d_wibina
+361 - sub vassal: d_kebisey - Title given to 1010219 - Primary title: d_wibina
+361 - vassal: d_wibina - Holder (1010219) has gained d_kebisey
+361 - sub vassal: d_wibina - Holder (1010219) has gained d_kebisey
+361 - sub vassal: c_dedisey - Holder 1010219 - Primary title: c_dedisey has lost the title: c_dedisey
+361 - sub vassal: c_dedisey - Title given to 1010219 - Primary title: d_wibina
+361 - vassal: d_wibina - Holder (1010219) has gained c_dedisey
+361 - sub vassal: d_wibina - Holder (1010219) has gained c_dedisey
+361 - sub vassal: c_kilyuk - Holder 1010219 - Primary title: c_kilyuk has lost the title: c_kilyuk
+361 - sub vassal: c_kilyuk - Title given to 1010219 - Primary title: d_wibina
+361 - vassal: d_wibina - Holder (1010219) has gained c_kilyuk
+361 - sub vassal: d_wibina - Holder (1010219) has gained c_kilyuk
+361 - sub vassal: c_kibayda - Holder 1010219 - Primary title: c_kibayda has lost the title: c_kibayda
+361 - sub vassal: c_kibayda - Title given to 1010219 - Primary title: d_wibina
+361 - vassal: d_wibina - Holder (1010219) has gained c_kibayda
+361 - sub vassal: d_wibina - Holder (1010219) has gained c_kibayda
+362 - vassal: d_wibina - Destroyed due to flagged problem
+362 - sub vassal: d_wibina - Destroyed due to flagged problem
+362 - vassal: d_wibina - Made independent
+362 - sub vassal: d_wibina - Made independent
+362 - vassal: d_kebisey - Holder 1007848 - Primary title: d_kebisey has lost the title: d_kebisey
+362 - sub vassal: d_kebisey - Holder 1007848 - Primary title: d_kebisey has lost the title: d_kebisey
+362 - vassal: d_kebisey - Title given to 1007848 - Primary title: k_nauini
+362 - sub vassal: d_kebisey - Title given to 1007848 - Primary title: k_nauini
+362 - Holder (1007848) has gained d_kebisey
+362 - sub vassal: c_dedisey - Holder 1007848 - Primary title: c_dedisey has lost the title: c_dedisey
+362 - sub vassal: c_dedisey - Title given to 1007848 - Primary title: k_nauini
+362 - Holder (1007848) has gained c_dedisey
+362 - sub vassal: c_kilyuk - Holder 1007848 - Primary title: c_kilyuk has lost the title: c_kilyuk
+362 - sub vassal: c_kilyuk - Title given to 1007848 - Primary title: k_nauini
+362 - Holder (1007848) has gained c_kilyuk
+362 - sub vassal: c_kibayda - Holder 1007848 - Primary title: c_kibayda has lost the title: c_kibayda
+362 - sub vassal: c_kibayda - Title given to 1007848 - Primary title: k_nauini
+362 - Holder (1007848) has gained c_kibayda
+362 - sub vassal: c_kilyuk - Given to 1010912 in HandleTitles - Too many duke titles
+362 - Holder 1010912 - Primary title: k_nauini has lost the title: c_kilyuk
+362 - sub vassal: c_kilyuk - Title given to 1010912
+362 - Holder 1010912 - Primary title: k_nauini has lost the title: d_kebisey
+362 - vassal: d_kebisey - Title given to 1010912 - Primary title: c_kilyuk
+362 - sub vassal: d_kebisey - Title given to 1010912 - Primary title: c_kilyuk
+362 - sub vassal: c_kilyuk - Holder (1010912) has gained d_kebisey
+362 - sub vassal: c_dedisey - Setting to vassal of k_nauini in Validate Realm
+362 - vassal: d_kebisey - Lost vassal: c_dedisey
+362 - sub vassal: d_kebisey - Lost vassal: c_dedisey
+362 - sub vassal: c_kibayda - Setting to vassal of k_nauini in Validate Realm
+362 - vassal: d_kebisey - Lost vassal: c_kibayda
+362 - sub vassal: d_kebisey - Lost vassal: c_kibayda
+362 - Gained vassal: c_kibayda
+362 - Gained vassal: c_dedisey
+362 - vassal: d_kebisey - Too many dukes, given to dejure: k_nauini
+362 - sub vassal: d_kebisey - Too many dukes, given to dejure: k_nauini
+362 - Holder 1008921 - Primary title: k_nauini has lost the title: c_kibayda
+362 - vassal: c_kibayda - Title given to 1008921
+362 - sub vassal: c_kibayda - Title given to 1008921
+362 - Holder 1010913 - Primary title: k_nauini has lost the title: c_dedisey
+362 - vassal: c_dedisey - Title given to 1010913
+362 - sub vassal: c_dedisey - Title given to 1010913
+367 - Gained vassal: c_dauslni
+383 - Holder 1008921 - Primary title: k_nauini has lost the title: k_nauini
+383 - Title given to 1008921 - Primary title: c_kibayda
+383 - vassal: c_kibayda - Holder (1008921) has gained k_nauini
+383 - sub vassal: c_kibayda - Holder (1008921) has gained k_nauini
+383 - vassal: d_kanyuk - Holder 1008921 - Primary title: d_kanyuk has lost the title: d_kanyuk
+383 - sub vassal: d_kanyuk - Holder 1008921 - Primary title: d_kanyuk has lost the title: d_kanyuk
+383 - vassal: d_kanyuk - Title given to 1008921 - Primary title: k_nauini
+383 - sub vassal: d_kanyuk - Title given to 1008921 - Primary title: k_nauini
+383 - Holder (1008921) has gained d_kanyuk
+383 - vassal: d_wibini - Holder 1008921 - Primary title: d_wibini has lost the title: d_wibini
+383 - sub vassal: d_wibini - Holder 1008921 - Primary title: d_wibini has lost the title: d_wibini
+383 - vassal: d_wibini - Title given to 1008921 - Primary title: k_nauini
+383 - sub vassal: d_wibini - Title given to 1008921 - Primary title: k_nauini
+383 - Holder (1008921) has gained d_wibini
+383 - sub vassal: c_egandni - Holder 1008921 - Primary title: c_egandni has lost the title: c_egandni
+383 - sub vassal: c_egandni - Title given to 1008921 - Primary title: k_nauini
+383 - Holder (1008921) has gained c_egandni
+383 - sub vassal: c_kada-va - Holder 1008921 - Primary title: c_kada-va has lost the title: c_kada-va
+383 - sub vassal: c_kada-va - Title given to 1008921 - Primary title: k_nauini
+383 - Holder (1008921) has gained c_kada-va
+383 - sub vassal: c_wibyuk - Holder 1008921 - Primary title: c_wibyuk has lost the title: c_wibyuk
+383 - sub vassal: c_wibyuk - Title given to 1008921 - Primary title: k_nauini
+383 - Holder (1008921) has gained c_wibyuk
+383 - sub vassal: c_eturyka - Holder 1008921 - Primary title: c_eturyka has lost the title: c_eturyka
+383 - sub vassal: c_eturyka - Title given to 1008921 - Primary title: k_nauini
+383 - Holder (1008921) has gained c_eturyka
+383 - sub vassal: c_netiya - Holder 1008921 - Primary title: c_netiya has lost the title: c_netiya
+383 - sub vassal: c_netiya - Title given to 1008921 - Primary title: k_nauini
+383 - Holder (1008921) has gained c_netiya
+384 - Holder 1012017 - Primary title: k_nauini has lost the title: c_kibayda
+384 - vassal: c_kibayda - Title given to 1012017
+384 - sub vassal: c_kibayda - Title given to 1012017
+386 - Holder 1007418 - Primary title: k_nauini has lost the title: k_nauini
+386 - Title given to 1007418 - Primary title: c_nandan
+386 - vassal: c_nandan - Holder (1007418) has gained k_nauini
+386 - sub vassal: c_nandan - Holder (1007418) has gained k_nauini
+386 - vassal: d_kanyuk - Holder 1007418 - Primary title: d_kanyuk has lost the title: d_kanyuk
+386 - sub vassal: d_kanyuk - Holder 1007418 - Primary title: d_kanyuk has lost the title: d_kanyuk
+386 - vassal: d_kanyuk - Title given to 1007418 - Primary title: k_nauini
+386 - sub vassal: d_kanyuk - Title given to 1007418 - Primary title: k_nauini
+386 - Holder (1007418) has gained d_kanyuk
+386 - vassal: d_wibini - Holder 1007418 - Primary title: d_wibini has lost the title: d_wibini
+386 - sub vassal: d_wibini - Holder 1007418 - Primary title: d_wibini has lost the title: d_wibini
+386 - vassal: d_wibini - Title given to 1007418 - Primary title: k_nauini
+386 - sub vassal: d_wibini - Title given to 1007418 - Primary title: k_nauini
+386 - Holder (1007418) has gained d_wibini
+386 - sub vassal: c_egandni - Holder 1007418 - Primary title: c_egandni has lost the title: c_egandni
+386 - sub vassal: c_egandni - Title given to 1007418 - Primary title: k_nauini
+386 - Holder (1007418) has gained c_egandni
+386 - sub vassal: c_kada-va - Holder 1007418 - Primary title: c_kada-va has lost the title: c_kada-va
+386 - sub vassal: c_kada-va - Title given to 1007418 - Primary title: k_nauini
+386 - Holder (1007418) has gained c_kada-va
+386 - sub vassal: c_wibyuk - Holder 1007418 - Primary title: c_wibyuk has lost the title: c_wibyuk
+386 - sub vassal: c_wibyuk - Title given to 1007418 - Primary title: k_nauini
+386 - Holder (1007418) has gained c_wibyuk
+386 - sub vassal: c_eturyka - Holder 1007418 - Primary title: c_eturyka has lost the title: c_eturyka
+386 - sub vassal: c_eturyka - Title given to 1007418 - Primary title: k_nauini
+386 - Holder (1007418) has gained c_eturyka
+386 - sub vassal: c_netiya - Holder 1007418 - Primary title: c_netiya has lost the title: c_netiya
+386 - sub vassal: c_netiya - Title given to 1007418 - Primary title: k_nauini
+386 - Holder (1007418) has gained c_netiya
+387 - Holder 1012169 - Primary title: k_nauini has lost the title: c_nandan
+387 - vassal: c_nandan - Title given to 1012169
+387 - sub vassal: c_nandan - Title given to 1012169
+390 - Holder 1007476 - Primary title: k_nauini has lost the title: k_nauini
+390 - Title given to 1007476
+390 - vassal: d_kanyuk - Holder 1007476 - Primary title: d_kanyuk has lost the title: d_kanyuk
+390 - sub vassal: d_kanyuk - Holder 1007476 - Primary title: d_kanyuk has lost the title: d_kanyuk
+390 - vassal: d_kanyuk - Title given to 1007476 - Primary title: k_nauini
+390 - sub vassal: d_kanyuk - Title given to 1007476 - Primary title: k_nauini
+390 - Holder (1007476) has gained d_kanyuk
+390 - vassal: d_wibini - Holder 1007476 - Primary title: d_wibini has lost the title: d_wibini
+390 - sub vassal: d_wibini - Holder 1007476 - Primary title: d_wibini has lost the title: d_wibini
+390 - vassal: d_wibini - Title given to 1007476 - Primary title: k_nauini
+390 - sub vassal: d_wibini - Title given to 1007476 - Primary title: k_nauini
+390 - Holder (1007476) has gained d_wibini
+390 - sub vassal: c_egandni - Holder 1007476 - Primary title: c_egandni has lost the title: c_egandni
+390 - sub vassal: c_egandni - Title given to 1007476 - Primary title: k_nauini
+390 - Holder (1007476) has gained c_egandni
+390 - sub vassal: c_kada-va - Holder 1007476 - Primary title: c_kada-va has lost the title: c_kada-va
+390 - sub vassal: c_kada-va - Title given to 1007476 - Primary title: k_nauini
+390 - Holder (1007476) has gained c_kada-va
+390 - sub vassal: c_wibyuk - Holder 1007476 - Primary title: c_wibyuk has lost the title: c_wibyuk
+390 - sub vassal: c_wibyuk - Title given to 1007476 - Primary title: k_nauini
+390 - Holder (1007476) has gained c_wibyuk
+390 - sub vassal: c_eturyka - Holder 1007476 - Primary title: c_eturyka has lost the title: c_eturyka
+390 - sub vassal: c_eturyka - Title given to 1007476 - Primary title: k_nauini
+390 - Holder (1007476) has gained c_eturyka
+390 - sub vassal: c_netiya - Holder 1007476 - Primary title: c_netiya has lost the title: c_netiya
+390 - sub vassal: c_netiya - Title given to 1007476 - Primary title: k_nauini
+390 - Holder (1007476) has gained c_netiya
+392 - vassal: d_kebisey - Holder 1011189 - Primary title: d_kebisey has lost the title: d_kebisey
+392 - sub vassal: d_kebisey - Holder 1011189 - Primary title: d_kebisey has lost the title: d_kebisey
+392 - vassal: d_kebisey - Title given to 1011189
+392 - sub vassal: d_kebisey - Title given to 1011189
+392 - sub vassal: c_kilyuk - Holder 1011189 - Primary title: c_kilyuk has lost the title: c_kilyuk
+392 - sub vassal: c_kilyuk - Title given to 1011189 - Primary title: d_kebisey
+392 - vassal: d_kebisey - Holder (1011189) has gained c_kilyuk
+392 - sub vassal: d_kebisey - Holder (1011189) has gained c_kilyuk
+393 - vassal: d_kebisey - Holder 1007476 - Primary title: d_kebisey has lost the title: d_kebisey
+393 - sub vassal: d_kebisey - Holder 1007476 - Primary title: d_kebisey has lost the title: d_kebisey
+393 - vassal: d_kebisey - Title given to 1007476 - Primary title: k_nauini
+393 - sub vassal: d_kebisey - Title given to 1007476 - Primary title: k_nauini
+393 - Holder (1007476) has gained d_kebisey
+393 - sub vassal: c_kilyuk - Holder 1007476 - Primary title: c_kilyuk has lost the title: c_kilyuk
+393 - sub vassal: c_kilyuk - Title given to 1007476 - Primary title: k_nauini
+393 - Holder (1007476) has gained c_kilyuk
+393 - sub vassal: c_tibava - Given to 1012470 in HandleTitles - Too many duke titles
+393 - sub vassal: c_burini - Holder 1012470 - Primary title: c_burini has lost the title: c_tibava
+393 - sub vassal: c_tibava - Title given to 1012470
+393 - Holder 1012470 - Primary title: k_nauini has lost the title: d_kanyuk
+393 - vassal: d_kanyuk - Title given to 1012470 - Primary title: c_tibava
+393 - sub vassal: d_kanyuk - Title given to 1012470 - Primary title: c_tibava
+393 - sub vassal: c_tibava - Holder (1012470) has gained d_kanyuk
+393 - vassal: d_kanyuk - Too many dukes, made direct title into vassal of k_nauini
+393 - sub vassal: d_kanyuk - Too many dukes, made direct title into vassal of k_nauini
+393 - Holder 1012471 - Primary title: k_nauini has lost the title: c_kilyuk
+393 - sub vassal: c_kilyuk - Title given to 1012471
+394 - Holder 1012470 - Primary title: k_nauini has lost the title: k_nauini
+394 - Title given to 1012470 - Primary title: d_kanyuk
+394 - vassal: d_kanyuk - Holder (1012470) has gained k_nauini
+394 - sub vassal: d_kanyuk - Holder (1012470) has gained k_nauini
+394 - vassal: d_wibini - Holder 1012470 - Primary title: d_wibini has lost the title: d_wibini
+394 - sub vassal: d_wibini - Holder 1012470 - Primary title: d_wibini has lost the title: d_wibini
+394 - vassal: d_wibini - Title given to 1012470 - Primary title: k_nauini
+394 - sub vassal: d_wibini - Title given to 1012470 - Primary title: k_nauini
+394 - Holder (1012470) has gained d_wibini
+394 - sub vassal: c_egandni - Setting to vassal of d_kebisey in Validate Realm
+394 - vassal: d_wibini - Lost vassal: c_egandni
+394 - sub vassal: d_wibini - Lost vassal: c_egandni
+394 - sub vassal: c_kada-va - Setting to vassal of d_kebisey in Validate Realm
+394 - vassal: d_wibini - Lost vassal: c_kada-va
+394 - sub vassal: d_wibini - Lost vassal: c_kada-va
+394 - sub vassal: c_wibyuk - Setting to vassal of d_kebisey in Validate Realm
+394 - vassal: d_wibini - Lost vassal: c_wibyuk
+394 - sub vassal: d_wibini - Lost vassal: c_wibyuk
+394 - sub vassal: c_eturyka - Setting to vassal of d_kebisey in Validate Realm
+394 - vassal: d_wibini - Lost vassal: c_eturyka
+394 - sub vassal: d_wibini - Lost vassal: c_eturyka
+394 - sub vassal: c_netiya - Setting to vassal of d_kebisey in Validate Realm
+394 - vassal: d_wibini - Lost vassal: c_netiya
+394 - sub vassal: d_wibini - Lost vassal: c_netiya
+394 - vassal: d_kebisey - Gained vassal: c_netiya
+394 - sub vassal: d_kebisey - Gained vassal: c_netiya
+394 - vassal: d_kebisey - Gained vassal: c_eturyka
+394 - sub vassal: d_kebisey - Gained vassal: c_eturyka
+394 - vassal: d_kebisey - Gained vassal: c_wibyuk
+394 - sub vassal: d_kebisey - Gained vassal: c_wibyuk
+394 - vassal: d_kebisey - Gained vassal: c_kada-va
+394 - sub vassal: d_kebisey - Gained vassal: c_kada-va
+394 - vassal: d_kebisey - Gained vassal: c_egandni
+394 - sub vassal: d_kebisey - Gained vassal: c_egandni
+394 - vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_egandni
+394 - sub vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_egandni
+394 - sub vassal: c_egandni - Title given to 1012470 - Primary title: k_nauini
+394 - Holder (1012470) has gained c_egandni
+394 - sub vassal: c_egandni - Setting to vassal of k_nauini in Validate Realm
+394 - vassal: d_kebisey - Lost vassal: c_egandni
+394 - sub vassal: d_kebisey - Lost vassal: c_egandni
+394 - Gained vassal: c_egandni
+394 - vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_kada-va
+394 - sub vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_kada-va
+394 - sub vassal: c_kada-va - Title given to 1012470 - Primary title: k_nauini
+394 - Holder (1012470) has gained c_kada-va
+394 - sub vassal: c_kada-va - Setting to vassal of k_nauini in Validate Realm
+394 - vassal: d_kebisey - Lost vassal: c_kada-va
+394 - sub vassal: d_kebisey - Lost vassal: c_kada-va
+394 - Gained vassal: c_kada-va
+394 - vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_wibyuk
+394 - sub vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_wibyuk
+394 - sub vassal: c_wibyuk - Title given to 1012470 - Primary title: k_nauini
+394 - Holder (1012470) has gained c_wibyuk
+394 - sub vassal: c_wibyuk - Setting to vassal of k_nauini in Validate Realm
+394 - vassal: d_kebisey - Lost vassal: c_wibyuk
+394 - sub vassal: d_kebisey - Lost vassal: c_wibyuk
+394 - Gained vassal: c_wibyuk
+394 - vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_eturyka
+394 - sub vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_eturyka
+394 - sub vassal: c_eturyka - Title given to 1012470 - Primary title: k_nauini
+394 - Holder (1012470) has gained c_eturyka
+394 - sub vassal: c_eturyka - Setting to vassal of k_nauini in Validate Realm
+394 - vassal: d_kebisey - Lost vassal: c_eturyka
+394 - sub vassal: d_kebisey - Lost vassal: c_eturyka
+394 - Gained vassal: c_eturyka
+394 - vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_netiya
+394 - sub vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: c_netiya
+394 - sub vassal: c_netiya - Title given to 1012470 - Primary title: k_nauini
+394 - Holder (1012470) has gained c_netiya
+394 - sub vassal: c_netiya - Setting to vassal of k_nauini in Validate Realm
+394 - vassal: d_kebisey - Lost vassal: c_netiya
+394 - sub vassal: d_kebisey - Lost vassal: c_netiya
+394 - Gained vassal: c_netiya
+394 - vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: d_kebisey
+394 - sub vassal: d_kebisey - Holder 1012470 - Primary title: d_kebisey has lost the title: d_kebisey
+394 - vassal: d_kebisey - Title given to 1012470 - Primary title: k_nauini
+394 - sub vassal: d_kebisey - Title given to 1012470 - Primary title: k_nauini
+394 - Holder (1012470) has gained d_kebisey
+395 - sub vassal: c_tibava - Given to 1012563 in HandleTitles - Too many duke titles
+395 - Holder 1012563 - Primary title: k_nauini has lost the title: c_tibava
+395 - sub vassal: c_tibava - Title given to 1012563
+395 - Holder 1012563 - Primary title: k_nauini has lost the title: d_kanyuk
+395 - vassal: d_kanyuk - Title given to 1012563 - Primary title: c_tibava
+395 - sub vassal: d_kanyuk - Title given to 1012563 - Primary title: c_tibava
+395 - sub vassal: c_tibava - Holder (1012563) has gained d_kanyuk
+395 - vassal: d_kanyuk - Too many dukes, made direct title into vassal of k_nauini
+395 - sub vassal: d_kanyuk - Too many dukes, made direct title into vassal of k_nauini

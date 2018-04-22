@@ -1,0 +1,161 @@
+200 - Title given to 1000246
+200 - vassal: c_tavalum - Given to 1000250 via AddCharacterForTitle
+200 - sub vassal: c_tavalum - Given to 1000250 via AddCharacterForTitle
+200 - vassal: c_tavalum - Holder 1000250 - Primary title: c_tavalum has lost the title: c_tavalum
+200 - sub vassal: c_tavalum - Holder 1000250 - Primary title: c_tavalum has lost the title: c_tavalum
+200 - vassal: c_tavalum - Title given to 1000250
+200 - sub vassal: c_tavalum - Title given to 1000250
+200 - vassal: c_rikara - Holder 1000246 - Primary title: c_rikara has lost the title: c_rikara
+200 - sub vassal: c_rikara - Holder 1000246 - Primary title: c_rikara has lost the title: c_rikara
+200 - vassal: c_rikara - Title given to 1000246 - Primary title: d_kalimon
+200 - sub vassal: c_rikara - Title given to 1000246 - Primary title: d_kalimon
+200 - Holder (1000246) has gained c_rikara
+200 - vassal: c_anamolas - Holder 1000246 - Primary title: c_anamolas has lost the title: c_anamolas
+200 - sub vassal: c_anamolas - Holder 1000246 - Primary title: c_anamolas has lost the title: c_anamolas
+200 - vassal: c_anamolas - Title given to 1000246 - Primary title: d_kalimon
+200 - sub vassal: c_anamolas - Title given to 1000246 - Primary title: d_kalimon
+200 - Holder (1000246) has gained c_anamolas
+200 - vassal: c_tavalum - Holder 1000246 - Primary title: c_tavalum has lost the title: c_tavalum
+200 - sub vassal: c_tavalum - Holder 1000246 - Primary title: c_tavalum has lost the title: c_tavalum
+200 - vassal: c_tavalum - Title given to 1000246 - Primary title: d_kalimon
+200 - sub vassal: c_tavalum - Title given to 1000246 - Primary title: d_kalimon
+200 - Holder (1000246) has gained c_tavalum
+200 - Holder 1001023 - Primary title: d_kalimon has lost the title: d_kalimon
+200 - Title given to 1001023 - Primary title: k_evapesse
+200 - vassal: c_rikara - Holder 1001023 - Primary title: c_rikara has lost the title: c_rikara
+200 - vassal: c_rikara - Title given to 1001023 - Primary title: k_evapesse
+209 - vassal: c_tavalum - Given to 1002118 in HandleTitles - Too many duke titles
+209 - vassal: c_anamolas - Holder 1002118 - Primary title: c_anamolas has lost the title: c_tavalum
+209 - vassal: c_tavalum - Title given to 1002118
+209 - Title given to 1002118 - Primary title: c_tavalum
+209 - vassal: c_tavalum - Holder (1002118) has gained d_kalimon
+209 - vassal: c_rikara - Setting to vassal of k_evapesse in Validate Realm
+209 - Lost vassal: c_rikara
+209 - Too many dukes, given to dejure: k_evapesse
+254 - Holder 1002992 - Primary title: d_kalimon has lost the title: d_kalimon
+254 - Title given to 1002992
+254 - vassal: c_tavalum - Holder 1002992 - Primary title: c_tavalum has lost the title: c_tavalum
+254 - vassal: c_tavalum - Title given to 1002992 - Primary title: d_kalimon
+254 - Holder (1002992) has gained c_tavalum
+260 - Holder 1001177 - Primary title: d_kalimon has lost the title: d_kalimon
+260 - Title given to 1001177 - Primary title: d_detalum
+260 - vassal: c_tavalum - Holder 1001177 - Primary title: c_tavalum has lost the title: c_tavalum
+260 - vassal: c_tavalum - Title given to 1001177 - Primary title: d_detalum
+261 - Holder 1003747 - Primary title: d_kalimon has lost the title: d_detalum
+261 - Gained vassal: c_tibasz
+261 - Gained vassal: c_kibeza
+261 - Gained vassal: c_anaveza
+261 - Gained vassal: c_karay
+261 - Holder 1003747 - Primary title: d_kalimon has lost the title: c_karay
+261 - vassal: c_karay - Title given to 1003747 - Primary title: d_detalum
+261 - vassal: c_karay - Setting to vassal of d_detalum in Validate Realm
+261 - Lost vassal: c_karay
+261 - Holder 1003747 - Primary title: d_kalimon has lost the title: c_anaveza
+261 - vassal: c_anaveza - Title given to 1003747 - Primary title: d_detalum
+261 - vassal: c_anaveza - Setting to vassal of d_detalum in Validate Realm
+261 - Lost vassal: c_anaveza
+261 - Holder 1003747 - Primary title: d_kalimon has lost the title: c_kibeza
+261 - vassal: c_kibeza - Title given to 1003747 - Primary title: d_detalum
+261 - vassal: c_kibeza - Setting to vassal of d_detalum in Validate Realm
+261 - Lost vassal: c_kibeza
+261 - Holder 1003747 - Primary title: d_kalimon has lost the title: c_tibasz
+261 - vassal: c_tibasz - Title given to 1003747 - Primary title: d_detalum
+261 - vassal: c_tibasz - Setting to vassal of d_detalum in Validate Realm
+261 - Lost vassal: c_tibasz
+261 - Holder 1003747 - Primary title: d_kalimon has lost the title: d_kalimon
+261 - Title given to 1003747 - Primary title: d_detalum
+261 - vassal: c_tavalum - Holder 1003747 - Primary title: c_tavalum has lost the title: c_tavalum
+261 - vassal: c_tavalum - Title given to 1003747 - Primary title: d_detalum
+300 - vassal: c_anamolas - Holder 1007009 - Primary title: c_anamolas has lost the title: c_anamolas
+300 - vassal: c_anamolas - Title given to 1007009
+300 - Gained vassal: c_tibasz
+300 - Gained vassal: c_kibeza
+300 - Gained vassal: c_anaveza
+300 - Gained vassal: c_karay
+300 - Holder 1005081 - Primary title: d_kalimon has lost the title: d_kalimon
+300 - Title given to 1005081 - Primary title: d_detalum
+300 - vassal: c_karay - Holder 1005081 - Primary title: c_karay has lost the title: c_karay
+300 - vassal: c_karay - Title given to 1005081 - Primary title: d_detalum
+300 - vassal: c_anaveza - Holder 1005081 - Primary title: c_anaveza has lost the title: c_anaveza
+300 - vassal: c_anaveza - Title given to 1005081 - Primary title: d_detalum
+300 - vassal: c_kibeza - Holder 1005081 - Primary title: c_kibeza has lost the title: c_kibeza
+300 - vassal: c_kibeza - Title given to 1005081 - Primary title: d_detalum
+300 - vassal: c_tibasz - Holder 1005081 - Primary title: c_tibasz has lost the title: c_tibasz
+300 - vassal: c_tibasz - Title given to 1005081 - Primary title: d_detalum
+300 - vassal: c_tavalum - Holder 1005081 - Primary title: c_tavalum has lost the title: c_tavalum
+300 - vassal: c_tavalum - Title given to 1005081 - Primary title: d_detalum
+303 - Holder (1005081) has gained d_detalum
+303 - vassal: c_karay - Set liege on title creation d_detalum
+303 - Lost vassal: c_karay
+303 - vassal: c_anaveza - Set liege on title creation d_detalum
+303 - Lost vassal: c_anaveza
+303 - vassal: c_kibeza - Set liege on title creation d_detalum
+303 - Lost vassal: c_kibeza
+303 - vassal: c_tibasz - Set liege on title creation d_detalum
+303 - Lost vassal: c_tibasz
+303 - vassal: c_tavalum - Set liege on title creation d_detalum
+303 - Lost vassal: c_tavalum
+303 - vassal: c_anamolas - Holder 1005081 - Primary title: c_anamolas has lost the title: c_anamolas
+303 - vassal: c_anamolas - Title given to 1005081 - Primary title: d_kalimon
+303 - Holder (1005081) has gained c_anamolas
+304 - Holder 1007257 - Primary title: d_kalimon has lost the title: c_tibasz
+304 - Gained vassal: c_tibasz
+309 - Holder (1005081) has gained d_detalum
+309 - vassal: c_anamolas - Set liege on title creation d_detalum
+309 - Lost vassal: c_anamolas
+309 - vassal: c_tibasz - Holder 1005081 - Primary title: c_tibasz has lost the title: c_tibasz
+309 - vassal: c_tibasz - Title given to 1005081 - Primary title: d_kalimon
+309 - Holder (1005081) has gained c_tibasz
+310 - Holder 1007557 - Primary title: d_kalimon has lost the title: c_tavalum
+310 - Gained vassal: c_tavalum
+314 - Holder 1007465 - Primary title: d_kalimon has lost the title: d_kalimon
+314 - Title given to 1007465
+314 - vassal: c_tibasz - Setting independent in Validate Realm
+314 - vassal: c_tibasz - Made independent
+314 - Holder (1007465) has gained c_karay
+314 - Holder (1007465) has gained c_anaveza
+314 - Holder (1007465) has gained c_kibeza
+314 - Holder (1007465) has gained c_anamolas
+314 - Holder (1007465) has gained c_tibasz
+315 - vassal: c_tavalum - Holder 1007465 - Primary title: c_tavalum has lost the title: c_tavalum
+315 - vassal: c_tavalum - Title given to 1007465 - Primary title: d_kalimon
+315 - Holder (1007465) has gained c_tavalum
+315 - Holder 1007811 - Primary title: d_kalimon has lost the title: c_anamolas
+315 - Gained vassal: c_anamolas
+316 - Holder (1007465) has gained d_detalum
+316 - vassal: c_tavalum - Set liege on title creation d_detalum
+316 - Lost vassal: c_tavalum
+316 - vassal: c_anamolas - Holder 1007465 - Primary title: c_anamolas has lost the title: c_anamolas
+316 - vassal: c_anamolas - Title given to 1007465 - Primary title: d_kalimon
+316 - Holder (1007465) has gained c_anamolas
+317 - Holder 1007913 - Primary title: d_kalimon has lost the title: c_tibasz
+317 - Gained vassal: c_tibasz
+320 - Holder (1007465) has gained d_detalum
+320 - vassal: c_anamolas - Set liege on title creation d_detalum
+320 - Lost vassal: c_anamolas
+320 - vassal: c_tibasz - Holder 1007465 - Primary title: c_tibasz has lost the title: c_tibasz
+320 - vassal: c_tibasz - Title given to 1007465 - Primary title: d_kalimon
+320 - Holder (1007465) has gained c_tibasz
+321 - Holder 1008111 - Primary title: d_kalimon has lost the title: c_anaveza
+321 - Gained vassal: c_anaveza
+325 - Holder (1007465) has gained d_detalum
+325 - vassal: c_tibasz - Set liege on title creation d_detalum
+325 - Lost vassal: c_tibasz
+325 - vassal: c_anaveza - Holder 1007465 - Primary title: c_anaveza has lost the title: c_anaveza
+325 - vassal: c_anaveza - Title given to 1007465 - Primary title: d_kalimon
+325 - Holder (1007465) has gained c_anaveza
+326 - Holder 1008401 - Primary title: d_kalimon has lost the title: c_karay
+326 - Gained vassal: c_karay
+328 - Holder 1006502 - Primary title: d_kalimon has lost the title: d_kalimon
+328 - Title given to 1006502 - Primary title: k_evapesse
+328 - vassal: c_anaveza - Setting independent in Validate Realm
+328 - vassal: c_anaveza - Made independent
+340 - Holder 1008469 - Primary title: d_kalimon has lost the title: d_kalimon
+340 - Title given to 1008469 - Primary title: k_evapesse
+391 - vassal: c_karay - Holder 1008469 - Primary title: c_karay has lost the title: c_karay
+391 - vassal: c_karay - Title given to 1008469 - Primary title: k_evapesse
+391 - vassal: c_karay - Given to 1011593 in HandleTitles - Too many duke titles
+391 - vassal: c_karay - Title given to 1011593
+391 - Title given to 1011593 - Primary title: c_karay
+391 - vassal: c_karay - Holder (1011593) has gained d_kalimon
+391 - Too many dukes, given to dejure: k_evapesse

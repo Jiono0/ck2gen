@@ -1,0 +1,72 @@
+200 - Title given to 1000057 - Primary title: c_kahent
+200 - Holder 1001056 - Primary title: d_tutis has lost the title: d_tutis
+200 - Title given to 1001056 - Primary title: k_kadew
+218 - Gained vassal: c_quris
+218 - Gained vassal: c_rurora
+218 - Gained vassal: c_katurga
+218 - Gained vassal: c_denew
+218 - Holder 1001563 - Primary title: d_tutis has lost the title: c_denew
+218 - vassal: c_denew - Title given to 1001563 - Primary title: k_kadew
+218 - vassal: c_denew - Setting to vassal of k_kadew in Validate Realm
+218 - Lost vassal: c_denew
+218 - Holder 1001563 - Primary title: d_tutis has lost the title: c_katurga
+218 - vassal: c_katurga - Title given to 1001563 - Primary title: k_kadew
+218 - vassal: c_katurga - Setting to vassal of k_kadew in Validate Realm
+218 - Lost vassal: c_katurga
+218 - Holder 1001563 - Primary title: d_tutis has lost the title: c_rurora
+218 - vassal: c_rurora - Title given to 1001563 - Primary title: k_kadew
+218 - vassal: c_rurora - Setting to vassal of k_kadew in Validate Realm
+218 - Lost vassal: c_rurora
+218 - Holder 1001563 - Primary title: d_tutis has lost the title: c_quris
+218 - vassal: c_quris - Title given to 1001563 - Primary title: k_kadew
+218 - vassal: c_quris - Setting to vassal of k_kadew in Validate Realm
+218 - Lost vassal: c_quris
+218 - Holder 1001563 - Primary title: d_tutis has lost the title: d_tutis
+218 - Title given to 1001563 - Primary title: k_kadew
+235 - Holder 1002758 - Primary title: d_tutis has lost the title: d_tutis
+235 - Title given to 1002758 - Primary title: k_kadew
+274 - Holder 1004478 - Primary title: d_tutis has lost the title: d_tutis
+274 - Title given to 1004478 - Primary title: k_kadew
+288 - Destroyed due to flagged problem
+288 - Made independent
+288 - Title destroyed
+319 - Given to 1006324 in TestCreateEmpire
+319 - Title given to 1006324 - Primary title: c_kahent
+319 - Gained vassal: c_kahent
+319 - Made independent for title creation d_tutis for d_tutis
+319 - vassal: c_kahent - Set liege on title creation d_tutis
+319 - sub vassal: c_kahent - Set liege on title creation d_tutis
+319 - Destroyed due to no capital's obtainable
+319 - Title destroyed
+319 - vassal: c_kahent - Setting independent due to liege destruction
+319 - vassal: c_kahent - Made independent
+330 - Given to 1007531 in TestCreateEmpire
+330 - Title given to 1007531 - Primary title: c_kahent
+330 - Gained vassal: c_kahent
+330 - Made independent for title creation d_tutis for d_tutis
+330 - vassal: c_kahent - Set liege on title creation d_tutis
+330 - sub vassal: c_kahent - Set liege on title creation d_tutis
+330 - Destroyed due to no capital's obtainable
+330 - Title destroyed
+330 - vassal: c_kahent - Setting independent due to liege destruction
+330 - vassal: c_kahent - Made independent
+333 - Given to 1007531 in TestCreateEmpire
+333 - Title given to 1007531 - Primary title: c_kahent
+333 - Gained vassal: c_kahent
+333 - Made independent for title creation d_tutis for d_tutis
+333 - vassal: c_kahent - Set liege on title creation d_tutis
+333 - sub vassal: c_kahent - Set liege on title creation d_tutis
+333 - Destroyed due to no capital's obtainable
+333 - Title destroyed
+333 - vassal: c_kahent - Setting independent due to liege destruction
+333 - vassal: c_kahent - Made independent
+371 - Given to 1011233 in TestCreateEmpire
+371 - Title given to 1011233 - Primary title: c_kahent
+371 - Gained vassal: c_kahent
+371 - Made independent for title creation d_tutis for d_tutis
+371 - vassal: c_kahent - Set liege on title creation d_tutis
+371 - sub vassal: c_kahent - Set liege on title creation d_tutis
+371 - Destroyed due to no capital's obtainable
+371 - Title destroyed
+371 - vassal: c_kahent - Setting independent due to liege destruction
+371 - vassal: c_kahent - Made independent

@@ -1,0 +1,340 @@
+200 - Title given to 1000720
+200 - vassal: c_wanande - Given to 1000723 via AddCharacterForTitle
+200 - sub vassal: c_wanande - Given to 1000723 via AddCharacterForTitle
+200 - vassal: c_wanande - Holder 1000723 - Primary title: c_wanande has lost the title: c_wanande
+200 - sub vassal: c_wanande - Holder 1000723 - Primary title: c_wanande has lost the title: c_wanande
+200 - vassal: c_wanande - Title given to 1000723
+200 - sub vassal: c_wanande - Title given to 1000723
+200 - vassal: c_nile - Given to 1000725 via AddCharacterForTitle
+200 - sub vassal: c_nile - Given to 1000725 via AddCharacterForTitle
+200 - vassal: c_nile - Holder 1000725 - Primary title: c_nile has lost the title: c_nile
+200 - sub vassal: c_nile - Holder 1000725 - Primary title: c_nile has lost the title: c_nile
+200 - vassal: c_nile - Title given to 1000725
+200 - sub vassal: c_nile - Title given to 1000725
+200 - vassal: c_tanoro - Holder 1000720 - Primary title: c_tanoro has lost the title: c_tanoro
+200 - sub vassal: c_tanoro - Holder 1000720 - Primary title: c_tanoro has lost the title: c_tanoro
+200 - vassal: c_tanoro - Title given to 1000720 - Primary title: d_kovai
+200 - sub vassal: c_tanoro - Title given to 1000720 - Primary title: d_kovai
+200 - Holder (1000720) has gained c_tanoro
+200 - vassal: c_wanande - Holder 1000720 - Primary title: c_wanande has lost the title: c_wanande
+200 - sub vassal: c_wanande - Holder 1000720 - Primary title: c_wanande has lost the title: c_wanande
+200 - vassal: c_wanande - Title given to 1000720 - Primary title: d_kovai
+200 - sub vassal: c_wanande - Title given to 1000720 - Primary title: d_kovai
+200 - Holder (1000720) has gained c_wanande
+200 - vassal: c_nile - Holder 1000720 - Primary title: c_nile has lost the title: c_nile
+200 - sub vassal: c_nile - Holder 1000720 - Primary title: c_nile has lost the title: c_nile
+200 - vassal: c_nile - Title given to 1000720 - Primary title: d_kovai
+200 - sub vassal: c_nile - Title given to 1000720 - Primary title: d_kovai
+200 - Holder (1000720) has gained c_nile
+200 - vassal: c_agaudeas - Title given to 1000720 - Primary title: d_kovai
+200 - Holder (1000720) has gained c_agaudeas
+200 - vassal: c_noro - Holder 1000720 - Primary title: c_noro has lost the title: c_noro
+200 - sub vassal: c_noro - Holder 1000720 - Primary title: c_noro has lost the title: c_noro
+200 - vassal: c_noro - Title given to 1000720 - Primary title: d_kovai
+200 - sub vassal: c_noro - Title given to 1000720 - Primary title: d_kovai
+200 - Holder (1000720) has gained c_noro
+200 - Holder 1001044 - Primary title: d_kovai has lost the title: d_kovai
+200 - Title given to 1001044 - Primary title: k_tenelge
+200 - vassal: c_tanoro - Made independent due to being a seperate island prior to giving to neighbour
+200 - vassal: c_tanoro - Made independent
+200 - vassal: c_agaudeas - Made independent due to being a seperate island prior to giving to neighbour
+200 - vassal: c_agaudeas - Made independent
+200 - vassal: c_wanande - Holder 1000726 - Primary title: c_wanande has lost the title: c_agaudeas
+200 - vassal: c_wanande - Made independent due to being a seperate island prior to giving to neighbour
+200 - vassal: c_wanande - Made independent
+200 - vassal: c_nile - Made independent due to being a seperate island prior to giving to neighbour
+200 - vassal: c_nile - Made independent
+200 - vassal: c_noro - Made independent due to being a seperate island prior to giving to neighbour
+200 - vassal: c_noro - Made independent
+201 - Destroyed due to flagged problem
+201 - Made independent
+201 - Title destroyed
+209 - Given to 1001937 in TestCreateEmpire
+209 - Title given to 1001937 - Primary title: c_eraisu
+209 - Gained vassal: c_eraisu
+209 - Made independent for title creation d_kovai for d_kovai
+209 - vassal: c_eraisu - Set liege on title creation d_kovai
+209 - sub vassal: c_eraisu - Set liege on title creation d_kovai
+209 - Gained vassal: c_kafiel
+209 - Gained vassal: c_kozahai
+209 - Gained vassal: c_tanoro
+209 - Gained vassal: c_agaudeas
+209 - Gained vassal: c_wanande
+209 - Gained vassal: c_nile
+209 - Gained vassal: c_noro
+209 - Holder 1002161 - Primary title: d_kovai has lost the title: c_kafiel
+209 - vassal: c_kafiel - Title given to 1002161
+209 - sub vassal: c_kafiel - Title given to 1002161
+209 - Holder 1002162 - Primary title: d_kovai has lost the title: c_agaudeas
+209 - vassal: c_agaudeas - Title given to 1002162
+209 - sub vassal: c_agaudeas - Title given to 1002162
+209 - Holder 1002164 - Primary title: d_kovai has lost the title: c_eraisu
+209 - vassal: c_eraisu - Title given to 1002164
+209 - sub vassal: c_eraisu - Title given to 1002164
+219 - Holder 1002162 - Primary title: d_kovai has lost the title: d_kovai
+219 - Title given to 1002162 - Primary title: c_agaudeas
+219 - vassal: c_agaudeas - Holder (1002162) has gained d_kovai
+219 - sub vassal: c_agaudeas - Holder (1002162) has gained d_kovai
+219 - vassal: c_kozahai - Holder 1002162 - Primary title: c_kozahai has lost the title: c_kozahai
+219 - sub vassal: c_kozahai - Holder 1002162 - Primary title: c_kozahai has lost the title: c_kozahai
+219 - vassal: c_kozahai - Title given to 1002162 - Primary title: d_kovai
+219 - sub vassal: c_kozahai - Title given to 1002162 - Primary title: d_kovai
+219 - Holder (1002162) has gained c_kozahai
+219 - vassal: c_tanoro - Holder 1002162 - Primary title: c_tanoro has lost the title: c_tanoro
+219 - sub vassal: c_tanoro - Holder 1002162 - Primary title: c_tanoro has lost the title: c_tanoro
+219 - vassal: c_tanoro - Title given to 1002162 - Primary title: d_kovai
+219 - sub vassal: c_tanoro - Title given to 1002162 - Primary title: d_kovai
+219 - Holder (1002162) has gained c_tanoro
+219 - vassal: c_wanande - Holder 1002162 - Primary title: c_wanande has lost the title: c_wanande
+219 - sub vassal: c_wanande - Holder 1002162 - Primary title: c_wanande has lost the title: c_wanande
+219 - vassal: c_wanande - Title given to 1002162 - Primary title: d_kovai
+219 - sub vassal: c_wanande - Title given to 1002162 - Primary title: d_kovai
+219 - Holder (1002162) has gained c_wanande
+219 - vassal: c_nile - Holder 1002162 - Primary title: c_nile has lost the title: c_nile
+219 - sub vassal: c_nile - Holder 1002162 - Primary title: c_nile has lost the title: c_nile
+219 - vassal: c_nile - Title given to 1002162 - Primary title: d_kovai
+219 - sub vassal: c_nile - Title given to 1002162 - Primary title: d_kovai
+219 - Holder (1002162) has gained c_nile
+219 - vassal: c_noro - Holder 1002162 - Primary title: c_noro has lost the title: c_noro
+219 - sub vassal: c_noro - Holder 1002162 - Primary title: c_noro has lost the title: c_noro
+219 - vassal: c_noro - Title given to 1002162 - Primary title: d_kovai
+219 - sub vassal: c_noro - Title given to 1002162 - Primary title: d_kovai
+219 - Holder (1002162) has gained c_noro
+220 - Holder 1002814 - Primary title: d_kovai has lost the title: c_kozahai
+220 - vassal: c_kozahai - Title given to 1002814
+220 - sub vassal: c_kozahai - Title given to 1002814
+255 - Holder 1003535 - Primary title: d_kovai has lost the title: d_kovai
+255 - Title given to 1003535
+255 - vassal: c_agaudeas - Holder 1003535 - Primary title: c_agaudeas has lost the title: c_agaudeas
+255 - sub vassal: c_agaudeas - Holder 1003535 - Primary title: c_agaudeas has lost the title: c_agaudeas
+255 - vassal: c_agaudeas - Title given to 1003535 - Primary title: d_kovai
+255 - sub vassal: c_agaudeas - Title given to 1003535 - Primary title: d_kovai
+255 - Holder (1003535) has gained c_agaudeas
+255 - vassal: c_tanoro - Holder 1003535 - Primary title: c_tanoro has lost the title: c_tanoro
+255 - sub vassal: c_tanoro - Holder 1003535 - Primary title: c_tanoro has lost the title: c_tanoro
+255 - vassal: c_tanoro - Title given to 1003535 - Primary title: d_kovai
+255 - sub vassal: c_tanoro - Title given to 1003535 - Primary title: d_kovai
+255 - Holder (1003535) has gained c_tanoro
+255 - vassal: c_wanande - Holder 1003535 - Primary title: c_wanande has lost the title: c_wanande
+255 - sub vassal: c_wanande - Holder 1003535 - Primary title: c_wanande has lost the title: c_wanande
+255 - vassal: c_wanande - Title given to 1003535 - Primary title: d_kovai
+255 - sub vassal: c_wanande - Title given to 1003535 - Primary title: d_kovai
+255 - Holder (1003535) has gained c_wanande
+255 - vassal: c_nile - Holder 1003535 - Primary title: c_nile has lost the title: c_nile
+255 - sub vassal: c_nile - Holder 1003535 - Primary title: c_nile has lost the title: c_nile
+255 - vassal: c_nile - Title given to 1003535 - Primary title: d_kovai
+255 - sub vassal: c_nile - Title given to 1003535 - Primary title: d_kovai
+255 - Holder (1003535) has gained c_nile
+255 - vassal: c_noro - Holder 1003535 - Primary title: c_noro has lost the title: c_noro
+255 - sub vassal: c_noro - Holder 1003535 - Primary title: c_noro has lost the title: c_noro
+255 - vassal: c_noro - Title given to 1003535 - Primary title: d_kovai
+255 - sub vassal: c_noro - Title given to 1003535 - Primary title: d_kovai
+255 - Holder (1003535) has gained c_noro
+264 - Holder 1005303 - Primary title: d_kovai has lost the title: d_kovai
+264 - Title given to 1005303
+264 - vassal: c_noro - Holder 1005303 - Primary title: c_noro has lost the title: c_noro
+264 - sub vassal: c_noro - Holder 1005303 - Primary title: c_noro has lost the title: c_noro
+264 - vassal: c_noro - Title given to 1005303 - Primary title: d_kovai
+264 - sub vassal: c_noro - Title given to 1005303 - Primary title: d_kovai
+264 - Holder (1005303) has gained c_noro
+264 - vassal: c_nile - Holder 1005303 - Primary title: c_nile has lost the title: c_nile
+264 - sub vassal: c_nile - Holder 1005303 - Primary title: c_nile has lost the title: c_nile
+264 - vassal: c_nile - Title given to 1005303 - Primary title: d_kovai
+264 - sub vassal: c_nile - Title given to 1005303 - Primary title: d_kovai
+264 - Holder (1005303) has gained c_nile
+264 - vassal: c_wanande - Holder 1005303 - Primary title: c_wanande has lost the title: c_wanande
+264 - sub vassal: c_wanande - Holder 1005303 - Primary title: c_wanande has lost the title: c_wanande
+264 - vassal: c_wanande - Title given to 1005303 - Primary title: d_kovai
+264 - sub vassal: c_wanande - Title given to 1005303 - Primary title: d_kovai
+264 - Holder (1005303) has gained c_wanande
+264 - vassal: c_tanoro - Holder 1005303 - Primary title: c_tanoro has lost the title: c_tanoro
+264 - sub vassal: c_tanoro - Holder 1005303 - Primary title: c_tanoro has lost the title: c_tanoro
+264 - vassal: c_tanoro - Title given to 1005303 - Primary title: d_kovai
+264 - sub vassal: c_tanoro - Title given to 1005303 - Primary title: d_kovai
+264 - Holder (1005303) has gained c_tanoro
+264 - vassal: c_agaudeas - Holder 1005303 - Primary title: c_agaudeas has lost the title: c_agaudeas
+264 - sub vassal: c_agaudeas - Holder 1005303 - Primary title: c_agaudeas has lost the title: c_agaudeas
+264 - vassal: c_agaudeas - Title given to 1005303 - Primary title: d_kovai
+264 - sub vassal: c_agaudeas - Title given to 1005303 - Primary title: d_kovai
+264 - Holder (1005303) has gained c_agaudeas
+267 - Holder (1005303) has gained k_tenelge
+267 - vassal: c_tanoro - Given to 1005690 in HandleTitles - Too many duke titles
+267 - vassal: c_tanoro - Title given to 1005690
+267 - Title given to 1005690 - Primary title: c_tanoro
+267 - vassal: c_tanoro - Holder (1005690) has gained d_kovai
+267 - vassal: c_noro - Setting to vassal of k_tenelge in Validate Realm
+267 - Lost vassal: c_noro
+267 - vassal: c_nile - Setting to vassal of k_tenelge in Validate Realm
+267 - Lost vassal: c_nile
+267 - vassal: c_wanande - Setting to vassal of k_tenelge in Validate Realm
+267 - Lost vassal: c_wanande
+267 - vassal: c_agaudeas - Setting to vassal of k_tenelge in Validate Realm
+267 - Lost vassal: c_agaudeas
+267 - Too many dukes, given to dejure: k_tenelge
+267 - Made independent due to being a seperate island prior to giving to neighbour
+267 - Made independent
+267 - Given to neighbour holder of c_agaudeas
+267 - Holder 1005696 - Primary title: d_kovai has lost the title: d_kovai
+267 - Title given to 1005696 - Primary title: c_agaudeas
+267 - Gained vassal: c_wanande
+267 - vassal: c_wanande - Given to neighbour holder of d_kovai
+267 - sub vassal: c_wanande - Given to neighbour holder of d_kovai
+267 - vassal: c_wanande - Holder 1005696 - Primary title: c_wanande has lost the title: c_wanande
+267 - sub vassal: c_wanande - Holder 1005696 - Primary title: c_wanande has lost the title: c_wanande
+267 - vassal: c_wanande - Title given to 1005696 - Primary title: d_kovai
+267 - sub vassal: c_wanande - Title given to 1005696 - Primary title: d_kovai
+267 - Holder (1005696) has gained c_wanande
+267 - Gained vassal: c_wing
+267 - vassal: c_wing - Given to neighbour holder of d_kovai
+267 - sub vassal: c_wing - Given to neighbour holder of d_kovai
+267 - vassal: c_wing - Holder 1005696 - Primary title: c_wing has lost the title: c_wing
+267 - sub vassal: c_wing - Holder 1005696 - Primary title: c_wing has lost the title: c_wing
+267 - vassal: c_wing - Title given to 1005696 - Primary title: d_kovai
+267 - sub vassal: c_wing - Title given to 1005696 - Primary title: d_kovai
+267 - Holder (1005696) has gained c_wing
+267 - Gained vassal: c_nile
+267 - vassal: c_nile - Given to neighbour holder of d_kovai
+267 - sub vassal: c_nile - Given to neighbour holder of d_kovai
+267 - vassal: c_nile - Holder 1005696 - Primary title: c_nile has lost the title: c_nile
+267 - sub vassal: c_nile - Holder 1005696 - Primary title: c_nile has lost the title: c_nile
+267 - vassal: c_nile - Title given to 1005696 - Primary title: d_kovai
+267 - sub vassal: c_nile - Title given to 1005696 - Primary title: d_kovai
+267 - Holder (1005696) has gained c_nile
+279 - Holder (1005696) has gained d_rande
+279 - vassal: c_wanande - Set liege on title creation d_rande
+279 - sub vassal: c_wanande - Set liege on title creation d_rande
+279 - Lost vassal: c_wanande
+279 - vassal: c_wing - Set liege on title creation d_rande
+279 - sub vassal: c_wing - Set liege on title creation d_rande
+279 - Lost vassal: c_wing
+279 - vassal: c_nile - Set liege on title creation d_rande
+279 - sub vassal: c_nile - Set liege on title creation d_rande
+279 - Lost vassal: c_nile
+300 - vassal: c_kafiel - Holder 1005696 - Primary title: c_kafiel has lost the title: c_kafiel
+300 - sub vassal: c_kafiel - Holder 1005696 - Primary title: c_kafiel has lost the title: c_kafiel
+300 - vassal: c_kafiel - Title given to 1005696 - Primary title: d_kovai
+300 - sub vassal: c_kafiel - Title given to 1005696 - Primary title: d_kovai
+300 - Holder (1005696) has gained c_kafiel
+300 - vassal: c_eraisu - Holder 1005690 - Primary title: c_eraisu has lost the title: c_eraisu
+300 - sub vassal: c_eraisu - Holder 1005690 - Primary title: c_eraisu has lost the title: c_eraisu
+300 - vassal: c_eraisu - Title given to 1005690 - Primary title: c_tanoro
+300 - sub vassal: c_eraisu - Title given to 1005690 - Primary title: c_tanoro
+300 - vassal: c_tanoro - Holder (1005690) has gained c_eraisu
+300 - sub vassal: c_tanoro - Holder (1005690) has gained c_eraisu
+300 - Holder 1007601 - Primary title: d_kovai has lost the title: c_nile
+300 - sub vassal: c_nile - Title given to 1007601
+307 - Holder 1008045 - Primary title: d_kovai has lost the title: d_kovai
+307 - Title given to 1008045
+307 - Holder (1008045) has gained d_rande
+307 - vassal: c_kafiel - Holder 1008045 - Primary title: c_kafiel has lost the title: c_kafiel
+307 - sub vassal: c_kafiel - Holder 1008045 - Primary title: c_kafiel has lost the title: c_kafiel
+307 - vassal: c_kafiel - Title given to 1008045 - Primary title: d_kovai
+307 - sub vassal: c_kafiel - Title given to 1008045 - Primary title: d_kovai
+307 - Holder (1008045) has gained c_kafiel
+307 - sub vassal: c_agaudeas - Holder 1008045 - Primary title: c_agaudeas has lost the title: c_agaudeas
+307 - sub vassal: c_agaudeas - Title given to 1008045 - Primary title: d_kovai
+307 - Holder (1008045) has gained c_agaudeas
+307 - sub vassal: c_noro - Holder 1008045 - Primary title: c_noro has lost the title: c_noro
+307 - sub vassal: c_noro - Title given to 1008045 - Primary title: d_kovai
+307 - Holder (1008045) has gained c_noro
+307 - sub vassal: c_wanande - Holder 1008045 - Primary title: c_wanande has lost the title: c_wanande
+307 - sub vassal: c_wanande - Title given to 1008045 - Primary title: d_kovai
+307 - Holder (1008045) has gained c_wanande
+307 - sub vassal: c_wing - Holder 1008045 - Primary title: c_wing has lost the title: c_wing
+307 - sub vassal: c_wing - Title given to 1008045 - Primary title: d_kovai
+307 - Holder (1008045) has gained c_wing
+346 - Holder 1008967 - Primary title: d_kovai has lost the title: d_kovai
+346 - Title given to 1008967
+346 - Holder (1008967) has gained d_rande
+346 - vassal: c_kafiel - Holder 1008967 - Primary title: c_kafiel has lost the title: c_kafiel
+346 - sub vassal: c_kafiel - Holder 1008967 - Primary title: c_kafiel has lost the title: c_kafiel
+346 - vassal: c_kafiel - Title given to 1008967 - Primary title: d_kovai
+346 - sub vassal: c_kafiel - Title given to 1008967 - Primary title: d_kovai
+346 - Holder (1008967) has gained c_kafiel
+346 - sub vassal: c_agaudeas - Holder 1008967 - Primary title: c_agaudeas has lost the title: c_agaudeas
+346 - sub vassal: c_agaudeas - Title given to 1008967 - Primary title: d_kovai
+346 - Holder (1008967) has gained c_agaudeas
+346 - sub vassal: c_noro - Holder 1008967 - Primary title: c_noro has lost the title: c_noro
+346 - sub vassal: c_noro - Title given to 1008967 - Primary title: d_kovai
+346 - Holder (1008967) has gained c_noro
+346 - sub vassal: c_wanande - Holder 1008967 - Primary title: c_wanande has lost the title: c_wanande
+346 - sub vassal: c_wanande - Title given to 1008967 - Primary title: d_kovai
+346 - Holder (1008967) has gained c_wanande
+346 - sub vassal: c_wing - Holder 1008967 - Primary title: c_wing has lost the title: c_wing
+346 - sub vassal: c_wing - Title given to 1008967 - Primary title: d_kovai
+346 - Holder (1008967) has gained c_wing
+351 - Holder 1010327 - Primary title: d_kovai has lost the title: d_kovai
+351 - Title given to 1010327
+351 - Holder (1010327) has gained d_rande
+351 - vassal: c_kafiel - Holder 1010327 - Primary title: c_kafiel has lost the title: c_kafiel
+351 - sub vassal: c_kafiel - Holder 1010327 - Primary title: c_kafiel has lost the title: c_kafiel
+351 - vassal: c_kafiel - Title given to 1010327 - Primary title: d_kovai
+351 - sub vassal: c_kafiel - Title given to 1010327 - Primary title: d_kovai
+351 - Holder (1010327) has gained c_kafiel
+351 - sub vassal: c_agaudeas - Holder 1010327 - Primary title: c_agaudeas has lost the title: c_agaudeas
+351 - sub vassal: c_agaudeas - Title given to 1010327 - Primary title: d_kovai
+351 - Holder (1010327) has gained c_agaudeas
+351 - sub vassal: c_noro - Holder 1010327 - Primary title: c_noro has lost the title: c_noro
+351 - sub vassal: c_noro - Title given to 1010327 - Primary title: d_kovai
+351 - Holder (1010327) has gained c_noro
+351 - sub vassal: c_wanande - Holder 1010327 - Primary title: c_wanande has lost the title: c_wanande
+351 - sub vassal: c_wanande - Title given to 1010327 - Primary title: d_kovai
+351 - Holder (1010327) has gained c_wanande
+351 - sub vassal: c_wing - Holder 1010327 - Primary title: c_wing has lost the title: c_wing
+351 - sub vassal: c_wing - Title given to 1010327 - Primary title: d_kovai
+351 - Holder (1010327) has gained c_wing
+352 - Holder 1005690 - Primary title: d_kovai has lost the title: d_kovai
+352 - Title given to 1005690 - Primary title: c_eraisu
+352 - vassal: c_eraisu - Holder (1005690) has gained d_kovai
+352 - sub vassal: c_eraisu - Holder (1005690) has gained d_kovai
+352 - vassal: c_kafiel - Setting to vassal of d_rande in Validate Realm
+352 - Lost vassal: c_kafiel
+352 - Holder (1005690) has gained d_rande
+352 - sub vassal: c_kafiel - Holder 1005690 - Primary title: c_kafiel has lost the title: c_kafiel
+352 - sub vassal: c_kafiel - Title given to 1005690 - Primary title: d_kovai
+352 - Holder (1005690) has gained c_kafiel
+352 - sub vassal: c_agaudeas - Holder 1005690 - Primary title: c_agaudeas has lost the title: c_agaudeas
+352 - sub vassal: c_agaudeas - Title given to 1005690 - Primary title: d_kovai
+352 - Holder (1005690) has gained c_agaudeas
+352 - sub vassal: c_noro - Holder 1005690 - Primary title: c_noro has lost the title: c_noro
+352 - sub vassal: c_noro - Title given to 1005690 - Primary title: d_kovai
+352 - Holder (1005690) has gained c_noro
+352 - sub vassal: c_wanande - Holder 1005690 - Primary title: c_wanande has lost the title: c_wanande
+352 - sub vassal: c_wanande - Title given to 1005690 - Primary title: d_kovai
+352 - Holder (1005690) has gained c_wanande
+352 - sub vassal: c_wing - Holder 1005690 - Primary title: c_wing has lost the title: c_wing
+352 - sub vassal: c_wing - Title given to 1005690 - Primary title: d_kovai
+352 - Holder (1005690) has gained c_wing
+353 - Holder 1010442 - Primary title: d_kovai has lost the title: c_kafiel
+353 - sub vassal: c_kafiel - Title given to 1010442
+353 - Holder 1010443 - Primary title: d_kovai has lost the title: c_noro
+353 - sub vassal: c_noro - Title given to 1010443
+367 - Holder 1010663 - Primary title: d_kovai has lost the title: d_kovai
+367 - Title given to 1010663
+367 - Holder (1010663) has gained d_rande
+367 - sub vassal: c_wing - Holder 1010663 - Primary title: c_wing has lost the title: c_wing
+367 - sub vassal: c_wing - Title given to 1010663 - Primary title: d_kovai
+367 - Holder (1010663) has gained c_wing
+367 - vassal: c_eraisu - Setting independent in Validate Realm
+367 - sub vassal: c_eraisu - Setting independent in Validate Realm
+367 - vassal: c_eraisu - Made independent
+367 - sub vassal: c_eraisu - Made independent
+367 - vassal: c_tanoro - Setting independent in Validate Realm
+367 - sub vassal: c_tanoro - Setting independent in Validate Realm
+367 - vassal: c_tanoro - Made independent
+367 - sub vassal: c_tanoro - Made independent
+367 - sub vassal: c_wanande - Holder 1010663 - Primary title: c_wanande has lost the title: c_wanande
+367 - sub vassal: c_wanande - Title given to 1010663 - Primary title: d_kovai
+367 - Holder (1010663) has gained c_wanande
+367 - sub vassal: c_agaudeas - Holder 1010663 - Primary title: c_agaudeas has lost the title: c_agaudeas
+367 - sub vassal: c_agaudeas - Title given to 1010663 - Primary title: d_kovai
+367 - Holder (1010663) has gained c_agaudeas
+367 - Holder (1010663) has gained c_eraisu
+367 - Holder (1010663) has gained c_tanoro
+367 - vassal: c_kozahai - Holder 1010663 - Primary title: c_kozahai has lost the title: c_kozahai
+367 - sub vassal: c_kozahai - Holder 1010663 - Primary title: c_kozahai has lost the title: c_kozahai
+367 - vassal: c_kozahai - Title given to 1010663 - Primary title: d_kovai
+367 - sub vassal: c_kozahai - Title given to 1010663 - Primary title: d_kovai
+367 - Holder (1010663) has gained c_kozahai
+368 - Holder 1011192 - Primary title: d_kovai has lost the title: c_eraisu
+368 - Gained vassal: c_eraisu

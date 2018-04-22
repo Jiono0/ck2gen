@@ -1,0 +1,60 @@
+200 - Title given to 1000215
+200 - vassal: c_niraise - Given to 1000218 via AddCharacterForTitle
+200 - sub vassal: c_niraise - Given to 1000218 via AddCharacterForTitle
+200 - vassal: c_niraise - Holder 1000218 - Primary title: c_niraise has lost the title: c_niraise
+200 - sub vassal: c_niraise - Holder 1000218 - Primary title: c_niraise has lost the title: c_niraise
+200 - vassal: c_niraise - Title given to 1000218
+200 - sub vassal: c_niraise - Title given to 1000218
+200 - vassal: c_tajolas - Holder 1000215 - Primary title: c_tajolas has lost the title: c_tajolas
+200 - sub vassal: c_tajolas - Holder 1000215 - Primary title: c_tajolas has lost the title: c_tajolas
+200 - vassal: c_tajolas - Title given to 1000215 - Primary title: d_nipude
+200 - sub vassal: c_tajolas - Title given to 1000215 - Primary title: d_nipude
+200 - Holder (1000215) has gained c_tajolas
+200 - vassal: c_niraise - Holder 1000215 - Primary title: c_niraise has lost the title: c_niraise
+200 - sub vassal: c_niraise - Holder 1000215 - Primary title: c_niraise has lost the title: c_niraise
+200 - vassal: c_niraise - Title given to 1000215 - Primary title: d_nipude
+200 - sub vassal: c_niraise - Title given to 1000215 - Primary title: d_nipude
+200 - Holder (1000215) has gained c_niraise
+200 - vassal: c_riplas - Holder 1000215 - Primary title: c_riplas has lost the title: c_riplas
+200 - sub vassal: c_riplas - Holder 1000215 - Primary title: c_riplas has lost the title: c_riplas
+200 - vassal: c_riplas - Title given to 1000215 - Primary title: d_nipude
+200 - sub vassal: c_riplas - Title given to 1000215 - Primary title: d_nipude
+200 - Holder (1000215) has gained c_riplas
+200 - Holder 1000220 - Primary title: d_nipude has lost the title: d_nipude
+200 - Title given to 1000220 - Primary title: d_kiraky
+200 - vassal: c_riplas - Holder 1000220 - Primary title: c_riplas has lost the title: c_riplas
+200 - vassal: c_riplas - Title given to 1000220 - Primary title: d_kiraky
+200 - vassal: c_niraise - Holder 1000220 - Primary title: c_niraise has lost the title: c_niraise
+200 - vassal: c_niraise - Title given to 1000220 - Primary title: d_kiraky
+200 - vassal: c_tajolas - Holder 1000220 - Primary title: c_tajolas has lost the title: c_tajolas
+200 - vassal: c_tajolas - Title given to 1000220 - Primary title: d_kiraky
+209 - Holder (1000220) has gained k_ajirolas
+236 - Gained vassal: c_wesse
+236 - Gained vassal: c_tirile
+236 - Holder 1001480 - Primary title: d_nipude has lost the title: d_nipude
+236 - Title given to 1001480 - Primary title: k_ajirolas
+236 - vassal: c_tirile - Holder 1001480 - Primary title: c_tirile has lost the title: c_tirile
+236 - vassal: c_tirile - Title given to 1001480 - Primary title: k_ajirolas
+236 - vassal: c_tajolas - Holder 1001480 - Primary title: c_tajolas has lost the title: c_tajolas
+236 - vassal: c_tajolas - Title given to 1001480 - Primary title: k_ajirolas
+236 - vassal: c_niraise - Holder 1001480 - Primary title: c_niraise has lost the title: c_niraise
+236 - vassal: c_niraise - Title given to 1001480 - Primary title: k_ajirolas
+236 - vassal: c_riplas - Holder 1001480 - Primary title: c_riplas has lost the title: c_riplas
+236 - vassal: c_riplas - Title given to 1001480 - Primary title: k_ajirolas
+236 - vassal: c_wesse - Holder 1001480 - Primary title: c_wesse has lost the title: c_wesse
+236 - vassal: c_wesse - Title given to 1001480 - Primary title: k_ajirolas
+258 - Holder 1003819 - Primary title: d_nipude has lost the title: d_nipude
+258 - Title given to 1003819 - Primary title: k_ajirolas
+258 - vassal: c_wesse - Setting to vassal of d_kiraky in Validate Realm
+258 - Lost vassal: c_wesse
+258 - vassal: c_riplas - Setting to vassal of d_kiraky in Validate Realm
+258 - Lost vassal: c_riplas
+258 - vassal: c_niraise - Setting to vassal of d_kiraky in Validate Realm
+258 - Lost vassal: c_niraise
+258 - vassal: c_tajolas - Setting to vassal of d_kiraky in Validate Realm
+258 - Lost vassal: c_tajolas
+258 - vassal: c_tirile - Setting to vassal of d_kiraky in Validate Realm
+258 - Lost vassal: c_tirile
+259 - Destroyed due to flagged problem
+259 - Made independent
+259 - Title destroyed

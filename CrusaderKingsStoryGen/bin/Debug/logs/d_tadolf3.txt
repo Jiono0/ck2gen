@@ -1,0 +1,73 @@
+200 - Title given to 1000472
+200 - vassal: c_duram - Given to 1000475 via AddCharacterForTitle
+200 - sub vassal: c_duram - Given to 1000475 via AddCharacterForTitle
+200 - vassal: c_duram - Holder 1000475 - Primary title: c_duram has lost the title: c_duram
+200 - sub vassal: c_duram - Holder 1000475 - Primary title: c_duram has lost the title: c_duram
+200 - vassal: c_duram - Title given to 1000475
+200 - sub vassal: c_duram - Title given to 1000475
+200 - vassal: c_kuriana - Holder 1000472 - Primary title: c_kuriana has lost the title: c_kuriana
+200 - sub vassal: c_kuriana - Holder 1000472 - Primary title: c_kuriana has lost the title: c_kuriana
+200 - vassal: c_kuriana - Title given to 1000472 - Primary title: d_tadolf
+200 - sub vassal: c_kuriana - Title given to 1000472 - Primary title: d_tadolf
+200 - Holder (1000472) has gained c_kuriana
+200 - vassal: c_duram - Holder 1000472 - Primary title: c_duram has lost the title: c_duram
+200 - sub vassal: c_duram - Holder 1000472 - Primary title: c_duram has lost the title: c_duram
+200 - vassal: c_duram - Title given to 1000472 - Primary title: d_tadolf
+200 - sub vassal: c_duram - Title given to 1000472 - Primary title: d_tadolf
+200 - Holder (1000472) has gained c_duram
+206 - Holder (1000472) has gained d_devi
+206 - Holder (1000472) has gained c_ebabuchi
+206 - Gained vassal: c_ebabuchi
+206 - Holder (1000472) has gained c_emasoka
+206 - Gained vassal: c_emasoka
+206 - Holder (1000472) has gained d_nipma
+206 - Holder (1000472) has gained c_badyal
+206 - Holder (1000472) has gained c_etans
+207 - vassal: c_duram - Title given to 1001960
+227 - vassal: c_emasoka - Set liege on title creation d_devi
+227 - Lost vassal: c_emasoka
+227 - vassal: c_ebabuchi - Set liege on title creation d_devi
+227 - Lost vassal: c_ebabuchi
+227 - vassal: c_kuriana - Set liege on title creation d_devi
+227 - Lost vassal: c_kuriana
+234 - Holder 1003554 - Primary title: d_tadolf has lost the title: d_tadolf
+234 - Title given to 1003554
+234 - Holder (1003554) has gained d_devi
+261 - Holder 1004076 - Primary title: d_tadolf has lost the title: d_tadolf
+261 - Title given to 1004076
+261 - Holder (1004076) has gained d_devi
+263 - Holder 1005086 - Primary title: d_tadolf has lost the title: d_tadolf
+263 - Title given to 1005086
+263 - Holder (1005086) has gained d_devi
+280 - Holder (1005086) has gained d_namba
+280 - Setting independent in Validate Realm
+280 - Made independent
+289 - Title given to 1006490 - Primary title: d_devi
+300 - vassal: c_duram - Holder 1006490 - Primary title: c_duram has lost the title: c_duram
+300 - vassal: c_duram - Title given to 1006490 - Primary title: d_namba
+326 - Holder 1006766 - Primary title: d_tadolf has lost the title: d_tadolf
+326 - Title given to 1006766 - Primary title: d_namba
+326 - vassal: c_duram - Holder 1006766 - Primary title: c_duram has lost the title: c_duram
+326 - vassal: c_duram - Title given to 1006766 - Primary title: d_namba
+328 - Holder 1008505 - Primary title: d_tadolf has lost the title: d_tadolf
+328 - Title given to 1008505 - Primary title: d_namba
+328 - vassal: c_duram - Holder 1008505 - Primary title: c_duram has lost the title: c_duram
+328 - vassal: c_duram - Title given to 1008505 - Primary title: d_namba
+365 - Holder 1006992 - Primary title: d_tadolf has lost the title: d_tadolf
+365 - Title given to 1006992 - Primary title: d_namba
+365 - vassal: c_duram - Holder 1006992 - Primary title: c_duram has lost the title: c_duram
+365 - vassal: c_duram - Title given to 1006992 - Primary title: d_namba
+372 - Holder 1010672 - Primary title: d_tadolf has lost the title: d_tadolf
+372 - Title given to 1010672 - Primary title: d_namba
+372 - vassal: c_duram - Holder 1010672 - Primary title: c_duram has lost the title: c_duram
+372 - vassal: c_duram - Title given to 1010672 - Primary title: d_namba
+376 - Holder 1010861 - Primary title: d_tadolf has lost the title: d_tadolf
+376 - Title given to 1010861 - Primary title: d_namba
+376 - vassal: c_duram - Holder 1010861 - Primary title: c_duram has lost the title: c_duram
+376 - vassal: c_duram - Title given to 1010861 - Primary title: d_namba
+393 - Holder 1011106 - Primary title: d_tadolf has lost the title: d_tadolf
+393 - Title given to 1011106 - Primary title: d_namba
+393 - vassal: c_duram - Setting independent in Validate Realm
+393 - vassal: c_duram - Made independent
+394 - Destroyed due to flagged problem
+394 - Title destroyed

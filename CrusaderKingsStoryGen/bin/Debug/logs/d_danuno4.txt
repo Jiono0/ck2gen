@@ -1,0 +1,57 @@
+200 - Title given to 1000666
+200 - vassal: c_dabyas - Given to 1000669 via AddCharacterForTitle
+200 - sub vassal: c_dabyas - Given to 1000669 via AddCharacterForTitle
+200 - vassal: c_dabyas - Holder 1000669 - Primary title: c_dabyas has lost the title: c_dabyas
+200 - sub vassal: c_dabyas - Holder 1000669 - Primary title: c_dabyas has lost the title: c_dabyas
+200 - vassal: c_dabyas - Title given to 1000669
+200 - sub vassal: c_dabyas - Title given to 1000669
+200 - vassal: c_libente - Holder 1000666 - Primary title: c_libente has lost the title: c_libente
+200 - sub vassal: c_libente - Holder 1000666 - Primary title: c_libente has lost the title: c_libente
+200 - vassal: c_libente - Title given to 1000666 - Primary title: d_danuno
+200 - sub vassal: c_libente - Title given to 1000666 - Primary title: d_danuno
+200 - Holder (1000666) has gained c_libente
+200 - vassal: c_dabyas - Holder 1000666 - Primary title: c_dabyas has lost the title: c_dabyas
+200 - sub vassal: c_dabyas - Holder 1000666 - Primary title: c_dabyas has lost the title: c_dabyas
+200 - vassal: c_dabyas - Title given to 1000666 - Primary title: d_danuno
+200 - sub vassal: c_dabyas - Title given to 1000666 - Primary title: d_danuno
+200 - Holder (1000666) has gained c_dabyas
+200 - vassal: c_danul - Holder 1000666 - Primary title: c_danul has lost the title: c_danul
+200 - sub vassal: c_danul - Holder 1000666 - Primary title: c_danul has lost the title: c_danul
+200 - vassal: c_danul - Title given to 1000666 - Primary title: d_danuno
+200 - sub vassal: c_danul - Title given to 1000666 - Primary title: d_danuno
+200 - Holder (1000666) has gained c_danul
+223 - Holder 1001592 - Primary title: d_danuno has lost the title: d_danuno
+223 - Title given to 1001592
+223 - vassal: c_libente - Holder 1001592 - Primary title: c_libente has lost the title: c_libente
+223 - vassal: c_libente - Title given to 1001592 - Primary title: d_danuno
+223 - Holder (1001592) has gained c_libente
+223 - vassal: c_dabyas - Holder 1001592 - Primary title: c_dabyas has lost the title: c_dabyas
+223 - vassal: c_dabyas - Title given to 1001592 - Primary title: d_danuno
+223 - Holder (1001592) has gained c_dabyas
+223 - vassal: c_danul - Holder 1001592 - Primary title: c_danul has lost the title: c_danul
+223 - vassal: c_danul - Title given to 1001592 - Primary title: d_danuno
+223 - Holder (1001592) has gained c_danul
+270 - Holder 1004189 - Primary title: d_danuno has lost the title: d_danuno
+270 - Title given to 1004189
+270 - vassal: c_libente - Holder 1004189 - Primary title: c_libente has lost the title: c_libente
+270 - vassal: c_libente - Title given to 1004189 - Primary title: d_danuno
+270 - Holder (1004189) has gained c_libente
+270 - vassal: c_dabyas - Holder 1004189 - Primary title: c_dabyas has lost the title: c_dabyas
+270 - vassal: c_dabyas - Title given to 1004189 - Primary title: d_danuno
+270 - Holder (1004189) has gained c_dabyas
+270 - vassal: c_danul - Holder 1004189 - Primary title: c_danul has lost the title: c_danul
+270 - vassal: c_danul - Title given to 1004189 - Primary title: d_danuno
+270 - Holder (1004189) has gained c_danul
+272 - Holder 1005103 - Primary title: d_danuno has lost the title: d_danuno
+272 - Title given to 1005103 - Primary title: k_nalaga
+272 - vassal: c_libente - Holder 1005103 - Primary title: c_libente has lost the title: c_libente
+272 - vassal: c_libente - Title given to 1005103 - Primary title: k_nalaga
+272 - vassal: c_dabyas - Holder 1005103 - Primary title: c_dabyas has lost the title: c_dabyas
+272 - vassal: c_dabyas - Title given to 1005103 - Primary title: k_nalaga
+272 - vassal: c_danul - Holder 1005103 - Primary title: c_danul has lost the title: c_danul
+272 - vassal: c_danul - Title given to 1005103 - Primary title: k_nalaga
+272 - vassal: c_danul - Given to 1005678 in HandleTitles - Too many duke titles
+272 - vassal: c_danul - Title given to 1005678
+272 - Title given to 1005678 - Primary title: c_danul
+272 - vassal: c_danul - Holder (1005678) has gained d_danuno
+272 - vassal: c_libente - Setting to vassal of k_n

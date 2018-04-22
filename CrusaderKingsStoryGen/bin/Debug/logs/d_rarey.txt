@@ -1,0 +1,57 @@
+200 - Title given to 1000290
+200 - vassal: c_kipse - Holder 1000290 - Primary title: c_kipse has lost the title: c_kipse
+200 - sub vassal: c_kipse - Holder 1000290 - Primary title: c_kipse has lost the title: c_kipse
+200 - vassal: c_kipse - Title given to 1000290 - Primary title: d_rarey
+200 - sub vassal: c_kipse - Title given to 1000290 - Primary title: d_rarey
+200 - Holder (1000290) has gained c_kipse
+200 - vassal: c_tiedeba - Holder 1000290 - Primary title: c_tiedeba has lost the title: c_tiedeba
+200 - sub vassal: c_tiedeba - Holder 1000290 - Primary title: c_tiedeba has lost the title: c_tiedeba
+200 - vassal: c_tiedeba - Title given to 1000290 - Primary title: d_rarey
+200 - sub vassal: c_tiedeba - Title given to 1000290 - Primary title: d_rarey
+200 - Holder (1000290) has gained c_tiedeba
+200 - vassal: c_kikay - Holder 1000290 - Primary title: c_kikay has lost the title: c_kikay
+200 - sub vassal: c_kikay - Holder 1000290 - Primary title: c_kikay has lost the title: c_kikay
+200 - vassal: c_kikay - Title given to 1000290 - Primary title: d_rarey
+200 - sub vassal: c_kikay - Title given to 1000290 - Primary title: d_rarey
+200 - Holder (1000290) has gained c_kikay
+200 - Holder 1001021 - Primary title: d_rarey has lost the title: c_kikay
+200 - vassal: c_kikay - Title given to 1001021 - Primary title: k_wanolas
+205 - Holder 1001190 - Primary title: d_rarey has lost the title: d_rarey
+205 - Title given to 1001190
+205 - vassal: c_kikay - Setting to vassal of k_wanolas in Validate Realm
+205 - Lost vassal: c_kikay
+205 - vassal: c_tiedeba - Holder 1001190 - Primary title: c_tiedeba has lost the title: c_tiedeba
+205 - vassal: c_tiedeba - Title given to 1001190 - Primary title: d_rarey
+205 - Holder (1001190) has gained c_tiedeba
+205 - vassal: c_kipse - Holder 1001190 - Primary title: c_kipse has lost the title: c_kipse
+205 - vassal: c_kipse - Title given to 1001190 - Primary title: d_rarey
+205 - Holder (1001190) has gained c_kipse
+206 - Holder 1001021 - Primary title: d_rarey has lost the title: d_rarey
+206 - Title given to 1001021 - Primary title: k_wanolas
+206 - vassal: c_tiedeba - Holder 1001021 - Primary title: c_tiedeba has lost the title: c_tiedeba
+206 - vassal: c_tiedeba - Title given to 1001021 - Primary title: k_wanolas
+206 - vassal: c_kipse - Holder 1001021 - Primary title: c_kipse has lost the title: c_kipse
+206 - vassal: c_kipse - Title given to 1001021 - Primary title: k_wanolas
+210 - Gained vassal: c_kikay
+210 - Holder 1001369 - Primary title: d_rarey has lost the title: c_kikay
+210 - vassal: c_kikay - Title given to 1001369 - Primary title: k_wanolas
+210 - vassal: c_kikay - Setting to vassal of k_wanolas in Validate Realm
+210 - Lost vassal: c_kikay
+210 - Holder 1001369 - Primary title: d_rarey has lost the title: d_rarey
+210 - Title given to 1001369 - Primary title: k_wanolas
+210 - vassal: c_tiedeba - Holder 1001369 - Primary title: c_tiedeba has lost the title: c_tiedeba
+210 - vassal: c_tiedeba - Title given to 1001369 - Primary title: k_wanolas
+210 - vassal: c_kipse - Holder 1001369 - Primary title: c_kipse has lost the title: c_kipse
+210 - vassal: c_kipse - Title given to 1001369 - Primary title: k_wanolas
+246 - Gained vassal: c_qapiota
+246 - Gained vassal: c_kikay
+246 - Holder 1004201 - Primary title: d_rarey has lost the title: d_rarey
+246 - Title given to 1004201 - Primary title: k_wanolas
+246 - vassal: c_kikay - Holder 1004201 - Primary title: c_kikay has lost the title: c_kikay
+246 - vassal: c_kikay - Title given to 1004201 - Primary title: k_wanolas
+246 - vassal: c_tiedeba - Holder 1004201 - Primary title: c_tiedeba has lost the title: c_tiedeba
+246 - vassal: c_tiedeba - Title given to 1004201 - Primary title: k_wanolas
+246 - vassal: c_kipse - Holder 1004201 - Primary title: c_kipse has lost the title: c_kipse
+246 - vassal: c_kipse - Title given to 1004201 - Primary title: k_wanolas
+246 - vassal: c_qapiota - Holder 1004201 - Primary title: c_qapiota has lost the title: c_qapiota
+246 - vassal: c_qapiota - Title given to 1004201 - Primary title: k_wanolas

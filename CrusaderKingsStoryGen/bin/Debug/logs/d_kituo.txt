@@ -1,0 +1,101 @@
+200 - Title given to 1000418
+200 - vassal: c_syau - Given to 1000421 via AddCharacterForTitle
+200 - sub vassal: c_syau - Given to 1000421 via AddCharacterForTitle
+200 - vassal: c_syau - Holder 1000421 - Primary title: c_syau has lost the title: c_syau
+200 - sub vassal: c_syau - Holder 1000421 - Primary title: c_syau has lost the title: c_syau
+200 - vassal: c_syau - Title given to 1000421
+200 - sub vassal: c_syau - Title given to 1000421
+200 - vassal: c_ebiruo - Given to 1000423 via AddCharacterForTitle
+200 - sub vassal: c_ebiruo - Given to 1000423 via AddCharacterForTitle
+200 - vassal: c_ebiruo - Holder 1000423 - Primary title: c_ebiruo has lost the title: c_ebiruo
+200 - sub vassal: c_ebiruo - Holder 1000423 - Primary title: c_ebiruo has lost the title: c_ebiruo
+200 - vassal: c_ebiruo - Title given to 1000423
+200 - sub vassal: c_ebiruo - Title given to 1000423
+200 - vassal: c_lataba - Holder 1000418 - Primary title: c_lataba has lost the title: c_lataba
+200 - sub vassal: c_lataba - Holder 1000418 - Primary title: c_lataba has lost the title: c_lataba
+200 - vassal: c_lataba - Title given to 1000418 - Primary title: d_kituo
+200 - sub vassal: c_lataba - Title given to 1000418 - Primary title: d_kituo
+200 - Holder (1000418) has gained c_lataba
+200 - vassal: c_syau - Holder 1000418 - Primary title: c_syau has lost the title: c_syau
+200 - sub vassal: c_syau - Holder 1000418 - Primary title: c_syau has lost the title: c_syau
+200 - vassal: c_syau - Title given to 1000418 - Primary title: d_kituo
+200 - sub vassal: c_syau - Title given to 1000418 - Primary title: d_kituo
+200 - Holder (1000418) has gained c_syau
+200 - vassal: c_kozelga - Holder 1000418 - Primary title: c_kozelga has lost the title: c_kozelga
+200 - sub vassal: c_kozelga - Holder 1000418 - Primary title: c_kozelga has lost the title: c_kozelga
+200 - vassal: c_kozelga - Title given to 1000418 - Primary title: d_kituo
+200 - sub vassal: c_kozelga - Title given to 1000418 - Primary title: d_kituo
+200 - Holder (1000418) has gained c_kozelga
+200 - vassal: c_dozari - Holder 1000418 - Primary title: c_dozari has lost the title: c_dozari
+200 - sub vassal: c_dozari - Holder 1000418 - Primary title: c_dozari has lost the title: c_dozari
+200 - vassal: c_dozari - Title given to 1000418 - Primary title: d_kituo
+200 - sub vassal: c_dozari - Title given to 1000418 - Primary title: d_kituo
+200 - Holder (1000418) has gained c_dozari
+235 - Holder 1001651 - Primary title: d_kituo has lost the title: d_kituo
+235 - Title given to 1001651 - Primary title: k_tiel
+235 - vassal: c_lataba - Holder 1001651 - Primary title: c_lataba has lost the title: c_lataba
+235 - vassal: c_lataba - Title given to 1001651 - Primary title: k_tiel
+235 - vassal: c_syau - Holder 1001651 - Primary title: c_syau has lost the title: c_syau
+235 - vassal: c_syau - Title given to 1001651 - Primary title: k_tiel
+235 - vassal: c_kozelga - Holder 1001651 - Primary title: c_kozelga has lost the title: c_kozelga
+235 - vassal: c_kozelga - Title given to 1001651 - Primary title: k_tiel
+235 - vassal: c_dozari - Holder 1001651 - Primary title: c_dozari has lost the title: c_dozari
+235 - vassal: c_dozari - Title given to 1001651 - Primary title: k_tiel
+235 - vassal: c_kozelga - Title given to 1003722
+235 - vassal: c_lataba - Title given to 1003724
+240 - vassal: c_dozari - Given to 1002137 in HandleTitles - Too many duke titles
+240 - vassal: c_dozari - Title given to 1002137
+240 - Title given to 1002137 - Primary title: c_dozari
+240 - vassal: c_dozari - Holder (1002137) has gained d_kituo
+240 - vassal: c_syau - Setting to vassal of k_tiel in Validate Realm
+240 - Lost vassal: c_syau
+240 - Too many dukes, given to dejure: k_tiel
+286 - Holder 1005353 - Primary title: d_kituo has lost the title: d_kituo
+286 - Title given to 1005353
+286 - vassal: c_dozari - Holder 1005353 - Primary title: c_dozari has lost the title: c_dozari
+286 - vassal: c_dozari - Title given to 1005353 - Primary title: d_kituo
+286 - Holder (1005353) has gained c_dozari
+311 - Holder 1007686 - Primary title: d_kituo has lost the title: d_kituo
+311 - Title given to 1007686
+311 - vassal: c_dozari - Holder 1007686 - Primary title: c_dozari has lost the title: c_dozari
+311 - vassal: c_dozari - Title given to 1007686 - Primary title: d_kituo
+311 - Holder (1007686) has gained c_dozari
+315 - Holder (1007686) has gained k_tiel
+316 - vassal: c_dozari - Title given to 1008535
+346 - Holder 1008579 - Primary title: d_kituo has lost the title: d_kituo
+346 - Title given to 1008579 - Primary title: k_tiel
+374 - Gained vassal: c_bani
+374 - Gained vassal: c_rumasta
+374 - Gained vassal: c_rajari
+374 - Gained vassal: c_kanari
+374 - Gained vassal: c_ebiruo
+374 - Holder 1009647 - Primary title: d_kituo has lost the title: d_kituo
+374 - Title given to 1009647 - Primary title: k_tiel
+374 - vassal: c_ebiruo - Holder 1009647 - Primary title: c_ebiruo has lost the title: c_ebiruo
+374 - vassal: c_ebiruo - Title given to 1009647 - Primary title: k_tiel
+374 - vassal: c_kanari - Holder 1009647 - Primary title: c_kanari has lost the title: c_kanari
+374 - vassal: c_kanari - Title given to 1009647 - Primary title: k_tiel
+374 - vassal: c_rajari - Holder 1009647 - Primary title: c_rajari has lost the title: c_rajari
+374 - vassal: c_rajari - Title given to 1009647 - Primary title: k_tiel
+374 - vassal: c_rumasta - Holder 1009647 - Primary title: c_rumasta has lost the title: c_rumasta
+374 - vassal: c_rumasta - Title given to 1009647 - Primary title: k_tiel
+374 - vassal: c_bani - Holder 1009647 - Primary title: c_bani has lost the title: c_bani
+374 - vassal: c_bani - Title given to 1009647 - Primary title: k_tiel
+386 - Holder 1011288 - Primary title: d_kituo has lost the title: d_kituo
+386 - Title given to 1011288 - Primary title: k_tiel
+386 - vassal: c_bani - Setting to vassal of d_rataba in Validate Realm
+386 - Lost vassal: c_bani
+386 - vassal: c_rumasta - Setting to vassal of d_rataba in Validate Realm
+386 - Lost vassal: c_rumasta
+386 - vassal: c_rajari - Setting to vassal of d_rataba in Validate Realm
+386 - Lost vassal: c_rajari
+386 - vassal: c_kanari - Setting to vassal of d_rataba in Validate Realm
+386 - Lost vassal: c_kanari
+386 - vassal: c_ebiruo - Setting to vassal of d_rataba in Validate Realm
+386 - Lost vassal: c_ebiruo
+396 - vassal: c_dozari - Given to 1012613 in HandleTitles - Too many duke titles
+396 - vassal: c_dozari - Holder 1012613 - Primary title: c_dozari has lost the title: c_dozari
+396 - vassal: c_dozari - Title given to 1012613
+396 - Title given to 1012613 - Primary title: c_dozari
+396 - vassal: c_dozari - Holder (1012613) has gained d_kituo
+396 - Too many dukes, given to dejure: k_tiel

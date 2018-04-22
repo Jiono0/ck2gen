@@ -1,0 +1,52 @@
+200 - Title given to 1000680
+200 - vassal: c_emorunyu - Given to 1000683 via AddCharacterForTitle
+200 - sub vassal: c_emorunyu - Given to 1000683 via AddCharacterForTitle
+200 - vassal: c_emorunyu - Holder 1000683 - Primary title: c_emorunyu has lost the title: c_emorunyu
+200 - sub vassal: c_emorunyu - Holder 1000683 - Primary title: c_emorunyu has lost the title: c_emorunyu
+200 - vassal: c_emorunyu - Title given to 1000683
+200 - sub vassal: c_emorunyu - Title given to 1000683
+200 - vassal: c_wasina - Holder 1000680 - Primary title: c_wasina has lost the title: c_wasina
+200 - sub vassal: c_wasina - Holder 1000680 - Primary title: c_wasina has lost the title: c_wasina
+200 - vassal: c_wasina - Title given to 1000680 - Primary title: d_qanun
+200 - sub vassal: c_wasina - Title given to 1000680 - Primary title: d_qanun
+200 - Holder (1000680) has gained c_wasina
+200 - vassal: c_emorunyu - Holder 1000680 - Primary title: c_emorunyu has lost the title: c_emorunyu
+200 - sub vassal: c_emorunyu - Holder 1000680 - Primary title: c_emorunyu has lost the title: c_emorunyu
+200 - vassal: c_emorunyu - Title given to 1000680 - Primary title: d_qanun
+200 - sub vassal: c_emorunyu - Title given to 1000680 - Primary title: d_qanun
+200 - Holder (1000680) has gained c_emorunyu
+200 - vassal: c_emagukas - Title given to 1000680 - Primary title: d_qanun
+200 - Holder (1000680) has gained c_emagukas
+200 - Holder 1001058 - Primary title: d_qanun has lost the title: d_qanun
+200 - Title given to 1001058 - Primary title: k_ruqi
+200 - vassal: c_wasina - Holder 1001058 - Primary title: c_wasina has lost the title: c_wasina
+200 - vassal: c_wasina - Title given to 1001058 - Primary title: k_ruqi
+245 - Holder 1001834 - Primary title: d_qanun has lost the title: d_qanun
+245 - Title given to 1001834 - Primary title: k_ruqi
+245 - vassal: c_wasina - Setting to vassal of d_byarukas in Validate Realm
+245 - Lost vassal: c_wasina
+273 - Holder 1005720 - Primary title: d_qanun has lost the title: d_qanun
+273 - Title given to 1005720 - Primary title: k_ruqi
+300 - vassal: c_emorunyu - Holder 1007548 - Primary title: c_emorunyu has lost the title: c_emorunyu
+300 - vassal: c_emorunyu - Title given to 1007548
+300 - vassal: c_emagukas - Holder 1007548 - Primary title: c_emagukas has lost the title: c_emagukas
+300 - vassal: c_emagukas - Title given to 1007548 - Primary title: c_emorunyu
+300 - vassal: c_emorunyu - Holder (1007548) has gained c_emagukas
+301 - Holder 1006622 - Primary title: d_qanun has lost the title: d_qanun
+301 - Title given to 1006622 - Primary title: k_ruqi
+352 - vassal: c_emorunyu - Holder 1006622 - Primary title: c_emorunyu has lost the title: c_emagukas
+352 - vassal: c_emagukas - Title given to 1006622 - Primary title: k_ruqi
+352 - vassal: c_emagukas - Given to 1010391 in HandleTitles - Too many duke titles
+352 - vassal: c_emagukas - Title given to 1010391
+352 - Title given to 1010391 - Primary title: c_emagukas
+352 - vassal: c_emagukas - Holder (1010391) has gained d_qanun
+352 - Too many dukes, given to dejure: k_ruqi
+367 - Holder 1010441 - Primary title: d_qanun has lost the title: d_qanun
+367 - Title given to 1010441
+367 - vassal: c_emagukas - Holder 1010441 - Primary title: c_emagukas has lost the title: c_emagukas
+367 - vassal: c_emagukas - Title given to 1010441 - Primary title: d_qanun
+367 - Holder (1010441) has gained c_emagukas
+379 - Holder 1010223 - Primary title: d_qanun has lost the title: d_qanun
+379 - Title given to 1010223 - Primary title: d_ticukas
+379 - vassal: c_emagukas - Holder 1010223 - Primary title: c_emagukas has lost the title: c_emagukas
+379 - vassal: c_emagukas - Title given to 1010223 - Primary title: d_ticukas

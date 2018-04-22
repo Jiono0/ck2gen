@@ -1,0 +1,27 @@
+200 - Title given to 1000256
+200 - vassal: c_agiresse - Given to 1000259 via AddCharacterForTitle
+200 - sub vassal: c_agiresse - Given to 1000259 via AddCharacterForTitle
+200 - vassal: c_agiresse - Holder 1000259 - Primary title: c_agiresse has lost the title: c_agiresse
+200 - sub vassal: c_agiresse - Holder 1000259 - Primary title: c_agiresse has lost the title: c_agiresse
+200 - vassal: c_agiresse - Title given to 1000259
+200 - sub vassal: c_agiresse - Title given to 1000259
+200 - vassal: c_ebirile - Holder 1000256 - Primary title: c_ebirile has lost the title: c_ebirile
+200 - sub vassal: c_ebirile - Holder 1000256 - Primary title: c_ebirile has lost the title: c_ebirile
+200 - vassal: c_ebirile - Title given to 1000256 - Primary title: d_tibara
+200 - sub vassal: c_ebirile - Title given to 1000256 - Primary title: d_tibara
+200 - Holder (1000256) has gained c_ebirile
+200 - vassal: c_agiresse - Holder 1000256 - Primary title: c_agiresse has lost the title: c_agiresse
+200 - sub vassal: c_agiresse - Holder 1000256 - Primary title: c_agiresse has lost the title: c_agiresse
+200 - vassal: c_agiresse - Title given to 1000256 - Primary title: d_tibara
+200 - sub vassal: c_agiresse - Title given to 1000256 - Primary title: d_tibara
+200 - Holder (1000256) has gained c_agiresse
+249 - Holder 1001807 - Primary title: d_tibara has lost the title: d_tibara
+249 - Title given to 1001807
+249 - vassal: c_agiresse - Holder 1001807 - Primary title: c_agiresse has lost the title: c_agiresse
+249 - vassal: c_agiresse - Title given to 1001807 - Primary title: d_tibara
+249 - Holder (1001807) has gained c_agiresse
+249 - vassal: c_ebirile - Holder 1001807 - Primary title: c_ebirile has lost the title: c_ebirile
+249 - vassal: c_ebirile - Title given to 1001807 - Primary title: d_tibara
+249 - Holder (1001807) has gained c_ebirile
+261 - Holder (1001807) has gained d_biatay
+261 - Holder (1001807) has gained c_tirya

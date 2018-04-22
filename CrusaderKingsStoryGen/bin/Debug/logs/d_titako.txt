@@ -1,0 +1,196 @@
+200 - Title given to 1000193
+200 - vassal: c_tuatina - Given to 1000196 via AddCharacterForTitle
+200 - sub vassal: c_tuatina - Given to 1000196 via AddCharacterForTitle
+200 - vassal: c_tuatina - Holder 1000196 - Primary title: c_tuatina has lost the title: c_tuatina
+200 - sub vassal: c_tuatina - Holder 1000196 - Primary title: c_tuatina has lost the title: c_tuatina
+200 - vassal: c_tuatina - Title given to 1000196
+200 - sub vassal: c_tuatina - Title given to 1000196
+200 - vassal: c_bitasin - Holder 1000193 - Primary title: c_bitasin has lost the title: c_bitasin
+200 - sub vassal: c_bitasin - Holder 1000193 - Primary title: c_bitasin has lost the title: c_bitasin
+200 - vassal: c_bitasin - Title given to 1000193 - Primary title: d_titako
+200 - sub vassal: c_bitasin - Title given to 1000193 - Primary title: d_titako
+200 - Holder (1000193) has gained c_bitasin
+200 - vassal: c_tuatina - Holder 1000193 - Primary title: c_tuatina has lost the title: c_tuatina
+200 - sub vassal: c_tuatina - Holder 1000193 - Primary title: c_tuatina has lost the title: c_tuatina
+200 - vassal: c_tuatina - Title given to 1000193 - Primary title: d_titako
+200 - sub vassal: c_tuatina - Title given to 1000193 - Primary title: d_titako
+200 - Holder (1000193) has gained c_tuatina
+200 - vassal: c_tarisa - Holder 1000193 - Primary title: c_tarisa has lost the title: c_tarisa
+200 - sub vassal: c_tarisa - Holder 1000193 - Primary title: c_tarisa has lost the title: c_tarisa
+200 - vassal: c_tarisa - Title given to 1000193 - Primary title: d_titako
+200 - sub vassal: c_tarisa - Title given to 1000193 - Primary title: d_titako
+200 - Holder (1000193) has gained c_tarisa
+200 - Holder 1001039 - Primary title: d_titako has lost the title: d_titako
+200 - Title given to 1001039 - Primary title: k_witimon
+200 - vassal: c_bitasin - Holder 1001039 - Primary title: c_bitasin has lost the title: c_bitasin
+200 - vassal: c_bitasin - Title given to 1001039 - Primary title: k_witimon
+200 - vassal: c_bitasin - Given to 1001384 in HandleTitles - Too many duke titles
+200 - vassal: c_bitasin - Title given to 1001384
+200 - Title given to 1001384 - Primary title: c_bitasin
+200 - vassal: c_bitasin - Holder (1001384) has gained d_titako
+200 - Too many dukes, given to dejure: k_witimon
+232 - Holder 1002027 - Primary title: d_titako has lost the title: d_titako
+232 - Title given to 1002027
+232 - vassal: c_bitasin - Holder 1002027 - Primary title: c_bitasin has lost the title: c_bitasin
+232 - vassal: c_bitasin - Title given to 1002027 - Primary title: d_titako
+232 - Holder (1002027) has gained c_bitasin
+247 - Holder 1004013 - Primary title: d_titako has lost the title: d_titako
+247 - Title given to 1004013
+247 - vassal: c_bitasin - Holder 1004013 - Primary title: c_bitasin has lost the title: c_bitasin
+247 - vassal: c_bitasin - Title given to 1004013 - Primary title: d_titako
+247 - Holder (1004013) has gained c_bitasin
+257 - Holder 1001792 - Primary title: d_titako has lost the title: d_titako
+257 - Title given to 1001792 - Primary title: d_teimako
+257 - vassal: c_bitasin - Holder 1001792 - Primary title: c_bitasin has lost the title: c_bitasin
+257 - vassal: c_bitasin - Title given to 1001792 - Primary title: d_teimako
+258 - Holder 1001875 - Primary title: d_titako has lost the title: c_betiel
+263 - Holder (1001792) has gained d_tuatui
+263 - Holder (1001792) has gained c_neirina
+263 - Holder (1001792) has gained c_dys
+263 - Holder (1001792) has gained c_rimon
+263 - Holder (1001792) has gained c_kalurt
+264 - vassal: c_bitasin - Set liege on title creation d_legys
+264 - Lost vassal: c_bitasin
+264 - vassal: c_tuatina - Holder 1001792 - Primary title: c_tuatina has lost the title: c_tarisa
+264 - vassal: c_tarisa - Title given to 1001792 - Primary title: d_titako
+264 - Holder (1001792) has gained c_tarisa
+264 - Holder (1001792) has gained c_betiel
+264 - Holder 1005488 - Primary title: d_titako has lost the title: c_betiel
+264 - Holder 1004592 - Primary title: d_titako has lost the title: d_teimako
+264 - Holder 1005490 - Primary title: d_titako has lost the title: c_evitimon
+264 - Gained vassal: c_evitimon
+264 - Holder 1005491 - Primary title: d_titako has lost the title: c_ririmon
+264 - Gained vassal: c_ririmon
+264 - Holder 1005492 - Primary title: d_titako has lost the title: c_retanos
+264 - Gained vassal: c_retanos
+264 - Holder 1001951 - Primary title: d_titako has lost the title: c_dys
+264 - Gained vassal: c_dys
+264 - Holder 1005493 - Primary title: d_titako has lost the title: c_bitasin
+264 - Gained vassal: c_bitasin
+265 - Holder 1004438 - Primary title: d_titako has lost the title: d_titako
+265 - Title given to 1004438
+265 - vassal: c_tarisa - Setting independent in Validate Realm
+265 - vassal: c_tarisa - Made independent
+265 - Holder (1004438) has gained c_kegui
+265 - Holder (1004438) has gained c_neirina
+265 - Holder (1004438) has gained c_rimon
+265 - Holder (1004438) has gained c_kalurt
+265 - Holder (1004438) has gained c_tarisa
+266 - vassal: c_bitasin - Holder 1004438 - Primary title: c_bitasin has lost the title: c_bitasin
+266 - vassal: c_bitasin - Title given to 1004438 - Primary title: d_titako
+266 - Holder (1004438) has gained c_bitasin
+266 - Holder 1005615 - Primary title: d_titako has lost the title: c_kegui
+266 - Gained vassal: c_kegui
+279 - Holder 1005668 - Primary title: d_titako has lost the title: d_titako
+279 - Title given to 1005668
+279 - vassal: c_bitasin - Setting independent in Validate Realm
+279 - vassal: c_bitasin - Made independent
+279 - Holder (1005668) has gained c_neirina
+279 - Holder (1005668) has gained c_rimon
+279 - Holder (1005668) has gained c_kalurt
+279 - Holder (1005668) has gained c_tarisa
+279 - Holder (1005668) has gained c_bitasin
+280 - vassal: c_dys - Holder 1005668 - Primary title: c_dys has lost the title: c_dys
+280 - vassal: c_dys - Title given to 1005668 - Primary title: d_titako
+280 - Holder (1005668) has gained c_dys
+280 - Holder 1006439 - Primary title: d_titako has lost the title: c_tarisa
+280 - Gained vassal: c_tarisa
+293 - Holder 1006935 - Primary title: d_titako has lost the title: d_titako
+293 - Title given to 1006935
+293 - vassal: c_dys - Holder 1006935 - Primary title: c_dys has lost the title: c_dys
+293 - vassal: c_dys - Title given to 1006935 - Primary title: d_titako
+293 - Holder (1006935) has gained c_dys
+293 - Holder (1006935) has gained c_bitasin
+293 - Holder (1006935) has gained c_kalurt
+293 - Holder (1006935) has gained c_rimon
+293 - Holder (1006935) has gained c_neirina
+299 - Holder (1006935) has gained d_titagik
+299 - Holder (1006935) has gained c_ritelin
+300 - vassal: c_tuatina - Holder 1006439 - Primary title: c_tuatina has lost the title: c_tuatina
+300 - vassal: c_tuatina - Title given to 1006439 - Primary title: c_tarisa
+300 - vassal: c_tarisa - Holder (1006439) has gained c_tuatina
+300 - Holder 1005249 - Primary title: d_titako has lost the title: c_neirina
+300 - Gained vassal: c_neirina
+303 - Holder (1006935) has gained d_tuatui
+303 - vassal: c_dys - Set liege on title creation d_tuatui
+303 - Lost vassal: c_dys
+303 - vassal: c_neirina - Holder 1006935 - Primary title: c_neirina has lost the title: c_neirina
+303 - vassal: c_neirina - Title given to 1006935 - Primary title: d_titako
+303 - Holder (1006935) has gained c_neirina
+303 - Holder 1007802 - Primary title: d_titako has lost the title: c_dys
+303 - Holder 1005576 - Primary title: d_titako has lost the title: d_tuatui
+303 - Gained vassal: c_bitasin
+303 - Gained vassal: c_kalurt
+303 - Gained vassal: c_rimon
+303 - Gained vassal: c_ritelin
+326 - Holder (1006935) has gained d_netaise
+326 - Holder (1006935) has gained c_atogui
+326 - Holder (1006935) has gained c_reginka
+326 - Holder (1006935) has gained c_kegisa
+326 - Holder (1006935) has gained c_ritimon
+327 - vassal: c_neirina - Title given to 1009069
+327 - vassal: c_bitasin - Title given to 1009070
+327 - vassal: c_kalurt - Title given to 1009072
+327 - vassal: c_rimon - Title given to 1005249
+337 - Title given to 1007941
+337 - vassal: c_ritelin - Setting to vassal of d_netaise in Validate Realm
+337 - Lost vassal: c_ritelin
+337 - Holder (1007941) has gained c_ritelin
+337 - Gained vassal: c_ritelin
+337 - Holder (1007941) has gained d_netaise
+337 - Holder (1007941) has gained c_atogui
+337 - Holder (1007941) has gained c_reginka
+337 - Holder (1007941) has gained c_kegisa
+337 - Holder (1007941) has gained c_ritimon
+352 - Gained vassal: c_atogui
+352 - Gained vassal: c_reginka
+352 - Gained vassal: c_kegisa
+352 - Gained vassal: c_ritimon
+352 - Holder 1006120 - Primary title: d_titako has lost the title: d_titako
+352 - Title given to 1006120 - Primary title: d_netaise
+352 - vassal: c_ritimon - Holder 1006120 - Primary title: c_ritimon has lost the title: c_ritimon
+352 - vassal: c_ritimon - Title given to 1006120 - Primary title: d_netaise
+352 - vassal: c_kegisa - Holder 1006120 - Primary title: c_kegisa has lost the title: c_kegisa
+352 - vassal: c_kegisa - Title given to 1006120 - Primary title: d_netaise
+352 - vassal: c_reginka - Holder 1006120 - Primary title: c_reginka has lost the title: c_reginka
+352 - vassal: c_reginka - Title given to 1006120 - Primary title: d_netaise
+352 - vassal: c_atogui - Holder 1006120 - Primary title: c_atogui has lost the title: c_atogui
+352 - vassal: c_atogui - Title given to 1006120 - Primary title: d_netaise
+352 - vassal: c_ritelin - Holder 1006120 - Primary title: c_ritelin has lost the title: c_ritelin
+352 - vassal: c_ritelin - Title given to 1006120 - Primary title: d_netaise
+353 - Holder (1006120) has gained d_netaise
+353 - vassal: c_ritimon - Set liege on title creation d_netaise
+353 - Lost vassal: c_ritimon
+353 - vassal: c_kegisa - Set liege on title creation d_netaise
+353 - Lost vassal: c_kegisa
+353 - vassal: c_reginka - Set liege on title creation d_netaise
+353 - Lost vassal: c_reginka
+353 - vassal: c_atogui - Set liege on title creation d_netaise
+353 - Lost vassal: c_atogui
+353 - vassal: c_ritelin - Set liege on title creation d_netaise
+353 - Lost vassal: c_ritelin
+356 - Holder 1010600 - Primary title: d_titako has lost the title: d_titako
+356 - Title given to 1010600
+356 - Holder (1010600) has gained c_ritimon
+356 - Holder (1010600) has gained c_kegisa
+356 - Holder (1010600) has gained c_reginka
+356 - Holder (1010600) has gained c_atogui
+356 - Holder (1010600) has gained c_ritelin
+374 - Holder (1010600) has gained d_netaise
+385 - Holder (1010600) has gained d_netaise
+391 - Holder (1010600) has gained d_kusounig
+391 - Holder (1010600) has gained c_rogimon
+391 - Gained vassal: c_rogimon
+391 - Holder (1010600) has gained d_kirys
+391 - Holder (1010600) has gained c_salina
+391 - Holder (1010600) has gained c_bogachi
+392 - Holder 1012398 - Primary title: d_titako has lost the title: c_dalagik
+392 - Holder 1011594 - Primary title: d_titako has lost the title: d_kusounig
+392 - Holder 1008660 - Primary title: d_titako has lost the title: c_atogui
+392 - Gained vassal: c_atogui
+392 - Holder 1012400 - Primary title: d_titako has lost the title: c_reginka
+392 - Gained vassal: c_reginka
+392 - Holder 1012401 - Primary title: d_titako has lost the title: c_bogachi
+396 - Holder (1010600) has gained d_netaise
+396 - vassal: c_rogimon - Set liege on title creation d_netaise
+396 - Lost vassal: c_rogimon

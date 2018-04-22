@@ -1,0 +1,84 @@
+200 - Title given to 1000526
+200 - vassal: c_alitini - Holder 1000526 - Primary title: c_alitini has lost the title: c_alitini
+200 - sub vassal: c_alitini - Holder 1000526 - Primary title: c_alitini has lost the title: c_alitini
+200 - vassal: c_alitini - Title given to 1000526 - Primary title: d_rikalka
+200 - sub vassal: c_alitini - Title given to 1000526 - Primary title: d_rikalka
+200 - Holder (1000526) has gained c_alitini
+200 - vassal: c_nazenes - Holder 1000526 - Primary title: c_nazenes has lost the title: c_nazenes
+200 - sub vassal: c_nazenes - Holder 1000526 - Primary title: c_nazenes has lost the title: c_nazenes
+200 - vassal: c_nazenes - Title given to 1000526 - Primary title: d_rikalka
+200 - sub vassal: c_nazenes - Title given to 1000526 - Primary title: d_rikalka
+200 - Holder (1000526) has gained c_nazenes
+200 - vassal: c_webisey - Holder 1000526 - Primary title: c_webisey has lost the title: c_webisey
+200 - sub vassal: c_webisey - Holder 1000526 - Primary title: c_webisey has lost the title: c_webisey
+200 - vassal: c_webisey - Title given to 1000526 - Primary title: d_rikalka
+200 - sub vassal: c_webisey - Title given to 1000526 - Primary title: d_rikalka
+200 - Holder (1000526) has gained c_webisey
+204 - Holder 1000540 - Primary title: d_rikalka has lost the title: d_rikalka
+204 - Title given to 1000540 - Primary title: d_kadiya
+204 - vassal: c_webisey - Holder 1000540 - Primary title: c_webisey has lost the title: c_webisey
+204 - vassal: c_webisey - Title given to 1000540 - Primary title: d_kadiya
+204 - vassal: c_nazenes - Holder 1000540 - Primary title: c_nazenes has lost the title: c_nazenes
+204 - vassal: c_nazenes - Title given to 1000540 - Primary title: d_kadiya
+204 - vassal: c_alitini - Holder 1000540 - Primary title: c_alitini has lost the title: c_alitini
+204 - vassal: c_alitini - Title given to 1000540 - Primary title: d_kadiya
+205 - Holder 1001883 - Primary title: d_rikalka has lost the title: c_kibayda
+227 - Holder 1001629 - Primary title: d_rikalka has lost the title: d_rikalka
+227 - Title given to 1001629
+227 - vassal: c_alitini - Setting to vassal of d_kadiya in Validate Realm
+227 - Lost vassal: c_alitini
+227 - vassal: c_nazenes - Setting to vassal of d_kadiya in Validate Realm
+227 - Lost vassal: c_nazenes
+227 - vassal: c_webisey - Setting to vassal of d_kadiya in Validate Realm
+227 - Lost vassal: c_webisey
+227 - Holder (1001629) has gained d_kadiya
+227 - Holder (1001629) has gained c_alitini
+227 - Holder (1001629) has gained c_nazenes
+227 - Holder (1001629) has gained c_webisey
+227 - Holder (1001629) has gained c_lauisey
+227 - Holder (1001629) has gained c_qulava
+228 - Destroyed due to flagged problem
+228 - Made independent
+228 - Title destroyed
+233 - Given to 1001629 in TestCreateEmpire
+233 - Title given to 1001629 - Primary title: d_kadiya
+233 - Made independent for title creation d_rikalka for d_kadiya
+233 - Made independent
+233 - Gained vassal: c_alitini
+233 - Gained vassal: c_nazenes
+233 - Gained vassal: c_webisey
+233 - Gained vassal: c_lauisey
+233 - Gained vassal: c_qulava
+233 - Destroyed due to no capital's obtainable
+233 - Title destroyed
+233 - vassal: c_webisey - Setting independent due to liege destruction
+233 - vassal: c_webisey - Made independent
+233 - vassal: c_nazenes - Setting independent due to liege destruction
+233 - vassal: c_nazenes - Made independent
+233 - vassal: c_alitini - Setting independent due to liege destruction
+233 - vassal: c_alitini - Made independent
+233 - vassal: c_lauisey - Setting independent due to liege destruction
+233 - vassal: c_lauisey - Made independent
+233 - vassal: c_qulava - Setting independent due to liege destruction
+233 - vassal: c_qulava - Made independent
+236 - Given to 1001629 in TestCreateEmpire
+236 - Title given to 1001629 - Primary title: d_kadiya
+236 - Made independent for title creation d_rikalka for d_kadiya
+236 - Made independent
+236 - Gained vassal: c_alitini
+236 - Gained vassal: c_nazenes
+236 - Gained vassal: c_webisey
+236 - Gained vassal: c_qulava
+236 - Gained vassal: c_kibayda
+236 - Destroyed due to no capital's obtainable
+236 - Title destroyed
+236 - vassal: c_kibayda - Setting independent due to liege destruction
+236 - vassal: c_kibayda - Made independent
+236 - vassal: c_qulava - Setting independent due to liege destruction
+236 - vassal: c_qulava - Made independent
+236 - vassal: c_webisey - Setting independent due to liege destruction
+236 - vassal: c_webisey - Made independent
+236 - vassal: c_nazenes - Setting independent due to liege destruction
+236 - vassal: c_nazenes - Made independent
+236 - vassal: c_alitini - Setting independent due to liege destruction
+236 - vassal: c_alitini - Made independent

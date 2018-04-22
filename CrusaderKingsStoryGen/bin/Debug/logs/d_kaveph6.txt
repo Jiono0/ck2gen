@@ -1,0 +1,34 @@
+200 - Title given to 1000777
+200 - vassal: c_bubjeph - Given to 1000780 via AddCharacterForTitle
+200 - sub vassal: c_bubjeph - Given to 1000780 via AddCharacterForTitle
+200 - vassal: c_bubjeph - Holder 1000780 - Primary title: c_bubjeph has lost the title: c_bubjeph
+200 - sub vassal: c_bubjeph - Holder 1000780 - Primary title: c_bubjeph has lost the title: c_bubjeph
+200 - vassal: c_bubjeph - Title given to 1000780
+200 - sub vassal: c_bubjeph - Title given to 1000780
+200 - vassal: c_tinator - Holder 1000777 - Primary title: c_tinator has lost the title: c_tinator
+200 - sub vassal: c_tinator - Holder 1000777 - Primary title: c_tinator has lost the title: c_tinator
+200 - vassal: c_tinator - Title given to 1000777 - Primary title: d_kaveph
+200 - sub vassal: c_tinator - Title given to 1000777 - Primary title: d_kaveph
+200 - Holder (1000777) has gained c_tinator
+200 - vassal: c_bubjeph - Holder 1000777 - Primary title: c_bubjeph has lost the title: c_bubjeph
+200 - sub vassal: c_bubjeph - Holder 1000777 - Primary title: c_bubjeph has lost the title: c_bubjeph
+200 - vassal: c_bubjeph - Title given to 1000777 - Primary title: d_kaveph
+200 - sub vassal: c_bubjeph - Title given to 1000777 - Primary title: d_kaveph
+200 - Holder (1000777) has gained c_bubjeph
+200 - vassal: c_evacurz - Holder 1000777 - Primary title: c_evacurz has lost the title: c_evacurz
+200 - sub vassal: c_evacurz - Holder 1000777 - Primary title: c_evacurz has lost the title: c_evacurz
+200 - vassal: c_evacurz - Title given to 1000777 - Primary title: d_kaveph
+200 - sub vassal: c_evacurz - Title given to 1000777 - Primary title: d_kaveph
+200 - Holder (1000777) has gained c_evacurz
+241 - Holder 1001306 - Primary title: d_kaveph has lost the title: d_kaveph
+241 - Title given to 1001306
+241 - vassal: c_evacurz - Holder 1001306 - Primary title: c_evacurz has lost the title: c_evacurz
+241 - vassal: c_evacurz - Title given to 1001306 - Primary title: d_kaveph
+241 - Holder (1001306) has gained c_evacurz
+241 - vassal: c_bubjeph - Holder 1001306 - Primary title: c_bubjeph has lost the title: c_bubjeph
+241 - vassal: c_bubjeph - Title given to 1001306 - Primary title: d_kaveph
+241 - Holder (1001306) has gained c_bubjeph
+241 - vassal: c_tinator - Holder 1001306 - Primary title: c_tinator has lost the title: c_tinator
+241 - vassal: c_tinator - Title given to 1001306 - Primary title: d_kaveph
+241 - Holder (1001306) has gained c_tinator
+244 - Holder (1001306) has gained k_tagabha

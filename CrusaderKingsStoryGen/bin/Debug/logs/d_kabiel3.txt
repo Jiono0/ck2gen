@@ -1,0 +1,124 @@
+200 - Title given to 1000611
+200 - vassal: c_ehodazsi - Given to 1000614 via AddCharacterForTitle
+200 - sub vassal: c_ehodazsi - Given to 1000614 via AddCharacterForTitle
+200 - vassal: c_ehodazsi - Holder 1000614 - Primary title: c_ehodazsi has lost the title: c_ehodazsi
+200 - sub vassal: c_ehodazsi - Holder 1000614 - Primary title: c_ehodazsi has lost the title: c_ehodazsi
+200 - vassal: c_ehodazsi - Title given to 1000614
+200 - sub vassal: c_ehodazsi - Title given to 1000614
+200 - vassal: c_ranibril - Holder 1000611 - Primary title: c_ranibril has lost the title: c_ranibril
+200 - sub vassal: c_ranibril - Holder 1000611 - Primary title: c_ranibril has lost the title: c_ranibril
+200 - vassal: c_ranibril - Title given to 1000611 - Primary title: d_kabiel
+200 - sub vassal: c_ranibril - Title given to 1000611 - Primary title: d_kabiel
+200 - Holder (1000611) has gained c_ranibril
+200 - vassal: c_ehodazsi - Holder 1000611 - Primary title: c_ehodazsi has lost the title: c_ehodazsi
+200 - sub vassal: c_ehodazsi - Holder 1000611 - Primary title: c_ehodazsi has lost the title: c_ehodazsi
+200 - vassal: c_ehodazsi - Title given to 1000611 - Primary title: d_kabiel
+200 - sub vassal: c_ehodazsi - Title given to 1000611 - Primary title: d_kabiel
+200 - Holder (1000611) has gained c_ehodazsi
+200 - vassal: c_tanati - Holder 1000611 - Primary title: c_tanati has lost the title: c_tanati
+200 - sub vassal: c_tanati - Holder 1000611 - Primary title: c_tanati has lost the title: c_tanati
+200 - vassal: c_tanati - Title given to 1000611 - Primary title: d_kabiel
+200 - sub vassal: c_tanati - Title given to 1000611 - Primary title: d_kabiel
+200 - Holder (1000611) has gained c_tanati
+200 - vassal: c_kibiel - Holder 1000611 - Primary title: c_kibiel has lost the title: c_kibiel
+200 - sub vassal: c_kibiel - Holder 1000611 - Primary title: c_kibiel has lost the title: c_kibiel
+200 - vassal: c_kibiel - Title given to 1000611 - Primary title: d_kabiel
+200 - sub vassal: c_kibiel - Title given to 1000611 - Primary title: d_kabiel
+200 - Holder (1000611) has gained c_kibiel
+228 - Holder 1001828 - Primary title: d_kabiel has lost the title: d_kabiel
+228 - Title given to 1001828
+228 - vassal: c_ranibril - Holder 1001828 - Primary title: c_ranibril has lost the title: c_ranibril
+228 - vassal: c_ranibril - Title given to 1001828 - Primary title: d_kabiel
+228 - Holder (1001828) has gained c_ranibril
+228 - vassal: c_ehodazsi - Holder 1001828 - Primary title: c_ehodazsi has lost the title: c_ehodazsi
+228 - vassal: c_ehodazsi - Title given to 1001828 - Primary title: d_kabiel
+228 - Holder (1001828) has gained c_ehodazsi
+228 - vassal: c_tanati - Holder 1001828 - Primary title: c_tanati has lost the title: c_tanati
+228 - vassal: c_tanati - Title given to 1001828 - Primary title: d_kabiel
+228 - Holder (1001828) has gained c_tanati
+228 - vassal: c_kibiel - Holder 1001828 - Primary title: c_kibiel has lost the title: c_kibiel
+228 - vassal: c_kibiel - Title given to 1001828 - Primary title: d_kabiel
+228 - Holder (1001828) has gained c_kibiel
+242 - Holder (1001828) has gained d_ralaga
+242 - Holder (1001828) has gained c_rasul
+242 - Holder (1001828) has gained c_linati
+242 - Holder (1001828) has gained c_nulay
+243 - vassal: c_ranibril - Title given to 1004033
+243 - vassal: c_tanati - Title given to 1004034
+248 - Gained vassal: c_rodati
+248 - Holder (1001828) has gained c_riniel
+248 - Gained vassal: c_riniel
+248 - Holder (1001828) has gained c_tabul
+248 - Gained vassal: c_tabul
+248 - Holder (1001828) has gained c_lodente
+248 - Gained vassal: c_lodente
+248 - Holder (1001828) has gained d_edanin
+248 - Holder (1001828) has gained c_ekholtn
+249 - vassal: c_tanati - Given to 1004379 in HandleTitles - Too many duke titles
+249 - vassal: c_tanati - Holder 1004379 - Primary title: c_tanati has lost the title: c_tanati
+249 - vassal: c_tanati - Title given to 1004379
+249 - Title given to 1001537 - Primary title: k_ehodati
+249 - vassal: c_kibiel - Setting to vassal of d_edanin in Validate Realm
+249 - Lost vassal: c_kibiel
+249 - vassal: c_ehodazsi - Setting to vassal of d_edanin in Validate Realm
+249 - Lost vassal: c_ehodazsi
+249 - vassal: c_rodati - Setting to vassal of d_edanin in Validate Realm
+249 - Lost vassal: c_rodati
+249 - vassal: c_riniel - Setting to vassal of d_edanin in Validate Realm
+249 - Lost vassal: c_riniel
+249 - vassal: c_tabul - Setting to vassal of d_edanin in Validate Realm
+249 - Lost vassal: c_tabul
+249 - vassal: c_lodente - Setting to vassal of d_edanin in Validate Realm
+249 - Lost vassal: c_lodente
+249 - Too many dukes, made direct title into vassal of k_ehodati
+249 - Title given to 1004380
+269 - Holder 1004470 - Primary title: d_kabiel has lost the title: d_kabiel
+269 - Title given to 1004470
+279 - Holder (1004470) has gained d_amiel
+279 - Holder (1004470) has gained c_kanazsi
+279 - Holder (1004470) has gained c_dabiel
+279 - Holder (1004470) has gained c_sabdiel
+279 - Holder (1004470) has gained c_ramati
+279 - Holder (1004470) has gained c_ebiel
+288 - Holder 1005816 - Primary title: d_kabiel has lost the title: d_kabiel
+288 - Title given to 1005816
+288 - Holder (1005816) has gained d_amiel
+288 - Holder (1005816) has gained c_kanazsi
+288 - Holder (1005816) has gained c_dabiel
+288 - Holder (1005816) has gained c_sabdiel
+288 - Holder (1005816) has gained c_ramati
+288 - Holder (1005816) has gained c_ebiel
+292 - Holder (1005816) has gained d_rariel
+300 - Holder (1005816) has gained d_rariel
+316 - Holder 1007879 - Primary title: d_kabiel has lost the title: d_kabiel
+316 - Title given to 1007879
+316 - Holder (1007879) has gained d_amiel
+316 - Holder (1007879) has gained c_ebiel
+316 - Holder (1007879) has gained c_ramati
+316 - Holder (1007879) has gained c_sabdiel
+316 - Holder (1007879) has gained c_dabiel
+316 - Holder (1007879) has gained c_kanazsi
+323 - Holder (1007879) has gained d_rariel
+332 - Holder (1007879) has gained d_rariel
+333 - Holder (1007879) has gained d_rariel
+342 - Holder (1007879) has gained k_ehodati
+343 - vassal: c_tanati - Given to 1009227 in HandleTitles - Too many duke titles
+343 - vassal: c_tanati - Holder 1009227 - Primary title: c_tanati has lost the title: c_tanati
+343 - vassal: c_tanati - Title given to 1009227
+343 - Title given to 1009227 - Primary title: c_tanati
+343 - vassal: c_tanati - Holder (1009227) has gained d_kabiel
+343 - Too many dukes, given to dejure: k_ehodati
+378 - Holder 1009683 - Primary title: d_kabiel has lost the title: d_kabiel
+378 - Title given to 1009683
+378 - vassal: c_tanati - Holder 1009683 - Primary title: c_tanati has lost the title: c_tanati
+378 - vassal: c_tanati - Title given to 1009683 - Primary title: d_kabiel
+378 - Holder (1009683) has gained c_tanati
+397 - Holder (1009683) has gained d_qeral
+397 - Holder (1009683) has gained c_wila
+399 - Title given to 1011057
+399 - vassal: c_tanati - Setting to vassal of d_qeral in Validate Realm
+399 - Lost vassal: c_tanati
+399 - Holder (1011057) has gained c_tanati
+399 - Gained vassal: c_tanati
+399 - Holder (1011057) has gained d_qeral
+399 - Holder (1011057) has gained c_wila

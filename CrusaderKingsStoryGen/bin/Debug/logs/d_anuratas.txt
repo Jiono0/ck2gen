@@ -1,0 +1,65 @@
+200 - Title given to 1000742
+200 - vassal: c_tategen - Given to 1000746 via AddCharacterForTitle
+200 - sub vassal: c_tategen - Given to 1000746 via AddCharacterForTitle
+200 - vassal: c_tategen - Holder 1000746 - Primary title: c_tategen has lost the title: c_tategen
+200 - sub vassal: c_tategen - Holder 1000746 - Primary title: c_tategen has lost the title: c_tategen
+200 - vassal: c_tategen - Title given to 1000746
+200 - sub vassal: c_tategen - Title given to 1000746
+200 - vassal: c_sariyu - Holder 1000742 - Primary title: c_sariyu has lost the title: c_sariyu
+200 - sub vassal: c_sariyu - Holder 1000742 - Primary title: c_sariyu has lost the title: c_sariyu
+200 - vassal: c_sariyu - Title given to 1000742 - Primary title: d_anuratas
+200 - sub vassal: c_sariyu - Title given to 1000742 - Primary title: d_anuratas
+200 - Holder (1000742) has gained c_sariyu
+200 - vassal: c_bariss - Holder 1000742 - Primary title: c_bariss has lost the title: c_bariss
+200 - sub vassal: c_bariss - Holder 1000742 - Primary title: c_bariss has lost the title: c_bariss
+200 - vassal: c_bariss - Title given to 1000742 - Primary title: d_anuratas
+200 - sub vassal: c_bariss - Title given to 1000742 - Primary title: d_anuratas
+200 - Holder (1000742) has gained c_bariss
+200 - vassal: c_tategen - Holder 1000742 - Primary title: c_tategen has lost the title: c_tategen
+200 - sub vassal: c_tategen - Holder 1000742 - Primary title: c_tategen has lost the title: c_tategen
+200 - vassal: c_tategen - Title given to 1000742 - Primary title: d_anuratas
+200 - sub vassal: c_tategen - Title given to 1000742 - Primary title: d_anuratas
+200 - Holder (1000742) has gained c_tategen
+210 - Holder 1001817 - Primary title: d_anuratas has lost the title: d_anuratas
+210 - Title given to 1001817
+210 - vassal: c_tategen - Holder 1001817 - Primary title: c_tategen has lost the title: c_tategen
+210 - vassal: c_tategen - Title given to 1001817 - Primary title: d_anuratas
+210 - Holder (1001817) has gained c_tategen
+210 - vassal: c_bariss - Holder 1001817 - Primary title: c_bariss has lost the title: c_bariss
+210 - vassal: c_bariss - Title given to 1001817 - Primary title: d_anuratas
+210 - Holder (1001817) has gained c_bariss
+210 - vassal: c_sariyu - Holder 1001817 - Primary title: c_sariyu has lost the title: c_sariyu
+210 - vassal: c_sariyu - Title given to 1001817 - Primary title: d_anuratas
+210 - Holder (1001817) has gained c_sariyu
+222 - Holder 1001068 - Primary title: d_anuratas has lost the title: d_anuratas
+222 - Title given to 1001068 - Primary title: k_layenda
+222 - vassal: c_sariyu - Holder 1001068 - Primary title: c_sariyu has lost the title: c_sariyu
+222 - vassal: c_sariyu - Title given to 1001068 - Primary title: k_layenda
+222 - vassal: c_bariss - Holder 1001068 - Primary title: c_bariss has lost the title: c_bariss
+222 - vassal: c_bariss - Title given to 1001068 - Primary title: k_layenda
+222 - vassal: c_tategen - Holder 1001068 - Primary title: c_tategen has lost the title: c_tategen
+222 - vassal: c_tategen - Title given to 1001068 - Primary title: k_layenda
+230 - Gained vassal: c_ramice
+230 - Holder 1001569 - Primary title: d_anuratas has lost the title: c_ramice
+230 - vassal: c_ramice - Title given to 1001569 - Primary title: k_layenda
+230 - vassal: c_ramice - Setting to vassal of k_layenda in Validate Realm
+230 - Lost vassal: c_ramice
+230 - Holder 1001569 - Primary title: d_anuratas has lost the title: d_anuratas
+230 - Title given to 1001569 - Primary title: k_layenda
+230 - vassal: c_sariyu - Holder 1001569 - Primary title: c_sariyu has lost the title: c_sariyu
+230 - vassal: c_sariyu - Title given to 1001569 - Primary title: k_layenda
+230 - vassal: c_bariss - Holder 1001569 - Primary title: c_bariss has lost the title: c_bariss
+230 - vassal: c_bariss - Title given to 1001569 - Primary title: k_layenda
+230 - vassal: c_tategen - Holder 1001569 - Primary title: c_tategen has lost the title: c_tategen
+230 - vassal: c_tategen - Title given to 1001569 - Primary title: k_layenda
+258 - Holder 1004042 - Primary title: d_anuratas has lost the title: d_anuratas
+258 - Title given to 1004042 - Primary title: k_layenda
+258 - vassal: c_tategen - Setting to vassal of d_kemani in Validate Realm
+258 - Lost vassal: c_tategen
+258 - vassal: c_bariss - Setting to vassal of d_kemani in Validate Realm
+258 - Lost vassal: c_bariss
+258 - vassal: c_sariyu - Setting to vassal of d_kemani in Validate Realm
+258 - Lost vassal: c_sariyu
+259 - Destroyed due to flagged problem
+259 - Made independent
+259 - Title destroyed

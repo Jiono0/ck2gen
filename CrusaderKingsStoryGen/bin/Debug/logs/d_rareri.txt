@@ -1,0 +1,103 @@
+200 - Title given to 1000716
+200 - vassal: c_rorick - Holder 1000716 - Primary title: c_rorick has lost the title: c_rorick
+200 - sub vassal: c_rorick - Holder 1000716 - Primary title: c_rorick has lost the title: c_rorick
+200 - vassal: c_rorick - Title given to 1000716 - Primary title: d_rareri
+200 - sub vassal: c_rorick - Title given to 1000716 - Primary title: d_rareri
+200 - Holder (1000716) has gained c_rorick
+200 - vassal: c_wavild - Holder 1000716 - Primary title: c_wavild has lost the title: c_wavild
+200 - sub vassal: c_wavild - Holder 1000716 - Primary title: c_wavild has lost the title: c_wavild
+200 - vassal: c_wavild - Title given to 1000716 - Primary title: d_rareri
+200 - sub vassal: c_wavild - Title given to 1000716 - Primary title: d_rareri
+200 - Holder (1000716) has gained c_wavild
+200 - Holder 1001044 - Primary title: d_rareri has lost the title: d_rareri
+200 - Title given to 1001044 - Primary title: k_tenelge
+200 - vassal: c_rorick - Given to 1001392 in HandleTitles - Too many duke titles
+200 - vassal: c_rorick - Holder 1001392 - Primary title: c_rorick has lost the title: c_rorick
+200 - vassal: c_rorick - Title given to 1001392
+200 - Title given to 1001392 - Primary title: c_rorick
+200 - vassal: c_rorick - Holder (1001392) has gained d_rareri
+200 - Too many dukes, given to dejure: k_tenelge
+200 - Made independent due to being a seperate island
+200 - Made independent
+200 - vassal: c_epedatok - Setting independent in Validate Realm
+200 - vassal: c_epedatok - Made independent
+200 - Holder (1001392) has gained c_epedatok
+200 - sub vassal: c_wucilay - Setting independent in Validate Realm
+200 - sub vassal: c_wucilay - Made independent
+200 - Gained vassal: c_dodick
+200 - vassal: c_dodick - Given to neighbour holder of d_rareri
+200 - sub vassal: c_dodick - Given to neighbour holder of d_rareri
+200 - vassal: c_dodick - Holder 1001392 - Primary title: c_dodick has lost the title: c_dodick
+200 - sub vassal: c_dodick - Holder 1001392 - Primary title: c_dodick has lost the title: c_dodick
+200 - vassal: c_dodick - Title given to 1001392 - Primary title: d_rareri
+200 - sub vassal: c_dodick - Title given to 1001392 - Primary title: d_rareri
+200 - Holder (1001392) has gained c_dodick
+205 - Gained vassal: c_wucilay
+242 - Holder 1002307 - Primary title: d_rareri has lost the title: d_rareri
+242 - Title given to 1002307
+242 - vassal: c_rorick - Holder 1002307 - Primary title: c_rorick has lost the title: c_rorick
+242 - sub vassal: c_rorick - Holder 1002307 - Primary title: c_rorick has lost the title: c_rorick
+242 - vassal: c_rorick - Title given to 1002307 - Primary title: d_rareri
+242 - sub vassal: c_rorick - Title given to 1002307 - Primary title: d_rareri
+242 - Holder (1002307) has gained c_rorick
+242 - vassal: c_dodick - Setting independent in Validate Realm
+242 - vassal: c_dodick - Made independent
+242 - Holder (1002307) has gained c_epedatok
+242 - Holder (1002307) has gained c_dodick
+251 - Holder 1004389 - Primary title: d_rareri has lost the title: d_rareri
+251 - Title given to 1004389
+251 - vassal: c_rorick - Holder 1004389 - Primary title: c_rorick has lost the title: c_rorick
+251 - sub vassal: c_rorick - Holder 1004389 - Primary title: c_rorick has lost the title: c_rorick
+251 - vassal: c_rorick - Title given to 1004389 - Primary title: d_rareri
+251 - sub vassal: c_rorick - Title given to 1004389 - Primary title: d_rareri
+251 - Holder (1004389) has gained c_rorick
+251 - Holder (1004389) has gained c_epedatok
+251 - Holder (1004389) has gained c_dodick
+263 - Gained vassal: c_byitilay
+263 - vassal: c_byitilay - Given to neighbour holder of d_rareri
+263 - sub vassal: c_byitilay - Given to neighbour holder of d_rareri
+263 - vassal: c_byitilay - Holder 1004389 - Primary title: c_byitilay has lost the title: c_byitilay
+263 - sub vassal: c_byitilay - Holder 1004389 - Primary title: c_byitilay has lost the title: c_byitilay
+263 - vassal: c_byitilay - Title given to 1004389 - Primary title: d_rareri
+263 - sub vassal: c_byitilay - Title given to 1004389 - Primary title: d_rareri
+263 - Holder (1004389) has gained c_byitilay
+272 - Holder 1005946 - Primary title: d_rareri has lost the title: d_rareri
+272 - Title given to 1005946
+272 - Holder (1005946) has gained c_dodick
+272 - Holder (1005946) has gained c_epedatok
+272 - vassal: c_rorick - Holder 1005946 - Primary title: c_rorick has lost the title: c_rorick
+272 - sub vassal: c_rorick - Holder 1005946 - Primary title: c_rorick has lost the title: c_rorick
+272 - vassal: c_rorick - Title given to 1005946 - Primary title: d_rareri
+272 - sub vassal: c_rorick - Title given to 1005946 - Primary title: d_rareri
+272 - Holder (1005946) has gained c_rorick
+272 - vassal: c_byitilay - Holder 1005946 - Primary title: c_byitilay has lost the title: c_byitilay
+272 - sub vassal: c_byitilay - Holder 1005946 - Primary title: c_byitilay has lost the title: c_byitilay
+272 - vassal: c_byitilay - Title given to 1005946 - Primary title: d_rareri
+272 - sub vassal: c_byitilay - Title given to 1005946 - Primary title: d_rareri
+272 - Holder (1005946) has gained c_byitilay
+280 - Holder (1005946) has gained d_atolek
+280 - vassal: c_byitilay - Set liege on title creation d_atolek
+280 - sub vassal: c_byitilay - Set liege on title creation d_atolek
+280 - Lost vassal: c_byitilay
+280 - vassal: c_rorick - Set liege on title creation d_atolek
+280 - sub vassal: c_rorick - Set liege on title creation d_atolek
+280 - Lost vassal: c_rorick
+280 - vassal: c_wucilay - Holder 1005946 - Primary title: c_wucilay has lost the title: c_wucilay
+280 - sub vassal: c_wucilay - Holder 1005946 - Primary title: c_wucilay has lost the title: c_wucilay
+280 - vassal: c_wucilay - Title given to 1005946 - Primary title: d_rareri
+280 - sub vassal: c_wucilay - Title given to 1005946 - Primary title: d_rareri
+280 - Holder (1005946) has gained c_wucilay
+300 - vassal: c_wavild - Holder 1005946 - Primary title: c_wavild has lost the title: c_wavild
+300 - sub vassal: c_wavild - Holder 1005946 - Primary title: c_wavild has lost the title: c_wavild
+300 - vassal: c_wavild - Title given to 1005946 - Primary title: d_rareri
+300 - sub vassal: c_wavild - Title given to 1005946 - Primary title: d_rareri
+300 - Holder (1005946) has gained c_wavild
+300 - vassal: c_wucilay - Title given to 1007600
+334 - Holder 1006887 - Primary title: d_rareri has lost the title: d_rareri
+334 - Title given to 1006887 - Primary title: d_atolek
+334 - vassal: c_wavild - Setting independent in Validate Realm
+334 - vassal: c_wavild - Made independent
+339 - Holder 1009691 - Primary title: d_rareri has lost the title: d_rareri
+339 - Title given to 1009691 - Primary title: d_atolek
+387 - Holder 1010108 - Primary title: d_rareri has lost the title: d_rareri
+387 - Title given to 1010108 - Primary title: d_atolek

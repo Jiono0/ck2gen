@@ -1,0 +1,247 @@
+200 - Title given to 1000777
+200 - vassal: c_wagasun - Given to 1000780 via AddCharacterForTitle
+200 - sub vassal: c_wagasun - Given to 1000780 via AddCharacterForTitle
+200 - vassal: c_wagasun - Holder 1000780 - Primary title: c_wagasun has lost the title: c_wagasun
+200 - sub vassal: c_wagasun - Holder 1000780 - Primary title: c_wagasun has lost the title: c_wagasun
+200 - vassal: c_wagasun - Title given to 1000780
+200 - sub vassal: c_wagasun - Title given to 1000780
+200 - vassal: c_kusako - Holder 1000777 - Primary title: c_kusako has lost the title: c_kusako
+200 - sub vassal: c_kusako - Holder 1000777 - Primary title: c_kusako has lost the title: c_kusako
+200 - vassal: c_kusako - Title given to 1000777 - Primary title: d_kating
+200 - sub vassal: c_kusako - Title given to 1000777 - Primary title: d_kating
+200 - Holder (1000777) has gained c_kusako
+200 - vassal: c_wagasun - Holder 1000777 - Primary title: c_wagasun has lost the title: c_wagasun
+200 - sub vassal: c_wagasun - Holder 1000777 - Primary title: c_wagasun has lost the title: c_wagasun
+200 - vassal: c_wagasun - Title given to 1000777 - Primary title: d_kating
+200 - sub vassal: c_wagasun - Title given to 1000777 - Primary title: d_kating
+200 - Holder (1000777) has gained c_wagasun
+200 - vassal: c_kosanga - Holder 1000777 - Primary title: c_kosanga has lost the title: c_kosanga
+200 - sub vassal: c_kosanga - Holder 1000777 - Primary title: c_kosanga has lost the title: c_kosanga
+200 - vassal: c_kosanga - Title given to 1000777 - Primary title: d_kating
+200 - sub vassal: c_kosanga - Title given to 1000777 - Primary title: d_kating
+200 - Holder (1000777) has gained c_kosanga
+200 - vassal: c_ladar - Holder 1000777 - Primary title: c_ladar has lost the title: c_ladar
+200 - sub vassal: c_ladar - Holder 1000777 - Primary title: c_ladar has lost the title: c_ladar
+200 - vassal: c_ladar - Title given to 1000777 - Primary title: d_kating
+200 - sub vassal: c_ladar - Title given to 1000777 - Primary title: d_kating
+200 - Holder (1000777) has gained c_ladar
+200 - vassal: c_tasosh - Holder 1000777 - Primary title: c_tasosh has lost the title: c_lani
+200 - sub vassal: c_tasosh - Holder 1000777 - Primary title: c_tasosh has lost the title: c_lani
+200 - vassal: c_lani - Title given to 1000777 - Primary title: d_kating
+200 - sub vassal: c_lani - Title given to 1000777 - Primary title: d_kating
+200 - Holder (1000777) has gained c_lani
+200 - vassal: c_tasosh - Holder 1000777 - Primary title: c_tasosh has lost the title: c_tasosh
+200 - sub vassal: c_tasosh - Holder 1000777 - Primary title: c_tasosh has lost the title: c_tasosh
+200 - vassal: c_tasosh - Title given to 1000777 - Primary title: d_kating
+200 - sub vassal: c_tasosh - Title given to 1000777 - Primary title: d_kating
+200 - Holder (1000777) has gained c_tasosh
+200 - Holder 1001321 - Primary title: d_kating has lost the title: c_wagasun
+200 - vassal: c_wagasun - Title given to 1001321
+202 - Holder 1001547 - Primary title: d_kating has lost the title: d_kating
+202 - Title given to 1001547 - Primary title: d_dyoukadh
+202 - vassal: c_tasosh - Holder 1001547 - Primary title: c_tasosh has lost the title: c_tasosh
+202 - vassal: c_tasosh - Title given to 1001547 - Primary title: d_dyoukadh
+202 - vassal: c_lani - Holder 1001547 - Primary title: c_lani has lost the title: c_lani
+202 - vassal: c_lani - Title given to 1001547 - Primary title: d_dyoukadh
+202 - vassal: c_ladar - Holder 1001547 - Primary title: c_ladar has lost the title: c_ladar
+202 - vassal: c_ladar - Title given to 1001547 - Primary title: d_dyoukadh
+202 - vassal: c_kosanga - Holder 1001547 - Primary title: c_kosanga has lost the title: c_kosanga
+202 - vassal: c_kosanga - Title given to 1001547 - Primary title: d_dyoukadh
+202 - vassal: c_kusako - Holder 1001547 - Primary title: c_kusako has lost the title: c_kusako
+202 - vassal: c_kusako - Title given to 1001547 - Primary title: d_dyoukadh
+203 - Holder 1001723 - Primary title: d_kating has lost the title: c_agzachi
+203 - Holder 1001724 - Primary title: d_kating has lost the title: c_kirta
+233 - Holder 1002878 - Primary title: d_kating has lost the title: d_kating
+233 - Title given to 1002878
+233 - vassal: c_kusako - Setting to vassal of d_dyoukadh in Validate Realm
+233 - Lost vassal: c_kusako
+233 - vassal: c_kosanga - Setting to vassal of d_dyoukadh in Validate Realm
+233 - Lost vassal: c_kosanga
+233 - vassal: c_ladar - Setting to vassal of d_dyoukadh in Validate Realm
+233 - Lost vassal: c_ladar
+233 - vassal: c_lani - Setting to vassal of d_dyoukadh in Validate Realm
+233 - Lost vassal: c_lani
+233 - vassal: c_tasosh - Setting to vassal of d_dyoukadh in Validate Realm
+233 - Lost vassal: c_tasosh
+233 - Holder (1002878) has gained d_dyoukadh
+233 - Holder (1002878) has gained c_kusako
+233 - Holder (1002878) has gained c_kosanga
+233 - Holder (1002878) has gained c_ladar
+233 - Holder (1002878) has gained c_lani
+233 - Holder (1002878) has gained c_tasosh
+233 - vassal: c_wagasun - Holder 1002878 - Primary title: c_wagasun has lost the title: c_wagasun
+233 - vassal: c_wagasun - Title given to 1002878 - Primary title: d_kating
+233 - Holder (1002878) has gained c_wagasun
+234 - Holder 1003657 - Primary title: d_kating has lost the title: c_kusako
+276 - Holder 1004248 - Primary title: d_kating has lost the title: d_kating
+276 - Title given to 1004248
+276 - vassal: c_wagasun - Setting to vassal of d_dyoukadh in Validate Realm
+276 - Lost vassal: c_wagasun
+276 - Holder (1004248) has gained d_dyoukadh
+276 - Holder (1004248) has gained c_kosanga
+276 - Holder (1004248) has gained c_ladar
+276 - Holder (1004248) has gained c_lani
+276 - Holder (1004248) has gained c_tasosh
+276 - Holder (1004248) has gained c_wagasun
+277 - Destroyed due to flagged problem
+277 - Made independent
+277 - Title destroyed
+279 - Given to 1004248 in TestCreateEmpire
+279 - Title given to 1004248 - Primary title: d_dyoukadh
+279 - Made independent for title creation d_kating for d_dyoukadh
+279 - Made independent
+279 - Gained vassal: c_kosanga
+279 - Gained vassal: c_ladar
+279 - Gained vassal: c_lani
+279 - Gained vassal: c_tasosh
+279 - Gained vassal: c_wagasun
+279 - Destroyed due to no capital's obtainable
+279 - Title destroyed
+279 - vassal: c_kosanga - Setting independent due to liege destruction
+279 - vassal: c_kosanga - Made independent
+279 - vassal: c_wagasun - Setting independent due to liege destruction
+279 - vassal: c_wagasun - Made independent
+279 - vassal: c_tasosh - Setting independent due to liege destruction
+279 - vassal: c_tasosh - Made independent
+279 - vassal: c_lani - Setting independent due to liege destruction
+279 - vassal: c_lani - Made independent
+279 - vassal: c_ladar - Setting independent due to liege destruction
+279 - vassal: c_ladar - Made independent
+281 - Given to 1004764 in TestCreateEmpire
+281 - Title given to 1004764 - Primary title: d_dyoukadh
+281 - Made independent for title creation d_kating for d_nagik
+281 - Made independent
+281 - Gained vassal: c_domice
+281 - Gained vassal: c_agzice
+281 - Gained vassal: c_rahing
+281 - Gained vassal: c_nitice
+281 - Gained vassal: c_wagasun
+281 - Gained vassal: c_tasosh
+281 - Gained vassal: c_lani
+281 - Gained vassal: c_ladar
+281 - Gained vassal: c_kosanga
+281 - Destroyed due to no capital's obtainable
+281 - Title destroyed
+281 - vassal: c_tasosh - Setting independent due to liege destruction
+281 - vassal: c_tasosh - Made independent
+281 - vassal: c_wagasun - Setting independent due to liege destruction
+281 - vassal: c_wagasun - Made independent
+281 - vassal: c_nitice - Setting independent due to liege destruction
+281 - vassal: c_nitice - Made independent
+281 - vassal: c_rahing - Setting independent due to liege destruction
+281 - vassal: c_rahing - Made independent
+281 - vassal: c_agzice - Setting independent due to liege destruction
+281 - vassal: c_agzice - Made independent
+281 - vassal: c_domice - Setting independent due to liege destruction
+281 - vassal: c_domice - Made independent
+281 - vassal: c_lani - Setting independent due to liege destruction
+281 - vassal: c_lani - Made independent
+281 - vassal: c_ladar - Setting independent due to liege destruction
+281 - vassal: c_ladar - Made independent
+281 - vassal: c_kosanga - Setting independent due to liege destruction
+281 - vassal: c_kosanga - Made independent
+284 - Given to 1004764 in TestCreateEmpire
+284 - Title given to 1004764 - Primary title: d_dyoukadh
+284 - Made independent for title creation d_kating for d_dyoukadh
+284 - Made independent
+284 - Gained vassal: c_agzice
+284 - Gained vassal: c_nitice
+284 - Gained vassal: c_wagasun
+284 - Gained vassal: c_kosanga
+284 - Gained vassal: c_tasosh
+284 - Destroyed due to no capital's obtainable
+284 - Title destroyed
+284 - vassal: c_tasosh - Setting independent due to liege destruction
+284 - vassal: c_tasosh - Made independent
+284 - vassal: c_kosanga - Setting independent due to liege destruction
+284 - vassal: c_kosanga - Made independent
+284 - vassal: c_wagasun - Setting independent due to liege destruction
+284 - vassal: c_wagasun - Made independent
+284 - vassal: c_nitice - Setting independent due to liege destruction
+284 - vassal: c_nitice - Made independent
+284 - vassal: c_agzice - Setting independent due to liege destruction
+284 - vassal: c_agzice - Made independent
+298 - Given to 1004764 in TestCreateEmpire
+298 - Title given to 1004764 - Primary title: d_dyoukadh
+298 - Made independent for title creation d_kating for d_dyoukadh
+298 - Made independent
+298 - Gained vassal: c_agzice
+298 - Gained vassal: c_nitice
+298 - Gained vassal: c_wagasun
+298 - Gained vassal: c_kosanga
+298 - Gained vassal: c_tasosh
+298 - Destroyed due to no capital's obtainable
+298 - Title destroyed
+298 - vassal: c_tasosh - Setting independent due to liege destruction
+298 - vassal: c_tasosh - Made independent
+298 - vassal: c_kosanga - Setting independent due to liege destruction
+298 - vassal: c_kosanga - Made independent
+298 - vassal: c_wagasun - Setting independent due to liege destruction
+298 - vassal: c_wagasun - Made independent
+298 - vassal: c_nitice - Setting independent due to liege destruction
+298 - vassal: c_nitice - Made independent
+298 - vassal: c_agzice - Setting independent due to liege destruction
+298 - vassal: c_agzice - Made independent
+309 - Given to 1004764 in TestCreateEmpire
+309 - Title given to 1004764 - Primary title: d_dyoukadh
+309 - Made independent for title creation d_kating for d_dyoukadh
+309 - Made independent
+309 - Gained vassal: c_agzachi
+309 - Gained vassal: c_kirta
+309 - Gained vassal: c_tasosh
+309 - Gained vassal: c_nitice
+309 - Gained vassal: c_agzice
+309 - Destroyed due to no capital's obtainable
+309 - Title destroyed
+309 - vassal: c_agzice - Setting independent due to liege destruction
+309 - vassal: c_agzice - Made independent
+309 - vassal: c_nitice - Setting independent due to liege destruction
+309 - vassal: c_nitice - Made independent
+309 - vassal: c_tasosh - Setting independent due to liege destruction
+309 - vassal: c_tasosh - Made independent
+309 - vassal: c_kirta - Setting independent due to liege destruction
+309 - vassal: c_kirta - Made independent
+309 - vassal: c_agzachi - Setting independent due to liege destruction
+309 - vassal: c_agzachi - Made independent
+313 - Given to 1004764 in TestCreateEmpire
+313 - Title given to 1004764 - Primary title: d_dyoukadh
+313 - Made independent for title creation d_kating for d_dyoukadh
+313 - Made independent
+313 - Gained vassal: c_agzachi
+313 - Gained vassal: c_kirta
+313 - Gained vassal: c_tasosh
+313 - Gained vassal: c_nitice
+313 - Gained vassal: c_kosanga
+313 - Destroyed due to no capital's obtainable
+313 - Title destroyed
+313 - vassal: c_kosanga - Setting independent due to liege destruction
+313 - vassal: c_kosanga - Made independent
+313 - vassal: c_nitice - Setting independent due to liege destruction
+313 - vassal: c_nitice - Made independent
+313 - vassal: c_tasosh - Setting independent due to liege destruction
+313 - vassal: c_tasosh - Made independent
+313 - vassal: c_kirta - Setting independent due to liege destruction
+313 - vassal: c_kirta - Made independent
+313 - vassal: c_agzachi - Setting independent due to liege destruction
+313 - vassal: c_agzachi - Made independent
+327 - Given to 1004764 in TestCreateEmpire
+327 - Title given to 1004764 - Primary title: d_dyoukadh
+327 - Made independent for title creation d_kating for d_dyoukadh
+327 - Made independent
+327 - Gained vassal: c_wagasun
+327 - Gained vassal: c_kosanga
+327 - Gained vassal: c_nitice
+327 - Gained vassal: c_kirta
+327 - Gained vassal: c_agzachi
+327 - Destroyed due to no capital's obtainable
+327 - Title destroyed
+327 - vassal: c_agzachi - Setting independent due to liege destruction
+327 - vassal: c_agzachi - Made independent
+327 - vassal: c_kirta - Setting independent due to liege destruction
+327 - vassal: c_kirta - Made independent
+327 - vassal: c_nitice - Setting independent due to liege destruction
+327 - vassal: c_nitice - Made independent
+327 - vassal: c_kosanga - Setting independent due to liege destruction
+327 - vassal: c_kosanga - Made independent
+327 - vassal: c_wagasun - Setting independent due to liege destruction
+327 - vassal: c_wagasun - Made independent

@@ -1,0 +1,135 @@
+200 - Title given to 1000223
+200 - vassal: c_etogisa - Given to 1000226 via AddCharacterForTitle
+200 - sub vassal: c_etogisa - Given to 1000226 via AddCharacterForTitle
+200 - vassal: c_etogisa - Holder 1000226 - Primary title: c_etogisa has lost the title: c_etogisa
+200 - sub vassal: c_etogisa - Holder 1000226 - Primary title: c_etogisa has lost the title: c_etogisa
+200 - vassal: c_etogisa - Title given to 1000226
+200 - sub vassal: c_etogisa - Title given to 1000226
+200 - vassal: c_tosmin - Given to 1000228 via AddCharacterForTitle
+200 - sub vassal: c_tosmin - Given to 1000228 via AddCharacterForTitle
+200 - vassal: c_tosmin - Holder 1000228 - Primary title: c_tosmin has lost the title: c_tosmin
+200 - sub vassal: c_tosmin - Holder 1000228 - Primary title: c_tosmin has lost the title: c_tosmin
+200 - vassal: c_tosmin - Title given to 1000228
+200 - sub vassal: c_tosmin - Title given to 1000228
+200 - vassal: c_logisa - Holder 1000223 - Primary title: c_logisa has lost the title: c_logisa
+200 - sub vassal: c_logisa - Holder 1000223 - Primary title: c_logisa has lost the title: c_logisa
+200 - vassal: c_logisa - Title given to 1000223 - Primary title: d_lotys
+200 - sub vassal: c_logisa - Title given to 1000223 - Primary title: d_lotys
+200 - Holder (1000223) has gained c_logisa
+200 - vassal: c_etogisa - Holder 1000223 - Primary title: c_etogisa has lost the title: c_etogisa
+200 - sub vassal: c_etogisa - Holder 1000223 - Primary title: c_etogisa has lost the title: c_etogisa
+200 - vassal: c_etogisa - Title given to 1000223 - Primary title: d_lotys
+200 - sub vassal: c_etogisa - Title given to 1000223 - Primary title: d_lotys
+200 - Holder (1000223) has gained c_etogisa
+200 - vassal: c_tosmin - Holder 1000223 - Primary title: c_tosmin has lost the title: c_tosmin
+200 - sub vassal: c_tosmin - Holder 1000223 - Primary title: c_tosmin has lost the title: c_tosmin
+200 - vassal: c_tosmin - Title given to 1000223 - Primary title: d_lotys
+200 - sub vassal: c_tosmin - Title given to 1000223 - Primary title: d_lotys
+200 - Holder (1000223) has gained c_tosmin
+200 - vassal: c_atogachi - Holder 1000223 - Primary title: c_atogachi has lost the title: c_atogachi
+200 - sub vassal: c_atogachi - Holder 1000223 - Primary title: c_atogachi has lost the title: c_atogachi
+200 - vassal: c_atogachi - Title given to 1000223 - Primary title: d_lotys
+200 - sub vassal: c_atogachi - Title given to 1000223 - Primary title: d_lotys
+200 - Holder (1000223) has gained c_atogachi
+216 - Holder 1002104 - Primary title: d_lotys has lost the title: d_lotys
+216 - Title given to 1002104
+216 - vassal: c_atogachi - Holder 1002104 - Primary title: c_atogachi has lost the title: c_atogachi
+216 - vassal: c_atogachi - Title given to 1002104 - Primary title: d_lotys
+216 - Holder (1002104) has gained c_atogachi
+216 - vassal: c_tosmin - Holder 1002104 - Primary title: c_tosmin has lost the title: c_tosmin
+216 - vassal: c_tosmin - Title given to 1002104 - Primary title: d_lotys
+216 - Holder (1002104) has gained c_tosmin
+216 - vassal: c_etogisa - Holder 1002104 - Primary title: c_etogisa has lost the title: c_etogisa
+216 - vassal: c_etogisa - Title given to 1002104 - Primary title: d_lotys
+216 - Holder (1002104) has gained c_etogisa
+216 - vassal: c_logisa - Holder 1002104 - Primary title: c_logisa has lost the title: c_logisa
+216 - vassal: c_logisa - Title given to 1002104 - Primary title: d_lotys
+216 - Holder (1002104) has gained c_logisa
+219 - Holder 1001182 - Primary title: d_lotys has lost the title: d_lotys
+219 - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: c_atogachi - Holder 1001182 - Primary title: c_atogachi has lost the title: c_atogachi
+219 - vassal: c_atogachi - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: c_tosmin - Holder 1001182 - Primary title: c_tosmin has lost the title: c_tosmin
+219 - vassal: c_tosmin - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: c_etogisa - Holder 1001182 - Primary title: c_etogisa has lost the title: c_etogisa
+219 - vassal: c_etogisa - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: c_logisa - Holder 1001182 - Primary title: c_logisa has lost the title: c_logisa
+219 - vassal: c_logisa - Title given to 1001182 - Primary title: d_wirachi
+220 - Holder 1002796 - Primary title: d_lotys has lost the title: c_ririel
+220 - Holder 1002797 - Primary title: d_lotys has lost the title: c_tanos
+220 - Holder 1002798 - Primary title: d_lotys has lost the title: c_kegiel
+232 - Holder 1002551 - Primary title: d_lotys has lost the title: d_lotys
+232 - Title given to 1002551
+232 - vassal: c_logisa - Setting to vassal of d_wirachi in Validate Realm
+232 - Lost vassal: c_logisa
+232 - vassal: c_etogisa - Setting to vassal of d_wirachi in Validate Realm
+232 - Lost vassal: c_etogisa
+232 - vassal: c_tosmin - Setting to vassal of d_wirachi in Validate Realm
+232 - Lost vassal: c_tosmin
+232 - vassal: c_atogachi - Setting to vassal of d_wirachi in Validate Realm
+232 - Lost vassal: c_atogachi
+232 - Holder (1002551) has gained d_wirachi
+232 - Holder (1002551) has gained c_logisa
+232 - Holder (1002551) has gained c_etogisa
+232 - Holder (1002551) has gained c_tosmin
+232 - Holder (1002551) has gained c_atogachi
+232 - Holder (1002551) has gained c_ebegimon
+233 - Destroyed due to flagged problem
+233 - Made independent
+233 - Title destroyed
+233 - Given to 1002551 in TestCreateEmpire
+233 - Title given to 1002551 - Primary title: d_wirachi
+233 - Made independent for title creation d_lotys for d_wirachi
+233 - Made independent
+233 - Gained vassal: c_logisa
+233 - Gained vassal: c_etogisa
+233 - Gained vassal: c_tosmin
+233 - Gained vassal: c_atogachi
+233 - Gained vassal: c_ebegimon
+262 - Holder 1003759 - Primary title: d_lotys has lost the title: d_lotys
+262 - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: c_logisa - Holder 1003759 - Primary title: c_logisa has lost the title: c_logisa
+262 - vassal: c_logisa - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: c_etogisa - Holder 1003759 - Primary title: c_etogisa has lost the title: c_etogisa
+262 - vassal: c_etogisa - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: c_tosmin - Holder 1003759 - Primary title: c_tosmin has lost the title: c_tosmin
+262 - vassal: c_tosmin - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: c_atogachi - Holder 1003759 - Primary title: c_atogachi has lost the title: c_atogachi
+262 - vassal: c_atogachi - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: c_ebegimon - Holder 1003759 - Primary title: c_ebegimon has lost the title: c_ebegimon
+262 - vassal: c_ebegimon - Title given to 1003759 - Primary title: d_wirachi
+280 - Title given to 1006164
+290 - vassal: c_ebegimon - Setting to vassal of d_wirachi in Validate Realm
+290 - Lost vassal: c_ebegimon
+290 - vassal: c_atogachi - Setting to vassal of d_wirachi in Validate Realm
+290 - Lost vassal: c_atogachi
+290 - vassal: c_tosmin - Setting to vassal of d_wirachi in Validate Realm
+290 - Lost vassal: c_tosmin
+290 - vassal: c_etogisa - Setting to vassal of d_wirachi in Validate Realm
+290 - Lost vassal: c_etogisa
+290 - vassal: c_logisa - Setting to vassal of d_wirachi in Validate Realm
+290 - Lost vassal: c_logisa
+291 - Destroyed due to flagged problem
+291 - Title destroyed
+315 - Given to 1005248 in TestCreateEmpire
+315 - Title given to 1005248 - Primary title: d_wirachi
+315 - Made independent for title creation d_lotys for d_wirachi
+315 - Made independent
+315 - Gained vassal: c_logisa
+315 - Gained vassal: c_etogisa
+315 - Gained vassal: c_tosmin
+315 - Gained vassal: c_qitud
+315 - Gained vassal: c_nirako
+326 - Title given to 1006329
+327 - vassal: c_nirako - Setting to vassal of d_wirachi in Validate Realm
+327 - Lost vassal: c_nirako
+327 - vassal: c_qitud - Setting to vassal of d_wirachi in Validate Realm
+327 - Lost vassal: c_qitud
+327 - vassal: c_tosmin - Setting to vassal of d_wirachi in Validate Realm
+327 - Lost vassal: c_tosmin
+327 - vassal: c_etogisa - Setting to vassal of d_wirachi in Validate Realm
+327 - Lost vassal: c_etogisa
+327 - vassal: c_logisa - Setting to vassal of d_wirachi in Validate Realm
+327 - Lost vassal: c_logisa
+328 - Destroyed due to flagged problem
+328 - Title destroyed

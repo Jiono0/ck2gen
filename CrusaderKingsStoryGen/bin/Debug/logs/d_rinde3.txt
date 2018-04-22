@@ -1,0 +1,140 @@
+200 - Title given to 1000512
+200 - vassal: c_wisen - Holder 1000512 - Primary title: c_wisen has lost the title: c_wisen
+200 - sub vassal: c_wisen - Holder 1000512 - Primary title: c_wisen has lost the title: c_wisen
+200 - vassal: c_wisen - Title given to 1000512 - Primary title: d_rinde
+200 - sub vassal: c_wisen - Title given to 1000512 - Primary title: d_rinde
+200 - Holder (1000512) has gained c_wisen
+200 - vassal: c_loaneri - Holder 1000512 - Primary title: c_loaneri has lost the title: c_loaneri
+200 - sub vassal: c_loaneri - Holder 1000512 - Primary title: c_loaneri has lost the title: c_loaneri
+200 - vassal: c_loaneri - Title given to 1000512 - Primary title: d_rinde
+200 - sub vassal: c_loaneri - Title given to 1000512 - Primary title: d_rinde
+200 - Holder (1000512) has gained c_loaneri
+200 - vassal: c_egisabha - Holder 1000512 - Primary title: c_egisabha has lost the title: c_egisabha
+200 - sub vassal: c_egisabha - Holder 1000512 - Primary title: c_egisabha has lost the title: c_egisabha
+200 - vassal: c_egisabha - Title given to 1000512 - Primary title: d_rinde
+200 - sub vassal: c_egisabha - Title given to 1000512 - Primary title: d_rinde
+200 - Holder (1000512) has gained c_egisabha
+203 - Holder 1001669 - Primary title: d_rinde has lost the title: d_rinde
+203 - Title given to 1001669
+203 - vassal: c_egisabha - Holder 1001669 - Primary title: c_egisabha has lost the title: c_egisabha
+203 - vassal: c_egisabha - Title given to 1001669 - Primary title: d_rinde
+203 - Holder (1001669) has gained c_egisabha
+203 - vassal: c_loaneri - Holder 1001669 - Primary title: c_loaneri has lost the title: c_loaneri
+203 - vassal: c_loaneri - Title given to 1001669 - Primary title: d_rinde
+203 - Holder (1001669) has gained c_loaneri
+203 - vassal: c_wisen - Holder 1001669 - Primary title: c_wisen has lost the title: c_wisen
+203 - vassal: c_wisen - Title given to 1001669 - Primary title: d_rinde
+203 - Holder (1001669) has gained c_wisen
+218 - Holder 1001959 - Primary title: d_rinde has lost the title: d_rinde
+218 - Title given to 1001959
+218 - vassal: c_egisabha - Holder 1001959 - Primary title: c_egisabha has lost the title: c_egisabha
+218 - vassal: c_egisabha - Title given to 1001959 - Primary title: d_rinde
+218 - Holder (1001959) has gained c_egisabha
+218 - vassal: c_loaneri - Holder 1001959 - Primary title: c_loaneri has lost the title: c_loaneri
+218 - vassal: c_loaneri - Title given to 1001959 - Primary title: d_rinde
+218 - Holder (1001959) has gained c_loaneri
+218 - vassal: c_wisen - Holder 1001959 - Primary title: c_wisen has lost the title: c_wisen
+218 - vassal: c_wisen - Title given to 1001959 - Primary title: d_rinde
+218 - Holder (1001959) has gained c_wisen
+281 - Holder 1002944 - Primary title: d_rinde has lost the title: d_rinde
+281 - Title given to 1002944
+281 - vassal: c_egisabha - Holder 1002944 - Primary title: c_egisabha has lost the title: c_egisabha
+281 - vassal: c_egisabha - Title given to 1002944 - Primary title: d_rinde
+281 - Holder (1002944) has gained c_egisabha
+281 - vassal: c_loaneri - Holder 1002944 - Primary title: c_loaneri has lost the title: c_loaneri
+281 - vassal: c_loaneri - Title given to 1002944 - Primary title: d_rinde
+281 - Holder (1002944) has gained c_loaneri
+281 - vassal: c_wisen - Holder 1002944 - Primary title: c_wisen has lost the title: c_wisen
+281 - vassal: c_wisen - Title given to 1002944 - Primary title: d_rinde
+281 - Holder (1002944) has gained c_wisen
+290 - Holder 1006212 - Primary title: d_rinde has lost the title: d_rinde
+290 - Title given to 1006212
+290 - vassal: c_egisabha - Holder 1006212 - Primary title: c_egisabha has lost the title: c_egisabha
+290 - vassal: c_egisabha - Title given to 1006212 - Primary title: d_rinde
+290 - Holder (1006212) has gained c_egisabha
+290 - vassal: c_loaneri - Holder 1006212 - Primary title: c_loaneri has lost the title: c_loaneri
+290 - vassal: c_loaneri - Title given to 1006212 - Primary title: d_rinde
+290 - Holder (1006212) has gained c_loaneri
+290 - vassal: c_wisen - Holder 1006212 - Primary title: c_wisen has lost the title: c_wisen
+290 - vassal: c_wisen - Title given to 1006212 - Primary title: d_rinde
+290 - Holder (1006212) has gained c_wisen
+319 - Holder (1006212) has gained d_sisora
+319 - Holder (1006212) has gained c_kamatok
+319 - Holder (1006212) has gained c_rakohn
+332 - Holder 1008505 - Primary title: d_rinde has lost the title: d_sisora
+332 - Gained vassal: c_kamatok
+332 - Gained vassal: c_rakohn
+338 - Holder (1006212) has gained d_sisora
+338 - vassal: c_rakohn - Set liege on title creation d_sisora
+338 - Lost vassal: c_rakohn
+338 - vassal: c_kamatok - Set liege on title creation d_sisora
+338 - Lost vassal: c_kamatok
+338 - vassal: c_egisabha - Set liege on title creation d_sisora
+338 - Lost vassal: c_egisabha
+338 - vassal: c_loaneri - Set liege on title creation d_sisora
+338 - Lost vassal: c_loaneri
+338 - vassal: c_wisen - Set liege on title creation d_sisora
+338 - Lost vassal: c_wisen
+339 - Destroyed due to flagged problem
+339 - Made independent
+339 - Title destroyed
+354 - Given to 1009537 in TestCreateEmpire
+354 - Title given to 1009537 - Primary title: d_sisora
+354 - Made independent for title creation d_rinde for d_sisora
+354 - Gained vassal: c_ridamba
+354 - Gained vassal: c_wisen
+354 - Gained vassal: c_egisabha
+354 - Gained vassal: c_kamatok
+354 - Gained vassal: c_rakohn
+354 - Destroyed due to no capital's obtainable
+354 - Title destroyed
+354 - vassal: c_ridamba - Setting independent due to liege destruction
+354 - vassal: c_ridamba - Made independent
+354 - vassal: c_wisen - Setting independent due to liege destruction
+354 - vassal: c_wisen - Made independent
+354 - vassal: c_egisabha - Setting independent due to liege destruction
+354 - vassal: c_egisabha - Made independent
+354 - vassal: c_rakohn - Setting independent due to liege destruction
+354 - vassal: c_rakohn - Made independent
+354 - vassal: c_kamatok - Setting independent due to liege destruction
+354 - vassal: c_kamatok - Made independent
+382 - Given to 1009810 in TestCreateEmpire
+382 - Title given to 1009810 - Primary title: d_sisora
+382 - Made independent for title creation d_rinde for d_sisora
+382 - Gained vassal: c_ridamba
+382 - Gained vassal: c_egisabha
+382 - Gained vassal: c_kamatok
+382 - Gained vassal: c_tupamba
+382 - Gained vassal: c_wisen
+382 - Destroyed due to no capital's obtainable
+382 - Title destroyed
+382 - vassal: c_wisen - Setting independent due to liege destruction
+382 - vassal: c_wisen - Made independent
+382 - vassal: c_tupamba - Setting independent due to liege destruction
+382 - vassal: c_tupamba - Made independent
+382 - vassal: c_kamatok - Setting independent due to liege destruction
+382 - vassal: c_kamatok - Made independent
+382 - vassal: c_egisabha - Setting independent due to liege destruction
+382 - vassal: c_egisabha - Made independent
+382 - vassal: c_ridamba - Setting independent due to liege destruction
+382 - vassal: c_ridamba - Made independent
+393 - Given to 1010913 in TestCreateEmpire
+393 - Title given to 1010913 - Primary title: d_sisora
+393 - Made independent for title creation d_rinde for d_sisora
+393 - Gained vassal: c_ridamba
+393 - Gained vassal: c_egisabha
+393 - Gained vassal: c_tupamba
+393 - Gained vassal: c_wisen
+393 - Gained vassal: c_loaneri
+393 - Destroyed due to no capital's obtainable
+393 - Title destroyed
+393 - vassal: c_loaneri - Setting independent due to liege destruction
+393 - vassal: c_loaneri - Made independent
+393 - vassal: c_wisen - Setting independent due to liege destruction
+393 - vassal: c_wisen - Made independent
+393 - vassal: c_tupamba - Setting independent due to liege destruction
+393 - vassal: c_tupamba - Made independent
+393 - vassal: c_egisabha - Setting independent due to liege destruction
+393 - vassal: c_egisabha - Made independent
+393 - vassal: c_ridamba - Setting independent due to liege destruction
+393 - vassal: c_ridamba - Made independent

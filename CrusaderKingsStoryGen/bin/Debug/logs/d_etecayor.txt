@@ -1,0 +1,63 @@
+200 - Title given to 1000159
+200 - vassal: c_qavid - Given to 1000163 via AddCharacterForTitle
+200 - sub vassal: c_qavid - Given to 1000163 via AddCharacterForTitle
+200 - vassal: c_qavid - Holder 1000163 - Primary title: c_qavid has lost the title: c_qavid
+200 - sub vassal: c_qavid - Holder 1000163 - Primary title: c_qavid has lost the title: c_qavid
+200 - vassal: c_qavid - Title given to 1000163
+200 - sub vassal: c_qavid - Title given to 1000163
+200 - vassal: c_tolonio - Holder 1000159 - Primary title: c_tolonio has lost the title: c_tolonio
+200 - sub vassal: c_tolonio - Holder 1000159 - Primary title: c_tolonio has lost the title: c_tolonio
+200 - vassal: c_tolonio - Title given to 1000159 - Primary title: d_etecayor
+200 - sub vassal: c_tolonio - Title given to 1000159 - Primary title: d_etecayor
+200 - Holder (1000159) has gained c_tolonio
+200 - vassal: c_tarar - Holder 1000159 - Primary title: c_tarar has lost the title: c_tarar
+200 - sub vassal: c_tarar - Holder 1000159 - Primary title: c_tarar has lost the title: c_tarar
+200 - vassal: c_tarar - Title given to 1000159 - Primary title: d_etecayor
+200 - sub vassal: c_tarar - Title given to 1000159 - Primary title: d_etecayor
+200 - Holder (1000159) has gained c_tarar
+200 - vassal: c_qavid - Holder 1000159 - Primary title: c_qavid has lost the title: c_qavid
+200 - sub vassal: c_qavid - Holder 1000159 - Primary title: c_qavid has lost the title: c_qavid
+200 - vassal: c_qavid - Title given to 1000159 - Primary title: d_etecayor
+200 - sub vassal: c_qavid - Title given to 1000159 - Primary title: d_etecayor
+200 - Holder (1000159) has gained c_qavid
+222 - Holder 1001650 - Primary title: d_etecayor has lost the title: d_etecayor
+222 - Title given to 1001650
+222 - vassal: c_tolonio - Holder 1001650 - Primary title: c_tolonio has lost the title: c_tolonio
+222 - vassal: c_tolonio - Title given to 1001650 - Primary title: d_etecayor
+222 - Holder (1001650) has gained c_tolonio
+222 - vassal: c_tarar - Holder 1001650 - Primary title: c_tarar has lost the title: c_tarar
+222 - vassal: c_tarar - Title given to 1001650 - Primary title: d_etecayor
+222 - Holder (1001650) has gained c_tarar
+222 - vassal: c_qavid - Holder 1001650 - Primary title: c_qavid has lost the title: c_qavid
+222 - vassal: c_qavid - Title given to 1001650 - Primary title: d_etecayor
+222 - Holder (1001650) has gained c_qavid
+255 - Holder (1001650) has gained d_aloda
+255 - Holder (1001650) has gained c_syoio
+255 - Holder (1001650) has gained c_detek
+255 - Holder (1001650) has gained c_werek
+255 - Holder (1001650) has gained c_kecazi
+256 - vassal: c_qavid - Title given to 1004759
+256 - vassal: c_tolonio - Title given to 1004760
+267 - Gained vassal: c_syoio
+267 - Gained vassal: c_detek
+267 - Gained vassal: c_werek
+267 - Gained vassal: c_kecazi
+267 - Holder 1003377 - Primary title: d_etecayor has lost the title: d_etecayor
+267 - Title given to 1003377 - Primary title: d_aloda
+267 - vassal: c_kecazi - Holder 1003377 - Primary title: c_kecazi has lost the title: c_kecazi
+267 - vassal: c_kecazi - Title given to 1003377 - Primary title: d_aloda
+267 - vassal: c_werek - Holder 1003377 - Primary title: c_werek has lost the title: c_werek
+267 - vassal: c_werek - Title given to 1003377 - Primary title: d_aloda
+267 - vassal: c_detek - Holder 1003377 - Primary title: c_detek has lost the title: c_detek
+267 - vassal: c_detek - Title given to 1003377 - Primary title: d_aloda
+267 - vassal: c_syoio - Holder 1003377 - Primary title: c_syoio has lost the title: c_syoio
+267 - vassal: c_syoio - Title given to 1003377 - Primary title: d_aloda
+267 - vassal: c_tarar - Holder 1003377 - Primary title: c_tarar has lost the title: c_tarar
+267 - vassal: c_tarar - Title given to 1003377 - Primary title: d_aloda
+275 - Holder (1003377) has gained d_aloda
+275 - vassal: c_kecazi - Set liege on title creation d_aloda
+275 - Lost vassal: c_kecazi
+275 - vassal: c_werek - Set liege on title creation d_aloda
+275 - Lost vassal: c_werek
+275 - vassal: c_detek - Set liege on title creation d_aloda
+275 - L

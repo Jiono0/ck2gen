@@ -1,0 +1,390 @@
+200 - Title given to 1001033
+200 - vassal: d_keirona - Holder 1001033 - Primary title: d_keirona has lost the title: c_kigona
+200 - sub vassal: d_keirona - Holder 1001033 - Primary title: d_keirona has lost the title: c_kigona
+200 - sub vassal: c_kigona - Title given to 1001033 - Primary title: k_tya
+200 - Holder (1001033) has gained c_kigona
+200 - vassal: d_adreph - Holder 1001033 - Primary title: d_adreph has lost the title: d_adreph
+200 - sub vassal: d_adreph - Holder 1001033 - Primary title: d_adreph has lost the title: d_adreph
+200 - vassal: d_adreph - Title given to 1001033 - Primary title: k_tya
+200 - sub vassal: d_adreph - Title given to 1001033 - Primary title: k_tya
+200 - Holder (1001033) has gained d_adreph
+200 - vassal: d_kyoa - Made vassal of neighbour (k_rutolas) due to being a seperate island
+200 - sub vassal: d_kyoa - Made vassal of neighbour (k_rutolas) due to being a seperate island
+200 - Lost vassal: d_kyoa
+200 - vassal: d_tisasil - Made vassal of neighbour (k_rutolas) due to being a seperate island
+200 - sub vassal: d_tisasil - Made vassal of neighbour (k_rutolas) due to being a seperate island
+200 - Lost vassal: d_tisasil
+203 - Holder 1000569 - Primary title: k_tya has lost the title: k_tya
+203 - Title given to 1000569 - Primary title: d_keirona
+203 - vassal: d_keirona - Holder (1000569) has gained k_tya
+203 - sub vassal: d_keirona - Holder (1000569) has gained k_tya
+203 - sub vassal: c_kigona - Setting to vassal of d_adreph in Validate Realm
+203 - vassal: d_keirona - Lost vassal: c_kigona
+203 - sub vassal: d_keirona - Lost vassal: c_kigona
+203 - vassal: d_adreph - Gained vassal: c_kigona
+203 - sub vassal: d_adreph - Gained vassal: c_kigona
+203 - vassal: d_adreph - Holder 1000569 - Primary title: d_adreph has lost the title: d_adreph
+203 - sub vassal: d_adreph - Holder 1000569 - Primary title: d_adreph has lost the title: d_adreph
+203 - vassal: d_adreph - Title given to 1000569 - Primary title: k_tya
+203 - sub vassal: d_adreph - Title given to 1000569 - Primary title: k_tya
+203 - Holder (1000569) has gained d_adreph
+203 - sub vassal: c_kigona - Holder 1000569 - Primary title: c_kigona has lost the title: c_kigona
+203 - sub vassal: c_kigona - Title given to 1000569 - Primary title: k_tya
+203 - Holder (1000569) has gained c_kigona
+219 - Holder 1002659 - Primary title: k_tya has lost the title: k_tya
+219 - Title given to 1002659
+219 - vassal: d_keirona - Holder 1002659 - Primary title: d_keirona has lost the title: d_keirona
+219 - sub vassal: d_keirona - Holder 1002659 - Primary title: d_keirona has lost the title: d_keirona
+219 - vassal: d_keirona - Title given to 1002659 - Primary title: k_tya
+219 - sub vassal: d_keirona - Title given to 1002659 - Primary title: k_tya
+219 - Holder (1002659) has gained d_keirona
+219 - sub vassal: c_rigoet - Setting to vassal of d_adreph in Validate Realm
+219 - vassal: d_keirona - Lost vassal: c_rigoet
+219 - sub vassal: d_keirona - Lost vassal: c_rigoet
+219 - sub vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+219 - vassal: d_keirona - Lost vassal: c_safiah
+219 - sub vassal: d_keirona - Lost vassal: c_safiah
+219 - vassal: d_adreph - Gained vassal: c_safiah
+219 - sub vassal: d_adreph - Gained vassal: c_safiah
+219 - vassal: d_adreph - Gained vassal: c_rigoet
+219 - sub vassal: d_adreph - Gained vassal: c_rigoet
+219 - vassal: d_adreph - Holder 1002659 - Primary title: d_adreph has lost the title: c_rigoet
+219 - sub vassal: d_adreph - Holder 1002659 - Primary title: d_adreph has lost the title: c_rigoet
+219 - sub vassal: c_rigoet - Title given to 1002659 - Primary title: k_tya
+219 - Holder (1002659) has gained c_rigoet
+219 - sub vassal: c_rigoet - Setting to vassal of k_tya in Validate Realm
+219 - vassal: d_adreph - Lost vassal: c_rigoet
+219 - sub vassal: d_adreph - Lost vassal: c_rigoet
+219 - Gained vassal: c_rigoet
+219 - vassal: d_adreph - Holder 1002659 - Primary title: d_adreph has lost the title: c_safiah
+219 - sub vassal: d_adreph - Holder 1002659 - Primary title: d_adreph has lost the title: c_safiah
+219 - sub vassal: c_safiah - Title given to 1002659 - Primary title: k_tya
+219 - Holder (1002659) has gained c_safiah
+219 - sub vassal: c_safiah - Setting to vassal of k_tya in Validate Realm
+219 - vassal: d_adreph - Lost vassal: c_safiah
+219 - sub vassal: d_adreph - Lost vassal: c_safiah
+219 - Gained vassal: c_safiah
+219 - vassal: d_adreph - Holder 1002659 - Primary title: d_adreph has lost the title: d_adreph
+219 - sub vassal: d_adreph - Holder 1002659 - Primary title: d_adreph has lost the title: d_adreph
+219 - vassal: d_adreph - Title given to 1002659 - Primary title: k_tya
+219 - sub vassal: d_adreph - Title given to 1002659 - Primary title: k_tya
+219 - Holder (1002659) has gained d_adreph
+219 - sub vassal: c_kigona - Holder 1002659 - Primary title: c_kigona has lost the title: c_kigona
+219 - sub vassal: c_kigona - Title given to 1002659 - Primary title: k_tya
+219 - Holder (1002659) has gained c_kigona
+220 - vassal: d_keirona - Destroyed due to flagged problem
+220 - sub vassal: d_keirona - Destroyed due to flagged problem
+220 - vassal: d_keirona - Made independent
+220 - sub vassal: d_keirona - Made independent
+260 - Holder 1004990 - Primary title: k_tya has lost the title: k_tya
+260 - Title given to 1004990
+260 - vassal: d_adreph - Holder 1004990 - Primary title: d_adreph has lost the title: c_kigona
+260 - sub vassal: d_adreph - Holder 1004990 - Primary title: d_adreph has lost the title: c_kigona
+260 - sub vassal: c_kigona - Title given to 1004990 - Primary title: k_tya
+260 - Holder (1004990) has gained c_kigona
+260 - vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+260 - sub vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+260 - Lost vassal: c_safiah
+260 - vassal: c_rigoet - Setting to vassal of d_adreph in Validate Realm
+260 - sub vassal: c_rigoet - Setting to vassal of d_adreph in Validate Realm
+260 - Lost vassal: c_rigoet
+260 - sub vassal: c_kigona - Setting to vassal of k_tya in Validate Realm
+260 - vassal: d_adreph - Lost vassal: c_kigona
+260 - sub vassal: d_adreph - Lost vassal: c_kigona
+260 - Gained vassal: c_kigona
+260 - vassal: d_adreph - Gained vassal: c_rigoet
+260 - sub vassal: d_adreph - Gained vassal: c_rigoet
+260 - vassal: d_adreph - Gained vassal: c_safiah
+260 - sub vassal: d_adreph - Gained vassal: c_safiah
+260 - vassal: d_adreph - Holder 1004990 - Primary title: d_adreph has lost the title: d_adreph
+260 - sub vassal: d_adreph - Holder 1004990 - Primary title: d_adreph has lost the title: d_adreph
+260 - vassal: d_adreph - Title given to 1004990 - Primary title: k_tya
+260 - sub vassal: d_adreph - Title given to 1004990 - Primary title: k_tya
+260 - Holder (1004990) has gained d_adreph
+260 - sub vassal: c_safiah - Holder 1004990 - Primary title: c_safiah has lost the title: c_safiah
+260 - sub vassal: c_safiah - Title given to 1004990 - Primary title: k_tya
+260 - Holder (1004990) has gained c_safiah
+260 - sub vassal: c_rigoet - Holder 1004990 - Primary title: c_rigoet has lost the title: c_rigoet
+260 - sub vassal: c_rigoet - Title given to 1004990 - Primary title: k_tya
+260 - Holder (1004990) has gained c_rigoet
+290 - Holder 1005983 - Primary title: k_tya has lost the title: k_tya
+290 - Title given to 1005983
+290 - vassal: d_adreph - Holder 1005983 - Primary title: d_adreph has lost the title: c_rigoet
+290 - sub vassal: d_adreph - Holder 1005983 - Primary title: d_adreph has lost the title: c_rigoet
+290 - sub vassal: c_rigoet - Title given to 1005983 - Primary title: k_tya
+290 - Holder (1005983) has gained c_rigoet
+290 - vassal: c_kigona - Setting to vassal of d_adreph in Validate Realm
+290 - sub vassal: c_kigona - Setting to vassal of d_adreph in Validate Realm
+290 - Lost vassal: c_kigona
+290 - sub vassal: c_rigoet - Setting to vassal of k_tya in Validate Realm
+290 - vassal: d_adreph - Lost vassal: c_rigoet
+290 - sub vassal: d_adreph - Lost vassal: c_rigoet
+290 - Gained vassal: c_rigoet
+290 - vassal: d_adreph - Gained vassal: c_kigona
+290 - sub vassal: d_adreph - Gained vassal: c_kigona
+290 - vassal: d_adreph - Holder 1005983 - Primary title: d_adreph has lost the title: c_safiah
+290 - sub vassal: d_adreph - Holder 1005983 - Primary title: d_adreph has lost the title: c_safiah
+290 - sub vassal: c_safiah - Title given to 1005983 - Primary title: k_tya
+290 - Holder (1005983) has gained c_safiah
+290 - sub vassal: c_safiah - Setting to vassal of k_tya in Validate Realm
+290 - vassal: d_adreph - Lost vassal: c_safiah
+290 - sub vassal: d_adreph - Lost vassal: c_safiah
+290 - Gained vassal: c_safiah
+290 - vassal: d_adreph - Holder 1005983 - Primary title: d_adreph has lost the title: d_adreph
+290 - sub vassal: d_adreph - Holder 1005983 - Primary title: d_adreph has lost the title: d_adreph
+290 - vassal: d_adreph - Title given to 1005983 - Primary title: k_tya
+290 - sub vassal: d_adreph - Title given to 1005983 - Primary title: k_tya
+290 - Holder (1005983) has gained d_adreph
+290 - sub vassal: c_kigona - Holder 1005983 - Primary title: c_kigona has lost the title: c_kigona
+290 - sub vassal: c_kigona - Title given to 1005983 - Primary title: k_tya
+290 - Holder (1005983) has gained c_kigona
+298 - Holder 1006779 - Primary title: k_tya has lost the title: k_tya
+298 - Title given to 1006779
+298 - vassal: d_adreph - Holder 1006779 - Primary title: d_adreph has lost the title: c_rigoet
+298 - sub vassal: d_adreph - Holder 1006779 - Primary title: d_adreph has lost the title: c_rigoet
+298 - vassal: c_rigoet - Title given to 1006779 - Primary title: k_tya
+298 - sub vassal: c_rigoet - Title given to 1006779 - Primary title: k_tya
+298 - Holder (1006779) has gained c_rigoet
+298 - vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+298 - sub vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+298 - Lost vassal: c_safiah
+298 - vassal: d_adreph - Gained vassal: c_safiah
+298 - sub vassal: d_adreph - Gained vassal: c_safiah
+298 - vassal: d_adreph - Holder 1006779 - Primary title: d_adreph has lost the title: c_safiah
+298 - sub vassal: d_adreph - Holder 1006779 - Primary title: d_adreph has lost the title: c_safiah
+298 - sub vassal: c_safiah - Title given to 1006779 - Primary title: k_tya
+298 - Holder (1006779) has gained c_safiah
+298 - sub vassal: c_safiah - Setting to vassal of k_tya in Validate Realm
+298 - vassal: d_adreph - Lost vassal: c_safiah
+298 - sub vassal: d_adreph - Lost vassal: c_safiah
+298 - Gained vassal: c_safiah
+298 - vassal: d_adreph - Holder 1006779 - Primary title: d_adreph has lost the title: d_adreph
+298 - sub vassal: d_adreph - Holder 1006779 - Primary title: d_adreph has lost the title: d_adreph
+298 - vassal: d_adreph - Title given to 1006779 - Primary title: k_tya
+298 - sub vassal: d_adreph - Title given to 1006779 - Primary title: k_tya
+298 - Holder (1006779) has gained d_adreph
+298 - sub vassal: c_kigona - Holder 1006779 - Primary title: c_kigona has lost the title: c_kigona
+298 - sub vassal: c_kigona - Title given to 1006779 - Primary title: k_tya
+298 - Holder (1006779) has gained c_kigona
+328 - Holder 1007824 - Primary title: k_tya has lost the title: k_tya
+328 - Title given to 1007824
+328 - vassal: d_adreph - Holder 1007824 - Primary title: d_adreph has lost the title: c_rigoet
+328 - sub vassal: d_adreph - Holder 1007824 - Primary title: d_adreph has lost the title: c_rigoet
+328 - vassal: c_rigoet - Title given to 1007824 - Primary title: k_tya
+328 - sub vassal: c_rigoet - Title given to 1007824 - Primary title: k_tya
+328 - Holder (1007824) has gained c_rigoet
+328 - vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+328 - sub vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+328 - Lost vassal: c_safiah
+328 - vassal: d_adreph - Gained vassal: c_safiah
+328 - sub vassal: d_adreph - Gained vassal: c_safiah
+328 - vassal: d_adreph - Holder 1007824 - Primary title: d_adreph has lost the title: c_safiah
+328 - sub vassal: d_adreph - Holder 1007824 - Primary title: d_adreph has lost the title: c_safiah
+328 - sub vassal: c_safiah - Title given to 1007824 - Primary title: k_tya
+328 - Holder (1007824) has gained c_safiah
+328 - sub vassal: c_safiah - Setting to vassal of k_tya in Validate Realm
+328 - vassal: d_adreph - Lost vassal: c_safiah
+328 - sub vassal: d_adreph - Lost vassal: c_safiah
+328 - Gained vassal: c_safiah
+328 - vassal: d_adreph - Holder 1007824 - Primary title: d_adreph has lost the title: d_adreph
+328 - sub vassal: d_adreph - Holder 1007824 - Primary title: d_adreph has lost the title: d_adreph
+328 - vassal: d_adreph - Title given to 1007824 - Primary title: k_tya
+328 - sub vassal: d_adreph - Title given to 1007824 - Primary title: k_tya
+328 - Holder (1007824) has gained d_adreph
+328 - sub vassal: c_kigona - Holder 1007824 - Primary title: c_kigona has lost the title: c_kigona
+328 - sub vassal: c_kigona - Title given to 1007824 - Primary title: k_tya
+328 - Holder (1007824) has gained c_kigona
+330 - Gained vassal: d_kyoa
+330 - vassal: d_kyoa - Given to neighbour holder of k_tya
+330 - sub vassal: d_kyoa - Given to neighbour holder of k_tya
+330 - vassal: d_kyoa - Holder 1007824 - Primary title: d_kyoa has lost the title: d_kyoa
+330 - sub vassal: d_kyoa - Holder 1007824 - Primary title: d_kyoa has lost the title: d_kyoa
+330 - vassal: d_kyoa - Title given to 1007824 - Primary title: k_tya
+330 - sub vassal: d_kyoa - Title given to 1007824 - Primary title: k_tya
+330 - Holder (1007824) has gained d_kyoa
+330 - Gained vassal: d_tisasil
+330 - vassal: d_tisasil - Given to neighbour holder of k_tya
+330 - sub vassal: d_tisasil - Given to neighbour holder of k_tya
+330 - vassal: d_tisasil - Holder 1007824 - Primary title: d_tisasil has lost the title: d_tisasil
+330 - sub vassal: d_tisasil - Holder 1007824 - Primary title: d_tisasil has lost the title: d_tisasil
+330 - vassal: d_tisasil - Title given to 1007824 - Primary title: k_tya
+330 - sub vassal: d_tisasil - Title given to 1007824 - Primary title: k_tya
+330 - Holder (1007824) has gained d_tisasil
+330 - sub vassal: c_bigoros - Given to 1008605 in HandleTitles - Too many duke titles
+330 - sub vassal: c_werasil - Holder 1008605 - Primary title: c_werasil has lost the title: c_bigoros
+330 - sub vassal: c_bigoros - Title given to 1008605
+330 - Holder 1008605 - Primary title: k_tya has lost the title: d_kyoa
+330 - vassal: d_kyoa - Title given to 1008605 - Primary title: c_bigoros
+330 - sub vassal: d_kyoa - Title given to 1008605 - Primary title: c_bigoros
+330 - sub vassal: c_bigoros - Holder (1008605) has gained d_kyoa
+330 - vassal: d_kyoa - Too many dukes, given to dejure: k_tya
+330 - sub vassal: d_kyoa - Too many dukes, given to dejure: k_tya
+331 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+331 - Lost vassal: c_qabine
+331 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+331 - Lost vassal: c_laren
+332 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+332 - Lost vassal: c_qabine
+332 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+332 - Lost vassal: c_laren
+333 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+333 - Lost vassal: c_qabine
+333 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+333 - Lost vassal: c_laren
+334 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+334 - Lost vassal: c_qabine
+334 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+334 - Lost vassal: c_laren
+335 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+335 - Lost vassal: c_qabine
+335 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+335 - Lost vassal: c_laren
+335 - vassal: d_kyoa - Holder 1008844 - Primary title: d_kyoa has lost the title: d_kyoa
+335 - sub vassal: d_kyoa - Holder 1008844 - Primary title: d_kyoa has lost the title: d_kyoa
+335 - vassal: d_kyoa - Title given to 1008844
+335 - sub vassal: d_kyoa - Title given to 1008844
+335 - sub vassal: c_bigoros - Holder 1008844 - Primary title: c_bigoros has lost the title: c_bigoros
+335 - sub vassal: c_bigoros - Title given to 1008844 - Primary title: d_kyoa
+335 - vassal: d_kyoa - Holder (1008844) has gained c_bigoros
+335 - sub vassal: d_kyoa - Holder (1008844) has gained c_bigoros
+336 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+336 - Lost vassal: c_qabine
+336 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+336 - Lost vassal: c_laren
+337 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+337 - Lost vassal: c_qabine
+337 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+337 - Lost vassal: c_laren
+338 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+338 - Lost vassal: c_qabine
+338 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+338 - Lost vassal: c_laren
+339 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+339 - Lost vassal: c_qabine
+339 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+339 - Lost vassal: c_laren
+355 - vassal: d_kyoa - Holder 1009009 - Primary title: d_kyoa has lost the title: d_kyoa
+355 - sub vassal: d_kyoa - Holder 1009009 - Primary title: d_kyoa has lost the title: d_kyoa
+355 - vassal: d_kyoa - Title given to 1009009
+355 - sub vassal: d_kyoa - Title given to 1009009
+355 - sub vassal: c_bigoros - Holder 1009009 - Primary title: c_bigoros has lost the title: c_bigoros
+355 - sub vassal: c_bigoros - Title given to 1009009 - Primary title: d_kyoa
+355 - vassal: d_kyoa - Holder (1009009) has gained c_bigoros
+355 - sub vassal: d_kyoa - Holder (1009009) has gained c_bigoros
+355 - Holder 1009186 - Primary title: k_tya has lost the title: k_tya
+355 - Title given to 1009186
+355 - vassal: d_tisasil - Holder 1009186 - Primary title: d_tisasil has lost the title: d_tisasil
+355 - sub vassal: d_tisasil - Holder 1009186 - Primary title: d_tisasil has lost the title: d_tisasil
+355 - vassal: d_tisasil - Title given to 1009186 - Primary title: k_tya
+355 - sub vassal: d_tisasil - Title given to 1009186 - Primary title: k_tya
+355 - Holder (1009186) has gained d_tisasil
+355 - vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+355 - sub vassal: c_safiah - Setting to vassal of d_adreph in Validate Realm
+355 - Lost vassal: c_safiah
+355 - vassal: c_rigoet - Setting to vassal of d_adreph in Validate Realm
+355 - sub vassal: c_rigoet - Setting to vassal of d_adreph in Validate Realm
+355 - Lost vassal: c_rigoet
+355 - vassal: d_adreph - Gained vassal: c_rigoet
+355 - sub vassal: d_adreph - Gained vassal: c_rigoet
+355 - vassal: d_adreph - Gained vassal: c_safiah
+355 - sub vassal: d_adreph - Gained vassal: c_safiah
+355 - vassal: d_adreph - Holder 1009186 - Primary title: d_adreph has lost the title: c_kigona
+355 - sub vassal: d_adreph - Holder 1009186 - Primary title: d_adreph has lost the title: c_kigona
+355 - sub vassal: c_kigona - Title given to 1009186 - Primary title: k_tya
+355 - Holder (1009186) has gained c_kigona
+355 - sub vassal: c_kigona - Setting to vassal of k_tya in Validate Realm
+355 - vassal: d_adreph - Lost vassal: c_kigona
+355 - sub vassal: d_adreph - Lost vassal: c_kigona
+355 - Gained vassal: c_kigona
+355 - vassal: d_adreph - Holder 1009186 - Primary title: d_adreph has lost the title: d_adreph
+355 - sub vassal: d_adreph - Holder 1009186 - Primary title: d_adreph has lost the title: d_adreph
+355 - vassal: d_adreph - Title given to 1009186 - Primary title: k_tya
+355 - sub vassal: d_adreph - Title given to 1009186 - Primary title: k_tya
+355 - Holder (1009186) has gained d_adreph
+355 - sub vassal: c_safiah - Holder 1009186 - Primary title: c_safiah has lost the title: c_safiah
+355 - sub vassal: c_safiah - Title given to 1009186 - Primary title: k_tya
+355 - Holder (1009186) has gained c_safiah
+355 - sub vassal: c_rigoet - Holder 1009186 - Primary title: c_rigoet has lost the title: c_rigoet
+355 - sub vassal: c_rigoet - Title given to 1009186 - Primary title: k_tya
+355 - Holder (1009186) has gained c_rigoet
+360 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+360 - Lost vassal: c_qabine
+360 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+360 - Lost vassal: c_laren
+361 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+361 - Lost vassal: c_qabine
+361 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+361 - Lost vassal: c_laren
+362 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+362 - Lost vassal: c_qabine
+362 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+362 - Lost vassal: c_laren
+363 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+363 - Lost vassal: c_qabine
+363 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+363 - Lost vassal: c_laren
+364 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+364 - Lost vassal: c_qabine
+364 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+364 - Lost vassal: c_laren
+365 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+365 - Lost vassal: c_qabine
+365 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+365 - Lost vassal: c_laren
+366 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+366 - Lost vassal: c_qabine
+366 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+366 - Lost vassal: c_laren
+367 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+367 - Lost vassal: c_qabine
+367 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+367 - Lost vassal: c_laren
+368 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+368 - Lost vassal: c_qabine
+368 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+368 - Lost vassal: c_laren
+369 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+369 - Lost vassal: c_qabine
+369 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+369 - Lost vassal: c_laren
+370 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+370 - Lost vassal: c_qabine
+370 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+370 - Lost vassal: c_laren
+370 - vassal: d_kyoa - Holder 1009856 - Primary title: d_kyoa has lost the title: d_kyoa
+370 - sub vassal: d_kyoa - Holder 1009856 - Primary title: d_kyoa has lost the title: d_kyoa
+370 - vassal: d_kyoa - Title given to 1009856
+370 - sub vassal: d_kyoa - Title given to 1009856
+370 - sub vassal: c_bigoros - Holder 1009856 - Primary title: c_bigoros has lost the title: c_bigoros
+370 - sub vassal: c_bigoros - Title given to 1009856 - Primary title: d_kyoa
+370 - vassal: d_kyoa - Holder (1009856) has gained c_bigoros
+370 - sub vassal: d_kyoa - Holder (1009856) has gained c_bigoros
+371 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+371 - Lost vassal: c_qabine
+371 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+371 - Lost vassal: c_laren
+372 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+372 - Lost vassal: c_qabine
+372 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+372 - Lost vassal: c_laren
+373 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+373 - Lost vassal: c_qabine
+373 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+373 - Lost vassal: c_laren
+374 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+374 - Lost vassal: c_qabine
+374 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+374 - Lost vassal: c_laren
+375 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+375 - Lost vassal: c_qabine
+375 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+375 - Lost vassal: c_laren
+376 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+376 - Lost vassal: c_qabine
+376 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+376 - Lost vassal: c_laren
+377 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+377 - Lost vassal: c_qabine
+377 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+377 - Lost vassal: c_laren
+378 - vassa

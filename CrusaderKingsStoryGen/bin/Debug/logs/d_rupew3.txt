@@ -1,0 +1,355 @@
+200 - Title given to 1000500
+200 - vassal: c_remistof - Given to 1000503 via AddCharacterForTitle
+200 - sub vassal: c_remistof - Given to 1000503 via AddCharacterForTitle
+200 - vassal: c_remistof - Holder 1000503 - Primary title: c_remistof has lost the title: c_remistof
+200 - sub vassal: c_remistof - Holder 1000503 - Primary title: c_remistof has lost the title: c_remistof
+200 - vassal: c_remistof - Title given to 1000503
+200 - sub vassal: c_remistof - Title given to 1000503
+200 - vassal: c_ajuloet - Holder 1000488 - Primary title: c_ajuloet has lost the title: c_kisamba
+200 - sub vassal: c_ajuloet - Holder 1000488 - Primary title: c_ajuloet has lost the title: c_kisamba
+200 - sub vassal: c_kisamba - Title given to 1000488 - Primary title: d_loaneri
+200 - vassal: c_ajuloet - Holder 1000492 - Primary title: c_ajuloet has lost the title: c_tagabha
+200 - sub vassal: c_ajuloet - Holder 1000492 - Primary title: c_ajuloet has lost the title: c_tagabha
+200 - sub vassal: c_tagabha - Title given to 1000492 - Primary title: d_damba
+200 - vassal: c_ajuloet - Holder 1000496 - Primary title: c_ajuloet has lost the title: c_kulolf
+200 - sub vassal: c_ajuloet - Holder 1000496 - Primary title: c_ajuloet has lost the title: c_kulolf
+200 - sub vassal: c_kulolf - Title given to 1000496 - Primary title: d_namba
+200 - vassal: c_ajuloet - Holder 1000496 - Primary title: c_ajuloet has lost the title: c_keupamba
+200 - sub vassal: c_ajuloet - Holder 1000496 - Primary title: c_ajuloet has lost the title: c_keupamba
+200 - sub vassal: c_keupamba - Title given to 1000496 - Primary title: d_namba
+200 - vassal: c_alasoka - Holder 1000500 - Primary title: c_alasoka has lost the title: c_alasoka
+200 - sub vassal: c_alasoka - Holder 1000500 - Primary title: c_alasoka has lost the title: c_alasoka
+200 - vassal: c_alasoka - Title given to 1000500 - Primary title: d_rupew
+200 - sub vassal: c_alasoka - Title given to 1000500 - Primary title: d_rupew
+200 - Holder (1000500) has gained c_alasoka
+200 - vassal: c_remistof - Holder 1000500 - Primary title: c_remistof has lost the title: c_remistof
+200 - sub vassal: c_remistof - Holder 1000500 - Primary title: c_remistof has lost the title: c_remistof
+200 - vassal: c_remistof - Title given to 1000500 - Primary title: d_rupew
+200 - sub vassal: c_remistof - Title given to 1000500 - Primary title: d_rupew
+200 - Holder (1000500) has gained c_remistof
+200 - vassal: c_ajuloet - Holder 1000500 - Primary title: c_ajuloet has lost the title: c_ajuloet
+200 - sub vassal: c_ajuloet - Holder 1000500 - Primary title: c_ajuloet has lost the title: c_ajuloet
+200 - vassal: c_ajuloet - Title given to 1000500 - Primary title: d_rupew
+200 - sub vassal: c_ajuloet - Title given to 1000500 - Primary title: d_rupew
+200 - Holder (1000500) has gained c_ajuloet
+200 - Holder 1001030 - Primary title: d_rupew has lost the title: d_rupew
+200 - Title given to 1001030 - Primary title: k_rutolas
+200 - vassal: c_alasoka - Holder 1001030 - Primary title: c_alasoka has lost the title: c_alasoka
+200 - vassal: c_alasoka - Title given to 1001030 - Primary title: k_rutolas
+201 - vassal: c_remistof - Given to 1001535 in HandleTitles - Too many duke titles
+201 - vassal: c_remistof - Holder 1001535 - Primary title: c_remistof has lost the title: c_remistof
+201 - vassal: c_remistof - Title given to 1001535
+201 - Title given to 1001535 - Primary title: c_remistof
+201 - vassal: c_remistof - Holder (1001535) has gained d_rupew
+201 - vassal: c_alasoka - Setting to vassal of k_rutolas in Validate Realm
+201 - Lost vassal: c_alasoka
+201 - Too many dukes, given to dejure: k_rutolas
+202 - Holder 1000449 - Primary title: d_rupew has lost the title: d_rupew
+202 - Title given to 1000449 - Primary title: d_setistof
+202 - vassal: c_remistof - Holder 1000449 - Primary title: c_remistof has lost the title: c_remistof
+202 - vassal: c_remistof - Title given to 1000449 - Primary title: d_setistof
+203 - Holder 1001666 - Primary title: d_rupew has lost the title: c_nopius
+226 - vassal: c_remistof - Given to 1003052 in HandleTitles - Too many duke titles
+226 - vassal: c_remistof - Title given to 1003052
+226 - Title given to 1000476 - Primary title: k_rutolas
+226 - Too many dukes, made direct title into vassal of k_rutolas
+226 - Title given to 1003053
+245 - Holder 1003172 - Primary title: d_rupew has lost the title: d_rupew
+245 - Title given to 1003172
+252 - Holder 1004252 - Primary title: d_rupew has lost the title: d_rupew
+252 - Title given to 1004252
+280 - Holder 1004468 - Primary title: d_rupew has lost the title: d_rupew
+280 - Title given to 1004468 - Primary title: d_sarura
+300 - vassal: c_ajuloet - Holder 1004468 - Primary title: c_ajuloet has lost the title: c_ajuloet
+300 - vassal: c_ajuloet - Title given to 1004468 - Primary title: d_rupew
+300 - Holder (1004468) has gained c_ajuloet
+309 - Gained vassal: c_tabine
+309 - Gained vassal: c_weniana
+309 - Gained vassal: c_rohn
+309 - Gained vassal: c_natok
+309 - Holder 1006167 - Primary title: d_rupew has lost the title: d_rupew
+309 - Title given to 1006167 - Primary title: d_sarura
+309 - vassal: c_natok - Holder 1006167 - Primary title: c_natok has lost the title: c_natok
+309 - vassal: c_natok - Title given to 1006167 - Primary title: d_sarura
+309 - vassal: c_rohn - Holder 1006167 - Primary title: c_rohn has lost the title: c_rohn
+309 - vassal: c_rohn - Title given to 1006167 - Primary title: d_sarura
+309 - vassal: c_weniana - Holder 1006167 - Primary title: c_weniana has lost the title: c_weniana
+309 - vassal: c_weniana - Title given to 1006167 - Primary title: d_sarura
+309 - vassal: c_ajuloet - Holder 1006167 - Primary title: c_ajuloet has lost the title: c_ajuloet
+309 - vassal: c_ajuloet - Title given to 1006167 - Primary title: d_sarura
+309 - vassal: c_tabine - Holder 1006167 - Primary title: c_tabine has lost the title: c_tabine
+309 - vassal: c_tabine - Title given to 1006167 - Primary title: d_sarura
+310 - vassal: c_natok - Title given to 1007565
+328 - Gained vassal: c_rerans
+328 - Holder 1007679 - Primary title: d_rupew has lost the title: d_rupew
+328 - Title given to 1007679 - Primary title: d_sarura
+328 - vassal: c_tabine - Holder 1007679 - Primary title: c_tabine has lost the title: c_tabine
+328 - vassal: c_tabine - Title given to 1007679 - Primary title: d_sarura
+328 - vassal: c_ajuloet - Holder 1007679 - Primary title: c_ajuloet has lost the title: c_ajuloet
+328 - vassal: c_ajuloet - Title given to 1007679 - Primary title: d_sarura
+328 - vassal: c_weniana - Holder 1007679 - Primary title: c_weniana has lost the title: c_weniana
+328 - vassal: c_weniana - Title given to 1007679 - Primary title: d_sarura
+328 - vassal: c_rohn - Holder 1007679 - Primary title: c_rohn has lost the title: c_rohn
+328 - vassal: c_rohn - Title given to 1007679 - Primary title: d_sarura
+328 - vassal: c_rerans - Holder 1007679 - Primary title: c_rerans has lost the title: c_rerans
+328 - vassal: c_rerans - Title given to 1007679 - Primary title: d_sarura
+330 - vassal: c_natok - Made vassal of neighbour (k_saloet) due to being a seperate island
+330 - Lost vassal: c_natok
+330 - vassal: c_tabine - Made vassal of neighbour (k_koumba) due to being a seperate island
+330 - Lost vassal: c_tabine
+330 - Gained vassal: c_tabine
+330 - Gained vassal: c_tabine
+330 - vassal: c_tabine - Given to neighbour holder of k_koumba
+330 - vassal: c_weniana - Made vassal of neighbour (k_koumba) due to being a seperate island
+330 - Lost vassal: c_weniana
+330 - Gained vassal: c_weniana
+330 - Gained vassal: c_weniana
+330 - vassal: c_weniana - Given to neighbour holder of k_koumba
+330 - vassal: c_rohn - Made vassal of neighbour (k_koumba) due to being a seperate island
+330 - Lost vassal: c_rohn
+330 - Gained vassal: c_rohn
+330 - Gained vassal: c_rohn
+330 - vassal: c_rohn - Given to neighbour holder of k_koumba
+331 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+331 - Lost vassal: c_tabine
+331 - Gained vassal: c_tabine
+331 - Gained vassal: c_tabine
+331 - vassal: c_tabine - Given to neighbour holder of k_saloet
+331 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+331 - Lost vassal: c_weniana
+331 - Gained vassal: c_weniana
+331 - Gained vassal: c_weniana
+331 - vassal: c_weniana - Given to neighbour holder of k_saloet
+331 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+331 - Lost vassal: c_rohn
+331 - Gained vassal: c_rohn
+331 - Gained vassal: c_rohn
+331 - vassal: c_rohn - Given to neighbour holder of k_saloet
+332 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+332 - Lost vassal: c_tabine
+332 - Gained vassal: c_tabine
+332 - Gained vassal: c_tabine
+332 - vassal: c_tabine - Given to neighbour holder of k_saloet
+332 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+332 - Lost vassal: c_weniana
+332 - Gained vassal: c_weniana
+332 - Gained vassal: c_weniana
+332 - vassal: c_weniana - Given to neighbour holder of k_saloet
+332 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+332 - Lost vassal: c_rohn
+332 - Gained vassal: c_rohn
+332 - Gained vassal: c_rohn
+332 - vassal: c_rohn - Given to neighbour holder of k_saloet
+333 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+333 - Lost vassal: c_tabine
+333 - Gained vassal: c_tabine
+333 - Gained vassal: c_tabine
+333 - vassal: c_tabine - Given to neighbour holder of k_saloet
+333 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+333 - Lost vassal: c_weniana
+333 - Gained vassal: c_weniana
+333 - Gained vassal: c_weniana
+333 - vassal: c_weniana - Given to neighbour holder of k_saloet
+333 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+333 - Lost vassal: c_rohn
+333 - Gained vassal: c_rohn
+333 - Gained vassal: c_rohn
+333 - vassal: c_rohn - Given to neighbour holder of k_saloet
+334 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+334 - Lost vassal: c_tabine
+334 - Gained vassal: c_tabine
+334 - Gained vassal: c_tabine
+334 - vassal: c_tabine - Given to neighbour holder of k_saloet
+334 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+334 - Lost vassal: c_weniana
+334 - Gained vassal: c_weniana
+334 - Gained vassal: c_weniana
+334 - vassal: c_weniana - Given to neighbour holder of k_saloet
+334 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+334 - Lost vassal: c_rohn
+334 - Gained vassal: c_rohn
+334 - Gained vassal: c_rohn
+334 - vassal: c_rohn - Given to neighbour holder of k_saloet
+335 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+335 - Lost vassal: c_tabine
+335 - Gained vassal: c_tabine
+335 - Gained vassal: c_tabine
+335 - vassal: c_tabine - Given to neighbour holder of k_saloet
+335 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+335 - Lost vassal: c_weniana
+335 - Gained vassal: c_weniana
+335 - Gained vassal: c_weniana
+335 - vassal: c_weniana - Given to neighbour holder of k_saloet
+335 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+335 - Lost vassal: c_rohn
+335 - Gained vassal: c_rohn
+335 - Gained vassal: c_rohn
+335 - vassal: c_rohn - Given to neighbour holder of k_saloet
+336 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+336 - Lost vassal: c_tabine
+336 - Gained vassal: c_tabine
+336 - Gained vassal: c_tabine
+336 - vassal: c_tabine - Given to neighbour holder of k_saloet
+336 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+336 - Lost vassal: c_weniana
+336 - Gained vassal: c_weniana
+336 - Gained vassal: c_weniana
+336 - vassal: c_weniana - Given to neighbour holder of k_saloet
+336 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+336 - Lost vassal: c_rohn
+336 - Gained vassal: c_rohn
+336 - Gained vassal: c_rohn
+336 - vassal: c_rohn - Given to neighbour holder of k_saloet
+337 - Holder (1007679) has gained d_sarura
+337 - vassal: c_tabine - Set liege on title creation d_sarura
+337 - Lost vassal: c_tabine
+337 - vassal: c_ajuloet - Set liege on title creation d_sarura
+337 - Lost vassal: c_ajuloet
+337 - vassal: c_weniana - Set liege on title creation d_sarura
+337 - Lost vassal: c_weniana
+337 - vassal: c_rohn - Set liege on title creation d_sarura
+337 - Lost vassal: c_rohn
+337 - vassal: c_rerans - Set liege on title creation d_sarura
+337 - Lost vassal: c_rerans
+337 - Gained vassal: c_tabine
+337 - Gained vassal: c_tabine
+337 - vassal: c_tabine - Given to neighbour holder of k_saloet
+337 - Gained vassal: c_weniana
+337 - Gained vassal: c_weniana
+337 - vassal: c_weniana - Given to neighbour holder of k_saloet
+337 - Gained vassal: c_rohn
+337 - Gained vassal: c_rohn
+337 - vassal: c_rohn - Given to neighbour holder of k_saloet
+338 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+338 - Lost vassal: c_tabine
+338 - Gained vassal: c_tabine
+338 - Gained vassal: c_tabine
+338 - vassal: c_tabine - Given to neighbour holder of k_saloet
+338 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+338 - Lost vassal: c_weniana
+338 - Gained vassal: c_weniana
+338 - Gained vassal: c_weniana
+338 - vassal: c_weniana - Given to neighbour holder of k_saloet
+338 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+338 - Lost vassal: c_rohn
+338 - Gained vassal: c_rohn
+338 - Gained vassal: c_rohn
+338 - vassal: c_rohn - Given to neighbour holder of k_saloet
+339 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+339 - Lost vassal: c_tabine
+339 - Gained vassal: c_tabine
+339 - Gained vassal: c_tabine
+339 - vassal: c_tabine - Given to neighbour holder of k_saloet
+339 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+339 - Lost vassal: c_weniana
+339 - Gained vassal: c_weniana
+339 - Gained vassal: c_weniana
+339 - vassal: c_weniana - Given to neighbour holder of k_saloet
+339 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+339 - Lost vassal: c_rohn
+339 - Gained vassal: c_rohn
+339 - Gained vassal: c_rohn
+339 - vassal: c_rohn - Given to neighbour holder of k_saloet
+340 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+340 - Lost vassal: c_rohn
+340 - Gained vassal: c_rohn
+340 - Gained vassal: c_rohn
+340 - vassal: c_rohn - Given to neighbour holder of k_saloet
+340 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+340 - Lost vassal: c_weniana
+340 - Gained vassal: c_weniana
+340 - Gained vassal: c_weniana
+340 - vassal: c_weniana - Given to neighbour holder of k_saloet
+340 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+340 - Lost vassal: c_tabine
+340 - Gained vassal: c_tabine
+340 - Gained vassal: c_tabine
+340 - vassal: c_tabine - Given to neighbour holder of k_saloet
+341 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+341 - Lost vassal: c_rohn
+341 - Gained vassal: c_rohn
+341 - Gained vassal: c_rohn
+341 - vassal: c_rohn - Given to neighbour holder of k_saloet
+341 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+341 - Lost vassal: c_weniana
+341 - Gained vassal: c_weniana
+341 - Gained vassal: c_weniana
+341 - vassal: c_weniana - Given to neighbour holder of k_saloet
+341 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+341 - Lost vassal: c_tabine
+341 - Gained vassal: c_tabine
+341 - Gained vassal: c_tabine
+341 - vassal: c_tabine - Given to neighbour holder of k_saloet
+342 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+342 - Lost vassal: c_rohn
+342 - Gained vassal: c_rohn
+342 - Gained vassal: c_rohn
+342 - vassal: c_rohn - Given to neighbour holder of k_saloet
+342 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+342 - Lost vassal: c_weniana
+342 - Gained vassal: c_weniana
+342 - Gained vassal: c_weniana
+342 - vassal: c_weniana - Given to neighbour holder of k_saloet
+342 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+342 - Lost vassal: c_tabine
+342 - Gained vassal: c_tabine
+342 - Gained vassal: c_tabine
+342 - vassal: c_tabine - Given to neighbour holder of k_saloet
+343 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+343 - Lost vassal: c_rohn
+343 - Gained vassal: c_rohn
+343 - Gained vassal: c_rohn
+343 - vassal: c_rohn - Given to neighbour holder of k_saloet
+343 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+343 - Lost vassal: c_weniana
+343 - Gained vassal: c_weniana
+343 - Gained vassal: c_weniana
+343 - vassal: c_weniana - Given to neighbour holder of k_saloet
+343 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+343 - Lost vassal: c_tabine
+343 - Gained vassal: c_tabine
+343 - Gained vassal: c_tabine
+343 - vassal: c_tabine - Given to neighbour holder of k_saloet
+344 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+344 - Lost vassal: c_rohn
+344 - Gained vassal: c_rohn
+344 - Gained vassal: c_rohn
+344 - vassal: c_rohn - Given to neighbour holder of k_saloet
+344 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+344 - Lost vassal: c_weniana
+344 - Gained vassal: c_weniana
+344 - Gained vassal: c_weniana
+344 - vassal: c_weniana - Given to neighbour holder of k_saloet
+344 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+344 - Lost vassal: c_tabine
+344 - Gained vassal: c_tabine
+344 - Gained vassal: c_tabine
+344 - vassal: c_tabine - Given to neighbour holder of k_saloet
+345 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+345 - Lost vassal: c_rohn
+345 - Gained vassal: c_rohn
+345 - Gained vassal: c_rohn
+345 - vassal: c_rohn - Given to neighbour holder of k_saloet
+345 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+345 - Lost vassal: c_weniana
+345 - Gained vassal: c_weniana
+345 - Gained vassal: c_weniana
+345 - vassal: c_weniana - Given to neighbour holder of k_saloet
+345 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+345 - Lost vassal: c_tabine
+345 - Gained vassal: c_tabine
+345 - Gained vassal: c_tabine
+345 - vassal: c_tabine - Given to neighbour holder of k_saloet
+346 - Holder (1007679) has gained d_bihka
+346 - Setting independent in Validate Realm
+346 - Made independent
+347 - vassal: c_remistof - Made independent due to being a seperate island
+347 - vassal: c_remistof - Made independent
+347 - vassal: c_rohn - Made vassal of neighbour (k_saloet) due to being a seperate island
+347 - Lost vassal: c_rohn
+347 - vassal: c_weniana - Made vassal of neighbour (k_saloet) due to being a seperate island
+347 - Lost vassal: c_weniana
+347 - vassal: c_tabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+347 - Lost vassal: c_tabine
+348 - Destroyed due to flagged problem
+348 - Title destroyed

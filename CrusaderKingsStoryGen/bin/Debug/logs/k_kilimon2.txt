@@ -1,0 +1,58 @@
+200 - Title given to 1001025
+200 - vassal: d_tairya - Holder 1001025 - Primary title: d_tairya has lost the title: c_wairick
+200 - sub vassal: d_tairya - Holder 1001025 - Primary title: d_tairya has lost the title: c_wairick
+200 - sub vassal: c_wairick - Title given to 1001025 - Primary title: k_kilimon
+200 - Holder (1001025) has gained c_wairick
+200 - vassal: d_elaudia - Holder 1001025 - Primary title: d_elaudia has lost the title: d_elaudia
+200 - sub vassal: d_elaudia - Holder 1001025 - Primary title: d_elaudia has lost the title: d_elaudia
+200 - vassal: d_elaudia - Title given to 1001025 - Primary title: k_kilimon
+200 - sub vassal: d_elaudia - Title given to 1001025 - Primary title: k_kilimon
+200 - Holder (1001025) has gained d_elaudia
+201 - vassal: d_tairya - Holder 1000275 - Primary title: d_tairya has lost the title: d_tairya
+201 - sub vassal: d_tairya - Holder 1000275 - Primary title: d_tairya has lost the title: d_tairya
+201 - vassal: d_tairya - Title given to 1000275 - Primary title: d_nikay
+201 - sub vassal: d_tairya - Title given to 1000275 - Primary title: d_nikay
+201 - vassal: d_nikay - Holder (1000275) has gained d_tairya
+201 - sub vassal: d_nikay - Holder (1000275) has gained d_tairya
+201 - sub vassal: c_wairick - Setting to vassal of k_kilimon in Validate Realm
+201 - vassal: d_tairya - Lost vassal: c_wairick
+201 - sub vassal: d_tairya - Lost vassal: c_wairick
+201 - Gained vassal: c_wairick
+201 - sub vassal: c_tamimon - Holder 1000275 - Primary title: c_tamimon has lost the title: c_tamimon
+201 - sub vassal: c_tamimon - Title given to 1000275 - Primary title: d_nikay
+201 - vassal: d_nikay - Holder (1000275) has gained c_tamimon
+201 - sub vassal: d_nikay - Holder (1000275) has gained c_tamimon
+223 - Holder 1001376 - Primary title: k_kilimon has lost the title: k_kilimon
+223 - Title given to 1001376
+223 - vassal: d_elaudia - Holder 1001376 - Primary title: d_elaudia has lost the title: c_wairick
+223 - sub vassal: d_elaudia - Holder 1001376 - Primary title: d_elaudia has lost the title: c_wairick
+223 - vassal: c_wairick - Title given to 1001376 - Primary title: k_kilimon
+223 - sub vassal: c_wairick - Title given to 1001376 - Primary title: k_kilimon
+223 - Holder (1001376) has gained c_wairick
+223 - vassal: d_elaudia - Holder 1001376 - Primary title: d_elaudia has lost the title: d_elaudia
+223 - sub vassal: d_elaudia - Holder 1001376 - Primary title: d_elaudia has lost the title: d_elaudia
+223 - vassal: d_elaudia - Title given to 1001376 - Primary title: k_kilimon
+223 - sub vassal: d_elaudia - Title given to 1001376 - Primary title: k_kilimon
+223 - Holder (1001376) has gained d_elaudia
+235 - vassal: d_nikay - Holder 1001376 - Primary title: d_nikay has lost the title: d_nikay
+235 - sub vassal: d_nikay - Holder 1001376 - Primary title: d_nikay has lost the title: d_nikay
+235 - vassal: d_nikay - Title given to 1001376 - Primary title: k_kilimon
+235 - sub vassal: d_nikay - Title given to 1001376 - Primary title: k_kilimon
+235 - Holder (1001376) has gained d_nikay
+235 - sub vassal: c_wamosse - Setting to vassal of d_tairya in Validate Realm
+235 - vassal: d_nikay - Lost vassal: c_wamosse
+235 - sub vassal: d_nikay - Lost vassal: c_wamosse
+235 - sub vassal: c_qairadg - Setting to vassal of d_tairya in Validate Realm
+235 - vassal: d_nikay - Lost vassal: c_qairadg
+235 - sub vassal: d_nikay - Lost vassal: c_qairadg
+235 - sub vassal: c_qetoc - Setting to vassal of d_tairya in Validate Realm
+235 - vassal: d_nikay - Lost vassal: c_qetoc
+235 - sub vassal: d_nikay - Lost vassal: c_qetoc
+235 - vassal: d_tairya - Gained vassal: c_qetoc
+235 - sub vassal: d_tairya - Gained vassal: c_qetoc
+235 - vassal: d_tairya - Gained vassal: c_qairadg
+235 - sub vassal: d_tairya - Gained vassal: c_qairadg
+235 - vassal: d_tairya - Gained vassal: c_wamosse
+235 - sub vassal: d_tairya - Gained vassal: c_wamosse
+235 - vassal: d_tairya - Holder 1001376 - Primary title: d_tairya has lost the title: d_tairya
+235 - sub vassal: d_tairya - Holder 1001376 - Primary title: d_tairya has lost the title

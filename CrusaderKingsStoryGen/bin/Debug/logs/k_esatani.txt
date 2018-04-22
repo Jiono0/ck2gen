@@ -1,0 +1,233 @@
+200 - Title given to 1001063
+200 - vassal: d_navifu - Holder 1001063 - Primary title: d_navifu has lost the title: c_kabifu
+200 - sub vassal: d_navifu - Holder 1001063 - Primary title: d_navifu has lost the title: c_kabifu
+200 - sub vassal: c_kabifu - Title given to 1001063 - Primary title: k_esatani
+200 - Holder (1001063) has gained c_kabifu
+201 - vassal: d_rabarak - Holder 1000805 - Primary title: d_rabarak has lost the title: d_rabarak
+201 - sub vassal: d_rabarak - Holder 1000805 - Primary title: d_rabarak has lost the title: d_rabarak
+201 - vassal: d_rabarak - Title given to 1000805 - Primary title: d_lavizi
+201 - sub vassal: d_rabarak - Title given to 1000805 - Primary title: d_lavizi
+201 - vassal: d_lavizi - Holder (1000805) has gained d_rabarak
+201 - sub vassal: d_lavizi - Holder (1000805) has gained d_rabarak
+201 - sub vassal: c_kabifu - Setting to vassal of k_esatani in Validate Realm
+201 - vassal: d_navifu - Lost vassal: c_kabifu
+201 - sub vassal: d_navifu - Lost vassal: c_kabifu
+201 - Gained vassal: c_kabifu
+201 - sub vassal: c_qulun - Holder 1000805 - Primary title: c_qulun has lost the title: c_qulun
+201 - sub vassal: c_qulun - Title given to 1000805 - Primary title: d_lavizi
+201 - vassal: d_lavizi - Holder (1000805) has gained c_qulun
+201 - sub vassal: d_lavizi - Holder (1000805) has gained c_qulun
+201 - sub vassal: c_asatyan - Holder 1000805 - Primary title: c_asatyan has lost the title: c_asatyan
+201 - sub vassal: c_asatyan - Title given to 1000805 - Primary title: d_lavizi
+201 - vassal: d_lavizi - Holder (1000805) has gained c_asatyan
+201 - sub vassal: d_lavizi - Holder (1000805) has gained c_asatyan
+201 - sub vassal: c_ravarak - Holder 1000805 - Primary title: c_ravarak has lost the title: c_ravarak
+201 - sub vassal: c_ravarak - Title given to 1000805 - Primary title: d_lavizi
+201 - vassal: d_lavizi - Holder (1000805) has gained c_ravarak
+201 - sub vassal: d_lavizi - Holder (1000805) has gained c_ravarak
+202 - vassal: d_rabarak - Holder 1001641 - Primary title: d_rabarak has lost the title: c_arinizi
+202 - sub vassal: d_rabarak - Holder 1001641 - Primary title: d_rabarak has lost the title: c_arinizi
+202 - sub vassal: c_arinizi - Title given to 1001641
+223 - Holder 1001835 - Primary title: k_esatani has lost the title: k_esatani
+223 - Title given to 1001835
+223 - vassal: c_kabifu - Holder 1001835 - Primary title: c_kabifu has lost the title: c_kabifu
+223 - sub vassal: c_kabifu - Holder 1001835 - Primary title: c_kabifu has lost the title: c_kabifu
+223 - vassal: c_kabifu - Title given to 1001835 - Primary title: k_esatani
+223 - sub vassal: c_kabifu - Title given to 1001835 - Primary title: k_esatani
+223 - Holder (1001835) has gained c_kabifu
+227 - vassal: d_navifu - Holder 1001336 - Primary title: d_navifu has lost the title: d_navifu
+227 - sub vassal: d_navifu - Holder 1001336 - Primary title: d_navifu has lost the title: d_navifu
+227 - vassal: d_navifu - Title given to 1001336
+227 - sub vassal: d_navifu - Title given to 1001336
+227 - sub vassal: c_nabodar - Holder 1001336 - Primary title: c_nabodar has lost the title: c_nabodar
+227 - sub vassal: c_nabodar - Title given to 1001336 - Primary title: d_navifu
+227 - vassal: d_navifu - Holder (1001336) has gained c_nabodar
+227 - sub vassal: d_navifu - Holder (1001336) has gained c_nabodar
+227 - sub vassal: c_kokor - Holder 1001336 - Primary title: c_kokor has lost the title: c_kokor
+227 - sub vassal: c_kokor - Title given to 1001336 - Primary title: d_navifu
+227 - vassal: d_navifu - Holder (1001336) has gained c_kokor
+227 - sub vassal: d_navifu - Holder (1001336) has gained c_kokor
+235 - vassal: d_rabarak - Holder 1001336 - Primary title: d_rabarak has lost the title: d_rabarak
+235 - sub vassal: d_rabarak - Holder 1001336 - Primary title: d_rabarak has lost the title: d_rabarak
+235 - vassal: d_rabarak - Title given to 1001336 - Primary title: d_navifu
+235 - sub vassal: d_rabarak - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: d_navifu - Holder (1001336) has gained d_rabarak
+235 - sub vassal: d_navifu - Holder (1001336) has gained d_rabarak
+235 - sub vassal: c_ravarak - Setting to vassal of d_lavizi in Validate Realm
+235 - vassal: d_rabarak - Lost vassal: c_ravarak
+235 - sub vassal: d_rabarak - Lost vassal: c_ravarak
+235 - sub vassal: c_asatyan - Setting to vassal of d_lavizi in Validate Realm
+235 - vassal: d_rabarak - Lost vassal: c_asatyan
+235 - sub vassal: d_rabarak - Lost vassal: c_asatyan
+235 - sub vassal: c_qulun - Setting to vassal of d_lavizi in Validate Realm
+235 - vassal: d_rabarak - Lost vassal: c_qulun
+235 - sub vassal: d_rabarak - Lost vassal: c_qulun
+235 - vassal: d_lavizi - Gained vassal: c_qulun
+235 - sub vassal: d_lavizi - Gained vassal: c_qulun
+235 - vassal: d_lavizi - Gained vassal: c_asatyan
+235 - sub vassal: d_lavizi - Gained vassal: c_asatyan
+235 - vassal: d_lavizi - Gained vassal: c_ravarak
+235 - sub vassal: d_lavizi - Gained vassal: c_ravarak
+235 - vassal: d_lavizi - Holder 1001336 - Primary title: d_lavizi has lost the title: d_lavizi
+235 - sub vassal: d_lavizi - Holder 1001336 - Primary title: d_lavizi has lost the title: d_lavizi
+235 - vassal: d_lavizi - Title given to 1001336 - Primary title: d_navifu
+235 - sub vassal: d_lavizi - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: d_navifu - Holder (1001336) has gained d_lavizi
+235 - sub vassal: d_navifu - Holder (1001336) has gained d_lavizi
+235 - sub vassal: c_ravarak - Holder 1001336 - Primary title: c_ravarak has lost the title: c_ravarak
+235 - sub vassal: c_ravarak - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: d_navifu - Holder (1001336) has gained c_ravarak
+235 - sub vassal: d_navifu - Holder (1001336) has gained c_ravarak
+235 - sub vassal: c_asatyan - Holder 1001336 - Primary title: c_asatyan has lost the title: c_asatyan
+235 - sub vassal: c_asatyan - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: d_navifu - Holder (1001336) has gained c_asatyan
+235 - sub vassal: d_navifu - Holder (1001336) has gained c_asatyan
+235 - sub vassal: c_qulun - Holder 1001336 - Primary title: c_qulun has lost the title: c_qulun
+235 - sub vassal: c_qulun - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: d_navifu - Holder (1001336) has gained c_qulun
+235 - sub vassal: d_navifu - Holder (1001336) has gained c_qulun
+235 - sub vassal: c_kenayan - Holder 1001336 - Primary title: c_kenayan has lost the title: c_kenayan
+235 - sub vassal: c_kenayan - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: d_navifu - Holder (1001336) has gained c_kenayan
+235 - sub vassal: d_navifu - Holder (1001336) has gained c_kenayan
+235 - sub vassal: c_tucodar - Holder 1001336 - Primary title: c_tucodar has lost the title: c_tucodar
+235 - sub vassal: c_tucodar - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: d_navifu - Holder (1001336) has gained c_tucodar
+235 - sub vassal: d_navifu - Holder (1001336) has gained c_tucodar
+236 - vassal: d_rabarak - Destroyed due to flagged problem
+236 - sub vassal: d_rabarak - Destroyed due to flagged problem
+236 - vassal: d_rabarak - Made independent
+236 - sub vassal: d_rabarak - Made independent
+236 - vassal: d_navifu - Holder (1001336) has gained d_rabarak
+236 - sub vassal: d_navifu - Holder (1001336) has gained d_rabarak
+236 - Gained vassal: d_rabarak
+236 - vassal: d_rabarak - Made independent for title creation d_rabarak for d_navifu
+236 - sub vassal: d_rabarak - Made independent for title creation d_rabarak for d_navifu
+236 - vassal: d_rabarak - Made independent
+236 - sub vassal: d_rabarak - Made independent
+236 - sub vassal: c_nabodar - Set liege on title creation d_rabarak
+236 - vassal: d_navifu - Lost vassal: c_nabodar
+236 - sub vassal: d_navifu - Lost vassal: c_nabodar
+236 - sub vassal: c_kokor - Set liege on title creation d_rabarak
+236 - vassal: d_navifu - Lost vassal: c_kokor
+236 - sub vassal: d_navifu - Lost vassal: c_kokor
+236 - sub vassal: c_ravarak - Set liege on title creation d_rabarak
+236 - vassal: d_lavizi - Lost vassal: c_ravarak
+236 - sub vassal: d_lavizi - Lost vassal: c_ravarak
+236 - sub vassal: c_asatyan - Set liege on title creation d_rabarak
+236 - vassal: d_lavizi - Lost vassal: c_asatyan
+236 - sub vassal: d_lavizi - Lost vassal: c_asatyan
+236 - sub vassal: c_qulun - Set liege on title creation d_rabarak
+236 - vassal: d_lavizi - Lost vassal: c_qulun
+236 - sub vassal: d_lavizi - Lost vassal: c_qulun
+236 - sub vassal: c_kenayan - Set liege on title creation d_rabarak
+236 - vassal: d_lavizi - Lost vassal: c_kenayan
+236 - sub vassal: d_lavizi - Lost vassal: c_kenayan
+236 - sub vassal: c_tucodar - Set liege on title creation d_rabarak
+236 - vassal: d_lavizi - Lost vassal: c_tucodar
+236 - sub vassal: d_lavizi - Lost vassal: c_tucodar
+236 - sub vassal: c_nabodar - Given to 1003773 in HandleTitles - Too many duke titles
+236 - vassal: d_navifu - Holder 1003773 - Primary title: d_navifu has lost the title: c_nabodar
+236 - sub vassal: d_navifu - Holder 1003773 - Primary title: d_navifu has lost the title: c_nabodar
+236 - sub vassal: c_nabodar - Title given to 1003773
+236 - vassal: d_navifu - Holder 1001835 - Primary title: d_navifu has lost the title: d_navifu
+236 - sub vassal: d_navifu - Holder 1001835 - Primary title: d_navifu has lost the title: d_navifu
+236 - vassal: d_navifu - Title given to 1001835 - Primary title: k_esatani
+236 - sub vassal: d_navifu - Title given to 1001835 - Primary title: k_esatani
+236 - Holder (1001835) has gained d_navifu
+236 - vassal: d_navifu - Too many dukes, made direct title into vassal of k_esatani
+236 - sub vassal: d_navifu - Too many dukes, made direct title into vassal of k_esatani
+236 - Holder 1003774 - Primary title: k_esatani has lost the title: d_navifu
+236 - vassal: d_navifu - Title given to 1003774
+236 - sub vassal: d_navifu - Title given to 1003774
+236 - sub vassal: c_arinizi - Holder 1001336 - Primary title: c_arinizi has lost the title: c_arinizi
+236 - sub vassal: c_arinizi - Title given to 1001336 - Primary title: d_lavizi
+236 - vassal: d_lavizi - Holder (1001336) has gained c_arinizi
+236 - sub vassal: d_lavizi - Holder (1001336) has gained c_arinizi
+236 - vassal: d_lavizi - Holder 1003775 - Primary title: d_lavizi has lost the title: c_ravarak
+236 - sub vassal: d_lavizi - Holder 1003775 - Primary title: d_lavizi has lost the title: c_ravarak
+236 - sub vassal: c_ravarak - Title given to 1003775
+236 - vassal: d_lavizi - Holder 1003776 - Primary title: d_lavizi has lost the title: c_kenayan
+236 - sub vassal: d_lavizi - Holder 1003776 - Primary title: d_lavizi has lost the title: c_kenayan
+236 - sub vassal: c_kenayan - Title given to 1003776
+237 - vassal: d_navifu - Destroyed due to flagged problem
+237 - sub vassal: d_navifu - Destroyed due to flagged problem
+237 - vassal: d_navifu - Made independent
+237 - sub vassal: d_navifu - Made independent
+259 - Holder 1003498 - Primary title: k_esatani has lost the title: k_esatani
+259 - Title given to 1003498
+259 - vassal: c_kabifu - Holder 1003498 - Primary title: c_kabifu has lost the title: c_kabifu
+259 - sub vassal: c_kabifu - Holder 1003498 - Primary title: c_kabifu has lost the title: c_kabifu
+259 - vassal: c_kabifu - Title given to 1003498 - Primary title: k_esatani
+259 - sub vassal: c_kabifu - Title given to 1003498 - Primary title: k_esatani
+259 - Holder (1003498) has gained c_kabifu
+264 - vassal: d_lavizi - Holder (1001336) has gained d_navifu
+264 - sub vassal: d_lavizi - Holder (1001336) has gained d_navifu
+264 - Gained vassal: d_navifu
+264 - vassal: d_navifu - Made independent for title creation d_navifu for d_lavizi
+264 - sub vassal: d_navifu - Made independent for title creation d_navifu for d_lavizi
+264 - vassal: d_navifu - Made independent
+264 - sub vassal: d_navifu - Made independent
+264 - sub vassal: c_kokor - Set liege on title creation d_navifu
+264 - sub vassal: c_asatyan - Set liege on title creation d_navifu
+264 - sub vassal: c_qulun - Set liege on title creation d_navifu
+264 - sub vassal: c_tucodar - Set liege on title creation d_navifu
+264 - sub vassal: c_arinizi - Set liege on title creation d_navifu
+264 - vassal: d_lavizi - Lost vassal: c_arinizi
+264 - sub vassal: d_lavizi - Lost vassal: c_arinizi
+264 - sub vassal: c_asatyan - Setting independent due to liege destruction
+264 - sub vassal: c_asatyan - Made independent
+264 - sub vassal: c_kokor - Setting independent due to liege destruction
+264 - sub vassal: c_kokor - Made independent
+264 - sub vassal: c_qulun - Setting independent due to liege destruction
+264 - sub vassal: c_qulun - Made independent
+264 - sub vassal: c_tucodar - Setting independent due to liege destruction
+264 - sub vassal: c_tucodar - Made independent
+264 - sub vassal: c_arinizi - Setting independent due to liege destruction
+264 - sub vassal: c_arinizi - Made independent
+265 - vassal: d_lavizi - Destroyed due to flagged problem
+265 - sub vassal: d_lavizi - Destroyed due to flagged problem
+265 - vassal: d_lavizi - Made independent
+265 - sub vassal: d_lavizi - Made independent
+277 - Holder 1006295 - Primary title: k_esatani has lost the title: k_esatani
+277 - Title given to 1006295
+277 - vassal: c_kabifu - Holder 1006295 - Primary title: c_kabifu has lost the title: c_kabifu
+277 - sub vassal: c_kabifu - Holder 1006295 - Primary title: c_kabifu has lost the title: c_kabifu
+277 - vassal: c_kabifu - Title given to 1006295 - Primary title: k_esatani
+277 - sub vassal: c_kabifu - Title given to 1006295 - Primary title: k_esatani
+277 - Holder (1006295) has gained c_kabifu
+335 - Holder 1007127 - Primary title: k_esatani has lost the title: k_esatani
+335 - Title given to 1007127
+335 - vassal: c_kabifu - Holder 1007127 - Primary title: c_kabifu has lost the title: c_kabifu
+335 - sub vassal: c_kabifu - Holder 1007127 - Primary title: c_kabifu has lost the title: c_kabifu
+335 - vassal: c_kabifu - Title given to 1007127 - Primary title: k_esatani
+335 - sub vassal: c_kabifu - Title given to 1007127 - Primary title: k_esatani
+335 - Holder (1007127) has gained c_kabifu
+351 - Holder 1010343 - Primary title: k_esatani has lost the title: k_esatani
+351 - Title given to 1010343
+351 - vassal: c_kabifu - Holder 1010343 - Primary title: c_kabifu has lost the title: c_kabifu
+351 - sub vassal: c_kabifu - Holder 1010343 - Primary title: c_kabifu has lost the title: c_kabifu
+351 - vassal: c_kabifu - Title given to 1010343 - Primary title: k_esatani
+351 - sub vassal: c_kabifu - Title given to 1010343 - Primary title: k_esatani
+351 - Holder (1010343) has gained c_kabifu
+356 - Holder 1010571 - Primary title: k_esatani has lost the title: k_esatani
+356 - Title given to 1010571
+356 - vassal: c_kabifu - Holder 1010571 - Primary title: c_kabifu has lost the title: c_kabifu
+356 - sub vassal: c_kabifu - Holder 1010571 - Primary title: c_kabifu has lost the title: c_kabifu
+356 - vassal: c_kabifu - Title given to 1010571 - Primary title: k_esatani
+356 - sub vassal: c_kabifu - Title given to 1010571 - Primary title: k_esatani
+356 - Holder (1010571) has gained c_kabifu
+373 - Holder 1011408 - Primary title: k_esatani has lost the title: k_esatani
+373 - Title given to 1011408
+373 - vassal: c_kabifu - Holder 1011408 - Primary title: c_kabifu has lost the title: c_kabifu
+373 - sub vassal: c_kabifu - Holder 1011408 - Primary title: c_kabifu has lost the title: c_kabifu
+373 - vassal: c_kabifu - Title given to 1011408 - Primary title: k_esatani
+373 - sub vassal: c_kabifu - Title given to 1011408 - Primary title: k_esatani
+373 - Holder (1011408) has gained c_kabifu
+377 - Holder 1011647 - Primary title: k_esatani has lost the title: k_esatani
+377 - Title given to 1011647
+377 - vassal: c_kabifu - Holder 1011647 - Primary title: c_kabifu has lost the title: c_kabifu
+377 - sub vassal: c_kabifu - Holder 1011647 - Primary title: c_kabifu has lost the title: c_kabifu
+377 - vassal: c_kabifu - Title given to 1011647 - Primary title: k_esatani
+377 - sub vassal: c_kabifu - Title given to 1011647 - Primary title: k_esatani
+377 - Holder (1011647) has gained c_kabifu

@@ -1,0 +1,34 @@
+200 - Title given to 1000792
+200 - vassal: c_kenan - Given to 1000795 via AddCharacterForTitle
+200 - sub vassal: c_kenan - Given to 1000795 via AddCharacterForTitle
+200 - vassal: c_kenan - Holder 1000795 - Primary title: c_kenan has lost the title: c_kenan
+200 - sub vassal: c_kenan - Holder 1000795 - Primary title: c_kenan has lost the title: c_kenan
+200 - vassal: c_kenan - Title given to 1000795
+200 - sub vassal: c_kenan - Title given to 1000795
+200 - vassal: c_kirarak - Holder 1000792 - Primary title: c_kirarak has lost the title: c_kirarak
+200 - sub vassal: c_kirarak - Holder 1000792 - Primary title: c_kirarak has lost the title: c_kirarak
+200 - vassal: c_kirarak - Title given to 1000792 - Primary title: d_kucexiu
+200 - sub vassal: c_kirarak - Title given to 1000792 - Primary title: d_kucexiu
+200 - Holder (1000792) has gained c_kirarak
+200 - vassal: c_kenan - Holder 1000792 - Primary title: c_kenan has lost the title: c_kenan
+200 - sub vassal: c_kenan - Holder 1000792 - Primary title: c_kenan has lost the title: c_kenan
+200 - vassal: c_kenan - Title given to 1000792 - Primary title: d_kucexiu
+200 - sub vassal: c_kenan - Title given to 1000792 - Primary title: d_kucexiu
+200 - Holder (1000792) has gained c_kenan
+200 - vassal: c_tucan - Holder 1000792 - Primary title: c_tucan has lost the title: c_tucan
+200 - sub vassal: c_tucan - Holder 1000792 - Primary title: c_tucan has lost the title: c_tucan
+200 - vassal: c_tucan - Title given to 1000792 - Primary title: d_kucexiu
+200 - sub vassal: c_tucan - Title given to 1000792 - Primary title: d_kucexiu
+200 - Holder (1000792) has gained c_tucan
+220 - Holder (1000792) has gained k_tatyan
+243 - Holder 1001327 - Primary title: d_kucexiu has lost the title: d_kucexiu
+243 - Title given to 1001327 - Primary title: k_tatyan
+243 - vassal: c_tucan - Setting to vassal of d_rabodar in Validate Realm
+243 - Lost vassal: c_tucan
+243 - vassal: c_kenan - Setting to vassal of d_rabodar in Validate Realm
+243 - Lost vassal: c_kenan
+243 - vassal: c_kirarak - Setting to vassal of d_rabodar in Validate Realm
+243 - Lost vassal: c_kirarak
+244 - Destroyed due to flagged problem
+244 - Made independent
+244 - Title destroyed

@@ -1,0 +1,57 @@
+200 - Title given to 1000844
+200 - vassal: c_wuled - Given to 1000847 via AddCharacterForTitle
+200 - sub vassal: c_wuled - Given to 1000847 via AddCharacterForTitle
+200 - vassal: c_wuled - Holder 1000847 - Primary title: c_wuled has lost the title: c_wuled
+200 - sub vassal: c_wuled - Holder 1000847 - Primary title: c_wuled has lost the title: c_wuled
+200 - vassal: c_wuled - Title given to 1000847
+200 - sub vassal: c_wuled - Title given to 1000847
+200 - vassal: c_wamava - Given to 1000849 via AddCharacterForTitle
+200 - sub vassal: c_wamava - Given to 1000849 via AddCharacterForTitle
+200 - vassal: c_wamava - Holder 1000849 - Primary title: c_wamava has lost the title: c_wamava
+200 - sub vassal: c_wamava - Holder 1000849 - Primary title: c_wamava has lost the title: c_wamava
+200 - vassal: c_wamava - Title given to 1000849
+200 - sub vassal: c_wamava - Title given to 1000849
+200 - vassal: c_begiong - Holder 1000844 - Primary title: c_begiong has lost the title: c_begiong
+200 - sub vassal: c_begiong - Holder 1000844 - Primary title: c_begiong has lost the title: c_begiong
+200 - vassal: c_begiong - Title given to 1000844 - Primary title: d_wened
+200 - sub vassal: c_begiong - Title given to 1000844 - Primary title: d_wened
+200 - Holder (1000844) has gained c_begiong
+200 - vassal: c_wuled - Holder 1000844 - Primary title: c_wuled has lost the title: c_wuled
+200 - sub vassal: c_wuled - Holder 1000844 - Primary title: c_wuled has lost the title: c_wuled
+200 - vassal: c_wuled - Title given to 1000844 - Primary title: d_wened
+200 - sub vassal: c_wuled - Title given to 1000844 - Primary title: d_wened
+200 - Holder (1000844) has gained c_wuled
+200 - vassal: c_wamava - Holder 1000844 - Primary title: c_wamava has lost the title: c_wamava
+200 - sub vassal: c_wamava - Holder 1000844 - Primary title: c_wamava has lost the title: c_wamava
+200 - vassal: c_wamava - Title given to 1000844 - Primary title: d_wened
+200 - sub vassal: c_wamava - Title given to 1000844 - Primary title: d_wened
+200 - Holder (1000844) has gained c_wamava
+200 - vassal: c_qenug - Holder 1000844 - Primary title: c_qenug has lost the title: c_qenug
+200 - sub vassal: c_qenug - Holder 1000844 - Primary title: c_qenug has lost the title: c_qenug
+200 - vassal: c_qenug - Title given to 1000844 - Primary title: d_wened
+200 - sub vassal: c_qenug - Title given to 1000844 - Primary title: d_wened
+200 - Holder (1000844) has gained c_qenug
+200 - vassal: c_lopeyu - Holder 1000844 - Primary title: c_lopeyu has lost the title: c_lopeyu
+200 - sub vassal: c_lopeyu - Holder 1000844 - Primary title: c_lopeyu has lost the title: c_lopeyu
+200 - vassal: c_lopeyu - Title given to 1000844 - Primary title: d_wened
+200 - sub vassal: c_lopeyu - Title given to 1000844 - Primary title: d_wened
+200 - Holder (1000844) has gained c_lopeyu
+232 - Holder (1000844) has gained d_segiong
+232 - Holder (1000844) has gained c_winilde
+232 - Holder (1000844) has gained c_notomar
+232 - Holder (1000844) has gained c_rebilo
+233 - vassal: c_begiong - Title given to 1003512
+233 - vassal: c_lopeyu - Title given to 1003513
+233 - vassal: c_wuled - Title given to 1003514
+236 - Holder (1000844) has gained c_reneda
+236 - Holder (1000844) has gained c_qegug
+237 - vassal: c_begiong - Given to 1003710 in HandleTitles - Too many duke titles
+237 - vassal: c_begiong - Holder 1003710 - Primary title: c_begiong has lost the title: c_begiong
+237 - vassal: c_begiong - Title given to 1003710
+237 - Title given to 1001767 - Primary title: k_subed
+237 - vassal: c_wamava - Setting to vassal of d_ebined in Validate Realm
+237 - Lost vassal: c_wamava
+237 - vassal: c_qenug - Setting to vassal of d_ebined in Validate Realm
+237 - Lost vassal: c_qenug
+237 - Too many dukes, made direct title into vassal of k_subed
+237 - Title given to 1003711

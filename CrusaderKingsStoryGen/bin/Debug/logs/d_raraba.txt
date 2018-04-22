@@ -1,0 +1,27 @@
+200 - Title given to 1000367
+200 - vassal: c_asiguno - Given to 1000370 via AddCharacterForTitle
+200 - sub vassal: c_asiguno - Given to 1000370 via AddCharacterForTitle
+200 - vassal: c_asiguno - Holder 1000370 - Primary title: c_asiguno has lost the title: c_asiguno
+200 - sub vassal: c_asiguno - Holder 1000370 - Primary title: c_asiguno has lost the title: c_asiguno
+200 - vassal: c_asiguno - Title given to 1000370
+200 - sub vassal: c_asiguno - Title given to 1000370
+200 - vassal: c_suatiss - Holder 1000367 - Primary title: c_suatiss has lost the title: c_suatiss
+200 - sub vassal: c_suatiss - Holder 1000367 - Primary title: c_suatiss has lost the title: c_suatiss
+200 - vassal: c_suatiss - Title given to 1000367 - Primary title: d_raraba
+200 - sub vassal: c_suatiss - Title given to 1000367 - Primary title: d_raraba
+200 - Holder (1000367) has gained c_suatiss
+200 - vassal: c_asiguno - Holder 1000367 - Primary title: c_asiguno has lost the title: c_asiguno
+200 - sub vassal: c_asiguno - Holder 1000367 - Primary title: c_asiguno has lost the title: c_asiguno
+200 - vassal: c_asiguno - Title given to 1000367 - Primary title: d_raraba
+200 - sub vassal: c_asiguno - Title given to 1000367 - Primary title: d_raraba
+200 - Holder (1000367) has gained c_asiguno
+237 - Holder (1000367) has gained k_tigari
+239 - Holder 1002177 - Primary title: d_raraba has lost the title: d_raraba
+239 - Title given to 1002177 - Primary title: k_tigari
+239 - vassal: c_suatiss - Setting to vassal of d_awaspal in Validate Realm
+239 - Lost vassal: c_suatiss
+239 - vassal: c_asiguno - Setting to vassal of d_awaspal in Validate Realm
+239 - Lost vassal: c_asiguno
+240 - Destroyed due to flagged problem
+240 - Made independent
+240 - Title destroyed

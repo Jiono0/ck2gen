@@ -1,0 +1,291 @@
+200 - Title given to 1001025
+200 - vassal: d_tairya - Holder 1001025 - Primary title: d_tairya has lost the title: c_wairick
+200 - sub vassal: d_tairya - Holder 1001025 - Primary title: d_tairya has lost the title: c_wairick
+200 - sub vassal: c_wairick - Title given to 1001025 - Primary title: k_kilimon
+200 - Holder (1001025) has gained c_wairick
+200 - vassal: d_elaudia - Holder 1001025 - Primary title: d_elaudia has lost the title: d_elaudia
+200 - sub vassal: d_elaudia - Holder 1001025 - Primary title: d_elaudia has lost the title: d_elaudia
+200 - vassal: d_elaudia - Title given to 1001025 - Primary title: k_kilimon
+200 - sub vassal: d_elaudia - Title given to 1001025 - Primary title: k_kilimon
+200 - Holder (1001025) has gained d_elaudia
+201 - vassal: d_tairya - Holder 1000275 - Primary title: d_tairya has lost the title: d_tairya
+201 - sub vassal: d_tairya - Holder 1000275 - Primary title: d_tairya has lost the title: d_tairya
+201 - vassal: d_tairya - Title given to 1000275 - Primary title: d_nikay
+201 - sub vassal: d_tairya - Title given to 1000275 - Primary title: d_nikay
+201 - vassal: d_nikay - Holder (1000275) has gained d_tairya
+201 - sub vassal: d_nikay - Holder (1000275) has gained d_tairya
+201 - sub vassal: c_wairick - Setting to vassal of k_kilimon in Validate Realm
+201 - vassal: d_tairya - Lost vassal: c_wairick
+201 - sub vassal: d_tairya - Lost vassal: c_wairick
+201 - Gained vassal: c_wairick
+201 - sub vassal: c_tamimon - Holder 1000275 - Primary title: c_tamimon has lost the title: c_tamimon
+201 - sub vassal: c_tamimon - Title given to 1000275 - Primary title: d_nikay
+201 - vassal: d_nikay - Holder (1000275) has gained c_tamimon
+201 - sub vassal: d_nikay - Holder (1000275) has gained c_tamimon
+223 - Holder 1001376 - Primary title: k_kilimon has lost the title: k_kilimon
+223 - Title given to 1001376
+223 - vassal: d_elaudia - Holder 1001376 - Primary title: d_elaudia has lost the title: c_wairick
+223 - sub vassal: d_elaudia - Holder 1001376 - Primary title: d_elaudia has lost the title: c_wairick
+223 - vassal: c_wairick - Title given to 1001376 - Primary title: k_kilimon
+223 - sub vassal: c_wairick - Title given to 1001376 - Primary title: k_kilimon
+223 - Holder (1001376) has gained c_wairick
+223 - vassal: d_elaudia - Holder 1001376 - Primary title: d_elaudia has lost the title: d_elaudia
+223 - sub vassal: d_elaudia - Holder 1001376 - Primary title: d_elaudia has lost the title: d_elaudia
+223 - vassal: d_elaudia - Title given to 1001376 - Primary title: k_kilimon
+223 - sub vassal: d_elaudia - Title given to 1001376 - Primary title: k_kilimon
+223 - Holder (1001376) has gained d_elaudia
+235 - vassal: d_nikay - Holder 1001376 - Primary title: d_nikay has lost the title: d_nikay
+235 - sub vassal: d_nikay - Holder 1001376 - Primary title: d_nikay has lost the title: d_nikay
+235 - vassal: d_nikay - Title given to 1001376 - Primary title: k_kilimon
+235 - sub vassal: d_nikay - Title given to 1001376 - Primary title: k_kilimon
+235 - Holder (1001376) has gained d_nikay
+235 - sub vassal: c_wamosse - Setting to vassal of d_tairya in Validate Realm
+235 - vassal: d_nikay - Lost vassal: c_wamosse
+235 - sub vassal: d_nikay - Lost vassal: c_wamosse
+235 - sub vassal: c_qairadg - Setting to vassal of d_tairya in Validate Realm
+235 - vassal: d_nikay - Lost vassal: c_qairadg
+235 - sub vassal: d_nikay - Lost vassal: c_qairadg
+235 - sub vassal: c_qetoc - Setting to vassal of d_tairya in Validate Realm
+235 - vassal: d_nikay - Lost vassal: c_qetoc
+235 - sub vassal: d_nikay - Lost vassal: c_qetoc
+235 - vassal: d_tairya - Gained vassal: c_qetoc
+235 - sub vassal: d_tairya - Gained vassal: c_qetoc
+235 - vassal: d_tairya - Gained vassal: c_qairadg
+235 - sub vassal: d_tairya - Gained vassal: c_qairadg
+235 - vassal: d_tairya - Gained vassal: c_wamosse
+235 - sub vassal: d_tairya - Gained vassal: c_wamosse
+235 - vassal: d_tairya - Holder 1001376 - Primary title: d_tairya has lost the title: d_tairya
+235 - sub vassal: d_tairya - Holder 1001376 - Primary title: d_tairya has lost the title: d_tairya
+235 - vassal: d_tairya - Title given to 1001376 - Primary title: k_kilimon
+235 - sub vassal: d_tairya - Title given to 1001376 - Primary title: k_kilimon
+235 - Holder (1001376) has gained d_tairya
+235 - sub vassal: c_tamimon - Holder 1001376 - Primary title: c_tamimon has lost the title: c_tamimon
+235 - sub vassal: c_tamimon - Title given to 1001376 - Primary title: k_kilimon
+235 - Holder (1001376) has gained c_tamimon
+235 - sub vassal: c_wamosse - Holder 1001376 - Primary title: c_wamosse has lost the title: c_wamosse
+235 - sub vassal: c_wamosse - Title given to 1001376 - Primary title: k_kilimon
+235 - Holder (1001376) has gained c_wamosse
+235 - sub vassal: c_qairadg - Holder 1001376 - Primary title: c_qairadg has lost the title: c_qairadg
+235 - sub vassal: c_qairadg - Title given to 1001376 - Primary title: k_kilimon
+235 - Holder (1001376) has gained c_qairadg
+235 - sub vassal: c_qetoc - Holder 1001376 - Primary title: c_qetoc has lost the title: c_qetoc
+235 - sub vassal: c_qetoc - Title given to 1001376 - Primary title: k_kilimon
+235 - Holder (1001376) has gained c_qetoc
+235 - vassal: d_elaudia - Destroyed due to flagged problem
+235 - sub vassal: d_elaudia - Destroyed due to flagged problem
+235 - vassal: d_elaudia - Made independent
+235 - sub vassal: d_elaudia - Made independent
+235 - Gained vassal: c_qiatara
+235 - vassal: c_qiatara - Made independent due to being a seperate island
+235 - sub vassal: c_qiatara - Made independent due to being a seperate island
+235 - vassal: c_qiatara - Made independent
+235 - sub vassal: c_qiatara - Made independent
+236 - vassal: d_nikay - Destroyed due to flagged problem
+236 - sub vassal: d_nikay - Destroyed due to flagged problem
+236 - vassal: d_nikay - Made independent
+236 - sub vassal: d_nikay - Made independent
+236 - vassal: d_derolas - Holder 1001484 - Primary title: d_derolas has lost the title: d_derolas
+236 - sub vassal: d_derolas - Holder 1001484 - Primary title: d_derolas has lost the title: d_derolas
+236 - vassal: d_derolas - Title given to 1001484
+236 - sub vassal: d_derolas - Title given to 1001484
+236 - sub vassal: c_tilasz - Holder 1001484 - Primary title: c_tilasz has lost the title: c_tilasz
+236 - sub vassal: c_tilasz - Title given to 1001484 - Primary title: d_derolas
+236 - vassal: d_derolas - Holder (1001484) has gained c_tilasz
+236 - sub vassal: d_derolas - Holder (1001484) has gained c_tilasz
+236 - sub vassal: c_kibara - Holder 1001484 - Primary title: c_kibara has lost the title: c_kibara
+236 - sub vassal: c_kibara - Title given to 1001484 - Primary title: d_derolas
+236 - vassal: d_derolas - Holder (1001484) has gained c_kibara
+236 - sub vassal: d_derolas - Holder (1001484) has gained c_kibara
+239 - vassal: d_leradma - Holder 1001376 - Primary title: d_leradma has lost the title: d_leradma
+239 - sub vassal: d_leradma - Holder 1001376 - Primary title: d_leradma has lost the title: d_leradma
+239 - vassal: d_leradma - Title given to 1001376 - Primary title: k_kilimon
+239 - sub vassal: d_leradma - Title given to 1001376 - Primary title: k_kilimon
+239 - Holder (1001376) has gained d_leradma
+239 - sub vassal: c_riatay - Holder 1001376 - Primary title: c_riatay has lost the title: c_riatay
+239 - sub vassal: c_riatay - Title given to 1001376 - Primary title: k_kilimon
+239 - Holder (1001376) has gained c_riatay
+239 - sub vassal: c_ribeza - Holder 1001376 - Primary title: c_ribeza has lost the title: c_ribeza
+239 - sub vassal: c_ribeza - Title given to 1001376 - Primary title: k_kilimon
+239 - Holder (1001376) has gained c_ribeza
+239 - Holder 1003821 - Primary title: k_kilimon has lost the title: c_tamimon
+239 - sub vassal: c_tamimon - Title given to 1003821
+239 - Holder 1003822 - Primary title: k_kilimon has lost the title: c_wamosse
+239 - sub vassal: c_wamosse - Title given to 1003822
+245 - Holder 1003198 - Primary title: k_kilimon has lost the title: k_kilimon
+245 - Title given to 1003198
+245 - vassal: d_leradma - Holder 1003198 - Primary title: d_leradma has lost the title: d_leradma
+245 - sub vassal: d_leradma - Holder 1003198 - Primary title: d_leradma has lost the title: d_leradma
+245 - vassal: d_leradma - Title given to 1003198 - Primary title: k_kilimon
+245 - sub vassal: d_leradma - Title given to 1003198 - Primary title: k_kilimon
+245 - Holder (1003198) has gained d_leradma
+245 - sub vassal: c_ribeza - Setting to vassal of d_tairya in Validate Realm
+245 - vassal: d_leradma - Lost vassal: c_ribeza
+245 - sub vassal: d_leradma - Lost vassal: c_ribeza
+245 - sub vassal: c_riatay - Setting to vassal of d_tairya in Validate Realm
+245 - vassal: d_leradma - Lost vassal: c_riatay
+245 - sub vassal: d_leradma - Lost vassal: c_riatay
+245 - vassal: c_wairick - Setting to vassal of d_tairya in Validate Realm
+245 - sub vassal: c_wairick - Setting to vassal of d_tairya in Validate Realm
+245 - Lost vassal: c_wairick
+245 - vassal: d_tairya - Gained vassal: c_wairick
+245 - sub vassal: d_tairya - Gained vassal: c_wairick
+245 - vassal: d_tairya - Gained vassal: c_riatay
+245 - sub vassal: d_tairya - Gained vassal: c_riatay
+245 - vassal: d_tairya - Gained vassal: c_ribeza
+245 - sub vassal: d_tairya - Gained vassal: c_ribeza
+245 - vassal: d_tairya - Holder 1003198 - Primary title: d_tairya has lost the title: d_tairya
+245 - sub vassal: d_tairya - Holder 1003198 - Primary title: d_tairya has lost the title: d_tairya
+245 - vassal: d_tairya - Title given to 1003198 - Primary title: k_kilimon
+245 - sub vassal: d_tairya - Title given to 1003198 - Primary title: k_kilimon
+245 - Holder (1003198) has gained d_tairya
+245 - sub vassal: c_ribeza - Holder 1003198 - Primary title: c_ribeza has lost the title: c_ribeza
+245 - sub vassal: c_ribeza - Title given to 1003198 - Primary title: k_kilimon
+245 - Holder (1003198) has gained c_ribeza
+245 - sub vassal: c_riatay - Holder 1003198 - Primary title: c_riatay has lost the title: c_riatay
+245 - sub vassal: c_riatay - Title given to 1003198 - Primary title: k_kilimon
+245 - Holder (1003198) has gained c_riatay
+245 - sub vassal: c_qetoc - Holder 1003198 - Primary title: c_qetoc has lost the title: c_qetoc
+245 - sub vassal: c_qetoc - Title given to 1003198 - Primary title: k_kilimon
+245 - Holder (1003198) has gained c_qetoc
+245 - sub vassal: c_qairadg - Holder 1003198 - Primary title: c_qairadg has lost the title: c_qairadg
+245 - sub vassal: c_qairadg - Title given to 1003198 - Primary title: k_kilimon
+245 - Holder (1003198) has gained c_qairadg
+245 - sub vassal: c_wairick - Holder 1003198 - Primary title: c_wairick has lost the title: c_wairick
+245 - sub vassal: c_wairick - Title given to 1003198 - Primary title: k_kilimon
+245 - Holder (1003198) has gained c_wairick
+246 - vassal: d_leradma - Destroyed due to flagged problem
+246 - sub vassal: d_leradma - Destroyed due to flagged problem
+246 - vassal: d_leradma - Made independent
+246 - sub vassal: d_leradma - Made independent
+254 - vassal: d_derolas - Holder 1003198 - Primary title: d_derolas has lost the title: d_derolas
+254 - sub vassal: d_derolas - Holder 1003198 - Primary title: d_derolas has lost the title: d_derolas
+254 - vassal: d_derolas - Title given to 1003198 - Primary title: k_kilimon
+254 - sub vassal: d_derolas - Title given to 1003198 - Primary title: k_kilimon
+254 - Holder (1003198) has gained d_derolas
+254 - sub vassal: c_kibara - Holder 1003198 - Primary title: c_kibara has lost the title: c_kibara
+254 - sub vassal: c_kibara - Title given to 1003198 - Primary title: k_kilimon
+254 - Holder (1003198) has gained c_kibara
+254 - sub vassal: c_tilasz - Holder 1003198 - Primary title: c_tilasz has lost the title: c_tilasz
+254 - sub vassal: c_tilasz - Title given to 1003198 - Primary title: k_kilimon
+254 - Holder (1003198) has gained c_tilasz
+254 - Holder 1004671 - Primary title: k_kilimon has lost the title: c_kibara
+254 - sub vassal: c_kibara - Title given to 1004671
+254 - Holder 1004673 - Primary title: k_kilimon has lost the title: c_tilasz
+254 - sub vassal: c_tilasz - Title given to 1004673
+271 - Holder 1004784 - Primary title: k_kilimon has lost the title: k_kilimon
+271 - Title given to 1004784
+271 - vassal: d_derolas - Holder 1004784 - Primary title: d_derolas has lost the title: d_derolas
+271 - sub vassal: d_derolas - Holder 1004784 - Primary title: d_derolas has lost the title: d_derolas
+271 - vassal: d_derolas - Title given to 1004784 - Primary title: k_kilimon
+271 - sub vassal: d_derolas - Title given to 1004784 - Primary title: k_kilimon
+271 - Holder (1004784) has gained d_derolas
+271 - vassal: d_tairya - Holder 1004784 - Primary title: d_tairya has lost the title: d_tairya
+271 - sub vassal: d_tairya - Holder 1004784 - Primary title: d_tairya has lost the title: d_tairya
+271 - vassal: d_tairya - Title given to 1004784 - Primary title: k_kilimon
+271 - sub vassal: d_tairya - Title given to 1004784 - Primary title: k_kilimon
+271 - Holder (1004784) has gained d_tairya
+271 - sub vassal: c_wairick - Holder 1004784 - Primary title: c_wairick has lost the title: c_wairick
+271 - sub vassal: c_wairick - Title given to 1004784 - Primary title: k_kilimon
+271 - Holder (1004784) has gained c_wairick
+271 - sub vassal: c_qairadg - Holder 1004784 - Primary title: c_qairadg has lost the title: c_qairadg
+271 - sub vassal: c_qairadg - Title given to 1004784 - Primary title: k_kilimon
+271 - Holder (1004784) has gained c_qairadg
+271 - sub vassal: c_qetoc - Holder 1004784 - Primary title: c_qetoc has lost the title: c_qetoc
+271 - sub vassal: c_qetoc - Title given to 1004784 - Primary title: k_kilimon
+271 - Holder (1004784) has gained c_qetoc
+271 - sub vassal: c_riatay - Holder 1004784 - Primary title: c_riatay has lost the title: c_riatay
+271 - sub vassal: c_riatay - Title given to 1004784 - Primary title: k_kilimon
+271 - Holder (1004784) has gained c_riatay
+271 - sub vassal: c_ribeza - Holder 1004784 - Primary title: c_ribeza has lost the title: c_ribeza
+271 - sub vassal: c_ribeza - Title given to 1004784 - Primary title: k_kilimon
+271 - Holder (1004784) has gained c_ribeza
+272 - Holder 1005672 - Primary title: k_kilimon has lost the title: k_kilimon
+272 - Title given to 1005672
+272 - vassal: d_derolas - Holder 1005672 - Primary title: d_derolas has lost the title: d_derolas
+272 - sub vassal: d_derolas - Holder 1005672 - Primary title: d_derolas has lost the title: d_derolas
+272 - vassal: d_derolas - Title given to 1005672 - Primary title: k_kilimon
+272 - sub vassal: d_derolas - Title given to 1005672 - Primary title: k_kilimon
+272 - Holder (1005672) has gained d_derolas
+272 - vassal: d_tairya - Holder 1005672 - Primary title: d_tairya has lost the title: d_tairya
+272 - sub vassal: d_tairya - Holder 1005672 - Primary title: d_tairya has lost the title: d_tairya
+272 - vassal: d_tairya - Title given to 1005672 - Primary title: k_kilimon
+272 - sub vassal: d_tairya - Title given to 1005672 - Primary title: k_kilimon
+272 - Holder (1005672) has gained d_tairya
+272 - sub vassal: c_wairick - Holder 1005672 - Primary title: c_wairick has lost the title: c_wairick
+272 - sub vassal: c_wairick - Title given to 1005672 - Primary title: k_kilimon
+272 - Holder (1005672) has gained c_wairick
+272 - sub vassal: c_qairadg - Holder 1005672 - Primary title: c_qairadg has lost the title: c_qairadg
+272 - sub vassal: c_qairadg - Title given to 1005672 - Primary title: k_kilimon
+272 - Holder (1005672) has gained c_qairadg
+272 - sub vassal: c_qetoc - Holder 1005672 - Primary title: c_qetoc has lost the title: c_qetoc
+272 - sub vassal: c_qetoc - Title given to 1005672 - Primary title: k_kilimon
+272 - Holder (1005672) has gained c_qetoc
+272 - sub vassal: c_riatay - Holder 1005672 - Primary title: c_riatay has lost the title: c_riatay
+272 - sub vassal: c_riatay - Title given to 1005672 - Primary title: k_kilimon
+272 - Holder (1005672) has gained c_riatay
+272 - sub vassal: c_ribeza - Holder 1005672 - Primary title: c_ribeza has lost the title: c_ribeza
+272 - sub vassal: c_ribeza - Title given to 1005672 - Primary title: k_kilimon
+272 - Holder (1005672) has gained c_ribeza
+297 - Holder 1005776 - Primary title: k_kilimon has lost the title: k_kilimon
+297 - Title given to 1005776
+297 - vassal: d_tairya - Holder 1005776 - Primary title: d_tairya has lost the title: d_tairya
+297 - sub vassal: d_tairya - Holder 1005776 - Primary title: d_tairya has lost the title: d_tairya
+297 - vassal: d_tairya - Title given to 1005776 - Primary title: k_kilimon
+297 - sub vassal: d_tairya - Title given to 1005776 - Primary title: k_kilimon
+297 - Holder (1005776) has gained d_tairya
+297 - sub vassal: c_ribeza - Setting to vassal of d_derolas in Validate Realm
+297 - vassal: d_tairya - Lost vassal: c_ribeza
+297 - sub vassal: d_tairya - Lost vassal: c_ribeza
+297 - sub vassal: c_riatay - Setting to vassal of d_derolas in Validate Realm
+297 - vassal: d_tairya - Lost vassal: c_riatay
+297 - sub vassal: d_tairya - Lost vassal: c_riatay
+297 - sub vassal: c_qetoc - Setting to vassal of d_derolas in Validate Realm
+297 - vassal: d_tairya - Lost vassal: c_qetoc
+297 - sub vassal: d_tairya - Lost vassal: c_qetoc
+297 - sub vassal: c_qairadg - Setting to vassal of d_derolas in Validate Realm
+297 - vassal: d_tairya - Lost vassal: c_qairadg
+297 - sub vassal: d_tairya - Lost vassal: c_qairadg
+297 - sub vassal: c_wairick - Setting to vassal of d_derolas in Validate Realm
+297 - vassal: d_tairya - Lost vassal: c_wairick
+297 - sub vassal: d_tairya - Lost vassal: c_wairick
+297 - vassal: d_derolas - Gained vassal: c_wairick
+297 - sub vassal: d_derolas - Gained vassal: c_wairick
+297 - vassal: d_derolas - Gained vassal: c_qairadg
+297 - sub vassal: d_derolas - Gained vassal: c_qairadg
+297 - vassal: d_derolas - Gained vassal: c_qetoc
+297 - sub vassal: d_derolas - Gained vassal: c_qetoc
+297 - vassal: d_derolas - Gained vassal: c_riatay
+297 - sub vassal: d_derolas - Gained vassal: c_riatay
+297 - vassal: d_derolas - Gained vassal: c_ribeza
+297 - sub vassal: d_derolas - Gained vassal: c_ribeza
+297 - vassal: d_derolas - Holder 1005776 - Primary title: d_derolas has lost the title: d_derolas
+297 - sub vassal: d_derolas - Holder 1005776 - Primary title: d_derolas has lost the title: d_derolas
+297 - vassal: d_derolas - Title given to 1005776 - Primary title: k_kilimon
+297 - sub vassal: d_derolas - Title given to 1005776 - Primary title: k_kilimon
+297 - Holder (1005776) has gained d_derolas
+297 - sub vassal: c_ribeza - Holder 1005776 - Primary title: c_ribeza has lost the title: c_ribeza
+297 - sub vassal: c_ribeza - Title given to 1005776 - Primary title: k_kilimon
+297 - Holder (1005776) has gained c_ribeza
+297 - sub vassal: c_riatay - Holder 1005776 - Primary title: c_riatay has lost the title: c_riatay
+297 - sub vassal: c_riatay - Title given to 1005776 - Primary title: k_kilimon
+297 - Holder (1005776) has gained c_riatay
+297 - sub vassal: c_qetoc - Holder 1005776 - Primary title: c_qetoc has lost the title: c_qetoc
+297 - sub vassal: c_qetoc - Title given to 1005776 - Primary title: k_kilimon
+297 - Holder (1005776) has gained c_qetoc
+297 - sub vassal: c_qairadg - Holder 1005776 - Primary title: c_qairadg has lost the title: c_qairadg
+297 - sub vassal: c_qairadg - Title given to 1005776 - Primary title: k_kilimon
+297 - Holder (1005776) has gained c_qairadg
+297 - sub vassal: c_wairick - Holder 1005776 - Primary title: c_wairick has lost the title: c_wairick
+297 - sub vassal: c_wairick - Title given to 1005776 - Primary title: k_kilimon
+297 - Holder (1005776) has gained c_wairick
+347 - Holder 1006959 - Primary title: k_kilimon has lost the title: k_kilimon
+347 - Title given to 1006959
+347 - vassal: d_derolas - Holder 1006959 - Primary title: d_derolas has lost the title: d_derolas
+347 - sub vassal: d_derolas - Holder 1006959 - Primary title: d_derolas has lost the title: d_derolas
+347 - vassal: d_derolas - Title given to 1006959 - Primary title: k_kilimon
+347 - sub vassal: d_derolas - Title given to 1006959 - Primary title: k_kilimon
+347 - Holder (1006959) has gained d_derolas
+347 - sub vassal: c_wairick - Setting to vassal of d_tairya in Validate Realm
+347 - vassal: d_derolas - Lost vassal: c_wairick
+347 - sub vassal: d_derolas - Lost vassal: c_wairick
+347 - sub vassal: c_qairadg - Setting to vassal of d_tairya

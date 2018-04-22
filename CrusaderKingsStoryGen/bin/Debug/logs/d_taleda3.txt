@@ -1,0 +1,70 @@
+200 - Title given to 1000924
+200 - vassal: c_wayah - Given to 1000927 via AddCharacterForTitle
+200 - sub vassal: c_wayah - Given to 1000927 via AddCharacterForTitle
+200 - vassal: c_wayah - Holder 1000927 - Primary title: c_wayah has lost the title: c_wayah
+200 - sub vassal: c_wayah - Holder 1000927 - Primary title: c_wayah has lost the title: c_wayah
+200 - vassal: c_wayah - Title given to 1000927
+200 - sub vassal: c_wayah - Title given to 1000927
+200 - vassal: c_tudako - Holder 1000924 - Primary title: c_tudako has lost the title: c_tudako
+200 - sub vassal: c_tudako - Holder 1000924 - Primary title: c_tudako has lost the title: c_tudako
+200 - vassal: c_tudako - Title given to 1000924 - Primary title: d_taleda
+200 - sub vassal: c_tudako - Title given to 1000924 - Primary title: d_taleda
+200 - Holder (1000924) has gained c_tudako
+200 - vassal: c_wayah - Holder 1000924 - Primary title: c_wayah has lost the title: c_wayah
+200 - sub vassal: c_wayah - Holder 1000924 - Primary title: c_wayah has lost the title: c_wayah
+200 - vassal: c_wayah - Title given to 1000924 - Primary title: d_taleda
+200 - sub vassal: c_wayah - Title given to 1000924 - Primary title: d_taleda
+200 - Holder (1000924) has gained c_wayah
+200 - vassal: c_sunoje - Holder 1000924 - Primary title: c_sunoje has lost the title: c_sunoje
+200 - sub vassal: c_sunoje - Holder 1000924 - Primary title: c_sunoje has lost the title: c_sunoje
+200 - vassal: c_sunoje - Title given to 1000924 - Primary title: d_taleda
+200 - sub vassal: c_sunoje - Title given to 1000924 - Primary title: d_taleda
+200 - Holder (1000924) has gained c_sunoje
+200 - vassal: c_qami - Title given to 1000924 - Primary title: d_taleda
+200 - Holder (1000924) has gained c_qami
+200 - Holder 1001051 - Primary title: d_taleda has lost the title: d_taleda
+200 - Title given to 1001051 - Primary title: k_selyaina
+200 - vassal: c_tudako - Holder 1001051 - Primary title: c_tudako has lost the title: c_tudako
+200 - vassal: c_tudako - Title given to 1001051 - Primary title: k_selyaina
+205 - Holder 1000933 - Primary title: d_taleda has lost the title: d_taleda
+205 - Title given to 1000933 - Primary title: k_selyaina
+205 - vassal: c_tudako - Setting to vassal of d_kitar in Validate Realm
+205 - Lost vassal: c_tudako
+236 - Holder 1001527 - Primary title: d_taleda has lost the title: d_taleda
+236 - Title given to 1001527 - Primary title: k_selyaina
+262 - Holder 1005107 - Primary title: d_taleda has lost the title: d_taleda
+262 - Title given to 1005107 - Primary title: k_selyaina
+289 - Holder 1005447 - Primary title: d_taleda has lost the title: d_taleda
+289 - Title given to 1005447
+289 - Holder (1005447) has gained d_laneda
+289 - Holder (1005447) has gained c_tutana
+289 - Holder (1005447) has gained c_tudako
+289 - Holder (1005447) has gained c_numahai
+289 - Holder (1005447) has gained c_ekumelka
+289 - Holder (1005447) has gained c_alaleja
+308 - vassal: c_wayah - Holder 1007461 - Primary title: c_wayah has lost the title: c_wayah
+308 - vassal: c_wayah - Title given to 1007461
+308 - vassal: c_sunoje - Holder 1007461 - Primary title: c_sunoje has lost the title: c_sunoje
+308 - vassal: c_sunoje - Title given to 1007461 - Primary title: c_wayah
+308 - vassal: c_wayah - Holder (1007461) has gained c_sunoje
+308 - vassal: c_qami - Holder 1007461 - Primary title: c_qami has lost the title: c_qami
+308 - vassal: c_qami - Title given to 1007461 - Primary title: c_wayah
+308 - vassal: c_wayah - Holder (1007461) has gained c_qami
+317 - Holder (1005447) has gained d_kitar
+317 - Holder (1005447) has gained c_wegyamka
+321 - Holder (1005447) has gained k_selyaina
+331 - Holder 1006614 - Primary title: d_taleda has lost the title: d_taleda
+331 - Title given to 1006614 - Primary title: k_selyaina
+362 - Holder 1009454 - Primary title: d_taleda has lost the title: d_taleda
+362 - Title given to 1009454 - Primary title: k_selyaina
+369 - vassal: c_wayah - Given to 1010527 in HandleTitles - Too many king titles
+369 - Given to 1010527 in HandleTitles - Too many king titles
+369 - vassal: c_wayah - Holder 1010527 - Primary title: c_wayah has lost the title: c_wayah
+369 - vassal: c_wayah - Title given to 1010527
+369 - Title given to 1010527 - Primary title: c_wayah
+369 - vassal: c_wayah - Holder (1010527) has gained d_taleda
+369 - Holder (1010527) has gained k_selyaina
+396 - Holder 1010877 - Primary title: d_taleda has lost the title: d_taleda
+396 - Title given to 1010877 - Primary title: k_selyaina
+396 - vassal: c_wayah - Holder 1010877 - Primary title: c_wayah has lost the title: c_wayah
+396 - vassal: c_wayah - Title given to 1010877 - Primary title: k_selyaina

@@ -1,0 +1,73 @@
+200 - Title given to 1000335
+200 - vassal: c_tusolf - Given to 1000338 via AddCharacterForTitle
+200 - sub vassal: c_tusolf - Given to 1000338 via AddCharacterForTitle
+200 - vassal: c_tusolf - Holder 1000338 - Primary title: c_tusolf has lost the title: c_tusolf
+200 - sub vassal: c_tusolf - Holder 1000338 - Primary title: c_tusolf has lost the title: c_tusolf
+200 - vassal: c_tusolf - Title given to 1000338
+200 - sub vassal: c_tusolf - Title given to 1000338
+200 - vassal: c_tinenes - Holder 1000311 - Primary title: c_tinenes has lost the title: c_rasimha
+200 - sub vassal: c_tinenes - Holder 1000311 - Primary title: c_tinenes has lost the title: c_rasimha
+200 - sub vassal: c_rasimha - Title given to 1000311 - Primary title: d_desenes
+200 - vassal: c_beturg - Holder 1000335 - Primary title: c_beturg has lost the title: c_beturg
+200 - sub vassal: c_beturg - Holder 1000335 - Primary title: c_beturg has lost the title: c_beturg
+200 - vassal: c_beturg - Title given to 1000335 - Primary title: d_ebudinus
+200 - sub vassal: c_beturg - Title given to 1000335 - Primary title: d_ebudinus
+200 - Holder (1000335) has gained c_beturg
+200 - vassal: c_tusolf - Holder 1000335 - Primary title: c_tusolf has lost the title: c_tusolf
+200 - sub vassal: c_tusolf - Holder 1000335 - Primary title: c_tusolf has lost the title: c_tusolf
+200 - vassal: c_tusolf - Title given to 1000335 - Primary title: d_ebudinus
+200 - sub vassal: c_tusolf - Title given to 1000335 - Primary title: d_ebudinus
+200 - Holder (1000335) has gained c_tusolf
+200 - vassal: c_tinenes - Holder 1000335 - Primary title: c_tinenes has lost the title: c_tinenes
+200 - sub vassal: c_tinenes - Holder 1000335 - Primary title: c_tinenes has lost the title: c_tinenes
+200 - vassal: c_tinenes - Title given to 1000335 - Primary title: d_ebudinus
+200 - sub vassal: c_tinenes - Title given to 1000335 - Primary title: d_ebudinus
+200 - Holder (1000335) has gained c_tinenes
+200 - vassal: c_redud - Title given to 1000335 - Primary title: d_ebudinus
+200 - Holder (1000335) has gained c_redud
+242 - Holder 1001799 - Primary title: d_ebudinus has lost the title: d_ebudinus
+242 - Title given to 1001799
+242 - vassal: c_redud - Holder 1001799 - Primary title: c_redud has lost the title: c_redud
+242 - vassal: c_redud - Title given to 1001799 - Primary title: d_ebudinus
+242 - Holder (1001799) has gained c_redud
+242 - vassal: c_tinenes - Holder 1001799 - Primary title: c_tinenes has lost the title: c_tinenes
+242 - vassal: c_tinenes - Title given to 1001799 - Primary title: d_ebudinus
+242 - Holder (1001799) has gained c_tinenes
+242 - vassal: c_tusolf - Holder 1001799 - Primary title: c_tusolf has lost the title: c_tusolf
+242 - vassal: c_tusolf - Title given to 1001799 - Primary title: d_ebudinus
+242 - Holder (1001799) has gained c_tusolf
+242 - vassal: c_beturg - Holder 1001799 - Primary title: c_beturg has lost the title: c_beturg
+242 - vassal: c_beturg - Title given to 1001799 - Primary title: d_ebudinus
+242 - Holder (1001799) has gained c_beturg
+267 - Holder 1005303 - Primary title: d_ebudinus has lost the title: d_ebudinus
+267 - Title given to 1005303 - Primary title: k_tenelge
+267 - vassal: c_beturg - Holder 1005303 - Primary title: c_beturg has lost the title: c_beturg
+267 - vassal: c_beturg - Title given to 1005303 - Primary title: k_tenelge
+267 - vassal: c_tusolf - Holder 1005303 - Primary title: c_tusolf has lost the title: c_tusolf
+267 - vassal: c_tusolf - Title given to 1005303 - Primary title: k_tenelge
+267 - vassal: c_tinenes - Holder 1005303 - Primary title: c_tinenes has lost the title: c_tinenes
+267 - vassal: c_tinenes - Title given to 1005303 - Primary title: k_tenelge
+267 - vassal: c_redud - Holder 1005303 - Primary title: c_redud has lost the title: c_redud
+267 - vassal: c_redud - Title given to 1005303 - Primary title: k_tenelge
+267 - vassal: c_tusolf - Given to 1005692 in HandleTitles - Too many duke titles
+267 - vassal: c_tusolf - Title given to 1005692
+267 - Title given to 1005692 - Primary title: c_tusolf
+267 - vassal: c_tusolf - Holder (1005692) has gained d_ebudinus
+267 - vassal: c_beturg - Setting to vassal of k_tenelge in Validate Realm
+267 - Lost vassal: c_beturg
+267 - vassal: c_tinenes - Setting to vassal of k_tenelge in Validate Realm
+267 - Lost vassal: c_tinenes
+267 - vassal: c_redud - Setting to vassal of k_tenelge in Validate Realm
+267 - Lost vassal: c_redud
+267 - Too many dukes, given to dejure: k_tenelge
+314 - Holder 1005871 - Primary title: d_ebudinus has lost the title: d_ebudinus
+314 - Title given to 1005871
+314 - vassal: c_tusolf - Holder 1005871 - Primary title: c_tusolf has lost the title: c_tusolf
+314 - vassal: c_tusolf - Title given to 1005871 - Primary title: d_ebudinus
+314 - Holder (1005871) has gained c_tusolf
+319 - Holder (1005871) has gained k_tenelge
+320 - vassal: c_tusolf - Title given to 1006560
+325 - Holder 1008516 - Primary title: d_ebudinus has lost the title: d_ebudinus
+325 - Title given to 1008516 - Primary title: k_tenelge
+368 - Holder 1010388 - Primary title: d_ebudinus has lost the title: d_ebudinus
+368 - Title given to 1010388 - Primary title: k_tenelge

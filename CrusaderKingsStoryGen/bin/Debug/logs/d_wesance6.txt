@@ -1,0 +1,41 @@
+200 - Title given to 1000164
+200 - vassal: c_banand - Holder 1000164 - Primary title: c_banand has lost the title: c_banand
+200 - sub vassal: c_banand - Holder 1000164 - Primary title: c_banand has lost the title: c_banand
+200 - vassal: c_banand - Title given to 1000164 - Primary title: d_wesance
+200 - sub vassal: c_banand - Title given to 1000164 - Primary title: d_wesance
+200 - Holder (1000164) has gained c_banand
+200 - vassal: c_tamohn - Holder 1000164 - Primary title: c_tamohn has lost the title: c_tamohn
+200 - sub vassal: c_tamohn - Holder 1000164 - Primary title: c_tamohn has lost the title: c_tamohn
+200 - vassal: c_tamohn - Title given to 1000164 - Primary title: d_wesance
+200 - sub vassal: c_tamohn - Title given to 1000164 - Primary title: d_wesance
+200 - Holder (1000164) has gained c_tamohn
+200 - Holder 1001019 - Primary title: d_wesance has lost the title: d_wesance
+200 - Title given to 1001019 - Primary title: k_qujman
+200 - vassal: c_banand - Holder 1001019 - Primary title: c_banand has lost the title: c_banand
+200 - vassal: c_banand - Title given to 1001019 - Primary title: k_qujman
+228 - Holder 1001613 - Primary title: d_wesance has lost the title: d_wesance
+228 - Title given to 1001613 - Primary title: k_qujman
+228 - vassal: c_banand - Holder 1001613 - Primary title: c_banand has lost the title: c_banand
+228 - vassal: c_banand - Title given to 1001613 - Primary title: k_qujman
+234 - Holder 1003463 - Primary title: d_wesance has lost the title: d_wesance
+234 - Title given to 1003463 - Primary title: k_qujman
+234 - vassal: c_banand - Holder 1003463 - Primary title: c_banand has lost the title: c_banand
+234 - vassal: c_banand - Title given to 1003463 - Primary title: k_qujman
+245 - Holder 1001803 - Primary title: d_wesance has lost the title: d_wesance
+245 - Title given to 1001803 - Primary title: k_qujman
+245 - vassal: c_banand - Holder 1001803 - Primary title: c_banand has lost the title: c_banand
+245 - vassal: c_banand - Title given to 1001803 - Primary title: k_qujman
+251 - Gained vassal: c_wanohn
+251 - Gained vassal: c_runal
+251 - Holder 1003595 - Primary title: d_wesance has lost the title: c_runal
+251 - vassal: c_runal - Title given to 1003595 - Primary title: k_qujman
+251 - vassal: c_runal - Setting to vassal of k_qujman in Validate Realm
+251 - Lost vassal: c_runal
+251 - Holder 1003595 - Primary title: d_wesance has lost the title: c_wanohn
+251 - vassal: c_wanohn - Title given to 1003595 - Primary title: k_qujman
+251 - vassal: c_wanohn - Setting to vassal of k_qujman in Validate Realm
+251 - Lost vassal: c_wanohn
+251 - Holder 1003595 - Primary title: d_wesance has lost the title: d_wesance
+251 - Title given to 1003595 - Primary title: k_qujman
+251 - vassal: c_banand - Holder 1003595 - Primary title: c_banand has lost the title: c_banand
+251 - vassal: c_banand - Title given to 1003595 - Primary title: k_qujman

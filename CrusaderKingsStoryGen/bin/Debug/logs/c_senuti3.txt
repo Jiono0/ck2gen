@@ -1,0 +1,28 @@
+200 - Title given to 1000002 - Primary title: c_daamur
+200 - Given to 1000139 via AddCharacterForTitle
+200 - Title given to 1000139
+200 - Given to 1000140 via AddCharacterForTitle
+200 - Holder 1000140 - Primary title: c_senuti has lost the title: c_senuti
+200 - Title given to 1000140
+200 - Holder 1000135 - Primary title: c_senuti has lost the title: c_senuti
+200 - Title given to 1000135 - Primary title: d_kannes
+206 - Holder 1001801 - Primary title: c_senuti has lost the title: c_senuti
+206 - Title given to 1001801 - Primary title: d_kannes
+213 - Holder 1001612 - Primary title: c_senuti has lost the title: c_senuti
+213 - Title given to 1001612 - Primary title: k_konadma
+215 - Given to 1002438 in HandleTitles - Too many duke titles
+215 - Title given to 1002438
+215 - Holder (1002438) has gained d_kannes
+232 - Holder 1001612 - Primary title: c_senuti has lost the title: c_senuti
+232 - Title given to 1001612 - Primary title: k_konadma
+243 - Setting to vassal of d_esoputi in Validate Realm
+243 - Holder 1003268 - Primary title: c_senuti has lost the title: c_senuti
+243 - Title given to 1003268 - Primary title: k_konadma
+260 - Setting independent in Validate Realm
+260 - Made independent
+260 - Holder 1004143 - Primary title: c_senuti has lost the title: c_senuti
+260 - Title given to 1004143 - Primary title: k_konadma
+290 - Given to neighbour holder of k_kozamur
+290 - Title given to 1004178 - Primary title: k_kozamur
+291 - Title given to 1006618
+291 - Too many dukes, made direct title into vassal of k_kozamur

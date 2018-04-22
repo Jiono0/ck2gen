@@ -1,0 +1,87 @@
+200 - Title given to 1000182
+200 - vassal: c_ririmon - Given to 1000185 via AddCharacterForTitle
+200 - sub vassal: c_ririmon - Given to 1000185 via AddCharacterForTitle
+200 - vassal: c_ririmon - Holder 1000185 - Primary title: c_ririmon has lost the title: c_ririmon
+200 - sub vassal: c_ririmon - Holder 1000185 - Primary title: c_ririmon has lost the title: c_ririmon
+200 - vassal: c_ririmon - Title given to 1000185
+200 - sub vassal: c_ririmon - Title given to 1000185
+200 - vassal: c_nitachi - Given to 1000187 via AddCharacterForTitle
+200 - sub vassal: c_nitachi - Given to 1000187 via AddCharacterForTitle
+200 - vassal: c_nitachi - Holder 1000187 - Primary title: c_nitachi has lost the title: c_nitachi
+200 - sub vassal: c_nitachi - Holder 1000187 - Primary title: c_nitachi has lost the title: c_nitachi
+200 - vassal: c_nitachi - Title given to 1000187
+200 - sub vassal: c_nitachi - Title given to 1000187
+200 - vassal: c_evitimon - Holder 1000182 - Primary title: c_evitimon has lost the title: c_evitimon
+200 - sub vassal: c_evitimon - Holder 1000182 - Primary title: c_evitimon has lost the title: c_evitimon
+200 - vassal: c_evitimon - Title given to 1000182 - Primary title: d_legys
+200 - sub vassal: c_evitimon - Title given to 1000182 - Primary title: d_legys
+200 - Holder (1000182) has gained c_evitimon
+200 - vassal: c_ririmon - Holder 1000182 - Primary title: c_ririmon has lost the title: c_ririmon
+200 - sub vassal: c_ririmon - Holder 1000182 - Primary title: c_ririmon has lost the title: c_ririmon
+200 - vassal: c_ririmon - Title given to 1000182 - Primary title: d_legys
+200 - sub vassal: c_ririmon - Title given to 1000182 - Primary title: d_legys
+200 - Holder (1000182) has gained c_ririmon
+200 - vassal: c_retanos - Holder 1000182 - Primary title: c_retanos has lost the title: c_retanos
+200 - sub vassal: c_retanos - Holder 1000182 - Primary title: c_retanos has lost the title: c_retanos
+200 - vassal: c_retanos - Title given to 1000182 - Primary title: d_legys
+200 - sub vassal: c_retanos - Title given to 1000182 - Primary title: d_legys
+200 - Holder (1000182) has gained c_retanos
+201 - Holder 1000209 - Primary title: d_legys has lost the title: d_legys
+201 - Title given to 1000209 - Primary title: d_teimako
+201 - vassal: c_retanos - Holder 1000209 - Primary title: c_retanos has lost the title: c_retanos
+201 - vassal: c_retanos - Title given to 1000209 - Primary title: d_teimako
+201 - vassal: c_ririmon - Holder 1000209 - Primary title: c_ririmon has lost the title: c_ririmon
+201 - vassal: c_ririmon - Title given to 1000209 - Primary title: d_teimako
+201 - vassal: c_evitimon - Holder 1000209 - Primary title: c_evitimon has lost the title: c_evitimon
+201 - vassal: c_evitimon - Title given to 1000209 - Primary title: d_teimako
+202 - Holder 1001617 - Primary title: d_legys has lost the title: c_avitaise
+245 - Holder 1001792 - Primary title: d_legys has lost the title: d_legys
+245 - Title given to 1001792
+245 - vassal: c_evitimon - Setting to vassal of d_teimako in Validate Realm
+245 - Lost vassal: c_evitimon
+245 - vassal: c_ririmon - Setting to vassal of d_teimako in Validate Realm
+245 - Lost vassal: c_ririmon
+245 - vassal: c_retanos - Setting to vassal of d_teimako in Validate Realm
+245 - Lost vassal: c_retanos
+245 - Holder (1001792) has gained d_teimako
+245 - Holder (1001792) has gained c_evitimon
+245 - Holder (1001792) has gained c_ririmon
+245 - Holder (1001792) has gained c_retanos
+245 - Holder (1001792) has gained c_kegui
+245 - Holder (1001792) has gained c_betiel
+246 - Destroyed due to flagged problem
+246 - Made independent
+246 - Title destroyed
+264 - Given to 1001792 in TestCreateEmpire
+264 - Title given to 1001792 - Primary title: d_tuatui
+264 - Made independent for title creation d_legys for d_titako
+264 - Made independent
+264 - Gained vassal: c_bitasin
+264 - Gained vassal: c_kegui
+264 - Gained vassal: c_retanos
+264 - Gained vassal: c_ririmon
+264 - Gained vassal: c_evitimon
+264 - Gained vassal: c_neirina
+264 - Gained vassal: c_dys
+264 - Gained vassal: c_rimon
+264 - Gained vassal: c_kalurt
+264 - Destroyed due to no capital's obtainable
+264 - Title destroyed
+264 - vassal: c_retanos - Setting independent due to liege destruction
+264 - vassal: c_retanos - Made independent
+264 - vassal: c_kegui - Setting independent due to liege destruction
+264 - vassal: c_kegui - Made independent
+264 - vassal: c_bitasin - Setting independent due to liege destruction
+264 - vassal: c_bitasin - Made independent
+264 - vassal: c_ririmon - Setting independent due to liege destruction
+264 - vassal: c_ririmon - Made independent
+264 - vassal: c_evitimon - Setting independent due to liege destruction
+264 - vassal: c_evitimon - Made independent
+264 - vassal: c_neirina - Setting independent due to liege destruction
+264 - vassal: c_neirina - Made independent
+264 - vassal: c_dys - Setting independent due to liege destruction
+264 - vassal: c_dys - Made independent
+264 - vassal: c_rimon - Setting independent due to liege destruction
+264 - vassal: c_rimon - Made independent
+264 - vassal: c_kalurt - Setting independent due to liege destruction
+264 - vassal: c_kalurt - Made independent

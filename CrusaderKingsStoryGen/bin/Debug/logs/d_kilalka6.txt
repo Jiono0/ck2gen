@@ -1,0 +1,41 @@
+200 - Title given to 1000635
+200 - vassal: c_kabdente - Given to 1000638 via AddCharacterForTitle
+200 - sub vassal: c_kabdente - Given to 1000638 via AddCharacterForTitle
+200 - vassal: c_kabdente - Holder 1000638 - Primary title: c_kabdente has lost the title: c_kabdente
+200 - sub vassal: c_kabdente - Holder 1000638 - Primary title: c_kabdente has lost the title: c_kabdente
+200 - vassal: c_kabdente - Title given to 1000638
+200 - sub vassal: c_kabdente - Title given to 1000638
+200 - vassal: c_karati - Holder 1000635 - Primary title: c_karati has lost the title: c_karati
+200 - sub vassal: c_karati - Holder 1000635 - Primary title: c_karati has lost the title: c_karati
+200 - vassal: c_karati - Title given to 1000635 - Primary title: d_kilalka
+200 - sub vassal: c_karati - Title given to 1000635 - Primary title: d_kilalka
+200 - Holder (1000635) has gained c_karati
+200 - vassal: c_kabdente - Holder 1000635 - Primary title: c_kabdente has lost the title: c_kabdente
+200 - sub vassal: c_kabdente - Holder 1000635 - Primary title: c_kabdente has lost the title: c_kabdente
+200 - vassal: c_kabdente - Title given to 1000635 - Primary title: d_kilalka
+200 - sub vassal: c_kabdente - Title given to 1000635 - Primary title: d_kilalka
+200 - Holder (1000635) has gained c_kabdente
+200 - vassal: c_sagana - Holder 1000635 - Primary title: c_sagana has lost the title: c_sagana
+200 - sub vassal: c_sagana - Holder 1000635 - Primary title: c_sagana has lost the title: c_sagana
+200 - vassal: c_sagana - Title given to 1000635 - Primary title: d_kilalka
+200 - sub vassal: c_sagana - Title given to 1000635 - Primary title: d_kilalka
+200 - Holder (1000635) has gained c_sagana
+200 - vassal: c_dasaday - Holder 1000635 - Primary title: c_dasaday has lost the title: c_dasaday
+200 - sub vassal: c_dasaday - Holder 1000635 - Primary title: c_dasaday has lost the title: c_dasaday
+200 - vassal: c_dasaday - Title given to 1000635 - Primary title: d_kilalka
+200 - sub vassal: c_dasaday - Title given to 1000635 - Primary title: d_kilalka
+200 - Holder (1000635) has gained c_dasaday
+235 - Holder 1001673 - Primary title: d_kilalka has lost the title: d_kilalka
+235 - Title given to 1001673
+235 - vassal: c_karati - Holder 1001673 - Primary title: c_karati has lost the title: c_karati
+235 - vassal: c_karati - Title given to 1001673 - Primary title: d_kilalka
+235 - Holder (1001673) has gained c_karati
+235 - vassal: c_kabdente - Holder 1001673 - Primary title: c_kabdente has lost the title: c_kabdente
+235 - vassal: c_kabdente - Title given to 1001673 - Primary title: d_kilalka
+235 - Holder (1001673) has gained c_kabdente
+235 - vassal: c_sagana - Holder 1001673 - Primary title: c_sagana has lost the title: c_sagana
+235 - vassal: c_sagana - Title given to 1001673 - Primary title: d_kilalka
+235 - Holder (1001673) has gained c_sagana
+235 - vassal: c_dasaday - Holder 1001673 - Primary title: c_dasaday has lost the title: c_dasaday
+235 - vassal: c_dasaday - Title given to 1001673 - Primary title: d_kilalka
+235 - Holder (1001673) has gained c_dasaday

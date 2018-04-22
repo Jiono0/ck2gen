@@ -1,0 +1,890 @@
+200 - Title given to 1001048
+200 - vassal: d_keda - Holder 1001048 - Primary title: d_keda has lost the title: d_keda
+200 - sub vassal: d_keda - Holder 1001048 - Primary title: d_keda has lost the title: d_keda
+200 - vassal: d_keda - Title given to 1001048 - Primary title: k_subed
+200 - sub vassal: d_keda - Title given to 1001048 - Primary title: k_subed
+200 - Holder (1001048) has gained d_keda
+200 - vassal: d_nadounu - Holder 1001048 - Primary title: d_nadounu has lost the title: d_nadounu
+200 - sub vassal: d_nadounu - Holder 1001048 - Primary title: d_nadounu has lost the title: d_nadounu
+200 - vassal: d_nadounu - Title given to 1001048 - Primary title: k_subed
+200 - sub vassal: d_nadounu - Title given to 1001048 - Primary title: k_subed
+200 - Holder (1001048) has gained d_nadounu
+200 - sub vassal: c_lened - Holder 1001048 - Primary title: c_lened has lost the title: c_lened
+200 - sub vassal: c_lened - Title given to 1001048 - Primary title: k_subed
+200 - Holder (1001048) has gained c_lened
+217 - vassal: d_dimilo - Holder 1002281 - Primary title: d_dimilo has lost the title: d_dimilo
+217 - sub vassal: d_dimilo - Holder 1002281 - Primary title: d_dimilo has lost the title: d_dimilo
+217 - vassal: d_dimilo - Title given to 1002281
+217 - sub vassal: d_dimilo - Title given to 1002281
+217 - sub vassal: c_keniong - Holder 1002281 - Primary title: c_keniong has lost the title: c_keniong
+217 - sub vassal: c_keniong - Title given to 1002281 - Primary title: d_dimilo
+217 - vassal: d_dimilo - Holder (1002281) has gained c_keniong
+217 - sub vassal: d_dimilo - Holder (1002281) has gained c_keniong
+217 - sub vassal: c_weneyu - Holder 1002281 - Primary title: c_weneyu has lost the title: c_weneyu
+217 - sub vassal: c_weneyu - Title given to 1002281 - Primary title: d_dimilo
+217 - vassal: d_dimilo - Holder (1002281) has gained c_weneyu
+217 - sub vassal: d_dimilo - Holder (1002281) has gained c_weneyu
+217 - sub vassal: c_qegeda - Holder 1002281 - Primary title: c_qegeda has lost the title: c_qegeda
+217 - sub vassal: c_qegeda - Title given to 1002281 - Primary title: d_dimilo
+217 - vassal: d_dimilo - Holder (1002281) has gained c_qegeda
+217 - sub vassal: d_dimilo - Holder (1002281) has gained c_qegeda
+221 - Holder 1001767 - Primary title: k_subed has lost the title: k_subed
+221 - Title given to 1001767
+221 - vassal: d_keda - Holder 1001767 - Primary title: d_keda has lost the title: d_keda
+221 - sub vassal: d_keda - Holder 1001767 - Primary title: d_keda has lost the title: d_keda
+221 - vassal: d_keda - Title given to 1001767 - Primary title: k_subed
+221 - sub vassal: d_keda - Title given to 1001767 - Primary title: k_subed
+221 - Holder (1001767) has gained d_keda
+221 - sub vassal: c_lened - Setting to vassal of d_nadounu in Validate Realm
+221 - vassal: d_keda - Lost vassal: c_lened
+221 - sub vassal: d_keda - Lost vassal: c_lened
+221 - vassal: d_nadounu - Gained vassal: c_lened
+221 - sub vassal: d_nadounu - Gained vassal: c_lened
+221 - vassal: d_nadounu - Holder 1001767 - Primary title: d_nadounu has lost the title: d_nadounu
+221 - sub vassal: d_nadounu - Holder 1001767 - Primary title: d_nadounu has lost the title: d_nadounu
+221 - vassal: d_nadounu - Title given to 1001767 - Primary title: k_subed
+221 - sub vassal: d_nadounu - Title given to 1001767 - Primary title: k_subed
+221 - Holder (1001767) has gained d_nadounu
+221 - sub vassal: c_lened - Holder 1001767 - Primary title: c_lened has lost the title: c_lened
+221 - sub vassal: c_lened - Title given to 1001767 - Primary title: k_subed
+221 - Holder (1001767) has gained c_lened
+228 - vassal: d_segiong - Holder 1001604 - Primary title: d_segiong has lost the title: d_segiong
+228 - sub vassal: d_segiong - Holder 1001604 - Primary title: d_segiong has lost the title: d_segiong
+228 - vassal: d_segiong - Title given to 1001604
+228 - sub vassal: d_segiong - Title given to 1001604
+228 - sub vassal: c_winilde - Holder 1001604 - Primary title: c_winilde has lost the title: c_winilde
+228 - sub vassal: c_winilde - Title given to 1001604 - Primary title: d_segiong
+228 - vassal: d_segiong - Holder (1001604) has gained c_winilde
+228 - sub vassal: d_segiong - Holder (1001604) has gained c_winilde
+228 - sub vassal: c_notomar - Holder 1001604 - Primary title: c_notomar has lost the title: c_notomar
+228 - sub vassal: c_notomar - Title given to 1001604 - Primary title: d_segiong
+228 - vassal: d_segiong - Holder (1001604) has gained c_notomar
+228 - sub vassal: d_segiong - Holder (1001604) has gained c_notomar
+228 - sub vassal: c_rebilo - Holder 1001604 - Primary title: c_rebilo has lost the title: c_rebilo
+228 - sub vassal: c_rebilo - Title given to 1001604 - Primary title: d_segiong
+228 - vassal: d_segiong - Holder (1001604) has gained c_rebilo
+228 - sub vassal: d_segiong - Holder (1001604) has gained c_rebilo
+230 - vassal: d_dozogen - Holder 1001758 - Primary title: d_dozogen has lost the title: d_dozogen
+230 - sub vassal: d_dozogen - Holder 1001758 - Primary title: d_dozogen has lost the title: d_dozogen
+230 - vassal: d_dozogen - Title given to 1001758
+230 - sub vassal: d_dozogen - Title given to 1001758
+230 - sub vassal: c_axenilo - Holder 1001758 - Primary title: c_axenilo has lost the title: c_axenilo
+230 - sub vassal: c_axenilo - Title given to 1001758 - Primary title: d_dozogen
+230 - vassal: d_dozogen - Holder (1001758) has gained c_axenilo
+230 - sub vassal: d_dozogen - Holder (1001758) has gained c_axenilo
+230 - sub vassal: c_tiong - Holder 1001758 - Primary title: c_tiong has lost the title: c_tiong
+230 - sub vassal: c_tiong - Title given to 1001758 - Primary title: d_dozogen
+230 - vassal: d_dozogen - Holder (1001758) has gained c_tiong
+230 - sub vassal: d_dozogen - Holder (1001758) has gained c_tiong
+230 - sub vassal: c_kened - Holder 1001758 - Primary title: c_kened has lost the title: c_kened
+230 - sub vassal: c_kened - Title given to 1001758 - Primary title: d_dozogen
+230 - vassal: d_dozogen - Holder (1001758) has gained c_kened
+230 - sub vassal: d_dozogen - Holder (1001758) has gained c_kened
+232 - vassal: d_segiong - Holder 1000844 - Primary title: d_segiong has lost the title: d_segiong
+232 - sub vassal: d_segiong - Holder 1000844 - Primary title: d_segiong has lost the title: d_segiong
+232 - vassal: d_segiong - Title given to 1000844 - Primary title: d_wened
+232 - sub vassal: d_segiong - Title given to 1000844 - Primary title: d_wened
+232 - vassal: d_wened - Holder (1000844) has gained d_segiong
+232 - sub vassal: d_wened - Holder (1000844) has gained d_segiong
+232 - sub vassal: c_winilde - Holder 1000844 - Primary title: c_winilde has lost the title: c_winilde
+232 - sub vassal: c_winilde - Title given to 1000844 - Primary title: d_wened
+232 - vassal: d_wened - Holder (1000844) has gained c_winilde
+232 - sub vassal: d_wened - Holder (1000844) has gained c_winilde
+232 - sub vassal: c_notomar - Holder 1000844 - Primary title: c_notomar has lost the title: c_notomar
+232 - sub vassal: c_notomar - Title given to 1000844 - Primary title: d_wened
+232 - vassal: d_wened - Holder (1000844) has gained c_notomar
+232 - sub vassal: d_wened - Holder (1000844) has gained c_notomar
+232 - sub vassal: c_rebilo - Holder 1000844 - Primary title: c_rebilo has lost the title: c_rebilo
+232 - sub vassal: c_rebilo - Title given to 1000844 - Primary title: d_wened
+232 - vassal: d_wened - Holder (1000844) has gained c_rebilo
+232 - sub vassal: d_wened - Holder (1000844) has gained c_rebilo
+233 - vassal: d_segiong - Holder 1003512 - Primary title: d_segiong has lost the title: c_begiong
+233 - sub vassal: d_segiong - Holder 1003512 - Primary title: d_segiong has lost the title: c_begiong
+233 - sub vassal: c_begiong - Title given to 1003512
+233 - vassal: d_segiong - Holder 1003513 - Primary title: d_segiong has lost the title: c_lopeyu
+233 - sub vassal: d_segiong - Holder 1003513 - Primary title: d_segiong has lost the title: c_lopeyu
+233 - sub vassal: c_lopeyu - Title given to 1003513
+233 - vassal: d_segiong - Holder 1003514 - Primary title: d_segiong has lost the title: c_wuled
+233 - sub vassal: d_segiong - Holder 1003514 - Primary title: d_segiong has lost the title: c_wuled
+233 - sub vassal: c_wuled - Title given to 1003514
+235 - vassal: d_ebined - Holder 1001325 - Primary title: d_ebined has lost the title: d_ebined
+235 - sub vassal: d_ebined - Holder 1001325 - Primary title: d_ebined has lost the title: d_ebined
+235 - vassal: d_ebined - Title given to 1001325
+235 - sub vassal: d_ebined - Title given to 1001325
+235 - sub vassal: c_reneda - Holder 1001325 - Primary title: c_reneda has lost the title: c_reneda
+235 - sub vassal: c_reneda - Title given to 1001325 - Primary title: d_ebined
+235 - vassal: d_ebined - Holder (1001325) has gained c_reneda
+235 - sub vassal: d_ebined - Holder (1001325) has gained c_reneda
+235 - sub vassal: c_qegug - Holder 1001325 - Primary title: c_qegug has lost the title: c_qegug
+235 - sub vassal: c_qegug - Title given to 1001325 - Primary title: d_ebined
+235 - vassal: d_ebined - Holder (1001325) has gained c_qegug
+235 - sub vassal: d_ebined - Holder (1001325) has gained c_qegug
+236 - vassal: d_ebined - Holder 1000844 - Primary title: d_ebined has lost the title: d_ebined
+236 - sub vassal: d_ebined - Holder 1000844 - Primary title: d_ebined has lost the title: d_ebined
+236 - vassal: d_ebined - Title given to 1000844 - Primary title: d_segiong
+236 - sub vassal: d_ebined - Title given to 1000844 - Primary title: d_segiong
+236 - vassal: d_segiong - Holder (1000844) has gained d_ebined
+236 - sub vassal: d_segiong - Holder (1000844) has gained d_ebined
+236 - sub vassal: c_reneda - Holder 1000844 - Primary title: c_reneda has lost the title: c_reneda
+236 - sub vassal: c_reneda - Title given to 1000844 - Primary title: d_wened
+236 - vassal: d_wened - Holder (1000844) has gained c_reneda
+236 - sub vassal: d_wened - Holder (1000844) has gained c_reneda
+236 - sub vassal: c_qegug - Holder 1000844 - Primary title: c_qegug has lost the title: c_qegug
+236 - sub vassal: c_qegug - Title given to 1000844 - Primary title: d_wened
+236 - vassal: d_wened - Holder (1000844) has gained c_qegug
+236 - sub vassal: d_wened - Holder (1000844) has gained c_qegug
+237 - sub vassal: c_begiong - Given to 1003710 in HandleTitles - Too many duke titles
+237 - sub vassal: c_begiong - Holder 1003710 - Primary title: c_begiong has lost the title: c_begiong
+237 - sub vassal: c_begiong - Title given to 1003710
+237 - vassal: d_ebined - Holder 1001767 - Primary title: d_ebined has lost the title: d_wened
+237 - sub vassal: d_ebined - Holder 1001767 - Primary title: d_ebined has lost the title: d_wened
+237 - vassal: d_wened - Title given to 1001767 - Primary title: k_subed
+237 - sub vassal: d_wened - Title given to 1001767 - Primary title: k_subed
+237 - Holder (1001767) has gained d_wened
+237 - sub vassal: c_wamava - Setting to vassal of d_ebined in Validate Realm
+237 - vassal: d_wened - Lost vassal: c_wamava
+237 - sub vassal: d_wened - Lost vassal: c_wamava
+237 - sub vassal: c_qenug - Setting to vassal of d_ebined in Validate Realm
+237 - vassal: d_wened - Lost vassal: c_qenug
+237 - sub vassal: d_wened - Lost vassal: c_qenug
+237 - vassal: d_ebined - Gained vassal: c_qenug
+237 - sub vassal: d_ebined - Gained vassal: c_qenug
+237 - vassal: d_ebined - Gained vassal: c_wamava
+237 - sub vassal: d_ebined - Gained vassal: c_wamava
+237 - vassal: d_wened - Too many dukes, made direct title into vassal of k_subed
+237 - sub vassal: d_wened - Too many dukes, made direct title into vassal of k_subed
+237 - Holder 1003711 - Primary title: k_subed has lost the title: d_wened
+237 - vassal: d_wened - Title given to 1003711
+237 - sub vassal: d_wened - Title given to 1003711
+237 - vassal: d_ebined - Holder 1003712 - Primary title: d_ebined has lost the title: c_winilde
+237 - sub vassal: d_ebined - Holder 1003712 - Primary title: d_ebined has lost the title: c_winilde
+237 - sub vassal: c_winilde - Title given to 1003712
+237 - vassal: d_ebined - Holder 1003713 - Primary title: d_ebined has lost the title: c_notomar
+237 - sub vassal: d_ebined - Holder 1003713 - Primary title: d_ebined has lost the title: c_notomar
+237 - sub vassal: c_notomar - Title given to 1003713
+240 - vassal: d_segiong - Holder 1002180 - Primary title: d_segiong has lost the title: d_segiong
+240 - sub vassal: d_segiong - Holder 1002180 - Primary title: d_segiong has lost the title: d_segiong
+240 - vassal: d_segiong - Title given to 1002180
+240 - sub vassal: d_segiong - Title given to 1002180
+240 - sub vassal: c_rebilo - Setting to vassal of d_ebined in Validate Realm
+240 - vassal: d_segiong - Lost vassal: c_rebilo
+240 - sub vassal: d_segiong - Lost vassal: c_rebilo
+240 - vassal: d_ebined - Gained vassal: c_rebilo
+240 - sub vassal: d_ebined - Gained vassal: c_rebilo
+240 - vassal: d_ebined - Holder 1002180 - Primary title: d_ebined has lost the title: d_ebined
+240 - sub vassal: d_ebined - Holder 1002180 - Primary title: d_ebined has lost the title: d_ebined
+240 - vassal: d_ebined - Title given to 1002180 - Primary title: d_segiong
+240 - sub vassal: d_ebined - Title given to 1002180 - Primary title: d_segiong
+240 - vassal: d_segiong - Holder (1002180) has gained d_ebined
+240 - sub vassal: d_segiong - Holder (1002180) has gained d_ebined
+240 - sub vassal: c_qegug - Holder 1002180 - Primary title: c_qegug has lost the title: c_qegug
+240 - sub vassal: c_qegug - Title given to 1002180 - Primary title: d_segiong
+240 - vassal: d_segiong - Holder (1002180) has gained c_qegug
+240 - sub vassal: d_segiong - Holder (1002180) has gained c_qegug
+240 - sub vassal: c_reneda - Holder 1002180 - Primary title: c_reneda has lost the title: c_reneda
+240 - sub vassal: c_reneda - Title given to 1002180 - Primary title: d_segiong
+240 - vassal: d_segiong - Holder (1002180) has gained c_reneda
+240 - sub vassal: d_segiong - Holder (1002180) has gained c_reneda
+240 - sub vassal: c_rebilo - Holder 1002180 - Primary title: c_rebilo has lost the title: c_rebilo
+240 - sub vassal: c_rebilo - Title given to 1002180 - Primary title: d_segiong
+240 - vassal: d_segiong - Holder (1002180) has gained c_rebilo
+240 - sub vassal: d_segiong - Holder (1002180) has gained c_rebilo
+240 - sub vassal: c_qenug - Holder 1002180 - Primary title: c_qenug has lost the title: c_qenug
+240 - sub vassal: c_qenug - Title given to 1002180 - Primary title: d_segiong
+240 - vassal: d_segiong - Holder (1002180) has gained c_qenug
+240 - sub vassal: d_segiong - Holder (1002180) has gained c_qenug
+240 - sub vassal: c_wamava - Holder 1002180 - Primary title: c_wamava has lost the title: c_wamava
+240 - sub vassal: c_wamava - Title given to 1002180 - Primary title: d_segiong
+240 - vassal: d_segiong - Holder (1002180) has gained c_wamava
+240 - sub vassal: d_segiong - Holder (1002180) has gained c_wamava
+240 - sub vassal: c_notomar - Holder 1002180 - Primary title: c_notomar has lost the title: c_notomar
+240 - sub vassal: c_notomar - Title given to 1002180 - Primary title: d_segiong
+240 - vassal: d_segiong - Holder (1002180) has gained c_notomar
+240 - sub vassal: d_segiong - Holder (1002180) has gained c_notomar
+240 - vassal: d_segiong - Holder 1003870 - Primary title: d_segiong has lost the title: c_reneda
+240 - sub vassal: d_segiong - Holder 1003870 - Primary title: d_segiong has lost the title: c_reneda
+240 - sub vassal: c_reneda - Title given to 1003870
+243 - vassal: d_dimilo - Holder 1003189 - Primary title: d_dimilo has lost the title: d_dimilo
+243 - sub vassal: d_dimilo - Holder 1003189 - Primary title: d_dimilo has lost the title: d_dimilo
+243 - vassal: d_dimilo - Title given to 1003189
+243 - sub vassal: d_dimilo - Title given to 1003189
+243 - sub vassal: c_keniong - Holder 1003189 - Primary title: c_keniong has lost the title: c_keniong
+243 - sub vassal: c_keniong - Title given to 1003189 - Primary title: d_dimilo
+243 - vassal: d_dimilo - Holder (1003189) has gained c_keniong
+243 - sub vassal: d_dimilo - Holder (1003189) has gained c_keniong
+243 - sub vassal: c_weneyu - Holder 1003189 - Primary title: c_weneyu has lost the title: c_weneyu
+243 - sub vassal: c_weneyu - Title given to 1003189 - Primary title: d_dimilo
+243 - vassal: d_dimilo - Holder (1003189) has gained c_weneyu
+243 - sub vassal: d_dimilo - Holder (1003189) has gained c_weneyu
+243 - sub vassal: c_qegeda - Holder 1003189 - Primary title: c_qegeda has lost the title: c_qegeda
+243 - sub vassal: c_qegeda - Title given to 1003189 - Primary title: d_dimilo
+243 - vassal: d_dimilo - Holder (1003189) has gained c_qegeda
+243 - sub vassal: d_dimilo - Holder (1003189) has gained c_qegeda
+256 - vassal: d_dimilo - Holder 1004263 - Primary title: d_dimilo has lost the title: d_dimilo
+256 - sub vassal: d_dimilo - Holder 1004263 - Primary title: d_dimilo has lost the title: d_dimilo
+256 - vassal: d_dimilo - Title given to 1004263
+256 - sub vassal: d_dimilo - Title given to 1004263
+256 - sub vassal: c_keniong - Holder 1004263 - Primary title: c_keniong has lost the title: c_keniong
+256 - sub vassal: c_keniong - Title given to 1004263 - Primary title: d_dimilo
+256 - vassal: d_dimilo - Holder (1004263) has gained c_keniong
+256 - sub vassal: d_dimilo - Holder (1004263) has gained c_keniong
+256 - sub vassal: c_weneyu - Holder 1004263 - Primary title: c_weneyu has lost the title: c_weneyu
+256 - sub vassal: c_weneyu - Title given to 1004263 - Primary title: d_dimilo
+256 - vassal: d_dimilo - Holder (1004263) has gained c_weneyu
+256 - sub vassal: d_dimilo - Holder (1004263) has gained c_weneyu
+256 - sub vassal: c_qegeda - Holder 1004263 - Primary title: c_qegeda has lost the title: c_qegeda
+256 - sub vassal: c_qegeda - Title given to 1004263 - Primary title: d_dimilo
+256 - vassal: d_dimilo - Holder (1004263) has gained c_qegeda
+256 - sub vassal: d_dimilo - Holder (1004263) has gained c_qegeda
+261 - vassal: d_segiong - Holder 1004041 - Primary title: d_segiong has lost the title: d_segiong
+261 - sub vassal: d_segiong - Holder 1004041 - Primary title: d_segiong has lost the title: d_segiong
+261 - vassal: d_segiong - Title given to 1004041
+261 - sub vassal: d_segiong - Title given to 1004041
+261 - sub vassal: c_notomar - Setting to vassal of d_ebined in Validate Realm
+261 - vassal: d_segiong - Lost vassal: c_notomar
+261 - sub vassal: d_segiong - Lost vassal: c_notomar
+261 - vassal: d_ebined - Gained vassal: c_notomar
+261 - sub vassal: d_ebined - Gained vassal: c_notomar
+261 - vassal: d_ebined - Holder 1004041 - Primary title: d_ebined has lost the title: d_ebined
+261 - sub vassal: d_ebined - Holder 1004041 - Primary title: d_ebined has lost the title: d_ebined
+261 - vassal: d_ebined - Title given to 1004041 - Primary title: d_segiong
+261 - sub vassal: d_ebined - Title given to 1004041 - Primary title: d_segiong
+261 - vassal: d_segiong - Holder (1004041) has gained d_ebined
+261 - sub vassal: d_segiong - Holder (1004041) has gained d_ebined
+261 - sub vassal: c_qegug - Holder 1004041 - Primary title: c_qegug has lost the title: c_qegug
+261 - sub vassal: c_qegug - Title given to 1004041 - Primary title: d_segiong
+261 - vassal: d_segiong - Holder (1004041) has gained c_qegug
+261 - sub vassal: d_segiong - Holder (1004041) has gained c_qegug
+261 - sub vassal: c_rebilo - Holder 1004041 - Primary title: c_rebilo has lost the title: c_rebilo
+261 - sub vassal: c_rebilo - Title given to 1004041 - Primary title: d_segiong
+261 - vassal: d_segiong - Holder (1004041) has gained c_rebilo
+261 - sub vassal: d_segiong - Holder (1004041) has gained c_rebilo
+261 - sub vassal: c_qenug - Holder 1004041 - Primary title: c_qenug has lost the title: c_qenug
+261 - sub vassal: c_qenug - Title given to 1004041 - Primary title: d_segiong
+261 - vassal: d_segiong - Holder (1004041) has gained c_qenug
+261 - sub vassal: d_segiong - Holder (1004041) has gained c_qenug
+261 - sub vassal: c_wamava - Holder 1004041 - Primary title: c_wamava has lost the title: c_wamava
+261 - sub vassal: c_wamava - Title given to 1004041 - Primary title: d_segiong
+261 - vassal: d_segiong - Holder (1004041) has gained c_wamava
+261 - sub vassal: d_segiong - Holder (1004041) has gained c_wamava
+261 - sub vassal: c_notomar - Holder 1004041 - Primary title: c_notomar has lost the title: c_notomar
+261 - sub vassal: c_notomar - Title given to 1004041 - Primary title: d_segiong
+261 - vassal: d_segiong - Holder (1004041) has gained c_notomar
+261 - sub vassal: d_segiong - Holder (1004041) has gained c_notomar
+262 - sub vassal: c_winilde - Holder 1004041 - Primary title: c_winilde has lost the title: c_winilde
+262 - sub vassal: c_winilde - Title given to 1004041 - Primary title: d_segiong
+262 - vassal: d_segiong - Holder (1004041) has gained c_winilde
+262 - sub vassal: d_segiong - Holder (1004041) has gained c_winilde
+262 - vassal: d_segiong - Holder 1005093 - Primary title: d_segiong has lost the title: c_qegug
+262 - sub vassal: d_segiong - Holder 1005093 - Primary title: d_segiong has lost the title: c_qegug
+262 - sub vassal: c_qegug - Title given to 1005093
+266 - vassal: d_dozogen - Holder 1003511 - Primary title: d_dozogen has lost the title: d_dozogen
+266 - sub vassal: d_dozogen - Holder 1003511 - Primary title: d_dozogen has lost the title: d_dozogen
+266 - vassal: d_dozogen - Title given to 1003511
+266 - sub vassal: d_dozogen - Title given to 1003511
+266 - sub vassal: c_axenilo - Holder 1003511 - Primary title: c_axenilo has lost the title: c_axenilo
+266 - sub vassal: c_axenilo - Title given to 1003511 - Primary title: d_dozogen
+266 - vassal: d_dozogen - Holder (1003511) has gained c_axenilo
+266 - sub vassal: d_dozogen - Holder (1003511) has gained c_axenilo
+266 - sub vassal: c_tiong - Holder 1003511 - Primary title: c_tiong has lost the title: c_tiong
+266 - sub vassal: c_tiong - Title given to 1003511 - Primary title: d_dozogen
+266 - vassal: d_dozogen - Holder (1003511) has gained c_tiong
+266 - sub vassal: d_dozogen - Holder (1003511) has gained c_tiong
+266 - sub vassal: c_kened - Holder 1003511 - Primary title: c_kened has lost the title: c_kened
+266 - sub vassal: c_kened - Title given to 1003511 - Primary title: d_dozogen
+266 - vassal: d_dozogen - Holder (1003511) has gained c_kened
+266 - sub vassal: d_dozogen - Holder (1003511) has gained c_kened
+269 - vassal: d_dozogen - Holder 1005373 - Primary title: d_dozogen has lost the title: d_dozogen
+269 - sub vassal: d_dozogen - Holder 1005373 - Primary title: d_dozogen has lost the title: d_dozogen
+269 - vassal: d_dozogen - Title given to 1005373
+269 - sub vassal: d_dozogen - Title given to 1005373
+269 - sub vassal: c_axenilo - Holder 1005373 - Primary title: c_axenilo has lost the title: c_axenilo
+269 - sub vassal: c_axenilo - Title given to 1005373 - Primary title: d_dozogen
+269 - vassal: d_dozogen - Holder (1005373) has gained c_axenilo
+269 - sub vassal: d_dozogen - Holder (1005373) has gained c_axenilo
+269 - sub vassal: c_tiong - Holder 1005373 - Primary title: c_tiong has lost the title: c_tiong
+269 - sub vassal: c_tiong - Title given to 1005373 - Primary title: d_dozogen
+269 - vassal: d_dozogen - Holder (1005373) has gained c_tiong
+269 - sub vassal: d_dozogen - Holder (1005373) has gained c_tiong
+269 - sub vassal: c_kened - Holder 1005373 - Primary title: c_kened has lost the title: c_kened
+269 - sub vassal: c_kened - Title given to 1005373 - Primary title: d_dozogen
+269 - vassal: d_dozogen - Holder (1005373) has gained c_kened
+269 - sub vassal: d_dozogen - Holder (1005373) has gained c_kened
+271 - Holder 1002838 - Primary title: k_subed has lost the title: k_subed
+271 - Title given to 1002838
+271 - vassal: d_keda - Holder 1002838 - Primary title: d_keda has lost the title: d_keda
+271 - sub vassal: d_keda - Holder 1002838 - Primary title: d_keda has lost the title: d_keda
+271 - vassal: d_keda - Title given to 1002838 - Primary title: k_subed
+271 - sub vassal: d_keda - Title given to 1002838 - Primary title: k_subed
+271 - Holder (1002838) has gained d_keda
+271 - vassal: d_nadounu - Holder 1002838 - Primary title: d_nadounu has lost the title: d_nadounu
+271 - sub vassal: d_nadounu - Holder 1002838 - Primary title: d_nadounu has lost the title: d_nadounu
+271 - vassal: d_nadounu - Title given to 1002838 - Primary title: k_subed
+271 - sub vassal: d_nadounu - Title given to 1002838 - Primary title: k_subed
+271 - Holder (1002838) has gained d_nadounu
+271 - sub vassal: c_lened - Holder 1002838 - Primary title: c_lened has lost the title: c_lened
+271 - sub vassal: c_lened - Title given to 1002838 - Primary title: k_subed
+271 - Holder (1002838) has gained c_lened
+286 - vassal: d_segiong - Holder 1005916 - Primary title: d_segiong has lost the title: d_segiong
+286 - sub vassal: d_segiong - Holder 1005916 - Primary title: d_segiong has lost the title: d_segiong
+286 - vassal: d_segiong - Title given to 1005916
+286 - sub vassal: d_segiong - Title given to 1005916
+286 - sub vassal: c_winilde - Setting to vassal of d_ebined in Validate Realm
+286 - vassal: d_segiong - Lost vassal: c_winilde
+286 - sub vassal: d_segiong - Lost vassal: c_winilde
+286 - vassal: d_ebined - Gained vassal: c_winilde
+286 - sub vassal: d_ebined - Gained vassal: c_winilde
+286 - vassal: d_ebined - Holder 1005916 - Primary title: d_ebined has lost the title: d_ebined
+286 - sub vassal: d_ebined - Holder 1005916 - Primary title: d_ebined has lost the title: d_ebined
+286 - vassal: d_ebined - Title given to 1005916 - Primary title: d_segiong
+286 - sub vassal: d_ebined - Title given to 1005916 - Primary title: d_segiong
+286 - vassal: d_segiong - Holder (1005916) has gained d_ebined
+286 - sub vassal: d_segiong - Holder (1005916) has gained d_ebined
+286 - sub vassal: c_winilde - Holder 1005916 - Primary title: c_winilde has lost the title: c_winilde
+286 - sub vassal: c_winilde - Title given to 1005916 - Primary title: d_segiong
+286 - vassal: d_segiong - Holder (1005916) has gained c_winilde
+286 - sub vassal: d_segiong - Holder (1005916) has gained c_winilde
+286 - sub vassal: c_notomar - Holder 1005916 - Primary title: c_notomar has lost the title: c_notomar
+286 - sub vassal: c_notomar - Title given to 1005916 - Primary title: d_segiong
+286 - vassal: d_segiong - Holder (1005916) has gained c_notomar
+286 - sub vassal: d_segiong - Holder (1005916) has gained c_notomar
+286 - sub vassal: c_wamava - Holder 1005916 - Primary title: c_wamava has lost the title: c_wamava
+286 - sub vassal: c_wamava - Title given to 1005916 - Primary title: d_segiong
+286 - vassal: d_segiong - Holder (1005916) has gained c_wamava
+286 - sub vassal: d_segiong - Holder (1005916) has gained c_wamava
+286 - sub vassal: c_qenug - Holder 1005916 - Primary title: c_qenug has lost the title: c_qenug
+286 - sub vassal: c_qenug - Title given to 1005916 - Primary title: d_segiong
+286 - vassal: d_segiong - Holder (1005916) has gained c_qenug
+286 - sub vassal: d_segiong - Holder (1005916) has gained c_qenug
+286 - sub vassal: c_rebilo - Holder 1005916 - Primary title: c_rebilo has lost the title: c_rebilo
+286 - sub vassal: c_rebilo - Title given to 1005916 - Primary title: d_segiong
+286 - vassal: d_segiong - Holder (1005916) has gained c_rebilo
+286 - sub vassal: d_segiong - Holder (1005916) has gained c_rebilo
+286 - Holder 1005779 - Primary title: k_subed has lost the title: k_subed
+286 - Title given to 1005779
+286 - vassal: d_nadounu - Holder 1005779 - Primary title: d_nadounu has lost the title: d_nadounu
+286 - sub vassal: d_nadounu - Holder 1005779 - Primary title: d_nadounu has lost the title: d_nadounu
+286 - vassal: d_nadounu - Title given to 1005779 - Primary title: k_subed
+286 - sub vassal: d_nadounu - Title given to 1005779 - Primary title: k_subed
+286 - Holder (1005779) has gained d_nadounu
+286 - sub vassal: c_lened - Setting to vassal of d_keda in Validate Realm
+286 - vassal: d_nadounu - Lost vassal: c_lened
+286 - sub vassal: d_nadounu - Lost vassal: c_lened
+286 - vassal: d_keda - Gained vassal: c_lened
+286 - sub vassal: d_keda - Gained vassal: c_lened
+286 - vassal: d_keda - Holder 1005779 - Primary title: d_keda has lost the title: d_keda
+286 - sub vassal: d_keda - Holder 1005779 - Primary title: d_keda has lost the title: d_keda
+286 - vassal: d_keda - Title given to 1005779 - Primary title: k_subed
+286 - sub vassal: d_keda - Title given to 1005779 - Primary title: k_subed
+286 - Holder (1005779) has gained d_keda
+286 - sub vassal: c_lened - Holder 1005779 - Primary title: c_lened has lost the title: c_lened
+286 - sub vassal: c_lened - Title given to 1005779 - Primary title: k_subed
+286 - Holder (1005779) has gained c_lened
+287 - vassal: d_segiong - Destroyed due to flagged problem
+287 - sub vassal: d_segiong - Destroyed due to flagged problem
+287 - vassal: d_segiong - Made independent
+287 - sub vassal: d_segiong - Made independent
+289 - vassal: d_dozogen - Holder 1003711 - Primary title: d_dozogen has lost the title: d_dozogen
+289 - sub vassal: d_dozogen - Holder 1003711 - Primary title: d_dozogen has lost the title: d_dozogen
+289 - vassal: d_dozogen - Title given to 1003711 - Primary title: d_wened
+289 - sub vassal: d_dozogen - Title given to 1003711 - Primary title: d_wened
+289 - vassal: d_wened - Holder (1003711) has gained d_dozogen
+289 - sub vassal: d_wened - Holder (1003711) has gained d_dozogen
+289 - sub vassal: c_kened - Holder 1003711 - Primary title: c_kened has lost the title: c_kened
+289 - sub vassal: c_kened - Title given to 1003711 - Primary title: d_wened
+289 - vassal: d_wened - Holder (1003711) has gained c_kened
+289 - sub vassal: d_wened - Holder (1003711) has gained c_kened
+289 - sub vassal: c_tiong - Holder 1003711 - Primary title: c_tiong has lost the title: c_tiong
+289 - sub vassal: c_tiong - Title given to 1003711 - Primary title: d_wened
+289 - vassal: d_wened - Holder (1003711) has gained c_tiong
+289 - sub vassal: d_wened - Holder (1003711) has gained c_tiong
+289 - sub vassal: c_axenilo - Holder 1003711 - Primary title: c_axenilo has lost the title: c_axenilo
+289 - sub vassal: c_axenilo - Title given to 1003711 - Primary title: d_wened
+289 - vassal: d_wened - Holder (1003711) has gained c_axenilo
+289 - sub vassal: d_wened - Holder (1003711) has gained c_axenilo
+290 - vassal: d_dozogen - Holder 1004040 - Primary title: d_dozogen has lost the title: d_wened
+290 - sub vassal: d_dozogen - Holder 1004040 - Primary title: d_dozogen has lost the title: d_wened
+290 - vassal: d_wened - Title given to 1004040
+290 - sub vassal: d_wened - Title given to 1004040
+290 - vassal: d_dozogen - Holder 1004040 - Primary title: d_dozogen has lost the title: d_dozogen
+290 - sub vassal: d_dozogen - Holder 1004040 - Primary title: d_dozogen has lost the title: d_dozogen
+290 - vassal: d_dozogen - Title given to 1004040 - Primary title: d_wened
+290 - sub vassal: d_dozogen - Title given to 1004040 - Primary title: d_wened
+290 - vassal: d_wened - Holder (1004040) has gained d_dozogen
+290 - sub vassal: d_wened - Holder (1004040) has gained d_dozogen
+290 - sub vassal: c_kened - Holder 1004040 - Primary title: c_kened has lost the title: c_kened
+290 - sub vassal: c_kened - Title given to 1004040 - Primary title: d_wened
+290 - vassal: d_wened - Holder (1004040) has gained c_kened
+290 - sub vassal: d_wened - Holder (1004040) has gained c_kened
+290 - sub vassal: c_tiong - Holder 1004040 - Primary title: c_tiong has lost the title: c_tiong
+290 - sub vassal: c_tiong - Title given to 1004040 - Primary title: d_wened
+290 - vassal: d_wened - Holder (1004040) has gained c_tiong
+290 - sub vassal: d_wened - Holder (1004040) has gained c_tiong
+290 - sub vassal: c_axenilo - Holder 1004040 - Primary title: c_axenilo has lost the title: c_axenilo
+290 - sub vassal: c_axenilo - Title given to 1004040 - Primary title: d_wened
+290 - vassal: d_wened - Holder (1004040) has gained c_axenilo
+290 - sub vassal: d_wened - Holder (1004040) has gained c_axenilo
+296 - vassal: d_ebined - Holder 1006770 - Primary title: d_ebined has lost the title: d_ebined
+296 - sub vassal: d_ebined - Holder 1006770 - Primary title: d_ebined has lost the title: d_ebined
+296 - vassal: d_ebined - Title given to 1006770
+296 - sub vassal: d_ebined - Title given to 1006770
+296 - sub vassal: c_winilde - Holder 1006770 - Primary title: c_winilde has lost the title: c_winilde
+296 - sub vassal: c_winilde - Title given to 1006770 - Primary title: d_ebined
+296 - vassal: d_ebined - Holder (1006770) has gained c_winilde
+296 - sub vassal: d_ebined - Holder (1006770) has gained c_winilde
+296 - sub vassal: c_notomar - Holder 1006770 - Primary title: c_notomar has lost the title: c_notomar
+296 - sub vassal: c_notomar - Title given to 1006770 - Primary title: d_ebined
+296 - vassal: d_ebined - Holder (1006770) has gained c_notomar
+296 - sub vassal: d_ebined - Holder (1006770) has gained c_notomar
+296 - sub vassal: c_wamava - Holder 1006770 - Primary title: c_wamava has lost the title: c_wamava
+296 - sub vassal: c_wamava - Title given to 1006770 - Primary title: d_ebined
+296 - vassal: d_ebined - Holder (1006770) has gained c_wamava
+296 - sub vassal: d_ebined - Holder (1006770) has gained c_wamava
+296 - sub vassal: c_qenug - Holder 1006770 - Primary title: c_qenug has lost the title: c_qenug
+296 - sub vassal: c_qenug - Title given to 1006770 - Primary title: d_ebined
+296 - vassal: d_ebined - Holder (1006770) has gained c_qenug
+296 - sub vassal: d_ebined - Holder (1006770) has gained c_qenug
+296 - sub vassal: c_rebilo - Holder 1006770 - Primary title: c_rebilo has lost the title: c_rebilo
+296 - sub vassal: c_rebilo - Title given to 1006770 - Primary title: d_ebined
+296 - vassal: d_ebined - Holder (1006770) has gained c_rebilo
+296 - sub vassal: d_ebined - Holder (1006770) has gained c_rebilo
+296 - vassal: d_dozogen - Holder 1006612 - Primary title: d_dozogen has lost the title: d_wened
+296 - sub vassal: d_dozogen - Holder 1006612 - Primary title: d_dozogen has lost the title: d_wened
+296 - vassal: d_wened - Title given to 1006612
+296 - sub vassal: d_wened - Title given to 1006612
+296 - vassal: d_dozogen - Holder 1006612 - Primary title: d_dozogen has lost the title: d_dozogen
+296 - sub vassal: d_dozogen - Holder 1006612 - Primary title: d_dozogen has lost the title: d_dozogen
+296 - vassal: d_dozogen - Title given to 1006612 - Primary title: d_wened
+296 - sub vassal: d_dozogen - Title given to 1006612 - Primary title: d_wened
+296 - vassal: d_wened - Holder (1006612) has gained d_dozogen
+296 - sub vassal: d_wened - Holder (1006612) has gained d_dozogen
+296 - sub vassal: c_kened - Holder 1006612 - Primary title: c_kened has lost the title: c_kened
+296 - sub vassal: c_kened - Title given to 1006612 - Primary title: d_wened
+296 - vassal: d_wened - Holder (1006612) has gained c_kened
+296 - sub vassal: d_wened - Holder (1006612) has gained c_kened
+296 - sub vassal: c_tiong - Holder 1006612 - Primary title: c_tiong has lost the title: c_tiong
+296 - sub vassal: c_tiong - Title given to 1006612 - Primary title: d_wened
+296 - vassal: d_wened - Holder (1006612) has gained c_tiong
+296 - sub vassal: d_wened - Holder (1006612) has gained c_tiong
+296 - sub vassal: c_axenilo - Holder 1006612 - Primary title: c_axenilo has lost the title: c_axenilo
+296 - sub vassal: c_axenilo - Title given to 1006612 - Primary title: d_wened
+296 - vassal: d_wened - Holder (1006612) has gained c_axenilo
+296 - sub vassal: d_wened - Holder (1006612) has gained c_axenilo
+300 - sub vassal: c_tirogen - Holder 1005779 - Primary title: c_tirogen has lost the title: c_tirogen
+300 - sub vassal: c_tirogen - Title given to 1005779 - Primary title: k_subed
+300 - Holder (1005779) has gained c_tirogen
+300 - sub vassal: c_dimed - Holder 1005779 - Primary title: c_dimed has lost the title: c_dimed
+300 - sub vassal: c_dimed - Title given to 1005779 - Primary title: k_subed
+300 - Holder (1005779) has gained c_dimed
+300 - sub vassal: c_edomar - Holder 1005779 - Primary title: c_edomar has lost the title: c_edomar
+300 - sub vassal: c_edomar - Title given to 1005779 - Primary title: k_subed
+300 - Holder (1005779) has gained c_edomar
+302 - vassal: d_ebined - Holder 1006612 - Primary title: d_ebined has lost the title: d_ebined
+302 - sub vassal: d_ebined - Holder 1006612 - Primary title: d_ebined has lost the title: d_ebined
+302 - vassal: d_ebined - Title given to 1006612 - Primary title: d_wened
+302 - sub vassal: d_ebined - Title given to 1006612 - Primary title: d_wened
+302 - vassal: d_wened - Holder (1006612) has gained d_ebined
+302 - sub vassal: d_wened - Holder (1006612) has gained d_ebined
+302 - sub vassal: c_rebilo - Holder 1006612 - Primary title: c_rebilo has lost the title: c_rebilo
+302 - sub vassal: c_rebilo - Title given to 1006612 - Primary title: d_wened
+302 - vassal: d_wened - Holder (1006612) has gained c_rebilo
+302 - sub vassal: d_wened - Holder (1006612) has gained c_rebilo
+302 - sub vassal: c_qenug - Holder 1006612 - Primary title: c_qenug has lost the title: c_qenug
+302 - sub vassal: c_qenug - Title given to 1006612 - Primary title: d_wened
+302 - vassal: d_wened - Holder (1006612) has gained c_qenug
+302 - sub vassal: d_wened - Holder (1006612) has gained c_qenug
+302 - sub vassal: c_wamava - Holder 1006612 - Primary title: c_wamava has lost the title: c_wamava
+302 - sub vassal: c_wamava - Title given to 1006612 - Primary title: d_wened
+302 - vassal: d_wened - Holder (1006612) has gained c_wamava
+302 - sub vassal: d_wened - Holder (1006612) has gained c_wamava
+302 - sub vassal: c_notomar - Holder 1006612 - Primary title: c_notomar has lost the title: c_notomar
+302 - sub vassal: c_notomar - Title given to 1006612 - Primary title: d_wened
+302 - vassal: d_wened - Holder (1006612) has gained c_notomar
+302 - sub vassal: d_wened - Holder (1006612) has gained c_notomar
+302 - sub vassal: c_winilde - Holder 1006612 - Primary title: c_winilde has lost the title: c_winilde
+302 - sub vassal: c_winilde - Title given to 1006612 - Primary title: d_wened
+302 - vassal: d_wened - Holder (1006612) has gained c_winilde
+302 - sub vassal: d_wened - Holder (1006612) has gained c_winilde
+302 - vassal: d_dimilo - Holder 1005774 - Primary title: d_dimilo has lost the title: d_dimilo
+302 - sub vassal: d_dimilo - Holder 1005774 - Primary title: d_dimilo has lost the title: d_dimilo
+302 - vassal: d_dimilo - Title given to 1005774
+302 - sub vassal: d_dimilo - Title given to 1005774
+302 - sub vassal: c_qegeda - Holder 1005774 - Primary title: c_qegeda has lost the title: c_qegeda
+302 - sub vassal: c_qegeda - Title given to 1005774 - Primary title: d_dimilo
+302 - vassal: d_dimilo - Holder (1005774) has gained c_qegeda
+302 - sub vassal: d_dimilo - Holder (1005774) has gained c_qegeda
+302 - sub vassal: c_weneyu - Holder 1005774 - Primary title: c_weneyu has lost the title: c_weneyu
+302 - sub vassal: c_weneyu - Title given to 1005774 - Primary title: d_dimilo
+302 - vassal: d_dimilo - Holder (1005774) has gained c_weneyu
+302 - sub vassal: d_dimilo - Holder (1005774) has gained c_weneyu
+302 - sub vassal: c_keniong - Holder 1005774 - Primary title: c_keniong has lost the title: c_keniong
+302 - sub vassal: c_keniong - Title given to 1005774 - Primary title: d_dimilo
+302 - vassal: d_dimilo - Holder (1005774) has gained c_keniong
+302 - sub vassal: d_dimilo - Holder (1005774) has gained c_keniong
+303 - sub vassal: c_kened - Given to 1007214 in HandleTitles - Too many duke titles
+303 - vassal: d_ebined - Holder 1007214 - Primary title: d_ebined has lost the title: c_kened
+303 - sub vassal: d_ebined - Holder 1007214 - Primary title: d_ebined has lost the title: c_kened
+303 - sub vassal: c_kened - Title given to 1007214
+303 - vassal: d_ebined - Holder 1005779 - Primary title: d_ebined has lost the title: d_dozogen
+303 - sub vassal: d_ebined - Holder 1005779 - Primary title: d_ebined has lost the title: d_dozogen
+303 - vassal: d_dozogen - Title given to 1005779 - Primary title: k_subed
+303 - sub vassal: d_dozogen - Title given to 1005779 - Primary title: k_subed
+303 - Holder (1005779) has gained d_dozogen
+303 - sub vassal: c_axenilo - Setting to vassal of d_ebined in Validate Realm
+303 - vassal: d_dozogen - Lost vassal: c_axenilo
+303 - sub vassal: d_dozogen - Lost vassal: c_axenilo
+303 - sub vassal: c_tiong - Setting to vassal of d_ebined in Validate Realm
+303 - vassal: d_dozogen - Lost vassal: c_tiong
+303 - sub vassal: d_dozogen - Lost vassal: c_tiong
+303 - vassal: d_ebined - Gained vassal: c_tiong
+303 - sub vassal: d_ebined - Gained vassal: c_tiong
+303 - vassal: d_ebined - Gained vassal: c_axenilo
+303 - sub vassal: d_ebined - Gained vassal: c_axenilo
+303 - vassal: d_dozogen - Too many dukes, made direct title into vassal of k_subed
+303 - sub vassal: d_dozogen - Too many dukes, made direct title into vassal of k_subed
+303 - Holder 1007215 - Primary title: k_subed has lost the title: d_dozogen
+303 - vassal: d_dozogen - Title given to 1007215
+303 - sub vassal: d_dozogen - Title given to 1007215
+303 - vassal: d_ebined - Holder 1007216 - Primary title: d_ebined has lost the title: c_wamava
+303 - sub vassal: d_ebined - Holder 1007216 - Primary title: d_ebined has lost the title: c_wamava
+303 - sub vassal: c_wamava - Title given to 1007216
+303 - vassal: d_ebined - Holder 1007217 - Primary title: d_ebined has lost the title: c_rebilo
+303 - sub vassal: d_ebined - Holder 1007217 - Primary title: d_ebined has lost the title: c_rebilo
+303 - sub vassal: c_rebilo - Title given to 1007217
+310 - vassal: d_ebined - Holder 1007572 - Primary title: d_ebined has lost the title: d_wened
+310 - sub vassal: d_ebined - Holder 1007572 - Primary title: d_ebined has lost the title: d_wened
+310 - vassal: d_wened - Title given to 1007572
+310 - sub vassal: d_wened - Title given to 1007572
+310 - vassal: d_ebined - Holder 1007572 - Primary title: d_ebined has lost the title: c_axenilo
+310 - sub vassal: d_ebined - Holder 1007572 - Primary title: d_ebined has lost the title: c_axenilo
+310 - sub vassal: c_axenilo - Title given to 1007572 - Primary title: d_wened
+310 - vassal: d_wened - Holder (1007572) has gained c_axenilo
+310 - sub vassal: d_wened - Holder (1007572) has gained c_axenilo
+310 - sub vassal: c_axenilo - Setting to vassal of d_wened in Validate Realm
+310 - vassal: d_ebined - Lost vassal: c_axenilo
+310 - sub vassal: d_ebined - Lost vassal: c_axenilo
+310 - vassal: d_wened - Gained vassal: c_axenilo
+310 - sub vassal: d_wened - Gained vassal: c_axenilo
+310 - vassal: d_ebined - Holder 1007572 - Primary title: d_ebined has lost the title: c_tiong
+310 - sub vassal: d_ebined - Holder 1007572 - Primary title: d_ebined has lost the title: c_tiong
+310 - sub vassal: c_tiong - Title given to 1007572 - Primary title: d_wened
+310 - vassal: d_wened - Holder (1007572) has gained c_tiong
+310 - sub vassal: d_wened - Holder (1007572) has gained c_tiong
+310 - sub vassal: c_tiong - Setting to vassal of d_wened in Validate Realm
+310 - vassal: d_ebined - Lost vassal: c_tiong
+310 - sub vassal: d_ebined - Lost vassal: c_tiong
+310 - vassal: d_wened - Gained vassal: c_tiong
+310 - sub vassal: d_wened - Gained vassal: c_tiong
+310 - vassal: d_ebined - Holder 1007572 - Primary title: d_ebined has lost the title: d_ebined
+310 - sub vassal: d_ebined - Holder 1007572 - Primary title: d_ebined has lost the title: d_ebined
+310 - vassal: d_ebined - Title given to 1007572 - Primary title: d_wened
+310 - sub vassal: d_ebined - Title given to 1007572 - Primary title: d_wened
+310 - vassal: d_wened - Holder (1007572) has gained d_ebined
+310 - sub vassal: d_wened - Holder (1007572) has gained d_ebined
+310 - sub vassal: c_qenug - Holder 1007572 - Primary title: c_qenug has lost the title: c_qenug
+310 - sub vassal: c_qenug - Title given to 1007572 - Primary title: d_wened
+310 - vassal: d_wened - Holder (1007572) has gained c_qenug
+310 - sub vassal: d_wened - Holder (1007572) has gained c_qenug
+310 - sub vassal: c_notomar - Holder 1007572 - Primary title: c_notomar has lost the title: c_notomar
+310 - sub vassal: c_notomar - Title given to 1007572 - Primary title: d_wened
+310 - vassal: d_wened - Holder (1007572) has gained c_notomar
+310 - sub vassal: d_wened - Holder (1007572) has gained c_notomar
+310 - sub vassal: c_winilde - Holder 1007572 - Primary title: c_winilde has lost the title: c_winilde
+310 - sub vassal: c_winilde - Title given to 1007572 - Primary title: d_wened
+310 - vassal: d_wened - Holder (1007572) has gained c_winilde
+310 - sub vassal: d_wened - Holder (1007572) has gained c_winilde
+317 - vassal: d_ebined - Holder 1007921 - Primary title: d_ebined has lost the title: d_wened
+317 - sub vassal: d_ebined - Holder 1007921 - Primary title: d_ebined has lost the title: d_wened
+317 - vassal: d_wened - Title given to 1007921
+317 - sub vassal: d_wened - Title given to 1007921
+317 - sub vassal: c_axenilo - Setting to vassal of d_ebined in Validate Realm
+317 - vassal: d_wened - Lost vassal: c_axenilo
+317 - sub vassal: d_wened - Lost vassal: c_axenilo
+317 - sub vassal: c_tiong - Setting to vassal of d_ebined in Validate Realm
+317 - vassal: d_wened - Lost vassal: c_tiong
+317 - sub vassal: d_wened - Lost vassal: c_tiong
+317 - vassal: d_ebined - Gained vassal: c_tiong
+317 - sub vassal: d_ebined - Gained vassal: c_tiong
+317 - vassal: d_ebined - Gained vassal: c_axenilo
+317 - sub vassal: d_ebined - Gained vassal: c_axenilo
+317 - vassal: d_ebined - Holder 1007921 - Primary title: d_ebined has lost the title: c_axenilo
+317 - sub vassal: d_ebined - Holder 1007921 - Primary title: d_ebined has lost the title: c_axenilo
+317 - sub vassal: c_axenilo - Title given to 1007921 - Primary title: d_wened
+317 - vassal: d_wened - Holder (1007921) has gained c_axenilo
+317 - sub vassal: d_wened - Holder (1007921) has gained c_axenilo
+317 - sub vassal: c_axenilo - Setting to vassal of d_wened in Validate Realm
+317 - vassal: d_ebined - Lost vassal: c_axenilo
+317 - sub vassal: d_ebined - Lost vassal: c_axenilo
+317 - vassal: d_wened - Gained vassal: c_axenilo
+317 - sub vassal: d_wened - Gained vassal: c_axenilo
+317 - vassal: d_ebined - Holder 1007921 - Primary title: d_ebined has lost the title: c_tiong
+317 - sub vassal: d_ebined - Holder 1007921 - Primary title: d_ebined has lost the title: c_tiong
+317 - sub vassal: c_tiong - Title given to 1007921 - Primary title: d_wened
+317 - vassal: d_wened - Holder (1007921) has gained c_tiong
+317 - sub vassal: d_wened - Holder (1007921) has gained c_tiong
+317 - sub vassal: c_tiong - Setting to vassal of d_wened in Validate Realm
+317 - vassal: d_ebined - Lost vassal: c_tiong
+317 - sub vassal: d_ebined - Lost vassal: c_tiong
+317 - vassal: d_wened - Gained vassal: c_tiong
+317 - sub vassal: d_wened - Gained vassal: c_tiong
+317 - vassal: d_ebined - Holder 1007921 - Primary title: d_ebined has lost the title: d_ebined
+317 - sub vassal: d_ebined - Holder 1007921 - Primary title: d_ebined has lost the title: d_ebined
+317 - vassal: d_ebined - Title given to 1007921 - Primary title: d_wened
+317 - sub vassal: d_ebined - Title given to 1007921 - Primary title: d_wened
+317 - vassal: d_wened - Holder (1007921) has gained d_ebined
+317 - sub vassal: d_wened - Holder (1007921) has gained d_ebined
+317 - sub vassal: c_qenug - Holder 1007921 - Primary title: c_qenug has lost the title: c_qenug
+317 - sub vassal: c_qenug - Title given to 1007921 - Primary title: d_wened
+317 - vassal: d_wened - Holder (1007921) has gained c_qenug
+317 - sub vassal: d_wened - Holder (1007921) has gained c_qenug
+317 - sub vassal: c_notomar - Holder 1007921 - Primary title: c_notomar has lost the title: c_notomar
+317 - sub vassal: c_notomar - Title given to 1007921 - Primary title: d_wened
+317 - vassal: d_wened - Holder (1007921) has gained c_notomar
+317 - sub vassal: d_wened - Holder (1007921) has gained c_notomar
+317 - sub vassal: c_winilde - Holder 1007921 - Primary title: c_winilde has lost the title: c_winilde
+317 - sub vassal: c_winilde - Title given to 1007921 - Primary title: d_wened
+317 - vassal: d_wened - Holder (1007921) has gained c_winilde
+317 - sub vassal: d_wened - Holder (1007921) has gained c_winilde
+319 - vassal: d_dozogen - Holder 1007219 - Primary title: d_dozogen has lost the title: d_dozogen
+319 - sub vassal: d_dozogen - Holder 1007219 - Primary title: d_dozogen has lost the title: d_dozogen
+319 - vassal: d_dozogen - Title given to 1007219
+319 - sub vassal: d_dozogen - Title given to 1007219
+321 - vassal: d_wened - Holder (1007921) has gained d_segiong
+321 - sub vassal: d_wened - Holder (1007921) has gained d_segiong
+321 - Gained vassal: d_segiong
+321 - vassal: d_segiong - Made independent for title creation d_segiong for d_wened
+321 - sub vassal: d_segiong - Made independent for title creation d_segiong for d_wened
+321 - vassal: d_segiong - Made independent
+321 - sub vassal: d_segiong - Made independent
+321 - sub vassal: c_winilde - Set liege on title creation d_segiong
+321 - vassal: d_ebined - Lost vassal: c_winilde
+321 - sub vassal: d_ebined - Lost vassal: c_winilde
+321 - sub vassal: c_notomar - Set liege on title creation d_segiong
+321 - vassal: d_ebined - Lost vassal: c_notomar
+321 - sub vassal: d_ebined - Lost vassal: c_notomar
+321 - sub vassal: c_qenug - Set liege on title creation d_segiong
+321 - vassal: d_ebined - Lost vassal: c_qenug
+321 - sub vassal: d_ebined - Lost vassal: c_qenug
+321 - sub vassal: c_tiong - Set liege on title creation d_segiong
+321 - vassal: d_wened - Lost vassal: c_tiong
+321 - sub vassal: d_wened - Lost vassal: c_tiong
+321 - sub vassal: c_axenilo - Set liege on title creation d_segiong
+321 - vassal: d_wened - Lost vassal: c_axenilo
+321 - sub vassal: d_wened - Lost vassal: c_axenilo
+321 - sub vassal: c_qegug - Given to 1008121 in HandleTitles - Too many duke titles
+321 - sub vassal: c_qegug - Holder 1008121 - Primary title: c_qegug has lost the title: c_qegug
+321 - sub vassal: c_qegug - Title given to 1008121
+321 - vassal: d_wened - Holder 1005779 - Primary title: d_wened has lost the title: d_ebined
+321 - sub vassal: d_wened - Holder 1005779 - Primary title: d_wened has lost the title: d_ebined
+321 - vassal: d_ebined - Title given to 1005779 - Primary title: k_subed
+321 - sub vassal: d_ebined - Title given to 1005779 - Primary title: k_subed
+321 - Holder (1005779) has gained d_ebined
+321 - vassal: d_ebined - Too many dukes, made direct title into vassal of k_subed
+321 - sub vassal: d_ebined - Too many dukes, made direct title into vassal of k_subed
+321 - Holder 1008122 - Primary title: k_subed has lost the title: d_ebined
+321 - vassal: d_ebined - Title given to 1008122
+321 - sub vassal: d_ebined - Title given to 1008122
+322 - vassal: d_ebined - Holder 1005774 - Primary title: d_ebined has lost the title: d_ebined
+322 - sub vassal: d_ebined - Holder 1005774 - Primary title: d_ebined has lost the title: d_ebined
+322 - vassal: d_ebined - Title given to 1005774 - Primary title: d_dimilo
+322 - sub vassal: d_ebined - Title given to 1005774 - Primary title: d_dimilo
+322 - vassal: d_dimilo - Holder (1005774) has gained d_ebined
+322 - sub vassal: d_dimilo - Holder (1005774) has gained d_ebined
+335 - Holder 1007472 - Primary title: k_subed has lost the title: k_subed
+335 - Title given to 1007472
+335 - vassal: d_nadounu - Holder 1007472 - Primary title: d_nadounu has lost the title: d_nadounu
+335 - sub vassal: d_nadounu - Holder 1007472 - Primary title: d_nadounu has lost the title: d_nadounu
+335 - vassal: d_nadounu - Title given to 1007472 - Primary title: k_subed
+335 - sub vassal: d_nadounu - Title given to 1007472 - Primary title: k_subed
+335 - Holder (1007472) has gained d_nadounu
+335 - sub vassal: c_dimed - Setting to vassal of d_keda in Validate Realm
+335 - vassal: d_nadounu - Lost vassal: c_dimed
+335 - sub vassal: d_nadounu - Lost vassal: c_dimed
+335 - sub vassal: c_edomar - Setting to vassal of d_keda in Validate Realm
+335 - vassal: d_nadounu - Lost vassal: c_edomar
+335 - sub vassal: d_nadounu - Lost vassal: c_edomar
+335 - vassal: d_keda - Gained vassal: c_edomar
+335 - sub vassal: d_keda - Gained vassal: c_edomar
+335 - vassal: d_keda - Gained vassal: c_dimed
+335 - sub vassal: d_keda - Gained vassal: c_dimed
+335 - vassal: d_keda - Holder 1007472 - Primary title: d_keda has lost the title: d_keda
+335 - sub vassal: d_keda - Holder 1007472 - Primary title: d_keda has lost the title: d_keda
+335 - vassal: d_keda - Title given to 1007472 - Primary title: k_subed
+335 - sub vassal: d_keda - Title given to 1007472 - Primary title: k_subed
+335 - Holder (1007472) has gained d_keda
+335 - sub vassal: c_lened - Holder 1007472 - Primary title: c_lened has lost the title: c_lened
+335 - sub vassal: c_lened - Title given to 1007472 - Primary title: k_subed
+335 - Holder (1007472) has gained c_lened
+335 - sub vassal: c_tirogen - Holder 1007472 - Primary title: c_tirogen has lost the title: c_tirogen
+335 - sub vassal: c_tirogen - Title given to 1007472 - Primary title: k_subed
+335 - Holder (1007472) has gained c_tirogen
+335 - sub vassal: c_dimed - Holder 1007472 - Primary title: c_dimed has lost the title: c_dimed
+335 - sub vassal: c_dimed - Title given to 1007472 - Primary title: k_subed
+335 - Holder (1007472) has gained c_dimed
+335 - sub vassal: c_edomar - Holder 1007472 - Primary title: c_edomar has lost the title: c_edomar
+335 - sub vassal: c_edomar - Title given to 1007472 - Primary title: k_subed
+335 - Holder (1007472) has gained c_edomar
+336 - vassal: d_nadounu - Destroyed due to flagged problem
+336 - sub vassal: d_nadounu - Destroyed due to flagged problem
+336 - vassal: d_nadounu - Made independent
+336 - sub vassal: d_nadounu - Made independent
+338 - vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: d_dimilo
+338 - sub vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: d_dimilo
+338 - vassal: d_dimilo - Title given to 1007267
+338 - sub vassal: d_dimilo - Title given to 1007267
+338 - sub vassal: c_keniong - Setting to vassal of d_ebined in Validate Realm
+338 - vassal: d_dimilo - Lost vassal: c_keniong
+338 - sub vassal: d_dimilo - Lost vassal: c_keniong
+338 - sub vassal: c_weneyu - Setting to vassal of d_ebined in Validate Realm
+338 - vassal: d_dimilo - Lost vassal: c_weneyu
+338 - sub vassal: d_dimilo - Lost vassal: c_weneyu
+338 - sub vassal: c_qegeda - Setting to vassal of d_ebined in Validate Realm
+338 - vassal: d_dimilo - Lost vassal: c_qegeda
+338 - sub vassal: d_dimilo - Lost vassal: c_qegeda
+338 - vassal: d_ebined - Gained vassal: c_qegeda
+338 - sub vassal: d_ebined - Gained vassal: c_qegeda
+338 - vassal: d_ebined - Gained vassal: c_weneyu
+338 - sub vassal: d_ebined - Gained vassal: c_weneyu
+338 - vassal: d_ebined - Gained vassal: c_keniong
+338 - sub vassal: d_ebined - Gained vassal: c_keniong
+338 - vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: c_keniong
+338 - sub vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: c_keniong
+338 - sub vassal: c_keniong - Title given to 1007267 - Primary title: d_dimilo
+338 - vassal: d_dimilo - Holder (1007267) has gained c_keniong
+338 - sub vassal: d_dimilo - Holder (1007267) has gained c_keniong
+338 - sub vassal: c_keniong - Setting to vassal of d_dimilo in Validate Realm
+338 - vassal: d_ebined - Lost vassal: c_keniong
+338 - sub vassal: d_ebined - Lost vassal: c_keniong
+338 - vassal: d_dimilo - Gained vassal: c_keniong
+338 - sub vassal: d_dimilo - Gained vassal: c_keniong
+338 - vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: c_weneyu
+338 - sub vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: c_weneyu
+338 - sub vassal: c_weneyu - Title given to 1007267 - Primary title: d_dimilo
+338 - vassal: d_dimilo - Holder (1007267) has gained c_weneyu
+338 - sub vassal: d_dimilo - Holder (1007267) has gained c_weneyu
+338 - sub vassal: c_weneyu - Setting to vassal of d_dimilo in Validate Realm
+338 - vassal: d_ebined - Lost vassal: c_weneyu
+338 - sub vassal: d_ebined - Lost vassal: c_weneyu
+338 - vassal: d_dimilo - Gained vassal: c_weneyu
+338 - sub vassal: d_dimilo - Gained vassal: c_weneyu
+338 - vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: c_qegeda
+338 - sub vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: c_qegeda
+338 - sub vassal: c_qegeda - Title given to 1007267 - Primary title: d_dimilo
+338 - vassal: d_dimilo - Holder (1007267) has gained c_qegeda
+338 - sub vassal: d_dimilo - Holder (1007267) has gained c_qegeda
+338 - sub vassal: c_qegeda - Setting to vassal of d_dimilo in Validate Realm
+338 - vassal: d_ebined - Lost vassal: c_qegeda
+338 - sub vassal: d_ebined - Lost vassal: c_qegeda
+338 - vassal: d_dimilo - Gained vassal: c_qegeda
+338 - sub vassal: d_dimilo - Gained vassal: c_qegeda
+338 - vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: d_ebined
+338 - sub vassal: d_ebined - Holder 1007267 - Primary title: d_ebined has lost the title: d_ebined
+338 - vassal: d_ebined - Title given to 1007267 - Primary title: d_dimilo
+338 - sub vassal: d_ebined - Title given to 1007267 - Primary title: d_dimilo
+338 - vassal: d_dimilo - Holder (1007267) has gained d_ebined
+338 - sub vassal: d_dimilo - Holder (1007267) has gained d_ebined
+339 - vassal: d_dozogen - Holder 1008561 - Primary title: d_dozogen has lost the title: d_dozogen
+339 - sub vassal: d_dozogen - Holder 1008561 - Primary title: d_dozogen has lost the title: d_dozogen
+339 - vassal: d_dozogen - Title given to 1008561
+339 - sub vassal: d_dozogen - Title given to 1008561
+352 - vassal: d_dozogen - Holder 1009448 - Primary title: d_dozogen has lost the title: d_dozogen
+352 - sub vassal: d_dozogen - Holder 1009448 - Primary title: d_dozogen has lost the title: d_dozogen
+352 - vassal: d_dozogen - Title given to 1009448
+352 - sub vassal: d_dozogen - Title given to 1009448
+357 - vassal: d_dozogen - Holder 1007267 - Primary title: d_dozogen has lost the title: d_dozogen
+357 - sub vassal: d_dozogen - Holder 1007267 - Primary title: d_dozogen has lost the title: d_dozogen
+357 - vassal: d_dozogen - Title given to 1007267 - Primary title: d_dimilo
+357 - sub vassal: d_dozogen - Title given to 1007267 - Primary title: d_dimilo
+357 - vassal: d_dimilo - Holder (1007267) has gained d_dozogen
+357 - sub vassal: d_dimilo - Holder (1007267) has gained d_dozogen
+358 - sub vassal: c_qegug - Given to 1009955 in HandleTitles - Too many duke titles
+358 - sub vassal: c_qegug - Holder 1009955 - Primary title: c_qegug has lost the title: c_qegug
+358 - sub vassal: c_qegug - Title given to 1009955
+358 - vassal: d_dozogen - Holder 1007472 - Primary title: d_dozogen has lost the title: d_ebined
+358 - sub vassal: d_dozogen - Holder 1007472 - Primary title: d_dozogen has lost the title: d_ebined
+358 - vassal: d_ebined - Title given to 1007472 - Primary title: k_subed
+358 - sub vassal: d_ebined - Title given to 1007472 - Primary title: k_subed
+358 - Holder (1007472) has gained d_ebined
+358 - vassal: d_ebined - Too many dukes, made direct title into vassal of k_subed
+358 - sub vassal: d_ebined - Too many dukes, made direct title into vassal of k_subed
+358 - Holder 1009956 - Primary title: k_subed has lost the title: d_ebined
+358 - vassal: d_ebined - Title given to 1009956
+358 - sub vassal: d_ebined - Title given to 1009956
+362 - vassal: d_wened - Holder 1008196 - Primary title: d_wened has lost the title: d_wened
+362 - sub vassal: d_wened - Holder 1008196 - Primary title: d_wened has lost the title: d_wened
+362 - vassal: d_wened - Title given to 1008196
+362 - sub vassal: d_wened - Title given to 1008196
+362 - vassal: d_wened - Holder (1008196) has gained d_segiong
+362 - sub vassal: d_wened - Holder (1008196) has gained d_segiong
+362 - sub vassal: c_winilde - Holder 1008196 - Primary title: c_winilde has lost the title: c_winilde
+362 - sub vassal: c_winilde - Title given to 1008196 - Primary title: d_wened
+362 - vassal: d_wened - Holder (1008196) has gained c_winilde
+362 - sub vassal: d_wened - Holder (1008196) has gained c_winilde
+362 - sub vassal: c_notomar - Holder 1008196 - Primary title: c_notomar has lost the title: c_notomar
+362 - sub vassal: c_notomar - Title given to 1008196 - Primary title: d_wened
+362 - vassal: d_wened - Holder (1008196) has gained c_notomar
+362 - sub vassal: d_wened - Holder (1008196) has gained c_notomar
+362 - sub vassal: c_qenug - Holder 1008196 - Primary title: c_qenug has lost the title: c_qenug
+362 - sub vassal: c_qenug - Title given to 1008196 - Primary title: d_wened
+362 - vassal: d_wened - Holder (1008196) has gained c_qenug
+362 - sub vassal: d_wened - Holder (1008196) has gained c_qenug
+362 - sub vassal: c_tiong - Holder 1008196 - Primary title: c_tiong has lost the title: c_tiong
+362 - sub vassal: c_tiong - Title given to 1008196 - Primary title: d_wened
+362 - vassal: d_wened - Holder (1008196) has gained c_tiong
+362 - sub vassal: d_wened - Holder (1008196) has gained c_tiong
+362 - sub vassal: c_axenilo - Holder 1008196 - Primary title: c_axenilo has lost the title: c_axenilo
+362 - sub vassal: c_axenilo - Title given to 1008196 - Primary title: d_wened
+362 - vassal: d_wened - Holder (1008196) has gained c_axenilo
+362 - sub vassal: d_wened - Holder (1008196) has gained c_axenilo
+362 - Holder 1009956 - Primary title: k_subed has lost the title: k_subed
+362 - Title given to 1009956 - Primary title: d_ebined
+362 - vassal: d_ebined - Holder (1009956) has gained k_subed
+362 - sub vassal: d_ebined - Holder (1009956) has gained k_subed
+362 - vassal: d_keda - Holder 1009956 - Primary title: d_keda has lost the title: d_keda
+362 - sub vassal: d_keda - Holder 1009956 - Primary title: d_keda has lost the title: d_keda
+362 - vassal: d_keda - Title given to 1009956 - Primary title: k_subed
+362 - sub vassal: d_keda - Title given to 1009956 - Primary title: k_subed
+362 - Holder (1009956) has gained d_keda
+362 - sub vassal: c_lened - Holder 1009956 - Primary title: c_lened has lost the title: c_lened
+362 - sub vassal: c_lened - Title given to 1009956 - Primary title: k_subed
+362 - Holder (1009956) has gained c_lened
+362 - sub vassal: c_tirogen - Holder 1009956 - Primary title: c_tirogen has lost the title: c_tirogen
+362 - sub vassal: c_tirogen - Title given to 1009956 - Primary title: k_subed
+362 - Holder (1009956) has gained c_tirogen
+362 - sub vassal: c_dimed - Holder 1009956 - Primary title: c_dimed has lost the title: c_dimed
+362 - sub vassal: c_dimed - Title given to 1009956 - Primary title: k_subed
+362 - Holder (1009956) has gained c_dimed
+362 - sub vassal: c_edomar - Holder 1009956 - Primary title: c_edomar has lost the title: c_edomar
+362 - sub vassal: c_edomar - Title given to 1009956 - Primary title: k_subed
+362 - Holder (1009956) has gained c_edomar
+366 - vassal: d_dozogen - Holder 1009181 - Primary title: d_dozogen has lost the title: d_dozogen
+366 - sub vassal: d_dozogen - Holder 1009181 - Primary title: d_dozogen has lost the title: d_dozogen
+366 - vassal: d_dozogen - Title given to 1009181
+366 - sub vassal: d_dozogen - Title given to 1009181
+366 - vassal: d_dimilo - Holder 1009181 - Primary title: d_dimilo has lost the title: d_dimilo
+366 - sub vassal: d_dimilo - Holder 1009181 - Primary title: d_dimilo has lost the title: d_dimilo
+366 - vassal: d_dimilo - Title given to 1009181 - Primary title: d_dozogen
+366 - sub vassal: d_dimilo - Title given to 1009181 - Primary title: d_dozogen
+366 - vassal: d_dozogen - Holder (1009181) has gained d_dimilo
+366 - sub vassal: d_dozogen - Holder (1009181) has gained d_dimilo
+366 - sub vassal: c_qegeda - Holder 1009181 - Primary title: c_qegeda has lost the title: c_qegeda
+366 - sub vassal: c_qegeda - Title given to 1009181 - Primary title: d_dozogen
+366 - vassal: d_dozogen - Holder (1009181) has gained c_qegeda
+366 - sub vassal: d_dozogen - Holder (1009181) has gained c_qegeda
+366 - sub vassal: c_weneyu - Holder 1009181 - Primary title: c_weneyu has lost the title: c_weneyu
+366 - sub vassal: c_weneyu - Title given to 1009181 - Primary title: d_dozogen
+366 - vassal: d_dozogen - Holder (1009181) has gained c_weneyu
+366 - sub vassal: d_dozogen - Holder (1009181) has gained c_weneyu
+366 - sub vassal: c_keniong - Holder 1009181 - Primary title: c_keniong has lost the title: c_keniong
+366 - sub vassal: c_keniong - Title given to 1009181 - Primary title: d_dozogen
+366 - vassal: d_dozogen - Holder (1009181) has gained c_keniong
+366 - sub vassal: d_dozogen - Holder (1009181) has gained c_keniong
+380 - vassal: d_wened - Holder 1010517 - Primary title: d_wened has lost the title: d_wened
+380 - sub vassal: d_wened - Holder 1010517 - Primary title: d_wened has lost the title: d_wened
+380 - vassal: d_wened - Title given to 1010517
+380 - sub vassal: d_wened - Title given to 1010517
+380 - vassal: d_wened - Holder (1010517) has gained d_segiong
+380 - sub vassal: d_wened - Holder (1010517) has gained d_segiong
+380 - sub vassal: c_axenilo - Holder 1010517 - Primary title: c_axenilo has lost the title: c_axenilo
+380 - sub vassal: c_axenilo - Title given to 1010517 - Primary title: d_wened
+380 - vassal: d_wened - Holder (1010517) has gaine

@@ -1,0 +1,39 @@
+200 - Title given to 1000943
+200 - vassal: c_rutehis - Holder 1000943 - Primary title: c_rutehis has lost the title: c_rutehis
+200 - sub vassal: c_rutehis - Holder 1000943 - Primary title: c_rutehis has lost the title: c_rutehis
+200 - vassal: c_rutehis - Title given to 1000943 - Primary title: d_asunin
+200 - sub vassal: c_rutehis - Title given to 1000943 - Primary title: d_asunin
+200 - Holder (1000943) has gained c_rutehis
+200 - vassal: c_loaj - Holder 1000943 - Primary title: c_loaj has lost the title: c_loaj
+200 - sub vassal: c_loaj - Holder 1000943 - Primary title: c_loaj has lost the title: c_loaj
+200 - vassal: c_loaj - Title given to 1000943 - Primary title: d_asunin
+200 - sub vassal: c_loaj - Title given to 1000943 - Primary title: d_asunin
+200 - Holder (1000943) has gained c_loaj
+200 - Holder 1001050 - Primary title: d_asunin has lost the title: d_asunin
+200 - Title given to 1001050 - Primary title: k_afageelo
+200 - vassal: c_rutehis - Made independent due to being a seperate island
+200 - vassal: c_rutehis - Made independent
+201 - vassal: c_loaj - Made independent due to being a seperate island
+201 - vassal: c_loaj - Made independent
+202 - Destroyed due to flagged problem
+202 - Made independent
+202 - Title destroyed
+210 - Given to 1000943 in TestCreateEmpire
+210 - Title given to 1000943 - Primary title: c_loaj
+210 - Gained vassal: c_loaj
+210 - Made independent for title creation d_asunin for d_asunin
+210 - Gained vassal: c_rutehis
+210 - vassal: c_loaj - Set liege on title creation d_asunin
+210 - sub vassal: c_loaj - Set liege on title creation d_asunin
+247 - Holder 1001794 - Primary title: d_asunin has lost the title: d_asunin
+247 - Title given to 1001794
+247 - vassal: c_rutehis - Holder 1001794 - Primary title: c_rutehis has lost the title: c_rutehis
+247 - sub vassal: c_rutehis - Holder 1001794 - Primary title: c_rutehis has lost the title: c_rutehis
+247 - vassal: c_rutehis - Title given to 1001794 - Primary title: d_asunin
+247 - sub vassal: c_rutehis - Title given to 1001794 - Primary title: d_asunin
+247 - Holder (1001794) has gained c_rutehis
+247 - vassal: c_loaj - Holder 1001794 - Primary title: c_loaj has lost the title: c_loaj
+247 - sub vassal: c_loaj - Holder 1001794 - Primary title: c_loaj has lost the title: c_loaj
+247 - vassal: c_loaj - Title given to 1001794 - Primary title: d_asunin
+247 - sub vassal: c_loaj - Title given to 1001794 - Primary title: d_asunin
+247 - Holder (1001794) has gained c_loaj

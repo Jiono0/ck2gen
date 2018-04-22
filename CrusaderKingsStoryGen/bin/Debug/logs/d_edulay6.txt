@@ -1,0 +1,81 @@
+200 - Title given to 1000676
+200 - vassal: c_asanaga - Given to 1000679 via AddCharacterForTitle
+200 - sub vassal: c_asanaga - Given to 1000679 via AddCharacterForTitle
+200 - vassal: c_asanaga - Holder 1000679 - Primary title: c_asanaga has lost the title: c_asanaga
+200 - sub vassal: c_asanaga - Holder 1000679 - Primary title: c_asanaga has lost the title: c_asanaga
+200 - vassal: c_asanaga - Title given to 1000679
+200 - sub vassal: c_asanaga - Title given to 1000679
+200 - vassal: c_nadaina - Holder 1000676 - Primary title: c_nadaina has lost the title: c_nadaina
+200 - sub vassal: c_nadaina - Holder 1000676 - Primary title: c_nadaina has lost the title: c_nadaina
+200 - vassal: c_nadaina - Title given to 1000676 - Primary title: d_edulay
+200 - sub vassal: c_nadaina - Title given to 1000676 - Primary title: d_edulay
+200 - Holder (1000676) has gained c_nadaina
+200 - vassal: c_asanaga - Holder 1000676 - Primary title: c_asanaga has lost the title: c_asanaga
+200 - sub vassal: c_asanaga - Holder 1000676 - Primary title: c_asanaga has lost the title: c_asanaga
+200 - vassal: c_asanaga - Title given to 1000676 - Primary title: d_edulay
+200 - sub vassal: c_asanaga - Title given to 1000676 - Primary title: d_edulay
+200 - Holder (1000676) has gained c_asanaga
+200 - vassal: c_eguerna - Holder 1000676 - Primary title: c_eguerna has lost the title: c_eguerna
+200 - sub vassal: c_eguerna - Holder 1000676 - Primary title: c_eguerna has lost the title: c_eguerna
+200 - vassal: c_eguerna - Title given to 1000676 - Primary title: d_edulay
+200 - sub vassal: c_eguerna - Title given to 1000676 - Primary title: d_edulay
+200 - Holder (1000676) has gained c_eguerna
+200 - vassal: c_lanal - Title given to 1000676 - Primary title: d_edulay
+200 - Holder (1000676) has gained c_lanal
+227 - Holder 1000671 - Primary title: d_edulay has lost the title: d_edulay
+227 - Title given to 1000671 - Primary title: d_tugauna
+227 - vassal: c_nadaina - Holder 1000671 - Primary title: c_nadaina has lost the title: c_nadaina
+227 - vassal: c_nadaina - Title given to 1000671 - Primary title: d_tugauna
+227 - vassal: c_asanaga - Holder 1000671 - Primary title: c_asanaga has lost the title: c_asanaga
+227 - vassal: c_asanaga - Title given to 1000671 - Primary title: d_tugauna
+227 - vassal: c_eguerna - Holder 1000671 - Primary title: c_eguerna has lost the title: c_eguerna
+227 - vassal: c_eguerna - Title given to 1000671 - Primary title: d_tugauna
+227 - vassal: c_lanal - Holder 1000671 - Primary title: c_lanal has lost the title: c_lanal
+227 - vassal: c_lanal - Title given to 1000671 - Primary title: d_tugauna
+228 - Holder 1003179 - Primary title: d_edulay has lost the title: c_ladaka
+228 - Holder 1003180 - Primary title: d_edulay has lost the title: c_talulay
+228 - Holder 1003181 - Primary title: d_edulay has lost the title: c_badaga
+228 - Holder 1001594 - Primary title: d_edulay has lost the title: d_tugauna
+228 - Gained vassal: c_negyamo
+228 - Holder 1001594 - Primary title: d_edulay has lost the title: c_negyamo
+228 - vassal: c_negyamo - Title given to 1001594 - Primary title: d_tugauna
+228 - vassal: c_negyamo - Setting to vassal of d_tugauna in Validate Realm
+228 - Lost vassal: c_negyamo
+228 - Holder 1001594 - Primary title: d_edulay has lost the title: d_edulay
+228 - Title given to 1001594 - Primary title: d_tugauna
+228 - vassal: c_nadaina - Holder 1001594 - Primary title: c_nadaina has lost the title: c_nadaina
+228 - vassal: c_nadaina - Title given to 1001594 - Primary title: d_tugauna
+228 - vassal: c_asanaga - Holder 1001594 - Primary title: c_asanaga has lost the title: c_asanaga
+228 - vassal: c_asanaga - Title given to 1001594 - Primary title: d_tugauna
+228 - vassal: c_eguerna - Holder 1001594 - Primary title: c_eguerna has lost the title: c_eguerna
+228 - vassal: c_eguerna - Title given to 1001594 - Primary title: d_tugauna
+228 - vassal: c_lanal - Holder 1001594 - Primary title: c_lanal has lost the title: c_lanal
+228 - vassal: c_lanal - Title given to 1001594 - Primary title: d_tugauna
+256 - Holder 1003261 - Primary title: d_edulay has lost the title: d_edulay
+256 - Title given to 1003261
+256 - vassal: c_lanal - Setting to vassal of d_tugauna in Validate Realm
+256 - Lost vassal: c_lanal
+256 - vassal: c_eguerna - Setting to vassal of d_tugauna in Validate Realm
+256 - Lost vassal: c_eguerna
+256 - vassal: c_asanaga - Setting to vassal of d_tugauna in Validate Realm
+256 - Lost vassal: c_asanaga
+256 - vassal: c_nadaina - Setting to vassal of d_tugauna in Validate Realm
+256 - Lost vassal: c_nadaina
+256 - Holder (1003261) has gained d_tugauna
+256 - Holder (1003261) has gained c_lanal
+256 - Holder (1003261) has gained c_eguerna
+256 - Holder (1003261) has gained c_asanaga
+256 - Holder (1003261) has gained c_nadaina
+256 - Holder (1003261) has gained c_negyamo
+257 - Destroyed due to flagged problem
+257 - Made independent
+257 - Title destroyed
+262 - Given to 1003261 in TestCreateEmpire
+262 - Title given to 1003261 - Primary title: d_tugauna
+262 - Made independent for title creation d_edulay for d_tugauna
+262 - Made independent
+262 - Gained vassal: c_negyamo
+262 - Gained vassal: c_nadaina
+262 - Gained vassal: c_asanaga
+262 - Gained vassal: c_eguerna
+262 - Gained vassal: c_lanal

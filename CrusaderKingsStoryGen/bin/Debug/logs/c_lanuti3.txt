@@ -1,0 +1,39 @@
+200 - Title given to 1000001 - Primary title: c_talobad
+200 - Given to 1000112 via AddCharacterForTitle
+200 - Title given to 1000112
+200 - Given to 1000113 via AddCharacterForTitle
+200 - Holder 1000113 - Primary title: c_lanuti has lost the title: c_lanuti
+200 - Title given to 1000113
+200 - Holder 1000110 - Primary title: c_lanuti has lost the title: c_lanuti
+200 - Title given to 1000110 - Primary title: d_daruti
+208 - Holder 1001876 - Primary title: c_lanuti has lost the title: c_lanuti
+208 - Title given to 1001876 - Primary title: d_daruti
+260 - Setting to vassal of d_tenuti in Validate Realm
+260 - Holder 1003649 - Primary title: c_lanuti has lost the title: c_lanuti
+260 - Title given to 1003649 - Primary title: d_daruti
+265 - Set liege on title creation d_daruti
+265 - Setting independent due to liege destruction
+265 - Made independent
+300 - Holder 1005079 - Primary title: c_lanuti has lost the title: c_lanuti
+300 - Title given to 1005079 - Primary title: d_tonija
+310 - Set liege on title creation d_daruti
+310 - Setting independent due to liege destruction
+310 - Made independent
+311 - Given to neighbour holder of k_bozemar
+311 - Title given to 1004710 - Primary title: k_bozemar
+311 - Title given to 1007632
+311 - Too many dukes, made direct title into vassal of k_bozemar
+314 - Holder (1007632) has gained d_dadama
+314 - Setting to vassal of d_dadama in Validate Realm
+317 - Holder 1004710 - Primary title: c_lanuti has lost the title: c_lanuti
+317 - Title given to 1004710 - Primary title: k_bozemar
+317 - Setting to vassal of k_bozemar in Validate Realm
+317 - Title given to 1007928
+362 - Holder (1007928) has gained d_bauti
+362 - Setting to vassal of d_bauti in Validate Realm
+365 - Holder 1009859 - Primary title: c_lanuti has lost the title: c_lanuti
+365 - Title given to 1009859 - Primary title: k_bozemar
+365 - Setting to vassal of k_bozemar in Validate Realm
+365 - Title given to 1010309
+383 - Holder (1010309) has gained k_bozemar
+384 - Title given to 1011250

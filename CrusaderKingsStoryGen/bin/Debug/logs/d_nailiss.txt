@@ -1,0 +1,84 @@
+200 - Title given to 1000377
+200 - vassal: c_liganda - Holder 1000377 - Primary title: c_liganda has lost the title: c_liganda
+200 - sub vassal: c_liganda - Holder 1000377 - Primary title: c_liganda has lost the title: c_liganda
+200 - vassal: c_liganda - Title given to 1000377 - Primary title: d_nailiss
+200 - sub vassal: c_liganda - Title given to 1000377 - Primary title: d_nailiss
+200 - Holder (1000377) has gained c_liganda
+200 - vassal: c_kari - Holder 1000377 - Primary title: c_kari has lost the title: c_kari
+200 - sub vassal: c_kari - Holder 1000377 - Primary title: c_kari has lost the title: c_kari
+200 - vassal: c_kari - Title given to 1000377 - Primary title: d_nailiss
+200 - sub vassal: c_kari - Title given to 1000377 - Primary title: d_nailiss
+200 - Holder (1000377) has gained c_kari
+200 - vassal: c_railiss - Holder 1000377 - Primary title: c_railiss has lost the title: c_railiss
+200 - sub vassal: c_railiss - Holder 1000377 - Primary title: c_railiss has lost the title: c_railiss
+200 - vassal: c_railiss - Title given to 1000377 - Primary title: d_nailiss
+200 - sub vassal: c_railiss - Title given to 1000377 - Primary title: d_nailiss
+200 - Holder (1000377) has gained c_railiss
+222 - Holder 1001802 - Primary title: d_nailiss has lost the title: d_nailiss
+222 - Title given to 1001802
+222 - vassal: c_liganda - Holder 1001802 - Primary title: c_liganda has lost the title: c_liganda
+222 - vassal: c_liganda - Title given to 1001802 - Primary title: d_nailiss
+222 - Holder (1001802) has gained c_liganda
+222 - vassal: c_kari - Holder 1001802 - Primary title: c_kari has lost the title: c_kari
+222 - vassal: c_kari - Title given to 1001802 - Primary title: d_nailiss
+222 - Holder (1001802) has gained c_kari
+222 - vassal: c_railiss - Holder 1001802 - Primary title: c_railiss has lost the title: c_railiss
+222 - vassal: c_railiss - Title given to 1001802 - Primary title: d_nailiss
+222 - Holder (1001802) has gained c_railiss
+249 - Holder 1003204 - Primary title: d_nailiss has lost the title: d_nailiss
+249 - Title given to 1003204
+249 - vassal: c_railiss - Holder 1003204 - Primary title: c_railiss has lost the title: c_railiss
+249 - vassal: c_railiss - Title given to 1003204 - Primary title: d_nailiss
+249 - Holder (1003204) has gained c_railiss
+249 - vassal: c_kari - Holder 1003204 - Primary title: c_kari has lost the title: c_kari
+249 - vassal: c_kari - Title given to 1003204 - Primary title: d_nailiss
+249 - Holder (1003204) has gained c_kari
+249 - vassal: c_liganda - Holder 1003204 - Primary title: c_liganda has lost the title: c_liganda
+249 - vassal: c_liganda - Title given to 1003204 - Primary title: d_nailiss
+249 - Holder (1003204) has gained c_liganda
+252 - Holder 1003408 - Primary title: d_nailiss has lost the title: d_nailiss
+252 - Title given to 1003408 - Primary title: d_rajumna
+252 - vassal: c_railiss - Holder 1003408 - Primary title: c_railiss has lost the title: c_railiss
+252 - vassal: c_railiss - Title given to 1003408 - Primary title: d_rajumna
+252 - vassal: c_kari - Holder 1003408 - Primary title: c_kari has lost the title: c_kari
+252 - vassal: c_kari - Title given to 1003408 - Primary title: d_rajumna
+252 - vassal: c_liganda - Holder 1003408 - Primary title: c_liganda has lost the title: c_liganda
+252 - vassal: c_liganda - Title given to 1003408 - Primary title: d_rajumna
+253 - Holder 1004816 - Primary title: d_nailiss has lost the title: c_railuo
+263 - Holder (1003408) has gained d_ekaba
+263 - Holder (1003408) has gained c_nani
+263 - Holder (1003408) has gained c_kokari
+263 - Holder (1003408) has gained c_railezs
+264 - vassal: c_liganda - Given to 1005502 in HandleTitles - Too many duke titles
+264 - vassal: c_liganda - Title given to 1005502
+264 - Title given to 1002944 - Primary title: k_dayah
+264 - vassal: c_kari - Setting to vassal of d_ekaba in Validate Realm
+264 - Lost vassal: c_kari
+264 - vassal: c_railiss - Setting to vassal of d_ekaba in Validate Realm
+264 - Lost vassal: c_railiss
+264 - Too many dukes, made direct title into vassal of k_dayah
+264 - Title given to 1003470
+267 - Holder 1005676 - Primary title: d_nailiss has lost the title: d_nailiss
+267 - Title given to 1005676
+285 - Holder 1006072 - Primary title: d_nailiss has lost the title: d_nailiss
+285 - Title given to 1006072
+303 - Holder 1006994 - Primary title: d_nailiss has lost the title: d_nailiss
+303 - Title given to 1006994 - Primary title: k_dayah
+303 - vassal: c_liganda - Holder 1006994 - Primary title: c_liganda has lost the title: c_liganda
+303 - vassal: c_liganda - Title given to 1006994 - Primary title: k_dayah
+303 - Gained vassal: c_warund
+303 - Gained vassal: c_railiss
+303 - Gained vassal: c_nani
+303 - Holder 1005812 - Primary title: d_nailiss has lost the title: d_nailiss
+303 - Title given to 1005812 - Primary title: k_dayah
+303 - vassal: c_liganda - Setting to vassal of d_bani in Validate Realm
+303 - Lost vassal: c_liganda
+303 - vassal: c_nani - Setting to vassal of d_bani in Validate Realm
+303 - Lost vassal: c_nani
+303 - vassal: c_railiss - Setting to vassal of d_bani in Validate Realm
+303 - Lost vassal: c_railiss
+303 - vassal: c_warund - Setting to vassal of d_bani in Validate Realm
+303 - Lost vassal: c_warund
+304 - Destroyed due to flagged problem
+304 - Made independent
+304 - Title destroyed

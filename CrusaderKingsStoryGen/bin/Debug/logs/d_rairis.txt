@@ -1,0 +1,73 @@
+200 - Title given to 1000642
+200 - vassal: c_qarance - Given to 1000646 via AddCharacterForTitle
+200 - sub vassal: c_qarance - Given to 1000646 via AddCharacterForTitle
+200 - vassal: c_qarance - Holder 1000646 - Primary title: c_qarance has lost the title: c_qarance
+200 - sub vassal: c_qarance - Holder 1000646 - Primary title: c_qarance has lost the title: c_qarance
+200 - vassal: c_qarance - Title given to 1000646
+200 - sub vassal: c_qarance - Title given to 1000646
+200 - vassal: c_bakiota - Holder 1000642 - Primary title: c_bakiota has lost the title: c_bakiota
+200 - sub vassal: c_bakiota - Holder 1000642 - Primary title: c_bakiota has lost the title: c_bakiota
+200 - vassal: c_bakiota - Title given to 1000642 - Primary title: d_rairis
+200 - sub vassal: c_bakiota - Title given to 1000642 - Primary title: d_rairis
+200 - Holder (1000642) has gained c_bakiota
+200 - vassal: c_sapyas - Holder 1000642 - Primary title: c_sapyas has lost the title: c_sapyas
+200 - sub vassal: c_sapyas - Holder 1000642 - Primary title: c_sapyas has lost the title: c_sapyas
+200 - vassal: c_sapyas - Title given to 1000642 - Primary title: d_rairis
+200 - sub vassal: c_sapyas - Title given to 1000642 - Primary title: d_rairis
+200 - Holder (1000642) has gained c_sapyas
+200 - vassal: c_qarance - Holder 1000642 - Primary title: c_qarance has lost the title: c_qarance
+200 - sub vassal: c_qarance - Holder 1000642 - Primary title: c_qarance has lost the title: c_qarance
+200 - vassal: c_qarance - Title given to 1000642 - Primary title: d_rairis
+200 - sub vassal: c_qarance - Title given to 1000642 - Primary title: d_rairis
+200 - Holder (1000642) has gained c_qarance
+200 - vassal: c_natent - Title given to 1000642 - Primary title: d_rairis
+200 - Holder (1000642) has gained c_natent
+200 - Holder 1001057 - Primary title: d_rairis has lost the title: d_rairis
+200 - Title given to 1001057 - Primary title: k_wopiota
+200 - vassal: c_bakiota - Holder 1001057 - Primary title: c_bakiota has lost the title: c_bakiota
+200 - vassal: c_bakiota - Title given to 1001057 - Primary title: k_wopiota
+205 - Holder 1001907 - Primary title: d_rairis has lost the title: d_rairis
+205 - Title given to 1001907 - Primary title: k_wopiota
+205 - vassal: c_bakiota - Holder 1001907 - Primary title: c_bakiota has lost the title: c_bakiota
+205 - vassal: c_bakiota - Title given to 1001907 - Primary title: k_wopiota
+219 - Holder 1002759 - Primary title: d_rairis has lost the title: d_rairis
+219 - Title given to 1002759 - Primary title: k_wopiota
+219 - vassal: c_bakiota - Holder 1002759 - Primary title: c_bakiota has lost the title: c_bakiota
+219 - vassal: c_bakiota - Title given to 1002759 - Primary title: k_wopiota
+254 - Holder 1001814 - Primary title: d_rairis has lost the title: d_rairis
+254 - Title given to 1001814 - Primary title: k_wopiota
+254 - vassal: c_bakiota - Holder 1001814 - Primary title: c_bakiota has lost the title: c_bakiota
+254 - vassal: c_bakiota - Title given to 1001814 - Primary title: k_wopiota
+271 - Holder 1004129 - Primary title: d_rairis has lost the title: d_rairis
+271 - Title given to 1004129 - Primary title: k_wopiota
+271 - vassal: c_bakiota - Setting to vassal of d_rapenia in Validate Realm
+271 - Lost vassal: c_bakiota
+293 - Holder 1006292 - Primary title: d_rairis has lost the title: d_rairis
+293 - Title given to 1006292 - Primary title: k_wopiota
+300 - vassal: c_sapyas - Holder 1006292 - Primary title: c_sapyas has lost the title: c_sapyas
+300 - vassal: c_sapyas - Title given to 1006292 - Primary title: k_wopiota
+300 - vassal: c_qarance - Holder 1006292 - Primary title: c_qarance has lost the title: c_qarance
+300 - vassal: c_qarance - Title given to 1006292 - Primary title: k_wopiota
+300 - vassal: c_natent - Holder 1006292 - Primary title: c_natent has lost the title: c_natent
+300 - vassal: c_natent - Title given to 1006292 - Primary title: k_wopiota
+300 - vassal: c_natent - Title given to 1007637
+300 - vassal: c_sapyas - Title given to 1007638
+300 - vassal: c_qarance - Title given to 1007639
+308 - Holder 1007245 - Primary title: d_rairis has lost the title: d_rairis
+308 - Title given to 1007245 - Primary title: k_wopiota
+360 - Holder 1008625 - Primary title: d_rairis has lost the title: d_rairis
+360 - Title given to 1008625 - Primary title: k_wopiota
+370 - Holder 1011299 - Primary title: d_rairis has lost the title: d_rairis
+370 - Title given to 1011299 - Primary title: k_wopiota
+377 - vassal: c_natent - Holder 1011299 - Primary title: c_natent has lost the title: c_natent
+377 - vassal: c_natent - Title given to 1011299 - Primary title: k_wopiota
+377 - vassal: c_natent - Given to 1011639 in HandleTitles - Too many duke titles
+377 - vassal: c_natent - Title given to 1011639
+377 - Title given to 1011639 - Primary title: c_natent
+377 - vassal: c_natent - Holder (1011639) has gained d_rairis
+377 - Too many dukes, given to dejure: k_wopiota
+397 - Holder 1011888 - Primary title: d_rairis has lost the title: d_rairis
+397 - Title given to 1011888
+397 - vassal: c_natent - Holder 1011888 - Primary title: c_natent has lost the title: c_natent
+397 - vassal: c_natent - Title given to 1011888 - Primary title: d_rairis
+397 - Holder (1011888) has gained c_natent

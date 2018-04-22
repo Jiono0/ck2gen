@@ -1,0 +1,462 @@
+200 - Title given to 1001049
+200 - vassal: d_kanamis - Holder 1001049 - Primary title: d_kanamis has lost the title: d_kanamis
+200 - sub vassal: d_kanamis - Holder 1001049 - Primary title: d_kanamis has lost the title: d_kanamis
+200 - vassal: d_kanamis - Title given to 1001049 - Primary title: k_niel
+200 - sub vassal: d_kanamis - Title given to 1001049 - Primary title: k_niel
+200 - Holder (1001049) has gained d_kanamis
+200 - sub vassal: c_lerana - Holder 1001049 - Primary title: c_lerana has lost the title: c_lerana
+200 - sub vassal: c_lerana - Title given to 1001049 - Primary title: k_niel
+200 - Holder (1001049) has gained c_lerana
+200 - Gained vassal: d_serael
+200 - vassal: d_serael - Given to neighbour holder of k_niel
+200 - sub vassal: d_serael - Given to neighbour holder of k_niel
+200 - vassal: d_serael - Holder 1001049 - Primary title: d_serael has lost the title: d_serael
+200 - sub vassal: d_serael - Holder 1001049 - Primary title: d_serael has lost the title: d_serael
+200 - vassal: d_serael - Title given to 1001049 - Primary title: k_niel
+200 - sub vassal: d_serael - Title given to 1001049 - Primary title: k_niel
+200 - Holder (1001049) has gained d_serael
+202 - vassal: d_diyaneo - Holder 1001049 - Primary title: d_diyaneo has lost the title: d_diyaneo
+202 - sub vassal: d_diyaneo - Holder 1001049 - Primary title: d_diyaneo has lost the title: d_diyaneo
+202 - vassal: d_diyaneo - Title given to 1001049 - Primary title: k_niel
+202 - sub vassal: d_diyaneo - Title given to 1001049 - Primary title: k_niel
+202 - Holder (1001049) has gained d_diyaneo
+202 - sub vassal: c_egodanak - Holder 1001049 - Primary title: c_egodanak has lost the title: c_egodanak
+202 - sub vassal: c_egodanak - Title given to 1001049 - Primary title: k_niel
+202 - Holder (1001049) has gained c_egodanak
+202 - sub vassal: c_wirinda - Holder 1001049 - Primary title: c_wirinda has lost the title: c_wirinda
+202 - sub vassal: c_wirinda - Title given to 1001049 - Primary title: k_niel
+202 - Holder (1001049) has gained c_wirinda
+202 - sub vassal: c_egodanak - Given to 1001621 in HandleTitles - Too many duke titles
+202 - Holder 1001621 - Primary title: k_niel has lost the title: c_egodanak
+202 - sub vassal: c_egodanak - Title given to 1001621
+202 - Holder 1001621 - Primary title: k_niel has lost the title: d_diyaneo
+202 - vassal: d_diyaneo - Title given to 1001621 - Primary title: c_egodanak
+202 - sub vassal: d_diyaneo - Title given to 1001621 - Primary title: c_egodanak
+202 - sub vassal: c_egodanak - Holder (1001621) has gained d_diyaneo
+202 - sub vassal: c_wirinda - Setting to vassal of k_niel in Validate Realm
+202 - vassal: d_diyaneo - Lost vassal: c_wirinda
+202 - sub vassal: d_diyaneo - Lost vassal: c_wirinda
+202 - Gained vassal: c_wirinda
+202 - vassal: d_diyaneo - Too many dukes, given to dejure: k_niel
+202 - sub vassal: d_diyaneo - Too many dukes, given to dejure: k_niel
+203 - Holder 1001706 - Primary title: k_niel has lost the title: k_niel
+203 - Title given to 1001706
+203 - vassal: d_kanamis - Holder 1001706 - Primary title: d_kanamis has lost the title: d_kanamis
+203 - sub vassal: d_kanamis - Holder 1001706 - Primary title: d_kanamis has lost the title: d_kanamis
+203 - vassal: d_kanamis - Title given to 1001706 - Primary title: k_niel
+203 - sub vassal: d_kanamis - Title given to 1001706 - Primary title: k_niel
+203 - Holder (1001706) has gained d_kanamis
+203 - sub vassal: c_lerana - Setting to vassal of d_serael in Validate Realm
+203 - vassal: d_kanamis - Lost vassal: c_lerana
+203 - sub vassal: d_kanamis - Lost vassal: c_lerana
+203 - vassal: c_wirinda - Setting to vassal of d_serael in Validate Realm
+203 - sub vassal: c_wirinda - Setting to vassal of d_serael in Validate Realm
+203 - Lost vassal: c_wirinda
+203 - vassal: d_serael - Gained vassal: c_wirinda
+203 - sub vassal: d_serael - Gained vassal: c_wirinda
+203 - vassal: d_serael - Gained vassal: c_lerana
+203 - sub vassal: d_serael - Gained vassal: c_lerana
+203 - vassal: d_serael - Holder 1001706 - Primary title: d_serael has lost the title: d_serael
+203 - sub vassal: d_serael - Holder 1001706 - Primary title: d_serael has lost the title: d_serael
+203 - vassal: d_serael - Title given to 1001706 - Primary title: k_niel
+203 - sub vassal: d_serael - Title given to 1001706 - Primary title: k_niel
+203 - Holder (1001706) has gained d_serael
+203 - sub vassal: c_lerana - Holder 1001706 - Primary title: c_lerana has lost the title: c_lerana
+203 - sub vassal: c_lerana - Title given to 1001706 - Primary title: k_niel
+203 - Holder (1001706) has gained c_lerana
+203 - sub vassal: c_wirinda - Holder 1001706 - Primary title: c_wirinda has lost the title: c_wirinda
+203 - sub vassal: c_wirinda - Title given to 1001706 - Primary title: k_niel
+203 - Holder (1001706) has gained c_wirinda
+214 - Holder 1002190 - Primary title: k_niel has lost the title: k_niel
+214 - Title given to 1002190
+214 - vassal: d_kanamis - Holder 1002190 - Primary title: d_kanamis has lost the title: d_kanamis
+214 - sub vassal: d_kanamis - Holder 1002190 - Primary title: d_kanamis has lost the title: d_kanamis
+214 - vassal: d_kanamis - Title given to 1002190 - Primary title: k_niel
+214 - sub vassal: d_kanamis - Title given to 1002190 - Primary title: k_niel
+214 - Holder (1002190) has gained d_kanamis
+214 - vassal: d_serael - Holder 1002190 - Primary title: d_serael has lost the title: d_serael
+214 - sub vassal: d_serael - Holder 1002190 - Primary title: d_serael has lost the title: d_serael
+214 - vassal: d_serael - Title given to 1002190 - Primary title: k_niel
+214 - sub vassal: d_serael - Title given to 1002190 - Primary title: k_niel
+214 - Holder (1002190) has gained d_serael
+214 - sub vassal: c_lerana - Holder 1002190 - Primary title: c_lerana has lost the title: c_lerana
+214 - sub vassal: c_lerana - Title given to 1002190 - Primary title: k_niel
+214 - Holder (1002190) has gained c_lerana
+214 - sub vassal: c_wirinda - Holder 1002190 - Primary title: c_wirinda has lost the title: c_wirinda
+214 - sub vassal: c_wirinda - Title given to 1002190 - Primary title: k_niel
+214 - Holder (1002190) has gained c_wirinda
+234 - Holder 1003350 - Primary title: k_niel has lost the title: k_niel
+234 - Title given to 1003350
+234 - vassal: d_kanamis - Holder 1003350 - Primary title: d_kanamis has lost the title: d_kanamis
+234 - sub vassal: d_kanamis - Holder 1003350 - Primary title: d_kanamis has lost the title: d_kanamis
+234 - vassal: d_kanamis - Title given to 1003350 - Primary title: k_niel
+234 - sub vassal: d_kanamis - Title given to 1003350 - Primary title: k_niel
+234 - Holder (1003350) has gained d_kanamis
+234 - vassal: d_serael - Holder 1003350 - Primary title: d_serael has lost the title: d_serael
+234 - sub vassal: d_serael - Holder 1003350 - Primary title: d_serael has lost the title: d_serael
+234 - vassal: d_serael - Title given to 1003350 - Primary title: k_niel
+234 - sub vassal: d_serael - Title given to 1003350 - Primary title: k_niel
+234 - Holder (1003350) has gained d_serael
+234 - sub vassal: c_wirinda - Holder 1003350 - Primary title: c_wirinda has lost the title: c_wirinda
+234 - sub vassal: c_wirinda - Title given to 1003350 - Primary title: k_niel
+234 - Holder (1003350) has gained c_wirinda
+234 - sub vassal: c_lerana - Holder 1003350 - Primary title: c_lerana has lost the title: c_lerana
+234 - sub vassal: c_lerana - Title given to 1003350 - Primary title: k_niel
+234 - Holder (1003350) has gained c_lerana
+240 - vassal: d_diyaneo - Holder 1001689 - Primary title: d_diyaneo has lost the title: d_diyaneo
+240 - sub vassal: d_diyaneo - Holder 1001689 - Primary title: d_diyaneo has lost the title: d_diyaneo
+240 - vassal: d_diyaneo - Title given to 1001689
+240 - sub vassal: d_diyaneo - Title given to 1001689
+240 - sub vassal: c_egodanak - Holder 1001689 - Primary title: c_egodanak has lost the title: c_egodanak
+240 - sub vassal: c_egodanak - Title given to 1001689 - Primary title: d_diyaneo
+240 - vassal: d_diyaneo - Holder (1001689) has gained c_egodanak
+240 - sub vassal: d_diyaneo - Holder (1001689) has gained c_egodanak
+240 - Holder 1003890 - Primary title: k_niel has lost the title: k_niel
+240 - Title given to 1003890
+240 - vassal: d_kanamis - Holder 1003890 - Primary title: d_kanamis has lost the title: d_kanamis
+240 - sub vassal: d_kanamis - Holder 1003890 - Primary title: d_kanamis has lost the title: d_kanamis
+240 - vassal: d_kanamis - Title given to 1003890 - Primary title: k_niel
+240 - sub vassal: d_kanamis - Title given to 1003890 - Primary title: k_niel
+240 - Holder (1003890) has gained d_kanamis
+240 - vassal: d_serael - Holder 1003890 - Primary title: d_serael has lost the title: d_serael
+240 - sub vassal: d_serael - Holder 1003890 - Primary title: d_serael has lost the title: d_serael
+240 - vassal: d_serael - Title given to 1003890 - Primary title: k_niel
+240 - sub vassal: d_serael - Title given to 1003890 - Primary title: k_niel
+240 - Holder (1003890) has gained d_serael
+240 - sub vassal: c_lerana - Holder 1003890 - Primary title: c_lerana has lost the title: c_lerana
+240 - sub vassal: c_lerana - Title given to 1003890 - Primary title: k_niel
+240 - Holder (1003890) has gained c_lerana
+240 - sub vassal: c_wirinda - Holder 1003890 - Primary title: c_wirinda has lost the title: c_wirinda
+240 - sub vassal: c_wirinda - Title given to 1003890 - Primary title: k_niel
+240 - Holder (1003890) has gained c_wirinda
+241 - vassal: d_buereo - Holder 1001899 - Primary title: d_buereo has lost the title: d_buereo
+241 - sub vassal: d_buereo - Holder 1001899 - Primary title: d_buereo has lost the title: d_buereo
+241 - vassal: d_buereo - Title given to 1001899
+241 - sub vassal: d_buereo - Title given to 1001899
+241 - sub vassal: c_tinemis - Holder 1001899 - Primary title: c_tinemis has lost the title: c_tinemis
+241 - sub vassal: c_tinemis - Title given to 1001899 - Primary title: d_buereo
+241 - vassal: d_buereo - Holder (1001899) has gained c_tinemis
+241 - sub vassal: d_buereo - Holder (1001899) has gained c_tinemis
+241 - sub vassal: c_keyanak - Holder 1001899 - Primary title: c_keyanak has lost the title: c_keyanak
+241 - sub vassal: c_keyanak - Title given to 1001899 - Primary title: d_buereo
+241 - vassal: d_buereo - Holder (1001899) has gained c_keyanak
+241 - sub vassal: d_buereo - Holder (1001899) has gained c_keyanak
+254 - Holder 1004585 - Primary title: k_niel has lost the title: k_niel
+254 - Title given to 1004585
+254 - vassal: d_kanamis - Holder 1004585 - Primary title: d_kanamis has lost the title: d_kanamis
+254 - sub vassal: d_kanamis - Holder 1004585 - Primary title: d_kanamis has lost the title: d_kanamis
+254 - vassal: d_kanamis - Title given to 1004585 - Primary title: k_niel
+254 - sub vassal: d_kanamis - Title given to 1004585 - Primary title: k_niel
+254 - Holder (1004585) has gained d_kanamis
+254 - vassal: d_serael - Holder 1004585 - Primary title: d_serael has lost the title: d_serael
+254 - sub vassal: d_serael - Holder 1004585 - Primary title: d_serael has lost the title: d_serael
+254 - vassal: d_serael - Title given to 1004585 - Primary title: k_niel
+254 - sub vassal: d_serael - Title given to 1004585 - Primary title: k_niel
+254 - Holder (1004585) has gained d_serael
+254 - sub vassal: c_lerana - Holder 1004585 - Primary title: c_lerana has lost the title: c_lerana
+254 - sub vassal: c_lerana - Title given to 1004585 - Primary title: k_niel
+254 - Holder (1004585) has gained c_lerana
+254 - sub vassal: c_wirinda - Holder 1004585 - Primary title: c_wirinda has lost the title: c_wirinda
+254 - sub vassal: c_wirinda - Title given to 1004585 - Primary title: k_niel
+254 - Holder (1004585) has gained c_wirinda
+260 - vassal: d_diyaneo - Holder 1001899 - Primary title: d_diyaneo has lost the title: d_diyaneo
+260 - sub vassal: d_diyaneo - Holder 1001899 - Primary title: d_diyaneo has lost the title: d_diyaneo
+260 - vassal: d_diyaneo - Title given to 1001899 - Primary title: d_buereo
+260 - sub vassal: d_diyaneo - Title given to 1001899 - Primary title: d_buereo
+260 - vassal: d_buereo - Holder (1001899) has gained d_diyaneo
+260 - sub vassal: d_buereo - Holder (1001899) has gained d_diyaneo
+260 - sub vassal: c_egodanak - Holder 1001899 - Primary title: c_egodanak has lost the title: c_egodanak
+260 - sub vassal: c_egodanak - Title given to 1001899 - Primary title: d_buereo
+260 - vassal: d_buereo - Holder (1001899) has gained c_egodanak
+260 - sub vassal: d_buereo - Holder (1001899) has gained c_egodanak
+273 - vassal: d_diyaneo - Holder 1004140 - Primary title: d_diyaneo has lost the title: d_buereo
+273 - sub vassal: d_diyaneo - Holder 1004140 - Primary title: d_diyaneo has lost the title: d_buereo
+273 - vassal: d_buereo - Title given to 1004140
+273 - sub vassal: d_buereo - Title given to 1004140
+273 - sub vassal: c_tinemis - Setting to vassal of d_diyaneo in Validate Realm
+273 - vassal: d_buereo - Lost vassal: c_tinemis
+273 - sub vassal: d_buereo - Lost vassal: c_tinemis
+273 - sub vassal: c_keyanak - Setting to vassal of d_diyaneo in Validate Realm
+273 - vassal: d_buereo - Lost vassal: c_keyanak
+273 - sub vassal: d_buereo - Lost vassal: c_keyanak
+273 - vassal: d_diyaneo - Gained vassal: c_keyanak
+273 - sub vassal: d_diyaneo - Gained vassal: c_keyanak
+273 - vassal: d_diyaneo - Gained vassal: c_tinemis
+273 - sub vassal: d_diyaneo - Gained vassal: c_tinemis
+273 - vassal: d_diyaneo - Holder 1004140 - Primary title: d_diyaneo has lost the title: c_tinemis
+273 - sub vassal: d_diyaneo - Holder 1004140 - Primary title: d_diyaneo has lost the title: c_tinemis
+273 - sub vassal: c_tinemis - Title given to 1004140 - Primary title: d_buereo
+273 - vassal: d_buereo - Holder (1004140) has gained c_tinemis
+273 - sub vassal: d_buereo - Holder (1004140) has gained c_tinemis
+273 - sub vassal: c_tinemis - Setting to vassal of d_buereo in Validate Realm
+273 - vassal: d_diyaneo - Lost vassal: c_tinemis
+273 - sub vassal: d_diyaneo - Lost vassal: c_tinemis
+273 - vassal: d_buereo - Gained vassal: c_tinemis
+273 - sub vassal: d_buereo - Gained vassal: c_tinemis
+273 - vassal: d_diyaneo - Holder 1004140 - Primary title: d_diyaneo has lost the title: c_keyanak
+273 - sub vassal: d_diyaneo - Holder 1004140 - Primary title: d_diyaneo has lost the title: c_keyanak
+273 - sub vassal: c_keyanak - Title given to 1004140 - Primary title: d_buereo
+273 - vassal: d_buereo - Holder (1004140) has gained c_keyanak
+273 - sub vassal: d_buereo - Holder (1004140) has gained c_keyanak
+273 - sub vassal: c_keyanak - Setting to vassal of d_buereo in Validate Realm
+273 - vassal: d_diyaneo - Lost vassal: c_keyanak
+273 - sub vassal: d_diyaneo - Lost vassal: c_keyanak
+273 - vassal: d_buereo - Gained vassal: c_keyanak
+273 - sub vassal: d_buereo - Gained vassal: c_keyanak
+273 - vassal: d_diyaneo - Holder 1004140 - Primary title: d_diyaneo has lost the title: d_diyaneo
+273 - sub vassal: d_diyaneo - Holder 1004140 - Primary title: d_diyaneo has lost the title: d_diyaneo
+273 - vassal: d_diyaneo - Title given to 1004140 - Primary title: d_buereo
+273 - sub vassal: d_diyaneo - Title given to 1004140 - Primary title: d_buereo
+273 - vassal: d_buereo - Holder (1004140) has gained d_diyaneo
+273 - sub vassal: d_buereo - Holder (1004140) has gained d_diyaneo
+273 - sub vassal: c_egodanak - Holder 1004140 - Primary title: c_egodanak has lost the title: c_egodanak
+273 - sub vassal: c_egodanak - Title given to 1004140 - Primary title: d_buereo
+273 - vassal: d_buereo - Holder (1004140) has gained c_egodanak
+273 - sub vassal: d_buereo - Holder (1004140) has gained c_egodanak
+283 - Holder (1004585) has gained c_dava
+283 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+285 - Holder (1004585) has gained c_dava
+285 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+287 - Holder (1004585) has gained c_dava
+287 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+288 - vassal: d_diyaneo - Holder 1005917 - Primary title: d_diyaneo has lost the title: d_diyaneo
+288 - sub vassal: d_diyaneo - Holder 1005917 - Primary title: d_diyaneo has lost the title: d_diyaneo
+288 - vassal: d_diyaneo - Title given to 1005917
+288 - sub vassal: d_diyaneo - Title given to 1005917
+288 - sub vassal: c_egodanak - Setting to vassal of d_buereo in Validate Realm
+288 - vassal: d_diyaneo - Lost vassal: c_egodanak
+288 - sub vassal: d_diyaneo - Lost vassal: c_egodanak
+288 - vassal: d_buereo - Gained vassal: c_egodanak
+288 - sub vassal: d_buereo - Gained vassal: c_egodanak
+288 - vassal: d_buereo - Holder 1005917 - Primary title: d_buereo has lost the title: d_buereo
+288 - sub vassal: d_buereo - Holder 1005917 - Primary title: d_buereo has lost the title: d_buereo
+288 - vassal: d_buereo - Title given to 1005917 - Primary title: d_diyaneo
+288 - sub vassal: d_buereo - Title given to 1005917 - Primary title: d_diyaneo
+288 - vassal: d_diyaneo - Holder (1005917) has gained d_buereo
+288 - sub vassal: d_diyaneo - Holder (1005917) has gained d_buereo
+288 - sub vassal: c_egodanak - Holder 1005917 - Primary title: c_egodanak has lost the title: c_egodanak
+288 - sub vassal: c_egodanak - Title given to 1005917 - Primary title: d_diyaneo
+288 - vassal: d_diyaneo - Holder (1005917) has gained c_egodanak
+288 - sub vassal: d_diyaneo - Holder (1005917) has gained c_egodanak
+288 - sub vassal: c_keyanak - Holder 1005917 - Primary title: c_keyanak has lost the title: c_keyanak
+288 - sub vassal: c_keyanak - Title given to 1005917 - Primary title: d_diyaneo
+288 - vassal: d_diyaneo - Holder (1005917) has gained c_keyanak
+288 - sub vassal: d_diyaneo - Holder (1005917) has gained c_keyanak
+288 - sub vassal: c_tinemis - Holder 1005917 - Primary title: c_tinemis has lost the title: c_tinemis
+288 - sub vassal: c_tinemis - Title given to 1005917 - Primary title: d_diyaneo
+288 - vassal: d_diyaneo - Holder (1005917) has gained c_tinemis
+288 - sub vassal: d_diyaneo - Holder (1005917) has gained c_tinemis
+288 - Holder 1006173 - Primary title: k_niel has lost the title: k_niel
+288 - Title given to 1006173
+288 - vassal: d_kanamis - Holder 1006173 - Primary title: d_kanamis has lost the title: d_kanamis
+288 - sub vassal: d_kanamis - Holder 1006173 - Primary title: d_kanamis has lost the title: d_kanamis
+288 - vassal: d_kanamis - Title given to 1006173 - Primary title: k_niel
+288 - sub vassal: d_kanamis - Title given to 1006173 - Primary title: k_niel
+288 - Holder (1006173) has gained d_kanamis
+288 - vassal: d_serael - Holder 1006173 - Primary title: d_serael has lost the title: d_serael
+288 - sub vassal: d_serael - Holder 1006173 - Primary title: d_serael has lost the title: d_serael
+288 - vassal: d_serael - Title given to 1006173 - Primary title: k_niel
+288 - sub vassal: d_serael - Title given to 1006173 - Primary title: k_niel
+288 - Holder (1006173) has gained d_serael
+288 - sub vassal: c_lerana - Holder 1006173 - Primary title: c_lerana has lost the title: c_lerana
+288 - sub vassal: c_lerana - Title given to 1006173 - Primary title: k_niel
+288 - Holder (1006173) has gained c_lerana
+288 - sub vassal: c_wirinda - Holder 1006173 - Primary title: c_wirinda has lost the title: c_wirinda
+288 - sub vassal: c_wirinda - Title given to 1006173 - Primary title: k_niel
+288 - Holder (1006173) has gained c_wirinda
+289 - vassal: d_diyaneo - Destroyed due to flagged problem
+289 - sub vassal: d_diyaneo - Destroyed due to flagged problem
+289 - vassal: d_diyaneo - Made independent
+289 - sub vassal: d_diyaneo - Made independent
+289 - Holder (1006173) has gained c_dava
+289 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+291 - Holder (1006173) has gained c_dava
+291 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+292 - vassal: d_buereo - Holder 1006173 - Primary title: d_buereo has lost the title: d_buereo
+292 - sub vassal: d_buereo - Holder 1006173 - Primary title: d_buereo has lost the title: d_buereo
+292 - vassal: d_buereo - Title given to 1006173 - Primary title: k_niel
+292 - sub vassal: d_buereo - Title given to 1006173 - Primary title: k_niel
+292 - Holder (1006173) has gained d_buereo
+292 - sub vassal: c_egodanak - Holder 1006173 - Primary title: c_egodanak has lost the title: c_egodanak
+292 - sub vassal: c_egodanak - Title given to 1006173 - Primary title: k_niel
+292 - Holder (1006173) has gained c_egodanak
+292 - sub vassal: c_keyanak - Holder 1006173 - Primary title: c_keyanak has lost the title: c_keyanak
+292 - sub vassal: c_keyanak - Title given to 1006173 - Primary title: k_niel
+292 - Holder (1006173) has gained c_keyanak
+292 - sub vassal: c_tinemis - Holder 1006173 - Primary title: c_tinemis has lost the title: c_tinemis
+292 - sub vassal: c_tinemis - Title given to 1006173 - Primary title: k_niel
+292 - Holder (1006173) has gained c_tinemis
+292 - sub vassal: c_egananak - Holder 1006173 - Primary title: c_egananak has lost the title: c_bagya
+292 - sub vassal: c_bagya - Title given to 1006173 - Primary title: k_niel
+292 - Holder (1006173) has gained c_bagya
+292 - sub vassal: c_bagya - Given to 1006676 in HandleTitles - Too many duke titles
+292 - Holder 1006676 - Primary title: k_niel has lost the title: c_bagya
+292 - sub vassal: c_bagya - Title given to 1006676
+292 - Holder 1006676 - Primary title: k_niel has lost the title: d_kanamis
+292 - vassal: d_kanamis - Title given to 1006676 - Primary title: c_bagya
+292 - sub vassal: d_kanamis - Title given to 1006676 - Primary title: c_bagya
+292 - sub vassal: c_bagya - Holder (1006676) has gained d_kanamis
+292 - vassal: d_kanamis - Too many dukes, given to dejure: k_niel
+292 - sub vassal: d_kanamis - Too many dukes, given to dejure: k_niel
+293 - Holder (1006173) has gained c_dava
+293 - Holder 1006730 - Primary title: k_niel has lost the title: c_keyanak
+293 - sub vassal: c_keyanak - Title given to 1006730
+293 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+295 - Holder (1006173) has gained c_dava
+295 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+297 - Holder (1006173) has gained c_dava
+297 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+299 - Holder (1006173) has gained c_dava
+299 - Holder 1006029 - Primary title: k_niel has lost the title: c_dava
+299 - Holder 1007006 - Primary title: k_niel has lost the title: k_niel
+299 - Title given to 1007006
+299 - vassal: d_serael - Holder 1007006 - Primary title: d_serael has lost the title: d_serael
+299 - sub vassal: d_serael - Holder 1007006 - Primary title: d_serael has lost the title: d_serael
+299 - vassal: d_serael - Title given to 1007006 - Primary title: k_niel
+299 - sub vassal: d_serael - Title given to 1007006 - Primary title: k_niel
+299 - Holder (1007006) has gained d_serael
+299 - sub vassal: c_lerana - Setting to vassal of d_buereo in Validate Realm
+299 - vassal: d_serael - Lost vassal: c_lerana
+299 - sub vassal: d_serael - Lost vassal: c_lerana
+299 - sub vassal: c_wirinda - Setting to vassal of d_buereo in Validate Realm
+299 - vassal: d_serael - Lost vassal: c_wirinda
+299 - sub vassal: d_serael - Lost vassal: c_wirinda
+299 - vassal: d_buereo - Gained vassal: c_wirinda
+299 - sub vassal: d_buereo - Gained vassal: c_wirinda
+299 - vassal: d_buereo - Gained vassal: c_lerana
+299 - sub vassal: d_buereo - Gained vassal: c_lerana
+299 - vassal: d_buereo - Holder 1007006 - Primary title: d_buereo has lost the title: c_lerana
+299 - sub vassal: d_buereo - Holder 1007006 - Primary title: d_buereo has lost the title: c_lerana
+299 - sub vassal: c_lerana - Title given to 1007006 - Primary title: k_niel
+299 - Holder (1007006) has gained c_lerana
+299 - sub vassal: c_lerana - Setting to vassal of k_niel in Validate Realm
+299 - vassal: d_buereo - Lost vassal: c_lerana
+299 - sub vassal: d_buereo - Lost vassal: c_lerana
+299 - Gained vassal: c_lerana
+299 - vassal: d_buereo - Holder 1007006 - Primary title: d_buereo has lost the title: c_wirinda
+299 - sub vassal: d_buereo - Holder 1007006 - Primary title: d_buereo has lost the title: c_wirinda
+299 - sub vassal: c_wirinda - Title given to 1007006 - Primary title: k_niel
+299 - Holder (1007006) has gained c_wirinda
+299 - sub vassal: c_wirinda - Setting to vassal of k_niel in Validate Realm
+299 - vassal: d_buereo - Lost vassal: c_wirinda
+299 - sub vassal: d_buereo - Lost vassal: c_wirinda
+299 - Gained vassal: c_wirinda
+299 - vassal: d_buereo - Holder 1007006 - Primary title: d_buereo has lost the title: d_buereo
+299 - sub vassal: d_buereo - Holder 1007006 - Primary title: d_buereo has lost the title: d_buereo
+299 - vassal: d_buereo - Title given to 1007006 - Primary title: k_niel
+299 - sub vassal: d_buereo - Title given to 1007006 - Primary title: k_niel
+299 - Holder (1007006) has gained d_buereo
+299 - sub vassal: c_egodanak - Holder 1007006 - Primary title: c_egodanak has lost the title: c_egodanak
+299 - sub vassal: c_egodanak - Title given to 1007006 - Primary title: k_niel
+299 - Holder (1007006) has gained c_egodanak
+299 - sub vassal: c_tinemis - Holder 1007006 - Primary title: c_tinemis has lost the title: c_tinemis
+299 - sub vassal: c_tinemis - Title given to 1007006 - Primary title: k_niel
+299 - Holder (1007006) has gained c_tinemis
+300 - sub vassal: c_saraday - Holder 1007006 - Primary title: c_saraday has lost the title: c_saraday
+300 - sub vassal: c_saraday - Title given to 1007006 - Primary title: k_niel
+300 - Holder (1007006) has gained c_saraday
+300 - sub vassal: c_nabyas - Holder 1007006 - Primary title: c_nabyas has lost the title: c_nabyas
+300 - sub vassal: c_nabyas - Title given to 1007006 - Primary title: k_niel
+300 - Holder (1007006) has gained c_nabyas
+300 - sub vassal: c_kerente - Holder 1007006 - Primary title: c_kerente has lost the title: c_kerente
+300 - sub vassal: c_kerente - Title given to 1007006 - Primary title: k_niel
+300 - Holder (1007006) has gained c_kerente
+300 - Holder 1007081 - Primary title: k_niel has lost the title: c_saraday
+300 - sub vassal: c_saraday - Title given to 1007081
+300 - Holder 1007082 - Primary title: k_niel has lost the title: c_tinemis
+300 - sub vassal: c_tinemis - Title given to 1007082
+304 - vassal: d_serael - Captured byk_wuerna in minor war
+304 - sub vassal: d_serael - Captured byk_wuerna in minor war
+306 - sub vassal: c_egananak - Holder 1006676 - Primary title: c_egananak has lost the title: c_egananak
+306 - sub vassal: c_egananak - Title given to 1006676 - Primary title: d_kanamis
+306 - vassal: d_kanamis - Holder (1006676) has gained c_egananak
+306 - sub vassal: d_kanamis - Holder (1006676) has gained c_egananak
+306 - sub vassal: c_eroganak - Holder 1006676 - Primary title: c_eroganak has lost the title: c_eroganak
+306 - sub vassal: c_eroganak - Title given to 1006676 - Primary title: d_kanamis
+306 - vassal: d_kanamis - Holder (1006676) has gained c_eroganak
+306 - sub vassal: d_kanamis - Holder (1006676) has gained c_eroganak
+311 - vassal: d_kanamis - Holder 1007006 - Primary title: d_kanamis has lost the title: d_kanamis
+311 - sub vassal: d_kanamis - Holder 1007006 - Primary title: d_kanamis has lost the title: d_kanamis
+311 - vassal: d_kanamis - Title given to 1007006 - Primary title: k_niel
+311 - sub vassal: d_kanamis - Title given to 1007006 - Primary title: k_niel
+311 - Holder (1007006) has gained d_kanamis
+311 - sub vassal: c_bagya - Holder 1007006 - Primary title: c_bagya has lost the title: c_bagya
+311 - sub vassal: c_bagya - Title given to 1007006 - Primary title: k_niel
+311 - Holder (1007006) has gained c_bagya
+311 - sub vassal: c_egananak - Holder 1007006 - Primary title: c_egananak has lost the title: c_egananak
+311 - sub vassal: c_egananak - Title given to 1007006 - Primary title: k_niel
+311 - Holder (1007006) has gained c_egananak
+311 - sub vassal: c_eroganak - Holder 1007006 - Primary title: c_eroganak has lost the title: c_eroganak
+311 - sub vassal: c_eroganak - Title given to 1007006 - Primary title: k_niel
+311 - Holder (1007006) has gained c_eroganak
+311 - sub vassal: c_bagya - Given to 1004197 in HandleTitles - Too many duke titles
+311 - Holder 1004197 - Primary title: k_niel has lost the title: c_bagya
+311 - sub vassal: c_bagya - Title given to 1004197
+311 - Holder 1004197 - Primary title: k_niel has lost the title: d_kanamis
+311 - vassal: d_kanamis - Title given to 1004197 - Primary title: c_bagya
+311 - sub vassal: d_kanamis - Title given to 1004197 - Primary title: c_bagya
+311 - sub vassal: c_bagya - Holder (1004197) has gained d_kanamis
+311 - sub vassal: c_egananak - Setting to vassal of k_niel in Validate Realm
+311 - vassal: d_kanamis - Lost vassal: c_egananak
+311 - sub vassal: d_kanamis - Lost vassal: c_egananak
+311 - sub vassal: c_eroganak - Setting to vassal of k_niel in Validate Realm
+311 - vassal: d_kanamis - Lost vassal: c_eroganak
+311 - sub vassal: d_kanamis - Lost vassal: c_eroganak
+311 - Gained vassal: c_eroganak
+311 - Gained vassal: c_egananak
+311 - vassal: d_kanamis - Too many dukes, given to dejure: k_niel
+311 - sub vassal: d_kanamis - Too many dukes, given to dejure: k_niel
+311 - Holder 1007644 - Primary title: k_niel has lost the title: c_kerente
+311 - sub vassal: c_kerente - Title given to 1007644
+311 - Holder 1007645 - Primary title: k_niel has lost the title: c_egodanak
+311 - sub vassal: c_egodanak - Title given to 1007645
+314 - vassal: d_kanamis - Holder 1007006 - Primary title: d_kanamis has lost the title: d_kanamis
+314 - sub vassal: d_kanamis - Holder 1007006 - Primary title: d_kanamis has lost the title: d_kanamis
+314 - vassal: d_kanamis - Title given to 1007006 - Primary title: k_niel
+314 - sub vassal: d_kanamis - Title given to 1007006 - Primary title: k_niel
+314 - Holder (1007006) has gained d_kanamis
+314 - sub vassal: c_bagya - Holder 1007006 - Primary title: c_bagya has lost the title: c_bagya
+314 - sub vassal: c_bagya - Title given to 1007006 - Primary title: k_niel
+314 - Holder (1007006) has gained c_bagya
+314 - sub vassal: c_tinemis - Given to 1007777 in HandleTitles - Too many duke titles
+314 - sub vassal: c_tinemis - Holder 1007777 - Primary title: c_tinemis has lost the title: c_tinemis
+314 - sub vassal: c_tinemis - Title given to 1007777
+314 - Holder 1007777 - Primary title: k_niel has lost the title: d_buereo
+314 - vassal: d_buereo - Title given to 1007777 - Primary title: c_tinemis
+314 - sub vassal: d_buereo - Title given to 1007777 - Primary title: c_tinemis
+314 - sub vassal: c_tinemis - Holder (1007777) has gained d_buereo
+314 - vassal: d_buereo - Too many dukes, given to dejure: k_niel
+314 - sub vassal: d_buereo - Too many dukes, given to dejure: k_niel
+314 - Holder 1007778 - Primary title: k_niel has lost the title: c_nabyas
+314 - sub vassal: c_nabyas - Title given to 1007778
+345 - Holder 1007888 - Primary title: k_niel has lost the title: k_niel
+345 - Title given to 1007888
+345 - vassal: d_kanamis - Holder 1007888 - Primary title: d_kanamis has lost the title: d_kanamis
+345 - sub vassal: d_kanamis - Holder 1007888 - Primary title: d_kanamis has lost the title: d_kanamis
+345 - vassal: d_kanamis - Title given to 1007888 - Primary title: k_niel
+345 - sub vassal: d_kanamis - Title given to 1007888 - Primary title: k_niel
+345 - Holder (1007888) has gained d_kanamis
+345 - vassal: c_wirinda - Setting to vassal of d_serael in Validate Realm
+345 - sub vassal: c_wirinda - Setting to vassal of d_serael in Validate Realm
+345 - Lost vassal: c_wirinda
+345 - vassal: c_lerana - Setting to vassal of d_serael in Validate Realm
+345 - sub vassal: c_lerana - Setting to vassal of d_serael in Validate Realm
+345 - Lost vassal: c_lerana
+345 - vassal: c_egananak - Setting to vassal of d_serael in Validate Realm
+345 - sub vassal: c_egananak - Setting to vassal of d_serael in Validate Realm
+345 - Lost vassal: c_egananak
+345 - vassal: c_eroganak - Setting to vassal of d_serael in Validate Realm
+345 - sub vassal: c_eroganak - Setting to vassal of d_serael in Validate Realm
+345 - Lost vassal: c_eroganak
+345 - sub vassal: c_bagya - Setting to vassal of d_serael in Validate Realm
+345 - vassal: d_kanamis - Lost vassal: c_bagya
+345 - sub vassal: d_kanamis - Lost vassal: c_bagya
+345 - vassal: d_serael - Gained vassal: c_bagya
+345 - sub vassal: d_serael - Gained vassal: c_bagya
+345 - vassal: d_serael - Gained vassal: c_eroganak
+345 - sub vassal: d_serael - Gained vassal: c_eroganak
+345 - vassal: d_serael - Gained vassal: c_egananak
+345 - sub vassal: d_serael - Gained vassal: c_egananak
+345 - vassal: d_serael - Gained vassal: c_lerana
+345 - sub vassal: d_serael - Gained vassal: c_lerana
+345 - vassal: d_serael - Gained vassal: c_wir

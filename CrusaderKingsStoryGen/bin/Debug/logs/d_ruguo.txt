@@ -1,0 +1,123 @@
+200 - Title given to 1000672
+200 - vassal: c_lyuruda - Given to 1000675 via AddCharacterForTitle
+200 - sub vassal: c_lyuruda - Given to 1000675 via AddCharacterForTitle
+200 - vassal: c_lyuruda - Holder 1000675 - Primary title: c_lyuruda has lost the title: c_lyuruda
+200 - sub vassal: c_lyuruda - Holder 1000675 - Primary title: c_lyuruda has lost the title: c_lyuruda
+200 - vassal: c_lyuruda - Title given to 1000675
+200 - sub vassal: c_lyuruda - Title given to 1000675
+200 - vassal: c_dyarunas - Holder 1000672 - Primary title: c_dyarunas has lost the title: c_dyarunas
+200 - sub vassal: c_dyarunas - Holder 1000672 - Primary title: c_dyarunas has lost the title: c_dyarunas
+200 - vassal: c_dyarunas - Title given to 1000672 - Primary title: d_ruguo
+200 - sub vassal: c_dyarunas - Title given to 1000672 - Primary title: d_ruguo
+200 - Holder (1000672) has gained c_dyarunas
+200 - vassal: c_lyuruda - Holder 1000672 - Primary title: c_lyuruda has lost the title: c_lyuruda
+200 - sub vassal: c_lyuruda - Holder 1000672 - Primary title: c_lyuruda has lost the title: c_lyuruda
+200 - vassal: c_lyuruda - Title given to 1000672 - Primary title: d_ruguo
+200 - sub vassal: c_lyuruda - Title given to 1000672 - Primary title: d_ruguo
+200 - Holder (1000672) has gained c_lyuruda
+204 - Holder 1001531 - Primary title: d_ruguo has lost the title: d_ruguo
+204 - Title given to 1001531 - Primary title: d_qaoson
+204 - vassal: c_lyuruda - Holder 1001531 - Primary title: c_lyuruda has lost the title: c_lyuruda
+204 - vassal: c_lyuruda - Title given to 1001531 - Primary title: d_qaoson
+204 - vassal: c_dyarunas - Holder 1001531 - Primary title: c_dyarunas has lost the title: c_dyarunas
+204 - vassal: c_dyarunas - Title given to 1001531 - Primary title: d_qaoson
+205 - Holder 1001890 - Primary title: d_ruguo has lost the title: c_rajunas
+210 - Holder (1001531) has gained d_ticukas
+211 - vassal: c_dyarunas - Given to 1002302 in HandleTitles - Too many duke titles
+211 - vassal: c_dyarunas - Title given to 1002302
+211 - Title given to 1001058 - Primary title: k_ruqi
+211 - vassal: c_lyuruda - Setting to vassal of d_ticukas in Validate Realm
+211 - Lost vassal: c_lyuruda
+211 - Too many dukes, made direct title into vassal of k_ruqi
+211 - Title given to 1002304
+212 - Holder 1002368 - Primary title: d_ruguo has lost the title: d_ruguo
+212 - Title given to 1002368
+234 - Holder 1003655 - Primary title: d_ruguo has lost the title: d_ruguo
+234 - Title given to 1003655
+252 - Holder 1001634 - Primary title: d_ruguo has lost the title: d_ruguo
+252 - Title given to 1001634 - Primary title: d_sesukas
+266 - Gained vassal: c_egunuda
+266 - Gained vassal: c_reokas
+266 - Gained vassal: c_wagifu
+266 - Holder 1003589 - Primary title: d_ruguo has lost the title: d_ruguo
+266 - Title given to 1003589 - Primary title: d_sesukas
+266 - vassal: c_wagifu - Holder 1003589 - Primary title: c_wagifu has lost the title: c_wagifu
+266 - vassal: c_wagifu - Title given to 1003589 - Primary title: d_sesukas
+266 - vassal: c_reokas - Holder 1003589 - Primary title: c_reokas has lost the title: c_reokas
+266 - vassal: c_reokas - Title given to 1003589 - Primary title: d_sesukas
+266 - vassal: c_egunuda - Holder 1003589 - Primary title: c_egunuda has lost the title: c_egunuda
+266 - vassal: c_egunuda - Title given to 1003589 - Primary title: d_sesukas
+287 - Holder (1003589) has gained d_sesukas
+287 - vassal: c_egunuda - Set liege on title creation d_sesukas
+287 - Lost vassal: c_egunuda
+287 - vassal: c_reokas - Set liege on title creation d_sesukas
+287 - Lost vassal: c_reokas
+287 - vassal: c_wagifu - Set liege on title creation d_sesukas
+287 - Lost vassal: c_wagifu
+290 - Holder 1005879 - Primary title: d_ruguo has lost the title: d_ruguo
+290 - Title given to 1005879
+290 - Holder (1005879) has gained d_sesukas
+294 - Holder (1005879) has gained c_egunuda
+294 - Holder (1005879) has gained c_reokas
+294 - Holder (1005879) has gained c_wagifu
+294 - Holder 1007116 - Primary title: d_ruguo has lost the title: d_ruguo
+294 - Title given to 1007116
+294 - Holder (1007116) has gained d_sesukas
+294 - Holder (1007116) has gained c_egunuda
+294 - Holder (1007116) has gained c_reokas
+294 - Holder (1007116) has gained c_wagifu
+295 - Holder (1007116) has gained d_qaoson
+295 - Holder (1007116) has gained c_rukas
+295 - Gained vassal: c_rukas
+295 - Holder (1007116) has gained d_ticukas
+295 - Holder (1007116) has gained c_syuyu
+295 - Holder (1007116) has gained c_nuguo
+295 - Holder (1007116) has gained c_egudina
+295 - Holder (1007116) has gained c_lyuruda
+295 - vassal: c_dyarunas - Given to 1007299 in HandleTitles - Too many duke titles
+295 - vassal: c_dyarunas - Holder 1007299 - Primary title: c_dyarunas has lost the title: c_dyarunas
+295 - vassal: c_dyarunas - Title given to 1007299
+295 - Title given to 1005720 - Primary title: k_ruqi
+295 - vassal: c_rukas - Setting to vassal of d_qaoson in Validate Realm
+295 - Lost vassal: c_rukas
+295 - Too many dukes, made direct title into vassal of k_ruqi
+295 - Title given to 1002832
+299 - Holder 1007370 - Primary title: d_ruguo has lost the title: d_ruguo
+299 - Title given to 1007370
+324 - Holder 1008521 - Primary title: d_ruguo has lost the title: d_ruguo
+324 - Title given to 1008521
+339 - Holder 1009510 - Primary title: d_ruguo has lost the title: d_ruguo
+339 - Title given to 1009510
+348 - Holder (1009510) has gained d_qaoson
+348 - Holder (1009510) has gained d_byarukas
+348 - Holder (1009510) has gained c_wasina
+348 - Holder (1009510) has gained c_qyariong
+348 - Holder (1009510) has gained c_dogaise
+348 - Holder (1009510) has gained c_wagifu
+348 - Holder (1009510) has gained c_rajunas
+349 - Holder 1010225 - Primary title: d_ruguo has lost the title: c_qyariong
+349 - Holder 1006622 - Primary title: d_ruguo has lost the title: d_byarukas
+349 - Gained vassal: c_rajunas
+349 - Gained vassal: c_wagifu
+349 - Gained vassal: c_dogaise
+349 - Gained vassal: c_wasina
+355 - Holder (1009510) has gained d_sesukas
+355 - Holder (1009510) has gained c_besunas
+356 - vassal: c_dyarunas - Given to 1010605 in HandleTitles - Too many duke titles
+356 - vassal: c_dyarunas - Holder 1010605 - Primary title: c_dyarunas has lost the title: c_dyarunas
+356 - vassal: c_dyarunas - Title given to 1010605
+356 - Title given to 1006622 - Primary title: k_ruqi
+356 - vassal: c_wasina - Setting to vassal of d_sesukas in Validate Realm
+356 - Lost vassal: c_wasina
+356 - vassal: c_dogaise - Setting to vassal of d_sesukas in Validate Realm
+356 - Lost vassal: c_dogaise
+356 - vassal: c_wagifu - Setting to vassal of d_sesukas in Validate Realm
+356 - Lost vassal: c_wagifu
+356 - vassal: c_rajunas - Setting to vassal of d_sesukas in Validate Realm
+356 - Lost vassal: c_rajunas
+356 - Too many dukes, made direct title into vassal of k_ruqi
+356 - Title given to 1010606
+378 - Holder 1010804 - Primary title: d_ruguo has lost the title: d_ruguo
+378 - Title given to 1010804
+384 - Holder 1009616 - Primary title: d_ruguo has lost the title: d_ruguo
+384 - Title given to 1009616 - Primary title: k_ruqi

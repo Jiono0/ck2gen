@@ -1,0 +1,99 @@
+200 - Title given to 1000585
+200 - vassal: c_todya - Given to 1000588 via AddCharacterForTitle
+200 - sub vassal: c_todya - Given to 1000588 via AddCharacterForTitle
+200 - vassal: c_todya - Holder 1000588 - Primary title: c_todya has lost the title: c_todya
+200 - sub vassal: c_todya - Holder 1000588 - Primary title: c_todya has lost the title: c_todya
+200 - vassal: c_todya - Title given to 1000588
+200 - sub vassal: c_todya - Title given to 1000588
+200 - vassal: c_kanazsi - Holder 1000585 - Primary title: c_kanazsi has lost the title: c_kanazsi
+200 - sub vassal: c_kanazsi - Holder 1000585 - Primary title: c_kanazsi has lost the title: c_kanazsi
+200 - vassal: c_kanazsi - Title given to 1000585 - Primary title: d_amiel
+200 - sub vassal: c_kanazsi - Title given to 1000585 - Primary title: d_amiel
+200 - Holder (1000585) has gained c_kanazsi
+200 - vassal: c_todya - Holder 1000585 - Primary title: c_todya has lost the title: c_todya
+200 - sub vassal: c_todya - Holder 1000585 - Primary title: c_todya has lost the title: c_todya
+200 - vassal: c_todya - Title given to 1000585 - Primary title: d_amiel
+200 - sub vassal: c_todya - Title given to 1000585 - Primary title: d_amiel
+200 - Holder (1000585) has gained c_todya
+200 - vassal: c_dabiel - Holder 1000585 - Primary title: c_dabiel has lost the title: c_dabiel
+200 - sub vassal: c_dabiel - Holder 1000585 - Primary title: c_dabiel has lost the title: c_dabiel
+200 - vassal: c_dabiel - Title given to 1000585 - Primary title: d_amiel
+200 - sub vassal: c_dabiel - Title given to 1000585 - Primary title: d_amiel
+200 - Holder (1000585) has gained c_dabiel
+226 - Holder (1000585) has gained d_rariel
+226 - Holder (1000585) has gained c_ramati
+226 - Holder (1000585) has gained c_ebiel
+226 - Holder (1000585) has gained c_sabdiel
+227 - vassal: c_kanazsi - Title given to 1003117
+245 - Gained vassal: c_ramati
+245 - Gained vassal: c_ebiel
+245 - Gained vassal: c_sabdiel
+245 - Holder 1002276 - Primary title: d_amiel has lost the title: d_amiel
+245 - Title given to 1002276 - Primary title: d_rariel
+245 - vassal: c_sabdiel - Holder 1002276 - Primary title: c_sabdiel has lost the title: c_sabdiel
+245 - vassal: c_sabdiel - Title given to 1002276 - Primary title: d_rariel
+245 - vassal: c_ebiel - Holder 1002276 - Primary title: c_ebiel has lost the title: c_ebiel
+245 - vassal: c_ebiel - Title given to 1002276 - Primary title: d_rariel
+245 - vassal: c_ramati - Holder 1002276 - Primary title: c_ramati has lost the title: c_ramati
+245 - vassal: c_ramati - Title given to 1002276 - Primary title: d_rariel
+245 - vassal: c_dabiel - Holder 1002276 - Primary title: c_dabiel has lost the title: c_dabiel
+245 - vassal: c_dabiel - Title given to 1002276 - Primary title: d_rariel
+245 - vassal: c_todya - Holder 1002276 - Primary title: c_todya has lost the title: c_todya
+245 - vassal: c_todya - Title given to 1002276 - Primary title: d_rariel
+245 - vassal: c_sabdiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+245 - Lost vassal: c_sabdiel
+245 - vassal: c_ebiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+245 - Lost vassal: c_ebiel
+245 - vassal: c_ramati - Made vassal of neighbour (k_nalaga) due to being a seperate island
+245 - Lost vassal: c_ramati
+246 - Gained vassal: c_ramati
+246 - Gained vassal: c_ebiel
+246 - Gained vassal: c_sabdiel
+246 - Gained vassal: c_sabdiel
+246 - vassal: c_ebiel - Setting liege to this liege in SoftDestroy
+246 - Lost vassal: c_ebiel
+246 - Gained vassal: c_ebiel
+246 - Gained vassal: c_ebiel
+246 - vassal: c_ramati - Setting liege to this liege in SoftDestroy
+246 - Lost vassal: c_ramati
+246 - Gained vassal: c_ramati
+246 - Gained vassal: c_ramati
+246 - vassal: c_sabdiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+246 - Lost vassal: c_sabdiel
+246 - Gained vassal: c_sabdiel
+246 - Gained vassal: c_sabdiel
+246 - vassal: c_sabdiel - Given to neighbour holder of k_nalaga
+246 - vassal: c_ebiel - Made vassal of neighbour (k_nalaga) due to being a seperate island
+246 - Lost vassal: c_ebiel
+246 - Gained vassal: c_ebiel
+246 - Gained vassal: c_ebiel
+246 - vassal: c_ebiel - Given to neighbour holder of k_nalaga
+246 - vassal: c_ramati - Made vassal of neighbour (k_nalaga) due to being a seperate island
+246 - Lost vassal: c_ramati
+246 - Gained vassal: c_ramati
+246 - Gained vassal: c_ramati
+246 - vassal: c_ramati - Given to neighbour holder of k_nalaga
+247 - Holder (1002276) has gained d_rariel
+247 - vassal: c_sabdiel - Set liege on title creation d_rariel
+247 - Lost vassal: c_sabdiel
+247 - vassal: c_ebiel - Set liege on title creation d_rariel
+247 - Lost vassal: c_ebiel
+247 - vassal: c_ramati - Set liege on title creation d_rariel
+247 - Lost vassal: c_ramati
+247 - vassal: c_dabiel - Set liege on title creation d_rariel
+247 - Lost vassal: c_dabiel
+247 - vassal: c_todya - Set liege on title creation d_rariel
+247 - Lost vassal: c_todya
+247 - vassal: c_kanazsi - Holder 1002276 - Primary title: c_kanazsi has lost the title: c_kanazsi
+247 - vassal: c_kanazsi - Title given to 1002276 - Primary title: d_amiel
+247 - Holder (1002276) has gained c_kanazsi
+248 - Holder 1004326 - Primary title: d_amiel has lost the title: c_ebiel
+248 - Gained vassal: c_ebiel
+251 - Holder (1002276) has gained d_rariel
+251 - vassal: c_kanazsi - Set liege on title creation d_rariel
+251 - Lost vassal: c_kanazsi
+251 - vassal: c_ebiel - Holder 1002276 - Primary title: c_ebiel has lost the title: c_ebiel
+251 - vassal: c_ebiel - Title given to 1002276 - Primary title: d_amiel
+251 - Holder (1002276) has gained c_ebiel
+252 - Holder 1004572 - Primary title: d_amiel has lost the title: c_ramati
+252 - Gained vassal: c_ramati

@@ -1,0 +1,102 @@
+200 - Title given to 1000173
+200 - vassal: c_tetolas - Holder 1000173 - Primary title: c_tetolas has lost the title: c_tetolas
+200 - sub vassal: c_tetolas - Holder 1000173 - Primary title: c_tetolas has lost the title: c_tetolas
+200 - vassal: c_tetolas - Title given to 1000173 - Primary title: d_bilelt
+200 - sub vassal: c_tetolas - Title given to 1000173 - Primary title: d_bilelt
+200 - Holder (1000173) has gained c_tetolas
+200 - vassal: c_eranouni - Holder 1000173 - Primary title: c_eranouni has lost the title: c_eranouni
+200 - sub vassal: c_eranouni - Holder 1000173 - Primary title: c_eranouni has lost the title: c_eranouni
+200 - vassal: c_eranouni - Title given to 1000173 - Primary title: d_bilelt
+200 - sub vassal: c_eranouni - Title given to 1000173 - Primary title: d_bilelt
+200 - Holder (1000173) has gained c_eranouni
+216 - Holder 1000167 - Primary title: d_bilelt has lost the title: d_bilelt
+216 - Title given to 1000167 - Primary title: d_tesohn
+216 - vassal: c_eranouni - Holder 1000167 - Primary title: c_eranouni has lost the title: c_eranouni
+216 - vassal: c_eranouni - Title given to 1000167 - Primary title: d_tesohn
+216 - vassal: c_tetolas - Holder 1000167 - Primary title: c_tetolas has lost the title: c_tetolas
+216 - vassal: c_tetolas - Title given to 1000167 - Primary title: d_tesohn
+235 - Gained vassal: c_sesava
+235 - Gained vassal: c_tesevat
+235 - Gained vassal: c_texouni
+235 - Holder 1003595 - Primary title: d_bilelt has lost the title: d_bilelt
+235 - Title given to 1003595 - Primary title: d_tesohn
+235 - vassal: c_tetolas - Holder 1003595 - Primary title: c_tetolas has lost the title: c_tetolas
+235 - vassal: c_tetolas - Title given to 1003595 - Primary title: d_tesohn
+235 - vassal: c_eranouni - Holder 1003595 - Primary title: c_eranouni has lost the title: c_eranouni
+235 - vassal: c_eranouni - Title given to 1003595 - Primary title: d_tesohn
+235 - vassal: c_texouni - Holder 1003595 - Primary title: c_texouni has lost the title: c_texouni
+235 - vassal: c_texouni - Title given to 1003595 - Primary title: d_tesohn
+235 - vassal: c_tesevat - Holder 1003595 - Primary title: c_tesevat has lost the title: c_tesevat
+235 - vassal: c_tesevat - Title given to 1003595 - Primary title: d_tesohn
+235 - vassal: c_sesava - Holder 1003595 - Primary title: c_sesava has lost the title: c_sesava
+235 - vassal: c_sesava - Title given to 1003595 - Primary title: d_tesohn
+251 - Holder (1003595) has gained k_qujman
+252 - vassal: c_sesava - Title given to 1004579
+270 - Gained vassal: c_banand
+270 - Holder 1004370 - Primary title: d_bilelt has lost the title: d_bilelt
+270 - Title given to 1004370 - Primary title: k_qujman
+270 - vassal: c_banand - Holder 1004370 - Primary title: c_banand has lost the title: c_banand
+270 - vassal: c_banand - Title given to 1004370 - Primary title: k_qujman
+270 - vassal: c_tetolas - Holder 1004370 - Primary title: c_tetolas has lost the title: c_tetolas
+270 - vassal: c_tetolas - Title given to 1004370 - Primary title: k_qujman
+270 - vassal: c_eranouni - Holder 1004370 - Primary title: c_eranouni has lost the title: c_eranouni
+270 - vassal: c_eranouni - Title given to 1004370 - Primary title: k_qujman
+270 - vassal: c_texouni - Holder 1004370 - Primary title: c_texouni has lost the title: c_texouni
+270 - vassal: c_texouni - Title given to 1004370 - Primary title: k_qujman
+270 - vassal: c_tesevat - Holder 1004370 - Primary title: c_tesevat has lost the title: c_tesevat
+270 - vassal: c_tesevat - Title given to 1004370 - Primary title: k_qujman
+312 - Holder 1005722 - Primary title: d_bilelt has lost the title: d_bilelt
+312 - Title given to 1005722 - Primary title: k_qujman
+312 - vassal: c_banand - Holder 1005722 - Primary title: c_banand has lost the title: c_banand
+312 - vassal: c_banand - Title given to 1005722 - Primary title: k_qujman
+312 - vassal: c_tetolas - Holder 1005722 - Primary title: c_tetolas has lost the title: c_tetolas
+312 - vassal: c_tetolas - Title given to 1005722 - Primary title: k_qujman
+312 - vassal: c_eranouni - Holder 1005722 - Primary title: c_eranouni has lost the title: c_eranouni
+312 - vassal: c_eranouni - Title given to 1005722 - Primary title: k_qujman
+312 - vassal: c_texouni - Holder 1005722 - Primary title: c_texouni has lost the title: c_texouni
+312 - vassal: c_texouni - Title given to 1005722 - Primary title: k_qujman
+312 - vassal: c_tesevat - Holder 1005722 - Primary title: c_tesevat has lost the title: c_tesevat
+312 - vassal: c_tesevat - Title given to 1005722 - Primary title: k_qujman
+339 - Holder 1009055 - Primary title: d_bilelt has lost the title: d_bilelt
+339 - Title given to 1009055 - Primary title: k_qujman
+339 - vassal: c_tesevat - Setting to vassal of d_wesance in Validate Realm
+339 - Lost vassal: c_tesevat
+339 - vassal: c_texouni - Setting to vassal of d_wesance in Validate Realm
+339 - Lost vassal: c_texouni
+339 - vassal: c_eranouni - Setting to vassal of d_wesance in Validate Realm
+339 - Lost vassal: c_eranouni
+339 - vassal: c_tetolas - Setting to vassal of d_wesance in Validate Realm
+339 - Lost vassal: c_tetolas
+339 - vassal: c_banand - Setting to vassal of d_wesance in Validate Realm
+339 - Lost vassal: c_banand
+365 - Holder 1009774 - Primary title: d_bilelt has lost the title: d_bilelt
+365 - Title given to 1009774 - Primary title: k_qujman
+386 - Gained vassal: c_tesevat
+386 - Gained vassal: c_texouni
+386 - Gained vassal: c_eranouni
+386 - Gained vassal: c_tetolas
+386 - Gained vassal: c_banand
+386 - Holder 1010577 - Primary title: d_bilelt has lost the title: d_bilelt
+386 - Title given to 1010577 - Primary title: k_qujman
+386 - vassal: c_banand - Holder 1010577 - Primary title: c_banand has lost the title: c_banand
+386 - vassal: c_banand - Title given to 1010577 - Primary title: k_qujman
+386 - vassal: c_tetolas - Holder 1010577 - Primary title: c_tetolas has lost the title: c_tetolas
+386 - vassal: c_tetolas - Title given to 1010577 - Primary title: k_qujman
+386 - vassal: c_eranouni - Holder 1010577 - Primary title: c_eranouni has lost the title: c_eranouni
+386 - vassal: c_eranouni - Title given to 1010577 - Primary title: k_qujman
+386 - vassal: c_texouni - Holder 1010577 - Primary title: c_texouni has lost the title: c_texouni
+386 - vassal: c_texouni - Title given to 1010577 - Primary title: k_qujman
+386 - vassal: c_tesevat - Holder 1010577 - Primary title: c_tesevat has lost the title: c_tesevat
+386 - vassal: c_tesevat - Title given to 1010577 - Primary title: k_qujman
+396 - Holder 1011688 - Primary title: d_bilelt has lost the title: d_bilelt
+396 - Title given to 1011688 - Primary title: k_qujman
+396 - vassal: c_banand - Holder 1011688 - Primary title: c_banand has lost the title: c_banand
+396 - vassal: c_banand - Title given to 1011688 - Primary title: k_qujman
+396 - vassal: c_tetolas - Holder 1011688 - Primary title: c_tetolas has lost the title: c_tetolas
+396 - vassal: c_tetolas - Title given to 1011688 - Primary title: k_qujman
+396 - vassal: c_eranouni - Holder 1011688 - Primary title: c_eranouni has lost the title: c_eranouni
+396 - vassal: c_eranouni - Title given to 1011688 - Primary title: k_qujman
+396 - vassal: c_texouni - Holder 1011688 - Primary title: c_texouni has lost the title: c_texouni
+396 - vassal: c_texouni - Title given to 1011688 - Primary title: k_qujman
+396 - vassal: c_tesevat - Holder 1011688 - Primary title: c_tesevat has lost the title: c_tesevat
+396 - vassal: c_tesevat - Title given to 1011688 - Primary title: k_qujman

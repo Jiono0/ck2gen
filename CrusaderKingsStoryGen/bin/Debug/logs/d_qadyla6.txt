@@ -1,0 +1,66 @@
+200 - Title given to 1000467
+200 - vassal: c_emuchen - Given to 1000471 via AddCharacterForTitle
+200 - sub vassal: c_emuchen - Given to 1000471 via AddCharacterForTitle
+200 - vassal: c_emuchen - Holder 1000471 - Primary title: c_emuchen has lost the title: c_emuchen
+200 - sub vassal: c_emuchen - Holder 1000471 - Primary title: c_emuchen has lost the title: c_emuchen
+200 - vassal: c_emuchen - Title given to 1000471
+200 - sub vassal: c_emuchen - Title given to 1000471
+200 - vassal: c_kuliana - Holder 1000467 - Primary title: c_kuliana has lost the title: c_kuliana
+200 - sub vassal: c_kuliana - Holder 1000467 - Primary title: c_kuliana has lost the title: c_kuliana
+200 - vassal: c_kuliana - Title given to 1000467 - Primary title: d_qadyla
+200 - sub vassal: c_kuliana - Title given to 1000467 - Primary title: d_qadyla
+200 - Holder (1000467) has gained c_kuliana
+200 - vassal: c_riciana - Holder 1000467 - Primary title: c_riciana has lost the title: c_riciana
+200 - sub vassal: c_riciana - Holder 1000467 - Primary title: c_riciana has lost the title: c_riciana
+200 - vassal: c_riciana - Title given to 1000467 - Primary title: d_qadyla
+200 - sub vassal: c_riciana - Title given to 1000467 - Primary title: d_qadyla
+200 - Holder (1000467) has gained c_riciana
+200 - vassal: c_emuchen - Holder 1000467 - Primary title: c_emuchen has lost the title: c_emuchen
+200 - sub vassal: c_emuchen - Holder 1000467 - Primary title: c_emuchen has lost the title: c_emuchen
+200 - vassal: c_emuchen - Title given to 1000467 - Primary title: d_qadyla
+200 - sub vassal: c_emuchen - Title given to 1000467 - Primary title: d_qadyla
+200 - Holder (1000467) has gained c_emuchen
+200 - vassal: c_bicuchi - Holder 1000467 - Primary title: c_bicuchi has lost the title: c_bicuchi
+200 - sub vassal: c_bicuchi - Holder 1000467 - Primary title: c_bicuchi has lost the title: c_bicuchi
+200 - vassal: c_bicuchi - Title given to 1000467 - Primary title: d_qadyla
+200 - sub vassal: c_bicuchi - Title given to 1000467 - Primary title: d_qadyla
+200 - Holder (1000467) has gained c_bicuchi
+225 - Holder 1001885 - Primary title: d_qadyla has lost the title: d_qadyla
+225 - Title given to 1001885
+225 - vassal: c_kuliana - Holder 1001885 - Primary title: c_kuliana has lost the title: c_kuliana
+225 - vassal: c_kuliana - Title given to 1001885 - Primary title: d_qadyla
+225 - Holder (1001885) has gained c_kuliana
+225 - vassal: c_riciana - Holder 1001885 - Primary title: c_riciana has lost the title: c_riciana
+225 - vassal: c_riciana - Title given to 1001885 - Primary title: d_qadyla
+225 - Holder (1001885) has gained c_riciana
+225 - vassal: c_emuchen - Holder 1001885 - Primary title: c_emuchen has lost the title: c_emuchen
+225 - vassal: c_emuchen - Title given to 1001885 - Primary title: d_qadyla
+225 - Holder (1001885) has gained c_emuchen
+225 - vassal: c_bicuchi - Holder 1001885 - Primary title: c_bicuchi has lost the title: c_bicuchi
+225 - vassal: c_bicuchi - Title given to 1001885 - Primary title: d_qadyla
+225 - Holder (1001885) has gained c_bicuchi
+232 - Holder 1000462 - Primary title: d_qadyla has lost the title: d_qadyla
+232 - Title given to 1000462 - Primary title: d_waken
+232 - vassal: c_kuliana - Holder 1000462 - Primary title: c_kuliana has lost the title: c_kuliana
+232 - vassal: c_kuliana - Title given to 1000462 - Primary title: d_waken
+232 - vassal: c_riciana - Holder 1000462 - Primary title: c_riciana has lost the title: c_riciana
+232 - vassal: c_riciana - Title given to 1000462 - Primary title: d_waken
+232 - vassal: c_emuchen - Holder 1000462 - Primary title: c_emuchen has lost the title: c_emuchen
+232 - vassal: c_emuchen - Title given to 1000462 - Primary title: d_waken
+232 - vassal: c_bicuchi - Holder 1000462 - Primary title: c_bicuchi has lost the title: c_bicuchi
+232 - vassal: c_bicuchi - Title given to 1000462 - Primary title: d_waken
+233 - Holder 1003502 - Primary title: d_qadyla has lost the title: c_luriana
+233 - Holder 1003503 - Primary title: d_qadyla has lost the title: c_sabyla
+246 - Holder 1001398 - Primary title: d_qadyla has lost the title: d_qadyla
+246 - Title given to 1001398 - Primary title: k_koumba
+246 - vassal: c_bicuchi - Setting to vassal of d_waken in Validate Realm
+246 - Lost vassal: c_bicuchi
+246 - vassal: c_emuchen - Setting to vassal of d_waken in Validate Realm
+246 - Lost vassal: c_emuchen
+246 - vassal: c_riciana - Setting to vassal of d_waken in Validate Realm
+246 - Lost vassal: c_riciana
+246 - vassal: c_kuliana - Setting to vassal of d_waken in Validate Realm
+246 - Lost vassal: c_kuliana
+246 - Destroyed due to flagged problem
+246 - Made independent
+246 - Title destroyed

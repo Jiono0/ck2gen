@@ -1,0 +1,59 @@
+200 - Title given to 1000256
+200 - vassal: c_agiresse - Given to 1000259 via AddCharacterForTitle
+200 - sub vassal: c_agiresse - Given to 1000259 via AddCharacterForTitle
+200 - vassal: c_agiresse - Holder 1000259 - Primary title: c_agiresse has lost the title: c_agiresse
+200 - sub vassal: c_agiresse - Holder 1000259 - Primary title: c_agiresse has lost the title: c_agiresse
+200 - vassal: c_agiresse - Title given to 1000259
+200 - sub vassal: c_agiresse - Title given to 1000259
+200 - vassal: c_ebirile - Holder 1000256 - Primary title: c_ebirile has lost the title: c_ebirile
+200 - sub vassal: c_ebirile - Holder 1000256 - Primary title: c_ebirile has lost the title: c_ebirile
+200 - vassal: c_ebirile - Title given to 1000256 - Primary title: d_tibara
+200 - sub vassal: c_ebirile - Title given to 1000256 - Primary title: d_tibara
+200 - Holder (1000256) has gained c_ebirile
+200 - vassal: c_agiresse - Holder 1000256 - Primary title: c_agiresse has lost the title: c_agiresse
+200 - sub vassal: c_agiresse - Holder 1000256 - Primary title: c_agiresse has lost the title: c_agiresse
+200 - vassal: c_agiresse - Title given to 1000256 - Primary title: d_tibara
+200 - sub vassal: c_agiresse - Title given to 1000256 - Primary title: d_tibara
+200 - Holder (1000256) has gained c_agiresse
+249 - Holder 1001807 - Primary title: d_tibara has lost the title: d_tibara
+249 - Title given to 1001807
+249 - vassal: c_agiresse - Holder 1001807 - Primary title: c_agiresse has lost the title: c_agiresse
+249 - vassal: c_agiresse - Title given to 1001807 - Primary title: d_tibara
+249 - Holder (1001807) has gained c_agiresse
+249 - vassal: c_ebirile - Holder 1001807 - Primary title: c_ebirile has lost the title: c_ebirile
+249 - vassal: c_ebirile - Title given to 1001807 - Primary title: d_tibara
+249 - Holder (1001807) has gained c_ebirile
+261 - Holder (1001807) has gained d_biatay
+261 - Holder (1001807) has gained c_tirya
+268 - Holder (1001807) has gained c_najya
+269 - vassal: c_ebirile - Title given to 1005505
+282 - vassal: c_agiresse - Given to 1006160 in HandleTitles - Too many duke titles
+282 - vassal: c_agiresse - Title given to 1006160
+282 - Title given to 1006160 - Primary title: c_agiresse
+282 - vassal: c_agiresse - Holder (1006160) has gained d_tibara
+282 - Too many dukes, given to dejure: k_bohave
+290 - Holder 1005504 - Primary title: d_tibara has lost the title: d_tibara
+290 - Title given to 1005504 - Primary title: d_dilay
+290 - vassal: c_agiresse - Holder 1005504 - Primary title: c_agiresse has lost the title: c_agiresse
+290 - vassal: c_agiresse - Title given to 1005504 - Primary title: d_dilay
+291 - Holder 1002286 - Primary title: d_tibara has lost the title: c_tirya
+291 - Holder 1004976 - Primary title: d_tibara has lost the title: d_biatay
+298 - Independent as conquerer
+298 - Made independent
+300 - sub vassal: c_wiedude - Setting to vassal of d_tibara in Validate Realm
+300 - sub vassal: c_tipya - Setting to vassal of d_tibara in Validate Realm
+300 - sub vassal: c_qirolas - Setting to vassal of d_tibara in Validate Realm
+300 - Gained vassal: c_qirolas
+300 - Gained vassal: c_tipya
+300 - Gained vassal: c_wiedude
+300 - Holder 1005658 - Primary title: d_tibara has lost the title: d_tibara
+300 - Title given to 1005658 - Primary title: k_bohave
+300 - vassal: c_wiedude - Holder 1005658 - Primary title: c_wiedude has lost the title: c_wiedude
+300 - vassal: c_wiedude - Title given to 1005658 - Primary title: k_bohave
+300 - vassal: c_agiresse - Holder 1005658 - Primary title: c_agiresse has lost the title: c_agiresse
+300 - vassal: c_agiresse - Title given to 1005658 - Primary title: k_bohave
+300 - vassal: c_tipya - Holder 1005658 - Primary title: c_tipya has lost the title: c_tipya
+300 - vassal: c_tipya - Title given to 1005658 - Primary title: k_bohave
+300 - vassal: c_qirolas - Holder 1005658 - Primary title: c_qirolas has lost the title: c_qirolas
+300 - vassal: c_qirolas - Title given to 1005658 - Primary title: k_bohave
+324 - vassal: c_agiresse - Given to 1008289 in HandleTitles - Too many duke t

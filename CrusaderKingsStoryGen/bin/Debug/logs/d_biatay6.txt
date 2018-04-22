@@ -1,0 +1,37 @@
+200 - Title given to 1000281
+200 - vassal: c_tirya - Given to 1000284 via AddCharacterForTitle
+200 - sub vassal: c_tirya - Given to 1000284 via AddCharacterForTitle
+200 - vassal: c_tirya - Holder 1000284 - Primary title: c_tirya has lost the title: c_tirya
+200 - sub vassal: c_tirya - Holder 1000284 - Primary title: c_tirya has lost the title: c_tirya
+200 - vassal: c_tirya - Title given to 1000284
+200 - sub vassal: c_tirya - Title given to 1000284
+200 - vassal: c_napara - Holder 1000281 - Primary title: c_napara has lost the title: c_napara
+200 - sub vassal: c_napara - Holder 1000281 - Primary title: c_napara has lost the title: c_napara
+200 - vassal: c_napara - Title given to 1000281 - Primary title: d_biatay
+200 - sub vassal: c_napara - Title given to 1000281 - Primary title: d_biatay
+200 - Holder (1000281) has gained c_napara
+200 - vassal: c_tirya - Holder 1000281 - Primary title: c_tirya has lost the title: c_tirya
+200 - sub vassal: c_tirya - Holder 1000281 - Primary title: c_tirya has lost the title: c_tirya
+200 - vassal: c_tirya - Title given to 1000281 - Primary title: d_biatay
+200 - sub vassal: c_tirya - Title given to 1000281 - Primary title: d_biatay
+200 - Holder (1000281) has gained c_tirya
+228 - Holder 1001655 - Primary title: d_biatay has lost the title: d_biatay
+228 - Title given to 1001655
+228 - vassal: c_napara - Holder 1001655 - Primary title: c_napara has lost the title: c_napara
+228 - vassal: c_napara - Title given to 1001655 - Primary title: d_biatay
+228 - Holder (1001655) has gained c_napara
+228 - vassal: c_tirya - Holder 1001655 - Primary title: c_tirya has lost the title: c_tirya
+228 - vassal: c_tirya - Title given to 1001655 - Primary title: d_biatay
+228 - Holder (1001655) has gained c_tirya
+256 - Holder (1001655) has gained k_bohave
+257 - vassal: c_tirya - Given to 1002187 in HandleTitles - Too many duke titles
+257 - vassal: c_tirya - Title given to 1002187
+257 - Title given to 1002187 - Primary title: c_tirya
+257 - vassal: c_tirya - Holder (1002187) has gained d_biatay
+257 - vassal: c_napara - Setting to vassal of k_bohave in Validate Realm
+257 - Lost vassal: c_napara
+257 - Too many dukes, given to dejure: k_bohave
+261 - Holder 1001807 - Primary title: d_biatay has lost the title: d_biatay
+261 - Title given to 1001807 - Primary title: d_tibara
+261 - vassal: c_tirya - Holder 1001807 - Primary title: c_tirya has lost the title: c_tirya
+261 - vassal: c_tirya - Title given to 1001807 - Primary title: d_tibara

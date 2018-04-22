@@ -1,0 +1,132 @@
+200 - Title given to 1000540
+200 - vassal: c_kiduchi - Given to 1000543 via AddCharacterForTitle
+200 - sub vassal: c_kiduchi - Given to 1000543 via AddCharacterForTitle
+200 - vassal: c_kiduchi - Holder 1000543 - Primary title: c_kiduchi has lost the title: c_kiduchi
+200 - sub vassal: c_kiduchi - Holder 1000543 - Primary title: c_kiduchi has lost the title: c_kiduchi
+200 - vassal: c_kiduchi - Title given to 1000543
+200 - sub vassal: c_kiduchi - Title given to 1000543
+200 - vassal: c_tamba - Given to 1000545 via AddCharacterForTitle
+200 - sub vassal: c_tamba - Given to 1000545 via AddCharacterForTitle
+200 - vassal: c_tamba - Holder 1000545 - Primary title: c_tamba has lost the title: c_tamba
+200 - sub vassal: c_tamba - Holder 1000545 - Primary title: c_tamba has lost the title: c_tamba
+200 - vassal: c_tamba - Title given to 1000545
+200 - sub vassal: c_tamba - Title given to 1000545
+200 - vassal: c_achuchen - Holder 1000540 - Primary title: c_achuchen has lost the title: c_achuchen
+200 - sub vassal: c_achuchen - Holder 1000540 - Primary title: c_achuchen has lost the title: c_achuchen
+200 - vassal: c_achuchen - Title given to 1000540 - Primary title: d_ekabi
+200 - sub vassal: c_achuchen - Title given to 1000540 - Primary title: d_ekabi
+200 - Holder (1000540) has gained c_achuchen
+200 - vassal: c_kiduchi - Holder 1000540 - Primary title: c_kiduchi has lost the title: c_kiduchi
+200 - sub vassal: c_kiduchi - Holder 1000540 - Primary title: c_kiduchi has lost the title: c_kiduchi
+200 - vassal: c_kiduchi - Title given to 1000540 - Primary title: d_ekabi
+200 - sub vassal: c_kiduchi - Title given to 1000540 - Primary title: d_ekabi
+200 - Holder (1000540) has gained c_kiduchi
+200 - vassal: c_lajamba - Holder 1000540 - Primary title: c_lajamba has lost the title: c_lajamba
+200 - sub vassal: c_lajamba - Holder 1000540 - Primary title: c_lajamba has lost the title: c_lajamba
+200 - vassal: c_lajamba - Title given to 1000540 - Primary title: d_ekabi
+200 - sub vassal: c_lajamba - Title given to 1000540 - Primary title: d_ekabi
+200 - Holder (1000540) has gained c_lajamba
+230 - Holder 1002036 - Primary title: d_ekabi has lost the title: d_ekabi
+230 - Title given to 1002036
+230 - vassal: c_achuchen - Holder 1002036 - Primary title: c_achuchen has lost the title: c_achuchen
+230 - vassal: c_achuchen - Title given to 1002036 - Primary title: d_ekabi
+230 - Holder (1002036) has gained c_achuchen
+230 - vassal: c_kiduchi - Holder 1002036 - Primary title: c_kiduchi has lost the title: c_kiduchi
+230 - vassal: c_kiduchi - Title given to 1002036 - Primary title: d_ekabi
+230 - Holder (1002036) has gained c_kiduchi
+230 - vassal: c_lajamba - Holder 1002036 - Primary title: c_lajamba has lost the title: c_lajamba
+230 - vassal: c_lajamba - Title given to 1002036 - Primary title: d_ekabi
+230 - Holder (1002036) has gained c_lajamba
+242 - Holder (1002036) has gained k_tye
+243 - vassal: c_kiduchi - Title given to 1002230
+246 - Holder 1003384 - Primary title: d_ekabi has lost the title: d_ekabi
+246 - Title given to 1003384 - Primary title: k_tye
+246 - vassal: c_lajamba - Setting to vassal of d_luisma in Validate Realm
+246 - Lost vassal: c_lajamba
+246 - vassal: c_achuchen - Setting to vassal of d_luisma in Validate Realm
+246 - Lost vassal: c_achuchen
+248 - Gained vassal: c_achuchen
+248 - Gained vassal: c_lajamba
+248 - Holder 1002323 - Primary title: d_ekabi has lost the title: d_ekabi
+248 - Title given to 1002323 - Primary title: k_tye
+248 - vassal: c_lajamba - Setting to vassal of d_luisma in Validate Realm
+248 - Lost vassal: c_lajamba
+248 - vassal: c_achuchen - Setting to vassal of d_luisma in Validate Realm
+248 - Lost vassal: c_achuchen
+265 - vassal: c_kiduchi - Holder 1002323 - Primary title: c_kiduchi has lost the title: c_kiduchi
+265 - vassal: c_kiduchi - Title given to 1002323 - Primary title: k_tye
+265 - vassal: c_kiduchi - Given to 1005271 in HandleTitles - Too many duke titles
+265 - vassal: c_kiduchi - Title given to 1005271
+265 - Title given to 1005271 - Primary title: c_kiduchi
+265 - vassal: c_kiduchi - Holder (1005271) has gained d_ekabi
+265 - Too many dukes, given to dejure: k_tye
+302 - Holder 1005313 - Primary title: d_ekabi has lost the title: d_ekabi
+302 - Title given to 1005313
+302 - vassal: c_kiduchi - Holder 1005313 - Primary title: c_kiduchi has lost the title: c_kiduchi
+302 - vassal: c_kiduchi - Title given to 1005313 - Primary title: d_ekabi
+302 - Holder (1005313) has gained c_kiduchi
+307 - Holder 1007305 - Primary title: d_ekabi has lost the title: d_ekabi
+307 - Title given to 1007305
+307 - vassal: c_kiduchi - Holder 1007305 - Primary title: c_kiduchi has lost the title: c_kiduchi
+307 - vassal: c_kiduchi - Title given to 1007305 - Primary title: d_ekabi
+307 - Holder (1007305) has gained c_kiduchi
+329 - Holder 1006822 - Primary title: d_ekabi has lost the title: d_ekabi
+329 - Title given to 1006822 - Primary title: c_achuchen
+329 - Gained vassal: c_achuchen
+329 - vassal: c_kiduchi - Holder 1006822 - Primary title: c_kiduchi has lost the title: c_kiduchi
+329 - vassal: c_kiduchi - Title given to 1006822 - Primary title: d_ekabi
+329 - Holder (1006822) has gained c_kiduchi
+332 - Holder 1007208 - Primary title: d_ekabi has lost the title: d_ekabi
+332 - Title given to 1007208 - Primary title: d_tilurab
+332 - vassal: c_achuchen - Holder 1007208 - Primary title: c_achuchen has lost the title: c_achuchen
+332 - vassal: c_achuchen - Title given to 1007208 - Primary title: d_tilurab
+332 - vassal: c_kiduchi - Holder 1007208 - Primary title: c_kiduchi has lost the title: c_kiduchi
+332 - vassal: c_kiduchi - Title given to 1007208 - Primary title: d_tilurab
+344 - Gained vassal: c_tisew
+344 - Holder 1008278 - Primary title: d_ekabi has lost the title: d_ekabi
+344 - Title given to 1008278 - Primary title: d_tilurab
+344 - vassal: c_kiduchi - Holder 1008278 - Primary title: c_kiduchi has lost the title: c_kiduchi
+344 - vassal: c_kiduchi - Title given to 1008278 - Primary title: d_tilurab
+344 - vassal: c_achuchen - Holder 1008278 - Primary title: c_achuchen has lost the title: c_achuchen
+344 - vassal: c_achuchen - Title given to 1008278 - Primary title: d_tilurab
+344 - vassal: c_tisew - Holder 1008278 - Primary title: c_tisew has lost the title: c_tisew
+344 - vassal: c_tisew - Title given to 1008278 - Primary title: d_tilurab
+353 - Holder 1009724 - Primary title: d_ekabi has lost the title: d_ekabi
+353 - Title given to 1009724
+353 - vassal: c_kiduchi - Holder 1009724 - Primary title: c_kiduchi has lost the title: c_kiduchi
+353 - vassal: c_kiduchi - Title given to 1009724 - Primary title: d_ekabi
+353 - Holder (1009724) has gained c_kiduchi
+353 - vassal: c_achuchen - Holder 1009724 - Primary title: c_achuchen has lost the title: c_achuchen
+353 - vassal: c_achuchen - Title given to 1009724 - Primary title: d_ekabi
+353 - Holder (1009724) has gained c_achuchen
+353 - vassal: c_tisew - Holder 1009724 - Primary title: c_tisew has lost the title: c_tisew
+353 - vassal: c_tisew - Title given to 1009724 - Primary title: d_ekabi
+353 - Holder (1009724) has gained c_tisew
+362 - Holder 1004410 - Primary title: d_ekabi has lost the title: d_ekabi
+362 - Title given to 1004410 - Primary title: k_tye
+362 - vassal: c_tisew - Holder 1004410 - Primary title: c_tisew has lost the title: c_tisew
+362 - vassal: c_tisew - Title given to 1004410 - Primary title: k_tye
+362 - vassal: c_achuchen - Holder 1004410 - Primary title: c_achuchen has lost the title: c_achuchen
+362 - vassal: c_achuchen - Title given to 1004410 - Primary title: k_tye
+362 - vassal: c_kiduchi - Holder 1004410 - Primary title: c_kiduchi has lost the title: c_kiduchi
+362 - vassal: c_kiduchi - Title given to 1004410 - Primary title: k_tye
+362 - vassal: c_kiduchi - Title given to 1010157
+362 - vassal: c_tisew - Title given to 1010158
+362 - vassal: c_achuchen - Title given to 1010159
+364 - Gained vassal: c_tamba
+364 - Gained vassal: c_sirino
+364 - Gained vassal: c_kekatia
+364 - Holder 1010258 - Primary title: d_ekabi has lost the title: c_kekatia
+364 - vassal: c_kekatia - Title given to 1010258 - Primary title: k_tye
+364 - vassal: c_kekatia - Setting to vassal of k_tye in Validate Realm
+364 - Lost vassal: c_kekatia
+364 - Holder 1010258 - Primary title: d_ekabi has lost the title: c_sirino
+364 - vassal: c_sirino - Title given to 1010258 - Primary title: k_tye
+364 - vassal: c_sirino - Setting to vassal of k_tye in Validate Realm
+364 - Lost vassal: c_sirino
+364 - Holder 1010258 - Primary title: d_ekabi has lost the title: c_tamba
+364 - vassal: c_tamba - Title given to 1010258 - Primary title: k_tye
+364 - vassal: c_tamba - Setting to vassal of k_tye in Validate Realm
+364 - Lost vassal: c_tamba
+364 - Holder 1010258 - Primary title: d_ekabi has lost the title: d_ekabi
+364 - Title given to 1010258 - Primary title: k_tye

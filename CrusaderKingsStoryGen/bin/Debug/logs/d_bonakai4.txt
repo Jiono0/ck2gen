@@ -1,0 +1,67 @@
+200 - Title given to 1000951
+200 - vassal: c_bofaye - Holder 1000951 - Primary title: c_bofaye has lost the title: c_bofaye
+200 - sub vassal: c_bofaye - Holder 1000951 - Primary title: c_bofaye has lost the title: c_bofaye
+200 - vassal: c_bofaye - Title given to 1000951 - Primary title: d_bonakai
+200 - sub vassal: c_bofaye - Title given to 1000951 - Primary title: d_bonakai
+200 - Holder (1000951) has gained c_bofaye
+200 - vassal: c_ryadaghu - Holder 1000951 - Primary title: c_ryadaghu has lost the title: c_ryadaghu
+200 - sub vassal: c_ryadaghu - Holder 1000951 - Primary title: c_ryadaghu has lost the title: c_ryadaghu
+200 - vassal: c_ryadaghu - Title given to 1000951 - Primary title: d_bonakai
+200 - sub vassal: c_ryadaghu - Title given to 1000951 - Primary title: d_bonakai
+200 - Holder (1000951) has gained c_ryadaghu
+200 - vassal: c_bulaye - Holder 1000951 - Primary title: c_bulaye has lost the title: c_bulaye
+200 - sub vassal: c_bulaye - Holder 1000951 - Primary title: c_bulaye has lost the title: c_bulaye
+200 - vassal: c_bulaye - Title given to 1000951 - Primary title: d_bonakai
+200 - sub vassal: c_bulaye - Title given to 1000951 - Primary title: d_bonakai
+200 - Holder (1000951) has gained c_bulaye
+200 - vassal: c_konauna - Holder 1000951 - Primary title: c_konauna has lost the title: c_konauna
+200 - sub vassal: c_konauna - Holder 1000951 - Primary title: c_konauna has lost the title: c_konauna
+200 - vassal: c_konauna - Title given to 1000951 - Primary title: d_bonakai
+200 - sub vassal: c_konauna - Title given to 1000951 - Primary title: d_bonakai
+200 - Holder (1000951) has gained c_konauna
+217 - Holder (1000951) has gained d_sakai
+217 - Holder (1000951) has gained c_sobakai
+217 - Holder (1000951) has gained c_wulemzi
+217 - Holder (1000951) has gained c_qyadina
+218 - vassal: c_bulaye - Title given to 1002613
+218 - vassal: c_konauna - Title given to 1002615
+229 - Holder (1000951) has gained d_kavakai
+229 - Holder (1000951) has gained c_kirai
+229 - Holder (1000951) has gained c_dirayda
+229 - Holder (1000951) has gained c_donalka
+230 - vassal: c_ryadaghu - Title given to 1003334
+230 - vassal: c_bofaye - Title given to 1003336
+232 - Title given to 1001900
+232 - Holder (1001900) has gained c_qyadina
+232 - Gained vassal: c_qyadina
+232 - Holder (1001900) has gained c_sobakai
+232 - Gained vassal: c_sobakai
+232 - Holder (1001900) has gained d_kavakai
+232 - Holder (1001900) has gained c_kirai
+232 - Holder (1001900) has gained c_dirayda
+232 - Holder (1001900) has gained c_donalka
+244 - Holder (1001900) has gained k_komakai
+253 - Holder 1003874 - Primary title: d_bonakai has lost the title: d_bonakai
+253 - Title given to 1003874 - Primary title: k_komakai
+253 - vassal: c_qyadina - Setting to vassal of d_kavakai in Validate Realm
+253 - Lost vassal: c_qyadina
+253 - vassal: c_sobakai - Setting to vassal of d_kavakai in Validate Realm
+253 - Lost vassal: c_sobakai
+277 - Holder 1005934 - Primary title: d_bonakai has lost the title: d_bonakai
+277 - Title given to 1005934 - Primary title: k_komakai
+281 - Holder 1006121 - Primary title: d_bonakai has lost the title: d_bonakai
+281 - Title given to 1006121 - Primary title: k_komakai
+311 - vassal: c_bofaye - Given to 1007646 in HandleTitles - Too many duke titles
+311 - vassal: c_bofaye - Holder 1007646 - Primary title: c_bofaye has lost the title: c_bofaye
+311 - vassal: c_bofaye - Title given to 1007646
+311 - Title given to 1007646 - Primary title: c_bofaye
+311 - vassal: c_bofaye - Holder (1007646) has gained d_bonakai
+311 - Too many dukes, given to dejure: k_komakai
+358 - Holder 1007771 - Primary title: d_bonakai has lost the title: d_bonakai
+358 - Title given to 1007771
+358 - vassal: c_bofaye - Holder 1007771 - Primary title: c_bofaye has lost the title: c_bofaye
+358 - vassal: c_bofaye - Title given to 1007771 - Primary title: d_bonakai
+358 - Holder (1007771) has gained c_bofaye
+366 - Holder 1009556 - Primary title: d_bonakai has lost the title: d_bonakai
+366 - Title given to 1009556 - Primary title: k_komakai
+366 - vassal: c

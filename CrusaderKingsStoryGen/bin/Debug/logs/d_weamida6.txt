@@ -1,0 +1,52 @@
+200 - Title given to 1000119
+200 - vassal: c_baama - Given to 1000122 via AddCharacterForTitle
+200 - sub vassal: c_baama - Given to 1000122 via AddCharacterForTitle
+200 - vassal: c_baama - Holder 1000122 - Primary title: c_baama has lost the title: c_baama
+200 - sub vassal: c_baama - Holder 1000122 - Primary title: c_baama has lost the title: c_baama
+200 - vassal: c_baama - Title given to 1000122
+200 - sub vassal: c_baama - Title given to 1000122
+200 - vassal: c_arirma - Holder 1000119 - Primary title: c_arirma has lost the title: c_arirma
+200 - sub vassal: c_arirma - Holder 1000119 - Primary title: c_arirma has lost the title: c_arirma
+200 - vassal: c_arirma - Title given to 1000119 - Primary title: d_weamida
+200 - sub vassal: c_arirma - Title given to 1000119 - Primary title: d_weamida
+200 - Holder (1000119) has gained c_arirma
+200 - vassal: c_baama - Holder 1000119 - Primary title: c_baama has lost the title: c_baama
+200 - sub vassal: c_baama - Holder 1000119 - Primary title: c_baama has lost the title: c_baama
+200 - vassal: c_baama - Title given to 1000119 - Primary title: d_weamida
+200 - sub vassal: c_baama - Title given to 1000119 - Primary title: d_weamida
+200 - Holder (1000119) has gained c_baama
+200 - vassal: c_waamur - Title given to 1000119 - Primary title: d_weamida
+200 - Holder (1000119) has gained c_waamur
+200 - vassal: c_dowilk - Title given to 1000119 - Primary title: d_weamida
+200 - Holder (1000119) has gained c_dowilk
+204 - Holder 1000069 - Primary title: d_weamida has lost the title: d_weamida
+204 - Title given to 1000069 - Primary title: d_saramur
+204 - vassal: c_dowilk - Holder 1000069 - Primary title: c_dowilk has lost the title: c_dowilk
+204 - vassal: c_dowilk - Title given to 1000069 - Primary title: d_saramur
+204 - vassal: c_waamur - Holder 1000069 - Primary title: c_waamur has lost the title: c_waamur
+204 - vassal: c_waamur - Title given to 1000069 - Primary title: d_saramur
+204 - vassal: c_baama - Holder 1000069 - Primary title: c_baama has lost the title: c_baama
+204 - vassal: c_baama - Title given to 1000069 - Primary title: d_saramur
+204 - vassal: c_arirma - Holder 1000069 - Primary title: c_arirma has lost the title: c_arirma
+204 - vassal: c_arirma - Title given to 1000069 - Primary title: d_saramur
+205 - Holder 1001799 - Primary title: d_weamida has lost the title: c_teuluti
+205 - Holder 1001800 - Primary title: d_weamida has lost the title: c_sarirma
+237 - Holder 1001140 - Primary title: d_weamida has lost the title: d_weamida
+237 - Title given to 1001140
+237 - vassal: c_arirma - Setting to vassal of d_saramur in Validate Realm
+237 - Lost vassal: c_arirma
+237 - vassal: c_baama - Setting to vassal of d_saramur in Validate Realm
+237 - Lost vassal: c_baama
+237 - vassal: c_waamur - Setting to vassal of d_saramur in Validate Realm
+237 - Lost vassal: c_waamur
+237 - vassal: c_dowilk - Setting to vassal of d_saramur in Validate Realm
+237 - Lost vassal: c_dowilk
+237 - Holder (1001140) has gained d_saramur
+237 - Holder (1001140) has gained c_arirma
+237 - Holder (1001140) has gained c_baama
+237 - Holder (1001140) has gained c_waamur
+237 - Holder (1001140) has gained c_dowilk
+237 - Holder (1001140) has gained c_raimuti
+238 - Destroyed due to flagged problem
+238 - Made independent
+238 - Title destroyed

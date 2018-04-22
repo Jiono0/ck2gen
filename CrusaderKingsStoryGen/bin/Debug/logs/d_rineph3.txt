@@ -1,0 +1,119 @@
+200 - Title given to 1000782
+200 - vassal: c_nyoa - Holder 1000782 - Primary title: c_nyoa has lost the title: c_nyoa
+200 - sub vassal: c_nyoa - Holder 1000782 - Primary title: c_nyoa has lost the title: c_nyoa
+200 - vassal: c_nyoa - Title given to 1000782 - Primary title: d_rineph
+200 - sub vassal: c_nyoa - Title given to 1000782 - Primary title: d_rineph
+200 - Holder (1000782) has gained c_nyoa
+200 - vassal: c_tyaba - Holder 1000782 - Primary title: c_tyaba has lost the title: c_tyaba
+200 - sub vassal: c_tyaba - Holder 1000782 - Primary title: c_tyaba has lost the title: c_tyaba
+200 - vassal: c_tyaba - Title given to 1000782 - Primary title: d_rineph
+200 - sub vassal: c_tyaba - Title given to 1000782 - Primary title: d_rineph
+200 - Holder (1000782) has gained c_tyaba
+200 - vassal: c_kidyal - Holder 1000782 - Primary title: c_kidyal has lost the title: c_kidyal
+200 - sub vassal: c_kidyal - Holder 1000782 - Primary title: c_kidyal has lost the title: c_kidyal
+200 - vassal: c_kidyal - Title given to 1000782 - Primary title: d_rineph
+200 - sub vassal: c_kidyal - Title given to 1000782 - Primary title: d_rineph
+200 - Holder (1000782) has gained c_kidyal
+210 - Holder 1001308 - Primary title: d_rineph has lost the title: d_rineph
+210 - Title given to 1001308
+210 - vassal: c_kidyal - Holder 1001308 - Primary title: c_kidyal has lost the title: c_kidyal
+210 - vassal: c_kidyal - Title given to 1001308 - Primary title: d_rineph
+210 - Holder (1001308) has gained c_kidyal
+210 - vassal: c_tyaba - Holder 1001308 - Primary title: c_tyaba has lost the title: c_tyaba
+210 - vassal: c_tyaba - Title given to 1001308 - Primary title: d_rineph
+210 - Holder (1001308) has gained c_tyaba
+210 - vassal: c_nyoa - Holder 1001308 - Primary title: c_nyoa has lost the title: c_nyoa
+210 - vassal: c_nyoa - Title given to 1001308 - Primary title: d_rineph
+210 - Holder (1001308) has gained c_nyoa
+260 - Holder 1002703 - Primary title: d_rineph has lost the title: d_rineph
+260 - Title given to 1002703 - Primary title: d_nilogli
+260 - vassal: c_nyoa - Holder 1002703 - Primary title: c_nyoa has lost the title: c_nyoa
+260 - vassal: c_nyoa - Title given to 1002703 - Primary title: d_nilogli
+260 - vassal: c_tyaba - Holder 1002703 - Primary title: c_tyaba has lost the title: c_tyaba
+260 - vassal: c_tyaba - Title given to 1002703 - Primary title: d_nilogli
+260 - vassal: c_kidyal - Holder 1002703 - Primary title: c_kidyal has lost the title: c_kidyal
+260 - vassal: c_kidyal - Title given to 1002703 - Primary title: d_nilogli
+261 - Holder 1005034 - Primary title: d_rineph has lost the title: c_tedeva
+261 - Holder 1005035 - Primary title: d_rineph has lost the title: c_toanora
+264 - Holder (1002703) has gained d_sacar
+265 - vassal: c_nyoa - Given to 1005259 in HandleTitles - Too many duke titles
+265 - vassal: c_nyoa - Title given to 1005259
+265 - Title given to 1001306 - Primary title: k_tagabha
+265 - vassal: c_tyaba - Setting to vassal of d_nilogli in Validate Realm
+265 - Lost vassal: c_tyaba
+265 - vassal: c_kidyal - Setting to vassal of d_nilogli in Validate Realm
+265 - Lost vassal: c_kidyal
+265 - Too many dukes, made direct title into vassal of k_tagabha
+265 - Title given to 1005260
+289 - Holder 1004575 - Primary title: d_rineph has lost the title: d_rineph
+289 - Title given to 1004575 - Primary title: d_nilogli
+290 - Holder 1006550 - Primary title: d_rineph has lost the title: c_wasora
+290 - Holder 1004037 - Primary title: d_rineph has lost the title: d_nilogli
+290 - Gained vassal: c_weupew
+290 - Gained vassal: c_tyaba
+290 - Gained vassal: c_kidyal
+316 - Holder 1007368 - Primary title: d_rineph has lost the title: d_rineph
+316 - Title given to 1007368
+316 - vassal: c_weupew - Setting to vassal of d_damba in Validate Realm
+316 - Lost vassal: c_weupew
+316 - vassal: c_tyaba - Setting to vassal of d_damba in Validate Realm
+316 - Lost vassal: c_tyaba
+316 - vassal: c_kidyal - Setting to vassal of d_damba in Validate Realm
+316 - Lost vassal: c_kidyal
+316 - Holder (1007368) has gained d_damba
+316 - Holder (1007368) has gained c_weupew
+316 - Holder (1007368) has gained c_tyaba
+316 - Holder (1007368) has gained c_kidyal
+316 - Holder (1007368) has gained c_rorator
+321 - Gained vassal: c_weupew
+321 - Gained vassal: c_tyaba
+321 - Gained vassal: c_kidyal
+321 - Gained vassal: c_rorator
+321 - Holder 1004872 - Primary title: d_rineph has lost the title: d_rineph
+321 - Title given to 1004872 - Primary title: k_tagabha
+321 - vassal: c_rorator - Holder 1004872 - Primary title: c_rorator has lost the title: c_rorator
+321 - vassal: c_rorator - Title given to 1004872 - Primary title: k_tagabha
+321 - vassal: c_kidyal - Holder 1004872 - Primary title: c_kidyal has lost the title: c_kidyal
+321 - vassal: c_kidyal - Title given to 1004872 - Primary title: k_tagabha
+321 - vassal: c_tyaba - Holder 1004872 - Primary title: c_tyaba has lost the title: c_tyaba
+321 - vassal: c_tyaba - Title given to 1004872 - Primary title: k_tagabha
+321 - vassal: c_weupew - Holder 1004872 - Primary title: c_weupew has lost the title: c_weupew
+321 - vassal: c_weupew - Title given to 1004872 - Primary title: k_tagabha
+321 - vassal: c_nyoa - Given to 1008128 in HandleTitles - Too many duke titles
+321 - vassal: c_nyoa - Holder 1008128 - Primary title: c_nyoa has lost the title: c_nyoa
+321 - vassal: c_nyoa - Title given to 1008128
+321 - Title given to 1008128 - Primary title: c_nyoa
+321 - vassal: c_nyoa - Holder (1008128) has gained d_rineph
+321 - vassal: c_rorator - Setting to vassal of k_tagabha in Validate Realm
+321 - Lost vassal: c_rorator
+321 - vassal: c_kidyal - Setting to vassal of k_tagabha in Validate Realm
+321 - Lost vassal: c_kidyal
+321 - vassal: c_tyaba - Setting to vassal of k_tagabha in Validate Realm
+321 - Lost vassal: c_tyaba
+321 - vassal: c_weupew - Setting to vassal of k_tagabha in Validate Realm
+321 - Lost vassal: c_weupew
+321 - Too many dukes, given to dejure: k_tagabha
+343 - Holder 1007825 - Primary title: d_rineph has lost the title: d_rineph
+343 - Title given to 1007825 - Primary title: d_reuperi
+343 - vassal: c_nyoa - Holder 1007825 - Primary title: c_nyoa has lost the title: c_nyoa
+343 - vassal: c_nyoa - Title given to 1007825 - Primary title: d_reuperi
+345 - Holder 1007969 - Primary title: d_rineph has lost the title: d_reuperi
+345 - Gained vassal: c_keslaw
+345 - Holder 1007969 - Primary title: d_rineph has lost the title: c_keslaw
+345 - vassal: c_keslaw - Title given to 1007969 - Primary title: d_reuperi
+345 - vassal: c_keslaw - Setting to vassal of d_reuperi in Validate Realm
+345 - Lost vassal: c_keslaw
+345 - Holder 1007969 - Primary title: d_rineph has lost the title: d_rineph
+345 - Title given to 1007969 - Primary title: d_reuperi
+345 - vassal: c_nyoa - Holder 1007969 - Primary title: c_nyoa has lost the title: c_nyoa
+345 - vassal: c_nyoa - Title given to 1007969 - Primary title: d_reuperi
+369 - Holder 1009396 - Primary title: d_rineph has lost the title: d_rineph
+369 - Title given to 1009396
+369 - vassal: c_nyoa - Setting to vassal of d_reuperi in Validate Realm
+369 - Lost vassal: c_nyoa
+369 - Holder (1009396) has gained d_reuperi
+369 - Holder (1009396) has gained c_nyoa
+369 - Holder (1009396) has gained c_keslaw
+370 - Destroyed due to flagged problem
+370 - Made independent
+370 - Title destroyed

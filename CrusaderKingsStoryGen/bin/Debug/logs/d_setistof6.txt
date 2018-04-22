@@ -1,0 +1,66 @@
+200 - Title given to 1000449
+200 - vassal: c_nalexis - Given to 1000452 via AddCharacterForTitle
+200 - sub vassal: c_nalexis - Given to 1000452 via AddCharacterForTitle
+200 - vassal: c_nalexis - Holder 1000452 - Primary title: c_nalexis has lost the title: c_nalexis
+200 - sub vassal: c_nalexis - Holder 1000452 - Primary title: c_nalexis has lost the title: c_nalexis
+200 - vassal: c_nalexis - Title given to 1000452
+200 - sub vassal: c_nalexis - Title given to 1000452
+200 - vassal: c_qibya - Holder 1000449 - Primary title: c_qibya has lost the title: c_qibya
+200 - sub vassal: c_qibya - Holder 1000449 - Primary title: c_qibya has lost the title: c_qibya
+200 - vassal: c_qibya - Title given to 1000449 - Primary title: d_setistof
+200 - sub vassal: c_qibya - Title given to 1000449 - Primary title: d_setistof
+200 - Holder (1000449) has gained c_qibya
+200 - vassal: c_nalexis - Holder 1000449 - Primary title: c_nalexis has lost the title: c_nalexis
+200 - sub vassal: c_nalexis - Holder 1000449 - Primary title: c_nalexis has lost the title: c_nalexis
+200 - vassal: c_nalexis - Title given to 1000449 - Primary title: d_setistof
+200 - sub vassal: c_nalexis - Title given to 1000449 - Primary title: d_setistof
+200 - Holder (1000449) has gained c_nalexis
+200 - vassal: c_nopius - Holder 1000449 - Primary title: c_nopius has lost the title: c_nopius
+200 - sub vassal: c_nopius - Holder 1000449 - Primary title: c_nopius has lost the title: c_nopius
+200 - vassal: c_nopius - Title given to 1000449 - Primary title: d_setistof
+200 - sub vassal: c_nopius - Title given to 1000449 - Primary title: d_setistof
+200 - Holder (1000449) has gained c_nopius
+200 - vassal: c_libasz - Title given to 1000449 - Primary title: d_setistof
+200 - Holder (1000449) has gained c_libasz
+200 - vassal: c_alya - Title given to 1000449 - Primary title: d_setistof
+200 - Holder (1000449) has gained c_alya
+202 - Holder (1000449) has gained d_rupew
+202 - Holder (1000449) has gained c_remistof
+203 - vassal: c_nopius - Title given to 1001666
+225 - Holder (1000449) has gained d_tulyla
+225 - Holder (1000449) has gained c_kalexis
+234 - Title given to 1001223
+234 - vassal: c_qibya - Setting to vassal of d_tulyla in Validate Realm
+234 - Lost vassal: c_qibya
+234 - vassal: c_nalexis - Setting to vassal of d_tulyla in Validate Realm
+234 - Lost vassal: c_nalexis
+234 - vassal: c_libasz - Setting to vassal of d_tulyla in Validate Realm
+234 - Lost vassal: c_libasz
+234 - vassal: c_alya - Setting to vassal of d_tulyla in Validate Realm
+234 - Lost vassal: c_alya
+234 - Holder (1001223) has gained c_qibya
+234 - Gained vassal: c_qibya
+234 - Holder (1001223) has gained c_nalexis
+234 - Gained vassal: c_nalexis
+234 - Holder (1001223) has gained c_libasz
+234 - Gained vassal: c_libasz
+234 - Holder (1001223) has gained c_alya
+234 - Gained vassal: c_alya
+234 - Holder (1001223) has gained d_tulyla
+234 - Holder (1001223) has gained c_kalexis
+251 - Holder 1004319 - Primary title: d_setistof has lost the title: d_setistof
+251 - Title given to 1004319
+251 - vassal: c_alya - Setting to vassal of d_tulyla in Validate Realm
+251 - Lost vassal: c_alya
+251 - vassal: c_libasz - Setting to vassal of d_tulyla in Validate Realm
+251 - Lost vassal: c_libasz
+251 - vassal: c_nalexis - Setting to vassal of d_tulyla in Validate Realm
+251 - Lost vassal: c_nalexis
+251 - vassal: c_qibya - Setting to vassal of d_tulyla in Validate Realm
+251 - Lost vassal: c_qibya
+251 - Holder (1004319) has gained d_tulyla
+251 - Holder (1004319) has gained c_kalexis
+251 - Holder (1004319) has gained c_alya
+251 - Holder (1004319) has gained c_libasz
+251 - Holder (1004319) has gained c_nalexis
+251 - Holder (1004319) has gained c_qibya

@@ -1,0 +1,160 @@
+200 - Title given to 1000805
+200 - vassal: c_kenayan - Holder 1000805 - Primary title: c_kenayan has lost the title: c_kenayan
+200 - sub vassal: c_kenayan - Holder 1000805 - Primary title: c_kenayan has lost the title: c_kenayan
+200 - vassal: c_kenayan - Title given to 1000805 - Primary title: d_lavizi
+200 - sub vassal: c_kenayan - Title given to 1000805 - Primary title: d_lavizi
+200 - Holder (1000805) has gained c_kenayan
+200 - vassal: c_arinizi - Holder 1000805 - Primary title: c_arinizi has lost the title: c_arinizi
+200 - sub vassal: c_arinizi - Holder 1000805 - Primary title: c_arinizi has lost the title: c_arinizi
+200 - vassal: c_arinizi - Title given to 1000805 - Primary title: d_lavizi
+200 - sub vassal: c_arinizi - Title given to 1000805 - Primary title: d_lavizi
+200 - Holder (1000805) has gained c_arinizi
+200 - vassal: c_tucodar - Holder 1000805 - Primary title: c_tucodar has lost the title: c_tucodar
+200 - sub vassal: c_tucodar - Holder 1000805 - Primary title: c_tucodar has lost the title: c_tucodar
+200 - vassal: c_tucodar - Title given to 1000805 - Primary title: d_lavizi
+200 - sub vassal: c_tucodar - Title given to 1000805 - Primary title: d_lavizi
+200 - Holder (1000805) has gained c_tucodar
+201 - Holder (1000805) has gained d_rabarak
+201 - Holder (1000805) has gained c_qulun
+201 - Holder (1000805) has gained c_asatyan
+201 - Holder (1000805) has gained c_ravarak
+202 - vassal: c_arinizi - Title given to 1001641
+235 - Gained vassal: c_qulun
+235 - Gained vassal: c_asatyan
+235 - Gained vassal: c_ravarak
+235 - Holder 1001336 - Primary title: d_lavizi has lost the title: d_lavizi
+235 - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: c_ravarak - Holder 1001336 - Primary title: c_ravarak has lost the title: c_ravarak
+235 - vassal: c_ravarak - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: c_asatyan - Holder 1001336 - Primary title: c_asatyan has lost the title: c_asatyan
+235 - vassal: c_asatyan - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: c_qulun - Holder 1001336 - Primary title: c_qulun has lost the title: c_qulun
+235 - vassal: c_qulun - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: c_kenayan - Holder 1001336 - Primary title: c_kenayan has lost the title: c_kenayan
+235 - vassal: c_kenayan - Title given to 1001336 - Primary title: d_navifu
+235 - vassal: c_tucodar - Holder 1001336 - Primary title: c_tucodar has lost the title: c_tucodar
+235 - vassal: c_tucodar - Title given to 1001336 - Primary title: d_navifu
+236 - vassal: c_ravarak - Set liege on title creation d_rabarak
+236 - Lost vassal: c_ravarak
+236 - vassal: c_asatyan - Set liege on title creation d_rabarak
+236 - Lost vassal: c_asatyan
+236 - vassal: c_qulun - Set liege on title creation d_rabarak
+236 - Lost vassal: c_qulun
+236 - vassal: c_kenayan - Set liege on title creation d_rabarak
+236 - Lost vassal: c_kenayan
+236 - vassal: c_tucodar - Set liege on title creation d_rabarak
+236 - Lost vassal: c_tucodar
+236 - vassal: c_arinizi - Holder 1001336 - Primary title: c_arinizi has lost the title: c_arinizi
+236 - vassal: c_arinizi - Title given to 1001336 - Primary title: d_lavizi
+236 - Holder (1001336) has gained c_arinizi
+236 - Holder 1003775 - Primary title: d_lavizi has lost the title: c_ravarak
+236 - Holder 1003776 - Primary title: d_lavizi has lost the title: c_kenayan
+264 - Holder (1001336) has gained d_navifu
+264 - vassal: c_arinizi - Set liege on title creation d_navifu
+264 - Lost vassal: c_arinizi
+265 - Destroyed due to flagged problem
+265 - Made independent
+265 - Title destroyed
+275 - Given to 1003905 in TestCreateEmpire
+275 - Title given to 1003905 - Primary title: d_rabarak
+275 - Made independent for title creation d_lavizi for d_rabarak
+275 - Gained vassal: c_asatyan
+275 - Gained vassal: c_qulun
+275 - Gained vassal: c_tucodar
+275 - Gained vassal: c_arinizi
+275 - Gained vassal: c_kenayan
+275 - Destroyed due to no capital's obtainable
+275 - Title destroyed
+275 - vassal: c_tucodar - Setting independent due to liege destruction
+275 - vassal: c_tucodar - Made independent
+275 - vassal: c_asatyan - Setting independent due to liege destruction
+275 - vassal: c_asatyan - Made independent
+275 - vassal: c_qulun - Setting independent due to liege destruction
+275 - vassal: c_qulun - Made independent
+275 - vassal: c_kenayan - Setting independent due to liege destruction
+275 - vassal: c_kenayan - Made independent
+275 - vassal: c_arinizi - Setting independent due to liege destruction
+275 - vassal: c_arinizi - Made independent
+287 - Given to 1003905 in TestCreateEmpire
+287 - Title given to 1003905 - Primary title: d_rabarak
+287 - Made independent for title creation d_lavizi for d_rabarak
+287 - Gained vassal: c_kokor
+287 - Gained vassal: c_kenayan
+287 - Gained vassal: c_arinizi
+287 - Gained vassal: c_tucodar
+287 - Gained vassal: c_asatyan
+287 - Gained vassal: c_qulun
+287 - Destroyed due to no capital's obtainable
+287 - Title destroyed
+287 - vassal: c_asatyan - Setting independent due to liege destruction
+287 - vassal: c_asatyan - Made independent
+287 - vassal: c_tucodar - Setting independent due to liege destruction
+287 - vassal: c_tucodar - Made independent
+287 - vassal: c_arinizi - Setting independent due to liege destruction
+287 - vassal: c_arinizi - Made independent
+287 - vassal: c_qulun - Setting independent due to liege destruction
+287 - vassal: c_qulun - Made independent
+287 - vassal: c_kenayan - Setting independent due to liege destruction
+287 - vassal: c_kenayan - Made independent
+287 - vassal: c_kokor - Setting independent due to liege destruction
+287 - vassal: c_kokor - Made independent
+339 - Given to 1007750 in TestCreateEmpire
+339 - Title given to 1007750 - Primary title: d_rabarak
+339 - Made independent for title creation d_lavizi for d_rabarak
+339 - Gained vassal: c_tucodar
+339 - Gained vassal: c_arinizi
+339 - Gained vassal: c_nabodar
+339 - Gained vassal: c_kokor
+339 - Gained vassal: c_kenayan
+339 - Destroyed due to no capital's obtainable
+339 - Title destroyed
+339 - vassal: c_kenayan - Setting independent due to liege destruction
+339 - vassal: c_kenayan - Made independent
+339 - vassal: c_kokor - Setting independent due to liege destruction
+339 - vassal: c_kokor - Made independent
+339 - vassal: c_nabodar - Setting independent due to liege destruction
+339 - vassal: c_nabodar - Made independent
+339 - vassal: c_arinizi - Setting independent due to liege destruction
+339 - vassal: c_arinizi - Made independent
+339 - vassal: c_tucodar - Setting independent due to liege destruction
+339 - vassal: c_tucodar - Made independent
+362 - Given to 1007750 in TestCreateEmpire
+362 - Title given to 1007750 - Primary title: d_rabarak
+362 - Made independent for title creation d_lavizi for d_rabarak
+362 - Gained vassal: c_tucodar
+362 - Gained vassal: c_nabodar
+362 - Gained vassal: c_kokor
+362 - Gained vassal: c_kenayan
+362 - Gained vassal: c_asatyan
+362 - Destroyed due to no capital's obtainable
+362 - Title destroyed
+362 - vassal: c_asatyan - Setting independent due to liege destruction
+362 - vassal: c_asatyan - Made independent
+362 - vassal: c_kenayan - Setting independent due to liege destruction
+362 - vassal: c_kenayan - Made independent
+362 - vassal: c_kokor - Setting independent due to liege destruction
+362 - vassal: c_kokor - Made independent
+362 - vassal: c_nabodar - Setting independent due to liege destruction
+362 - vassal: c_nabodar - Made independent
+362 - vassal: c_tucodar - Setting independent due to liege destruction
+362 - vassal: c_tucodar - Made independent
+396 - Given to 1011450 in TestCreateEmpire
+396 - Title given to 1011450 - Primary title: d_rabarak
+396 - Made independent for title creation d_lavizi for d_rabarak
+396 - Gained vassal: c_asatyan
+396 - Gained vassal: c_arinizi
+396 - Gained vassal: c_kokor
+396 - Gained vassal: c_nabodar
+396 - Gained vassal: c_tucodar
+396 - Destroyed due to no capital's obtainable
+396 - Title destroyed
+396 - vassal: c_tucodar - Setting independent due to liege destruction
+396 - vassal: c_tucodar - Made independent
+396 - vassal: c_nabodar - Setting independent due to liege destruction
+396 - vassal: c_nabodar - Made independent
+396 - vassal: c_kokor - Setting independent due to liege destruction
+396 - vassal: c_kokor - Made independent
+396 - vassal: c_arinizi - Setting independent due to liege destruction
+396 - vassal: c_arinizi - Made independent
+396 - vassal: c_asatyan - Setting independent due to liege destruction
+396 - vassal: c_asatyan - Made independent

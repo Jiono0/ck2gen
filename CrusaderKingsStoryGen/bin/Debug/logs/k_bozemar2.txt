@@ -1,0 +1,170 @@
+200 - Title given to 1001016
+200 - vassal: d_tenuti - Holder 1001016 - Primary title: d_tenuti has lost the title: d_tenuti
+200 - sub vassal: d_tenuti - Holder 1001016 - Primary title: d_tenuti has lost the title: d_tenuti
+200 - vassal: d_tenuti - Title given to 1001016 - Primary title: k_bozemar
+200 - sub vassal: d_tenuti - Title given to 1001016 - Primary title: k_bozemar
+200 - Holder (1001016) has gained d_tenuti
+200 - vassal: d_kasopal - Holder 1001016 - Primary title: d_kasopal has lost the title: d_kasopal
+200 - sub vassal: d_kasopal - Holder 1001016 - Primary title: d_kasopal has lost the title: d_kasopal
+200 - vassal: d_kasopal - Title given to 1001016 - Primary title: k_bozemar
+200 - sub vassal: d_kasopal - Title given to 1001016 - Primary title: k_bozemar
+200 - Holder (1001016) has gained d_kasopal
+200 - vassal: d_wibahad - Holder 1001016 - Primary title: d_wibahad has lost the title: d_wibahad
+200 - sub vassal: d_wibahad - Holder 1001016 - Primary title: d_wibahad has lost the title: d_wibahad
+200 - vassal: d_wibahad - Title given to 1001016 - Primary title: k_bozemar
+200 - sub vassal: d_wibahad - Title given to 1001016 - Primary title: k_bozemar
+200 - Holder (1001016) has gained d_wibahad
+200 - sub vassal: c_ranama - Holder 1001016 - Primary title: c_ranama has lost the title: c_ranama
+200 - sub vassal: c_ranama - Title given to 1001016 - Primary title: k_bozemar
+200 - Holder (1001016) has gained c_ranama
+200 - vassal: d_wibahad - Destroyed due to flagged problem
+200 - sub vassal: d_wibahad - Destroyed due to flagged problem
+200 - vassal: d_wibahad - Made independent
+200 - sub vassal: d_wibahad - Made independent
+200 - Gained vassal: c_amaresse
+200 - vassal: c_amaresse - Made independent due to being a seperate island
+200 - sub vassal: c_amaresse - Made independent due to being a seperate island
+200 - vassal: c_amaresse - Made independent
+200 - sub vassal: c_amaresse - Made independent
+208 - vassal: d_daruti - Holder 1001876 - Primary title: d_daruti has lost the title: d_daruti
+208 - sub vassal: d_daruti - Holder 1001876 - Primary title: d_daruti has lost the title: d_daruti
+208 - vassal: d_daruti - Title given to 1001876
+208 - sub vassal: d_daruti - Title given to 1001876
+208 - sub vassal: c_benija - Holder 1001876 - Primary title: c_benija has lost the title: c_benija
+208 - sub vassal: c_benija - Title given to 1001876 - Primary title: d_daruti
+208 - vassal: d_daruti - Holder (1001876) has gained c_benija
+208 - sub vassal: d_daruti - Holder (1001876) has gained c_benija
+208 - sub vassal: c_lanuti - Holder 1001876 - Primary title: c_lanuti has lost the title: c_lanuti
+208 - sub vassal: c_lanuti - Title given to 1001876 - Primary title: d_daruti
+208 - vassal: d_daruti - Holder (1001876) has gained c_lanuti
+208 - sub vassal: d_daruti - Holder (1001876) has gained c_lanuti
+208 - sub vassal: c_qorilk - Holder 1001876 - Primary title: c_qorilk has lost the title: c_qorilk
+208 - sub vassal: c_qorilk - Title given to 1001876 - Primary title: d_daruti
+208 - vassal: d_daruti - Holder (1001876) has gained c_qorilk
+208 - sub vassal: d_daruti - Holder (1001876) has gained c_qorilk
+208 - Holder 1000092 - Primary title: k_bozemar has lost the title: k_bozemar
+208 - Title given to 1000092 - Primary title: d_tonija
+208 - vassal: d_tonija - Holder (1000092) has gained k_bozemar
+208 - sub vassal: d_tonija - Holder (1000092) has gained k_bozemar
+208 - vassal: d_tenuti - Holder 1000092 - Primary title: d_tenuti has lost the title: d_tenuti
+208 - sub vassal: d_tenuti - Holder 1000092 - Primary title: d_tenuti has lost the title: d_tenuti
+208 - vassal: d_tenuti - Title given to 1000092 - Primary title: k_bozemar
+208 - sub vassal: d_tenuti - Title given to 1000092 - Primary title: k_bozemar
+208 - Holder (1000092) has gained d_tenuti
+208 - sub vassal: c_ranama - Setting to vassal of d_kasopal in Validate Realm
+208 - vassal: d_tenuti - Lost vassal: c_ranama
+208 - sub vassal: d_tenuti - Lost vassal: c_ranama
+208 - vassal: d_kasopal - Gained vassal: c_ranama
+208 - sub vassal: d_kasopal - Gained vassal: c_ranama
+208 - vassal: d_kasopal - Holder 1000092 - Primary title: d_kasopal has lost the title: c_ranama
+208 - sub vassal: d_kasopal - Holder 1000092 - Primary title: d_kasopal has lost the title: c_ranama
+208 - sub vassal: c_ranama - Title given to 1000092 - Primary title: k_bozemar
+208 - Holder (1000092) has gained c_ranama
+208 - sub vassal: c_ranama - Setting to vassal of k_bozemar in Validate Realm
+208 - vassal: d_kasopal - Lost vassal: c_ranama
+208 - sub vassal: d_kasopal - Lost vassal: c_ranama
+208 - Gained vassal: c_ranama
+208 - vassal: d_kasopal - Holder 1000092 - Primary title: d_kasopal has lost the title: d_kasopal
+208 - sub vassal: d_kasopal - Holder 1000092 - Primary title: d_kasopal has lost the title: d_kasopal
+208 - vassal: d_kasopal - Title given to 1000092 - Primary title: k_bozemar
+208 - sub vassal: d_kasopal - Title given to 1000092 - Primary title: k_bozemar
+208 - Holder (1000092) has gained d_kasopal
+209 - sub vassal: c_kozama - Given to 1002117 in HandleTitles - Too many duke titles
+209 - Holder 1002117 - Primary title: k_bozemar has lost the title: c_kozama
+209 - sub vassal: c_kozama - Title given to 1002117
+209 - Holder 1002117 - Primary title: k_bozemar has lost the title: d_tonija
+209 - vassal: d_tonija - Title given to 1002117 - Primary title: c_kozama
+209 - sub vassal: d_tonija - Title given to 1002117 - Primary title: c_kozama
+209 - sub vassal: c_kozama - Holder (1002117) has gained d_tonija
+209 - sub vassal: c_wozija - Setting to vassal of k_bozemar in Validate Realm
+209 - vassal: d_tonija - Lost vassal: c_wozija
+209 - sub vassal: d_tonija - Lost vassal: c_wozija
+209 - sub vassal: c_renava - Setting to vassal of k_bozemar in Validate Realm
+209 - vassal: d_tonija - Lost vassal: c_renava
+209 - sub vassal: d_tonija - Lost vassal: c_renava
+209 - Gained vassal: c_renava
+209 - Gained vassal: c_wozija
+209 - vassal: d_tonija - Too many dukes, given to dejure: k_bozemar
+209 - sub vassal: d_tonija - Too many dukes, given to dejure: k_bozemar
+214 - vassal: d_tozeva - Holder 1001148 - Primary title: d_tozeva has lost the title: d_tozeva
+214 - sub vassal: d_tozeva - Holder 1001148 - Primary title: d_tozeva has lost the title: d_tozeva
+214 - vassal: d_tozeva - Title given to 1001148
+214 - sub vassal: d_tozeva - Title given to 1001148
+214 - sub vassal: c_denavid - Holder 1001148 - Primary title: c_denavid has lost the title: c_denavid
+214 - sub vassal: c_denavid - Title given to 1001148 - Primary title: d_tozeva
+214 - vassal: d_tozeva - Holder (1001148) has gained c_denavid
+214 - sub vassal: d_tozeva - Holder (1001148) has gained c_denavid
+214 - sub vassal: c_dozarai - Holder 1001148 - Primary title: c_dozarai has lost the title: c_dozarai
+214 - sub vassal: c_dozarai - Title given to 1001148 - Primary title: d_tozeva
+214 - vassal: d_tozeva - Holder (1001148) has gained c_dozarai
+214 - sub vassal: d_tozeva - Holder (1001148) has gained c_dozarai
+221 - vassal: d_tozeva - Holder 1000092 - Primary title: d_tozeva has lost the title: d_tozeva
+221 - sub vassal: d_tozeva - Holder 1000092 - Primary title: d_tozeva has lost the title: d_tozeva
+221 - vassal: d_tozeva - Title given to 1000092 - Primary title: k_bozemar
+221 - sub vassal: d_tozeva - Title given to 1000092 - Primary title: k_bozemar
+221 - Holder (1000092) has gained d_tozeva
+221 - sub vassal: c_dozarai - Holder 1000092 - Primary title: c_dozarai has lost the title: c_dozarai
+221 - sub vassal: c_dozarai - Title given to 1000092 - Primary title: k_bozemar
+221 - Holder (1000092) has gained c_dozarai
+221 - sub vassal: c_denavid - Holder 1000092 - Primary title: c_denavid has lost the title: c_denavid
+221 - sub vassal: c_denavid - Title given to 1000092 - Primary title: k_bozemar
+221 - Holder (1000092) has gained c_denavid
+221 - vassal: d_kasopal - Destroyed due to flagged problem
+221 - sub vassal: d_kasopal - Destroyed due to flagged problem
+221 - vassal: d_kasopal - Made independent
+221 - sub vassal: d_kasopal - Made independent
+221 - Gained vassal: c_tarota
+221 - vassal: c_tarota - Made independent due to being a seperate island
+221 - sub vassal: c_tarota - Made independent due to being a seperate island
+221 - vassal: c_tarota - Made independent
+221 - sub vassal: c_tarota - Made independent
+226 - vassal: d_tonija - Holder 1003042 - Primary title: d_tonija has lost the title: d_tonija
+226 - sub vassal: d_tonija - Holder 1003042 - Primary title: d_tonija has lost the title: d_tonija
+226 - vassal: d_tonija - Title given to 1003042
+226 - sub vassal: d_tonija - Title given to 1003042
+226 - sub vassal: c_kozama - Holder 1003042 - Primary title: c_kozama has lost the title: c_kozama
+226 - sub vassal: c_kozama - Title given to 1003042 - Primary title: d_tonija
+226 - vassal: d_tonija - Holder (1003042) has gained c_kozama
+226 - sub vassal: d_tonija - Holder (1003042) has gained c_kozama
+232 - vassal: d_tonija - Holder 1003244 - Primary title: d_tonija has lost the title: d_tonija
+232 - sub vassal: d_tonija - Holder 1003244 - Primary title: d_tonija has lost the title: d_tonija
+232 - vassal: d_tonija - Title given to 1003244
+232 - sub vassal: d_tonija - Title given to 1003244
+232 - sub vassal: c_kozama - Holder 1003244 - Primary title: c_kozama has lost the title: c_kozama
+232 - sub vassal: c_kozama - Title given to 1003244 - Primary title: d_tonija
+232 - vassal: d_tonija - Holder (1003244) has gained c_kozama
+232 - sub vassal: d_tonija - Holder (1003244) has gained c_kozama
+235 - vassal: d_bauti - Holder 1002935 - Primary title: d_bauti has lost the title: d_bauti
+235 - sub vassal: d_bauti - Holder 1002935 - Primary title: d_bauti has lost the title: d_bauti
+235 - vassal: d_bauti - Title given to 1002935
+235 - sub vassal: d_bauti - Title given to 1002935
+235 - sub vassal: c_talobad - Holder 1002935 - Primary title: c_talobad has lost the title: c_talobad
+235 - sub vassal: c_talobad - Title given to 1002935 - Primary title: d_bauti
+235 - vassal: d_bauti - Holder (1002935) has gained c_talobad
+235 - sub vassal: d_bauti - Holder (1002935) has gained c_talobad
+235 - sub vassal: c_tutirma - Holder 1002935 - Primary title: c_tutirma has lost the title: c_tutirma
+235 - sub vassal: c_tutirma - Title given to 1002935 - Primary title: d_bauti
+235 - vassal: d_bauti - Holder (1002935) has gained c_tutirma
+235 - sub vassal: d_bauti - Holder (1002935) has gained c_tutirma
+235 - sub vassal: c_soradma - Holder 1002935 - Primary title: c_soradma has lost the title: c_soradma
+235 - sub vassal: c_soradma - Title given to 1002935 - Primary title: d_bauti
+235 - vassal: d_bauti - Holder (1002935) has gained c_soradma
+235 - sub vassal: d_bauti - Holder (1002935) has gained c_soradma
+239 - vassal: d_sanard - Holder 1001943 - Primary title: d_sanard has lost the title: d_sanard
+239 - sub vassal: d_sanard - Holder 1001943 - Primary title: d_sanard has lost the title: d_sanard
+239 - vassal: d_sanard - Title given to 1001943
+239 - sub vassal: d_sanard - Title given to 1001943
+239 - sub vassal: c_rieruti - Holder 1001943 - Primary title: c_rieruti has lost the title: c_rieruti
+239 - sub vassal: c_rieruti - Title given to 1001943 - Primary title: d_sanard
+239 - vassal: d_sanard - Holder (1001943) has gained c_rieruti
+239 - sub vassal: d_sanard - Holder (1001943) has gained c_rieruti
+239 - sub vassal: c_towilk - Holder 1001943 - Primary title: c_towilk has lost the title: c_towilk
+239 - sub vassal: c_towilk - Title given to 1001943 - Primary title: d_sanard
+239 - vassal: d_sanard - Holder (1001943) has gained c_towilk
+239 - sub vassal: d_sanard - Holder (1001943) has gained c_towilk
+239 - sub vassal: c_kowuti - Holder 1001943 - Primary title: c_kowuti has lost the title: c_kowuti
+239 - sub vassal: c_kowuti - Title given to 1001943 - Primary title: d_sanard
+239 - vassal: d_sanard - Holder (1001943) has gained c_kowuti
+239 - sub vassal: d_sanard - Holder (1001943) has gained c_kowuti
+239 - vassal: d_dadama - Holder 1001646 - Primary title: d_dadama has lost the title: d_dadama
+239 - sub vassal: d_dadama - Holder 1001646 - Primary title: d_dadama has lost the title: d_dadama

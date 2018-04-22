@@ -1,0 +1,35 @@
+200 - Title given to 1000937
+200 - vassal: c_leleamm - Holder 1000937 - Primary title: c_leleamm has lost the title: c_leleamm
+200 - sub vassal: c_leleamm - Holder 1000937 - Primary title: c_leleamm has lost the title: c_leleamm
+200 - vassal: c_leleamm - Title given to 1000937 - Primary title: d_runako
+200 - sub vassal: c_leleamm - Title given to 1000937 - Primary title: d_runako
+200 - Holder (1000937) has gained c_leleamm
+200 - vassal: c_eperya - Holder 1000937 - Primary title: c_eperya has lost the title: c_eperya
+200 - sub vassal: c_eperya - Holder 1000937 - Primary title: c_eperya has lost the title: c_eperya
+200 - vassal: c_eperya - Title given to 1000937 - Primary title: d_runako
+200 - sub vassal: c_eperya - Title given to 1000937 - Primary title: d_runako
+200 - Holder (1000937) has gained c_eperya
+200 - vassal: c_badauna - Holder 1000937 - Primary title: c_badauna has lost the title: c_badauna
+200 - sub vassal: c_badauna - Holder 1000937 - Primary title: c_badauna has lost the title: c_badauna
+200 - vassal: c_badauna - Title given to 1000937 - Primary title: d_runako
+200 - sub vassal: c_badauna - Title given to 1000937 - Primary title: d_runako
+200 - Holder (1000937) has gained c_badauna
+200 - Holder 1001042 - Primary title: d_runako has lost the title: d_runako
+200 - Title given to 1001042 - Primary title: k_wuerna
+200 - vassal: c_badauna - Holder 1001042 - Primary title: c_badauna has lost the title: c_badauna
+200 - vassal: c_badauna - Title given to 1001042 - Primary title: k_wuerna
+200 - vassal: c_eperya - Holder 1001042 - Primary title: c_eperya has lost the title: c_eperya
+200 - vassal: c_eperya - Title given to 1001042 - Primary title: k_wuerna
+200 - vassal: c_leleamm - Holder 1001042 - Primary title: c_leleamm has lost the title: c_leleamm
+200 - vassal: c_leleamm - Title given to 1001042 - Primary title: k_wuerna
+206 - Holder 1000712 - Primary title: d_runako has lost the title: d_runako
+206 - Title given to 1000712 - Primary title: k_wuerna
+206 - vassal: c_leleamm - Setting to vassal of d_rigavid in Validate Realm
+206 - Lost vassal: c_leleamm
+206 - vassal: c_eperya - Setting to vassal of d_rigavid in Validate Realm
+206 - Lost vassal: c_eperya
+206 - vassal: c_badauna - Setting to vassal of d_rigavid in Validate Realm
+206 - Lost vassal: c_badauna
+207 - Destroyed due to flagged problem
+207 - Made independent
+207 - Title destroyed

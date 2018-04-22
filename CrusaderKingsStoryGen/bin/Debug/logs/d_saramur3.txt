@@ -1,0 +1,130 @@
+200 - Title given to 1000069
+200 - vassal: c_teuluti - Given to 1000072 via AddCharacterForTitle
+200 - sub vassal: c_teuluti - Given to 1000072 via AddCharacterForTitle
+200 - vassal: c_teuluti - Holder 1000072 - Primary title: c_teuluti has lost the title: c_teuluti
+200 - sub vassal: c_teuluti - Holder 1000072 - Primary title: c_teuluti has lost the title: c_teuluti
+200 - vassal: c_teuluti - Title given to 1000072
+200 - sub vassal: c_teuluti - Title given to 1000072
+200 - vassal: c_tarirma - Given to 1000074 via AddCharacterForTitle
+200 - sub vassal: c_tarirma - Given to 1000074 via AddCharacterForTitle
+200 - vassal: c_tarirma - Holder 1000074 - Primary title: c_tarirma has lost the title: c_tarirma
+200 - sub vassal: c_tarirma - Holder 1000074 - Primary title: c_tarirma has lost the title: c_tarirma
+200 - vassal: c_tarirma - Title given to 1000074
+200 - sub vassal: c_tarirma - Title given to 1000074
+200 - vassal: c_sarirma - Holder 1000069 - Primary title: c_sarirma has lost the title: c_sarirma
+200 - sub vassal: c_sarirma - Holder 1000069 - Primary title: c_sarirma has lost the title: c_sarirma
+200 - vassal: c_sarirma - Title given to 1000069 - Primary title: d_saramur
+200 - sub vassal: c_sarirma - Title given to 1000069 - Primary title: d_saramur
+200 - Holder (1000069) has gained c_sarirma
+200 - vassal: c_teuluti - Holder 1000069 - Primary title: c_teuluti has lost the title: c_teuluti
+200 - sub vassal: c_teuluti - Holder 1000069 - Primary title: c_teuluti has lost the title: c_teuluti
+200 - vassal: c_teuluti - Title given to 1000069 - Primary title: d_saramur
+200 - sub vassal: c_teuluti - Title given to 1000069 - Primary title: d_saramur
+200 - Holder (1000069) has gained c_teuluti
+200 - vassal: c_raimuti - Title given to 1000069 - Primary title: d_saramur
+200 - Holder (1000069) has gained c_raimuti
+204 - Holder (1000069) has gained d_weamida
+204 - Holder (1000069) has gained c_dowilk
+204 - Holder (1000069) has gained c_waamur
+204 - Holder (1000069) has gained c_baama
+204 - Holder (1000069) has gained c_arirma
+205 - vassal: c_teuluti - Title given to 1001799
+205 - vassal: c_sarirma - Title given to 1001800
+237 - Gained vassal: c_dowilk
+237 - Gained vassal: c_waamur
+237 - Gained vassal: c_baama
+237 - Gained vassal: c_arirma
+237 - Holder 1001140 - Primary title: d_saramur has lost the title: d_saramur
+237 - Title given to 1001140 - Primary title: d_weamida
+237 - vassal: c_arirma - Holder 1001140 - Primary title: c_arirma has lost the title: c_arirma
+237 - vassal: c_arirma - Title given to 1001140 - Primary title: d_weamida
+237 - vassal: c_baama - Holder 1001140 - Primary title: c_baama has lost the title: c_baama
+237 - vassal: c_baama - Title given to 1001140 - Primary title: d_weamida
+237 - vassal: c_waamur - Holder 1001140 - Primary title: c_waamur has lost the title: c_waamur
+237 - vassal: c_waamur - Title given to 1001140 - Primary title: d_weamida
+237 - vassal: c_dowilk - Holder 1001140 - Primary title: c_dowilk has lost the title: c_dowilk
+237 - vassal: c_dowilk - Title given to 1001140 - Primary title: d_weamida
+237 - vassal: c_raimuti - Holder 1001140 - Primary title: c_raimuti has lost the title: c_raimuti
+237 - vassal: c_raimuti - Title given to 1001140 - Primary title: d_weamida
+241 - Holder 1003745 - Primary title: d_saramur has lost the title: d_saramur
+241 - Title given to 1003745
+241 - vassal: c_raimuti - Holder 1003745 - Primary title: c_raimuti has lost the title: c_raimuti
+241 - vassal: c_raimuti - Title given to 1003745 - Primary title: d_saramur
+241 - Holder (1003745) has gained c_raimuti
+241 - vassal: c_dowilk - Holder 1003745 - Primary title: c_dowilk has lost the title: c_dowilk
+241 - vassal: c_dowilk - Title given to 1003745 - Primary title: d_saramur
+241 - Holder (1003745) has gained c_dowilk
+241 - vassal: c_waamur - Holder 1003745 - Primary title: c_waamur has lost the title: c_waamur
+241 - vassal: c_waamur - Title given to 1003745 - Primary title: d_saramur
+241 - Holder (1003745) has gained c_waamur
+241 - vassal: c_baama - Holder 1003745 - Primary title: c_baama has lost the title: c_baama
+241 - vassal: c_baama - Title given to 1003745 - Primary title: d_saramur
+241 - Holder (1003745) has gained c_baama
+241 - vassal: c_arirma - Holder 1003745 - Primary title: c_arirma has lost the title: c_arirma
+241 - vassal: c_arirma - Title given to 1003745 - Primary title: d_saramur
+241 - Holder (1003745) has gained c_arirma
+242 - Holder (1003745) has gained d_sanuti
+242 - Holder (1003745) has gained c_lowadma
+242 - Holder (1003745) has gained c_toputi
+242 - Holder (1003745) has gained c_bierama
+242 - Holder (1003745) has gained c_towamur
+242 - Holder (1003745) has gained c_kaimija
+242 - Holder (1003745) has gained c_kierija
+242 - Holder (1003745) has gained c_kadavid
+243 - vassal: c_teuluti - Given to 1004011 in HandleTitles - Too many duke titles
+243 - vassal: c_teuluti - Holder 1004011 - Primary title: c_teuluti has lost the title: c_teuluti
+243 - vassal: c_teuluti - Title given to 1004011
+243 - Title given to 1001471 - Primary title: k_kozamur
+243 - vassal: c_raimuti - Setting to vassal of d_sasega in Validate Realm
+243 - Lost vassal: c_raimuti
+243 - vassal: c_dowilk - Setting to vassal of d_sasega in Validate Realm
+243 - Lost vassal: c_dowilk
+243 - vassal: c_waamur - Setting to vassal of d_sasega in Validate Realm
+243 - Lost vassal: c_waamur
+243 - vassal: c_baama - Setting to vassal of d_sasega in Validate Realm
+243 - Lost vassal: c_baama
+243 - vassal: c_arirma - Setting to vassal of d_sasega in Validate Realm
+243 - Lost vassal: c_arirma
+243 - Too many dukes, made direct title into vassal of k_kozamur
+243 - Title given to 1004012
+264 - Holder (1004012) has gained k_kozamur
+280 - Gained vassal: c_ranama
+280 - Holder 1004178 - Primary title: d_saramur has lost the title: d_saramur
+280 - Title given to 1004178 - Primary title: k_kozamur
+280 - vassal: c_ranama - Holder 1004178 - Primary title: c_ranama has lost the title: c_ranama
+280 - vassal: c_ranama - Title given to 1004178 - Primary title: k_kozamur
+297 - Gained vassal: c_sierija
+297 - Holder 1006159 - Primary title: d_saramur has lost the title: d_saramur
+297 - Title given to 1006159 - Primary title: k_kozamur
+297 - vassal: c_ranama - Holder 1006159 - Primary title: c_ranama has lost the title: c_ranama
+297 - vassal: c_ranama - Title given to 1006159 - Primary title: k_kozamur
+297 - vassal: c_sierija - Setting independent in Validate Realm
+297 - vassal: c_sierija - Made independent
+300 - vassal: c_sarirma - Holder 1004011 - Primary title: c_sarirma has lost the title: c_sarirma
+300 - vassal: c_sarirma - Title given to 1004011 - Primary title: c_teuluti
+300 - vassal: c_teuluti - Holder (1004011) has gained c_sarirma
+340 - Gained vassal: c_dasan
+340 - Holder 1007000 - Primary title: d_saramur has lost the title: d_saramur
+340 - Title given to 1007000 - Primary title: k_kozamur
+340 - vassal: c_dasan - Holder 1007000 - Primary title: c_dasan has lost the title: c_dasan
+340 - vassal: c_dasan - Title given to 1007000 - Primary title: k_kozamur
+340 - vassal: c_ranama - Setting independent in Validate Realm
+340 - vassal: c_ranama - Made independent
+359 - Holder 1009401 - Primary title: d_saramur has lost the title: d_saramur
+359 - Title given to 1009401 - Primary title: k_kozamur
+359 - vassal: c_dasan - Holder 1009401 - Primary title: c_dasan has lost the title: c_dasan
+359 - vassal: c_dasan - Title given to 1009401 - Primary title: k_kozamur
+374 - Holder 1006616 - Primary title: d_saramur has lost the title: d_saramur
+374 - Title given to 1006616 - Primary title: k_kozamur
+374 - vassal: c_dasan - Setting independent in Validate Realm
+374 - vassal: c_dasan - Made independent
+378 - Holder 1007059 - Primary title: d_saramur has lost the title: d_saramur
+378 - Title given to 1007059 - Primary title: k_kozamur
+381 - Gained vassal: c_denija
+381 - Gained vassal: c_nozuar
+381 - Holder 1011021 - Primary title: d_saramur has lost the title: d_saramur
+381 - Title given to 1011021 - Primary title: k_kozamur
+381 - vassal: c_nozuar - Setting independent in Validate Realm
+381 - vassal: c_nozuar - Made independent
+381 - vassal: c_denija - Setting independent in Validate Realm
+381 - vassal: c_denija - Made independent

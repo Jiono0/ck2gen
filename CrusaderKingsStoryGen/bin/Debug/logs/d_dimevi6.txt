@@ -1,0 +1,58 @@
+200 - Title given to 1000901
+200 - vassal: c_emesha - Given to 1000905 via AddCharacterForTitle
+200 - sub vassal: c_emesha - Given to 1000905 via AddCharacterForTitle
+200 - vassal: c_emesha - Holder 1000905 - Primary title: c_emesha has lost the title: c_emesha
+200 - sub vassal: c_emesha - Holder 1000905 - Primary title: c_emesha has lost the title: c_emesha
+200 - vassal: c_emesha - Title given to 1000905
+200 - sub vassal: c_emesha - Title given to 1000905
+200 - vassal: c_datayim - Holder 1000901 - Primary title: c_datayim has lost the title: c_datayim
+200 - sub vassal: c_datayim - Holder 1000901 - Primary title: c_datayim has lost the title: c_datayim
+200 - vassal: c_datayim - Title given to 1000901 - Primary title: d_dimevi
+200 - sub vassal: c_datayim - Title given to 1000901 - Primary title: d_dimevi
+200 - Holder (1000901) has gained c_datayim
+200 - vassal: c_wutomo - Holder 1000901 - Primary title: c_wutomo has lost the title: c_wutomo
+200 - sub vassal: c_wutomo - Holder 1000901 - Primary title: c_wutomo has lost the title: c_wutomo
+200 - vassal: c_wutomo - Title given to 1000901 - Primary title: d_dimevi
+200 - sub vassal: c_wutomo - Title given to 1000901 - Primary title: d_dimevi
+200 - Holder (1000901) has gained c_wutomo
+200 - vassal: c_lyaa - Holder 1000901 - Primary title: c_lyaa has lost the title: c_lyaa
+200 - sub vassal: c_lyaa - Holder 1000901 - Primary title: c_lyaa has lost the title: c_lyaa
+200 - vassal: c_lyaa - Title given to 1000901 - Primary title: d_dimevi
+200 - sub vassal: c_lyaa - Title given to 1000901 - Primary title: d_dimevi
+200 - Holder (1000901) has gained c_lyaa
+205 - Holder 1001605 - Primary title: d_dimevi has lost the title: d_dimevi
+205 - Title given to 1001605
+205 - vassal: c_lyaa - Holder 1001605 - Primary title: c_lyaa has lost the title: c_lyaa
+205 - vassal: c_lyaa - Title given to 1001605 - Primary title: d_dimevi
+205 - Holder (1001605) has gained c_lyaa
+205 - vassal: c_wutomo - Holder 1001605 - Primary title: c_wutomo has lost the title: c_wutomo
+205 - vassal: c_wutomo - Title given to 1001605 - Primary title: d_dimevi
+205 - Holder (1001605) has gained c_wutomo
+205 - vassal: c_datayim - Holder 1001605 - Primary title: c_datayim has lost the title: c_datayim
+205 - vassal: c_datayim - Title given to 1001605 - Primary title: d_dimevi
+205 - Holder (1001605) has gained c_datayim
+207 - Holder 1000916 - Primary title: d_dimevi has lost the title: d_dimevi
+207 - Title given to 1000916 - Primary title: d_bimude
+207 - vassal: c_lyaa - Holder 1000916 - Primary title: c_lyaa has lost the title: c_lyaa
+207 - vassal: c_lyaa - Title given to 1000916 - Primary title: d_tatin
+207 - vassal: c_wutomo - Holder 1000916 - Primary title: c_wutomo has lost the title: c_wutomo
+207 - vassal: c_wutomo - Title given to 1000916 - Primary title: d_tatin
+207 - vassal: c_datayim - Holder 1000916 - Primary title: c_datayim has lost the title: c_datayim
+207 - vassal: c_datayim - Title given to 1000916 - Primary title: d_tatin
+208 - Holder 1002050 - Primary title: d_dimevi has lost the title: c_kanayim
+208 - Holder 1001426 - Primary title: d_dimevi has lost the title: d_bimude
+208 - Gained vassal: c_sanaga
+208 - Holder 1002052 - Primary title: d_dimevi has lost the title: c_ranayim
+208 - Holder 1002053 - Primary title: d_dimevi has lost the title: c_roboman
+226 - Holder (1000916) has gained k_afageelo
+227 - vassal: c_sanaga - Title given to 1003132
+229 - Holder 1001525 - Primary title: d_dimevi has lost the title: d_dimevi
+229 - Title given to 1001525 - Primary title: k_afageelo
+229 - vassal: c_datayim - Setting to vassal of d_kanayah in Validate Realm
+229 - Lost vassal: c_datayim
+229 - vassal: c_wutomo - Setting to vassal of d_kanayah in Validate Realm
+229 - Lost vassal: c_wutomo
+229 - vassal: c_lyaa - Setting to vassal of d_kanayah in Validate Realm
+229 - Lost vassal: c_lyaa
+251 - Holder 1003525 - Primary title: d_dimevi has lost the title: d_dimevi
+251 - Title given to 1003525 - Primary title: k_afageelo

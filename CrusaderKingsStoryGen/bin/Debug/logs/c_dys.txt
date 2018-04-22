@@ -1,0 +1,38 @@
+200 - Title given to 1000004 - Primary title: c_kalurt
+200 - Given to 1000178 via AddCharacterForTitle
+200 - Title given to 1000178
+200 - Given to 1000179 via AddCharacterForTitle
+200 - Holder 1000179 - Primary title: c_dys has lost the title: c_dys
+200 - Title given to 1000179
+200 - Holder 1000176 - Primary title: c_dys has lost the title: c_dys
+200 - Title given to 1000176 - Primary title: d_tuatui
+203 - Holder 1001184 - Primary title: c_dys has lost the title: c_dys
+203 - Title given to 1001184 - Primary title: d_tuatui
+254 - Holder 1002673 - Primary title: c_dys has lost the title: c_dys
+254 - Title given to 1002673 - Primary title: d_tuatui
+263 - Holder 1001792 - Primary title: c_dys has lost the title: c_dys
+263 - Title given to 1001792 - Primary title: d_titako
+264 - Set liege on title creation d_legys
+264 - Setting independent due to liege destruction
+264 - Made independent
+264 - Title given to 1001951
+264 - Too many dukes, made direct title into vassal of d_titako
+280 - Holder 1005668 - Primary title: c_dys has lost the title: c_dys
+280 - Title given to 1005668 - Primary title: d_titako
+293 - Holder 1006935 - Primary title: c_dys has lost the title: c_dys
+293 - Title given to 1006935 - Primary title: d_titako
+303 - Set liege on title creation d_tuatui
+303 - Given to 1007802 in HandleTitles - Too many duke titles
+303 - Title given to 1007802
+329 - Given to 1009216 in HandleTitles - Too many duke titles
+329 - Holder 1009216 - Primary title: c_dys has lost the title: c_dys
+329 - Title given to 1009216
+329 - Holder (1009216) has gained d_tuatui
+343 - Holder 1008142 - Primary title: c_dys has lost the title: c_dys
+343 - Title given to 1008142 - Primary title: k_witimon
+361 - Setting to vassal of d_qayaska in Validate Realm
+361 - Title given to 1010112 - Primary title: k_witimon
+361 - Setting to vassal of k_witimon in Validate Realm
+390 - Setting to vassal of d_qayaska in Validate Realm
+390 - Holder 1011594 - Primary title: c_dys has lost the title: c_dys
+390 - Title given to 1011594 - Primary title: k_witimon

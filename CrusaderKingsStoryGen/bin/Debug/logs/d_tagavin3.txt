@@ -1,0 +1,71 @@
+200 - Title given to 1000576
+200 - vassal: c_ligona - Given to 1000579 via AddCharacterForTitle
+200 - sub vassal: c_ligona - Given to 1000579 via AddCharacterForTitle
+200 - vassal: c_ligona - Holder 1000579 - Primary title: c_ligona has lost the title: c_ligona
+200 - sub vassal: c_ligona - Holder 1000579 - Primary title: c_ligona has lost the title: c_ligona
+200 - vassal: c_ligona - Title given to 1000579
+200 - sub vassal: c_ligona - Title given to 1000579
+200 - vassal: c_bupard - Holder 1000576 - Primary title: c_bupard has lost the title: c_bupard
+200 - sub vassal: c_bupard - Holder 1000576 - Primary title: c_bupard has lost the title: c_bupard
+200 - vassal: c_bupard - Title given to 1000576 - Primary title: d_tagavin
+200 - sub vassal: c_bupard - Title given to 1000576 - Primary title: d_tagavin
+200 - Holder (1000576) has gained c_bupard
+200 - vassal: c_ligona - Holder 1000576 - Primary title: c_ligona has lost the title: c_ligona
+200 - sub vassal: c_ligona - Holder 1000576 - Primary title: c_ligona has lost the title: c_ligona
+200 - vassal: c_ligona - Title given to 1000576 - Primary title: d_tagavin
+200 - sub vassal: c_ligona - Title given to 1000576 - Primary title: d_tagavin
+200 - Holder (1000576) has gained c_ligona
+200 - vassal: c_tigand - Holder 1000576 - Primary title: c_tigand has lost the title: c_tigand
+200 - sub vassal: c_tigand - Holder 1000576 - Primary title: c_tigand has lost the title: c_tigand
+200 - vassal: c_tigand - Title given to 1000576 - Primary title: d_tagavin
+200 - sub vassal: c_tigand - Title given to 1000576 - Primary title: d_tagavin
+200 - Holder (1000576) has gained c_tigand
+200 - vassal: c_tigard - Holder 1000576 - Primary title: c_tigard has lost the title: c_sand
+200 - sub vassal: c_tigard - Holder 1000576 - Primary title: c_tigard has lost the title: c_sand
+200 - vassal: c_sand - Title given to 1000576 - Primary title: d_tagavin
+200 - sub vassal: c_sand - Title given to 1000576 - Primary title: d_tagavin
+200 - Holder (1000576) has gained c_sand
+200 - vassal: c_tigard - Holder 1000576 - Primary title: c_tigard has lost the title: c_tigard
+200 - sub vassal: c_tigard - Holder 1000576 - Primary title: c_tigard has lost the title: c_tigard
+200 - vassal: c_tigard - Title given to 1000576 - Primary title: d_tagavin
+200 - sub vassal: c_tigard - Title given to 1000576 - Primary title: d_tagavin
+200 - Holder (1000576) has gained c_tigard
+200 - Holder 1001037 - Primary title: d_tagavin has lost the title: d_tagavin
+200 - Title given to 1001037 - Primary title: k_saloet
+200 - vassal: c_bupard - Holder 1001037 - Primary title: c_bupard has lost the title: c_bupard
+200 - vassal: c_bupard - Title given to 1001037 - Primary title: k_saloet
+236 - Holder 1003674 - Primary title: d_tagavin has lost the title: d_tagavin
+236 - Title given to 1003674 - Primary title: k_saloet
+236 - vassal: c_bupard - Setting to vassal of d_aguyasil in Validate Realm
+236 - Lost vassal: c_bupard
+238 - Gained vassal: c_bupard
+238 - Holder 1000581 - Primary title: d_tagavin has lost the title: d_tagavin
+238 - Title given to 1000581 - Primary title: k_saloet
+238 - vassal: c_bupard - Setting to vassal of d_aguyasil in Validate Realm
+238 - Lost vassal: c_bupard
+239 - Holder 1001963 - Primary title: d_tagavin has lost the title: c_dovolas
+239 - Gained vassal: c_bupard
+239 - Holder 1001963 - Primary title: d_tagavin has lost the title: d_tagavin
+239 - Title given to 1001963 - Primary title: k_saloet
+239 - vassal: c_bupard - Setting to vassal of d_aguyasil in Validate Realm
+239 - Lost vassal: c_bupard
+244 - Holder 1003885 - Primary title: d_tagavin has lost the title: d_tagavin
+244 - Title given to 1003885 - Primary title: k_saloet
+297 - Holder 1004842 - Primary title: d_tagavin has lost the title: d_tagavin
+297 - Title given to 1004842 - Primary title: k_saloet
+300 - vassal: c_ligona - Holder 1004842 - Primary title: c_ligona has lost the title: c_ligona
+300 - vassal: c_ligona - Title given to 1004842 - Primary title: k_saloet
+300 - vassal: c_tigand - Holder 1004842 - Primary title: c_tigand has lost the title: c_tigand
+300 - vassal: c_tigand - Title given to 1004842 - Primary title: k_saloet
+300 - vassal: c_sand - Holder 1004842 - Primary title: c_sand has lost the title: c_sand
+300 - vassal: c_sand - Title given to 1004842 - Primary title: k_saloet
+300 - vassal: c_tigard - Holder 1004842 - Primary title: c_tigard has lost the title: c_tigard
+300 - vassal: c_tigard - Title given to 1004842 - Primary title: k_saloet
+300 - vassal: c_tigard - Title given to 1007076
+300 - vassal: c_sand - Title given to 1004325
+300 - vassal: c_tigand - Title given to 1007077
+300 - vassal: c_ligona - Title given to 1007078
+314 - Holder 1007226 - Primary title: d_tagavin has lost the title: d_tagavin
+314 - Title given to 1007226 - Primary title: k_saloet
+354 - Holder 1009292 - Primary title: d_tagavin has lost the title: d_tagavin
+354 - Title given to 1009292 - Primary title: k_saloet

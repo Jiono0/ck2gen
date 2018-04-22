@@ -1,0 +1,227 @@
+200 - Title given to 1001024
+200 - vassal: d_wapay - Holder 1001024 - Primary title: d_wapay has lost the title: d_wapay
+200 - sub vassal: d_wapay - Holder 1001024 - Primary title: d_wapay has lost the title: d_wapay
+200 - vassal: d_wapay - Title given to 1001024 - Primary title: k_bohave
+200 - sub vassal: d_wapay - Title given to 1001024 - Primary title: k_bohave
+200 - Holder (1001024) has gained d_wapay
+200 - sub vassal: c_nanile - Holder 1001024 - Primary title: c_nanile has lost the title: c_nanile
+200 - sub vassal: c_nanile - Title given to 1001024 - Primary title: k_bohave
+200 - Holder (1001024) has gained c_nanile
+200 - Gained vassal: d_dilay
+200 - vassal: d_dilay - Given to neighbour holder of k_bohave
+200 - sub vassal: d_dilay - Given to neighbour holder of k_bohave
+200 - vassal: d_dilay - Holder 1001024 - Primary title: d_dilay has lost the title: d_dilay
+200 - sub vassal: d_dilay - Holder 1001024 - Primary title: d_dilay has lost the title: d_dilay
+200 - vassal: d_dilay - Title given to 1001024 - Primary title: k_bohave
+200 - sub vassal: d_dilay - Title given to 1001024 - Primary title: k_bohave
+200 - Holder (1001024) has gained d_dilay
+202 - Holder 1001615 - Primary title: k_bohave has lost the title: k_bohave
+202 - Title given to 1001615
+202 - vassal: d_dilay - Holder 1001615 - Primary title: d_dilay has lost the title: d_dilay
+202 - sub vassal: d_dilay - Holder 1001615 - Primary title: d_dilay has lost the title: d_dilay
+202 - vassal: d_dilay - Title given to 1001615 - Primary title: k_bohave
+202 - sub vassal: d_dilay - Title given to 1001615 - Primary title: k_bohave
+202 - Holder (1001615) has gained d_dilay
+202 - vassal: d_wapay - Holder 1001615 - Primary title: d_wapay has lost the title: d_wapay
+202 - sub vassal: d_wapay - Holder 1001615 - Primary title: d_wapay has lost the title: d_wapay
+202 - vassal: d_wapay - Title given to 1001615 - Primary title: k_bohave
+202 - sub vassal: d_wapay - Title given to 1001615 - Primary title: k_bohave
+202 - Holder (1001615) has gained d_wapay
+202 - sub vassal: c_nanile - Holder 1001615 - Primary title: c_nanile has lost the title: c_nanile
+202 - sub vassal: c_nanile - Title given to 1001615 - Primary title: k_bohave
+202 - Holder (1001615) has gained c_nanile
+214 - vassal: d_nelurdo - Holder 1001957 - Primary title: d_nelurdo has lost the title: d_nelurdo
+214 - sub vassal: d_nelurdo - Holder 1001957 - Primary title: d_nelurdo has lost the title: d_nelurdo
+214 - vassal: d_nelurdo - Title given to 1001957
+214 - sub vassal: d_nelurdo - Title given to 1001957
+214 - sub vassal: c_kamonoc - Holder 1001957 - Primary title: c_kamonoc has lost the title: c_kamonoc
+214 - sub vassal: c_kamonoc - Title given to 1001957 - Primary title: d_nelurdo
+214 - vassal: d_nelurdo - Holder (1001957) has gained c_kamonoc
+214 - sub vassal: d_nelurdo - Holder (1001957) has gained c_kamonoc
+214 - sub vassal: c_deraise - Holder 1001957 - Primary title: c_deraise has lost the title: c_deraise
+214 - sub vassal: c_deraise - Title given to 1001957 - Primary title: d_nelurdo
+214 - vassal: d_nelurdo - Holder (1001957) has gained c_deraise
+214 - sub vassal: d_nelurdo - Holder (1001957) has gained c_deraise
+214 - sub vassal: c_riley - Holder 1001957 - Primary title: c_riley has lost the title: c_riley
+214 - sub vassal: c_riley - Title given to 1001957 - Primary title: d_nelurdo
+214 - vassal: d_nelurdo - Holder (1001957) has gained c_riley
+214 - sub vassal: d_nelurdo - Holder (1001957) has gained c_riley
+214 - sub vassal: c_teriota - Holder 1001957 - Primary title: c_teriota has lost the title: c_teriota
+214 - sub vassal: c_teriota - Title given to 1001957 - Primary title: d_nelurdo
+214 - vassal: d_nelurdo - Holder (1001957) has gained c_teriota
+214 - sub vassal: d_nelurdo - Holder (1001957) has gained c_teriota
+215 - vassal: d_raladma - Holder 1002223 - Primary title: d_raladma has lost the title: d_raladma
+215 - sub vassal: d_raladma - Holder 1002223 - Primary title: d_raladma has lost the title: d_raladma
+215 - vassal: d_raladma - Title given to 1002223
+215 - sub vassal: d_raladma - Title given to 1002223
+215 - sub vassal: c_wibya - Holder 1002223 - Primary title: c_wibya has lost the title: c_wibya
+215 - sub vassal: c_wibya - Title given to 1002223 - Primary title: d_raladma
+215 - vassal: d_raladma - Holder (1002223) has gained c_wibya
+215 - sub vassal: d_raladma - Holder (1002223) has gained c_wibya
+215 - sub vassal: c_wibara - Holder 1002223 - Primary title: c_wibara has lost the title: c_wibara
+215 - sub vassal: c_wibara - Title given to 1002223 - Primary title: d_raladma
+215 - vassal: d_raladma - Holder (1002223) has gained c_wibara
+215 - sub vassal: d_raladma - Holder (1002223) has gained c_wibara
+226 - vassal: d_raladma - Holder 1001615 - Primary title: d_raladma has lost the title: d_raladma
+226 - sub vassal: d_raladma - Holder 1001615 - Primary title: d_raladma has lost the title: d_raladma
+226 - vassal: d_raladma - Title given to 1001615 - Primary title: k_bohave
+226 - sub vassal: d_raladma - Title given to 1001615 - Primary title: k_bohave
+226 - Holder (1001615) has gained d_raladma
+226 - sub vassal: c_wibara - Holder 1001615 - Primary title: c_wibara has lost the title: c_wibara
+226 - sub vassal: c_wibara - Title given to 1001615 - Primary title: k_bohave
+226 - Holder (1001615) has gained c_wibara
+226 - sub vassal: c_wibya - Holder 1001615 - Primary title: c_wibya has lost the title: c_wibya
+226 - sub vassal: c_wibya - Title given to 1001615 - Primary title: k_bohave
+226 - Holder (1001615) has gained c_wibya
+226 - sub vassal: c_najya - Given to 1003062 in HandleTitles - Too many duke titles
+226 - sub vassal: c_najya - Holder 1003062 - Primary title: c_najya has lost the title: c_najya
+226 - sub vassal: c_najya - Title given to 1003062
+226 - Holder 1003062 - Primary title: k_bohave has lost the title: d_wapay
+226 - vassal: d_wapay - Title given to 1003062 - Primary title: c_najya
+226 - sub vassal: d_wapay - Title given to 1003062 - Primary title: c_najya
+226 - sub vassal: c_najya - Holder (1003062) has gained d_wapay
+226 - sub vassal: c_nanile - Setting to vassal of k_bohave in Validate Realm
+226 - vassal: d_wapay - Lost vassal: c_nanile
+226 - sub vassal: d_wapay - Lost vassal: c_nanile
+226 - Gained vassal: c_nanile
+226 - vassal: d_wapay - Too many dukes, given to dejure: k_bohave
+226 - sub vassal: d_wapay - Too many dukes, given to dejure: k_bohave
+228 - vassal: d_biatay - Holder 1001655 - Primary title: d_biatay has lost the title: d_biatay
+228 - sub vassal: d_biatay - Holder 1001655 - Primary title: d_biatay has lost the title: d_biatay
+228 - vassal: d_biatay - Title given to 1001655
+228 - sub vassal: d_biatay - Title given to 1001655
+228 - sub vassal: c_napara - Holder 1001655 - Primary title: c_napara has lost the title: c_napara
+228 - sub vassal: c_napara - Title given to 1001655 - Primary title: d_biatay
+228 - vassal: d_biatay - Holder (1001655) has gained c_napara
+228 - sub vassal: d_biatay - Holder (1001655) has gained c_napara
+228 - sub vassal: c_tirya - Holder 1001655 - Primary title: c_tirya has lost the title: c_tirya
+228 - sub vassal: c_tirya - Title given to 1001655 - Primary title: d_biatay
+228 - vassal: d_biatay - Holder (1001655) has gained c_tirya
+228 - sub vassal: d_biatay - Holder (1001655) has gained c_tirya
+246 - vassal: d_nelurdo - Holder 1003046 - Primary title: d_nelurdo has lost the title: d_nelurdo
+246 - sub vassal: d_nelurdo - Holder 1003046 - Primary title: d_nelurdo has lost the title: d_nelurdo
+246 - vassal: d_nelurdo - Title given to 1003046
+246 - sub vassal: d_nelurdo - Title given to 1003046
+246 - sub vassal: c_kamonoc - Holder 1003046 - Primary title: c_kamonoc has lost the title: c_kamonoc
+246 - sub vassal: c_kamonoc - Title given to 1003046 - Primary title: d_nelurdo
+246 - vassal: d_nelurdo - Holder (1003046) has gained c_kamonoc
+246 - sub vassal: d_nelurdo - Holder (1003046) has gained c_kamonoc
+246 - sub vassal: c_deraise - Holder 1003046 - Primary title: c_deraise has lost the title: c_deraise
+246 - sub vassal: c_deraise - Title given to 1003046 - Primary title: d_nelurdo
+246 - vassal: d_nelurdo - Holder (1003046) has gained c_deraise
+246 - sub vassal: d_nelurdo - Holder (1003046) has gained c_deraise
+246 - sub vassal: c_riley - Holder 1003046 - Primary title: c_riley has lost the title: c_riley
+246 - sub vassal: c_riley - Title given to 1003046 - Primary title: d_nelurdo
+246 - vassal: d_nelurdo - Holder (1003046) has gained c_riley
+246 - sub vassal: d_nelurdo - Holder (1003046) has gained c_riley
+246 - sub vassal: c_teriota - Holder 1003046 - Primary title: c_teriota has lost the title: c_teriota
+246 - sub vassal: c_teriota - Title given to 1003046 - Primary title: d_nelurdo
+246 - vassal: d_nelurdo - Holder (1003046) has gained c_teriota
+246 - sub vassal: d_nelurdo - Holder (1003046) has gained c_teriota
+249 - vassal: d_tibara - Holder 1001807 - Primary title: d_tibara has lost the title: d_tibara
+249 - sub vassal: d_tibara - Holder 1001807 - Primary title: d_tibara has lost the title: d_tibara
+249 - vassal: d_tibara - Title given to 1001807
+249 - sub vassal: d_tibara - Title given to 1001807
+249 - sub vassal: c_agiresse - Holder 1001807 - Primary title: c_agiresse has lost the title: c_agiresse
+249 - sub vassal: c_agiresse - Title given to 1001807 - Primary title: d_tibara
+249 - vassal: d_tibara - Holder (1001807) has gained c_agiresse
+249 - sub vassal: d_tibara - Holder (1001807) has gained c_agiresse
+249 - sub vassal: c_ebirile - Holder 1001807 - Primary title: c_ebirile has lost the title: c_ebirile
+249 - sub vassal: c_ebirile - Title given to 1001807 - Primary title: d_tibara
+249 - vassal: d_tibara - Holder (1001807) has gained c_ebirile
+249 - sub vassal: d_tibara - Holder (1001807) has gained c_ebirile
+250 - vassal: d_nelurdo - Holder 1004317 - Primary title: d_nelurdo has lost the title: d_nelurdo
+250 - sub vassal: d_nelurdo - Holder 1004317 - Primary title: d_nelurdo has lost the title: d_nelurdo
+250 - vassal: d_nelurdo - Title given to 1004317
+250 - sub vassal: d_nelurdo - Title given to 1004317
+250 - sub vassal: c_kamonoc - Holder 1004317 - Primary title: c_kamonoc has lost the title: c_kamonoc
+250 - sub vassal: c_kamonoc - Title given to 1004317 - Primary title: d_nelurdo
+250 - vassal: d_nelurdo - Holder (1004317) has gained c_kamonoc
+250 - sub vassal: d_nelurdo - Holder (1004317) has gained c_kamonoc
+250 - sub vassal: c_deraise - Holder 1004317 - Primary title: c_deraise has lost the title: c_deraise
+250 - sub vassal: c_deraise - Title given to 1004317 - Primary title: d_nelurdo
+250 - vassal: d_nelurdo - Holder (1004317) has gained c_deraise
+250 - sub vassal: d_nelurdo - Holder (1004317) has gained c_deraise
+250 - sub vassal: c_riley - Holder 1004317 - Primary title: c_riley has lost the title: c_riley
+250 - sub vassal: c_riley - Title given to 1004317 - Primary title: d_nelurdo
+250 - vassal: d_nelurdo - Holder (1004317) has gained c_riley
+250 - sub vassal: d_nelurdo - Holder (1004317) has gained c_riley
+250 - sub vassal: c_teriota - Holder 1004317 - Primary title: c_teriota has lost the title: c_teriota
+250 - sub vassal: c_teriota - Title given to 1004317 - Primary title: d_nelurdo
+250 - vassal: d_nelurdo - Holder (1004317) has gained c_teriota
+250 - sub vassal: d_nelurdo - Holder (1004317) has gained c_teriota
+250 - Holder 1001701 - Primary title: k_bohave has lost the title: k_bohave
+250 - Title given to 1001701
+250 - vassal: d_dilay - Holder 1001701 - Primary title: d_dilay has lost the title: d_dilay
+250 - sub vassal: d_dilay - Holder 1001701 - Primary title: d_dilay has lost the title: d_dilay
+250 - vassal: d_dilay - Title given to 1001701 - Primary title: k_bohave
+250 - sub vassal: d_dilay - Title given to 1001701 - Primary title: k_bohave
+250 - Holder (1001701) has gained d_dilay
+250 - vassal: c_nanile - Setting to vassal of d_raladma in Validate Realm
+250 - sub vassal: c_nanile - Setting to vassal of d_raladma in Validate Realm
+250 - Lost vassal: c_nanile
+250 - vassal: d_raladma - Gained vassal: c_nanile
+250 - sub vassal: d_raladma - Gained vassal: c_nanile
+250 - vassal: d_raladma - Holder 1001701 - Primary title: d_raladma has lost the title: d_raladma
+250 - sub vassal: d_raladma - Holder 1001701 - Primary title: d_raladma has lost the title: d_raladma
+250 - vassal: d_raladma - Title given to 1001701 - Primary title: k_bohave
+250 - sub vassal: d_raladma - Title given to 1001701 - Primary title: k_bohave
+250 - Holder (1001701) has gained d_raladma
+250 - sub vassal: c_wibya - Holder 1001701 - Primary title: c_wibya has lost the title: c_wibya
+250 - sub vassal: c_wibya - Title given to 1001701 - Primary title: k_bohave
+250 - Holder (1001701) has gained c_wibya
+250 - sub vassal: c_wibara - Holder 1001701 - Primary title: c_wibara has lost the title: c_wibara
+250 - sub vassal: c_wibara - Title given to 1001701 - Primary title: k_bohave
+250 - Holder (1001701) has gained c_wibara
+250 - sub vassal: c_nanile - Holder 1001701 - Primary title: c_nanile has lost the title: c_nanile
+250 - sub vassal: c_nanile - Title given to 1001701 - Primary title: k_bohave
+250 - Holder (1001701) has gained c_nanile
+256 - Holder 1001655 - Primary title: k_bohave has lost the title: k_bohave
+256 - Title given to 1001655 - Primary title: d_biatay
+256 - vassal: d_biatay - Holder (1001655) has gained k_bohave
+256 - sub vassal: d_biatay - Holder (1001655) has gained k_bohave
+256 - vassal: d_dilay - Holder 1001655 - Primary title: d_dilay has lost the title: d_dilay
+256 - sub vassal: d_dilay - Holder 1001655 - Primary title: d_dilay has lost the title: d_dilay
+256 - vassal: d_dilay - Title given to 1001655 - Primary title: k_bohave
+256 - sub vassal: d_dilay - Title given to 1001655 - Primary title: k_bohave
+256 - Holder (1001655) has gained d_dilay
+256 - vassal: d_raladma - Holder 1001655 - Primary title: d_raladma has lost the title: d_raladma
+256 - sub vassal: d_raladma - Holder 1001655 - Primary title: d_raladma has lost the title: d_raladma
+256 - vassal: d_raladma - Title given to 1001655 - Primary title: k_bohave
+256 - sub vassal: d_raladma - Title given to 1001655 - Primary title: k_bohave
+256 - Holder (1001655) has gained d_raladma
+256 - sub vassal: c_wibya - Holder 1001655 - Primary title: c_wibya has lost the title: c_wibya
+256 - sub vassal: c_wibya - Title given to 1001655 - Primary title: k_bohave
+256 - Holder (1001655) has gained c_wibya
+256 - sub vassal: c_wibara - Holder 1001655 - Primary title: c_wibara has lost the title: c_wibara
+256 - sub vassal: c_wibara - Title given to 1001655 - Primary title: k_bohave
+256 - Holder (1001655) has gained c_wibara
+256 - sub vassal: c_nanile - Holder 1001655 - Primary title: c_nanile has lost the title: c_nanile
+256 - sub vassal: c_nanile - Title given to 1001655 - Primary title: k_bohave
+256 - Holder (1001655) has gained c_nanile
+257 - sub vassal: c_tirya - Given to 1002187 in HandleTitles - Too many duke titles
+257 - Holder 1002187 - Primary title: k_bohave has lost the title: c_tirya
+257 - sub vassal: c_tirya - Title given to 1002187
+257 - Holder 1002187 - Primary title: k_bohave has lost the title: d_biatay
+257 - vassal: d_biatay - Title given to 1002187 - Primary title: c_tirya
+257 - sub vassal: d_biatay - Title given to 1002187 - Primary title: c_tirya
+257 - sub vassal: c_tirya - Holder (1002187) has gained d_biatay
+257 - sub vassal: c_napara - Setting to vassal of k_bohave in Validate Realm
+257 - vassal: d_biatay - Lost vassal: c_napara
+257 - sub vassal: d_biatay - Lost vassal: c_napara
+257 - Gained vassal: c_napara
+257 - vassal: d_biatay - Too many dukes, given to dejure: k_bohave
+257 - sub vassal: d_biatay - Too many dukes, given to dejure: k_bohave
+261 - vassal: d_biatay - Holder 1001807 - Primary title: d_biatay has lost the title: d_biatay
+261 - sub vassal: d_biatay - Holder 1001807 - Primary title: d_biatay has lost the title: d_biatay
+261 - vassal: d_biatay - Title given to 1001807 - Primary title: d_tibara
+261 - sub vassal: d_biatay - Title given to 1001807 - Primary title: d_tibara
+261 - vassal: d_tibara - Holder (1001807) has gained d_biatay
+261 - sub vassal: d_tibara - Holder (1001807) has gained d_biatay
+261 - sub vassal: c_tirya - Holder 1001807 - Primary title: c_tirya has lost the title: c_tirya
+261 - sub vassal: c_tirya - Title given to 1001807 - Primary title: d_tibara
+261 - vassal: d_tibara - Holder (1001807) has gained c_tirya
+261 - sub vassal: d_tibara - Holder (1001807) has gained c_tirya
+264 - sub vassal: c_wiedude - Holder 1001655 - Primary title: c_wiedude has lost the title: c_wiedude
+264 - sub vassal: c_wiedude - Title given to 1001655 - Primary title: k_bohave
+264 - Holder (1001655) has gained c_wiedude

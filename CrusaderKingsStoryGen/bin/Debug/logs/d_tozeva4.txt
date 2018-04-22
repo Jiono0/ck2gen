@@ -1,0 +1,113 @@
+200 - Title given to 1000099
+200 - vassal: c_denavid - Given to 1000102 via AddCharacterForTitle
+200 - sub vassal: c_denavid - Given to 1000102 via AddCharacterForTitle
+200 - vassal: c_denavid - Holder 1000102 - Primary title: c_denavid has lost the title: c_denavid
+200 - sub vassal: c_denavid - Holder 1000102 - Primary title: c_denavid has lost the title: c_denavid
+200 - vassal: c_denavid - Title given to 1000102
+200 - sub vassal: c_denavid - Title given to 1000102
+200 - vassal: c_dozarai - Holder 1000099 - Primary title: c_dozarai has lost the title: c_dozarai
+200 - sub vassal: c_dozarai - Holder 1000099 - Primary title: c_dozarai has lost the title: c_dozarai
+200 - vassal: c_dozarai - Title given to 1000099 - Primary title: d_tozeva
+200 - sub vassal: c_dozarai - Title given to 1000099 - Primary title: d_tozeva
+200 - Holder (1000099) has gained c_dozarai
+200 - vassal: c_denavid - Holder 1000099 - Primary title: c_denavid has lost the title: c_denavid
+200 - sub vassal: c_denavid - Holder 1000099 - Primary title: c_denavid has lost the title: c_denavid
+200 - vassal: c_denavid - Title given to 1000099 - Primary title: d_tozeva
+200 - sub vassal: c_denavid - Title given to 1000099 - Primary title: d_tozeva
+200 - Holder (1000099) has gained c_denavid
+214 - Holder 1001148 - Primary title: d_tozeva has lost the title: d_tozeva
+214 - Title given to 1001148
+214 - vassal: c_denavid - Holder 1001148 - Primary title: c_denavid has lost the title: c_denavid
+214 - vassal: c_denavid - Title given to 1001148 - Primary title: d_tozeva
+214 - Holder (1001148) has gained c_denavid
+214 - vassal: c_dozarai - Holder 1001148 - Primary title: c_dozarai has lost the title: c_dozarai
+214 - vassal: c_dozarai - Title given to 1001148 - Primary title: d_tozeva
+214 - Holder (1001148) has gained c_dozarai
+221 - Holder 1000092 - Primary title: d_tozeva has lost the title: d_tozeva
+221 - Title given to 1000092 - Primary title: k_bozemar
+221 - vassal: c_dozarai - Holder 1000092 - Primary title: c_dozarai has lost the title: c_dozarai
+221 - vassal: c_dozarai - Title given to 1000092 - Primary title: k_bozemar
+221 - vassal: c_denavid - Holder 1000092 - Primary title: c_denavid has lost the title: c_denavid
+221 - vassal: c_denavid - Title given to 1000092 - Primary title: k_bozemar
+247 - vassal: c_denavid - Title given to 1004268
+249 - Holder 1002954 - Primary title: d_tozeva has lost the title: d_tozeva
+249 - Title given to 1002954 - Primary title: k_bozemar
+249 - vassal: c_dozarai - Setting to vassal of d_sanard in Validate Realm
+249 - Lost vassal: c_dozarai
+250 - Gained vassal: c_renava
+250 - Gained vassal: c_wozija
+250 - Gained vassal: c_dozarai
+250 - Holder 1002935 - Primary title: d_tozeva has lost the title: d_tozeva
+250 - Title given to 1002935 - Primary title: k_bozemar
+250 - vassal: c_dozarai - Setting to vassal of d_sanard in Validate Realm
+250 - Lost vassal: c_dozarai
+250 - vassal: c_wozija - Setting to vassal of d_sanard in Validate Realm
+250 - Lost vassal: c_wozija
+250 - vassal: c_renava - Setting to vassal of d_sanard in Validate Realm
+250 - Lost vassal: c_renava
+251 - vassal: c_denavid - Given to 1004529 in HandleTitles - Too many duke titles
+251 - vassal: c_denavid - Holder 1004529 - Primary title: c_denavid has lost the title: c_denavid
+251 - vassal: c_denavid - Title given to 1004529
+251 - Title given to 1004529 - Primary title: c_denavid
+251 - vassal: c_denavid - Holder (1004529) has gained d_tozeva
+251 - Too many dukes, given to dejure: k_bozemar
+268 - Holder (1004529) has gained k_bozemar
+269 - vassal: c_denavid - Title given to 1005498
+287 - Gained vassal: c_renava
+287 - Gained vassal: c_daimuti
+287 - Gained vassal: c_tarirma
+287 - Gained vassal: c_talobad
+287 - Gained vassal: c_soradma
+287 - Holder 1004710 - Primary title: d_tozeva has lost the title: d_tozeva
+287 - Title given to 1004710 - Primary title: k_bozemar
+287 - vassal: c_soradma - Holder 1004710 - Primary title: c_soradma has lost the title: c_soradma
+287 - vassal: c_soradma - Title given to 1004710 - Primary title: k_bozemar
+287 - vassal: c_talobad - Holder 1004710 - Primary title: c_talobad has lost the title: c_talobad
+287 - vassal: c_talobad - Title given to 1004710 - Primary title: k_bozemar
+287 - vassal: c_tarirma - Holder 1004710 - Primary title: c_tarirma has lost the title: c_tarirma
+287 - vassal: c_tarirma - Title given to 1004710 - Primary title: k_bozemar
+287 - vassal: c_daimuti - Holder 1004710 - Primary title: c_daimuti has lost the title: c_daimuti
+287 - vassal: c_daimuti - Title given to 1004710 - Primary title: k_bozemar
+287 - vassal: c_renava - Holder 1004710 - Primary title: c_renava has lost the title: c_renava
+287 - vassal: c_renava - Title given to 1004710 - Primary title: k_bozemar
+323 - Holder 1006501 - Primary title: d_tozeva has lost the title: d_tozeva
+323 - Title given to 1006501 - Primary title: k_bozemar
+323 - vassal: c_soradma - Holder 1006501 - Primary title: c_soradma has lost the title: c_soradma
+323 - vassal: c_soradma - Title given to 1006501 - Primary title: k_bozemar
+323 - vassal: c_talobad - Holder 1006501 - Primary title: c_talobad has lost the title: c_talobad
+323 - vassal: c_talobad - Title given to 1006501 - Primary title: k_bozemar
+323 - vassal: c_tarirma - Holder 1006501 - Primary title: c_tarirma has lost the title: c_tarirma
+323 - vassal: c_tarirma - Title given to 1006501 - Primary title: k_bozemar
+323 - vassal: c_daimuti - Holder 1006501 - Primary title: c_daimuti has lost the title: c_daimuti
+323 - vassal: c_daimuti - Title given to 1006501 - Primary title: k_bozemar
+323 - vassal: c_renava - Holder 1006501 - Primary title: c_renava has lost the title: c_renava
+323 - vassal: c_renava - Title given to 1006501 - Primary title: k_bozemar
+351 - Holder 1008347 - Primary title: d_tozeva has lost the title: d_tozeva
+351 - Title given to 1008347 - Primary title: k_bozemar
+351 - vassal: c_renava - Holder 1008347 - Primary title: c_renava has lost the title: c_renava
+351 - vassal: c_renava - Title given to 1008347 - Primary title: k_bozemar
+351 - vassal: c_daimuti - Holder 1008347 - Primary title: c_daimuti has lost the title: c_daimuti
+351 - vassal: c_daimuti - Title given to 1008347 - Primary title: k_bozemar
+351 - vassal: c_tarirma - Holder 1008347 - Primary title: c_tarirma has lost the title: c_tarirma
+351 - vassal: c_tarirma - Title given to 1008347 - Primary title: k_bozemar
+351 - vassal: c_talobad - Holder 1008347 - Primary title: c_talobad has lost the title: c_talobad
+351 - vassal: c_talobad - Title given to 1008347 - Primary title: k_bozemar
+351 - vassal: c_soradma - Holder 1008347 - Primary title: c_soradma has lost the title: c_soradma
+351 - vassal: c_soradma - Title given to 1008347 - Primary title: k_bozemar
+360 - Holder 1009859 - Primary title: d_tozeva has lost the title: d_tozeva
+360 - Title given to 1009859 - Primary title: k_bozemar
+360 - vassal: c_soradma - Holder 1009859 - Primary title: c_soradma has lost the title: c_soradma
+360 - vassal: c_soradma - Title given to 1009859 - Primary title: k_bozemar
+360 - vassal: c_talobad - Holder 1009859 - Primary title: c_talobad has lost the title: c_talobad
+360 - vassal: c_talobad - Title given to 1009859 - Primary title: k_bozemar
+360 - vassal: c_tarirma - Holder 1009859 - Primary title: c_tarirma has lost the title: c_tarirma
+360 - vassal: c_tarirma - Title given to 1009859 - Primary title: k_bozemar
+360 - vassal: c_daimuti - Holder 1009859 - Primary title: c_daimuti has lost the title: c_daimuti
+360 - vassal: c_daimuti - Title given to 1009859 - Primary title: k_bozemar
+360 - vassal: c_renava - Holder 1009859 - Primary title: c_renava has lost the title: c_renava
+360 - vassal: c_renava - Title given to 1009859 - Primary title: k_bozemar
+383 - Holder 1010309 - Primary title: d_tozeva has lost the title: d_tozeva
+383 - Title given to 1010309 - Primary title: k_bozemar
+383 - vassal: c_renava - Holder 1010309 - Primary title: c_renava has lost the title: c_renava
+383 - vassal: c_renava - Title given to 1010309 - Primary title: k_bozemar
+383 - vassal: c_daimuti - Holder 1010309 - P

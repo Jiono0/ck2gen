@@ -1,0 +1,91 @@
+200 - Title given to 1000266
+200 - vassal: c_evapimon - Given to 1000269 via AddCharacterForTitle
+200 - sub vassal: c_evapimon - Given to 1000269 via AddCharacterForTitle
+200 - vassal: c_evapimon - Holder 1000269 - Primary title: c_evapimon has lost the title: c_evapimon
+200 - sub vassal: c_evapimon - Holder 1000269 - Primary title: c_evapimon has lost the title: c_evapimon
+200 - vassal: c_evapimon - Title given to 1000269
+200 - sub vassal: c_evapimon - Title given to 1000269
+200 - vassal: c_kamesse - Given to 1000271 via AddCharacterForTitle
+200 - sub vassal: c_kamesse - Given to 1000271 via AddCharacterForTitle
+200 - vassal: c_kamesse - Holder 1000271 - Primary title: c_kamesse has lost the title: c_kamesse
+200 - sub vassal: c_kamesse - Holder 1000271 - Primary title: c_kamesse has lost the title: c_kamesse
+200 - vassal: c_kamesse - Title given to 1000271
+200 - sub vassal: c_kamesse - Title given to 1000271
+200 - vassal: c_karalum - Holder 1000266 - Primary title: c_karalum has lost the title: c_karalum
+200 - sub vassal: c_karalum - Holder 1000266 - Primary title: c_karalum has lost the title: c_karalum
+200 - vassal: c_karalum - Title given to 1000266 - Primary title: d_rapolas
+200 - sub vassal: c_karalum - Title given to 1000266 - Primary title: d_rapolas
+200 - Holder (1000266) has gained c_karalum
+200 - vassal: c_evapimon - Holder 1000266 - Primary title: c_evapimon has lost the title: c_evapimon
+200 - sub vassal: c_evapimon - Holder 1000266 - Primary title: c_evapimon has lost the title: c_evapimon
+200 - vassal: c_evapimon - Title given to 1000266 - Primary title: d_rapolas
+200 - sub vassal: c_evapimon - Title given to 1000266 - Primary title: d_rapolas
+200 - Holder (1000266) has gained c_evapimon
+200 - vassal: c_kamesse - Holder 1000266 - Primary title: c_kamesse has lost the title: c_kamesse
+200 - sub vassal: c_kamesse - Holder 1000266 - Primary title: c_kamesse has lost the title: c_kamesse
+200 - vassal: c_kamesse - Title given to 1000266 - Primary title: d_rapolas
+200 - sub vassal: c_kamesse - Title given to 1000266 - Primary title: d_rapolas
+200 - Holder (1000266) has gained c_kamesse
+201 - Holder 1000240 - Primary title: d_rapolas has lost the title: d_rapolas
+201 - Title given to 1000240 - Primary title: d_bamoey
+201 - vassal: c_kamesse - Holder 1000240 - Primary title: c_kamesse has lost the title: c_kamesse
+201 - vassal: c_kamesse - Title given to 1000240 - Primary title: d_bamoey
+201 - vassal: c_evapimon - Holder 1000240 - Primary title: c_evapimon has lost the title: c_evapimon
+201 - vassal: c_evapimon - Title given to 1000240 - Primary title: d_bamoey
+201 - vassal: c_karalum - Holder 1000240 - Primary title: c_karalum has lost the title: c_karalum
+201 - vassal: c_karalum - Title given to 1000240 - Primary title: d_bamoey
+202 - Holder 1001573 - Primary title: d_rapolas has lost the title: c_qairasz
+202 - Holder 1001574 - Primary title: d_rapolas has lost the title: c_bilaise
+214 - Holder 1001179 - Primary title: d_rapolas has lost the title: d_bamoey
+214 - Gained vassal: c_rapolas
+214 - Gained vassal: c_baresse
+214 - Holder 1001179 - Primary title: d_rapolas has lost the title: c_baresse
+214 - vassal: c_baresse - Title given to 1001179 - Primary title: d_bamoey
+214 - vassal: c_baresse - Setting to vassal of d_bamoey in Validate Realm
+214 - Lost vassal: c_baresse
+214 - Holder 1001179 - Primary title: d_rapolas has lost the title: c_rapolas
+214 - vassal: c_rapolas - Title given to 1001179 - Primary title: d_bamoey
+214 - vassal: c_rapolas - Setting to vassal of d_bamoey in Validate Realm
+214 - Lost vassal: c_rapolas
+214 - Holder 1001179 - Primary title: d_rapolas has lost the title: d_rapolas
+214 - Title given to 1001179 - Primary title: d_bamoey
+214 - vassal: c_kamesse - Holder 1001179 - Primary title: c_kamesse has lost the title: c_kamesse
+214 - vassal: c_kamesse - Title given to 1001179 - Primary title: d_bamoey
+214 - vassal: c_evapimon - Holder 1001179 - Primary title: c_evapimon has lost the title: c_evapimon
+214 - vassal: c_evapimon - Title given to 1001179 - Primary title: d_bamoey
+214 - vassal: c_karalum - Holder 1001179 - Primary title: c_karalum has lost the title: c_karalum
+214 - vassal: c_karalum - Title given to 1001179 - Primary title: d_bamoey
+219 - Holder (1001179) has gained k_evapesse
+220 - vassal: c_karalum - Title given to 1002715
+228 - vassal: c_kamesse - Given to 1003196 in HandleTitles - Too many duke titles
+228 - vassal: c_kamesse - Title given to 1003196
+228 - Title given to 1003196 - Primary title: c_kamesse
+228 - vassal: c_kamesse - Holder (1003196) has gained d_rapolas
+228 - vassal: c_evapimon - Setting to vassal of k_evapesse in Validate Realm
+228 - Lost vassal: c_evapimon
+228 - Too many dukes, given to dejure: k_evapesse
+242 - Holder 1003803 - Primary title: d_rapolas has lost the title: d_rapolas
+242 - Title given to 1003803
+242 - vassal: c_kamesse - Holder 1003803 - Primary title: c_kamesse has lost the title: c_kamesse
+242 - vassal: c_kamesse - Title given to 1003803 - Primary title: d_rapolas
+242 - Holder (1003803) has gained c_kamesse
+253 - Holder 1001179 - Primary title: d_rapolas has lost the title: d_rapolas
+253 - Title given to 1001179 - Primary title: k_evapesse
+253 - vassal: c_kamesse - Holder 1001179 - Primary title: c_kamesse has lost the title: c_kamesse
+253 - vassal: c_kamesse - Title given to 1001179 - Primary title: k_evapesse
+263 - Holder 1003197 - Primary title: d_rapolas has lost the title: d_rapolas
+263 - Title given to 1003197 - Primary title: k_evapesse
+263 - vassal: c_kamesse - Setting to vassal of d_baliota in Validate Realm
+263 - Lost vassal: c_kamesse
+284 - Holder 1006266 - Primary title: d_rapolas has lost the title: d_rapolas
+284 - Title given to 1006266 - Primary title: k_evapesse
+326 - Holder 1006502 - Primary title: d_rapolas has lost the title: d_rapolas
+326 - Title given to 1006502 - Primary title: k_evapesse
+340 - Gained vassal: c_rikara
+340 - Gained vassal: c_qikara
+340 - Holder 1008469 - Primary title: d_rapolas has lost the title: d_rapolas
+340 - Title given to 1008469 - Primary title: k_evapesse
+340 - vassal: c_qikara - Setting independent in Validate Realm
+340 - vassal: c_qikara - Made independent
+340 - vassal: c_rikara - Setting independent in Validate Realm
+340 - vassal: c_rikara - Made independent

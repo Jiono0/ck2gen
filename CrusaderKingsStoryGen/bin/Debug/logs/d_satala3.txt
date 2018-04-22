@@ -1,0 +1,57 @@
+200 - Title given to 1000581
+200 - vassal: c_totyla - Holder 1000581 - Primary title: c_totyla has lost the title: c_totyla
+200 - sub vassal: c_totyla - Holder 1000581 - Primary title: c_totyla has lost the title: c_totyla
+200 - vassal: c_totyla - Title given to 1000581 - Primary title: d_satala
+200 - sub vassal: c_totyla - Title given to 1000581 - Primary title: d_satala
+200 - Holder (1000581) has gained c_totyla
+200 - vassal: c_dovolas - Holder 1000581 - Primary title: c_dovolas has lost the title: c_dovolas
+200 - sub vassal: c_dovolas - Holder 1000581 - Primary title: c_dovolas has lost the title: c_dovolas
+200 - vassal: c_dovolas - Title given to 1000581 - Primary title: d_satala
+200 - sub vassal: c_dovolas - Title given to 1000581 - Primary title: d_satala
+200 - Holder (1000581) has gained c_dovolas
+238 - Holder (1000581) has gained k_saloet
+239 - vassal: c_totyla - Given to 1003828 in HandleTitles - Too many duke titles
+239 - vassal: c_totyla - Title given to 1003828
+239 - Title given to 1003828 - Primary title: c_totyla
+239 - vassal: c_totyla - Holder (1003828) has gained d_satala
+239 - vassal: c_dovolas - Setting to vassal of k_saloet in Validate Realm
+239 - Lost vassal: c_dovolas
+239 - Too many dukes, given to dejure: k_saloet
+260 - Holder 1004255 - Primary title: d_satala has lost the title: d_satala
+260 - Title given to 1004255
+260 - vassal: c_totyla - Holder 1004255 - Primary title: c_totyla has lost the title: c_totyla
+260 - vassal: c_totyla - Title given to 1004255 - Primary title: d_satala
+260 - Holder (1004255) has gained c_totyla
+273 - Holder (1004255) has gained d_qigolas
+273 - Holder (1004255) has gained c_wyad
+288 - Gained vassal: c_wyad
+288 - Holder 1005315 - Primary title: d_satala has lost the title: d_satala
+288 - Title given to 1005315 - Primary title: d_qigolas
+288 - vassal: c_wyad - Holder 1005315 - Primary title: c_wyad has lost the title: c_wyad
+288 - vassal: c_wyad - Title given to 1005315 - Primary title: d_qigolas
+288 - vassal: c_totyla - Holder 1005315 - Primary title: c_totyla has lost the title: c_totyla
+288 - vassal: c_totyla - Title given to 1005315 - Primary title: d_qigolas
+322 - Holder 1006767 - Primary title: d_satala has lost the title: d_satala
+322 - Title given to 1006767
+322 - vassal: c_wyad - Holder 1006767 - Primary title: c_wyad has lost the title: c_wyad
+322 - vassal: c_wyad - Title given to 1006767 - Primary title: d_satala
+322 - Holder (1006767) has gained c_wyad
+322 - vassal: c_totyla - Holder 1006767 - Primary title: c_totyla has lost the title: c_totyla
+322 - vassal: c_totyla - Title given to 1006767 - Primary title: d_satala
+322 - Holder (1006767) has gained c_totyla
+331 - Holder 1008406 - Primary title: d_satala has lost the title: d_satala
+331 - Title given to 1008406
+331 - vassal: c_wyad - Holder 1008406 - Primary title: c_wyad has lost the title: c_wyad
+331 - vassal: c_wyad - Title given to 1008406 - Primary title: d_satala
+331 - Holder (1008406) has gained c_wyad
+331 - vassal: c_totyla - Holder 1008406 - Primary title: c_totyla has lost the title: c_totyla
+331 - vassal: c_totyla - Title given to 1008406 - Primary title: d_satala
+331 - Holder (1008406) has gained c_totyla
+364 - Holder 1009681 - Primary title: d_satala has lost the title: d_satala
+364 - Title given to 1009681
+364 - vassal: c_wyad - Holder 1009681 - Primary title: c_wyad has lost the title: c_wyad
+364 - vassal: c_wyad - Title given to 1009681 - Primary title: d_satala
+364 - Holder (1009681) has gained c_wyad
+364 - vassal: c_totyla - Holder 1009681 - Primary title: c_totyla has lost the title: c_totyla
+364 - vassal: c_totyla - Title given to 1009681 - Primary title: d_satala
+364 - Holder (1009681) has gained c_totyla

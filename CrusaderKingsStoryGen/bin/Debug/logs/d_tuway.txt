@@ -1,0 +1,106 @@
+200 - Title given to 1000273
+200 - vassal: c_nenes - Given to 1000276 via AddCharacterForTitle
+200 - sub vassal: c_nenes - Given to 1000276 via AddCharacterForTitle
+200 - vassal: c_nenes - Holder 1000276 - Primary title: c_nenes has lost the title: c_nenes
+200 - sub vassal: c_nenes - Holder 1000276 - Primary title: c_nenes has lost the title: c_nenes
+200 - vassal: c_nenes - Title given to 1000276
+200 - sub vassal: c_nenes - Title given to 1000276
+200 - vassal: c_kasay - Holder 1000273 - Primary title: c_kasay has lost the title: c_kasay
+200 - sub vassal: c_kasay - Holder 1000273 - Primary title: c_kasay has lost the title: c_kasay
+200 - vassal: c_kasay - Title given to 1000273 - Primary title: d_tuway
+200 - sub vassal: c_kasay - Title given to 1000273 - Primary title: d_tuway
+200 - Holder (1000273) has gained c_kasay
+200 - vassal: c_nenes - Holder 1000273 - Primary title: c_nenes has lost the title: c_nenes
+200 - sub vassal: c_nenes - Holder 1000273 - Primary title: c_nenes has lost the title: c_nenes
+200 - vassal: c_nenes - Title given to 1000273 - Primary title: d_tuway
+200 - sub vassal: c_nenes - Title given to 1000273 - Primary title: d_tuway
+200 - Holder (1000273) has gained c_nenes
+200 - vassal: c_tuana - Title given to 1000273 - Primary title: d_tuway
+200 - Holder (1000273) has gained c_tuana
+200 - Holder 1001043 - Primary title: d_tuway has lost the title: d_tuway
+200 - Title given to 1001043 - Primary title: k_wofie
+200 - vassal: c_kasay - Holder 1001043 - Primary title: c_kasay has lost the title: c_kasay
+200 - vassal: c_kasay - Title given to 1001043 - Primary title: k_wofie
+243 - Gained vassal: c_tierg
+243 - Gained vassal: c_rasimha
+243 - Gained vassal: c_duway
+243 - Holder 1002032 - Primary title: d_tuway has lost the title: d_tuway
+243 - Title given to 1002032 - Primary title: k_wofie
+243 - vassal: c_kasay - Setting to vassal of d_qyo in Validate Realm
+243 - Lost vassal: c_kasay
+243 - vassal: c_duway - Setting to vassal of d_qyo in Validate Realm
+243 - Lost vassal: c_duway
+243 - vassal: c_rasimha - Setting to vassal of d_qyo in Validate Realm
+243 - Lost vassal: c_rasimha
+243 - vassal: c_tierg - Setting to vassal of d_qyo in Validate Realm
+243 - Lost vassal: c_tierg
+245 - vassal: c_nenes - Holder 1002032 - Primary title: c_nenes has lost the title: c_tuana
+245 - vassal: c_tuana - Title given to 1002032 - Primary title: k_wofie
+245 - vassal: c_tuana - Given to 1004324 in HandleTitles - Too many duke titles
+245 - vassal: c_tuana - Title given to 1004324
+245 - Title given to 1004324 - Primary title: c_tuana
+245 - vassal: c_tuana - Holder (1004324) has gained d_tuway
+245 - Too many dukes, given to dejure: k_wofie
+269 - Holder 1004574 - Primary title: d_tuway has lost the title: d_tuway
+269 - Title given to 1004574
+269 - vassal: c_tuana - Holder 1004574 - Primary title: c_tuana has lost the title: c_tuana
+269 - vassal: c_tuana - Title given to 1004574 - Primary title: d_tuway
+269 - Holder (1004574) has gained c_tuana
+300 - vassal: c_nenes - Holder 1004574 - Primary title: c_nenes has lost the title: c_nenes
+300 - vassal: c_nenes - Title given to 1004574 - Primary title: d_tuway
+300 - Holder (1004574) has gained c_nenes
+305 - Holder 1006002 - Primary title: d_tuway has lost the title: d_tuway
+305 - Title given to 1006002
+305 - vassal: c_nenes - Holder 1006002 - Primary title: c_nenes has lost the title: c_nenes
+305 - vassal: c_nenes - Title given to 1006002 - Primary title: d_tuway
+305 - Holder (1006002) has gained c_nenes
+305 - vassal: c_tuana - Holder 1006002 - Primary title: c_tuana has lost the title: c_tuana
+305 - vassal: c_tuana - Title given to 1006002 - Primary title: d_tuway
+305 - Holder (1006002) has gained c_tuana
+330 - Holder 1006707 - Primary title: d_tuway has lost the title: d_tuway
+330 - Title given to 1006707 - Primary title: d_desenes
+330 - vassal: c_tuana - Holder 1006707 - Primary title: c_tuana has lost the title: c_tuana
+330 - vassal: c_tuana - Title given to 1006707 - Primary title: d_desenes
+330 - vassal: c_nenes - Holder 1006707 - Primary title: c_nenes has lost the title: c_nenes
+330 - vassal: c_nenes - Title given to 1006707 - Primary title: d_desenes
+331 - Holder 1009299 - Primary title: d_tuway has lost the title: c_ecinilu
+331 - Holder 1008765 - Primary title: d_tuway has lost the title: d_desenes
+333 - Holder 1008613 - Primary title: d_tuway has lost the title: d_tunay
+333 - Gained vassal: c_emayana
+333 - Gained vassal: c_surt
+333 - Gained vassal: c_tarerma
+333 - Holder 1008613 - Primary title: d_tuway has lost the title: c_tarerma
+333 - vassal: c_tarerma - Title given to 1008613 - Primary title: d_tunay
+333 - vassal: c_tarerma - Setting to vassal of d_tunay in Validate Realm
+333 - Lost vassal: c_tarerma
+333 - Holder 1008613 - Primary title: d_tuway has lost the title: c_surt
+333 - vassal: c_surt - Title given to 1008613 - Primary title: d_tunay
+333 - vassal: c_surt - Setting to vassal of d_tunay in Validate Realm
+333 - Lost vassal: c_surt
+333 - Holder 1008613 - Primary title: d_tuway has lost the title: c_emayana
+333 - vassal: c_emayana - Title given to 1008613 - Primary title: d_tunay
+333 - vassal: c_emayana - Setting to vassal of d_tunay in Validate Realm
+333 - Lost vassal: c_emayana
+333 - Holder 1008613 - Primary title: d_tuway has lost the title: d_tuway
+333 - Title given to 1008613 - Primary title: d_tunay
+333 - vassal: c_tuana - Holder 1008613 - Primary title: c_tuana has lost the title: c_tuana
+333 - vassal: c_tuana - Title given to 1008613 - Primary title: d_tunay
+333 - vassal: c_nenes - Holder 1008613 - Primary title: c_nenes has lost the title: c_nenes
+333 - vassal: c_nenes - Title given to 1008613 - Primary title: d_tunay
+335 - Holder (1008613) has gained d_desenes
+336 - vassal: c_tuana - Given to 1009555 in HandleTitles - Too many duke titles
+336 - vassal: c_tuana - Title given to 1009555
+336 - Title given to 1008765 - Primary title: k_wofie
+336 - vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+336 - Lost vassal: c_nenes
+336 - Too many dukes, made direct title into vassal of k_wofie
+336 - Title given to 1009556
+354 - Holder 1009613 - Primary title: d_tuway has lost the title: d_tuway
+354 - Title given to 1009613 - Primary title: k_wofie
+372 - Holder 1009958 - Primary title: d_tuway has lost the title: d_tuway
+372 - Title given to 1009958 - Primary title: k_wofie
+385 - vassal: c_tuana - Made vassal of neighbour (k_tenelge) due to being a seperate island
+385 - Lost vassal: c_tuana
+386 - Destroyed due to flagged problem
+386 - Made independent
+386 - Title destroyed

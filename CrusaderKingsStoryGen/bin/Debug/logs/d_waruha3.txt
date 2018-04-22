@@ -1,0 +1,58 @@
+200 - Title given to 1000991
+200 - vassal: c_bawazy - Given to 1000994 via AddCharacterForTitle
+200 - sub vassal: c_bawazy - Given to 1000994 via AddCharacterForTitle
+200 - vassal: c_bawazy - Holder 1000994 - Primary title: c_bawazy has lost the title: c_bawazy
+200 - sub vassal: c_bawazy - Holder 1000994 - Primary title: c_bawazy has lost the title: c_bawazy
+200 - vassal: c_bawazy - Title given to 1000994
+200 - sub vassal: c_bawazy - Title given to 1000994
+200 - vassal: c_wagida - Holder 1000991 - Primary title: c_wagida has lost the title: c_wagida
+200 - sub vassal: c_wagida - Holder 1000991 - Primary title: c_wagida has lost the title: c_wagida
+200 - vassal: c_wagida - Title given to 1000991 - Primary title: d_waruha
+200 - sub vassal: c_wagida - Title given to 1000991 - Primary title: d_waruha
+200 - Holder (1000991) has gained c_wagida
+200 - vassal: c_bawazy - Holder 1000991 - Primary title: c_bawazy has lost the title: c_bawazy
+200 - sub vassal: c_bawazy - Holder 1000991 - Primary title: c_bawazy has lost the title: c_bawazy
+200 - vassal: c_bawazy - Title given to 1000991 - Primary title: d_waruha
+200 - sub vassal: c_bawazy - Title given to 1000991 - Primary title: d_waruha
+200 - Holder (1000991) has gained c_bawazy
+238 - Holder 1001980 - Primary title: d_waruha has lost the title: d_waruha
+238 - Title given to 1001980
+238 - vassal: c_wagida - Holder 1001980 - Primary title: c_wagida has lost the title: c_wagida
+238 - vassal: c_wagida - Title given to 1001980 - Primary title: d_waruha
+238 - Holder (1001980) has gained c_wagida
+238 - vassal: c_bawazy - Holder 1001980 - Primary title: c_bawazy has lost the title: c_bawazy
+238 - vassal: c_bawazy - Title given to 1001980 - Primary title: d_waruha
+238 - Holder (1001980) has gained c_bawazy
+268 - Holder 1005266 - Primary title: d_waruha has lost the title: d_waruha
+268 - Title given to 1005266
+268 - vassal: c_wagida - Holder 1005266 - Primary title: c_wagida has lost the title: c_wagida
+268 - vassal: c_wagida - Title given to 1005266 - Primary title: d_waruha
+268 - Holder (1005266) has gained c_wagida
+268 - vassal: c_bawazy - Holder 1005266 - Primary title: c_bawazy has lost the title: c_bawazy
+268 - vassal: c_bawazy - Title given to 1005266 - Primary title: d_waruha
+268 - Holder (1005266) has gained c_bawazy
+302 - Holder 1006158 - Primary title: d_waruha has lost the title: d_waruha
+302 - Title given to 1006158
+302 - vassal: c_wagida - Holder 1006158 - Primary title: c_wagida has lost the title: c_wagida
+302 - vassal: c_wagida - Title given to 1006158 - Primary title: d_waruha
+302 - Holder (1006158) has gained c_wagida
+302 - vassal: c_bawazy - Holder 1006158 - Primary title: c_bawazy has lost the title: c_bawazy
+302 - vassal: c_bawazy - Title given to 1006158 - Primary title: d_waruha
+302 - Holder (1006158) has gained c_bawazy
+323 - Holder 1007729 - Primary title: d_waruha has lost the title: d_waruha
+323 - Title given to 1007729 - Primary title: k_esevucia
+323 - vassal: c_bawazy - Holder 1007729 - Primary title: c_bawazy has lost the title: c_bawazy
+323 - vassal: c_bawazy - Title given to 1007729 - Primary title: k_esevucia
+323 - vassal: c_wagida - Holder 1007729 - Primary title: c_wagida has lost the title: c_wagida
+323 - vassal: c_wagida - Title given to 1007729 - Primary title: k_esevucia
+323 - vassal: c_bawazy - Title given to 1008248
+362 - vassal: c_wagida - Given to 1010161 in HandleTitles - Too many duke titles
+362 - vassal: c_wagida - Title given to 1010161
+362 - Title given to 1010161 - Primary title: c_wagida
+362 - vassal: c_wagida - Holder (1010161) has gained d_waruha
+362 - Too many dukes, given to dejure: k_esevucia
+397 - Holder 1010464 - Primary title: d_waruha has lost the title: d_waruha
+397 - Title given to 1010464
+397 - vassal: c_wagida - Holder 1010464 - Primary title: c_wagida has lost the title: c_wagida
+397 - vassal: c_wagida - Title given to 1010464 - Primary title: d_waruha
+397 - Holder (1010464) has gained c_wagida

@@ -1,0 +1,65 @@
+200 - Title given to 1000135
+200 - vassal: c_qedeyu - Given to 1000138 via AddCharacterForTitle
+200 - sub vassal: c_qedeyu - Given to 1000138 via AddCharacterForTitle
+200 - vassal: c_qedeyu - Holder 1000138 - Primary title: c_qedeyu has lost the title: c_qedeyu
+200 - sub vassal: c_qedeyu - Holder 1000138 - Primary title: c_qedeyu has lost the title: c_qedeyu
+200 - vassal: c_qedeyu - Title given to 1000138
+200 - sub vassal: c_qedeyu - Title given to 1000138
+200 - vassal: c_senuti - Given to 1000140 via AddCharacterForTitle
+200 - sub vassal: c_senuti - Given to 1000140 via AddCharacterForTitle
+200 - vassal: c_senuti - Holder 1000140 - Primary title: c_senuti has lost the title: c_senuti
+200 - sub vassal: c_senuti - Holder 1000140 - Primary title: c_senuti has lost the title: c_senuti
+200 - vassal: c_senuti - Title given to 1000140
+200 - sub vassal: c_senuti - Title given to 1000140
+200 - vassal: c_sierija - Holder 1000135 - Primary title: c_sierija has lost the title: c_sierija
+200 - sub vassal: c_sierija - Holder 1000135 - Primary title: c_sierija has lost the title: c_sierija
+200 - vassal: c_sierija - Title given to 1000135 - Primary title: d_kannes
+200 - sub vassal: c_sierija - Title given to 1000135 - Primary title: d_kannes
+200 - Holder (1000135) has gained c_sierija
+200 - vassal: c_qedeyu - Holder 1000135 - Primary title: c_qedeyu has lost the title: c_qedeyu
+200 - sub vassal: c_qedeyu - Holder 1000135 - Primary title: c_qedeyu has lost the title: c_qedeyu
+200 - vassal: c_qedeyu - Title given to 1000135 - Primary title: d_kannes
+200 - sub vassal: c_qedeyu - Title given to 1000135 - Primary title: d_kannes
+200 - Holder (1000135) has gained c_qedeyu
+200 - vassal: c_senuti - Holder 1000135 - Primary title: c_senuti has lost the title: c_senuti
+200 - sub vassal: c_senuti - Holder 1000135 - Primary title: c_senuti has lost the title: c_senuti
+200 - vassal: c_senuti - Title given to 1000135 - Primary title: d_kannes
+200 - sub vassal: c_senuti - Title given to 1000135 - Primary title: d_kannes
+200 - Holder (1000135) has gained c_senuti
+206 - Holder 1001801 - Primary title: d_kannes has lost the title: d_kannes
+206 - Title given to 1001801
+206 - vassal: c_senuti - Holder 1001801 - Primary title: c_senuti has lost the title: c_senuti
+206 - vassal: c_senuti - Title given to 1001801 - Primary title: d_kannes
+206 - Holder (1001801) has gained c_senuti
+206 - vassal: c_qedeyu - Holder 1001801 - Primary title: c_qedeyu has lost the title: c_qedeyu
+206 - vassal: c_qedeyu - Title given to 1001801 - Primary title: d_kannes
+206 - Holder (1001801) has gained c_qedeyu
+206 - vassal: c_sierija - Holder 1001801 - Primary title: c_sierija has lost the title: c_sierija
+206 - vassal: c_sierija - Title given to 1001801 - Primary title: d_kannes
+206 - Holder (1001801) has gained c_sierija
+213 - Holder 1001612 - Primary title: d_kannes has lost the title: d_kannes
+213 - Title given to 1001612 - Primary title: k_konadma
+213 - vassal: c_senuti - Holder 1001612 - Primary title: c_senuti has lost the title: c_senuti
+213 - vassal: c_senuti - Title given to 1001612 - Primary title: k_konadma
+213 - vassal: c_qedeyu - Holder 1001612 - Primary title: c_qedeyu has lost the title: c_qedeyu
+213 - vassal: c_qedeyu - Title given to 1001612 - Primary title: k_konadma
+213 - vassal: c_sierija - Holder 1001612 - Primary title: c_sierija has lost the title: c_sierija
+213 - vassal: c_sierija - Title given to 1001612 - Primary title: k_konadma
+213 - vassal: c_sierija - Title given to 1002335
+215 - vassal: c_senuti - Given to 1002438 in HandleTitles - Too many duke titles
+215 - vassal: c_senuti - Title given to 1002438
+215 - Title given to 1002438 - Primary title: c_senuti
+215 - vassal: c_senuti - Holder (1002438) has gained d_kannes
+215 - vassal: c_qedeyu - Setting to vassal of k_konadma in Validate Realm
+215 - Lost vassal: c_qedeyu
+215 - Too many dukes, given to dejure: k_konadma
+232 - Holder 1001612 - Primary title: d_kannes has lost the title: d_kannes
+232 - Title given to 1001612 - Primary title: k_konadma
+232 - vassal: c_senuti - Holder 1001612 - Primary title: c_senuti has lost the title: c_senuti
+232 - vassal: c_senuti - Title given to 1001612 - Primary title: k_konadma
+243 - Holder 1003268 - Primary title: d_kannes has lost the title: d_kannes
+243 - Title given to 1003268 - Primary title: k_konadma
+243 - vassal: c_senuti - Setting to vassal of d_esoputi in Validate Realm
+243 - Lost vassal: c_senuti
+260 - Holder 1004143 - Primary title: d_kannes has lost the title: d_kannes
+260 - Title given to 1004143 - Primary title: k_konadma

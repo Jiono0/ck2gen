@@ -1,0 +1,45 @@
+200 - Title given to 1000856
+200 - vassal: c_keniong - Given to 1000860 via AddCharacterForTitle
+200 - sub vassal: c_keniong - Given to 1000860 via AddCharacterForTitle
+200 - vassal: c_keniong - Holder 1000860 - Primary title: c_keniong has lost the title: c_keniong
+200 - sub vassal: c_keniong - Holder 1000860 - Primary title: c_keniong has lost the title: c_keniong
+200 - vassal: c_keniong - Title given to 1000860
+200 - sub vassal: c_keniong - Title given to 1000860
+200 - vassal: c_dimed - Holder 1000856 - Primary title: c_dimed has lost the title: c_dimed
+200 - sub vassal: c_dimed - Holder 1000856 - Primary title: c_dimed has lost the title: c_dimed
+200 - vassal: c_dimed - Title given to 1000856 - Primary title: d_nadounu
+200 - sub vassal: c_dimed - Title given to 1000856 - Primary title: d_nadounu
+200 - Holder (1000856) has gained c_dimed
+200 - vassal: c_edomar - Holder 1000856 - Primary title: c_edomar has lost the title: c_edomar
+200 - sub vassal: c_edomar - Holder 1000856 - Primary title: c_edomar has lost the title: c_edomar
+200 - vassal: c_edomar - Title given to 1000856 - Primary title: d_nadounu
+200 - sub vassal: c_edomar - Title given to 1000856 - Primary title: d_nadounu
+200 - Holder (1000856) has gained c_edomar
+200 - Holder 1001048 - Primary title: d_nadounu has lost the title: d_nadounu
+200 - Title given to 1001048 - Primary title: k_subed
+221 - Gained vassal: c_lened
+221 - Holder 1001767 - Primary title: d_nadounu has lost the title: d_nadounu
+221 - Title given to 1001767 - Primary title: k_subed
+221 - vassal: c_lened - Holder 1001767 - Primary title: c_lened has lost the title: c_lened
+221 - vassal: c_lened - Title given to 1001767 - Primary title: k_subed
+271 - Holder 1002838 - Primary title: d_nadounu has lost the title: d_nadounu
+271 - Title given to 1002838 - Primary title: k_subed
+271 - vassal: c_lened - Holder 1002838 - Primary title: c_lened has lost the title: c_lened
+271 - vassal: c_lened - Title given to 1002838 - Primary title: k_subed
+286 - Holder 1005779 - Primary title: d_nadounu has lost the title: d_nadounu
+286 - Title given to 1005779 - Primary title: k_subed
+286 - vassal: c_lened - Setting to vassal of d_keda in Validate Realm
+286 - Lost vassal: c_lened
+300 - vassal: c_dimed - Holder 1005779 - Primary title: c_dimed has lost the title: c_dimed
+300 - vassal: c_dimed - Title given to 1005779 - Primary title: k_subed
+300 - vassal: c_edomar - Holder 1005779 - Primary title: c_edomar has lost the title: c_edomar
+300 - vassal: c_edomar - Title given to 1005779 - Primary title: k_subed
+335 - Holder 1007472 - Primary title: d_nadounu has lost the title: d_nadounu
+335 - Title given to 1007472 - Primary title: k_subed
+335 - vassal: c_dimed - Setting to vassal of d_keda in Validate Realm
+335 - Lost vassal: c_dimed
+335 - vassal: c_edomar - Setting to vassal of d_keda in Validate Realm
+335 - Lost vassal: c_edomar
+336 - Destroyed due to flagged problem
+336 - Made independent
+336 - Title destroyed

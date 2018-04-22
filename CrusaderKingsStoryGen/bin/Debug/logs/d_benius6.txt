@@ -1,0 +1,32 @@
+200 - Title given to 1000832
+200 - vassal: c_sarahad - Given to 1000835 via AddCharacterForTitle
+200 - sub vassal: c_sarahad - Given to 1000835 via AddCharacterForTitle
+200 - vassal: c_sarahad - Holder 1000835 - Primary title: c_sarahad has lost the title: c_sarahad
+200 - sub vassal: c_sarahad - Holder 1000835 - Primary title: c_sarahad has lost the title: c_sarahad
+200 - vassal: c_sarahad - Title given to 1000835
+200 - sub vassal: c_sarahad - Title given to 1000835
+200 - vassal: c_damile - Holder 1000832 - Primary title: c_damile has lost the title: c_damile
+200 - sub vassal: c_damile - Holder 1000832 - Primary title: c_damile has lost the title: c_damile
+200 - vassal: c_damile - Title given to 1000832 - Primary title: d_benius
+200 - sub vassal: c_damile - Title given to 1000832 - Primary title: d_benius
+200 - Holder (1000832) has gained c_damile
+200 - vassal: c_sarahad - Holder 1000832 - Primary title: c_sarahad has lost the title: c_sarahad
+200 - sub vassal: c_sarahad - Holder 1000832 - Primary title: c_sarahad has lost the title: c_sarahad
+200 - vassal: c_sarahad - Title given to 1000832 - Primary title: d_benius
+200 - sub vassal: c_sarahad - Title given to 1000832 - Primary title: d_benius
+200 - Holder (1000832) has gained c_sarahad
+212 - Holder 1001766 - Primary title: d_benius has lost the title: d_benius
+212 - Title given to 1001766 - Primary title: k_leneye
+212 - vassal: c_sarahad - Holder 1001766 - Primary title: c_sarahad has lost the title: c_sarahad
+212 - vassal: c_sarahad - Title given to 1001766 - Primary title: k_leneye
+212 - vassal: c_damile - Holder 1001766 - Primary title: c_damile has lost the title: c_damile
+212 - vassal: c_damile - Title given to 1001766 - Primary title: k_leneye
+245 - Gained vassal: c_qosiusz
+245 - Holder 1002782 - Primary title: d_benius has lost the title: d_benius
+245 - Title given to 1002782 - Primary title: k_leneye
+245 - vassal: c_qosiusz - Holder 1002782 - Primary title: c_qosiusz has lost the title: c_qosiusz
+245 - vassal: c_qosiusz - Title given to 1002782 - Primary title: k_leneye
+245 - vassal: c_sarahad - Holder 1002782 - Primary title: c_sarahad has lost the title: c_sarahad
+245 - vassal: c_sarahad - Title given to 1002782 - Primary title: k_leneye
+245 - vassal: c_damile - Holder 1002782 - Primary title: c_damile has lost the title: c_damile
+245 - vassal: c_damile - Title given to 1002782 - Primary title: k_leneye

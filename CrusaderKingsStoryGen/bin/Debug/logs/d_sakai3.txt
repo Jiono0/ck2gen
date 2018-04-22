@@ -1,0 +1,108 @@
+200 - Title given to 1000955
+200 - vassal: c_wulemzi - Given to 1000958 via AddCharacterForTitle
+200 - sub vassal: c_wulemzi - Given to 1000958 via AddCharacterForTitle
+200 - vassal: c_wulemzi - Holder 1000958 - Primary title: c_wulemzi has lost the title: c_wulemzi
+200 - sub vassal: c_wulemzi - Holder 1000958 - Primary title: c_wulemzi has lost the title: c_wulemzi
+200 - vassal: c_wulemzi - Title given to 1000958
+200 - sub vassal: c_wulemzi - Title given to 1000958
+200 - vassal: c_sobakai - Given to 1000960 via AddCharacterForTitle
+200 - sub vassal: c_sobakai - Given to 1000960 via AddCharacterForTitle
+200 - vassal: c_sobakai - Holder 1000960 - Primary title: c_sobakai has lost the title: c_sobakai
+200 - sub vassal: c_sobakai - Holder 1000960 - Primary title: c_sobakai has lost the title: c_sobakai
+200 - vassal: c_sobakai - Title given to 1000960
+200 - sub vassal: c_sobakai - Title given to 1000960
+200 - vassal: c_qyadina - Holder 1000955 - Primary title: c_qyadina has lost the title: c_qyadina
+200 - sub vassal: c_qyadina - Holder 1000955 - Primary title: c_qyadina has lost the title: c_qyadina
+200 - vassal: c_qyadina - Title given to 1000955 - Primary title: d_sakai
+200 - sub vassal: c_qyadina - Title given to 1000955 - Primary title: d_sakai
+200 - Holder (1000955) has gained c_qyadina
+200 - vassal: c_wulemzi - Holder 1000955 - Primary title: c_wulemzi has lost the title: c_wulemzi
+200 - sub vassal: c_wulemzi - Holder 1000955 - Primary title: c_wulemzi has lost the title: c_wulemzi
+200 - vassal: c_wulemzi - Title given to 1000955 - Primary title: d_sakai
+200 - sub vassal: c_wulemzi - Title given to 1000955 - Primary title: d_sakai
+200 - Holder (1000955) has gained c_wulemzi
+200 - vassal: c_sobakai - Holder 1000955 - Primary title: c_sobakai has lost the title: c_sobakai
+200 - sub vassal: c_sobakai - Holder 1000955 - Primary title: c_sobakai has lost the title: c_sobakai
+200 - vassal: c_sobakai - Title given to 1000955 - Primary title: d_sakai
+200 - sub vassal: c_sobakai - Title given to 1000955 - Primary title: d_sakai
+200 - Holder (1000955) has gained c_sobakai
+217 - Holder 1000951 - Primary title: d_sakai has lost the title: d_sakai
+217 - Title given to 1000951 - Primary title: d_bonakai
+217 - vassal: c_sobakai - Holder 1000951 - Primary title: c_sobakai has lost the title: c_sobakai
+217 - vassal: c_sobakai - Title given to 1000951 - Primary title: d_bonakai
+217 - vassal: c_wulemzi - Holder 1000951 - Primary title: c_wulemzi has lost the title: c_wulemzi
+217 - vassal: c_wulemzi - Title given to 1000951 - Primary title: d_bonakai
+217 - vassal: c_qyadina - Holder 1000951 - Primary title: c_qyadina has lost the title: c_qyadina
+217 - vassal: c_qyadina - Title given to 1000951 - Primary title: d_bonakai
+218 - Holder 1002613 - Primary title: d_sakai has lost the title: c_bulaye
+218 - Holder 1002615 - Primary title: d_sakai has lost the title: c_konauna
+230 - vassal: c_wulemzi - Given to 1003332 in HandleTitles - Too many duke titles
+230 - vassal: c_wulemzi - Title given to 1003332
+230 - Title given to 1001052 - Primary title: k_komakai
+230 - vassal: c_qyadina - Setting to vassal of d_kavakai in Validate Realm
+230 - Lost vassal: c_qyadina
+230 - vassal: c_sobakai - Setting to vassal of d_kavakai in Validate Realm
+230 - Lost vassal: c_sobakai
+230 - Too many dukes, made direct title into vassal of k_komakai
+230 - Title given to 1003333
+242 - Holder 1003457 - Primary title: d_sakai has lost the title: d_sakai
+242 - Title given to 1003457
+249 - Holder 1004395 - Primary title: d_sakai has lost the title: d_sakai
+249 - Title given to 1004395
+311 - Holder 1006121 - Primary title: d_sakai has lost the title: d_sakai
+311 - Title given to 1006121 - Primary title: k_komakai
+325 - Holder 1006319 - Primary title: d_sakai has lost the title: d_sakai
+325 - Title given to 1006319 - Primary title: k_komakai
+346 - Gained vassal: c_qyadina
+346 - Gained vassal: c_sobakai
+346 - Gained vassal: c_kirai
+346 - Gained vassal: c_dirayda
+346 - Gained vassal: c_donalka
+346 - Holder 1008519 - Primary title: d_sakai has lost the title: d_sakai
+346 - Title given to 1008519 - Primary title: k_komakai
+346 - vassal: c_donalka - Holder 1008519 - Primary title: c_donalka has lost the title: c_donalka
+346 - vassal: c_donalka - Title given to 1008519 - Primary title: k_komakai
+346 - vassal: c_dirayda - Holder 1008519 - Primary title: c_dirayda has lost the title: c_dirayda
+346 - vassal: c_dirayda - Title given to 1008519 - Primary title: k_komakai
+346 - vassal: c_kirai - Holder 1008519 - Primary title: c_kirai has lost the title: c_kirai
+346 - vassal: c_kirai - Title given to 1008519 - Primary title: k_komakai
+346 - vassal: c_sobakai - Holder 1008519 - Primary title: c_sobakai has lost the title: c_sobakai
+346 - vassal: c_sobakai - Title given to 1008519 - Primary title: k_komakai
+346 - vassal: c_qyadina - Holder 1008519 - Primary title: c_qyadina has lost the title: c_qyadina
+346 - vassal: c_qyadina - Title given to 1008519 - Primary title: k_komakai
+362 - Holder 1009556 - Primary title: d_sakai has lost the title: d_sakai
+362 - Title given to 1009556 - Primary title: k_komakai
+362 - vassal: c_qyadina - Holder 1009556 - Primary title: c_qyadina has lost the title: c_qyadina
+362 - vassal: c_qyadina - Title given to 1009556 - Primary title: k_komakai
+362 - vassal: c_sobakai - Holder 1009556 - Primary title: c_sobakai has lost the title: c_sobakai
+362 - vassal: c_sobakai - Title given to 1009556 - Primary title: k_komakai
+362 - vassal: c_kirai - Holder 1009556 - Primary title: c_kirai has lost the title: c_kirai
+362 - vassal: c_kirai - Title given to 1009556 - Primary title: k_komakai
+362 - vassal: c_dirayda - Holder 1009556 - Primary title: c_dirayda has lost the title: c_dirayda
+362 - vassal: c_dirayda - Title given to 1009556 - Primary title: k_komakai
+362 - vassal: c_donalka - Holder 1009556 - Primary title: c_donalka has lost the title: c_donalka
+362 - vassal: c_donalka - Title given to 1009556 - Primary title: k_komakai
+383 - Holder 1010678 - Primary title: d_sakai has lost the title: d_sakai
+383 - Title given to 1010678 - Primary title: k_komakai
+383 - vassal: c_donalka - Holder 1010678 - Primary title: c_donalka has lost the title: c_donalka
+383 - vassal: c_donalka - Title given to 1010678 - Primary title: k_komakai
+383 - vassal: c_dirayda - Holder 1010678 - Primary title: c_dirayda has lost the title: c_dirayda
+383 - vassal: c_dirayda - Title given to 1010678 - Primary title: k_komakai
+383 - vassal: c_kirai - Holder 1010678 - Primary title: c_kirai has lost the title: c_kirai
+383 - vassal: c_kirai - Title given to 1010678 - Primary title: k_komakai
+383 - vassal: c_sobakai - Holder 1010678 - Primary title: c_sobakai has lost the title: c_sobakai
+383 - vassal: c_sobakai - Title given to 1010678 - Primary title: k_komakai
+383 - vassal: c_qyadina - Holder 1010678 - Primary title: c_qyadina has lost the title: c_qyadina
+383 - vassal: c_qyadina - Title given to 1010678 - Primary title: k_komakai
+386 - Holder 1011261 - Primary title: d_sakai has lost the title: d_sakai
+386 - Title given to 1011261 - Primary title: k_komakai
+386 - vassal: c_donalka - Holder 1011261 - Primary title: c_donalka has lost the title: c_donalka
+386 - vassal: c_donalka - Title given to 1011261 - Primary title: k_komakai
+386 - vassal: c_dirayda - Holder 1011261 - Primary title: c_dirayda has lost the title: c_dirayda
+386 - vassal: c_dirayda - Title given to 1011261 - Primary title: k_komakai
+386 - vassal: c_kirai - Holder 1011261 - Primary title: c_kirai has lost the title: c_kirai
+386 - vassal: c_kirai - Title given to 1011261 - Primary title: k_komakai
+386 - vassal: c_sobakai - Holder 1011261 - Primary title: c_sobakai has lost the title: c_sobakai
+386 - vassal: c_sobakai - Title given to 1011261 - Primary title: k_komakai
+386 - vassal: c_qyadina - Holder 1011261 - Primary title: c_qyadina has lost the title: c_qyadina
+386 - vassal: c_qyadina - Title given to 1011261 - Primary title: k_komakai

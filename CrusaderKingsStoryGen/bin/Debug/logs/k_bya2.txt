@@ -1,0 +1,54 @@
+200 - Title given to 1001053
+200 - vassal: d_asomila - Holder 1001053 - Primary title: d_asomila has lost the title: d_asomila
+200 - sub vassal: d_asomila - Holder 1001053 - Primary title: d_asomila has lost the title: d_asomila
+200 - vassal: d_asomila - Title given to 1001053 - Primary title: k_bya
+200 - sub vassal: d_asomila - Title given to 1001053 - Primary title: k_bya
+200 - Holder (1001053) has gained d_asomila
+200 - Holder (1001053) has gained c_bejda
+220 - vassal: d_kumay - Holder 1001351 - Primary title: d_kumay has lost the title: d_kumay
+220 - sub vassal: d_kumay - Holder 1001351 - Primary title: d_kumay has lost the title: d_kumay
+220 - vassal: d_kumay - Title given to 1001351
+220 - sub vassal: d_kumay - Title given to 1001351
+220 - sub vassal: c_edagidar - Holder 1001351 - Primary title: c_edagidar has lost the title: c_edagidar
+220 - sub vassal: c_edagidar - Title given to 1001351 - Primary title: d_kumay
+220 - vassal: d_kumay - Holder (1001351) has gained c_edagidar
+220 - sub vassal: d_kumay - Holder (1001351) has gained c_edagidar
+220 - sub vassal: c_ajakudo - Holder 1001351 - Primary title: c_ajakudo has lost the title: c_ajakudo
+220 - sub vassal: c_ajakudo - Title given to 1001351 - Primary title: d_kumay
+220 - vassal: d_kumay - Holder (1001351) has gained c_ajakudo
+220 - sub vassal: d_kumay - Holder (1001351) has gained c_ajakudo
+220 - sub vassal: c_ragoda - Holder 1001351 - Primary title: c_ragoda has lost the title: c_ragoda
+220 - sub vassal: c_ragoda - Title given to 1001351 - Primary title: d_kumay
+220 - vassal: d_kumay - Holder (1001351) has gained c_ragoda
+220 - sub vassal: d_kumay - Holder (1001351) has gained c_ragoda
+220 - sub vassal: c_tumyka - Holder 1001351 - Primary title: c_tumyka has lost the title: c_tumyka
+220 - sub vassal: c_tumyka - Title given to 1001351 - Primary title: d_kumay
+220 - vassal: d_kumay - Holder (1001351) has gained c_tumyka
+220 - sub vassal: d_kumay - Holder (1001351) has gained c_tumyka
+221 - vassal: d_korava - Holder 1001351 - Primary title: d_korava has lost the title: d_korava
+221 - sub vassal: d_korava - Holder 1001351 - Primary title: d_korava has lost the title: d_korava
+221 - vassal: d_korava - Title given to 1001351 - Primary title: d_kumay
+221 - sub vassal: d_korava - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: d_kumay - Holder (1001351) has gained d_korava
+221 - sub vassal: d_kumay - Holder (1001351) has gained d_korava
+221 - sub vassal: c_wakudo - Holder 1001351 - Primary title: c_wakudo has lost the title: c_wakudo
+221 - sub vassal: c_wakudo - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: d_kumay - Holder (1001351) has gained c_wakudo
+221 - sub vassal: d_kumay - Holder (1001351) has gained c_wakudo
+221 - sub vassal: c_bakudo - Holder 1001351 - Primary title: c_bakudo has lost the title: c_bakudo
+221 - sub vassal: c_bakudo - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: d_kumay - Holder (1001351) has gained c_bakudo
+221 - sub vassal: d_kumay - Holder (1001351) has gained c_bakudo
+221 - sub vassal: c_kearidar - Holder 1001351 - Primary title: c_kearidar has lost the title: c_kearidar
+221 - sub vassal: c_kearidar - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: d_kumay - Holder (1001351) has gained c_kearidar
+221 - sub vassal: d_kumay - Holder (1001351) has gained c_kearidar
+221 - sub vassal: c_qani - Holder 1001351 - Primary title: c_qani has lost the title: c_qani
+221 - sub vassal: c_qani - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: d_kumay - Holder (1001351) has gained c_qani
+221 - sub vassal: d_kumay - Holder (1001351) has gained c_qani
+222 - vassal: d_korava - Holder 1002827 - Primary title: d_korava has lost the title: c_ragoda
+222 - sub vassal: d_korava - Holder 1002827 - Primary title: d_korava has lost the title: c_ragoda
+222 - sub vassal: c_ragoda - Title given to 1002827
+222 - vassal: d_korava - Holder 1002828 - Primary title: d_korava has lost the title: c_ajakudo
+222 - sub vassal: d_korava - Holder 1002828 - Pr

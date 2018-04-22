@@ -1,0 +1,70 @@
+200 - Title given to 1000396
+200 - vassal: c_deja - Holder 1000396 - Primary title: c_deja has lost the title: c_deja
+200 - sub vassal: c_deja - Holder 1000396 - Primary title: c_deja has lost the title: c_deja
+200 - vassal: c_deja - Title given to 1000396 - Primary title: d_kand
+200 - sub vassal: c_deja - Title given to 1000396 - Primary title: d_kand
+200 - Holder (1000396) has gained c_deja
+200 - vassal: c_sajib - Holder 1000396 - Primary title: c_sajib has lost the title: c_sajib
+200 - sub vassal: c_sajib - Holder 1000396 - Primary title: c_sajib has lost the title: c_sajib
+200 - vassal: c_sajib - Title given to 1000396 - Primary title: d_kand
+200 - sub vassal: c_sajib - Title given to 1000396 - Primary title: d_kand
+200 - Holder (1000396) has gained c_sajib
+200 - vassal: c_apeteja - Holder 1000396 - Primary title: c_apeteja has lost the title: c_apeteja
+200 - sub vassal: c_apeteja - Holder 1000396 - Primary title: c_apeteja has lost the title: c_apeteja
+200 - vassal: c_apeteja - Title given to 1000396 - Primary title: d_kand
+200 - sub vassal: c_apeteja - Title given to 1000396 - Primary title: d_kand
+200 - Holder (1000396) has gained c_apeteja
+215 - Holder 1000415 - Primary title: d_kand has lost the title: d_kand
+215 - Title given to 1000415 - Primary title: d_ryia
+215 - vassal: c_apeteja - Holder 1000415 - Primary title: c_apeteja has lost the title: c_apeteja
+215 - vassal: c_apeteja - Title given to 1000415 - Primary title: d_ryia
+215 - vassal: c_sajib - Holder 1000415 - Primary title: c_sajib has lost the title: c_sajib
+215 - vassal: c_sajib - Title given to 1000415 - Primary title: d_ryia
+215 - vassal: c_deja - Holder 1000415 - Primary title: c_deja has lost the title: c_deja
+215 - vassal: c_deja - Title given to 1000415 - Primary title: d_ryia
+219 - Holder (1000415) has gained k_qand
+220 - vassal: c_sajib - Given to 1002717 in HandleTitles - Too many duke titles
+220 - vassal: c_sajib - Title given to 1002717
+220 - Title given to 1002717 - Primary title: c_sajib
+220 - vassal: c_sajib - Holder (1002717) has gained d_kand
+220 - vassal: c_deja - Setting to vassal of k_qand in Validate Realm
+220 - Lost vassal: c_deja
+220 - vassal: c_apeteja - Setting to vassal of k_qand in Validate Realm
+220 - Lost vassal: c_apeteja
+220 - Too many dukes, given to dejure: k_qand
+250 - Holder 1002654 - Primary title: d_kand has lost the title: d_kand
+250 - Title given to 1002654 - Primary title: k_qand
+250 - vassal: c_sajib - Holder 1002654 - Primary title: c_sajib has lost the title: c_sajib
+250 - vassal: c_sajib - Title given to 1002654 - Primary title: k_qand
+250 - vassal: c_sajib - Given to 1004478 in HandleTitles - Too many duke titles
+250 - vassal: c_sajib - Title given to 1004478
+250 - Title given to 1004478 - Primary title: c_sajib
+250 - vassal: c_sajib - Holder (1004478) has gained d_kand
+250 - Too many dukes, given to dejure: k_qand
+292 - Holder 1004769 - Primary title: d_kand has lost the title: d_kand
+292 - Title given to 1004769
+292 - vassal: c_sajib - Holder 1004769 - Primary title: c_sajib has lost the title: c_sajib
+292 - vassal: c_sajib - Title given to 1004769 - Primary title: d_kand
+292 - Holder (1004769) has gained c_sajib
+300 - Holder (1004769) has gained d_tetahdi
+300 - Holder (1004769) has gained c_qolama
+300 - Holder (1004769) has gained c_riuhay
+300 - Holder (1004769) has gained c_rajay
+300 - Holder (1004769) has gained c_kolida
+300 - Holder (1004769) has gained c_emikael
+307 - Title given to 1006709
+307 - vassal: c_sajib - Setting to vassal of d_tetahdi in Validate Realm
+307 - Lost vassal: c_sajib
+307 - Holder (1006709) has gained c_sajib
+307 - Gained vassal: c_sajib
+307 - Holder (1006709) has gained d_tetahdi
+307 - Holder (1006709) has gained c_qolama
+307 - Holder (1006709) has gained c_riuhay
+307 - Holder (1006709) has gained c_kolida
+307 - Holder (1006709) has gained c_emikael
+314 - vassal: c_sajib - Set liege on title creation d_loro
+314 - Lost vassal: c_sajib
+314 - Holder (1006709) has gained c_rajay
+315 - Destroyed due to flagged problem
+315 - Made independent
+315 - Title destroyed

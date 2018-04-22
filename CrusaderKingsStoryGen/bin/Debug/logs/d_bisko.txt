@@ -1,0 +1,83 @@
+200 - Title given to 1000449
+200 - vassal: c_takiel - Holder 1000449 - Primary title: c_takiel has lost the title: c_takiel
+200 - sub vassal: c_takiel - Holder 1000449 - Primary title: c_takiel has lost the title: c_takiel
+200 - vassal: c_takiel - Title given to 1000449 - Primary title: d_bisko
+200 - sub vassal: c_takiel - Title given to 1000449 - Primary title: d_bisko
+200 - Holder (1000449) has gained c_takiel
+200 - vassal: c_egnaavo - Holder 1000449 - Primary title: c_egnaavo has lost the title: c_egnaavo
+200 - sub vassal: c_egnaavo - Holder 1000449 - Primary title: c_egnaavo has lost the title: c_egnaavo
+200 - vassal: c_egnaavo - Title given to 1000449 - Primary title: d_bisko
+200 - sub vassal: c_egnaavo - Title given to 1000449 - Primary title: d_bisko
+200 - Holder (1000449) has gained c_egnaavo
+200 - Holder 1001038 - Primary title: d_bisko has lost the title: d_bisko
+200 - Title given to 1001038 - Primary title: k_wachi
+200 - vassal: c_takiel - Holder 1001038 - Primary title: c_takiel has lost the title: c_takiel
+200 - vassal: c_takiel - Title given to 1001038 - Primary title: k_wachi
+200 - vassal: c_egnaavo - Made vassal of neighbour (d_keodat) due to being a seperate island
+200 - Lost vassal: c_egnaavo
+200 - vassal: c_takiel - Made vassal of neighbour (k_tenelge) due to being a seperate island
+200 - vassal: c_takiel - Given to neighbour holder of k_tenelge
+201 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+201 - vassal: c_takiel - Given to neighbour holder of k_witimon
+202 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+202 - vassal: c_takiel - Given to neighbour holder of k_witimon
+203 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+203 - vassal: c_takiel - Given to neighbour holder of k_witimon
+204 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+204 - vassal: c_takiel - Given to neighbour holder of k_witimon
+205 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+205 - vassal: c_takiel - Given to neighbour holder of k_witimon
+206 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+206 - vassal: c_takiel - Given to neighbour holder of k_witimon
+207 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+207 - vassal: c_takiel - Given to neighbour holder of k_witimon
+208 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+208 - vassal: c_takiel - Given to neighbour holder of k_witimon
+209 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+209 - vassal: c_takiel - Given to neighbour holder of k_witimon
+210 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+210 - vassal: c_takiel - Given to neighbour holder of k_witimon
+211 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+211 - vassal: c_takiel - Given to neighbour holder of k_witimon
+212 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+212 - vassal: c_takiel - Given to neighbour holder of k_witimon
+212 - Captured byd_keodat in minor war
+212 - Made independent
+212 - Given to 1001038 in minor war along with lower
+212 - Title given to 1001381 - Primary title: d_keodat
+213 - vassal: c_takiel - Assigned in handle titles: k_wachi
+213 - Lost vassal: c_takiel
+214 - Destroyed due to flagged problem
+214 - Title destroyed
+345 - Given to 1009111 in TestCreateEmpire
+345 - Title given to 1009111 - Primary title: d_keodat
+345 - Made independent for title creation d_bisko for d_keodat
+345 - Gained vassal: c_simon
+345 - Gained vassal: c_egnaavo
+345 - Gained vassal: c_takiel
+348 - Holder 1009150 - Primary title: d_bisko has lost the title: d_bisko
+348 - Title given to 1009150 - Primary title: d_keodat
+357 - vassal: c_simon - Holder 1009150 - Primary title: c_simon has lost the title: c_simon
+357 - vassal: c_simon - Title given to 1009150 - Primary title: d_keodat
+357 - vassal: c_egnaavo - Holder 1009150 - Primary title: c_egnaavo has lost the title: c_egnaavo
+357 - vassal: c_egnaavo - Title given to 1009150 - Primary title: d_keodat
+357 - vassal: c_takiel - Holder 1009150 - Primary title: c_takiel has lost the title: c_takiel
+357 - vassal: c_takiel - Title given to 1009150 - Primary title: d_keodat
+381 - Holder 1011835 - Primary title: d_bisko has lost the title: d_bisko
+381 - Title given to 1011835
+381 - Holder (1011835) has gained d_keodat
+381 - vassal: c_takiel - Holder 1011835 - Primary title: c_takiel has lost the title: c_takiel
+381 - sub vassal: c_takiel - Holder 1011835 - Primary title: c_takiel has lost the title: c_takiel
+381 - vassal: c_takiel - Title given to 1011835 - Primary title: d_bisko
+381 - sub vassal: c_takiel - Title given to 1011835 - Primary title: d_bisko
+381 - Holder (1011835) has gained c_takiel
+381 - vassal: c_egnaavo - Holder 1011835 - Primary title: c_egnaavo has lost the title: c_egnaavo
+381 - sub vassal: c_egnaavo - Holder 1011835 - Primary title: c_egnaavo has lost the title: c_egnaavo
+381 - vassal: c_egnaavo - Title given to 1011835 - Primary title: d_bisko
+381 - sub vassal: c_egnaavo - Title given to 1011835 - Primary title: d_bisko
+381 - Holder (1011835) has gained c_egnaavo
+381 - vassal: c_simon - Holder 1011835 - Primary title: c_simon has lost the title: c_simon
+381 - sub vassal: c_simon - Holder 1011835 - Primary title: c_simon has lost the title: c_simon
+381 - vassal: c_simon - Title given to 1011835 - Primary title: d_bisko
+381 - sub vassal: c_simon - Title given to 1011835 - Primary title: d_bisko
+381 - Holder (1011835) has gained c_simon

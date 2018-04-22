@@ -1,0 +1,131 @@
+200 - Title given to 1000240
+200 - vassal: c_qairasz - Given to 1000243 via AddCharacterForTitle
+200 - sub vassal: c_qairasz - Given to 1000243 via AddCharacterForTitle
+200 - vassal: c_qairasz - Holder 1000243 - Primary title: c_qairasz has lost the title: c_qairasz
+200 - sub vassal: c_qairasz - Holder 1000243 - Primary title: c_qairasz has lost the title: c_qairasz
+200 - vassal: c_qairasz - Title given to 1000243
+200 - sub vassal: c_qairasz - Title given to 1000243
+200 - vassal: c_rapolas - Given to 1000245 via AddCharacterForTitle
+200 - sub vassal: c_rapolas - Given to 1000245 via AddCharacterForTitle
+200 - vassal: c_rapolas - Holder 1000245 - Primary title: c_rapolas has lost the title: c_rapolas
+200 - sub vassal: c_rapolas - Holder 1000245 - Primary title: c_rapolas has lost the title: c_rapolas
+200 - vassal: c_rapolas - Title given to 1000245
+200 - sub vassal: c_rapolas - Title given to 1000245
+200 - vassal: c_baresse - Holder 1000235 - Primary title: c_baresse has lost the title: c_tibasz
+200 - sub vassal: c_baresse - Holder 1000235 - Primary title: c_baresse has lost the title: c_tibasz
+200 - sub vassal: c_tibasz - Title given to 1000235 - Primary title: d_detalum
+200 - vassal: c_bilaise - Holder 1000240 - Primary title: c_bilaise has lost the title: c_bilaise
+200 - sub vassal: c_bilaise - Holder 1000240 - Primary title: c_bilaise has lost the title: c_bilaise
+200 - vassal: c_bilaise - Title given to 1000240 - Primary title: d_bamoey
+200 - sub vassal: c_bilaise - Title given to 1000240 - Primary title: d_bamoey
+200 - Holder (1000240) has gained c_bilaise
+200 - vassal: c_qairasz - Holder 1000240 - Primary title: c_qairasz has lost the title: c_qairasz
+200 - sub vassal: c_qairasz - Holder 1000240 - Primary title: c_qairasz has lost the title: c_qairasz
+200 - vassal: c_qairasz - Title given to 1000240 - Primary title: d_bamoey
+200 - sub vassal: c_qairasz - Title given to 1000240 - Primary title: d_bamoey
+200 - Holder (1000240) has gained c_qairasz
+200 - vassal: c_rapolas - Holder 1000240 - Primary title: c_rapolas has lost the title: c_rapolas
+200 - sub vassal: c_rapolas - Holder 1000240 - Primary title: c_rapolas has lost the title: c_rapolas
+200 - vassal: c_rapolas - Title given to 1000240 - Primary title: d_bamoey
+200 - sub vassal: c_rapolas - Title given to 1000240 - Primary title: d_bamoey
+200 - Holder (1000240) has gained c_rapolas
+200 - vassal: c_baresse - Holder 1000240 - Primary title: c_baresse has lost the title: c_baresse
+200 - sub vassal: c_baresse - Holder 1000240 - Primary title: c_baresse has lost the title: c_baresse
+200 - vassal: c_baresse - Title given to 1000240 - Primary title: d_bamoey
+200 - sub vassal: c_baresse - Title given to 1000240 - Primary title: d_bamoey
+200 - Holder (1000240) has gained c_baresse
+201 - Holder (1000240) has gained d_rapolas
+201 - Holder (1000240) has gained c_kamesse
+201 - Holder (1000240) has gained c_evapimon
+201 - Holder (1000240) has gained c_karalum
+202 - vassal: c_qairasz - Title given to 1001573
+202 - vassal: c_bilaise - Title given to 1001574
+214 - Title given to 1001179
+214 - vassal: c_baresse - Setting to vassal of d_rapolas in Validate Realm
+214 - Lost vassal: c_baresse
+214 - vassal: c_rapolas - Setting to vassal of d_rapolas in Validate Realm
+214 - Lost vassal: c_rapolas
+214 - Holder (1001179) has gained c_baresse
+214 - Gained vassal: c_baresse
+214 - Holder (1001179) has gained c_rapolas
+214 - Gained vassal: c_rapolas
+214 - Holder (1001179) has gained d_rapolas
+214 - Holder (1001179) has gained c_kamesse
+214 - Holder (1001179) has gained c_evapimon
+214 - Holder (1001179) has gained c_karalum
+220 - vassal: c_qairasz - Given to 1002711 in HandleTitles - Too many duke titles
+220 - vassal: c_qairasz - Holder 1002711 - Primary title: c_qairasz has lost the title: c_qairasz
+220 - vassal: c_qairasz - Title given to 1002711
+220 - Title given to 1002711 - Primary title: c_qairasz
+220 - vassal: c_qairasz - Holder (1002711) has gained d_bamoey
+220 - vassal: c_rapolas - Setting to vassal of k_evapesse in Validate Realm
+220 - Lost vassal: c_rapolas
+220 - vassal: c_baresse - Setting to vassal of k_evapesse in Validate Realm
+220 - Lost vassal: c_baresse
+220 - Too many dukes, given to dejure: k_evapesse
+224 - Holder 1001179 - Primary title: d_bamoey has lost the title: d_bamoey
+224 - Title given to 1001179 - Primary title: k_evapesse
+224 - vassal: c_qairasz - Holder 1001179 - Primary title: c_qairasz has lost the title: c_qairasz
+224 - vassal: c_qairasz - Title given to 1001179 - Primary title: k_evapesse
+224 - vassal: c_qairasz - Given to 1002955 in HandleTitles - Too many duke titles
+224 - vassal: c_qairasz - Title given to 1002955
+224 - Title given to 1002955 - Primary title: c_qairasz
+224 - vassal: c_qairasz - Holder (1002955) has gained d_bamoey
+224 - Too many dukes, given to dejure: k_evapesse
+226 - Holder 1003044 - Primary title: d_bamoey has lost the title: d_bamoey
+226 - Title given to 1003044
+226 - vassal: c_qairasz - Holder 1003044 - Primary title: c_qairasz has lost the title: c_qairasz
+226 - vassal: c_qairasz - Title given to 1003044 - Primary title: d_bamoey
+226 - Holder (1003044) has gained c_qairasz
+228 - Holder 1001179 - Primary title: d_bamoey has lost the title: d_bamoey
+228 - Title given to 1001179 - Primary title: k_evapesse
+228 - vassal: c_qairasz - Holder 1001179 - Primary title: c_qairasz has lost the title: c_qairasz
+228 - vassal: c_qairasz - Title given to 1001179 - Primary title: k_evapesse
+253 - vassal: c_qairasz - Given to 1004630 in HandleTitles - Too many duke titles
+253 - vassal: c_qairasz - Title given to 1004630
+253 - Title given to 1004630 - Primary title: c_qairasz
+253 - vassal: c_qairasz - Holder (1004630) has gained d_bamoey
+253 - Too many dukes, given to dejure: k_evapesse
+256 - Holder 1001179 - Primary title: d_bamoey has lost the title: d_bamoey
+256 - Title given to 1001179 - Primary title: k_evapesse
+256 - vassal: c_qairasz - Holder 1001179 - Primary title: c_qairasz has lost the title: c_qairasz
+256 - vassal: c_qairasz - Title given to 1001179 - Primary title: k_evapesse
+256 - vassal: c_qairasz - Given to 1004783 in HandleTitles - Too many duke titles
+256 - vassal: c_qairasz - Title given to 1004783
+256 - Title given to 1004783 - Primary title: c_qairasz
+256 - vassal: c_qairasz - Holder (1004783) has gained d_bamoey
+256 - Too many dukes, given to dejure: k_evapesse
+260 - Holder 1004975 - Primary title: d_bamoey has lost the title: d_bamoey
+260 - Title given to 1004975
+260 - vassal: c_qairasz - Holder 1004975 - Primary title: c_qairasz has lost the title: c_qairasz
+260 - vassal: c_qairasz - Title given to 1004975 - Primary title: d_bamoey
+260 - Holder (1004975) has gained c_qairasz
+264 - Holder 1003247 - Primary title: d_bamoey has lost the title: d_bamoey
+264 - Title given to 1003247 - Primary title: d_wibild
+264 - vassal: c_qairasz - Holder 1003247 - Primary title: c_qairasz has lost the title: c_qairasz
+264 - vassal: c_qairasz - Title given to 1003247 - Primary title: d_wibild
+282 - Holder 1005188 - Primary title: d_bamoey has lost the title: d_bamoey
+282 - Title given to 1005188
+282 - vassal: c_qairasz - Setting to vassal of d_wibild in Validate Realm
+282 - Lost vassal: c_qairasz
+282 - Holder (1005188) has gained d_wibild
+282 - Holder (1005188) has gained c_qairasz
+282 - Holder (1005188) has gained c_riatya
+282 - Holder (1005188) has gained c_kapalum
+282 - Holder (1005188) has gained c_raladg
+283 - vassal: c_bilaise - Holder 1005188 - Primary title: c_bilaise has lost the title: c_bilaise
+283 - vassal: c_bilaise - Title given to 1005188 - Primary title: d_bamoey
+283 - Holder (1005188) has gained c_bilaise
+295 - Holder 1006538 - Primary title: d_bamoey has lost the title: d_bamoey
+295 - Title given to 1006538
+295 - vassal: c_bilaise - Setting to vassal of d_wibild in Validate Realm
+295 - Lost vassal: c_bilaise
+295 - Holder (1006538) has gained d_wibild
+295 - Holder (1006538) has gained c_qairasz
+295 - Holder (1006538) has gained c_riatya
+295 - Holder (1006538) has gained c_kapalum
+295 - Holder (1006538) has gained c_raladg
+295 - Holder (1006538) has gained c_bilaise
+296 - Destroyed due to flagged problem
+296 - Made independent
+296 - Title destroyed

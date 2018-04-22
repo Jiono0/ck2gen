@@ -1,0 +1,1162 @@
+200 - Title given to 1001056
+200 - vassal: d_qorora - Holder 1001056 - Primary title: d_qorora has lost the title: d_qorora
+200 - sub vassal: d_qorora - Holder 1001056 - Primary title: d_qorora has lost the title: d_qorora
+200 - vassal: d_qorora - Title given to 1001056 - Primary title: k_kadew
+200 - sub vassal: d_qorora - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained d_qorora
+200 - vassal: d_narega - Holder 1001056 - Primary title: d_narega has lost the title: d_narega
+200 - sub vassal: d_narega - Holder 1001056 - Primary title: d_narega has lost the title: d_narega
+200 - vassal: d_narega - Title given to 1001056 - Primary title: k_kadew
+200 - sub vassal: d_narega - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained d_narega
+200 - vassal: d_tutis - Holder 1001056 - Primary title: d_tutis has lost the title: d_tutis
+200 - sub vassal: d_tutis - Holder 1001056 - Primary title: d_tutis has lost the title: d_tutis
+200 - vassal: d_tutis - Title given to 1001056 - Primary title: k_kadew
+200 - sub vassal: d_tutis - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained d_tutis
+200 - vassal: d_esiire - Holder 1001056 - Primary title: d_esiire has lost the title: d_esiire
+200 - sub vassal: d_esiire - Holder 1001056 - Primary title: d_esiire has lost the title: d_esiire
+200 - vassal: d_esiire - Title given to 1001056 - Primary title: k_kadew
+200 - sub vassal: d_esiire - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained d_esiire
+200 - sub vassal: c_barenia - Holder 1001056 - Primary title: c_barenia has lost the title: c_barenia
+200 - sub vassal: c_barenia - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained c_barenia
+200 - vassal: d_qeyega - Holder 1001056 - Primary title: d_qeyega has lost the title: d_qeyega
+200 - sub vassal: d_qeyega - Holder 1001056 - Primary title: d_qeyega has lost the title: d_qeyega
+200 - vassal: d_qeyega - Title given to 1001056 - Primary title: k_kadew
+200 - sub vassal: d_qeyega - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained d_qeyega
+200 - sub vassal: c_quris - Holder 1001056 - Primary title: c_quris has lost the title: c_quris
+200 - sub vassal: c_quris - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained c_quris
+200 - sub vassal: c_rurora - Holder 1001056 - Primary title: c_rurora has lost the title: c_rurora
+200 - sub vassal: c_rurora - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained c_rurora
+200 - sub vassal: c_katurga - Holder 1001056 - Primary title: c_katurga has lost the title: c_katurga
+200 - sub vassal: c_katurga - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained c_katurga
+200 - sub vassal: c_denew - Holder 1001056 - Primary title: c_denew has lost the title: c_denew
+200 - sub vassal: c_denew - Title given to 1001056 - Primary title: k_kadew
+200 - Holder (1001056) has gained c_denew
+200 - sub vassal: c_aharael - Given to 1001418 in HandleTitles - Too many duke titles
+200 - sub vassal: c_aharael - Holder 1001418 - Primary title: c_aharael has lost the title: c_aharael
+200 - sub vassal: c_aharael - Title given to 1001418
+200 - Holder 1001418 - Primary title: k_kadew has lost the title: d_narega
+200 - vassal: d_narega - Title given to 1001418 - Primary title: c_aharael
+200 - sub vassal: d_narega - Title given to 1001418 - Primary title: c_aharael
+200 - sub vassal: c_aharael - Holder (1001418) has gained d_narega
+200 - vassal: d_narega - Too many dukes, given to dejure: k_kadew
+200 - sub vassal: d_narega - Too many dukes, given to dejure: k_kadew
+200 - sub vassal: c_barenia - Given to 1001419 in HandleTitles - Too many duke titles
+200 - Holder 1001419 - Primary title: k_kadew has lost the title: c_barenia
+200 - sub vassal: c_barenia - Title given to 1001419
+200 - Holder 1001419 - Primary title: k_kadew has lost the title: d_qorora
+200 - vassal: d_qorora - Title given to 1001419 - Primary title: c_barenia
+200 - sub vassal: d_qorora - Title given to 1001419 - Primary title: c_barenia
+200 - sub vassal: c_barenia - Holder (1001419) has gained d_qorora
+200 - vassal: d_qorora - Too many dukes, given to dejure: k_kadew
+200 - sub vassal: d_qorora - Too many dukes, given to dejure: k_kadew
+200 - vassal: d_esiire - Destroyed due to flagged problem
+200 - sub vassal: d_esiire - Destroyed due to flagged problem
+200 - vassal: d_esiire - Made independent
+200 - sub vassal: d_esiire - Made independent
+200 - Gained vassal: c_tarurga
+200 - vassal: c_tarurga - Made independent due to being a seperate island
+200 - sub vassal: c_tarurga - Made independent due to being a seperate island
+200 - vassal: c_tarurga - Made independent
+200 - sub vassal: c_tarurga - Made independent
+201 - Holder (1001056) has gained c_kavutlu
+201 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+202 - Holder (1001056) has gained c_kavutlu
+202 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+203 - Holder (1001056) has gained c_kavutlu
+203 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+204 - Holder (1001056) has gained c_kavutlu
+204 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+205 - Holder (1001056) has gained c_kavutlu
+205 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+206 - Holder (1001056) has gained c_kavutlu
+206 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+207 - Holder (1001056) has gained c_kavutlu
+207 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+208 - Holder (1001056) has gained c_kavutlu
+208 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+209 - Holder (1001056) has gained c_kavutlu
+209 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+210 - Holder (1001056) has gained c_kavutlu
+210 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+211 - Holder (1001056) has gained c_kavutlu
+211 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+212 - Holder (1001056) has gained c_kavutlu
+212 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+213 - Holder (1001056) has gained c_kavutlu
+213 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+214 - Holder (1001056) has gained c_kavutlu
+214 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+215 - Holder (1001056) has gained c_kavutlu
+215 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+216 - Holder (1001056) has gained c_kavutlu
+216 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+217 - Holder (1001056) has gained c_kavutlu
+217 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+218 - Holder (1001056) has gained c_kavutlu
+218 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+218 - Holder 1001563 - Primary title: k_kadew has lost the title: k_kadew
+218 - Title given to 1001563
+218 - vassal: d_qeyega - Holder 1001563 - Primary title: d_qeyega has lost the title: d_qeyega
+218 - sub vassal: d_qeyega - Holder 1001563 - Primary title: d_qeyega has lost the title: d_qeyega
+218 - vassal: d_qeyega - Title given to 1001563 - Primary title: k_kadew
+218 - sub vassal: d_qeyega - Title given to 1001563 - Primary title: k_kadew
+218 - Holder (1001563) has gained d_qeyega
+218 - sub vassal: c_denew - Setting to vassal of d_tutis in Validate Realm
+218 - vassal: d_qeyega - Lost vassal: c_denew
+218 - sub vassal: d_qeyega - Lost vassal: c_denew
+218 - sub vassal: c_katurga - Setting to vassal of d_tutis in Validate Realm
+218 - vassal: d_qeyega - Lost vassal: c_katurga
+218 - sub vassal: d_qeyega - Lost vassal: c_katurga
+218 - sub vassal: c_rurora - Setting to vassal of d_tutis in Validate Realm
+218 - vassal: d_qeyega - Lost vassal: c_rurora
+218 - sub vassal: d_qeyega - Lost vassal: c_rurora
+218 - sub vassal: c_quris - Setting to vassal of d_tutis in Validate Realm
+218 - vassal: d_qeyega - Lost vassal: c_quris
+218 - sub vassal: d_qeyega - Lost vassal: c_quris
+218 - vassal: d_tutis - Gained vassal: c_quris
+218 - sub vassal: d_tutis - Gained vassal: c_quris
+218 - vassal: d_tutis - Gained vassal: c_rurora
+218 - sub vassal: d_tutis - Gained vassal: c_rurora
+218 - vassal: d_tutis - Gained vassal: c_katurga
+218 - sub vassal: d_tutis - Gained vassal: c_katurga
+218 - vassal: d_tutis - Gained vassal: c_denew
+218 - sub vassal: d_tutis - Gained vassal: c_denew
+218 - vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: c_denew
+218 - sub vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: c_denew
+218 - sub vassal: c_denew - Title given to 1001563 - Primary title: k_kadew
+218 - Holder (1001563) has gained c_denew
+218 - sub vassal: c_denew - Setting to vassal of k_kadew in Validate Realm
+218 - vassal: d_tutis - Lost vassal: c_denew
+218 - sub vassal: d_tutis - Lost vassal: c_denew
+218 - Gained vassal: c_denew
+218 - vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: c_katurga
+218 - sub vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: c_katurga
+218 - sub vassal: c_katurga - Title given to 1001563 - Primary title: k_kadew
+218 - Holder (1001563) has gained c_katurga
+218 - sub vassal: c_katurga - Setting to vassal of k_kadew in Validate Realm
+218 - vassal: d_tutis - Lost vassal: c_katurga
+218 - sub vassal: d_tutis - Lost vassal: c_katurga
+218 - Gained vassal: c_katurga
+218 - vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: c_rurora
+218 - sub vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: c_rurora
+218 - sub vassal: c_rurora - Title given to 1001563 - Primary title: k_kadew
+218 - Holder (1001563) has gained c_rurora
+218 - sub vassal: c_rurora - Setting to vassal of k_kadew in Validate Realm
+218 - vassal: d_tutis - Lost vassal: c_rurora
+218 - sub vassal: d_tutis - Lost vassal: c_rurora
+218 - Gained vassal: c_rurora
+218 - vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: c_quris
+218 - sub vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: c_quris
+218 - sub vassal: c_quris - Title given to 1001563 - Primary title: k_kadew
+218 - Holder (1001563) has gained c_quris
+218 - sub vassal: c_quris - Setting to vassal of k_kadew in Validate Realm
+218 - vassal: d_tutis - Lost vassal: c_quris
+218 - sub vassal: d_tutis - Lost vassal: c_quris
+218 - Gained vassal: c_quris
+218 - vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: d_tutis
+218 - sub vassal: d_tutis - Holder 1001563 - Primary title: d_tutis has lost the title: d_tutis
+218 - vassal: d_tutis - Title given to 1001563 - Primary title: k_kadew
+218 - sub vassal: d_tutis - Title given to 1001563 - Primary title: k_kadew
+218 - Holder (1001563) has gained d_tutis
+219 - vassal: d_qeyega - Destroyed due to flagged problem
+219 - sub vassal: d_qeyega - Destroyed due to flagged problem
+219 - vassal: d_qeyega - Made independent
+219 - sub vassal: d_qeyega - Made independent
+219 - Holder (1001563) has gained c_kavutlu
+219 - Holder 1001050 - Primary title: k_kadew has lost the title: c_kavutlu
+222 - vassal: d_narega - Holder 1001812 - Primary title: d_narega has lost the title: d_narega
+222 - sub vassal: d_narega - Holder 1001812 - Primary title: d_narega has lost the title: d_narega
+222 - vassal: d_narega - Title given to 1001812
+222 - sub vassal: d_narega - Title given to 1001812
+222 - sub vassal: c_aharael - Holder 1001812 - Primary title: c_aharael has lost the title: c_aharael
+222 - sub vassal: c_aharael - Title given to 1001812 - Primary title: d_narega
+222 - vassal: d_narega - Holder (1001812) has gained c_aharael
+222 - sub vassal: d_narega - Holder (1001812) has gained c_aharael
+223 - vassal: d_benance - Holder 1001524 - Primary title: d_benance has lost the title: d_benance
+223 - sub vassal: d_benance - Holder 1001524 - Primary title: d_benance has lost the title: d_benance
+223 - vassal: d_benance - Title given to 1001524
+223 - sub vassal: d_benance - Title given to 1001524
+223 - sub vassal: c_aora - Holder 1001524 - Primary title: c_aora has lost the title: c_aora
+223 - sub vassal: c_aora - Title given to 1001524 - Primary title: d_benance
+223 - vassal: d_benance - Holder (1001524) has gained c_aora
+223 - sub vassal: d_benance - Holder (1001524) has gained c_aora
+223 - sub vassal: c_nibava - Holder 1001524 - Primary title: c_nibava has lost the title: c_nibava
+223 - sub vassal: c_nibava - Title given to 1001524 - Primary title: d_benance
+223 - vassal: d_benance - Holder (1001524) has gained c_nibava
+223 - sub vassal: d_benance - Holder (1001524) has gained c_nibava
+223 - sub vassal: c_edyka - Holder 1001524 - Primary title: c_edyka has lost the title: c_edyka
+223 - sub vassal: c_edyka - Title given to 1001524 - Primary title: d_benance
+223 - vassal: d_benance - Holder (1001524) has gained c_edyka
+223 - sub vassal: d_benance - Holder (1001524) has gained c_edyka
+228 - vassal: d_qorora - Holder 1001715 - Primary title: d_qorora has lost the title: d_qorora
+228 - sub vassal: d_qorora - Holder 1001715 - Primary title: d_qorora has lost the title: d_qorora
+228 - vassal: d_qorora - Title given to 1001715
+228 - sub vassal: d_qorora - Title given to 1001715
+228 - sub vassal: c_barenia - Holder 1001715 - Primary title: c_barenia has lost the title: c_barenia
+228 - sub vassal: c_barenia - Title given to 1001715 - Primary title: d_qorora
+228 - vassal: d_qorora - Holder (1001715) has gained c_barenia
+228 - sub vassal: d_qorora - Holder (1001715) has gained c_barenia
+230 - vassal: d_benance - Holder 1003159 - Primary title: d_benance has lost the title: d_benance
+230 - sub vassal: d_benance - Holder 1003159 - Primary title: d_benance has lost the title: d_benance
+230 - vassal: d_benance - Title given to 1003159
+230 - sub vassal: d_benance - Title given to 1003159
+230 - sub vassal: c_aora - Holder 1003159 - Primary title: c_aora has lost the title: c_aora
+230 - sub vassal: c_aora - Title given to 1003159 - Primary title: d_benance
+230 - vassal: d_benance - Holder (1003159) has gained c_aora
+230 - sub vassal: d_benance - Holder (1003159) has gained c_aora
+230 - sub vassal: c_nibava - Holder 1003159 - Primary title: c_nibava has lost the title: c_nibava
+230 - sub vassal: c_nibava - Title given to 1003159 - Primary title: d_benance
+230 - vassal: d_benance - Holder (1003159) has gained c_nibava
+230 - sub vassal: d_benance - Holder (1003159) has gained c_nibava
+230 - sub vassal: c_edyka - Holder 1003159 - Primary title: c_edyka has lost the title: c_edyka
+230 - sub vassal: c_edyka - Title given to 1003159 - Primary title: d_benance
+230 - vassal: d_benance - Holder (1003159) has gained c_edyka
+230 - sub vassal: d_benance - Holder (1003159) has gained c_edyka
+235 - Holder 1002758 - Primary title: k_kadew has lost the title: k_kadew
+235 - Title given to 1002758
+235 - vassal: d_tutis - Holder 1002758 - Primary title: d_tutis has lost the title: d_tutis
+235 - sub vassal: d_tutis - Holder 1002758 - Primary title: d_tutis has lost the title: d_tutis
+235 - vassal: d_tutis - Title given to 1002758 - Primary title: k_kadew
+235 - sub vassal: d_tutis - Title given to 1002758 - Primary title: k_kadew
+235 - Holder (1002758) has gained d_tutis
+235 - vassal: c_quris - Holder 1002758 - Primary title: c_quris has lost the title: c_quris
+235 - sub vassal: c_quris - Holder 1002758 - Primary title: c_quris has lost the title: c_quris
+235 - vassal: c_quris - Title given to 1002758 - Primary title: k_kadew
+235 - sub vassal: c_quris - Title given to 1002758 - Primary title: k_kadew
+235 - Holder (1002758) has gained c_quris
+235 - vassal: c_rurora - Holder 1002758 - Primary title: c_rurora has lost the title: c_rurora
+235 - sub vassal: c_rurora - Holder 1002758 - Primary title: c_rurora has lost the title: c_rurora
+235 - vassal: c_rurora - Title given to 1002758 - Primary title: k_kadew
+235 - sub vassal: c_rurora - Title given to 1002758 - Primary title: k_kadew
+235 - Holder (1002758) has gained c_rurora
+235 - vassal: c_katurga - Holder 1002758 - Primary title: c_katurga has lost the title: c_katurga
+235 - sub vassal: c_katurga - Holder 1002758 - Primary title: c_katurga has lost the title: c_katurga
+235 - vassal: c_katurga - Title given to 1002758 - Primary title: k_kadew
+235 - sub vassal: c_katurga - Title given to 1002758 - Primary title: k_kadew
+235 - Holder (1002758) has gained c_katurga
+235 - vassal: c_denew - Holder 1002758 - Primary title: c_denew has lost the title: c_denew
+235 - sub vassal: c_denew - Holder 1002758 - Primary title: c_denew has lost the title: c_denew
+235 - vassal: c_denew - Title given to 1002758 - Primary title: k_kadew
+235 - sub vassal: c_denew - Title given to 1002758 - Primary title: k_kadew
+235 - Holder (1002758) has gained c_denew
+251 - vassal: d_narega - Holder 1003271 - Primary title: d_narega has lost the title: d_narega
+251 - sub vassal: d_narega - Holder 1003271 - Primary title: d_narega has lost the title: d_narega
+251 - vassal: d_narega - Title given to 1003271
+251 - sub vassal: d_narega - Title given to 1003271
+251 - sub vassal: c_aharael - Holder 1003271 - Primary title: c_aharael has lost the title: c_aharael
+251 - sub vassal: c_aharael - Title given to 1003271 - Primary title: d_narega
+251 - vassal: d_narega - Holder (1003271) has gained c_aharael
+251 - sub vassal: d_narega - Holder (1003271) has gained c_aharael
+253 - vassal: d_atorurga - Holder 1002049 - Primary title: d_atorurga has lost the title: d_atorurga
+253 - sub vassal: d_atorurga - Holder 1002049 - Primary title: d_atorurga has lost the title: d_atorurga
+253 - vassal: d_atorurga - Title given to 1002049
+253 - sub vassal: d_atorurga - Title given to 1002049
+253 - sub vassal: c_baryas - Holder 1002049 - Primary title: c_baryas has lost the title: c_baryas
+253 - sub vassal: c_baryas - Title given to 1002049 - Primary title: d_atorurga
+253 - vassal: d_atorurga - Holder (1002049) has gained c_baryas
+253 - sub vassal: d_atorurga - Holder (1002049) has gained c_baryas
+253 - sub vassal: c_neyoro - Holder 1002049 - Primary title: c_neyoro has lost the title: c_neyoro
+253 - sub vassal: c_neyoro - Title given to 1002049 - Primary title: d_atorurga
+253 - vassal: d_atorurga - Holder (1002049) has gained c_neyoro
+253 - sub vassal: d_atorurga - Holder (1002049) has gained c_neyoro
+253 - sub vassal: c_ehaqosco - Holder 1002049 - Primary title: c_ehaqosco has lost the title: c_ehaqosco
+253 - sub vassal: c_ehaqosco - Title given to 1002049 - Primary title: d_atorurga
+253 - vassal: d_atorurga - Holder (1002049) has gained c_ehaqosco
+253 - sub vassal: d_atorurga - Holder (1002049) has gained c_ehaqosco
+253 - sub vassal: c_daryas - Holder 1002049 - Primary title: c_daryas has lost the title: c_daryas
+253 - sub vassal: c_daryas - Title given to 1002049 - Primary title: d_atorurga
+253 - vassal: d_atorurga - Holder (1002049) has gained c_daryas
+253 - sub vassal: d_atorurga - Holder (1002049) has gained c_daryas
+260 - vassal: d_atorurga - Holder 1005253 - Primary title: d_atorurga has lost the title: d_atorurga
+260 - sub vassal: d_atorurga - Holder 1005253 - Primary title: d_atorurga has lost the title: d_atorurga
+260 - vassal: d_atorurga - Title given to 1005253
+260 - sub vassal: d_atorurga - Title given to 1005253
+260 - sub vassal: c_daryas - Holder 1005253 - Primary title: c_daryas has lost the title: c_daryas
+260 - sub vassal: c_daryas - Title given to 1005253 - Primary title: d_atorurga
+260 - vassal: d_atorurga - Holder (1005253) has gained c_daryas
+260 - sub vassal: d_atorurga - Holder (1005253) has gained c_daryas
+260 - sub vassal: c_ehaqosco - Holder 1005253 - Primary title: c_ehaqosco has lost the title: c_ehaqosco
+260 - sub vassal: c_ehaqosco - Title given to 1005253 - Primary title: d_atorurga
+260 - vassal: d_atorurga - Holder (1005253) has gained c_ehaqosco
+260 - sub vassal: d_atorurga - Holder (1005253) has gained c_ehaqosco
+260 - sub vassal: c_neyoro - Holder 1005253 - Primary title: c_neyoro has lost the title: c_neyoro
+260 - sub vassal: c_neyoro - Title given to 1005253 - Primary title: d_atorurga
+260 - vassal: d_atorurga - Holder (1005253) has gained c_neyoro
+260 - sub vassal: d_atorurga - Holder (1005253) has gained c_neyoro
+260 - sub vassal: c_baryas - Holder 1005253 - Primary title: c_baryas has lost the title: c_baryas
+260 - sub vassal: c_baryas - Title given to 1005253 - Primary title: d_atorurga
+260 - vassal: d_atorurga - Holder (1005253) has gained c_baryas
+260 - sub vassal: d_atorurga - Holder (1005253) has gained c_baryas
+268 - vassal: d_qorora - Holder 1005763 - Primary title: d_qorora has lost the title: d_qorora
+268 - sub vassal: d_qorora - Holder 1005763 - Primary title: d_qorora has lost the title: d_qorora
+268 - vassal: d_qorora - Title given to 1005763
+268 - sub vassal: d_qorora - Title given to 1005763
+268 - sub vassal: c_barenia - Holder 1005763 - Primary title: c_barenia has lost the title: c_barenia
+268 - sub vassal: c_barenia - Title given to 1005763 - Primary title: d_qorora
+268 - vassal: d_qorora - Holder (1005763) has gained c_barenia
+268 - sub vassal: d_qorora - Holder (1005763) has gained c_barenia
+272 - vassal: d_qorora - Holder 1002758 - Primary title: d_qorora has lost the title: d_qorora
+272 - sub vassal: d_qorora - Holder 1002758 - Primary title: d_qorora has lost the title: d_qorora
+272 - vassal: d_qorora - Title given to 1002758 - Primary title: k_kadew
+272 - sub vassal: d_qorora - Title given to 1002758 - Primary title: k_kadew
+272 - Holder (1002758) has gained d_qorora
+272 - sub vassal: c_barenia - Holder 1002758 - Primary title: c_barenia has lost the title: c_barenia
+272 - sub vassal: c_barenia - Title given to 1002758 - Primary title: k_kadew
+272 - Holder (1002758) has gained c_barenia
+274 - vassal: d_benance - Holder 1005253 - Primary title: d_benance has lost the title: d_benance
+274 - sub vassal: d_benance - Holder 1005253 - Primary title: d_benance has lost the title: d_benance
+274 - vassal: d_benance - Title given to 1005253 - Primary title: d_atorurga
+274 - sub vassal: d_benance - Title given to 1005253 - Primary title: d_atorurga
+274 - vassal: d_atorurga - Holder (1005253) has gained d_benance
+274 - sub vassal: d_atorurga - Holder (1005253) has gained d_benance
+274 - sub vassal: c_aora - Holder 1005253 - Primary title: c_aora has lost the title: c_aora
+274 - sub vassal: c_aora - Title given to 1005253 - Primary title: d_atorurga
+274 - vassal: d_atorurga - Holder (1005253) has gained c_aora
+274 - sub vassal: d_atorurga - Holder (1005253) has gained c_aora
+274 - sub vassal: c_nibava - Holder 1005253 - Primary title: c_nibava has lost the title: c_nibava
+274 - sub vassal: c_nibava - Title given to 1005253 - Primary title: d_atorurga
+274 - vassal: d_atorurga - Holder (1005253) has gained c_nibava
+274 - sub vassal: d_atorurga - Holder (1005253) has gained c_nibava
+274 - sub vassal: c_edyka - Holder 1005253 - Primary title: c_edyka has lost the title: c_edyka
+274 - sub vassal: c_edyka - Title given to 1005253 - Primary title: d_atorurga
+274 - vassal: d_atorurga - Holder (1005253) has gained c_edyka
+274 - sub vassal: d_atorurga - Holder (1005253) has gained c_edyka
+274 - Holder 1004478 - Primary title: k_kadew has lost the title: k_kadew
+274 - Title given to 1004478
+274 - vassal: d_tutis - Holder 1004478 - Primary title: d_tutis has lost the title: d_tutis
+274 - sub vassal: d_tutis - Holder 1004478 - Primary title: d_tutis has lost the title: d_tutis
+274 - vassal: d_tutis - Title given to 1004478 - Primary title: k_kadew
+274 - sub vassal: d_tutis - Title given to 1004478 - Primary title: k_kadew
+274 - Holder (1004478) has gained d_tutis
+274 - vassal: c_quris - Setting to vassal of d_qorora in Validate Realm
+274 - sub vassal: c_quris - Setting to vassal of d_qorora in Validate Realm
+274 - Lost vassal: c_quris
+274 - vassal: c_rurora - Setting to vassal of d_qorora in Validate Realm
+274 - sub vassal: c_rurora - Setting to vassal of d_qorora in Validate Realm
+274 - Lost vassal: c_rurora
+274 - vassal: c_katurga - Setting to vassal of d_qorora in Validate Realm
+274 - sub vassal: c_katurga - Setting to vassal of d_qorora in Validate Realm
+274 - Lost vassal: c_katurga
+274 - vassal: c_denew - Setting to vassal of d_qorora in Validate Realm
+274 - sub vassal: c_denew - Setting to vassal of d_qorora in Validate Realm
+274 - Lost vassal: c_denew
+274 - vassal: d_qorora - Gained vassal: c_denew
+274 - sub vassal: d_qorora - Gained vassal: c_denew
+274 - vassal: d_qorora - Gained vassal: c_katurga
+274 - sub vassal: d_qorora - Gained vassal: c_katurga
+274 - vassal: d_qorora - Gained vassal: c_rurora
+274 - sub vassal: d_qorora - Gained vassal: c_rurora
+274 - vassal: d_qorora - Gained vassal: c_quris
+274 - sub vassal: d_qorora - Gained vassal: c_quris
+274 - vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: c_quris
+274 - sub vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: c_quris
+274 - sub vassal: c_quris - Title given to 1004478 - Primary title: k_kadew
+274 - Holder (1004478) has gained c_quris
+274 - sub vassal: c_quris - Setting to vassal of k_kadew in Validate Realm
+274 - vassal: d_qorora - Lost vassal: c_quris
+274 - sub vassal: d_qorora - Lost vassal: c_quris
+274 - Gained vassal: c_quris
+274 - vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: c_rurora
+274 - sub vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: c_rurora
+274 - sub vassal: c_rurora - Title given to 1004478 - Primary title: k_kadew
+274 - Holder (1004478) has gained c_rurora
+274 - sub vassal: c_rurora - Setting to vassal of k_kadew in Validate Realm
+274 - vassal: d_qorora - Lost vassal: c_rurora
+274 - sub vassal: d_qorora - Lost vassal: c_rurora
+274 - Gained vassal: c_rurora
+274 - vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: c_katurga
+274 - sub vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: c_katurga
+274 - sub vassal: c_katurga - Title given to 1004478 - Primary title: k_kadew
+274 - Holder (1004478) has gained c_katurga
+274 - sub vassal: c_katurga - Setting to vassal of k_kadew in Validate Realm
+274 - vassal: d_qorora - Lost vassal: c_katurga
+274 - sub vassal: d_qorora - Lost vassal: c_katurga
+274 - Gained vassal: c_katurga
+274 - vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: c_denew
+274 - sub vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: c_denew
+274 - sub vassal: c_denew - Title given to 1004478 - Primary title: k_kadew
+274 - Holder (1004478) has gained c_denew
+274 - sub vassal: c_denew - Setting to vassal of k_kadew in Validate Realm
+274 - vassal: d_qorora - Lost vassal: c_denew
+274 - sub vassal: d_qorora - Lost vassal: c_denew
+274 - Gained vassal: c_denew
+274 - vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: d_qorora
+274 - sub vassal: d_qorora - Holder 1004478 - Primary title: d_qorora has lost the title: d_qorora
+274 - vassal: d_qorora - Title given to 1004478 - Primary title: k_kadew
+274 - sub vassal: d_qorora - Title given to 1004478 - Primary title: k_kadew
+274 - Holder (1004478) has gained d_qorora
+274 - sub vassal: c_barenia - Holder 1004478 - Primary title: c_barenia has lost the title: c_barenia
+274 - sub vassal: c_barenia - Title given to 1004478 - Primary title: k_kadew
+274 - Holder (1004478) has gained c_barenia
+275 - vassal: d_benance - Holder 1001989 - Primary title: d_benance has lost the title: c_daryas
+275 - sub vassal: d_benance - Holder 1001989 - Primary title: d_benance has lost the title: c_daryas
+275 - sub vassal: c_daryas - Title given to 1001989
+275 - vassal: d_benance - Holder 1006171 - Primary title: d_benance has lost the title: c_baryas
+275 - sub vassal: d_benance - Holder 1006171 - Primary title: d_benance has lost the title: c_baryas
+275 - sub vassal: c_baryas - Title given to 1006171
+283 - vassal: d_narega - Holder 1005253 - Primary title: d_narega has lost the title: d_narega
+283 - sub vassal: d_narega - Holder 1005253 - Primary title: d_narega has lost the title: d_narega
+283 - vassal: d_narega - Title given to 1005253 - Primary title: d_atorurga
+283 - sub vassal: d_narega - Title given to 1005253 - Primary title: d_atorurga
+283 - vassal: d_atorurga - Holder (1005253) has gained d_narega
+283 - sub vassal: d_atorurga - Holder (1005253) has gained d_narega
+283 - sub vassal: c_aharael - Holder 1005253 - Primary title: c_aharael has lost the title: c_aharael
+283 - sub vassal: c_aharael - Title given to 1005253 - Primary title: d_atorurga
+283 - vassal: d_atorurga - Holder (1005253) has gained c_aharael
+283 - sub vassal: d_atorurga - Holder (1005253) has gained c_aharael
+284 - sub vassal: c_daryas - Given to 1006663 in HandleTitles - Too many duke titles
+284 - sub vassal: c_daryas - Holder 1006663 - Primary title: c_daryas has lost the title: c_daryas
+284 - sub vassal: c_daryas - Title given to 1006663
+284 - vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: d_atorurga
+284 - sub vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: d_atorurga
+284 - vassal: d_atorurga - Title given to 1004478 - Primary title: k_kadew
+284 - sub vassal: d_atorurga - Title given to 1004478 - Primary title: k_kadew
+284 - Holder (1004478) has gained d_atorurga
+284 - sub vassal: c_neyoro - Setting to vassal of d_narega in Validate Realm
+284 - vassal: d_atorurga - Lost vassal: c_neyoro
+284 - sub vassal: d_atorurga - Lost vassal: c_neyoro
+284 - sub vassal: c_ehaqosco - Setting to vassal of d_narega in Validate Realm
+284 - vassal: d_atorurga - Lost vassal: c_ehaqosco
+284 - sub vassal: d_atorurga - Lost vassal: c_ehaqosco
+284 - vassal: d_narega - Gained vassal: c_ehaqosco
+284 - sub vassal: d_narega - Gained vassal: c_ehaqosco
+284 - vassal: d_narega - Gained vassal: c_neyoro
+284 - sub vassal: d_narega - Gained vassal: c_neyoro
+284 - vassal: d_atorurga - Too many dukes, made direct title into vassal of k_kadew
+284 - sub vassal: d_atorurga - Too many dukes, made direct title into vassal of k_kadew
+284 - Holder 1001989 - Primary title: k_kadew has lost the title: d_atorurga
+284 - vassal: d_atorurga - Title given to 1001989
+284 - sub vassal: d_atorurga - Title given to 1001989
+284 - vassal: d_narega - Holder 1006665 - Primary title: d_narega has lost the title: c_edyka
+284 - sub vassal: d_narega - Holder 1006665 - Primary title: d_narega has lost the title: c_edyka
+284 - sub vassal: c_edyka - Title given to 1006665
+288 - vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: d_benance
+288 - sub vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: d_benance
+288 - vassal: d_benance - Title given to 1004478 - Primary title: k_kadew
+288 - sub vassal: d_benance - Title given to 1004478 - Primary title: k_kadew
+288 - Holder (1004478) has gained d_benance
+288 - sub vassal: c_nibava - Setting to vassal of d_narega in Validate Realm
+288 - vassal: d_benance - Lost vassal: c_nibava
+288 - sub vassal: d_benance - Lost vassal: c_nibava
+288 - sub vassal: c_aora - Setting to vassal of d_narega in Validate Realm
+288 - vassal: d_benance - Lost vassal: c_aora
+288 - sub vassal: d_benance - Lost vassal: c_aora
+288 - vassal: d_narega - Gained vassal: c_aora
+288 - sub vassal: d_narega - Gained vassal: c_aora
+288 - vassal: d_narega - Gained vassal: c_nibava
+288 - sub vassal: d_narega - Gained vassal: c_nibava
+288 - vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: c_nibava
+288 - sub vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: c_nibava
+288 - sub vassal: c_nibava - Title given to 1004478 - Primary title: k_kadew
+288 - Holder (1004478) has gained c_nibava
+288 - sub vassal: c_nibava - Setting to vassal of k_kadew in Validate Realm
+288 - vassal: d_narega - Lost vassal: c_nibava
+288 - sub vassal: d_narega - Lost vassal: c_nibava
+288 - Gained vassal: c_nibava
+288 - vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: c_aora
+288 - sub vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: c_aora
+288 - sub vassal: c_aora - Title given to 1004478 - Primary title: k_kadew
+288 - Holder (1004478) has gained c_aora
+288 - sub vassal: c_aora - Setting to vassal of k_kadew in Validate Realm
+288 - vassal: d_narega - Lost vassal: c_aora
+288 - sub vassal: d_narega - Lost vassal: c_aora
+288 - Gained vassal: c_aora
+288 - vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: c_neyoro
+288 - sub vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: c_neyoro
+288 - sub vassal: c_neyoro - Title given to 1004478 - Primary title: k_kadew
+288 - Holder (1004478) has gained c_neyoro
+288 - sub vassal: c_neyoro - Setting to vassal of k_kadew in Validate Realm
+288 - vassal: d_narega - Lost vassal: c_neyoro
+288 - sub vassal: d_narega - Lost vassal: c_neyoro
+288 - Gained vassal: c_neyoro
+288 - vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: c_ehaqosco
+288 - sub vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: c_ehaqosco
+288 - sub vassal: c_ehaqosco - Title given to 1004478 - Primary title: k_kadew
+288 - Holder (1004478) has gained c_ehaqosco
+288 - sub vassal: c_ehaqosco - Setting to vassal of k_kadew in Validate Realm
+288 - vassal: d_narega - Lost vassal: c_ehaqosco
+288 - sub vassal: d_narega - Lost vassal: c_ehaqosco
+288 - Gained vassal: c_ehaqosco
+288 - vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: d_narega
+288 - sub vassal: d_narega - Holder 1004478 - Primary title: d_narega has lost the title: d_narega
+288 - vassal: d_narega - Title given to 1004478 - Primary title: k_kadew
+288 - sub vassal: d_narega - Title given to 1004478 - Primary title: k_kadew
+288 - Holder (1004478) has gained d_narega
+288 - sub vassal: c_aharael - Holder 1004478 - Primary title: c_aharael has lost the title: c_aharael
+288 - sub vassal: c_aharael - Title given to 1004478 - Primary title: k_kadew
+288 - Holder (1004478) has gained c_aharael
+288 - sub vassal: c_barenia - Given to 1006894 in HandleTitles - Too many duke titles
+288 - Holder 1006894 - Primary title: k_kadew has lost the title: c_barenia
+288 - sub vassal: c_barenia - Title given to 1006894
+288 - Holder 1006894 - Primary title: k_kadew has lost the title: d_qorora
+288 - vassal: d_qorora - Title given to 1006894 - Primary title: c_barenia
+288 - sub vassal: d_qorora - Title given to 1006894 - Primary title: c_barenia
+288 - sub vassal: c_barenia - Holder (1006894) has gained d_qorora
+288 - vassal: d_qorora - Too many dukes, given to dejure: k_kadew
+288 - sub vassal: d_qorora - Too many dukes, given to dejure: k_kadew
+288 - vassal: d_tutis - Destroyed due to flagged problem
+288 - sub vassal: d_tutis - Destroyed due to flagged problem
+288 - vassal: d_tutis - Made independent
+288 - sub vassal: d_tutis - Made independent
+288 - Gained vassal: c_kahent
+288 - Holder 1006896 - Primary title: k_kadew has lost the title: c_aharael
+288 - sub vassal: c_aharael - Title given to 1006896
+288 - Holder 1006897 - Primary title: k_kadew has lost the title: c_nibava
+288 - vassal: c_nibava - Title given to 1006897
+288 - sub vassal: c_nibava - Title given to 1006897
+288 - Holder 1006898 - Primary title: k_kadew has lost the title: c_aora
+288 - vassal: c_aora - Title given to 1006898
+288 - sub vassal: c_aora - Title given to 1006898
+288 - Holder 1006900 - Primary title: k_kadew has lost the title: c_neyoro
+288 - vassal: c_neyoro - Title given to 1006900
+288 - sub vassal: c_neyoro - Title given to 1006900
+288 - vassal: c_kahent - Made independent due to being a seperate island
+288 - sub vassal: c_kahent - Made independent due to being a seperate island
+288 - vassal: c_kahent - Made independent
+288 - sub vassal: c_kahent - Made independent
+294 - Holder (1004478) has gained c_welinya
+294 - Holder (1004478) has gained c_tadyilni
+294 - Gained vassal: c_bilisey
+294 - vassal: c_bilisey - Given to neighbour holder of k_kadew
+294 - sub vassal: c_bilisey - Given to neighbour holder of k_kadew
+294 - vassal: c_bilisey - Holder 1004478 - Primary title: c_bilisey has lost the title: c_bilisey
+294 - sub vassal: c_bilisey - Holder 1004478 - Primary title: c_bilisey has lost the title: c_bilisey
+294 - vassal: c_bilisey - Title given to 1004478 - Primary title: k_kadew
+294 - sub vassal: c_bilisey - Title given to 1004478 - Primary title: k_kadew
+294 - Holder (1004478) has gained c_bilisey
+294 - Gained vassal: d_wibiya
+294 - vassal: d_wibiya - Given to neighbour holder of k_kadew
+294 - sub vassal: d_wibiya - Given to neighbour holder of k_kadew
+294 - vassal: d_wibiya - Holder 1004478 - Primary title: d_wibiya has lost the title: d_wibiya
+294 - sub vassal: d_wibiya - Holder 1004478 - Primary title: d_wibiya has lost the title: d_wibiya
+294 - vassal: d_wibiya - Title given to 1004478 - Primary title: k_kadew
+294 - sub vassal: d_wibiya - Title given to 1004478 - Primary title: k_kadew
+294 - Holder (1004478) has gained d_wibiya
+294 - Gained vassal: c_tibinya
+294 - vassal: c_tibinya - Given to neighbour holder of k_kadew
+294 - sub vassal: c_tibinya - Given to neighbour holder of k_kadew
+294 - vassal: c_tibinya - Holder 1004478 - Primary title: c_tibinya has lost the title: c_tibinya
+294 - sub vassal: c_tibinya - Holder 1004478 - Primary title: c_tibinya has lost the title: c_tibinya
+294 - vassal: c_tibinya - Title given to 1004478 - Primary title: k_kadew
+294 - sub vassal: c_tibinya - Title given to 1004478 - Primary title: k_kadew
+294 - Holder (1004478) has gained c_tibinya
+294 - sub vassal: c_edyka - Holder 1004478 - Primary title: c_edyka has lost the title: c_edyka
+294 - sub vassal: c_edyka - Title given to 1004478 - Primary title: k_kadew
+294 - Holder (1004478) has gained c_edyka
+294 - sub vassal: c_edyka - Given to 1004643 in HandleTitles - Too many duke titles
+294 - Holder 1004643 - Primary title: k_kadew has lost the title: c_edyka
+294 - sub vassal: c_edyka - Title given to 1004643
+294 - Holder 1004643 - Primary title: k_kadew has lost the title: d_benance
+294 - vassal: d_benance - Title given to 1004643 - Primary title: c_edyka
+294 - sub vassal: d_benance - Title given to 1004643 - Primary title: c_edyka
+294 - sub vassal: c_edyka - Holder (1004643) has gained d_benance
+294 - vassal: d_benance - Too many dukes, given to dejure: k_kadew
+294 - sub vassal: d_benance - Too many dukes, given to dejure: k_kadew
+294 - Holder 1007241 - Primary title: k_kadew has lost the title: c_welinya
+294 - Gained vassal: c_welinya
+294 - Holder 1004076 - Primary title: k_kadew has lost the title: c_ehaqosco
+294 - vassal: c_ehaqosco - Title given to 1004076
+294 - sub vassal: c_ehaqosco - Title given to 1004076
+294 - Holder 1007242 - Primary title: k_kadew has lost the title: c_denew
+294 - vassal: c_denew - Title given to 1007242
+294 - sub vassal: c_denew - Title given to 1007242
+294 - Holder 1007243 - Primary title: k_kadew has lost the title: c_katurga
+294 - vassal: c_katurga - Title given to 1007243
+294 - sub vassal: c_katurga - Title given to 1007243
+294 - vassal: c_tibinya - Made vassal of neighbour (k_nauini) due to being a seperate island
+294 - sub vassal: c_tibinya - Made vassal of neighbour (k_nauini) due to being a seperate island
+294 - vassal: c_tibinya - Given to neighbour holder of k_nauini
+294 - sub vassal: c_tibinya - Given to neighbour holder of k_nauini
+295 - vassal: d_atorurga - Holder 1006712 - Primary title: d_atorurga has lost the title: d_atorurga
+295 - sub vassal: d_atorurga - Holder 1006712 - Primary title: d_atorurga has lost the title: d_atorurga
+295 - vassal: d_atorurga - Title given to 1006712
+295 - sub vassal: d_atorurga - Title given to 1006712
+295 - Gained vassal: c_rebiya
+295 - vassal: c_rebiya - Given to neighbour holder of k_kadew
+295 - sub vassal: c_rebiya - Given to neighbour holder of k_kadew
+295 - vassal: c_rebiya - Holder 1004478 - Primary title: c_rebiya has lost the title: c_rebiya
+295 - sub vassal: c_rebiya - Holder 1004478 - Primary title: c_rebiya has lost the title: c_rebiya
+295 - vassal: c_rebiya - Title given to 1004478 - Primary title: k_kadew
+295 - sub vassal: c_rebiya - Title given to 1004478 - Primary title: k_kadew
+295 - Holder (1004478) has gained c_rebiya
+295 - Holder 1007321 - Primary title: k_kadew has lost the title: c_rurora
+295 - vassal: c_rurora - Title given to 1007321
+295 - sub vassal: c_rurora - Title given to 1007321
+299 - vassal: d_atorurga - Holder 1007241 - Primary title: d_atorurga has lost the title: d_atorurga
+299 - sub vassal: d_atorurga - Holder 1007241 - Primary title: d_atorurga has lost the title: d_atorurga
+299 - vassal: d_atorurga - Title given to 1007241 - Primary title: c_welinya
+299 - sub vassal: d_atorurga - Title given to 1007241 - Primary title: c_welinya
+299 - vassal: c_welinya - Holder (1007241) has gained d_atorurga
+299 - sub vassal: c_welinya - Holder (1007241) has gained d_atorurga
+299 - vassal: c_welinya - Setting to vassal of d_atorurga in Validate Realm
+299 - sub vassal: c_welinya - Setting to vassal of d_atorurga in Validate Realm
+299 - Lost vassal: c_welinya
+299 - vassal: d_atorurga - Gained vassal: c_welinya
+299 - sub vassal: d_atorurga - Gained vassal: c_welinya
+300 - sub vassal: c_torurga - Holder 1006894 - Primary title: c_torurga has lost the title: c_torurga
+300 - sub vassal: c_torurga - Title given to 1006894 - Primary title: d_qorora
+300 - vassal: d_qorora - Holder (1006894) has gained c_torurga
+300 - sub vassal: d_qorora - Holder (1006894) has gained c_torurga
+300 - sub vassal: c_sevael - Holder 1006894 - Primary title: c_sevael has lost the title: c_sevael
+300 - sub vassal: c_sevael - Title given to 1006894 - Primary title: d_qorora
+300 - vassal: d_qorora - Holder (1006894) has gained c_sevael
+300 - sub vassal: d_qorora - Holder (1006894) has gained c_sevael
+300 - sub vassal: c_efarega - Holder 1006894 - Primary title: c_efarega has lost the title: c_efarega
+300 - sub vassal: c_efarega - Title given to 1006894 - Primary title: d_qorora
+300 - vassal: d_qorora - Holder (1006894) has gained c_efarega
+300 - sub vassal: d_qorora - Holder (1006894) has gained c_efarega
+300 - vassal: d_atorurga - Holder 1004478 - Primary title: d_atorurga has lost the title: d_atorurga
+300 - sub vassal: d_atorurga - Holder 1004478 - Primary title: d_atorurga has lost the title: d_atorurga
+300 - vassal: d_atorurga - Title given to 1004478 - Primary title: k_kadew
+300 - sub vassal: d_atorurga - Title given to 1004478 - Primary title: k_kadew
+300 - Holder (1004478) has gained d_atorurga
+300 - sub vassal: c_welinya - Holder 1004478 - Primary title: c_welinya has lost the title: c_welinya
+300 - sub vassal: c_welinya - Title given to 1004478 - Primary title: k_kadew
+300 - Holder (1004478) has gained c_welinya
+300 - sub vassal: c_ejedan - Given to 1007635 in HandleTitles - Too many duke titles
+300 - sub vassal: c_nilega - Holder 1007635 - Primary title: c_nilega has lost the title: c_ejedan
+300 - sub vassal: c_ejedan - Title given to 1007635
+300 - Holder 1007635 - Primary title: k_kadew has lost the title: d_wibiya
+300 - vassal: d_wibiya - Title given to 1007635 - Primary title: c_ejedan
+300 - sub vassal: d_wibiya - Title given to 1007635 - Primary title: c_ejedan
+300 - sub vassal: c_ejedan - Holder (1007635) has gained d_wibiya
+300 - vassal: d_wibiya - Too many dukes, made direct title into vassal of k_kadew
+300 - sub vassal: d_wibiya - Too many dukes, made direct title into vassal of k_kadew
+300 - Holder 1007636 - Primary title: k_kadew has lost the title: c_tibinya
+300 - vassal: c_tibinya - Title given to 1007636
+300 - sub vassal: c_tibinya - Title given to 1007636
+302 - sub vassal: c_woryas - Holder 1004478 - Primary title: c_woryas has lost the title: c_woryas
+302 - sub vassal: c_woryas - Title given to 1004478 - Primary title: k_kadew
+302 - Holder (1004478) has gained c_woryas
+302 - sub vassal: c_benenia - Holder 1004478 - Primary title: c_benenia has lost the title: c_benenia
+302 - sub vassal: c_benenia - Title given to 1004478 - Primary title: k_kadew
+302 - Holder (1004478) has gained c_benenia
+302 - Holder 1007760 - Primary title: k_kadew has lost the title: c_rebiya
+302 - vassal: c_rebiya - Title given to 1007760
+302 - sub vassal: c_rebiya - Title given to 1007760
+302 - Holder 1005830 - Primary title: k_kadew has lost the title: c_woryas
+302 - sub vassal: c_woryas - Title given to 1005830
+308 - Holder 1006523 - Primary title: k_kadew has lost the title: k_kadew
+308 - Title given to 1006523
+308 - vassal: d_atorurga - Holder 1006523 - Primary title: d_atorurga has lost the title: d_atorurga
+308 - sub vassal: d_atorurga - Holder 1006523 - Primary title: d_atorurga has lost the title: d_atorurga
+308 - vassal: d_atorurga - Title given to 1006523 - Primary title: k_kadew
+308 - sub vassal: d_atorurga - Title given to 1006523 - Primary title: k_kadew
+308 - Holder (1006523) has gained d_atorurga
+308 - sub vassal: c_welinya - Setting to vassal of d_narega in Validate Realm
+308 - vassal: d_atorurga - Lost vassal: c_welinya
+308 - sub vassal: d_atorurga - Lost vassal: c_welinya
+308 - vassal: c_bilisey - Setting to vassal of d_narega in Validate Realm
+308 - sub vassal: c_bilisey - Setting to vassal of d_narega in Validate Realm
+308 - Lost vassal: c_bilisey
+308 - vassal: c_quris - Setting to vassal of d_narega in Validate Realm
+308 - sub vassal: c_quris - Setting to vassal of d_narega in Validate Realm
+308 - Lost vassal: c_quris
+308 - vassal: d_narega - Gained vassal: c_quris
+308 - sub vassal: d_narega - Gained vassal: c_quris
+308 - vassal: d_narega - Gained vassal: c_bilisey
+308 - sub vassal: d_narega - Gained vassal: c_bilisey
+308 - vassal: d_narega - Gained vassal: c_welinya
+308 - sub vassal: d_narega - Gained vassal: c_welinya
+308 - vassal: d_narega - Holder 1006523 - Primary title: d_narega has lost the title: d_narega
+308 - sub vassal: d_narega - Holder 1006523 - Primary title: d_narega has lost the title: d_narega
+308 - vassal: d_narega - Title given to 1006523 - Primary title: k_kadew
+308 - sub vassal: d_narega - Title given to 1006523 - Primary title: k_kadew
+308 - Holder (1006523) has gained d_narega
+308 - sub vassal: c_welinya - Holder 1006523 - Primary title: c_welinya has lost the title: c_welinya
+308 - sub vassal: c_welinya - Title given to 1006523 - Primary title: k_kadew
+308 - Holder (1006523) has gained c_welinya
+308 - sub vassal: c_bilisey - Holder 1006523 - Primary title: c_bilisey has lost the title: c_bilisey
+308 - sub vassal: c_bilisey - Title given to 1006523 - Primary title: k_kadew
+308 - Holder (1006523) has gained c_bilisey
+308 - Holder (1006523) has gained c_tadyilni
+308 - Holder (1006523) has gained c_quris
+308 - Holder (1006523) has gained c_benenia
+309 - Holder 1006897 - Primary title: k_kadew has lost the title: k_kadew
+309 - Title given to 1006897 - Primary title: c_nibava
+309 - vassal: c_nibava - Holder (1006897) has gained k_kadew
+309 - sub vassal: c_nibava - Holder (1006897) has gained k_kadew
+309 - vassal: d_atorurga - Holder 1006897 - Primary title: d_atorurga has lost the title: d_atorurga
+309 - sub vassal: d_atorurga - Holder 1006897 - Primary title: d_atorurga has lost the title: d_atorurga
+309 - vassal: d_atorurga - Title given to 1006897 - Primary title: k_kadew
+309 - sub vassal: d_atorurga - Title given to 1006897 - Primary title: k_kadew
+309 - Holder (1006897) has gained d_atorurga
+309 - vassal: d_narega - Holder 1006897 - Primary title: d_narega has lost the title: d_narega
+309 - sub vassal: d_narega - Holder 1006897 - Primary title: d_narega has lost the title: d_narega
+309 - vassal: d_narega - Title given to 1006897 - Primary title: k_kadew
+309 - sub vassal: d_narega - Title given to 1006897 - Primary title: k_kadew
+309 - Holder (1006897) has gained d_narega
+309 - sub vassal: c_welinya - Holder 1006897 - Primary title: c_welinya has lost the title: c_welinya
+309 - sub vassal: c_welinya - Title given to 1006897 - Primary title: k_kadew
+309 - Holder (1006897) has gained c_welinya
+309 - sub vassal: c_bilisey - Holder 1006897 - Primary title: c_bilisey has lost the title: c_bilisey
+309 - sub vassal: c_bilisey - Title given to 1006897 - Primary title: k_kadew
+309 - Holder (1006897) has gained c_bilisey
+309 - Holder (1006897) has gained c_tadyilni
+309 - Holder (1006897) has gained c_quris
+309 - Holder (1006897) has gained c_benenia
+310 - Holder 1008216 - Primary title: k_kadew has lost the title: c_bilisey
+310 - sub vassal: c_bilisey - Title given to 1008216
+311 - vassal: d_benance - Holder 1006894 - Primary title: d_benance has lost the title: d_benance
+311 - sub vassal: d_benance - Holder 1006894 - Primary title: d_benance has lost the title: d_benance
+311 - vassal: d_benance - Title given to 1006894 - Primary title: d_qorora
+311 - sub vassal: d_benance - Title given to 1006894 - Primary title: d_qorora
+311 - vassal: d_qorora - Holder (1006894) has gained d_benance
+311 - sub vassal: d_qorora - Holder (1006894) has gained d_benance
+311 - sub vassal: c_edyka - Holder 1006894 - Primary title: c_edyka has lost the title: c_edyka
+311 - sub vassal: c_edyka - Title given to 1006894 - Primary title: d_qorora
+311 - vassal: d_qorora - Holder (1006894) has gained c_edyka
+311 - sub vassal: d_qorora - Holder (1006894) has gained c_edyka
+324 - vassal: d_qorora - Holder 1007217 - Primary title: d_qorora has lost the title: d_qorora
+324 - sub vassal: d_qorora - Holder 1007217 - Primary title: d_qorora has lost the title: d_qorora
+324 - vassal: d_qorora - Title given to 1007217
+324 - sub vassal: d_qorora - Title given to 1007217
+324 - sub vassal: c_efarega - Setting to vassal of d_benance in Validate Realm
+324 - vassal: d_qorora - Lost vassal: c_efarega
+324 - sub vassal: d_qorora - Lost vassal: c_efarega
+324 - sub vassal: c_sevael - Setting to vassal of d_benance in Validate Realm
+324 - vassal: d_qorora - Lost vassal: c_sevael
+324 - sub vassal: d_qorora - Lost vassal: c_sevael
+324 - sub vassal: c_torurga - Setting to vassal of d_benance in Validate Realm
+324 - vassal: d_qorora - Lost vassal: c_torurga
+324 - sub vassal: d_qorora - Lost vassal: c_torurga
+324 - sub vassal: c_barenia - Setting to vassal of d_benance in Validate Realm
+324 - vassal: d_qorora - Lost vassal: c_barenia
+324 - sub vassal: d_qorora - Lost vassal: c_barenia
+324 - vassal: d_benance - Gained vassal: c_barenia
+324 - sub vassal: d_benance - Gained vassal: c_barenia
+324 - vassal: d_benance - Gained vassal: c_torurga
+324 - sub vassal: d_benance - Gained vassal: c_torurga
+324 - vassal: d_benance - Gained vassal: c_sevael
+324 - sub vassal: d_benance - Gained vassal: c_sevael
+324 - vassal: d_benance - Gained vassal: c_efarega
+324 - sub vassal: d_benance - Gained vassal: c_efarega
+324 - vassal: d_benance - Holder 1007217 - Primary title: d_benance has lost the title: d_benance
+324 - sub vassal: d_benance - Holder 1007217 - Primary title: d_benance has lost the title: d_benance
+324 - vassal: d_benance - Title given to 1007217 - Primary title: d_qorora
+324 - sub vassal: d_benance - Title given to 1007217 - Primary title: d_qorora
+324 - vassal: d_qorora - Holder (1007217) has gained d_benance
+324 - sub vassal: d_qorora - Holder (1007217) has gained d_benance
+324 - sub vassal: c_efarega - Holder 1007217 - Primary title: c_efarega has lost the title: c_efarega
+324 - sub vassal: c_efarega - Title given to 1007217 - Primary title: d_qorora
+324 - vassal: d_qorora - Holder (1007217) has gained c_efarega
+324 - sub vassal: d_qorora - Holder (1007217) has gained c_efarega
+324 - sub vassal: c_sevael - Holder 1007217 - Primary title: c_sevael has lost the title: c_sevael
+324 - sub vassal: c_sevael - Title given to 1007217 - Primary title: d_qorora
+324 - vassal: d_qorora - Holder (1007217) has gained c_sevael
+324 - sub vassal: d_qorora - Holder (1007217) has gained c_sevael
+324 - sub vassal: c_torurga - Holder 1007217 - Primary title: c_torurga has lost the title: c_torurga
+324 - sub vassal: c_torurga - Title given to 1007217 - Primary title: d_qorora
+324 - vassal: d_qorora - Holder (1007217) has gained c_torurga
+324 - sub vassal: d_qorora - Holder (1007217) has gained c_torurga
+324 - sub vassal: c_barenia - Holder 1007217 - Primary title: c_barenia has lost the title: c_barenia
+324 - sub vassal: c_barenia - Title given to 1007217 - Primary title: d_qorora
+324 - vassal: d_qorora - Holder (1007217) has gained c_barenia
+324 - sub vassal: d_qorora - Holder (1007217) has gained c_barenia
+324 - sub vassal: c_edyka - Holder 1007217 - Primary title: c_edyka has lost the title: c_edyka
+324 - sub vassal: c_edyka - Title given to 1007217 - Primary title: d_qorora
+324 - vassal: d_qorora - Holder (1007217) has gained c_edyka
+324 - sub vassal: d_qorora - Holder (1007217) has gained c_edyka
+324 - Holder 1007321 - Primary title: k_kadew has lost the title: k_kadew
+324 - Title given to 1007321 - Primary title: c_rurora
+324 - vassal: c_rurora - Holder (1007321) has gained k_kadew
+324 - sub vassal: c_rurora - Holder (1007321) has gained k_kadew
+324 - vassal: c_nibava - Setting to vassal of d_atorurga in Validate Realm
+324 - sub vassal: c_nibava - Setting to vassal of d_atorurga in Validate Realm
+324 - Lost vassal: c_nibava
+324 - vassal: d_atorurga - Gained vassal: c_nibava
+324 - sub vassal: d_atorurga - Gained vassal: c_nibava
+324 - vassal: d_atorurga - Holder 1007321 - Primary title: d_atorurga has lost the title: d_atorurga
+324 - sub vassal: d_atorurga - Holder 1007321 - Primary title: d_atorurga has lost the title: d_atorurga
+324 - vassal: d_atorurga - Title given to 1007321 - Primary title: k_kadew
+324 - sub vassal: d_atorurga - Title given to 1007321 - Primary title: k_kadew
+324 - Holder (1007321) has gained d_atorurga
+324 - sub vassal: c_nibava - Setting to vassal of d_narega in Validate Realm
+324 - vassal: d_atorurga - Lost vassal: c_nibava
+324 - sub vassal: d_atorurga - Lost vassal: c_nibava
+324 - vassal: d_narega - Gained vassal: c_nibava
+324 - sub vassal: d_narega - Gained vassal: c_nibava
+324 - vassal: d_narega - Holder 1007321 - Primary title: d_narega has lost the title: d_narega
+324 - sub vassal: d_narega - Holder 1007321 - Primary title: d_narega has lost the title: d_narega
+324 - vassal: d_narega - Title given to 1007321 - Primary title: k_kadew
+324 - sub vassal: d_narega - Title given to 1007321 - Primary title: k_kadew
+324 - Holder (1007321) has gained d_narega
+324 - Holder (1007321) has gained c_benenia
+324 - Holder (1007321) has gained c_quris
+324 - Holder (1007321) has gained c_tadyilni
+324 - Holder (1007321) has gained c_welinya
+324 - Holder (1007321) has gained c_nibava
+325 - vassal: d_qorora - Destroyed due to flagged problem
+325 - sub vassal: d_qorora - Destroyed due to flagged problem
+325 - vassal: d_qorora - Made independent
+325 - sub vassal: d_qorora - Made independent
+325 - Holder 1008981 - Primary title: k_kadew has lost the title: c_quris
+325 - Gained vassal: c_quris
+329 - Holder 1007217 - Primary title: k_kadew has lost the title: k_kadew
+329 - Title given to 1007217 - Primary title: d_benance
+329 - vassal: d_benance - Holder (1007217) has gained k_kadew
+329 - sub vassal: d_benance - Holder (1007217) has gained k_kadew
+329 - vassal: c_rurora - Setting to vassal of d_atorurga in Validate Realm
+329 - sub vassal: c_rurora - Setting to vassal of d_atorurga in Validate Realm
+329 - Lost vassal: c_rurora
+329 - vassal: d_atorurga - Gained vassal: c_rurora
+329 - sub vassal: d_atorurga - Gained vassal: c_rurora
+329 - vassal: d_atorurga - Holder 1007217 - Primary title: d_atorurga has lost the title: c_rurora
+329 - sub vassal: d_atorurga - Holder 1007217 - Primary title: d_atorurga has lost the title: c_rurora
+329 - sub vassal: c_rurora - Title given to 1007217 - Primary title: k_kadew
+329 - Holder (1007217) has gained c_rurora
+329 - sub vassal: c_rurora - Setting to vassal of k_kadew in Validate Realm
+329 - vassal: d_atorurga - Lost vassal: c_rurora
+329 - sub vassal: d_atorurga - Lost vassal: c_rurora
+329 - Gained vassal: c_rurora
+329 - vassal: d_atorurga - Holder 1007217 - Primary title: d_atorurga has lost the title: d_atorurga
+329 - sub vassal: d_atorurga - Holder 1007217 - Primary title: d_atorurga has lost the title: d_atorurga
+329 - vassal: d_atorurga - Title given to 1007217 - Primary title: k_kadew
+329 - sub vassal: d_atorurga - Title given to 1007217 - Primary title: k_kadew
+329 - Holder (1007217) has gained d_atorurga
+329 - vassal: d_narega - Holder 1007217 - Primary title: d_narega has lost the title: d_narega
+329 - sub vassal: d_narega - Holder 1007217 - Primary title: d_narega has lost the title: d_narega
+329 - vassal: d_narega - Title given to 1007217 - Primary title: k_kadew
+329 - sub vassal: d_narega - Title given to 1007217 - Primary title: k_kadew
+329 - Holder (1007217) has gained d_narega
+329 - Holder (1007217) has gained c_benenia
+329 - Holder (1007217) has gained c_tadyilni
+329 - Holder (1007217) has gained c_welinya
+329 - Holder (1007217) has gained c_nibava
+330 - sub vassal: c_edyka - Given to 1009261 in HandleTitles - Too many duke titles
+330 - Holder 1009261 - Primary title: k_kadew has lost the title: c_edyka
+330 - sub vassal: c_edyka - Title given to 1009261
+330 - Holder 1009261 - Primary title: k_kadew has lost the title: d_benance
+330 - vassal: d_benance - Title given to 1009261 - Primary title: c_edyka
+330 - sub vassal: d_benance - Title given to 1009261 - Primary title: c_edyka
+330 - sub vassal: c_edyka - Holder (1009261) has gained d_benance
+330 - sub vassal: c_efarega - Setting to vassal of k_kadew in Validate Realm
+330 - vassal: d_benance - Lost vassal: c_efarega
+330 - sub vassal: d_benance - Lost vassal: c_efarega
+330 - sub vassal: c_sevael - Setting to vassal of k_kadew in Validate Realm
+330 - vassal: d_benance - Lost vassal: c_sevael
+330 - sub vassal: d_benance - Lost vassal: c_sevael
+330 - sub vassal: c_torurga - Setting to vassal of k_kadew in Validate Realm
+330 - vassal: d_benance - Lost vassal: c_torurga
+330 - sub vassal: d_benance - Lost vassal: c_torurga
+330 - sub vassal: c_barenia - Setting to vassal of k_kadew in Validate Realm
+330 - vassal: d_benance - Lost vassal: c_barenia
+330 - sub vassal: d_benance - Lost vassal: c_barenia
+330 - Gained vassal: c_barenia
+330 - Gained vassal: c_torurga
+330 - Gained vassal: c_sevael
+330 - Gained vassal: c_efarega
+330 - vassal: d_benance - Too many dukes, given to dejure: k_kadew
+330 - sub vassal: d_benance - Too many dukes, given to dejure: k_kadew
+330 - Holder 1009262 - Primary title: k_kadew has lost the title: c_rurora
+330 - vassal: c_rurora - Title given to 1009262
+330 - sub vassal: c_rurora - Title given to 1009262
+330 - Holder 1009263 - Primary title: k_kadew has lost the title: c_benenia
+330 - Gained vassal: c_benenia
+330 - Holder 1007486 - Primary title: k_kadew has lost the title: c_efarega
+330 - vassal: c_efarega - Title given to 1007486
+330 - sub vassal: c_efarega - Title given to 1007486
+330 - Holder 1009264 - Primary title: k_kadew has lost the title: c_torurga
+330 - vassal: c_torurga - Title given to 1009264
+330 - sub vassal: c_torurga - Title given to 1009264
+333 - Holder 1008961 - Primary title: k_kadew has lost the title: k_kadew
+333 - Title given to 1008961
+333 - vassal: d_atorurga - Holder 1008961 - Primary title: d_atorurga has lost the title: c_sevael
+333 - sub vassal: d_atorurga - Holder 1008961 - Primary title: d_atorurga has lost the title: c_sevael
+333 - vassal: c_sevael - Title given to 1008961 - Primary title: k_kadew
+333 - sub vassal: c_sevael - Title given to 1008961 - Primary title: k_kadew
+333 - Holder (1008961) has gained c_sevael
+333 - vassal: c_barenia - Setting to vassal of d_atorurga in Validate Realm
+333 - sub vassal: c_barenia - Setting to vassal of d_atorurga in Validate Realm
+333 - Lost vassal: c_barenia
+333 - vassal: d_atorurga - Gained vassal: c_barenia
+333 - sub vassal: d_atorurga - Gained vassal: c_barenia
+333 - vassal: d_atorurga - Holder 1008961 - Primary title: d_atorurga has lost the title: c_barenia
+333 - sub vassal: d_atorurga - Holder 1008961 - Primary title: d_atorurga has lost the title: c_barenia
+333 - sub vassal: c_barenia - Title given to 1008961 - Primary title: k_kadew
+333 - Holder (1008961) has gained c_barenia
+333 - sub vassal: c_barenia - Setting to vassal of k_kadew in Validate Realm
+333 - vassal: d_atorurga - Lost vassal: c_barenia
+333 - sub vassal: d_atorurga - Lost vassal: c_barenia
+333 - Gained vassal: c_barenia
+333 - vassal: d_atorurga - Holder 1008961 - Primary title: d_atorurga has lost the title: d_atorurga
+333 - sub vassal: d_atorurga - Holder 1008961 - Primary title: d_atorurga has lost the title: d_atorurga
+333 - vassal: d_atorurga - Title given to 1008961 - Primary title: k_kadew
+333 - sub vassal: d_atorurga - Title given to 1008961 - Primary title: k_kadew
+333 - Holder (1008961) has gained d_atorurga
+333 - vassal: d_narega - Holder 1008961 - Primary title: d_narega has lost the title: d_narega
+333 - sub vassal: d_narega - Holder 1008961 - Primary title: d_narega has lost the title: d_narega
+333 - vassal: d_narega - Title given to 1008961 - Primary title: k_kadew
+333 - sub vassal: d_narega - Title given to 1008961 - Primary title: k_kadew
+333 - Holder (1008961) has gained d_narega
+333 - Holder (1008961) has gained c_tadyilni
+333 - Holder (1008961) has gained c_welinya
+333 - Holder (1008961) has gained c_nibava
+339 - Holder 1009261 - Primary title: k_kadew has lost the title: k_kadew
+339 - Title given to 1009261 - Primary title: d_benance
+339 - vassal: d_benance - Holder (1009261) has gained k_kadew
+339 - sub vassal: d_benance - Holder (1009261) has gained k_kadew
+339 - vassal: c_sevael - Setting to vassal of d_atorurga in Validate Realm
+339 - sub vassal: c_sevael - Setting to vassal of d_atorurga in Validate Realm
+339 - Lost vassal: c_sevael
+339 - vassal: c_barenia - Setting to vassal of d_atorurga in Validate Realm
+339 - sub vassal: c_barenia - Setting to vassal of d_atorurga in Validate Realm
+339 - Lost vassal: c_barenia
+339 - vassal: d_atorurga - Gained vassal: c_barenia
+339 - sub vassal: d_atorurga - Gained vassal: c_barenia
+339 - vassal: d_atorurga - Gained vassal: c_sevael
+339 - sub vassal: d_atorurga - Gained vassal: c_sevael
+339 - vassal: d_atorurga - Holder 1009261 - Primary title: d_atorurga has lost the title: c_sevael
+339 - sub vassal: d_atorurga - Holder 1009261 - Primary title: d_atorurga has lost the title: c_sevael
+339 - sub vassal: c_sevael - Title given to 1009261 - Primary title: k_kadew
+339 - Holder (1009261) has gained c_sevael
+339 - sub vassal: c_sevael - Setting to vassal of k_kadew in Validate Realm
+339 - vassal: d_atorurga - Lost vassal: c_sevael
+339 - sub vassal: d_atorurga - Lost vassal: c_sevael
+339 - Gained vassal: c_sevael
+339 - vassal: d_atorurga - Holder 1009261 - Primary title: d_atorurga has lost the title: c_barenia
+339 - sub vassal: d_atorurga - Holder 1009261 - Primary title: d_atorurga has lost the title: c_barenia
+339 - sub vassal: c_barenia - Title given to 1009261 - Primary title: k_kadew
+339 - Holder (1009261) has gained c_barenia
+339 - sub vassal: c_barenia - Setting to vassal of k_kadew in Validate Realm
+339 - vassal: d_atorurga - Lost vassal: c_barenia
+339 - sub vassal: d_atorurga - Lost vassal: c_barenia
+339 - Gained vassal: c_barenia
+339 - vassal: d_atorurga - Holder 1009261 - Primary title: d_atorurga has lost the title: d_atorurga
+339 - sub vassal: d_atorurga - Holder 1009261 - Primary title: d_atorurga has lost the title: d_atorurga
+339 - vassal: d_atorurga - Title given to 1009261 - Primary title: k_kadew
+339 - sub vassal: d_atorurga - Title given to 1009261 - Primary title: k_kadew
+339 - Holder (1009261) has gained d_atorurga
+339 - vassal: d_narega - Holder 1009261 - Primary title: d_narega has lost the title: d_narega
+339 - sub vassal: d_narega - Holder 1009261 - Primary title: d_narega has lost the title: d_narega
+339 - vassal: d_narega - Title given to 1009261 - Primary title: k_kadew
+339 - sub vassal: d_narega - Title given to 1009261 - Primary title: k_kadew
+339 - Holder (1009261) has gained d_narega
+339 - Holder (1009261) has gained c_tadyilni
+339 - Holder (1009261) has gained c_welinya
+339 - Holder (1009261) has gained c_nibava
+340 - sub vassal: c_aharael - Given to 1006576 in HandleTitles - Too many duke titles
+340 - sub vassal: c_aharael - Holder 1006576 - Primary title: c_aharael has lost the title: c_aharael
+340 - sub vassal: c_aharael - Title given to 1006576
+340 - Holder 1006576 - Primary title: k_kadew has lost the title: d_narega
+340 - vassal: d_narega - Title given to 1006576 - Primary title: c_aharael
+340 - sub vassal: d_narega - Title given to 1006576 - Primary title: c_aharael
+340 - sub vassal: c_aharael - Holder (1006576) has gained d_narega
+340 - vassal: d_narega - Too many dukes, given to dejure: k_kadew
+340 - sub vassal: d_narega - Too many dukes, given to dejure: k_kadew
+340 - Holder 1009742 - Primary title: k_kadew has lost the title: c_tadyilni
+340 - Gained vassal: c_tadyilni
+341 - vassal: d_narega - Holder 1008981 - Primary title: d_narega has lost the title: d_narega
+341 - sub vassal: d_narega - Holder 1008981 - Primary title: d_narega has lost the title: d_narega
+341 - vassal: d_narega - Title given to 1008981 - Primary title: c_quris
+341 - sub vassal: d_narega - Title given to 1008981 - Primary title: c_quris
+341 - vassal: c_quris - Holder (1008981) has gained d_narega
+341 - sub vassal: c_quris - Holder (1008981) has gained d_narega
+341 - vassal: c_quris - Setting to vassal of d_narega in Validate Realm
+341 - sub vassal: c_quris - Setting to vassal of d_narega in Validate Realm
+341 - Lost vassal: c_quris
+341 - vassal: d_narega - Gained vassal: c_quris
+341 - sub vassal: d_narega - Gained vassal: c_quris
+341 - sub vassal: c_aharael - Holder 1008981 - Primary title: c_aharael has lost the title: c_aharael
+341 - sub vassal: c_aharael - Title given to 1008981 - Primary title: d_narega
+341 - vassal: d_narega - Holder (1008981) has gained c_aharael
+341 - sub vassal: d_narega - Holder (1008981) has gained c_aharael
+342 - vassal: d_wibiya - Holder 1007746 - Primary title: d_wibiya has lost the title: d_wibiya
+342 - sub vassal: d_wibiya - Holder 1007746 - Primary title: d_wibiya has lost the title: d_wibiya
+342 - vassal: d_wibiya - Title given to 1007746
+342 - sub vassal: d_wibiya - Title given to 1007746
+342 - sub vassal: c_ejedan - Holder 1007746 - Primary title: c_ejedan has lost the title: c_ejedan
+342 - sub vassal: c_ejedan - Title given to 1007746 - Primary title: d_wibiya
+342 - vassal: d_wibiya - Holder (1007746) has gained c_ejedan
+342 - sub vassal: d_wibiya - Holder (1007746) has gained c_ejedan
+342 - Holder 1007746 - Primary title: k_kadew has lost the title: k_kadew
+342 - Title given to 1007746 - Primary title: d_wibiya
+342 - vassal: d_wibiya - Holder (1007746) has gained k_kadew
+342 - sub vassal: d_wibiya - Holder (1007746) has gained k_kadew
+342 - vassal: c_barenia - Setting to vassal of d_atorurga in Validate Realm
+342 - sub vassal: c_barenia - Setting to vassal of d_atorurga in Validate Realm
+342 - Lost vassal: c_barenia
+342 - vassal: c_sevael - Setting to vassal of d_atorurga in Validate Realm
+342 - sub vassal: c_sevael - Setting to vassal of d_atorurga in Validate Realm
+342 - Lost vassal: c_sevael
+342 - vassal: d_atorurga - Gained vassal: c_sevael
+342 - sub vassal: d_atorurga - Gained vassal: c_sevael
+342 - vassal: d_atorurga - Gained vassal: c_barenia
+342 - sub vassal: d_atorurga - Gained vassal: c_barenia
+342 - vassal: d_atorurga - Holder 1007746 - Primary title: d_atorurga has lost the title: d_atorurga
+342 - sub vassal: d_atorurga - Holder 1007746 - Primary title: d_atorurga has lost the title: d_atorurga
+342 - vassal: d_atorurga - Title given to 1007746 - Primary title: k_kadew
+342 - sub vassal: d_atorurga - Title given to 1007746 - Primary title: k_kadew
+342 - Holder (1007746) has gained d_atorurga
+342 - sub vassal: c_barenia - Setting to vassal of d_benance in Validate Realm
+342 - vassal: d_atorurga - Lost vassal: c_barenia
+342 - sub vassal: d_atorurga - Lost vassal: c_barenia
+342 - sub vassal: c_sevael - Setting to vassal of d_benance in Validate Realm
+342 - vassal: d_atorurga - Lost vassal: c_sevael
+342 - sub vassal: d_atorurga - Lost vassal: c_sevael
+342 - vassal: d_benance - Gained vassal: c_sevael
+342 - sub vassal: d_benance - Gained vassal: c_sevael
+342 - vassal: d_benance - Gained vassal: c_barenia
+342 - sub vassal: d_benance - Gained vassal: c_barenia
+342 - vassal: d_benance - Holder 1007746 - Primary title: d_benance has lost the title: d_benance
+342 - sub vassal: d_benance - Holder 1007746 - Primary title: d_benance has lost the title: d_benance
+342 - vassal: d_benance - Title given to 1007746 - Primary title: k_kadew
+342 - sub vassal: d_benance - Title given to 1007746 - Primary title: k_kadew
+342 - Holder (1007746) has gained d_benance
+342 - Holder (1007746) has gained c_nibava
+342 - Holder (1007746) has gained c_welinya
+342 - Holder (1007746) has gained c_barenia
+342 - Holder (1007746) has gained c_sevael
+342 - Holder (1007746) has gained c_edyka
+343 - vassal: d_benance - Destroyed due to flagged problem
+343 - sub vassal: d_benance - Destroyed due to flagged problem
+343 - vassal: d_benance - Made independent
+343 - sub vassal: d_benance - Made independent
+343 - vassal: d_narega - Holder 1009264 - Primary title: d_narega has lost the title: d_narega
+343 - sub vassal: d_narega - Holder 1009264 - Primary title: d_narega has lost the title: d_narega
+343 - vassal: d_narega - Title given to 1009264 - Primary title: c_torurga
+343 - sub vassal: d_narega - Title given to 1009264 - Primary title: c_torurga
+343 - vassal: c_torurga - Holder (1009264) has gained d_narega
+343 - sub vassal: c_torurga - Holder (1009264) has gained d_narega
+343 - vassal: c_torurga - Setting to vassal of d_narega in Validate Realm
+343 - sub vassal: c_torurga - Setting to vassal of d_narega in Validate Realm
+343 - Lost vassal: c_torurga
+343 - vassal: d_narega - Gained vassal: c_torurga
+343 - sub vassal: d_narega - Gained vassal: c_torurga
+343 - sub vassal: c_quris - Holder 1009264 - Primary title: c_quris has lost the title: c_quris
+343 - sub vassal: c_quris - Title given to 1009264 - Primary title: d_narega
+343 - vassal: d_narega - Holder (1009264) has gained c_quris
+343 - sub vassal: d_narega - Holder (1009264) has gained c_quris
+343 - sub vassal: c_aharael - Holder 1009264 - Primary title: c_aharael has lost the title: c_aharael
+343 - sub vassal: c_aharael - Title given to 1009264 - Primary title: d_narega
+343 - vassal: d_narega - Holder (1009264) has gained c_aharael
+343 - sub vassal: d_narega - Holder (1009264) has gained c_aharael
+343 - Holder 1009903 - Primary title: k_kadew has lost the title: c_welinya
+343 - Gained vassal: c_welinya
+352 - Holder 1010011 - Primary title: k_kadew has lost the title: k_kadew
+352 - Title given to 1010011
+352 - vassal: d_wibiya - Holder 1010011 - Primary title: d_wibiya has lost the title: d_wibiya
+352 - sub vassal: d_wibiya - Holder 1010011 - Primary title: d_wibiya has lost the title: d_wibiya
+352 - vassal: d_wibiya - Title given to 1010011 - Primary title: k_kadew
+352 - sub vassal: d_wibiya - Title given to 1010011 - Primary title: k_kadew
+352 - Holder (1010011) has gained d_wibiya
+352 - sub vassal: c_ejedan - Setting to vassal of d_atorurga in Validate Realm
+352 - vassal: d_wibiya - Lost vassal: c_ejedan
+352 - sub vassal: d_wibiya - Lost vassal: c_ejedan
+352 - vassal: d_atorurga - Gained vassal: c_ejedan
+352 - sub vassal: d_atorurga - Gained vassal: c_ejedan
+352 - vassal: d_atorurga - Holder 1010011 - Primary title: d_atorurga has lost the title: c_ejedan
+352 - sub vassal: d_atorurga - Holder 1010011 - Primary title: d_atorurga has lost the title: c_ejedan
+352 - sub vassal: c_ejedan - Title given to 1010011 - Primary title: k_kadew
+352 - Holder (1010011) has gained c_ejedan
+352 - sub vassal: c_ejedan - Setting to vassal of k_kadew in Validate Realm
+352 - vassal: d_atorurga - Lost vassal: c_ejedan
+352 - sub vassal: d_atorurga - Lost vassal: c_ejedan
+352 - Gained vassal: c_ejedan
+352 - vassal: d_atorurga - Holder 1010011 - Primary title: d_atorurga has lost the title: d_atorurga
+352 - sub vassal: d_atorurga - Holder 1010011 - Primary title: d_atorurga has lost the title: d_atorurga
+352 - vassal: d_atorurga - Title given to 1010011 - Primary title: k_kadew
+352 - sub vassal: d_atorurga - Title given to 1010011 - Primary title: k_kadew
+352 - Holder (1010011) has gained d_atorurga
+352 - Holder (1010011) has gained c_nibava
+352 - Holder (1010011) has gained c_barenia
+352 - Holder (1010011) has gained c_sevael
+352 - Holder (1010011) has gained c_edyka
+381 - Holder 1010964 - Primary title: k_kadew has lost the title: k_kadew
+381 - Title given to 1010964
+381 - vassal: d_atorurga - Holder 1010964 - Primary title: d_atorurga has lost the title: d_atorurga
+381 - sub vassal: d_atorurga - Holder 1010964 - Primary title: d_atorurga has lost the title: d_atorurga
+381 - vassal: d_atorurga - Title given to 1010964 - Primary title: k_kadew
+381 - sub vassal: d_atorurga - Title given to 1010964 - Primary title: k_kadew
+381 - Holder (1010964) has gained d_atorurga
+381 - vassal: c_ejedan - Setting to vassal of d_wibiya in Validate Realm
+381 - sub vassal: c_ejedan - Setting to vassal of d_wibiya in Validate Realm
+381 - Lost vassal: c_ejedan
+381 - vassal: d_wibiya - Gained vassal: c_ejedan
+381 - sub vassal: d_wibiya - Gained vassal: c_ejedan
+381 - vassal: d_wibiya - Holder 1010964 - Primary title: d_wibiya has lost the title: d_wibiya
+381 - sub vassal: d_wibiya - Holder 1010964 - Primary title: d_wibiya has lost the title: d_wibiya
+381 - vassal: d_wibiya - Title given to 1010964 - Primary title: k_kadew
+381 - sub vassal: d_wibiya - Title given to 1010964 - Primary title: k_kadew
+381 - Holder (1010964) has gained d_wibiya
+381 - sub vassal: c_ejedan - Holder 1010964 - Primary title: c_ejedan has lost the title: c_ejedan
+381 - sub vassal: c_ejedan - Title given to 1010964 - Primary title: k_kadew
+381 - Holder (1010964) has gained c_ejedan
+381 - Holder (1010964) has gained c_nibava
+381 - Holder (1010964) has gained c_barenia
+381 - Holder (1010964) has gained c_sevael
+381 - Holder (1010964) has gained c_edyka
+382 - vassal: d_narega - Holder 1010104 - Primary title: d_narega has lost the title: d_narega
+382 - sub vassal: d_narega - Holder 1010104 - Primary title: d_narega has lost the title: d_narega
+382 - vassal: d_narega - Title given to 1010104
+382 - sub vassal: d_narega - Title given to 1010104
+382 - sub vassal: c_torurga - Holder 1010104 - Primary title: c_torurga has lost the title: c_torurga
+382 - sub vassal: c_torurga - Title given to 1010104 - Primary title: d_narega
+382 - vassal: d_narega - Holder (1010104) has gained c_torurga
+382 - sub vassal: d_narega - Holder (1010104) has gained c_torurga
+382 - sub vassal: c_quris - Holder 1010104 - Primary title: c_quris has lost the title: c_quris
+382 - sub vassal: c_quris - Title given to 1010104 - Primary title: d_narega
+382 - vassal: d_narega - Holder (1010104) has gained c_quris
+382 - sub vassal: d_narega - Holder (1010104) has gained c_quris
+382 - sub vassal: c_aharael - Holder 1010104 - Primary title: c_aharael has lost the title: c_aharael
+382 - sub vassal: c_aharael - Title given to 1010104 - Primary title: d_narega
+382 - vassal: d_narega - Holder (1010104) has gained c_aharael
+382 - sub vassal: d_narega - Holder (1010104) has gained c_aharael
+391 - vassal: d_narega - Holder 1012249 - Primary title: d_narega has lost the title: d_narega
+391 - sub vassal: d_narega - Holder 1012249 - Primary title: d_narega has lost the title: d_narega
+391 - vassal: d_narega - Title given to 1012249
+391 - sub vassal: d_narega - Title given to 1012249
+391 - sub vassal: c_torurga - Holder 1012249 - Primary title: c_torurga has lost the title: c_torurga
+391 - sub vassal: c_torurga - Title given to 1012249 - Primary title: d_narega
+391 - vassal: d_narega - Holder (1012249) has gained c_torurga
+391 - sub vassal: d_narega - Holder (1012249) has gained c_torurga
+391 - sub vassal: c_quris - Holder 1012249 - Primary title: c_quris has lost the title: c_quris
+391 - sub vassal: c_quris - Title given to 1012249 - Primary title: d_narega
+391 - vassal: d_narega - Holder (1012249) has gained c_quris
+391 - sub vassal: d_narega - Holder (1012249) has gained c_quris
+391 - sub vassal: c_aharael - Holder 1012249 - Primary title: c_aharael has lost the title: c_aharael
+391 - sub vassal: c_aharael - Title given to 1012249 - Primary title: d_narega
+391 - vassal: d_narega - Holder (1012249) has gained c_aharael
+391 - sub vassal: d_narega - Holder (1012249) has gained c_aharael
+397 - Holder 1012249 - Primary title: k_kadew has lost the title: k_kadew
+397 - Title given to 1012249 - Primary title: d_narega
+397 - vassal: d_narega - Holder (1012249) has gained k_kadew
+397 - sub vassal: d_narega - Holder (1012249) has gained k_kadew
+397 - vassal: d_atorurga - Holder 1012249 - Primary title: d_atorurga has lost the title: d_atorurga
+397 - sub vassal: d_atorurga - Holder 1012249 - Primary title: d_atorurga has lost the title: d_atorurga
+397 - vassal: d_atorurga - Title given to 1012249 - Primary title: k_kadew
+397 - sub vassal: d_atorurga - Title given to 1012249 - Primary title: k_kadew
+397 - Holder (1012249) has gained d_atorurga
+397 - vassal: d_wibiya - Holder 1012249 - Primary title: d_wibiya has lost the title: d_wibiya
+397 - sub vassal: d_wibiya - Holder 1012249 - Primary title: d_wibiya has lost the title: d_wibiya
+397 - vassal: d_wibiya - Title given to 1012249 - Primary title: k_kadew
+397 - sub vassal: d_wibiya - Title given to 1012249 - Primary title: k_kadew
+397 - Holder (1012249) has gained d_wibiya
+397 - sub vassal: c_ejedan - Holder 1012249 - Primary title: c_ejedan has lost the title: c_ejedan
+397 - sub vassal: c_ejedan - Title given to 1012249 - Primary title: k_kadew
+397 - Holder (1012249) has gained c_ejedan
+397 - Holder (1012249) has gained c_nibava
+397 - Holder (1012249) has gained c_barenia
+397 - Holder (1012249) has gained c_sevael
+397 - Holder (1012249) has gained c_edyka
+398 - sub vassal: c_ejedan - Given to 1012715 in HandleTitles - Too many duke titles
+398 - Holder 1012715 - Primary title: k_kadew has lost the title: c_ejedan
+398 - sub vassal: c_ejedan - Title given to 1012715
+398 - Holder 1012715 - Primary title: k_kadew has lost the title: d_wibiya
+398 - vassal: d_wibiya - Title given to 1012715 - Primary title: c_ejedan
+398 - sub vassal: d_wibiya - Title given to 1012715 - Primary title: c_ejedan
+398 - sub vassal: c_ejedan - Holder (1012715) has gained d_wibiya
+398 - vassal: d_wibiya - Too many dukes, made direct title into vassal of k_kadew
+398 - sub vassal: d_wibiya - Too many dukes, made direct title into vassal of k_kadew
+398 - Holder 1012716 - Primary title: k_kadew has lost the title: c_nibava
+398 - Gained vassal: c_nibava
+398 - Holder 1012717 - Primary title: k_kadew has lost the title: c_aharael
+398 - sub vassal: c_aharael - Title given to 1012717

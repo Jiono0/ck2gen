@@ -1,0 +1,59 @@
+200 - Title given to 1000973
+200 - vassal: c_bakudo - Given to 1000976 via AddCharacterForTitle
+200 - sub vassal: c_bakudo - Given to 1000976 via AddCharacterForTitle
+200 - vassal: c_bakudo - Holder 1000976 - Primary title: c_bakudo has lost the title: c_bakudo
+200 - sub vassal: c_bakudo - Holder 1000976 - Primary title: c_bakudo has lost the title: c_bakudo
+200 - vassal: c_bakudo - Title given to 1000976
+200 - sub vassal: c_bakudo - Title given to 1000976
+200 - vassal: c_qani - Holder 1000965 - Primary title: c_qani has lost the title: c_ragoda
+200 - sub vassal: c_qani - Holder 1000965 - Primary title: c_qani has lost the title: c_ragoda
+200 - sub vassal: c_ragoda - Title given to 1000965 - Primary title: d_kumay
+200 - vassal: c_wakudo - Holder 1000973 - Primary title: c_wakudo has lost the title: c_wakudo
+200 - sub vassal: c_wakudo - Holder 1000973 - Primary title: c_wakudo has lost the title: c_wakudo
+200 - vassal: c_wakudo - Title given to 1000973 - Primary title: d_korava
+200 - sub vassal: c_wakudo - Title given to 1000973 - Primary title: d_korava
+200 - Holder (1000973) has gained c_wakudo
+200 - vassal: c_bakudo - Holder 1000973 - Primary title: c_bakudo has lost the title: c_bakudo
+200 - sub vassal: c_bakudo - Holder 1000973 - Primary title: c_bakudo has lost the title: c_bakudo
+200 - vassal: c_bakudo - Title given to 1000973 - Primary title: d_korava
+200 - sub vassal: c_bakudo - Title given to 1000973 - Primary title: d_korava
+200 - Holder (1000973) has gained c_bakudo
+200 - vassal: c_kearidar - Holder 1000973 - Primary title: c_kearidar has lost the title: c_kearidar
+200 - sub vassal: c_kearidar - Holder 1000973 - Primary title: c_kearidar has lost the title: c_kearidar
+200 - vassal: c_kearidar - Title given to 1000973 - Primary title: d_korava
+200 - sub vassal: c_kearidar - Title given to 1000973 - Primary title: d_korava
+200 - Holder (1000973) has gained c_kearidar
+200 - vassal: c_qani - Holder 1000973 - Primary title: c_qani has lost the title: c_qani
+200 - sub vassal: c_qani - Holder 1000973 - Primary title: c_qani has lost the title: c_qani
+200 - vassal: c_qani - Title given to 1000973 - Primary title: d_korava
+200 - sub vassal: c_qani - Title given to 1000973 - Primary title: d_korava
+200 - Holder (1000973) has gained c_qani
+221 - Holder 1001351 - Primary title: d_korava has lost the title: d_korava
+221 - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: c_wakudo - Holder 1001351 - Primary title: c_wakudo has lost the title: c_wakudo
+221 - vassal: c_wakudo - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: c_bakudo - Holder 1001351 - Primary title: c_bakudo has lost the title: c_bakudo
+221 - vassal: c_bakudo - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: c_kearidar - Holder 1001351 - Primary title: c_kearidar has lost the title: c_kearidar
+221 - vassal: c_kearidar - Title given to 1001351 - Primary title: d_kumay
+221 - vassal: c_qani - Holder 1001351 - Primary title: c_qani has lost the title: c_qani
+221 - vassal: c_qani - Title given to 1001351 - Primary title: d_kumay
+222 - Holder 1002827 - Primary title: d_korava has lost the title: c_ragoda
+222 - Holder 1002828 - Primary title: d_korava has lost the title: c_ajakudo
+222 - Holder 1002830 - Primary title: d_korava has lost the title: c_edagidar
+256 - Holder (1001351) has gained k_bya
+257 - vassal: c_bakudo - Given to 1004845 in HandleTitles - Too many duke titles
+257 - vassal: c_bakudo - Title given to 1004845
+257 - Title given to 1004845 - Primary title: c_bakudo
+257 - vassal: c_bakudo - Holder (1004845) has gained d_korava
+257 - vassal: c_qani - Setting to vassal of k_bya in Validate Realm
+257 - Lost vassal: c_qani
+257 - vassal: c_kearidar - Setting to vassal of k_bya in Validate Realm
+257 - Lost vassal: c_kearidar
+257 - vassal: c_wakudo - Setting to vassal of k_bya in Validate Realm
+257 - Lost vassal: c_wakudo
+257 - Too many dukes, given to dejure: k_bya
+261 - Holder 1001351 - Primary title: d_korava has lost the title: d_korava
+261 - Title given to 1001351 - Primary title: k_bya
+261 - vassal: c_bakudo - Holder 1001351 - Primary title: c_bakudo has lost the title: c_bakudo
+261 - vassal: c_bakudo - Title given to 1001351 - Primary title: k_bya

@@ -1,0 +1,45 @@
+200 - Title given to 1000773
+200 - vassal: c_tisataw - Given to 1000776 via AddCharacterForTitle
+200 - sub vassal: c_tisataw - Given to 1000776 via AddCharacterForTitle
+200 - vassal: c_tisataw - Holder 1000776 - Primary title: c_tisataw has lost the title: c_tisataw
+200 - sub vassal: c_tisataw - Holder 1000776 - Primary title: c_tisataw has lost the title: c_tisataw
+200 - vassal: c_tisataw - Title given to 1000776
+200 - sub vassal: c_tisataw - Title given to 1000776
+200 - vassal: c_winayri - Holder 1000770 - Primary title: c_winayri has lost the title: c_divyaman
+200 - sub vassal: c_winayri - Holder 1000770 - Primary title: c_winayri has lost the title: c_divyaman
+200 - sub vassal: c_divyaman - Title given to 1000770 - Primary title: d_dinavan
+200 - vassal: c_rivurz - Holder 1000773 - Primary title: c_rivurz has lost the title: c_rivurz
+200 - sub vassal: c_rivurz - Holder 1000773 - Primary title: c_rivurz has lost the title: c_rivurz
+200 - vassal: c_rivurz - Title given to 1000773 - Primary title: d_dubji
+200 - sub vassal: c_rivurz - Title given to 1000773 - Primary title: d_dubji
+200 - Holder (1000773) has gained c_rivurz
+200 - vassal: c_tisataw - Holder 1000773 - Primary title: c_tisataw has lost the title: c_tisataw
+200 - sub vassal: c_tisataw - Holder 1000773 - Primary title: c_tisataw has lost the title: c_tisataw
+200 - vassal: c_tisataw - Title given to 1000773 - Primary title: d_dubji
+200 - sub vassal: c_tisataw - Title given to 1000773 - Primary title: d_dubji
+200 - Holder (1000773) has gained c_tisataw
+200 - vassal: c_winayri - Holder 1000773 - Primary title: c_winayri has lost the title: c_winayri
+200 - sub vassal: c_winayri - Holder 1000773 - Primary title: c_winayri has lost the title: c_winayri
+200 - vassal: c_winayri - Title given to 1000773 - Primary title: d_dubji
+200 - sub vassal: c_winayri - Title given to 1000773 - Primary title: d_dubji
+200 - Holder (1000773) has gained c_winayri
+204 - Holder (1000773) has gained d_rivetrou
+204 - Holder (1000773) has gained c_ataigati
+204 - Holder (1000773) has gained c_sacanda
+230 - Holder 1001599 - Primary title: d_dubji has lost the title: d_dubji
+230 - Title given to 1001599
+230 - vassal: c_rivurz - Setting to vassal of d_rivetrou in Validate Realm
+230 - Lost vassal: c_rivurz
+230 - vassal: c_tisataw - Setting to vassal of d_rivetrou in Validate Realm
+230 - Lost vassal: c_tisataw
+230 - vassal: c_winayri - Setting to vassal of d_rivetrou in Validate Realm
+230 - Lost vassal: c_winayri
+230 - Holder (1001599) has gained d_rivetrou
+230 - Holder (1001599) has gained c_sacanda
+230 - Holder (1001599) has gained c_ataigati
+230 - Holder (1001599) has gained c_rivurz
+230 - Holder (1001599) has gained c_tisataw
+230 - Holder (1001599) has gained c_winayri
+231 - Destroyed due to flagged problem
+231 - Made independent
+231 - Title destroyed

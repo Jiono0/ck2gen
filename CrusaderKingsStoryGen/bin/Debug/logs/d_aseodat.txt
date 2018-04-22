@@ -1,0 +1,140 @@
+200 - Title given to 1000751
+200 - vassal: c_nogence - Holder 1000751 - Primary title: c_nogence has lost the title: c_nogence
+200 - sub vassal: c_nogence - Holder 1000751 - Primary title: c_nogence has lost the title: c_nogence
+200 - vassal: c_nogence - Title given to 1000751 - Primary title: d_aseodat
+200 - sub vassal: c_nogence - Title given to 1000751 - Primary title: d_aseodat
+200 - Holder (1000751) has gained c_nogence
+200 - vassal: c_wumani - Holder 1000751 - Primary title: c_wumani has lost the title: c_wumani
+200 - sub vassal: c_wumani - Holder 1000751 - Primary title: c_wumani has lost the title: c_wumani
+200 - vassal: c_wumani - Title given to 1000751 - Primary title: d_aseodat
+200 - sub vassal: c_wumani - Title given to 1000751 - Primary title: d_aseodat
+200 - Holder (1000751) has gained c_wumani
+200 - vassal: c_dayasela - Holder 1000751 - Primary title: c_dayasela has lost the title: c_dayasela
+200 - sub vassal: c_dayasela - Holder 1000751 - Primary title: c_dayasela has lost the title: c_dayasela
+200 - vassal: c_dayasela - Title given to 1000751 - Primary title: d_aseodat
+200 - sub vassal: c_dayasela - Title given to 1000751 - Primary title: d_aseodat
+200 - Holder (1000751) has gained c_dayasela
+200 - Holder 1001049 - Primary title: d_aseodat has lost the title: d_aseodat
+200 - Title given to 1001049 - Primary title: k_tiel
+202 - Holder 1001651 - Primary title: d_aseodat has lost the title: d_aseodat
+202 - Title given to 1001651 - Primary title: k_tiel
+241 - Gained vassal: c_syau
+241 - Gained vassal: c_qalari
+241 - Gained vassal: c_weraud
+241 - Holder 1001831 - Primary title: d_aseodat has lost the title: d_aseodat
+241 - Title given to 1001831 - Primary title: k_tiel
+241 - vassal: c_weraud - Holder 1001831 - Primary title: c_weraud has lost the title: c_weraud
+241 - vassal: c_weraud - Title given to 1001831 - Primary title: k_tiel
+241 - vassal: c_qalari - Holder 1001831 - Primary title: c_qalari has lost the title: c_qalari
+241 - vassal: c_qalari - Title given to 1001831 - Primary title: k_tiel
+241 - vassal: c_syau - Holder 1001831 - Primary title: c_syau has lost the title: c_syau
+241 - vassal: c_syau - Title given to 1001831 - Primary title: k_tiel
+256 - Holder 1004329 - Primary title: d_aseodat has lost the title: d_aseodat
+256 - Title given to 1004329 - Primary title: k_tiel
+256 - vassal: c_weraud - Holder 1004329 - Primary title: c_weraud has lost the title: c_weraud
+256 - vassal: c_weraud - Title given to 1004329 - Primary title: k_tiel
+256 - vassal: c_qalari - Holder 1004329 - Primary title: c_qalari has lost the title: c_qalari
+256 - vassal: c_qalari - Title given to 1004329 - Primary title: k_tiel
+256 - vassal: c_syau - Holder 1004329 - Primary title: c_syau has lost the title: c_syau
+256 - vassal: c_syau - Title given to 1004329 - Primary title: k_tiel
+288 - Holder 1006521 - Primary title: d_aseodat has lost the title: d_aseodat
+288 - Title given to 1006521 - Primary title: k_tiel
+288 - vassal: c_weraud - Holder 1006521 - Primary title: c_weraud has lost the title: c_weraud
+288 - vassal: c_weraud - Title given to 1006521 - Primary title: k_tiel
+288 - vassal: c_qalari - Holder 1006521 - Primary title: c_qalari has lost the title: c_qalari
+288 - vassal: c_qalari - Title given to 1006521 - Primary title: k_tiel
+288 - vassal: c_syau - Holder 1006521 - Primary title: c_syau has lost the title: c_syau
+288 - vassal: c_syau - Title given to 1006521 - Primary title: k_tiel
+293 - Holder 1005427 - Primary title: d_aseodat has lost the title: d_aseodat
+293 - Title given to 1005427 - Primary title: k_tiel
+293 - vassal: c_weraud - Holder 1005427 - Primary title: c_weraud has lost the title: c_weraud
+293 - vassal: c_weraud - Title given to 1005427 - Primary title: k_tiel
+293 - vassal: c_qalari - Holder 1005427 - Primary title: c_qalari has lost the title: c_qalari
+293 - vassal: c_qalari - Title given to 1005427 - Primary title: k_tiel
+293 - vassal: c_syau - Holder 1005427 - Primary title: c_syau has lost the title: c_syau
+293 - vassal: c_syau - Title given to 1005427 - Primary title: k_tiel
+294 - vassal: c_weraud - Title given to 1007228
+294 - vassal: c_qalari - Title given to 1007231
+296 - Gained vassal: c_rumasta
+296 - Gained vassal: c_kani
+296 - Gained vassal: c_tasta
+296 - Gained vassal: c_rajari
+296 - Holder 1007232 - Primary title: d_aseodat has lost the title: c_rajari
+296 - vassal: c_rajari - Title given to 1007232 - Primary title: k_tiel
+296 - vassal: c_rajari - Setting to vassal of k_tiel in Validate Realm
+296 - Lost vassal: c_rajari
+296 - Holder 1007232 - Primary title: d_aseodat has lost the title: c_tasta
+296 - vassal: c_tasta - Title given to 1007232 - Primary title: k_tiel
+296 - vassal: c_tasta - Setting to vassal of k_tiel in Validate Realm
+296 - Lost vassal: c_tasta
+296 - Holder 1007232 - Primary title: d_aseodat has lost the title: c_kani
+296 - vassal: c_kani - Title given to 1007232 - Primary title: k_tiel
+296 - vassal: c_kani - Setting to vassal of k_tiel in Validate Realm
+296 - Lost vassal: c_kani
+296 - Holder 1007232 - Primary title: d_aseodat has lost the title: c_rumasta
+296 - vassal: c_rumasta - Title given to 1007232 - Primary title: k_tiel
+296 - vassal: c_rumasta - Setting to vassal of k_tiel in Validate Realm
+296 - Lost vassal: c_rumasta
+296 - Holder 1007232 - Primary title: d_aseodat has lost the title: d_aseodat
+296 - Title given to 1007232 - Primary title: k_tiel
+296 - vassal: c_syau - Holder 1007232 - Primary title: c_syau has lost the title: c_syau
+296 - vassal: c_syau - Title given to 1007232 - Primary title: k_tiel
+298 - Gained vassal: c_rumasta
+298 - Gained vassal: c_kani
+298 - Gained vassal: c_tasta
+298 - Gained vassal: c_rajari
+298 - Holder 1007227 - Primary title: d_aseodat has lost the title: c_rajari
+298 - vassal: c_rajari - Title given to 1007227 - Primary title: k_tiel
+298 - vassal: c_rajari - Setting to vassal of k_tiel in Validate Realm
+298 - Lost vassal: c_rajari
+298 - Holder 1007227 - Primary title: d_aseodat has lost the title: c_tasta
+298 - vassal: c_tasta - Title given to 1007227 - Primary title: k_tiel
+298 - vassal: c_tasta - Setting to vassal of k_tiel in Validate Realm
+298 - Lost vassal: c_tasta
+298 - Holder 1007227 - Primary title: d_aseodat has lost the title: c_kani
+298 - vassal: c_kani - Title given to 1007227 - Primary title: k_tiel
+298 - vassal: c_kani - Setting to vassal of k_tiel in Validate Realm
+298 - Lost vassal: c_kani
+298 - Holder 1007227 - Primary title: d_aseodat has lost the title: c_rumasta
+298 - vassal: c_rumasta - Title given to 1007227 - Primary title: k_tiel
+298 - vassal: c_rumasta - Setting to vassal of k_tiel in Validate Realm
+298 - Lost vassal: c_rumasta
+298 - Holder 1007227 - Primary title: d_aseodat has lost the title: d_aseodat
+298 - Title given to 1007227 - Primary title: k_tiel
+298 - vassal: c_syau - Holder 1007227 - Primary title: c_syau has lost the title: c_syau
+298 - vassal: c_syau - Title given to 1007227 - Primary title: k_tiel
+299 - vassal: c_syau - Title given to 1007545
+303 - vassal: c_wumani - Given to 1007842 in HandleTitles - Too many duke titles
+303 - vassal: c_nogence - Holder 1007842 - Primary title: c_nogence has lost the title: c_wumani
+303 - vassal: c_wumani - Title given to 1007842
+303 - Title given to 1007842 - Primary title: c_wumani
+303 - vassal: c_wumani - Holder (1007842) has gained d_aseodat
+303 - Too many dukes, given to dejure: k_tiel
+304 - vassal: c_nogence - Holder 1007842 - Primary title: c_nogence has lost the title: c_nogence
+304 - vassal: c_nogence - Title given to 1007842 - Primary title: d_aseodat
+304 - Holder (1007842) has gained c_nogence
+304 - vassal: c_dayasela - Holder 1007842 - Primary title: c_dayasela has lost the title: c_dayasela
+304 - vassal: c_dayasela - Title given to 1007842 - Primary title: d_aseodat
+304 - Holder (1007842) has gained c_dayasela
+349 - Holder 1007950 - Primary title: d_aseodat has lost the title: d_aseodat
+349 - Title given to 1007950
+349 - vassal: c_wumani - Holder 1007950 - Primary title: c_wumani has lost the title: c_wumani
+349 - vassal: c_wumani - Title given to 1007950 - Primary title: d_aseodat
+349 - Holder (1007950) has gained c_wumani
+349 - vassal: c_nogence - Holder 1007950 - Primary title: c_nogence has lost the title: c_nogence
+349 - vassal: c_nogence - Title given to 1007950 - Primary title: d_aseodat
+349 - Holder (1007950) has gained c_nogence
+349 - vassal: c_dayasela - Holder 1007950 - Primary title: c_dayasela has lost the title: c_dayasela
+349 - vassal: c_dayasela - Title given to 1007950 - Primary title: d_aseodat
+349 - Holder (1007950) has gained c_dayasela
+372 - Holder 1010328 - Primary title: d_aseodat has lost the title: d_aseodat
+372 - Title given to 1010328
+372 - vassal: c_dayasela - Holder 1010328 - Primary title: c_dayasela has lost the title: c_dayasela
+372 - vassal: c_dayasela - Title given to 1010328 - Primary title: d_aseodat
+372 - Holder (1010328) has gained c_dayasela
+372 - vassal: c_nogence - Holder 1010328 - Primary title: c_nogence has lost the title: c_nogence
+372 - vassal: c_nogence - Title given to 1010328 - Primary title: d_aseodat
+372 - Holder (1010328) has gained c_nogence
+372 - vassal: c_wumani - Holder 1010328 - Primary title: c_wumani has lost the title: c_wumani
+372 - vassal: c_wumani - Title given to 1010328 - Primary title: d_aseodat
+372 - Holder (1010328) has gained c_wumani

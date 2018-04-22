@@ -1,0 +1,58 @@
+200 - Title given to 1000088
+200 - vassal: c_boneva - Holder 1000088 - Primary title: c_boneva has lost the title: c_boneva
+200 - sub vassal: c_boneva - Holder 1000088 - Primary title: c_boneva has lost the title: c_boneva
+200 - vassal: c_boneva - Title given to 1000088 - Primary title: d_dadama
+200 - sub vassal: c_boneva - Title given to 1000088 - Primary title: d_dadama
+200 - Holder (1000088) has gained c_boneva
+200 - vassal: c_daimuti - Holder 1000088 - Primary title: c_daimuti has lost the title: c_daimuti
+200 - sub vassal: c_daimuti - Holder 1000088 - Primary title: c_daimuti has lost the title: c_daimuti
+200 - vassal: c_daimuti - Title given to 1000088 - Primary title: d_dadama
+200 - sub vassal: c_daimuti - Title given to 1000088 - Primary title: d_dadama
+200 - Holder (1000088) has gained c_daimuti
+200 - vassal: c_tarirma - Holder 1000088 - Primary title: c_tarirma has lost the title: c_tarirma
+200 - sub vassal: c_tarirma - Holder 1000088 - Primary title: c_tarirma has lost the title: c_tarirma
+200 - vassal: c_tarirma - Title given to 1000088 - Primary title: d_dadama
+200 - sub vassal: c_tarirma - Title given to 1000088 - Primary title: d_dadama
+200 - Holder (1000088) has gained c_tarirma
+239 - Holder 1001646 - Primary title: d_dadama has lost the title: d_dadama
+239 - Title given to 1001646
+239 - vassal: c_boneva - Holder 1001646 - Primary title: c_boneva has lost the title: c_boneva
+239 - vassal: c_boneva - Title given to 1001646 - Primary title: d_dadama
+239 - Holder (1001646) has gained c_boneva
+239 - vassal: c_daimuti - Holder 1001646 - Primary title: c_daimuti has lost the title: c_daimuti
+239 - vassal: c_daimuti - Title given to 1001646 - Primary title: d_dadama
+239 - Holder (1001646) has gained c_daimuti
+239 - vassal: c_tarirma - Holder 1001646 - Primary title: c_tarirma has lost the title: c_tarirma
+239 - vassal: c_tarirma - Title given to 1001646 - Primary title: d_dadama
+239 - Holder (1001646) has gained c_tarirma
+246 - Holder 1002935 - Primary title: d_dadama has lost the title: d_dadama
+246 - Title given to 1002935 - Primary title: d_bauti
+246 - vassal: c_tarirma - Holder 1002935 - Primary title: c_tarirma has lost the title: c_tarirma
+246 - vassal: c_tarirma - Title given to 1002935 - Primary title: d_bauti
+246 - vassal: c_daimuti - Holder 1002935 - Primary title: c_daimuti has lost the title: c_daimuti
+246 - vassal: c_daimuti - Title given to 1002935 - Primary title: d_bauti
+246 - vassal: c_boneva - Holder 1002935 - Primary title: c_boneva has lost the title: c_boneva
+246 - vassal: c_boneva - Title given to 1002935 - Primary title: d_bauti
+247 - Holder 1004241 - Primary title: d_dadama has lost the title: c_tutirma
+250 - Holder (1002935) has gained k_bozemar
+251 - vassal: c_boneva - Title given to 1004534
+258 - Gained vassal: c_renava
+258 - Gained vassal: c_talobad
+258 - Gained vassal: c_soradma
+258 - Holder 1004177 - Primary title: d_dadama has lost the title: c_soradma
+258 - vassal: c_soradma - Title given to 1004177 - Primary title: k_bozemar
+258 - vassal: c_soradma - Setting to vassal of k_bozemar in Validate Realm
+258 - Lost vassal: c_soradma
+258 - Holder 1004177 - Primary title: d_dadama has lost the title: c_talobad
+258 - vassal: c_talobad - Title given to 1004177 - Primary title: k_bozemar
+258 - vassal: c_talobad - Setting to vassal of k_bozemar in Validate Realm
+258 - Lost vassal: c_talobad
+258 - Holder 1004177 - Primary title: d_dadama has lost the title: d_dadama
+258 - Title given to 1004177 - Primary title: k_bozemar
+258 - vassal: c_tarirma - Holder 1004177 - Primary title: c_tarirma has lost the title: c_tarirma
+258 - vassal: c_tarirma - Title given to 1004177 - Primary title: k_bozemar
+258 - vassal: c_daimuti - Holder 1004177 - Primary title: c_daimuti has lost the title: c_daimuti
+258 - vassal: c_daimuti - Title given to 1004177 - Primary title: k_bozemar
+258 - vassal: c_renava - Holder 1004177 - Primary title: c_renava has lost the title: c_renava
+258 - vassal: c_renava - Title given to 1004177 - Primary title: k_bozemar
+268 - G

@@ -1,0 +1,496 @@
+200 - Title given to 1000747
+200 - vassal: c_sumaba - Holder 1000747 - Primary title: c_sumaba has lost the title: c_sumaba
+200 - sub vassal: c_sumaba - Holder 1000747 - Primary title: c_sumaba has lost the title: c_sumaba
+200 - vassal: c_sumaba - Title given to 1000747 - Primary title: d_tirovan
+200 - sub vassal: c_sumaba - Title given to 1000747 - Primary title: d_tirovan
+200 - Holder (1000747) has gained c_sumaba
+200 - vassal: c_rari - Holder 1000747 - Primary title: c_rari has lost the title: c_rari
+200 - sub vassal: c_rari - Holder 1000747 - Primary title: c_rari has lost the title: c_rari
+200 - vassal: c_rari - Title given to 1000747 - Primary title: d_tirovan
+200 - sub vassal: c_rari - Title given to 1000747 - Primary title: d_tirovan
+200 - Holder (1000747) has gained c_rari
+200 - vassal: c_sumovan - Holder 1000747 - Primary title: c_sumovan has lost the title: c_sumovan
+200 - sub vassal: c_sumovan - Holder 1000747 - Primary title: c_sumovan has lost the title: c_sumovan
+200 - vassal: c_sumovan - Title given to 1000747 - Primary title: d_tirovan
+200 - sub vassal: c_sumovan - Title given to 1000747 - Primary title: d_tirovan
+200 - Holder (1000747) has gained c_sumovan
+200 - vassal: c_nozarou - Holder 1000747 - Primary title: c_nozarou has lost the title: c_nozarou
+200 - sub vassal: c_nozarou - Holder 1000747 - Primary title: c_nozarou has lost the title: c_nozarou
+200 - vassal: c_nozarou - Title given to 1000747 - Primary title: d_tirovan
+200 - sub vassal: c_nozarou - Title given to 1000747 - Primary title: d_tirovan
+200 - Holder (1000747) has gained c_nozarou
+247 - Holder 1002369 - Primary title: d_tirovan has lost the title: d_tirovan
+247 - Title given to 1002369
+247 - vassal: c_nozarou - Holder 1002369 - Primary title: c_nozarou has lost the title: c_nozarou
+247 - vassal: c_nozarou - Title given to 1002369 - Primary title: d_tirovan
+247 - Holder (1002369) has gained c_nozarou
+247 - vassal: c_sumovan - Holder 1002369 - Primary title: c_sumovan has lost the title: c_sumovan
+247 - vassal: c_sumovan - Title given to 1002369 - Primary title: d_tirovan
+247 - Holder (1002369) has gained c_sumovan
+247 - vassal: c_rari - Holder 1002369 - Primary title: c_rari has lost the title: c_rari
+247 - vassal: c_rari - Title given to 1002369 - Primary title: d_tirovan
+247 - Holder (1002369) has gained c_rari
+247 - vassal: c_sumaba - Holder 1002369 - Primary title: c_sumaba has lost the title: c_sumaba
+247 - vassal: c_sumaba - Title given to 1002369 - Primary title: d_tirovan
+247 - Holder (1002369) has gained c_sumaba
+275 - Holder 1004825 - Primary title: d_tirovan has lost the title: d_tirovan
+275 - Title given to 1004825
+275 - vassal: c_sumaba - Holder 1004825 - Primary title: c_sumaba has lost the title: c_sumaba
+275 - vassal: c_sumaba - Title given to 1004825 - Primary title: d_tirovan
+275 - Holder (1004825) has gained c_sumaba
+275 - vassal: c_rari - Holder 1004825 - Primary title: c_rari has lost the title: c_rari
+275 - vassal: c_rari - Title given to 1004825 - Primary title: d_tirovan
+275 - Holder (1004825) has gained c_rari
+275 - vassal: c_sumovan - Holder 1004825 - Primary title: c_sumovan has lost the title: c_sumovan
+275 - vassal: c_sumovan - Title given to 1004825 - Primary title: d_tirovan
+275 - Holder (1004825) has gained c_sumovan
+275 - vassal: c_nozarou - Holder 1004825 - Primary title: c_nozarou has lost the title: c_nozarou
+275 - vassal: c_nozarou - Title given to 1004825 - Primary title: d_tirovan
+275 - Holder (1004825) has gained c_nozarou
+294 - Holder 1006127 - Primary title: d_tirovan has lost the title: d_tirovan
+294 - Title given to 1006127 - Primary title: d_witaud
+294 - vassal: c_nozarou - Holder 1006127 - Primary title: c_nozarou has lost the title: c_nozarou
+294 - vassal: c_nozarou - Title given to 1006127 - Primary title: d_witaud
+294 - vassal: c_sumovan - Holder 1006127 - Primary title: c_sumovan has lost the title: c_sumovan
+294 - vassal: c_sumovan - Title given to 1006127 - Primary title: d_witaud
+294 - vassal: c_rari - Holder 1006127 - Primary title: c_rari has lost the title: c_rari
+294 - vassal: c_rari - Title given to 1006127 - Primary title: d_witaud
+294 - vassal: c_sumaba - Holder 1006127 - Primary title: c_sumaba has lost the title: c_sumaba
+294 - vassal: c_sumaba - Title given to 1006127 - Primary title: d_witaud
+339 - Holder 1007436 - Primary title: d_tirovan has lost the title: d_tirovan
+339 - Title given to 1007436
+339 - vassal: c_nozarou - Setting to vassal of d_witaud in Validate Realm
+339 - Lost vassal: c_nozarou
+339 - vassal: c_sumovan - Setting to vassal of d_witaud in Validate Realm
+339 - Lost vassal: c_sumovan
+339 - vassal: c_rari - Setting to vassal of d_witaud in Validate Realm
+339 - Lost vassal: c_rari
+339 - vassal: c_sumaba - Setting to vassal of d_witaud in Validate Realm
+339 - Lost vassal: c_sumaba
+339 - Holder (1007436) has gained d_witaud
+339 - Holder (1007436) has gained c_takiss
+339 - Holder (1007436) has gained c_nozarou
+339 - Holder (1007436) has gained c_sumovan
+339 - Holder (1007436) has gained c_rari
+339 - Holder (1007436) has gained c_sumaba
+340 - Destroyed due to flagged problem
+340 - Made independent
+340 - Title destroyed
+358 - Given to 1007436 in TestCreateEmpire
+358 - Title given to 1007436 - Primary title: d_witaud
+358 - Made independent for title creation d_tirovan for d_witaud
+358 - Made independent
+358 - Gained vassal: c_sumaba
+358 - Gained vassal: c_rari
+358 - Gained vassal: c_sumovan
+358 - Gained vassal: c_nozarou
+358 - Gained vassal: c_takiss
+359 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+359 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+359 - Lost vassal: c_takiss
+359 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+359 - Gained vassal: c_takiss
+359 - Gained vassal: c_takiss
+359 - vassal: c_takiss - Given to neighbour holder of k_tiel
+359 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+359 - Holder 1010757 - Primary title: d_tirovan has lost the title: c_sumaba
+359 - vassal: c_sumaba - Title given to 1010757
+359 - sub vassal: c_sumaba - Title given to 1010757
+359 - Holder 1010757 - Primary title: d_tirovan has lost the title: c_rari
+359 - vassal: c_rari - Title given to 1010757 - Primary title: c_sumaba
+359 - sub vassal: c_rari - Title given to 1010757 - Primary title: c_sumaba
+359 - vassal: c_sumaba - Holder (1010757) has gained c_rari
+359 - sub vassal: c_sumaba - Holder (1010757) has gained c_rari
+359 - Holder 1010757 - Primary title: d_tirovan has lost the title: c_sumovan
+359 - vassal: c_sumovan - Title given to 1010757 - Primary title: c_sumaba
+359 - sub vassal: c_sumovan - Title given to 1010757 - Primary title: c_sumaba
+359 - vassal: c_sumaba - Holder (1010757) has gained c_sumovan
+359 - sub vassal: c_sumaba - Holder (1010757) has gained c_sumovan
+359 - Holder 1010757 - Primary title: d_tirovan has lost the title: c_nozarou
+359 - vassal: c_nozarou - Title given to 1010757 - Primary title: c_sumaba
+359 - sub vassal: c_nozarou - Title given to 1010757 - Primary title: c_sumaba
+359 - vassal: c_sumaba - Holder (1010757) has gained c_nozarou
+359 - sub vassal: c_sumaba - Holder (1010757) has gained c_nozarou
+359 - Holder 1010757 - Primary title: d_tirovan has lost the title: c_takiss
+359 - vassal: c_takiss - Title given to 1010757 - Primary title: c_sumaba
+359 - sub vassal: c_takiss - Title given to 1010757 - Primary title: c_sumaba
+359 - vassal: c_sumaba - Holder (1010757) has gained c_takiss
+359 - sub vassal: c_sumaba - Holder (1010757) has gained c_takiss
+359 - Holder 1010757 - Primary title: d_tirovan has lost the title: d_tirovan
+359 - Title given to 1010757 - Primary title: c_sumaba
+359 - vassal: c_sumaba - Holder (1010757) has gained d_tirovan
+359 - sub vassal: c_sumaba - Holder (1010757) has gained d_tirovan
+360 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+360 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+360 - Lost vassal: c_takiss
+360 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+360 - Gained vassal: c_takiss
+360 - Gained vassal: c_takiss
+360 - vassal: c_takiss - Given to neighbour holder of k_tiel
+360 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+361 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+361 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+361 - Lost vassal: c_takiss
+361 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+361 - Gained vassal: c_takiss
+361 - Gained vassal: c_takiss
+361 - vassal: c_takiss - Given to neighbour holder of k_tiel
+361 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+362 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+362 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+362 - Lost vassal: c_takiss
+362 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+362 - Gained vassal: c_takiss
+362 - Gained vassal: c_takiss
+362 - vassal: c_takiss - Given to neighbour holder of k_tiel
+362 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+363 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+363 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+363 - Lost vassal: c_takiss
+363 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+363 - Gained vassal: c_takiss
+363 - Gained vassal: c_takiss
+363 - vassal: c_takiss - Given to neighbour holder of k_tiel
+363 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+364 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+364 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+364 - Lost vassal: c_takiss
+364 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+364 - Gained vassal: c_takiss
+364 - Gained vassal: c_takiss
+364 - vassal: c_takiss - Given to neighbour holder of k_tiel
+364 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+365 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+365 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+365 - Lost vassal: c_takiss
+365 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+365 - Gained vassal: c_takiss
+365 - Gained vassal: c_takiss
+365 - vassal: c_takiss - Given to neighbour holder of k_tiel
+365 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+366 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+366 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+366 - Lost vassal: c_takiss
+366 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+366 - Gained vassal: c_takiss
+366 - Gained vassal: c_takiss
+366 - vassal: c_takiss - Given to neighbour holder of k_tiel
+366 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+367 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+367 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+367 - Lost vassal: c_takiss
+367 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+367 - Gained vassal: c_takiss
+367 - Gained vassal: c_takiss
+367 - vassal: c_takiss - Given to neighbour holder of k_tiel
+367 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+368 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+368 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+368 - Lost vassal: c_takiss
+368 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+368 - Gained vassal: c_takiss
+368 - Gained vassal: c_takiss
+368 - vassal: c_takiss - Given to neighbour holder of k_tiel
+368 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+369 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+369 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+369 - Lost vassal: c_takiss
+369 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+369 - Gained vassal: c_takiss
+369 - Gained vassal: c_takiss
+369 - vassal: c_takiss - Given to neighbour holder of k_tiel
+369 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+370 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+370 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+370 - Lost vassal: c_takiss
+370 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+370 - Gained vassal: c_takiss
+370 - Gained vassal: c_takiss
+370 - vassal: c_takiss - Given to neighbour holder of k_tiel
+370 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+371 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+371 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+371 - Lost vassal: c_takiss
+371 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+371 - Gained vassal: c_takiss
+371 - Gained vassal: c_takiss
+371 - vassal: c_takiss - Given to neighbour holder of k_tiel
+371 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+372 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+372 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+372 - Lost vassal: c_takiss
+372 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+372 - Gained vassal: c_takiss
+372 - Gained vassal: c_takiss
+372 - vassal: c_takiss - Given to neighbour holder of k_tiel
+372 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+373 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+373 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+373 - Lost vassal: c_takiss
+373 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+373 - Gained vassal: c_takiss
+373 - Gained vassal: c_takiss
+373 - vassal: c_takiss - Given to neighbour holder of k_tiel
+373 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+374 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+374 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+374 - Lost vassal: c_takiss
+374 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+374 - Gained vassal: c_takiss
+374 - Gained vassal: c_takiss
+374 - vassal: c_takiss - Given to neighbour holder of k_tiel
+374 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+375 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+375 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+375 - Lost vassal: c_takiss
+375 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+375 - Gained vassal: c_takiss
+375 - Gained vassal: c_takiss
+375 - vassal: c_takiss - Given to neighbour holder of k_tiel
+375 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+376 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+376 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+376 - Lost vassal: c_takiss
+376 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+376 - Gained vassal: c_takiss
+376 - Gained vassal: c_takiss
+376 - vassal: c_takiss - Given to neighbour holder of k_tiel
+376 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+377 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+377 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+377 - Lost vassal: c_takiss
+377 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+377 - Gained vassal: c_takiss
+377 - Gained vassal: c_takiss
+377 - vassal: c_takiss - Given to neighbour holder of k_tiel
+377 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+378 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+378 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+378 - Lost vassal: c_takiss
+378 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+378 - Gained vassal: c_takiss
+378 - Gained vassal: c_takiss
+378 - vassal: c_takiss - Given to neighbour holder of k_tiel
+378 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+379 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+379 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+379 - Lost vassal: c_takiss
+379 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+379 - Gained vassal: c_takiss
+379 - Gained vassal: c_takiss
+379 - vassal: c_takiss - Given to neighbour holder of k_tiel
+379 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+380 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+380 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+380 - Lost vassal: c_takiss
+380 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+380 - Gained vassal: c_takiss
+380 - Gained vassal: c_takiss
+380 - vassal: c_takiss - Given to neighbour holder of k_tiel
+380 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+381 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+381 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+381 - Lost vassal: c_takiss
+381 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+381 - Gained vassal: c_takiss
+381 - Gained vassal: c_takiss
+381 - vassal: c_takiss - Given to neighbour holder of k_tiel
+381 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+382 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+382 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+382 - Lost vassal: c_takiss
+382 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+382 - Gained vassal: c_takiss
+382 - Gained vassal: c_takiss
+382 - vassal: c_takiss - Given to neighbour holder of k_tiel
+382 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+383 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+383 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+383 - Lost vassal: c_takiss
+383 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+383 - Gained vassal: c_takiss
+383 - Gained vassal: c_takiss
+383 - vassal: c_takiss - Given to neighbour holder of k_tiel
+383 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+383 - Holder 1011090 - Primary title: d_tirovan has lost the title: d_tirovan
+383 - Title given to 1011090
+383 - vassal: c_sumaba - Holder 1011090 - Primary title: c_sumaba has lost the title: c_sumaba
+383 - sub vassal: c_sumaba - Holder 1011090 - Primary title: c_sumaba has lost the title: c_sumaba
+383 - vassal: c_sumaba - Title given to 1011090 - Primary title: d_tirovan
+383 - sub vassal: c_sumaba - Title given to 1011090 - Primary title: d_tirovan
+383 - Holder (1011090) has gained c_sumaba
+383 - vassal: c_rari - Holder 1011090 - Primary title: c_rari has lost the title: c_rari
+383 - sub vassal: c_rari - Holder 1011090 - Primary title: c_rari has lost the title: c_rari
+383 - vassal: c_rari - Title given to 1011090 - Primary title: d_tirovan
+383 - sub vassal: c_rari - Title given to 1011090 - Primary title: d_tirovan
+383 - Holder (1011090) has gained c_rari
+383 - vassal: c_sumovan - Holder 1011090 - Primary title: c_sumovan has lost the title: c_sumovan
+383 - sub vassal: c_sumovan - Holder 1011090 - Primary title: c_sumovan has lost the title: c_sumovan
+383 - vassal: c_sumovan - Title given to 1011090 - Primary title: d_tirovan
+383 - sub vassal: c_sumovan - Title given to 1011090 - Primary title: d_tirovan
+383 - Holder (1011090) has gained c_sumovan
+383 - vassal: c_nozarou - Holder 1011090 - Primary title: c_nozarou has lost the title: c_nozarou
+383 - sub vassal: c_nozarou - Holder 1011090 - Primary title: c_nozarou has lost the title: c_nozarou
+383 - vassal: c_nozarou - Title given to 1011090 - Primary title: d_tirovan
+383 - sub vassal: c_nozarou - Title given to 1011090 - Primary title: d_tirovan
+383 - Holder (1011090) has gained c_nozarou
+383 - vassal: c_takiss - Holder 1011090 - Primary title: c_takiss has lost the title: c_takiss
+383 - sub vassal: c_takiss - Holder 1011090 - Primary title: c_takiss has lost the title: c_takiss
+383 - vassal: c_takiss - Title given to 1011090 - Primary title: d_tirovan
+383 - sub vassal: c_takiss - Title given to 1011090 - Primary title: d_tirovan
+383 - Holder (1011090) has gained c_takiss
+384 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+384 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+384 - Lost vassal: c_takiss
+384 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+384 - Gained vassal: c_takiss
+384 - Gained vassal: c_takiss
+384 - vassal: c_takiss - Given to neighbour holder of k_tiel
+384 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+385 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+385 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+385 - Lost vassal: c_takiss
+385 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+385 - Gained vassal: c_takiss
+385 - Gained vassal: c_takiss
+385 - vassal: c_takiss - Given to neighbour holder of k_tiel
+385 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+386 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+386 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+386 - Lost vassal: c_takiss
+386 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+386 - Gained vassal: c_takiss
+386 - Gained vassal: c_takiss
+386 - vassal: c_takiss - Given to neighbour holder of k_tiel
+386 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+387 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+387 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+387 - Lost vassal: c_takiss
+387 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+387 - Gained vassal: c_takiss
+387 - Gained vassal: c_takiss
+387 - vassal: c_takiss - Given to neighbour holder of k_tiel
+387 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+388 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+388 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+388 - Lost vassal: c_takiss
+388 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+388 - Gained vassal: c_takiss
+388 - Gained vassal: c_takiss
+388 - vassal: c_takiss - Given to neighbour holder of k_tiel
+388 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+389 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+389 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+389 - Lost vassal: c_takiss
+389 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+389 - Gained vassal: c_takiss
+389 - Gained vassal: c_takiss
+389 - vassal: c_takiss - Given to neighbour holder of k_tiel
+389 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+390 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+390 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+390 - Lost vassal: c_takiss
+390 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+390 - Gained vassal: c_takiss
+390 - Gained vassal: c_takiss
+390 - vassal: c_takiss - Given to neighbour holder of k_tiel
+390 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+391 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+391 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+391 - Lost vassal: c_takiss
+391 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+391 - Gained vassal: c_takiss
+391 - Gained vassal: c_takiss
+391 - vassal: c_takiss - Given to neighbour holder of k_tiel
+391 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+391 - Holder 1012154 - Primary title: d_tirovan has lost the title: d_tirovan
+391 - Title given to 1012154
+391 - vassal: c_sumaba - Holder 1012154 - Primary title: c_sumaba has lost the title: c_sumaba
+391 - sub vassal: c_sumaba - Holder 1012154 - Primary title: c_sumaba has lost the title: c_sumaba
+391 - vassal: c_sumaba - Title given to 1012154 - Primary title: d_tirovan
+391 - sub vassal: c_sumaba - Title given to 1012154 - Primary title: d_tirovan
+391 - Holder (1012154) has gained c_sumaba
+391 - vassal: c_rari - Holder 1012154 - Primary title: c_rari has lost the title: c_rari
+391 - sub vassal: c_rari - Holder 1012154 - Primary title: c_rari has lost the title: c_rari
+391 - vassal: c_rari - Title given to 1012154 - Primary title: d_tirovan
+391 - sub vassal: c_rari - Title given to 1012154 - Primary title: d_tirovan
+391 - Holder (1012154) has gained c_rari
+391 - vassal: c_sumovan - Holder 1012154 - Primary title: c_sumovan has lost the title: c_sumovan
+391 - sub vassal: c_sumovan - Holder 1012154 - Primary title: c_sumovan has lost the title: c_sumovan
+391 - vassal: c_sumovan - Title given to 1012154 - Primary title: d_tirovan
+391 - sub vassal: c_sumovan - Title given to 1012154 - Primary title: d_tirovan
+391 - Holder (1012154) has gained c_sumovan
+391 - vassal: c_nozarou - Holder 1012154 - Primary title: c_nozarou has lost the title: c_nozarou
+391 - sub vassal: c_nozarou - Holder 1012154 - Primary title: c_nozarou has lost the title: c_nozarou
+391 - vassal: c_nozarou - Title given to 1012154 - Primary title: d_tirovan
+391 - sub vassal: c_nozarou - Title given to 1012154 - Primary title: d_tirovan
+391 - Holder (1012154) has gained c_nozarou
+391 - vassal: c_takiss - Holder 1012154 - Primary title: c_takiss has lost the title: c_takiss
+391 - sub vassal: c_takiss - Holder 1012154 - Primary title: c_takiss has lost the title: c_takiss
+391 - vassal: c_takiss - Title given to 1012154 - Primary title: d_tirovan
+391 - sub vassal: c_takiss - Title given to 1012154 - Primary title: d_tirovan
+391 - Holder (1012154) has gained c_takiss
+392 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+392 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+392 - Lost vassal: c_takiss
+392 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+392 - Gained vassal: c_takiss
+392 - Gained vassal: c_takiss
+392 - vassal: c_takiss - Given to neighbour holder of k_tiel
+392 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+393 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+393 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+393 - Lost vassal: c_takiss
+393 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+393 - Gained vassal: c_takiss
+393 - Gained vassal: c_takiss
+393 - vassal: c_takiss - Given to neighbour holder of k_tiel
+393 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+394 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+394 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+394 - Lost vassal: c_takiss
+394 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+394 - Gained vassal: c_takiss
+394 - Gained vassal: c_takiss
+394 - vassal: c_takiss - Given to neighbour holder of k_tiel
+394 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+395 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+395 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+395 - Lost vassal: c_takiss
+395 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+395 - Gained vassal: c_takiss
+395 - Gained vassal: c_takiss
+395 - vassal: c_takiss - Given to neighbour holder of k_tiel
+395 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+396 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+396 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+396 - Lost vassal: c_takiss
+396 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+396 - Gained vassal: c_takiss
+396 - Gained vassal: c_takiss
+396 - vassal: c_takiss - Given to neighbour holder of k_tiel
+396 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+397 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+397 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+397 - Lost vassal: c_takiss
+397 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+397 - Gained vassal: c_takiss
+397 - Gained vassal: c_takiss
+397 - vassal: c_takiss - Given to neighbour holder of k_tiel
+397 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+398 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+398 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+398 - Lost vassal: c_takiss
+398 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+398 - Gained vassal: c_takiss
+398 - Gained vassal: c_takiss
+398 - vassal: c_takiss - Given to neighbour holder of k_tiel
+398 - sub vassal: c_takiss - Given to neighbour holder of k_tiel
+399 - vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+399 - sub vassal: c_takiss - Made vassal of neighbour (k_tiel) due to being a seperate island
+399 - Lost vassal: c_takiss
+399 - sub vassal: c_takiss - Setting to vassal of d_tirovan in Validate Realm
+399 - Gained vassal: c_takiss
+399 - Gained vassal: c_takiss
+399 - vassal: c_takiss - Given to neighbour holder of k_tiel
+399 - sub vassal: c_takiss - Given to neighbour holder of k_tiel

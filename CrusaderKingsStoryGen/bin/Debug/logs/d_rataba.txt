@@ -1,0 +1,150 @@
+200 - Title given to 1000399
+200 - vassal: c_rajari - Given to 1000402 via AddCharacterForTitle
+200 - sub vassal: c_rajari - Given to 1000402 via AddCharacterForTitle
+200 - vassal: c_rajari - Holder 1000402 - Primary title: c_rajari has lost the title: c_rajari
+200 - sub vassal: c_rajari - Holder 1000402 - Primary title: c_rajari has lost the title: c_rajari
+200 - vassal: c_rajari - Title given to 1000402
+200 - sub vassal: c_rajari - Title given to 1000402
+200 - vassal: c_dozari - Given to 1000404 via AddCharacterForTitle
+200 - sub vassal: c_dozari - Given to 1000404 via AddCharacterForTitle
+200 - vassal: c_dozari - Holder 1000404 - Primary title: c_dozari has lost the title: c_dozari
+200 - sub vassal: c_dozari - Holder 1000404 - Primary title: c_dozari has lost the title: c_dozari
+200 - vassal: c_dozari - Title given to 1000404
+200 - sub vassal: c_dozari - Title given to 1000404
+200 - vassal: c_tasta - Holder 1000399 - Primary title: c_tasta has lost the title: c_tasta
+200 - sub vassal: c_tasta - Holder 1000399 - Primary title: c_tasta has lost the title: c_tasta
+200 - vassal: c_tasta - Title given to 1000399 - Primary title: d_rataba
+200 - sub vassal: c_tasta - Title given to 1000399 - Primary title: d_rataba
+200 - Holder (1000399) has gained c_tasta
+200 - vassal: c_rajari - Holder 1000399 - Primary title: c_rajari has lost the title: c_rajari
+200 - sub vassal: c_rajari - Holder 1000399 - Primary title: c_rajari has lost the title: c_rajari
+200 - vassal: c_rajari - Title given to 1000399 - Primary title: d_rataba
+200 - sub vassal: c_rajari - Title given to 1000399 - Primary title: d_rataba
+200 - Holder (1000399) has gained c_rajari
+200 - vassal: c_aprhiss - Title given to 1000399 - Primary title: d_rataba
+200 - Holder (1000399) has gained c_aprhiss
+229 - Holder 1001508 - Primary title: d_rataba has lost the title: d_rataba
+229 - Title given to 1001508
+229 - vassal: c_tasta - Holder 1001508 - Primary title: c_tasta has lost the title: c_tasta
+229 - vassal: c_tasta - Title given to 1001508 - Primary title: d_rataba
+229 - Holder (1001508) has gained c_tasta
+229 - vassal: c_rajari - Holder 1001508 - Primary title: c_rajari has lost the title: c_rajari
+229 - vassal: c_rajari - Title given to 1001508 - Primary title: d_rataba
+229 - Holder (1001508) has gained c_rajari
+229 - vassal: c_aprhiss - Holder 1001508 - Primary title: c_aprhiss has lost the title: c_aprhiss
+229 - vassal: c_aprhiss - Title given to 1001508 - Primary title: d_rataba
+229 - Holder (1001508) has gained c_aprhiss
+249 - Holder (1001508) has gained d_degalyan
+249 - Holder (1001508) has gained c_bani
+249 - Holder (1001508) has gained c_kani
+249 - Holder (1001508) has gained c_rumasta
+250 - vassal: c_aprhiss - Title given to 1004637
+252 - Title given to 1004305
+252 - vassal: c_rajari - Setting to vassal of d_degalyan in Validate Realm
+252 - Lost vassal: c_rajari
+252 - vassal: c_tasta - Setting to vassal of d_degalyan in Validate Realm
+252 - Lost vassal: c_tasta
+252 - Holder (1004305) has gained c_rajari
+252 - Gained vassal: c_rajari
+252 - Holder (1004305) has gained c_tasta
+252 - Gained vassal: c_tasta
+252 - Holder (1004305) has gained d_degalyan
+252 - Holder (1004305) has gained c_bani
+252 - Holder (1004305) has gained c_kani
+252 - Holder (1004305) has gained c_rumasta
+291 - Holder 1005427 - Primary title: d_rataba has lost the title: d_rataba
+291 - Title given to 1005427
+291 - vassal: c_rajari - Setting to vassal of d_degalyan in Validate Realm
+291 - Lost vassal: c_rajari
+291 - vassal: c_tasta - Setting to vassal of d_degalyan in Validate Realm
+291 - Lost vassal: c_tasta
+291 - Holder (1005427) has gained d_degalyan
+291 - Holder (1005427) has gained c_rajari
+291 - Holder (1005427) has gained c_tasta
+291 - Holder (1005427) has gained c_bani
+291 - Holder (1005427) has gained c_kani
+291 - Holder (1005427) has gained c_rumasta
+291 - vassal: c_aprhiss - Holder 1005427 - Primary title: c_aprhiss has lost the title: c_aprhiss
+291 - vassal: c_aprhiss - Title given to 1005427 - Primary title: d_rataba
+291 - Holder (1005427) has gained c_aprhiss
+292 - Holder 1007106 - Primary title: d_rataba has lost the title: c_bani
+293 - Holder (1005427) has gained k_tiel
+294 - vassal: c_aprhiss - Given to 1007227 in HandleTitles - Too many duke titles
+294 - vassal: c_aprhiss - Title given to 1007227
+294 - Title given to 1007227 - Primary title: c_aprhiss
+294 - vassal: c_aprhiss - Holder (1007227) has gained d_rataba
+294 - Too many dukes, given to dejure: k_tiel
+298 - Holder (1007227) has gained d_egaudant
+298 - Holder (1007227) has gained c_kolayah
+299 - vassal: c_aprhiss - Given to 1007544 in HandleTitles - Too many duke titles
+299 - vassal: c_aprhiss - Title given to 1007544
+299 - Title given to 1007544 - Primary title: c_aprhiss
+299 - vassal: c_aprhiss - Holder (1007544) has gained d_rataba
+299 - Too many dukes, given to dejure: k_tiel
+312 - Holder 1007805 - Primary title: d_rataba has lost the title: d_rataba
+312 - Title given to 1007805
+312 - vassal: c_aprhiss - Holder 1007805 - Primary title: c_aprhiss has lost the title: c_aprhiss
+312 - vassal: c_aprhiss - Title given to 1007805 - Primary title: d_rataba
+312 - Holder (1007805) has gained c_aprhiss
+322 - Holder 1008802 - Primary title: d_rataba has lost the title: d_rataba
+322 - Title given to 1008802
+322 - vassal: c_aprhiss - Holder 1008802 - Primary title: c_aprhiss has lost the title: c_aprhiss
+322 - vassal: c_aprhiss - Title given to 1008802 - Primary title: d_rataba
+322 - Holder (1008802) has gained c_aprhiss
+325 - Holder 1005562 - Primary title: d_rataba has lost the title: d_rataba
+325 - Title given to 1005562 - Primary title: d_degalyan
+325 - vassal: c_aprhiss - Holder 1005562 - Primary title: c_aprhiss has lost the title: c_aprhiss
+325 - vassal: c_aprhiss - Title given to 1005562 - Primary title: d_degalyan
+329 - Holder 1007944 - Primary title: d_rataba has lost the title: d_degalyan
+329 - Gained vassal: c_bani
+329 - Holder 1007944 - Primary title: d_rataba has lost the title: c_bani
+329 - vassal: c_bani - Title given to 1007944 - Primary title: d_degalyan
+329 - vassal: c_bani - Setting to vassal of d_degalyan in Validate Realm
+329 - Lost vassal: c_bani
+329 - Holder 1007944 - Primary title: d_rataba has lost the title: d_rataba
+329 - Title given to 1007944 - Primary title: d_degalyan
+329 - vassal: c_aprhiss - Holder 1007944 - Primary title: c_aprhiss has lost the title: c_aprhiss
+329 - vassal: c_aprhiss - Title given to 1007944 - Primary title: d_degalyan
+334 - Holder 1007686 - Primary title: d_rataba has lost the title: d_degalyan
+334 - Gained vassal: c_bani
+334 - Holder 1007686 - Primary title: d_rataba has lost the title: c_bani
+334 - vassal: c_bani - Title given to 1007686 - Primary title: k_tiel
+334 - vassal: c_bani - Setting to vassal of k_tiel in Validate Realm
+334 - Lost vassal: c_bani
+334 - Holder 1007686 - Primary title: d_rataba has lost the title: d_rataba
+334 - Title given to 1007686 - Primary title: k_tiel
+334 - vassal: c_aprhiss - Holder 1007686 - Primary title: c_aprhiss has lost the title: c_aprhiss
+334 - vassal: c_aprhiss - Title given to 1007686 - Primary title: k_tiel
+334 - vassal: c_aprhiss - Given to 1009469 in HandleTitles - Too many duke titles
+334 - vassal: c_aprhiss - Title given to 1009469
+334 - Title given to 1009469 - Primary title: c_aprhiss
+334 - vassal: c_aprhiss - Holder (1009469) has gained d_rataba
+334 - Too many dukes, given to dejure: k_tiel
+348 - Holder (1009469) has gained d_egaudant
+348 - Holder (1009469) has gained c_kolayah
+369 - Gained vassal: c_kolayah
+369 - Holder 1009647 - Primary title: d_rataba has lost the title: d_rataba
+369 - Title given to 1009647 - Primary title: d_egaudant
+369 - vassal: c_kolayah - Holder 1009647 - Primary title: c_kolayah has lost the title: c_kolayah
+369 - vassal: c_kolayah - Title given to 1009647 - Primary title: d_egaudant
+369 - vassal: c_aprhiss - Holder 1009647 - Primary title: c_aprhiss has lost the title: c_aprhiss
+369 - vassal: c_aprhiss - Title given to 1009647 - Primary title: d_egaudant
+375 - vassal: c_kolayah - Title given to 1011546
+375 - vassal: c_aprhiss - Title given to 1011547
+386 - Gained vassal: c_ebiruo
+386 - Gained vassal: c_kanari
+386 - Gained vassal: c_rajari
+386 - Gained vassal: c_rumasta
+386 - Gained vassal: c_bani
+386 - Holder 1011288 - Primary title: d_rataba has lost the title: d_rataba
+386 - Title given to 1011288 - Primary title: k_tiel
+386 - vassal: c_bani - Holder 1011288 - Primary title: c_bani has lost the title: c_bani
+386 - vassal: c_bani - Title given to 1011288 - Primary title: k_tiel
+386 - vassal: c_rumasta - Holder 1011288 - Primary title: c_rumasta has lost the title: c_rumasta
+386 - vassal: c_rumasta - Title given to 1011288 - Primary title: k_tiel
+386 - vassal: c_rajari - Holder 1011288 - Primary title: c_rajari has lost the title: c_rajari
+386 - vassal: c_rajari - Title given to 1011288 - Primary title: k_tiel
+386 - vassal: c_kanari - Holder 1011288 - Primary title: c_kanari has lost the title: c_kanari
+386 - vassal: c_kanari - Title given to 1011288 - Primary title: k_tiel
+386 - vassal: c_ebiruo - Holder 1011288 - Primary title: c_ebiruo has lost the title: c_ebiruo
+386 - vassal: c_ebiruo - Title given to 1011288 - Primary title: k_tiel

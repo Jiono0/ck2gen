@@ -1,0 +1,53 @@
+200 - Title given to 1000516
+200 - vassal: c_apyal - Given to 1000519 via AddCharacterForTitle
+200 - sub vassal: c_apyal - Given to 1000519 via AddCharacterForTitle
+200 - vassal: c_apyal - Holder 1000519 - Primary title: c_apyal has lost the title: c_apyal
+200 - sub vassal: c_apyal - Holder 1000519 - Primary title: c_apyal has lost the title: c_apyal
+200 - vassal: c_apyal - Title given to 1000519
+200 - sub vassal: c_apyal - Title given to 1000519
+200 - vassal: c_keslaw - Holder 1000516 - Primary title: c_keslaw has lost the title: c_keslaw
+200 - sub vassal: c_keslaw - Holder 1000516 - Primary title: c_keslaw has lost the title: c_keslaw
+200 - vassal: c_keslaw - Title given to 1000516 - Primary title: d_reuperi
+200 - sub vassal: c_keslaw - Title given to 1000516 - Primary title: d_reuperi
+200 - Holder (1000516) has gained c_keslaw
+200 - vassal: c_apyal - Holder 1000516 - Primary title: c_apyal has lost the title: c_apyal
+200 - sub vassal: c_apyal - Holder 1000516 - Primary title: c_apyal has lost the title: c_apyal
+200 - vassal: c_apyal - Title given to 1000516 - Primary title: d_reuperi
+200 - sub vassal: c_apyal - Title given to 1000516 - Primary title: d_reuperi
+200 - Holder (1000516) has gained c_apyal
+206 - Holder (1000516) has gained k_tagabha
+223 - vassal: c_apyal - Title given to 1002897
+234 - Gained vassal: c_tavosh
+234 - Gained vassal: c_rasator
+234 - Gained vassal: c_wideslaw
+234 - Holder 1001239 - Primary title: d_reuperi has lost the title: d_reuperi
+234 - Title given to 1001239 - Primary title: k_tagabha
+234 - vassal: c_wideslaw - Holder 1001239 - Primary title: c_wideslaw has lost the title: c_wideslaw
+234 - vassal: c_wideslaw - Title given to 1001239 - Primary title: k_tagabha
+234 - vassal: c_keslaw - Holder 1001239 - Primary title: c_keslaw has lost the title: c_keslaw
+234 - vassal: c_keslaw - Title given to 1001239 - Primary title: k_tagabha
+234 - vassal: c_rasator - Holder 1001239 - Primary title: c_rasator has lost the title: c_rasator
+234 - vassal: c_rasator - Title given to 1001239 - Primary title: k_tagabha
+234 - vassal: c_tavosh - Holder 1001239 - Primary title: c_tavosh has lost the title: c_tavosh
+234 - vassal: c_tavosh - Title given to 1001239 - Primary title: k_tagabha
+244 - Holder 1001306 - Primary title: d_reuperi has lost the title: d_reuperi
+244 - Title given to 1001306 - Primary title: k_tagabha
+244 - vassal: c_tavosh - Holder 1001306 - Primary title: c_tavosh has lost the title: c_tavosh
+244 - vassal: c_tavosh - Title given to 1001306 - Primary title: k_tagabha
+244 - vassal: c_rasator - Holder 1001306 - Primary title: c_rasator has lost the title: c_rasator
+244 - vassal: c_rasator - Title given to 1001306 - Primary title: k_tagabha
+244 - vassal: c_keslaw - Holder 1001306 - Primary title: c_keslaw has lost the title: c_keslaw
+244 - vassal: c_keslaw - Title given to 1001306 - Primary title: k_tagabha
+244 - vassal: c_wideslaw - Holder 1001306 - Primary title: c_wideslaw has lost the title: c_wideslaw
+244 - vassal: c_wideslaw - Title given to 1001306 - Primary title: k_tagabha
+245 - vassal: c_keslaw - Given to 1004144 in HandleTitles - Too many duke titles
+245 - vassal: c_keslaw - Title given to 1004144
+245 - Title given to 1004144 - Primary title: c_keslaw
+245 - vassal: c_keslaw - Holder (1004144) has gained d_reuperi
+245 - vassal: c_tavosh - Setting to vassal of k_tagabha in Validate Realm
+245 - Lost vassal: c_tavosh
+245 - vassal: c_rasator - Setting to vassal of k_tagabha in Validate Realm
+245 - Lost vassal: c_rasator
+245 - vassal: c_wideslaw - Setting to vassal of k_tagabha in Validate Realm
+245 - Lost vassal: c_wideslaw
+245 - Too many dukes, given to dejure: k_tagabha

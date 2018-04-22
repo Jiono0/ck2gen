@@ -1,0 +1,40 @@
+200 - Title given to 1000801
+200 - vassal: c_donile - Given to 1000804 via AddCharacterForTitle
+200 - sub vassal: c_donile - Given to 1000804 via AddCharacterForTitle
+200 - vassal: c_donile - Holder 1000804 - Primary title: c_donile has lost the title: c_donile
+200 - sub vassal: c_donile - Holder 1000804 - Primary title: c_donile has lost the title: c_donile
+200 - vassal: c_donile - Title given to 1000804
+200 - sub vassal: c_donile - Title given to 1000804
+200 - vassal: c_nukita - Holder 1000801 - Primary title: c_nukita has lost the title: c_nukita
+200 - sub vassal: c_nukita - Holder 1000801 - Primary title: c_nukita has lost the title: c_nukita
+200 - vassal: c_nukita - Title given to 1000801 - Primary title: d_teraga
+200 - sub vassal: c_nukita - Title given to 1000801 - Primary title: d_teraga
+200 - Holder (1000801) has gained c_nukita
+200 - vassal: c_donile - Holder 1000801 - Primary title: c_donile has lost the title: c_donile
+200 - sub vassal: c_donile - Holder 1000801 - Primary title: c_donile has lost the title: c_donile
+200 - vassal: c_donile - Title given to 1000801 - Primary title: d_teraga
+200 - sub vassal: c_donile - Title given to 1000801 - Primary title: d_teraga
+200 - Holder (1000801) has gained c_donile
+241 - Holder 1002434 - Primary title: d_teraga has lost the title: d_teraga
+241 - Title given to 1002434
+241 - vassal: c_donile - Holder 1002434 - Primary title: c_donile has lost the title: c_donile
+241 - vassal: c_donile - Title given to 1002434 - Primary title: d_teraga
+241 - Holder (1002434) has gained c_donile
+241 - vassal: c_nukita - Holder 1002434 - Primary title: c_nukita has lost the title: c_nukita
+241 - vassal: c_nukita - Title given to 1002434 - Primary title: d_teraga
+241 - Holder (1002434) has gained c_nukita
+269 - Holder 1004674 - Primary title: d_teraga has lost the title: d_teraga
+269 - Title given to 1004674 - Primary title: k_riliusz
+269 - vassal: c_nukita - Holder 1004674 - Primary title: c_nukita has lost the title: c_nukita
+269 - vassal: c_nukita - Title given to 1004674 - Primary title: k_riliusz
+269 - vassal: c_donile - Holder 1004674 - Primary title: c_donile has lost the title: c_donile
+269 - vassal: c_donile - Title given to 1004674 - Primary title: k_riliusz
+289 - Holder 1005510 - Primary title: d_teraga has lost the title: d_teraga
+289 - Title given to 1005510 - Primary title: k_riliusz
+289 - vassal: c_donile - Setting to vassal of d_rara in Validate Realm
+289 - Lost vassal: c_donile
+289 - vassal: c_nukita - Setting to vassal of d_rara in Validate Realm
+289 - Lost vassal: c_nukita
+290 - Destroyed due to flagged problem
+290 - Made independent
+290 - Title destroyed

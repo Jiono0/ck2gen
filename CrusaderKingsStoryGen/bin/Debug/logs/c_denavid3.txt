@@ -1,0 +1,18 @@
+200 - Title given to 1000001 - Primary title: c_talobad
+200 - Given to 1000101 via AddCharacterForTitle
+200 - Title given to 1000101
+200 - Given to 1000102 via AddCharacterForTitle
+200 - Holder 1000102 - Primary title: c_denavid has lost the title: c_denavid
+200 - Title given to 1000102
+200 - Holder 1000099 - Primary title: c_denavid has lost the title: c_denavid
+200 - Title given to 1000099 - Primary title: d_tozeva
+214 - Holder 1001148 - Primary title: c_denavid has lost the title: c_denavid
+214 - Title given to 1001148 - Primary title: d_tozeva
+221 - Holder 1000092 - Primary title: c_denavid has lost the title: c_denavid
+221 - Title given to 1000092 - Primary title: k_bozemar
+247 - Title given to 1004268
+251 - Given to 1004529 in HandleTitles - Too many duke titles
+251 - Holder 1004529 - Primary title: c_denavid has lost the title: c_denavid
+251 - Title given to 1004529
+251 - Holder (1004529) has gained d_tozeva
+269 - Title given to 1005498

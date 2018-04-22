@@ -1,0 +1,133 @@
+200 - Title given to 1000134
+200 - vassal: c_koshel - Holder 1000099 - Primary title: c_koshel has lost the title: c_safoshel
+200 - sub vassal: c_koshel - Holder 1000099 - Primary title: c_koshel has lost the title: c_safoshel
+200 - sub vassal: c_safoshel - Title given to 1000099 - Primary title: d_emeiriga
+200 - vassal: c_koshel - Holder 1000104 - Primary title: c_koshel has lost the title: c_devat
+200 - sub vassal: c_koshel - Holder 1000104 - Primary title: c_koshel has lost the title: c_devat
+200 - sub vassal: c_devat - Title given to 1000104 - Primary title: d_diturt
+200 - vassal: c_asaleph - Holder 1000134 - Primary title: c_asaleph has lost the title: c_asaleph
+200 - sub vassal: c_asaleph - Holder 1000134 - Primary title: c_asaleph has lost the title: c_asaleph
+200 - vassal: c_asaleph - Title given to 1000134 - Primary title: d_everund
+200 - sub vassal: c_asaleph - Title given to 1000134 - Primary title: d_everund
+200 - Holder (1000134) has gained c_asaleph
+200 - vassal: c_dousa - Holder 1000134 - Primary title: c_dousa has lost the title: c_dousa
+200 - sub vassal: c_dousa - Holder 1000134 - Primary title: c_dousa has lost the title: c_dousa
+200 - vassal: c_dousa - Title given to 1000134 - Primary title: d_everund
+200 - sub vassal: c_dousa - Title given to 1000134 - Primary title: d_everund
+200 - Holder (1000134) has gained c_dousa
+200 - vassal: c_luisaul - Holder 1000134 - Primary title: c_luisaul has lost the title: c_luisaul
+200 - sub vassal: c_luisaul - Holder 1000134 - Primary title: c_luisaul has lost the title: c_luisaul
+200 - vassal: c_luisaul - Title given to 1000134 - Primary title: d_everund
+200 - sub vassal: c_luisaul - Title given to 1000134 - Primary title: d_everund
+200 - Holder (1000134) has gained c_luisaul
+200 - vassal: c_koshel - Holder 1000134 - Primary title: c_koshel has lost the title: c_koshel
+200 - sub vassal: c_koshel - Holder 1000134 - Primary title: c_koshel has lost the title: c_koshel
+200 - vassal: c_koshel - Title given to 1000134 - Primary title: d_everund
+200 - sub vassal: c_koshel - Title given to 1000134 - Primary title: d_everund
+200 - Holder (1000134) has gained c_koshel
+237 - Holder 1003092 - Primary title: d_everund has lost the title: d_everund
+237 - Title given to 1003092
+237 - vassal: c_asaleph - Holder 1003092 - Primary title: c_asaleph has lost the title: c_asaleph
+237 - vassal: c_asaleph - Title given to 1003092 - Primary title: d_everund
+237 - Holder (1003092) has gained c_asaleph
+237 - vassal: c_dousa - Holder 1003092 - Primary title: c_dousa has lost the title: c_dousa
+237 - vassal: c_dousa - Title given to 1003092 - Primary title: d_everund
+237 - Holder (1003092) has gained c_dousa
+237 - vassal: c_luisaul - Holder 1003092 - Primary title: c_luisaul has lost the title: c_luisaul
+237 - vassal: c_luisaul - Title given to 1003092 - Primary title: d_everund
+237 - Holder (1003092) has gained c_luisaul
+237 - vassal: c_koshel - Holder 1003092 - Primary title: c_koshel has lost the title: c_koshel
+237 - vassal: c_koshel - Title given to 1003092 - Primary title: d_everund
+237 - Holder (1003092) has gained c_koshel
+257 - Holder 1002099 - Primary title: d_everund has lost the title: d_everund
+257 - Title given to 1002099 - Primary title: d_wuisota
+257 - vassal: c_koshel - Holder 1002099 - Primary title: c_koshel has lost the title: c_koshel
+257 - vassal: c_koshel - Title given to 1002099 - Primary title: d_wuisota
+257 - vassal: c_luisaul - Holder 1002099 - Primary title: c_luisaul has lost the title: c_luisaul
+257 - vassal: c_luisaul - Title given to 1002099 - Primary title: d_wuisota
+257 - vassal: c_dousa - Holder 1002099 - Primary title: c_dousa has lost the title: c_dousa
+257 - vassal: c_dousa - Title given to 1002099 - Primary title: d_wuisota
+257 - vassal: c_asaleph - Holder 1002099 - Primary title: c_asaleph has lost the title: c_asaleph
+257 - vassal: c_asaleph - Title given to 1002099 - Primary title: d_wuisota
+258 - Holder 1005122 - Primary title: d_everund has lost the title: c_tudezs
+258 - Holder 1001830 - Primary title: d_everund has lost the title: c_rouzsi
+258 - Holder 1005123 - Primary title: d_everund has lost the title: c_lyevund
+261 - Holder 1004297 - Primary title: d_everund has lost the title: d_everund
+261 - Title given to 1004297
+261 - vassal: c_asaleph - Setting to vassal of d_wuisota in Validate Realm
+261 - Lost vassal: c_asaleph
+261 - vassal: c_dousa - Setting to vassal of d_wuisota in Validate Realm
+261 - Lost vassal: c_dousa
+261 - vassal: c_luisaul - Setting to vassal of d_wuisota in Validate Realm
+261 - Lost vassal: c_luisaul
+261 - vassal: c_koshel - Setting to vassal of d_wuisota in Validate Realm
+261 - Lost vassal: c_koshel
+261 - Holder (1004297) has gained d_wuisota
+261 - Holder (1004297) has gained c_asaleph
+261 - Holder (1004297) has gained c_dousa
+261 - Holder (1004297) has gained c_luisaul
+261 - Holder (1004297) has gained c_koshel
+261 - Holder (1004297) has gained c_suisid
+262 - Destroyed due to flagged problem
+262 - Made independent
+262 - Title destroyed
+274 - Given to 1005753 in TestCreateEmpire
+274 - Title given to 1005753 - Primary title: d_wuisota
+274 - Made independent for title creation d_everund for d_wuisota
+274 - Made independent
+274 - Gained vassal: c_asaleph
+274 - Gained vassal: c_dousa
+274 - Gained vassal: c_luisaul
+274 - Gained vassal: c_koshel
+274 - Gained vassal: c_suisid
+344 - Holder 1007093 - Primary title: d_everund has lost the title: d_everund
+344 - Title given to 1007093 - Primary title: d_wuisota
+344 - vassal: c_asaleph - Holder 1007093 - Primary title: c_asaleph has lost the title: c_asaleph
+344 - vassal: c_asaleph - Title given to 1007093 - Primary title: d_wuisota
+344 - vassal: c_dousa - Holder 1007093 - Primary title: c_dousa has lost the title: c_dousa
+344 - vassal: c_dousa - Title given to 1007093 - Primary title: d_wuisota
+344 - vassal: c_luisaul - Holder 1007093 - Primary title: c_luisaul has lost the title: c_luisaul
+344 - vassal: c_luisaul - Title given to 1007093 - Primary title: d_wuisota
+344 - vassal: c_koshel - Holder 1007093 - Primary title: c_koshel has lost the title: c_koshel
+344 - vassal: c_koshel - Title given to 1007093 - Primary title: d_wuisota
+344 - vassal: c_suisid - Holder 1007093 - Primary title: c_suisid has lost the title: c_suisid
+344 - vassal: c_suisid - Title given to 1007093 - Primary title: d_wuisota
+356 - vassal: c_asaleph - Title given to 1010613
+356 - vassal: c_suisid - Title given to 1010614
+356 - vassal: c_luisaul - Title given to 1010616
+356 - sub vassal: c_amilanda - Setting to vassal of d_everund in Validate Realm
+356 - sub vassal: c_everadr - Setting to vassal of d_everund in Validate Realm
+356 - Gained vassal: c_everadr
+356 - Gained vassal: c_amilanda
+356 - Holder 1010149 - Primary title: d_everund has lost the title: d_everund
+356 - Title given to 1010149 - Primary title: k_tamoshel
+356 - vassal: c_dousa - Holder 1010149 - Primary title: c_dousa has lost the title: c_dousa
+356 - vassal: c_dousa - Title given to 1010149 - Primary title: k_tamoshel
+356 - vassal: c_koshel - Holder 1010149 - Primary title: c_koshel has lost the title: c_koshel
+356 - vassal: c_koshel - Title given to 1010149 - Primary title: k_tamoshel
+356 - vassal: c_amilanda - Holder 1010149 - Primary title: c_amilanda has lost the title: c_amilanda
+356 - vassal: c_amilanda - Title given to 1010149 - Primary title: k_tamoshel
+356 - vassal: c_everadr - Holder 1010149 - Primary title: c_everadr has lost the title: c_everadr
+356 - vassal: c_everadr - Title given to 1010149 - Primary title: k_tamoshel
+359 - Holder 1008853 - Primary title: d_everund has lost the title: d_everund
+359 - Title given to 1008853 - Primary title: k_tamoshel
+359 - vassal: c_dousa - Holder 1008853 - Primary title: c_dousa has lost the title: c_dousa
+359 - vassal: c_dousa - Title given to 1008853 - Primary title: k_tamoshel
+359 - vassal: c_koshel - Holder 1008853 - Primary title: c_koshel has lost the title: c_koshel
+359 - vassal: c_koshel - Title given to 1008853 - Primary title: k_tamoshel
+359 - vassal: c_amilanda - Holder 1008853 - Primary title: c_amilanda has lost the title: c_amilanda
+359 - vassal: c_amilanda - Title given to 1008853 - Primary title: k_tamoshel
+359 - vassal: c_everadr - Holder 1008853 - Primary title: c_everadr has lost the title: c_everadr
+359 - vassal: c_everadr - Title given to 1008853 - Primary title: k_tamoshel
+360 - vassal: c_amilanda - Title given to 1010813
+360 - vassal: c_everadr - Title given to 1010814
+383 - vassal: c_luisaul - Given to 1011944 in HandleTitles - Too many duke titles
+383 - vassal: c_luisaul - Holder 1011944 - Primary title: c_luisaul has lost the title: c_luisaul
+383 - vassal: c_luisaul - Title given to 1011944
+383 - Title given to 1011944 - Primary title: c_luisaul
+383 - vassal: c_luisaul - Holder (1011944) has gained d_everund
+383 - vassal: c_dousa - Setting to vassal of k_tamoshel in Validate Realm
+383 - Lost vassal: c_dousa
+383 - vassal: c_koshel - Setting to vassal of k_tamoshel in Validate Realm
+383 - Lost vassal: c_koshel
+383 - Too many dukes, given to dejure: k_tamoshel

@@ -1,0 +1,40 @@
+200 - Title given to 1000605
+200 - vassal: c_kikya - Given to 1000608 via AddCharacterForTitle
+200 - sub vassal: c_kikya - Given to 1000608 via AddCharacterForTitle
+200 - vassal: c_kikya - Holder 1000608 - Primary title: c_kikya has lost the title: c_kikya
+200 - sub vassal: c_kikya - Holder 1000608 - Primary title: c_kikya has lost the title: c_kikya
+200 - vassal: c_kikya - Title given to 1000608
+200 - sub vassal: c_kikya - Title given to 1000608
+200 - vassal: c_dasaday - Given to 1000610 via AddCharacterForTitle
+200 - sub vassal: c_dasaday - Given to 1000610 via AddCharacterForTitle
+200 - vassal: c_dasaday - Holder 1000610 - Primary title: c_dasaday has lost the title: c_dasaday
+200 - sub vassal: c_dasaday - Holder 1000610 - Primary title: c_dasaday has lost the title: c_dasaday
+200 - vassal: c_dasaday - Title given to 1000610
+200 - sub vassal: c_dasaday - Title given to 1000610
+200 - vassal: c_eshnan - Holder 1000605 - Primary title: c_eshnan has lost the title: c_eshnan
+200 - sub vassal: c_eshnan - Holder 1000605 - Primary title: c_eshnan has lost the title: c_eshnan
+200 - vassal: c_eshnan - Title given to 1000605 - Primary title: d_ranin
+200 - sub vassal: c_eshnan - Title given to 1000605 - Primary title: d_ranin
+200 - Holder (1000605) has gained c_eshnan
+200 - vassal: c_kikya - Holder 1000605 - Primary title: c_kikya has lost the title: c_kikya
+200 - sub vassal: c_kikya - Holder 1000605 - Primary title: c_kikya has lost the title: c_kikya
+200 - vassal: c_kikya - Title given to 1000605 - Primary title: d_ranin
+200 - sub vassal: c_kikya - Title given to 1000605 - Primary title: d_ranin
+200 - Holder (1000605) has gained c_kikya
+200 - vassal: c_damiel - Holder 1000605 - Primary title: c_damiel has lost the title: c_damiel
+200 - sub vassal: c_damiel - Holder 1000605 - Primary title: c_damiel has lost the title: c_damiel
+200 - vassal: c_damiel - Title given to 1000605 - Primary title: d_ranin
+200 - sub vassal: c_damiel - Title given to 1000605 - Primary title: d_ranin
+200 - Holder (1000605) has gained c_damiel
+218 - Holder (1000605) has gained k_kente
+237 - Holder 1001827 - Primary title: d_ranin has lost the title: d_ranin
+237 - Title given to 1001827 - Primary title: k_kente
+237 - vassal: c_eshnan - Setting to vassal of d_tagalka in Validate Realm
+237 - Lost vassal: c_eshnan
+237 - vassal: c_kikya - Setting to vassal of d_tagalka in Validate Realm
+237 - Lost vassal: c_kikya
+237 - vassal: c_damiel - Setting to vassal of d_tagalka in Validate Realm
+237 - Lost vassal: c_damiel
+238 - Destroyed due to flagged problem
+238 - Made independent
+238 - Title destroyed

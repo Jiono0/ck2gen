@@ -1,0 +1,22 @@
+200 - Title given to 1000565
+200 - vassal: c_bupand - Given to 1000568 via AddCharacterForTitle
+200 - sub vassal: c_bupand - Given to 1000568 via AddCharacterForTitle
+200 - vassal: c_bupand - Holder 1000568 - Primary title: c_bupand has lost the title: c_bupand
+200 - sub vassal: c_bupand - Holder 1000568 - Primary title: c_bupand has lost the title: c_bupand
+200 - vassal: c_bupand - Title given to 1000568
+200 - sub vassal: c_bupand - Title given to 1000568
+200 - vassal: c_wyad - Holder 1000565 - Primary title: c_wyad has lost the title: c_wyad
+200 - sub vassal: c_wyad - Holder 1000565 - Primary title: c_wyad has lost the title: c_wyad
+200 - vassal: c_wyad - Title given to 1000565 - Primary title: d_qigolas
+200 - sub vassal: c_wyad - Title given to 1000565 - Primary title: d_qigolas
+200 - Holder (1000565) has gained c_wyad
+200 - vassal: c_bupand - Holder 1000565 - Primary title: c_bupand has lost the title: c_bupand
+200 - sub vassal: c_bupand - Holder 1000565 - Primary title: c_bupand has lost the title: c_bupand
+200 - vassal: c_bupand - Title given to 1000565 - Primary title: d_qigolas
+200 - sub vassal: c_bupand - Title given to 1000565 - Primary title: d_qigolas
+200 - Holder (1000565) has gained c_bupand
+200 - vassal: c_nanius - Holder 1000565 - Primary title: c_nanius has lost the title: c_nanius
+200 - sub vassal: c_nanius - Holder 1000565 - Primary title: c_nanius has lost the title: c_nanius
+200 - vassal: c_nanius - Title given to 1000565 - Primary title: d_qigolas
+200 - sub vassal: c_nanius - Title given to 1000565 - Primary title: d_qigolas
+200 - Holder (1000565) has gained c_nanius

@@ -1,0 +1,26 @@
+200 - Title given to 1000031 - Primary title: c_aradukka
+200 - Holder 1001026 - Primary title: d_ducelen has lost the title: d_ducelen
+200 - Title given to 1001026 - Primary title: k_reuparis
+200 - Destroyed due to flagged problem
+200 - Made independent
+200 - Title destroyed
+202 - Given to 1000031 in TestCreateEmpire
+202 - Title given to 1000031 - Primary title: c_aradukka
+202 - Gained vassal: c_aradukka
+202 - Made independent for title creation d_ducelen for d_ducelen
+202 - vassal: c_aradukka - Set liege on title creation d_ducelen
+202 - sub vassal: c_aradukka - Set liege on title creation d_ducelen
+202 - Destroyed due to no capital's obtainable
+202 - Title destroyed
+202 - vassal: c_aradukka - Setting independent due to liege destruction
+202 - vassal: c_aradukka - Made independent
+252 - Given to 1002687 in TestCreateEmpire
+252 - Title given to 1002687 - Primary title: c_aradukka
+252 - Gained vassal: c_aradukka
+252 - Made independent for title creation d_ducelen for d_ducelen
+252 - vassal: c_aradukka - Set liege on title creation d_ducelen
+252 - sub vassal: c_aradukka - Set liege on title creation d_ducelen
+252 - Destroyed due to no capital's obtainable
+252 - Title destroyed
+252 - vassal: c_aradukka - Setting independent due to liege destruction
+252 - vassal: c_aradukka - Made independent

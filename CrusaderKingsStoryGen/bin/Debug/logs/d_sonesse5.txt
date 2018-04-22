@@ -1,0 +1,58 @@
+200 - Title given to 1000211
+200 - vassal: c_kipasz - Holder 1000211 - Primary title: c_kipasz has lost the title: c_kipasz
+200 - sub vassal: c_kipasz - Holder 1000211 - Primary title: c_kipasz has lost the title: c_kipasz
+200 - vassal: c_kipasz - Title given to 1000211 - Primary title: d_sonesse
+200 - sub vassal: c_kipasz - Title given to 1000211 - Primary title: d_sonesse
+200 - Holder (1000211) has gained c_kipasz
+200 - vassal: c_ebirolas - Holder 1000211 - Primary title: c_ebirolas has lost the title: c_ebirolas
+200 - sub vassal: c_ebirolas - Holder 1000211 - Primary title: c_ebirolas has lost the title: c_ebirolas
+200 - vassal: c_ebirolas - Title given to 1000211 - Primary title: d_sonesse
+200 - sub vassal: c_ebirolas - Title given to 1000211 - Primary title: d_sonesse
+200 - Holder (1000211) has gained c_ebirolas
+200 - vassal: c_kiradma - Holder 1000211 - Primary title: c_kiradma has lost the title: c_kiradma
+200 - sub vassal: c_kiradma - Holder 1000211 - Primary title: c_kiradma has lost the title: c_kiradma
+200 - vassal: c_kiradma - Title given to 1000211 - Primary title: d_sonesse
+200 - sub vassal: c_kiradma - Title given to 1000211 - Primary title: d_sonesse
+200 - Holder (1000211) has gained c_kiradma
+200 - vassal: c_siraise - Holder 1000211 - Primary title: c_siraise has lost the title: c_siraise
+200 - sub vassal: c_siraise - Holder 1000211 - Primary title: c_siraise has lost the title: c_siraise
+200 - vassal: c_siraise - Title given to 1000211 - Primary title: d_sonesse
+200 - sub vassal: c_siraise - Title given to 1000211 - Primary title: d_sonesse
+200 - Holder (1000211) has gained c_siraise
+200 - Made vassal of neighbour (k_ajirolas) due to being a seperate island
+200 - Given to neighbour holder of k_ajirolas
+200 - Holder 1001020 - Primary title: d_sonesse has lost the title: d_sonesse
+200 - Title given to 1001020 - Primary title: k_ajirolas
+209 - Gained vassal: c_tirile
+209 - Holder 1000220 - Primary title: d_sonesse has lost the title: c_tirile
+209 - vassal: c_tirile - Title given to 1000220 - Primary title: k_ajirolas
+209 - vassal: c_tirile - Setting to vassal of k_ajirolas in Validate Realm
+209 - Lost vassal: c_tirile
+209 - Holder 1000220 - Primary title: d_sonesse has lost the title: d_sonesse
+209 - Title given to 1000220 - Primary title: k_ajirolas
+236 - Holder 1001480 - Primary title: d_sonesse has lost the title: d_sonesse
+236 - Title given to 1001480 - Primary title: k_ajirolas
+247 - vassal: c_kipasz - Given to 1004272 in HandleTitles - Too many duke titles
+247 - vassal: c_siraise - Holder 1004272 - Primary title: c_siraise has lost the title: c_kipasz
+247 - vassal: c_kipasz - Title given to 1004272
+247 - Title given to 1004272 - Primary title: c_kipasz
+247 - vassal: c_kipasz - Holder (1004272) has gained d_sonesse
+247 - Too many dukes, made direct title into vassal of k_ajirolas
+257 - Holder 1004372 - Primary title: d_sonesse has lost the title: d_sonesse
+257 - Title given to 1004372
+257 - vassal: c_kipasz - Holder 1004372 - Primary title: c_kipasz has lost the title: c_kipasz
+257 - vassal: c_kipasz - Title given to 1004372 - Primary title: d_sonesse
+257 - Holder (1004372) has gained c_kipasz
+266 - Holder 1003819 - Primary title: d_sonesse has lost the title: d_sonesse
+266 - Title given to 1003819 - Primary title: k_ajirolas
+266 - vassal: c_kipasz - Holder 1003819 - Primary title: c_kipasz has lost the title: c_kipasz
+266 - vassal: c_kipasz - Title given to 1003819 - Primary title: k_ajirolas
+266 - vassal: c_kipasz - Given to 1005329 in HandleTitles - Too many duke titles
+266 - vassal: c_kipasz - Title given to 1005329
+266 - Title given to 1005329 - Primary title: c_kipasz
+266 - vassal: c_kipasz - Holder (1005329) has gained d_sonesse
+266 - Too many dukes, made direct title into vassal of k_ajirolas
+267 - Holder 1003819 - Primary title: d_sonesse has lost the title: d_sonesse
+267 - Title given to 1003819 - Primary title: k_ajirolas
+267 - vassal: c_kipasz - Holder 1003819 - Primary title: c_kipasz has lost the title: c_kipasz
+267 - vassal: c_kip

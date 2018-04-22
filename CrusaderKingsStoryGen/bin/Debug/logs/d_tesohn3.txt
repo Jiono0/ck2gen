@@ -1,0 +1,48 @@
+200 - Title given to 1000167
+200 - vassal: c_tesevat - Given to 1000170 via AddCharacterForTitle
+200 - sub vassal: c_tesevat - Given to 1000170 via AddCharacterForTitle
+200 - vassal: c_tesevat - Holder 1000170 - Primary title: c_tesevat has lost the title: c_tesevat
+200 - sub vassal: c_tesevat - Holder 1000170 - Primary title: c_tesevat has lost the title: c_tesevat
+200 - vassal: c_tesevat - Title given to 1000170
+200 - sub vassal: c_tesevat - Title given to 1000170
+200 - vassal: c_sesava - Given to 1000172 via AddCharacterForTitle
+200 - sub vassal: c_sesava - Given to 1000172 via AddCharacterForTitle
+200 - vassal: c_sesava - Holder 1000172 - Primary title: c_sesava has lost the title: c_sesava
+200 - sub vassal: c_sesava - Holder 1000172 - Primary title: c_sesava has lost the title: c_sesava
+200 - vassal: c_sesava - Title given to 1000172
+200 - sub vassal: c_sesava - Title given to 1000172
+200 - vassal: c_texouni - Holder 1000167 - Primary title: c_texouni has lost the title: c_texouni
+200 - sub vassal: c_texouni - Holder 1000167 - Primary title: c_texouni has lost the title: c_texouni
+200 - vassal: c_texouni - Title given to 1000167 - Primary title: d_tesohn
+200 - sub vassal: c_texouni - Title given to 1000167 - Primary title: d_tesohn
+200 - Holder (1000167) has gained c_texouni
+200 - vassal: c_tesevat - Holder 1000167 - Primary title: c_tesevat has lost the title: c_tesevat
+200 - sub vassal: c_tesevat - Holder 1000167 - Primary title: c_tesevat has lost the title: c_tesevat
+200 - vassal: c_tesevat - Title given to 1000167 - Primary title: d_tesohn
+200 - sub vassal: c_tesevat - Title given to 1000167 - Primary title: d_tesohn
+200 - Holder (1000167) has gained c_tesevat
+200 - vassal: c_sesava - Holder 1000167 - Primary title: c_sesava has lost the title: c_sesava
+200 - sub vassal: c_sesava - Holder 1000167 - Primary title: c_sesava has lost the title: c_sesava
+200 - vassal: c_sesava - Title given to 1000167 - Primary title: d_tesohn
+200 - sub vassal: c_sesava - Title given to 1000167 - Primary title: d_tesohn
+200 - Holder (1000167) has gained c_sesava
+216 - Holder (1000167) has gained d_bilelt
+216 - Holder (1000167) has gained c_eranouni
+216 - Holder (1000167) has gained c_tetolas
+235 - Holder 1003595 - Primary title: d_tesohn has lost the title: d_tesohn
+235 - Title given to 1003595
+235 - vassal: c_texouni - Setting to vassal of d_bilelt in Validate Realm
+235 - Lost vassal: c_texouni
+235 - vassal: c_tesevat - Setting to vassal of d_bilelt in Validate Realm
+235 - Lost vassal: c_tesevat
+235 - vassal: c_sesava - Setting to vassal of d_bilelt in Validate Realm
+235 - Lost vassal: c_sesava
+235 - Holder (1003595) has gained d_bilelt
+235 - Holder (1003595) has gained c_tetolas
+235 - Holder (1003595) has gained c_eranouni
+235 - Holder (1003595) has gained c_texouni
+235 - Holder (1003595) has gained c_tesevat
+235 - Holder (1003595) has gained c_sesava
+235 - Destroyed due to no capital's obtainable
+235 - Made independent
+235 - Title destroyed

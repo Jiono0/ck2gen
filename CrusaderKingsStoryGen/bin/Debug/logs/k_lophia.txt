@@ -1,0 +1,1199 @@
+200 - Title given to 1001042
+200 - vassal: d_keda - Holder 1001042 - Primary title: d_keda has lost the title: d_keda
+200 - sub vassal: d_keda - Holder 1001042 - Primary title: d_keda has lost the title: d_keda
+200 - vassal: d_keda - Title given to 1001042 - Primary title: k_lophia
+200 - sub vassal: d_keda - Title given to 1001042 - Primary title: k_lophia
+200 - Holder (1001042) has gained d_keda
+200 - Holder (1001042) has gained c_qonanal
+200 - Holder 1001041 - Primary title: k_lophia has lost the title: c_qonanal
+207 - Holder 1000284 - Primary title: k_lophia has lost the title: k_lophia
+207 - Title given to 1000284 - Primary title: d_rezay
+207 - vassal: d_rezay - Holder (1000284) has gained k_lophia
+207 - sub vassal: d_rezay - Holder (1000284) has gained k_lophia
+207 - vassal: d_keda - Holder 1000284 - Primary title: d_keda has lost the title: d_keda
+207 - sub vassal: d_keda - Holder 1000284 - Primary title: d_keda has lost the title: d_keda
+207 - vassal: d_keda - Title given to 1000284 - Primary title: k_lophia
+207 - sub vassal: d_keda - Title given to 1000284 - Primary title: k_lophia
+207 - Holder (1000284) has gained d_keda
+210 - vassal: d_basoka - Holder 1001698 - Primary title: d_basoka has lost the title: d_basoka
+210 - sub vassal: d_basoka - Holder 1001698 - Primary title: d_basoka has lost the title: d_basoka
+210 - vassal: d_basoka - Title given to 1001698
+210 - sub vassal: d_basoka - Title given to 1001698
+210 - sub vassal: c_enazan - Holder 1001698 - Primary title: c_enazan has lost the title: c_enazan
+210 - sub vassal: c_enazan - Title given to 1001698 - Primary title: d_basoka
+210 - vassal: d_basoka - Holder (1001698) has gained c_enazan
+210 - sub vassal: d_basoka - Holder (1001698) has gained c_enazan
+210 - sub vassal: c_evisimha - Holder 1001698 - Primary title: c_evisimha has lost the title: c_evisimha
+210 - sub vassal: c_evisimha - Title given to 1001698 - Primary title: d_basoka
+210 - vassal: d_basoka - Holder (1001698) has gained c_evisimha
+210 - sub vassal: d_basoka - Holder (1001698) has gained c_evisimha
+211 - vassal: d_tacomas - Holder 1002109 - Primary title: d_tacomas has lost the title: d_tacomas
+211 - sub vassal: d_tacomas - Holder 1002109 - Primary title: d_tacomas has lost the title: d_tacomas
+211 - vassal: d_tacomas - Title given to 1002109
+211 - sub vassal: d_tacomas - Title given to 1002109
+211 - sub vassal: c_reweandu - Holder 1002109 - Primary title: c_reweandu has lost the title: c_reweandu
+211 - sub vassal: c_reweandu - Title given to 1002109 - Primary title: d_tacomas
+211 - vassal: d_tacomas - Holder (1002109) has gained c_reweandu
+211 - sub vassal: d_tacomas - Holder (1002109) has gained c_reweandu
+211 - sub vassal: c_kolula - Holder 1002109 - Primary title: c_kolula has lost the title: c_kolula
+211 - sub vassal: c_kolula - Title given to 1002109 - Primary title: d_tacomas
+211 - vassal: d_tacomas - Holder (1002109) has gained c_kolula
+211 - sub vassal: d_tacomas - Holder (1002109) has gained c_kolula
+211 - sub vassal: c_ehjict - Holder 1002109 - Primary title: c_ehjict has lost the title: c_ehjict
+211 - sub vassal: c_ehjict - Title given to 1002109 - Primary title: d_tacomas
+211 - vassal: d_tacomas - Holder (1002109) has gained c_ehjict
+211 - sub vassal: d_tacomas - Holder (1002109) has gained c_ehjict
+211 - Holder 1001208 - Primary title: k_lophia has lost the title: k_lophia
+211 - Title given to 1001208
+211 - vassal: d_rezay - Holder 1001208 - Primary title: d_rezay has lost the title: d_rezay
+211 - sub vassal: d_rezay - Holder 1001208 - Primary title: d_rezay has lost the title: d_rezay
+211 - vassal: d_rezay - Title given to 1001208 - Primary title: k_lophia
+211 - sub vassal: d_rezay - Title given to 1001208 - Primary title: k_lophia
+211 - Holder (1001208) has gained d_rezay
+211 - sub vassal: c_etunana - Setting to vassal of d_keda in Validate Realm
+211 - vassal: d_rezay - Lost vassal: c_etunana
+211 - sub vassal: d_rezay - Lost vassal: c_etunana
+211 - sub vassal: c_tuhenes - Setting to vassal of d_keda in Validate Realm
+211 - vassal: d_rezay - Lost vassal: c_tuhenes
+211 - sub vassal: d_rezay - Lost vassal: c_tuhenes
+211 - sub vassal: c_ruhan - Setting to vassal of d_keda in Validate Realm
+211 - vassal: d_rezay - Lost vassal: c_ruhan
+211 - sub vassal: d_rezay - Lost vassal: c_ruhan
+211 - vassal: d_keda - Gained vassal: c_ruhan
+211 - sub vassal: d_keda - Gained vassal: c_ruhan
+211 - vassal: d_keda - Gained vassal: c_tuhenes
+211 - sub vassal: d_keda - Gained vassal: c_tuhenes
+211 - vassal: d_keda - Gained vassal: c_etunana
+211 - sub vassal: d_keda - Gained vassal: c_etunana
+211 - vassal: d_keda - Holder 1001208 - Primary title: d_keda has lost the title: c_etunana
+211 - sub vassal: d_keda - Holder 1001208 - Primary title: d_keda has lost the title: c_etunana
+211 - sub vassal: c_etunana - Title given to 1001208 - Primary title: k_lophia
+211 - Holder (1001208) has gained c_etunana
+211 - sub vassal: c_etunana - Setting to vassal of k_lophia in Validate Realm
+211 - vassal: d_keda - Lost vassal: c_etunana
+211 - sub vassal: d_keda - Lost vassal: c_etunana
+211 - Gained vassal: c_etunana
+211 - vassal: d_keda - Holder 1001208 - Primary title: d_keda has lost the title: c_tuhenes
+211 - sub vassal: d_keda - Holder 1001208 - Primary title: d_keda has lost the title: c_tuhenes
+211 - sub vassal: c_tuhenes - Title given to 1001208 - Primary title: k_lophia
+211 - Holder (1001208) has gained c_tuhenes
+211 - sub vassal: c_tuhenes - Setting to vassal of k_lophia in Validate Realm
+211 - vassal: d_keda - Lost vassal: c_tuhenes
+211 - sub vassal: d_keda - Lost vassal: c_tuhenes
+211 - Gained vassal: c_tuhenes
+211 - vassal: d_keda - Holder 1001208 - Primary title: d_keda has lost the title: c_ruhan
+211 - sub vassal: d_keda - Holder 1001208 - Primary title: d_keda has lost the title: c_ruhan
+211 - sub vassal: c_ruhan - Title given to 1001208 - Primary title: k_lophia
+211 - Holder (1001208) has gained c_ruhan
+211 - sub vassal: c_ruhan - Setting to vassal of k_lophia in Validate Realm
+211 - vassal: d_keda - Lost vassal: c_ruhan
+211 - sub vassal: d_keda - Lost vassal: c_ruhan
+211 - Gained vassal: c_ruhan
+211 - vassal: d_keda - Holder 1001208 - Primary title: d_keda has lost the title: d_keda
+211 - sub vassal: d_keda - Holder 1001208 - Primary title: d_keda has lost the title: d_keda
+211 - vassal: d_keda - Title given to 1001208 - Primary title: k_lophia
+211 - sub vassal: d_keda - Title given to 1001208 - Primary title: k_lophia
+211 - Holder (1001208) has gained d_keda
+212 - vassal: d_rezay - Destroyed due to flagged problem
+212 - sub vassal: d_rezay - Destroyed due to flagged problem
+212 - vassal: d_rezay - Made independent
+212 - sub vassal: d_rezay - Made independent
+217 - Holder 1002641 - Primary title: k_lophia has lost the title: k_lophia
+217 - Title given to 1002641
+217 - vassal: d_keda - Holder 1002641 - Primary title: d_keda has lost the title: c_etunana
+217 - sub vassal: d_keda - Holder 1002641 - Primary title: d_keda has lost the title: c_etunana
+217 - vassal: c_etunana - Title given to 1002641 - Primary title: k_lophia
+217 - sub vassal: c_etunana - Title given to 1002641 - Primary title: k_lophia
+217 - Holder (1002641) has gained c_etunana
+217 - vassal: c_tuhenes - Setting to vassal of d_keda in Validate Realm
+217 - sub vassal: c_tuhenes - Setting to vassal of d_keda in Validate Realm
+217 - Lost vassal: c_tuhenes
+217 - vassal: c_ruhan - Setting to vassal of d_keda in Validate Realm
+217 - sub vassal: c_ruhan - Setting to vassal of d_keda in Validate Realm
+217 - Lost vassal: c_ruhan
+217 - vassal: d_keda - Gained vassal: c_ruhan
+217 - sub vassal: d_keda - Gained vassal: c_ruhan
+217 - vassal: d_keda - Gained vassal: c_tuhenes
+217 - sub vassal: d_keda - Gained vassal: c_tuhenes
+217 - vassal: d_keda - Holder 1002641 - Primary title: d_keda has lost the title: c_tuhenes
+217 - sub vassal: d_keda - Holder 1002641 - Primary title: d_keda has lost the title: c_tuhenes
+217 - sub vassal: c_tuhenes - Title given to 1002641 - Primary title: k_lophia
+217 - Holder (1002641) has gained c_tuhenes
+217 - sub vassal: c_tuhenes - Setting to vassal of k_lophia in Validate Realm
+217 - vassal: d_keda - Lost vassal: c_tuhenes
+217 - sub vassal: d_keda - Lost vassal: c_tuhenes
+217 - Gained vassal: c_tuhenes
+217 - vassal: d_keda - Holder 1002641 - Primary title: d_keda has lost the title: c_ruhan
+217 - sub vassal: d_keda - Holder 1002641 - Primary title: d_keda has lost the title: c_ruhan
+217 - sub vassal: c_ruhan - Title given to 1002641 - Primary title: k_lophia
+217 - Holder (1002641) has gained c_ruhan
+217 - sub vassal: c_ruhan - Setting to vassal of k_lophia in Validate Realm
+217 - vassal: d_keda - Lost vassal: c_ruhan
+217 - sub vassal: d_keda - Lost vassal: c_ruhan
+217 - Gained vassal: c_ruhan
+217 - vassal: d_keda - Holder 1002641 - Primary title: d_keda has lost the title: d_keda
+217 - sub vassal: d_keda - Holder 1002641 - Primary title: d_keda has lost the title: d_keda
+217 - vassal: d_keda - Title given to 1002641 - Primary title: k_lophia
+217 - sub vassal: d_keda - Title given to 1002641 - Primary title: k_lophia
+217 - Holder (1002641) has gained d_keda
+222 - vassal: d_tacict - Holder 1002176 - Primary title: d_tacict has lost the title: d_tacict
+222 - sub vassal: d_tacict - Holder 1002176 - Primary title: d_tacict has lost the title: d_tacict
+222 - vassal: d_tacict - Title given to 1002176
+222 - sub vassal: d_tacict - Title given to 1002176
+222 - sub vassal: c_ruhka - Holder 1002176 - Primary title: c_ruhka has lost the title: c_ruhka
+222 - sub vassal: c_ruhka - Title given to 1002176 - Primary title: d_tacict
+222 - vassal: d_tacict - Holder (1002176) has gained c_ruhka
+222 - sub vassal: d_tacict - Holder (1002176) has gained c_ruhka
+222 - sub vassal: c_qouzsi - Holder 1002176 - Primary title: c_qouzsi has lost the title: c_qouzsi
+222 - sub vassal: c_qouzsi - Title given to 1002176 - Primary title: d_tacict
+222 - vassal: d_tacict - Holder (1002176) has gained c_qouzsi
+222 - sub vassal: d_tacict - Holder (1002176) has gained c_qouzsi
+222 - sub vassal: c_qaev - Holder 1002176 - Primary title: c_qaev has lost the title: c_qaev
+222 - sub vassal: c_qaev - Title given to 1002176 - Primary title: d_tacict
+222 - vassal: d_tacict - Holder (1002176) has gained c_qaev
+222 - sub vassal: d_tacict - Holder (1002176) has gained c_qaev
+228 - vassal: d_basoka - Holder 1002804 - Primary title: d_basoka has lost the title: d_basoka
+228 - sub vassal: d_basoka - Holder 1002804 - Primary title: d_basoka has lost the title: d_basoka
+228 - vassal: d_basoka - Title given to 1002804
+228 - sub vassal: d_basoka - Title given to 1002804
+228 - sub vassal: c_evisimha - Holder 1002804 - Primary title: c_evisimha has lost the title: c_evisimha
+228 - sub vassal: c_evisimha - Title given to 1002804 - Primary title: d_basoka
+228 - vassal: d_basoka - Holder (1002804) has gained c_evisimha
+228 - sub vassal: d_basoka - Holder (1002804) has gained c_evisimha
+228 - sub vassal: c_enazan - Holder 1002804 - Primary title: c_enazan has lost the title: c_enazan
+228 - sub vassal: c_enazan - Title given to 1002804 - Primary title: d_basoka
+228 - vassal: d_basoka - Holder (1002804) has gained c_enazan
+228 - sub vassal: d_basoka - Holder (1002804) has gained c_enazan
+230 - Holder 1002804 - Primary title: k_lophia has lost the title: k_lophia
+230 - Title given to 1002804 - Primary title: d_basoka
+230 - vassal: d_basoka - Holder (1002804) has gained k_lophia
+230 - sub vassal: d_basoka - Holder (1002804) has gained k_lophia
+230 - vassal: c_ruhan - Setting to vassal of d_keda in Validate Realm
+230 - sub vassal: c_ruhan - Setting to vassal of d_keda in Validate Realm
+230 - Lost vassal: c_ruhan
+230 - vassal: c_tuhenes - Setting to vassal of d_keda in Validate Realm
+230 - sub vassal: c_tuhenes - Setting to vassal of d_keda in Validate Realm
+230 - Lost vassal: c_tuhenes
+230 - vassal: c_etunana - Setting to vassal of d_keda in Validate Realm
+230 - sub vassal: c_etunana - Setting to vassal of d_keda in Validate Realm
+230 - Lost vassal: c_etunana
+230 - vassal: d_keda - Gained vassal: c_etunana
+230 - sub vassal: d_keda - Gained vassal: c_etunana
+230 - vassal: d_keda - Gained vassal: c_tuhenes
+230 - sub vassal: d_keda - Gained vassal: c_tuhenes
+230 - vassal: d_keda - Gained vassal: c_ruhan
+230 - sub vassal: d_keda - Gained vassal: c_ruhan
+230 - vassal: d_keda - Holder 1002804 - Primary title: d_keda has lost the title: d_keda
+230 - sub vassal: d_keda - Holder 1002804 - Primary title: d_keda has lost the title: d_keda
+230 - vassal: d_keda - Title given to 1002804 - Primary title: k_lophia
+230 - sub vassal: d_keda - Title given to 1002804 - Primary title: k_lophia
+230 - Holder (1002804) has gained d_keda
+230 - sub vassal: c_ruhan - Holder 1002804 - Primary title: c_ruhan has lost the title: c_ruhan
+230 - sub vassal: c_ruhan - Title given to 1002804 - Primary title: k_lophia
+230 - Holder (1002804) has gained c_ruhan
+230 - sub vassal: c_tuhenes - Holder 1002804 - Primary title: c_tuhenes has lost the title: c_tuhenes
+230 - sub vassal: c_tuhenes - Title given to 1002804 - Primary title: k_lophia
+230 - Holder (1002804) has gained c_tuhenes
+230 - sub vassal: c_etunana - Holder 1002804 - Primary title: c_etunana has lost the title: c_etunana
+230 - sub vassal: c_etunana - Title given to 1002804 - Primary title: k_lophia
+230 - Holder (1002804) has gained c_etunana
+236 - vassal: d_bazena - Holder 1001204 - Primary title: d_bazena has lost the title: d_bazena
+236 - sub vassal: d_bazena - Holder 1001204 - Primary title: d_bazena has lost the title: d_bazena
+236 - vassal: d_bazena - Title given to 1001204
+236 - sub vassal: d_bazena - Title given to 1001204
+236 - sub vassal: c_kisyata - Holder 1001204 - Primary title: c_kisyata has lost the title: c_kisyata
+236 - sub vassal: c_kisyata - Title given to 1001204 - Primary title: d_bazena
+236 - vassal: d_bazena - Holder (1001204) has gained c_kisyata
+236 - sub vassal: d_bazena - Holder (1001204) has gained c_kisyata
+236 - sub vassal: c_nena - Holder 1001204 - Primary title: c_nena has lost the title: c_nena
+236 - sub vassal: c_nena - Title given to 1001204 - Primary title: d_bazena
+236 - vassal: d_bazena - Holder (1001204) has gained c_nena
+236 - sub vassal: d_bazena - Holder (1001204) has gained c_nena
+236 - sub vassal: c_nisan - Holder 1001204 - Primary title: c_nisan has lost the title: c_nisan
+236 - sub vassal: c_nisan - Title given to 1001204 - Primary title: d_bazena
+236 - vassal: d_bazena - Holder (1001204) has gained c_nisan
+236 - sub vassal: d_bazena - Holder (1001204) has gained c_nisan
+236 - sub vassal: c_rewimha - Holder 1001204 - Primary title: c_rewimha has lost the title: c_rewimha
+236 - sub vassal: c_rewimha - Title given to 1001204 - Primary title: d_bazena
+236 - vassal: d_bazena - Holder (1001204) has gained c_rewimha
+236 - sub vassal: d_bazena - Holder (1001204) has gained c_rewimha
+236 - sub vassal: c_kana - Holder 1001204 - Primary title: c_kana has lost the title: c_kana
+236 - sub vassal: c_kana - Title given to 1001204 - Primary title: d_bazena
+236 - vassal: d_bazena - Holder (1001204) has gained c_kana
+236 - sub vassal: d_bazena - Holder (1001204) has gained c_kana
+250 - Gained vassal: d_kewimha
+252 - vassal: d_bazena - Holder 1004441 - Primary title: d_bazena has lost the title: d_bazena
+252 - sub vassal: d_bazena - Holder 1004441 - Primary title: d_bazena has lost the title: d_bazena
+252 - vassal: d_bazena - Title given to 1004441
+252 - sub vassal: d_bazena - Title given to 1004441
+252 - sub vassal: c_kana - Holder 1004441 - Primary title: c_kana has lost the title: c_kana
+252 - sub vassal: c_kana - Title given to 1004441 - Primary title: d_bazena
+252 - vassal: d_bazena - Holder (1004441) has gained c_kana
+252 - sub vassal: d_bazena - Holder (1004441) has gained c_kana
+252 - sub vassal: c_rewimha - Holder 1004441 - Primary title: c_rewimha has lost the title: c_rewimha
+252 - sub vassal: c_rewimha - Title given to 1004441 - Primary title: d_bazena
+252 - vassal: d_bazena - Holder (1004441) has gained c_rewimha
+252 - sub vassal: d_bazena - Holder (1004441) has gained c_rewimha
+252 - sub vassal: c_nisan - Holder 1004441 - Primary title: c_nisan has lost the title: c_nisan
+252 - sub vassal: c_nisan - Title given to 1004441 - Primary title: d_bazena
+252 - vassal: d_bazena - Holder (1004441) has gained c_nisan
+252 - sub vassal: d_bazena - Holder (1004441) has gained c_nisan
+252 - sub vassal: c_nena - Holder 1004441 - Primary title: c_nena has lost the title: c_nena
+252 - sub vassal: c_nena - Title given to 1004441 - Primary title: d_bazena
+252 - vassal: d_bazena - Holder (1004441) has gained c_nena
+252 - sub vassal: d_bazena - Holder (1004441) has gained c_nena
+252 - sub vassal: c_kisyata - Holder 1004441 - Primary title: c_kisyata has lost the title: c_kisyata
+252 - sub vassal: c_kisyata - Title given to 1004441 - Primary title: d_bazena
+252 - vassal: d_bazena - Holder (1004441) has gained c_kisyata
+252 - sub vassal: d_bazena - Holder (1004441) has gained c_kisyata
+258 - Holder 1004085 - Primary title: k_lophia has lost the title: k_lophia
+258 - Title given to 1004085
+258 - vassal: d_basoka - Holder 1004085 - Primary title: d_basoka has lost the title: d_basoka
+258 - sub vassal: d_basoka - Holder 1004085 - Primary title: d_basoka has lost the title: d_basoka
+258 - vassal: d_basoka - Title given to 1004085 - Primary title: k_lophia
+258 - sub vassal: d_basoka - Title given to 1004085 - Primary title: k_lophia
+258 - Holder (1004085) has gained d_basoka
+258 - sub vassal: c_enazan - Setting to vassal of d_keda in Validate Realm
+258 - vassal: d_basoka - Lost vassal: c_enazan
+258 - sub vassal: d_basoka - Lost vassal: c_enazan
+258 - sub vassal: c_evisimha - Setting to vassal of d_keda in Validate Realm
+258 - vassal: d_basoka - Lost vassal: c_evisimha
+258 - sub vassal: d_basoka - Lost vassal: c_evisimha
+258 - vassal: d_keda - Gained vassal: c_evisimha
+258 - sub vassal: d_keda - Gained vassal: c_evisimha
+258 - vassal: d_keda - Gained vassal: c_enazan
+258 - sub vassal: d_keda - Gained vassal: c_enazan
+258 - vassal: d_keda - Holder 1004085 - Primary title: d_keda has lost the title: c_etunana
+258 - sub vassal: d_keda - Holder 1004085 - Primary title: d_keda has lost the title: c_etunana
+258 - sub vassal: c_etunana - Title given to 1004085 - Primary title: k_lophia
+258 - Holder (1004085) has gained c_etunana
+258 - sub vassal: c_etunana - Setting to vassal of k_lophia in Validate Realm
+258 - vassal: d_keda - Lost vassal: c_etunana
+258 - sub vassal: d_keda - Lost vassal: c_etunana
+258 - Gained vassal: c_etunana
+258 - vassal: d_keda - Holder 1004085 - Primary title: d_keda has lost the title: c_tuhenes
+258 - sub vassal: d_keda - Holder 1004085 - Primary title: d_keda has lost the title: c_tuhenes
+258 - sub vassal: c_tuhenes - Title given to 1004085 - Primary title: k_lophia
+258 - Holder (1004085) has gained c_tuhenes
+258 - sub vassal: c_tuhenes - Setting to vassal of k_lophia in Validate Realm
+258 - vassal: d_keda - Lost vassal: c_tuhenes
+258 - sub vassal: d_keda - Lost vassal: c_tuhenes
+258 - Gained vassal: c_tuhenes
+258 - vassal: d_keda - Holder 1004085 - Primary title: d_keda has lost the title: c_ruhan
+258 - sub vassal: d_keda - Holder 1004085 - Primary title: d_keda has lost the title: c_ruhan
+258 - sub vassal: c_ruhan - Title given to 1004085 - Primary title: k_lophia
+258 - Holder (1004085) has gained c_ruhan
+258 - sub vassal: c_ruhan - Setting to vassal of k_lophia in Validate Realm
+258 - vassal: d_keda - Lost vassal: c_ruhan
+258 - sub vassal: d_keda - Lost vassal: c_ruhan
+258 - Gained vassal: c_ruhan
+258 - vassal: d_keda - Holder 1004085 - Primary title: d_keda has lost the title: d_keda
+258 - sub vassal: d_keda - Holder 1004085 - Primary title: d_keda has lost the title: d_keda
+258 - vassal: d_keda - Title given to 1004085 - Primary title: k_lophia
+258 - sub vassal: d_keda - Title given to 1004085 - Primary title: k_lophia
+258 - Holder (1004085) has gained d_keda
+258 - sub vassal: c_enazan - Holder 1004085 - Primary title: c_enazan has lost the title: c_enazan
+258 - sub vassal: c_enazan - Title given to 1004085 - Primary title: k_lophia
+258 - Holder (1004085) has gained c_enazan
+258 - sub vassal: c_evisimha - Holder 1004085 - Primary title: c_evisimha has lost the title: c_evisimha
+258 - sub vassal: c_evisimha - Title given to 1004085 - Primary title: k_lophia
+258 - Holder (1004085) has gained c_evisimha
+259 - vassal: d_basoka - Destroyed due to flagged problem
+259 - sub vassal: d_basoka - Destroyed due to flagged problem
+259 - vassal: d_basoka - Made independent
+259 - sub vassal: d_basoka - Made independent
+262 - vassal: d_tacict - Holder 1003469 - Primary title: d_tacict has lost the title: d_tacict
+262 - sub vassal: d_tacict - Holder 1003469 - Primary title: d_tacict has lost the title: d_tacict
+262 - vassal: d_tacict - Title given to 1003469
+262 - sub vassal: d_tacict - Title given to 1003469
+262 - sub vassal: c_ruhka - Holder 1003469 - Primary title: c_ruhka has lost the title: c_ruhka
+262 - sub vassal: c_ruhka - Title given to 1003469 - Primary title: d_tacict
+262 - vassal: d_tacict - Holder (1003469) has gained c_ruhka
+262 - sub vassal: d_tacict - Holder (1003469) has gained c_ruhka
+262 - sub vassal: c_qouzsi - Holder 1003469 - Primary title: c_qouzsi has lost the title: c_qouzsi
+262 - sub vassal: c_qouzsi - Title given to 1003469 - Primary title: d_tacict
+262 - vassal: d_tacict - Holder (1003469) has gained c_qouzsi
+262 - sub vassal: d_tacict - Holder (1003469) has gained c_qouzsi
+262 - sub vassal: c_qaev - Holder 1003469 - Primary title: c_qaev has lost the title: c_qaev
+262 - sub vassal: c_qaev - Title given to 1003469 - Primary title: d_tacict
+262 - vassal: d_tacict - Holder (1003469) has gained c_qaev
+262 - sub vassal: d_tacict - Holder (1003469) has gained c_qaev
+270 - Holder 1005308 - Primary title: k_lophia has lost the title: k_lophia
+270 - Title given to 1005308
+270 - vassal: d_keda - Holder 1005308 - Primary title: d_keda has lost the title: c_evisimha
+270 - sub vassal: d_keda - Holder 1005308 - Primary title: d_keda has lost the title: c_evisimha
+270 - sub vassal: c_evisimha - Title given to 1005308 - Primary title: k_lophia
+270 - Holder (1005308) has gained c_evisimha
+270 - vassal: c_ruhan - Setting to vassal of d_keda in Validate Realm
+270 - sub vassal: c_ruhan - Setting to vassal of d_keda in Validate Realm
+270 - Lost vassal: c_ruhan
+270 - vassal: c_tuhenes - Setting to vassal of d_keda in Validate Realm
+270 - sub vassal: c_tuhenes - Setting to vassal of d_keda in Validate Realm
+270 - Lost vassal: c_tuhenes
+270 - vassal: c_etunana - Setting to vassal of d_keda in Validate Realm
+270 - sub vassal: c_etunana - Setting to vassal of d_keda in Validate Realm
+270 - Lost vassal: c_etunana
+270 - sub vassal: c_evisimha - Setting to vassal of k_lophia in Validate Realm
+270 - vassal: d_keda - Lost vassal: c_evisimha
+270 - sub vassal: d_keda - Lost vassal: c_evisimha
+270 - Gained vassal: c_evisimha
+270 - vassal: d_keda - Gained vassal: c_etunana
+270 - sub vassal: d_keda - Gained vassal: c_etunana
+270 - vassal: d_keda - Gained vassal: c_tuhenes
+270 - sub vassal: d_keda - Gained vassal: c_tuhenes
+270 - vassal: d_keda - Gained vassal: c_ruhan
+270 - sub vassal: d_keda - Gained vassal: c_ruhan
+270 - vassal: d_keda - Holder 1005308 - Primary title: d_keda has lost the title: c_enazan
+270 - sub vassal: d_keda - Holder 1005308 - Primary title: d_keda has lost the title: c_enazan
+270 - sub vassal: c_enazan - Title given to 1005308 - Primary title: k_lophia
+270 - Holder (1005308) has gained c_enazan
+270 - sub vassal: c_enazan - Setting to vassal of k_lophia in Validate Realm
+270 - vassal: d_keda - Lost vassal: c_enazan
+270 - sub vassal: d_keda - Lost vassal: c_enazan
+270 - Gained vassal: c_enazan
+270 - vassal: d_keda - Holder 1005308 - Primary title: d_keda has lost the title: d_keda
+270 - sub vassal: d_keda - Holder 1005308 - Primary title: d_keda has lost the title: d_keda
+270 - vassal: d_keda - Title given to 1005308 - Primary title: k_lophia
+270 - sub vassal: d_keda - Title given to 1005308 - Primary title: k_lophia
+270 - Holder (1005308) has gained d_keda
+270 - sub vassal: c_ruhan - Holder 1005308 - Primary title: c_ruhan has lost the title: c_ruhan
+270 - sub vassal: c_ruhan - Title given to 1005308 - Primary title: k_lophia
+270 - Holder (1005308) has gained c_ruhan
+270 - sub vassal: c_tuhenes - Holder 1005308 - Primary title: c_tuhenes has lost the title: c_tuhenes
+270 - sub vassal: c_tuhenes - Title given to 1005308 - Primary title: k_lophia
+270 - Holder (1005308) has gained c_tuhenes
+270 - sub vassal: c_etunana - Holder 1005308 - Primary title: c_etunana has lost the title: c_etunana
+270 - sub vassal: c_etunana - Title given to 1005308 - Primary title: k_lophia
+270 - Holder (1005308) has gained c_etunana
+271 - vassal: d_tacomas - Holder 1003041 - Primary title: d_tacomas has lost the title: d_tacomas
+271 - sub vassal: d_tacomas - Holder 1003041 - Primary title: d_tacomas has lost the title: d_tacomas
+271 - vassal: d_tacomas - Title given to 1003041
+271 - sub vassal: d_tacomas - Title given to 1003041
+271 - sub vassal: c_ehjict - Holder 1003041 - Primary title: c_ehjict has lost the title: c_ehjict
+271 - sub vassal: c_ehjict - Title given to 1003041 - Primary title: d_tacomas
+271 - vassal: d_tacomas - Holder (1003041) has gained c_ehjict
+271 - sub vassal: d_tacomas - Holder (1003041) has gained c_ehjict
+271 - sub vassal: c_kolula - Holder 1003041 - Primary title: c_kolula has lost the title: c_kolula
+271 - sub vassal: c_kolula - Title given to 1003041 - Primary title: d_tacomas
+271 - vassal: d_tacomas - Holder (1003041) has gained c_kolula
+271 - sub vassal: d_tacomas - Holder (1003041) has gained c_kolula
+271 - sub vassal: c_reweandu - Holder 1003041 - Primary title: c_reweandu has lost the title: c_reweandu
+271 - sub vassal: c_reweandu - Title given to 1003041 - Primary title: d_tacomas
+271 - vassal: d_tacomas - Holder (1003041) has gained c_reweandu
+271 - sub vassal: d_tacomas - Holder (1003041) has gained c_reweandu
+278 - Holder 1004441 - Primary title: k_lophia has lost the title: k_lophia
+278 - Title given to 1004441 - Primary title: d_bazena
+278 - vassal: d_bazena - Holder (1004441) has gained k_lophia
+278 - sub vassal: d_bazena - Holder (1004441) has gained k_lophia
+278 - vassal: c_evisimha - Setting to vassal of d_keda in Validate Realm
+278 - sub vassal: c_evisimha - Setting to vassal of d_keda in Validate Realm
+278 - Lost vassal: c_evisimha
+278 - vassal: c_enazan - Setting to vassal of d_keda in Validate Realm
+278 - sub vassal: c_enazan - Setting to vassal of d_keda in Validate Realm
+278 - Lost vassal: c_enazan
+278 - vassal: d_keda - Gained vassal: c_enazan
+278 - sub vassal: d_keda - Gained vassal: c_enazan
+278 - vassal: d_keda - Gained vassal: c_evisimha
+278 - sub vassal: d_keda - Gained vassal: c_evisimha
+278 - vassal: d_keda - Holder 1004441 - Primary title: d_keda has lost the title: c_evisimha
+278 - sub vassal: d_keda - Holder 1004441 - Primary title: d_keda has lost the title: c_evisimha
+278 - sub vassal: c_evisimha - Title given to 1004441 - Primary title: k_lophia
+278 - Holder (1004441) has gained c_evisimha
+278 - sub vassal: c_evisimha - Setting to vassal of k_lophia in Validate Realm
+278 - vassal: d_keda - Lost vassal: c_evisimha
+278 - sub vassal: d_keda - Lost vassal: c_evisimha
+278 - Gained vassal: c_evisimha
+278 - vassal: d_keda - Holder 1004441 - Primary title: d_keda has lost the title: c_enazan
+278 - sub vassal: d_keda - Holder 1004441 - Primary title: d_keda has lost the title: c_enazan
+278 - sub vassal: c_enazan - Title given to 1004441 - Primary title: k_lophia
+278 - Holder (1004441) has gained c_enazan
+278 - sub vassal: c_enazan - Setting to vassal of k_lophia in Validate Realm
+278 - vassal: d_keda - Lost vassal: c_enazan
+278 - sub vassal: d_keda - Lost vassal: c_enazan
+278 - Gained vassal: c_enazan
+278 - vassal: d_keda - Holder 1004441 - Primary title: d_keda has lost the title: d_keda
+278 - sub vassal: d_keda - Holder 1004441 - Primary title: d_keda has lost the title: d_keda
+278 - vassal: d_keda - Title given to 1004441 - Primary title: k_lophia
+278 - sub vassal: d_keda - Title given to 1004441 - Primary title: k_lophia
+278 - Holder (1004441) has gained d_keda
+278 - sub vassal: c_ruhan - Holder 1004441 - Primary title: c_ruhan has lost the title: c_ruhan
+278 - sub vassal: c_ruhan - Title given to 1004441 - Primary title: k_lophia
+278 - Holder (1004441) has gained c_ruhan
+278 - sub vassal: c_tuhenes - Holder 1004441 - Primary title: c_tuhenes has lost the title: c_tuhenes
+278 - sub vassal: c_tuhenes - Title given to 1004441 - Primary title: k_lophia
+278 - Holder (1004441) has gained c_tuhenes
+278 - sub vassal: c_etunana - Holder 1004441 - Primary title: c_etunana has lost the title: c_etunana
+278 - sub vassal: c_etunana - Title given to 1004441 - Primary title: k_lophia
+278 - Holder (1004441) has gained c_etunana
+279 - Holder 1006400 - Primary title: k_lophia has lost the title: c_evisimha
+279 - vassal: c_evisimha - Title given to 1006400
+279 - sub vassal: c_evisimha - Title given to 1006400
+279 - Holder 1006401 - Primary title: k_lophia has lost the title: c_ruhan
+279 - sub vassal: c_ruhan - Title given to 1006401
+279 - Holder 1006403 - Primary title: k_lophia has lost the title: c_enazan
+279 - vassal: c_enazan - Title given to 1006403
+279 - sub vassal: c_enazan - Title given to 1006403
+279 - Holder 1006404 - Primary title: k_lophia has lost the title: c_etunana
+279 - sub vassal: c_etunana - Title given to 1006404
+279 - Holder 1006405 - Primary title: k_lophia has lost the title: c_tuhenes
+279 - sub vassal: c_tuhenes - Title given to 1006405
+284 - Holder 1006406 - Primary title: k_lophia has lost the title: k_lophia
+284 - Title given to 1006406
+284 - vassal: d_bazena - Holder 1006406 - Primary title: d_bazena has lost the title: d_bazena
+284 - sub vassal: d_bazena - Holder 1006406 - Primary title: d_bazena has lost the title: d_bazena
+284 - vassal: d_bazena - Title given to 1006406 - Primary title: k_lophia
+284 - sub vassal: d_bazena - Title given to 1006406 - Primary title: k_lophia
+284 - Holder (1006406) has gained d_bazena
+284 - sub vassal: c_kana - Setting to vassal of d_keda in Validate Realm
+284 - vassal: d_bazena - Lost vassal: c_kana
+284 - sub vassal: d_bazena - Lost vassal: c_kana
+284 - sub vassal: c_rewimha - Setting to vassal of d_keda in Validate Realm
+284 - vassal: d_bazena - Lost vassal: c_rewimha
+284 - sub vassal: d_bazena - Lost vassal: c_rewimha
+284 - sub vassal: c_nisan - Setting to vassal of d_keda in Validate Realm
+284 - vassal: d_bazena - Lost vassal: c_nisan
+284 - sub vassal: d_bazena - Lost vassal: c_nisan
+284 - sub vassal: c_nena - Setting to vassal of d_keda in Validate Realm
+284 - vassal: d_bazena - Lost vassal: c_nena
+284 - sub vassal: d_bazena - Lost vassal: c_nena
+284 - sub vassal: c_kisyata - Setting to vassal of d_keda in Validate Realm
+284 - vassal: d_bazena - Lost vassal: c_kisyata
+284 - sub vassal: d_bazena - Lost vassal: c_kisyata
+284 - vassal: d_keda - Gained vassal: c_kisyata
+284 - sub vassal: d_keda - Gained vassal: c_kisyata
+284 - vassal: d_keda - Gained vassal: c_nena
+284 - sub vassal: d_keda - Gained vassal: c_nena
+284 - vassal: d_keda - Gained vassal: c_nisan
+284 - sub vassal: d_keda - Gained vassal: c_nisan
+284 - vassal: d_keda - Gained vassal: c_rewimha
+284 - sub vassal: d_keda - Gained vassal: c_rewimha
+284 - vassal: d_keda - Gained vassal: c_kana
+284 - sub vassal: d_keda - Gained vassal: c_kana
+284 - vassal: d_keda - Holder 1006406 - Primary title: d_keda has lost the title: d_keda
+284 - sub vassal: d_keda - Holder 1006406 - Primary title: d_keda has lost the title: d_keda
+284 - vassal: d_keda - Title given to 1006406 - Primary title: k_lophia
+284 - sub vassal: d_keda - Title given to 1006406 - Primary title: k_lophia
+284 - Holder (1006406) has gained d_keda
+284 - sub vassal: c_kana - Holder 1006406 - Primary title: c_kana has lost the title: c_kana
+284 - sub vassal: c_kana - Title given to 1006406 - Primary title: k_lophia
+284 - Holder (1006406) has gained c_kana
+284 - sub vassal: c_rewimha - Holder 1006406 - Primary title: c_rewimha has lost the title: c_rewimha
+284 - sub vassal: c_rewimha - Title given to 1006406 - Primary title: k_lophia
+284 - Holder (1006406) has gained c_rewimha
+284 - sub vassal: c_nisan - Holder 1006406 - Primary title: c_nisan has lost the title: c_nisan
+284 - sub vassal: c_nisan - Title given to 1006406 - Primary title: k_lophia
+284 - Holder (1006406) has gained c_nisan
+284 - sub vassal: c_nena - Holder 1006406 - Primary title: c_nena has lost the title: c_nena
+284 - sub vassal: c_nena - Title given to 1006406 - Primary title: k_lophia
+284 - Holder (1006406) has gained c_nena
+284 - sub vassal: c_kisyata - Holder 1006406 - Primary title: c_kisyata has lost the title: c_kisyata
+284 - sub vassal: c_kisyata - Title given to 1006406 - Primary title: k_lophia
+284 - Holder (1006406) has gained c_kisyata
+285 - vassal: d_bazena - Destroyed due to flagged problem
+285 - sub vassal: d_bazena - Destroyed due to flagged problem
+285 - vassal: d_bazena - Made independent
+285 - sub vassal: d_bazena - Made independent
+292 - vassal: d_tacomas - Holder 1006403 - Primary title: d_tacomas has lost the title: d_tacomas
+292 - sub vassal: d_tacomas - Holder 1006403 - Primary title: d_tacomas has lost the title: d_tacomas
+292 - vassal: d_tacomas - Title given to 1006403 - Primary title: c_enazan
+292 - sub vassal: d_tacomas - Title given to 1006403 - Primary title: c_enazan
+292 - vassal: c_enazan - Holder (1006403) has gained d_tacomas
+292 - sub vassal: c_enazan - Holder (1006403) has gained d_tacomas
+292 - vassal: c_enazan - Setting to vassal of d_tacomas in Validate Realm
+292 - sub vassal: c_enazan - Setting to vassal of d_tacomas in Validate Realm
+292 - Lost vassal: c_enazan
+292 - vassal: d_tacomas - Gained vassal: c_enazan
+292 - sub vassal: d_tacomas - Gained vassal: c_enazan
+292 - sub vassal: c_reweandu - Holder 1006403 - Primary title: c_reweandu has lost the title: c_reweandu
+292 - sub vassal: c_reweandu - Title given to 1006403 - Primary title: d_tacomas
+292 - vassal: d_tacomas - Holder (1006403) has gained c_reweandu
+292 - sub vassal: d_tacomas - Holder (1006403) has gained c_reweandu
+292 - sub vassal: c_kolula - Holder 1006403 - Primary title: c_kolula has lost the title: c_kolula
+292 - sub vassal: c_kolula - Title given to 1006403 - Primary title: d_tacomas
+292 - vassal: d_tacomas - Holder (1006403) has gained c_kolula
+292 - sub vassal: d_tacomas - Holder (1006403) has gained c_kolula
+292 - sub vassal: c_ehjict - Holder 1006403 - Primary title: c_ehjict has lost the title: c_ehjict
+292 - sub vassal: c_ehjict - Title given to 1006403 - Primary title: d_tacomas
+292 - vassal: d_tacomas - Holder (1006403) has gained c_ehjict
+292 - sub vassal: d_tacomas - Holder (1006403) has gained c_ehjict
+297 - vassal: d_tacict - Holder 1005811 - Primary title: d_tacict has lost the title: d_tacict
+297 - sub vassal: d_tacict - Holder 1005811 - Primary title: d_tacict has lost the title: d_tacict
+297 - vassal: d_tacict - Title given to 1005811
+297 - sub vassal: d_tacict - Title given to 1005811
+297 - sub vassal: c_qaev - Holder 1005811 - Primary title: c_qaev has lost the title: c_qaev
+297 - sub vassal: c_qaev - Title given to 1005811 - Primary title: d_tacict
+297 - vassal: d_tacict - Holder (1005811) has gained c_qaev
+297 - sub vassal: d_tacict - Holder (1005811) has gained c_qaev
+297 - sub vassal: c_qouzsi - Holder 1005811 - Primary title: c_qouzsi has lost the title: c_qouzsi
+297 - sub vassal: c_qouzsi - Title given to 1005811 - Primary title: d_tacict
+297 - vassal: d_tacict - Holder (1005811) has gained c_qouzsi
+297 - sub vassal: d_tacict - Holder (1005811) has gained c_qouzsi
+297 - sub vassal: c_ruhka - Holder 1005811 - Primary title: c_ruhka has lost the title: c_ruhka
+297 - sub vassal: c_ruhka - Title given to 1005811 - Primary title: d_tacict
+297 - vassal: d_tacict - Holder (1005811) has gained c_ruhka
+297 - sub vassal: d_tacict - Holder (1005811) has gained c_ruhka
+298 - vassal: d_tacict - Holder 1004370 - Primary title: d_tacict has lost the title: d_tacict
+298 - sub vassal: d_tacict - Holder 1004370 - Primary title: d_tacict has lost the title: d_tacict
+298 - vassal: d_tacict - Title given to 1004370 - Primary title: d_kewimha
+298 - sub vassal: d_tacict - Title given to 1004370 - Primary title: d_kewimha
+298 - vassal: d_kewimha - Holder (1004370) has gained d_tacict
+298 - sub vassal: d_kewimha - Holder (1004370) has gained d_tacict
+298 - sub vassal: c_qaev - Holder 1004370 - Primary title: c_qaev has lost the title: c_qaev
+298 - sub vassal: c_qaev - Title given to 1004370 - Primary title: d_kewimha
+298 - vassal: d_kewimha - Holder (1004370) has gained c_qaev
+298 - sub vassal: d_kewimha - Holder (1004370) has gained c_qaev
+298 - sub vassal: c_qouzsi - Holder 1004370 - Primary title: c_qouzsi has lost the title: c_qouzsi
+298 - sub vassal: c_qouzsi - Title given to 1004370 - Primary title: d_kewimha
+298 - vassal: d_kewimha - Holder (1004370) has gained c_qouzsi
+298 - sub vassal: d_kewimha - Holder (1004370) has gained c_qouzsi
+298 - sub vassal: c_ruhka - Holder 1004370 - Primary title: c_ruhka has lost the title: c_ruhka
+298 - sub vassal: c_ruhka - Title given to 1004370 - Primary title: d_kewimha
+298 - vassal: d_kewimha - Holder (1004370) has gained c_ruhka
+298 - sub vassal: d_kewimha - Holder (1004370) has gained c_ruhka
+300 - vassal: d_tacict - Holder 1005671 - Primary title: d_tacict has lost the title: d_tacict
+300 - sub vassal: d_tacict - Holder 1005671 - Primary title: d_tacict has lost the title: d_tacict
+300 - vassal: d_tacict - Title given to 1005671
+300 - sub vassal: d_tacict - Title given to 1005671
+300 - sub vassal: c_ruhka - Setting to vassal of d_kewimha in Validate Realm
+300 - vassal: d_tacict - Lost vassal: c_ruhka
+300 - sub vassal: d_tacict - Lost vassal: c_ruhka
+300 - sub vassal: c_qouzsi - Setting to vassal of d_kewimha in Validate Realm
+300 - vassal: d_tacict - Lost vassal: c_qouzsi
+300 - sub vassal: d_tacict - Lost vassal: c_qouzsi
+300 - sub vassal: c_qaev - Setting to vassal of d_kewimha in Validate Realm
+300 - vassal: d_tacict - Lost vassal: c_qaev
+300 - sub vassal: d_tacict - Lost vassal: c_qaev
+300 - vassal: d_kewimha - Gained vassal: c_qaev
+300 - sub vassal: d_kewimha - Gained vassal: c_qaev
+300 - vassal: d_kewimha - Gained vassal: c_qouzsi
+300 - sub vassal: d_kewimha - Gained vassal: c_qouzsi
+300 - vassal: d_kewimha - Gained vassal: c_ruhka
+300 - sub vassal: d_kewimha - Gained vassal: c_ruhka
+300 - vassal: d_kewimha - Holder 1005671 - Primary title: d_kewimha has lost the title: d_kewimha
+300 - sub vassal: d_kewimha - Holder 1005671 - Primary title: d_kewimha has lost the title: d_kewimha
+300 - vassal: d_kewimha - Title given to 1005671 - Primary title: d_tacict
+300 - sub vassal: d_kewimha - Title given to 1005671 - Primary title: d_tacict
+300 - vassal: d_tacict - Holder (1005671) has gained d_kewimha
+300 - sub vassal: d_tacict - Holder (1005671) has gained d_kewimha
+300 - sub vassal: c_ruhka - Holder 1005671 - Primary title: c_ruhka has lost the title: c_ruhka
+300 - sub vassal: c_ruhka - Title given to 1005671 - Primary title: d_tacict
+300 - vassal: d_tacict - Holder (1005671) has gained c_ruhka
+300 - sub vassal: d_tacict - Holder (1005671) has gained c_ruhka
+300 - sub vassal: c_qouzsi - Holder 1005671 - Primary title: c_qouzsi has lost the title: c_qouzsi
+300 - sub vassal: c_qouzsi - Title given to 1005671 - Primary title: d_tacict
+300 - vassal: d_tacict - Holder (1005671) has gained c_qouzsi
+300 - sub vassal: d_tacict - Holder (1005671) has gained c_qouzsi
+300 - sub vassal: c_qaev - Holder 1005671 - Primary title: c_qaev has lost the title: c_qaev
+300 - sub vassal: c_qaev - Title given to 1005671 - Primary title: d_tacict
+300 - vassal: d_tacict - Holder (1005671) has gained c_qaev
+300 - sub vassal: d_tacict - Holder (1005671) has gained c_qaev
+300 - sub vassal: c_ruta - Holder 1005671 - Primary title: c_ruta has lost the title: c_ruta
+300 - sub vassal: c_ruta - Title given to 1005671 - Primary title: d_tacict
+300 - vassal: d_tacict - Holder (1005671) has gained c_ruta
+300 - sub vassal: d_tacict - Holder (1005671) has gained c_ruta
+300 - sub vassal: c_qisay - Holder 1005671 - Primary title: c_qisay has lost the title: c_qisay
+300 - sub vassal: c_qisay - Title given to 1005671 - Primary title: d_tacict
+300 - vassal: d_tacict - Holder (1005671) has gained c_qisay
+300 - sub vassal: d_tacict - Holder (1005671) has gained c_qisay
+301 - vassal: d_tacict - Destroyed due to flagged problem
+301 - sub vassal: d_tacict - Destroyed due to flagged problem
+301 - vassal: d_tacict - Made independent
+301 - sub vassal: d_tacict - Made independent
+301 - Holder 1005671 - Primary title: k_lophia has lost the title: k_lophia
+301 - Title given to 1005671 - Primary title: d_kewimha
+301 - vassal: d_kewimha - Holder (1005671) has gained k_lophia
+301 - sub vassal: d_kewimha - Holder (1005671) has gained k_lophia
+301 - vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_kisyata
+301 - sub vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_kisyata
+301 - sub vassal: c_kisyata - Title given to 1005671 - Primary title: k_lophia
+301 - Holder (1005671) has gained c_kisyata
+301 - sub vassal: c_kisyata - Setting to vassal of k_lophia in Validate Realm
+301 - vassal: d_keda - Lost vassal: c_kisyata
+301 - sub vassal: d_keda - Lost vassal: c_kisyata
+301 - Gained vassal: c_kisyata
+301 - vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_nena
+301 - sub vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_nena
+301 - sub vassal: c_nena - Title given to 1005671 - Primary title: k_lophia
+301 - Holder (1005671) has gained c_nena
+301 - sub vassal: c_nena - Setting to vassal of k_lophia in Validate Realm
+301 - vassal: d_keda - Lost vassal: c_nena
+301 - sub vassal: d_keda - Lost vassal: c_nena
+301 - Gained vassal: c_nena
+301 - vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_nisan
+301 - sub vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_nisan
+301 - sub vassal: c_nisan - Title given to 1005671 - Primary title: k_lophia
+301 - Holder (1005671) has gained c_nisan
+301 - sub vassal: c_nisan - Setting to vassal of k_lophia in Validate Realm
+301 - vassal: d_keda - Lost vassal: c_nisan
+301 - sub vassal: d_keda - Lost vassal: c_nisan
+301 - Gained vassal: c_nisan
+301 - vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_rewimha
+301 - sub vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_rewimha
+301 - sub vassal: c_rewimha - Title given to 1005671 - Primary title: k_lophia
+301 - Holder (1005671) has gained c_rewimha
+301 - sub vassal: c_rewimha - Setting to vassal of k_lophia in Validate Realm
+301 - vassal: d_keda - Lost vassal: c_rewimha
+301 - sub vassal: d_keda - Lost vassal: c_rewimha
+301 - Gained vassal: c_rewimha
+301 - vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_kana
+301 - sub vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: c_kana
+301 - sub vassal: c_kana - Title given to 1005671 - Primary title: k_lophia
+301 - Holder (1005671) has gained c_kana
+301 - sub vassal: c_kana - Setting to vassal of k_lophia in Validate Realm
+301 - vassal: d_keda - Lost vassal: c_kana
+301 - sub vassal: d_keda - Lost vassal: c_kana
+301 - Gained vassal: c_kana
+301 - vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: d_keda
+301 - sub vassal: d_keda - Holder 1005671 - Primary title: d_keda has lost the title: d_keda
+301 - vassal: d_keda - Title given to 1005671 - Primary title: k_lophia
+301 - sub vassal: d_keda - Title given to 1005671 - Primary title: k_lophia
+301 - Holder (1005671) has gained d_keda
+302 - Holder 1007753 - Primary title: k_lophia has lost the title: c_ruhka
+302 - sub vassal: c_ruhka - Title given to 1007753
+302 - Holder 1007754 - Primary title: k_lophia has lost the title: c_qouzsi
+302 - sub vassal: c_qouzsi - Title given to 1007754
+302 - Holder 1007755 - Primary title: k_lophia has lost the title: c_qaev
+302 - sub vassal: c_qaev - Title given to 1007755
+302 - Holder 1007756 - Primary title: k_lophia has lost the title: c_qisay
+302 - sub vassal: c_qisay - Title given to 1007756
+302 - Holder 1007757 - Primary title: k_lophia has lost the title: c_ruta
+302 - sub vassal: c_ruta - Title given to 1007757
+308 - vassal: d_tacomas - Holder 1007213 - Primary title: d_tacomas has lost the title: d_tacomas
+308 - sub vassal: d_tacomas - Holder 1007213 - Primary title: d_tacomas has lost the title: d_tacomas
+308 - vassal: d_tacomas - Title given to 1007213
+308 - sub vassal: d_tacomas - Title given to 1007213
+308 - sub vassal: c_ehjict - Holder 1007213 - Primary title: c_ehjict has lost the title: c_ehjict
+308 - sub vassal: c_ehjict - Title given to 1007213 - Primary title: d_tacomas
+308 - vassal: d_tacomas - Holder (1007213) has gained c_ehjict
+308 - sub vassal: d_tacomas - Holder (1007213) has gained c_ehjict
+308 - sub vassal: c_kolula - Holder 1007213 - Primary title: c_kolula has lost the title: c_kolula
+308 - sub vassal: c_kolula - Title given to 1007213 - Primary title: d_tacomas
+308 - vassal: d_tacomas - Holder (1007213) has gained c_kolula
+308 - sub vassal: d_tacomas - Holder (1007213) has gained c_kolula
+308 - sub vassal: c_reweandu - Holder 1007213 - Primary title: c_reweandu has lost the title: c_reweandu
+308 - sub vassal: c_reweandu - Title given to 1007213 - Primary title: d_tacomas
+308 - vassal: d_tacomas - Holder (1007213) has gained c_reweandu
+308 - sub vassal: d_tacomas - Holder (1007213) has gained c_reweandu
+308 - sub vassal: c_enazan - Holder 1007213 - Primary title: c_enazan has lost the title: c_enazan
+308 - sub vassal: c_enazan - Title given to 1007213 - Primary title: d_tacomas
+308 - vassal: d_tacomas - Holder (1007213) has gained c_enazan
+308 - sub vassal: d_tacomas - Holder (1007213) has gained c_enazan
+324 - Holder 1007682 - Primary title: k_lophia has lost the title: k_lophia
+324 - Title given to 1007682
+324 - vassal: d_kewimha - Holder 1007682 - Primary title: d_kewimha has lost the title: d_kewimha
+324 - sub vassal: d_kewimha - Holder 1007682 - Primary title: d_kewimha has lost the title: d_kewimha
+324 - vassal: d_kewimha - Title given to 1007682 - Primary title: k_lophia
+324 - sub vassal: d_kewimha - Title given to 1007682 - Primary title: k_lophia
+324 - Holder (1007682) has gained d_kewimha
+324 - vassal: c_kana - Setting to vassal of d_keda in Validate Realm
+324 - sub vassal: c_kana - Setting to vassal of d_keda in Validate Realm
+324 - Lost vassal: c_kana
+324 - vassal: c_rewimha - Setting to vassal of d_keda in Validate Realm
+324 - sub vassal: c_rewimha - Setting to vassal of d_keda in Validate Realm
+324 - Lost vassal: c_rewimha
+324 - vassal: c_nisan - Setting to vassal of d_keda in Validate Realm
+324 - sub vassal: c_nisan - Setting to vassal of d_keda in Validate Realm
+324 - Lost vassal: c_nisan
+324 - vassal: c_nena - Setting to vassal of d_keda in Validate Realm
+324 - sub vassal: c_nena - Setting to vassal of d_keda in Validate Realm
+324 - Lost vassal: c_nena
+324 - vassal: c_kisyata - Setting to vassal of d_keda in Validate Realm
+324 - sub vassal: c_kisyata - Setting to vassal of d_keda in Validate Realm
+324 - Lost vassal: c_kisyata
+324 - vassal: d_keda - Gained vassal: c_kisyata
+324 - sub vassal: d_keda - Gained vassal: c_kisyata
+324 - vassal: d_keda - Gained vassal: c_nena
+324 - sub vassal: d_keda - Gained vassal: c_nena
+324 - vassal: d_keda - Gained vassal: c_nisan
+324 - sub vassal: d_keda - Gained vassal: c_nisan
+324 - vassal: d_keda - Gained vassal: c_rewimha
+324 - sub vassal: d_keda - Gained vassal: c_rewimha
+324 - vassal: d_keda - Gained vassal: c_kana
+324 - sub vassal: d_keda - Gained vassal: c_kana
+324 - vassal: d_keda - Holder 1007682 - Primary title: d_keda has lost the title: d_keda
+324 - sub vassal: d_keda - Holder 1007682 - Primary title: d_keda has lost the title: d_keda
+324 - vassal: d_keda - Title given to 1007682 - Primary title: k_lophia
+324 - sub vassal: d_keda - Title given to 1007682 - Primary title: k_lophia
+324 - Holder (1007682) has gained d_keda
+324 - sub vassal: c_kana - Holder 1007682 - Primary title: c_kana has lost the title: c_kana
+324 - sub vassal: c_kana - Title given to 1007682 - Primary title: k_lophia
+324 - Holder (1007682) has gained c_kana
+324 - sub vassal: c_rewimha - Holder 1007682 - Primary title: c_rewimha has lost the title: c_rewimha
+324 - sub vassal: c_rewimha - Title given to 1007682 - Primary title: k_lophia
+324 - Holder (1007682) has gained c_rewimha
+324 - sub vassal: c_nisan - Holder 1007682 - Primary title: c_nisan has lost the title: c_nisan
+324 - sub vassal: c_nisan - Title given to 1007682 - Primary title: k_lophia
+324 - Holder (1007682) has gained c_nisan
+324 - sub vassal: c_nena - Holder 1007682 - Primary title: c_nena has lost the title: c_nena
+324 - sub vassal: c_nena - Title given to 1007682 - Primary title: k_lophia
+324 - Holder (1007682) has gained c_nena
+324 - sub vassal: c_kisyata - Holder 1007682 - Primary title: c_kisyata has lost the title: c_kisyata
+324 - sub vassal: c_kisyata - Title given to 1007682 - Primary title: k_lophia
+324 - Holder (1007682) has gained c_kisyata
+329 - vassal: d_tacomas - Holder 1008352 - Primary title: d_tacomas has lost the title: d_tacomas
+329 - sub vassal: d_tacomas - Holder 1008352 - Primary title: d_tacomas has lost the title: d_tacomas
+329 - vassal: d_tacomas - Title given to 1008352
+329 - sub vassal: d_tacomas - Title given to 1008352
+329 - sub vassal: c_enazan - Holder 1008352 - Primary title: c_enazan has lost the title: c_enazan
+329 - sub vassal: c_enazan - Title given to 1008352 - Primary title: d_tacomas
+329 - vassal: d_tacomas - Holder (1008352) has gained c_enazan
+329 - sub vassal: d_tacomas - Holder (1008352) has gained c_enazan
+329 - sub vassal: c_reweandu - Holder 1008352 - Primary title: c_reweandu has lost the title: c_reweandu
+329 - sub vassal: c_reweandu - Title given to 1008352 - Primary title: d_tacomas
+329 - vassal: d_tacomas - Holder (1008352) has gained c_reweandu
+329 - sub vassal: d_tacomas - Holder (1008352) has gained c_reweandu
+329 - sub vassal: c_kolula - Holder 1008352 - Primary title: c_kolula has lost the title: c_kolula
+329 - sub vassal: c_kolula - Title given to 1008352 - Primary title: d_tacomas
+329 - vassal: d_tacomas - Holder (1008352) has gained c_kolula
+329 - sub vassal: d_tacomas - Holder (1008352) has gained c_kolula
+329 - sub vassal: c_ehjict - Holder 1008352 - Primary title: c_ehjict has lost the title: c_ehjict
+329 - sub vassal: c_ehjict - Title given to 1008352 - Primary title: d_tacomas
+329 - vassal: d_tacomas - Holder (1008352) has gained c_ehjict
+329 - sub vassal: d_tacomas - Holder (1008352) has gained c_ehjict
+364 - Holder 1009167 - Primary title: k_lophia has lost the title: k_lophia
+364 - Title given to 1009167
+364 - vassal: d_kewimha - Holder 1009167 - Primary title: d_kewimha has lost the title: d_kewimha
+364 - sub vassal: d_kewimha - Holder 1009167 - Primary title: d_kewimha has lost the title: d_kewimha
+364 - vassal: d_kewimha - Title given to 1009167 - Primary title: k_lophia
+364 - sub vassal: d_kewimha - Title given to 1009167 - Primary title: k_lophia
+364 - Holder (1009167) has gained d_kewimha
+364 - vassal: d_keda - Holder 1009167 - Primary title: d_keda has lost the title: d_keda
+364 - sub vassal: d_keda - Holder 1009167 - Primary title: d_keda has lost the title: d_keda
+364 - vassal: d_keda - Title given to 1009167 - Primary title: k_lophia
+364 - sub vassal: d_keda - Title given to 1009167 - Primary title: k_lophia
+364 - Holder (1009167) has gained d_keda
+364 - sub vassal: c_kana - Holder 1009167 - Primary title: c_kana has lost the title: c_kana
+364 - sub vassal: c_kana - Title given to 1009167 - Primary title: k_lophia
+364 - Holder (1009167) has gained c_kana
+364 - sub vassal: c_rewimha - Holder 1009167 - Primary title: c_rewimha has lost the title: c_rewimha
+364 - sub vassal: c_rewimha - Title given to 1009167 - Primary title: k_lophia
+364 - Holder (1009167) has gained c_rewimha
+364 - sub vassal: c_nisan - Holder 1009167 - Primary title: c_nisan has lost the title: c_nisan
+364 - sub vassal: c_nisan - Title given to 1009167 - Primary title: k_lophia
+364 - Holder (1009167) has gained c_nisan
+364 - sub vassal: c_nena - Holder 1009167 - Primary title: c_nena has lost the title: c_nena
+364 - sub vassal: c_nena - Title given to 1009167 - Primary title: k_lophia
+364 - Holder (1009167) has gained c_nena
+364 - sub vassal: c_kisyata - Holder 1009167 - Primary title: c_kisyata has lost the title: c_kisyata
+364 - sub vassal: c_kisyata - Title given to 1009167 - Primary title: k_lophia
+364 - Holder (1009167) has gained c_kisyata
+365 - vassal: d_tacomas - Holder 1009255 - Primary title: d_tacomas has lost the title: d_tacomas
+365 - sub vassal: d_tacomas - Holder 1009255 - Primary title: d_tacomas has lost the title: d_tacomas
+365 - vassal: d_tacomas - Title given to 1009255
+365 - sub vassal: d_tacomas - Title given to 1009255
+365 - sub vassal: c_enazan - Holder 1009255 - Primary title: c_enazan has lost the title: c_enazan
+365 - sub vassal: c_enazan - Title given to 1009255 - Primary title: d_tacomas
+365 - vassal: d_tacomas - Holder (1009255) has gained c_enazan
+365 - sub vassal: d_tacomas - Holder (1009255) has gained c_enazan
+365 - sub vassal: c_reweandu - Holder 1009255 - Primary title: c_reweandu has lost the title: c_reweandu
+365 - sub vassal: c_reweandu - Title given to 1009255 - Primary title: d_tacomas
+365 - vassal: d_tacomas - Holder (1009255) has gained c_reweandu
+365 - sub vassal: d_tacomas - Holder (1009255) has gained c_reweandu
+365 - sub vassal: c_kolula - Holder 1009255 - Primary title: c_kolula has lost the title: c_kolula
+365 - sub vassal: c_kolula - Title given to 1009255 - Primary title: d_tacomas
+365 - vassal: d_tacomas - Holder (1009255) has gained c_kolula
+365 - sub vassal: d_tacomas - Holder (1009255) has gained c_kolula
+365 - sub vassal: c_ehjict - Holder 1009255 - Primary title: c_ehjict has lost the title: c_ehjict
+365 - sub vassal: c_ehjict - Title given to 1009255 - Primary title: d_tacomas
+365 - vassal: d_tacomas - Holder (1009255) has gained c_ehjict
+365 - sub vassal: d_tacomas - Holder (1009255) has gained c_ehjict
+378 - Given to 1011358 in conquest
+378 - Holder 1011358 - Primary title: k_lophia has lost the title: k_lophia
+378 - Title given to 1011358 - Primary title: k_akneem
+378 - Holder 1008975 - Primary title: k_lophia has lost the title: k_lophia
+378 - Title given to 1008975 - Primary title: k_akneem
+383 - sub vassal: d_waelurt - Holder 1011531 - Primary title: d_waelurt has lost the title: d_waelurt
+383 - sub vassal: d_waelurt - Title given to 1011531
+383 - sub vassal: c_nimha - Holder 1011531 - Primary title: c_nimha has lost the title: c_nimha
+383 - sub vassal: c_nimha - Title given to 1011531 - Primary title: d_waelurt
+383 - sub vassal: d_waelurt - Holder (1011531) has gained c_nimha
+385 - sub vassal: d_desenes - Made independent
+385 - vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+385 - Lost vassal: c_nenes
+385 - sub vassal: c_tuana - Made vassal of neighbour (k_tenelge) due to being a seperate island
+385 - sub vassal: d_tuway - Lost vassal: c_tuana
+385 - sub vassal: c_kasay - Made vassal of neighbour (k_tenelge) due to being a seperate island
+385 - sub vassal: d_waelurt - Made independent due to being a seperate island
+385 - sub vassal: d_waelurt - Made independent
+385 - sub vassal: c_denimha - Made vassal of neighbour (k_tenelge) due to being a seperate island
+385 - sub vassal: c_denimha - Given to neighbour holder of k_tenelge
+385 - sub vassal: c_rodana - Made vassal of neighbour (k_tenelge) due to being a seperate island
+385 - sub vassal: c_rodana - Given to neighbour holder of k_tenelge
+385 - sub vassal: c_qomas - Made vassal of neighbour (d_waelurt) due to being a seperate island
+385 - sub vassal: c_rayamha - Made vassal of neighbour (d_desenes) due to being a seperate island
+385 - sub vassal: c_toradra - Made vassal of neighbour (k_tenelge) due to being a seperate island
+385 - sub vassal: c_toradra - Given to neighbour holder of k_tenelge
+385 - sub vassal: c_todurt - Made independent due to being a seperate island
+385 - sub vassal: c_todurt - Made independent
+385 - sub vassal: c_qitya - Made vassal of neighbour (k_tenelge) due to being a seperate island
+385 - sub vassal: c_qitya - Given to neighbour holder of k_tenelge
+385 - sub vassal: c_teninda - Made vassal of neighbour (k_tenelge) due to being a seperate island
+385 - sub vassal: c_teninda - Given to neighbour holder of k_tenelge
+385 - sub vassal: c_natama - Made independent due to being a seperate island
+385 - sub vassal: c_natama - Made independent
+385 - sub vassal: c_ratadra - Made independent due to being a seperate island prior to giving to neighbour
+385 - sub vassal: c_ratadra - Made independent
+386 - sub vassal: d_tuway - Destroyed due to flagged problem
+386 - sub vassal: d_tuway - Made independent
+386 - sub vassal: c_nitavid - Made vassal of neighbour (d_waelurt) due to being a seperate island
+386 - sub vassal: d_warurt - Lost vassal: c_nitavid
+386 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+386 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+386 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+386 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+386 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+386 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+386 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+386 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+386 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+386 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+386 - Holder 1012110 - Primary title: k_lophia has lost the title: k_lophia
+386 - Title given to 1012110
+386 - Holder (1012110) has gained k_wofie
+386 - Holder (1012110) has gained k_akneem
+386 - sub vassal: d_warurt - Holder 1012110 - Primary title: d_warurt has lost the title: d_warurt
+386 - sub vassal: d_warurt - Title given to 1012110 - Primary title: k_lophia
+386 - Holder (1012110) has gained d_warurt
+386 - sub vassal: d_kodurt - Holder 1012110 - Primary title: d_kodurt has lost the title: d_kodurt
+386 - sub vassal: d_kodurt - Title given to 1012110 - Primary title: k_lophia
+386 - Holder (1012110) has gained d_kodurt
+386 - sub vassal: c_qitya - Holder 1012110 - Primary title: c_qitya has lost the title: c_qitya
+386 - sub vassal: c_qitya - Title given to 1012110 - Primary title: k_lophia
+386 - Holder (1012110) has gained c_qitya
+386 - sub vassal: c_denimha - Holder 1012110 - Primary title: c_denimha has lost the title: c_denimha
+386 - sub vassal: c_denimha - Title given to 1012110 - Primary title: k_lophia
+386 - Holder (1012110) has gained c_denimha
+386 - sub vassal: c_rodana - Holder 1012110 - Primary title: c_rodana has lost the title: c_rodana
+386 - sub vassal: c_rodana - Title given to 1012110 - Primary title: k_lophia
+386 - Holder (1012110) has gained c_rodana
+386 - sub vassal: c_toradra - Holder 1012110 - Primary title: c_toradra has lost the title: c_toradra
+386 - sub vassal: c_toradra - Title given to 1012110 - Primary title: k_lophia
+386 - Holder (1012110) has gained c_toradra
+386 - sub vassal: c_teninda - Holder 1012110 - Primary title: c_teninda has lost the title: c_teninda
+386 - sub vassal: c_teninda - Title given to 1012110 - Primary title: k_lophia
+386 - Holder (1012110) has gained c_teninda
+387 - sub vassal: d_warurt - Destroyed due to flagged problem
+387 - sub vassal: d_warurt - Made independent
+387 - Holder (1012110) has gained c_todurt
+387 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+387 - Lost vassal: c_nitavid
+387 - vassal: d_kewimha - Holder 1011882 - Primary title: d_kewimha has lost the title: d_kewimha
+387 - sub vassal: d_kewimha - Holder 1011882 - Primary title: d_kewimha has lost the title: d_kewimha
+387 - vassal: d_kewimha - Title given to 1011882
+387 - sub vassal: d_kewimha - Title given to 1011882
+387 - vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_kisyata
+387 - sub vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_kisyata
+387 - sub vassal: c_kisyata - Title given to 1011882 - Primary title: d_kewimha
+387 - vassal: d_kewimha - Holder (1011882) has gained c_kisyata
+387 - sub vassal: d_kewimha - Holder (1011882) has gained c_kisyata
+387 - sub vassal: c_kisyata - Setting to vassal of d_kewimha in Validate Realm
+387 - vassal: d_keda - Lost vassal: c_kisyata
+387 - sub vassal: d_keda - Lost vassal: c_kisyata
+387 - vassal: d_kewimha - Gained vassal: c_kisyata
+387 - sub vassal: d_kewimha - Gained vassal: c_kisyata
+387 - vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_nena
+387 - sub vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_nena
+387 - sub vassal: c_nena - Title given to 1011882 - Primary title: d_kewimha
+387 - vassal: d_kewimha - Holder (1011882) has gained c_nena
+387 - sub vassal: d_kewimha - Holder (1011882) has gained c_nena
+387 - sub vassal: c_nena - Setting to vassal of d_kewimha in Validate Realm
+387 - vassal: d_keda - Lost vassal: c_nena
+387 - sub vassal: d_keda - Lost vassal: c_nena
+387 - vassal: d_kewimha - Gained vassal: c_nena
+387 - sub vassal: d_kewimha - Gained vassal: c_nena
+387 - vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_nisan
+387 - sub vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_nisan
+387 - sub vassal: c_nisan - Title given to 1011882 - Primary title: d_kewimha
+387 - vassal: d_kewimha - Holder (1011882) has gained c_nisan
+387 - sub vassal: d_kewimha - Holder (1011882) has gained c_nisan
+387 - sub vassal: c_nisan - Setting to vassal of d_kewimha in Validate Realm
+387 - vassal: d_keda - Lost vassal: c_nisan
+387 - sub vassal: d_keda - Lost vassal: c_nisan
+387 - vassal: d_kewimha - Gained vassal: c_nisan
+387 - sub vassal: d_kewimha - Gained vassal: c_nisan
+387 - vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_rewimha
+387 - sub vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_rewimha
+387 - sub vassal: c_rewimha - Title given to 1011882 - Primary title: d_kewimha
+387 - vassal: d_kewimha - Holder (1011882) has gained c_rewimha
+387 - sub vassal: d_kewimha - Holder (1011882) has gained c_rewimha
+387 - sub vassal: c_rewimha - Setting to vassal of d_kewimha in Validate Realm
+387 - vassal: d_keda - Lost vassal: c_rewimha
+387 - sub vassal: d_keda - Lost vassal: c_rewimha
+387 - vassal: d_kewimha - Gained vassal: c_rewimha
+387 - sub vassal: d_kewimha - Gained vassal: c_rewimha
+387 - vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_kana
+387 - sub vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: c_kana
+387 - sub vassal: c_kana - Title given to 1011882 - Primary title: d_kewimha
+387 - vassal: d_kewimha - Holder (1011882) has gained c_kana
+387 - sub vassal: d_kewimha - Holder (1011882) has gained c_kana
+387 - sub vassal: c_kana - Setting to vassal of d_kewimha in Validate Realm
+387 - vassal: d_keda - Lost vassal: c_kana
+387 - sub vassal: d_keda - Lost vassal: c_kana
+387 - vassal: d_kewimha - Gained vassal: c_kana
+387 - sub vassal: d_kewimha - Gained vassal: c_kana
+387 - vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: d_keda
+387 - sub vassal: d_keda - Holder 1011882 - Primary title: d_keda has lost the title: d_keda
+387 - vassal: d_keda - Title given to 1011882 - Primary title: d_kewimha
+387 - sub vassal: d_keda - Title given to 1011882 - Primary title: d_kewimha
+387 - vassal: d_kewimha - Holder (1011882) has gained d_keda
+387 - sub vassal: d_kewimha - Holder (1011882) has gained d_keda
+387 - Holder 1012163 - Primary title: k_lophia has lost the title: c_todurt
+387 - Gained vassal: c_todurt
+387 - vassal: c_todurt - Made vassal of neighbour (d_waelurt) due to being a seperate island
+387 - sub vassal: c_todurt - Made vassal of neighbour (d_waelurt) due to being a seperate island
+387 - Lost vassal: c_todurt
+387 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+387 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+387 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+387 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+387 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+387 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+387 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+387 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+387 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+387 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+388 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+388 - Lost vassal: c_nitavid
+388 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+388 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+388 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+388 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+388 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+388 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+388 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+388 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+388 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+388 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+389 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+389 - Lost vassal: c_nitavid
+389 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+389 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+389 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+389 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+389 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+389 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+389 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+389 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+389 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+389 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+390 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+390 - Lost vassal: c_nitavid
+390 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+390 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+390 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+390 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+390 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+390 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+390 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+390 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+390 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+390 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+391 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+391 - Lost vassal: c_nitavid
+391 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+391 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+391 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+391 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+391 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+391 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+391 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+391 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+391 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+391 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+392 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+392 - Lost vassal: c_nitavid
+392 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+392 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+392 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+392 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+392 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+392 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+392 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+392 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+392 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+392 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+393 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+393 - Lost vassal: c_nitavid
+393 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+393 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+393 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+393 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+393 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+393 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+393 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+393 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+393 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+393 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+394 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+394 - Lost vassal: c_nitavid
+394 - vassal: d_kewimha - Holder (1011882) has gained d_bazena
+394 - sub vassal: d_kewimha - Holder (1011882) has gained d_bazena
+394 - Gained vassal: d_bazena
+394 - vassal: d_bazena - Made independent for title creation d_bazena for d_kewimha
+394 - sub vassal: d_bazena - Made independent for title creation d_bazena for d_kewimha
+394 - vassal: d_bazena - Made independent
+394 - sub vassal: d_bazena - Made independent
+394 - sub vassal: c_kisyata - Set liege on title creation d_bazena
+394 - vassal: d_kewimha - Lost vassal: c_kisyata
+394 - sub vassal: d_kewimha - Lost vassal: c_kisyata
+394 - sub vassal: c_nena - Set liege on title creation d_bazena
+394 - vassal: d_kewimha - Lost vassal: c_nena
+394 - sub vassal: d_kewimha - Lost vassal: c_nena
+394 - sub vassal: c_nisan - Set liege on title creation d_bazena
+394 - vassal: d_kewimha - Lost vassal: c_nisan
+394 - sub vassal: d_kewimha - Lost vassal: c_nisan
+394 - sub vassal: c_rewimha - Set liege on title creation d_bazena
+394 - vassal: d_kewimha - Lost vassal: c_rewimha
+394 - sub vassal: d_kewimha - Lost vassal: c_rewimha
+394 - sub vassal: c_kana - Set liege on title creation d_bazena
+394 - vassal: d_kewimha - Lost vassal: c_kana
+394 - sub vassal: d_kewimha - Lost vassal: c_kana
+394 - sub vassal: c_nena - Given to 1012513 in HandleTitles - Too many duke titles
+394 - vassal: d_kewimha - Holder 1012513 - Primary title: d_kewimha has lost the title: c_nena
+394 - sub vassal: d_kewimha - Holder 1012513 - Primary title: d_kewimha has lost the title: c_nena
+394 - sub vassal: c_nena - Title given to 1012513
+394 - vassal: d_kewimha - Holder 1012110 - Primary title: d_kewimha has lost the title: d_bazena
+394 - sub vassal: d_kewimha - Holder 1012110 - Primary title: d_kewimha has lost the title: d_bazena
+394 - Holder (1012110) has gained d_bazena
+394 - sub vassal: c_kisyata - Setting to vassal of d_kewimha in Validate Realm
+394 - vassal: d_bazena - Lost vassal: c_kisyata
+394 - sub vassal: d_bazena - Lost vassal: c_kisyata
+394 - sub vassal: c_nisan - Setting to vassal of d_kewimha in Validate Realm
+394 - vassal: d_bazena - Lost vassal: c_nisan
+394 - sub vassal: d_bazena - Lost vassal: c_nisan
+394 - sub vassal: c_rewimha - Setting to vassal of d_kewimha in Validate Realm
+394 - vassal: d_bazena - Lost vassal: c_rewimha
+394 - sub vassal: d_bazena - Lost vassal: c_rewimha
+394 - sub vassal: c_kana - Setting to vassal of d_kewimha in Validate Realm
+394 - vassal: d_bazena - Lost vassal: c_kana
+394 - sub vassal: d_bazena - Lost vassal: c_kana
+394 - vassal: d_kewimha - Gained vassal: c_kana
+394 - sub vassal: d_kewimha - Gained vassal: c_kana
+394 - vassal: d_kewimha - Gained vassal: c_rewimha
+394 - sub vassal: d_kewimha - Gained vassal: c_rewimha
+394 - vassal: d_kewimha - Gained vassal: c_nisan
+394 - sub vassal: d_kewimha - Gained vassal: c_nisan
+394 - vassal: d_kewimha - Gained vassal: c_kisyata
+394 - sub vassal: d_kewimha - Gained vassal: c_kisyata
+394 - Gained vassal: d_bazena
+394 - Holder 1012514 - Primary title: k_lophia has lost the title: d_bazena
+394 - vassal: d_bazena - Title given to 1012514
+394 - sub vassal: d_bazena - Title given to 1012514
+394 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+394 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+394 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+394 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+394 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+394 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+394 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+394 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+394 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+394 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+395 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+395 - Lost vassal: c_nitavid
+395 - sub vassal: d_kazilu - Holder (1009958) has gained d_qunyata
+395 - vassal: d_qunyata - Setting independent in Validate Realm
+395 - sub vassal: d_qunyata - Setting independent in Validate Realm
+395 - vassal: d_qunyata - Made independent
+395 - sub vassal: d_qunyata - Made independent
+395 - sub vassal: c_apakimha - Set liege on title creation d_qunyata
+395 - sub vassal: d_kazilu - Lost vassal: c_apakimha
+395 - sub vassal: c_lenes - Set liege on title creation d_qunyata
+395 - sub vassal: d_kazilu - Lost vassal: c_lenes
+395 - sub vassal: c_sazay - Set liege on title creation d_qunyata
+395 - sub vassal: d_kazilu - Lost vassal: c_sazay
+395 - sub vassal: c_sisay - Set liege on title creation d_qunyata
+395 - sub vassal: d_kazilu - Lost vassal: c_sisay
+395 - sub vassal: d_kazilu - Holder 1011995 - Primary title: d_kazilu has lost the title: d_kazilu
+395 - sub vassal: d_kazilu - Title given to 1011995
+395 - sub vassal: d_kazilu - Holder (1011995) has gained d_qunyata
+395 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+395 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+395 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+395 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+395 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+395 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+395 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+395 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+395 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+395 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+396 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+396 - Lost vassal: c_nitavid
+396 - vassal: d_tacomas - Holder 1011533 - Primary title: d_tacomas has lost the title: d_tacomas
+396 - sub vassal: d_tacomas - Holder 1011533 - Primary title: d_tacomas has lost the title: d_tacomas
+396 - vassal: d_tacomas - Title given to 1011533
+396 - sub vassal: d_tacomas - Title given to 1011533
+396 - sub vassal: c_ehjict - Holder 1011533 - Primary title: c_ehjict has lost the title: c_ehjict
+396 - sub vassal: c_ehjict - Title given to 1011533 - Primary title: d_tacomas
+396 - vassal: d_tacomas - Holder (1011533) has gained c_ehjict
+396 - sub vassal: d_tacomas - Holder (1011533) has gained c_ehjict
+396 - sub vassal: c_kolula - Holder 1011533 - Primary title: c_kolula has lost the title: c_kolula
+396 - sub vassal: c_kolula - Title given to 1011533 - Primary title: d_tacomas
+396 - vassal: d_tacomas - Holder (1011533) has gained c_kolula
+396 - sub vassal: d_tacomas - Holder (1011533) has gained c_kolula
+396 - sub vassal: c_reweandu - Holder 1011533 - Primary title: c_reweandu has lost the title: c_reweandu
+396 - sub vassal: c_reweandu - Title given to 1011533 - Primary title: d_tacomas
+396 - vassal: d_tacomas - Holder (1011533) has gained c_reweandu
+396 - sub vassal: d_tacomas - Holder (1011533) has gained c_reweandu
+396 - sub vassal: c_enazan - Holder 1011533 - Primary title: c_enazan has lost the title: c_enazan
+396 - sub vassal: c_enazan - Title given to 1011533 - Primary title: d_tacomas
+396 - vassal: d_tacomas - Holder (1011533) has gained c_enazan
+396 - sub vassal: d_tacomas - Holder (1011533) has gained c_enazan
+396 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+396 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+396 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+396 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+396 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+396 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+396 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+396 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+396 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+396 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+397 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+397 - Lost vassal: c_nitavid
+397 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+397 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+397 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+397 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+397 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+397 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+397 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+397 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+397 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+397 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+398 - sub vassal: c_apakimha - Holder 1011995 - Primary title: c_apakimha has lost the title: c_apakimha
+398 - sub vassal: c_apakimha - Title given to 1011995 - Primary title: d_kazilu
+398 - sub vassal: d_kazilu - Holder (1011995) has gained c_apakimha
+398 - sub vassal: c_lenes - Holder 1011995 - Primary title: c_lenes has lost the title: c_lenes
+398 - sub vassal: c_lenes - Title given to 1011995 - Primary title: d_kazilu
+398 - sub vassal: d_kazilu - Holder (1011995) has gained c_lenes
+398 - sub vassal: c_sazay - Holder 1011995 - Primary title: c_sazay has lost the title: c_sazay
+398 - sub vassal: c_sazay - Title given to 1011995 - Primary title: d_kazilu
+398 - sub vassal: d_kazilu - Holder (1011995) has gained c_sazay
+398 - sub vassal: c_sisay - Holder 1011995 - Primary title: c_sisay has lost the title: c_sisay
+398 - sub vassal: c_sisay - Title given to 1011995 - Primary title: d_kazilu
+398 - sub vassal: d_kazilu - Holder (1011995) has gained c_sisay
+398 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+398 - Lost vassal: c_nitavid
+398 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+398 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+398 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+398 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+398 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+398 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+398 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+398 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+398 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+398 - sub vassal: c_denimha - Given to neighbour holder of k_anula
+399 - vassal: c_nitavid - Setting to vassal of d_waelurt in Validate Realm
+399 - Lost vassal: c_nitavid
+399 - sub vassal: c_qitya - Made vassal of neighbour (k_anula) due to being a seperate island
+399 - sub vassal: c_qitya - Given to neighbour holder of k_anula
+399 - sub vassal: c_toradra - Made vassal of neighbour (k_anula) due to being a seperate island
+399 - sub vassal: c_toradra - Given to neighbour holder of k_anula
+399 - sub vassal: c_teninda - Made vassal of neighbour (k_anula) due to being a seperate island
+399 - sub vassal: c_teninda - Given to neighbour holder of k_anula
+399 - sub vassal: c_rodana - Made vassal of neighbour (k_anula) due to being a seperate island
+399 - sub vassal: c_rodana - Given to neighbour holder of k_anula
+399 - sub vassal: c_denimha - Made vassal of neighbour (k_anula) due to being a seperate island
+399 - sub vassal: c_denimha - Given to neighbour holder of k_anula

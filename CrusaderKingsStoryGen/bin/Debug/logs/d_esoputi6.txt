@@ -1,0 +1,41 @@
+200 - Title given to 1000103
+200 - vassal: c_naija - Given to 1000106 via AddCharacterForTitle
+200 - sub vassal: c_naija - Given to 1000106 via AddCharacterForTitle
+200 - vassal: c_naija - Holder 1000106 - Primary title: c_naija has lost the title: c_naija
+200 - sub vassal: c_naija - Holder 1000106 - Primary title: c_naija has lost the title: c_naija
+200 - vassal: c_naija - Title given to 1000106
+200 - sub vassal: c_naija - Title given to 1000106
+200 - vassal: c_ehenama - Holder 1000103 - Primary title: c_ehenama has lost the title: c_ehenama
+200 - sub vassal: c_ehenama - Holder 1000103 - Primary title: c_ehenama has lost the title: c_ehenama
+200 - vassal: c_ehenama - Title given to 1000103 - Primary title: d_esoputi
+200 - sub vassal: c_ehenama - Title given to 1000103 - Primary title: d_esoputi
+200 - Holder (1000103) has gained c_ehenama
+200 - vassal: c_naija - Holder 1000103 - Primary title: c_naija has lost the title: c_naija
+200 - sub vassal: c_naija - Holder 1000103 - Primary title: c_naija has lost the title: c_naija
+200 - vassal: c_naija - Title given to 1000103 - Primary title: d_esoputi
+200 - sub vassal: c_naija - Title given to 1000103 - Primary title: d_esoputi
+200 - Holder (1000103) has gained c_naija
+200 - Holder 1001018 - Primary title: d_esoputi has lost the title: d_esoputi
+200 - Title given to 1001018 - Primary title: k_konadma
+200 - vassal: c_ehenama - Holder 1001018 - Primary title: c_ehenama has lost the title: c_ehenama
+200 - vassal: c_ehenama - Title given to 1001018 - Primary title: k_konadma
+205 - Holder 1001612 - Primary title: d_esoputi has lost the title: d_esoputi
+205 - Title given to 1001612 - Primary title: k_konadma
+205 - vassal: c_ehenama - Holder 1001612 - Primary title: c_ehenama has lost the title: c_ehenama
+205 - vassal: c_ehenama - Title given to 1001612 - Primary title: k_konadma
+243 - Gained vassal: c_qedeyu
+243 - Gained vassal: c_senuti
+243 - Holder 1003268 - Primary title: d_esoputi has lost the title: d_esoputi
+243 - Title given to 1003268 - Primary title: k_konadma
+243 - vassal: c_senuti - Holder 1003268 - Primary title: c_senuti has lost the title: c_senuti
+243 - vassal: c_senuti - Title given to 1003268 - Primary title: k_konadma
+243 - vassal: c_ehenama - Holder 1003268 - Primary title: c_ehenama has lost the title: c_ehenama
+243 - vassal: c_ehenama - Title given to 1003268 - Primary title: k_konadma
+243 - vassal: c_qedeyu - Setting independent in Validate Realm
+243 - vassal: c_qedeyu - Made independent
+260 - Holder 1004143 - Primary title: d_esoputi has lost the title: d_esoputi
+260 - Title given to 1004143 - Primary title: k_konadma
+260 - vassal: c_ehenama - Setting independent in Validate Realm
+260 - vassal: c_ehenama - Made independent
+260 - vassal: c_senuti - Setting independent in Validate Realm
+260 - vassal: c_senuti - Made independent

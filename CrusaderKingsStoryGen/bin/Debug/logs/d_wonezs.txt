@@ -1,0 +1,200 @@
+200 - Title given to 1000129
+200 - vassal: c_ludadr - Given to 1000132 via AddCharacterForTitle
+200 - sub vassal: c_ludadr - Given to 1000132 via AddCharacterForTitle
+200 - vassal: c_ludadr - Holder 1000132 - Primary title: c_ludadr has lost the title: c_ludadr
+200 - sub vassal: c_ludadr - Holder 1000132 - Primary title: c_ludadr has lost the title: c_ludadr
+200 - vassal: c_ludadr - Title given to 1000132
+200 - sub vassal: c_ludadr - Title given to 1000132
+200 - vassal: c_quiseph - Holder 1000129 - Primary title: c_quiseph has lost the title: c_quiseph
+200 - sub vassal: c_quiseph - Holder 1000129 - Primary title: c_quiseph has lost the title: c_quiseph
+200 - vassal: c_quiseph - Title given to 1000129 - Primary title: d_wonezs
+200 - sub vassal: c_quiseph - Title given to 1000129 - Primary title: d_wonezs
+200 - Holder (1000129) has gained c_quiseph
+200 - vassal: c_ludadr - Holder 1000129 - Primary title: c_ludadr has lost the title: c_ludadr
+200 - sub vassal: c_ludadr - Holder 1000129 - Primary title: c_ludadr has lost the title: c_ludadr
+200 - vassal: c_ludadr - Title given to 1000129 - Primary title: d_wonezs
+200 - sub vassal: c_ludadr - Title given to 1000129 - Primary title: d_wonezs
+200 - Holder (1000129) has gained c_ludadr
+200 - vassal: c_deraul - Holder 1000129 - Primary title: c_deraul has lost the title: c_deraul
+200 - sub vassal: c_deraul - Holder 1000129 - Primary title: c_deraul has lost the title: c_deraul
+200 - vassal: c_deraul - Title given to 1000129 - Primary title: d_wonezs
+200 - sub vassal: c_deraul - Title given to 1000129 - Primary title: d_wonezs
+200 - Holder (1000129) has gained c_deraul
+200 - vassal: c_nateph - Title given to 1000129 - Primary title: d_wonezs
+200 - Holder (1000129) has gained c_nateph
+205 - Holder (1000129) has gained d_werid
+205 - Holder (1000129) has gained c_everadr
+205 - Holder (1000129) has gained c_amilanda
+205 - Holder (1000129) has gained c_wasid
+205 - Holder (1000129) has gained c_ruteph
+206 - vassal: c_deraul - Title given to 1001945
+206 - vassal: c_quiseph - Title given to 1001946
+206 - vassal: c_nateph - Title given to 1001947
+219 - Title given to 1002101
+219 - vassal: c_ludadr - Setting to vassal of d_werid in Validate Realm
+219 - Lost vassal: c_ludadr
+219 - Holder (1002101) has gained c_ludadr
+219 - Gained vassal: c_ludadr
+219 - Holder (1002101) has gained d_werid
+219 - Holder (1002101) has gained c_everadr
+219 - Holder (1002101) has gained c_amilanda
+219 - Holder (1002101) has gained c_wasid
+219 - Holder (1002101) has gained c_ruteph
+230 - Gained vassal: c_everadr
+230 - Gained vassal: c_amilanda
+230 - Gained vassal: c_wasid
+230 - Gained vassal: c_ruteph
+230 - Holder 1003252 - Primary title: d_wonezs has lost the title: d_wonezs
+230 - Title given to 1003252 - Primary title: d_werid
+230 - vassal: c_ruteph - Holder 1003252 - Primary title: c_ruteph has lost the title: c_ruteph
+230 - vassal: c_ruteph - Title given to 1003252 - Primary title: d_werid
+230 - vassal: c_wasid - Holder 1003252 - Primary title: c_wasid has lost the title: c_wasid
+230 - vassal: c_wasid - Title given to 1003252 - Primary title: d_werid
+230 - vassal: c_amilanda - Holder 1003252 - Primary title: c_amilanda has lost the title: c_amilanda
+230 - vassal: c_amilanda - Title given to 1003252 - Primary title: d_werid
+230 - vassal: c_everadr - Holder 1003252 - Primary title: c_everadr has lost the title: c_everadr
+230 - vassal: c_everadr - Title given to 1003252 - Primary title: d_werid
+230 - vassal: c_ludadr - Holder 1003252 - Primary title: c_ludadr has lost the title: c_ludadr
+230 - vassal: c_ludadr - Title given to 1003252 - Primary title: d_werid
+245 - Holder (1003252) has gained d_werid
+245 - vassal: c_ludadr - Set liege on title creation d_werid
+245 - Lost vassal: c_ludadr
+245 - vassal: c_everadr - Set liege on title creation d_werid
+245 - Lost vassal: c_everadr
+245 - vassal: c_amilanda - Set liege on title creation d_werid
+245 - Lost vassal: c_amilanda
+245 - vassal: c_wasid - Set liege on title creation d_werid
+245 - Lost vassal: c_wasid
+245 - vassal: c_ruteph - Set liege on title creation d_werid
+245 - Lost vassal: c_ruteph
+245 - Holder 1004298 - Primary title: d_wonezs has lost the title: d_wonezs
+245 - Title given to 1004298
+245 - Holder (1004298) has gained c_ludadr
+245 - Holder (1004298) has gained c_everadr
+245 - Holder (1004298) has gained c_amilanda
+245 - Holder (1004298) has gained c_wasid
+245 - Holder (1004298) has gained c_ruteph
+248 - Holder 1001037 - Primary title: d_wonezs has lost the title: d_wonezs
+248 - Title given to 1001037 - Primary title: k_tamoshel
+248 - vassal: c_deraul - Given to 1004525 in HandleTitles - Too many duke titles
+248 - vassal: c_deraul - Holder 1004525 - Primary title: c_deraul has lost the title: c_deraul
+248 - vassal: c_deraul - Title given to 1004525
+248 - Title given to 1004525 - Primary title: c_deraul
+248 - vassal: c_deraul - Holder (1004525) has gained d_wonezs
+248 - Too many dukes, given to dejure: k_tamoshel
+263 - Holder 1004875 - Primary title: d_wonezs has lost the title: d_wonezs
+263 - Title given to 1004875
+263 - vassal: c_deraul - Holder 1004875 - Primary title: c_deraul has lost the title: c_deraul
+263 - vassal: c_deraul - Title given to 1004875 - Primary title: d_wonezs
+263 - Holder (1004875) has gained c_deraul
+265 - Holder 1002625 - Primary title: d_wonezs has lost the title: d_wonezs
+265 - Title given to 1002625 - Primary title: d_qudota
+265 - vassal: c_deraul - Holder 1002625 - Primary title: c_deraul has lost the title: c_deraul
+265 - vassal: c_deraul - Title given to 1002625 - Primary title: d_qudota
+279 - Holder 1005060 - Primary title: d_wonezs has lost the title: d_qudota
+279 - Gained vassal: c_noneph
+279 - Gained vassal: c_amilezs
+279 - Gained vassal: c_nounl
+279 - Holder 1005060 - Primary title: d_wonezs has lost the title: c_nounl
+279 - vassal: c_nounl - Title given to 1005060 - Primary title: d_qudota
+279 - vassal: c_nounl - Setting to vassal of d_qudota in Validate Realm
+279 - Lost vassal: c_nounl
+279 - Holder 1005060 - Primary title: d_wonezs has lost the title: c_amilezs
+279 - vassal: c_amilezs - Title given to 1005060 - Primary title: d_qudota
+279 - vassal: c_amilezs - Setting to vassal of d_qudota in Validate Realm
+279 - Lost vassal: c_amilezs
+279 - Holder 1005060 - Primary title: d_wonezs has lost the title: c_noneph
+279 - vassal: c_noneph - Title given to 1005060 - Primary title: d_qudota
+279 - vassal: c_noneph - Setting to vassal of d_qudota in Validate Realm
+279 - Lost vassal: c_noneph
+279 - Holder 1005060 - Primary title: d_wonezs has lost the title: d_wonezs
+279 - Title given to 1005060 - Primary title: d_qudota
+279 - vassal: c_deraul - Holder 1005060 - Primary title: c_deraul has lost the title: c_deraul
+279 - vassal: c_deraul - Title given to 1005060 - Primary title: d_qudota
+300 - vassal: c_quiseph - Holder 1005060 - Primary title: c_quiseph has lost the title: c_quiseph
+300 - vassal: c_quiseph - Title given to 1005060 - Primary title: d_wonezs
+300 - Holder (1005060) has gained c_quiseph
+300 - vassal: c_nateph - Holder 1005060 - Primary title: c_nateph has lost the title: c_nateph
+300 - vassal: c_nateph - Title given to 1005060 - Primary title: d_wonezs
+300 - Holder (1005060) has gained c_nateph
+300 - Holder 1007581 - Primary title: d_wonezs has lost the title: c_nounl
+316 - Holder 1006557 - Primary title: d_wonezs has lost the title: d_wonezs
+316 - Title given to 1006557
+316 - vassal: c_nateph - Setting to vassal of d_qudota in Validate Realm
+316 - Lost vassal: c_nateph
+316 - vassal: c_quiseph - Setting to vassal of d_qudota in Validate Realm
+316 - Lost vassal: c_quiseph
+316 - vassal: c_deraul - Setting to vassal of d_qudota in Validate Realm
+316 - Lost vassal: c_deraul
+316 - Holder (1006557) has gained d_qudota
+316 - Holder (1006557) has gained c_nateph
+316 - Holder (1006557) has gained c_quiseph
+316 - Holder (1006557) has gained c_amilezs
+316 - Holder (1006557) has gained c_noneph
+316 - Holder (1006557) has gained c_deraul
+317 - Destroyed due to flagged problem
+317 - Made independent
+317 - Title destroyed
+320 - Given to 1006557 in TestCreateEmpire
+320 - Title given to 1006557 - Primary title: d_qudota
+320 - Made independent for title creation d_wonezs for d_qudota
+320 - Made independent
+320 - Gained vassal: c_deraul
+320 - Gained vassal: c_noneph
+320 - Gained vassal: c_amilezs
+320 - Gained vassal: c_quiseph
+320 - Gained vassal: c_nateph
+320 - Destroyed due to no capital's obtainable
+320 - Title destroyed
+320 - vassal: c_noneph - Setting independent due to liege destruction
+320 - vassal: c_noneph - Made independent
+320 - vassal: c_deraul - Setting independent due to liege destruction
+320 - vassal: c_deraul - Made independent
+320 - vassal: c_amilezs - Setting independent due to liege destruction
+320 - vassal: c_amilezs - Made independent
+320 - vassal: c_nateph - Setting independent due to liege destruction
+320 - vassal: c_nateph - Made independent
+320 - vassal: c_quiseph - Setting independent due to liege destruction
+320 - vassal: c_quiseph - Made independent
+330 - Given to 1006557 in TestCreateEmpire
+330 - Title given to 1006557 - Primary title: d_qudota
+330 - Made independent for title creation d_wonezs for d_qudota
+330 - Made independent
+330 - Gained vassal: c_noneph
+330 - Gained vassal: c_amilezs
+330 - Gained vassal: c_quiseph
+330 - Gained vassal: c_nateph
+330 - Gained vassal: c_nounl
+330 - Destroyed due to no capital's obtainable
+330 - Title destroyed
+330 - vassal: c_nounl - Setting independent due to liege destruction
+330 - vassal: c_nounl - Made independent
+330 - vassal: c_nateph - Setting independent due to liege destruction
+330 - vassal: c_nateph - Made independent
+330 - vassal: c_quiseph - Setting independent due to liege destruction
+330 - vassal: c_quiseph - Made independent
+330 - vassal: c_amilezs - Setting independent due to liege destruction
+330 - vassal: c_amilezs - Made independent
+330 - vassal: c_noneph - Setting independent due to liege destruction
+330 - vassal: c_noneph - Made independent
+337 - Given to 1006557 in TestCreateEmpire
+337 - Title given to 1006557 - Primary title: d_qudota
+337 - Made independent for title creation d_wonezs for d_qudota
+337 - Made independent
+337 - Gained vassal: c_noneph
+337 - Gained vassal: c_amilezs
+337 - Gained vassal: c_nateph
+337 - Gained vassal: c_nounl
+337 - Gained vassal: c_deraul
+337 - Destroyed due to no capital's obtainable
+337 - Title destroyed
+337 - vassal: c_deraul - Setting independent due to liege destruction
+337 - vassal: c_deraul - Made independent
+337 - vassal: c_nounl - Setting independent due to liege destruction
+337 - vassal: c_nounl - Made independent
+337 - vassal: c_nateph - Setting independent due to liege destruction
+337 - vassal: c_nateph - Made independent
+337 - vassal: c_amilezs - Setting independent due to liege destruction
+337 - vassal: c_amilezs - Made independent
+337 - vassal: c_noneph - Setting independent due to liege destruction
+337 - vassal: c_noneph - Made independent

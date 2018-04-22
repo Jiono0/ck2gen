@@ -1,0 +1,100 @@
+200 - Title given to 1000239
+200 - vassal: c_salina - Holder 1000239 - Primary title: c_salina has lost the title: c_salina
+200 - sub vassal: c_salina - Holder 1000239 - Primary title: c_salina has lost the title: c_salina
+200 - vassal: c_salina - Title given to 1000239 - Primary title: d_kirys
+200 - sub vassal: c_salina - Title given to 1000239 - Primary title: d_kirys
+200 - Holder (1000239) has gained c_salina
+200 - vassal: c_bogachi - Holder 1000239 - Primary title: c_bogachi has lost the title: c_bogachi
+200 - sub vassal: c_bogachi - Holder 1000239 - Primary title: c_bogachi has lost the title: c_bogachi
+200 - vassal: c_bogachi - Title given to 1000239 - Primary title: d_kirys
+200 - sub vassal: c_bogachi - Title given to 1000239 - Primary title: d_kirys
+200 - Holder (1000239) has gained c_bogachi
+201 - Holder (1000239) has gained d_nusachi
+201 - Holder (1000239) has gained c_ritachi
+201 - Holder (1000239) has gained c_rogimon
+201 - Holder (1000239) has gained c_totasin
+201 - Holder (1000239) has gained c_witaise
+202 - vassal: c_salina - Title given to 1001618
+227 - vassal: c_bogachi - Title given to 1003213
+243 - vassal: c_bogachi - Given to 1004197 in HandleTitles - Too many duke titles
+243 - vassal: c_bogachi - Holder 1004197 - Primary title: c_bogachi has lost the title: c_bogachi
+243 - vassal: c_bogachi - Title given to 1004197
+243 - Title given to 1004197 - Primary title: c_bogachi
+243 - vassal: c_bogachi - Holder (1004197) has gained d_kirys
+243 - Too many dukes, given to dejure: k_witimon
+269 - Holder 1004511 - Primary title: d_kirys has lost the title: d_kirys
+269 - Title given to 1004511
+269 - vassal: c_bogachi - Holder 1004511 - Primary title: c_bogachi has lost the title: c_bogachi
+269 - vassal: c_bogachi - Title given to 1004511 - Primary title: d_kirys
+269 - Holder (1004511) has gained c_bogachi
+275 - Holder (1004511) has gained d_nusachi
+275 - Holder (1004511) has gained c_ritachi
+287 - Gained vassal: c_ritachi
+287 - Holder 1004592 - Primary title: d_kirys has lost the title: d_kirys
+287 - Title given to 1004592 - Primary title: k_witimon
+287 - vassal: c_ritachi - Holder 1004592 - Primary title: c_ritachi has lost the title: c_ritachi
+287 - vassal: c_ritachi - Title given to 1004592 - Primary title: k_witimon
+287 - vassal: c_bogachi - Holder 1004592 - Primary title: c_bogachi has lost the title: c_bogachi
+287 - vassal: c_bogachi - Title given to 1004592 - Primary title: k_witimon
+287 - vassal: c_bogachi - Given to 1006838 in HandleTitles - Too many duke titles
+287 - vassal: c_bogachi - Title given to 1006838
+287 - Title given to 1006838 - Primary title: c_bogachi
+287 - vassal: c_bogachi - Holder (1006838) has gained d_kirys
+287 - vassal: c_ritachi - Setting to vassal of k_witimon in Validate Realm
+287 - Lost vassal: c_ritachi
+287 - Too many dukes, given to dejure: k_witimon
+300 - vassal: c_salina - Holder 1006838 - Primary title: c_salina has lost the title: c_salina
+300 - vassal: c_salina - Title given to 1006838 - Primary title: d_kirys
+300 - Holder (1006838) has gained c_salina
+339 - Holder 1006937 - Primary title: d_kirys has lost the title: d_kirys
+339 - Title given to 1006937
+339 - vassal: c_bogachi - Holder 1006937 - Primary title: c_bogachi has lost the title: c_bogachi
+339 - vassal: c_bogachi - Title given to 1006937 - Primary title: d_kirys
+339 - Holder (1006937) has gained c_bogachi
+339 - vassal: c_salina - Holder 1006937 - Primary title: c_salina has lost the title: c_salina
+339 - vassal: c_salina - Title given to 1006937 - Primary title: d_kirys
+339 - Holder (1006937) has gained c_salina
+350 - Holder 1009773 - Primary title: d_kirys has lost the title: d_kirys
+350 - Title given to 1009773
+350 - vassal: c_salina - Holder 1009773 - Primary title: c_salina has lost the title: c_salina
+350 - vassal: c_salina - Title given to 1009773 - Primary title: d_kirys
+350 - Holder (1009773) has gained c_salina
+350 - vassal: c_bogachi - Holder 1009773 - Primary title: c_bogachi has lost the title: c_bogachi
+350 - vassal: c_bogachi - Title given to 1009773 - Primary title: d_kirys
+350 - Holder (1009773) has gained c_bogachi
+382 - Holder 1010434 - Primary title: d_kirys has lost the title: d_kirys
+382 - Title given to 1010434 - Primary title: d_kusounig
+382 - vassal: c_salina - Holder 1010434 - Primary title: c_salina has lost the title: c_salina
+382 - vassal: c_salina - Title given to 1010434 - Primary title: d_kusounig
+382 - vassal: c_bogachi - Holder 1010434 - Primary title: c_bogachi has lost the title: c_bogachi
+382 - vassal: c_bogachi - Title given to 1010434 - Primary title: d_kusounig
+388 - Holder 1009892 - Primary title: d_kirys has lost the title: d_kusounig
+388 - Gained vassal: c_rogimon
+388 - Holder 1009892 - Primary title: d_kirys has lost the title: c_rogimon
+388 - vassal: c_rogimon - Title given to 1009892 - Primary title: d_teimako
+388 - vassal: c_rogimon - Setting to vassal of d_teimako in Validate Realm
+388 - Lost vassal: c_rogimon
+388 - Holder 1009892 - Primary title: d_kirys has lost the title: d_kirys
+388 - Title given to 1009892 - Primary title: d_teimako
+388 - vassal: c_salina - Holder 1009892 - Primary title: c_salina has lost the title: c_salina
+388 - vassal: c_salina - Title given to 1009892 - Primary title: d_teimako
+388 - vassal: c_bogachi - Holder 1009892 - Primary title: c_bogachi has lost the title: c_bogachi
+388 - vassal: c_bogachi - Title given to 1009892 - Primary title: d_teimako
+389 - Holder 1009144 - Primary title: d_kirys has lost the title: c_betiel
+389 - Holder 1010112 - Primary title: d_kirys has lost the title: d_teimako
+389 - Gained vassal: c_rogimon
+391 - Holder 1010600 - Primary title: d_kirys has lost the title: d_kusounig
+391 - Holder 1010600 - Primary title: d_kirys has lost the title: c_rogimon
+391 - vassal: c_rogimon - Title given to 1010600 - Primary title: d_titako
+391 - vassal: c_rogimon - Setting to vassal of d_titako in Validate Realm
+391 - Lost vassal: c_rogimon
+391 - Holder 1010600 - Primary title: d_kirys has lost the title: d_kirys
+391 - Title given to 1010600 - Primary title: d_titako
+391 - vassal: c_salina - Holder 1010600 - Primary title: c_salina has lost the title: c_salina
+391 - vassal: c_salina - Title given to 1010600 - Primary title: d_titako
+391 - vassal: c_bogachi - Holder 1010600 - Primary title: c_bogachi has lost the title: c_bogachi
+391 - vassal: c_bogachi - Title given to 1010600 - Primary title: d_titako
+392 - Holder (1010600) has gained c_dalagik
+392 - vassal: c_bogachi - Title given to 1012401
+396 - vassal: c_salina - Set liege on title creation d_netaise
+396 - Lost vassal: c_salina

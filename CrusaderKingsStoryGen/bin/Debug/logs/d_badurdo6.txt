@@ -1,0 +1,61 @@
+200 - Title given to 1000340
+200 - vassal: c_kadaula - Given to 1000343 via AddCharacterForTitle
+200 - sub vassal: c_kadaula - Given to 1000343 via AddCharacterForTitle
+200 - vassal: c_kadaula - Holder 1000343 - Primary title: c_kadaula has lost the title: c_kadaula
+200 - sub vassal: c_kadaula - Holder 1000343 - Primary title: c_kadaula has lost the title: c_kadaula
+200 - vassal: c_kadaula - Title given to 1000343
+200 - sub vassal: c_kadaula - Title given to 1000343
+200 - vassal: c_qariata - Holder 1000340 - Primary title: c_qariata has lost the title: c_qariata
+200 - sub vassal: c_qariata - Holder 1000340 - Primary title: c_qariata has lost the title: c_qariata
+200 - vassal: c_qariata - Title given to 1000340 - Primary title: d_badurdo
+200 - sub vassal: c_qariata - Title given to 1000340 - Primary title: d_badurdo
+200 - Holder (1000340) has gained c_qariata
+200 - vassal: c_kadaula - Holder 1000340 - Primary title: c_kadaula has lost the title: c_kadaula
+200 - sub vassal: c_kadaula - Holder 1000340 - Primary title: c_kadaula has lost the title: c_kadaula
+200 - vassal: c_kadaula - Title given to 1000340 - Primary title: d_badurdo
+200 - sub vassal: c_kadaula - Title given to 1000340 - Primary title: d_badurdo
+200 - Holder (1000340) has gained c_kadaula
+200 - vassal: c_kelukka - Title given to 1000340 - Primary title: d_badurdo
+200 - Holder (1000340) has gained c_kelukka
+200 - vassal: c_radave - Holder 1000340 - Primary title: c_radave has lost the title: c_radave
+200 - sub vassal: c_radave - Holder 1000340 - Primary title: c_radave has lost the title: c_radave
+200 - vassal: c_radave - Title given to 1000340 - Primary title: d_badurdo
+200 - sub vassal: c_radave - Title given to 1000340 - Primary title: d_badurdo
+200 - Holder (1000340) has gained c_radave
+201 - Holder 1001199 - Primary title: d_badurdo has lost the title: d_badurdo
+201 - Title given to 1001199
+201 - vassal: c_radave - Holder 1001199 - Primary title: c_radave has lost the title: c_radave
+201 - vassal: c_radave - Title given to 1001199 - Primary title: d_badurdo
+201 - Holder (1001199) has gained c_radave
+201 - vassal: c_kelukka - Holder 1001199 - Primary title: c_kelukka has lost the title: c_kelukka
+201 - vassal: c_kelukka - Title given to 1001199 - Primary title: d_badurdo
+201 - Holder (1001199) has gained c_kelukka
+201 - vassal: c_kadaula - Holder 1001199 - Primary title: c_kadaula has lost the title: c_kadaula
+201 - vassal: c_kadaula - Title given to 1001199 - Primary title: d_badurdo
+201 - Holder (1001199) has gained c_kadaula
+201 - vassal: c_qariata - Holder 1001199 - Primary title: c_qariata has lost the title: c_qariata
+201 - vassal: c_qariata - Title given to 1001199 - Primary title: d_badurdo
+201 - Holder (1001199) has gained c_qariata
+203 - Holder 1001027 - Primary title: d_badurdo has lost the title: d_badurdo
+203 - Title given to 1001027 - Primary title: k_kyaa
+203 - vassal: c_radave - Holder 1001027 - Primary title: c_radave has lost the title: c_radave
+203 - vassal: c_radave - Title given to 1001027 - Primary title: k_kyaa
+203 - vassal: c_kelukka - Holder 1001027 - Primary title: c_kelukka has lost the title: c_kelukka
+203 - vassal: c_kelukka - Title given to 1001027 - Primary title: k_kyaa
+203 - vassal: c_kadaula - Holder 1001027 - Primary title: c_kadaula has lost the title: c_kadaula
+203 - vassal: c_kadaula - Title given to 1001027 - Primary title: k_kyaa
+203 - vassal: c_qariata - Holder 1001027 - Primary title: c_qariata has lost the title: c_qariata
+203 - vassal: c_qariata - Title given to 1001027 - Primary title: k_kyaa
+247 - Holder 1002892 - Primary title: d_badurdo has lost the title: d_badurdo
+247 - Title given to 1002892 - Primary title: k_kyaa
+247 - vassal: c_radave - Setting to vassal of d_tadala in Validate Realm
+247 - Lost vassal: c_radave
+247 - vassal: c_kelukka - Setting to vassal of d_tadala in Validate Realm
+247 - Lost vassal: c_kelukka
+247 - vassal: c_kadaula - Setting to vassal of d_tadala in Validate Realm
+247 - Lost vassal: c_kadaula
+247 - vassal: c_qariata - Setting to vassal of d_tadala in Validate Realm
+247 - Lost vassal: c_qariata
+248 - Destroyed due to flagged problem
+248 - Made independent
+248 - Title destroyed

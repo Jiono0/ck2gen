@@ -1,0 +1,62 @@
+200 - Title given to 1000419
+200 - vassal: c_kolajib - Given to 1000423 via AddCharacterForTitle
+200 - sub vassal: c_kolajib - Given to 1000423 via AddCharacterForTitle
+200 - vassal: c_kolajib - Holder 1000423 - Primary title: c_kolajib has lost the title: c_kolajib
+200 - sub vassal: c_kolajib - Holder 1000423 - Primary title: c_kolajib has lost the title: c_kolajib
+200 - vassal: c_kolajib - Title given to 1000423
+200 - sub vassal: c_kolajib - Title given to 1000423
+200 - vassal: c_ryael - Holder 1000419 - Primary title: c_ryael has lost the title: c_ryael
+200 - sub vassal: c_ryael - Holder 1000419 - Primary title: c_ryael has lost the title: c_ryael
+200 - vassal: c_ryael - Title given to 1000419 - Primary title: d_noisand
+200 - sub vassal: c_ryael - Title given to 1000419 - Primary title: d_noisand
+200 - Holder (1000419) has gained c_ryael
+200 - vassal: c_tajava - Holder 1000419 - Primary title: c_tajava has lost the title: c_tajava
+200 - sub vassal: c_tajava - Holder 1000419 - Primary title: c_tajava has lost the title: c_tajava
+200 - vassal: c_tajava - Title given to 1000419 - Primary title: d_noisand
+200 - sub vassal: c_tajava - Title given to 1000419 - Primary title: d_noisand
+200 - Holder (1000419) has gained c_tajava
+200 - vassal: c_kolajib - Holder 1000419 - Primary title: c_kolajib has lost the title: c_kolajib
+200 - sub vassal: c_kolajib - Holder 1000419 - Primary title: c_kolajib has lost the title: c_kolajib
+200 - vassal: c_kolajib - Title given to 1000419 - Primary title: d_noisand
+200 - sub vassal: c_kolajib - Title given to 1000419 - Primary title: d_noisand
+200 - Holder (1000419) has gained c_kolajib
+200 - Holder 1001029 - Primary title: d_noisand has lost the title: d_noisand
+200 - Title given to 1001029 - Primary title: k_qand
+200 - vassal: c_ryael - Holder 1001029 - Primary title: c_ryael has lost the title: c_ryael
+200 - vassal: c_ryael - Title given to 1001029 - Primary title: k_qand
+205 - Holder 1001842 - Primary title: d_noisand has lost the title: d_noisand
+205 - Title given to 1001842 - Primary title: k_qand
+205 - vassal: c_ryael - Setting to vassal of d_katus in Validate Realm
+205 - Lost vassal: c_ryael
+206 - Holder 1001910 - Primary title: d_noisand has lost the title: d_noisand
+206 - Title given to 1001910 - Primary title: k_qand
+210 - Gained vassal: c_ryael
+210 - Holder 1000432 - Primary title: d_noisand has lost the title: d_noisand
+210 - Title given to 1000432 - Primary title: k_qand
+210 - vassal: c_ryael - Setting to vassal of d_katus in Validate Realm
+210 - Lost vassal: c_ryael
+219 - Gained vassal: c_ryael
+219 - Gained vassal: c_etoland
+219 - Gained vassal: c_rajamir
+219 - Holder 1000415 - Primary title: d_noisand has lost the title: c_rajamir
+219 - vassal: c_rajamir - Title given to 1000415 - Primary title: k_qand
+219 - vassal: c_rajamir - Setting to vassal of k_qand in Validate Realm
+219 - Lost vassal: c_rajamir
+219 - Holder 1000415 - Primary title: d_noisand has lost the title: c_etoland
+219 - vassal: c_etoland - Title given to 1000415 - Primary title: k_qand
+219 - vassal: c_etoland - Setting to vassal of k_qand in Validate Realm
+219 - Lost vassal: c_etoland
+219 - Holder 1000415 - Primary title: d_noisand has lost the title: d_noisand
+219 - Title given to 1000415 - Primary title: k_qand
+219 - vassal: c_ryael - Holder 1000415 - Primary title: c_ryael has lost the title: c_ryael
+219 - vassal: c_ryael - Title given to 1000415 - Primary title: k_qand
+220 - vassal: c_ryael - Title given to 1002720
+227 - vassal: c_ryael - Given to 1003127 in HandleTitles - Too many duke titles
+227 - vassal: c_ryael - Holder 1003127 - Primary title: c_ryael has lost the title: c_ryael
+227 - vassal: c_ryael - Title given to 1003127
+227 - Title given to 1003127 - Primary title: c_ryael
+227 - vassal: c_ryael - Holder (1003127) has gained d_noisand
+227 - Too many dukes, given to dejure: k_qand
+269 - Holder 1003805 - Primary title: d_noisand has lost the title: d_noisand
+269 - Title given to 1003805
+269 - vassal: c_ryael - Holder 1003805 - Primary title:

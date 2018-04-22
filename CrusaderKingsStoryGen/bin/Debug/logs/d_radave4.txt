@@ -1,0 +1,125 @@
+200 - Title given to 1000353
+200 - vassal: c_redaise - Holder 1000353 - Primary title: c_redaise has lost the title: c_redaise
+200 - sub vassal: c_redaise - Holder 1000353 - Primary title: c_redaise has lost the title: c_redaise
+200 - vassal: c_redaise - Title given to 1000353 - Primary title: d_radave
+200 - sub vassal: c_redaise - Title given to 1000353 - Primary title: d_radave
+200 - Holder (1000353) has gained c_redaise
+200 - vassal: c_sibave - Holder 1000353 - Primary title: c_sibave has lost the title: c_sibave
+200 - sub vassal: c_sibave - Holder 1000353 - Primary title: c_sibave has lost the title: c_sibave
+200 - vassal: c_sibave - Title given to 1000353 - Primary title: d_radave
+200 - sub vassal: c_sibave - Title given to 1000353 - Primary title: d_radave
+200 - Holder (1000353) has gained c_sibave
+228 - Holder 1001658 - Primary title: d_radave has lost the title: d_radave
+228 - Title given to 1001658
+228 - vassal: c_redaise - Holder 1001658 - Primary title: c_redaise has lost the title: c_redaise
+228 - vassal: c_redaise - Title given to 1001658 - Primary title: d_radave
+228 - Holder (1001658) has gained c_redaise
+228 - vassal: c_sibave - Holder 1001658 - Primary title: c_sibave has lost the title: c_sibave
+228 - vassal: c_sibave - Title given to 1001658 - Primary title: d_radave
+228 - Holder (1001658) has gained c_sibave
+254 - Holder 1003605 - Primary title: d_radave has lost the title: d_radave
+254 - Title given to 1003605
+254 - vassal: c_sibave - Holder 1003605 - Primary title: c_sibave has lost the title: c_sibave
+254 - vassal: c_sibave - Title given to 1003605 - Primary title: d_radave
+254 - Holder (1003605) has gained c_sibave
+254 - vassal: c_redaise - Holder 1003605 - Primary title: c_redaise has lost the title: c_redaise
+254 - vassal: c_redaise - Title given to 1003605 - Primary title: d_radave
+254 - Holder (1003605) has gained c_redaise
+265 - Holder 1004928 - Primary title: d_radave has lost the title: d_radave
+265 - Title given to 1004928
+265 - vassal: c_redaise - Holder 1004928 - Primary title: c_redaise has lost the title: c_redaise
+265 - vassal: c_redaise - Title given to 1004928 - Primary title: d_radave
+265 - Holder (1004928) has gained c_redaise
+265 - vassal: c_sibave - Holder 1004928 - Primary title: c_sibave has lost the title: c_sibave
+265 - vassal: c_sibave - Title given to 1004928 - Primary title: d_radave
+265 - Holder (1004928) has gained c_sibave
+267 - Holder 1002026 - Primary title: d_radave has lost the title: d_radave
+267 - Title given to 1002026 - Primary title: k_kyaa
+267 - vassal: c_redaise - Holder 1002026 - Primary title: c_redaise has lost the title: c_redaise
+267 - vassal: c_redaise - Title given to 1002026 - Primary title: k_kyaa
+267 - vassal: c_sibave - Holder 1002026 - Primary title: c_sibave has lost the title: c_sibave
+267 - vassal: c_sibave - Title given to 1002026 - Primary title: k_kyaa
+267 - vassal: c_redaise - Title given to 1005381
+267 - vassal: c_sibave - Title given to 1005382
+274 - Gained vassal: c_tyia
+274 - Gained vassal: c_radave
+274 - Gained vassal: c_kelukka
+274 - Gained vassal: c_kadaula
+274 - Gained vassal: c_qariata
+274 - Holder 1005380 - Primary title: d_radave has lost the title: c_qariata
+274 - vassal: c_qariata - Title given to 1005380 - Primary title: k_kyaa
+274 - vassal: c_qariata - Setting to vassal of k_kyaa in Validate Realm
+274 - Lost vassal: c_qariata
+274 - Holder 1005380 - Primary title: d_radave has lost the title: c_kadaula
+274 - vassal: c_kadaula - Title given to 1005380 - Primary title: k_kyaa
+274 - vassal: c_kadaula - Setting to vassal of k_kyaa in Validate Realm
+274 - Lost vassal: c_kadaula
+274 - Holder 1005380 - Primary title: d_radave has lost the title: c_kelukka
+274 - vassal: c_kelukka - Title given to 1005380 - Primary title: k_kyaa
+274 - vassal: c_kelukka - Setting to vassal of k_kyaa in Validate Realm
+274 - Lost vassal: c_kelukka
+274 - Holder 1005380 - Primary title: d_radave has lost the title: c_radave
+274 - vassal: c_radave - Title given to 1005380 - Primary title: k_kyaa
+274 - vassal: c_radave - Setting to vassal of k_kyaa in Validate Realm
+274 - Lost vassal: c_radave
+274 - Holder 1005380 - Primary title: d_radave has lost the title: c_tyia
+274 - vassal: c_tyia - Title given to 1005380 - Primary title: k_kyaa
+274 - vassal: c_tyia - Setting to vassal of k_kyaa in Validate Realm
+274 - Lost vassal: c_tyia
+274 - Holder 1005380 - Primary title: d_radave has lost the title: d_radave
+274 - Title given to 1005380 - Primary title: k_kyaa
+275 - vassal: c_redaise - Given to 1005823 in HandleTitles - Too many duke titles
+275 - vassal: c_redaise - Holder 1005823 - Primary title: c_redaise has lost the title: c_redaise
+275 - vassal: c_redaise - Title given to 1005823
+275 - Title given to 1005823 - Primary title: c_redaise
+275 - vassal: c_redaise - Holder (1005823) has gained d_radave
+275 - Too many dukes, given to dejure: k_kyaa
+276 - Holder 1005380 - Primary title: d_radave has lost the title: d_radave
+276 - Title given to 1005380 - Primary title: k_kyaa
+276 - vassal: c_redaise - Holder 1005380 - Primary title: c_redaise has lost the title: c_redaise
+276 - vassal: c_redaise - Title given to 1005380 - Primary title: k_kyaa
+276 - vassal: c_redaise - Given to 1005868 in HandleTitles - Too many duke titles
+276 - vassal: c_redaise - Title given to 1005868
+276 - Title given to 1005868 - Primary title: c_redaise
+276 - vassal: c_redaise - Holder (1005868) has gained d_radave
+276 - Too many dukes, given to dejure: k_kyaa
+316 - Holder 1007678 - Primary title: d_radave has lost the title: d_radave
+316 - Title given to 1007678
+316 - vassal: c_redaise - Holder 1007678 - Primary title: c_redaise has lost the title: c_redaise
+316 - vassal: c_redaise - Title given to 1007678 - Primary title: d_radave
+316 - Holder (1007678) has gained c_redaise
+349 - Holder 1008736 - Primary title: d_radave has lost the title: d_radave
+349 - Title given to 1008736
+349 - vassal: c_redaise - Holder 1008736 - Primary title: c_redaise has lost the title: c_redaise
+349 - vassal: c_redaise - Title given to 1008736 - Primary title: d_radave
+349 - Holder (1008736) has gained c_redaise
+356 - Holder 1009679 - Primary title: d_radave has lost the title: d_radave
+356 - Title given to 1009679
+356 - vassal: c_redaise - Holder 1009679 - Primary title: c_redaise has lost the title: c_redaise
+356 - vassal: c_redaise - Title given to 1009679 - Primary title: d_radave
+356 - Holder (1009679) has gained c_redaise
+357 - Captured byk_wanolas in minor war
+363 - Holder 1003796 - Primary title: d_radave has lost the title: d_radave
+363 - Title given to 1003796 - Primary title: c_agerave
+363 - Gained vassal: c_agerave
+363 - vassal: c_redaise - Holder 1003796 - Primary title: c_redaise has lost the title: c_redaise
+363 - vassal: c_redaise - Title given to 1003796 - Primary title: d_radave
+363 - Holder (1003796) has gained c_redaise
+370 - Holder 1005851 - Primary title: d_radave has lost the title: d_radave
+370 - Title given to 1005851
+370 - vassal: c_agerave - Holder 1005851 - Primary title: c_agerave has lost the title: c_agerave
+370 - vassal: c_agerave - Title given to 1005851 - Primary title: d_radave
+370 - Holder (1005851) has gained c_agerave
+370 - vassal: c_redaise - Holder 1005851 - Primary title: c_redaise has lost the title: c_redaise
+370 - vassal: c_redaise - Title given to 1005851 - Primary title: d_radave
+370 - Holder (1005851) has gained c_redaise
+380 - Holder 1010623 - Primary title: d_radave has lost the title: d_radave
+380 - Title given to 1010623
+380 - vassal: c_redaise - Holder 1010623 - Primary title: c_redaise has lost the title: c_redaise
+380 - vassal: c_redaise - Title given to 1010623 - Primary title: d_radave
+380 - Holder (1010623) has gained c_redaise
+380 - vassal: c_agerave - Holder 1010623 - Primary title: c_agerave has lost the title: c_agerave
+380 - vassal: c_agerave - Title given to 1010623 - Primary title: d_radave
+380 - Holder (1010623) has gained c_agerave
+385 - Holder 1010578 - Primary title: d_radave has lost the title: d_radave
+385 - Title given to 1010578 - Primar

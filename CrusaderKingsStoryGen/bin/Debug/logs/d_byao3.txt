@@ -1,0 +1,41 @@
+200 - Title given to 1000808
+200 - vassal: c_bineem - Holder 1000808 - Primary title: c_bineem has lost the title: c_bineem
+200 - sub vassal: c_bineem - Holder 1000808 - Primary title: c_bineem has lost the title: c_bineem
+200 - vassal: c_bineem - Title given to 1000808 - Primary title: d_byao
+200 - sub vassal: c_bineem - Title given to 1000808 - Primary title: d_byao
+200 - Holder (1000808) has gained c_bineem
+200 - vassal: c_enuyaky - Holder 1000808 - Primary title: c_enuyaky has lost the title: c_enuyaky
+200 - sub vassal: c_enuyaky - Holder 1000808 - Primary title: c_enuyaky has lost the title: c_enuyaky
+200 - vassal: c_enuyaky - Title given to 1000808 - Primary title: d_byao
+200 - sub vassal: c_enuyaky - Title given to 1000808 - Primary title: d_byao
+200 - Holder (1000808) has gained c_enuyaky
+203 - Holder 1000825 - Primary title: d_byao has lost the title: d_byao
+203 - Title given to 1000825 - Primary title: d_bunius
+203 - vassal: c_enuyaky - Holder 1000825 - Primary title: c_enuyaky has lost the title: c_enuyaky
+203 - vassal: c_enuyaky - Title given to 1000825 - Primary title: d_bunius
+203 - vassal: c_bineem - Holder 1000825 - Primary title: c_bineem has lost the title: c_bineem
+203 - vassal: c_bineem - Title given to 1000825 - Primary title: d_bunius
+203 - Holder (1000825) has gained k_riliusz
+204 - vassal: c_bineem - Given to 1001765 in HandleTitles - Too many duke titles
+204 - vassal: c_bineem - Title given to 1001765
+204 - Title given to 1001765 - Primary title: c_bineem
+204 - vassal: c_bineem - Holder (1001765) has gained d_byao
+204 - vassal: c_enuyaky - Setting to vassal of k_riliusz in Validate Realm
+204 - Lost vassal: c_enuyaky
+204 - Too many dukes, given to dejure: k_riliusz
+247 - Holder 1002178 - Primary title: d_byao has lost the title: d_byao
+247 - Title given to 1002178
+247 - vassal: c_bineem - Holder 1002178 - Primary title: c_bineem has lost the title: c_bineem
+247 - vassal: c_bineem - Title given to 1002178 - Primary title: d_byao
+247 - Holder (1002178) has gained c_bineem
+249 - Holder 1003207 - Primary title: d_byao has lost the title: d_byao
+249 - Title given to 1003207 - Primary title: k_riliusz
+249 - vassal: c_bineem - Holder 1003207 - Primary title: c_bineem has lost the title: c_bineem
+249 - vassal: c_bineem - Title given to 1003207 - Primary title: k_riliusz
+263 - Holder 1004674 - Primary title: d_byao has lost the title: d_byao
+263 - Title given to 1004674 - Primary title: k_riliusz
+263 - vassal: c_bineem - Setting to vassal of d_rara in Validate Realm
+263 - Lost vassal: c_bineem
+264 - Destroyed due to flagged problem
+264 - Made independent
+264 - Title destroyed

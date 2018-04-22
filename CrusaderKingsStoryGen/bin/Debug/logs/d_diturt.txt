@@ -1,0 +1,91 @@
+200 - Title given to 1000104
+200 - vassal: c_amurokh - Given to 1000107 via AddCharacterForTitle
+200 - sub vassal: c_amurokh - Given to 1000107 via AddCharacterForTitle
+200 - vassal: c_amurokh - Holder 1000107 - Primary title: c_amurokh has lost the title: c_amurokh
+200 - sub vassal: c_amurokh - Holder 1000107 - Primary title: c_amurokh has lost the title: c_amurokh
+200 - vassal: c_amurokh - Title given to 1000107
+200 - sub vassal: c_amurokh - Title given to 1000107
+200 - vassal: c_barota - Holder 1000104 - Primary title: c_barota has lost the title: c_barota
+200 - sub vassal: c_barota - Holder 1000104 - Primary title: c_barota has lost the title: c_barota
+200 - vassal: c_barota - Title given to 1000104 - Primary title: d_diturt
+200 - sub vassal: c_barota - Title given to 1000104 - Primary title: d_diturt
+200 - Holder (1000104) has gained c_barota
+200 - vassal: c_amurokh - Holder 1000104 - Primary title: c_amurokh has lost the title: c_amurokh
+200 - sub vassal: c_amurokh - Holder 1000104 - Primary title: c_amurokh has lost the title: c_amurokh
+200 - vassal: c_amurokh - Title given to 1000104 - Primary title: d_diturt
+200 - sub vassal: c_amurokh - Title given to 1000104 - Primary title: d_diturt
+200 - Holder (1000104) has gained c_amurokh
+200 - vassal: c_devat - Title given to 1000104 - Primary title: d_diturt
+200 - Holder (1000104) has gained c_devat
+200 - Holder 1001036 - Primary title: d_diturt has lost the title: c_devat
+200 - vassal: c_devat - Title given to 1001036 - Primary title: k_ruatota
+200 - vassal: c_devat - Setting to vassal of k_ruatota in Validate Realm
+200 - Lost vassal: c_devat
+205 - Holder 1001487 - Primary title: d_diturt has lost the title: d_diturt
+205 - Title given to 1001487
+205 - vassal: c_amurokh - Holder 1001487 - Primary title: c_amurokh has lost the title: c_amurokh
+205 - vassal: c_amurokh - Title given to 1001487 - Primary title: d_diturt
+205 - Holder (1001487) has gained c_amurokh
+205 - vassal: c_barota - Holder 1001487 - Primary title: c_barota has lost the title: c_barota
+205 - vassal: c_barota - Title given to 1001487 - Primary title: d_diturt
+205 - Holder (1001487) has gained c_barota
+264 - Holder 1002671 - Primary title: d_diturt has lost the title: d_diturt
+264 - Title given to 1002671
+264 - vassal: c_barota - Holder 1002671 - Primary title: c_barota has lost the title: c_barota
+264 - vassal: c_barota - Title given to 1002671 - Primary title: d_diturt
+264 - Holder (1002671) has gained c_barota
+264 - vassal: c_amurokh - Holder 1002671 - Primary title: c_amurokh has lost the title: c_amurokh
+264 - vassal: c_amurokh - Title given to 1002671 - Primary title: d_diturt
+264 - Holder (1002671) has gained c_amurokh
+279 - Holder 1005860 - Primary title: d_diturt has lost the title: d_diturt
+279 - Title given to 1005860
+279 - vassal: c_barota - Holder 1005860 - Primary title: c_barota has lost the title: c_barota
+279 - vassal: c_barota - Title given to 1005860 - Primary title: d_diturt
+279 - Holder (1005860) has gained c_barota
+279 - vassal: c_amurokh - Holder 1005860 - Primary title: c_amurokh has lost the title: c_amurokh
+279 - vassal: c_amurokh - Title given to 1005860 - Primary title: d_diturt
+279 - Holder (1005860) has gained c_amurokh
+314 - Holder 1006934 - Primary title: d_diturt has lost the title: d_diturt
+314 - Title given to 1006934
+314 - vassal: c_barota - Holder 1006934 - Primary title: c_barota has lost the title: c_barota
+314 - vassal: c_barota - Title given to 1006934 - Primary title: d_diturt
+314 - Holder (1006934) has gained c_barota
+314 - vassal: c_amurokh - Holder 1006934 - Primary title: c_amurokh has lost the title: c_amurokh
+314 - vassal: c_amurokh - Title given to 1006934 - Primary title: d_diturt
+314 - Holder (1006934) has gained c_amurokh
+321 - Holder 1008659 - Primary title: d_diturt has lost the title: d_diturt
+321 - Title given to 1008659
+321 - vassal: c_amurokh - Holder 1008659 - Primary title: c_amurokh has lost the title: c_amurokh
+321 - vassal: c_amurokh - Title given to 1008659 - Primary title: d_diturt
+321 - Holder (1008659) has gained c_amurokh
+321 - vassal: c_barota - Holder 1008659 - Primary title: c_barota has lost the title: c_barota
+321 - vassal: c_barota - Title given to 1008659 - Primary title: d_diturt
+321 - Holder (1008659) has gained c_barota
+333 - Holder 1007497 - Primary title: d_diturt has lost the title: d_diturt
+333 - Title given to 1007497 - Primary title: k_ruatota
+333 - vassal: c_amurokh - Holder 1007497 - Primary title: c_amurokh has lost the title: c_amurokh
+333 - vassal: c_amurokh - Title given to 1007497 - Primary title: k_ruatota
+333 - vassal: c_barota - Holder 1007497 - Primary title: c_barota has lost the title: c_barota
+333 - vassal: c_barota - Title given to 1007497 - Primary title: k_ruatota
+333 - vassal: c_barota - Title given to 1009412
+333 - vassal: c_amurokh - Title given to 1009413
+349 - vassal: c_amurokh - Given to 1010230 in HandleTitles - Too many duke titles
+349 - vassal: c_amurokh - Holder 1010230 - Primary title: c_amurokh has lost the title: c_amurokh
+349 - vassal: c_amurokh - Title given to 1010230
+349 - Title given to 1010230 - Primary title: c_amurokh
+349 - vassal: c_amurokh - Holder (1010230) has gained d_diturt
+349 - Too many dukes, given to dejure: k_ruatota
+379 - Made vassal of neighbour (k_ebriga) due to being a seperate island
+379 - Given to neighbour holder of k_ebriga
+379 - Holder 1009410 - Primary title: d_diturt has lost the title: d_diturt
+379 - Title given to 1009410 - Primary title: k_ebriga
+380 - vassal: c_amurokh - Given to 1011790 in HandleTitles - Too many duke titles
+380 - vassal: c_amurokh - Holder 1011790 - Primary title: c_amurokh has lost the title: c_amurokh
+380 - vassal: c_amurokh - Title given to 1011790
+380 - Title given to 1011790 - Primary title: c_amurokh
+380 - vassal: c_amurokh - Holder (1011790) has gained d_diturt
+380 - Too many dukes, made direct title into vassal of k_ebriga
+387 - Holder 1011829 - Primary title: d_diturt has lost the title: d_diturt
+387 - Title given to 1011829 - Primary title: d_raimama
+387 - vassal: c_amurokh - Holder 1011829 - Primary title: c_amurokh has lost the title: c_amurokh
+387 - vassal: c_amurokh - Title given to 1011829 - Primary title: d_raimama

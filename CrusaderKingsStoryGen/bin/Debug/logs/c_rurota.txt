@@ -1,0 +1,31 @@
+200 - Title given to 1000000 - Primary title: c_baravid
+200 - Title given to 1000001 - Primary title: c_kitava
+200 - Given to 1000150 via AddCharacterForTitle
+200 - Title given to 1000150
+200 - Given to 1000151 via AddCharacterForTitle
+200 - Holder 1000151 - Primary title: c_rurota has lost the title: c_rurota
+200 - Title given to 1000151
+200 - Holder 1000148 - Primary title: c_rurota has lost the title: c_rurota
+200 - Title given to 1000148 - Primary title: d_kalanda
+290 - Holder 1005059 - Primary title: c_rurota has lost the title: c_rurota
+290 - Title given to 1005059 - Primary title: d_kalanda
+301 - Set liege on title creation d_ruarama
+301 - Setting independent due to liege destruction
+301 - Made independent
+303 - sub vassal: c_keirama - Setting independent in Validate Realm
+303 - sub vassal: c_keirama - Made independent
+303 - Holder 1006703 - Primary title: c_rurota has lost the title: c_rurota
+303 - Title given to 1006703 - Primary title: d_kegemar
+345 - Set liege on title creation d_ruarama
+345 - Setting independent due to liege destruction
+345 - Made independent
+349 - sub vassal: c_nennio - Setting independent in Validate Realm
+349 - sub vassal: c_nennio - Made independent
+349 - Holder 1007800 - Primary title: c_rurota has lost the title: c_rurota
+349 - Title given to 1007800 - Primary title: d_kegemar
+365 - Holder 1010374 - Primary title: c_rurota has lost the title: c_rurota
+365 - Title given to 1010374 - Primary title: d_kegemar
+367 - Holder 1009410 - Primary title: c_rurota has lost the title: c_rurota
+367 - Title given to 1009410 - Primary title: k_ebriga
+367 - Title given to 1011140
+367 - Too many dukes, made direct title into vassal of k_ebriga

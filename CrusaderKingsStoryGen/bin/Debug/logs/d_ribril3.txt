@@ -1,0 +1,48 @@
+200 - Title given to 1000400
+200 - vassal: c_bibril - Given to 1000403 via AddCharacterForTitle
+200 - sub vassal: c_bibril - Given to 1000403 via AddCharacterForTitle
+200 - vassal: c_bibril - Holder 1000403 - Primary title: c_bibril has lost the title: c_bibril
+200 - sub vassal: c_bibril - Holder 1000403 - Primary title: c_bibril has lost the title: c_bibril
+200 - vassal: c_bibril - Title given to 1000403
+200 - sub vassal: c_bibril - Title given to 1000403
+200 - vassal: c_tiuhoro - Given to 1000405 via AddCharacterForTitle
+200 - sub vassal: c_tiuhoro - Given to 1000405 via AddCharacterForTitle
+200 - vassal: c_tiuhoro - Holder 1000405 - Primary title: c_tiuhoro has lost the title: c_tiuhoro
+200 - sub vassal: c_tiuhoro - Holder 1000405 - Primary title: c_tiuhoro has lost the title: c_tiuhoro
+200 - vassal: c_tiuhoro - Title given to 1000405
+200 - sub vassal: c_tiuhoro - Title given to 1000405
+200 - vassal: c_qirza - Holder 1000400 - Primary title: c_qirza has lost the title: c_qirza
+200 - sub vassal: c_qirza - Holder 1000400 - Primary title: c_qirza has lost the title: c_qirza
+200 - vassal: c_qirza - Title given to 1000400 - Primary title: d_ribril
+200 - sub vassal: c_qirza - Title given to 1000400 - Primary title: d_ribril
+200 - Holder (1000400) has gained c_qirza
+200 - vassal: c_bibril - Holder 1000400 - Primary title: c_bibril has lost the title: c_bibril
+200 - sub vassal: c_bibril - Holder 1000400 - Primary title: c_bibril has lost the title: c_bibril
+200 - vassal: c_bibril - Title given to 1000400 - Primary title: d_ribril
+200 - sub vassal: c_bibril - Title given to 1000400 - Primary title: d_ribril
+200 - Holder (1000400) has gained c_bibril
+200 - vassal: c_tiuhoro - Holder 1000400 - Primary title: c_tiuhoro has lost the title: c_tiuhoro
+200 - sub vassal: c_tiuhoro - Holder 1000400 - Primary title: c_tiuhoro has lost the title: c_tiuhoro
+200 - vassal: c_tiuhoro - Title given to 1000400 - Primary title: d_ribril
+200 - sub vassal: c_tiuhoro - Title given to 1000400 - Primary title: d_ribril
+200 - Holder (1000400) has gained c_tiuhoro
+200 - vassal: c_tiuhava - Title given to 1000400 - Primary title: d_ribril
+200 - Holder (1000400) has gained c_tiuhava
+200 - Holder 1001022 - Primary title: d_ribril has lost the title: d_ribril
+200 - Title given to 1001022 - Primary title: k_karolas
+201 - Holder 1001531 - Primary title: d_ribril has lost the title: d_ribril
+201 - Title given to 1001531 - Primary title: k_karolas
+206 - vassal: c_tiuhoro - Made vassal of neighbour (k_ehelama) due to being a seperate island
+206 - Lost vassal: c_tiuhoro
+206 - vassal: c_qirza - Holder 1001028 - Primary title: c_qirza has lost the title: c_tiuhoro
+206 - vassal: c_qirza - Made vassal of neighbour (k_ehelama) due to being a seperate island
+206 - Lost vassal: c_qirza
+206 - vassal: c_bibril - Setting independent in Validate Realm
+206 - vassal: c_bibril - Made independent
+206 - vassal: c_tiuhava - Setting independent in Validate Realm
+206 - vassal: c_tiuhava - Made independent
+206 - Holder 1001699 - Primary title: d_ribril has lost the title: d_ribril
+206 - Title given to 1001699 - Primary title: k_karolas
+207 - Destroyed due to flagged problem
+207 - Made independent
+207 - Title destroyed

@@ -1,0 +1,1724 @@
+200 - Title given to 1001065
+200 - vassal: d_esonava - Holder 1001065 - Primary title: d_esonava has lost the title: d_esonava
+200 - sub vassal: d_esonava - Holder 1001065 - Primary title: d_esonava has lost the title: d_esonava
+200 - vassal: d_esonava - Title given to 1001065 - Primary title: k_raming
+200 - sub vassal: d_esonava - Title given to 1001065 - Primary title: k_raming
+200 - Holder (1001065) has gained d_esonava
+200 - sub vassal: c_nituncan - Holder 1001065 - Primary title: c_nituncan has lost the title: c_nituncan
+200 - sub vassal: c_nituncan - Title given to 1001065 - Primary title: k_raming
+200 - Holder (1001065) has gained c_nituncan
+201 - vassal: d_noning - Holder 1001065 - Primary title: d_noning has lost the title: d_noning
+201 - sub vassal: d_noning - Holder 1001065 - Primary title: d_noning has lost the title: d_noning
+201 - vassal: d_noning - Title given to 1001065 - Primary title: k_raming
+201 - sub vassal: d_noning - Title given to 1001065 - Primary title: k_raming
+201 - Holder (1001065) has gained d_noning
+201 - sub vassal: c_kekava - Holder 1001065 - Primary title: c_kekava has lost the title: c_kekava
+201 - sub vassal: c_kekava - Title given to 1001065 - Primary title: k_raming
+201 - Holder (1001065) has gained c_kekava
+201 - sub vassal: c_riting - Holder 1001065 - Primary title: c_riting has lost the title: c_riting
+201 - sub vassal: c_riting - Title given to 1001065 - Primary title: k_raming
+201 - Holder (1001065) has gained c_riting
+201 - sub vassal: c_tava - Holder 1001065 - Primary title: c_tava has lost the title: c_tava
+201 - sub vassal: c_tava - Title given to 1001065 - Primary title: k_raming
+201 - Holder (1001065) has gained c_tava
+201 - sub vassal: c_egnozar - Holder 1001065 - Primary title: c_egnozar has lost the title: c_egnozar
+201 - sub vassal: c_egnozar - Title given to 1001065 - Primary title: k_raming
+201 - Holder (1001065) has gained c_egnozar
+209 - vassal: d_ritonza - Holder 1001065 - Primary title: d_ritonza has lost the title: d_ritonza
+209 - sub vassal: d_ritonza - Holder 1001065 - Primary title: d_ritonza has lost the title: d_ritonza
+209 - vassal: d_ritonza - Title given to 1001065 - Primary title: k_raming
+209 - sub vassal: d_ritonza - Title given to 1001065 - Primary title: k_raming
+209 - Holder (1001065) has gained d_ritonza
+209 - sub vassal: c_runcan - Holder 1001065 - Primary title: c_runcan has lost the title: c_runcan
+209 - sub vassal: c_runcan - Title given to 1001065 - Primary title: k_raming
+209 - Holder (1001065) has gained c_runcan
+209 - sub vassal: c_kusilie - Holder 1001065 - Primary title: c_kusilie has lost the title: c_kusilie
+209 - sub vassal: c_kusilie - Title given to 1001065 - Primary title: k_raming
+209 - Holder (1001065) has gained c_kusilie
+209 - sub vassal: c_sitila - Holder 1001065 - Primary title: c_sitila has lost the title: c_sitila
+209 - sub vassal: c_sitila - Title given to 1001065 - Primary title: k_raming
+209 - Holder (1001065) has gained c_sitila
+209 - sub vassal: c_ronza - Holder 1001065 - Primary title: c_ronza has lost the title: c_ronza
+209 - sub vassal: c_ronza - Title given to 1001065 - Primary title: k_raming
+209 - Holder (1001065) has gained c_ronza
+209 - sub vassal: c_nituncan - Given to 1002199 in HandleTitles - Too many duke titles
+209 - Holder 1002199 - Primary title: k_raming has lost the title: c_nituncan
+209 - sub vassal: c_nituncan - Title given to 1002199
+209 - Holder 1002199 - Primary title: k_raming has lost the title: d_esonava
+209 - vassal: d_esonava - Title given to 1002199 - Primary title: c_nituncan
+209 - sub vassal: d_esonava - Title given to 1002199 - Primary title: c_nituncan
+209 - sub vassal: c_nituncan - Holder (1002199) has gained d_esonava
+209 - vassal: d_esonava - Too many dukes, given to dejure: k_raming
+209 - sub vassal: d_esonava - Too many dukes, given to dejure: k_raming
+209 - Holder 1002200 - Primary title: k_raming has lost the title: c_tava
+209 - sub vassal: c_tava - Title given to 1002200
+209 - Holder 1002201 - Primary title: k_raming has lost the title: c_runcan
+209 - sub vassal: c_runcan - Title given to 1002201
+209 - Holder 1002202 - Primary title: k_raming has lost the title: c_riting
+209 - sub vassal: c_riting - Title given to 1002202
+213 - Holder 1001751 - Primary title: k_raming has lost the title: k_raming
+213 - Title given to 1001751
+213 - vassal: d_noning - Holder 1001751 - Primary title: d_noning has lost the title: d_noning
+213 - sub vassal: d_noning - Holder 1001751 - Primary title: d_noning has lost the title: d_noning
+213 - vassal: d_noning - Title given to 1001751 - Primary title: k_raming
+213 - sub vassal: d_noning - Title given to 1001751 - Primary title: k_raming
+213 - Holder (1001751) has gained d_noning
+213 - sub vassal: c_kekava - Setting to vassal of d_ritonza in Validate Realm
+213 - vassal: d_noning - Lost vassal: c_kekava
+213 - sub vassal: d_noning - Lost vassal: c_kekava
+213 - sub vassal: c_egnozar - Setting to vassal of d_ritonza in Validate Realm
+213 - vassal: d_noning - Lost vassal: c_egnozar
+213 - sub vassal: d_noning - Lost vassal: c_egnozar
+213 - vassal: d_ritonza - Gained vassal: c_egnozar
+213 - sub vassal: d_ritonza - Gained vassal: c_egnozar
+213 - vassal: d_ritonza - Gained vassal: c_kekava
+213 - sub vassal: d_ritonza - Gained vassal: c_kekava
+213 - vassal: d_ritonza - Holder 1001751 - Primary title: d_ritonza has lost the title: c_kekava
+213 - sub vassal: d_ritonza - Holder 1001751 - Primary title: d_ritonza has lost the title: c_kekava
+213 - sub vassal: c_kekava - Title given to 1001751 - Primary title: k_raming
+213 - Holder (1001751) has gained c_kekava
+213 - sub vassal: c_kekava - Setting to vassal of k_raming in Validate Realm
+213 - vassal: d_ritonza - Lost vassal: c_kekava
+213 - sub vassal: d_ritonza - Lost vassal: c_kekava
+213 - Gained vassal: c_kekava
+213 - vassal: d_ritonza - Holder 1001751 - Primary title: d_ritonza has lost the title: c_egnozar
+213 - sub vassal: d_ritonza - Holder 1001751 - Primary title: d_ritonza has lost the title: c_egnozar
+213 - sub vassal: c_egnozar - Title given to 1001751 - Primary title: k_raming
+213 - Holder (1001751) has gained c_egnozar
+213 - sub vassal: c_egnozar - Setting to vassal of k_raming in Validate Realm
+213 - vassal: d_ritonza - Lost vassal: c_egnozar
+213 - sub vassal: d_ritonza - Lost vassal: c_egnozar
+213 - Gained vassal: c_egnozar
+213 - vassal: d_ritonza - Holder 1001751 - Primary title: d_ritonza has lost the title: d_ritonza
+213 - sub vassal: d_ritonza - Holder 1001751 - Primary title: d_ritonza has lost the title: d_ritonza
+213 - vassal: d_ritonza - Title given to 1001751 - Primary title: k_raming
+213 - sub vassal: d_ritonza - Title given to 1001751 - Primary title: k_raming
+213 - Holder (1001751) has gained d_ritonza
+213 - sub vassal: c_kusilie - Holder 1001751 - Primary title: c_kusilie has lost the title: c_kusilie
+213 - sub vassal: c_kusilie - Title given to 1001751 - Primary title: k_raming
+213 - Holder (1001751) has gained c_kusilie
+213 - sub vassal: c_sitila - Holder 1001751 - Primary title: c_sitila has lost the title: c_sitila
+213 - sub vassal: c_sitila - Title given to 1001751 - Primary title: k_raming
+213 - Holder (1001751) has gained c_sitila
+213 - sub vassal: c_ronza - Holder 1001751 - Primary title: c_ronza has lost the title: c_ronza
+213 - sub vassal: c_ronza - Title given to 1001751 - Primary title: k_raming
+213 - Holder (1001751) has gained c_ronza
+214 - vassal: d_azina - Holder 1001901 - Primary title: d_azina has lost the title: d_azina
+214 - sub vassal: d_azina - Holder 1001901 - Primary title: d_azina has lost the title: d_azina
+214 - vassal: d_azina - Title given to 1001901
+214 - sub vassal: d_azina - Title given to 1001901
+214 - sub vassal: c_kipadla - Holder 1001901 - Primary title: c_kipadla has lost the title: c_kipadla
+214 - sub vassal: c_kipadla - Title given to 1001901 - Primary title: d_azina
+214 - vassal: d_azina - Holder (1001901) has gained c_kipadla
+214 - sub vassal: d_azina - Holder (1001901) has gained c_kipadla
+214 - sub vassal: c_qilber - Holder 1001901 - Primary title: c_qilber has lost the title: c_qilber
+214 - sub vassal: c_qilber - Title given to 1001901 - Primary title: d_azina
+214 - vassal: d_azina - Holder (1001901) has gained c_qilber
+214 - sub vassal: d_azina - Holder (1001901) has gained c_qilber
+214 - sub vassal: c_kagifon - Holder 1001901 - Primary title: c_kagifon has lost the title: c_kagifon
+214 - sub vassal: c_kagifon - Title given to 1001901 - Primary title: d_azina
+214 - vassal: d_azina - Holder (1001901) has gained c_kagifon
+214 - sub vassal: d_azina - Holder (1001901) has gained c_kagifon
+215 - vassal: d_kyeleh - Holder 1001546 - Primary title: d_kyeleh has lost the title: d_kyeleh
+215 - sub vassal: d_kyeleh - Holder 1001546 - Primary title: d_kyeleh has lost the title: d_kyeleh
+215 - vassal: d_kyeleh - Title given to 1001546
+215 - sub vassal: d_kyeleh - Title given to 1001546
+215 - sub vassal: c_wioyna - Holder 1001546 - Primary title: c_wioyna has lost the title: c_wioyna
+215 - sub vassal: c_wioyna - Title given to 1001546 - Primary title: d_kyeleh
+215 - vassal: d_kyeleh - Holder (1001546) has gained c_wioyna
+215 - sub vassal: d_kyeleh - Holder (1001546) has gained c_wioyna
+215 - sub vassal: c_qipurgen - Holder 1001546 - Primary title: c_qipurgen has lost the title: c_qipurgen
+215 - sub vassal: c_qipurgen - Title given to 1001546 - Primary title: d_kyeleh
+215 - vassal: d_kyeleh - Holder (1001546) has gained c_qipurgen
+215 - sub vassal: d_kyeleh - Holder (1001546) has gained c_qipurgen
+215 - sub vassal: c_tuqadla - Holder 1001546 - Primary title: c_tuqadla has lost the title: c_tuqadla
+215 - sub vassal: c_tuqadla - Title given to 1001546 - Primary title: d_kyeleh
+215 - vassal: d_kyeleh - Holder (1001546) has gained c_tuqadla
+215 - sub vassal: d_kyeleh - Holder (1001546) has gained c_tuqadla
+218 - Holder 1001901 - Primary title: k_raming has lost the title: k_raming
+218 - Title given to 1001901 - Primary title: d_azina
+218 - vassal: d_azina - Holder (1001901) has gained k_raming
+218 - sub vassal: d_azina - Holder (1001901) has gained k_raming
+218 - vassal: c_kekava - Setting to vassal of d_noning in Validate Realm
+218 - sub vassal: c_kekava - Setting to vassal of d_noning in Validate Realm
+218 - Lost vassal: c_kekava
+218 - vassal: c_egnozar - Setting to vassal of d_noning in Validate Realm
+218 - sub vassal: c_egnozar - Setting to vassal of d_noning in Validate Realm
+218 - Lost vassal: c_egnozar
+218 - vassal: d_noning - Gained vassal: c_egnozar
+218 - sub vassal: d_noning - Gained vassal: c_egnozar
+218 - vassal: d_noning - Gained vassal: c_kekava
+218 - sub vassal: d_noning - Gained vassal: c_kekava
+218 - vassal: d_noning - Holder 1001901 - Primary title: d_noning has lost the title: d_noning
+218 - sub vassal: d_noning - Holder 1001901 - Primary title: d_noning has lost the title: d_noning
+218 - vassal: d_noning - Title given to 1001901 - Primary title: k_raming
+218 - sub vassal: d_noning - Title given to 1001901 - Primary title: k_raming
+218 - Holder (1001901) has gained d_noning
+218 - sub vassal: c_kekava - Setting to vassal of d_ritonza in Validate Realm
+218 - vassal: d_noning - Lost vassal: c_kekava
+218 - sub vassal: d_noning - Lost vassal: c_kekava
+218 - sub vassal: c_egnozar - Setting to vassal of d_ritonza in Validate Realm
+218 - vassal: d_noning - Lost vassal: c_egnozar
+218 - sub vassal: d_noning - Lost vassal: c_egnozar
+218 - vassal: d_ritonza - Gained vassal: c_egnozar
+218 - sub vassal: d_ritonza - Gained vassal: c_egnozar
+218 - vassal: d_ritonza - Gained vassal: c_kekava
+218 - sub vassal: d_ritonza - Gained vassal: c_kekava
+218 - vassal: d_ritonza - Holder 1001901 - Primary title: d_ritonza has lost the title: c_kekava
+218 - sub vassal: d_ritonza - Holder 1001901 - Primary title: d_ritonza has lost the title: c_kekava
+218 - sub vassal: c_kekava - Title given to 1001901 - Primary title: k_raming
+218 - Holder (1001901) has gained c_kekava
+218 - sub vassal: c_kekava - Setting to vassal of k_raming in Validate Realm
+218 - vassal: d_ritonza - Lost vassal: c_kekava
+218 - sub vassal: d_ritonza - Lost vassal: c_kekava
+218 - Gained vassal: c_kekava
+218 - vassal: d_ritonza - Holder 1001901 - Primary title: d_ritonza has lost the title: c_egnozar
+218 - sub vassal: d_ritonza - Holder 1001901 - Primary title: d_ritonza has lost the title: c_egnozar
+218 - sub vassal: c_egnozar - Title given to 1001901 - Primary title: k_raming
+218 - Holder (1001901) has gained c_egnozar
+218 - sub vassal: c_egnozar - Setting to vassal of k_raming in Validate Realm
+218 - vassal: d_ritonza - Lost vassal: c_egnozar
+218 - sub vassal: d_ritonza - Lost vassal: c_egnozar
+218 - Gained vassal: c_egnozar
+218 - vassal: d_ritonza - Holder 1001901 - Primary title: d_ritonza has lost the title: d_ritonza
+218 - sub vassal: d_ritonza - Holder 1001901 - Primary title: d_ritonza has lost the title: d_ritonza
+218 - vassal: d_ritonza - Title given to 1001901 - Primary title: k_raming
+218 - sub vassal: d_ritonza - Title given to 1001901 - Primary title: k_raming
+218 - Holder (1001901) has gained d_ritonza
+218 - sub vassal: c_kusilie - Holder 1001901 - Primary title: c_kusilie has lost the title: c_kusilie
+218 - sub vassal: c_kusilie - Title given to 1001901 - Primary title: k_raming
+218 - Holder (1001901) has gained c_kusilie
+218 - sub vassal: c_sitila - Holder 1001901 - Primary title: c_sitila has lost the title: c_sitila
+218 - sub vassal: c_sitila - Title given to 1001901 - Primary title: k_raming
+218 - Holder (1001901) has gained c_sitila
+218 - sub vassal: c_ronza - Holder 1001901 - Primary title: c_ronza has lost the title: c_ronza
+218 - sub vassal: c_ronza - Title given to 1001901 - Primary title: k_raming
+218 - Holder (1001901) has gained c_ronza
+219 - sub vassal: c_kipadla - Given to 1002762 in HandleTitles - Too many duke titles
+219 - Holder 1002762 - Primary title: k_raming has lost the title: c_kipadla
+219 - sub vassal: c_kipadla - Title given to 1002762
+219 - Holder 1002762 - Primary title: k_raming has lost the title: d_azina
+219 - vassal: d_azina - Title given to 1002762 - Primary title: c_kipadla
+219 - sub vassal: d_azina - Title given to 1002762 - Primary title: c_kipadla
+219 - sub vassal: c_kipadla - Holder (1002762) has gained d_azina
+219 - sub vassal: c_qilber - Setting to vassal of k_raming in Validate Realm
+219 - vassal: d_azina - Lost vassal: c_qilber
+219 - sub vassal: d_azina - Lost vassal: c_qilber
+219 - sub vassal: c_kagifon - Setting to vassal of k_raming in Validate Realm
+219 - vassal: d_azina - Lost vassal: c_kagifon
+219 - sub vassal: d_azina - Lost vassal: c_kagifon
+219 - Gained vassal: c_kagifon
+219 - Gained vassal: c_qilber
+219 - vassal: d_azina - Too many dukes, given to dejure: k_raming
+219 - sub vassal: d_azina - Too many dukes, given to dejure: k_raming
+219 - Holder 1002763 - Primary title: k_raming has lost the title: c_ronza
+219 - sub vassal: c_ronza - Title given to 1002763
+219 - Holder 1002764 - Primary title: k_raming has lost the title: c_kagifon
+219 - vassal: c_kagifon - Title given to 1002764
+219 - sub vassal: c_kagifon - Title given to 1002764
+221 - vassal: d_kiponza - Holder 1001354 - Primary title: d_kiponza has lost the title: d_kiponza
+221 - sub vassal: d_kiponza - Holder 1001354 - Primary title: d_kiponza has lost the title: d_kiponza
+221 - vassal: d_kiponza - Title given to 1001354
+221 - sub vassal: d_kiponza - Title given to 1001354
+221 - sub vassal: c_ripadla - Holder 1001354 - Primary title: c_ripadla has lost the title: c_ripadla
+221 - sub vassal: c_ripadla - Title given to 1001354 - Primary title: d_kiponza
+221 - vassal: d_kiponza - Holder (1001354) has gained c_ripadla
+221 - sub vassal: d_kiponza - Holder (1001354) has gained c_ripadla
+221 - sub vassal: c_dyelifon - Holder 1001354 - Primary title: c_dyelifon has lost the title: c_dyelifon
+221 - sub vassal: c_dyelifon - Title given to 1001354 - Primary title: d_kiponza
+221 - vassal: d_kiponza - Holder (1001354) has gained c_dyelifon
+221 - sub vassal: d_kiponza - Holder (1001354) has gained c_dyelifon
+221 - sub vassal: c_loneh - Holder 1001354 - Primary title: c_loneh has lost the title: c_loneh
+221 - sub vassal: c_loneh - Title given to 1001354 - Primary title: d_kiponza
+221 - vassal: d_kiponza - Holder (1001354) has gained c_loneh
+221 - sub vassal: d_kiponza - Holder (1001354) has gained c_loneh
+221 - sub vassal: c_sekemey - Holder 1001354 - Primary title: c_sekemey has lost the title: c_sekemey
+221 - sub vassal: c_sekemey - Title given to 1001354 - Primary title: d_kiponza
+221 - vassal: d_kiponza - Holder (1001354) has gained c_sekemey
+221 - sub vassal: d_kiponza - Holder (1001354) has gained c_sekemey
+221 - vassal: d_epeytn - Holder 1002375 - Primary title: d_epeytn has lost the title: d_epeytn
+221 - sub vassal: d_epeytn - Holder 1002375 - Primary title: d_epeytn has lost the title: d_epeytn
+221 - vassal: d_epeytn - Title given to 1002375
+221 - sub vassal: d_epeytn - Title given to 1002375
+221 - sub vassal: c_bonozar - Holder 1002375 - Primary title: c_bonozar has lost the title: c_bonozar
+221 - sub vassal: c_bonozar - Title given to 1002375 - Primary title: d_epeytn
+221 - vassal: d_epeytn - Holder (1002375) has gained c_bonozar
+221 - sub vassal: d_epeytn - Holder (1002375) has gained c_bonozar
+221 - sub vassal: c_sevonza - Holder 1002375 - Primary title: c_sevonza has lost the title: c_sevonza
+221 - sub vassal: c_sevonza - Title given to 1002375 - Primary title: d_epeytn
+221 - vassal: d_epeytn - Holder (1002375) has gained c_sevonza
+221 - sub vassal: d_epeytn - Holder (1002375) has gained c_sevonza
+221 - sub vassal: c_bilila - Holder 1002375 - Primary title: c_bilila has lost the title: c_bilila
+221 - sub vassal: c_bilila - Title given to 1002375 - Primary title: d_epeytn
+221 - vassal: d_epeytn - Holder (1002375) has gained c_bilila
+221 - sub vassal: d_epeytn - Holder (1002375) has gained c_bilila
+221 - sub vassal: c_sasing - Holder 1002375 - Primary title: c_sasing has lost the title: c_sasing
+221 - sub vassal: c_sasing - Title given to 1002375 - Primary title: d_epeytn
+221 - vassal: d_epeytn - Holder (1002375) has gained c_sasing
+221 - sub vassal: d_epeytn - Holder (1002375) has gained c_sasing
+225 - vassal: d_teytn - Holder 1001731 - Primary title: d_teytn has lost the title: d_teytn
+225 - sub vassal: d_teytn - Holder 1001731 - Primary title: d_teytn has lost the title: d_teytn
+225 - vassal: d_teytn - Title given to 1001731
+225 - sub vassal: d_teytn - Title given to 1001731
+225 - sub vassal: c_wipemey - Holder 1001731 - Primary title: c_wipemey has lost the title: c_wipemey
+225 - sub vassal: c_wipemey - Title given to 1001731 - Primary title: d_teytn
+225 - vassal: d_teytn - Holder (1001731) has gained c_wipemey
+225 - sub vassal: d_teytn - Holder (1001731) has gained c_wipemey
+225 - sub vassal: c_teyling - Holder 1001731 - Primary title: c_teyling has lost the title: c_teyling
+225 - sub vassal: c_teyling - Title given to 1001731 - Primary title: d_teytn
+225 - vassal: d_teytn - Holder (1001731) has gained c_teyling
+225 - sub vassal: d_teytn - Holder (1001731) has gained c_teyling
+225 - sub vassal: c_tina - Holder 1001731 - Primary title: c_tina has lost the title: c_tina
+225 - sub vassal: c_tina - Title given to 1001731 - Primary title: d_teytn
+225 - vassal: d_teytn - Holder (1001731) has gained c_tina
+225 - sub vassal: d_teytn - Holder (1001731) has gained c_tina
+228 - vassal: d_esonava - Holder 1001901 - Primary title: d_esonava has lost the title: d_esonava
+228 - sub vassal: d_esonava - Holder 1001901 - Primary title: d_esonava has lost the title: d_esonava
+228 - vassal: d_esonava - Title given to 1001901 - Primary title: k_raming
+228 - sub vassal: d_esonava - Title given to 1001901 - Primary title: k_raming
+228 - Holder (1001901) has gained d_esonava
+228 - sub vassal: c_nituncan - Holder 1001901 - Primary title: c_nituncan has lost the title: c_nituncan
+228 - sub vassal: c_nituncan - Title given to 1001901 - Primary title: k_raming
+228 - Holder (1001901) has gained c_nituncan
+228 - sub vassal: c_sitila - Given to 1003293 in HandleTitles - Too many duke titles
+228 - Holder 1003293 - Primary title: k_raming has lost the title: c_sitila
+228 - sub vassal: c_sitila - Title given to 1003293
+228 - Holder 1003293 - Primary title: k_raming has lost the title: d_ritonza
+228 - vassal: d_ritonza - Title given to 1003293 - Primary title: c_sitila
+228 - sub vassal: d_ritonza - Title given to 1003293 - Primary title: c_sitila
+228 - sub vassal: c_sitila - Holder (1003293) has gained d_ritonza
+228 - sub vassal: c_kusilie - Setting to vassal of k_raming in Validate Realm
+228 - vassal: d_ritonza - Lost vassal: c_kusilie
+228 - sub vassal: d_ritonza - Lost vassal: c_kusilie
+228 - Gained vassal: c_kusilie
+228 - vassal: d_ritonza - Too many dukes, given to dejure: k_raming
+228 - sub vassal: d_ritonza - Too many dukes, given to dejure: k_raming
+234 - Holder 1003062 - Primary title: k_raming has lost the title: k_raming
+234 - Title given to 1003062
+234 - vassal: d_noning - Holder 1003062 - Primary title: d_noning has lost the title: d_noning
+234 - sub vassal: d_noning - Holder 1003062 - Primary title: d_noning has lost the title: d_noning
+234 - vassal: d_noning - Title given to 1003062 - Primary title: k_raming
+234 - sub vassal: d_noning - Title given to 1003062 - Primary title: k_raming
+234 - Holder (1003062) has gained d_noning
+234 - vassal: c_kusilie - Setting to vassal of d_esonava in Validate Realm
+234 - sub vassal: c_kusilie - Setting to vassal of d_esonava in Validate Realm
+234 - Lost vassal: c_kusilie
+234 - vassal: c_egnozar - Setting to vassal of d_esonava in Validate Realm
+234 - sub vassal: c_egnozar - Setting to vassal of d_esonava in Validate Realm
+234 - Lost vassal: c_egnozar
+234 - vassal: c_kekava - Setting to vassal of d_esonava in Validate Realm
+234 - sub vassal: c_kekava - Setting to vassal of d_esonava in Validate Realm
+234 - Lost vassal: c_kekava
+234 - vassal: c_qilber - Setting to vassal of d_esonava in Validate Realm
+234 - sub vassal: c_qilber - Setting to vassal of d_esonava in Validate Realm
+234 - Lost vassal: c_qilber
+234 - vassal: d_esonava - Gained vassal: c_qilber
+234 - sub vassal: d_esonava - Gained vassal: c_qilber
+234 - vassal: d_esonava - Gained vassal: c_kekava
+234 - sub vassal: d_esonava - Gained vassal: c_kekava
+234 - vassal: d_esonava - Gained vassal: c_egnozar
+234 - sub vassal: d_esonava - Gained vassal: c_egnozar
+234 - vassal: d_esonava - Gained vassal: c_kusilie
+234 - sub vassal: d_esonava - Gained vassal: c_kusilie
+234 - vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: c_kusilie
+234 - sub vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: c_kusilie
+234 - sub vassal: c_kusilie - Title given to 1003062 - Primary title: k_raming
+234 - Holder (1003062) has gained c_kusilie
+234 - sub vassal: c_kusilie - Setting to vassal of k_raming in Validate Realm
+234 - vassal: d_esonava - Lost vassal: c_kusilie
+234 - sub vassal: d_esonava - Lost vassal: c_kusilie
+234 - Gained vassal: c_kusilie
+234 - vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: c_egnozar
+234 - sub vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: c_egnozar
+234 - sub vassal: c_egnozar - Title given to 1003062 - Primary title: k_raming
+234 - Holder (1003062) has gained c_egnozar
+234 - sub vassal: c_egnozar - Setting to vassal of k_raming in Validate Realm
+234 - vassal: d_esonava - Lost vassal: c_egnozar
+234 - sub vassal: d_esonava - Lost vassal: c_egnozar
+234 - Gained vassal: c_egnozar
+234 - vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: c_kekava
+234 - sub vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: c_kekava
+234 - sub vassal: c_kekava - Title given to 1003062 - Primary title: k_raming
+234 - Holder (1003062) has gained c_kekava
+234 - sub vassal: c_kekava - Setting to vassal of k_raming in Validate Realm
+234 - vassal: d_esonava - Lost vassal: c_kekava
+234 - sub vassal: d_esonava - Lost vassal: c_kekava
+234 - Gained vassal: c_kekava
+234 - vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: c_qilber
+234 - sub vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: c_qilber
+234 - sub vassal: c_qilber - Title given to 1003062 - Primary title: k_raming
+234 - Holder (1003062) has gained c_qilber
+234 - sub vassal: c_qilber - Setting to vassal of k_raming in Validate Realm
+234 - vassal: d_esonava - Lost vassal: c_qilber
+234 - sub vassal: d_esonava - Lost vassal: c_qilber
+234 - Gained vassal: c_qilber
+234 - vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: d_esonava
+234 - sub vassal: d_esonava - Holder 1003062 - Primary title: d_esonava has lost the title: d_esonava
+234 - vassal: d_esonava - Title given to 1003062 - Primary title: k_raming
+234 - sub vassal: d_esonava - Title given to 1003062 - Primary title: k_raming
+234 - Holder (1003062) has gained d_esonava
+234 - sub vassal: c_nituncan - Holder 1003062 - Primary title: c_nituncan has lost the title: c_nituncan
+234 - sub vassal: c_nituncan - Title given to 1003062 - Primary title: k_raming
+234 - Holder (1003062) has gained c_nituncan
+238 - vassal: d_kyeleh - Holder 1002820 - Primary title: d_kyeleh has lost the title: d_kyeleh
+238 - sub vassal: d_kyeleh - Holder 1002820 - Primary title: d_kyeleh has lost the title: d_kyeleh
+238 - vassal: d_kyeleh - Title given to 1002820
+238 - sub vassal: d_kyeleh - Title given to 1002820
+238 - sub vassal: c_tuqadla - Holder 1002820 - Primary title: c_tuqadla has lost the title: c_tuqadla
+238 - sub vassal: c_tuqadla - Title given to 1002820 - Primary title: d_kyeleh
+238 - vassal: d_kyeleh - Holder (1002820) has gained c_tuqadla
+238 - sub vassal: d_kyeleh - Holder (1002820) has gained c_tuqadla
+238 - sub vassal: c_qipurgen - Holder 1002820 - Primary title: c_qipurgen has lost the title: c_qipurgen
+238 - sub vassal: c_qipurgen - Title given to 1002820 - Primary title: d_kyeleh
+238 - vassal: d_kyeleh - Holder (1002820) has gained c_qipurgen
+238 - sub vassal: d_kyeleh - Holder (1002820) has gained c_qipurgen
+238 - sub vassal: c_wioyna - Holder 1002820 - Primary title: c_wioyna has lost the title: c_wioyna
+238 - sub vassal: c_wioyna - Title given to 1002820 - Primary title: d_kyeleh
+238 - vassal: d_kyeleh - Holder (1002820) has gained c_wioyna
+238 - sub vassal: d_kyeleh - Holder (1002820) has gained c_wioyna
+240 - Holder 1001731 - Primary title: k_raming has lost the title: k_raming
+240 - Title given to 1001731 - Primary title: d_teytn
+240 - vassal: d_teytn - Holder (1001731) has gained k_raming
+240 - sub vassal: d_teytn - Holder (1001731) has gained k_raming
+240 - vassal: c_qilber - Setting to vassal of d_noning in Validate Realm
+240 - sub vassal: c_qilber - Setting to vassal of d_noning in Validate Realm
+240 - Lost vassal: c_qilber
+240 - vassal: c_kekava - Setting to vassal of d_noning in Validate Realm
+240 - sub vassal: c_kekava - Setting to vassal of d_noning in Validate Realm
+240 - Lost vassal: c_kekava
+240 - vassal: c_egnozar - Setting to vassal of d_noning in Validate Realm
+240 - sub vassal: c_egnozar - Setting to vassal of d_noning in Validate Realm
+240 - Lost vassal: c_egnozar
+240 - vassal: c_kusilie - Setting to vassal of d_noning in Validate Realm
+240 - sub vassal: c_kusilie - Setting to vassal of d_noning in Validate Realm
+240 - Lost vassal: c_kusilie
+240 - vassal: d_noning - Gained vassal: c_kusilie
+240 - sub vassal: d_noning - Gained vassal: c_kusilie
+240 - vassal: d_noning - Gained vassal: c_egnozar
+240 - sub vassal: d_noning - Gained vassal: c_egnozar
+240 - vassal: d_noning - Gained vassal: c_kekava
+240 - sub vassal: d_noning - Gained vassal: c_kekava
+240 - vassal: d_noning - Gained vassal: c_qilber
+240 - sub vassal: d_noning - Gained vassal: c_qilber
+240 - vassal: d_noning - Holder 1001731 - Primary title: d_noning has lost the title: d_noning
+240 - sub vassal: d_noning - Holder 1001731 - Primary title: d_noning has lost the title: d_noning
+240 - vassal: d_noning - Title given to 1001731 - Primary title: k_raming
+240 - sub vassal: d_noning - Title given to 1001731 - Primary title: k_raming
+240 - Holder (1001731) has gained d_noning
+240 - sub vassal: c_qilber - Setting to vassal of d_esonava in Validate Realm
+240 - vassal: d_noning - Lost vassal: c_qilber
+240 - sub vassal: d_noning - Lost vassal: c_qilber
+240 - sub vassal: c_kekava - Setting to vassal of d_esonava in Validate Realm
+240 - vassal: d_noning - Lost vassal: c_kekava
+240 - sub vassal: d_noning - Lost vassal: c_kekava
+240 - sub vassal: c_egnozar - Setting to vassal of d_esonava in Validate Realm
+240 - vassal: d_noning - Lost vassal: c_egnozar
+240 - sub vassal: d_noning - Lost vassal: c_egnozar
+240 - sub vassal: c_kusilie - Setting to vassal of d_esonava in Validate Realm
+240 - vassal: d_noning - Lost vassal: c_kusilie
+240 - sub vassal: d_noning - Lost vassal: c_kusilie
+240 - vassal: d_esonava - Gained vassal: c_kusilie
+240 - sub vassal: d_esonava - Gained vassal: c_kusilie
+240 - vassal: d_esonava - Gained vassal: c_egnozar
+240 - sub vassal: d_esonava - Gained vassal: c_egnozar
+240 - vassal: d_esonava - Gained vassal: c_kekava
+240 - sub vassal: d_esonava - Gained vassal: c_kekava
+240 - vassal: d_esonava - Gained vassal: c_qilber
+240 - sub vassal: d_esonava - Gained vassal: c_qilber
+240 - vassal: d_esonava - Holder 1001731 - Primary title: d_esonava has lost the title: d_esonava
+240 - sub vassal: d_esonava - Holder 1001731 - Primary title: d_esonava has lost the title: d_esonava
+240 - vassal: d_esonava - Title given to 1001731 - Primary title: k_raming
+240 - sub vassal: d_esonava - Title given to 1001731 - Primary title: k_raming
+240 - Holder (1001731) has gained d_esonava
+240 - sub vassal: c_nituncan - Holder 1001731 - Primary title: c_nituncan has lost the title: c_nituncan
+240 - sub vassal: c_nituncan - Title given to 1001731 - Primary title: k_raming
+240 - Holder (1001731) has gained c_nituncan
+240 - sub vassal: c_qilber - Holder 1001731 - Primary title: c_qilber has lost the title: c_qilber
+240 - sub vassal: c_qilber - Title given to 1001731 - Primary title: k_raming
+240 - Holder (1001731) has gained c_qilber
+240 - sub vassal: c_kekava - Holder 1001731 - Primary title: c_kekava has lost the title: c_kekava
+240 - sub vassal: c_kekava - Title given to 1001731 - Primary title: k_raming
+240 - Holder (1001731) has gained c_kekava
+240 - sub vassal: c_egnozar - Holder 1001731 - Primary title: c_egnozar has lost the title: c_egnozar
+240 - sub vassal: c_egnozar - Title given to 1001731 - Primary title: k_raming
+240 - Holder (1001731) has gained c_egnozar
+240 - sub vassal: c_kusilie - Holder 1001731 - Primary title: c_kusilie has lost the title: c_kusilie
+240 - sub vassal: c_kusilie - Title given to 1001731 - Primary title: k_raming
+240 - Holder (1001731) has gained c_kusilie
+241 - sub vassal: c_nituncan - Given to 1004094 in HandleTitles - Too many duke titles
+241 - Holder 1004094 - Primary title: k_raming has lost the title: c_nituncan
+241 - sub vassal: c_nituncan - Title given to 1004094
+241 - Holder 1004094 - Primary title: k_raming has lost the title: d_esonava
+241 - vassal: d_esonava - Title given to 1004094 - Primary title: c_nituncan
+241 - sub vassal: d_esonava - Title given to 1004094 - Primary title: c_nituncan
+241 - sub vassal: c_nituncan - Holder (1004094) has gained d_esonava
+241 - sub vassal: c_qilber - Setting to vassal of k_raming in Validate Realm
+241 - vassal: d_esonava - Lost vassal: c_qilber
+241 - sub vassal: d_esonava - Lost vassal: c_qilber
+241 - sub vassal: c_kekava - Setting to vassal of k_raming in Validate Realm
+241 - vassal: d_esonava - Lost vassal: c_kekava
+241 - sub vassal: d_esonava - Lost vassal: c_kekava
+241 - sub vassal: c_egnozar - Setting to vassal of k_raming in Validate Realm
+241 - vassal: d_esonava - Lost vassal: c_egnozar
+241 - sub vassal: d_esonava - Lost vassal: c_egnozar
+241 - sub vassal: c_kusilie - Setting to vassal of k_raming in Validate Realm
+241 - vassal: d_esonava - Lost vassal: c_kusilie
+241 - sub vassal: d_esonava - Lost vassal: c_kusilie
+241 - Gained vassal: c_kusilie
+241 - Gained vassal: c_egnozar
+241 - Gained vassal: c_kekava
+241 - Gained vassal: c_qilber
+241 - vassal: d_esonava - Too many dukes, given to dejure: k_raming
+241 - sub vassal: d_esonava - Too many dukes, given to dejure: k_raming
+241 - Holder 1004095 - Primary title: k_raming has lost the title: c_egnozar
+241 - vassal: c_egnozar - Title given to 1004095
+241 - sub vassal: c_egnozar - Title given to 1004095
+241 - Holder 1004096 - Primary title: k_raming has lost the title: c_kekava
+241 - vassal: c_kekava - Title given to 1004096
+241 - sub vassal: c_kekava - Title given to 1004096
+251 - vassal: d_azina - Holder 1002995 - Primary title: d_azina has lost the title: d_azina
+251 - sub vassal: d_azina - Holder 1002995 - Primary title: d_azina has lost the title: d_azina
+251 - vassal: d_azina - Title given to 1002995
+251 - sub vassal: d_azina - Title given to 1002995
+251 - sub vassal: c_kipadla - Holder 1002995 - Primary title: c_kipadla has lost the title: c_kipadla
+251 - sub vassal: c_kipadla - Title given to 1002995 - Primary title: d_azina
+251 - vassal: d_azina - Holder (1002995) has gained c_kipadla
+251 - sub vassal: d_azina - Holder (1002995) has gained c_kipadla
+252 - vassal: d_litozar - Holder 1002061 - Primary title: d_litozar has lost the title: d_litozar
+252 - sub vassal: d_litozar - Holder 1002061 - Primary title: d_litozar has lost the title: d_litozar
+252 - vassal: d_litozar - Title given to 1002061
+252 - sub vassal: d_litozar - Title given to 1002061
+252 - sub vassal: c_adiling - Holder 1002061 - Primary title: c_adiling has lost the title: c_adiling
+252 - sub vassal: c_adiling - Title given to 1002061 - Primary title: d_litozar
+252 - vassal: d_litozar - Holder (1002061) has gained c_adiling
+252 - sub vassal: d_litozar - Holder (1002061) has gained c_adiling
+252 - sub vassal: c_kekina - Holder 1002061 - Primary title: c_kekina has lost the title: c_kekina
+252 - sub vassal: c_kekina - Title given to 1002061 - Primary title: d_litozar
+252 - vassal: d_litozar - Holder (1002061) has gained c_kekina
+252 - sub vassal: d_litozar - Holder (1002061) has gained c_kekina
+253 - vassal: d_kyeleh - Holder 1003977 - Primary title: d_kyeleh has lost the title: d_kyeleh
+253 - sub vassal: d_kyeleh - Holder 1003977 - Primary title: d_kyeleh has lost the title: d_kyeleh
+253 - vassal: d_kyeleh - Title given to 1003977
+253 - sub vassal: d_kyeleh - Title given to 1003977
+253 - sub vassal: c_wioyna - Holder 1003977 - Primary title: c_wioyna has lost the title: c_wioyna
+253 - sub vassal: c_wioyna - Title given to 1003977 - Primary title: d_kyeleh
+253 - vassal: d_kyeleh - Holder (1003977) has gained c_wioyna
+253 - sub vassal: d_kyeleh - Holder (1003977) has gained c_wioyna
+253 - sub vassal: c_qipurgen - Holder 1003977 - Primary title: c_qipurgen has lost the title: c_qipurgen
+253 - sub vassal: c_qipurgen - Title given to 1003977 - Primary title: d_kyeleh
+253 - vassal: d_kyeleh - Holder (1003977) has gained c_qipurgen
+253 - sub vassal: d_kyeleh - Holder (1003977) has gained c_qipurgen
+253 - sub vassal: c_tuqadla - Holder 1003977 - Primary title: c_tuqadla has lost the title: c_tuqadla
+253 - sub vassal: c_tuqadla - Title given to 1003977 - Primary title: d_kyeleh
+253 - vassal: d_kyeleh - Holder (1003977) has gained c_tuqadla
+253 - sub vassal: d_kyeleh - Holder (1003977) has gained c_tuqadla
+255 - vassal: d_litozar - Holder 1002995 - Primary title: d_litozar has lost the title: d_litozar
+255 - sub vassal: d_litozar - Holder 1002995 - Primary title: d_litozar has lost the title: d_litozar
+255 - vassal: d_litozar - Title given to 1002995 - Primary title: d_azina
+255 - sub vassal: d_litozar - Title given to 1002995 - Primary title: d_azina
+255 - vassal: d_azina - Holder (1002995) has gained d_litozar
+255 - sub vassal: d_azina - Holder (1002995) has gained d_litozar
+255 - sub vassal: c_adiling - Holder 1002995 - Primary title: c_adiling has lost the title: c_adiling
+255 - sub vassal: c_adiling - Title given to 1002995 - Primary title: d_azina
+255 - vassal: d_azina - Holder (1002995) has gained c_adiling
+255 - sub vassal: d_azina - Holder (1002995) has gained c_adiling
+255 - sub vassal: c_kekina - Holder 1002995 - Primary title: c_kekina has lost the title: c_kekina
+255 - sub vassal: c_kekina - Title given to 1002995 - Primary title: d_azina
+255 - vassal: d_azina - Holder (1002995) has gained c_kekina
+255 - sub vassal: d_azina - Holder (1002995) has gained c_kekina
+257 - vassal: d_litozar - Holder 1003293 - Primary title: d_litozar has lost the title: d_azina
+257 - sub vassal: d_litozar - Holder 1003293 - Primary title: d_litozar has lost the title: d_azina
+257 - vassal: d_azina - Title given to 1003293 - Primary title: d_ritonza
+257 - sub vassal: d_azina - Title given to 1003293 - Primary title: d_ritonza
+257 - vassal: d_ritonza - Holder (1003293) has gained d_azina
+257 - sub vassal: d_ritonza - Holder (1003293) has gained d_azina
+257 - sub vassal: c_kipadla - Setting to vassal of d_litozar in Validate Realm
+257 - vassal: d_azina - Lost vassal: c_kipadla
+257 - sub vassal: d_azina - Lost vassal: c_kipadla
+257 - vassal: d_litozar - Gained vassal: c_kipadla
+257 - sub vassal: d_litozar - Gained vassal: c_kipadla
+257 - vassal: d_litozar - Holder 1003293 - Primary title: d_litozar has lost the title: c_kipadla
+257 - sub vassal: d_litozar - Holder 1003293 - Primary title: d_litozar has lost the title: c_kipadla
+257 - sub vassal: c_kipadla - Title given to 1003293 - Primary title: d_ritonza
+257 - vassal: d_ritonza - Holder (1003293) has gained c_kipadla
+257 - sub vassal: d_ritonza - Holder (1003293) has gained c_kipadla
+257 - sub vassal: c_kipadla - Setting to vassal of d_ritonza in Validate Realm
+257 - vassal: d_litozar - Lost vassal: c_kipadla
+257 - sub vassal: d_litozar - Lost vassal: c_kipadla
+257 - vassal: d_ritonza - Gained vassal: c_kipadla
+257 - sub vassal: d_ritonza - Gained vassal: c_kipadla
+257 - vassal: d_litozar - Holder 1003293 - Primary title: d_litozar has lost the title: d_litozar
+257 - sub vassal: d_litozar - Holder 1003293 - Primary title: d_litozar has lost the title: d_litozar
+257 - vassal: d_litozar - Title given to 1003293 - Primary title: d_ritonza
+257 - sub vassal: d_litozar - Title given to 1003293 - Primary title: d_ritonza
+257 - vassal: d_ritonza - Holder (1003293) has gained d_litozar
+257 - sub vassal: d_ritonza - Holder (1003293) has gained d_litozar
+257 - sub vassal: c_adiling - Holder 1003293 - Primary title: c_adiling has lost the title: c_adiling
+257 - sub vassal: c_adiling - Title given to 1003293 - Primary title: d_ritonza
+257 - vassal: d_ritonza - Holder (1003293) has gained c_adiling
+257 - sub vassal: d_ritonza - Holder (1003293) has gained c_adiling
+257 - sub vassal: c_kekina - Holder 1003293 - Primary title: c_kekina has lost the title: c_kekina
+257 - sub vassal: c_kekina - Title given to 1003293 - Primary title: d_ritonza
+257 - vassal: d_ritonza - Holder (1003293) has gained c_kekina
+257 - sub vassal: d_ritonza - Holder (1003293) has gained c_kekina
+258 - vassal: d_azina - Destroyed due to flagged problem
+258 - sub vassal: d_azina - Destroyed due to flagged problem
+258 - vassal: d_azina - Made independent
+258 - sub vassal: d_azina - Made independent
+259 - Holder 1004265 - Primary title: k_raming has lost the title: k_raming
+259 - Title given to 1004265
+259 - vassal: d_teytn - Holder 1004265 - Primary title: d_teytn has lost the title: d_teytn
+259 - sub vassal: d_teytn - Holder 1004265 - Primary title: d_teytn has lost the title: d_teytn
+259 - vassal: d_teytn - Title given to 1004265 - Primary title: k_raming
+259 - sub vassal: d_teytn - Title given to 1004265 - Primary title: k_raming
+259 - Holder (1004265) has gained d_teytn
+259 - sub vassal: c_tina - Setting to vassal of d_noning in Validate Realm
+259 - vassal: d_teytn - Lost vassal: c_tina
+259 - sub vassal: d_teytn - Lost vassal: c_tina
+259 - sub vassal: c_teyling - Setting to vassal of d_noning in Validate Realm
+259 - vassal: d_teytn - Lost vassal: c_teyling
+259 - sub vassal: d_teytn - Lost vassal: c_teyling
+259 - sub vassal: c_wipemey - Setting to vassal of d_noning in Validate Realm
+259 - vassal: d_teytn - Lost vassal: c_wipemey
+259 - sub vassal: d_teytn - Lost vassal: c_wipemey
+259 - vassal: c_qilber - Setting to vassal of d_noning in Validate Realm
+259 - sub vassal: c_qilber - Setting to vassal of d_noning in Validate Realm
+259 - Lost vassal: c_qilber
+259 - vassal: c_kusilie - Setting to vassal of d_noning in Validate Realm
+259 - sub vassal: c_kusilie - Setting to vassal of d_noning in Validate Realm
+259 - Lost vassal: c_kusilie
+259 - vassal: d_noning - Gained vassal: c_kusilie
+259 - sub vassal: d_noning - Gained vassal: c_kusilie
+259 - vassal: d_noning - Gained vassal: c_qilber
+259 - sub vassal: d_noning - Gained vassal: c_qilber
+259 - vassal: d_noning - Gained vassal: c_wipemey
+259 - sub vassal: d_noning - Gained vassal: c_wipemey
+259 - vassal: d_noning - Gained vassal: c_teyling
+259 - sub vassal: d_noning - Gained vassal: c_teyling
+259 - vassal: d_noning - Gained vassal: c_tina
+259 - sub vassal: d_noning - Gained vassal: c_tina
+259 - vassal: d_noning - Holder 1004265 - Primary title: d_noning has lost the title: c_tina
+259 - sub vassal: d_noning - Holder 1004265 - Primary title: d_noning has lost the title: c_tina
+259 - sub vassal: c_tina - Title given to 1004265 - Primary title: k_raming
+259 - Holder (1004265) has gained c_tina
+259 - sub vassal: c_tina - Setting to vassal of k_raming in Validate Realm
+259 - vassal: d_noning - Lost vassal: c_tina
+259 - sub vassal: d_noning - Lost vassal: c_tina
+259 - Gained vassal: c_tina
+259 - vassal: d_noning - Holder 1004265 - Primary title: d_noning has lost the title: c_teyling
+259 - sub vassal: d_noning - Holder 1004265 - Primary title: d_noning has lost the title: c_teyling
+259 - sub vassal: c_teyling - Title given to 1004265 - Primary title: k_raming
+259 - Holder (1004265) has gained c_teyling
+259 - sub vassal: c_teyling - Setting to vassal of k_raming in Validate Realm
+259 - vassal: d_noning - Lost vassal: c_teyling
+259 - sub vassal: d_noning - Lost vassal: c_teyling
+259 - Gained vassal: c_teyling
+259 - vassal: d_noning - Holder 1004265 - Primary title: d_noning has lost the title: c_wipemey
+259 - sub vassal: d_noning - Holder 1004265 - Primary title: d_noning has lost the title: c_wipemey
+259 - sub vassal: c_wipemey - Title given to 1004265 - Primary title: k_raming
+259 - Holder (1004265) has gained c_wipemey
+259 - sub vassal: c_wipemey - Setting to vassal of k_raming in Validate Realm
+259 - vassal: d_noning - Lost vassal: c_wipemey
+259 - sub vassal: d_noning - Lost vassal: c_wipemey
+259 - Gained vassal: c_wipemey
+259 - vassal: d_noning - Holder 1004265 - Primary title: d_noning has lost the title: d_noning
+259 - sub vassal: d_noning - Holder 1004265 - Primary title: d_noning has lost the title: d_noning
+259 - vassal: d_noning - Title given to 1004265 - Primary title: k_raming
+259 - sub vassal: d_noning - Title given to 1004265 - Primary title: k_raming
+259 - Holder (1004265) has gained d_noning
+259 - sub vassal: c_qilber - Holder 1004265 - Primary title: c_qilber has lost the title: c_qilber
+259 - sub vassal: c_qilber - Title given to 1004265 - Primary title: k_raming
+259 - Holder (1004265) has gained c_qilber
+259 - sub vassal: c_kusilie - Holder 1004265 - Primary title: c_kusilie has lost the title: c_kusilie
+259 - sub vassal: c_kusilie - Title given to 1004265 - Primary title: k_raming
+259 - Holder (1004265) has gained c_kusilie
+260 - vassal: d_teytn - Destroyed due to flagged problem
+260 - sub vassal: d_teytn - Destroyed due to flagged problem
+260 - vassal: d_teytn - Made independent
+260 - sub vassal: d_teytn - Made independent
+263 - vassal: d_kiponza - Holder 1002994 - Primary title: d_kiponza has lost the title: d_kiponza
+263 - sub vassal: d_kiponza - Holder 1002994 - Primary title: d_kiponza has lost the title: d_kiponza
+263 - vassal: d_kiponza - Title given to 1002994
+263 - sub vassal: d_kiponza - Title given to 1002994
+263 - sub vassal: c_ripadla - Holder 1002994 - Primary title: c_ripadla has lost the title: c_ripadla
+263 - sub vassal: c_ripadla - Title given to 1002994 - Primary title: d_kiponza
+263 - vassal: d_kiponza - Holder (1002994) has gained c_ripadla
+263 - sub vassal: d_kiponza - Holder (1002994) has gained c_ripadla
+263 - sub vassal: c_dyelifon - Holder 1002994 - Primary title: c_dyelifon has lost the title: c_dyelifon
+263 - sub vassal: c_dyelifon - Title given to 1002994 - Primary title: d_kiponza
+263 - vassal: d_kiponza - Holder (1002994) has gained c_dyelifon
+263 - sub vassal: d_kiponza - Holder (1002994) has gained c_dyelifon
+263 - sub vassal: c_loneh - Holder 1002994 - Primary title: c_loneh has lost the title: c_loneh
+263 - sub vassal: c_loneh - Title given to 1002994 - Primary title: d_kiponza
+263 - vassal: d_kiponza - Holder (1002994) has gained c_loneh
+263 - sub vassal: d_kiponza - Holder (1002994) has gained c_loneh
+263 - sub vassal: c_sekemey - Holder 1002994 - Primary title: c_sekemey has lost the title: c_sekemey
+263 - sub vassal: c_sekemey - Title given to 1002994 - Primary title: d_kiponza
+263 - vassal: d_kiponza - Holder (1002994) has gained c_sekemey
+263 - sub vassal: d_kiponza - Holder (1002994) has gained c_sekemey
+264 - vassal: d_kiponza - Holder 1004265 - Primary title: d_kiponza has lost the title: d_kiponza
+264 - sub vassal: d_kiponza - Holder 1004265 - Primary title: d_kiponza has lost the title: d_kiponza
+264 - vassal: d_kiponza - Title given to 1004265 - Primary title: k_raming
+264 - sub vassal: d_kiponza - Title given to 1004265 - Primary title: k_raming
+264 - Holder (1004265) has gained d_kiponza
+264 - sub vassal: c_ripadla - Holder 1004265 - Primary title: c_ripadla has lost the title: c_ripadla
+264 - sub vassal: c_ripadla - Title given to 1004265 - Primary title: k_raming
+264 - Holder (1004265) has gained c_ripadla
+264 - sub vassal: c_dyelifon - Holder 1004265 - Primary title: c_dyelifon has lost the title: c_dyelifon
+264 - sub vassal: c_dyelifon - Title given to 1004265 - Primary title: k_raming
+264 - Holder (1004265) has gained c_dyelifon
+264 - sub vassal: c_loneh - Holder 1004265 - Primary title: c_loneh has lost the title: c_loneh
+264 - sub vassal: c_loneh - Title given to 1004265 - Primary title: k_raming
+264 - Holder (1004265) has gained c_loneh
+264 - sub vassal: c_sekemey - Holder 1004265 - Primary title: c_sekemey has lost the title: c_sekemey
+264 - sub vassal: c_sekemey - Title given to 1004265 - Primary title: k_raming
+264 - Holder (1004265) has gained c_sekemey
+264 - vassal: d_ritonza - Holder 1003344 - Primary title: d_ritonza has lost the title: d_ritonza
+264 - sub vassal: d_ritonza - Holder 1003344 - Primary title: d_ritonza has lost the title: d_ritonza
+264 - vassal: d_ritonza - Title given to 1003344
+264 - sub vassal: d_ritonza - Title given to 1003344
+264 - sub vassal: c_kipadla - Setting to vassal of d_litozar in Validate Realm
+264 - vassal: d_ritonza - Lost vassal: c_kipadla
+264 - sub vassal: d_ritonza - Lost vassal: c_kipadla
+264 - sub vassal: c_sitila - Setting to vassal of d_litozar in Validate Realm
+264 - vassal: d_ritonza - Lost vassal: c_sitila
+264 - sub vassal: d_ritonza - Lost vassal: c_sitila
+264 - vassal: d_litozar - Gained vassal: c_sitila
+264 - sub vassal: d_litozar - Gained vassal: c_sitila
+264 - vassal: d_litozar - Gained vassal: c_kipadla
+264 - sub vassal: d_litozar - Gained vassal: c_kipadla
+264 - vassal: d_litozar - Holder 1003344 - Primary title: d_litozar has lost the title: d_litozar
+264 - sub vassal: d_litozar - Holder 1003344 - Primary title: d_litozar has lost the title: d_litozar
+264 - vassal: d_litozar - Title given to 1003344 - Primary title: d_ritonza
+264 - sub vassal: d_litozar - Title given to 1003344 - Primary title: d_ritonza
+264 - vassal: d_ritonza - Holder (1003344) has gained d_litozar
+264 - sub vassal: d_ritonza - Holder (1003344) has gained d_litozar
+264 - sub vassal: c_kekina - Holder 1003344 - Primary title: c_kekina has lost the title: c_kekina
+264 - sub vassal: c_kekina - Title given to 1003344 - Primary title: d_ritonza
+264 - vassal: d_ritonza - Holder (1003344) has gained c_kekina
+264 - sub vassal: d_ritonza - Holder (1003344) has gained c_kekina
+264 - sub vassal: c_adiling - Holder 1003344 - Primary title: c_adiling has lost the title: c_adiling
+264 - sub vassal: c_adiling - Title given to 1003344 - Primary title: d_ritonza
+264 - vassal: d_ritonza - Holder (1003344) has gained c_adiling
+264 - sub vassal: d_ritonza - Holder (1003344) has gained c_adiling
+264 - sub vassal: c_kipadla - Holder 1003344 - Primary title: c_kipadla has lost the title: c_kipadla
+264 - sub vassal: c_kipadla - Title given to 1003344 - Primary title: d_ritonza
+264 - vassal: d_ritonza - Holder (1003344) has gained c_kipadla
+264 - sub vassal: d_ritonza - Holder (1003344) has gained c_kipadla
+264 - sub vassal: c_sitila - Holder 1003344 - Primary title: c_sitila has lost the title: c_sitila
+264 - sub vassal: c_sitila - Title given to 1003344 - Primary title: d_ritonza
+264 - vassal: d_ritonza - Holder (1003344) has gained c_sitila
+264 - sub vassal: d_ritonza - Holder (1003344) has gained c_sitila
+264 - sub vassal: c_runcan - Holder 1003344 - Primary title: c_runcan has lost the title: c_runcan
+264 - sub vassal: c_runcan - Title given to 1003344 - Primary title: d_ritonza
+264 - vassal: d_ritonza - Holder (1003344) has gained c_runcan
+264 - sub vassal: d_ritonza - Holder (1003344) has gained c_runcan
+264 - Holder 1005520 - Primary title: k_raming has lost the title: c_dyelifon
+264 - sub vassal: c_dyelifon - Title given to 1005520
+264 - Holder 1005521 - Primary title: k_raming has lost the title: c_loneh
+264 - sub vassal: c_loneh - Title given to 1005521
+264 - Holder 1005522 - Primary title: k_raming has lost the title: c_qilber
+264 - sub vassal: c_qilber - Title given to 1005522
+264 - Holder 1005523 - Primary title: k_raming has lost the title: c_sekemey
+264 - sub vassal: c_sekemey - Title given to 1005523
+264 - Holder 1005380 - Primary title: k_raming has lost the title: k_raming
+264 - Title given to 1005380
+264 - vassal: d_noning - Holder 1005380 - Primary title: d_noning has lost the title: d_noning
+264 - sub vassal: d_noning - Holder 1005380 - Primary title: d_noning has lost the title: d_noning
+264 - vassal: d_noning - Title given to 1005380 - Primary title: k_raming
+264 - sub vassal: d_noning - Title given to 1005380 - Primary title: k_raming
+264 - Holder (1005380) has gained d_noning
+264 - sub vassal: c_kusilie - Setting to vassal of d_kiponza in Validate Realm
+264 - vassal: d_noning - Lost vassal: c_kusilie
+264 - sub vassal: d_noning - Lost vassal: c_kusilie
+264 - vassal: c_wipemey - Setting to vassal of d_kiponza in Validate Realm
+264 - sub vassal: c_wipemey - Setting to vassal of d_kiponza in Validate Realm
+264 - Lost vassal: c_wipemey
+264 - vassal: c_teyling - Setting to vassal of d_kiponza in Validate Realm
+264 - sub vassal: c_teyling - Setting to vassal of d_kiponza in Validate Realm
+264 - Lost vassal: c_teyling
+264 - vassal: c_tina - Setting to vassal of d_kiponza in Validate Realm
+264 - sub vassal: c_tina - Setting to vassal of d_kiponza in Validate Realm
+264 - Lost vassal: c_tina
+264 - vassal: d_kiponza - Gained vassal: c_tina
+264 - sub vassal: d_kiponza - Gained vassal: c_tina
+264 - vassal: d_kiponza - Gained vassal: c_teyling
+264 - sub vassal: d_kiponza - Gained vassal: c_teyling
+264 - vassal: d_kiponza - Gained vassal: c_wipemey
+264 - sub vassal: d_kiponza - Gained vassal: c_wipemey
+264 - vassal: d_kiponza - Gained vassal: c_kusilie
+264 - sub vassal: d_kiponza - Gained vassal: c_kusilie
+264 - vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: c_kusilie
+264 - sub vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: c_kusilie
+264 - sub vassal: c_kusilie - Title given to 1005380 - Primary title: k_raming
+264 - Holder (1005380) has gained c_kusilie
+264 - sub vassal: c_kusilie - Setting to vassal of k_raming in Validate Realm
+264 - vassal: d_kiponza - Lost vassal: c_kusilie
+264 - sub vassal: d_kiponza - Lost vassal: c_kusilie
+264 - Gained vassal: c_kusilie
+264 - vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: c_wipemey
+264 - sub vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: c_wipemey
+264 - sub vassal: c_wipemey - Title given to 1005380 - Primary title: k_raming
+264 - Holder (1005380) has gained c_wipemey
+264 - sub vassal: c_wipemey - Setting to vassal of k_raming in Validate Realm
+264 - vassal: d_kiponza - Lost vassal: c_wipemey
+264 - sub vassal: d_kiponza - Lost vassal: c_wipemey
+264 - Gained vassal: c_wipemey
+264 - vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: c_teyling
+264 - sub vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: c_teyling
+264 - sub vassal: c_teyling - Title given to 1005380 - Primary title: k_raming
+264 - Holder (1005380) has gained c_teyling
+264 - sub vassal: c_teyling - Setting to vassal of k_raming in Validate Realm
+264 - vassal: d_kiponza - Lost vassal: c_teyling
+264 - sub vassal: d_kiponza - Lost vassal: c_teyling
+264 - Gained vassal: c_teyling
+264 - vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: c_tina
+264 - sub vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: c_tina
+264 - sub vassal: c_tina - Title given to 1005380 - Primary title: k_raming
+264 - Holder (1005380) has gained c_tina
+264 - sub vassal: c_tina - Setting to vassal of k_raming in Validate Realm
+264 - vassal: d_kiponza - Lost vassal: c_tina
+264 - sub vassal: d_kiponza - Lost vassal: c_tina
+264 - Gained vassal: c_tina
+264 - vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: d_kiponza
+264 - sub vassal: d_kiponza - Holder 1005380 - Primary title: d_kiponza has lost the title: d_kiponza
+264 - vassal: d_kiponza - Title given to 1005380 - Primary title: k_raming
+264 - sub vassal: d_kiponza - Title given to 1005380 - Primary title: k_raming
+264 - Holder (1005380) has gained d_kiponza
+264 - sub vassal: c_ripadla - Holder 1005380 - Primary title: c_ripadla has lost the title: c_ripadla
+264 - sub vassal: c_ripadla - Title given to 1005380 - Primary title: k_raming
+264 - Holder (1005380) has gained c_ripadla
+266 - vassal: d_epeytn - Holder 1004134 - Primary title: d_epeytn has lost the title: d_epeytn
+266 - sub vassal: d_epeytn - Holder 1004134 - Primary title: d_epeytn has lost the title: d_epeytn
+266 - vassal: d_epeytn - Title given to 1004134
+266 - sub vassal: d_epeytn - Title given to 1004134
+266 - sub vassal: c_bonozar - Holder 1004134 - Primary title: c_bonozar has lost the title: c_bonozar
+266 - sub vassal: c_bonozar - Title given to 1004134 - Primary title: d_epeytn
+266 - vassal: d_epeytn - Holder (1004134) has gained c_bonozar
+266 - sub vassal: d_epeytn - Holder (1004134) has gained c_bonozar
+266 - sub vassal: c_sevonza - Holder 1004134 - Primary title: c_sevonza has lost the title: c_sevonza
+266 - sub vassal: c_sevonza - Title given to 1004134 - Primary title: d_epeytn
+266 - vassal: d_epeytn - Holder (1004134) has gained c_sevonza
+266 - sub vassal: d_epeytn - Holder (1004134) has gained c_sevonza
+266 - sub vassal: c_bilila - Holder 1004134 - Primary title: c_bilila has lost the title: c_bilila
+266 - sub vassal: c_bilila - Title given to 1004134 - Primary title: d_epeytn
+266 - vassal: d_epeytn - Holder (1004134) has gained c_bilila
+266 - sub vassal: d_epeytn - Holder (1004134) has gained c_bilila
+266 - sub vassal: c_sasing - Holder 1004134 - Primary title: c_sasing has lost the title: c_sasing
+266 - sub vassal: c_sasing - Title given to 1004134 - Primary title: d_epeytn
+266 - vassal: d_epeytn - Holder (1004134) has gained c_sasing
+266 - sub vassal: d_epeytn - Holder (1004134) has gained c_sasing
+270 - vassal: d_epeytn - Holder 1003344 - Primary title: d_epeytn has lost the title: d_epeytn
+270 - sub vassal: d_epeytn - Holder 1003344 - Primary title: d_epeytn has lost the title: d_epeytn
+270 - vassal: d_epeytn - Title given to 1003344 - Primary title: d_ritonza
+270 - sub vassal: d_epeytn - Title given to 1003344 - Primary title: d_ritonza
+270 - vassal: d_ritonza - Holder (1003344) has gained d_epeytn
+270 - sub vassal: d_ritonza - Holder (1003344) has gained d_epeytn
+270 - sub vassal: c_bonozar - Holder 1003344 - Primary title: c_bonozar has lost the title: c_bonozar
+270 - sub vassal: c_bonozar - Title given to 1003344 - Primary title: d_ritonza
+270 - vassal: d_ritonza - Holder (1003344) has gained c_bonozar
+270 - sub vassal: d_ritonza - Holder (1003344) has gained c_bonozar
+270 - sub vassal: c_sevonza - Holder 1003344 - Primary title: c_sevonza has lost the title: c_sevonza
+270 - sub vassal: c_sevonza - Title given to 1003344 - Primary title: d_ritonza
+270 - vassal: d_ritonza - Holder (1003344) has gained c_sevonza
+270 - sub vassal: d_ritonza - Holder (1003344) has gained c_sevonza
+270 - sub vassal: c_bilila - Holder 1003344 - Primary title: c_bilila has lost the title: c_bilila
+270 - sub vassal: c_bilila - Title given to 1003344 - Primary title: d_ritonza
+270 - vassal: d_ritonza - Holder (1003344) has gained c_bilila
+270 - sub vassal: d_ritonza - Holder (1003344) has gained c_bilila
+270 - sub vassal: c_sasing - Holder 1003344 - Primary title: c_sasing has lost the title: c_sasing
+270 - sub vassal: c_sasing - Title given to 1003344 - Primary title: d_ritonza
+270 - vassal: d_ritonza - Holder (1003344) has gained c_sasing
+270 - sub vassal: d_ritonza - Holder (1003344) has gained c_sasing
+271 - sub vassal: c_adiling - Given to 1005950 in HandleTitles - Too many duke titles
+271 - vassal: d_epeytn - Holder 1005950 - Primary title: d_epeytn has lost the title: c_adiling
+271 - sub vassal: d_epeytn - Holder 1005950 - Primary title: d_epeytn has lost the title: c_adiling
+271 - sub vassal: c_adiling - Title given to 1005950
+271 - vassal: d_epeytn - Holder 1005380 - Primary title: d_epeytn has lost the title: d_litozar
+271 - sub vassal: d_epeytn - Holder 1005380 - Primary title: d_epeytn has lost the title: d_litozar
+271 - vassal: d_litozar - Title given to 1005380 - Primary title: k_raming
+271 - sub vassal: d_litozar - Title given to 1005380 - Primary title: k_raming
+271 - Holder (1005380) has gained d_litozar
+271 - sub vassal: c_kekina - Setting to vassal of d_epeytn in Validate Realm
+271 - vassal: d_litozar - Lost vassal: c_kekina
+271 - sub vassal: d_litozar - Lost vassal: c_kekina
+271 - sub vassal: c_kipadla - Setting to vassal of d_epeytn in Validate Realm
+271 - vassal: d_litozar - Lost vassal: c_kipadla
+271 - sub vassal: d_litozar - Lost vassal: c_kipadla
+271 - sub vassal: c_sitila - Setting to vassal of d_epeytn in Validate Realm
+271 - vassal: d_litozar - Lost vassal: c_sitila
+271 - sub vassal: d_litozar - Lost vassal: c_sitila
+271 - vassal: d_epeytn - Gained vassal: c_sitila
+271 - sub vassal: d_epeytn - Gained vassal: c_sitila
+271 - vassal: d_epeytn - Gained vassal: c_kipadla
+271 - sub vassal: d_epeytn - Gained vassal: c_kipadla
+271 - vassal: d_epeytn - Gained vassal: c_kekina
+271 - sub vassal: d_epeytn - Gained vassal: c_kekina
+271 - vassal: d_litozar - Too many dukes, made direct title into vassal of k_raming
+271 - sub vassal: d_litozar - Too many dukes, made direct title into vassal of k_raming
+271 - Holder 1005951 - Primary title: k_raming has lost the title: d_litozar
+271 - vassal: d_litozar - Title given to 1005951
+271 - sub vassal: d_litozar - Title given to 1005951
+271 - vassal: d_epeytn - Holder 1005952 - Primary title: d_epeytn has lost the title: c_runcan
+271 - sub vassal: d_epeytn - Holder 1005952 - Primary title: d_epeytn has lost the title: c_runcan
+271 - sub vassal: c_runcan - Title given to 1005952
+271 - vassal: d_epeytn - Holder 1005953 - Primary title: d_epeytn has lost the title: c_kipadla
+271 - sub vassal: d_epeytn - Holder 1005953 - Primary title: d_epeytn has lost the title: c_kipadla
+271 - sub vassal: c_kipadla - Title given to 1005953
+271 - vassal: d_epeytn - Holder 1005954 - Primary title: d_epeytn has lost the title: c_sitila
+271 - sub vassal: d_epeytn - Holder 1005954 - Primary title: d_epeytn has lost the title: c_sitila
+271 - sub vassal: c_sitila - Title given to 1005954
+275 - Holder 1006194 - Primary title: k_raming has lost the title: k_raming
+275 - Title given to 1006194
+275 - vassal: d_noning - Holder 1006194 - Primary title: d_noning has lost the title: d_noning
+275 - sub vassal: d_noning - Holder 1006194 - Primary title: d_noning has lost the title: d_noning
+275 - vassal: d_noning - Title given to 1006194 - Primary title: k_raming
+275 - sub vassal: d_noning - Title given to 1006194 - Primary title: k_raming
+275 - Holder (1006194) has gained d_noning
+275 - vassal: c_kusilie - Setting to vassal of d_kiponza in Validate Realm
+275 - sub vassal: c_kusilie - Setting to vassal of d_kiponza in Validate Realm
+275 - Lost vassal: c_kusilie
+275 - vassal: c_wipemey - Setting to vassal of d_kiponza in Validate Realm
+275 - sub vassal: c_wipemey - Setting to vassal of d_kiponza in Validate Realm
+275 - Lost vassal: c_wipemey
+275 - vassal: c_teyling - Setting to vassal of d_kiponza in Validate Realm
+275 - sub vassal: c_teyling - Setting to vassal of d_kiponza in Validate Realm
+275 - Lost vassal: c_teyling
+275 - vassal: c_tina - Setting to vassal of d_kiponza in Validate Realm
+275 - sub vassal: c_tina - Setting to vassal of d_kiponza in Validate Realm
+275 - Lost vassal: c_tina
+275 - vassal: d_kiponza - Gained vassal: c_tina
+275 - sub vassal: d_kiponza - Gained vassal: c_tina
+275 - vassal: d_kiponza - Gained vassal: c_teyling
+275 - sub vassal: d_kiponza - Gained vassal: c_teyling
+275 - vassal: d_kiponza - Gained vassal: c_wipemey
+275 - sub vassal: d_kiponza - Gained vassal: c_wipemey
+275 - vassal: d_kiponza - Gained vassal: c_kusilie
+275 - sub vassal: d_kiponza - Gained vassal: c_kusilie
+275 - vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: c_kusilie
+275 - sub vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: c_kusilie
+275 - sub vassal: c_kusilie - Title given to 1006194 - Primary title: k_raming
+275 - Holder (1006194) has gained c_kusilie
+275 - sub vassal: c_kusilie - Setting to vassal of k_raming in Validate Realm
+275 - vassal: d_kiponza - Lost vassal: c_kusilie
+275 - sub vassal: d_kiponza - Lost vassal: c_kusilie
+275 - Gained vassal: c_kusilie
+275 - vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: c_wipemey
+275 - sub vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: c_wipemey
+275 - sub vassal: c_wipemey - Title given to 1006194 - Primary title: k_raming
+275 - Holder (1006194) has gained c_wipemey
+275 - sub vassal: c_wipemey - Setting to vassal of k_raming in Validate Realm
+275 - vassal: d_kiponza - Lost vassal: c_wipemey
+275 - sub vassal: d_kiponza - Lost vassal: c_wipemey
+275 - Gained vassal: c_wipemey
+275 - vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: c_teyling
+275 - sub vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: c_teyling
+275 - sub vassal: c_teyling - Title given to 1006194 - Primary title: k_raming
+275 - Holder (1006194) has gained c_teyling
+275 - sub vassal: c_teyling - Setting to vassal of k_raming in Validate Realm
+275 - vassal: d_kiponza - Lost vassal: c_teyling
+275 - sub vassal: d_kiponza - Lost vassal: c_teyling
+275 - Gained vassal: c_teyling
+275 - vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: c_tina
+275 - sub vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: c_tina
+275 - sub vassal: c_tina - Title given to 1006194 - Primary title: k_raming
+275 - Holder (1006194) has gained c_tina
+275 - sub vassal: c_tina - Setting to vassal of k_raming in Validate Realm
+275 - vassal: d_kiponza - Lost vassal: c_tina
+275 - sub vassal: d_kiponza - Lost vassal: c_tina
+275 - Gained vassal: c_tina
+275 - vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: d_kiponza
+275 - sub vassal: d_kiponza - Holder 1006194 - Primary title: d_kiponza has lost the title: d_kiponza
+275 - vassal: d_kiponza - Title given to 1006194 - Primary title: k_raming
+275 - sub vassal: d_kiponza - Title given to 1006194 - Primary title: k_raming
+275 - Holder (1006194) has gained d_kiponza
+275 - sub vassal: c_ripadla - Holder 1006194 - Primary title: c_ripadla has lost the title: c_ripadla
+275 - sub vassal: c_ripadla - Title given to 1006194 - Primary title: k_raming
+275 - Holder (1006194) has gained c_ripadla
+279 - vassal: d_esonava - Holder 1004462 - Primary title: d_esonava has lost the title: d_esonava
+279 - sub vassal: d_esonava - Holder 1004462 - Primary title: d_esonava has lost the title: d_esonava
+279 - vassal: d_esonava - Title given to 1004462
+279 - sub vassal: d_esonava - Title given to 1004462
+279 - sub vassal: c_nituncan - Holder 1004462 - Primary title: c_nituncan has lost the title: c_nituncan
+279 - sub vassal: c_nituncan - Title given to 1004462 - Primary title: d_esonava
+279 - vassal: d_esonava - Holder (1004462) has gained c_nituncan
+279 - sub vassal: d_esonava - Holder (1004462) has gained c_nituncan
+285 - vassal: d_kyeleh - Holder 1005082 - Primary title: d_kyeleh has lost the title: d_kyeleh
+285 - sub vassal: d_kyeleh - Holder 1005082 - Primary title: d_kyeleh has lost the title: d_kyeleh
+285 - vassal: d_kyeleh - Title given to 1005082
+285 - sub vassal: d_kyeleh - Title given to 1005082
+285 - sub vassal: c_wioyna - Holder 1005082 - Primary title: c_wioyna has lost the title: c_wioyna
+285 - sub vassal: c_wioyna - Title given to 1005082 - Primary title: d_kyeleh
+285 - vassal: d_kyeleh - Holder (1005082) has gained c_wioyna
+285 - sub vassal: d_kyeleh - Holder (1005082) has gained c_wioyna
+285 - sub vassal: c_qipurgen - Holder 1005082 - Primary title: c_qipurgen has lost the title: c_qipurgen
+285 - sub vassal: c_qipurgen - Title given to 1005082 - Primary title: d_kyeleh
+285 - vassal: d_kyeleh - Holder (1005082) has gained c_qipurgen
+285 - sub vassal: d_kyeleh - Holder (1005082) has gained c_qipurgen
+285 - sub vassal: c_tuqadla - Holder 1005082 - Primary title: c_tuqadla has lost the title: c_tuqadla
+285 - sub vassal: c_tuqadla - Title given to 1005082 - Primary title: d_kyeleh
+285 - vassal: d_kyeleh - Holder (1005082) has gained c_tuqadla
+285 - sub vassal: d_kyeleh - Holder (1005082) has gained c_tuqadla
+290 - vassal: d_litozar - Holder 1006458 - Primary title: d_litozar has lost the title: d_litozar
+290 - sub vassal: d_litozar - Holder 1006458 - Primary title: d_litozar has lost the title: d_litozar
+290 - vassal: d_litozar - Title given to 1006458
+290 - sub vassal: d_litozar - Title given to 1006458
+293 - vassal: d_epeytn - Holder 1006131 - Primary title: d_epeytn has lost the title: d_epeytn
+293 - sub vassal: d_epeytn - Holder 1006131 - Primary title: d_epeytn has lost the title: d_epeytn
+293 - vassal: d_epeytn - Title given to 1006131
+293 - sub vassal: d_epeytn - Title given to 1006131
+293 - sub vassal: c_sasing - Setting to vassal of d_ritonza in Validate Realm
+293 - vassal: d_epeytn - Lost vassal: c_sasing
+293 - sub vassal: d_epeytn - Lost vassal: c_sasing
+293 - sub vassal: c_bilila - Setting to vassal of d_ritonza in Validate Realm
+293 - vassal: d_epeytn - Lost vassal: c_bilila
+293 - sub vassal: d_epeytn - Lost vassal: c_bilila
+293 - sub vassal: c_sevonza - Setting to vassal of d_ritonza in Validate Realm
+293 - vassal: d_epeytn - Lost vassal: c_sevonza
+293 - sub vassal: d_epeytn - Lost vassal: c_sevonza
+293 - sub vassal: c_bonozar - Setting to vassal of d_ritonza in Validate Realm
+293 - vassal: d_epeytn - Lost vassal: c_bonozar
+293 - sub vassal: d_epeytn - Lost vassal: c_bonozar
+293 - sub vassal: c_kekina - Setting to vassal of d_ritonza in Validate Realm
+293 - vassal: d_epeytn - Lost vassal: c_kekina
+293 - sub vassal: d_epeytn - Lost vassal: c_kekina
+293 - vassal: d_ritonza - Gained vassal: c_kekina
+293 - sub vassal: d_ritonza - Gained vassal: c_kekina
+293 - vassal: d_ritonza - Gained vassal: c_bonozar
+293 - sub vassal: d_ritonza - Gained vassal: c_bonozar
+293 - vassal: d_ritonza - Gained vassal: c_sevonza
+293 - sub vassal: d_ritonza - Gained vassal: c_sevonza
+293 - vassal: d_ritonza - Gained vassal: c_bilila
+293 - sub vassal: d_ritonza - Gained vassal: c_bilila
+293 - vassal: d_ritonza - Gained vassal: c_sasing
+293 - sub vassal: d_ritonza - Gained vassal: c_sasing
+293 - vassal: d_ritonza - Holder 1006131 - Primary title: d_ritonza has lost the title: d_ritonza
+293 - sub vassal: d_ritonza - Holder 1006131 - Primary title: d_ritonza has lost the title: d_ritonza
+293 - vassal: d_ritonza - Title given to 1006131 - Primary title: d_epeytn
+293 - sub vassal: d_ritonza - Title given to 1006131 - Primary title: d_epeytn
+293 - vassal: d_epeytn - Holder (1006131) has gained d_ritonza
+293 - sub vassal: d_epeytn - Holder (1006131) has gained d_ritonza
+293 - sub vassal: c_sasing - Holder 1006131 - Primary title: c_sasing has lost the title: c_sasing
+293 - sub vassal: c_sasing - Title given to 1006131 - Primary title: d_epeytn
+293 - vassal: d_epeytn - Holder (1006131) has gained c_sasing
+293 - sub vassal: d_epeytn - Holder (1006131) has gained c_sasing
+293 - sub vassal: c_bilila - Holder 1006131 - Primary title: c_bilila has lost the title: c_bilila
+293 - sub vassal: c_bilila - Title given to 1006131 - Primary title: d_epeytn
+293 - vassal: d_epeytn - Holder (1006131) has gained c_bilila
+293 - sub vassal: d_epeytn - Holder (1006131) has gained c_bilila
+293 - sub vassal: c_sevonza - Holder 1006131 - Primary title: c_sevonza has lost the title: c_sevonza
+293 - sub vassal: c_sevonza - Title given to 1006131 - Primary title: d_epeytn
+293 - vassal: d_epeytn - Holder (1006131) has gained c_sevonza
+293 - sub vassal: d_epeytn - Holder (1006131) has gained c_sevonza
+293 - sub vassal: c_bonozar - Holder 1006131 - Primary title: c_bonozar has lost the title: c_bonozar
+293 - sub vassal: c_bonozar - Title given to 1006131 - Primary title: d_epeytn
+293 - vassal: d_epeytn - Holder (1006131) has gained c_bonozar
+293 - sub vassal: d_epeytn - Holder (1006131) has gained c_bonozar
+293 - sub vassal: c_kekina - Holder 1006131 - Primary title: c_kekina has lost the title: c_kekina
+293 - sub vassal: c_kekina - Title given to 1006131 - Primary title: d_epeytn
+293 - vassal: d_epeytn - Holder (1006131) has gained c_kekina
+293 - sub vassal: d_epeytn - Holder (1006131) has gained c_kekina
+293 - sub vassal: c_sitila - Holder 1006131 - Primary title: c_sitila has lost the title: c_sitila
+293 - sub vassal: c_sitila - Title given to 1006131 - Primary title: d_epeytn
+293 - vassal: d_epeytn - Holder (1006131) has gained c_sitila
+293 - sub vassal: d_epeytn - Holder (1006131) has gained c_sitila
+294 - vassal: d_epeytn - Holder 1007221 - Primary title: d_epeytn has lost the title: c_kekina
+294 - sub vassal: d_epeytn - Holder 1007221 - Primary title: d_epeytn has lost the title: c_kekina
+294 - sub vassal: c_kekina - Title given to 1007221
+295 - vassal: d_epeytn - Holder 1006194 - Primary title: d_epeytn has lost the title: d_epeytn
+295 - sub vassal: d_epeytn - Holder 1006194 - Primary title: d_epeytn has lost the title: d_epeytn
+295 - vassal: d_epeytn - Title given to 1006194 - Primary title: k_raming
+295 - sub vassal: d_epeytn - Title given to 1006194 - Primary title: k_raming
+295 - Holder (1006194) has gained d_epeytn
+295 - sub vassal: c_sitila - Setting to vassal of d_ritonza in Validate Realm
+295 - vassal: d_epeytn - Lost vassal: c_sitila
+295 - sub vassal: d_epeytn - Lost vassal: c_sitila
+295 - vassal: d_ritonza - Gained vassal: c_sitila
+295 - sub vassal: d_ritonza - Gained vassal: c_sitila
+295 - vassal: d_ritonza - Holder 1006194 - Primary title: d_ritonza has lost the title: d_ritonza
+295 - sub vassal: d_ritonza - Holder 1006194 - Primary title: d_ritonza has lost the title: d_ritonza
+295 - vassal: d_ritonza - Title given to 1006194 - Primary title: k_raming
+295 - sub vassal: d_ritonza - Title given to 1006194 - Primary title: k_raming
+295 - Holder (1006194) has gained d_ritonza
+295 - sub vassal: c_sasing - Holder 1006194 - Primary title: c_sasing has lost the title: c_sasing
+295 - sub vassal: c_sasing - Title given to 1006194 - Primary title: k_raming
+295 - Holder (1006194) has gained c_sasing
+295 - sub vassal: c_bilila - Holder 1006194 - Primary title: c_bilila has lost the title: c_bilila
+295 - sub vassal: c_bilila - Title given to 1006194 - Primary title: k_raming
+295 - Holder (1006194) has gained c_bilila
+295 - sub vassal: c_sevonza - Holder 1006194 - Primary title: c_sevonza has lost the title: c_sevonza
+295 - sub vassal: c_sevonza - Title given to 1006194 - Primary title: k_raming
+295 - Holder (1006194) has gained c_sevonza
+295 - sub vassal: c_bonozar - Holder 1006194 - Primary title: c_bonozar has lost the title: c_bonozar
+295 - sub vassal: c_bonozar - Title given to 1006194 - Primary title: k_raming
+295 - Holder (1006194) has gained c_bonozar
+295 - sub vassal: c_sitila - Holder 1006194 - Primary title: c_sitila has lost the title: c_sitila
+295 - sub vassal: c_sitila - Title given to 1006194 - Primary title: k_raming
+295 - Holder (1006194) has gained c_sitila
+295 - sub vassal: c_runcan - Given to 1007323 in HandleTitles - Too many duke titles
+295 - sub vassal: c_runcan - Holder 1007323 - Primary title: c_runcan has lost the title: c_runcan
+295 - sub vassal: c_runcan - Title given to 1007323
+295 - Holder 1007323 - Primary title: k_raming has lost the title: d_ritonza
+295 - vassal: d_ritonza - Title given to 1007323 - Primary title: c_runcan
+295 - sub vassal: d_ritonza - Title given to 1007323 - Primary title: c_runcan
+295 - sub vassal: c_runcan - Holder (1007323) has gained d_ritonza
+295 - sub vassal: c_sasing - Setting to vassal of k_raming in Validate Realm
+295 - vassal: d_ritonza - Lost vassal: c_sasing
+295 - sub vassal: d_ritonza - Lost vassal: c_sasing
+295 - sub vassal: c_bilila - Setting to vassal of k_raming in Validate Realm
+295 - vassal: d_ritonza - Lost vassal: c_bilila
+295 - sub vassal: d_ritonza - Lost vassal: c_bilila
+295 - sub vassal: c_sevonza - Setting to vassal of k_raming in Validate Realm
+295 - vassal: d_ritonza - Lost vassal: c_sevonza
+295 - sub vassal: d_ritonza - Lost vassal: c_sevonza
+295 - sub vassal: c_bonozar - Setting to vassal of k_raming in Validate Realm
+295 - vassal: d_ritonza - Lost vassal: c_bonozar
+295 - sub vassal: d_ritonza - Lost vassal: c_bonozar
+295 - sub vassal: c_sitila - Setting to vassal of k_raming in Validate Realm
+295 - vassal: d_ritonza - Lost vassal: c_sitila
+295 - sub vassal: d_ritonza - Lost vassal: c_sitila
+295 - Gained vassal: c_sitila
+295 - Gained vassal: c_bonozar
+295 - Gained vassal: c_sevonza
+295 - Gained vassal: c_bilila
+295 - Gained vassal: c_sasing
+295 - vassal: d_ritonza - Too many dukes, given to dejure: k_raming
+295 - sub vassal: d_ritonza - Too many dukes, given to dejure: k_raming
+295 - sub vassal: c_tava - Given to 1007324 in HandleTitles - Too many duke titles
+295 - sub vassal: c_tava - Holder 1007324 - Primary title: c_tava has lost the title: c_tava
+295 - sub vassal: c_tava - Title given to 1007324
+295 - Holder 1007324 - Primary title: k_raming has lost the title: d_noning
+295 - vassal: d_noning - Title given to 1007324 - Primary title: c_tava
+295 - sub vassal: d_noning - Title given to 1007324 - Primary title: c_tava
+295 - sub vassal: c_tava - Holder (1007324) has gained d_noning
+295 - vassal: d_noning - Too many dukes, given to dejure: k_raming
+295 - sub vassal: d_noning - Too many dukes, given to dejure: k_raming
+295 - Holder 1007326 - Primary title: k_raming has lost the title: c_ripadla
+295 - sub vassal: c_ripadla - Title given to 1007326
+295 - Holder 1007327 - Primary title: k_raming has lost the title: c_teyling
+295 - vassal: c_teyling - Title given to 1007327
+295 - sub vassal: c_teyling - Title given to 1007327
+295 - Holder 1007328 - Primary title: k_raming has lost the title: c_bilila
+295 - vassal: c_bilila - Title given to 1007328
+295 - sub vassal: c_bilila - Title given to 1007328
+295 - Holder 1007329 - Primary title: k_raming has lost the title: c_sasing
+295 - vassal: c_sasing - Title given to 1007329
+295 - sub vassal: c_sasing - Title given to 1007329
+295 - Holder 1004320 - Primary title: k_raming has lost the title: c_kusilie
+295 - vassal: c_kusilie - Title given to 1004320
+295 - sub vassal: c_kusilie - Title given to 1004320
+296 - vassal: d_ritonza - Holder 1007327 - Primary title: d_ritonza has lost the title: d_ritonza
+296 - sub vassal: d_ritonza - Holder 1007327 - Primary title: d_ritonza has lost the title: d_ritonza
+296 - vassal: d_ritonza - Title given to 1007327 - Primary title: c_teyling
+296 - sub vassal: d_ritonza - Title given to 1007327 - Primary title: c_teyling
+296 - vassal: c_teyling - Holder (1007327) has gained d_ritonza
+296 - sub vassal: c_teyling - Holder (1007327) has gained d_ritonza
+296 - vassal: c_teyling - Setting to vassal of d_ritonza in Validate Realm
+296 - sub vassal: c_teyling - Setting to vassal of d_ritonza in Validate Realm
+296 - Lost vassal: c_teyling
+296 - vassal: d_ritonza - Gained vassal: c_teyling
+296 - sub vassal: d_ritonza - Gained vassal: c_teyling
+296 - sub vassal: c_runcan - Holder 1007327 - Primary title: c_runcan has lost the title: c_runcan
+296 - sub vassal: c_runcan - Title given to 1007327 - Primary title: d_ritonza
+296 - vassal: d_ritonza - Holder (1007327) has gained c_runcan
+296 - sub vassal: d_ritonza - Holder (1007327) has gained c_runcan
+298 - vassal: d_esonava - Holder 1006509 - Primary title: d_esonava has lost the title: d_esonava
+298 - sub vassal: d_esonava - Holder 1006509 - Primary title: d_esonava has lost the title: d_esonava
+298 - vassal: d_esonava - Title given to 1006509
+298 - sub vassal: d_esonava - Title given to 1006509
+298 - sub vassal: c_nituncan - Holder 1006509 - Primary title: c_nituncan has lost the title: c_nituncan
+298 - sub vassal: c_nituncan - Title given to 1006509 - Primary title: d_esonava
+298 - vassal: d_esonava - Holder (1006509) has gained c_nituncan
+298 - sub vassal: d_esonava - Holder (1006509) has gained c_nituncan
+300 - sub vassal: c_kevilie - Holder 1006509 - Primary title: c_kevilie has lost the title: c_kevilie
+300 - sub vassal: c_kevilie - Title given to 1006509 - Primary title: d_esonava
+300 - vassal: d_esonava - Holder (1006509) has gained c_kevilie
+300 - sub vassal: d_esonava - Holder (1006509) has gained c_kevilie
+300 - sub vassal: c_riting - Holder 1007324 - Primary title: c_riting has lost the title: c_riting
+300 - sub vassal: c_riting - Title given to 1007324 - Primary title: d_noning
+300 - vassal: d_noning - Holder (1007324) has gained c_riting
+300 - sub vassal: d_noning - Holder (1007324) has gained c_riting
+302 - Holder 1006409 - Primary title: k_raming has lost the title: k_raming
+302 - Title given to 1006409
+302 - vassal: d_epeytn - Holder 1006409 - Primary title: d_epeytn has lost the title: d_epeytn
+302 - sub vassal: d_epeytn - Holder 1006409 - Primary title: d_epeytn has lost the title: d_epeytn
+302 - vassal: d_epeytn - Title given to 1006409 - Primary title: k_raming
+302 - sub vassal: d_epeytn - Title given to 1006409 - Primary title: k_raming
+302 - Holder (1006409) has gained d_epeytn
+302 - vassal: c_sitila - Setting to vassal of d_kiponza in Validate Realm
+302 - sub vassal: c_sitila - Setting to vassal of d_kiponza in Validate Realm
+302 - Lost vassal: c_sitila
+302 - vassal: c_bonozar - Setting to vassal of d_kiponza in Validate Realm
+302 - sub vassal: c_bonozar - Setting to vassal of d_kiponza in Validate Realm
+302 - Lost vassal: c_bonozar
+302 - vassal: c_sevonza - Setting to vassal of d_kiponza in Validate Realm
+302 - sub vassal: c_sevonza - Setting to vassal of d_kiponza in Validate Realm
+302 - Lost vassal: c_sevonza
+302 - vassal: c_wipemey - Setting to vassal of d_kiponza in Validate Realm
+302 - sub vassal: c_wipemey - Setting to vassal of d_kiponza in Validate Realm
+302 - Lost vassal: c_wipemey
+302 - vassal: c_tina - Setting to vassal of d_kiponza in Validate Realm
+302 - sub vassal: c_tina - Setting to vassal of d_kiponza in Validate Realm
+302 - Lost vassal: c_tina
+302 - vassal: d_kiponza - Gained vassal: c_tina
+302 - sub vassal: d_kiponza - Gained vassal: c_tina
+302 - vassal: d_kiponza - Gained vassal: c_wipemey
+302 - sub vassal: d_kiponza - Gained vassal: c_wipemey
+302 - vassal: d_kiponza - Gained vassal: c_sevonza
+302 - sub vassal: d_kiponza - Gained vassal: c_sevonza
+302 - vassal: d_kiponza - Gained vassal: c_bonozar
+302 - sub vassal: d_kiponza - Gained vassal: c_bonozar
+302 - vassal: d_kiponza - Gained vassal: c_sitila
+302 - sub vassal: d_kiponza - Gained vassal: c_sitila
+302 - vassal: d_kiponza - Holder 1006409 - Primary title: d_kiponza has lost the title: d_kiponza
+302 - sub vassal: d_kiponza - Holder 1006409 - Primary title: d_kiponza has lost the title: d_kiponza
+302 - vassal: d_kiponza - Title given to 1006409 - Primary title: k_raming
+302 - sub vassal: d_kiponza - Title given to 1006409 - Primary title: k_raming
+302 - Holder (1006409) has gained d_kiponza
+302 - sub vassal: c_sitila - Holder 1006409 - Primary title: c_sitila has lost the title: c_sitila
+302 - sub vassal: c_sitila - Title given to 1006409 - Primary title: k_raming
+302 - Holder (1006409) has gained c_sitila
+302 - sub vassal: c_bonozar - Holder 1006409 - Primary title: c_bonozar has lost the title: c_bonozar
+302 - sub vassal: c_bonozar - Title given to 1006409 - Primary title: k_raming
+302 - Holder (1006409) has gained c_bonozar
+302 - sub vassal: c_sevonza - Holder 1006409 - Primary title: c_sevonza has lost the title: c_sevonza
+302 - sub vassal: c_sevonza - Title given to 1006409 - Primary title: k_raming
+302 - Holder (1006409) has gained c_sevonza
+302 - sub vassal: c_wipemey - Holder 1006409 - Primary title: c_wipemey has lost the title: c_wipemey
+302 - sub vassal: c_wipemey - Title given to 1006409 - Primary title: k_raming
+302 - Holder (1006409) has gained c_wipemey
+302 - sub vassal: c_tina - Holder 1006409 - Primary title: c_tina has lost the title: c_tina
+302 - sub vassal: c_tina - Title given to 1006409 - Primary title: k_raming
+302 - Holder (1006409) has gained c_tina
+303 - vassal: d_litozar - Holder 1007327 - Primary title: d_litozar has lost the title: d_litozar
+303 - sub vassal: d_litozar - Holder 1007327 - Primary title: d_litozar has lost the title: d_litozar
+303 - vassal: d_litozar - Title given to 1007327 - Primary title: d_ritonza
+303 - sub vassal: d_litozar - Title given to 1007327 - Primary title: d_ritonza
+303 - vassal: d_ritonza - Holder (1007327) has gained d_litozar
+303 - sub vassal: d_ritonza - Holder (1007327) has gained d_litozar
+315 - vassal: d_esonava - Holder 1007694 - Primary title: d_esonava has lost the title: d_esonava
+315 - sub vassal: d_esonava - Holder 1007694 - Primary title: d_esonava has lost the title: d_esonava
+315 - vassal: d_esonava - Title given to 1007694
+315 - sub vassal: d_esonava - Title given to 1007694
+315 - sub vassal: c_kevilie - Holder 1007694 - Primary title: c_kevilie has lost the title: c_kevilie
+315 - sub vassal: c_kevilie - Title given to 1007694 - Primary title: d_esonava
+315 - vassal: d_esonava - Holder (1007694) has gained c_kevilie
+315 - sub vassal: d_esonava - Holder (1007694) has gained c_kevilie
+315 - sub vassal: c_nituncan - Holder 1007694 - Primary title: c_nituncan has lost the title: c_nituncan
+315 - sub vassal: c_nituncan - Title given to 1007694 - Primary title: d_esonava
+315 - vassal: d_esonava - Holder (1007694) has gained c_nituncan
+315 - sub vassal: d_esonava - Holder (1007694) has gained c_nituncan
+319 - vassal: d_esonava - Holder 1005082 - Primary title: d_esonava has lost the title: d_esonava
+319 - sub vassal: d_esonava - Holder 1005082 - Primary title: d_esonava has lost the title: d_esonava
+319 - vassal: d_esonava - Title given to 1005082 - Primary title: d_kyeleh
+319 - sub vassal: d_esonava - Title given to 1005082 - Primary title: d_kyeleh
+319 - vassal: d_kyeleh - Holder (1005082) has gained d_esonava
+319 - sub vassal: d_kyeleh - Holder (1005082) has gained d_esonava
+319 - sub vassal: c_kevilie - Holder 1005082 - Primary title: c_kevilie has lost the title: c_kevilie
+319 - sub vassal: c_kevilie - Title given to 1005082 - Primary title: d_kyeleh
+319 - vassal: d_kyeleh - Holder (1005082) has gained c_kevilie
+319 - sub vassal: d_kyeleh - Holder (1005082) has gained c_kevilie
+319 - sub vassal: c_nituncan - Holder 1005082 - Primary title: c_nituncan has lost the title: c_nituncan
+319 - sub vassal: c_nituncan - Title given to 1005082 - Primary title: d_kyeleh
+319 - vassal: d_kyeleh - Holder (1005082) has gained c_nituncan
+319 - sub vassal: d_kyeleh - Holder (1005082) has gained c_nituncan
+322 - vassal: d_kyeleh - Holder 1007605 - Primary title: d_kyeleh has lost the title: d_kyeleh
+322 - sub vassal: d_kyeleh - Holder 1007605 - Primary title: d_kyeleh has lost the title: d_kyeleh
+322 - vassal: d_kyeleh - Title given to 1007605
+322 - sub vassal: d_kyeleh - Title given to 1007605
+322 - sub vassal: c_tuqadla - Setting to vassal of d_esonava in Validate Realm
+322 - vassal: d_kyeleh - Lost vassal: c_tuqadla
+322 - sub vassal: d_kyeleh - Lost vassal: c_tuqadla
+322 - sub vassal: c_qipurgen - Setting to vassal of d_esonava in Validate Realm
+322 - vassal: d_kyeleh - Lost vassal: c_qipurgen
+322 - sub vassal: d_kyeleh - Lost vassal: c_qipurgen
+322 - sub vassal: c_wioyna - Setting to vassal of d_esonava in Validate Realm
+322 - vassal: d_kyeleh - Lost vassal: c_wioyna
+322 - sub vassal: d_kyeleh - Lost vassal: c_wioyna
+322 - vassal: d_esonava - Gained vassal: c_wioyna
+322 - sub vassal: d_esonava - Gained vassal: c_wioyna
+322 - vassal: d_esonava - Gained vassal: c_qipurgen
+322 - sub vassal: d_esonava - Gained vassal: c_qipurgen
+322 - vassal: d_esonava - Gained vassal: c_tuqadla
+322 - sub vassal: d_esonava - Gained vassal: c_tuqadla
+322 - vassal: d_esonava - Holder 1007605 - Primary title: d_esonava has lost the title: d_esonava
+322 - sub vassal: d_esonava - Holder 1007605 - Primary title: d_esonava has lost the title: d_esonava
+322 - vassal: d_esonava - Title given to 1007605 - Primary title: d_kyeleh
+322 - sub vassal: d_esonava - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: d_kyeleh - Holder (1007605) has gained d_esonava
+322 - sub vassal: d_kyeleh - Holder (1007605) has gained d_esonava
+322 - sub vassal: c_tuqadla - Holder 1007605 - Primary title: c_tuqadla has lost the title: c_tuqadla
+322 - sub vassal: c_tuqadla - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: d_kyeleh - Holder (1007605) has gained c_tuqadla
+322 - sub vassal: d_kyeleh - Holder (1007605) has gained c_tuqadla
+322 - sub vassal: c_qipurgen - Holder 1007605 - Primary title: c_qipurgen has lost the title: c_qipurgen
+322 - sub vassal: c_qipurgen - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: d_kyeleh - Holder (1007605) has gained c_qipurgen
+322 - sub vassal: d_kyeleh - Holder (1007605) has gained c_qipurgen
+322 - sub vassal: c_wioyna - Holder 1007605 - Primary title: c_wioyna has lost the title: c_wioyna
+322 - sub vassal: c_wioyna - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: d_kyeleh - Holder (1007605) has gained c_wioyna
+322 - sub vassal: d_kyeleh - Holder (1007605) has gained c_wioyna
+322 - sub vassal: c_kevilie - Holder 1007605 - Primary title: c_kevilie has lost the title: c_kevilie
+322 - sub vassal: c_kevilie - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: d_kyeleh - Holder (1007605) has gained c_kevilie
+322 - sub vassal: d_kyeleh - Holder (1007605) has gained c_kevilie
+322 - sub vassal: c_nituncan - Holder 1007605 - Primary title: c_nituncan has lost the title: c_nituncan
+322 - sub vassal: c_nituncan - Title given to 1007605 - Primary title: d_kyeleh
+322 - vassal: d_kyeleh - Holder (1007605) has gained c_nituncan
+322 - sub vassal: d_kyeleh - Holder (1007605) has gained c_nituncan
+323 - vassal: d_kyeleh - Destroyed due to flagged problem
+323 - sub vassal: d_kyeleh - Destroyed due to flagged problem
+323 - vassal: d_kyeleh - Made independent
+323 - sub vassal: d_kyeleh - Made independent
+337 - Holder 1008169 - Primary title: k_raming has lost the title: k_raming
+337 - Title given to 1008169
+337 - vassal: d_kiponza - Holder 1008169 - Primary title: d_kiponza has lost the title: d_kiponza
+337 - sub vassal: d_kiponza - Holder 1008169 - Primary title: d_kiponza has lost the title: d_kiponza
+337 - vassal: d_kiponza - Title given to 1008169 - Primary title: k_raming
+337 - sub vassal: d_kiponza - Title given to 1008169 - Primary title: k_raming
+337 - Holder (1008169) has gained d_kiponza
+337 - sub vassal: c_tina - Setting to vassal of d_epeytn in Validate Realm
+337 - vassal: d_kiponza - Lost vassal: c_tina
+337 - sub vassal: d_kiponza - Lost vassal: c_tina
+337 - sub vassal: c_wipemey - Setting to vassal of d_epeytn in Validate Realm
+337 - vassal: d_kiponza - Lost vassal: c_wipemey
+337 - sub vassal: d_kiponza - Lost vassal: c_wipemey
+337 - sub vassal: c_sevonza - Setting to vassal of d_epeytn in Validate Realm
+337 - vassal: d_kiponza - Lost vassal: c_sevonza
+337 - sub vassal: d_kiponza - Lost vassal: c_sevonza
+337 - sub vassal: c_bonozar - Setting to vassal of d_epeytn in Validate Realm
+337 - vassal: d_kiponza - Lost vassal: c_bonozar
+337 - sub vassal: d_kiponza - Lost vassal: c_bonozar
+337 - sub vassal: c_sitila - Setting to vassal of d_epeytn in Validate Realm
+337 - vassal: d_kiponza - Lost vassal: c_sitila
+337 - sub vassal: d_kiponza - Lost vassal: c_sitila
+337 - vassal: d_epeytn - Gained vassal: c_sitila
+337 - sub vassal: d_epeytn - Gained vassal: c_sitila
+337 - vassal: d_epeytn - Gained vassal: c_bonozar
+337 - sub vassal: d_epeytn - Gained vassal: c_bonozar
+337 - vassal: d_epeytn - Gained vassal: c_sevonza
+337 - sub vassal: d_epeytn - Gained vassal: c_sevonza
+337 - vassal: d_epeytn - Gained vassal: c_wipemey
+337 - sub vassal: d_epeytn - Gained vassal: c_wipemey
+337 - vassal: d_epeytn - Gained vassal: c_tina
+337 - sub vassal: d_epeytn - Gained vassal: c_tina
+337 - vassal: d_epeytn - Holder 1008169 - Primary title: d_epeytn has lost the title: d_epeytn
+337 - sub vassal: d_epeytn - Holder 1008169 - Primary title: d_epeytn has lost the title: d_epeytn
+337 - vassal: d_epeytn - Title given to 1008169 - Primary title: k_raming
+337 - sub vassal: d_epeytn - Title given to 1008169 - Primary title: k_raming
+337 - Holder (1008169) has gained d_epeytn
+337 - sub vassal: c_tina - Holder 1008169 - Primary title: c_tina has lost the title: c_tina
+337 - sub vassal: c_tina - Title given to 1008169 - Primary title: k_raming
+337 - Holder (1008169) has gained c_tina
+337 - sub vassal: c_wipemey - Holder 1008169 - Primary title: c_wipemey has lost the title: c_wipemey
+337 - sub vassal: c_wipemey - Title given to 1008169 - Primary title: k_raming
+337 - Holder (1008169) has gained c_wipemey
+337 - sub vassal: c_sevonza - Holder 1008169 - Primary title: c_sevonza has lost the title: c_sevonza
+337 - sub vassal: c_sevonza - Title given to 1008169 - Primary title: k_raming
+337 - Holder (1008169) has gained c_sevonza
+337 - sub vassal: c_bonozar - Holder 1008169 - Primary title: c_bonozar has lost the title: c_bonozar
+337 - sub vassal: c_bonozar - Title given to 1008169 - Primary title: k_raming
+337 - Holder (1008169) has gained c_bonozar
+337 - sub vassal: c_sitila - Holder 1008169 - Primary title: c_sitila has lost the title: c_sitila
+337 - sub vassal: c_sitila - Title given to 1008169 - Primary title: k_raming
+337 - Holder (1008169) has gained c_sitila
+339 - vassal: d_esonava - Holder (1007605) has gained d_kyeleh
+339 - sub vassal: d_esonava - Holder (1007605) has gained d_kyeleh
+339 - Gained vassal: d_kyeleh
+339 - vassal: d_kyeleh - Made independent for title creation d_kyeleh for d_esonava
+339 - sub vassal: d_kyeleh - Made independent for title creation d_kyeleh for d_esonava
+339 - vassal: d_kyeleh - Made independent
+339 - sub vassal: d_kyeleh - Made independent
+339 - sub vassal: c_tuqadla - Set liege on title creation d_kyeleh
+339 - vassal: d_esonava - Lost vassal: c_tuqadla
+339 - sub vassal: d_esonava - Lost vassal: c_tuqadla
+339 - sub vassal: c_qipurgen - Set liege on title creation d_kyeleh
+339 - vassal: d_esonava - Lost vassal: c_qipurgen
+339 - sub vassal: d_esonava - Lost vassal: c_qipurgen
+339 - sub vassal: c_wioyna - Set liege on title creation d_kyeleh
+339 - vassal: d_esonava - Lost vassal: c_wioyna
+339 - sub vassal: d_esonava - Lost vassal: c_wioyna
+339 - sub vassal: c_kevilie - Set liege on title creation d_kyeleh
+339 - vassal: d_esonava - Lost vassal: c_kevilie
+339 - sub vassal: d_esonava - Lost vassal: c_kevilie
+339 - sub vassal: c_nituncan - Set liege on title creation d_kyeleh
+339 - vassal: d_esonava - Lost vassal: c_nituncan
+339 - sub vassal: d_esonava - Lost vassal: c_nituncan
+340 - vassal: d_esonava - Destroyed due to flagged problem
+340 - sub vassal: d_esonava - Destroyed due to flagged problem
+340 - vassal: d_esonava - Made independent
+340 - sub vassal: d_esonava - Made independent
+340 - vassal: c_nituncan - Setting to vassal of d_kyeleh in Validate Realm
+340 - Lost vassal: c_nituncan
+340 - vassal: c_kevilie - Setting to vassal of d_kyeleh in Validate Realm
+340 - Lost vassal: c_kevilie
+341 - vassal: c_nituncan - Setting to vassal of d_kyeleh in Validate Realm
+341 - Lost vassal: c_nituncan
+341 - vassal: c_kevilie - Setting to vassal of d_kyeleh in Validate Realm
+341 - Lost vassal: c_kevilie
+342 - vassal: c_nituncan - Setting to vassal of d_kyeleh in Validate Realm
+342 - Lost vassal: c_nituncan
+342 - vassal: c_kevilie - Setting to vassal of d_kyeleh in Validate Realm
+342 - Lost vassal: c_kevilie
+343 - vassal: c_nituncan - Setting to vassal of d_kyeleh in Validate Realm
+343 - Lost vassal: c_nituncan
+343 - vassal: c_kevilie - Setting to vassal of d_kyeleh in Validate Realm
+343 - Lost vassal: c_kevilie
+344 - Holder (1008169) has gained c_nituncan
+344 - Holder (1008169) has gained c_kevilie
+344 - Holder 1009963 - Primary title: k_raming has lost the title: c_nituncan
+344 - Gained vassal: c_nituncan
+344 - Holder 1009964 - Primary title: k_raming has lost the title: c_kevilie
+344 - Gained vassal: c_kevilie
+350 - Holder 1009660 - Primary title: k_raming has lost the title: k_raming
+350 - Title given to 1009660
+350 - vassal: d_epeytn - Holder 1009660 - Primary title: d_epeytn has lost the title: d_epeytn
+350 - sub vassal: d_epeytn - Holder 1009660 - Primary title: d_epeytn has lost the title: d_epeytn
+350 - vassal: d_epeytn - Title given to 1009660 - Primary title: k_raming
+350 - sub vassal: d_epeytn - Title given to 1009660 - Primary title: k_raming
+350 - Holder (1009660) has gained d_epeytn
+350 - sub vassal: c_sitila - Setting to vassal of d_kiponza in Validate Realm
+350 - vassal: d_epeytn - Lost vassal: c_sitila
+350 - sub vassal: d_epeytn - Lost vassal: c_sitila
+350 - sub vassal: c_bonozar - Setting to vassal of d_kiponza in Validate Realm
+350 - vassal: d_epeytn - Lost vassal: c_bonozar
+350 - sub vassal: d_epeytn - Lost vassal: c_bonozar
+350 - sub vassal: c_sevonza - Setting to vassal of d_kiponza in Validate Realm
+350 - vassal: d_epeytn - Lost vassal: c_sevonza
+350 - sub vassal: d_epeytn - Lost vassal: c_sevonza
+350 - sub vassal: c_wipemey - Setting to vassal of d_kiponza in Validate Realm
+350 - vassal: d_epeytn - Lost vassal: c_wipemey
+350 - sub vassal: d_epeytn - Lost vassal: c_wipemey
+350 - sub vassal: c_tina - Setting to vassal of d_kiponza in Validate Realm
+350 - vassal: d_epeytn - Lost vassal: c_tina
+350 - sub vassal: d_epeytn - Lost vassal: c_tina
+350 - vassal: d_kiponza - Gained vassal: c_tina
+350 - sub vassal: d_kiponza - Gained vassal: c_tina
+350 - vassal: d_kiponza - Gained vassal: c_wipemey
+350 - sub vassal: d_kiponza - Gained vassal: c_wipemey
+350 - vassal: d_kiponza - Gained vassal: c_sevonza
+350 - sub vassal: d_kiponza - Gained vassal: c_sevonza
+350 - vassal: d_kiponza - Gained vassal: c_bonozar
+350 - sub vassal: d_kiponza - Gained vassal: c_bonozar
+350 - vassal: d_kiponza - Gained vassal: c_sitila
+350 - sub vassal: d_kiponza - Gained vassal: c_sitila
+350 - vassal: d_kiponza - Holder 1009660 - Primary title: d_kiponza has lost the title: d_kiponza
+350 - sub vassal: d_kiponza - Holder 1009660 - Primary title: d_kiponza has lost the title: d_kiponza
+350 - vassal: d_kiponza - Title given to 1009660 - Primary title: k_raming
+350 - sub vassal: d_kiponza - Title given to 1009660 - Primary title: k_raming
+350 - Holder (1009660) has gained d_kiponza
+350 - sub vassal: c_sitila - Holder 1009660 - Primary title: c_sitila has lost the title: c_sitila
+350 - sub vassal: c_sitila - Title given to 1009660 - Primary title: k_raming
+350 - Holder (1009660) has gained c_sitila
+350 - sub vassal: c_bonozar - Holder 1009660 - Primary title: c_bonozar has lost the title: c_bonozar
+350 - sub vassal: c_bonozar - Title given to 1009660 - Primary title: k_raming
+350 - Holder (1009660) has gained c_bonozar
+350 - sub vassal: c_sevonza - Holder 1009660 - Primary title: c_sevonza has lost the title: c_sevonza
+350 - sub vassal: c_sevonza - Title given to 1009660 - Primary title: k_raming
+350 - Holder (1009660) has gained c_sevonza
+350 - sub vassal: c_wipemey - Holder 1009660 - Primary title: c_wipemey has lost the title: c_wipemey
+350 - sub vassal: c_wipemey - Title given to 1009660 - Primary title: k_raming
+350 - Holder (1009660) has gained c_wipemey
+350 - sub vassal: c_tina - Holder 1009660 - Primary title: c_tina has lost the title: c_tina
+350 - sub vassal: c_tina - Title given to 1009660 - Primary title: k_raming
+350 - Holder (1009660) has gained c_tina
+353 - vassal: d_noning - Holder 1007379 - Primary title: d_noning has lost the title: d_noning
+353 - sub vassal: d_noning - Holder 1007379 - Primary title: d_noning has lost the title: d_noning
+353 - vassal: d_noning - Title given to 1007379
+353 - sub vassal: d_noning - Title given to 1007379
+353 - sub vassal: c_riting - Holder 1007379 - Primary title: c_riting has lost the title: c_riting
+353 - sub vassal: c_riting - Title given to 1007379 - Primary title: d_noning
+353 - vassal: d_noning - Holder (1007379) has gained c_riting
+353 - sub vassal: d_noning - Holder (1007379) has gained c_riting
+353 - sub vassal: c_tava - Holder 1007379 - Primary title: c_tava has lost the title: c_tava
+353 - sub vassal: c_tava - Title given to 1007379 - Primary title: d_noning
+353 - vassal: d_noning - Holder (1007379) has gained c_tava
+353 - sub vassal: d_noning - Holder (1007379) has gained c_tava
+358 - vassal: d_ritonza - Holder 1007537 - Primary title: d_ritonza has lost the title: d_ritonza
+358 - sub vassal: d_ritonza - Holder 1007537 - Primary title: d_ritonza has lost the title: d_ritonza
+358 - vassal: d_ritonza - Title given to 1007537
+358 - sub vassal: d_ritonza - Title given to 1007537
+358 - sub vassal: c_runcan - Setting to vassal of d_litozar in Validate Realm
+358 - vassal: d_ritonza - Lost vassal: c_runcan
+358 - sub vassal: d_ritonza - Lost vassal: c_runcan
+358 - sub vassal: c_teyling - Setting to vassal of d_litozar in Validate Realm
+358 - vassal: d_ritonza - Lost vassal: c_teyling
+358 - sub vassal: d_ritonza - Lost vassal: c_teyling
+358 - vassal: d_litozar - Gained vassal: c_teyling
+358 - sub vassal: d_litozar - Gained vassal: c_teyling
+358 - vassal: d_litozar - Gained vassal: c_runcan
+358 - sub vassal: d_litozar - Gained vassal: c_runcan
+358 - vassal: d_litozar - Holder 1007537 - Primary title: d_litozar has lost the title: d_litozar
+358 - sub vassal: d_litozar - Holder 1007537 - Primary title: d_litozar has lost the title: d_litozar
+358 - vassal: d_litozar - Title given to 1007537 - Primary title: d_ritonza
+358 - sub vassal: d_litozar - Title given to 1007537 - Primary title: d_ritonza
+358 - vassal: d_ritonza - Holder (1007537) has gained d_litozar
+358 - sub vassal: d_ritonza - Holder (1007537) has gained d_litozar
+358 - sub vassal: c_runcan - Holder 1007537 - Primary title: c_runcan has lost the title: c_runcan
+358 - sub vassal: c_runcan - Title given to 1007537 - Primary title: d_ritonza
+358 - vassal: d_ritonza - Holder (1007537) has gained c_runcan
+358 - sub vassal: d_ritonza - Holder (1007537) has gained c_runcan
+358 - sub vassal: c_teyling - Holder 1007537 - Primary title: c_teyling has lost the title: c_teyling
+358 - sub vassal: c_teyling - Title given to 1007537 - Primary title: d_ritonza
+358 - vassal: d_ritonza - Holder (1007537) has gained c_teyling
+358 - sub vassal: d_ritonza - Holder (1007537) has gained c_teyling
+358 - sub vassal: c_kekina - Holder 1007537 - Primary title: c_kekina has lost the title: c_kekina
+358 - sub vassal: c_kekina - Title given to 1007537 - Primary title: d_ritonza
+358 - vassal: d_ritonza - Holder (1007537) has gained c_kekina
+358 - sub vassal: d_ritonza - Holder (1007537) has gained c_kekina
+361 - Gained vassal: c_wioyna
+361 - vassal: d_ritonza - Holder 1004320 - Primary title: d_ritonza has lost the title: d_ritonza
+361 - sub vassal: d_ritonza - Holder 1004320 - Primary title: d_ritonza has lost the title: d_ritonza
+361 - vassal: d_ritonza - Title given to 1004320 - Primary title: c_kusilie
+361 - sub vassal: d_ritonza - Title given to 1004320 - Primary title: c_kusilie
+361 - vassal: c_kusilie - Holder (1004320) has gained d_ritonza
+361 - sub vassal: c_kusilie - Holder (1004320) has gained d_ritonza
+361 - vassal: c_kusilie - Setting to vassal of d_ritonza in Validate Realm
+361 - sub vassal: c_kusilie - Setting to vassal of d_ritonza in Validate Realm
+361 - Lost vassal: c_kusilie
+361 - sub vassal: c_kekina - Setting to vassal of d_litozar in Validate Realm
+361 - vassal: d_ritonza - Lost vassal: c_kekina
+361 - sub vassal: d_ritonza - Lost vassal: c_kekina
+361 - vassal: d_litozar - Gained vassal: c_kekina
+361 - sub vassal: d_litozar - Gained vassal: c_kekina
+361 - vassal: d_ritonza - Gained vassal: c_kusilie
+361 - sub vassal: d_ritonza - Gained vassal: c_kusilie
+361 - vassal: d_litozar - Holder 1004320 - Primary title: d_litozar has lost the title: d_litozar
+361 - sub vassal: d_litozar - Holder 1004320 - Primary title: d_litozar has lost the title: d_litozar
+361 - vassal: d_litozar - Title given to 1004320 - Primary title: d_ritonza
+361 - sub vassal: d_litozar - Title given to 1004320 - Primary title: d_ritonza
+361 - vassal: d_ritonza - Holder (1004320) has gained d_litozar
+361 - sub vassal: d_ritonza - Holder (1004320) has gained d_litozar
+361 - sub vassal: c_kekina - Holder 1004320 - Primary title: c_kekina has lost the title: c_kekina
+361 - sub vassal: c_kekina - Title given to 1004320 - Primary title: d_ritonza
+361 - vassal: d_ritonza - Holder (1004320) has gained c_kekina
+361 - sub vassal: d_ritonza - Holder (1004320) has gained c_kekina
+361 - sub vassal: c_teyling - Holder 1004320 - Primary title: c_teyling has lost the title: c_teyling
+361 - sub vassal: c_teyling - Title given to 1004320 - Primary title: d_ritonza
+361 - vassal: d_ritonza - Holder (1004320) has gained c_teyling
+361 - sub vassal: d_ritonza - Holder (1004320) has gained c_teyling
+361 - sub vassal: c_runcan - Holder 1004320 - Primary title: c_runcan has lost the title: c_runcan
+361 - sub vassal: c_runcan - Title given to 1004320 - Primary title: d_ritonza
+361 - vassal: d_ritonza - Holder (1004320) has gained c_runcan
+361 - sub vassal: d_ritonza - Holder (1004320) has gained c_runcan
+362 - vassal: d_ritonza - Holder 1007379 - Primary title: d_ritonza has lost the title: d_ritonza
+362 - sub vassal: d_ritonza - Holder 1007379 - Primary title: d_ritonza has lost the title: d_ritonza
+362 - vassal: d_ritonza - Title given to 1007379 - Primary title: d_noning
+362 - sub vassal: d_ritonza - Title given to 1007379 - Primary title: d_noning
+362 - vassal: d_noning - Holder (1007379) has gained d_ritonza
+362 - sub vassal: d_noning - Holder (1007379) has gained d_ritonza
+362 - sub vassal: c_kusilie - Setting to vassal of d_litozar in Validate Realm
+362 - vassal: d_ritonza - Lost vassal: c_kusilie
+362 - sub vassal: d_ritonza - Lost vassal: c_kusilie
+362 - vassal: d_litozar - Gained vassal: c_kusilie
+362 - sub vassal: d_litozar - Gained vassal: c_kusilie
+362 - vassal: d_litozar - Holder 1007379 - Primary title: d_litozar has lost the title: c_kusilie
+362 - sub vassal: d_litozar - Holder 1007379 - Primary title: d_litozar has lost the title: c_kusilie
+362 - sub vassal: c_kusilie - Title given to 1007379 - Primary title: d_noning
+362 - vassal: d_noning - Holder (1007379) has gained c_kusilie
+362 - sub vassal: d_noning - Holder (1007379) has gained c_kusilie
+362 - sub vassal: c_kusilie - Setting to vassal of d_noning in Validate Realm
+362 - vassal: d_litozar - Lost vassal: c_kusilie
+362 - sub vassal: d_litozar - Lost vassal: c_kusilie
+362 - vassal: d_noning - Gained vassal: c_kusilie
+362 - sub vassal: d_noning - Gained vassal: c_kusilie
+362 - vassal: d_litozar - Holder 1007379 - Primary title: d_litozar has lost the title: d_litozar
+362 - sub vassal: d_litozar - Holder 1007379 - Primary title: d_litozar has lost the title: d_litozar
+362 - vassal: d_litozar - Title given to 1007379 - Primary title: d_noning
+362 - sub vassal: d_litozar - Title given to 1007379 - Primary title: d_noning
+362 - vassal: d_noning - Holder (1007379) has gained d_litozar
+362 - sub vassal: d_noning - Holder (1007379) has gained d_litozar
+362 - sub vassal: c_kekina - Holder 1007379 - Primary title: c_kekina has lost the title: c_kekina
+362 - sub vassal: c_kekina - Title given to 1007379 - Primary title: d_noning
+362 - vassal: d_noning - Holder (1007379) has gained c_kekina
+362 - sub vassal: d_noning - Holder (1007379) has gained c_kekina
+362 - sub vassal: c_teyling - Holder 1007379 - Primary title: c_teyling has lost the title: c_teyling
+362 - sub vassal: c_teyling - Title given to 1007379 - Primary title: d_noning
+362 - vassal: d_noning - Holder (1007379) has gained c_teyling
+362 - sub vassal: d_noning - Holder (1007379) has gained c_teyling
+362 - sub vassal: c_runcan - Holder 1007379 - Primary title: c_runcan has lost the title: c_runcan
+362 - sub vassal: c_runcan - Title given to 1007379 - Primary title: d_noning
+362 - vassal: d_noning - Holder (1007379) has gained c_runcan
+362 - sub vassal: d_noning - Holder (1007379) has gained c_runcan
+363 - sub vassal: c_ronza - Holder 1007379 - Primary title: c_ronza has lost the title: c_ronza
+363 - sub vassal: c_ronza - Title given to 1007379 - Primary title: d_ritonza
+363 - vassal: d_ritonza - Holder (1007379) has gained c_ronza
+363 - sub vassal: d_ritonza - Holder (1007379) has gained c_ronza
+363 - sub vassal: c_adiling - Given to 1010951 in HandleTitles - Too many duke titles
+363 - sub vassal: c_adiling - Holder 1010951 - Primary title: c_adiling has lost the title: c_adiling
+363 - sub vassal: c_adiling - Title given to 1010951
+363 - vassal: d_noning - Holder 1009660 - Primary title: d_noning has lost the title: d_litozar
+363 - sub vassal: d_noning - Holder 1009660 - Primary title: d_noning has lost the title: d_litozar
+363 - vassal: d_litozar - Title given to 1009660 - Primary title: k_raming
+363 - sub vassal: d_litozar - Title given to 1009660 - Primary title: k_raming
+363 - Holder (1009660) has gained d_litozar
+363 - sub vassal: c_kekina - Setting to vassal of d_noning in Validate Realm
+363 - vassal: d_litozar - Lost vassal: c_kekina
+363 - sub vassal: d_litozar - Lost vassal: c_kekina
+363 - sub vassal: c_teyling - Setting to vassal of d_noning in Validate Realm
+363 - vassal: d_litozar - Lost vassal: c_teyling
+363 - sub vassal: d_litozar - Lost vassal: c_teyling
+363 - sub vassal: c_runcan - Setting to vassal of d_noning in Validate Realm
+363 - vassal: d_litozar - Lost vassal: c_runcan
+363 - sub vassal: d_litozar - Lost vassal: c_runcan
+363 - vassal: d_noning - Gained vassal: c_runcan
+363 - sub vassal: d_noning - Gained vassal: c_runcan
+363 - vassal: d_noning - Gained vassal: c_teyling
+363 - sub vassal: d_noning - Gained vassal: c_teyling
+363 - vassal: d_noning - Gained vassal: c_kekina
+363 - sub vassal: d_noning - Gained vassal: c_kekina
+363 - vassal: d_litozar - Too many dukes, made direct title into vassal of k_raming
+363 - sub vassal: d_litozar - Too many dukes, made direct title into vassal of k_raming
+363 - Holder 1010952 - Primary title: k_raming has lost the title: d_litozar
+363 - vassal: d_litozar - Title given to 1010952
+363 - sub vassal: d_litozar - Title given to 1010952
+363 - vassal: d_noning - Holder 1010953 - Primary title: d_noning has lost the title: c_ronza
+363 - sub vassal: d_noning - Holder 1010953 - Primary title: d_noning has lost the title: c_ronza
+363 - sub vassal: c_ronza - Title given to 1010953
+363 - vassal: d_noning - Holder 1010954 - Primary title: d_noning has lost the title: c_runcan
+363 - sub vassal: d_noning - Holder 1010954 - Primary title: d_noning has lost the title: c_runcan
+363 - sub vassal: c_runcan - Title given to 1010954
+364 - vassal: d_noning - Holder 1010560 - Primary title: d_noning has lost the title: d_noning
+364 - sub vassal: d_noning - Holder 1010560 - Primary title: d_noning has lost the title: d_noning
+364 - vassal: d_noning - Title given to 1010560
+364 - sub vassal: d_noning - Title given to 1010560
+364 - sub vassal: c_tava - Setting to vassal of d_ritonza in Validate Realm
+364 - vassal: d_noning - Lost vassal: c_tava
+364 - sub vassal: d_noning - Lost vassal: c_tava
+364 - sub vassal: c_riting - Setting to vassal of d_ritonza in Validate Realm
+364 - vassal: d_noning - Lost vassal: c_riting
+364 - sub vassal: d_noning - Lost vassal: c_riting
+364 - sub vassal: c_kusilie - Setting to vassal of d_ritonza in Validate Realm
+364 - vassal: d_noning - Lost vassal: c_kusilie
+364 - sub vassal: d_noning - Lost vassal: c_kusilie
+364 - sub vassal: c_kekina - Setting to vassal of d_ritonza in Validate Realm
+364 - vassal: d_noning - Lost vassal: c_kekina
+364 - sub vassal: d_noning - Lost vassal: c_kekina
+364 - sub vassal: c_teyling - Setting to vassal of d_ritonza in Validate Realm
+364 - vassal: d_noning - Lost vassal: c_teyling
+364 - sub vassal: d_noning - Lost vassal: c_teyling
+364 - vassal: d_ritonza - Gained vassal: c_teyling
+364 - sub vassal: d_ritonza - Gained vassal: c_teyling
+364 - vassal: d_ritonza - Gained vassal: c_kekina
+364 - sub vassal: d_ritonza - Gained vassal: c_kekina
+364 - vassal: d_ritonza - Gained vassal: c_kusilie
+364 - sub vassal: d_ritonza - Gained vassal: c_kusilie
+364 - vassal: d_ritonza - Gained vassal: c_riting
+364 - sub vassal: d_ritonza - Gained vassal: c_riting
+364 - vassal: d_ritonza - Gained vassal: c_tava
+364 - sub vassal: d_ritonza - Gained vassal: c_tava
+364 - vassal: d_ritonza - Holder 1010560 - Primary title: d_ritonza has lost the title: c_tava
+364 - sub vassal: d_ritonza - Holder 1010560 - Primary title: d_ritonza has lost the title: c_tava
+364 - sub vassal: c_tava - Title given to 1010560 - Primary title: d_noning
+364 - vassal: d_noning - Holder (1010560) has gained c_tava
+364 - sub vassal: d_noning - Holder (1010560) has gained c_tava
+364 - sub vassal: c_tava - Setting to vassal of d_noning in Validate Realm
+364 - vassal: d_ritonza - Lost vassal: c_tava
+364 - sub vassal: d_ritonza - Lost vassal: c_tava
+364 - vassal: d_noning - Gained vassal: c_tava
+364 - sub vassal: d_noning - Gained vassal: c_tava
+364 - vassal: d_ritonza - Holder 1010560 - Primary title: d_ritonza has lost the title: c_riting
+364 - sub vassal: d_ritonza - Holder 1010560 - Primary title: d_ritonza has lost the title: c_riting
+364 - sub vassal: c_riting - Title given to 1010560 - Primary title: d_noning
+364 - vassal: d_noning - Holder (1010560) has gained c_riting
+364 - sub vassal: d_noning - Holder (1010560) has gained c_riting
+364 - sub vassal: c_riting - Setting to vassal of d_noning in Validate Realm
+364 - vassal: d_ritonza - Lost vassal: c_riting
+364 - sub vassal: d_ritonza - Lost vassal: c_riting
+364 - vassal: d_noning - Gained vassal: c_riting
+364 - sub vassal: d_noning - Gained vassal: c_riting
+364 - vassal: d_ritonza - Holder 1010560 - Primary title: d_ritonza has lost the title: d_ritonza
+364 - sub vassal: d_ritonza - Holder 1010560 - Primary title: d_ritonza has lost the title: d_ritonza
+364 - vassal: d_ritonza - Title given to 1010560 - Primary title: d_noning
+364 - sub vassal: d_ritonza - Title given to 1010560 - Primary title: d_noning
+364 - vassal: d_noning - Holder (1010560) has gained d_ritonza
+364 - sub vassal: d_noning - Holder (1010560) has gained d_ritonza
+364 - sub vassal: c_kusilie - Holder 1010560 - Primary title: c_kusilie has lost the title: c_kusilie
+364 - sub vassal: c_kusilie - Title given to 1010560 - Primary title: d_noning
+364 - vassal: d_noning - Holder (1010560) has gained c_kusilie
+364 - sub vassal: d_noning - Holder (1010560) has gained c_kusilie
+364 - sub vassal: c_kekina - Holder 1010560 - Primary title: c_kekina has lost the title: c_kekina
+364 - sub vassal: c_kekina - Title given to 1010560 - Primary title: d_noning
+364 - vassal: d_noning - Holder (1010560) has gained c_kekina
+364 - sub vassal: d_noning - Holder (1010560) has gained c_kekina
+364 - sub vassal: c_teyling - Holder 1010560 - Primary title: c_teyling has lost the title: c_teyling
+364 - sub vassal: c_teyling - Title given to 1010560 - Primary title: d_noning
+364 - vassal: d_noning - Holder (1010560) has gained c_teyling
+364 - sub vassal: d_noning - Holder (1010560) has gained c_teyling
+377 - vassal: d_litozar - Holder 1011050 - Primary title: d_litozar has lost the title: d_litozar
+377 - sub vassal: d_litozar - Holder 1011050 - Primary title: d_litozar has lost the title: d_litozar
+377 - vassal: d_litozar - Title given to 1011050
+377 - sub vassal: d_litozar - Title given to 1011050
+385 - vassal: d_ritonza - Holder 1011538 - Primary title: d_ritonza has lost the title: d_ritonza
+385 - sub vassal: d_ritonza - Holder 1011538 - Primary title: d_ritonza has lost the title: d_ritonza
+385 - vassal: d_ritonza - Title given to 1011538
+385 - sub vassal: d_ritonza - Title given to 1011538
+385 - sub vassal: c_teyling - Setting to vassal of d_noning in Validate Realm
+385 - vassal: d_ritonza - Lost vassal: c_teyling
+385 - sub vassal: d_ritonza - Lost vassal: c_teyling
+385 - sub vassal: c_kekina - Setting to vassal of d_noning in Validate Realm
+385 - vassal: d_ritonza - Lost vassal: c_kekina
+385 - sub vassal: d_ritonza - Lost vassal: c_kekina
+385 - sub vassal: c_kusilie - Setting to vassal of d_noning in Validate Realm
+385 - vassal: d_ritonza - Lost vassal: c_kusilie
+385 - sub vassal: d_ritonza - Lost vassal: c_kusilie
+385 - vassal: d_noning - Gained vassal: c_kusilie
+385 - sub vassal: d_noning - Gained vassal: c_kusilie
+385 - vassal: d_noning - Gained vassal: c_kekina
+385 - sub vassal: d_noning - Gained vassal: c_kekina
+385 - vassal: d_noning - Gained vassal: c_teyling
+385 - sub vassal: d_noning - Gained vassal: c_teyling
+385 - vassal: d_noning - Holder 1011538 - Primary title: d_noning has lost the title: d_noning
+385 - sub vassal: d_noning - Holder 1011538 - Primary title: d_noning has lost the title: d_noning
+385 - vassal: d_noning - Title given to 1011538 - Primary title: d_ritonza
+385 - sub vassal: d_noning - Title given to 1011538 - Primary title: d_ritonza
+385 - vassal: d_ritonza - Holder (1011538) has gained d_noning
+385 - sub vassal: d_ritonza - Holder (1011538) has gained d_noning
+385 - sub vassal: c_teyling - Holder 1011538 - Primary title: c_teyling has lost the title: c_teyling
+385 - sub vassal: c_teyling - Title given to 1011538 - Primary title: d_ritonza
+385 - vassal: d_ritonza - Holder (1011538) has gained c_teyling
+385 - sub vassal: d_ritonza - Holder (1011538) has gained c_teyling
+385 - sub vassal: c_kekina - Holder 1011538 - Primary title: c_kekina has lost the title: c_kekina
+385 - sub vassal: c_kekina - Title given to 1011538 - Primary title: d_ritonza
+385 - vassal: d_ritonza - Holder (1011538) has gained c_kekina
+385 - sub vassal: d_ritonza - Holder (1011538) has gained c_kekina
+385 - sub vassal: c_kusilie - Holder 1011538 - Primary title: c_kusilie has lost the title: c_kusilie
+385 - sub vassal: c_kusilie - Title given to 1011538 - Primary title: d_ritonza
+385 - vassal: d_ritonza - Holder (1011538) has gained c_kusilie
+385 - sub vassal: d_ritonza - Holder (1011538) has gained c_kusilie
+385 - sub vassal: c_riting - Holder 1011538 - Primary title: c_riting has lost the title: c_riting
+385 - sub vassal: c_riting - Title given to 1011538 - Primary title: d_ritonza
+385 - vassal: d_ritonza - Holder (1011538) has gained c_riting
+385 - sub vassal: d_ritonza - Holder (1011538) has gained c_riting
+385 - sub vassal: c_tava - Holder 1011538 - Primary title: c_tava has lost the title: c_tava
+385 - sub vassal: c_tava - Title given to 1011538 - Primary title: d_ritonza
+385 - vassal: d_ritonza - Holder (1011538) has gained c_tava
+385 - sub vassal: d_ritonza - Holder (1011538) has gained c_tava
+394 - Holder 1011057 - Primary title: k_raming has lost the title: k_raming
+394 - Title given to 1011057
+394 - vassal: d_epeytn - Holder 1011057 - Primary title: d_epeytn has lost the title: d_epeytn
+394 - sub vassal: d_epeytn - Holder 1011057 - Primary title: d_epeytn has lost the title: d_epeytn
+394 - vassal: d_epeytn - Title given to 1011057 - Primary title: k_raming
+394 - sub vassal: d_epeytn - Title given to 1011057 - Primary title: k_raming
+394 - Holder (1011057) has gained d_epeytn
+394 - vassal: d_kiponza - Holder 1011057 - Primary title: d_kiponza has lost the title: d_kiponza
+394 - sub vassal: d_kiponza - Holder 1011057 - Primary title: d_kiponza has lost the title: d_kiponza
+394 - vassal: d_kiponza - Title given to 1011057 - Primary title: k_raming
+394 - sub vassal: d_kiponza - Title given to 1011057 - Primary title: k_raming
+394 - Holder (1011057) has gained d_kiponza
+394 - sub vassal: c_sitila - Holder 1011057 - Primary title: c_sitila has lost the title: c_sitila
+394 - sub vassal: c_sitila - Title given to 1011057 - Primary title: k_raming
+394 - Holder (1011057) has gained c_sitila
+394 - sub vassal: c_bonozar - Holder 1011057 - Primary title: c_bonozar has lost the title: c_bonozar
+394 - sub vassal: c_bonozar - Title given to 1011057 - Primary title: k_raming
+394 - Holder (1011057) has gained c_bonozar
+394 - sub vassal: c_sevonza - Holder 1011057 - Primary title: c_sevonza has lost the title: c_sevonza
+394 - sub vassal: c_sevonza - Title given to 1011057 - Primary title: k_raming
+394 - Holder (1011057) has gained c_sevonza
+394 - sub vassal: c_wipemey - Holder 1011057 - Primary title: c_wipemey has lost the title: c_wipemey
+394 - sub vassal: c_wipemey - Title given to 1011057 - Primary title: k_raming
+394 - Holder (1011057) has gained c_wipemey
+394 - sub vassal: c_tina - Holder 1011057 - Primary title: c_tina has lost the title: c_tina
+394 - sub vassal: c_tina - Title given to 1011057 - Primary title: k_raming
+394 - Holder (1011057) has gained c_tina

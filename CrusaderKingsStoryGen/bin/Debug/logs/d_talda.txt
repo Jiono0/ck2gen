@@ -1,0 +1,82 @@
+200 - Title given to 1000042 - Primary title: c_kavutlu
+200 - Holder 1001041 - Primary title: d_talda has lost the title: d_talda
+200 - Title given to 1001041 - Primary title: k_anula
+216 - Holder 1001986 - Primary title: d_talda has lost the title: d_talda
+216 - Title given to 1001986 - Primary title: k_anula
+220 - Gained vassal: c_qisan
+220 - Gained vassal: c_dewimha
+220 - Gained vassal: c_wuhyata
+220 - Holder 1000331 - Primary title: d_talda has lost the title: c_wuhyata
+220 - vassal: c_wuhyata - Title given to 1000331 - Primary title: k_anula
+220 - vassal: c_wuhyata - Setting to vassal of k_anula in Validate Realm
+220 - Lost vassal: c_wuhyata
+220 - Holder 1000331 - Primary title: d_talda has lost the title: c_dewimha
+220 - vassal: c_dewimha - Title given to 1000331 - Primary title: k_anula
+220 - vassal: c_dewimha - Setting to vassal of k_anula in Validate Realm
+220 - Lost vassal: c_dewimha
+220 - Holder 1000331 - Primary title: d_talda has lost the title: c_qisan
+220 - vassal: c_qisan - Title given to 1000331 - Primary title: k_anula
+220 - vassal: c_qisan - Setting to vassal of k_anula in Validate Realm
+220 - Lost vassal: c_qisan
+220 - Holder 1000331 - Primary title: d_talda has lost the title: d_talda
+220 - Title given to 1000331 - Primary title: k_anula
+237 - Gained vassal: c_qisan
+237 - Gained vassal: c_dewimha
+237 - Gained vassal: c_wuhyata
+237 - Gained vassal: c_tasenes
+237 - Gained vassal: c_sazihka
+237 - Holder 1000281 - Primary title: d_talda has lost the title: c_sazihka
+237 - vassal: c_sazihka - Title given to 1000281 - Primary title: k_anula
+237 - vassal: c_sazihka - Setting to vassal of k_anula in Validate Realm
+237 - Lost vassal: c_sazihka
+237 - Holder 1000281 - Primary title: d_talda has lost the title: c_tasenes
+237 - vassal: c_tasenes - Title given to 1000281 - Primary title: k_anula
+237 - vassal: c_tasenes - Setting to vassal of k_anula in Validate Realm
+237 - Lost vassal: c_tasenes
+237 - Holder 1000281 - Primary title: d_talda has lost the title: c_wuhyata
+237 - vassal: c_wuhyata - Title given to 1000281 - Primary title: k_anula
+237 - vassal: c_wuhyata - Setting to vassal of k_anula in Validate Realm
+237 - Lost vassal: c_wuhyata
+237 - Holder 1000281 - Primary title: d_talda has lost the title: c_dewimha
+237 - vassal: c_dewimha - Title given to 1000281 - Primary title: k_anula
+237 - vassal: c_dewimha - Setting to vassal of k_anula in Validate Realm
+237 - Lost vassal: c_dewimha
+237 - Holder 1000281 - Primary title: d_talda has lost the title: c_qisan
+237 - vassal: c_qisan - Title given to 1000281 - Primary title: k_anula
+237 - vassal: c_qisan - Setting to vassal of k_anula in Validate Realm
+237 - Lost vassal: c_qisan
+237 - Holder 1000281 - Primary title: d_talda has lost the title: d_talda
+237 - Title given to 1000281 - Primary title: k_anula
+238 - Destroyed due to flagged problem
+238 - Made independent
+238 - Title destroyed
+273 - Given to 1004172 in TestCreateEmpire
+273 - Title given to 1004172 - Primary title: c_kavutlu
+273 - Gained vassal: c_kavutlu
+273 - Made independent for title creation d_talda for d_talda
+273 - vassal: c_kavutlu - Set liege on title creation d_talda
+273 - sub vassal: c_kavutlu - Set liege on title creation d_talda
+273 - Destroyed due to no capital's obtainable
+273 - Title destroyed
+273 - vassal: c_kavutlu - Setting independent due to liege destruction
+273 - vassal: c_kavutlu - Made independent
+327 - Given to 1008705 in TestCreateEmpire
+327 - Title given to 1008705 - Primary title: c_kavutlu
+327 - Gained vassal: c_kavutlu
+327 - Made independent for title creation d_talda for d_talda
+327 - vassal: c_kavutlu - Set liege on title creation d_talda
+327 - sub vassal: c_kavutlu - Set liege on title creation d_talda
+327 - Destroyed due to no capital's obtainable
+327 - Title destroyed
+327 - vassal: c_kavutlu - Setting independent due to liege destruction
+327 - vassal: c_kavutlu - Made independent
+344 - Given to 1008705 in TestCreateEmpire
+344 - Title given to 1008705 - Primary title: c_kavutlu
+344 - Gained vassal: c_kavutlu
+344 - Made independent for title creation d_talda for d_talda
+344 - vassal: c_kavutlu - Set liege on title creation d_talda
+344 - sub vassal: c_kavutlu - Set liege on title creation d_talda
+344 - Destroyed due to no capital's obtainable
+344 - Title destroyed
+344 - vassal: c_kavutlu - Setting independent due to liege destruction
+344 - vassal: c_kavutlu - Made independent

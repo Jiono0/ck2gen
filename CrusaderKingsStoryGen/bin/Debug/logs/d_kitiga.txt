@@ -1,0 +1,153 @@
+200 - Title given to 1000089
+200 - vassal: c_bavid - Given to 1000092 via AddCharacterForTitle
+200 - sub vassal: c_bavid - Given to 1000092 via AddCharacterForTitle
+200 - vassal: c_bavid - Holder 1000092 - Primary title: c_bavid has lost the title: c_bavid
+200 - sub vassal: c_bavid - Holder 1000092 - Primary title: c_bavid has lost the title: c_bavid
+200 - vassal: c_bavid - Title given to 1000092
+200 - sub vassal: c_bavid - Title given to 1000092
+200 - vassal: c_teimama - Holder 1000089 - Primary title: c_teimama has lost the title: c_teimama
+200 - sub vassal: c_teimama - Holder 1000089 - Primary title: c_teimama has lost the title: c_teimama
+200 - vassal: c_teimama - Title given to 1000089 - Primary title: d_kitiga
+200 - sub vassal: c_teimama - Title given to 1000089 - Primary title: d_kitiga
+200 - Holder (1000089) has gained c_teimama
+200 - vassal: c_bavid - Holder 1000089 - Primary title: c_bavid has lost the title: c_bavid
+200 - sub vassal: c_bavid - Holder 1000089 - Primary title: c_bavid has lost the title: c_bavid
+200 - vassal: c_bavid - Title given to 1000089 - Primary title: d_kitiga
+200 - sub vassal: c_bavid - Title given to 1000089 - Primary title: d_kitiga
+200 - Holder (1000089) has gained c_bavid
+203 - Holder 1001036 - Primary title: d_kitiga has lost the title: d_kitiga
+203 - Title given to 1001036 - Primary title: k_ruatota
+203 - vassal: c_bavid - Holder 1001036 - Primary title: c_bavid has lost the title: c_bavid
+203 - vassal: c_bavid - Title given to 1001036 - Primary title: k_ruatota
+203 - vassal: c_teimama - Holder 1001036 - Primary title: c_teimama has lost the title: c_teimama
+203 - vassal: c_teimama - Title given to 1001036 - Primary title: k_ruatota
+203 - vassal: c_bavid - Title given to 1001741
+227 - Gained vassal: c_relay
+227 - Gained vassal: c_wobad
+227 - Gained vassal: c_litota
+227 - Gained vassal: c_devat
+227 - Holder 1001556 - Primary title: d_kitiga has lost the title: d_kitiga
+227 - Title given to 1001556 - Primary title: k_ruatota
+227 - vassal: c_teimama - Holder 1001556 - Primary title: c_teimama has lost the title: c_teimama
+227 - vassal: c_teimama - Title given to 1001556 - Primary title: k_ruatota
+227 - vassal: c_devat - Holder 1001556 - Primary title: c_devat has lost the title: c_devat
+227 - vassal: c_devat - Title given to 1001556 - Primary title: k_ruatota
+227 - vassal: c_litota - Holder 1001556 - Primary title: c_litota has lost the title: c_litota
+227 - vassal: c_litota - Title given to 1001556 - Primary title: k_ruatota
+227 - vassal: c_wobad - Holder 1001556 - Primary title: c_wobad has lost the title: c_wobad
+227 - vassal: c_wobad - Title given to 1001556 - Primary title: k_ruatota
+227 - vassal: c_relay - Holder 1001556 - Primary title: c_relay has lost the title: c_relay
+227 - vassal: c_relay - Title given to 1001556 - Primary title: k_ruatota
+228 - Holder 1003287 - Primary title: d_kitiga has lost the title: d_kitiga
+228 - Title given to 1003287 - Primary title: k_ruatota
+228 - vassal: c_teimama - Holder 1003287 - Primary title: c_teimama has lost the title: c_teimama
+228 - vassal: c_teimama - Title given to 1003287 - Primary title: k_ruatota
+228 - vassal: c_devat - Holder 1003287 - Primary title: c_devat has lost the title: c_devat
+228 - vassal: c_devat - Title given to 1003287 - Primary title: k_ruatota
+228 - vassal: c_litota - Holder 1003287 - Primary title: c_litota has lost the title: c_litota
+228 - vassal: c_litota - Title given to 1003287 - Primary title: k_ruatota
+228 - vassal: c_wobad - Holder 1003287 - Primary title: c_wobad has lost the title: c_wobad
+228 - vassal: c_wobad - Title given to 1003287 - Primary title: k_ruatota
+228 - vassal: c_relay - Holder 1003287 - Primary title: c_relay has lost the title: c_relay
+228 - vassal: c_relay - Title given to 1003287 - Primary title: k_ruatota
+254 - Holder 1004894 - Primary title: d_kitiga has lost the title: d_kitiga
+254 - Title given to 1004894 - Primary title: k_ruatota
+254 - vassal: c_relay - Holder 1004894 - Primary title: c_relay has lost the title: c_relay
+254 - vassal: c_relay - Title given to 1004894 - Primary title: k_ruatota
+254 - vassal: c_wobad - Holder 1004894 - Primary title: c_wobad has lost the title: c_wobad
+254 - vassal: c_wobad - Title given to 1004894 - Primary title: k_ruatota
+254 - vassal: c_litota - Holder 1004894 - Primary title: c_litota has lost the title: c_litota
+254 - vassal: c_litota - Title given to 1004894 - Primary title: k_ruatota
+254 - vassal: c_devat - Holder 1004894 - Primary title: c_devat has lost the title: c_devat
+254 - vassal: c_devat - Title given to 1004894 - Primary title: k_ruatota
+254 - vassal: c_teimama - Holder 1004894 - Primary title: c_teimama has lost the title: c_teimama
+254 - vassal: c_teimama - Title given to 1004894 - Primary title: k_ruatota
+291 - Holder 1005372 - Primary title: d_kitiga has lost the title: d_kitiga
+291 - Title given to 1005372 - Primary title: k_ruatota
+291 - vassal: c_relay - Holder 1005372 - Primary title: c_relay has lost the title: c_relay
+291 - vassal: c_relay - Title given to 1005372 - Primary title: k_ruatota
+291 - vassal: c_wobad - Holder 1005372 - Primary title: c_wobad has lost the title: c_wobad
+291 - vassal: c_wobad - Title given to 1005372 - Primary title: k_ruatota
+291 - vassal: c_litota - Holder 1005372 - Primary title: c_litota has lost the title: c_litota
+291 - vassal: c_litota - Title given to 1005372 - Primary title: k_ruatota
+291 - vassal: c_devat - Holder 1005372 - Primary title: c_devat has lost the title: c_devat
+291 - vassal: c_devat - Title given to 1005372 - Primary title: k_ruatota
+291 - vassal: c_teimama - Holder 1005372 - Primary title: c_teimama has lost the title: c_teimama
+291 - vassal: c_teimama - Title given to 1005372 - Primary title: k_ruatota
+300 - vassal: c_bavid - Holder 1005372 - Primary title: c_bavid has lost the title: c_bavid
+300 - vassal: c_bavid - Title given to 1005372 - Primary title: k_ruatota
+300 - vassal: c_wobad - Title given to 1007615
+302 - Holder 1007497 - Primary title: d_kitiga has lost the title: d_kitiga
+302 - Title given to 1007497 - Primary title: k_ruatota
+302 - vassal: c_bavid - Holder 1007497 - Primary title: c_bavid has lost the title: c_bavid
+302 - vassal: c_bavid - Title given to 1007497 - Primary title: k_ruatota
+302 - vassal: c_teimama - Holder 1007497 - Primary title: c_teimama has lost the title: c_teimama
+302 - vassal: c_teimama - Title given to 1007497 - Primary title: k_ruatota
+302 - vassal: c_devat - Holder 1007497 - Primary title: c_devat has lost the title: c_devat
+302 - vassal: c_devat - Title given to 1007497 - Primary title: k_ruatota
+302 - vassal: c_litota - Holder 1007497 - Primary title: c_litota has lost the title: c_litota
+302 - vassal: c_litota - Title given to 1007497 - Primary title: k_ruatota
+302 - vassal: c_relay - Holder 1007497 - Primary title: c_relay has lost the title: c_relay
+302 - vassal: c_relay - Title given to 1007497 - Primary title: k_ruatota
+362 - Holder 1008531 - Primary title: d_kitiga has lost the title: d_kitiga
+362 - Title given to 1008531 - Primary title: k_ruatota
+362 - vassal: c_relay - Holder 1008531 - Primary title: c_relay has lost the title: c_relay
+362 - vassal: c_relay - Title given to 1008531 - Primary title: k_ruatota
+362 - vassal: c_litota - Holder 1008531 - Primary title: c_litota has lost the title: c_litota
+362 - vassal: c_litota - Title given to 1008531 - Primary title: k_ruatota
+362 - vassal: c_devat - Holder 1008531 - Primary title: c_devat has lost the title: c_devat
+362 - vassal: c_devat - Title given to 1008531 - Primary title: k_ruatota
+362 - vassal: c_teimama - Holder 1008531 - Primary title: c_teimama has lost the title: c_teimama
+362 - vassal: c_teimama - Title given to 1008531 - Primary title: k_ruatota
+362 - vassal: c_bavid - Holder 1008531 - Primary title: c_bavid has lost the title: c_bavid
+362 - vassal: c_bavid - Title given to 1008531 - Primary title: k_ruatota
+368 - Holder 1011098 - Primary title: d_kitiga has lost the title: d_kitiga
+368 - Title given to 1011098 - Primary title: k_ruatota
+368 - vassal: c_relay - Holder 1011098 - Primary title: c_relay has lost the title: c_relay
+368 - vassal: c_relay - Title given to 1011098 - Primary title: k_ruatota
+368 - vassal: c_litota - Holder 1011098 - Primary title: c_litota has lost the title: c_litota
+368 - vassal: c_litota - Title given to 1011098 - Primary title: k_ruatota
+368 - vassal: c_devat - Holder 1011098 - Primary title: c_devat has lost the title: c_devat
+368 - vassal: c_devat - Title given to 1011098 - Primary title: k_ruatota
+368 - vassal: c_teimama - Holder 1011098 - Primary title: c_teimama has lost the title: c_teimama
+368 - vassal: c_teimama - Title given to 1011098 - Primary title: k_ruatota
+368 - vassal: c_bavid - Holder 1011098 - Primary title: c_bavid has lost the title: c_bavid
+368 - vassal: c_bavid - Title given to 1011098 - Primary title: k_ruatota
+375 - Holder 1011541 - Primary title: d_kitiga has lost the title: d_kitiga
+375 - Title given to 1011541 - Primary title: k_ruatota
+375 - vassal: c_relay - Holder 1011541 - Primary title: c_relay has lost the title: c_relay
+375 - vassal: c_relay - Title given to 1011541 - Primary title: k_ruatota
+375 - vassal: c_litota - Holder 1011541 - Primary title: c_litota has lost the title: c_litota
+375 - vassal: c_litota - Title given to 1011541 - Primary title: k_ruatota
+375 - vassal: c_devat - Holder 1011541 - Primary title: c_devat has lost the title: c_devat
+375 - vassal: c_devat - Title given to 1011541 - Primary title: k_ruatota
+375 - vassal: c_teimama - Holder 1011541 - Primary title: c_teimama has lost the title: c_teimama
+375 - vassal: c_teimama - Title given to 1011541 - Primary title: k_ruatota
+375 - vassal: c_bavid - Holder 1011541 - Primary title: c_bavid has lost the title: c_bavid
+375 - vassal: c_bavid - Title given to 1011541 - Primary title: k_ruatota
+379 - Setting independent in Validate Realm
+379 - Made independent
+380 - Gained vassal: c_safoshel
+380 - vassal: c_safoshel - Given to neighbour holder of d_kitiga
+380 - sub vassal: c_safoshel - Given to neighbour holder of d_kitiga
+380 - vassal: c_safoshel - Holder 1011541 - Primary title: c_safoshel has lost the title: c_safoshel
+380 - sub vassal: c_safoshel - Holder 1011541 - Primary title: c_safoshel has lost the title: c_safoshel
+380 - vassal: c_safoshel - Title given to 1011541 - Primary title: d_kitiga
+380 - sub vassal: c_safoshel - Title given to 1011541 - Primary title: d_kitiga
+380 - Holder (1011541) has gained c_safoshel
+381 - Holder (1011541) has gained k_ruatota
+381 - Set liege on title creation k_ruatota
+381 - vassal: c_bavid - Set liege on title creation k_ruatota
+381 - Lost vassal: c_bavid
+381 - vassal: c_teimama - Set liege on title creation k_ruatota
+381 - Lost vassal: c_teimama
+381 - vassal: c_devat - Set liege on title creation k_ruatota
+381 - Lost vassal: c_devat
+381 - vassal: c_litota - Set liege on title creation k_ruatota
+381 - Lost vassal: c_litota
+381 - vassal: c_relay - Set liege on title creation k_ruatota
+381 - Lost vassal: c_relay
+381 - vassal: c_safoshel - Set liege on title creation k_ruatota
+381 - Lost vassal: c_safoshel
+385 - Holder 1011897 - Primary title: d_kitiga has lost the title: d_kitiga
+385 - Title given to 1011897 - Primary title: k_ruatota

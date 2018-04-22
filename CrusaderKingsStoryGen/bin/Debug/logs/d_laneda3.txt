@@ -1,0 +1,94 @@
+200 - Title given to 1000933
+200 - vassal: c_alaleja - Holder 1000933 - Primary title: c_alaleja has lost the title: c_alaleja
+200 - sub vassal: c_alaleja - Holder 1000933 - Primary title: c_alaleja has lost the title: c_alaleja
+200 - vassal: c_alaleja - Title given to 1000933 - Primary title: d_laneda
+200 - sub vassal: c_alaleja - Title given to 1000933 - Primary title: d_laneda
+200 - Holder (1000933) has gained c_alaleja
+200 - vassal: c_tutana - Holder 1000933 - Primary title: c_tutana has lost the title: c_tutana
+200 - sub vassal: c_tutana - Holder 1000933 - Primary title: c_tutana has lost the title: c_tutana
+200 - vassal: c_tutana - Title given to 1000933 - Primary title: d_laneda
+200 - sub vassal: c_tutana - Title given to 1000933 - Primary title: d_laneda
+200 - Holder (1000933) has gained c_tutana
+200 - vassal: c_rimunla - Holder 1000933 - Primary title: c_rimunla has lost the title: c_rimunla
+200 - sub vassal: c_rimunla - Holder 1000933 - Primary title: c_rimunla has lost the title: c_rimunla
+200 - vassal: c_rimunla - Title given to 1000933 - Primary title: d_laneda
+200 - sub vassal: c_rimunla - Title given to 1000933 - Primary title: d_laneda
+200 - Holder (1000933) has gained c_rimunla
+205 - Holder (1000933) has gained k_selyaina
+217 - vassal: c_alaleja - Given to 1002563 in HandleTitles - Too many duke titles
+217 - vassal: c_alaleja - Title given to 1002563
+217 - Title given to 1002563 - Primary title: c_alaleja
+217 - vassal: c_alaleja - Holder (1002563) has gained d_laneda
+217 - vassal: c_rimunla - Setting to vassal of k_selyaina in Validate Realm
+217 - Lost vassal: c_rimunla
+217 - vassal: c_tutana - Setting to vassal of k_selyaina in Validate Realm
+217 - Lost vassal: c_tutana
+217 - Too many dukes, given to dejure: k_selyaina
+236 - Holder 1003005 - Primary title: d_laneda has lost the title: d_laneda
+236 - Title given to 1003005
+236 - vassal: c_alaleja - Holder 1003005 - Primary title: c_alaleja has lost the title: c_alaleja
+236 - vassal: c_alaleja - Title given to 1003005 - Primary title: d_laneda
+236 - Holder (1003005) has gained c_alaleja
+244 - Holder 1001527 - Primary title: d_laneda has lost the title: d_laneda
+244 - Title given to 1001527 - Primary title: k_selyaina
+244 - vassal: c_alaleja - Holder 1001527 - Primary title: c_alaleja has lost the title: c_alaleja
+244 - vassal: c_alaleja - Title given to 1001527 - Primary title: k_selyaina
+262 - Gained vassal: c_tutana
+262 - Gained vassal: c_tudako
+262 - Gained vassal: c_numahai
+262 - Gained vassal: c_ekumelka
+262 - Holder 1005107 - Primary title: d_laneda has lost the title: d_laneda
+262 - Title given to 1005107 - Primary title: k_selyaina
+262 - vassal: c_alaleja - Holder 1005107 - Primary title: c_alaleja has lost the title: c_alaleja
+262 - vassal: c_alaleja - Title given to 1005107 - Primary title: k_selyaina
+262 - vassal: c_ekumelka - Holder 1005107 - Primary title: c_ekumelka has lost the title: c_ekumelka
+262 - vassal: c_ekumelka - Title given to 1005107 - Primary title: k_selyaina
+262 - vassal: c_numahai - Holder 1005107 - Primary title: c_numahai has lost the title: c_numahai
+262 - vassal: c_numahai - Title given to 1005107 - Primary title: k_selyaina
+262 - vassal: c_tudako - Holder 1005107 - Primary title: c_tudako has lost the title: c_tudako
+262 - vassal: c_tudako - Title given to 1005107 - Primary title: k_selyaina
+262 - vassal: c_tutana - Holder 1005107 - Primary title: c_tutana has lost the title: c_tutana
+262 - vassal: c_tutana - Title given to 1005107 - Primary title: k_selyaina
+289 - Holder 1005447 - Primary title: d_laneda has lost the title: d_laneda
+289 - Title given to 1005447 - Primary title: d_taleda
+289 - vassal: c_tutana - Holder 1005447 - Primary title: c_tutana has lost the title: c_tutana
+289 - vassal: c_tutana - Title given to 1005447 - Primary title: d_taleda
+289 - vassal: c_tudako - Holder 1005447 - Primary title: c_tudako has lost the title: c_tudako
+289 - vassal: c_tudako - Title given to 1005447 - Primary title: d_taleda
+289 - vassal: c_numahai - Holder 1005447 - Primary title: c_numahai has lost the title: c_numahai
+289 - vassal: c_numahai - Title given to 1005447 - Primary title: d_taleda
+289 - vassal: c_ekumelka - Holder 1005447 - Primary title: c_ekumelka has lost the title: c_ekumelka
+289 - vassal: c_ekumelka - Title given to 1005447 - Primary title: d_taleda
+289 - vassal: c_alaleja - Holder 1005447 - Primary title: c_alaleja has lost the title: c_alaleja
+289 - vassal: c_alaleja - Title given to 1005447 - Primary title: d_taleda
+318 - vassal: c_alaleja - Given to 1007979 in HandleTitles - Too many duke titles
+318 - vassal: c_alaleja - Title given to 1007979
+318 - Title given to 1006029 - Primary title: k_wuerna
+318 - vassal: c_ekumelka - Setting to vassal of d_kitar in Validate Realm
+318 - Lost vassal: c_ekumelka
+318 - vassal: c_numahai - Setting to vassal of d_kitar in Validate Realm
+318 - Lost vassal: c_numahai
+318 - vassal: c_tudako - Setting to vassal of d_kitar in Validate Realm
+318 - Lost vassal: c_tudako
+318 - vassal: c_tutana - Setting to vassal of d_kitar in Validate Realm
+318 - Lost vassal: c_tutana
+318 - Too many dukes, made direct title into vassal of k_selyaina
+318 - Title given to 1007980
+366 - Holder 1009454 - Primary title: d_laneda has lost the title: d_laneda
+366 - Title given to 1009454 - Primary title: k_selyaina
+366 - vassal: c_alaleja - Given to 1010363 in HandleTitles - Too many duke titles
+366 - vassal: c_alaleja - Holder 1010363 - Primary title: c_alaleja has lost the title: c_alaleja
+366 - vassal: c_alaleja - Title given to 1010363
+366 - Title given to 1010363 - Primary title: c_alaleja
+366 - vassal: c_alaleja - Holder (1010363) has gained d_laneda
+366 - Too many dukes, given to dejure: k_selyaina
+379 - Holder 1010406 - Primary title: d_laneda has lost the title: d_laneda
+379 - Title given to 1010406
+379 - vassal: c_alaleja - Holder 1010406 - Primary title: c_alaleja has lost the title: c_alaleja
+379 - vassal: c_alaleja - Title given to 1010406 - Primary title: d_laneda
+379 - Holder (1010406) has gained c_alaleja
+397 - Holder 1011300 - Primary title: d_laneda has lost the title: d_laneda
+397 - Title given to 1011300
+397 - vassal: c_alaleja - Holder 1011300 - Primary title: c_alaleja has lost the title: c_alaleja
+397 - vassal: c_alaleja - Title given to 1011300 - Primary title: d_laneda
+397 - Holder (1011300) has gained c_alaleja

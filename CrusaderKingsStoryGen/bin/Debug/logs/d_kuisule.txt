@@ -1,0 +1,27 @@
+200 - Title given to 1000380
+200 - vassal: c_neoradr - Given to 1000383 via AddCharacterForTitle
+200 - sub vassal: c_neoradr - Given to 1000383 via AddCharacterForTitle
+200 - vassal: c_neoradr - Holder 1000383 - Primary title: c_neoradr has lost the title: c_neoradr
+200 - sub vassal: c_neoradr - Holder 1000383 - Primary title: c_neoradr has lost the title: c_neoradr
+200 - vassal: c_neoradr - Title given to 1000383
+200 - sub vassal: c_neoradr - Title given to 1000383
+200 - vassal: c_railoura - Holder 1000380 - Primary title: c_railoura has lost the title: c_railoura
+200 - sub vassal: c_railoura - Holder 1000380 - Primary title: c_railoura has lost the title: c_railoura
+200 - vassal: c_railoura - Title given to 1000380 - Primary title: d_kuisule
+200 - sub vassal: c_railoura - Title given to 1000380 - Primary title: d_kuisule
+200 - Holder (1000380) has gained c_railoura
+200 - vassal: c_neoradr - Holder 1000380 - Primary title: c_neoradr has lost the title: c_neoradr
+200 - sub vassal: c_neoradr - Holder 1000380 - Primary title: c_neoradr has lost the title: c_neoradr
+200 - vassal: c_neoradr - Title given to 1000380 - Primary title: d_kuisule
+200 - sub vassal: c_neoradr - Title given to 1000380 - Primary title: d_kuisule
+200 - Holder (1000380) has gained c_neoradr
+211 - Holder (1000380) has gained k_lailuo
+246 - Holder 1002245 - Primary title: d_kuisule has lost the title: d_kuisule
+246 - Title given to 1002245 - Primary title: k_lailuo
+246 - vassal: c_neoradr - Setting to vassal of d_riyu in Validate Realm
+246 - Lost vassal: c_neoradr
+246 - vassal: c_railoura - Setting to vassal of d_riyu in Validate Realm
+246 - Lost vassal: c_railoura
+247 - Destroyed due to flagged problem
+247 - Made independent
+247 - Title destroyed

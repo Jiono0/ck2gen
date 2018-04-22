@@ -1,0 +1,47 @@
+200 - Title given to 1000480
+200 - vassal: c_sureran - Holder 1000476 - Primary title: c_sureran has lost the title: c_qabine
+200 - sub vassal: c_sureran - Holder 1000476 - Primary title: c_sureran has lost the title: c_qabine
+200 - sub vassal: c_qabine - Title given to 1000476 - Primary title: d_tulyla
+200 - vassal: c_namukp - Holder 1000480 - Primary title: c_namukp has lost the title: c_namukp
+200 - sub vassal: c_namukp - Holder 1000480 - Primary title: c_namukp has lost the title: c_namukp
+200 - vassal: c_namukp - Title given to 1000480 - Primary title: d_kurohn
+200 - sub vassal: c_namukp - Title given to 1000480 - Primary title: d_kurohn
+200 - Holder (1000480) has gained c_namukp
+200 - vassal: c_woheran - Holder 1000480 - Primary title: c_woheran has lost the title: c_woheran
+200 - sub vassal: c_woheran - Holder 1000480 - Primary title: c_woheran has lost the title: c_woheran
+200 - vassal: c_woheran - Title given to 1000480 - Primary title: d_kurohn
+200 - sub vassal: c_woheran - Title given to 1000480 - Primary title: d_kurohn
+200 - Holder (1000480) has gained c_woheran
+200 - vassal: c_burohn - Holder 1000480 - Primary title: c_burohn has lost the title: c_burohn
+200 - sub vassal: c_burohn - Holder 1000480 - Primary title: c_burohn has lost the title: c_burohn
+200 - vassal: c_burohn - Title given to 1000480 - Primary title: d_kurohn
+200 - sub vassal: c_burohn - Title given to 1000480 - Primary title: d_kurohn
+200 - Holder (1000480) has gained c_burohn
+200 - vassal: c_sureran - Holder 1000480 - Primary title: c_sureran has lost the title: c_sureran
+200 - sub vassal: c_sureran - Holder 1000480 - Primary title: c_sureran has lost the title: c_sureran
+200 - vassal: c_sureran - Title given to 1000480 - Primary title: d_kurohn
+200 - sub vassal: c_sureran - Title given to 1000480 - Primary title: d_kurohn
+200 - Holder (1000480) has gained c_sureran
+201 - Holder 1001031 - Primary title: d_kurohn has lost the title: d_kurohn
+201 - Title given to 1001031 - Primary title: k_koumba
+201 - vassal: c_sureran - Holder 1001031 - Primary title: c_sureran has lost the title: c_sureran
+201 - vassal: c_sureran - Title given to 1001031 - Primary title: k_koumba
+201 - vassal: c_burohn - Holder 1001031 - Primary title: c_burohn has lost the title: c_burohn
+201 - vassal: c_burohn - Title given to 1001031 - Primary title: k_koumba
+201 - vassal: c_woheran - Holder 1001031 - Primary title: c_woheran has lost the title: c_woheran
+201 - vassal: c_woheran - Title given to 1001031 - Primary title: k_koumba
+201 - vassal: c_namukp - Holder 1001031 - Primary title: c_namukp has lost the title: c_namukp
+201 - vassal: c_namukp - Title given to 1001031 - Primary title: k_koumba
+221 - Holder 1001398 - Primary title: d_kurohn has lost the title: d_kurohn
+221 - Title given to 1001398 - Primary title: k_koumba
+221 - vassal: c_namukp - Setting to vassal of d_sadyla in Validate Realm
+221 - Lost vassal: c_namukp
+221 - vassal: c_woheran - Setting to vassal of d_sadyla in Validate Realm
+221 - Lost vassal: c_woheran
+221 - vassal: c_burohn - Setting to vassal of d_sadyla in Validate Realm
+221 - Lost vassal: c_burohn
+221 - vassal: c_sureran - Setting to vassal of d_sadyla in Validate Realm
+221 - Lost vassal: c_sureran
+222 - Destroyed due to flagged problem
+222 - Made independent
+222 - Title destroyed

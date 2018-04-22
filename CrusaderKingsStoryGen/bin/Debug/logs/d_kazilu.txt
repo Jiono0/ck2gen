@@ -1,0 +1,92 @@
+200 - Title given to 1000301
+200 - vassal: c_asravati - Given to 1000304 via AddCharacterForTitle
+200 - sub vassal: c_asravati - Given to 1000304 via AddCharacterForTitle
+200 - vassal: c_asravati - Holder 1000304 - Primary title: c_asravati has lost the title: c_asravati
+200 - sub vassal: c_asravati - Holder 1000304 - Primary title: c_asravati has lost the title: c_asravati
+200 - vassal: c_asravati - Title given to 1000304
+200 - sub vassal: c_asravati - Title given to 1000304
+200 - vassal: c_tunilu - Holder 1000301 - Primary title: c_tunilu has lost the title: c_tunilu
+200 - sub vassal: c_tunilu - Holder 1000301 - Primary title: c_tunilu has lost the title: c_tunilu
+200 - vassal: c_tunilu - Title given to 1000301 - Primary title: d_kazilu
+200 - sub vassal: c_tunilu - Title given to 1000301 - Primary title: d_kazilu
+200 - Holder (1000301) has gained c_tunilu
+200 - vassal: c_asravati - Holder 1000301 - Primary title: c_asravati has lost the title: c_asravati
+200 - sub vassal: c_asravati - Holder 1000301 - Primary title: c_asravati has lost the title: c_asravati
+200 - vassal: c_asravati - Title given to 1000301 - Primary title: d_kazilu
+200 - sub vassal: c_asravati - Title given to 1000301 - Primary title: d_kazilu
+200 - Holder (1000301) has gained c_asravati
+223 - Holder 1002032 - Primary title: d_kazilu has lost the title: d_kazilu
+223 - Title given to 1002032
+223 - vassal: c_tunilu - Holder 1002032 - Primary title: c_tunilu has lost the title: c_tunilu
+223 - vassal: c_tunilu - Title given to 1002032 - Primary title: d_kazilu
+223 - Holder (1002032) has gained c_tunilu
+223 - vassal: c_asravati - Holder 1002032 - Primary title: c_asravati has lost the title: c_asravati
+223 - vassal: c_asravati - Title given to 1002032 - Primary title: d_kazilu
+223 - Holder (1002032) has gained c_asravati
+243 - Holder (1002032) has gained k_wofie
+245 - vassal: c_tunilu - Title given to 1004325
+245 - vassal: c_asravati - Title given to 1002242
+248 - vassal: c_tunilu - Given to 1004527 in HandleTitles - Too many duke titles
+248 - vassal: c_tunilu - Holder 1004527 - Primary title: c_tunilu has lost the title: c_tunilu
+248 - vassal: c_tunilu - Title given to 1004527
+248 - Title given to 1004527 - Primary title: c_tunilu
+248 - vassal: c_tunilu - Holder (1004527) has gained d_kazilu
+248 - Too many dukes, given to dejure: k_wofie
+294 - Holder 1004576 - Primary title: d_kazilu has lost the title: d_kazilu
+294 - Title given to 1004576
+294 - vassal: c_tunilu - Holder 1004576 - Primary title: c_tunilu has lost the title: c_tunilu
+294 - vassal: c_tunilu - Title given to 1004576 - Primary title: d_kazilu
+294 - Holder (1004576) has gained c_tunilu
+296 - Holder 1005447 - Primary title: d_kazilu has lost the title: d_kazilu
+296 - Title given to 1005447 - Primary title: k_wofie
+296 - vassal: c_tunilu - Holder 1005447 - Primary title: c_tunilu has lost the title: c_tunilu
+296 - vassal: c_tunilu - Title given to 1005447 - Primary title: k_wofie
+296 - vassal: c_tunilu - Title given to 1005514
+297 - Gained vassal: c_tierg
+297 - Holder 1006518 - Primary title: d_kazilu has lost the title: c_tierg
+297 - vassal: c_tierg - Title given to 1006518 - Primary title: k_wofie
+297 - vassal: c_tierg - Setting to vassal of k_wofie in Validate Realm
+297 - Lost vassal: c_tierg
+297 - Holder 1006518 - Primary title: d_kazilu has lost the title: d_kazilu
+297 - Title given to 1006518 - Primary title: k_wofie
+316 - Holder 1007823 - Primary title: d_kazilu has lost the title: d_kazilu
+316 - Title given to 1007823 - Primary title: k_wofie
+318 - Gained vassal: c_tierg
+318 - Holder 1004326 - Primary title: d_kazilu has lost the title: d_kazilu
+318 - Title given to 1004326 - Primary title: k_wofie
+318 - vassal: c_tierg - Setting to vassal of d_qyo in Validate Realm
+318 - Lost vassal: c_tierg
+329 - Holder 1008765 - Primary title: d_kazilu has lost the title: d_kazilu
+329 - Title given to 1008765 - Primary title: k_wofie
+337 - Holder 1009613 - Primary title: d_kazilu has lost the title: d_kazilu
+337 - Title given to 1009613 - Primary title: k_wofie
+372 - Gained vassal: c_apakimha
+372 - Gained vassal: c_lenes
+372 - Gained vassal: c_sazay
+372 - Gained vassal: c_sisay
+372 - Holder 1009958 - Primary title: d_kazilu has lost the title: d_kazilu
+372 - Title given to 1009958 - Primary title: k_wofie
+372 - vassal: c_sisay - Holder 1009958 - Primary title: c_sisay has lost the title: c_sisay
+372 - vassal: c_sisay - Title given to 1009958 - Primary title: k_wofie
+372 - vassal: c_sazay - Holder 1009958 - Primary title: c_sazay has lost the title: c_sazay
+372 - vassal: c_sazay - Title given to 1009958 - Primary title: k_wofie
+372 - vassal: c_lenes - Holder 1009958 - Primary title: c_lenes has lost the title: c_lenes
+372 - vassal: c_lenes - Title given to 1009958 - Primary title: k_wofie
+372 - vassal: c_apakimha - Holder 1009958 - Primary title: c_apakimha has lost the title: c_apakimha
+372 - vassal: c_apakimha - Title given to 1009958 - Primary title: k_wofie
+395 - Holder (1009958) has gained d_qunyata
+395 - vassal: c_apakimha - Set liege on title creation d_qunyata
+395 - Lost vassal: c_apakimha
+395 - vassal: c_lenes - Set liege on title creation d_qunyata
+395 - Lost vassal: c_lenes
+395 - vassal: c_sazay - Set liege on title creation d_qunyata
+395 - Lost vassal: c_sazay
+395 - vassal: c_sisay - Set liege on title creation d_qunyata
+395 - Lost vassal: c_sisay
+395 - Holder 1011995 - Primary title: d_kazilu has lost the title: d_kazilu
+395 - Title given to 1011995
+395 - Holder (1011995) has gained d_qunyata
+398 - Holder (1011995) has gained c_apakimha
+398 - Holder (1011995) has gained c_lenes
+398 - Holder (1011995) has gained c_sazay
+398 - Holder (1011995) has gained c_sisay

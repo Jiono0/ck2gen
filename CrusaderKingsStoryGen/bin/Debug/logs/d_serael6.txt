@@ -1,0 +1,58 @@
+200 - Title given to 1000645
+200 - vassal: c_saraday - Given to 1000649 via AddCharacterForTitle
+200 - sub vassal: c_saraday - Given to 1000649 via AddCharacterForTitle
+200 - vassal: c_saraday - Holder 1000649 - Primary title: c_saraday has lost the title: c_saraday
+200 - sub vassal: c_saraday - Holder 1000649 - Primary title: c_saraday has lost the title: c_saraday
+200 - vassal: c_saraday - Title given to 1000649
+200 - sub vassal: c_saraday - Title given to 1000649
+200 - vassal: c_kerente - Holder 1000645 - Primary title: c_kerente has lost the title: c_kerente
+200 - sub vassal: c_kerente - Holder 1000645 - Primary title: c_kerente has lost the title: c_kerente
+200 - vassal: c_kerente - Title given to 1000645 - Primary title: d_serael
+200 - sub vassal: c_kerente - Title given to 1000645 - Primary title: d_serael
+200 - Holder (1000645) has gained c_kerente
+200 - vassal: c_nabyas - Holder 1000645 - Primary title: c_nabyas has lost the title: c_nabyas
+200 - sub vassal: c_nabyas - Holder 1000645 - Primary title: c_nabyas has lost the title: c_nabyas
+200 - vassal: c_nabyas - Title given to 1000645 - Primary title: d_serael
+200 - sub vassal: c_nabyas - Title given to 1000645 - Primary title: d_serael
+200 - Holder (1000645) has gained c_nabyas
+200 - vassal: c_saraday - Holder 1000645 - Primary title: c_saraday has lost the title: c_saraday
+200 - sub vassal: c_saraday - Holder 1000645 - Primary title: c_saraday has lost the title: c_saraday
+200 - vassal: c_saraday - Title given to 1000645 - Primary title: d_serael
+200 - sub vassal: c_saraday - Title given to 1000645 - Primary title: d_serael
+200 - Holder (1000645) has gained c_saraday
+200 - Made vassal of neighbour (k_niel) due to being a seperate island
+200 - Given to neighbour holder of k_niel
+200 - Holder 1001049 - Primary title: d_serael has lost the title: d_serael
+200 - Title given to 1001049 - Primary title: k_niel
+203 - Gained vassal: c_wirinda
+203 - Gained vassal: c_lerana
+203 - Holder 1001706 - Primary title: d_serael has lost the title: d_serael
+203 - Title given to 1001706 - Primary title: k_niel
+203 - vassal: c_lerana - Holder 1001706 - Primary title: c_lerana has lost the title: c_lerana
+203 - vassal: c_lerana - Title given to 1001706 - Primary title: k_niel
+203 - vassal: c_wirinda - Holder 1001706 - Primary title: c_wirinda has lost the title: c_wirinda
+203 - vassal: c_wirinda - Title given to 1001706 - Primary title: k_niel
+214 - Holder 1002190 - Primary title: d_serael has lost the title: d_serael
+214 - Title given to 1002190 - Primary title: k_niel
+214 - vassal: c_lerana - Holder 1002190 - Primary title: c_lerana has lost the title: c_lerana
+214 - vassal: c_lerana - Title given to 1002190 - Primary title: k_niel
+214 - vassal: c_wirinda - Holder 1002190 - Primary title: c_wirinda has lost the title: c_wirinda
+214 - vassal: c_wirinda - Title given to 1002190 - Primary title: k_niel
+234 - Holder 1003350 - Primary title: d_serael has lost the title: d_serael
+234 - Title given to 1003350 - Primary title: k_niel
+234 - vassal: c_wirinda - Holder 1003350 - Primary title: c_wirinda has lost the title: c_wirinda
+234 - vassal: c_wirinda - Title given to 1003350 - Primary title: k_niel
+234 - vassal: c_lerana - Holder 1003350 - Primary title: c_lerana has lost the title: c_lerana
+234 - vassal: c_lerana - Title given to 1003350 - Primary title: k_niel
+240 - Holder 1003890 - Primary title: d_serael has lost the title: d_serael
+240 - Title given to 1003890 - Primary title: k_niel
+240 - vassal: c_lerana - Holder 1003890 - Primary title: c_lerana has lost the title: c_lerana
+240 - vassal: c_lerana - Title given to 1003890 - Primary title: k_niel
+240 - vassal: c_wirinda - Holder 1003890 - Primary title: c_wirinda has lost the title: c_wirinda
+240 - vassal: c_wirinda - Title given to 1003890 - Primary title: k_niel
+254 - Holder 1004585 - Primary title: d_serael has lost the title: d_serael
+254 - Title given to 1004585 - Primary title: k_niel
+254 - vassal: c_lerana - Holder 1004585 - Primary title: c_lerana has lost the title: c_lerana
+254 - vassal: c_lerana - Title given to 1004585 - Primary title: k_niel
+254 - vassal: c_wirinda - Holder 1004585 - Primary title: c_wirinda has lost the title: c_wirinda
+254 - vassal: c_wirinda - Title given to 1004585 - Primary title: k_niel

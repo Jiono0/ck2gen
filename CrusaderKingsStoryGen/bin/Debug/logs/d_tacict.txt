@@ -1,0 +1,80 @@
+200 - Title given to 1000360
+200 - vassal: c_qouzsi - Given to 1000363 via AddCharacterForTitle
+200 - sub vassal: c_qouzsi - Given to 1000363 via AddCharacterForTitle
+200 - vassal: c_qouzsi - Holder 1000363 - Primary title: c_qouzsi has lost the title: c_qouzsi
+200 - sub vassal: c_qouzsi - Holder 1000363 - Primary title: c_qouzsi has lost the title: c_qouzsi
+200 - vassal: c_qouzsi - Title given to 1000363
+200 - sub vassal: c_qouzsi - Title given to 1000363
+200 - vassal: c_ruhka - Holder 1000360 - Primary title: c_ruhka has lost the title: c_ruhka
+200 - sub vassal: c_ruhka - Holder 1000360 - Primary title: c_ruhka has lost the title: c_ruhka
+200 - vassal: c_ruhka - Title given to 1000360 - Primary title: d_tacict
+200 - sub vassal: c_ruhka - Title given to 1000360 - Primary title: d_tacict
+200 - Holder (1000360) has gained c_ruhka
+200 - vassal: c_qouzsi - Holder 1000360 - Primary title: c_qouzsi has lost the title: c_qouzsi
+200 - sub vassal: c_qouzsi - Holder 1000360 - Primary title: c_qouzsi has lost the title: c_qouzsi
+200 - vassal: c_qouzsi - Title given to 1000360 - Primary title: d_tacict
+200 - sub vassal: c_qouzsi - Title given to 1000360 - Primary title: d_tacict
+200 - Holder (1000360) has gained c_qouzsi
+200 - vassal: c_qaev - Holder 1000360 - Primary title: c_qaev has lost the title: c_qaev
+200 - sub vassal: c_qaev - Holder 1000360 - Primary title: c_qaev has lost the title: c_qaev
+200 - vassal: c_qaev - Title given to 1000360 - Primary title: d_tacict
+200 - sub vassal: c_qaev - Title given to 1000360 - Primary title: d_tacict
+200 - Holder (1000360) has gained c_qaev
+222 - Holder 1002176 - Primary title: d_tacict has lost the title: d_tacict
+222 - Title given to 1002176
+222 - vassal: c_ruhka - Holder 1002176 - Primary title: c_ruhka has lost the title: c_ruhka
+222 - vassal: c_ruhka - Title given to 1002176 - Primary title: d_tacict
+222 - Holder (1002176) has gained c_ruhka
+222 - vassal: c_qouzsi - Holder 1002176 - Primary title: c_qouzsi has lost the title: c_qouzsi
+222 - vassal: c_qouzsi - Title given to 1002176 - Primary title: d_tacict
+222 - Holder (1002176) has gained c_qouzsi
+222 - vassal: c_qaev - Holder 1002176 - Primary title: c_qaev has lost the title: c_qaev
+222 - vassal: c_qaev - Title given to 1002176 - Primary title: d_tacict
+222 - Holder (1002176) has gained c_qaev
+262 - Holder 1003469 - Primary title: d_tacict has lost the title: d_tacict
+262 - Title given to 1003469
+262 - vassal: c_ruhka - Holder 1003469 - Primary title: c_ruhka has lost the title: c_ruhka
+262 - vassal: c_ruhka - Title given to 1003469 - Primary title: d_tacict
+262 - Holder (1003469) has gained c_ruhka
+262 - vassal: c_qouzsi - Holder 1003469 - Primary title: c_qouzsi has lost the title: c_qouzsi
+262 - vassal: c_qouzsi - Title given to 1003469 - Primary title: d_tacict
+262 - Holder (1003469) has gained c_qouzsi
+262 - vassal: c_qaev - Holder 1003469 - Primary title: c_qaev has lost the title: c_qaev
+262 - vassal: c_qaev - Title given to 1003469 - Primary title: d_tacict
+262 - Holder (1003469) has gained c_qaev
+297 - Holder 1005811 - Primary title: d_tacict has lost the title: d_tacict
+297 - Title given to 1005811
+297 - vassal: c_qaev - Holder 1005811 - Primary title: c_qaev has lost the title: c_qaev
+297 - vassal: c_qaev - Title given to 1005811 - Primary title: d_tacict
+297 - Holder (1005811) has gained c_qaev
+297 - vassal: c_qouzsi - Holder 1005811 - Primary title: c_qouzsi has lost the title: c_qouzsi
+297 - vassal: c_qouzsi - Title given to 1005811 - Primary title: d_tacict
+297 - Holder (1005811) has gained c_qouzsi
+297 - vassal: c_ruhka - Holder 1005811 - Primary title: c_ruhka has lost the title: c_ruhka
+297 - vassal: c_ruhka - Title given to 1005811 - Primary title: d_tacict
+297 - Holder (1005811) has gained c_ruhka
+298 - Holder 1004370 - Primary title: d_tacict has lost the title: d_tacict
+298 - Title given to 1004370 - Primary title: d_kewimha
+298 - vassal: c_qaev - Holder 1004370 - Primary title: c_qaev has lost the title: c_qaev
+298 - vassal: c_qaev - Title given to 1004370 - Primary title: d_kewimha
+298 - vassal: c_qouzsi - Holder 1004370 - Primary title: c_qouzsi has lost the title: c_qouzsi
+298 - vassal: c_qouzsi - Title given to 1004370 - Primary title: d_kewimha
+298 - vassal: c_ruhka - Holder 1004370 - Primary title: c_ruhka has lost the title: c_ruhka
+298 - vassal: c_ruhka - Title given to 1004370 - Primary title: d_kewimha
+300 - Holder 1005671 - Primary title: d_tacict has lost the title: d_tacict
+300 - Title given to 1005671
+300 - vassal: c_ruhka - Setting to vassal of d_kewimha in Validate Realm
+300 - Lost vassal: c_ruhka
+300 - vassal: c_qouzsi - Setting to vassal of d_kewimha in Validate Realm
+300 - Lost vassal: c_qouzsi
+300 - vassal: c_qaev - Setting to vassal of d_kewimha in Validate Realm
+300 - Lost vassal: c_qaev
+300 - Holder (1005671) has gained d_kewimha
+300 - Holder (1005671) has gained c_ruhka
+300 - Holder (1005671) has gained c_qouzsi
+300 - Holder (1005671) has gained c_qaev
+300 - Holder (1005671) has gained c_ruta
+300 - Holder (1005671) has gained c_qisay
+301 - Destroyed due to flagged problem
+301 - Made independent
+301 - Title destroyed

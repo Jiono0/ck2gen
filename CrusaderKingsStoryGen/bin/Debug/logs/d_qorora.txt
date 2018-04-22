@@ -1,0 +1,103 @@
+200 - Title given to 1000602
+200 - vassal: c_barenia - Holder 1000602 - Primary title: c_barenia has lost the title: c_barenia
+200 - sub vassal: c_barenia - Holder 1000602 - Primary title: c_barenia has lost the title: c_barenia
+200 - vassal: c_barenia - Title given to 1000602 - Primary title: d_qorora
+200 - sub vassal: c_barenia - Title given to 1000602 - Primary title: d_qorora
+200 - Holder (1000602) has gained c_barenia
+200 - vassal: c_torurga - Holder 1000602 - Primary title: c_torurga has lost the title: c_torurga
+200 - sub vassal: c_torurga - Holder 1000602 - Primary title: c_torurga has lost the title: c_torurga
+200 - vassal: c_torurga - Title given to 1000602 - Primary title: d_qorora
+200 - sub vassal: c_torurga - Title given to 1000602 - Primary title: d_qorora
+200 - Holder (1000602) has gained c_torurga
+200 - vassal: c_efarega - Holder 1000602 - Primary title: c_efarega has lost the title: c_sevael
+200 - sub vassal: c_efarega - Holder 1000602 - Primary title: c_efarega has lost the title: c_sevael
+200 - vassal: c_sevael - Title given to 1000602 - Primary title: d_qorora
+200 - sub vassal: c_sevael - Title given to 1000602 - Primary title: d_qorora
+200 - Holder (1000602) has gained c_sevael
+200 - vassal: c_efarega - Holder 1000602 - Primary title: c_efarega has lost the title: c_efarega
+200 - sub vassal: c_efarega - Holder 1000602 - Primary title: c_efarega has lost the title: c_efarega
+200 - vassal: c_efarega - Title given to 1000602 - Primary title: d_qorora
+200 - sub vassal: c_efarega - Title given to 1000602 - Primary title: d_qorora
+200 - Holder (1000602) has gained c_efarega
+200 - Holder 1001056 - Primary title: d_qorora has lost the title: d_qorora
+200 - Title given to 1001056 - Primary title: k_kadew
+200 - vassal: c_barenia - Holder 1001056 - Primary title: c_barenia has lost the title: c_barenia
+200 - vassal: c_barenia - Title given to 1001056 - Primary title: k_kadew
+200 - vassal: c_barenia - Given to 1001419 in HandleTitles - Too many duke titles
+200 - vassal: c_barenia - Title given to 1001419
+200 - Title given to 1001419 - Primary title: c_barenia
+200 - vassal: c_barenia - Holder (1001419) has gained d_qorora
+200 - Too many dukes, given to dejure: k_kadew
+228 - Holder 1001715 - Primary title: d_qorora has lost the title: d_qorora
+228 - Title given to 1001715
+228 - vassal: c_barenia - Holder 1001715 - Primary title: c_barenia has lost the title: c_barenia
+228 - vassal: c_barenia - Title given to 1001715 - Primary title: d_qorora
+228 - Holder (1001715) has gained c_barenia
+268 - Holder 1005763 - Primary title: d_qorora has lost the title: d_qorora
+268 - Title given to 1005763
+268 - vassal: c_barenia - Holder 1005763 - Primary title: c_barenia has lost the title: c_barenia
+268 - vassal: c_barenia - Title given to 1005763 - Primary title: d_qorora
+268 - Holder (1005763) has gained c_barenia
+272 - Holder 1002758 - Primary title: d_qorora has lost the title: d_qorora
+272 - Title given to 1002758 - Primary title: k_kadew
+272 - vassal: c_barenia - Holder 1002758 - Primary title: c_barenia has lost the title: c_barenia
+272 - vassal: c_barenia - Title given to 1002758 - Primary title: k_kadew
+274 - Gained vassal: c_denew
+274 - Gained vassal: c_katurga
+274 - Gained vassal: c_rurora
+274 - Gained vassal: c_quris
+274 - Holder 1004478 - Primary title: d_qorora has lost the title: c_quris
+274 - vassal: c_quris - Title given to 1004478 - Primary title: k_kadew
+274 - vassal: c_quris - Setting to vassal of k_kadew in Validate Realm
+274 - Lost vassal: c_quris
+274 - Holder 1004478 - Primary title: d_qorora has lost the title: c_rurora
+274 - vassal: c_rurora - Title given to 1004478 - Primary title: k_kadew
+274 - vassal: c_rurora - Setting to vassal of k_kadew in Validate Realm
+274 - Lost vassal: c_rurora
+274 - Holder 1004478 - Primary title: d_qorora has lost the title: c_katurga
+274 - vassal: c_katurga - Title given to 1004478 - Primary title: k_kadew
+274 - vassal: c_katurga - Setting to vassal of k_kadew in Validate Realm
+274 - Lost vassal: c_katurga
+274 - Holder 1004478 - Primary title: d_qorora has lost the title: c_denew
+274 - vassal: c_denew - Title given to 1004478 - Primary title: k_kadew
+274 - vassal: c_denew - Setting to vassal of k_kadew in Validate Realm
+274 - Lost vassal: c_denew
+274 - Holder 1004478 - Primary title: d_qorora has lost the title: d_qorora
+274 - Title given to 1004478 - Primary title: k_kadew
+274 - vassal: c_barenia - Holder 1004478 - Primary title: c_barenia has lost the title: c_barenia
+274 - vassal: c_barenia - Title given to 1004478 - Primary title: k_kadew
+288 - vassal: c_barenia - Given to 1006894 in HandleTitles - Too many duke titles
+288 - vassal: c_barenia - Title given to 1006894
+288 - Title given to 1006894 - Primary title: c_barenia
+288 - vassal: c_barenia - Holder (1006894) has gained d_qorora
+288 - Too many dukes, given to dejure: k_kadew
+300 - vassal: c_torurga - Holder 1006894 - Primary title: c_torurga has lost the title: c_torurga
+300 - vassal: c_torurga - Title given to 1006894 - Primary title: d_qorora
+300 - Holder (1006894) has gained c_torurga
+300 - vassal: c_sevael - Holder 1006894 - Primary title: c_sevael has lost the title: c_sevael
+300 - vassal: c_sevael - Title given to 1006894 - Primary title: d_qorora
+300 - Holder (1006894) has gained c_sevael
+300 - vassal: c_efarega - Holder 1006894 - Primary title: c_efarega has lost the title: c_efarega
+300 - vassal: c_efarega - Title given to 1006894 - Primary title: d_qorora
+300 - Holder (1006894) has gained c_efarega
+311 - Holder (1006894) has gained d_benance
+311 - Holder (1006894) has gained c_edyka
+324 - Holder 1007217 - Primary title: d_qorora has lost the title: d_qorora
+324 - Title given to 1007217
+324 - vassal: c_efarega - Setting to vassal of d_benance in Validate Realm
+324 - Lost vassal: c_efarega
+324 - vassal: c_sevael - Setting to vassal of d_benance in Validate Realm
+324 - Lost vassal: c_sevael
+324 - vassal: c_torurga - Setting to vassal of d_benance in Validate Realm
+324 - Lost vassal: c_torurga
+324 - vassal: c_barenia - Setting to vassal of d_benance in Validate Realm
+324 - Lost vassal: c_barenia
+324 - Holder (1007217) has gained d_benance
+324 - Holder (1007217) has gained c_efarega
+324 - Holder (1007217) has gained c_sevael
+324 - Holder (1007217) has gained c_torurga
+324 - Holder (1007217) has gained c_barenia
+324 - Holder (1007217) has gained c_edyka
+325 - Destroyed due to flagged problem
+325 - Made independent
+325 - Title destroyed

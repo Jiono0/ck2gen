@@ -1,0 +1,146 @@
+200 - Title given to 1000390
+200 - vassal: c_bajeja - Given to 1000393 via AddCharacterForTitle
+200 - sub vassal: c_bajeja - Given to 1000393 via AddCharacterForTitle
+200 - vassal: c_bajeja - Holder 1000393 - Primary title: c_bajeja has lost the title: c_bajeja
+200 - sub vassal: c_bajeja - Holder 1000393 - Primary title: c_bajeja has lost the title: c_bajeja
+200 - vassal: c_bajeja - Title given to 1000393
+200 - sub vassal: c_bajeja - Title given to 1000393
+200 - vassal: c_retida - Given to 1000395 via AddCharacterForTitle
+200 - sub vassal: c_retida - Given to 1000395 via AddCharacterForTitle
+200 - vassal: c_retida - Holder 1000395 - Primary title: c_retida has lost the title: c_retida
+200 - sub vassal: c_retida - Holder 1000395 - Primary title: c_retida has lost the title: c_retida
+200 - vassal: c_retida - Title given to 1000395
+200 - sub vassal: c_retida - Title given to 1000395
+200 - vassal: c_ketida - Holder 1000390 - Primary title: c_ketida has lost the title: c_ketida
+200 - sub vassal: c_ketida - Holder 1000390 - Primary title: c_ketida has lost the title: c_ketida
+200 - vassal: c_ketida - Title given to 1000390 - Primary title: d_kolay
+200 - sub vassal: c_ketida - Title given to 1000390 - Primary title: d_kolay
+200 - Holder (1000390) has gained c_ketida
+200 - vassal: c_bajeja - Holder 1000390 - Primary title: c_bajeja has lost the title: c_bajeja
+200 - sub vassal: c_bajeja - Holder 1000390 - Primary title: c_bajeja has lost the title: c_bajeja
+200 - vassal: c_bajeja - Title given to 1000390 - Primary title: d_kolay
+200 - sub vassal: c_bajeja - Title given to 1000390 - Primary title: d_kolay
+200 - Holder (1000390) has gained c_bajeja
+200 - vassal: c_retida - Holder 1000390 - Primary title: c_retida has lost the title: c_retida
+200 - sub vassal: c_retida - Holder 1000390 - Primary title: c_retida has lost the title: c_retida
+200 - vassal: c_retida - Title given to 1000390 - Primary title: d_kolay
+200 - sub vassal: c_retida - Title given to 1000390 - Primary title: d_kolay
+200 - Holder (1000390) has gained c_retida
+200 - vassal: c_ketoro - Title given to 1000390 - Primary title: d_kolay
+200 - Holder (1000390) has gained c_ketoro
+200 - vassal: c_aheladan - Holder 1000390 - Primary title: c_aheladan has lost the title: c_aheladan
+200 - sub vassal: c_aheladan - Holder 1000390 - Primary title: c_aheladan has lost the title: c_aheladan
+200 - vassal: c_aheladan - Title given to 1000390 - Primary title: d_kolay
+200 - sub vassal: c_aheladan - Title given to 1000390 - Primary title: d_kolay
+200 - Holder (1000390) has gained c_aheladan
+200 - Holder 1001028 - Primary title: d_kolay has lost the title: d_kolay
+200 - Title given to 1001028 - Primary title: k_ehelama
+200 - vassal: c_ketida - Holder 1001028 - Primary title: c_ketida has lost the title: c_ketida
+200 - vassal: c_ketida - Title given to 1001028 - Primary title: k_ehelama
+200 - vassal: c_ketida - Given to 1001389 in HandleTitles - Too many duke titles
+200 - vassal: c_ketida - Title given to 1001389
+200 - Title given to 1001389 - Primary title: c_ketida
+200 - vassal: c_ketida - Holder (1001389) has gained d_kolay
+200 - Too many dukes, given to dejure: k_ehelama
+202 - Holder 1001493 - Primary title: d_kolay has lost the title: d_kolay
+202 - Title given to 1001493
+202 - vassal: c_ketida - Holder 1001493 - Primary title: c_ketida has lost the title: c_ketida
+202 - vassal: c_ketida - Title given to 1001493 - Primary title: d_kolay
+202 - Holder (1001493) has gained c_ketida
+233 - Holder 1002760 - Primary title: d_kolay has lost the title: d_kolay
+233 - Title given to 1002760
+233 - vassal: c_ketida - Holder 1002760 - Primary title: c_ketida has lost the title: c_ketida
+233 - vassal: c_ketida - Title given to 1002760 - Primary title: d_kolay
+233 - Holder (1002760) has gained c_ketida
+264 - Holder 1003752 - Primary title: d_kolay has lost the title: d_kolay
+264 - Title given to 1003752
+264 - vassal: c_ketida - Holder 1003752 - Primary title: c_ketida has lost the title: c_ketida
+264 - vassal: c_ketida - Title given to 1003752 - Primary title: d_kolay
+264 - Holder (1003752) has gained c_ketida
+296 - Holder 1006149 - Primary title: d_kolay has lost the title: d_kolay
+296 - Title given to 1006149
+296 - vassal: c_ketida - Holder 1006149 - Primary title: c_ketida has lost the title: c_ketida
+296 - vassal: c_ketida - Title given to 1006149 - Primary title: d_kolay
+296 - Holder (1006149) has gained c_ketida
+300 - vassal: c_bajeja - Holder 1006149 - Primary title: c_bajeja has lost the title: c_bajeja
+300 - vassal: c_bajeja - Title given to 1006149 - Primary title: d_kolay
+300 - Holder (1006149) has gained c_bajeja
+300 - vassal: c_retida - Holder 1006149 - Primary title: c_retida has lost the title: c_retida
+300 - vassal: c_retida - Title given to 1006149 - Primary title: d_kolay
+300 - Holder (1006149) has gained c_retida
+300 - vassal: c_ketoro - Holder 1006149 - Primary title: c_ketoro has lost the title: c_ketoro
+300 - vassal: c_ketoro - Title given to 1006149 - Primary title: d_kolay
+300 - Holder (1006149) has gained c_ketoro
+300 - vassal: c_aheladan - Holder 1006149 - Primary title: c_aheladan has lost the title: c_aheladan
+300 - vassal: c_aheladan - Title given to 1006149 - Primary title: d_kolay
+300 - Holder (1006149) has gained c_aheladan
+315 - Holder 1006565 - Primary title: d_kolay has lost the title: d_kolay
+315 - Title given to 1006565 - Primary title: d_koladan
+315 - vassal: c_aheladan - Holder 1006565 - Primary title: c_aheladan has lost the title: c_aheladan
+315 - vassal: c_aheladan - Title given to 1006565 - Primary title: d_koladan
+315 - vassal: c_ketoro - Holder 1006565 - Primary title: c_ketoro has lost the title: c_ketoro
+315 - vassal: c_ketoro - Title given to 1006565 - Primary title: d_koladan
+315 - vassal: c_retida - Holder 1006565 - Primary title: c_retida has lost the title: c_retida
+315 - vassal: c_retida - Title given to 1006565 - Primary title: d_koladan
+315 - vassal: c_bajeja - Holder 1006565 - Primary title: c_bajeja has lost the title: c_bajeja
+315 - vassal: c_bajeja - Title given to 1006565 - Primary title: d_koladan
+315 - vassal: c_ketida - Holder 1006565 - Primary title: c_ketida has lost the title: c_ketida
+315 - vassal: c_ketida - Title given to 1006565 - Primary title: d_koladan
+316 - Holder 1007869 - Primary title: d_kolay has lost the title: c_tivesse
+316 - Holder 1007870 - Primary title: d_kolay has lost the title: c_tikavid
+316 - Holder 1007872 - Primary title: d_kolay has lost the title: c_ejolirza
+335 - Holder 1006302 - Primary title: d_kolay has lost the title: d_koladan
+335 - Holder 1006302 - Primary title: d_kolay has lost the title: d_kolay
+335 - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_ketida - Holder 1006302 - Primary title: c_ketida has lost the title: c_ketida
+335 - vassal: c_ketida - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_bajeja - Holder 1006302 - Primary title: c_bajeja has lost the title: c_bajeja
+335 - vassal: c_bajeja - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_retida - Holder 1006302 - Primary title: c_retida has lost the title: c_retida
+335 - vassal: c_retida - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_ketoro - Holder 1006302 - Primary title: c_ketoro has lost the title: c_ketoro
+335 - vassal: c_ketoro - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_aheladan - Holder 1006302 - Primary title: c_aheladan has lost the title: c_aheladan
+335 - vassal: c_aheladan - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_bajeja - Title given to 1008855
+335 - vassal: c_ketoro - Title given to 1008858
+335 - vassal: c_retida - Title given to 1008859
+335 - vassal: c_aheladan - Title given to 1008862
+335 - vassal: c_ketida - Title given to 1008863
+338 - Holder 1007914 - Primary title: d_kolay has lost the title: c_ejolirza
+338 - Gained vassal: c_qolavid
+338 - Gained vassal: c_ryai
+338 - Gained vassal: c_ryia
+338 - Gained vassal: c_bibril
+338 - Holder 1007914 - Primary title: d_kolay has lost the title: d_kolay
+338 - Title given to 1007914 - Primary title: k_ehelama
+338 - vassal: c_bibril - Setting to vassal of d_kaykory in Validate Realm
+338 - Lost vassal: c_bibril
+338 - vassal: c_ryia - Setting to vassal of d_kaykory in Validate Realm
+338 - Lost vassal: c_ryia
+338 - vassal: c_ryai - Setting to vassal of d_kaykory in Validate Realm
+338 - Lost vassal: c_ryai
+338 - vassal: c_qolavid - Setting to vassal of d_kaykory in Validate Realm
+338 - Lost vassal: c_qolavid
+360 - Holder 1009289 - Primary title: d_kolay has lost the title: d_kolay
+360 - Title given to 1009289 - Primary title: k_ehelama
+384 - vassal: c_ketida - Given to 1011254 in HandleTitles - Too many duke titles
+384 - vassal: c_ketida - Holder 1011254 - Primary title: c_ketida has lost the title: c_ketida
+384 - vassal: c_ketida - Title given to 1011254
+384 - Title given to 1011254 - Primary title: c_ketida
+384 - vassal: c_ketida - Holder (1011254) has gained d_kolay
+384 - Too many dukes, given to dejure: k_ehelama
+388 - Holder 1009289 - Primary title: d_kolay has lost the title: d_kolay
+388 - Title given to 1009289 - Primary title: k_ehelama
+388 - vassal: c_ketida - Holder 1009289 - Primary title: c_ketida has lost the title: c_ketida
+388 - vassal: c_ketida - Title given to 1009289 - Primary title: k_ehelama
+388 - vassal: c_ketida - Given to 1011449 in HandleTitles - Too many duke titles
+388 - vassal: c_ketida - Title given to 1011449
+388 - Title given to 1011449 - Primary title: c_ketida
+388 - vassal: c_ketida - Holder (1011449) has gained d_kolay
+388 - Too many dukes, given to dejure: k_ehelama
+397 - Holder 1011582 - Primary title: d_kolay has lost the title: d_kolay
+397 - Title given to 1011582
+397 - vassal: c_ketida - Holder 1011582 - Primary title: c_ketida has lost the title: c_ketida
+397 - vassal: c_ketida - Title given to 1011582 - Primary title: d_kolay
+397 - Holder (1011582) has gained c_ketida

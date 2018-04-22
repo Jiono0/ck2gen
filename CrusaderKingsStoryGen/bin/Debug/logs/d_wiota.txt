@@ -1,0 +1,102 @@
+200 - Title given to 1000653
+200 - vassal: c_datent - Given to 1000656 via AddCharacterForTitle
+200 - sub vassal: c_datent - Given to 1000656 via AddCharacterForTitle
+200 - vassal: c_datent - Holder 1000656 - Primary title: c_datent has lost the title: c_datent
+200 - sub vassal: c_datent - Holder 1000656 - Primary title: c_datent has lost the title: c_datent
+200 - vassal: c_datent - Title given to 1000656
+200 - sub vassal: c_datent - Title given to 1000656
+200 - vassal: c_ribalder - Given to 1000658 via AddCharacterForTitle
+200 - sub vassal: c_ribalder - Given to 1000658 via AddCharacterForTitle
+200 - vassal: c_ribalder - Holder 1000658 - Primary title: c_ribalder has lost the title: c_ribalder
+200 - sub vassal: c_ribalder - Holder 1000658 - Primary title: c_ribalder has lost the title: c_ribalder
+200 - vassal: c_ribalder - Title given to 1000658
+200 - sub vassal: c_ribalder - Title given to 1000658
+200 - vassal: c_kenosco - Holder 1000653 - Primary title: c_kenosco has lost the title: c_kenosco
+200 - sub vassal: c_kenosco - Holder 1000653 - Primary title: c_kenosco has lost the title: c_kenosco
+200 - vassal: c_kenosco - Title given to 1000653 - Primary title: d_wiota
+200 - sub vassal: c_kenosco - Title given to 1000653 - Primary title: d_wiota
+200 - Holder (1000653) has gained c_kenosco
+200 - vassal: c_datent - Holder 1000653 - Primary title: c_datent has lost the title: c_datent
+200 - sub vassal: c_datent - Holder 1000653 - Primary title: c_datent has lost the title: c_datent
+200 - vassal: c_datent - Title given to 1000653 - Primary title: d_wiota
+200 - sub vassal: c_datent - Title given to 1000653 - Primary title: d_wiota
+200 - Holder (1000653) has gained c_datent
+200 - vassal: c_ribalder - Holder 1000653 - Primary title: c_ribalder has lost the title: c_ribalder
+200 - sub vassal: c_ribalder - Holder 1000653 - Primary title: c_ribalder has lost the title: c_ribalder
+200 - vassal: c_ribalder - Title given to 1000653 - Primary title: d_wiota
+200 - sub vassal: c_ribalder - Title given to 1000653 - Primary title: d_wiota
+200 - Holder (1000653) has gained c_ribalder
+237 - Holder 1003831 - Primary title: d_wiota has lost the title: d_wiota
+237 - Title given to 1003831
+237 - vassal: c_kenosco - Holder 1003831 - Primary title: c_kenosco has lost the title: c_kenosco
+237 - vassal: c_kenosco - Title given to 1003831 - Primary title: d_wiota
+237 - Holder (1003831) has gained c_kenosco
+237 - vassal: c_datent - Holder 1003831 - Primary title: c_datent has lost the title: c_datent
+237 - vassal: c_datent - Title given to 1003831 - Primary title: d_wiota
+237 - Holder (1003831) has gained c_datent
+237 - vassal: c_ribalder - Holder 1003831 - Primary title: c_ribalder has lost the title: c_ribalder
+237 - vassal: c_ribalder - Title given to 1003831 - Primary title: d_wiota
+237 - Holder (1003831) has gained c_ribalder
+259 - Holder 1003900 - Primary title: d_wiota has lost the title: d_wiota
+259 - Title given to 1003900
+259 - vassal: c_ribalder - Holder 1003900 - Primary title: c_ribalder has lost the title: c_ribalder
+259 - vassal: c_ribalder - Title given to 1003900 - Primary title: d_wiota
+259 - Holder (1003900) has gained c_ribalder
+259 - vassal: c_datent - Holder 1003900 - Primary title: c_datent has lost the title: c_datent
+259 - vassal: c_datent - Title given to 1003900 - Primary title: d_wiota
+259 - Holder (1003900) has gained c_datent
+259 - vassal: c_kenosco - Holder 1003900 - Primary title: c_kenosco has lost the title: c_kenosco
+259 - vassal: c_kenosco - Title given to 1003900 - Primary title: d_wiota
+259 - Holder (1003900) has gained c_kenosco
+272 - Holder 1004129 - Primary title: d_wiota has lost the title: d_wiota
+272 - Title given to 1004129 - Primary title: k_wopiota
+272 - vassal: c_kenosco - Holder 1004129 - Primary title: c_kenosco has lost the title: c_kenosco
+272 - vassal: c_kenosco - Title given to 1004129 - Primary title: k_wopiota
+272 - vassal: c_datent - Holder 1004129 - Primary title: c_datent has lost the title: c_datent
+272 - vassal: c_datent - Title given to 1004129 - Primary title: k_wopiota
+272 - vassal: c_ribalder - Holder 1004129 - Primary title: c_ribalder has lost the title: c_ribalder
+272 - vassal: c_ribalder - Title given to 1004129 - Primary title: k_wopiota
+272 - vassal: c_kenosco - Given to 1006028 in HandleTitles - Too many duke titles
+272 - vassal: c_kenosco - Title given to 1006028
+272 - Title given to 1006028 - Primary title: c_kenosco
+272 - vassal: c_kenosco - Holder (1006028) has gained d_wiota
+272 - vassal: c_datent - Setting to vassal of k_wopiota in Validate Realm
+272 - Lost vassal: c_datent
+272 - vassal: c_ribalder - Setting to vassal of k_wopiota in Validate Realm
+272 - Lost vassal: c_ribalder
+272 - Too many dukes, given to dejure: k_wopiota
+277 - Holder 1006080 - Primary title: d_wiota has lost the title: d_wiota
+277 - Title given to 1006080
+277 - vassal: c_kenosco - Holder 1006080 - Primary title: c_kenosco has lost the title: c_kenosco
+277 - vassal: c_kenosco - Title given to 1006080 - Primary title: d_wiota
+277 - Holder (1006080) has gained c_kenosco
+291 - Holder 1004129 - Primary title: d_wiota has lost the title: d_wiota
+291 - Title given to 1004129 - Primary title: k_wopiota
+291 - vassal: c_kenosco - Holder 1004129 - Primary title: c_kenosco has lost the title: c_kenosco
+291 - vassal: c_kenosco - Title given to 1004129 - Primary title: k_wopiota
+291 - vassal: c_kenosco - Given to 1007061 in HandleTitles - Too many duke titles
+291 - vassal: c_kenosco - Title given to 1007061
+291 - Title given to 1007061 - Primary title: c_kenosco
+291 - vassal: c_kenosco - Holder (1007061) has gained d_wiota
+291 - Too many dukes, given to dejure: k_wopiota
+298 - Holder 1007165 - Primary title: d_wiota has lost the title: d_wiota
+298 - Title given to 1007165
+298 - vassal: c_kenosco - Holder 1007165 - Primary title: c_kenosco has lost the title: c_kenosco
+298 - vassal: c_kenosco - Title given to 1007165 - Primary title: d_wiota
+298 - Holder (1007165) has gained c_kenosco
+342 - Holder 1008355 - Primary title: d_wiota has lost the title: d_wiota
+342 - Title given to 1008355
+342 - vassal: c_kenosco - Holder 1008355 - Primary title: c_kenosco has lost the title: c_kenosco
+342 - vassal: c_kenosco - Title given to 1008355 - Primary title: d_wiota
+342 - Holder (1008355) has gained c_kenosco
+362 - Holder 1010438 - Primary title: d_wiota has lost the title: d_wiota
+362 - Title given to 1010438
+362 - vassal: c_kenosco - Holder 1010438 - Primary title: c_kenosco has lost the title: c_kenosco
+362 - vassal: c_kenosco - Title given to 1010438 - Primary title: d_wiota
+362 - Holder (1010438) has gained c_kenosco
+377 - Holder 1011299 - Primary title: d_wiota has lost the title: d_wiota
+377 - Title given to 1011299 - Primary title: k_wopiota
+377 - vassal: c_kenosco - Holder 1011299 - Primary title: c_kenosco has lost the title: c_kenosco
+377 - vassal: c_kenosco - Title given to 1011299 - Primary title: k_wopiota
+377 - vassal: c_kenosco - Title given to 1011640
+384 - Captured byk_egaloza in minor war

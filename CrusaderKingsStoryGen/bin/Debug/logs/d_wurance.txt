@@ -1,0 +1,171 @@
+200 - Title given to 1000594
+200 - vassal: c_sibenia - Holder 1000594 - Primary title: c_sibenia has lost the title: c_sibenia
+200 - sub vassal: c_sibenia - Holder 1000594 - Primary title: c_sibenia has lost the title: c_sibenia
+200 - vassal: c_sibenia - Title given to 1000594 - Primary title: d_wurance
+200 - sub vassal: c_sibenia - Title given to 1000594 - Primary title: d_wurance
+200 - Holder (1000594) has gained c_sibenia
+200 - vassal: c_kayance - Holder 1000594 - Primary title: c_kayance has lost the title: c_kayance
+200 - sub vassal: c_kayance - Holder 1000594 - Primary title: c_kayance has lost the title: c_kayance
+200 - vassal: c_kayance - Title given to 1000594 - Primary title: d_wurance
+200 - sub vassal: c_kayance - Title given to 1000594 - Primary title: d_wurance
+200 - Holder (1000594) has gained c_kayance
+234 - Holder 1002119 - Primary title: d_wurance has lost the title: d_wurance
+234 - Title given to 1002119
+234 - vassal: c_sibenia - Holder 1002119 - Primary title: c_sibenia has lost the title: c_sibenia
+234 - vassal: c_sibenia - Title given to 1002119 - Primary title: d_wurance
+234 - Holder (1002119) has gained c_sibenia
+234 - vassal: c_kayance - Holder 1002119 - Primary title: c_kayance has lost the title: c_kayance
+234 - vassal: c_kayance - Title given to 1002119 - Primary title: d_wurance
+234 - Holder (1002119) has gained c_kayance
+246 - Captured byk_ketus in minor war
+247 - Holder 1004023 - Primary title: d_wurance has lost the title: d_wurance
+247 - Title given to 1004023
+247 - vassal: c_kayance - Holder 1004023 - Primary title: c_kayance has lost the title: c_kayance
+247 - vassal: c_kayance - Title given to 1004023 - Primary title: d_wurance
+247 - Holder (1004023) has gained c_kayance
+247 - vassal: c_sibenia - Holder 1004023 - Primary title: c_sibenia has lost the title: c_sibenia
+247 - vassal: c_sibenia - Title given to 1004023 - Primary title: d_wurance
+247 - Holder (1004023) has gained c_sibenia
+257 - Holder 1002366 - Primary title: d_wurance has lost the title: d_wurance
+257 - Title given to 1002366 - Primary title: d_bavay
+257 - vassal: c_kayance - Holder 1002366 - Primary title: c_kayance has lost the title: c_kayance
+257 - vassal: c_kayance - Title given to 1002366 - Primary title: d_bavay
+257 - vassal: c_sibenia - Holder 1002366 - Primary title: c_sibenia has lost the title: c_sibenia
+257 - vassal: c_sibenia - Title given to 1002366 - Primary title: d_bavay
+260 - Gained vassal: c_evavor
+260 - Gained vassal: c_tarew
+260 - Gained vassal: c_akemosco
+260 - Holder 1003654 - Primary title: d_wurance has lost the title: d_wurance
+260 - Title given to 1003654 - Primary title: d_bavay
+260 - vassal: c_akemosco - Holder 1003654 - Primary title: c_akemosco has lost the title: c_akemosco
+260 - vassal: c_akemosco - Title given to 1003654 - Primary title: d_bavay
+260 - vassal: c_tarew - Holder 1003654 - Primary title: c_tarew has lost the title: c_tarew
+260 - vassal: c_tarew - Title given to 1003654 - Primary title: d_bavay
+260 - vassal: c_evavor - Holder 1003654 - Primary title: c_evavor has lost the title: c_evavor
+260 - vassal: c_evavor - Title given to 1003654 - Primary title: d_bavay
+260 - vassal: c_kayance - Holder 1003654 - Primary title: c_kayance has lost the title: c_kayance
+260 - vassal: c_kayance - Title given to 1003654 - Primary title: d_bavay
+260 - vassal: c_sibenia - Holder 1003654 - Primary title: c_sibenia has lost the title: c_sibenia
+260 - vassal: c_sibenia - Title given to 1003654 - Primary title: d_bavay
+267 - Holder (1003654) has gained d_bavay
+267 - vassal: c_akemosco - Set liege on title creation d_bavay
+267 - Lost vassal: c_akemosco
+267 - vassal: c_tarew - Set liege on title creation d_bavay
+267 - Lost vassal: c_tarew
+267 - vassal: c_evavor - Set liege on title creation d_bavay
+267 - Lost vassal: c_evavor
+267 - vassal: c_kayance - Set liege on title creation d_bavay
+267 - Lost vassal: c_kayance
+267 - vassal: c_sibenia - Set liege on title creation d_bavay
+267 - Lost vassal: c_sibenia
+268 - Destroyed due to flagged problem
+268 - Made independent
+268 - Title destroyed
+279 - Given to 1003654 in TestCreateEmpire
+279 - Title given to 1003654 - Primary title: d_bavay
+279 - Made independent for title creation d_wurance for d_bavay
+279 - Gained vassal: c_akemosco
+279 - Gained vassal: c_tarew
+279 - Gained vassal: c_evavor
+279 - Gained vassal: c_kayance
+279 - Gained vassal: c_sibenia
+279 - Destroyed due to no capital's obtainable
+279 - Title destroyed
+279 - vassal: c_akemosco - Setting independent due to liege destruction
+279 - vassal: c_akemosco - Made independent
+279 - vassal: c_tarew - Setting independent due to liege destruction
+279 - vassal: c_tarew - Made independent
+279 - vassal: c_sibenia - Setting independent due to liege destruction
+279 - vassal: c_sibenia - Made independent
+279 - vassal: c_kayance - Setting independent due to liege destruction
+279 - vassal: c_kayance - Made independent
+279 - vassal: c_evavor - Setting independent due to liege destruction
+279 - vassal: c_evavor - Made independent
+303 - Given to 1006869 in TestCreateEmpire
+303 - Title given to 1006869 - Primary title: c_sibenia
+303 - Gained vassal: c_sibenia
+303 - Made independent for title creation d_wurance for d_wurance
+303 - vassal: c_sibenia - Set liege on title creation d_wurance
+303 - sub vassal: c_sibenia - Set liege on title creation d_wurance
+303 - Gained vassal: c_kayance
+303 - Gained vassal: c_evavor
+303 - Gained vassal: c_tarew
+303 - Gained vassal: c_akemosco
+303 - Destroyed due to no capital's obtainable
+303 - Title destroyed
+303 - vassal: c_akemosco - Setting independent due to liege destruction
+303 - vassal: c_akemosco - Made independent
+303 - vassal: c_tarew - Setting independent due to liege destruction
+303 - vassal: c_tarew - Made independent
+303 - vassal: c_evavor - Setting independent due to liege destruction
+303 - vassal: c_evavor - Made independent
+303 - vassal: c_kayance - Setting independent due to liege destruction
+303 - vassal: c_kayance - Made independent
+303 - vassal: c_sibenia - Setting independent due to liege destruction
+303 - vassal: c_sibenia - Made independent
+357 - Given to 1010421 in TestCreateEmpire
+357 - Title given to 1010421 - Primary title: c_sibenia
+357 - Gained vassal: c_sibenia
+357 - Made independent for title creation d_wurance for d_wurance
+357 - vassal: c_sibenia - Set liege on title creation d_wurance
+357 - sub vassal: c_sibenia - Set liege on title creation d_wurance
+357 - Gained vassal: c_kayance
+357 - Gained vassal: c_evavor
+357 - Gained vassal: c_tarew
+357 - Gained vassal: c_akemosco
+357 - Destroyed due to no capital's obtainable
+357 - Title destroyed
+357 - vassal: c_akemosco - Setting independent due to liege destruction
+357 - vassal: c_akemosco - Made independent
+357 - vassal: c_tarew - Setting independent due to liege destruction
+357 - vassal: c_tarew - Made independent
+357 - vassal: c_evavor - Setting independent due to liege destruction
+357 - vassal: c_evavor - Made independent
+357 - vassal: c_kayance - Setting independent due to liege destruction
+357 - vassal: c_kayance - Made independent
+357 - vassal: c_sibenia - Setting independent due to liege destruction
+357 - vassal: c_sibenia - Made independent
+362 - Given to 1010421 in TestCreateEmpire
+362 - Title given to 1010421 - Primary title: c_sibenia
+362 - Gained vassal: c_sibenia
+362 - Made independent for title creation d_wurance for d_wurance
+362 - vassal: c_sibenia - Set liege on title creation d_wurance
+362 - sub vassal: c_sibenia - Set liege on title creation d_wurance
+362 - Gained vassal: c_kayance
+362 - Gained vassal: c_evavor
+362 - Gained vassal: c_tarew
+362 - Gained vassal: c_akemosco
+362 - Destroyed due to no capital's obtainable
+362 - Title destroyed
+362 - vassal: c_akemosco - Setting independent due to liege destruction
+362 - vassal: c_akemosco - Made independent
+362 - vassal: c_tarew - Setting independent due to liege destruction
+362 - vassal: c_tarew - Made independent
+362 - vassal: c_evavor - Setting independent due to liege destruction
+362 - vassal: c_evavor - Made independent
+362 - vassal: c_kayance - Setting independent due to liege destruction
+362 - vassal: c_kayance - Made independent
+362 - vassal: c_sibenia - Setting independent due to liege destruction
+362 - vassal: c_sibenia - Made independent
+396 - Given to 1010647 in TestCreateEmpire
+396 - Title given to 1010647 - Primary title: c_sibenia
+396 - Gained vassal: c_sibenia
+396 - Made independent for title creation d_wurance for d_wurance
+396 - vassal: c_sibenia - Set liege on title creation d_wurance
+396 - sub vassal: c_sibenia - Set liege on title creation d_wurance
+396 - Gained vassal: c_kayance
+396 - Gained vassal: c_evavor
+396 - Gained vassal: c_tarew
+396 - Gained vassal: c_akemosco
+396 - Destroyed due to no capital's obtainable
+396 - Title destroyed
+396 - vassal: c_akemosco - Setting independent due to liege destruction
+396 - vassal: c_akemosco - Made independent
+396 - vassal: c_tarew - Setting independent due to liege destruction
+396 - vassal: c_tarew - Made independent
+396 - vassal: c_evavor - Setting independent due to liege destruction
+396 - vassal: c_evavor - Made independent
+396 - vassal: c_kayance - Setting independent due to liege destruction
+396 - vassal: c_kayance - Made independent
+396 - vassal: c_sibenia - Setting independent due to liege destruction
+396 - vassal: c_sibenia - Made independent

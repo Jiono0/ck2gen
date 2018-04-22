@@ -1,0 +1,1325 @@
+200 - Title given to 1001066
+200 - vassal: d_lyelovya - Holder 1001066 - Primary title: d_lyelovya has lost the title: d_lyelovya
+200 - sub vassal: d_lyelovya - Holder 1001066 - Primary title: d_lyelovya has lost the title: d_lyelovya
+200 - vassal: d_lyelovya - Title given to 1001066 - Primary title: k_damoava
+200 - sub vassal: d_lyelovya - Title given to 1001066 - Primary title: k_damoava
+200 - Holder (1001066) has gained d_lyelovya
+200 - vassal: d_kelenia - Holder 1001066 - Primary title: d_kelenia has lost the title: d_kelenia
+200 - sub vassal: d_kelenia - Holder 1001066 - Primary title: d_kelenia has lost the title: d_kelenia
+200 - vassal: d_kelenia - Title given to 1001066 - Primary title: k_damoava
+200 - sub vassal: d_kelenia - Title given to 1001066 - Primary title: k_damoava
+200 - Holder (1001066) has gained d_kelenia
+200 - vassal: d_dakimma - Holder 1001066 - Primary title: d_dakimma has lost the title: d_dakimma
+200 - sub vassal: d_dakimma - Holder 1001066 - Primary title: d_dakimma has lost the title: d_dakimma
+200 - vassal: d_dakimma - Title given to 1001066 - Primary title: k_damoava
+200 - sub vassal: d_dakimma - Title given to 1001066 - Primary title: k_damoava
+200 - Holder (1001066) has gained d_dakimma
+200 - sub vassal: c_letava - Holder 1001066 - Primary title: c_letava has lost the title: c_letava
+200 - sub vassal: c_letava - Title given to 1001066 - Primary title: k_damoava
+200 - Holder (1001066) has gained c_letava
+200 - vassal: d_elifon - Holder 1000992 - Primary title: d_elifon has lost the title: d_elifon
+200 - sub vassal: d_elifon - Holder 1000992 - Primary title: d_elifon has lost the title: d_elifon
+200 - vassal: d_elifon - Title given to 1000992 - Primary title: d_ryaus
+200 - sub vassal: d_elifon - Title given to 1000992 - Primary title: d_ryaus
+200 - vassal: d_ryaus - Holder (1000992) has gained d_elifon
+200 - sub vassal: d_ryaus - Holder (1000992) has gained d_elifon
+200 - sub vassal: c_nelill - Holder 1000992 - Primary title: c_nelill has lost the title: c_nelill
+200 - sub vassal: c_nelill - Title given to 1000992 - Primary title: d_ryaus
+200 - vassal: d_ryaus - Holder (1000992) has gained c_nelill
+200 - sub vassal: d_ryaus - Holder (1000992) has gained c_nelill
+200 - sub vassal: c_relarcus - Holder 1000992 - Primary title: c_relarcus has lost the title: c_relarcus
+200 - sub vassal: c_relarcus - Title given to 1000992 - Primary title: d_ryaus
+200 - vassal: d_ryaus - Holder (1000992) has gained c_relarcus
+200 - sub vassal: d_ryaus - Holder (1000992) has gained c_relarcus
+200 - sub vassal: c_darcus - Holder 1000992 - Primary title: c_darcus has lost the title: c_darcus
+200 - sub vassal: c_darcus - Title given to 1000992 - Primary title: d_ryaus
+200 - vassal: d_ryaus - Holder (1000992) has gained c_darcus
+200 - sub vassal: d_ryaus - Holder (1000992) has gained c_darcus
+200 - sub vassal: c_qavaus - Given to 1001437 in HandleTitles - Too many duke titles
+200 - sub vassal: c_benagik - Holder 1001437 - Primary title: c_benagik has lost the title: c_qavaus
+200 - sub vassal: c_qavaus - Title given to 1001437
+200 - Holder 1001437 - Primary title: k_damoava has lost the title: d_kelenia
+200 - vassal: d_kelenia - Title given to 1001437 - Primary title: c_qavaus
+200 - sub vassal: d_kelenia - Title given to 1001437 - Primary title: c_qavaus
+200 - sub vassal: c_qavaus - Holder (1001437) has gained d_kelenia
+200 - vassal: d_kelenia - Too many dukes, given to dejure: k_damoava
+200 - sub vassal: d_kelenia - Too many dukes, given to dejure: k_damoava
+200 - sub vassal: c_nibugor - Made vassal of neighbour (k_ketus) due to being a seperate island
+200 - vassal: d_dakimma - Lost vassal: c_nibugor
+200 - sub vassal: d_dakimma - Lost vassal: c_nibugor
+200 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+200 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+201 - vassal: d_elifon - Holder 1001552 - Primary title: d_elifon has lost the title: c_ejoanaus
+201 - sub vassal: d_elifon - Holder 1001552 - Primary title: d_elifon has lost the title: c_ejoanaus
+201 - sub vassal: c_ejoanaus - Title given to 1001552
+201 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+201 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+202 - vassal: d_tyio - Holder 1001365 - Primary title: d_tyio has lost the title: d_tyio
+202 - sub vassal: d_tyio - Holder 1001365 - Primary title: d_tyio has lost the title: d_tyio
+202 - vassal: d_tyio - Title given to 1001365
+202 - sub vassal: d_tyio - Title given to 1001365
+202 - sub vassal: c_ryelifon - Holder 1001365 - Primary title: c_ryelifon has lost the title: c_ryelifon
+202 - sub vassal: c_ryelifon - Title given to 1001365 - Primary title: d_tyio
+202 - vassal: d_tyio - Holder (1001365) has gained c_ryelifon
+202 - sub vassal: d_tyio - Holder (1001365) has gained c_ryelifon
+202 - sub vassal: c_ryelovya - Holder 1001365 - Primary title: c_ryelovya has lost the title: c_ryelovya
+202 - sub vassal: c_ryelovya - Title given to 1001365 - Primary title: d_tyio
+202 - vassal: d_tyio - Holder (1001365) has gained c_ryelovya
+202 - sub vassal: d_tyio - Holder (1001365) has gained c_ryelovya
+202 - sub vassal: c_ravenia - Holder 1001365 - Primary title: c_ravenia has lost the title: c_ravenia
+202 - sub vassal: c_ravenia - Title given to 1001365 - Primary title: d_tyio
+202 - vassal: d_tyio - Holder (1001365) has gained c_ravenia
+202 - sub vassal: d_tyio - Holder (1001365) has gained c_ravenia
+202 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+202 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+203 - vassal: d_ruisill - Holder 1000985 - Primary title: d_ruisill has lost the title: d_ruisill
+203 - sub vassal: d_ruisill - Holder 1000985 - Primary title: d_ruisill has lost the title: d_ruisill
+203 - vassal: d_ruisill - Title given to 1000985 - Primary title: d_waymar
+203 - sub vassal: d_ruisill - Title given to 1000985 - Primary title: d_waymar
+203 - vassal: d_waymar - Holder (1000985) has gained d_ruisill
+203 - sub vassal: d_waymar - Holder (1000985) has gained d_ruisill
+203 - sub vassal: c_kaykaus - Holder 1000985 - Primary title: c_kaykaus has lost the title: c_kaykaus
+203 - sub vassal: c_kaykaus - Title given to 1000985 - Primary title: d_waymar
+203 - vassal: d_waymar - Holder (1000985) has gained c_kaykaus
+203 - sub vassal: d_waymar - Holder (1000985) has gained c_kaykaus
+203 - sub vassal: c_telide - Holder 1000985 - Primary title: c_telide has lost the title: c_telide
+203 - sub vassal: c_telide - Title given to 1000985 - Primary title: d_waymar
+203 - vassal: d_waymar - Holder (1000985) has gained c_telide
+203 - sub vassal: d_waymar - Holder (1000985) has gained c_telide
+203 - vassal: d_kelenia - Holder 1001648 - Primary title: d_kelenia has lost the title: d_kelenia
+203 - sub vassal: d_kelenia - Holder 1001648 - Primary title: d_kelenia has lost the title: d_kelenia
+203 - vassal: d_kelenia - Title given to 1001648
+203 - sub vassal: d_kelenia - Title given to 1001648
+203 - sub vassal: c_qavaus - Holder 1001648 - Primary title: c_qavaus has lost the title: c_qavaus
+203 - sub vassal: c_qavaus - Title given to 1001648 - Primary title: d_kelenia
+203 - vassal: d_kelenia - Holder (1001648) has gained c_qavaus
+203 - sub vassal: d_kelenia - Holder (1001648) has gained c_qavaus
+203 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+203 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+204 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+204 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+205 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+205 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+206 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+206 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+207 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+207 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+208 - vassal: d_afrarcus - Holder 1001903 - Primary title: d_afrarcus has lost the title: d_afrarcus
+208 - sub vassal: d_afrarcus - Holder 1001903 - Primary title: d_afrarcus has lost the title: d_afrarcus
+208 - vassal: d_afrarcus - Title given to 1001903
+208 - sub vassal: d_afrarcus - Title given to 1001903
+208 - sub vassal: c_byeloriy - Holder 1001903 - Primary title: c_byeloriy has lost the title: c_byeloriy
+208 - sub vassal: c_byeloriy - Title given to 1001903 - Primary title: d_afrarcus
+208 - vassal: d_afrarcus - Holder (1001903) has gained c_byeloriy
+208 - sub vassal: d_afrarcus - Holder (1001903) has gained c_byeloriy
+208 - sub vassal: c_aleylard - Holder 1001903 - Primary title: c_aleylard has lost the title: c_aleylard
+208 - sub vassal: c_aleylard - Title given to 1001903 - Primary title: d_afrarcus
+208 - vassal: d_afrarcus - Holder (1001903) has gained c_aleylard
+208 - sub vassal: d_afrarcus - Holder (1001903) has gained c_aleylard
+208 - sub vassal: c_kamogik - Holder 1001903 - Primary title: c_kamogik has lost the title: c_kamogik
+208 - sub vassal: c_kamogik - Title given to 1001903 - Primary title: d_afrarcus
+208 - vassal: d_afrarcus - Holder (1001903) has gained c_kamogik
+208 - sub vassal: d_afrarcus - Holder (1001903) has gained c_kamogik
+208 - sub vassal: c_renoriy - Holder 1001903 - Primary title: c_renoriy has lost the title: c_renoriy
+208 - sub vassal: c_renoriy - Title given to 1001903 - Primary title: d_afrarcus
+208 - vassal: d_afrarcus - Holder (1001903) has gained c_renoriy
+208 - sub vassal: d_afrarcus - Holder (1001903) has gained c_renoriy
+208 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+208 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+209 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+209 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+210 - vassal: d_afrarcus - Holder 1001365 - Primary title: d_afrarcus has lost the title: d_afrarcus
+210 - sub vassal: d_afrarcus - Holder 1001365 - Primary title: d_afrarcus has lost the title: d_afrarcus
+210 - vassal: d_afrarcus - Title given to 1001365 - Primary title: d_tyio
+210 - sub vassal: d_afrarcus - Title given to 1001365 - Primary title: d_tyio
+210 - vassal: d_tyio - Holder (1001365) has gained d_afrarcus
+210 - sub vassal: d_tyio - Holder (1001365) has gained d_afrarcus
+210 - sub vassal: c_byeloriy - Holder 1001365 - Primary title: c_byeloriy has lost the title: c_byeloriy
+210 - sub vassal: c_byeloriy - Title given to 1001365 - Primary title: d_tyio
+210 - vassal: d_tyio - Holder (1001365) has gained c_byeloriy
+210 - sub vassal: d_tyio - Holder (1001365) has gained c_byeloriy
+210 - sub vassal: c_aleylard - Holder 1001365 - Primary title: c_aleylard has lost the title: c_aleylard
+210 - sub vassal: c_aleylard - Title given to 1001365 - Primary title: d_tyio
+210 - vassal: d_tyio - Holder (1001365) has gained c_aleylard
+210 - sub vassal: d_tyio - Holder (1001365) has gained c_aleylard
+210 - sub vassal: c_kamogik - Holder 1001365 - Primary title: c_kamogik has lost the title: c_kamogik
+210 - sub vassal: c_kamogik - Title given to 1001365 - Primary title: d_tyio
+210 - vassal: d_tyio - Holder (1001365) has gained c_kamogik
+210 - sub vassal: d_tyio - Holder (1001365) has gained c_kamogik
+210 - sub vassal: c_renoriy - Holder 1001365 - Primary title: c_renoriy has lost the title: c_renoriy
+210 - sub vassal: c_renoriy - Title given to 1001365 - Primary title: d_tyio
+210 - vassal: d_tyio - Holder (1001365) has gained c_renoriy
+210 - sub vassal: d_tyio - Holder (1001365) has gained c_renoriy
+210 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+210 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+211 - vassal: d_afrarcus - Holder 1002313 - Primary title: d_afrarcus has lost the title: c_ryelifon
+211 - sub vassal: d_afrarcus - Holder 1002313 - Primary title: d_afrarcus has lost the title: c_ryelifon
+211 - sub vassal: c_ryelifon - Title given to 1002313
+211 - vassal: d_afrarcus - Holder 1002314 - Primary title: d_afrarcus has lost the title: c_ryelovya
+211 - sub vassal: d_afrarcus - Holder 1002314 - Primary title: d_afrarcus has lost the title: c_ryelovya
+211 - sub vassal: c_ryelovya - Title given to 1002314
+211 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+211 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+212 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+212 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+213 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+213 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+214 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+214 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+215 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+215 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+216 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+216 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+217 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+217 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+218 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+218 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+219 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+219 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+220 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+220 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+220 - Holder 1002139 - Primary title: k_damoava has lost the title: k_damoava
+220 - Title given to 1002139
+220 - vassal: d_lyelovya - Holder 1002139 - Primary title: d_lyelovya has lost the title: d_lyelovya
+220 - sub vassal: d_lyelovya - Holder 1002139 - Primary title: d_lyelovya has lost the title: d_lyelovya
+220 - vassal: d_lyelovya - Title given to 1002139 - Primary title: k_damoava
+220 - sub vassal: d_lyelovya - Title given to 1002139 - Primary title: k_damoava
+220 - Holder (1002139) has gained d_lyelovya
+220 - vassal: d_dakimma - Holder 1002139 - Primary title: d_dakimma has lost the title: d_dakimma
+220 - sub vassal: d_dakimma - Holder 1002139 - Primary title: d_dakimma has lost the title: d_dakimma
+220 - vassal: d_dakimma - Title given to 1002139 - Primary title: k_damoava
+220 - sub vassal: d_dakimma - Title given to 1002139 - Primary title: k_damoava
+220 - Holder (1002139) has gained d_dakimma
+220 - sub vassal: c_letava - Holder 1002139 - Primary title: c_letava has lost the title: c_letava
+220 - sub vassal: c_letava - Title given to 1002139 - Primary title: k_damoava
+220 - Holder (1002139) has gained c_letava
+221 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+221 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+222 - vassal: d_kelenia - Holder 1001365 - Primary title: d_kelenia has lost the title: d_kelenia
+222 - sub vassal: d_kelenia - Holder 1001365 - Primary title: d_kelenia has lost the title: d_kelenia
+222 - vassal: d_kelenia - Title given to 1001365 - Primary title: d_afrarcus
+222 - sub vassal: d_kelenia - Title given to 1001365 - Primary title: d_afrarcus
+222 - vassal: d_afrarcus - Holder (1001365) has gained d_kelenia
+222 - sub vassal: d_afrarcus - Holder (1001365) has gained d_kelenia
+222 - sub vassal: c_qavaus - Holder 1001365 - Primary title: c_qavaus has lost the title: c_qavaus
+222 - sub vassal: c_qavaus - Title given to 1001365 - Primary title: d_afrarcus
+222 - vassal: d_afrarcus - Holder (1001365) has gained c_qavaus
+222 - sub vassal: d_afrarcus - Holder (1001365) has gained c_qavaus
+222 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+222 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+223 - sub vassal: c_byeloriy - Given to 1002997 in HandleTitles - Too many duke titles
+223 - vassal: d_kelenia - Holder 1002997 - Primary title: d_kelenia has lost the title: c_byeloriy
+223 - sub vassal: d_kelenia - Holder 1002997 - Primary title: d_kelenia has lost the title: c_byeloriy
+223 - sub vassal: c_byeloriy - Title given to 1002997
+223 - vassal: d_kelenia - Holder 1002139 - Primary title: d_kelenia has lost the title: d_afrarcus
+223 - sub vassal: d_kelenia - Holder 1002139 - Primary title: d_kelenia has lost the title: d_afrarcus
+223 - vassal: d_afrarcus - Title given to 1002139 - Primary title: k_damoava
+223 - sub vassal: d_afrarcus - Title given to 1002139 - Primary title: k_damoava
+223 - Holder (1002139) has gained d_afrarcus
+223 - sub vassal: c_renoriy - Setting to vassal of d_kelenia in Validate Realm
+223 - vassal: d_afrarcus - Lost vassal: c_renoriy
+223 - sub vassal: d_afrarcus - Lost vassal: c_renoriy
+223 - sub vassal: c_kamogik - Setting to vassal of d_kelenia in Validate Realm
+223 - vassal: d_afrarcus - Lost vassal: c_kamogik
+223 - sub vassal: d_afrarcus - Lost vassal: c_kamogik
+223 - sub vassal: c_aleylard - Setting to vassal of d_kelenia in Validate Realm
+223 - vassal: d_afrarcus - Lost vassal: c_aleylard
+223 - sub vassal: d_afrarcus - Lost vassal: c_aleylard
+223 - vassal: d_kelenia - Gained vassal: c_aleylard
+223 - sub vassal: d_kelenia - Gained vassal: c_aleylard
+223 - vassal: d_kelenia - Gained vassal: c_kamogik
+223 - sub vassal: d_kelenia - Gained vassal: c_kamogik
+223 - vassal: d_kelenia - Gained vassal: c_renoriy
+223 - sub vassal: d_kelenia - Gained vassal: c_renoriy
+223 - vassal: d_afrarcus - Too many dukes, made direct title into vassal of k_damoava
+223 - sub vassal: d_afrarcus - Too many dukes, made direct title into vassal of k_damoava
+223 - Holder 1002998 - Primary title: k_damoava has lost the title: d_afrarcus
+223 - vassal: d_afrarcus - Title given to 1002998
+223 - sub vassal: d_afrarcus - Title given to 1002998
+223 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+223 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+224 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+224 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+225 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+225 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+226 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+226 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+227 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+227 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+228 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+228 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+229 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+229 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+230 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+230 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+231 - vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: d_tyio
+231 - sub vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: d_tyio
+231 - vassal: d_tyio - Title given to 1000992 - Primary title: d_elifon
+231 - sub vassal: d_tyio - Title given to 1000992 - Primary title: d_elifon
+231 - vassal: d_elifon - Holder (1000992) has gained d_tyio
+231 - sub vassal: d_elifon - Holder (1000992) has gained d_tyio
+231 - sub vassal: c_ravenia - Setting to vassal of d_kelenia in Validate Realm
+231 - vassal: d_tyio - Lost vassal: c_ravenia
+231 - sub vassal: d_tyio - Lost vassal: c_ravenia
+231 - vassal: d_kelenia - Gained vassal: c_ravenia
+231 - sub vassal: d_kelenia - Gained vassal: c_ravenia
+231 - vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: c_renoriy
+231 - sub vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: c_renoriy
+231 - sub vassal: c_renoriy - Title given to 1000992 - Primary title: d_elifon
+231 - vassal: d_elifon - Holder (1000992) has gained c_renoriy
+231 - sub vassal: d_elifon - Holder (1000992) has gained c_renoriy
+231 - sub vassal: c_renoriy - Setting to vassal of d_elifon in Validate Realm
+231 - vassal: d_kelenia - Lost vassal: c_renoriy
+231 - sub vassal: d_kelenia - Lost vassal: c_renoriy
+231 - vassal: d_elifon - Gained vassal: c_renoriy
+231 - sub vassal: d_elifon - Gained vassal: c_renoriy
+231 - vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: c_kamogik
+231 - sub vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: c_kamogik
+231 - sub vassal: c_kamogik - Title given to 1000992 - Primary title: d_elifon
+231 - vassal: d_elifon - Holder (1000992) has gained c_kamogik
+231 - sub vassal: d_elifon - Holder (1000992) has gained c_kamogik
+231 - sub vassal: c_kamogik - Setting to vassal of d_elifon in Validate Realm
+231 - vassal: d_kelenia - Lost vassal: c_kamogik
+231 - sub vassal: d_kelenia - Lost vassal: c_kamogik
+231 - vassal: d_elifon - Gained vassal: c_kamogik
+231 - sub vassal: d_elifon - Gained vassal: c_kamogik
+231 - vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: c_aleylard
+231 - sub vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: c_aleylard
+231 - sub vassal: c_aleylard - Title given to 1000992 - Primary title: d_elifon
+231 - vassal: d_elifon - Holder (1000992) has gained c_aleylard
+231 - sub vassal: d_elifon - Holder (1000992) has gained c_aleylard
+231 - sub vassal: c_aleylard - Setting to vassal of d_elifon in Validate Realm
+231 - vassal: d_kelenia - Lost vassal: c_aleylard
+231 - sub vassal: d_kelenia - Lost vassal: c_aleylard
+231 - vassal: d_elifon - Gained vassal: c_aleylard
+231 - sub vassal: d_elifon - Gained vassal: c_aleylard
+231 - vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: c_ravenia
+231 - sub vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: c_ravenia
+231 - sub vassal: c_ravenia - Title given to 1000992 - Primary title: d_elifon
+231 - vassal: d_elifon - Holder (1000992) has gained c_ravenia
+231 - sub vassal: d_elifon - Holder (1000992) has gained c_ravenia
+231 - sub vassal: c_ravenia - Setting to vassal of d_elifon in Validate Realm
+231 - vassal: d_kelenia - Lost vassal: c_ravenia
+231 - sub vassal: d_kelenia - Lost vassal: c_ravenia
+231 - vassal: d_elifon - Gained vassal: c_ravenia
+231 - sub vassal: d_elifon - Gained vassal: c_ravenia
+231 - vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: d_kelenia
+231 - sub vassal: d_kelenia - Holder 1000992 - Primary title: d_kelenia has lost the title: d_kelenia
+231 - vassal: d_kelenia - Title given to 1000992 - Primary title: d_elifon
+231 - sub vassal: d_kelenia - Title given to 1000992 - Primary title: d_elifon
+231 - vassal: d_elifon - Holder (1000992) has gained d_kelenia
+231 - sub vassal: d_elifon - Holder (1000992) has gained d_kelenia
+231 - sub vassal: c_qavaus - Holder 1000992 - Primary title: c_qavaus has lost the title: c_qavaus
+231 - sub vassal: c_qavaus - Title given to 1000992 - Primary title: d_elifon
+231 - vassal: d_elifon - Holder (1000992) has gained c_qavaus
+231 - sub vassal: d_elifon - Holder (1000992) has gained c_qavaus
+231 - sub vassal: c_ryelifon - Holder 1000992 - Primary title: c_ryelifon has lost the title: c_ryelifon
+231 - sub vassal: c_ryelifon - Title given to 1000992 - Primary title: d_kelenia
+231 - vassal: d_kelenia - Holder (1000992) has gained c_ryelifon
+231 - sub vassal: d_kelenia - Holder (1000992) has gained c_ryelifon
+231 - sub vassal: c_ryelifon - Given to 1003485 in HandleTitles - Too many duke titles
+231 - vassal: d_elifon - Holder 1003485 - Primary title: d_elifon has lost the title: c_ryelifon
+231 - sub vassal: d_elifon - Holder 1003485 - Primary title: d_elifon has lost the title: c_ryelifon
+231 - sub vassal: c_ryelifon - Title given to 1003485
+231 - vassal: d_elifon - Holder 1002139 - Primary title: d_elifon has lost the title: d_tyio
+231 - sub vassal: d_elifon - Holder 1002139 - Primary title: d_elifon has lost the title: d_tyio
+231 - vassal: d_tyio - Title given to 1002139 - Primary title: k_damoava
+231 - sub vassal: d_tyio - Title given to 1002139 - Primary title: k_damoava
+231 - Holder (1002139) has gained d_tyio
+231 - vassal: d_tyio - Too many dukes, made direct title into vassal of k_damoava
+231 - sub vassal: d_tyio - Too many dukes, made direct title into vassal of k_damoava
+231 - Holder 1003486 - Primary title: k_damoava has lost the title: d_tyio
+231 - vassal: d_tyio - Title given to 1003486
+231 - sub vassal: d_tyio - Title given to 1003486
+231 - sub vassal: c_reyide - Given to 1003487 in HandleTitles - Too many duke titles
+231 - vassal: d_elifon - Holder 1003487 - Primary title: d_elifon has lost the title: c_reyide
+231 - sub vassal: d_elifon - Holder 1003487 - Primary title: d_elifon has lost the title: c_reyide
+231 - sub vassal: c_reyide - Title given to 1003487
+231 - vassal: d_elifon - Holder 1002139 - Primary title: d_elifon has lost the title: d_ryaus
+231 - sub vassal: d_elifon - Holder 1002139 - Primary title: d_elifon has lost the title: d_ryaus
+231 - vassal: d_ryaus - Title given to 1002139 - Primary title: k_damoava
+231 - sub vassal: d_ryaus - Title given to 1002139 - Primary title: k_damoava
+231 - Holder (1002139) has gained d_ryaus
+231 - sub vassal: c_eberodar - Setting to vassal of d_elifon in Validate Realm
+231 - vassal: d_ryaus - Lost vassal: c_eberodar
+231 - sub vassal: d_ryaus - Lost vassal: c_eberodar
+231 - vassal: d_elifon - Gained vassal: c_eberodar
+231 - sub vassal: d_elifon - Gained vassal: c_eberodar
+231 - vassal: d_ryaus - Too many dukes, made direct title into vassal of k_damoava
+231 - sub vassal: d_ryaus - Too many dukes, made direct title into vassal of k_damoava
+231 - Holder 1003488 - Primary title: k_damoava has lost the title: d_ryaus
+231 - vassal: d_ryaus - Title given to 1003488
+231 - sub vassal: d_ryaus - Title given to 1003488
+231 - vassal: d_elifon - Holder 1003489 - Primary title: d_elifon has lost the title: c_qavaus
+231 - sub vassal: d_elifon - Holder 1003489 - Primary title: d_elifon has lost the title: c_qavaus
+231 - sub vassal: c_qavaus - Title given to 1003489
+231 - vassal: d_elifon - Holder 1003490 - Primary title: d_elifon has lost the title: c_aleylard
+231 - sub vassal: d_elifon - Holder 1003490 - Primary title: d_elifon has lost the title: c_aleylard
+231 - sub vassal: c_aleylard - Title given to 1003490
+231 - vassal: d_elifon - Holder 1003491 - Primary title: d_elifon has lost the title: c_ravenia
+231 - sub vassal: d_elifon - Holder 1003491 - Primary title: d_elifon has lost the title: c_ravenia
+231 - sub vassal: c_ravenia - Title given to 1003491
+231 - vassal: d_elifon - Holder 1003492 - Primary title: d_elifon has lost the title: c_darcus
+231 - sub vassal: d_elifon - Holder 1003492 - Primary title: d_elifon has lost the title: c_darcus
+231 - sub vassal: c_darcus - Title given to 1003492
+231 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+231 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+232 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+232 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+233 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+233 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+234 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+234 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+235 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+235 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+236 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+236 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+237 - vassal: d_elifon - Holder 1001979 - Primary title: d_elifon has lost the title: d_elifon
+237 - sub vassal: d_elifon - Holder 1001979 - Primary title: d_elifon has lost the title: d_elifon
+237 - vassal: d_elifon - Title given to 1001979
+237 - sub vassal: d_elifon - Title given to 1001979
+237 - sub vassal: c_relarcus - Setting to vassal of d_kelenia in Validate Realm
+237 - vassal: d_elifon - Lost vassal: c_relarcus
+237 - sub vassal: d_elifon - Lost vassal: c_relarcus
+237 - sub vassal: c_nelill - Setting to vassal of d_kelenia in Validate Realm
+237 - vassal: d_elifon - Lost vassal: c_nelill
+237 - sub vassal: d_elifon - Lost vassal: c_nelill
+237 - sub vassal: c_eberodar - Setting to vassal of d_kelenia in Validate Realm
+237 - vassal: d_elifon - Lost vassal: c_eberodar
+237 - sub vassal: d_elifon - Lost vassal: c_eberodar
+237 - sub vassal: c_renoriy - Setting to vassal of d_kelenia in Validate Realm
+237 - vassal: d_elifon - Lost vassal: c_renoriy
+237 - sub vassal: d_elifon - Lost vassal: c_renoriy
+237 - sub vassal: c_kamogik - Setting to vassal of d_kelenia in Validate Realm
+237 - vassal: d_elifon - Lost vassal: c_kamogik
+237 - sub vassal: d_elifon - Lost vassal: c_kamogik
+237 - vassal: d_kelenia - Gained vassal: c_kamogik
+237 - sub vassal: d_kelenia - Gained vassal: c_kamogik
+237 - vassal: d_kelenia - Gained vassal: c_renoriy
+237 - sub vassal: d_kelenia - Gained vassal: c_renoriy
+237 - vassal: d_kelenia - Gained vassal: c_eberodar
+237 - sub vassal: d_kelenia - Gained vassal: c_eberodar
+237 - vassal: d_kelenia - Gained vassal: c_nelill
+237 - sub vassal: d_kelenia - Gained vassal: c_nelill
+237 - vassal: d_kelenia - Gained vassal: c_relarcus
+237 - sub vassal: d_kelenia - Gained vassal: c_relarcus
+237 - vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_relarcus
+237 - sub vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_relarcus
+237 - sub vassal: c_relarcus - Title given to 1001979 - Primary title: d_elifon
+237 - vassal: d_elifon - Holder (1001979) has gained c_relarcus
+237 - sub vassal: d_elifon - Holder (1001979) has gained c_relarcus
+237 - sub vassal: c_relarcus - Setting to vassal of d_elifon in Validate Realm
+237 - vassal: d_kelenia - Lost vassal: c_relarcus
+237 - sub vassal: d_kelenia - Lost vassal: c_relarcus
+237 - vassal: d_elifon - Gained vassal: c_relarcus
+237 - sub vassal: d_elifon - Gained vassal: c_relarcus
+237 - vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_nelill
+237 - sub vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_nelill
+237 - sub vassal: c_nelill - Title given to 1001979 - Primary title: d_elifon
+237 - vassal: d_elifon - Holder (1001979) has gained c_nelill
+237 - sub vassal: d_elifon - Holder (1001979) has gained c_nelill
+237 - sub vassal: c_nelill - Setting to vassal of d_elifon in Validate Realm
+237 - vassal: d_kelenia - Lost vassal: c_nelill
+237 - sub vassal: d_kelenia - Lost vassal: c_nelill
+237 - vassal: d_elifon - Gained vassal: c_nelill
+237 - sub vassal: d_elifon - Gained vassal: c_nelill
+237 - vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_eberodar
+237 - sub vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_eberodar
+237 - sub vassal: c_eberodar - Title given to 1001979 - Primary title: d_elifon
+237 - vassal: d_elifon - Holder (1001979) has gained c_eberodar
+237 - sub vassal: d_elifon - Holder (1001979) has gained c_eberodar
+237 - sub vassal: c_eberodar - Setting to vassal of d_elifon in Validate Realm
+237 - vassal: d_kelenia - Lost vassal: c_eberodar
+237 - sub vassal: d_kelenia - Lost vassal: c_eberodar
+237 - vassal: d_elifon - Gained vassal: c_eberodar
+237 - sub vassal: d_elifon - Gained vassal: c_eberodar
+237 - vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_renoriy
+237 - sub vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_renoriy
+237 - sub vassal: c_renoriy - Title given to 1001979 - Primary title: d_elifon
+237 - vassal: d_elifon - Holder (1001979) has gained c_renoriy
+237 - sub vassal: d_elifon - Holder (1001979) has gained c_renoriy
+237 - sub vassal: c_renoriy - Setting to vassal of d_elifon in Validate Realm
+237 - vassal: d_kelenia - Lost vassal: c_renoriy
+237 - sub vassal: d_kelenia - Lost vassal: c_renoriy
+237 - vassal: d_elifon - Gained vassal: c_renoriy
+237 - sub vassal: d_elifon - Gained vassal: c_renoriy
+237 - vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_kamogik
+237 - sub vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: c_kamogik
+237 - sub vassal: c_kamogik - Title given to 1001979 - Primary title: d_elifon
+237 - vassal: d_elifon - Holder (1001979) has gained c_kamogik
+237 - sub vassal: d_elifon - Holder (1001979) has gained c_kamogik
+237 - sub vassal: c_kamogik - Setting to vassal of d_elifon in Validate Realm
+237 - vassal: d_kelenia - Lost vassal: c_kamogik
+237 - sub vassal: d_kelenia - Lost vassal: c_kamogik
+237 - vassal: d_elifon - Gained vassal: c_kamogik
+237 - sub vassal: d_elifon - Gained vassal: c_kamogik
+237 - vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: d_kelenia
+237 - sub vassal: d_kelenia - Holder 1001979 - Primary title: d_kelenia has lost the title: d_kelenia
+237 - vassal: d_kelenia - Title given to 1001979 - Primary title: d_elifon
+237 - sub vassal: d_kelenia - Title given to 1001979 - Primary title: d_elifon
+237 - vassal: d_elifon - Holder (1001979) has gained d_kelenia
+237 - sub vassal: d_elifon - Holder (1001979) has gained d_kelenia
+237 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+237 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+238 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+238 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+239 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+239 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+240 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+240 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+241 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+241 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+242 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+242 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+243 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+243 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+244 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+244 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+245 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+245 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+246 - vassal: d_elifon - Holder 1004031 - Primary title: d_elifon has lost the title: d_elifon
+246 - sub vassal: d_elifon - Holder 1004031 - Primary title: d_elifon has lost the title: d_elifon
+246 - vassal: d_elifon - Title given to 1004031
+246 - sub vassal: d_elifon - Title given to 1004031
+246 - sub vassal: c_relarcus - Setting to vassal of d_kelenia in Validate Realm
+246 - vassal: d_elifon - Lost vassal: c_relarcus
+246 - sub vassal: d_elifon - Lost vassal: c_relarcus
+246 - sub vassal: c_nelill - Setting to vassal of d_kelenia in Validate Realm
+246 - vassal: d_elifon - Lost vassal: c_nelill
+246 - sub vassal: d_elifon - Lost vassal: c_nelill
+246 - sub vassal: c_eberodar - Setting to vassal of d_kelenia in Validate Realm
+246 - vassal: d_elifon - Lost vassal: c_eberodar
+246 - sub vassal: d_elifon - Lost vassal: c_eberodar
+246 - sub vassal: c_renoriy - Setting to vassal of d_kelenia in Validate Realm
+246 - vassal: d_elifon - Lost vassal: c_renoriy
+246 - sub vassal: d_elifon - Lost vassal: c_renoriy
+246 - sub vassal: c_kamogik - Setting to vassal of d_kelenia in Validate Realm
+246 - vassal: d_elifon - Lost vassal: c_kamogik
+246 - sub vassal: d_elifon - Lost vassal: c_kamogik
+246 - vassal: d_kelenia - Gained vassal: c_kamogik
+246 - sub vassal: d_kelenia - Gained vassal: c_kamogik
+246 - vassal: d_kelenia - Gained vassal: c_renoriy
+246 - sub vassal: d_kelenia - Gained vassal: c_renoriy
+246 - vassal: d_kelenia - Gained vassal: c_eberodar
+246 - sub vassal: d_kelenia - Gained vassal: c_eberodar
+246 - vassal: d_kelenia - Gained vassal: c_nelill
+246 - sub vassal: d_kelenia - Gained vassal: c_nelill
+246 - vassal: d_kelenia - Gained vassal: c_relarcus
+246 - sub vassal: d_kelenia - Gained vassal: c_relarcus
+246 - vassal: d_kelenia - Holder 1004031 - Primary title: d_kelenia has lost the title: d_kelenia
+246 - sub vassal: d_kelenia - Holder 1004031 - Primary title: d_kelenia has lost the title: d_kelenia
+246 - vassal: d_kelenia - Title given to 1004031 - Primary title: d_elifon
+246 - sub vassal: d_kelenia - Title given to 1004031 - Primary title: d_elifon
+246 - vassal: d_elifon - Holder (1004031) has gained d_kelenia
+246 - sub vassal: d_elifon - Holder (1004031) has gained d_kelenia
+246 - sub vassal: c_relarcus - Holder 1004031 - Primary title: c_relarcus has lost the title: c_relarcus
+246 - sub vassal: c_relarcus - Title given to 1004031 - Primary title: d_elifon
+246 - vassal: d_elifon - Holder (1004031) has gained c_relarcus
+246 - sub vassal: d_elifon - Holder (1004031) has gained c_relarcus
+246 - sub vassal: c_nelill - Holder 1004031 - Primary title: c_nelill has lost the title: c_nelill
+246 - sub vassal: c_nelill - Title given to 1004031 - Primary title: d_elifon
+246 - vassal: d_elifon - Holder (1004031) has gained c_nelill
+246 - sub vassal: d_elifon - Holder (1004031) has gained c_nelill
+246 - sub vassal: c_eberodar - Holder 1004031 - Primary title: c_eberodar has lost the title: c_eberodar
+246 - sub vassal: c_eberodar - Title given to 1004031 - Primary title: d_elifon
+246 - vassal: d_elifon - Holder (1004031) has gained c_eberodar
+246 - sub vassal: d_elifon - Holder (1004031) has gained c_eberodar
+246 - sub vassal: c_renoriy - Holder 1004031 - Primary title: c_renoriy has lost the title: c_renoriy
+246 - sub vassal: c_renoriy - Title given to 1004031 - Primary title: d_elifon
+246 - vassal: d_elifon - Holder (1004031) has gained c_renoriy
+246 - sub vassal: d_elifon - Holder (1004031) has gained c_renoriy
+246 - sub vassal: c_kamogik - Holder 1004031 - Primary title: c_kamogik has lost the title: c_kamogik
+246 - sub vassal: c_kamogik - Title given to 1004031 - Primary title: d_elifon
+246 - vassal: d_elifon - Holder (1004031) has gained c_kamogik
+246 - sub vassal: d_elifon - Holder (1004031) has gained c_kamogik
+246 - sub vassal: c_ravenia - Holder 1004031 - Primary title: c_ravenia has lost the title: c_ravenia
+246 - sub vassal: c_ravenia - Title given to 1004031 - Primary title: d_elifon
+246 - vassal: d_elifon - Holder (1004031) has gained c_ravenia
+246 - sub vassal: d_elifon - Holder (1004031) has gained c_ravenia
+246 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+246 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+247 - vassal: d_elifon - Holder 1004465 - Primary title: d_elifon has lost the title: c_kamogik
+247 - sub vassal: d_elifon - Holder 1004465 - Primary title: d_elifon has lost the title: c_kamogik
+247 - sub vassal: c_kamogik - Title given to 1004465
+247 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+247 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+248 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+248 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+249 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+249 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+250 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+250 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+251 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+251 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+252 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+252 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+253 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+253 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+254 - vassal: d_tyio - Holder 1004893 - Primary title: d_tyio has lost the title: d_tyio
+254 - sub vassal: d_tyio - Holder 1004893 - Primary title: d_tyio has lost the title: d_tyio
+254 - vassal: d_tyio - Title given to 1004893
+254 - sub vassal: d_tyio - Title given to 1004893
+254 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+254 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+255 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+255 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+256 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+256 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+257 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+257 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+258 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+258 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+259 - vassal: d_afrarcus - Holder 1003050 - Primary title: d_afrarcus has lost the title: d_afrarcus
+259 - sub vassal: d_afrarcus - Holder 1003050 - Primary title: d_afrarcus has lost the title: d_afrarcus
+259 - vassal: d_afrarcus - Title given to 1003050
+259 - sub vassal: d_afrarcus - Title given to 1003050
+259 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+259 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+260 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+260 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+261 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+261 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+262 - vassal: d_waymar - Holder 1001647 - Primary title: d_waymar has lost the title: d_waymar
+262 - sub vassal: d_waymar - Holder 1001647 - Primary title: d_waymar has lost the title: d_waymar
+262 - vassal: d_waymar - Title given to 1001647
+262 - sub vassal: d_waymar - Title given to 1001647
+262 - sub vassal: c_kerar - Setting to vassal of d_ruisill in Validate Realm
+262 - vassal: d_waymar - Lost vassal: c_kerar
+262 - sub vassal: d_waymar - Lost vassal: c_kerar
+262 - sub vassal: c_tamoas - Setting to vassal of d_ruisill in Validate Realm
+262 - vassal: d_waymar - Lost vassal: c_tamoas
+262 - sub vassal: d_waymar - Lost vassal: c_tamoas
+262 - vassal: d_ruisill - Gained vassal: c_tamoas
+262 - sub vassal: d_ruisill - Gained vassal: c_tamoas
+262 - vassal: d_ruisill - Gained vassal: c_kerar
+262 - sub vassal: d_ruisill - Gained vassal: c_kerar
+262 - vassal: d_ruisill - Holder 1001647 - Primary title: d_ruisill has lost the title: d_ruisill
+262 - sub vassal: d_ruisill - Holder 1001647 - Primary title: d_ruisill has lost the title: d_ruisill
+262 - vassal: d_ruisill - Title given to 1001647 - Primary title: d_waymar
+262 - sub vassal: d_ruisill - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: d_waymar - Holder (1001647) has gained d_ruisill
+262 - sub vassal: d_waymar - Holder (1001647) has gained d_ruisill
+262 - sub vassal: c_kerar - Holder 1001647 - Primary title: c_kerar has lost the title: c_kerar
+262 - sub vassal: c_kerar - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: d_waymar - Holder (1001647) has gained c_kerar
+262 - sub vassal: d_waymar - Holder (1001647) has gained c_kerar
+262 - sub vassal: c_tamoas - Holder 1001647 - Primary title: c_tamoas has lost the title: c_tamoas
+262 - sub vassal: c_tamoas - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: d_waymar - Holder (1001647) has gained c_tamoas
+262 - sub vassal: d_waymar - Holder (1001647) has gained c_tamoas
+262 - sub vassal: c_kaykaus - Holder 1001647 - Primary title: c_kaykaus has lost the title: c_kaykaus
+262 - sub vassal: c_kaykaus - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: d_waymar - Holder (1001647) has gained c_kaykaus
+262 - sub vassal: d_waymar - Holder (1001647) has gained c_kaykaus
+262 - sub vassal: c_telide - Holder 1001647 - Primary title: c_telide has lost the title: c_telide
+262 - sub vassal: c_telide - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: d_waymar - Holder (1001647) has gained c_telide
+262 - sub vassal: d_waymar - Holder (1001647) has gained c_telide
+262 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+262 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+263 - vassal: d_waymar - Destroyed due to flagged problem
+263 - sub vassal: d_waymar - Destroyed due to flagged problem
+263 - vassal: d_waymar - Made independent
+263 - sub vassal: d_waymar - Made independent
+263 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+263 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+264 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+264 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+265 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+265 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+266 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+266 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+267 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+267 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+268 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+268 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+269 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+269 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+270 - vassal: d_ruisill - Holder 1005513 - Primary title: d_ruisill has lost the title: d_ruisill
+270 - sub vassal: d_ruisill - Holder 1005513 - Primary title: d_ruisill has lost the title: d_ruisill
+270 - vassal: d_ruisill - Title given to 1005513
+270 - sub vassal: d_ruisill - Title given to 1005513
+270 - sub vassal: c_kerar - Holder 1005513 - Primary title: c_kerar has lost the title: c_kerar
+270 - sub vassal: c_kerar - Title given to 1005513 - Primary title: d_ruisill
+270 - vassal: d_ruisill - Holder (1005513) has gained c_kerar
+270 - sub vassal: d_ruisill - Holder (1005513) has gained c_kerar
+270 - sub vassal: c_tamoas - Holder 1005513 - Primary title: c_tamoas has lost the title: c_tamoas
+270 - sub vassal: c_tamoas - Title given to 1005513 - Primary title: d_ruisill
+270 - vassal: d_ruisill - Holder (1005513) has gained c_tamoas
+270 - sub vassal: d_ruisill - Holder (1005513) has gained c_tamoas
+270 - sub vassal: c_kaykaus - Holder 1005513 - Primary title: c_kaykaus has lost the title: c_kaykaus
+270 - sub vassal: c_kaykaus - Title given to 1005513 - Primary title: d_ruisill
+270 - vassal: d_ruisill - Holder (1005513) has gained c_kaykaus
+270 - sub vassal: d_ruisill - Holder (1005513) has gained c_kaykaus
+270 - sub vassal: c_telide - Holder 1005513 - Primary title: c_telide has lost the title: c_telide
+270 - sub vassal: c_telide - Title given to 1005513 - Primary title: d_ruisill
+270 - vassal: d_ruisill - Holder (1005513) has gained c_telide
+270 - sub vassal: d_ruisill - Holder (1005513) has gained c_telide
+270 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+270 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+271 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+271 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+272 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+272 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+272 - Holder 1003063 - Primary title: k_damoava has lost the title: k_damoava
+272 - Title given to 1003063
+272 - vassal: d_lyelovya - Holder 1003063 - Primary title: d_lyelovya has lost the title: d_lyelovya
+272 - sub vassal: d_lyelovya - Holder 1003063 - Primary title: d_lyelovya has lost the title: d_lyelovya
+272 - vassal: d_lyelovya - Title given to 1003063 - Primary title: k_damoava
+272 - sub vassal: d_lyelovya - Title given to 1003063 - Primary title: k_damoava
+272 - Holder (1003063) has gained d_lyelovya
+272 - vassal: d_dakimma - Holder 1003063 - Primary title: d_dakimma has lost the title: d_dakimma
+272 - sub vassal: d_dakimma - Holder 1003063 - Primary title: d_dakimma has lost the title: d_dakimma
+272 - vassal: d_dakimma - Title given to 1003063 - Primary title: k_damoava
+272 - sub vassal: d_dakimma - Title given to 1003063 - Primary title: k_damoava
+272 - Holder (1003063) has gained d_dakimma
+272 - sub vassal: c_letava - Holder 1003063 - Primary title: c_letava has lost the title: c_letava
+272 - sub vassal: c_letava - Title given to 1003063 - Primary title: k_damoava
+272 - Holder (1003063) has gained c_letava
+273 - vassal: d_ruisill - Holder 1004893 - Primary title: d_ruisill has lost the title: d_ruisill
+273 - sub vassal: d_ruisill - Holder 1004893 - Primary title: d_ruisill has lost the title: d_ruisill
+273 - vassal: d_ruisill - Title given to 1004893 - Primary title: d_tyio
+273 - sub vassal: d_ruisill - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: d_tyio - Holder (1004893) has gained d_ruisill
+273 - sub vassal: d_tyio - Holder (1004893) has gained d_ruisill
+273 - sub vassal: c_kerar - Holder 1004893 - Primary title: c_kerar has lost the title: c_kerar
+273 - sub vassal: c_kerar - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: d_tyio - Holder (1004893) has gained c_kerar
+273 - sub vassal: d_tyio - Holder (1004893) has gained c_kerar
+273 - sub vassal: c_tamoas - Holder 1004893 - Primary title: c_tamoas has lost the title: c_tamoas
+273 - sub vassal: c_tamoas - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: d_tyio - Holder (1004893) has gained c_tamoas
+273 - sub vassal: d_tyio - Holder (1004893) has gained c_tamoas
+273 - sub vassal: c_kaykaus - Holder 1004893 - Primary title: c_kaykaus has lost the title: c_kaykaus
+273 - sub vassal: c_kaykaus - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: d_tyio - Holder (1004893) has gained c_kaykaus
+273 - sub vassal: d_tyio - Holder (1004893) has gained c_kaykaus
+273 - sub vassal: c_telide - Holder 1004893 - Primary title: c_telide has lost the title: c_telide
+273 - sub vassal: c_telide - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: d_tyio - Holder (1004893) has gained c_telide
+273 - sub vassal: d_tyio - Holder (1004893) has gained c_telide
+273 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+273 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+274 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+274 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+275 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+275 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+276 - vassal: d_ryaus - Holder 1003596 - Primary title: d_ryaus has lost the title: d_ryaus
+276 - sub vassal: d_ryaus - Holder 1003596 - Primary title: d_ryaus has lost the title: d_ryaus
+276 - vassal: d_ryaus - Title given to 1003596
+276 - sub vassal: d_ryaus - Title given to 1003596
+276 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+276 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+277 - vassal: d_elifon - Holder 1005134 - Primary title: d_elifon has lost the title: d_elifon
+277 - sub vassal: d_elifon - Holder 1005134 - Primary title: d_elifon has lost the title: d_elifon
+277 - vassal: d_elifon - Title given to 1005134
+277 - sub vassal: d_elifon - Title given to 1005134
+277 - sub vassal: c_ravenia - Setting to vassal of d_kelenia in Validate Realm
+277 - vassal: d_elifon - Lost vassal: c_ravenia
+277 - sub vassal: d_elifon - Lost vassal: c_ravenia
+277 - vassal: d_kelenia - Gained vassal: c_ravenia
+277 - sub vassal: d_kelenia - Gained vassal: c_ravenia
+277 - vassal: d_kelenia - Holder 1005134 - Primary title: d_kelenia has lost the title: d_kelenia
+277 - sub vassal: d_kelenia - Holder 1005134 - Primary title: d_kelenia has lost the title: d_kelenia
+277 - vassal: d_kelenia - Title given to 1005134 - Primary title: d_elifon
+277 - sub vassal: d_kelenia - Title given to 1005134 - Primary title: d_elifon
+277 - vassal: d_elifon - Holder (1005134) has gained d_kelenia
+277 - sub vassal: d_elifon - Holder (1005134) has gained d_kelenia
+277 - sub vassal: c_relarcus - Holder 1005134 - Primary title: c_relarcus has lost the title: c_relarcus
+277 - sub vassal: c_relarcus - Title given to 1005134 - Primary title: d_elifon
+277 - vassal: d_elifon - Holder (1005134) has gained c_relarcus
+277 - sub vassal: d_elifon - Holder (1005134) has gained c_relarcus
+277 - sub vassal: c_nelill - Holder 1005134 - Primary title: c_nelill has lost the title: c_nelill
+277 - sub vassal: c_nelill - Title given to 1005134 - Primary title: d_elifon
+277 - vassal: d_elifon - Holder (1005134) has gained c_nelill
+277 - sub vassal: d_elifon - Holder (1005134) has gained c_nelill
+277 - sub vassal: c_eberodar - Holder 1005134 - Primary title: c_eberodar has lost the title: c_eberodar
+277 - sub vassal: c_eberodar - Title given to 1005134 - Primary title: d_elifon
+277 - vassal: d_elifon - Holder (1005134) has gained c_eberodar
+277 - sub vassal: d_elifon - Holder (1005134) has gained c_eberodar
+277 - sub vassal: c_renoriy - Holder 1005134 - Primary title: c_renoriy has lost the title: c_renoriy
+277 - sub vassal: c_renoriy - Title given to 1005134 - Primary title: d_elifon
+277 - vassal: d_elifon - Holder (1005134) has gained c_renoriy
+277 - sub vassal: d_elifon - Holder (1005134) has gained c_renoriy
+277 - sub vassal: c_ravenia - Holder 1005134 - Primary title: c_ravenia has lost the title: c_ravenia
+277 - sub vassal: c_ravenia - Title given to 1005134 - Primary title: d_elifon
+277 - vassal: d_elifon - Holder (1005134) has gained c_ravenia
+277 - sub vassal: d_elifon - Holder (1005134) has gained c_ravenia
+277 - sub vassal: c_aleylard - Holder 1005134 - Primary title: c_aleylard has lost the title: c_aleylard
+277 - sub vassal: c_aleylard - Title given to 1005134 - Primary title: d_elifon
+277 - vassal: d_elifon - Holder (1005134) has gained c_aleylard
+277 - sub vassal: d_elifon - Holder (1005134) has gained c_aleylard
+277 - sub vassal: c_letava - Made vassal of neighbour (k_ketus) due to being a seperate island
+277 - sub vassal: c_letava - Given to neighbour holder of k_ketus
+278 - vassal: d_elifon - Holder 1006343 - Primary title: d_elifon has lost the title: c_eberodar
+278 - sub vassal: d_elifon - Holder 1006343 - Primary title: d_elifon has lost the title: c_eberodar
+278 - sub vassal: c_eberodar - Title given to 1006343
+278 - vassal: d_elifon - Holder 1003063 - Primary title: d_elifon has lost the title: d_elifon
+278 - sub vassal: d_elifon - Holder 1003063 - Primary title: d_elifon has lost the title: d_elifon
+278 - vassal: d_elifon - Title given to 1003063 - Primary title: k_damoava
+278 - sub vassal: d_elifon - Title given to 1003063 - Primary title: k_damoava
+278 - Holder (1003063) has gained d_elifon
+278 - sub vassal: c_aleylard - Setting to vassal of d_kelenia in Validate Realm
+278 - vassal: d_elifon - Lost vassal: c_aleylard
+278 - sub vassal: d_elifon - Lost vassal: c_aleylard
+278 - vassal: d_kelenia - Gained vassal: c_aleylard
+278 - sub vassal: d_kelenia - Gained vassal: c_aleylard
+278 - vassal: d_kelenia - Holder 1003063 - Primary title: d_kelenia has lost the title: d_kelenia
+278 - sub vassal: d_kelenia - Holder 1003063 - Primary title: d_kelenia has lost the title: d_kelenia
+278 - vassal: d_kelenia - Title given to 1003063 - Primary title: k_damoava
+278 - sub vassal: d_kelenia - Title given to 1003063 - Primary title: k_damoava
+278 - Holder (1003063) has gained d_kelenia
+278 - sub vassal: c_relarcus - Holder 1003063 - Primary title: c_relarcus has lost the title: c_relarcus
+278 - sub vassal: c_relarcus - Title given to 1003063 - Primary title: k_damoava
+278 - Holder (1003063) has gained c_relarcus
+278 - sub vassal: c_nelill - Holder 1003063 - Primary title: c_nelill has lost the title: c_nelill
+278 - sub vassal: c_nelill - Title given to 1003063 - Primary title: k_damoava
+278 - Holder (1003063) has gained c_nelill
+278 - sub vassal: c_renoriy - Holder 1003063 - Primary title: c_renoriy has lost the title: c_renoriy
+278 - sub vassal: c_renoriy - Title given to 1003063 - Primary title: k_damoava
+278 - Holder (1003063) has gained c_renoriy
+278 - sub vassal: c_ravenia - Holder 1003063 - Primary title: c_ravenia has lost the title: c_ravenia
+278 - sub vassal: c_ravenia - Title given to 1003063 - Primary title: k_damoava
+278 - Holder (1003063) has gained c_ravenia
+278 - sub vassal: c_aleylard - Holder 1003063 - Primary title: c_aleylard has lost the title: c_aleylard
+278 - sub vassal: c_aleylard - Title given to 1003063 - Primary title: k_damoava
+278 - Holder (1003063) has gained c_aleylard
+278 - sub vassal: c_darcus - Holder 1003063 - Primary title: c_darcus has lost the title: c_darcus
+278 - sub vassal: c_darcus - Title given to 1003063 - Primary title: k_damoava
+278 - Holder (1003063) has gained c_darcus
+278 - sub vassal: c_darcus - Given to 1006354 in HandleTitles - Too many duke titles
+278 - Holder 1006354 - Primary title: k_damoava has lost the title: c_darcus
+278 - sub vassal: c_darcus - Title given to 1006354
+278 - Holder 1006354 - Primary title: k_damoava has lost the title: d_elifon
+278 - vassal: d_elifon - Title given to 1006354 - Primary title: c_darcus
+278 - sub vassal: d_elifon - Title given to 1006354 - Primary title: c_darcus
+278 - sub vassal: c_darcus - Holder (1006354) has gained d_elifon
+278 - vassal: d_elifon - Too many dukes, given to dejure: k_damoava
+278 - sub vassal: d_elifon - Too many dukes, given to dejure: k_damoava
+278 - sub vassal: c_letava - Given to 1006355 in HandleTitles - Too many duke titles
+278 - Holder 1006355 - Primary title: k_damoava has lost the title: c_letava
+278 - sub vassal: c_letava - Title given to 1006355
+278 - Holder 1006355 - Primary title: k_damoava has lost the title: d_dakimma
+278 - vassal: d_dakimma - Title given to 1006355 - Primary title: c_letava
+278 - sub vassal: d_dakimma - Title given to 1006355 - Primary title: c_letava
+278 - sub vassal: c_letava - Holder (1006355) has gained d_dakimma
+278 - vassal: d_dakimma - Too many dukes, given to dejure: k_damoava
+278 - sub vassal: d_dakimma - Too many dukes, given to dejure: k_damoava
+278 - vassal: d_dakimma - Made vassal of neighbour (k_ketus) due to being a seperate island
+278 - sub vassal: d_dakimma - Made vassal of neighbour (k_ketus) due to being a seperate island
+278 - Lost vassal: d_dakimma
+279 - Holder 1006356 - Primary title: k_damoava has lost the title: k_damoava
+279 - Title given to 1006356
+279 - vassal: d_lyelovya - Holder 1006356 - Primary title: d_lyelovya has lost the title: d_lyelovya
+279 - sub vassal: d_lyelovya - Holder 1006356 - Primary title: d_lyelovya has lost the title: d_lyelovya
+279 - vassal: d_lyelovya - Title given to 1006356 - Primary title: k_damoava
+279 - sub vassal: d_lyelovya - Title given to 1006356 - Primary title: k_damoava
+279 - Holder (1006356) has gained d_lyelovya
+279 - vassal: d_kelenia - Holder 1006356 - Primary title: d_kelenia has lost the title: d_kelenia
+279 - sub vassal: d_kelenia - Holder 1006356 - Primary title: d_kelenia has lost the title: d_kelenia
+279 - vassal: d_kelenia - Title given to 1006356 - Primary title: k_damoava
+279 - sub vassal: d_kelenia - Title given to 1006356 - Primary title: k_damoava
+279 - Holder (1006356) has gained d_kelenia
+279 - sub vassal: c_relarcus - Holder 1006356 - Primary title: c_relarcus has lost the title: c_relarcus
+279 - sub vassal: c_relarcus - Title given to 1006356 - Primary title: k_damoava
+279 - Holder (1006356) has gained c_relarcus
+279 - sub vassal: c_nelill - Holder 1006356 - Primary title: c_nelill has lost the title: c_nelill
+279 - sub vassal: c_nelill - Title given to 1006356 - Primary title: k_damoava
+279 - Holder (1006356) has gained c_nelill
+279 - sub vassal: c_renoriy - Holder 1006356 - Primary title: c_renoriy has lost the title: c_renoriy
+279 - sub vassal: c_renoriy - Title given to 1006356 - Primary title: k_damoava
+279 - Holder (1006356) has gained c_renoriy
+279 - sub vassal: c_ravenia - Holder 1006356 - Primary title: c_ravenia has lost the title: c_ravenia
+279 - sub vassal: c_ravenia - Title given to 1006356 - Primary title: k_damoava
+279 - Holder (1006356) has gained c_ravenia
+279 - sub vassal: c_aleylard - Holder 1006356 - Primary title: c_aleylard has lost the title: c_aleylard
+279 - sub vassal: c_aleylard - Title given to 1006356 - Primary title: k_damoava
+279 - Holder (1006356) has gained c_aleylard
+285 - vassal: d_afrarcus - Holder 1006719 - Primary title: d_afrarcus has lost the title: d_afrarcus
+285 - sub vassal: d_afrarcus - Holder 1006719 - Primary title: d_afrarcus has lost the title: d_afrarcus
+285 - vassal: d_afrarcus - Title given to 1006719
+285 - sub vassal: d_afrarcus - Title given to 1006719
+287 - vassal: d_ryaus - Holder 1006837 - Primary title: d_ryaus has lost the title: d_ryaus
+287 - sub vassal: d_ryaus - Holder 1006837 - Primary title: d_ryaus has lost the title: d_ryaus
+287 - vassal: d_ryaus - Title given to 1006837
+287 - sub vassal: d_ryaus - Title given to 1006837
+292 - vassal: d_tyio - Holder 1006837 - Primary title: d_tyio has lost the title: d_tyio
+292 - sub vassal: d_tyio - Holder 1006837 - Primary title: d_tyio has lost the title: d_tyio
+292 - vassal: d_tyio - Title given to 1006837 - Primary title: d_ryaus
+292 - sub vassal: d_tyio - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: d_ryaus - Holder (1006837) has gained d_tyio
+292 - sub vassal: d_ryaus - Holder (1006837) has gained d_tyio
+292 - vassal: d_ruisill - Holder 1006837 - Primary title: d_ruisill has lost the title: d_ruisill
+292 - sub vassal: d_ruisill - Holder 1006837 - Primary title: d_ruisill has lost the title: d_ruisill
+292 - vassal: d_ruisill - Title given to 1006837 - Primary title: d_ryaus
+292 - sub vassal: d_ruisill - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: d_ryaus - Holder (1006837) has gained d_ruisill
+292 - sub vassal: d_ryaus - Holder (1006837) has gained d_ruisill
+292 - sub vassal: c_telide - Holder 1006837 - Primary title: c_telide has lost the title: c_telide
+292 - sub vassal: c_telide - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: d_ryaus - Holder (1006837) has gained c_telide
+292 - sub vassal: d_ryaus - Holder (1006837) has gained c_telide
+292 - sub vassal: c_kaykaus - Holder 1006837 - Primary title: c_kaykaus has lost the title: c_kaykaus
+292 - sub vassal: c_kaykaus - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: d_ryaus - Holder (1006837) has gained c_kaykaus
+292 - sub vassal: d_ryaus - Holder (1006837) has gained c_kaykaus
+292 - sub vassal: c_tamoas - Holder 1006837 - Primary title: c_tamoas has lost the title: c_tamoas
+292 - sub vassal: c_tamoas - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: d_ryaus - Holder (1006837) has gained c_tamoas
+292 - sub vassal: d_ryaus - Holder (1006837) has gained c_tamoas
+292 - sub vassal: c_kerar - Holder 1006837 - Primary title: c_kerar has lost the title: c_kerar
+292 - sub vassal: c_kerar - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: d_ryaus - Holder (1006837) has gained c_kerar
+292 - sub vassal: d_ryaus - Holder (1006837) has gained c_kerar
+293 - sub vassal: c_kaykaus - Given to 1007168 in HandleTitles - Too many duke titles
+293 - vassal: d_tyio - Holder 1007168 - Primary title: d_tyio has lost the title: c_kaykaus
+293 - sub vassal: d_tyio - Holder 1007168 - Primary title: d_tyio has lost the title: c_kaykaus
+293 - sub vassal: c_kaykaus - Title given to 1007168
+293 - vassal: d_tyio - Holder 1006356 - Primary title: d_tyio has lost the title: d_ruisill
+293 - sub vassal: d_tyio - Holder 1006356 - Primary title: d_tyio has lost the title: d_ruisill
+293 - vassal: d_ruisill - Title given to 1006356 - Primary title: k_damoava
+293 - sub vassal: d_ruisill - Title given to 1006356 - Primary title: k_damoava
+293 - Holder (1006356) has gained d_ruisill
+293 - sub vassal: c_telide - Setting to vassal of d_tyio in Validate Realm
+293 - vassal: d_ruisill - Lost vassal: c_telide
+293 - sub vassal: d_ruisill - Lost vassal: c_telide
+293 - sub vassal: c_tamoas - Setting to vassal of d_tyio in Validate Realm
+293 - vassal: d_ruisill - Lost vassal: c_tamoas
+293 - sub vassal: d_ruisill - Lost vassal: c_tamoas
+293 - sub vassal: c_kerar - Setting to vassal of d_tyio in Validate Realm
+293 - vassal: d_ruisill - Lost vassal: c_kerar
+293 - sub vassal: d_ruisill - Lost vassal: c_kerar
+293 - vassal: d_tyio - Gained vassal: c_kerar
+293 - sub vassal: d_tyio - Gained vassal: c_kerar
+293 - vassal: d_tyio - Gained vassal: c_tamoas
+293 - sub vassal: d_tyio - Gained vassal: c_tamoas
+293 - vassal: d_tyio - Gained vassal: c_telide
+293 - sub vassal: d_tyio - Gained vassal: c_telide
+293 - vassal: d_ruisill - Too many dukes, made direct title into vassal of k_damoava
+293 - sub vassal: d_ruisill - Too many dukes, made direct title into vassal of k_damoava
+293 - Holder 1007170 - Primary title: k_damoava has lost the title: d_ruisill
+293 - vassal: d_ruisill - Title given to 1007170
+293 - sub vassal: d_ruisill - Title given to 1007170
+298 - vassal: d_elifon - Holder 1006671 - Primary title: d_elifon has lost the title: d_elifon
+298 - sub vassal: d_elifon - Holder 1006671 - Primary title: d_elifon has lost the title: d_elifon
+298 - vassal: d_elifon - Title given to 1006671
+298 - sub vassal: d_elifon - Title given to 1006671
+298 - sub vassal: c_darcus - Holder 1006671 - Primary title: c_darcus has lost the title: c_darcus
+298 - sub vassal: c_darcus - Title given to 1006671 - Primary title: d_elifon
+298 - vassal: d_elifon - Holder (1006671) has gained c_darcus
+298 - sub vassal: d_elifon - Holder (1006671) has gained c_darcus
+300 - sub vassal: c_afroriy - Holder 1006356 - Primary title: c_afroriy has lost the title: c_afroriy
+300 - sub vassal: c_afroriy - Title given to 1006356 - Primary title: k_damoava
+300 - Holder (1006356) has gained c_afroriy
+300 - sub vassal: c_qeraus - Holder 1006356 - Primary title: c_qeraus has lost the title: c_qeraus
+300 - sub vassal: c_qeraus - Title given to 1006356 - Primary title: k_damoava
+300 - Holder (1006356) has gained c_qeraus
+300 - sub vassal: c_benagik - Holder 1005090 - Primary title: c_benagik has lost the title: c_benagik
+300 - sub vassal: c_benagik - Title given to 1005090
+300 - sub vassal: c_araymory - Holder 1005090 - Primary title: c_araymory has lost the title: c_araymory
+300 - sub vassal: c_araymory - Title given to 1005090 - Primary title: c_benagik
+300 - sub vassal: c_benagik - Holder (1005090) has gained c_araymory
+300 - sub vassal: c_ejoanaus - Holder 1006837 - Primary title: c_ejoanaus has lost the title: c_ejoanaus
+300 - sub vassal: c_ejoanaus - Title given to 1006837 - Primary title: d_tyio
+300 - vassal: d_tyio - Holder (1006837) has gained c_ejoanaus
+300 - sub vassal: d_tyio - Holder (1006837) has gained c_ejoanaus
+300 - sub vassal: c_ryelovya - Holder 1006837 - Primary title: c_ryelovya has lost the title: c_ryelovya
+300 - sub vassal: c_ryelovya - Title given to 1006837 - Primary title: d_ryaus
+300 - vassal: d_ryaus - Holder (1006837) has gained c_ryelovya
+300 - sub vassal: d_ryaus - Holder (1006837) has gained c_ryelovya
+300 - Holder 1007646 - Primary title: k_damoava has lost the title: c_afroriy
+300 - sub vassal: c_afroriy - Title given to 1007646
+300 - Holder 1007647 - Primary title: k_damoava has lost the title: c_qeraus
+300 - sub vassal: c_qeraus - Title given to 1007647
+302 - vassal: d_elifon - Holder 1006356 - Primary title: d_elifon has lost the title: d_elifon
+302 - sub vassal: d_elifon - Holder 1006356 - Primary title: d_elifon has lost the title: d_elifon
+302 - vassal: d_elifon - Title given to 1006356 - Primary title: k_damoava
+302 - sub vassal: d_elifon - Title given to 1006356 - Primary title: k_damoava
+302 - Holder (1006356) has gained d_elifon
+302 - sub vassal: c_darcus - Holder 1006356 - Primary title: c_darcus has lost the title: c_darcus
+302 - sub vassal: c_darcus - Title given to 1006356 - Primary title: k_damoava
+302 - Holder (1006356) has gained c_darcus
+302 - sub vassal: c_afroriy - Given to 1007764 in HandleTitles - Too many duke titles
+302 - sub vassal: c_afroriy - Holder 1007764 - Primary title: c_afroriy has lost the title: c_afroriy
+302 - sub vassal: c_afroriy - Title given to 1007764
+302 - Holder 1007764 - Primary title: k_damoava has lost the title: d_lyelovya
+302 - vassal: d_lyelovya - Title given to 1007764 - Primary title: c_afroriy
+302 - sub vassal: d_lyelovya - Title given to 1007764 - Primary title: c_afroriy
+302 - sub vassal: c_afroriy - Holder (1007764) has gained d_lyelovya
+302 - vassal: d_lyelovya - Too many dukes, given to dejure: k_damoava
+302 - sub vassal: d_lyelovya - Too many dukes, given to dejure: k_damoava
+302 - Holder 1007765 - Primary title: k_damoava has lost the title: c_darcus
+302 - sub vassal: c_darcus - Title given to 1007765
+303 - vassal: d_tyio - Holder 1006356 - Primary title: d_tyio has lost the title: d_tyio
+303 - sub vassal: d_tyio - Holder 1006356 - Primary title: d_tyio has lost the title: d_tyio
+303 - vassal: d_tyio - Title given to 1006356 - Primary title: k_damoava
+303 - sub vassal: d_tyio - Title given to 1006356 - Primary title: k_damoava
+303 - Holder (1006356) has gained d_tyio
+303 - sub vassal: c_ryelovya - Setting to vassal of d_ryaus in Validate Realm
+303 - vassal: d_tyio - Lost vassal: c_ryelovya
+303 - sub vassal: d_tyio - Lost vassal: c_ryelovya
+303 - sub vassal: c_kerar - Setting to vassal of d_ryaus in Validate Realm
+303 - vassal: d_tyio - Lost vassal: c_kerar
+303 - sub vassal: d_tyio - Lost vassal: c_kerar
+303 - sub vassal: c_tamoas - Setting to vassal of d_ryaus in Validate Realm
+303 - vassal: d_tyio - Lost vassal: c_tamoas
+303 - sub vassal: d_tyio - Lost vassal: c_tamoas
+303 - sub vassal: c_telide - Setting to vassal of d_ryaus in Validate Realm
+303 - vassal: d_tyio - Lost vassal: c_telide
+303 - sub vassal: d_tyio - Lost vassal: c_telide
+303 - vassal: d_ryaus - Gained vassal: c_telide
+303 - sub vassal: d_ryaus - Gained vassal: c_telide
+303 - vassal: d_ryaus - Gained vassal: c_tamoas
+303 - sub vassal: d_ryaus - Gained vassal: c_tamoas
+303 - vassal: d_ryaus - Gained vassal: c_kerar
+303 - sub vassal: d_ryaus - Gained vassal: c_kerar
+303 - vassal: d_ryaus - Gained vassal: c_ryelovya
+303 - sub vassal: d_ryaus - Gained vassal: c_ryelovya
+303 - vassal: d_ryaus - Holder 1006356 - Primary title: d_ryaus has lost the title: d_ryaus
+303 - sub vassal: d_ryaus - Holder 1006356 - Primary title: d_ryaus has lost the title: d_ryaus
+303 - vassal: d_ryaus - Title given to 1006356 - Primary title: k_damoava
+303 - sub vassal: d_ryaus - Title given to 1006356 - Primary title: k_damoava
+303 - Holder (1006356) has gained d_ryaus
+303 - sub vassal: c_ryelovya - Holder 1006356 - Primary title: c_ryelovya has lost the title: c_ryelovya
+303 - sub vassal: c_ryelovya - Title given to 1006356 - Primary title: k_damoava
+303 - Holder (1006356) has gained c_ryelovya
+303 - sub vassal: c_ejoanaus - Holder 1006356 - Primary title: c_ejoanaus has lost the title: c_ejoanaus
+303 - sub vassal: c_ejoanaus - Title given to 1006356 - Primary title: k_damoava
+303 - Holder (1006356) has gained c_ejoanaus
+303 - sub vassal: c_kerar - Holder 1006356 - Primary title: c_kerar has lost the title: c_kerar
+303 - sub vassal: c_kerar - Title given to 1006356 - Primary title: k_damoava
+303 - Holder (1006356) has gained c_kerar
+303 - sub vassal: c_tamoas - Holder 1006356 - Primary title: c_tamoas has lost the title: c_tamoas
+303 - sub vassal: c_tamoas - Title given to 1006356 - Primary title: k_damoava
+303 - Holder (1006356) has gained c_tamoas
+303 - sub vassal: c_telide - Holder 1006356 - Primary title: c_telide has lost the title: c_telide
+303 - sub vassal: c_telide - Title given to 1006356 - Primary title: k_damoava
+303 - Holder (1006356) has gained c_telide
+303 - sub vassal: c_darcus - Given to 1005258 in HandleTitles - Too many duke titles
+303 - sub vassal: c_darcus - Holder 1005258 - Primary title: c_darcus has lost the title: c_darcus
+303 - sub vassal: c_darcus - Title given to 1005258
+303 - Holder 1005258 - Primary title: k_damoava has lost the title: d_elifon
+303 - vassal: d_elifon - Title given to 1005258 - Primary title: c_darcus
+303 - sub vassal: d_elifon - Title given to 1005258 - Primary title: c_darcus
+303 - sub vassal: c_darcus - Holder (1005258) has gained d_elifon
+303 - vassal: d_elifon - Too many dukes, given to dejure: k_damoava
+303 - sub vassal: d_elifon - Too many dukes, given to dejure: k_damoava
+303 - sub vassal: c_ryelifon - Given to 1005628 in HandleTitles - Too many duke titles
+303 - sub vassal: c_ryelifon - Holder 1005628 - Primary title: c_ryelifon has lost the title: c_ryelifon
+303 - sub vassal: c_ryelifon - Title given to 1005628
+303 - Holder 1005628 - Primary title: k_damoava has lost the title: d_tyio
+303 - vassal: d_tyio - Title given to 1005628 - Primary title: c_ryelifon
+303 - sub vassal: d_tyio - Title given to 1005628 - Primary title: c_ryelifon
+303 - sub vassal: c_ryelifon - Holder (1005628) has gained d_tyio
+303 - vassal: d_tyio - Too many dukes, given to dejure: k_damoava
+303 - sub vassal: d_tyio - Too many dukes, given to dejure: k_damoava
+303 - Holder 1007852 - Primary title: k_damoava has lost the title: c_ejoanaus
+303 - sub vassal: c_ejoanaus - Title given to 1007852
+303 - Holder 1005827 - Primary title: k_damoava has lost the title: c_ryelovya
+303 - sub vassal: c_ryelovya - Title given to 1005827
+303 - Holder 1007853 - Primary title: k_damoava has lost the title: c_kerar
+303 - sub vassal: c_kerar - Title given to 1007853
+303 - Holder 1007854 - Primary title: k_damoava has lost the title: c_telide
+303 - sub vassal: c_telide - Title given to 1007854
+303 - Holder 1007855 - Primary title: k_damoava has lost the title: c_tamoas
+303 - sub vassal: c_tamoas - Title given to 1007855
+306 - vassal: d_tyio - Holder 1008002 - Primary title: d_tyio has lost the title: d_tyio
+306 - sub vassal: d_tyio - Holder 1008002 - Primary title: d_tyio has lost the title: d_tyio
+306 - vassal: d_tyio - Title given to 1008002
+306 - sub vassal: d_tyio - Title given to 1008002
+306 - sub vassal: c_ryelifon - Holder 1008002 - Primary title: c_ryelifon has lost the title: c_ryelifon
+306 - sub vassal: c_ryelifon - Title given to 1008002 - Primary title: d_tyio
+306 - vassal: d_tyio - Holder (1008002) has gained c_ryelifon
+306 - sub vassal: d_tyio - Holder (1008002) has gained c_ryelifon
+310 - vassal: d_tyio - Holder 1006356 - Primary title: d_tyio has lost the title: d_tyio
+310 - sub vassal: d_tyio - Holder 1006356 - Primary title: d_tyio has lost the title: d_tyio
+310 - vassal: d_tyio - Title given to 1006356 - Primary title: k_damoava
+310 - sub vassal: d_tyio - Title given to 1006356 - Primary title: k_damoava
+310 - Holder (1006356) has gained d_tyio
+310 - sub vassal: c_ryelifon - Holder 1006356 - Primary title: c_ryelifon has lost the title: c_ryelifon
+310 - sub vassal: c_ryelifon - Title given to 1006356 - Primary title: k_damoava
+310 - Holder (1006356) has gained c_ryelifon
+310 - sub vassal: c_reyide - Given to 1008219 in HandleTitles - Too many duke titles
+310 - sub vassal: c_reyide - Holder 1008219 - Primary title: c_reyide has lost the title: c_reyide
+310 - sub vassal: c_reyide - Title given to 1008219
+310 - Holder 1008219 - Primary title: k_damoava has lost the title: d_ryaus
+310 - vassal: d_ryaus - Title given to 1008219 - Primary title: c_reyide
+310 - sub vassal: d_ryaus - Title given to 1008219 - Primary title: c_reyide
+310 - sub vassal: c_reyide - Holder (1008219) has gained d_ryaus
+310 - vassal: d_ryaus - Too many dukes, given to dejure: k_damoava
+310 - sub vassal: d_ryaus - Too many dukes, given to dejure: k_damoava
+310 - Holder 1008220 - Primary title: k_damoava has lost the title: c_ryelifon
+310 - sub vassal: c_ryelifon - Title given to 1008220
+321 - vassal: d_elifon - Holder 1008253 - Primary title: d_elifon has lost the title: d_elifon
+321 - sub vassal: d_elifon - Holder 1008253 - Primary title: d_elifon has lost the title: d_elifon
+321 - vassal: d_elifon - Title given to 1008253
+321 - sub vassal: d_elifon - Title given to 1008253
+321 - sub vassal: c_darcus - Holder 1008253 - Primary title: c_darcus has lost the title: c_darcus
+321 - sub vassal: c_darcus - Title given to 1008253 - Primary title: d_elifon
+321 - vassal: d_elifon - Holder (1008253) has gained c_darcus
+321 - sub vassal: d_elifon - Holder (1008253) has gained c_darcus
+322 - vassal: d_afrarcus - Holder 1006777 - Primary title: d_afrarcus has lost the title: d_afrarcus
+322 - sub vassal: d_afrarcus - Holder 1006777 - Primary title: d_afrarcus has lost the title: d_afrarcus
+322 - vassal: d_afrarcus - Title given to 1006777
+322 - sub vassal: d_afrarcus - Title given to 1006777
+327 - vassal: d_ryaus - Holder 1008252 - Primary title: d_ryaus has lost the title: d_ryaus
+327 - sub vassal: d_ryaus - Holder 1008252 - Primary title: d_ryaus has lost the title: d_ryaus
+327 - vassal: d_ryaus - Title given to 1008252
+327 - sub vassal: d_ryaus - Title given to 1008252
+327 - sub vassal: c_reyide - Holder 1008252 - Primary title: c_reyide has lost the title: c_reyide
+327 - sub vassal: c_reyide - Title given to 1008252 - Primary title: d_ryaus
+327 - vassal: d_ryaus - Holder (1008252) has gained c_reyide
+327 - sub vassal: d_ryaus - Holder (1008252) has gained c_reyide
+336 - vassal: d_ruisill - Holder 1008254 - Primary title: d_ruisill has lost the title: d_ruisill
+336 - sub vassal: d_ruisill - Holder 1008254 - Primary title: d_ruisill has lost the title: d_ruisill
+336 - vassal: d_ruisill - Title given to 1008254
+336 - sub vassal: d_ruisill - Title given to 1008254
+337 - vassal: d_afrarcus - Holder 1009213 - Primary title: d_afrarcus has lost the title: d_afrarcus
+337 - sub vassal: d_afrarcus - Holder 1009213 - Primary title: d_afrarcus has lost the title: d_afrarcus
+337 - vassal: d_afrarcus - Title given to 1009213
+337 - sub vassal: d_afrarcus - Title given to 1009213
+337 - Holder 1007547 - Primary title: k_damoava has lost the title: k_damoava
+337 - Title given to 1007547
+337 - vassal: d_tyio - Holder 1007547 - Primary title: d_tyio has lost the title: d_tyio
+337 - sub vassal: d_tyio - Holder 1007547 - Primary title: d_tyio has lost the title: d_tyio
+337 - vassal: d_tyio - Title given to 1007547 - Primary title: k_damoava
+337 - sub vassal: d_tyio - Title given to 1007547 - Primary title: k_damoava
+337 - Holder (1007547) has gained d_tyio
+337 - vassal: d_kelenia - Holder 1007547 - Primary title: d_kelenia has lost the title: d_kelenia
+337 - sub vassal: d_kelenia - Holder 1007547 - Primary title: d_kelenia has lost the title: d_kelenia
+337 - vassal: d_kelenia - Title given to 1007547 - Primary title: k_damoava
+337 - sub vassal: d_kelenia - Title given to 1007547 - Primary title: k_damoava
+337 - Holder (1007547) has gained d_kelenia
+337 - sub vassal: c_aleylard - Holder 1007547 - Primary title: c_aleylard has lost the title: c_aleylard
+337 - sub vassal: c_aleylard - Title given to 1007547 - Primary title: k_damoava
+337 - Holder (1007547) has gained c_aleylard
+337 - sub vassal: c_ravenia - Holder 1007547 - Primary title: c_ravenia has lost the title: c_ravenia
+337 - sub vassal: c_ravenia - Title given to 1007547 - Primary title: k_damoava
+337 - Holder (1007547) has gained c_ravenia
+337 - sub vassal: c_renoriy - Holder 1007547 - Primary title: c_renoriy has lost the title: c_renoriy
+337 - sub vassal: c_renoriy - Title given to 1007547 - Primary title: k_damoava
+337 - Holder (1007547) has gained c_renoriy
+337 - sub vassal: c_nelill - Holder 1007547 - Primary title: c_nelill has lost the title: c_nelill
+337 - sub vassal: c_nelill - Title given to 1007547 - Primary title: k_damoava
+337 - Holder (1007547) has gained c_nelill
+337 - sub vassal: c_relarcus - Holder 1007547 - Primary title: c_relarcus has lost the title: c_relarcus
+337 - sub vassal: c_relarcus - Title given to 1007547 - Primary title: k_damoava
+337 - Holder (1007547) has gained c_relarcus
+344 - vassal: d_afrarcus - Holder 1007764 - Primary title: d_afrarcus has lost the title: d_afrarcus
+344 - sub vassal: d_afrarcus - Holder 1007764 - Primary title: d_afrarcus has lost the title: d_afrarcus
+344 - vassal: d_afrarcus - Title given to 1007764 - Primary title: d_lyelovya
+344 - sub vassal: d_afrarcus - Title given to 1007764 - Primary title: d_lyelovya
+344 - vassal: d_lyelovya - Holder (1007764) has gained d_afrarcus
+344 - sub vassal: d_lyelovya - Holder (1007764) has gained d_afrarcus
+346 - vassal: d_ryaus - Holder 1009515 - Primary title: d_ryaus has lost the title: d_ryaus
+346 - sub vassal: d_ryaus - Holder 1009515 - Primary title: d_ryaus has lost the title: d_ryaus
+346 - vassal: d_ryaus - Title given to 1009515
+346 - sub vassal: d_ryaus - Title given to 1009515
+346 - sub vassal: c_reyide - Holder 1009515 - Primary title: c_reyide has lost the title: c_reyide
+346 - sub vassal: c_reyide - Title given to 1009515 - Primary title: d_ryaus
+346 - vassal: d_ryaus - Holder (1009515) has gained c_reyide
+346 - sub vassal: d_ryaus - Holder (1009515) has gained c_reyide
+348 - vassal: d_elifon - Holder 1009259 - Primary title: d_elifon has lost the title: d_elifon
+348 - sub vassal: d_elifon - Holder 1009259 - Primary title: d_elifon has lost the title: d_elifon
+348 - vassal: d_elifon - Title given to 1009259
+348 - sub vassal: d_elifon - Title given to 1009259
+348 - sub vassal: c_darcus - Holder 1009259 - Primary title: c_darcus has lost the title: c_darcus
+348 - sub vassal: c_darcus - Title given to 1009259 - Primary title: d_elifon
+348 - vassal: d_elifon - Holder (1009259) has gained c_darcus
+348 - sub vassal: d_elifon - Holder (1009259) has gained c_darcus
+350 - vassal: d_elifon - Holder 1007547 - Primary title: d_elifon has lost the title: d_elifon
+350 - sub vassal: d_elifon - Holder 1007547 - Primary title: d_elifon has lost the title: d_elifon
+350 - vassal: d_elifon - Title given to 1007547 - Primary title: k_damoava
+350 - sub vassal: d_elifon - Title given to 1007547 - Primary title: k_damoava
+350 - Holder (1007547) has gained d_elifon
+350 - sub vassal: c_darcus - Holder 1007547 - Primary title: c_darcus has lost the title: c_darcus
+350 - sub vassal: c_darcus - Title given to 1007547 - Primary title: k_damoava
+350 - Holder (1007547) has gained c_darcus
+350 - sub vassal: c_darcus - Given to 1010286 in HandleTitles - Too many duke titles
+350 - Holder 1010286 - Primary title: k_damoava has lost the title: c_darcus
+350 - sub vassal: c_darcus - Title given to 1010286
+350 - Holder 1010286 - Primary title: k_damoava has lost the title: d_elifon
+350 - vassal: d_elifon - Title given to 1010286 - Primary title: c_darcus
+350 - sub vassal: d_elifon - Title given to 1010286 - Primary title: c_darcus
+350 - sub vassal: c_darcus - Holder (1010286) has gained d_elifon
+350 - vassal: d_elifon - Too many dukes, given to dejure: k_damoava
+350 - sub vassal: d_elifon - Too many dukes, given to dejure: k_damoava
+352 - vassal: d_afrarcus - Holder 1008052 - Primary title: d_afrarcus has lost the title: d_lyelovya
+352 - sub vassal: d_afrarcus - Holder 1008052 - Primary title: d_afrarcus has lost the title: d_lyelovya
+352 - vassal: d_lyelovya - Title given to 1008052
+352 - sub vassal: d_lyelovya - Title given to 1008052
+352 - sub vassal: c_afroriy - Setting to vassal of d_afrarcus in Validate Realm
+352 - vassal: d_lyelovya - Lost vassal: c_afroriy
+352 - sub vassal: d_lyelovya - Lost vassal: c_afroriy
+352 - vassal: d_afrarcus - Gained vassal: c_afroriy
+352 - sub vassal: d_afrarcus - Gained vassal: c_afroriy
+352 - vassal: d_afrarcus - Holder 1008052 - Primary title: d_afrarcus has lost the title: c_afroriy
+352 - sub vassal: d_afrarcus - Holder 1008052 - Primary title: d_afrarcus has lost the title: c_afroriy
+352 - sub vassal: c_afroriy - Title given to 1008052 - Primary title: d_lyelovya
+352 - vassal: d_lyelovya - Holder (1008052) has gained c_afroriy
+352 - sub vassal: d_lyelovya - Holder (1008052) has gained c_afroriy
+352 - sub vassal: c_afroriy - Setting to vassal of d_lyelovya in Validate Realm
+352 - vassal: d_afrarcus - Lost vassal: c_afroriy
+352 - sub vassal: d_afrarcus - Lost vassal: c_afroriy
+352 - vassal: d_lyelovya - Gained vassal: c_afroriy
+352 - sub vassal: d_lyelovya - Gained vassal: c_afroriy
+352 - vassal: d_afrarcus - Holder 1008052 - Primary title: d_afrarcus has lost the title: d_afrarcus
+352 - sub vassal: d_afrarcus - Holder 1008052 - Primary title: d_afrarcus has lost the title: d_afrarcus
+352 - vassal: d_afrarcus - Title given to 1008052 - Primary title: d_lyelovya
+352 - sub vassal: d_afrarcus - Title given to 1008052 - Primary title: d_lyelovya
+352 - vassal: d_lyelovya - Holder (1008052) has gained d_afrarcus
+352 - sub vassal: d_lyelovya - Holder (1008052) has gained d_afrarcus
+355 - Holder 1010063 - Primary title: k_damoava has lost the title: k_damoava
+355 - Title given to 1010063
+355 - vassal: d_kelenia - Holder 1010063 - Primary title: d_kelenia has lost the title: d_kelenia
+355 - sub vassal: d_kelenia - Holder 1010063 - Primary title: d_kelenia has lost the title: d_kelenia
+355 - vassal: d_kelenia - Title given to 1010063 - Primary title: k_damoava
+355 - sub vassal: d_kelenia - Title given to 1010063 - Primary title: k_damoava
+355 - Holder (1010063) has gained d_kelenia
+355 - sub vassal: c_relarcus - Setting to vassal of d_tyio in Validate Realm
+355 - vassal: d_kelenia - Lost vassal: c_relarcus
+355 - sub vassal: d_kelenia - Lost vassal: c_relarcus
+355 - sub vassal: c_nelill - Setting to vassal of d_tyio in Validate Realm
+355 - vassal: d_kelenia - Lost vassal: c_nelill
+355 - sub vassal: d_kelenia - Lost vassal: c_nelill
+355 - sub vassal: c_renoriy - Setting to vassal of d_tyio in Validate Realm
+355 - vassal: d_kelenia - Lost vassal: c_renoriy
+355 - sub vassal: d_kelenia - Lost vassal: c_renoriy
+355 - sub vassal: c_ravenia - Setting to vassal of d_tyio in Validate Realm
+355 - vassal: d_kelenia - Lost vassal: c_ravenia
+355 - sub vassal: d_kelenia - Lost vassal: c_ravenia
+355 - sub vassal: c_aleylard - Setting to vassal of d_tyio in Validate Realm
+355 - vassal: d_kelenia - Lost vassal: c_aleylard
+355 - sub vassal: d_kelenia - Lost vassal: c_aleylard
+355 - vassal: d_tyio - Gained vassal: c_aleylard
+355 - sub vassal: d_tyio - Gained vassal: c_aleylard
+355 - vassal: d_tyio - Gained vassal: c_ravenia
+355 - sub vassal: d_tyio - Gained vassal: c_ravenia
+355 - vassal: d_tyio - Gained vassal: c_renoriy
+355 - sub vassal: d_tyio - Gained vassal: c_renoriy
+355 - vassal: d_tyio - Gained vassal: c_nelill
+355 - sub vassal: d_tyio - Gained vassal: c_nelill
+355 - vassal: d_tyio - Gained vassal: c_relarcus
+355 - sub vassal: d_tyio - Gained vassal: c_relarcus
+355 - vassal: d_tyio - Holder 1010063 - Primary title: d_tyio has lost the title: d_tyio
+355 - sub vassal: d_tyio - Holder 1010063 - Primary title: d_tyio has lost the title: d_tyio
+355 - vassal: d_tyio - Title given to 1010063 - Primary title: k_damoava
+355 - sub vassal: d_tyio - Title given to 1010063 - Primary title: k_damoava
+355 - Holder (1010063) has gained d_tyio
+355 - sub vassal: c_relarcus - Holder 1010063 - Primary title: c_relarcus has lost the title: c_relarcus
+355 - sub vassal: c_relarcus - Title given to 1010063 - Primary title: k_damoava
+355 - Holder (1010063) has gained c_relarcus
+355 - sub vassal: c_nelill - Holder 1010063 - Primary title: c_nelill has lost the title: c_nelill
+355 - sub vassal: c_nelill - Title given to 1010063 - Primary title: k_damoava
+355 - Holder (1010063) has gained c_nelill
+355 - sub vassal: c_renoriy - Holder 1010063 - Primary title: c_renoriy has lost the title: c_renoriy
+355 - sub vassal: c_renoriy - Title given to 1010063 - Primary title: k_damoava
+355 - Holder (1010063) has gained c_renoriy
+355 - sub vassal: c_ravenia - Holder 1010063 - Primary title: c_ravenia has lost the title: c_ravenia
+355 - sub vassal: c_ravenia - Title given to 1010063 - Primary title: k_damoava
+355 - Holder (1010063) has gained c_ravenia
+355 - sub vassal: c_aleylard - Holder 1010063 - Primary title: c_aleylard has lost the title: c_aleylard
+355 - sub vassal: c_aleylard - Title given to 1010063 - Primary title: k_damoava
+355 - Holder (1010063) has gained c_aleylard
+368 - vassal: d_afrarcus - Holder 1010708 - Primary title: d_afrarcus has lost the title: d_afrarcus
+368 - sub vassal: d_afrarcus - Holder 1010708 - Primary title: d_afrarcus has lost the title: d_afrarcus
+368 - vassal: d_afrarcus - Title given to 1010708
+368 - sub vassal: d_afrarcus - Title given to 1010708
+368 - vassal: d_lyelovya - Holder 1010708 - Primary title: d_lyelovya has lost the title: d_lyelovya
+368 - sub vassal: d_lyelovya - Holder 1010708 - Primary title: d_lyelovya has lost the title: d_lyelovya
+368 - vassal: d_lyelovya - Title given to 1010708 - Primary title: d_afrarcus
+368 - sub vassal: d_lyelovya - Title given to 1010708 - Primary title: d_afrarcus
+368 - vassal: d_afrarcus - Holder (1010708) has gained d_lyelovya
+368 - sub vassal: d_afrarcus - Holder (1010708) has gained d_lyelovya
+368 - sub vassal: c_afroriy - Holder 1010708 - Primary title: c_afroriy has lost the title: c_afroriy
+368 - sub vassal: c_afroriy - Title given to 1010708 - Primary title: d_afrarcus
+368 - vassal: d_afrarcus - Holder (1010708) has gained c_afroriy
+368 - sub vassal: d_afrarcus - Holder (1010708) has gained c_afroriy
+370 - vassal: d_afrarcus - Holder 1010286 - Primary title: d_afrarcus has lost the title: d_afrarcus
+370 - sub vassal: d_afrarcus - Holder 1010286 - Primary title: d_afrarcus has lost the title: d_afrarcus
+370 - vassal: d_afrarcus - Title given to 1010286 - Primary title: d_elifon
+370 - sub vassal: d_afrarcus - Title given to 1010286 - Primary title: d_elifon
+370 - vassal: d_elifon - Holder (1010286) has gained d_afrarcus
+370 - sub vassal: d_elifon - Holder (1010286) has gained d_afrarcus
+370 - vassal: d_lyelovya - Holder 1010286 - Primary title: d_lyelovya has lost the title: d_lyelovya
+370 - sub vassal: d_lyelovya - Holder 1010286 - Primary title: d_lyelovya has lost the title: d_lyelovya
+370 - vassal: d_lyelovya - Title given to 1010286 - Primary title: d_elifon
+370 - sub vassal: d_lyelovya - Title given to 1010286 - Primary title: d_elifon
+370 - vassal: d_elifon - Holder (1010286) has gained d_lyelovya
+370 - sub vassal: d_elifon - Holder (1010286) has gained d_lyelovya
+370 - sub vassal: c_afroriy - Holder 1010286 - Primary title: c_afroriy has lost the title: c_afroriy
+370 - sub vassal: c_afroriy - Title given to 1010286 - Primary title: d_elifon
+370 - vassal: d_elifon - Holder (1010286) has gained c_afroriy
+370 - sub vassal: d_elifon - Holder (1010286) has gained c_afroriy
+370 - vassal: d_ryaus - Holder 1010338 - Primary title: d_ryaus has lost the title: d_ryaus
+370 - sub vassal: d_ryaus - Holder 1010338 - Primary title: d_ryaus has lost the title: d_ryaus
+370 - vassal: d_ryaus - Title given to 1010338
+370 - sub vassal: d_ryaus - Title given to 1010338
+370 - sub vassal: c_reyide - Holder 1010338 - Primary title: c_reyide has lost the title: c_reyide
+370 - sub vassal: c_reyide - Title given to 1010338 - Primary title: d_ryaus
+370 - vassal: d_ryaus - Holder (1010338) has gained c_reyide
+370 - sub vassal: d_ryaus - Holder (1010338) has gained c_reyide
+370 - vassal: d_ruisill - Holder 1009654 - Primary title: d_ruisill has lost the title: d_ruisill
+370 - sub vassal: d_ruisill - Holder 1009654 - Primary title: d_ruisill has lost the title: d_ruisill
+370 - vassal: d_ruisill - Title given to 1009654
+370 - sub vassal: d_ruisill - Title given to 1009654
+371 - sub vassal: c_darcus - Given to 1011348 in HandleTitles - Too many duke titles
+371 - vassal: d_afrarcus - Holder 1011348 - Primary title: d_afrarcus has lost the title: c_darcus
+371 - sub vassal: d_afrarcus - Holder 1011348 - Primary title: d_afrarcus has lost the title: c_darcus
+371 - sub vassal: c_darcus - Title given to 1011348
+371 - vassal: d_afrarcus - Holder 1010063 - Primary title: d_afrarcus has lost the title: d_elifon
+371 - sub vassal: d_afrarcus - Holder 1010063 - Primary title: d_afrarcus has lost the title: d_elifon
+371 - vassal: d_elifon - Title given to 1010063 - Primary title: k_damoava
+371 - sub vassal: d_elifon - Title given to 1010063 - Primary title: k_damoava
+371 - Holder (1010063) has gained d_elifon
+371 - vassal: d_elifon - Too many dukes, made direct title into vassal of k_damoava
+371 - sub vassal: d_elifon - Too many dukes, made direct title into vassal of k_damoava
+371 - Holder 1011349 - Primary title: k_damoava has lost the title: d_elifon
+371 - vassal: d_elifon - Title given to 1011349
+371 - sub vassal: d_elifon - Title given to 1011349
+371 - vassal: d_afrarcus - Holder 1010562 - Primary title: d_afrarcus has lost the title: d_afrarcus
+371 - sub vassal: d_afrarcus - Holder 1010562 - Primary title: d_afrarcus has lost the title: d_afrarcus
+371 - vassal: d_afrarcus - Title given to 1010562
+371 - sub vassal: d_afrarcus - Title given to 1010562
+371 - vassal: d_lyelovya - Holder 1010562 - Primary title: d_lyelovya has lost the title: d_lyelovya
+371 - sub vassal: d_lyelovya - Holder 1010562 - Primary title: d_lyelovya has lost the title: d_lyelovya
+371 - vassal: d_lyelovya - Title given to 1010562 - Primary title: d_afrarcus
+371 - sub vassal: d_lyelovya - Title given to 1010562 - Primary title: d_afrarcus
+371 - vassal: d_afrarcus - Holder (1010562) has gained d_lyelovya
+371 - sub vassal: d_afrarcus - Holder (1010562) has gained d_lyelovya
+371 - sub vassal: c_afroriy - Holder 1010562 - Primary title: c_afroriy has lost the title: c_afroriy
+371 - sub vassal: c_afroriy - Title given to 1010562 - Primary title: d_afrarcus
+371 - vassal: d_afrarcus - Holder (1010562) has gained c_afroriy
+371 - sub vassal: d_afrarcus - Holder (1010562) has gained c_afroriy
+387 - vassal: d_elifon - Holder 1010063 - Primary title: d_elifon has lost the title: d_elifon
+387 - sub vassal: d_elifon - Holder 1010063 - Primary title: d_elifon has lost the title: d_elifon
+387 - vassal: d_elifon - Title given to 1010063 - Primary title: k_damoava
+387 - sub vassal: d_elifon - Title given to 1010063 - Primary title: k_damoava
+387 - Holder (1010063) has gained d_elifon
+387 - sub vassal: c_darcus - Given to 1009786 in HandleTitles - Too many duke titles
+387 - sub vassal: c_darcus - Holder 1009786 - Primary title: c_darcus has lost the title: c_darcus
+387 - sub vassal: c_darcus - Title given to 1009786
+387 - Holder 1009786 - Primary title: k_damoava has lost the title: d_elifon
+387 - vassal: d_elifon - Title given to 1009786 - Primary title: c_darcus
+387 - sub vassal: d_elifon - Title given to 1009786 - Primary title: c_darcus
+387 - sub vassal: c_darcus - Holder (1009786) has gained d_elifon
+387 - vassal: d_elifon - Too many dukes, given to dejure: k_damoava
+387 - sub vassal: d_elifon - Too many dukes, given to dejure: k_damoava
+391 - vassal: d_ruisill - Holder 1011943 - Primary title: d_ruisill has lost the title: d_ruisill
+391 - sub vassal: d_ruisill - Holder 1011943 - Primary title: d_ruisill has lost the title: d_ruisill
+391 - vassal: d_ruisill - Title given to 1011943
+391 - sub vassal: d_ruisill - Title given to 1011943
+396 - vassal: d_afrarcus - Holder 1011592 - Primary title: d_afrarcus has lost the title: d_afrarcus
+396 - sub vassal: d_afrarcus - Holder 1011592 - Primary title: d_afrarcus has lost the title: d_afrarcus
+396 - vassal: d_afrarcus - Title given to 1011592
+396 - sub vassal: d_afrarcus - Title given to 1011592
+396 - vassal: d_lyelovya - Holder 1011592 - Primary title: d_lyelovya has lost the title: d_lyelovya
+396 - sub vassal: d_lyelovya - Holder 1011592 - Primary title: d_lyelovya has lost the title: d_lyelovya
+396 - vassal: d_lyelovya - Title given to 1011592 - Primary title: d_afrarcus
+396 - sub vassal: d_lyelovya - Title given to 1011592 - Primary title: d_afrarcus
+396 - vassal: d_afrarcus - Holder (1011592) has gained d_lyelovya
+396 - sub vassal: d_afrarcus - Holder (1011592) has gained d_lyelovya
+396 - sub vassal: c_afroriy - Holder 1011592 - Primary title: c_afroriy has lost the title: c_afroriy
+396 - sub vassal: c_afroriy - Title given to 1011592 - Primary title: d_afrarcus
+396 - vassal: d_afrarcus - Holder (1011592) has gained c_afroriy
+396 - sub vassal: d_afrarcus - Holder (1011592) has gained c_afroriy

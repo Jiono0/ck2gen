@@ -1,0 +1,93 @@
+200 - Title given to 1000125
+200 - vassal: c_wasid - Given to 1000128 via AddCharacterForTitle
+200 - sub vassal: c_wasid - Given to 1000128 via AddCharacterForTitle
+200 - vassal: c_wasid - Holder 1000128 - Primary title: c_wasid has lost the title: c_wasid
+200 - sub vassal: c_wasid - Holder 1000128 - Primary title: c_wasid has lost the title: c_wasid
+200 - vassal: c_wasid - Title given to 1000128
+200 - sub vassal: c_wasid - Title given to 1000128
+200 - vassal: c_ruteph - Holder 1000125 - Primary title: c_ruteph has lost the title: c_ruteph
+200 - sub vassal: c_ruteph - Holder 1000125 - Primary title: c_ruteph has lost the title: c_ruteph
+200 - vassal: c_ruteph - Title given to 1000125 - Primary title: d_werid
+200 - sub vassal: c_ruteph - Title given to 1000125 - Primary title: d_werid
+200 - Holder (1000125) has gained c_ruteph
+200 - vassal: c_wasid - Holder 1000125 - Primary title: c_wasid has lost the title: c_wasid
+200 - sub vassal: c_wasid - Holder 1000125 - Primary title: c_wasid has lost the title: c_wasid
+200 - vassal: c_wasid - Title given to 1000125 - Primary title: d_werid
+200 - sub vassal: c_wasid - Title given to 1000125 - Primary title: d_werid
+200 - Holder (1000125) has gained c_wasid
+200 - vassal: c_amilanda - Title given to 1000125 - Primary title: d_werid
+200 - Holder (1000125) has gained c_amilanda
+200 - vassal: c_everadr - Holder 1000125 - Primary title: c_everadr has lost the title: c_everadr
+200 - sub vassal: c_everadr - Holder 1000125 - Primary title: c_everadr has lost the title: c_everadr
+200 - vassal: c_everadr - Title given to 1000125 - Primary title: d_werid
+200 - sub vassal: c_everadr - Title given to 1000125 - Primary title: d_werid
+200 - Holder (1000125) has gained c_everadr
+205 - Holder 1000129 - Primary title: d_werid has lost the title: d_werid
+205 - Title given to 1000129 - Primary title: d_wonezs
+205 - vassal: c_everadr - Holder 1000129 - Primary title: c_everadr has lost the title: c_everadr
+205 - vassal: c_everadr - Title given to 1000129 - Primary title: d_wonezs
+205 - vassal: c_amilanda - Holder 1000129 - Primary title: c_amilanda has lost the title: c_amilanda
+205 - vassal: c_amilanda - Title given to 1000129 - Primary title: d_wonezs
+205 - vassal: c_wasid - Holder 1000129 - Primary title: c_wasid has lost the title: c_wasid
+205 - vassal: c_wasid - Title given to 1000129 - Primary title: d_wonezs
+205 - vassal: c_ruteph - Holder 1000129 - Primary title: c_ruteph has lost the title: c_ruteph
+205 - vassal: c_ruteph - Title given to 1000129 - Primary title: d_wonezs
+206 - Holder 1001945 - Primary title: d_werid has lost the title: c_deraul
+206 - Holder 1001946 - Primary title: d_werid has lost the title: c_quiseph
+206 - Holder 1001947 - Primary title: d_werid has lost the title: c_nateph
+219 - Holder 1002101 - Primary title: d_werid has lost the title: d_wonezs
+219 - Gained vassal: c_ludadr
+219 - Holder 1002101 - Primary title: d_werid has lost the title: c_ludadr
+219 - vassal: c_ludadr - Title given to 1002101 - Primary title: d_wonezs
+219 - vassal: c_ludadr - Setting to vassal of d_wonezs in Validate Realm
+219 - Lost vassal: c_ludadr
+219 - Holder 1002101 - Primary title: d_werid has lost the title: d_werid
+219 - Title given to 1002101 - Primary title: d_wonezs
+219 - vassal: c_everadr - Holder 1002101 - Primary title: c_everadr has lost the title: c_everadr
+219 - vassal: c_everadr - Title given to 1002101 - Primary title: d_wonezs
+219 - vassal: c_amilanda - Holder 1002101 - Primary title: c_amilanda has lost the title: c_amilanda
+219 - vassal: c_amilanda - Title given to 1002101 - Primary title: d_wonezs
+219 - vassal: c_wasid - Holder 1002101 - Primary title: c_wasid has lost the title: c_wasid
+219 - vassal: c_wasid - Title given to 1002101 - Primary title: d_wonezs
+219 - vassal: c_ruteph - Holder 1002101 - Primary title: c_ruteph has lost the title: c_ruteph
+219 - vassal: c_ruteph - Title given to 1002101 - Primary title: d_wonezs
+230 - Holder 1003252 - Primary title: d_werid has lost the title: d_werid
+230 - Title given to 1003252
+230 - vassal: c_ruteph - Setting to vassal of d_wonezs in Validate Realm
+230 - Lost vassal: c_ruteph
+230 - vassal: c_wasid - Setting to vassal of d_wonezs in Validate Realm
+230 - Lost vassal: c_wasid
+230 - vassal: c_amilanda - Setting to vassal of d_wonezs in Validate Realm
+230 - Lost vassal: c_amilanda
+230 - vassal: c_everadr - Setting to vassal of d_wonezs in Validate Realm
+230 - Lost vassal: c_everadr
+230 - Holder (1003252) has gained d_wonezs
+230 - Holder (1003252) has gained c_ruteph
+230 - Holder (1003252) has gained c_wasid
+230 - Holder (1003252) has gained c_amilanda
+230 - Holder (1003252) has gained c_everadr
+230 - Holder (1003252) has gained c_ludadr
+231 - Destroyed due to flagged problem
+231 - Made independent
+231 - Title destroyed
+245 - Given to 1003252 in TestCreateEmpire
+245 - Title given to 1003252 - Primary title: d_wonezs
+245 - Made independent for title creation d_werid for d_wonezs
+245 - Made independent
+245 - Gained vassal: c_ludadr
+245 - Gained vassal: c_everadr
+245 - Gained vassal: c_amilanda
+245 - Gained vassal: c_wasid
+245 - Gained vassal: c_ruteph
+245 - Destroyed due to no capital's obtainable
+245 - Title destroyed
+245 - vassal: c_wasid - Setting independent due to liege destruction
+245 - vassal: c_wasid - Made independent
+245 - vassal: c_amilanda - Setting independent due to liege destruction
+245 - vassal: c_amilanda - Made independent
+245 - vassal: c_everadr - Setting independent due to liege destruction
+245 - vassal: c_everadr - Made independent
+245 - vassal: c_ludadr - Setting independent due to liege destruction
+245 - vassal: c_ludadr - Made independent
+245 - vassal: c_ruteph - Setting independent due to liege destruction
+245 - vassal: c_ruteph - Made independent

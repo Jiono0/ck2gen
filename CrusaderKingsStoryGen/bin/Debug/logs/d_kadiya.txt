@@ -1,0 +1,107 @@
+200 - Title given to 1000540
+200 - vassal: c_kibayda - Given to 1000543 via AddCharacterForTitle
+200 - sub vassal: c_kibayda - Given to 1000543 via AddCharacterForTitle
+200 - vassal: c_kibayda - Holder 1000543 - Primary title: c_kibayda has lost the title: c_kibayda
+200 - sub vassal: c_kibayda - Holder 1000543 - Primary title: c_kibayda has lost the title: c_kibayda
+200 - vassal: c_kibayda - Title given to 1000543
+200 - sub vassal: c_kibayda - Title given to 1000543
+200 - vassal: c_qulava - Holder 1000511 - Primary title: c_qulava has lost the title: c_kebina
+200 - sub vassal: c_qulava - Holder 1000511 - Primary title: c_qulava has lost the title: c_kebina
+200 - sub vassal: c_kebina - Title given to 1000511 - Primary title: d_beta-va
+200 - vassal: c_lauisey - Holder 1000540 - Primary title: c_lauisey has lost the title: c_lauisey
+200 - sub vassal: c_lauisey - Holder 1000540 - Primary title: c_lauisey has lost the title: c_lauisey
+200 - vassal: c_lauisey - Title given to 1000540 - Primary title: d_kadiya
+200 - sub vassal: c_lauisey - Title given to 1000540 - Primary title: d_kadiya
+200 - Holder (1000540) has gained c_lauisey
+200 - vassal: c_kibayda - Holder 1000540 - Primary title: c_kibayda has lost the title: c_kibayda
+200 - sub vassal: c_kibayda - Holder 1000540 - Primary title: c_kibayda has lost the title: c_kibayda
+200 - vassal: c_kibayda - Title given to 1000540 - Primary title: d_kadiya
+200 - sub vassal: c_kibayda - Title given to 1000540 - Primary title: d_kadiya
+200 - Holder (1000540) has gained c_kibayda
+200 - vassal: c_qulava - Holder 1000540 - Primary title: c_qulava has lost the title: c_qulava
+200 - sub vassal: c_qulava - Holder 1000540 - Primary title: c_qulava has lost the title: c_qulava
+200 - vassal: c_qulava - Title given to 1000540 - Primary title: d_kadiya
+200 - sub vassal: c_qulava - Title given to 1000540 - Primary title: d_kadiya
+200 - Holder (1000540) has gained c_qulava
+204 - Holder (1000540) has gained d_rikalka
+204 - Holder (1000540) has gained c_webisey
+204 - Holder (1000540) has gained c_nazenes
+204 - Holder (1000540) has gained c_alitini
+205 - vassal: c_kibayda - Title given to 1001883
+227 - Gained vassal: c_webisey
+227 - Gained vassal: c_nazenes
+227 - Gained vassal: c_alitini
+227 - Holder 1001629 - Primary title: d_kadiya has lost the title: d_kadiya
+227 - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: c_alitini - Holder 1001629 - Primary title: c_alitini has lost the title: c_alitini
+227 - vassal: c_alitini - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: c_nazenes - Holder 1001629 - Primary title: c_nazenes has lost the title: c_nazenes
+227 - vassal: c_nazenes - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: c_webisey - Holder 1001629 - Primary title: c_webisey has lost the title: c_webisey
+227 - vassal: c_webisey - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: c_lauisey - Holder 1001629 - Primary title: c_lauisey has lost the title: c_lauisey
+227 - vassal: c_lauisey - Title given to 1001629 - Primary title: d_rikalka
+227 - vassal: c_qulava - Holder 1001629 - Primary title: c_qulava has lost the title: c_qulava
+227 - vassal: c_qulava - Title given to 1001629 - Primary title: d_rikalka
+233 - Holder (1001629) has gained d_rikalka
+233 - vassal: c_alitini - Set liege on title creation d_rikalka
+233 - Lost vassal: c_alitini
+233 - vassal: c_nazenes - Set liege on title creation d_rikalka
+233 - Lost vassal: c_nazenes
+233 - vassal: c_webisey - Set liege on title creation d_rikalka
+233 - Lost vassal: c_webisey
+233 - vassal: c_lauisey - Set liege on title creation d_rikalka
+233 - Lost vassal: c_lauisey
+233 - vassal: c_qulava - Set liege on title creation d_rikalka
+233 - Lost vassal: c_qulava
+233 - vassal: c_kibayda - Holder 1001629 - Primary title: c_kibayda has lost the title: c_kibayda
+233 - vassal: c_kibayda - Title given to 1001629 - Primary title: d_kadiya
+233 - Holder (1001629) has gained c_kibayda
+234 - Holder 1003649 - Primary title: d_kadiya has lost the title: c_lauisey
+234 - Gained vassal: c_lauisey
+236 - Holder (1001629) has gained d_rikalka
+236 - vassal: c_kibayda - Set liege on title creation d_rikalka
+236 - Lost vassal: c_kibayda
+236 - vassal: c_lauisey - Holder 1001629 - Primary title: c_lauisey has lost the title: c_lauisey
+236 - vassal: c_lauisey - Title given to 1001629 - Primary title: d_kadiya
+236 - Holder (1001629) has gained c_lauisey
+237 - Holder 1003828 - Primary title: d_kadiya has lost the title: c_nazenes
+237 - Gained vassal: c_nazenes
+247 - Holder 1002181 - Primary title: d_kadiya has lost the title: d_kadiya
+247 - Title given to 1002181 - Primary title: k_nauini
+247 - vassal: c_lauisey - Holder 1002181 - Primary title: c_lauisey has lost the title: c_lauisey
+247 - vassal: c_lauisey - Title given to 1002181 - Primary title: k_nauini
+247 - vassal: c_lauisey - Title given to 1004475
+260 - Holder 1004473 - Primary title: d_kadiya has lost the title: d_kadiya
+260 - Title given to 1004473 - Primary title: k_nauini
+282 - Holder 1005633 - Primary title: d_kadiya has lost the title: d_kadiya
+282 - Title given to 1005633 - Primary title: k_nauini
+294 - vassal: c_lauisey - Given to 1007234 in HandleTitles - Too many duke titles
+294 - vassal: c_lauisey - Holder 1007234 - Primary title: c_lauisey has lost the title: c_lauisey
+294 - vassal: c_lauisey - Title given to 1007234
+294 - Title given to 1007234 - Primary title: c_lauisey
+294 - vassal: c_lauisey - Holder (1007234) has gained d_kadiya
+294 - Too many dukes, given to dejure: k_nauini
+321 - Holder 1007848 - Primary title: d_kadiya has lost the title: d_kadiya
+321 - Title given to 1007848 - Primary title: k_nauini
+321 - vassal: c_lauisey - Holder 1007848 - Primary title: c_lauisey has lost the title: c_lauisey
+321 - vassal: c_lauisey - Title given to 1007848 - Primary title: k_nauini
+321 - vassal: c_lauisey - Given to 1008767 in HandleTitles - Too many duke titles
+321 - vassal: c_lauisey - Title given to 1008767
+321 - Title given to 1008767 - Primary title: c_lauisey
+321 - vassal: c_lauisey - Holder (1008767) has gained d_kadiya
+321 - Too many dukes, given to dejure: k_nauini
+343 - Holder 1008959 - Primary title: d_kadiya has lost the title: d_kadiya
+343 - Title given to 1008959
+343 - vassal: c_lauisey - Holder 1008959 - Primary title: c_lauisey has lost the title: c_lauisey
+343 - vassal: c_lauisey - Title given to 1008959 - Primary title: d_kadiya
+343 - Holder (1008959) has gained c_lauisey
+346 - Holder (1008959) has gained d_kebisey
+346 - Holder (1008959) has gained c_kibayda
+346 - Holder (1008959) has gained c_kilyuk
+356 - Holder (1008959) has gained c_dedisey
+357 - vassal: c_lauisey - Given to 1010658 in HandleTitles - Too many duke titles
+357 - vassal: c_lauisey - Title given to 1010658
+357 - Title given to 1007848 - Primary title: k_nauini
+357 - Too many dukes, made direct title into vassal of k_nauini
+357 - Title given to 1010659

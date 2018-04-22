@@ -1,0 +1,107 @@
+200 - Title given to 1000367
+200 - vassal: c_nibril - Holder 1000367 - Primary title: c_nibril has lost the title: c_nibril
+200 - sub vassal: c_nibril - Holder 1000367 - Primary title: c_nibril has lost the title: c_nibril
+200 - vassal: c_nibril - Title given to 1000367 - Primary title: d_atolisa
+200 - sub vassal: c_nibril - Title given to 1000367 - Primary title: d_atolisa
+200 - Holder (1000367) has gained c_nibril
+200 - vassal: c_wahdi - Holder 1000367 - Primary title: c_wahdi has lost the title: c_wahdi
+200 - sub vassal: c_wahdi - Holder 1000367 - Primary title: c_wahdi has lost the title: c_wahdi
+200 - vassal: c_wahdi - Title given to 1000367 - Primary title: d_atolisa
+200 - sub vassal: c_wahdi - Title given to 1000367 - Primary title: d_atolisa
+200 - Holder (1000367) has gained c_wahdi
+200 - vassal: c_qolavid - Holder 1000367 - Primary title: c_qolavid has lost the title: c_qolavid
+200 - sub vassal: c_qolavid - Holder 1000367 - Primary title: c_qolavid has lost the title: c_qolavid
+200 - vassal: c_qolavid - Title given to 1000367 - Primary title: d_atolisa
+200 - sub vassal: c_qolavid - Title given to 1000367 - Primary title: d_atolisa
+200 - Holder (1000367) has gained c_qolavid
+202 - Holder (1000367) has gained d_kolilda
+202 - Holder (1000367) has gained c_belida
+202 - Holder (1000367) has gained c_nyarael
+202 - Holder (1000367) has gained c_doro
+203 - vassal: c_wahdi - Title given to 1001662
+242 - Holder (1000367) has gained d_wibril
+242 - Holder (1000367) has gained c_ehelava
+250 - Title given to 1002873
+250 - vassal: c_qolavid - Setting to vassal of d_kolilda in Validate Realm
+250 - Lost vassal: c_qolavid
+250 - vassal: c_nibril - Setting to vassal of d_kolilda in Validate Realm
+250 - Lost vassal: c_nibril
+250 - Holder (1002873) has gained c_qolavid
+250 - Gained vassal: c_qolavid
+250 - Holder (1002873) has gained c_nibril
+250 - Gained vassal: c_nibril
+250 - Holder (1002873) has gained c_belida
+250 - Gained vassal: c_belida
+250 - Holder (1002873) has gained c_nyarael
+250 - Gained vassal: c_nyarael
+250 - Holder (1002873) has gained d_kolilda
+255 - Holder (1002873) has gained c_loisava
+255 - Holder (1002873) has gained c_avoisand
+255 - Holder (1002873) has gained c_ejolirza
+255 - Holder (1002873) has gained c_keja
+256 - vassal: c_qolavid - Title given to 1004766
+256 - vassal: c_belida - Title given to 1004767
+256 - vassal: c_nyarael - Title given to 1004768
+267 - Holder (1002873) has gained d_kolael
+267 - vassal: c_nibril - Set liege on title creation d_kolael
+267 - Lost vassal: c_nibril
+267 - Holder 1003460 - Primary title: d_atolisa has lost the title: c_ejolirza
+267 - Holder 1004204 - Primary title: d_atolisa has lost the title: d_kolael
+267 - Gained vassal: c_nibril
+267 - Gained vassal: c_loisava
+267 - Gained vassal: c_avoisand
+267 - Gained vassal: c_keja
+276 - Holder (1002873) has gained d_kolael
+276 - vassal: c_keja - Set liege on title creation d_kolael
+276 - Lost vassal: c_keja
+276 - vassal: c_avoisand - Set liege on title creation d_kolael
+276 - Lost vassal: c_avoisand
+276 - vassal: c_loisava - Set liege on title creation d_kolael
+276 - Lost vassal: c_loisava
+276 - vassal: c_nibril - Set liege on title creation d_kolael
+276 - Lost vassal: c_nibril
+282 - Holder 1004871 - Primary title: d_atolisa has lost the title: d_kolael
+284 - Gained vassal: c_keja
+284 - Gained vassal: c_avoisand
+284 - Gained vassal: c_loisava
+284 - Gained vassal: c_nibril
+285 - Holder 1004871 - Primary title: d_atolisa has lost the title: d_atolisa
+285 - Title given to 1004871
+285 - vassal: c_nibril - Holder 1004871 - Primary title: c_nibril has lost the title: c_nibril
+285 - vassal: c_nibril - Title given to 1004871 - Primary title: d_atolisa
+285 - Holder (1004871) has gained c_nibril
+285 - vassal: c_loisava - Holder 1004871 - Primary title: c_loisava has lost the title: c_loisava
+285 - vassal: c_loisava - Title given to 1004871 - Primary title: d_atolisa
+285 - Holder (1004871) has gained c_loisava
+285 - vassal: c_avoisand - Holder 1004871 - Primary title: c_avoisand has lost the title: c_avoisand
+285 - vassal: c_avoisand - Title given to 1004871 - Primary title: d_atolisa
+285 - Holder (1004871) has gained c_avoisand
+285 - vassal: c_keja - Holder 1004871 - Primary title: c_keja has lost the title: c_keja
+285 - vassal: c_keja - Title given to 1004871 - Primary title: d_atolisa
+285 - Holder (1004871) has gained c_keja
+290 - Holder (1004871) has gained d_kolael
+290 - vassal: c_nibril - Set liege on title creation d_kolael
+290 - Lost vassal: c_nibril
+290 - vassal: c_loisava - Set liege on title creation d_kolael
+290 - Lost vassal: c_loisava
+290 - vassal: c_avoisand - Set liege on title creation d_kolael
+290 - Lost vassal: c_avoisand
+290 - vassal: c_keja - Set liege on title creation d_kolael
+290 - Lost vassal: c_keja
+300 - vassal: c_wahdi - Holder 1004766 - Primary title: c_wahdi has lost the title: c_wahdi
+300 - vassal: c_wahdi - Title given to 1004766 - Primary title: c_qolavid
+300 - vassal: c_qolavid - Holder (1004766) has gained c_wahdi
+306 - Holder (1004871) has gained d_wibril
+306 - Setting independent in Validate Realm
+306 - Made independent
+307 - vassal: c_qolavid - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - Lost vassal: c_qolavid
+307 - vassal: c_wahdi - Holder 1006066 - Primary title: c_wahdi has lost the title: c_qolavid
+307 - vassal: c_wahdi - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - Lost vassal: c_wahdi
+307 - vassal: c_belida - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - Lost vassal: c_belida
+307 - vassal: c_nyarael - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - Lost vassal: c_nyarael
+308 - Destroyed due to flagged problem
+308 - Title destroyed

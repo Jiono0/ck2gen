@@ -1,0 +1,41 @@
+200 - Title given to 1000155
+200 - vassal: c_karonio - Given to 1000158 via AddCharacterForTitle
+200 - sub vassal: c_karonio - Given to 1000158 via AddCharacterForTitle
+200 - vassal: c_karonio - Holder 1000158 - Primary title: c_karonio has lost the title: c_karonio
+200 - sub vassal: c_karonio - Holder 1000158 - Primary title: c_karonio has lost the title: c_karonio
+200 - vassal: c_karonio - Title given to 1000158
+200 - sub vassal: c_karonio - Title given to 1000158
+200 - vassal: c_ekyau - Holder 1000155 - Primary title: c_ekyau has lost the title: c_ekyau
+200 - sub vassal: c_ekyau - Holder 1000155 - Primary title: c_ekyau has lost the title: c_ekyau
+200 - vassal: c_ekyau - Title given to 1000155 - Primary title: d_rihonio
+200 - sub vassal: c_ekyau - Title given to 1000155 - Primary title: d_rihonio
+200 - Holder (1000155) has gained c_ekyau
+200 - vassal: c_karonio - Holder 1000155 - Primary title: c_karonio has lost the title: c_karonio
+200 - sub vassal: c_karonio - Holder 1000155 - Primary title: c_karonio has lost the title: c_karonio
+200 - vassal: c_karonio - Title given to 1000155 - Primary title: d_rihonio
+200 - sub vassal: c_karonio - Title given to 1000155 - Primary title: d_rihonio
+200 - Holder (1000155) has gained c_karonio
+200 - vassal: c_erapilde - Holder 1000155 - Primary title: c_erapilde has lost the title: c_erapilde
+200 - sub vassal: c_erapilde - Holder 1000155 - Primary title: c_erapilde has lost the title: c_erapilde
+200 - vassal: c_erapilde - Title given to 1000155 - Primary title: d_rihonio
+200 - sub vassal: c_erapilde - Title given to 1000155 - Primary title: d_rihonio
+200 - Holder (1000155) has gained c_erapilde
+200 - Holder 1001055 - Primary title: d_rihonio has lost the title: d_rihonio
+200 - Title given to 1001055 - Primary title: k_keravid
+200 - vassal: c_erapilde - Holder 1001055 - Primary title: c_erapilde has lost the title: c_erapilde
+200 - vassal: c_erapilde - Title given to 1001055 - Primary title: k_keravid
+200 - vassal: c_karonio - Holder 1001055 - Primary title: c_karonio has lost the title: c_karonio
+200 - vassal: c_karonio - Title given to 1001055 - Primary title: k_keravid
+200 - vassal: c_ekyau - Holder 1001055 - Primary title: c_ekyau has lost the title: c_ekyau
+200 - vassal: c_ekyau - Title given to 1001055 - Primary title: k_keravid
+213 - Holder 1002245 - Primary title: d_rihonio has lost the title: d_rihonio
+213 - Title given to 1002245 - Primary title: k_keravid
+213 - vassal: c_ekyau - Setting to vassal of d_rama in Validate Realm
+213 - Lost vassal: c_ekyau
+213 - vassal: c_karonio - Setting to vassal of d_rama in Validate Realm
+213 - Lost vassal: c_karonio
+213 - vassal: c_erapilde - Setting to vassal of d_rama in Validate Realm
+213 - Lost vassal: c_erapilde
+214 - Destroyed due to flagged problem
+214 - Made independent
+214 - Title destroyed

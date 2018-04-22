@@ -1,0 +1,246 @@
+200 - Title given to 1000311
+200 - vassal: c_ecinilu - Given to 1000314 via AddCharacterForTitle
+200 - sub vassal: c_ecinilu - Given to 1000314 via AddCharacterForTitle
+200 - vassal: c_ecinilu - Holder 1000314 - Primary title: c_ecinilu has lost the title: c_ecinilu
+200 - sub vassal: c_ecinilu - Holder 1000314 - Primary title: c_ecinilu has lost the title: c_ecinilu
+200 - vassal: c_ecinilu - Title given to 1000314
+200 - sub vassal: c_ecinilu - Title given to 1000314
+200 - vassal: c_tierg - Holder 1000311 - Primary title: c_tierg has lost the title: c_tierg
+200 - sub vassal: c_tierg - Holder 1000311 - Primary title: c_tierg has lost the title: c_tierg
+200 - vassal: c_tierg - Title given to 1000311 - Primary title: d_desenes
+200 - sub vassal: c_tierg - Title given to 1000311 - Primary title: d_desenes
+200 - Holder (1000311) has gained c_tierg
+200 - vassal: c_ecinilu - Holder 1000311 - Primary title: c_ecinilu has lost the title: c_ecinilu
+200 - sub vassal: c_ecinilu - Holder 1000311 - Primary title: c_ecinilu has lost the title: c_ecinilu
+200 - vassal: c_ecinilu - Title given to 1000311 - Primary title: d_desenes
+200 - sub vassal: c_ecinilu - Title given to 1000311 - Primary title: d_desenes
+200 - Holder (1000311) has gained c_ecinilu
+200 - vassal: c_rasimha - Title given to 1000311 - Primary title: d_desenes
+200 - Holder (1000311) has gained c_rasimha
+200 - vassal: c_duway - Holder 1000311 - Primary title: c_duway has lost the title: c_duway
+200 - sub vassal: c_duway - Holder 1000311 - Primary title: c_duway has lost the title: c_duway
+200 - vassal: c_duway - Title given to 1000311 - Primary title: d_desenes
+200 - sub vassal: c_duway - Title given to 1000311 - Primary title: d_desenes
+200 - Holder (1000311) has gained c_duway
+204 - Holder 1001500 - Primary title: d_desenes has lost the title: d_desenes
+204 - Title given to 1001500
+204 - vassal: c_duway - Holder 1001500 - Primary title: c_duway has lost the title: c_duway
+204 - vassal: c_duway - Title given to 1001500 - Primary title: d_desenes
+204 - Holder (1001500) has gained c_duway
+204 - vassal: c_rasimha - Holder 1001500 - Primary title: c_rasimha has lost the title: c_rasimha
+204 - vassal: c_rasimha - Title given to 1001500 - Primary title: d_desenes
+204 - Holder (1001500) has gained c_rasimha
+204 - vassal: c_ecinilu - Holder 1001500 - Primary title: c_ecinilu has lost the title: c_ecinilu
+204 - vassal: c_ecinilu - Title given to 1001500 - Primary title: d_desenes
+204 - Holder (1001500) has gained c_ecinilu
+204 - vassal: c_tierg - Holder 1001500 - Primary title: c_tierg has lost the title: c_tierg
+204 - vassal: c_tierg - Title given to 1001500 - Primary title: d_desenes
+204 - Holder (1001500) has gained c_tierg
+213 - Holder 1001043 - Primary title: d_desenes has lost the title: d_desenes
+213 - Title given to 1001043 - Primary title: k_wofie
+213 - vassal: c_duway - Holder 1001043 - Primary title: c_duway has lost the title: c_duway
+213 - vassal: c_duway - Title given to 1001043 - Primary title: k_wofie
+213 - vassal: c_rasimha - Holder 1001043 - Primary title: c_rasimha has lost the title: c_rasimha
+213 - vassal: c_rasimha - Title given to 1001043 - Primary title: k_wofie
+213 - vassal: c_ecinilu - Holder 1001043 - Primary title: c_ecinilu has lost the title: c_ecinilu
+213 - vassal: c_ecinilu - Title given to 1001043 - Primary title: k_wofie
+213 - vassal: c_tierg - Holder 1001043 - Primary title: c_tierg has lost the title: c_tierg
+213 - vassal: c_tierg - Title given to 1001043 - Primary title: k_wofie
+213 - vassal: c_ecinilu - Given to 1002432 in HandleTitles - Too many duke titles
+213 - vassal: c_ecinilu - Title given to 1002432
+213 - Title given to 1002432 - Primary title: c_ecinilu
+213 - vassal: c_ecinilu - Holder (1002432) has gained d_desenes
+213 - vassal: c_duway - Setting to vassal of k_wofie in Validate Realm
+213 - Lost vassal: c_duway
+213 - vassal: c_rasimha - Setting to vassal of k_wofie in Validate Realm
+213 - Lost vassal: c_rasimha
+213 - vassal: c_tierg - Setting to vassal of k_wofie in Validate Realm
+213 - Lost vassal: c_tierg
+213 - Too many dukes, given to dejure: k_wofie
+230 - Holder 1002466 - Primary title: d_desenes has lost the title: d_desenes
+230 - Title given to 1002466
+230 - vassal: c_ecinilu - Holder 1002466 - Primary title: c_ecinilu has lost the title: c_ecinilu
+230 - vassal: c_ecinilu - Title given to 1002466 - Primary title: d_desenes
+230 - Holder (1002466) has gained c_ecinilu
+275 - Holder 1005497 - Primary title: d_desenes has lost the title: d_desenes
+275 - Title given to 1005497
+275 - vassal: c_ecinilu - Holder 1005497 - Primary title: c_ecinilu has lost the title: c_ecinilu
+275 - vassal: c_ecinilu - Title given to 1005497 - Primary title: d_desenes
+275 - Holder (1005497) has gained c_ecinilu
+312 - Holder (1005497) has gained d_tunay
+312 - Holder (1005497) has gained c_tarerma
+312 - Holder (1005497) has gained c_surt
+312 - Holder (1005497) has gained c_emayana
+315 - Title given to 1006707
+315 - vassal: c_ecinilu - Setting to vassal of d_tunay in Validate Realm
+315 - Lost vassal: c_ecinilu
+315 - Holder (1006707) has gained c_ecinilu
+315 - Gained vassal: c_ecinilu
+315 - Holder (1006707) has gained d_tunay
+315 - Holder (1006707) has gained c_tarerma
+315 - Holder (1006707) has gained c_surt
+315 - Holder (1006707) has gained c_emayana
+330 - Holder (1006707) has gained d_tuway
+330 - Holder (1006707) has gained c_tuana
+330 - Holder (1006707) has gained c_nenes
+331 - vassal: c_ecinilu - Given to 1009299 in HandleTitles - Too many duke titles
+331 - vassal: c_ecinilu - Title given to 1009299
+331 - Title given to 1008765 - Primary title: k_wofie
+331 - Too many dukes, made direct title into vassal of k_wofie
+331 - Title given to 1009300
+335 - Holder 1008613 - Primary title: d_desenes has lost the title: d_desenes
+335 - Title given to 1008613 - Primary title: d_tuway
+336 - Holder 1009555 - Primary title: d_desenes has lost the title: c_tuana
+336 - Holder 1008765 - Primary title: d_desenes has lost the title: d_tuway
+336 - Gained vassal: c_nenes
+385 - Made independent
+385 - vassal: c_nenes - Made vassal of neighbour (k_lophia) due to being a seperate island
+385 - sub vassal: c_nenes - Made vassal of neighbour (k_lophia) due to being a seperate island
+385 - Lost vassal: c_nenes
+385 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+385 - Gained vassal: c_nenes
+385 - Gained vassal: c_nenes
+385 - vassal: c_nenes - Given to neighbour holder of k_lophia
+385 - sub vassal: c_nenes - Given to neighbour holder of k_lophia
+385 - Gained vassal: c_rayamha
+385 - vassal: c_rayamha - Given to neighbour holder of d_desenes
+385 - sub vassal: c_rayamha - Given to neighbour holder of d_desenes
+385 - vassal: c_rayamha - Holder 1008613 - Primary title: c_rayamha has lost the title: c_rayamha
+385 - sub vassal: c_rayamha - Holder 1008613 - Primary title: c_rayamha has lost the title: c_rayamha
+385 - vassal: c_rayamha - Title given to 1008613 - Primary title: d_desenes
+385 - sub vassal: c_rayamha - Title given to 1008613 - Primary title: d_desenes
+385 - Holder (1008613) has gained c_rayamha
+386 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+386 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+386 - Lost vassal: c_nenes
+386 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+386 - Gained vassal: c_nenes
+386 - Gained vassal: c_nenes
+386 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+386 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+387 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+387 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+387 - Lost vassal: c_nenes
+387 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+387 - Gained vassal: c_nenes
+387 - Gained vassal: c_nenes
+387 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+387 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+388 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+388 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+388 - Lost vassal: c_nenes
+388 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+388 - Gained vassal: c_nenes
+388 - Gained vassal: c_nenes
+388 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+388 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+389 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+389 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+389 - Lost vassal: c_nenes
+389 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+389 - Gained vassal: c_nenes
+389 - Gained vassal: c_nenes
+389 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+389 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+390 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+390 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+390 - Lost vassal: c_nenes
+390 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+390 - Gained vassal: c_nenes
+390 - Gained vassal: c_nenes
+390 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+390 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+391 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+391 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+391 - Lost vassal: c_nenes
+391 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+391 - Gained vassal: c_nenes
+391 - Gained vassal: c_nenes
+391 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+391 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+392 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+392 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+392 - Lost vassal: c_nenes
+392 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+392 - Gained vassal: c_nenes
+392 - Gained vassal: c_nenes
+392 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+392 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+393 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+393 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+393 - Lost vassal: c_nenes
+393 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+393 - Gained vassal: c_nenes
+393 - Gained vassal: c_nenes
+393 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+393 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+394 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+394 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+394 - Lost vassal: c_nenes
+394 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+394 - Gained vassal: c_nenes
+394 - Gained vassal: c_nenes
+394 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+394 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+395 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+395 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+395 - Lost vassal: c_nenes
+395 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+395 - Gained vassal: c_nenes
+395 - Gained vassal: c_nenes
+395 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+395 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+396 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+396 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+396 - Lost vassal: c_nenes
+396 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+396 - Gained vassal: c_nenes
+396 - Gained vassal: c_nenes
+396 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+396 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+397 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+397 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+397 - Lost vassal: c_nenes
+397 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+397 - Gained vassal: c_nenes
+397 - Gained vassal: c_nenes
+397 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+397 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+398 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+398 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+398 - Lost vassal: c_nenes
+398 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+398 - Gained vassal: c_nenes
+398 - Gained vassal: c_nenes
+398 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+398 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge
+398 - Holder 1009601 - Primary title: d_desenes has lost the title: d_desenes
+398 - Title given to 1009601
+398 - Holder (1009601) has gained d_tunay
+398 - vassal: c_nenes - Holder 1009601 - Primary title: c_nenes has lost the title: c_nenes
+398 - sub vassal: c_nenes - Holder 1009601 - Primary title: c_nenes has lost the title: c_nenes
+398 - vassal: c_nenes - Title given to 1009601 - Primary title: d_desenes
+398 - sub vassal: c_nenes - Title given to 1009601 - Primary title: d_desenes
+398 - Holder (1009601) has gained c_nenes
+398 - vassal: c_rayamha - Setting independent in Validate Realm
+398 - sub vassal: c_rayamha - Setting independent in Validate Realm
+398 - vassal: c_rayamha - Made independent
+398 - sub vassal: c_rayamha - Made independent
+398 - sub vassal: c_emayana - Holder 1009601 - Primary title: c_emayana has lost the title: c_emayana
+398 - sub vassal: c_emayana - Title given to 1009601 - Primary title: d_desenes
+398 - Holder (1009601) has gained c_emayana
+398 - sub vassal: c_surt - Holder 1009601 - Primary title: c_surt has lost the title: c_surt
+398 - sub vassal: c_surt - Title given to 1009601 - Primary title: d_desenes
+398 - Holder (1009601) has gained c_surt
+398 - sub vassal: c_tarerma - Holder 1009601 - Primary title: c_tarerma has lost the title: c_tarerma
+398 - sub vassal: c_tarerma - Title given to 1009601 - Primary title: d_desenes
+398 - Holder (1009601) has gained c_tarerma
+398 - Holder (1009601) has gained c_rayamha
+399 - vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+399 - sub vassal: c_nenes - Made vassal of neighbour (k_tenelge) due to being a seperate island
+399 - Lost vassal: c_nenes
+399 - sub vassal: c_nenes - Setting to vassal of d_desenes in Validate Realm
+399 - Gained vassal: c_nenes
+399 - Gained vassal: c_nenes
+399 - vassal: c_nenes - Given to neighbour holder of k_tenelge
+399 - sub vassal: c_nenes - Given to neighbour holder of k_tenelge

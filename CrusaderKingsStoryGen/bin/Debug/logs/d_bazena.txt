@@ -1,0 +1,104 @@
+200 - Title given to 1000267
+200 - vassal: c_nena - Given to 1000270 via AddCharacterForTitle
+200 - sub vassal: c_nena - Given to 1000270 via AddCharacterForTitle
+200 - vassal: c_nena - Holder 1000270 - Primary title: c_nena has lost the title: c_nena
+200 - sub vassal: c_nena - Holder 1000270 - Primary title: c_nena has lost the title: c_nena
+200 - vassal: c_nena - Title given to 1000270
+200 - sub vassal: c_nena - Title given to 1000270
+200 - vassal: c_nisan - Given to 1000272 via AddCharacterForTitle
+200 - sub vassal: c_nisan - Given to 1000272 via AddCharacterForTitle
+200 - vassal: c_nisan - Holder 1000272 - Primary title: c_nisan has lost the title: c_nisan
+200 - sub vassal: c_nisan - Holder 1000272 - Primary title: c_nisan has lost the title: c_nisan
+200 - vassal: c_nisan - Title given to 1000272
+200 - sub vassal: c_nisan - Title given to 1000272
+200 - vassal: c_kisyata - Holder 1000267 - Primary title: c_kisyata has lost the title: c_kisyata
+200 - sub vassal: c_kisyata - Holder 1000267 - Primary title: c_kisyata has lost the title: c_kisyata
+200 - vassal: c_kisyata - Title given to 1000267 - Primary title: d_bazena
+200 - sub vassal: c_kisyata - Title given to 1000267 - Primary title: d_bazena
+200 - Holder (1000267) has gained c_kisyata
+200 - vassal: c_nena - Holder 1000267 - Primary title: c_nena has lost the title: c_nena
+200 - sub vassal: c_nena - Holder 1000267 - Primary title: c_nena has lost the title: c_nena
+200 - vassal: c_nena - Title given to 1000267 - Primary title: d_bazena
+200 - sub vassal: c_nena - Title given to 1000267 - Primary title: d_bazena
+200 - Holder (1000267) has gained c_nena
+200 - vassal: c_nisan - Holder 1000267 - Primary title: c_nisan has lost the title: c_nisan
+200 - sub vassal: c_nisan - Holder 1000267 - Primary title: c_nisan has lost the title: c_nisan
+200 - vassal: c_nisan - Title given to 1000267 - Primary title: d_bazena
+200 - sub vassal: c_nisan - Title given to 1000267 - Primary title: d_bazena
+200 - Holder (1000267) has gained c_nisan
+200 - vassal: c_rewimha - Title given to 1000267 - Primary title: d_bazena
+200 - Holder (1000267) has gained c_rewimha
+200 - vassal: c_kana - Title given to 1000267 - Primary title: d_bazena
+200 - Holder (1000267) has gained c_kana
+236 - Holder 1001204 - Primary title: d_bazena has lost the title: d_bazena
+236 - Title given to 1001204
+236 - vassal: c_kisyata - Holder 1001204 - Primary title: c_kisyata has lost the title: c_kisyata
+236 - vassal: c_kisyata - Title given to 1001204 - Primary title: d_bazena
+236 - Holder (1001204) has gained c_kisyata
+236 - vassal: c_nena - Holder 1001204 - Primary title: c_nena has lost the title: c_nena
+236 - vassal: c_nena - Title given to 1001204 - Primary title: d_bazena
+236 - Holder (1001204) has gained c_nena
+236 - vassal: c_nisan - Holder 1001204 - Primary title: c_nisan has lost the title: c_nisan
+236 - vassal: c_nisan - Title given to 1001204 - Primary title: d_bazena
+236 - Holder (1001204) has gained c_nisan
+236 - vassal: c_rewimha - Holder 1001204 - Primary title: c_rewimha has lost the title: c_rewimha
+236 - vassal: c_rewimha - Title given to 1001204 - Primary title: d_bazena
+236 - Holder (1001204) has gained c_rewimha
+236 - vassal: c_kana - Holder 1001204 - Primary title: c_kana has lost the title: c_kana
+236 - vassal: c_kana - Title given to 1001204 - Primary title: d_bazena
+236 - Holder (1001204) has gained c_kana
+252 - Holder 1004441 - Primary title: d_bazena has lost the title: d_bazena
+252 - Title given to 1004441
+252 - vassal: c_kana - Holder 1004441 - Primary title: c_kana has lost the title: c_kana
+252 - vassal: c_kana - Title given to 1004441 - Primary title: d_bazena
+252 - Holder (1004441) has gained c_kana
+252 - vassal: c_rewimha - Holder 1004441 - Primary title: c_rewimha has lost the title: c_rewimha
+252 - vassal: c_rewimha - Title given to 1004441 - Primary title: d_bazena
+252 - Holder (1004441) has gained c_rewimha
+252 - vassal: c_nisan - Holder 1004441 - Primary title: c_nisan has lost the title: c_nisan
+252 - vassal: c_nisan - Title given to 1004441 - Primary title: d_bazena
+252 - Holder (1004441) has gained c_nisan
+252 - vassal: c_nena - Holder 1004441 - Primary title: c_nena has lost the title: c_nena
+252 - vassal: c_nena - Title given to 1004441 - Primary title: d_bazena
+252 - Holder (1004441) has gained c_nena
+252 - vassal: c_kisyata - Holder 1004441 - Primary title: c_kisyata has lost the title: c_kisyata
+252 - vassal: c_kisyata - Title given to 1004441 - Primary title: d_bazena
+252 - Holder (1004441) has gained c_kisyata
+278 - Holder (1004441) has gained k_lophia
+284 - Holder 1006406 - Primary title: d_bazena has lost the title: d_bazena
+284 - Title given to 1006406 - Primary title: k_lophia
+284 - vassal: c_kana - Setting to vassal of d_keda in Validate Realm
+284 - Lost vassal: c_kana
+284 - vassal: c_rewimha - Setting to vassal of d_keda in Validate Realm
+284 - Lost vassal: c_rewimha
+284 - vassal: c_nisan - Setting to vassal of d_keda in Validate Realm
+284 - Lost vassal: c_nisan
+284 - vassal: c_nena - Setting to vassal of d_keda in Validate Realm
+284 - Lost vassal: c_nena
+284 - vassal: c_kisyata - Setting to vassal of d_keda in Validate Realm
+284 - Lost vassal: c_kisyata
+285 - Destroyed due to flagged problem
+285 - Made independent
+285 - Title destroyed
+394 - Given to 1011882 in TestCreateEmpire
+394 - Title given to 1011882 - Primary title: d_kewimha
+394 - Made independent for title creation d_bazena for d_kewimha
+394 - Made independent
+394 - Gained vassal: c_kisyata
+394 - Gained vassal: c_nena
+394 - Gained vassal: c_nisan
+394 - Gained vassal: c_rewimha
+394 - Gained vassal: c_kana
+394 - vassal: c_nena - Given to 1012513 in HandleTitles - Too many duke titles
+394 - vassal: c_nena - Title given to 1012513
+394 - Title given to 1012110 - Primary title: k_lophia
+394 - Too many dukes, made direct title into vassal of k_lophia
+394 - vassal: c_kisyata - Setting to vassal of d_kewimha in Validate Realm
+394 - Lost vassal: c_kisyata
+394 - vassal: c_nisan - Setting to vassal of d_kewimha in Validate Realm
+394 - Lost vassal: c_nisan
+394 - vassal: c_rewimha - Setting to vassal of d_kewimha in Validate Realm
+394 - Lost vassal: c_rewimha
+394 - vassal: c_kana - Setting to vassal of d_kewimha in Validate Realm
+394 - Lost vassal: c_kana
+394 - Title given to 1012514

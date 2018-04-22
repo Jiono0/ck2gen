@@ -1,0 +1,66 @@
+200 - Title given to 1001035
+200 - vassal: d_tyevund - Holder 1001035 - Primary title: d_tyevund has lost the title: c_saloald
+200 - sub vassal: d_tyevund - Holder 1001035 - Primary title: d_tyevund has lost the title: c_saloald
+200 - sub vassal: c_saloald - Title given to 1001035 - Primary title: k_ramedus
+200 - Holder (1001035) has gained c_saloald
+200 - vassal: d_kalanda - Made vassal of neighbour (k_ebriga) due to being a seperate island
+200 - sub vassal: d_kalanda - Made vassal of neighbour (k_ebriga) due to being a seperate island
+200 - Lost vassal: d_kalanda
+200 - vassal: d_karota - Made vassal of neighbour (k_tamoshel) due to being a seperate island
+200 - sub vassal: d_karota - Made vassal of neighbour (k_tamoshel) due to being a seperate island
+200 - Lost vassal: d_karota
+211 - Holder 1001980 - Primary title: k_ramedus has lost the title: k_ramedus
+211 - Title given to 1001980
+211 - sub vassal: c_saloald - Holder 1001980 - Primary title: c_saloald has lost the title: c_saloald
+211 - sub vassal: c_saloald - Title given to 1001980 - Primary title: k_ramedus
+211 - Holder (1001980) has gained c_saloald
+211 - sub vassal: c_saloald - Setting to vassal of k_ramedus in Validate Realm
+211 - vassal: d_tyevund - Lost vassal: c_saloald
+211 - sub vassal: d_tyevund - Lost vassal: c_saloald
+211 - Gained vassal: c_saloald
+215 - vassal: d_tyevund - Holder 1001176 - Primary title: d_tyevund has lost the title: d_tyevund
+215 - sub vassal: d_tyevund - Holder 1001176 - Primary title: d_tyevund has lost the title: d_tyevund
+215 - vassal: d_tyevund - Title given to 1001176
+215 - sub vassal: d_tyevund - Title given to 1001176
+215 - sub vassal: c_regemka - Holder 1001176 - Primary title: c_regemka has lost the title: c_regemka
+215 - sub vassal: c_regemka - Title given to 1001176 - Primary title: d_tyevund
+215 - vassal: d_tyevund - Holder (1001176) has gained c_regemka
+215 - sub vassal: d_tyevund - Holder (1001176) has gained c_regemka
+232 - vassal: d_tyevund - Captured byk_ebriga in minor war
+232 - sub vassal: d_tyevund - Captured byk_ebriga in minor war
+232 - Lost vassal: d_tyevund
+232 - Holder 1003543 - Primary title: k_ramedus has lost the title: k_ramedus
+232 - Title given to 1003543
+232 - vassal: c_saloald - Holder 1003543 - Primary title: c_saloald has lost the title: c_saloald
+232 - sub vassal: c_saloald - Holder 1003543 - Primary title: c_saloald has lost the title: c_saloald
+232 - vassal: c_saloald - Title given to 1003543 - Primary title: k_ramedus
+232 - sub vassal: c_saloald - Title given to 1003543 - Primary title: k_ramedus
+232 - Holder (1003543) has gained c_saloald
+269 - Holder 1003845 - Primary title: k_ramedus has lost the title: k_ramedus
+269 - Title given to 1003845
+269 - vassal: c_saloald - Holder 1003845 - Primary title: c_saloald has lost the title: c_saloald
+269 - sub vassal: c_saloald - Holder 1003845 - Primary title: c_saloald has lost the title: c_saloald
+269 - vassal: c_saloald - Title given to 1003845 - Primary title: k_ramedus
+269 - sub vassal: c_saloald - Title given to 1003845 - Primary title: k_ramedus
+269 - Holder (1003845) has gained c_saloald
+300 - Holder 1006673 - Primary title: k_ramedus has lost the title: k_ramedus
+300 - Title given to 1006673
+300 - vassal: c_saloald - Holder 1006673 - Primary title: c_saloald has lost the title: c_saloald
+300 - sub vassal: c_saloald - Holder 1006673 - Primary title: c_saloald has lost the title: c_saloald
+300 - vassal: c_saloald - Title given to 1006673 - Primary title: k_ramedus
+300 - sub vassal: c_saloald - Title given to 1006673 - Primary title: k_ramedus
+300 - Holder (1006673) has gained c_saloald
+338 - Holder 1007698 - Primary title: k_ramedus has lost the title: k_ramedus
+338 - Title given to 1007698
+338 - vassal: c_saloald - Holder 1007698 - Primary title: c_saloald has lost the title: c_saloald
+338 - sub vassal: c_saloald - Holder 1007698 - Primary title: c_saloald has lost the title: c_saloald
+338 - vassal: c_saloald - Title given to 1007698 - Primary title: k_ramedus
+338 - sub vassal: c_saloald - Title given to 1007698 - Primary title: k_ramedus
+338 - Holder (1007698) has gained c_saloald
+365 - Holder 1010564 - Primary title: k_ramedus has lost the title: k_ramedus
+365 - Title given to 1010564
+365 - vassal: c_saloald - Holder 1010564 - Primary title: c_saloald has lost the title: c_saloald
+365 - sub vassal: c_saloald - Holder 1010564 - Primary title: c_saloald has lost the title: c_saloald
+365 - vassal: c_saloald - Title given to 1010564 - Primary title: k_ramedus
+365 - sub vassal: c_saloald - Title given to 1010564 - Primary title: k_ramedus
+365 - Holder (1010564) has gained c_saloald

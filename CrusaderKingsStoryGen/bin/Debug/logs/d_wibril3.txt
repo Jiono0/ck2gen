@@ -1,0 +1,851 @@
+200 - Title given to 1000406
+200 - vassal: c_ehelava - Given to 1000409 via AddCharacterForTitle
+200 - sub vassal: c_ehelava - Given to 1000409 via AddCharacterForTitle
+200 - vassal: c_ehelava - Holder 1000409 - Primary title: c_ehelava has lost the title: c_ehelava
+200 - sub vassal: c_ehelava - Holder 1000409 - Primary title: c_ehelava has lost the title: c_ehelava
+200 - vassal: c_ehelava - Title given to 1000409
+200 - sub vassal: c_ehelava - Title given to 1000409
+200 - vassal: c_balavid - Holder 1000202 - Primary title: c_balavid has lost the title: c_ranjasz
+200 - sub vassal: c_balavid - Holder 1000202 - Primary title: c_balavid has lost the title: c_ranjasz
+200 - sub vassal: c_ranjasz - Title given to 1000202 - Primary title: d_ebirude
+200 - vassal: c_balavid - Holder 1000390 - Primary title: c_balavid has lost the title: c_ketoro
+200 - sub vassal: c_balavid - Holder 1000390 - Primary title: c_balavid has lost the title: c_ketoro
+200 - sub vassal: c_ketoro - Title given to 1000390 - Primary title: d_kolay
+200 - vassal: c_balavid - Holder 1000400 - Primary title: c_balavid has lost the title: c_tiuhava
+200 - sub vassal: c_balavid - Holder 1000400 - Primary title: c_balavid has lost the title: c_tiuhava
+200 - sub vassal: c_tiuhava - Title given to 1000400 - Primary title: d_ribril
+200 - vassal: c_netida - Holder 1000406 - Primary title: c_netida has lost the title: c_netida
+200 - sub vassal: c_netida - Holder 1000406 - Primary title: c_netida has lost the title: c_netida
+200 - vassal: c_netida - Title given to 1000406 - Primary title: d_wibril
+200 - sub vassal: c_netida - Title given to 1000406 - Primary title: d_wibril
+200 - Holder (1000406) has gained c_netida
+200 - vassal: c_ehelava - Holder 1000406 - Primary title: c_ehelava has lost the title: c_ehelava
+200 - sub vassal: c_ehelava - Holder 1000406 - Primary title: c_ehelava has lost the title: c_ehelava
+200 - vassal: c_ehelava - Title given to 1000406 - Primary title: d_wibril
+200 - sub vassal: c_ehelava - Title given to 1000406 - Primary title: d_wibril
+200 - Holder (1000406) has gained c_ehelava
+200 - vassal: c_balavid - Holder 1000406 - Primary title: c_balavid has lost the title: c_balavid
+200 - sub vassal: c_balavid - Holder 1000406 - Primary title: c_balavid has lost the title: c_balavid
+200 - vassal: c_balavid - Title given to 1000406 - Primary title: d_wibril
+200 - sub vassal: c_balavid - Title given to 1000406 - Primary title: d_wibril
+200 - Holder (1000406) has gained c_balavid
+200 - Holder 1001028 - Primary title: d_wibril has lost the title: d_wibril
+200 - Title given to 1001028 - Primary title: k_ehelama
+200 - vassal: c_ehelava - Given to 1001387 in HandleTitles - Too many duke titles
+200 - vassal: c_netida - Holder 1001387 - Primary title: c_netida has lost the title: c_ehelava
+200 - vassal: c_ehelava - Title given to 1001387
+200 - Title given to 1001387 - Primary title: c_ehelava
+200 - vassal: c_ehelava - Holder (1001387) has gained d_wibril
+200 - Too many dukes, given to dejure: k_ehelama
+241 - Holder 1001746 - Primary title: d_wibril has lost the title: d_wibril
+241 - Title given to 1001746
+241 - vassal: c_ehelava - Holder 1001746 - Primary title: c_ehelava has lost the title: c_ehelava
+241 - vassal: c_ehelava - Title given to 1001746 - Primary title: d_wibril
+241 - Holder (1001746) has gained c_ehelava
+242 - Holder 1000367 - Primary title: d_wibril has lost the title: d_wibril
+242 - Title given to 1000367 - Primary title: d_atolisa
+242 - vassal: c_ehelava - Holder 1000367 - Primary title: c_ehelava has lost the title: c_ehelava
+242 - vassal: c_ehelava - Title given to 1000367 - Primary title: d_atolisa
+243 - Holder 1004023 - Primary title: d_wibril has lost the title: c_doro
+243 - Holder 1001579 - Primary title: d_wibril has lost the title: d_kolilda
+243 - Gained vassal: c_nyarael
+243 - Gained vassal: c_belida
+248 - Holder (1000367) has gained d_kolilda
+249 - vassal: c_ehelava - Given to 1004376 in HandleTitles - Too many duke titles
+249 - vassal: c_ehelava - Title given to 1004376
+249 - Title given to 1001579 - Primary title: k_ehelama
+249 - vassal: c_belida - Setting to vassal of d_kolilda in Validate Realm
+249 - Lost vassal: c_belida
+249 - vassal: c_nyarael - Setting to vassal of d_kolilda in Validate Realm
+249 - Lost vassal: c_nyarael
+249 - Too many dukes, made direct title into vassal of k_ehelama
+249 - Title given to 1004377
+290 - Holder 1004613 - Primary title: d_wibril has lost the title: d_wibril
+290 - Title given to 1004613
+292 - Holder 1006661 - Primary title: d_wibril has lost the title: d_wibril
+292 - Title given to 1006661
+300 - vassal: c_netida - Holder 1006661 - Primary title: c_netida has lost the title: c_netida
+300 - vassal: c_netida - Title given to 1006661 - Primary title: d_wibril
+300 - Holder (1006661) has gained c_netida
+300 - vassal: c_balavid - Holder 1006661 - Primary title: c_balavid has lost the title: c_balavid
+300 - vassal: c_balavid - Title given to 1006661 - Primary title: d_wibril
+300 - Holder (1006661) has gained c_balavid
+306 - Holder 1004871 - Primary title: d_wibril has lost the title: d_wibril
+306 - Title given to 1004871 - Primary title: d_atolisa
+306 - Setting independent in Validate Realm
+306 - Made independent
+306 - vassal: c_balavid - Holder 1004871 - Primary title: c_balavid has lost the title: c_balavid
+306 - vassal: c_balavid - Title given to 1004871 - Primary title: d_kolael
+306 - vassal: c_netida - Holder 1004871 - Primary title: c_netida has lost the title: c_netida
+306 - vassal: c_netida - Title given to 1004871 - Primary title: d_kolael
+307 - Holder 1007413 - Primary title: d_wibril has lost the title: c_loisava
+307 - sub vassal: c_loisava - Title given to 1007413
+307 - sub vassal: c_loisava - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - sub vassal: c_qolavid - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - sub vassal: c_qolavid - Setting independent in Validate Realm
+307 - sub vassal: c_qolavid - Made independent
+307 - sub vassal: c_wahdi - Holder 1006066 - Primary title: c_wahdi has lost the title: c_qolavid
+307 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+307 - Gained vassal: c_avoisand
+307 - Gained vassal: c_avoisand
+307 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+307 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+307 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+307 - Gained vassal: c_keja
+307 - Gained vassal: c_keja
+307 - vassal: c_keja - Given to neighbour holder of k_ehelama
+307 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+307 - sub vassal: c_wahdi - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+307 - Gained vassal: c_nibril
+307 - Gained vassal: c_nibril
+307 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+307 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+307 - sub vassal: c_belida - Made vassal of neighbour (k_ehelama) due to being a seperate island
+307 - sub vassal: c_nyarael - Made vassal of neighbour (k_ehelama) due to being a seperate island
+308 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+308 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+308 - Lost vassal: c_keja
+308 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+308 - Gained vassal: c_keja
+308 - Gained vassal: c_keja
+308 - vassal: c_keja - Given to neighbour holder of k_ehelama
+308 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+308 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+308 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+308 - Lost vassal: c_avoisand
+308 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+308 - Gained vassal: c_avoisand
+308 - Gained vassal: c_avoisand
+308 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+308 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+308 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+308 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+308 - Lost vassal: c_nibril
+308 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+308 - Gained vassal: c_nibril
+308 - Gained vassal: c_nibril
+308 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+308 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+309 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+309 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+309 - Lost vassal: c_keja
+309 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+309 - Gained vassal: c_keja
+309 - Gained vassal: c_keja
+309 - vassal: c_keja - Given to neighbour holder of k_ehelama
+309 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+309 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+309 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+309 - Lost vassal: c_avoisand
+309 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+309 - Gained vassal: c_avoisand
+309 - Gained vassal: c_avoisand
+309 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+309 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+309 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+309 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+309 - Lost vassal: c_nibril
+309 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+309 - Gained vassal: c_nibril
+309 - Gained vassal: c_nibril
+309 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+309 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+310 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+310 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+310 - Lost vassal: c_keja
+310 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+310 - Gained vassal: c_keja
+310 - Gained vassal: c_keja
+310 - vassal: c_keja - Given to neighbour holder of k_ehelama
+310 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+310 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+310 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+310 - Lost vassal: c_avoisand
+310 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+310 - Gained vassal: c_avoisand
+310 - Gained vassal: c_avoisand
+310 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+310 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+310 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+310 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+310 - Lost vassal: c_nibril
+310 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+310 - Gained vassal: c_nibril
+310 - Gained vassal: c_nibril
+310 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+310 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+311 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+311 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+311 - Lost vassal: c_keja
+311 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+311 - Gained vassal: c_keja
+311 - Gained vassal: c_keja
+311 - vassal: c_keja - Given to neighbour holder of k_ehelama
+311 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+311 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+311 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+311 - Lost vassal: c_avoisand
+311 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+311 - Gained vassal: c_avoisand
+311 - Gained vassal: c_avoisand
+311 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+311 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+311 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+311 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+311 - Lost vassal: c_nibril
+311 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+311 - Gained vassal: c_nibril
+311 - Gained vassal: c_nibril
+311 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+311 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+312 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+312 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+312 - Lost vassal: c_keja
+312 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+312 - Gained vassal: c_keja
+312 - Gained vassal: c_keja
+312 - vassal: c_keja - Given to neighbour holder of k_ehelama
+312 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+312 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+312 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+312 - Lost vassal: c_avoisand
+312 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+312 - Gained vassal: c_avoisand
+312 - Gained vassal: c_avoisand
+312 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+312 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+312 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+312 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+312 - Lost vassal: c_nibril
+312 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+312 - Gained vassal: c_nibril
+312 - Gained vassal: c_nibril
+312 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+312 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+313 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+313 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+313 - Lost vassal: c_keja
+313 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+313 - Gained vassal: c_keja
+313 - Gained vassal: c_keja
+313 - vassal: c_keja - Given to neighbour holder of k_ehelama
+313 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+313 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+313 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+313 - Lost vassal: c_avoisand
+313 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+313 - Gained vassal: c_avoisand
+313 - Gained vassal: c_avoisand
+313 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+313 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+313 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+313 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+313 - Lost vassal: c_nibril
+313 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+313 - Gained vassal: c_nibril
+313 - Gained vassal: c_nibril
+313 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+313 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+314 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+314 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+314 - Lost vassal: c_keja
+314 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+314 - Gained vassal: c_keja
+314 - Gained vassal: c_keja
+314 - vassal: c_keja - Given to neighbour holder of k_ehelama
+314 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+314 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+314 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+314 - Lost vassal: c_avoisand
+314 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+314 - Gained vassal: c_avoisand
+314 - Gained vassal: c_avoisand
+314 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+314 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+314 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+314 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+314 - Lost vassal: c_nibril
+314 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+314 - Gained vassal: c_nibril
+314 - Gained vassal: c_nibril
+314 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+314 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+315 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+315 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+315 - Lost vassal: c_keja
+315 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+315 - Gained vassal: c_keja
+315 - Gained vassal: c_keja
+315 - vassal: c_keja - Given to neighbour holder of k_ehelama
+315 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+315 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+315 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+315 - Lost vassal: c_avoisand
+315 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+315 - Gained vassal: c_avoisand
+315 - Gained vassal: c_avoisand
+315 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+315 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+315 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+315 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+315 - Lost vassal: c_nibril
+315 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+315 - Gained vassal: c_nibril
+315 - Gained vassal: c_nibril
+315 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+315 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+315 - Holder 1006302 - Primary title: d_wibril has lost the title: c_keja
+315 - vassal: c_keja - Title given to 1006302
+315 - sub vassal: c_keja - Title given to 1006302
+315 - Holder 1006302 - Primary title: d_wibril has lost the title: c_avoisand
+315 - vassal: c_avoisand - Title given to 1006302 - Primary title: c_keja
+315 - sub vassal: c_avoisand - Title given to 1006302 - Primary title: c_keja
+315 - vassal: c_keja - Holder (1006302) has gained c_avoisand
+315 - sub vassal: c_keja - Holder (1006302) has gained c_avoisand
+315 - Holder 1006302 - Primary title: d_wibril has lost the title: c_nibril
+315 - vassal: c_nibril - Title given to 1006302 - Primary title: c_keja
+315 - sub vassal: c_nibril - Title given to 1006302 - Primary title: c_keja
+315 - vassal: c_keja - Holder (1006302) has gained c_nibril
+315 - sub vassal: c_keja - Holder (1006302) has gained c_nibril
+315 - Holder 1006302 - Primary title: d_wibril has lost the title: d_wibril
+315 - Title given to 1006302 - Primary title: c_keja
+315 - vassal: c_keja - Holder (1006302) has gained d_wibril
+315 - sub vassal: c_keja - Holder (1006302) has gained d_wibril
+315 - vassal: c_balavid - Holder 1006302 - Primary title: c_balavid has lost the title: c_balavid
+315 - sub vassal: c_balavid - Holder 1006302 - Primary title: c_balavid has lost the title: c_balavid
+315 - vassal: c_balavid - Title given to 1006302 - Primary title: d_wibril
+315 - sub vassal: c_balavid - Title given to 1006302 - Primary title: d_wibril
+315 - Holder (1006302) has gained c_balavid
+315 - vassal: c_netida - Holder 1006302 - Primary title: c_netida has lost the title: c_netida
+315 - sub vassal: c_netida - Holder 1006302 - Primary title: c_netida has lost the title: c_netida
+315 - vassal: c_netida - Title given to 1006302 - Primary title: d_wibril
+315 - sub vassal: c_netida - Title given to 1006302 - Primary title: d_wibril
+315 - Holder (1006302) has gained c_netida
+316 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+316 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+316 - Lost vassal: c_keja
+316 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+316 - Gained vassal: c_keja
+316 - Gained vassal: c_keja
+316 - vassal: c_keja - Given to neighbour holder of k_ehelama
+316 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+316 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+316 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+316 - Lost vassal: c_avoisand
+316 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+316 - Gained vassal: c_avoisand
+316 - Gained vassal: c_avoisand
+316 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+316 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+316 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+316 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+316 - Lost vassal: c_nibril
+316 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+316 - Gained vassal: c_nibril
+316 - Gained vassal: c_nibril
+316 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+316 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+317 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+317 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+317 - Lost vassal: c_keja
+317 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+317 - Gained vassal: c_keja
+317 - Gained vassal: c_keja
+317 - vassal: c_keja - Given to neighbour holder of k_ehelama
+317 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+317 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+317 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+317 - Lost vassal: c_avoisand
+317 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+317 - Gained vassal: c_avoisand
+317 - Gained vassal: c_avoisand
+317 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+317 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+317 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+317 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+317 - Lost vassal: c_nibril
+317 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+317 - Gained vassal: c_nibril
+317 - Gained vassal: c_nibril
+317 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+317 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+318 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+318 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+318 - Lost vassal: c_keja
+318 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+318 - Gained vassal: c_keja
+318 - Gained vassal: c_keja
+318 - vassal: c_keja - Given to neighbour holder of k_ehelama
+318 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+318 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+318 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+318 - Lost vassal: c_avoisand
+318 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+318 - Gained vassal: c_avoisand
+318 - Gained vassal: c_avoisand
+318 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+318 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+318 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+318 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+318 - Lost vassal: c_nibril
+318 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+318 - Gained vassal: c_nibril
+318 - Gained vassal: c_nibril
+318 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+318 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+319 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+319 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+319 - Lost vassal: c_keja
+319 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+319 - Gained vassal: c_keja
+319 - Gained vassal: c_keja
+319 - vassal: c_keja - Given to neighbour holder of k_ehelama
+319 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+319 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+319 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+319 - Lost vassal: c_avoisand
+319 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+319 - Gained vassal: c_avoisand
+319 - Gained vassal: c_avoisand
+319 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+319 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+319 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+319 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+319 - Lost vassal: c_nibril
+319 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+319 - Gained vassal: c_nibril
+319 - Gained vassal: c_nibril
+319 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+319 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+320 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+320 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+320 - Lost vassal: c_nibril
+320 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+320 - Gained vassal: c_nibril
+320 - Gained vassal: c_nibril
+320 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+320 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+320 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+320 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+320 - Lost vassal: c_avoisand
+320 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+320 - Gained vassal: c_avoisand
+320 - Gained vassal: c_avoisand
+320 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+320 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+320 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+320 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+320 - Lost vassal: c_keja
+320 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+320 - Gained vassal: c_keja
+320 - Gained vassal: c_keja
+320 - vassal: c_keja - Given to neighbour holder of k_ehelama
+320 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+321 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+321 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+321 - Lost vassal: c_nibril
+321 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+321 - Gained vassal: c_nibril
+321 - Gained vassal: c_nibril
+321 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+321 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+321 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+321 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+321 - Lost vassal: c_avoisand
+321 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+321 - Gained vassal: c_avoisand
+321 - Gained vassal: c_avoisand
+321 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+321 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+321 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+321 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+321 - Lost vassal: c_keja
+321 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+321 - Gained vassal: c_keja
+321 - Gained vassal: c_keja
+321 - vassal: c_keja - Given to neighbour holder of k_ehelama
+321 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+322 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+322 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+322 - Lost vassal: c_nibril
+322 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+322 - Gained vassal: c_nibril
+322 - Gained vassal: c_nibril
+322 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+322 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+322 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+322 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+322 - Lost vassal: c_avoisand
+322 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+322 - Gained vassal: c_avoisand
+322 - Gained vassal: c_avoisand
+322 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+322 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+322 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+322 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+322 - Lost vassal: c_keja
+322 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+322 - Gained vassal: c_keja
+322 - Gained vassal: c_keja
+322 - vassal: c_keja - Given to neighbour holder of k_ehelama
+322 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+323 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+323 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+323 - Lost vassal: c_nibril
+323 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+323 - Gained vassal: c_nibril
+323 - Gained vassal: c_nibril
+323 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+323 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+323 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+323 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+323 - Lost vassal: c_avoisand
+323 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+323 - Gained vassal: c_avoisand
+323 - Gained vassal: c_avoisand
+323 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+323 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+323 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+323 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+323 - Lost vassal: c_keja
+323 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+323 - Gained vassal: c_keja
+323 - Gained vassal: c_keja
+323 - vassal: c_keja - Given to neighbour holder of k_ehelama
+323 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+324 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+324 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+324 - Lost vassal: c_nibril
+324 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+324 - Gained vassal: c_nibril
+324 - Gained vassal: c_nibril
+324 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+324 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+324 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+324 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+324 - Lost vassal: c_avoisand
+324 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+324 - Gained vassal: c_avoisand
+324 - Gained vassal: c_avoisand
+324 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+324 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+324 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+324 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+324 - Lost vassal: c_keja
+324 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+324 - Gained vassal: c_keja
+324 - Gained vassal: c_keja
+324 - vassal: c_keja - Given to neighbour holder of k_ehelama
+324 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+325 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+325 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+325 - Lost vassal: c_nibril
+325 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+325 - Gained vassal: c_nibril
+325 - Gained vassal: c_nibril
+325 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+325 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+325 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+325 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+325 - Lost vassal: c_avoisand
+325 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+325 - Gained vassal: c_avoisand
+325 - Gained vassal: c_avoisand
+325 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+325 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+325 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+325 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+325 - Lost vassal: c_keja
+325 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+325 - Gained vassal: c_keja
+325 - Gained vassal: c_keja
+325 - vassal: c_keja - Given to neighbour holder of k_ehelama
+325 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+326 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+326 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+326 - Lost vassal: c_nibril
+326 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+326 - Gained vassal: c_nibril
+326 - Gained vassal: c_nibril
+326 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+326 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+326 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+326 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+326 - Lost vassal: c_avoisand
+326 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+326 - Gained vassal: c_avoisand
+326 - Gained vassal: c_avoisand
+326 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+326 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+326 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+326 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+326 - Lost vassal: c_keja
+326 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+326 - Gained vassal: c_keja
+326 - Gained vassal: c_keja
+326 - vassal: c_keja - Given to neighbour holder of k_ehelama
+326 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+327 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+327 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+327 - Lost vassal: c_nibril
+327 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+327 - Gained vassal: c_nibril
+327 - Gained vassal: c_nibril
+327 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+327 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+327 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+327 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+327 - Lost vassal: c_avoisand
+327 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+327 - Gained vassal: c_avoisand
+327 - Gained vassal: c_avoisand
+327 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+327 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+327 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+327 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+327 - Lost vassal: c_keja
+327 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+327 - Gained vassal: c_keja
+327 - Gained vassal: c_keja
+327 - vassal: c_keja - Given to neighbour holder of k_ehelama
+327 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+328 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+328 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+328 - Lost vassal: c_nibril
+328 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+328 - Gained vassal: c_nibril
+328 - Gained vassal: c_nibril
+328 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+328 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+328 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+328 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+328 - Lost vassal: c_avoisand
+328 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+328 - Gained vassal: c_avoisand
+328 - Gained vassal: c_avoisand
+328 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+328 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+328 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+328 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+328 - Lost vassal: c_keja
+328 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+328 - Gained vassal: c_keja
+328 - Gained vassal: c_keja
+328 - vassal: c_keja - Given to neighbour holder of k_ehelama
+328 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+329 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+329 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+329 - Lost vassal: c_nibril
+329 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+329 - Gained vassal: c_nibril
+329 - Gained vassal: c_nibril
+329 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+329 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+329 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+329 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+329 - Lost vassal: c_avoisand
+329 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+329 - Gained vassal: c_avoisand
+329 - Gained vassal: c_avoisand
+329 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+329 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+329 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+329 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+329 - Lost vassal: c_keja
+329 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+329 - Gained vassal: c_keja
+329 - Gained vassal: c_keja
+329 - vassal: c_keja - Given to neighbour holder of k_ehelama
+329 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+330 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+330 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+330 - Lost vassal: c_nibril
+330 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+330 - Gained vassal: c_nibril
+330 - Gained vassal: c_nibril
+330 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+330 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+330 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+330 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+330 - Lost vassal: c_avoisand
+330 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+330 - Gained vassal: c_avoisand
+330 - Gained vassal: c_avoisand
+330 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+330 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+330 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+330 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+330 - Lost vassal: c_keja
+330 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+330 - Gained vassal: c_keja
+330 - Gained vassal: c_keja
+330 - vassal: c_keja - Given to neighbour holder of k_ehelama
+330 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+331 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+331 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+331 - Lost vassal: c_nibril
+331 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+331 - Gained vassal: c_nibril
+331 - Gained vassal: c_nibril
+331 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+331 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+331 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+331 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+331 - Lost vassal: c_avoisand
+331 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+331 - Gained vassal: c_avoisand
+331 - Gained vassal: c_avoisand
+331 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+331 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+331 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+331 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+331 - Lost vassal: c_keja
+331 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+331 - Gained vassal: c_keja
+331 - Gained vassal: c_keja
+331 - vassal: c_keja - Given to neighbour holder of k_ehelama
+331 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+332 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+332 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+332 - Lost vassal: c_nibril
+332 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+332 - Gained vassal: c_nibril
+332 - Gained vassal: c_nibril
+332 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+332 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+332 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+332 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+332 - Lost vassal: c_avoisand
+332 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+332 - Gained vassal: c_avoisand
+332 - Gained vassal: c_avoisand
+332 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+332 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+332 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+332 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+332 - Lost vassal: c_keja
+332 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+332 - Gained vassal: c_keja
+332 - Gained vassal: c_keja
+332 - vassal: c_keja - Given to neighbour holder of k_ehelama
+332 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+333 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+333 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+333 - Lost vassal: c_nibril
+333 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+333 - Gained vassal: c_nibril
+333 - Gained vassal: c_nibril
+333 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+333 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+333 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+333 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+333 - Lost vassal: c_avoisand
+333 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+333 - Gained vassal: c_avoisand
+333 - Gained vassal: c_avoisand
+333 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+333 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+333 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+333 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+333 - Lost vassal: c_keja
+333 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+333 - Gained vassal: c_keja
+333 - Gained vassal: c_keja
+333 - vassal: c_keja - Given to neighbour holder of k_ehelama
+333 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+334 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+334 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+334 - Lost vassal: c_nibril
+334 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+334 - Gained vassal: c_nibril
+334 - Gained vassal: c_nibril
+334 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+334 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+334 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+334 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+334 - Lost vassal: c_avoisand
+334 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+334 - Gained vassal: c_avoisand
+334 - Gained vassal: c_avoisand
+334 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+334 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+334 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+334 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+334 - Lost vassal: c_keja
+334 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+334 - Gained vassal: c_keja
+334 - Gained vassal: c_keja
+334 - vassal: c_keja - Given to neighbour holder of k_ehelama
+334 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+335 - vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+335 - sub vassal: c_nibril - Made vassal of neighbour (k_ehelama) due to being a seperate island
+335 - Lost vassal: c_nibril
+335 - sub vassal: c_nibril - Setting to vassal of d_wibril in Validate Realm
+335 - Gained vassal: c_nibril
+335 - Gained vassal: c_nibril
+335 - vassal: c_nibril - Given to neighbour holder of k_ehelama
+335 - sub vassal: c_nibril - Given to neighbour holder of k_ehelama
+335 - vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+335 - sub vassal: c_avoisand - Made vassal of neighbour (k_ehelama) due to being a seperate island
+335 - Lost vassal: c_avoisand
+335 - sub vassal: c_avoisand - Setting to vassal of d_wibril in Validate Realm
+335 - Gained vassal: c_avoisand
+335 - Gained vassal: c_avoisand
+335 - vassal: c_avoisand - Given to neighbour holder of k_ehelama
+335 - sub vassal: c_avoisand - Given to neighbour holder of k_ehelama
+335 - vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+335 - sub vassal: c_keja - Made vassal of neighbour (k_ehelama) due to being a seperate island
+335 - Lost vassal: c_keja
+335 - sub vassal: c_keja - Setting to vassal of d_wibril in Validate Realm
+335 - Gained vassal: c_keja
+335 - Gained vassal: c_keja
+335 - vassal: c_keja - Given to neighbour holder of k_ehelama
+335 - sub vassal: c_keja - Given to neighbour holder of k_ehelama
+335 - Holder (1006302) has gained k_ehelama
+335 - vassal: c_ehelava - Given to 1008854 in HandleTitles - Too many duke titles
+335 - vassal: c_ehelava - Holder 1008854 - Primary title: c_ehelava has lost the title: c_ehelava
+335 - vassal: c_ehelava - Title given to 1008854
+335 - Title given to 1008854 - Primary title: c_ehelava
+335 - vassal: c_ehelava - Holder (1008854) has gained d_wibril
+335 - vassal: c_netida - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_netida
+335 - vassal: c_balavid - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_balavid
+335 - vassal: c_nibril - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_nibril
+335 - vassal: c_avoisand - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_avoisand
+335 - vassal: c_keja - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_keja
+335 - Too many dukes, given to dejure: k_ehelama
+344 - Holder 1008865 - Primary title: d_wibril has lost the title: d_wibril
+344 - Title given to 1008865 - Primary title: c_belida
+344 - Gained vassal: c_belida
+344 - vassal: c_ehelava - Holder 1008865 - Primary title: c_ehelava has lost the title: c_ehelava
+344 - vassal: c_ehelava - Title given to 1008865 - Primary title: d_wibril
+344 - Holder (1008865) has gained c_ehelava
+381 - Holder 1009723 - Primary title: d_wibril has lost the title: d_wibril
+381 - Title given to 1009723
+381 - vassal: c_belida - Holder 1009723 - Primary title: c_belida has lost the title: c_belida
+381 - vassal: c_belida - Title given to 1009723 - Primary title: d_wibril
+381 - Holder (1009723) has gained c_belida
+381 - vassal: c_ehelava - Holder 1009723 - Primary title: c_ehelava has lost the title: c_ehelava
+381 - vassal: c_ehelava - Title given to 1009723 - Primary title: d_wibril
+381 - Holder (1009723) has gained c_ehelava
+388 - Holder 1009289 - Primary title: d_wibril has lost the title: d_wibril
+388 - Title given to 1009289 - Primary title: k_ehelama
+388 - vassal: c_belida - Holder 1009289 - Primary title: c_belida has lost the title: c_belida
+388 - vassal: c_belida - Title given to 1009289 - Primary title: k_ehelama
+388 - vassal: c_ehelava - Holder 1009289 - Primary title: c_ehelava has lost the title: c_ehelava
+388 - vassal: c_ehelava - Title given to 1009289 - Primary title: k_ehelama
+388 - vassal: c_ehelava - Given to 1011448 in HandleTitles - Too many duke titles
+388 - vassal: c_ehelava - Title given to 1011448
+388 - Title given to 1011448 - Primary title: c_ehelava
+388 - vassal: c_ehelava - Holder (1011448) has gained d_wibril
+388 - vassal: c_belida - Setting to vassal of k_ehelama in Validate Realm
+388 - Lost vassal: c_belida
+388 - Too many dukes, given to dejure: k_ehelama

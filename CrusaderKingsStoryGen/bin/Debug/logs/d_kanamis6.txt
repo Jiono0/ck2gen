@@ -1,0 +1,43 @@
+200 - Title given to 1000875
+200 - vassal: c_egananak - Given to 1000878 via AddCharacterForTitle
+200 - sub vassal: c_egananak - Given to 1000878 via AddCharacterForTitle
+200 - vassal: c_egananak - Holder 1000878 - Primary title: c_egananak has lost the title: c_egananak
+200 - sub vassal: c_egananak - Holder 1000878 - Primary title: c_egananak has lost the title: c_egananak
+200 - vassal: c_egananak - Title given to 1000878
+200 - sub vassal: c_egananak - Title given to 1000878
+200 - vassal: c_lerana - Holder 1000875 - Primary title: c_lerana has lost the title: c_lerana
+200 - sub vassal: c_lerana - Holder 1000875 - Primary title: c_lerana has lost the title: c_lerana
+200 - vassal: c_lerana - Title given to 1000875 - Primary title: d_kanamis
+200 - sub vassal: c_lerana - Title given to 1000875 - Primary title: d_kanamis
+200 - Holder (1000875) has gained c_lerana
+200 - vassal: c_egananak - Holder 1000875 - Primary title: c_egananak has lost the title: c_egananak
+200 - sub vassal: c_egananak - Holder 1000875 - Primary title: c_egananak has lost the title: c_egananak
+200 - vassal: c_egananak - Title given to 1000875 - Primary title: d_kanamis
+200 - sub vassal: c_egananak - Title given to 1000875 - Primary title: d_kanamis
+200 - Holder (1000875) has gained c_egananak
+200 - vassal: c_eroganak - Holder 1000875 - Primary title: c_eroganak has lost the title: c_eroganak
+200 - sub vassal: c_eroganak - Holder 1000875 - Primary title: c_eroganak has lost the title: c_eroganak
+200 - vassal: c_eroganak - Title given to 1000875 - Primary title: d_kanamis
+200 - sub vassal: c_eroganak - Title given to 1000875 - Primary title: d_kanamis
+200 - Holder (1000875) has gained c_eroganak
+200 - vassal: c_bagya - Holder 1000875 - Primary title: c_bagya has lost the title: c_bagya
+200 - sub vassal: c_bagya - Holder 1000875 - Primary title: c_bagya has lost the title: c_bagya
+200 - vassal: c_bagya - Title given to 1000875 - Primary title: d_kanamis
+200 - sub vassal: c_bagya - Title given to 1000875 - Primary title: d_kanamis
+200 - Holder (1000875) has gained c_bagya
+200 - Holder 1001049 - Primary title: d_kanamis has lost the title: d_kanamis
+200 - Title given to 1001049 - Primary title: k_niel
+200 - vassal: c_lerana - Holder 1001049 - Primary title: c_lerana has lost the title: c_lerana
+200 - vassal: c_lerana - Title given to 1001049 - Primary title: k_niel
+203 - Holder 1001706 - Primary title: d_kanamis has lost the title: d_kanamis
+203 - Title given to 1001706 - Primary title: k_niel
+203 - vassal: c_lerana - Setting to vassal of d_serael in Validate Realm
+203 - Lost vassal: c_lerana
+214 - Holder 1002190 - Primary title: d_kanamis has lost the title: d_kanamis
+214 - Title given to 1002190 - Primary title: k_niel
+234 - Holder 1003350 - Primary title: d_kanamis has lost the title: d_kanamis
+234 - Title given to 1003350 - Primary title: k_niel
+240 - Holder 1003890 - Primary title: d_kanamis has lost the title: d_kanamis
+240 - Title given to 1003890 - Primary title: k_niel
+254 - Holder 1004585 - Primary title: d_kanamis has lost the title: d_kanamis
+254 - Title given to 1004585 - Primary title: k_niel

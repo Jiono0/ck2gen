@@ -1,0 +1,113 @@
+200 - Title given to 1000492
+200 - vassal: c_qisamba - Given to 1000495 via AddCharacterForTitle
+200 - sub vassal: c_qisamba - Given to 1000495 via AddCharacterForTitle
+200 - vassal: c_qisamba - Holder 1000495 - Primary title: c_qisamba has lost the title: c_qisamba
+200 - sub vassal: c_qisamba - Holder 1000495 - Primary title: c_qisamba has lost the title: c_qisamba
+200 - vassal: c_qisamba - Title given to 1000495
+200 - sub vassal: c_qisamba - Title given to 1000495
+200 - vassal: c_qupew - Holder 1000492 - Primary title: c_qupew has lost the title: c_qupew
+200 - sub vassal: c_qupew - Holder 1000492 - Primary title: c_qupew has lost the title: c_qupew
+200 - vassal: c_qupew - Title given to 1000492 - Primary title: d_damba
+200 - sub vassal: c_qupew - Title given to 1000492 - Primary title: d_damba
+200 - Holder (1000492) has gained c_qupew
+200 - vassal: c_qisamba - Holder 1000492 - Primary title: c_qisamba has lost the title: c_qisamba
+200 - sub vassal: c_qisamba - Holder 1000492 - Primary title: c_qisamba has lost the title: c_qisamba
+200 - vassal: c_qisamba - Title given to 1000492 - Primary title: d_damba
+200 - sub vassal: c_qisamba - Title given to 1000492 - Primary title: d_damba
+200 - Holder (1000492) has gained c_qisamba
+200 - vassal: c_tagabha - Title given to 1000492 - Primary title: d_damba
+200 - Holder (1000492) has gained c_tagabha
+200 - Holder 1001035 - Primary title: d_damba has lost the title: d_damba
+200 - Title given to 1001035 - Primary title: k_tagabha
+200 - vassal: c_qupew - Holder 1001035 - Primary title: c_qupew has lost the title: c_qupew
+200 - vassal: c_qupew - Title given to 1001035 - Primary title: k_tagabha
+227 - Holder (1001035) has gained d_sacar
+227 - Holder (1001035) has gained c_rorator
+239 - Title given to 1001886
+239 - vassal: c_qupew - Setting to vassal of d_sacar in Validate Realm
+239 - Lost vassal: c_qupew
+239 - Holder (1001886) has gained c_qupew
+239 - Gained vassal: c_qupew
+239 - Holder (1001886) has gained d_sacar
+239 - Holder (1001886) has gained c_rorator
+264 - Gained vassal: c_rorator
+264 - Holder 1002703 - Primary title: d_damba has lost the title: d_damba
+264 - Title given to 1002703 - Primary title: d_nilogli
+264 - vassal: c_rorator - Holder 1002703 - Primary title: c_rorator has lost the title: c_rorator
+264 - vassal: c_rorator - Title given to 1002703 - Primary title: d_nilogli
+264 - vassal: c_qupew - Holder 1002703 - Primary title: c_qupew has lost the title: c_qupew
+264 - vassal: c_qupew - Title given to 1002703 - Primary title: d_nilogli
+265 - vassal: c_qupew - Title given to 1001818
+279 - Gained vassal: c_kidyal
+279 - Gained vassal: c_tyaba
+279 - Gained vassal: c_wasora
+279 - Gained vassal: c_weupew
+279 - Holder 1004575 - Primary title: d_damba has lost the title: c_weupew
+279 - vassal: c_weupew - Title given to 1004575 - Primary title: d_nilogli
+279 - vassal: c_weupew - Setting to vassal of d_nilogli in Validate Realm
+279 - Lost vassal: c_weupew
+279 - Holder 1004575 - Primary title: d_damba has lost the title: c_wasora
+279 - vassal: c_wasora - Title given to 1004575 - Primary title: d_nilogli
+279 - vassal: c_wasora - Setting to vassal of d_nilogli in Validate Realm
+279 - Lost vassal: c_wasora
+279 - Holder 1004575 - Primary title: d_damba has lost the title: c_tyaba
+279 - vassal: c_tyaba - Title given to 1004575 - Primary title: d_nilogli
+279 - vassal: c_tyaba - Setting to vassal of d_nilogli in Validate Realm
+279 - Lost vassal: c_tyaba
+279 - Holder 1004575 - Primary title: d_damba has lost the title: c_kidyal
+279 - vassal: c_kidyal - Title given to 1004575 - Primary title: d_nilogli
+279 - vassal: c_kidyal - Setting to vassal of d_nilogli in Validate Realm
+279 - Lost vassal: c_kidyal
+279 - Holder 1004575 - Primary title: d_damba has lost the title: d_damba
+279 - Title given to 1004575 - Primary title: d_nilogli
+279 - vassal: c_rorator - Holder 1004575 - Primary title: c_rorator has lost the title: c_rorator
+279 - vassal: c_rorator - Title given to 1004575 - Primary title: d_nilogli
+300 - vassal: c_qisamba - Holder 1001818 - Primary title: c_qisamba has lost the title: c_qisamba
+300 - vassal: c_qisamba - Title given to 1001818 - Primary title: c_qupew
+300 - vassal: c_qupew - Holder (1001818) has gained c_qisamba
+300 - vassal: c_tagabha - Holder 1001818 - Primary title: c_tagabha has lost the title: c_tagabha
+300 - vassal: c_tagabha - Title given to 1001818 - Primary title: c_qupew
+300 - vassal: c_qupew - Holder (1001818) has gained c_tagabha
+316 - Gained vassal: c_kidyal
+316 - Gained vassal: c_tyaba
+316 - Gained vassal: c_weupew
+316 - Holder 1007368 - Primary title: d_damba has lost the title: d_damba
+316 - Title given to 1007368 - Primary title: d_rineph
+316 - vassal: c_weupew - Holder 1007368 - Primary title: c_weupew has lost the title: c_weupew
+316 - vassal: c_weupew - Title given to 1007368 - Primary title: d_rineph
+316 - vassal: c_tyaba - Holder 1007368 - Primary title: c_tyaba has lost the title: c_tyaba
+316 - vassal: c_tyaba - Title given to 1007368 - Primary title: d_rineph
+316 - vassal: c_kidyal - Holder 1007368 - Primary title: c_kidyal has lost the title: c_kidyal
+316 - vassal: c_kidyal - Title given to 1007368 - Primary title: d_rineph
+316 - vassal: c_rorator - Holder 1007368 - Primary title: c_rorator has lost the title: c_rorator
+316 - vassal: c_rorator - Title given to 1007368 - Primary title: d_rineph
+321 - Holder 1004872 - Primary title: d_damba has lost the title: d_damba
+321 - Title given to 1004872 - Primary title: k_tagabha
+321 - vassal: c_rorator - Setting to vassal of d_rineph in Validate Realm
+321 - Lost vassal: c_rorator
+321 - vassal: c_kidyal - Setting to vassal of d_rineph in Validate Realm
+321 - Lost vassal: c_kidyal
+321 - vassal: c_tyaba - Setting to vassal of d_rineph in Validate Realm
+321 - Lost vassal: c_tyaba
+321 - vassal: c_weupew - Setting to vassal of d_rineph in Validate Realm
+321 - Lost vassal: c_weupew
+321 - vassal: c_qupew - Given to 1008129 in HandleTitles - Too many duke titles
+321 - vassal: c_qisamba - Holder 1008129 - Primary title: c_qisamba has lost the title: c_qupew
+321 - vassal: c_qupew - Title given to 1008129
+321 - Title given to 1008129 - Primary title: c_qupew
+321 - vassal: c_qupew - Holder (1008129) has gained d_damba
+321 - Too many dukes, given to dejure: k_tagabha
+346 - Holder 1008606 - Primary title: d_damba has lost the title: d_damba
+346 - Title given to 1008606 - Primary title: c_tasyuk
+346 - Gained vassal: c_tasyuk
+346 - vassal: c_qupew - Holder 1008606 - Primary title: c_qupew has lost the title: c_qupew
+346 - vassal: c_qupew - Title given to 1008606 - Primary title: d_damba
+346 - Holder (1008606) has gained c_qupew
+361 - Holder 1009486 - Primary title: d_damba has lost the title: d_damba
+361 - Title given to 1009486
+361 - vassal: c_qupew - Holder 1009486 - Primary title: c_qupew has lost the title: c_qupew
+361 - vassal: c_qupew - Title given to 1009486 - Primary title: d_damba
+361 - Holder (1009486) has gained c_qupew
+361 - vassal: c_tasyuk - Holder 1009486 - Primary title: c_tasyuk has lost the title: c_tasyuk
+361 - vassal: c_tasyuk - Title given to 1009486 - Primary title: d_damba
+361 - Holder (1009486) has gained c_tasyuk

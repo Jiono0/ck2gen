@@ -1,0 +1,41 @@
+200 - Title given to 1000634
+200 - vassal: c_nayania - Given to 1000637 via AddCharacterForTitle
+200 - sub vassal: c_nayania - Given to 1000637 via AddCharacterForTitle
+200 - vassal: c_nayania - Holder 1000637 - Primary title: c_nayania has lost the title: c_nayania
+200 - sub vassal: c_nayania - Holder 1000637 - Primary title: c_nayania has lost the title: c_nayania
+200 - vassal: c_nayania - Title given to 1000637
+200 - sub vassal: c_nayania - Title given to 1000637
+200 - vassal: c_korega - Holder 1000634 - Primary title: c_korega has lost the title: c_korega
+200 - sub vassal: c_korega - Holder 1000634 - Primary title: c_korega has lost the title: c_korega
+200 - vassal: c_korega - Title given to 1000634 - Primary title: d_keyael
+200 - sub vassal: c_korega - Title given to 1000634 - Primary title: d_keyael
+200 - Holder (1000634) has gained c_korega
+200 - vassal: c_nayania - Holder 1000634 - Primary title: c_nayania has lost the title: c_nayania
+200 - sub vassal: c_nayania - Holder 1000634 - Primary title: c_nayania has lost the title: c_nayania
+200 - vassal: c_nayania - Title given to 1000634 - Primary title: d_keyael
+200 - sub vassal: c_nayania - Title given to 1000634 - Primary title: d_keyael
+200 - Holder (1000634) has gained c_nayania
+200 - vassal: c_neyew - Holder 1000634 - Primary title: c_neyew has lost the title: c_neyew
+200 - sub vassal: c_neyew - Holder 1000634 - Primary title: c_neyew has lost the title: c_neyew
+200 - vassal: c_neyew - Title given to 1000634 - Primary title: d_keyael
+200 - sub vassal: c_neyew - Title given to 1000634 - Primary title: d_keyael
+200 - Holder (1000634) has gained c_neyew
+211 - Holder 1001096 - Primary title: d_keyael has lost the title: d_keyael
+211 - Title given to 1001096 - Primary title: k_egaloza
+211 - vassal: c_neyew - Holder 1001096 - Primary title: c_neyew has lost the title: c_neyew
+211 - vassal: c_neyew - Title given to 1001096 - Primary title: k_egaloza
+211 - vassal: c_nayania - Holder 1001096 - Primary title: c_nayania has lost the title: c_nayania
+211 - vassal: c_nayania - Title given to 1001096 - Primary title: k_egaloza
+211 - vassal: c_korega - Holder 1001096 - Primary title: c_korega has lost the title: c_korega
+211 - vassal: c_korega - Title given to 1001096 - Primary title: k_egaloza
+231 - Holder 1002756 - Primary title: d_keyael has lost the title: d_keyael
+231 - Title given to 1002756 - Primary title: k_egaloza
+231 - vassal: c_korega - Setting to vassal of d_tibael in Validate Realm
+231 - Lost vassal: c_korega
+231 - vassal: c_nayania - Setting to vassal of d_tibael in Validate Realm
+231 - Lost vassal: c_nayania
+231 - vassal: c_neyew - Setting to vassal of d_tibael in Validate Realm
+231 - Lost vassal: c_neyew
+232 - Destroyed due to flagged problem
+232 - Made independent
+232 - Title destroyed

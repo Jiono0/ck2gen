@@ -1,0 +1,49 @@
+200 - Title given to 1001040
+200 - vassal: d_rereva - Holder 1001040 - Primary title: d_rereva has lost the title: c_duereva
+200 - sub vassal: d_rereva - Holder 1001040 - Primary title: d_rereva has lost the title: c_duereva
+200 - sub vassal: c_duereva - Title given to 1001040 - Primary title: k_tadiel
+200 - Holder (1001040) has gained c_duereva
+200 - vassal: d_rabay - Made vassal of neighbour (k_nalaga) due to being a seperate island
+200 - sub vassal: d_rabay - Made vassal of neighbour (k_nalaga) due to being a seperate island
+200 - Lost vassal: d_rabay
+200 - vassal: d_eiyuk - Made vassal of neighbour (k_nalaga) due to being a seperate island
+200 - sub vassal: d_eiyuk - Made vassal of neighbour (k_nalaga) due to being a seperate island
+200 - Lost vassal: d_eiyuk
+200 - vassal: d_serael - Made vassal of neighbour (k_niel) due to being a seperate island
+200 - sub vassal: d_serael - Made vassal of neighbour (k_niel) due to being a seperate island
+200 - Lost vassal: d_serael
+230 - vassal: d_rereva - Holder 1001898 - Primary title: d_rereva has lost the title: d_rereva
+230 - sub vassal: d_rereva - Holder 1001898 - Primary title: d_rereva has lost the title: d_rereva
+230 - vassal: d_rereva - Title given to 1001898
+230 - sub vassal: d_rereva - Title given to 1001898
+230 - sub vassal: c_duereva - Setting to vassal of k_tadiel in Validate Realm
+230 - vassal: d_rereva - Lost vassal: c_duereva
+230 - sub vassal: d_rereva - Lost vassal: c_duereva
+230 - Gained vassal: c_duereva
+230 - sub vassal: c_werael - Holder 1001898 - Primary title: c_werael has lost the title: c_werael
+230 - sub vassal: c_werael - Title given to 1001898 - Primary title: d_rereva
+230 - vassal: d_rereva - Holder (1001898) has gained c_werael
+230 - sub vassal: d_rereva - Holder (1001898) has gained c_werael
+230 - sub vassal: c_kutyamo - Holder 1001898 - Primary title: c_kutyamo has lost the title: c_kutyamo
+230 - sub vassal: c_kutyamo - Title given to 1001898 - Primary title: d_rereva
+230 - vassal: d_rereva - Holder (1001898) has gained c_kutyamo
+230 - sub vassal: d_rereva - Holder (1001898) has gained c_kutyamo
+257 - Holder 1002188 - Primary title: k_tadiel has lost the title: k_tadiel
+257 - Title given to 1002188
+257 - vassal: c_duereva - Holder 1002188 - Primary title: c_duereva has lost the title: c_duereva
+257 - sub vassal: c_duereva - Holder 1002188 - Primary title: c_duereva has lost the title: c_duereva
+257 - vassal: c_duereva - Title given to 1002188 - Primary title: k_tadiel
+257 - sub vassal: c_duereva - Title given to 1002188 - Primary title: k_tadiel
+257 - Holder (1002188) has gained c_duereva
+261 - vassal: d_rereva - Holder 1003714 - Primary title: d_rereva has lost the title: d_rereva
+261 - sub vassal: d_rereva - Holder 1003714 - Primary title: d_rereva has lost the title: d_rereva
+261 - vassal: d_rereva - Title given to 1003714
+261 - sub vassal: d_rereva - Title given to 1003714
+261 - sub vassal: c_werael - Holder 1003714 - Primary title: c_werael has lost the title: c_werael
+261 - sub vassal: c_werael - Title given to 1003714 - Primary title: d_rereva
+261 - vassal: d_rereva - Holder (1003714) has gained c_werael
+261 - sub vassal: d_rereva - Holder (1003714) has gained c_werael
+261 - sub vassal: c_kutyamo - Holder 1003714 - Primary title: c_kutyamo has lost the title: c_kutyamo
+261 - sub vassal: c_kutyamo - Title given to 1003714 - Primary title: d_rereva
+261 - vassal: d_rereva - Holder (1003714) has gained c_kutyamo
+261 - sub vassal: d_rereva - Holder (1003714) has gained c_kutyamo

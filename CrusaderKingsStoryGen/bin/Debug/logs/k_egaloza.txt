@@ -1,0 +1,529 @@
+200 - Title given to 1001054
+200 - vassal: d_raties - Holder 1001054 - Primary title: d_raties has lost the title: d_raties
+200 - sub vassal: d_raties - Holder 1001054 - Primary title: d_raties has lost the title: d_raties
+200 - vassal: d_raties - Title given to 1001054 - Primary title: k_egaloza
+200 - sub vassal: d_raties - Title given to 1001054 - Primary title: k_egaloza
+200 - Holder (1001054) has gained d_raties
+200 - vassal: d_rana - Holder 1001054 - Primary title: d_rana has lost the title: d_rana
+200 - sub vassal: d_rana - Holder 1001054 - Primary title: d_rana has lost the title: d_rana
+200 - vassal: d_rana - Title given to 1001054 - Primary title: k_egaloza
+200 - sub vassal: d_rana - Title given to 1001054 - Primary title: k_egaloza
+200 - Holder (1001054) has gained d_rana
+200 - Holder (1001054) has gained c_kibadar
+200 - Holder 1001096 - Primary title: k_egaloza has lost the title: k_egaloza
+200 - Title given to 1001096 - Primary title: e_tumokal
+200 - vassal: d_tibael - Holder 1001096 - Primary title: d_tibael has lost the title: d_tibael
+200 - vassal: d_tibael - Title given to 1001096 - Primary title: e_tumokal
+200 - vassal: d_rana - Destroyed due to no capital's obtainable
+200 - vassal: d_rana - Made independent
+200 - Gained vassal: c_kalus
+200 - Setting independent due to liege destruction
+200 - vassal: c_kalus - Made independent due to being a seperate island
+200 - sub vassal: c_kalus - Made independent due to being a seperate island
+200 - vassal: c_kalus - Made independent
+200 - sub vassal: c_kalus - Made independent
+201 - vassal: d_raties - Destroyed due to no capital's obtainable
+201 - sub vassal: d_raties - Destroyed due to no capital's obtainable
+201 - vassal: d_raties - Made independent
+201 - sub vassal: d_raties - Made independent
+201 - Gained vassal: c_kibadar
+201 - vassal: c_kibadar - Made independent due to being a seperate island
+201 - sub vassal: c_kibadar - Made independent due to being a seperate island
+201 - vassal: c_kibadar - Made independent
+201 - sub vassal: c_kibadar - Made independent
+211 - vassal: d_keyael - Holder 1001096 - Primary title: d_keyael has lost the title: d_keyael
+211 - sub vassal: d_keyael - Holder 1001096 - Primary title: d_keyael has lost the title: d_keyael
+211 - vassal: d_keyael - Title given to 1001096 - Primary title: k_egaloza
+211 - sub vassal: d_keyael - Title given to 1001096 - Primary title: k_egaloza
+211 - Holder (1001096) has gained d_keyael
+211 - sub vassal: c_neyew - Holder 1001096 - Primary title: c_neyew has lost the title: c_neyew
+211 - sub vassal: c_neyew - Title given to 1001096 - Primary title: k_egaloza
+211 - Holder (1001096) has gained c_neyew
+211 - sub vassal: c_nayania - Holder 1001096 - Primary title: c_nayania has lost the title: c_nayania
+211 - sub vassal: c_nayania - Title given to 1001096 - Primary title: k_egaloza
+211 - Holder (1001096) has gained c_nayania
+211 - sub vassal: c_korega - Holder 1001096 - Primary title: c_korega has lost the title: c_korega
+211 - sub vassal: c_korega - Title given to 1001096 - Primary title: k_egaloza
+211 - Holder (1001096) has gained c_korega
+215 - vassal: d_bavay - Captured byk_ketus in minor war
+215 - sub vassal: d_bavay - Captured byk_ketus in minor war
+215 - Lost vassal: d_bavay
+231 - Holder 1002756 - Primary title: k_egaloza has lost the title: k_egaloza
+231 - Title given to 1002756
+231 - vassal: d_keyael - Holder 1002756 - Primary title: d_keyael has lost the title: d_keyael
+231 - sub vassal: d_keyael - Holder 1002756 - Primary title: d_keyael has lost the title: d_keyael
+231 - vassal: d_keyael - Title given to 1002756 - Primary title: k_egaloza
+231 - sub vassal: d_keyael - Title given to 1002756 - Primary title: k_egaloza
+231 - Holder (1002756) has gained d_keyael
+231 - sub vassal: c_korega - Setting to vassal of d_tibael in Validate Realm
+231 - vassal: d_keyael - Lost vassal: c_korega
+231 - sub vassal: d_keyael - Lost vassal: c_korega
+231 - sub vassal: c_nayania - Setting to vassal of d_tibael in Validate Realm
+231 - vassal: d_keyael - Lost vassal: c_nayania
+231 - sub vassal: d_keyael - Lost vassal: c_nayania
+231 - sub vassal: c_neyew - Setting to vassal of d_tibael in Validate Realm
+231 - vassal: d_keyael - Lost vassal: c_neyew
+231 - sub vassal: d_keyael - Lost vassal: c_neyew
+231 - vassal: d_tibael - Gained vassal: c_neyew
+231 - sub vassal: d_tibael - Gained vassal: c_neyew
+231 - vassal: d_tibael - Gained vassal: c_nayania
+231 - sub vassal: d_tibael - Gained vassal: c_nayania
+231 - vassal: d_tibael - Gained vassal: c_korega
+231 - sub vassal: d_tibael - Gained vassal: c_korega
+231 - vassal: d_tibael - Holder 1002756 - Primary title: d_tibael has lost the title: d_tibael
+231 - sub vassal: d_tibael - Holder 1002756 - Primary title: d_tibael has lost the title: d_tibael
+231 - vassal: d_tibael - Title given to 1002756 - Primary title: k_egaloza
+231 - sub vassal: d_tibael - Title given to 1002756 - Primary title: k_egaloza
+231 - Holder (1002756) has gained d_tibael
+231 - sub vassal: c_korega - Holder 1002756 - Primary title: c_korega has lost the title: c_korega
+231 - sub vassal: c_korega - Title given to 1002756 - Primary title: k_egaloza
+231 - Holder (1002756) has gained c_korega
+231 - sub vassal: c_nayania - Holder 1002756 - Primary title: c_nayania has lost the title: c_nayania
+231 - sub vassal: c_nayania - Title given to 1002756 - Primary title: k_egaloza
+231 - Holder (1002756) has gained c_nayania
+231 - sub vassal: c_neyew - Holder 1002756 - Primary title: c_neyew has lost the title: c_neyew
+231 - sub vassal: c_neyew - Title given to 1002756 - Primary title: k_egaloza
+231 - Holder (1002756) has gained c_neyew
+231 - sub vassal: c_tarora - Holder 1002756 - Primary title: c_tarora has lost the title: c_tarora
+231 - sub vassal: c_tarora - Title given to 1002756 - Primary title: k_egaloza
+231 - Holder (1002756) has gained c_tarora
+232 - vassal: d_keyael - Destroyed due to flagged problem
+232 - sub vassal: d_keyael - Destroyed due to flagged problem
+232 - vassal: d_keyael - Made independent
+232 - sub vassal: d_keyael - Made independent
+232 - Holder 1000647 - Primary title: k_egaloza has lost the title: k_egaloza
+232 - Title given to 1000647 - Primary title: d_kakance
+232 - vassal: d_kakance - Holder (1000647) has gained k_egaloza
+232 - sub vassal: d_kakance - Holder (1000647) has gained k_egaloza
+232 - vassal: d_tibael - Holder 1000647 - Primary title: d_tibael has lost the title: d_tibael
+232 - sub vassal: d_tibael - Holder 1000647 - Primary title: d_tibael has lost the title: d_tibael
+232 - vassal: d_tibael - Title given to 1000647 - Primary title: k_egaloza
+232 - sub vassal: d_tibael - Title given to 1000647 - Primary title: k_egaloza
+232 - Holder (1000647) has gained d_tibael
+232 - sub vassal: c_korega - Holder 1000647 - Primary title: c_korega has lost the title: c_korega
+232 - sub vassal: c_korega - Title given to 1000647 - Primary title: k_egaloza
+232 - Holder (1000647) has gained c_korega
+232 - sub vassal: c_nayania - Holder 1000647 - Primary title: c_nayania has lost the title: c_nayania
+232 - sub vassal: c_nayania - Title given to 1000647 - Primary title: k_egaloza
+232 - Holder (1000647) has gained c_nayania
+232 - sub vassal: c_neyew - Holder 1000647 - Primary title: c_neyew has lost the title: c_neyew
+232 - sub vassal: c_neyew - Title given to 1000647 - Primary title: k_egaloza
+232 - Holder (1000647) has gained c_neyew
+232 - sub vassal: c_tarora - Holder 1000647 - Primary title: c_tarora has lost the title: c_tarora
+232 - sub vassal: c_tarora - Title given to 1000647 - Primary title: k_egaloza
+232 - Holder (1000647) has gained c_tarora
+233 - Holder 1003601 - Primary title: k_egaloza has lost the title: c_beylas
+233 - sub vassal: c_beylas - Title given to 1003601
+233 - Holder 1003602 - Primary title: k_egaloza has lost the title: c_remance
+233 - sub vassal: c_remance - Title given to 1003602
+233 - Holder 1003603 - Primary title: k_egaloza has lost the title: c_aega
+233 - sub vassal: c_aega - Title given to 1003603
+233 - Holder 1003604 - Primary title: k_egaloza has lost the title: c_ebega
+233 - sub vassal: c_ebega - Title given to 1003604
+234 - vassal: d_wurance - Holder 1002119 - Primary title: d_wurance has lost the title: d_wurance
+234 - sub vassal: d_wurance - Holder 1002119 - Primary title: d_wurance has lost the title: d_wurance
+234 - vassal: d_wurance - Title given to 1002119
+234 - sub vassal: d_wurance - Title given to 1002119
+234 - sub vassal: c_sibenia - Holder 1002119 - Primary title: c_sibenia has lost the title: c_sibenia
+234 - sub vassal: c_sibenia - Title given to 1002119 - Primary title: d_wurance
+234 - vassal: d_wurance - Holder (1002119) has gained c_sibenia
+234 - sub vassal: d_wurance - Holder (1002119) has gained c_sibenia
+234 - sub vassal: c_kayance - Holder 1002119 - Primary title: c_kayance has lost the title: c_kayance
+234 - sub vassal: c_kayance - Title given to 1002119 - Primary title: d_wurance
+234 - vassal: d_wurance - Holder (1002119) has gained c_kayance
+234 - sub vassal: d_wurance - Holder (1002119) has gained c_kayance
+246 - vassal: d_wurance - Captured byk_ketus in minor war
+246 - sub vassal: d_wurance - Captured byk_ketus in minor war
+246 - Lost vassal: d_wurance
+247 - Holder 1001528 - Primary title: k_egaloza has lost the title: k_egaloza
+247 - Title given to 1001528
+247 - vassal: d_kakance - Holder 1001528 - Primary title: d_kakance has lost the title: d_kakance
+247 - sub vassal: d_kakance - Holder 1001528 - Primary title: d_kakance has lost the title: d_kakance
+247 - vassal: d_kakance - Title given to 1001528 - Primary title: k_egaloza
+247 - sub vassal: d_kakance - Title given to 1001528 - Primary title: k_egaloza
+247 - Holder (1001528) has gained d_kakance
+247 - sub vassal: c_dayaew - Setting to vassal of d_tibael in Validate Realm
+247 - vassal: d_kakance - Lost vassal: c_dayaew
+247 - sub vassal: d_kakance - Lost vassal: c_dayaew
+247 - vassal: d_tibael - Gained vassal: c_dayaew
+247 - sub vassal: d_tibael - Gained vassal: c_dayaew
+247 - vassal: d_tibael - Holder 1001528 - Primary title: d_tibael has lost the title: d_tibael
+247 - sub vassal: d_tibael - Holder 1001528 - Primary title: d_tibael has lost the title: d_tibael
+247 - vassal: d_tibael - Title given to 1001528 - Primary title: k_egaloza
+247 - sub vassal: d_tibael - Title given to 1001528 - Primary title: k_egaloza
+247 - Holder (1001528) has gained d_tibael
+247 - sub vassal: c_tarora - Holder 1001528 - Primary title: c_tarora has lost the title: c_tarora
+247 - sub vassal: c_tarora - Title given to 1001528 - Primary title: k_egaloza
+247 - Holder (1001528) has gained c_tarora
+247 - sub vassal: c_neyew - Holder 1001528 - Primary title: c_neyew has lost the title: c_neyew
+247 - sub vassal: c_neyew - Title given to 1001528 - Primary title: k_egaloza
+247 - Holder (1001528) has gained c_neyew
+247 - sub vassal: c_nayania - Holder 1001528 - Primary title: c_nayania has lost the title: c_nayania
+247 - sub vassal: c_nayania - Title given to 1001528 - Primary title: k_egaloza
+247 - Holder (1001528) has gained c_nayania
+247 - sub vassal: c_korega - Holder 1001528 - Primary title: c_korega has lost the title: c_korega
+247 - sub vassal: c_korega - Title given to 1001528 - Primary title: k_egaloza
+247 - Holder (1001528) has gained c_korega
+247 - sub vassal: c_dayaew - Holder 1001528 - Primary title: c_dayaew has lost the title: c_dayaew
+247 - sub vassal: c_dayaew - Title given to 1001528 - Primary title: k_egaloza
+247 - Holder (1001528) has gained c_dayaew
+249 - vassal: d_soris - Holder 1002053 - Primary title: d_soris has lost the title: d_soris
+249 - sub vassal: d_soris - Holder 1002053 - Primary title: d_soris has lost the title: d_soris
+249 - vassal: d_soris - Title given to 1002053
+249 - sub vassal: d_soris - Title given to 1002053
+249 - sub vassal: c_ratega - Holder 1002053 - Primary title: c_ratega has lost the title: c_ratega
+249 - sub vassal: c_ratega - Title given to 1002053 - Primary title: d_soris
+249 - vassal: d_soris - Holder (1002053) has gained c_ratega
+249 - sub vassal: d_soris - Holder (1002053) has gained c_ratega
+249 - sub vassal: c_daroro - Holder 1002053 - Primary title: c_daroro has lost the title: c_daroro
+249 - sub vassal: c_daroro - Title given to 1002053 - Primary title: d_soris
+249 - vassal: d_soris - Holder (1002053) has gained c_daroro
+249 - sub vassal: d_soris - Holder (1002053) has gained c_daroro
+249 - sub vassal: c_layance - Holder 1002053 - Primary title: c_layance has lost the title: c_layance
+249 - sub vassal: c_layance - Title given to 1002053 - Primary title: d_soris
+249 - vassal: d_soris - Holder (1002053) has gained c_layance
+249 - sub vassal: d_soris - Holder (1002053) has gained c_layance
+259 - Holder 1004898 - Primary title: k_egaloza has lost the title: k_egaloza
+259 - Title given to 1004898
+259 - vassal: d_kakance - Holder 1004898 - Primary title: d_kakance has lost the title: d_kakance
+259 - sub vassal: d_kakance - Holder 1004898 - Primary title: d_kakance has lost the title: d_kakance
+259 - vassal: d_kakance - Title given to 1004898 - Primary title: k_egaloza
+259 - sub vassal: d_kakance - Title given to 1004898 - Primary title: k_egaloza
+259 - Holder (1004898) has gained d_kakance
+259 - vassal: d_tibael - Holder 1004898 - Primary title: d_tibael has lost the title: d_tibael
+259 - sub vassal: d_tibael - Holder 1004898 - Primary title: d_tibael has lost the title: d_tibael
+259 - vassal: d_tibael - Title given to 1004898 - Primary title: k_egaloza
+259 - sub vassal: d_tibael - Title given to 1004898 - Primary title: k_egaloza
+259 - Holder (1004898) has gained d_tibael
+259 - sub vassal: c_tarora - Holder 1004898 - Primary title: c_tarora has lost the title: c_tarora
+259 - sub vassal: c_tarora - Title given to 1004898 - Primary title: k_egaloza
+259 - Holder (1004898) has gained c_tarora
+259 - sub vassal: c_neyew - Holder 1004898 - Primary title: c_neyew has lost the title: c_neyew
+259 - sub vassal: c_neyew - Title given to 1004898 - Primary title: k_egaloza
+259 - Holder (1004898) has gained c_neyew
+259 - sub vassal: c_nayania - Holder 1004898 - Primary title: c_nayania has lost the title: c_nayania
+259 - sub vassal: c_nayania - Title given to 1004898 - Primary title: k_egaloza
+259 - Holder (1004898) has gained c_nayania
+259 - sub vassal: c_korega - Holder 1004898 - Primary title: c_korega has lost the title: c_korega
+259 - sub vassal: c_korega - Title given to 1004898 - Primary title: k_egaloza
+259 - Holder (1004898) has gained c_korega
+259 - sub vassal: c_dayaew - Holder 1004898 - Primary title: c_dayaew has lost the title: c_dayaew
+259 - sub vassal: c_dayaew - Title given to 1004898 - Primary title: k_egaloza
+259 - Holder (1004898) has gained c_dayaew
+267 - vassal: d_soris - Holder 1004646 - Primary title: d_soris has lost the title: d_soris
+267 - sub vassal: d_soris - Holder 1004646 - Primary title: d_soris has lost the title: d_soris
+267 - vassal: d_soris - Title given to 1004646
+267 - sub vassal: d_soris - Title given to 1004646
+267 - sub vassal: c_layance - Holder 1004646 - Primary title: c_layance has lost the title: c_layance
+267 - sub vassal: c_layance - Title given to 1004646 - Primary title: d_soris
+267 - vassal: d_soris - Holder (1004646) has gained c_layance
+267 - sub vassal: d_soris - Holder (1004646) has gained c_layance
+267 - sub vassal: c_daroro - Holder 1004646 - Primary title: c_daroro has lost the title: c_daroro
+267 - sub vassal: c_daroro - Title given to 1004646 - Primary title: d_soris
+267 - vassal: d_soris - Holder (1004646) has gained c_daroro
+267 - sub vassal: d_soris - Holder (1004646) has gained c_daroro
+267 - sub vassal: c_ratega - Holder 1004646 - Primary title: c_ratega has lost the title: c_ratega
+267 - sub vassal: c_ratega - Title given to 1004646 - Primary title: d_soris
+267 - vassal: d_soris - Holder (1004646) has gained c_ratega
+267 - sub vassal: d_soris - Holder (1004646) has gained c_ratega
+278 - vassal: d_soris - Holder 1005878 - Primary title: d_soris has lost the title: d_soris
+278 - sub vassal: d_soris - Holder 1005878 - Primary title: d_soris has lost the title: d_soris
+278 - vassal: d_soris - Title given to 1005878
+278 - sub vassal: d_soris - Title given to 1005878
+278 - sub vassal: c_layance - Holder 1005878 - Primary title: c_layance has lost the title: c_layance
+278 - sub vassal: c_layance - Title given to 1005878 - Primary title: d_soris
+278 - vassal: d_soris - Holder (1005878) has gained c_layance
+278 - sub vassal: d_soris - Holder (1005878) has gained c_layance
+278 - sub vassal: c_daroro - Holder 1005878 - Primary title: c_daroro has lost the title: c_daroro
+278 - sub vassal: c_daroro - Title given to 1005878 - Primary title: d_soris
+278 - vassal: d_soris - Holder (1005878) has gained c_daroro
+278 - sub vassal: d_soris - Holder (1005878) has gained c_daroro
+278 - sub vassal: c_ratega - Holder 1005878 - Primary title: c_ratega has lost the title: c_ratega
+278 - sub vassal: c_ratega - Title given to 1005878 - Primary title: d_soris
+278 - vassal: d_soris - Holder (1005878) has gained c_ratega
+278 - sub vassal: d_soris - Holder (1005878) has gained c_ratega
+282 - Holder 1006026 - Primary title: k_egaloza has lost the title: k_egaloza
+282 - Title given to 1006026
+282 - vassal: d_kakance - Holder 1006026 - Primary title: d_kakance has lost the title: d_kakance
+282 - sub vassal: d_kakance - Holder 1006026 - Primary title: d_kakance has lost the title: d_kakance
+282 - vassal: d_kakance - Title given to 1006026 - Primary title: k_egaloza
+282 - sub vassal: d_kakance - Title given to 1006026 - Primary title: k_egaloza
+282 - Holder (1006026) has gained d_kakance
+282 - vassal: d_tibael - Holder 1006026 - Primary title: d_tibael has lost the title: d_tibael
+282 - sub vassal: d_tibael - Holder 1006026 - Primary title: d_tibael has lost the title: d_tibael
+282 - vassal: d_tibael - Title given to 1006026 - Primary title: k_egaloza
+282 - sub vassal: d_tibael - Title given to 1006026 - Primary title: k_egaloza
+282 - Holder (1006026) has gained d_tibael
+282 - sub vassal: c_tarora - Holder 1006026 - Primary title: c_tarora has lost the title: c_tarora
+282 - sub vassal: c_tarora - Title given to 1006026 - Primary title: k_egaloza
+282 - Holder (1006026) has gained c_tarora
+282 - sub vassal: c_neyew - Holder 1006026 - Primary title: c_neyew has lost the title: c_neyew
+282 - sub vassal: c_neyew - Title given to 1006026 - Primary title: k_egaloza
+282 - Holder (1006026) has gained c_neyew
+282 - sub vassal: c_nayania - Holder 1006026 - Primary title: c_nayania has lost the title: c_nayania
+282 - sub vassal: c_nayania - Title given to 1006026 - Primary title: k_egaloza
+282 - Holder (1006026) has gained c_nayania
+282 - sub vassal: c_korega - Holder 1006026 - Primary title: c_korega has lost the title: c_korega
+282 - sub vassal: c_korega - Title given to 1006026 - Primary title: k_egaloza
+282 - Holder (1006026) has gained c_korega
+282 - sub vassal: c_dayaew - Holder 1006026 - Primary title: c_dayaew has lost the title: c_dayaew
+282 - sub vassal: c_dayaew - Title given to 1006026 - Primary title: k_egaloza
+282 - Holder (1006026) has gained c_dayaew
+293 - Holder 1005878 - Primary title: k_egaloza has lost the title: k_egaloza
+293 - Title given to 1005878 - Primary title: d_soris
+293 - vassal: d_soris - Holder (1005878) has gained k_egaloza
+293 - sub vassal: d_soris - Holder (1005878) has gained k_egaloza
+293 - vassal: d_kakance - Holder 1005878 - Primary title: d_kakance has lost the title: d_kakance
+293 - sub vassal: d_kakance - Holder 1005878 - Primary title: d_kakance has lost the title: d_kakance
+293 - vassal: d_kakance - Title given to 1005878 - Primary title: k_egaloza
+293 - sub vassal: d_kakance - Title given to 1005878 - Primary title: k_egaloza
+293 - Holder (1005878) has gained d_kakance
+293 - vassal: d_tibael - Holder 1005878 - Primary title: d_tibael has lost the title: d_tibael
+293 - sub vassal: d_tibael - Holder 1005878 - Primary title: d_tibael has lost the title: d_tibael
+293 - vassal: d_tibael - Title given to 1005878 - Primary title: k_egaloza
+293 - sub vassal: d_tibael - Title given to 1005878 - Primary title: k_egaloza
+293 - Holder (1005878) has gained d_tibael
+293 - sub vassal: c_tarora - Holder 1005878 - Primary title: c_tarora has lost the title: c_tarora
+293 - sub vassal: c_tarora - Title given to 1005878 - Primary title: k_egaloza
+293 - Holder (1005878) has gained c_tarora
+293 - sub vassal: c_neyew - Holder 1005878 - Primary title: c_neyew has lost the title: c_neyew
+293 - sub vassal: c_neyew - Title given to 1005878 - Primary title: k_egaloza
+293 - Holder (1005878) has gained c_neyew
+293 - sub vassal: c_nayania - Holder 1005878 - Primary title: c_nayania has lost the title: c_nayania
+293 - sub vassal: c_nayania - Title given to 1005878 - Primary title: k_egaloza
+293 - Holder (1005878) has gained c_nayania
+293 - sub vassal: c_korega - Holder 1005878 - Primary title: c_korega has lost the title: c_korega
+293 - sub vassal: c_korega - Title given to 1005878 - Primary title: k_egaloza
+293 - Holder (1005878) has gained c_korega
+293 - sub vassal: c_dayaew - Holder 1005878 - Primary title: c_dayaew has lost the title: c_dayaew
+293 - sub vassal: c_dayaew - Title given to 1005878 - Primary title: k_egaloza
+293 - Holder (1005878) has gained c_dayaew
+294 - sub vassal: c_layance - Given to 1005137 in HandleTitles - Too many duke titles
+294 - Holder 1005137 - Primary title: k_egaloza has lost the title: c_layance
+294 - sub vassal: c_layance - Title given to 1005137
+294 - Holder 1005137 - Primary title: k_egaloza has lost the title: d_soris
+294 - vassal: d_soris - Title given to 1005137 - Primary title: c_layance
+294 - sub vassal: d_soris - Title given to 1005137 - Primary title: c_layance
+294 - sub vassal: c_layance - Holder (1005137) has gained d_soris
+294 - sub vassal: c_ratega - Setting to vassal of k_egaloza in Validate Realm
+294 - vassal: d_soris - Lost vassal: c_ratega
+294 - sub vassal: d_soris - Lost vassal: c_ratega
+294 - sub vassal: c_daroro - Setting to vassal of k_egaloza in Validate Realm
+294 - vassal: d_soris - Lost vassal: c_daroro
+294 - sub vassal: d_soris - Lost vassal: c_daroro
+294 - Gained vassal: c_daroro
+294 - Gained vassal: c_ratega
+294 - vassal: d_soris - Too many dukes, given to dejure: k_egaloza
+294 - sub vassal: d_soris - Too many dukes, given to dejure: k_egaloza
+294 - Holder 1007238 - Primary title: k_egaloza has lost the title: c_daroro
+294 - vassal: c_daroro - Title given to 1007238
+294 - sub vassal: c_daroro - Title given to 1007238
+294 - Holder 1007239 - Primary title: k_egaloza has lost the title: c_ratega
+294 - vassal: c_ratega - Title given to 1007239
+294 - sub vassal: c_ratega - Title given to 1007239
+300 - sub vassal: c_katoro - Holder 1005878 - Primary title: c_katoro has lost the title: c_katoro
+300 - sub vassal: c_katoro - Title given to 1005878 - Primary title: k_egaloza
+300 - Holder (1005878) has gained c_katoro
+300 - sub vassal: c_keya - Holder 1005878 - Primary title: c_keya has lost the title: c_keya
+300 - sub vassal: c_keya - Title given to 1005878 - Primary title: k_egaloza
+300 - Holder (1005878) has gained c_keya
+300 - Holder 1007628 - Primary title: k_egaloza has lost the title: c_dayaew
+300 - sub vassal: c_dayaew - Title given to 1007628
+300 - Holder 1007630 - Primary title: k_egaloza has lost the title: c_nayania
+300 - sub vassal: c_nayania - Title given to 1007630
+311 - Holder 1007114 - Primary title: k_egaloza has lost the title: k_egaloza
+311 - Title given to 1007114
+311 - vassal: d_kakance - Holder 1007114 - Primary title: d_kakance has lost the title: d_kakance
+311 - sub vassal: d_kakance - Holder 1007114 - Primary title: d_kakance has lost the title: d_kakance
+311 - vassal: d_kakance - Title given to 1007114 - Primary title: k_egaloza
+311 - sub vassal: d_kakance - Title given to 1007114 - Primary title: k_egaloza
+311 - Holder (1007114) has gained d_kakance
+311 - vassal: d_tibael - Holder 1007114 - Primary title: d_tibael has lost the title: d_tibael
+311 - sub vassal: d_tibael - Holder 1007114 - Primary title: d_tibael has lost the title: d_tibael
+311 - vassal: d_tibael - Title given to 1007114 - Primary title: k_egaloza
+311 - sub vassal: d_tibael - Title given to 1007114 - Primary title: k_egaloza
+311 - Holder (1007114) has gained d_tibael
+311 - sub vassal: c_keya - Holder 1007114 - Primary title: c_keya has lost the title: c_keya
+311 - sub vassal: c_keya - Title given to 1007114 - Primary title: k_egaloza
+311 - Holder (1007114) has gained c_keya
+311 - sub vassal: c_katoro - Holder 1007114 - Primary title: c_katoro has lost the title: c_katoro
+311 - sub vassal: c_katoro - Title given to 1007114 - Primary title: k_egaloza
+311 - Holder (1007114) has gained c_katoro
+311 - sub vassal: c_korega - Holder 1007114 - Primary title: c_korega has lost the title: c_korega
+311 - sub vassal: c_korega - Title given to 1007114 - Primary title: k_egaloza
+311 - Holder (1007114) has gained c_korega
+311 - sub vassal: c_neyew - Holder 1007114 - Primary title: c_neyew has lost the title: c_neyew
+311 - sub vassal: c_neyew - Title given to 1007114 - Primary title: k_egaloza
+311 - Holder (1007114) has gained c_neyew
+311 - sub vassal: c_tarora - Holder 1007114 - Primary title: c_tarora has lost the title: c_tarora
+311 - sub vassal: c_tarora - Title given to 1007114 - Primary title: k_egaloza
+311 - Holder (1007114) has gained c_tarora
+313 - vassal: d_soris - Holder 1007995 - Primary title: d_soris has lost the title: d_soris
+313 - sub vassal: d_soris - Holder 1007995 - Primary title: d_soris has lost the title: d_soris
+313 - vassal: d_soris - Title given to 1007995
+313 - sub vassal: d_soris - Title given to 1007995
+313 - sub vassal: c_layance - Holder 1007995 - Primary title: c_layance has lost the title: c_layance
+313 - sub vassal: c_layance - Title given to 1007995 - Primary title: d_soris
+313 - vassal: d_soris - Holder (1007995) has gained c_layance
+313 - sub vassal: d_soris - Holder (1007995) has gained c_layance
+353 - Holder 1008678 - Primary title: k_egaloza has lost the title: k_egaloza
+353 - Title given to 1008678
+353 - vassal: d_kakance - Holder 1008678 - Primary title: d_kakance has lost the title: d_kakance
+353 - sub vassal: d_kakance - Holder 1008678 - Primary title: d_kakance has lost the title: d_kakance
+353 - vassal: d_kakance - Title given to 1008678 - Primary title: k_egaloza
+353 - sub vassal: d_kakance - Title given to 1008678 - Primary title: k_egaloza
+353 - Holder (1008678) has gained d_kakance
+353 - vassal: d_tibael - Holder 1008678 - Primary title: d_tibael has lost the title: d_tibael
+353 - sub vassal: d_tibael - Holder 1008678 - Primary title: d_tibael has lost the title: d_tibael
+353 - vassal: d_tibael - Title given to 1008678 - Primary title: k_egaloza
+353 - sub vassal: d_tibael - Title given to 1008678 - Primary title: k_egaloza
+353 - Holder (1008678) has gained d_tibael
+353 - sub vassal: c_keya - Holder 1008678 - Primary title: c_keya has lost the title: c_keya
+353 - sub vassal: c_keya - Title given to 1008678 - Primary title: k_egaloza
+353 - Holder (1008678) has gained c_keya
+353 - sub vassal: c_katoro - Holder 1008678 - Primary title: c_katoro has lost the title: c_katoro
+353 - sub vassal: c_katoro - Title given to 1008678 - Primary title: k_egaloza
+353 - Holder (1008678) has gained c_katoro
+353 - sub vassal: c_korega - Holder 1008678 - Primary title: c_korega has lost the title: c_korega
+353 - sub vassal: c_korega - Title given to 1008678 - Primary title: k_egaloza
+353 - Holder (1008678) has gained c_korega
+353 - sub vassal: c_neyew - Holder 1008678 - Primary title: c_neyew has lost the title: c_neyew
+353 - sub vassal: c_neyew - Title given to 1008678 - Primary title: k_egaloza
+353 - Holder (1008678) has gained c_neyew
+353 - sub vassal: c_tarora - Holder 1008678 - Primary title: c_tarora has lost the title: c_tarora
+353 - sub vassal: c_tarora - Title given to 1008678 - Primary title: k_egaloza
+353 - Holder (1008678) has gained c_tarora
+371 - Holder 1011100 - Primary title: k_egaloza has lost the title: k_egaloza
+371 - Title given to 1011100
+371 - vassal: d_kakance - Holder 1011100 - Primary title: d_kakance has lost the title: d_kakance
+371 - sub vassal: d_kakance - Holder 1011100 - Primary title: d_kakance has lost the title: d_kakance
+371 - vassal: d_kakance - Title given to 1011100 - Primary title: k_egaloza
+371 - sub vassal: d_kakance - Title given to 1011100 - Primary title: k_egaloza
+371 - Holder (1011100) has gained d_kakance
+371 - vassal: d_tibael - Holder 1011100 - Primary title: d_tibael has lost the title: d_tibael
+371 - sub vassal: d_tibael - Holder 1011100 - Primary title: d_tibael has lost the title: d_tibael
+371 - vassal: d_tibael - Title given to 1011100 - Primary title: k_egaloza
+371 - sub vassal: d_tibael - Title given to 1011100 - Primary title: k_egaloza
+371 - Holder (1011100) has gained d_tibael
+371 - sub vassal: c_tarora - Holder 1011100 - Primary title: c_tarora has lost the title: c_tarora
+371 - sub vassal: c_tarora - Title given to 1011100 - Primary title: k_egaloza
+371 - Holder (1011100) has gained c_tarora
+371 - sub vassal: c_neyew - Holder 1011100 - Primary title: c_neyew has lost the title: c_neyew
+371 - sub vassal: c_neyew - Title given to 1011100 - Primary title: k_egaloza
+371 - Holder (1011100) has gained c_neyew
+371 - sub vassal: c_korega - Holder 1011100 - Primary title: c_korega has lost the title: c_korega
+371 - sub vassal: c_korega - Title given to 1011100 - Primary title: k_egaloza
+371 - Holder (1011100) has gained c_korega
+371 - sub vassal: c_katoro - Holder 1011100 - Primary title: c_katoro has lost the title: c_katoro
+371 - sub vassal: c_katoro - Title given to 1011100 - Primary title: k_egaloza
+371 - Holder (1011100) has gained c_katoro
+371 - sub vassal: c_keya - Holder 1011100 - Primary title: c_keya has lost the title: c_keya
+371 - sub vassal: c_keya - Title given to 1011100 - Primary title: k_egaloza
+371 - Holder (1011100) has gained c_keya
+373 - vassal: d_soris - Holder 1008860 - Primary title: d_soris has lost the title: d_soris
+373 - sub vassal: d_soris - Holder 1008860 - Primary title: d_soris has lost the title: d_soris
+373 - vassal: d_soris - Title given to 1008860
+373 - sub vassal: d_soris - Title given to 1008860
+373 - sub vassal: c_layance - Holder 1008860 - Primary title: c_layance has lost the title: c_layance
+373 - sub vassal: c_layance - Title given to 1008860 - Primary title: d_soris
+373 - vassal: d_soris - Holder (1008860) has gained c_layance
+373 - sub vassal: d_soris - Holder (1008860) has gained c_layance
+377 - vassal: c_tarew - Setting independent in Validate Realm
+377 - vassal: c_tarew - Made independent
+377 - Gained vassal: d_ritsa
+379 - vassal: d_soris - Holder 1011685 - Primary title: d_soris has lost the title: d_soris
+379 - sub vassal: d_soris - Holder 1011685 - Primary title: d_soris has lost the title: d_soris
+379 - vassal: d_soris - Title given to 1011685
+379 - sub vassal: d_soris - Title given to 1011685
+379 - sub vassal: c_layance - Holder 1011685 - Primary title: c_layance has lost the title: c_layance
+379 - sub vassal: c_layance - Title given to 1011685 - Primary title: d_soris
+379 - vassal: d_soris - Holder (1011685) has gained c_layance
+379 - sub vassal: d_soris - Holder (1011685) has gained c_layance
+380 - vassal: d_soris - Holder 1011100 - Primary title: d_soris has lost the title: d_soris
+380 - sub vassal: d_soris - Holder 1011100 - Primary title: d_soris has lost the title: d_soris
+380 - vassal: d_soris - Title given to 1011100 - Primary title: k_egaloza
+380 - sub vassal: d_soris - Title given to 1011100 - Primary title: k_egaloza
+380 - Holder (1011100) has gained d_soris
+380 - sub vassal: c_layance - Holder 1011100 - Primary title: c_layance has lost the title: c_layance
+380 - sub vassal: c_layance - Title given to 1011100 - Primary title: k_egaloza
+380 - Holder (1011100) has gained c_layance
+380 - sub vassal: c_remance - Given to 1011795 in HandleTitles - Too many duke titles
+380 - sub vassal: c_remance - Holder 1011795 - Primary title: c_remance has lost the title: c_remance
+380 - sub vassal: c_remance - Title given to 1011795
+380 - Holder 1011795 - Primary title: k_egaloza has lost the title: d_kakance
+380 - vassal: d_kakance - Title given to 1011795 - Primary title: c_remance
+380 - sub vassal: d_kakance - Title given to 1011795 - Primary title: c_remance
+380 - sub vassal: c_remance - Holder (1011795) has gained d_kakance
+380 - vassal: d_kakance - Too many dukes, given to dejure: k_egaloza
+380 - sub vassal: d_kakance - Too many dukes, given to dejure: k_egaloza
+380 - Holder 1011796 - Primary title: k_egaloza has lost the title: c_layance
+380 - sub vassal: c_layance - Title given to 1011796
+386 - vassal: d_ritsa - Holder 1010554 - Primary title: d_ritsa has lost the title: d_ritsa
+386 - sub vassal: d_ritsa - Holder 1010554 - Primary title: d_ritsa has lost the title: d_ritsa
+386 - vassal: d_ritsa - Title given to 1010554
+386 - sub vassal: d_ritsa - Title given to 1010554
+386 - sub vassal: c_tarard - Holder 1010554 - Primary title: c_tarard has lost the title: c_tarard
+386 - sub vassal: c_tarard - Title given to 1010554 - Primary title: d_ritsa
+386 - vassal: d_ritsa - Holder (1010554) has gained c_tarard
+386 - sub vassal: d_ritsa - Holder (1010554) has gained c_tarard
+386 - sub vassal: c_rahis - Holder 1010554 - Primary title: c_rahis has lost the title: c_rahis
+386 - sub vassal: c_rahis - Title given to 1010554 - Primary title: d_ritsa
+386 - vassal: d_ritsa - Holder (1010554) has gained c_rahis
+386 - sub vassal: d_ritsa - Holder (1010554) has gained c_rahis
+386 - sub vassal: c_deyenia - Holder 1010554 - Primary title: c_deyenia has lost the title: c_deyenia
+386 - sub vassal: c_deyenia - Title given to 1010554 - Primary title: d_ritsa
+386 - vassal: d_ritsa - Holder (1010554) has gained c_deyenia
+386 - sub vassal: d_ritsa - Holder (1010554) has gained c_deyenia
+392 - vassal: d_ritsa - Holder 1012347 - Primary title: d_ritsa has lost the title: d_ritsa
+392 - sub vassal: d_ritsa - Holder 1012347 - Primary title: d_ritsa has lost the title: d_ritsa
+392 - vassal: d_ritsa - Title given to 1012347
+392 - sub vassal: d_ritsa - Title given to 1012347
+392 - sub vassal: c_tarard - Holder 1012347 - Primary title: c_tarard has lost the title: c_tarard
+392 - sub vassal: c_tarard - Title given to 1012347 - Primary title: d_ritsa
+392 - vassal: d_ritsa - Holder (1012347) has gained c_tarard
+392 - sub vassal: d_ritsa - Holder (1012347) has gained c_tarard
+392 - sub vassal: c_rahis - Holder 1012347 - Primary title: c_rahis has lost the title: c_rahis
+392 - sub vassal: c_rahis - Title given to 1012347 - Primary title: d_ritsa
+392 - vassal: d_ritsa - Holder (1012347) has gained c_rahis
+392 - sub vassal: d_ritsa - Holder (1012347) has gained c_rahis
+392 - sub vassal: c_deyenia - Holder 1012347 - Primary title: c_deyenia has lost the title: c_deyenia
+392 - sub vassal: c_deyenia - Title given to 1012347 - Primary title: d_ritsa
+392 - vassal: d_ritsa - Holder (1012347) has gained c_deyenia
+392 - sub vassal: d_ritsa - Holder (1012347) has gained c_deyenia
+397 - vassal: d_ritsa - Holder 1011100 - Primary title: d_ritsa has lost the title: d_ritsa
+397 - sub vassal: d_ritsa - Holder 1011100 - Primary title: d_ritsa has lost the title: d_ritsa
+397 - vassal: d_ritsa - Title given to 1011100 - Primary title: k_egaloza
+397 - sub vassal: d_ritsa - Title given to 1011100 - Primary title: k_egaloza
+397 - Holder (1011100) has gained d_ritsa
+397 - sub vassal: c_tarard - Holder 1011100 - Primary title: c_tarard has lost the title: c_tarard
+397 - sub vassal: c_tarard - Title given to 1011100 - Primary title: k_egaloza
+397 - Holder (1011100) has gained c_tarard
+397 - sub vassal: c_rahis - Holder 1011100 - Primary title: c_rahis has lost the title: c_rahis
+397 - sub vassal: c_rahis - Title given to 1011100 - Primary title: k_egaloza
+397 - Holder (1011100) has gained c_rahis
+397 - sub vassal: c_deyenia - Holder 1011100 - Primary title: c_deyenia has lost the title: c_deyenia
+397 - sub vassal: c_deyenia - Title given to 1011100 - Primary title: k_egaloza
+397 - Holder (1011100) has gained c_deyenia
+397 - sub vassal: c_tarard - Given to 1012669 in HandleTitles - Too many duke titles
+397 - Holder 1012669 - Primary title: k_egaloza has lost the title: c_tarard
+397 - sub vassal: c_tarard - Title given to 1012669
+397 - Holder 1012669 - Primary title: k_egaloza has lost the title: d_ritsa
+397 - vassal: d_ritsa - Title given to 1012669 - Primary title: c_tarard
+397 - sub vassal: d_ritsa - Title given to 1012669 - Primary title: c_tarard
+397 - sub vassal: c_tarard - Holder (1012669) has gained d_ritsa
+397 - sub vassal: c_rahis - Setting to vassal of k_egaloza in Validate Realm
+397 - vassal: d_ritsa - Lost vassal: c_rahis
+397 - sub vassal: d_ritsa - Lost vassal: c_rahis
+397 - sub vassal: c_deyenia - Setting to vassal of k_egaloza in Validate Realm
+397 - vassal: d_ritsa - Lost vassal: c_deyenia
+397 - sub vassal: d_ritsa - Lost vassal: c_deyenia
+397 - Gained vassal: c_deyenia
+397 - Gained vassal: c_rahis
+397 - vassal: d_ritsa - Too many dukes, made direct title into vassal of k_egaloza
+397 - sub vassal: d_ritsa - Too many dukes, made direct title into vassal of k_egaloza
+397 - Holder 1012670 - Primary title: k_egaloza has lost the title: c_deyenia
+397 - vassal: c_deyenia - Title given to 1012670
+397 - sub vassal: c_deyenia - Title given to 1012670
+397 - Holder 1012671 - Primary title: k_egaloza has lost the title: c_rahis
+397 - vassal: c_rahis - Title given to 1012671
+397 - sub vassal: c_rahis - Title given to 1012671

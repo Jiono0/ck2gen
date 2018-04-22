@@ -1,0 +1,52 @@
+200 - Title given to 1000590
+200 - vassal: c_adaniel - Given to 1000593 via AddCharacterForTitle
+200 - sub vassal: c_adaniel - Given to 1000593 via AddCharacterForTitle
+200 - vassal: c_adaniel - Holder 1000593 - Primary title: c_adaniel has lost the title: c_adaniel
+200 - sub vassal: c_adaniel - Holder 1000593 - Primary title: c_adaniel has lost the title: c_adaniel
+200 - vassal: c_adaniel - Title given to 1000593
+200 - sub vassal: c_adaniel - Title given to 1000593
+200 - vassal: c_rodati - Holder 1000590 - Primary title: c_rodati has lost the title: c_rodati
+200 - sub vassal: c_rodati - Holder 1000590 - Primary title: c_rodati has lost the title: c_rodati
+200 - vassal: c_rodati - Title given to 1000590 - Primary title: d_abdin
+200 - sub vassal: c_rodati - Title given to 1000590 - Primary title: d_abdin
+200 - Holder (1000590) has gained c_rodati
+200 - vassal: c_adaniel - Holder 1000590 - Primary title: c_adaniel has lost the title: c_adaniel
+200 - sub vassal: c_adaniel - Holder 1000590 - Primary title: c_adaniel has lost the title: c_adaniel
+200 - vassal: c_adaniel - Title given to 1000590 - Primary title: d_abdin
+200 - sub vassal: c_adaniel - Title given to 1000590 - Primary title: d_abdin
+200 - Holder (1000590) has gained c_adaniel
+207 - Holder 1000627 - Primary title: d_abdin has lost the title: d_abdin
+207 - Title given to 1000627 - Primary title: d_edanin
+207 - vassal: c_adaniel - Holder 1000627 - Primary title: c_adaniel has lost the title: c_adaniel
+207 - vassal: c_adaniel - Title given to 1000627 - Primary title: d_edanin
+207 - vassal: c_rodati - Holder 1000627 - Primary title: c_rodati has lost the title: c_rodati
+207 - vassal: c_rodati - Title given to 1000627 - Primary title: d_edanin
+236 - Gained vassal: c_riniel
+236 - Gained vassal: c_tabul
+236 - Gained vassal: c_lodente
+236 - Holder 1001264 - Primary title: d_abdin has lost the title: d_abdin
+236 - Title given to 1001264 - Primary title: d_edanin
+236 - vassal: c_lodente - Holder 1001264 - Primary title: c_lodente has lost the title: c_lodente
+236 - vassal: c_lodente - Title given to 1001264 - Primary title: d_edanin
+236 - vassal: c_tabul - Holder 1001264 - Primary title: c_tabul has lost the title: c_tabul
+236 - vassal: c_tabul - Title given to 1001264 - Primary title: d_edanin
+236 - vassal: c_riniel - Holder 1001264 - Primary title: c_riniel has lost the title: c_riniel
+236 - vassal: c_riniel - Title given to 1001264 - Primary title: d_edanin
+236 - vassal: c_adaniel - Holder 1001264 - Primary title: c_adaniel has lost the title: c_adaniel
+236 - vassal: c_adaniel - Title given to 1001264 - Primary title: d_edanin
+236 - vassal: c_rodati - Holder 1001264 - Primary title: c_rodati has lost the title: c_rodati
+236 - vassal: c_rodati - Title given to 1001264 - Primary title: d_edanin
+241 - Holder (1001264) has gained d_edanin
+241 - vassal: c_rodati - Set liege on title creation d_edanin
+241 - Lost vassal: c_rodati
+241 - vassal: c_adaniel - Set liege on title creation d_edanin
+241 - Lost vassal: c_adaniel
+241 - vassal: c_riniel - Set liege on title creation d_edanin
+241 - Lost vassal: c_riniel
+241 - vassal: c_tabul - Set liege on title creation d_edanin
+241 - Lost vassal: c_tabul
+241 - vassal: c_lodente - Set liege on title creation d_edanin
+241 - Lost vassal: c_lodente
+242 - Destroyed due to flagged problem
+242 - Made independent
+242 - Title destroyed

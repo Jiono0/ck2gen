@@ -1,0 +1,133 @@
+200 - Title given to 1000335
+200 - vassal: c_beriga - Given to 1000338 via AddCharacterForTitle
+200 - sub vassal: c_beriga - Given to 1000338 via AddCharacterForTitle
+200 - vassal: c_beriga - Holder 1000338 - Primary title: c_beriga has lost the title: c_beriga
+200 - sub vassal: c_beriga - Holder 1000338 - Primary title: c_beriga has lost the title: c_beriga
+200 - vassal: c_beriga - Title given to 1000338
+200 - sub vassal: c_beriga - Title given to 1000338
+200 - vassal: c_babukka - Holder 1000335 - Primary title: c_babukka has lost the title: c_babukka
+200 - sub vassal: c_babukka - Holder 1000335 - Primary title: c_babukka has lost the title: c_babukka
+200 - vassal: c_babukka - Title given to 1000335 - Primary title: d_dedinia
+200 - sub vassal: c_babukka - Title given to 1000335 - Primary title: d_dedinia
+200 - Holder (1000335) has gained c_babukka
+200 - vassal: c_beriga - Holder 1000335 - Primary title: c_beriga has lost the title: c_beriga
+200 - sub vassal: c_beriga - Holder 1000335 - Primary title: c_beriga has lost the title: c_beriga
+200 - vassal: c_beriga - Title given to 1000335 - Primary title: d_dedinia
+200 - sub vassal: c_beriga - Title given to 1000335 - Primary title: d_dedinia
+200 - Holder (1000335) has gained c_beriga
+200 - Holder 1001026 - Primary title: d_dedinia has lost the title: d_dedinia
+200 - Title given to 1001026 - Primary title: k_reuparis
+200 - vassal: c_babukka - Given to 1001377 in HandleTitles - Too many duke titles
+200 - vassal: c_babukka - Holder 1001377 - Primary title: c_babukka has lost the title: c_babukka
+200 - vassal: c_babukka - Title given to 1001377
+200 - Title given to 1001377 - Primary title: c_babukka
+200 - vassal: c_babukka - Holder (1001377) has gained d_dedinia
+200 - Too many dukes, given to dejure: k_reuparis
+213 - Made vassal of neighbour (k_wanolas) due to being a seperate island
+213 - Given to neighbour holder of k_wanolas
+213 - Holder 1001369 - Primary title: d_dedinia has lost the title: d_dedinia
+213 - Title given to 1001369 - Primary title: k_wanolas
+214 - vassal: c_babukka - Given to 1002391 in HandleTitles - Too many duke titles
+214 - vassal: c_babukka - Holder 1002391 - Primary title: c_babukka has lost the title: c_babukka
+214 - vassal: c_babukka - Title given to 1002391
+214 - Title given to 1002391 - Primary title: c_babukka
+214 - vassal: c_babukka - Holder (1002391) has gained d_dedinia
+214 - Too many dukes, made direct title into vassal of k_wanolas
+230 - Holder 1002538 - Primary title: d_dedinia has lost the title: d_dedinia
+230 - Title given to 1002538
+230 - vassal: c_babukka - Holder 1002538 - Primary title: c_babukka has lost the title: c_babukka
+230 - vassal: c_babukka - Title given to 1002538 - Primary title: d_dedinia
+230 - Holder (1002538) has gained c_babukka
+232 - Holder 1001380 - Primary title: d_dedinia has lost the title: d_dedinia
+232 - Title given to 1001380 - Primary title: d_lalivi
+232 - vassal: c_babukka - Holder 1001380 - Primary title: c_babukka has lost the title: c_babukka
+232 - vassal: c_babukka - Title given to 1001380 - Primary title: d_lalivi
+232 - Gained vassal: c_tibasa
+232 - Gained vassal: c_tibasa
+232 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+233 - Holder 1003499 - Primary title: d_dedinia has lost the title: c_saray
+233 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+233 - Lost vassal: c_tibasa
+233 - Gained vassal: c_tibasa
+233 - Gained vassal: c_tibasa
+233 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+234 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+234 - Lost vassal: c_tibasa
+234 - Gained vassal: c_tibasa
+234 - Gained vassal: c_tibasa
+234 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+235 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+235 - Lost vassal: c_tibasa
+235 - Gained vassal: c_tibasa
+235 - Gained vassal: c_tibasa
+235 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+236 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+236 - Lost vassal: c_tibasa
+236 - Gained vassal: c_tibasa
+236 - Gained vassal: c_tibasa
+236 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+237 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+237 - Lost vassal: c_tibasa
+237 - Gained vassal: c_tibasa
+237 - Gained vassal: c_tibasa
+237 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+238 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+238 - Lost vassal: c_tibasa
+238 - Gained vassal: c_tibasa
+238 - Gained vassal: c_tibasa
+238 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+239 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+239 - Lost vassal: c_tibasa
+239 - Gained vassal: c_tibasa
+239 - Gained vassal: c_tibasa
+239 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+240 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+240 - Lost vassal: c_tibasa
+243 - Gained vassal: c_tibasa
+243 - Gained vassal: c_rikeza
+243 - Gained vassal: c_ralatani
+243 - Gained vassal: c_ribadma
+243 - Holder 1001657 - Primary title: d_dedinia has lost the title: d_dedinia
+243 - Title given to 1001657 - Primary title: d_lalivi
+243 - vassal: c_ribadma - Holder 1001657 - Primary title: c_ribadma has lost the title: c_ribadma
+243 - vassal: c_ribadma - Title given to 1001657 - Primary title: d_lalivi
+243 - vassal: c_ralatani - Holder 1001657 - Primary title: c_ralatani has lost the title: c_ralatani
+243 - vassal: c_ralatani - Title given to 1001657 - Primary title: d_lalivi
+243 - vassal: c_rikeza - Holder 1001657 - Primary title: c_rikeza has lost the title: c_rikeza
+243 - vassal: c_rikeza - Title given to 1001657 - Primary title: d_lalivi
+243 - vassal: c_tibasa - Holder 1001657 - Primary title: c_tibasa has lost the title: c_tibasa
+243 - vassal: c_tibasa - Title given to 1001657 - Primary title: d_lalivi
+243 - vassal: c_babukka - Holder 1001657 - Primary title: c_babukka has lost the title: c_babukka
+243 - vassal: c_babukka - Title given to 1001657 - Primary title: d_lalivi
+243 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+243 - Lost vassal: c_tibasa
+244 - vassal: c_ralatani - Title given to 1004074
+255 - Gained vassal: c_saray
+255 - Gained vassal: c_tibasa
+255 - Holder 1004716 - Primary title: d_dedinia has lost the title: d_dedinia
+255 - Title given to 1004716 - Primary title: d_lalivi
+255 - vassal: c_ribadma - Holder 1004716 - Primary title: c_ribadma has lost the title: c_ribadma
+255 - vassal: c_ribadma - Title given to 1004716 - Primary title: d_lalivi
+255 - vassal: c_rikeza - Holder 1004716 - Primary title: c_rikeza has lost the title: c_rikeza
+255 - vassal: c_rikeza - Title given to 1004716 - Primary title: d_lalivi
+255 - vassal: c_tibasa - Holder 1004716 - Primary title: c_tibasa has lost the title: c_tibasa
+255 - vassal: c_tibasa - Title given to 1004716 - Primary title: d_lalivi
+255 - vassal: c_babukka - Holder 1004716 - Primary title: c_babukka has lost the title: c_babukka
+255 - vassal: c_babukka - Title given to 1004716 - Primary title: d_lalivi
+255 - vassal: c_saray - Holder 1004716 - Primary title: c_saray has lost the title: c_saray
+255 - vassal: c_saray - Title given to 1004716 - Primary title: d_lalivi
+255 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+255 - Lost vassal: c_tibasa
+256 - Gained vassal: c_tibasa
+256 - Gained vassal: c_tibasa
+256 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+256 - Lost vassal: c_tibasa
+256 - Gained vassal: c_tibasa
+256 - Gained vassal: c_tibasa
+256 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+257 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+257 - Lost vassal: c_tibasa
+257 - Gained vassal: c_tibasa
+257 - Gained vassal: c_tibasa
+257 - vassal: c_tibasa - Given to neighbour holder of k_kyaa
+258 - 

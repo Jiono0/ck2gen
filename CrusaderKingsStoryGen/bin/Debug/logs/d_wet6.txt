@@ -1,0 +1,35 @@
+200 - Title given to 1000712
+200 - vassal: c_ramolay - Holder 1000712 - Primary title: c_ramolay has lost the title: c_ramolay
+200 - sub vassal: c_ramolay - Holder 1000712 - Primary title: c_ramolay has lost the title: c_ramolay
+200 - vassal: c_ramolay - Title given to 1000712 - Primary title: d_wet
+200 - sub vassal: c_ramolay - Title given to 1000712 - Primary title: d_wet
+200 - Holder (1000712) has gained c_ramolay
+200 - vassal: c_duerish - Holder 1000712 - Primary title: c_duerish has lost the title: c_duerish
+200 - sub vassal: c_duerish - Holder 1000712 - Primary title: c_duerish has lost the title: c_duerish
+200 - vassal: c_duerish - Title given to 1000712 - Primary title: d_wet
+200 - sub vassal: c_duerish - Title given to 1000712 - Primary title: d_wet
+200 - Holder (1000712) has gained c_duerish
+200 - vassal: c_kadila - Holder 1000712 - Primary title: c_kadila has lost the title: c_kadila
+200 - sub vassal: c_kadila - Holder 1000712 - Primary title: c_kadila has lost the title: c_kadila
+200 - vassal: c_kadila - Title given to 1000712 - Primary title: d_wet
+200 - sub vassal: c_kadila - Title given to 1000712 - Primary title: d_wet
+200 - Holder (1000712) has gained c_kadila
+200 - vassal: c_teral - Holder 1000712 - Primary title: c_teral has lost the title: c_teral
+200 - sub vassal: c_teral - Holder 1000712 - Primary title: c_teral has lost the title: c_teral
+200 - vassal: c_teral - Title given to 1000712 - Primary title: d_wet
+200 - sub vassal: c_teral - Title given to 1000712 - Primary title: d_wet
+200 - Holder (1000712) has gained c_teral
+206 - Holder (1000712) has gained k_wuerna
+213 - Holder 1001286 - Primary title: d_wet has lost the title: d_wet
+213 - Title given to 1001286 - Primary title: k_wuerna
+213 - vassal: c_teral - Setting to vassal of d_rigavid in Validate Realm
+213 - Lost vassal: c_teral
+213 - vassal: c_kadila - Setting to vassal of d_rigavid in Validate Realm
+213 - Lost vassal: c_kadila
+213 - vassal: c_duerish - Setting to vassal of d_rigavid in Validate Realm
+213 - Lost vassal: c_duerish
+213 - vassal: c_ramolay - Setting to vassal of d_rigavid in Validate Realm
+213 - Lost vassal: c_ramolay
+214 - Destroyed due to flagged problem
+214 - Made independent
+214 - Title destroyed

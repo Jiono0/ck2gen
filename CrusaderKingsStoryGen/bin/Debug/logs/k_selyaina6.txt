@@ -1,0 +1,285 @@
+200 - Title given to 1001051
+200 - vassal: d_taleda - Holder 1001051 - Primary title: d_taleda has lost the title: d_taleda
+200 - sub vassal: d_taleda - Holder 1001051 - Primary title: d_taleda has lost the title: d_taleda
+200 - vassal: d_taleda - Title given to 1001051 - Primary title: k_selyaina
+200 - sub vassal: d_taleda - Title given to 1001051 - Primary title: k_selyaina
+200 - Holder (1001051) has gained d_taleda
+200 - sub vassal: c_tudako - Holder 1001051 - Primary title: c_tudako has lost the title: c_tudako
+200 - sub vassal: c_tudako - Title given to 1001051 - Primary title: k_selyaina
+200 - Holder (1001051) has gained c_tudako
+203 - vassal: d_kitar - Holder 1001051 - Primary title: d_kitar has lost the title: d_kitar
+203 - sub vassal: d_kitar - Holder 1001051 - Primary title: d_kitar has lost the title: d_kitar
+203 - vassal: d_kitar - Title given to 1001051 - Primary title: k_selyaina
+203 - sub vassal: d_kitar - Title given to 1001051 - Primary title: k_selyaina
+203 - Holder (1001051) has gained d_kitar
+203 - sub vassal: c_wegyamka - Holder 1001051 - Primary title: c_wegyamka has lost the title: c_wegyamka
+203 - sub vassal: c_wegyamka - Title given to 1001051 - Primary title: k_selyaina
+203 - Holder (1001051) has gained c_wegyamka
+203 - sub vassal: c_numahai - Holder 1001051 - Primary title: c_numahai has lost the title: c_numahai
+203 - sub vassal: c_numahai - Title given to 1001051 - Primary title: k_selyaina
+203 - Holder (1001051) has gained c_numahai
+205 - Holder 1000933 - Primary title: k_selyaina has lost the title: k_selyaina
+205 - Title given to 1000933 - Primary title: d_laneda
+205 - vassal: d_laneda - Holder (1000933) has gained k_selyaina
+205 - sub vassal: d_laneda - Holder (1000933) has gained k_selyaina
+205 - vassal: d_taleda - Holder 1000933 - Primary title: d_taleda has lost the title: d_taleda
+205 - sub vassal: d_taleda - Holder 1000933 - Primary title: d_taleda has lost the title: d_taleda
+205 - vassal: d_taleda - Title given to 1000933 - Primary title: k_selyaina
+205 - sub vassal: d_taleda - Title given to 1000933 - Primary title: k_selyaina
+205 - Holder (1000933) has gained d_taleda
+205 - sub vassal: c_tudako - Setting to vassal of d_kitar in Validate Realm
+205 - vassal: d_taleda - Lost vassal: c_tudako
+205 - sub vassal: d_taleda - Lost vassal: c_tudako
+205 - vassal: d_kitar - Gained vassal: c_tudako
+205 - sub vassal: d_kitar - Gained vassal: c_tudako
+205 - vassal: d_kitar - Holder 1000933 - Primary title: d_kitar has lost the title: c_tudako
+205 - sub vassal: d_kitar - Holder 1000933 - Primary title: d_kitar has lost the title: c_tudako
+205 - sub vassal: c_tudako - Title given to 1000933 - Primary title: k_selyaina
+205 - Holder (1000933) has gained c_tudako
+205 - sub vassal: c_tudako - Setting to vassal of k_selyaina in Validate Realm
+205 - vassal: d_kitar - Lost vassal: c_tudako
+205 - sub vassal: d_kitar - Lost vassal: c_tudako
+205 - Gained vassal: c_tudako
+205 - vassal: d_kitar - Holder 1000933 - Primary title: d_kitar has lost the title: d_kitar
+205 - sub vassal: d_kitar - Holder 1000933 - Primary title: d_kitar has lost the title: d_kitar
+205 - vassal: d_kitar - Title given to 1000933 - Primary title: k_selyaina
+205 - sub vassal: d_kitar - Title given to 1000933 - Primary title: k_selyaina
+205 - Holder (1000933) has gained d_kitar
+205 - sub vassal: c_wegyamka - Holder 1000933 - Primary title: c_wegyamka has lost the title: c_wegyamka
+205 - sub vassal: c_wegyamka - Title given to 1000933 - Primary title: k_selyaina
+205 - Holder (1000933) has gained c_wegyamka
+205 - sub vassal: c_numahai - Holder 1000933 - Primary title: c_numahai has lost the title: c_numahai
+205 - sub vassal: c_numahai - Title given to 1000933 - Primary title: k_selyaina
+205 - Holder (1000933) has gained c_numahai
+206 - sub vassal: c_wegyamka - Given to 1001915 in HandleTitles - Too many duke titles
+206 - Holder 1001915 - Primary title: k_selyaina has lost the title: c_wegyamka
+206 - sub vassal: c_wegyamka - Title given to 1001915
+206 - Holder 1001915 - Primary title: k_selyaina has lost the title: d_kitar
+206 - vassal: d_kitar - Title given to 1001915 - Primary title: c_wegyamka
+206 - sub vassal: d_kitar - Title given to 1001915 - Primary title: c_wegyamka
+206 - sub vassal: c_wegyamka - Holder (1001915) has gained d_kitar
+206 - sub vassal: c_numahai - Setting to vassal of k_selyaina in Validate Realm
+206 - vassal: d_kitar - Lost vassal: c_numahai
+206 - sub vassal: d_kitar - Lost vassal: c_numahai
+206 - Gained vassal: c_numahai
+206 - vassal: d_kitar - Too many dukes, given to dejure: k_selyaina
+206 - sub vassal: d_kitar - Too many dukes, given to dejure: k_selyaina
+211 - vassal: d_kitar - Holder 1002111 - Primary title: d_kitar has lost the title: d_kitar
+211 - sub vassal: d_kitar - Holder 1002111 - Primary title: d_kitar has lost the title: d_kitar
+211 - vassal: d_kitar - Title given to 1002111
+211 - sub vassal: d_kitar - Title given to 1002111
+211 - sub vassal: c_wegyamka - Holder 1002111 - Primary title: c_wegyamka has lost the title: c_wegyamka
+211 - sub vassal: c_wegyamka - Title given to 1002111 - Primary title: d_kitar
+211 - vassal: d_kitar - Holder (1002111) has gained c_wegyamka
+211 - sub vassal: d_kitar - Holder (1002111) has gained c_wegyamka
+217 - vassal: d_tutitar - Holder 1000933 - Primary title: d_tutitar has lost the title: d_tutitar
+217 - sub vassal: d_tutitar - Holder 1000933 - Primary title: d_tutitar has lost the title: d_tutitar
+217 - vassal: d_tutitar - Title given to 1000933 - Primary title: k_selyaina
+217 - sub vassal: d_tutitar - Title given to 1000933 - Primary title: k_selyaina
+217 - Holder (1000933) has gained d_tutitar
+217 - sub vassal: c_leati - Holder 1000933 - Primary title: c_leati has lost the title: c_leati
+217 - sub vassal: c_leati - Title given to 1000933 - Primary title: k_selyaina
+217 - Holder (1000933) has gained c_leati
+217 - sub vassal: c_ekumelka - Holder 1000933 - Primary title: c_ekumelka has lost the title: c_ekumelka
+217 - sub vassal: c_ekumelka - Title given to 1000933 - Primary title: k_selyaina
+217 - Holder (1000933) has gained c_ekumelka
+217 - sub vassal: c_lavitar - Holder 1000933 - Primary title: c_lavitar has lost the title: c_lavitar
+217 - sub vassal: c_lavitar - Title given to 1000933 - Primary title: k_selyaina
+217 - Holder (1000933) has gained c_lavitar
+217 - sub vassal: c_kimabet - Holder 1000933 - Primary title: c_kimabet has lost the title: c_kimabet
+217 - sub vassal: c_kimabet - Title given to 1000933 - Primary title: k_selyaina
+217 - Holder (1000933) has gained c_kimabet
+217 - sub vassal: c_alaleja - Given to 1002563 in HandleTitles - Too many duke titles
+217 - Holder 1002563 - Primary title: k_selyaina has lost the title: c_alaleja
+217 - sub vassal: c_alaleja - Title given to 1002563
+217 - Holder 1002563 - Primary title: k_selyaina has lost the title: d_laneda
+217 - vassal: d_laneda - Title given to 1002563 - Primary title: c_alaleja
+217 - sub vassal: d_laneda - Title given to 1002563 - Primary title: c_alaleja
+217 - sub vassal: c_alaleja - Holder (1002563) has gained d_laneda
+217 - sub vassal: c_rimunla - Setting to vassal of k_selyaina in Validate Realm
+217 - vassal: d_laneda - Lost vassal: c_rimunla
+217 - sub vassal: d_laneda - Lost vassal: c_rimunla
+217 - sub vassal: c_tutana - Setting to vassal of k_selyaina in Validate Realm
+217 - vassal: d_laneda - Lost vassal: c_tutana
+217 - sub vassal: d_laneda - Lost vassal: c_tutana
+217 - Gained vassal: c_tutana
+217 - Gained vassal: c_rimunla
+217 - vassal: d_laneda - Too many dukes, given to dejure: k_selyaina
+217 - sub vassal: d_laneda - Too many dukes, given to dejure: k_selyaina
+217 - Holder 1002564 - Primary title: k_selyaina has lost the title: c_lavitar
+217 - sub vassal: c_lavitar - Title given to 1002564
+217 - Holder 1002565 - Primary title: k_selyaina has lost the title: c_kimabet
+217 - sub vassal: c_kimabet - Title given to 1002565
+217 - Holder 1002566 - Primary title: k_selyaina has lost the title: c_leati
+217 - sub vassal: c_leati - Title given to 1002566
+228 - vassal: d_kitar - Holder 1003006 - Primary title: d_kitar has lost the title: d_kitar
+228 - sub vassal: d_kitar - Holder 1003006 - Primary title: d_kitar has lost the title: d_kitar
+228 - vassal: d_kitar - Title given to 1003006
+228 - sub vassal: d_kitar - Title given to 1003006
+228 - sub vassal: c_wegyamka - Holder 1003006 - Primary title: c_wegyamka has lost the title: c_wegyamka
+228 - sub vassal: c_wegyamka - Title given to 1003006 - Primary title: d_kitar
+228 - vassal: d_kitar - Holder (1003006) has gained c_wegyamka
+228 - sub vassal: d_kitar - Holder (1003006) has gained c_wegyamka
+232 - vassal: d_kitar - Holder 1000933 - Primary title: d_kitar has lost the title: d_kitar
+232 - sub vassal: d_kitar - Holder 1000933 - Primary title: d_kitar has lost the title: d_kitar
+232 - vassal: d_kitar - Title given to 1000933 - Primary title: k_selyaina
+232 - sub vassal: d_kitar - Title given to 1000933 - Primary title: k_selyaina
+232 - Holder (1000933) has gained d_kitar
+232 - sub vassal: c_wegyamka - Holder 1000933 - Primary title: c_wegyamka has lost the title: c_wegyamka
+232 - sub vassal: c_wegyamka - Title given to 1000933 - Primary title: k_selyaina
+232 - Holder (1000933) has gained c_wegyamka
+232 - sub vassal: c_lavitar - Given to 1003467 in HandleTitles - Too many duke titles
+232 - sub vassal: c_lavitar - Holder 1003467 - Primary title: c_lavitar has lost the title: c_lavitar
+232 - sub vassal: c_lavitar - Title given to 1003467
+232 - Holder 1003467 - Primary title: k_selyaina has lost the title: d_tutitar
+232 - vassal: d_tutitar - Title given to 1003467 - Primary title: c_lavitar
+232 - sub vassal: d_tutitar - Title given to 1003467 - Primary title: c_lavitar
+232 - sub vassal: c_lavitar - Holder (1003467) has gained d_tutitar
+232 - sub vassal: c_ekumelka - Setting to vassal of k_selyaina in Validate Realm
+232 - vassal: d_tutitar - Lost vassal: c_ekumelka
+232 - sub vassal: d_tutitar - Lost vassal: c_ekumelka
+232 - Gained vassal: c_ekumelka
+232 - vassal: d_tutitar - Too many dukes, given to dejure: k_selyaina
+232 - sub vassal: d_tutitar - Too many dukes, given to dejure: k_selyaina
+232 - Holder 1003468 - Primary title: k_selyaina has lost the title: c_rimunla
+232 - vassal: c_rimunla - Title given to 1003468
+232 - sub vassal: c_rimunla - Title given to 1003468
+236 - vassal: d_laneda - Holder 1003005 - Primary title: d_laneda has lost the title: d_laneda
+236 - sub vassal: d_laneda - Holder 1003005 - Primary title: d_laneda has lost the title: d_laneda
+236 - vassal: d_laneda - Title given to 1003005
+236 - sub vassal: d_laneda - Title given to 1003005
+236 - sub vassal: c_alaleja - Holder 1003005 - Primary title: c_alaleja has lost the title: c_alaleja
+236 - sub vassal: c_alaleja - Title given to 1003005 - Primary title: d_laneda
+236 - vassal: d_laneda - Holder (1003005) has gained c_alaleja
+236 - sub vassal: d_laneda - Holder (1003005) has gained c_alaleja
+236 - Holder 1001527 - Primary title: k_selyaina has lost the title: k_selyaina
+236 - Title given to 1001527
+236 - vassal: d_taleda - Holder 1001527 - Primary title: d_taleda has lost the title: d_taleda
+236 - sub vassal: d_taleda - Holder 1001527 - Primary title: d_taleda has lost the title: d_taleda
+236 - vassal: d_taleda - Title given to 1001527 - Primary title: k_selyaina
+236 - sub vassal: d_taleda - Title given to 1001527 - Primary title: k_selyaina
+236 - Holder (1001527) has gained d_taleda
+236 - vassal: c_ekumelka - Setting to vassal of d_kitar in Validate Realm
+236 - sub vassal: c_ekumelka - Setting to vassal of d_kitar in Validate Realm
+236 - Lost vassal: c_ekumelka
+236 - vassal: c_numahai - Setting to vassal of d_kitar in Validate Realm
+236 - sub vassal: c_numahai - Setting to vassal of d_kitar in Validate Realm
+236 - Lost vassal: c_numahai
+236 - vassal: c_tudako - Setting to vassal of d_kitar in Validate Realm
+236 - sub vassal: c_tudako - Setting to vassal of d_kitar in Validate Realm
+236 - Lost vassal: c_tudako
+236 - vassal: c_tutana - Setting to vassal of d_kitar in Validate Realm
+236 - sub vassal: c_tutana - Setting to vassal of d_kitar in Validate Realm
+236 - Lost vassal: c_tutana
+236 - vassal: d_kitar - Gained vassal: c_tutana
+236 - sub vassal: d_kitar - Gained vassal: c_tutana
+236 - vassal: d_kitar - Gained vassal: c_tudako
+236 - sub vassal: d_kitar - Gained vassal: c_tudako
+236 - vassal: d_kitar - Gained vassal: c_numahai
+236 - sub vassal: d_kitar - Gained vassal: c_numahai
+236 - vassal: d_kitar - Gained vassal: c_ekumelka
+236 - sub vassal: d_kitar - Gained vassal: c_ekumelka
+236 - vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: c_ekumelka
+236 - sub vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: c_ekumelka
+236 - sub vassal: c_ekumelka - Title given to 1001527 - Primary title: k_selyaina
+236 - Holder (1001527) has gained c_ekumelka
+236 - sub vassal: c_ekumelka - Setting to vassal of k_selyaina in Validate Realm
+236 - vassal: d_kitar - Lost vassal: c_ekumelka
+236 - sub vassal: d_kitar - Lost vassal: c_ekumelka
+236 - Gained vassal: c_ekumelka
+236 - vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: c_numahai
+236 - sub vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: c_numahai
+236 - sub vassal: c_numahai - Title given to 1001527 - Primary title: k_selyaina
+236 - Holder (1001527) has gained c_numahai
+236 - sub vassal: c_numahai - Setting to vassal of k_selyaina in Validate Realm
+236 - vassal: d_kitar - Lost vassal: c_numahai
+236 - sub vassal: d_kitar - Lost vassal: c_numahai
+236 - Gained vassal: c_numahai
+236 - vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: c_tudako
+236 - sub vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: c_tudako
+236 - sub vassal: c_tudako - Title given to 1001527 - Primary title: k_selyaina
+236 - Holder (1001527) has gained c_tudako
+236 - sub vassal: c_tudako - Setting to vassal of k_selyaina in Validate Realm
+236 - vassal: d_kitar - Lost vassal: c_tudako
+236 - sub vassal: d_kitar - Lost vassal: c_tudako
+236 - Gained vassal: c_tudako
+236 - vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: c_tutana
+236 - sub vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: c_tutana
+236 - sub vassal: c_tutana - Title given to 1001527 - Primary title: k_selyaina
+236 - Holder (1001527) has gained c_tutana
+236 - sub vassal: c_tutana - Setting to vassal of k_selyaina in Validate Realm
+236 - vassal: d_kitar - Lost vassal: c_tutana
+236 - sub vassal: d_kitar - Lost vassal: c_tutana
+236 - Gained vassal: c_tutana
+236 - vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: d_kitar
+236 - sub vassal: d_kitar - Holder 1001527 - Primary title: d_kitar has lost the title: d_kitar
+236 - vassal: d_kitar - Title given to 1001527 - Primary title: k_selyaina
+236 - sub vassal: d_kitar - Title given to 1001527 - Primary title: k_selyaina
+236 - Holder (1001527) has gained d_kitar
+236 - sub vassal: c_wegyamka - Holder 1001527 - Primary title: c_wegyamka has lost the title: c_wegyamka
+236 - sub vassal: c_wegyamka - Title given to 1001527 - Primary title: k_selyaina
+236 - Holder (1001527) has gained c_wegyamka
+244 - vassal: d_laneda - Holder 1001527 - Primary title: d_laneda has lost the title: d_laneda
+244 - sub vassal: d_laneda - Holder 1001527 - Primary title: d_laneda has lost the title: d_laneda
+244 - vassal: d_laneda - Title given to 1001527 - Primary title: k_selyaina
+244 - sub vassal: d_laneda - Title given to 1001527 - Primary title: k_selyaina
+244 - Holder (1001527) has gained d_laneda
+244 - sub vassal: c_alaleja - Holder 1001527 - Primary title: c_alaleja has lost the title: c_alaleja
+244 - sub vassal: c_alaleja - Title given to 1001527 - Primary title: k_selyaina
+244 - Holder (1001527) has gained c_alaleja
+244 - sub vassal: c_wegyamka - Given to 1004097 in HandleTitles - Too many duke titles
+244 - Holder 1004097 - Primary title: k_selyaina has lost the title: c_wegyamka
+244 - sub vassal: c_wegyamka - Title given to 1004097
+244 - Holder 1004097 - Primary title: k_selyaina has lost the title: d_kitar
+244 - vassal: d_kitar - Title given to 1004097 - Primary title: c_wegyamka
+244 - sub vassal: d_kitar - Title given to 1004097 - Primary title: c_wegyamka
+244 - sub vassal: c_wegyamka - Holder (1004097) has gained d_kitar
+244 - vassal: d_kitar - Too many dukes, given to dejure: k_selyaina
+244 - sub vassal: d_kitar - Too many dukes, given to dejure: k_selyaina
+262 - Holder 1005107 - Primary title: k_selyaina has lost the title: k_selyaina
+262 - Title given to 1005107
+262 - vassal: d_taleda - Holder 1005107 - Primary title: d_taleda has lost the title: d_taleda
+262 - sub vassal: d_taleda - Holder 1005107 - Primary title: d_taleda has lost the title: d_taleda
+262 - vassal: d_taleda - Title given to 1005107 - Primary title: k_selyaina
+262 - sub vassal: d_taleda - Title given to 1005107 - Primary title: k_selyaina
+262 - Holder (1005107) has gained d_taleda
+262 - vassal: c_ekumelka - Setting to vassal of d_laneda in Validate Realm
+262 - sub vassal: c_ekumelka - Setting to vassal of d_laneda in Validate Realm
+262 - Lost vassal: c_ekumelka
+262 - vassal: c_numahai - Setting to vassal of d_laneda in Validate Realm
+262 - sub vassal: c_numahai - Setting to vassal of d_laneda in Validate Realm
+262 - Lost vassal: c_numahai
+262 - vassal: c_tudako - Setting to vassal of d_laneda in Validate Realm
+262 - sub vassal: c_tudako - Setting to vassal of d_laneda in Validate Realm
+262 - Lost vassal: c_tudako
+262 - vassal: c_tutana - Setting to vassal of d_laneda in Validate Realm
+262 - sub vassal: c_tutana - Setting to vassal of d_laneda in Validate Realm
+262 - Lost vassal: c_tutana
+262 - vassal: d_laneda - Gained vassal: c_tutana
+262 - sub vassal: d_laneda - Gained vassal: c_tutana
+262 - vassal: d_laneda - Gained vassal: c_tudako
+262 - sub vassal: d_laneda - Gained vassal: c_tudako
+262 - vassal: d_laneda - Gained vassal: c_numahai
+262 - sub vassal: d_laneda - Gained vassal: c_numahai
+262 - vassal: d_laneda - Gained vassal: c_ekumelka
+262 - sub vassal: d_laneda - Gained vassal: c_ekumelka
+262 - vassal: d_laneda - Holder 1005107 - Primary title: d_laneda has lost the title: d_laneda
+262 - sub vassal: d_laneda - Holder 1005107 - Primary title: d_laneda has lost the title: d_laneda
+262 - vassal: d_laneda - Title given to 1005107 - Primary title: k_selyaina
+262 - sub vassal: d_laneda - Title given to 1005107 - Primary title: k_selyaina
+262 - Holder (1005107) has gained d_laneda
+262 - sub vassal: c_alaleja - Holder 1005107 - Primary title: c_alaleja has lost the title: c_alaleja
+262 - sub vassal: c_alaleja - Title given to 1005107 - Primary title: k_selyaina
+262 - Holder (1005107) has gained c_alaleja
+262 - sub vassal: c_ekumelka - Holder 1005107 - Primary title: c_ekumelka has lost the title: c_ekumelka
+262 - sub vassal: c_ekumelka - Title given to 1005107 - Primary title: k_selyaina
+262 - Holder (1005107) has gained c_ekumelka
+262 - sub vassal: c_numahai - Holder 1005107 - Primary title: c_numahai has lost the title: c_numahai
+262 - sub vassal: c_numahai - Title given to 1005107 - Primary title: k_selyaina
+262 - Holder (1005107) has gained c_numahai
+262 - sub vassal: c_tudako - Holder 1005107 - Primary title: c_tudako has lost the title: c_tudako
+262 - sub vassal: c_tudako - Title given to 1005107 - Primary title: k_selyaina
+262 - Holder (1005107) has gained c_tudako
+262 - sub vassal: c_tutana - Holder 1005107 - Primary title: c_tutana has lost the title: c_tutana
+262 - sub vassal: c_tutana - Title given to 1005107 - Primary title: k_selyaina
+262 - Holder (1005107) has gained c_tutana

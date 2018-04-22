@@ -1,0 +1,236 @@
+200 - Title given to 1000951
+200 - vassal: c_anayan - Holder 1000951 - Primary title: c_anayan has lost the title: c_anayan
+200 - sub vassal: c_anayan - Holder 1000951 - Primary title: c_anayan has lost the title: c_anayan
+200 - vassal: c_anayan - Title given to 1000951 - Primary title: d_kinako
+200 - sub vassal: c_anayan - Title given to 1000951 - Primary title: d_kinako
+200 - Holder (1000951) has gained c_anayan
+200 - vassal: c_niniel - Holder 1000951 - Primary title: c_niniel has lost the title: c_niniel
+200 - sub vassal: c_niniel - Holder 1000951 - Primary title: c_niniel has lost the title: c_niniel
+200 - vassal: c_niniel - Title given to 1000951 - Primary title: d_kinako
+200 - sub vassal: c_niniel - Title given to 1000951 - Primary title: d_kinako
+200 - Holder (1000951) has gained c_niniel
+200 - vassal: c_rarurgen - Holder 1000951 - Primary title: c_rarurgen has lost the title: c_riliel
+200 - sub vassal: c_rarurgen - Holder 1000951 - Primary title: c_rarurgen has lost the title: c_riliel
+200 - vassal: c_riliel - Title given to 1000951 - Primary title: d_kinako
+200 - sub vassal: c_riliel - Title given to 1000951 - Primary title: d_kinako
+200 - Holder (1000951) has gained c_riliel
+200 - vassal: c_enizi - Holder 1000951 - Primary title: c_enizi has lost the title: c_enizi
+200 - sub vassal: c_enizi - Holder 1000951 - Primary title: c_enizi has lost the title: c_enizi
+200 - vassal: c_enizi - Title given to 1000951 - Primary title: d_kinako
+200 - sub vassal: c_enizi - Title given to 1000951 - Primary title: d_kinako
+200 - Holder (1000951) has gained c_enizi
+200 - vassal: c_rarurgen - Holder 1000951 - Primary title: c_rarurgen has lost the title: c_rarurgen
+200 - sub vassal: c_rarurgen - Holder 1000951 - Primary title: c_rarurgen has lost the title: c_rarurgen
+200 - vassal: c_rarurgen - Title given to 1000951 - Primary title: d_kinako
+200 - sub vassal: c_rarurgen - Title given to 1000951 - Primary title: d_kinako
+200 - Holder (1000951) has gained c_rarurgen
+200 - Holder 1001052 - Primary title: d_kinako has lost the title: d_kinako
+200 - Title given to 1001052 - Primary title: k_nauini
+200 - vassal: c_enizi - Made vassal of neighbour (d_nane) due to being a seperate island
+200 - Lost vassal: c_enizi
+200 - vassal: c_anayan - Holder 1001411 - Primary title: c_anayan has lost the title: c_enizi
+200 - vassal: c_anayan - Made vassal of neighbour (d_nane) due to being a seperate island
+200 - Lost vassal: c_anayan
+200 - vassal: c_niniel - Setting independent in Validate Realm
+200 - vassal: c_niniel - Made independent
+200 - vassal: c_riliel - Setting independent in Validate Realm
+200 - vassal: c_riliel - Made independent
+200 - vassal: c_rarurgen - Setting independent in Validate Realm
+200 - vassal: c_rarurgen - Made independent
+200 - Gained vassal: c_tetina
+200 - Holder 1000465 - Primary title: d_kinako has lost the title: d_kinako
+200 - Title given to 1000465 - Primary title: k_nauini
+200 - vassal: c_tetina - Setting to vassal of d_echesari in Validate Realm
+200 - Lost vassal: c_tetina
+201 - Destroyed due to flagged problem
+201 - Made independent
+201 - Title destroyed
+207 - Given to 1001411 in TestCreateEmpire
+207 - Title given to 1001411 - Primary title: d_nane
+207 - Made independent for title creation d_kinako for d_nane
+207 - Gained vassal: c_ranily
+207 - Gained vassal: c_enizi
+207 - Gained vassal: c_anayan
+207 - Gained vassal: c_rarurgen
+209 - Holder 1002191 - Primary title: d_kinako has lost the title: d_kinako
+209 - Title given to 1002191 - Primary title: d_nane
+209 - vassal: c_ranily - Holder 1002191 - Primary title: c_ranily has lost the title: c_dahounu
+214 - vassal: c_ranily - Holder 1002191 - Primary title: c_ranily has lost the title: c_ranily
+214 - vassal: c_ranily - Title given to 1002191 - Primary title: d_nane
+214 - vassal: c_enizi - Holder 1002191 - Primary title: c_enizi has lost the title: c_enizi
+214 - vassal: c_enizi - Title given to 1002191 - Primary title: d_nane
+214 - vassal: c_anayan - Holder 1002191 - Primary title: c_anayan has lost the title: c_anayan
+214 - vassal: c_anayan - Title given to 1002191 - Primary title: d_nane
+214 - vassal: c_rarurgen - Holder 1002191 - Primary title: c_rarurgen has lost the title: c_rarurgen
+214 - vassal: c_rarurgen - Title given to 1002191 - Primary title: d_nane
+252 - Holder 1002588 - Primary title: d_kinako has lost the title: d_kinako
+252 - Title given to 1002588
+252 - Holder (1002588) has gained d_nane
+252 - vassal: c_rarurgen - Holder 1002588 - Primary title: c_rarurgen has lost the title: c_rarurgen
+252 - sub vassal: c_rarurgen - Holder 1002588 - Primary title: c_rarurgen has lost the title: c_rarurgen
+252 - vassal: c_rarurgen - Title given to 1002588 - Primary title: d_kinako
+252 - sub vassal: c_rarurgen - Title given to 1002588 - Primary title: d_kinako
+252 - Holder (1002588) has gained c_rarurgen
+252 - sub vassal: c_dahounu - Setting independent in Validate Realm
+252 - sub vassal: c_dahounu - Made independent
+252 - vassal: c_anayan - Holder 1002588 - Primary title: c_anayan has lost the title: c_anayan
+252 - sub vassal: c_anayan - Holder 1002588 - Primary title: c_anayan has lost the title: c_anayan
+252 - vassal: c_anayan - Title given to 1002588 - Primary title: d_kinako
+252 - sub vassal: c_anayan - Title given to 1002588 - Primary title: d_kinako
+252 - Holder (1002588) has gained c_anayan
+252 - vassal: c_enizi - Holder 1002588 - Primary title: c_enizi has lost the title: c_enizi
+252 - sub vassal: c_enizi - Holder 1002588 - Primary title: c_enizi has lost the title: c_enizi
+252 - vassal: c_enizi - Title given to 1002588 - Primary title: d_kinako
+252 - sub vassal: c_enizi - Title given to 1002588 - Primary title: d_kinako
+252 - Holder (1002588) has gained c_enizi
+252 - vassal: c_ranily - Holder 1002588 - Primary title: c_ranily has lost the title: c_ranily
+252 - sub vassal: c_ranily - Holder 1002588 - Primary title: c_ranily has lost the title: c_ranily
+252 - vassal: c_ranily - Title given to 1002588 - Primary title: d_kinako
+252 - sub vassal: c_ranily - Title given to 1002588 - Primary title: d_kinako
+252 - Holder (1002588) has gained c_ranily
+252 - Holder (1002588) has gained c_dahounu
+267 - Holder 1004951 - Primary title: d_kinako has lost the title: d_kinako
+267 - Title given to 1004951
+267 - Holder (1004951) has gained d_nane
+267 - Holder (1004951) has gained c_dahounu
+267 - vassal: c_ranily - Holder 1004951 - Primary title: c_ranily has lost the title: c_ranily
+267 - sub vassal: c_ranily - Holder 1004951 - Primary title: c_ranily has lost the title: c_ranily
+267 - vassal: c_ranily - Title given to 1004951 - Primary title: d_kinako
+267 - sub vassal: c_ranily - Title given to 1004951 - Primary title: d_kinako
+267 - Holder (1004951) has gained c_ranily
+267 - vassal: c_enizi - Holder 1004951 - Primary title: c_enizi has lost the title: c_enizi
+267 - sub vassal: c_enizi - Holder 1004951 - Primary title: c_enizi has lost the title: c_enizi
+267 - vassal: c_enizi - Title given to 1004951 - Primary title: d_kinako
+267 - sub vassal: c_enizi - Title given to 1004951 - Primary title: d_kinako
+267 - Holder (1004951) has gained c_enizi
+267 - vassal: c_anayan - Holder 1004951 - Primary title: c_anayan has lost the title: c_anayan
+267 - sub vassal: c_anayan - Holder 1004951 - Primary title: c_anayan has lost the title: c_anayan
+267 - vassal: c_anayan - Title given to 1004951 - Primary title: d_kinako
+267 - sub vassal: c_anayan - Title given to 1004951 - Primary title: d_kinako
+267 - Holder (1004951) has gained c_anayan
+267 - vassal: c_rarurgen - Holder 1004951 - Primary title: c_rarurgen has lost the title: c_rarurgen
+267 - sub vassal: c_rarurgen - Holder 1004951 - Primary title: c_rarurgen has lost the title: c_rarurgen
+267 - vassal: c_rarurgen - Title given to 1004951 - Primary title: d_kinako
+267 - sub vassal: c_rarurgen - Title given to 1004951 - Primary title: d_kinako
+267 - Holder (1004951) has gained c_rarurgen
+286 - Holder 1006775 - Primary title: d_kinako has lost the title: d_kinako
+286 - Title given to 1006775
+286 - Holder (1006775) has gained d_nane
+286 - vassal: c_rarurgen - Holder 1006775 - Primary title: c_rarurgen has lost the title: c_rarurgen
+286 - sub vassal: c_rarurgen - Holder 1006775 - Primary title: c_rarurgen has lost the title: c_rarurgen
+286 - vassal: c_rarurgen - Title given to 1006775 - Primary title: d_kinako
+286 - sub vassal: c_rarurgen - Title given to 1006775 - Primary title: d_kinako
+286 - Holder (1006775) has gained c_rarurgen
+286 - vassal: c_anayan - Holder 1006775 - Primary title: c_anayan has lost the title: c_anayan
+286 - sub vassal: c_anayan - Holder 1006775 - Primary title: c_anayan has lost the title: c_anayan
+286 - vassal: c_anayan - Title given to 1006775 - Primary title: d_kinako
+286 - sub vassal: c_anayan - Title given to 1006775 - Primary title: d_kinako
+286 - Holder (1006775) has gained c_anayan
+286 - vassal: c_enizi - Holder 1006775 - Primary title: c_enizi has lost the title: c_enizi
+286 - sub vassal: c_enizi - Holder 1006775 - Primary title: c_enizi has lost the title: c_enizi
+286 - vassal: c_enizi - Title given to 1006775 - Primary title: d_kinako
+286 - sub vassal: c_enizi - Title given to 1006775 - Primary title: d_kinako
+286 - Holder (1006775) has gained c_enizi
+286 - vassal: c_ranily - Holder 1006775 - Primary title: c_ranily has lost the title: c_ranily
+286 - sub vassal: c_ranily - Holder 1006775 - Primary title: c_ranily has lost the title: c_ranily
+286 - vassal: c_ranily - Title given to 1006775 - Primary title: d_kinako
+286 - sub vassal: c_ranily - Title given to 1006775 - Primary title: d_kinako
+286 - Holder (1006775) has gained c_ranily
+286 - Holder (1006775) has gained c_dahounu
+300 - sub vassal: c_niniel - Holder 1006775 - Primary title: c_niniel has lost the title: c_niniel
+300 - sub vassal: c_niniel - Title given to 1006775 - Primary title: d_kinako
+300 - Holder (1006775) has gained c_niniel
+300 - Holder (1006775) has gained c_riliel
+300 - Holder 1007609 - Primary title: d_kinako has lost the title: c_riliel
+300 - Gained vassal: c_riliel
+300 - Holder 1004395 - Primary title: d_kinako has lost the title: c_dahounu
+300 - Gained vassal: c_dahounu
+333 - Holder 1007382 - Primary title: d_kinako has lost the title: d_kinako
+333 - Title given to 1007382
+333 - Holder (1007382) has gained d_nane
+333 - vassal: c_rarurgen - Holder 1007382 - Primary title: c_rarurgen has lost the title: c_rarurgen
+333 - sub vassal: c_rarurgen - Holder 1007382 - Primary title: c_rarurgen has lost the title: c_rarurgen
+333 - vassal: c_rarurgen - Title given to 1007382 - Primary title: d_kinako
+333 - sub vassal: c_rarurgen - Title given to 1007382 - Primary title: d_kinako
+333 - Holder (1007382) has gained c_rarurgen
+333 - sub vassal: c_niniel - Setting independent in Validate Realm
+333 - sub vassal: c_niniel - Made independent
+333 - vassal: c_anayan - Holder 1007382 - Primary title: c_anayan has lost the title: c_anayan
+333 - sub vassal: c_anayan - Holder 1007382 - Primary title: c_anayan has lost the title: c_anayan
+333 - vassal: c_anayan - Title given to 1007382 - Primary title: d_kinako
+333 - sub vassal: c_anayan - Title given to 1007382 - Primary title: d_kinako
+333 - Holder (1007382) has gained c_anayan
+333 - vassal: c_enizi - Holder 1007382 - Primary title: c_enizi has lost the title: c_enizi
+333 - sub vassal: c_enizi - Holder 1007382 - Primary title: c_enizi has lost the title: c_enizi
+333 - vassal: c_enizi - Title given to 1007382 - Primary title: d_kinako
+333 - sub vassal: c_enizi - Title given to 1007382 - Primary title: d_kinako
+333 - Holder (1007382) has gained c_enizi
+333 - vassal: c_ranily - Holder 1007382 - Primary title: c_ranily has lost the title: c_ranily
+333 - sub vassal: c_ranily - Holder 1007382 - Primary title: c_ranily has lost the title: c_ranily
+333 - vassal: c_ranily - Title given to 1007382 - Primary title: d_kinako
+333 - sub vassal: c_ranily - Title given to 1007382 - Primary title: d_kinako
+333 - Holder (1007382) has gained c_ranily
+333 - Holder (1007382) has gained c_niniel
+351 - Holder 1009693 - Primary title: d_kinako has lost the title: d_kinako
+351 - Title given to 1009693
+351 - Holder (1009693) has gained c_niniel
+351 - vassal: c_ranily - Holder 1009693 - Primary title: c_ranily has lost the title: c_ranily
+351 - sub vassal: c_ranily - Holder 1009693 - Primary title: c_ranily has lost the title: c_ranily
+351 - vassal: c_ranily - Title given to 1009693 - Primary title: d_kinako
+351 - sub vassal: c_ranily - Title given to 1009693 - Primary title: d_kinako
+351 - Holder (1009693) has gained c_ranily
+351 - vassal: c_enizi - Holder 1009693 - Primary title: c_enizi has lost the title: c_enizi
+351 - sub vassal: c_enizi - Holder 1009693 - Primary title: c_enizi has lost the title: c_enizi
+351 - vassal: c_enizi - Title given to 1009693 - Primary title: d_kinako
+351 - sub vassal: c_enizi - Title given to 1009693 - Primary title: d_kinako
+351 - Holder (1009693) has gained c_enizi
+351 - vassal: c_anayan - Holder 1009693 - Primary title: c_anayan has lost the title: c_anayan
+351 - sub vassal: c_anayan - Holder 1009693 - Primary title: c_anayan has lost the title: c_anayan
+351 - vassal: c_anayan - Title given to 1009693 - Primary title: d_kinako
+351 - sub vassal: c_anayan - Title given to 1009693 - Primary title: d_kinako
+351 - Holder (1009693) has gained c_anayan
+351 - vassal: c_rarurgen - Holder 1009693 - Primary title: c_rarurgen has lost the title: c_rarurgen
+351 - sub vassal: c_rarurgen - Holder 1009693 - Primary title: c_rarurgen has lost the title: c_rarurgen
+351 - vassal: c_rarurgen - Title given to 1009693 - Primary title: d_kinako
+351 - sub vassal: c_rarurgen - Title given to 1009693 - Primary title: d_kinako
+351 - Holder (1009693) has gained c_rarurgen
+369 - Holder (1009693) has gained d_nane
+369 - vassal: c_rarurgen - Set liege on title creation d_nane
+369 - sub vassal: c_rarurgen - Set liege on title creation d_nane
+369 - Lost vassal: c_rarurgen
+369 - vassal: c_anayan - Set liege on title creation d_nane
+369 - sub vassal: c_anayan - Set liege on title creation d_nane
+369 - Lost vassal: c_anayan
+369 - vassal: c_enizi - Set liege on title creation d_nane
+369 - sub vassal: c_enizi - Set liege on title creation d_nane
+369 - Lost vassal: c_enizi
+369 - vassal: c_ranily - Set liege on title creation d_nane
+369 - sub vassal: c_ranily - Set liege on title creation d_nane
+369 - Lost vassal: c_ranily
+369 - vassal: c_dahounu - Holder 1009693 - Primary title: c_dahounu has lost the title: c_dahounu
+369 - sub vassal: c_dahounu - Holder 1009693 - Primary title: c_dahounu has lost the title: c_dahounu
+369 - vassal: c_dahounu - Title given to 1009693 - Primary title: d_kinako
+369 - sub vassal: c_dahounu - Title given to 1009693 - Primary title: d_kinako
+369 - Holder (1009693) has gained c_dahounu
+370 - Holder 1011296 - Primary title: d_kinako has lost the title: c_niniel
+370 - sub vassal: c_niniel - Title given to 1011296
+399 - Holder 1011941 - Primary title: d_kinako has lost the title: d_kinako
+399 - Title given to 1011941
+399 - Holder (1011941) has gained d_nane
+399 - vassal: c_dahounu - Holder 1011941 - Primary title: c_dahounu has lost the title: c_dahounu
+399 - sub vassal: c_dahounu - Holder 1011941 - Primary title: c_dahounu has lost the title: c_dahounu
+399 - vassal: c_dahounu - Title given to 1011941 - Primary title: d_kinako
+399 - sub vassal: c_dahounu - Title given to 1011941 - Primary title: d_kinako
+399 - Holder (1011941) has gained c_dahounu
+399 - sub vassal: c_ranily - Holder 1011941 - Primary title: c_ranily has lost the title: c_ranily
+399 - sub vassal: c_ranily - Title given to 1011941 - Primary title: d_kinako
+399 - Holder (1011941) has gained c_ranily
+399 - sub vassal: c_enizi - Holder 1011941 - Primary title: c_enizi has lost the title: c_enizi
+399 - sub vassal: c_enizi - Title given to 1011941 - Primary title: d_kinako
+399 - Holder (1011941) has gained c_enizi
+399 - sub vassal: c_anayan - Holder 1011941 - Primary title: c_anayan has lost the title: c_anayan
+399 - sub vassal: c_anayan - Title given to 1011941 - Primary title: d_kinako
+399 - Holder (1011941) has gained c_anayan
+399 - sub vassal: c_rarurgen - Holder 1011941 - Primary title: c_rarurgen has lost the title: c_rarurgen
+399 - sub vassal: c_rarurgen - Title given to 1011941 - Primary title: d_kinako
+399 - Holder (1011941) has gained c_rarurgen

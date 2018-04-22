@@ -1,0 +1,60 @@
+200 - Title given to 1000940
+200 - vassal: c_numahai - Holder 1000940 - Primary title: c_numahai has lost the title: c_numahai
+200 - sub vassal: c_numahai - Holder 1000940 - Primary title: c_numahai has lost the title: c_numahai
+200 - vassal: c_numahai - Title given to 1000940 - Primary title: d_kitar
+200 - sub vassal: c_numahai - Title given to 1000940 - Primary title: d_kitar
+200 - Holder (1000940) has gained c_numahai
+200 - vassal: c_wegyamka - Holder 1000940 - Primary title: c_wegyamka has lost the title: c_wegyamka
+200 - sub vassal: c_wegyamka - Holder 1000940 - Primary title: c_wegyamka has lost the title: c_wegyamka
+200 - vassal: c_wegyamka - Title given to 1000940 - Primary title: d_kitar
+200 - sub vassal: c_wegyamka - Title given to 1000940 - Primary title: d_kitar
+200 - Holder (1000940) has gained c_wegyamka
+203 - Holder 1001051 - Primary title: d_kitar has lost the title: d_kitar
+203 - Title given to 1001051 - Primary title: k_selyaina
+203 - vassal: c_wegyamka - Holder 1001051 - Primary title: c_wegyamka has lost the title: c_wegyamka
+203 - vassal: c_wegyamka - Title given to 1001051 - Primary title: k_selyaina
+203 - vassal: c_numahai - Holder 1001051 - Primary title: c_numahai has lost the title: c_numahai
+203 - vassal: c_numahai - Title given to 1001051 - Primary title: k_selyaina
+205 - Gained vassal: c_tudako
+205 - Holder 1000933 - Primary title: d_kitar has lost the title: c_tudako
+205 - vassal: c_tudako - Title given to 1000933 - Primary title: k_selyaina
+205 - vassal: c_tudako - Setting to vassal of k_selyaina in Validate Realm
+205 - Lost vassal: c_tudako
+205 - Holder 1000933 - Primary title: d_kitar has lost the title: d_kitar
+205 - Title given to 1000933 - Primary title: k_selyaina
+205 - vassal: c_wegyamka - Holder 1000933 - Primary title: c_wegyamka has lost the title: c_wegyamka
+205 - vassal: c_wegyamka - Title given to 1000933 - Primary title: k_selyaina
+205 - vassal: c_numahai - Holder 1000933 - Primary title: c_numahai has lost the title: c_numahai
+205 - vassal: c_numahai - Title given to 1000933 - Primary title: k_selyaina
+206 - vassal: c_wegyamka - Given to 1001915 in HandleTitles - Too many duke titles
+206 - vassal: c_wegyamka - Title given to 1001915
+206 - Title given to 1001915 - Primary title: c_wegyamka
+206 - vassal: c_wegyamka - Holder (1001915) has gained d_kitar
+206 - vassal: c_numahai - Setting to vassal of k_selyaina in Validate Realm
+206 - Lost vassal: c_numahai
+206 - Too many dukes, given to dejure: k_selyaina
+211 - Holder 1002111 - Primary title: d_kitar has lost the title: d_kitar
+211 - Title given to 1002111
+211 - vassal: c_wegyamka - Holder 1002111 - Primary title: c_wegyamka has lost the title: c_wegyamka
+211 - vassal: c_wegyamka - Title given to 1002111 - Primary title: d_kitar
+211 - Holder (1002111) has gained c_wegyamka
+228 - Holder 1003006 - Primary title: d_kitar has lost the title: d_kitar
+228 - Title given to 1003006
+228 - vassal: c_wegyamka - Holder 1003006 - Primary title: c_wegyamka has lost the title: c_wegyamka
+228 - vassal: c_wegyamka - Title given to 1003006 - Primary title: d_kitar
+228 - Holder (1003006) has gained c_wegyamka
+232 - Holder 1000933 - Primary title: d_kitar has lost the title: d_kitar
+232 - Title given to 1000933 - Primary title: k_selyaina
+232 - vassal: c_wegyamka - Holder 1000933 - Primary title: c_wegyamka has lost the title: c_wegyamka
+232 - vassal: c_wegyamka - Title given to 1000933 - Primary title: k_selyaina
+236 - Gained vassal: c_tutana
+236 - Gained vassal: c_tudako
+236 - Gained vassal: c_numahai
+236 - Gained vassal: c_ekumelka
+236 - Holder 1001527 - Primary title: d_kitar has lost the title: c_ekumelka
+236 - vassal: c_ekumelka - Title given to 1001527 - Primary title: k_selyaina
+236 - vassal: c_ekumelka - Setting to vassal of k_selyaina in Validate Realm
+236 - Lost vassal: c_ekumelka
+236 - Holder 1001527 - Primary title: d_kitar has lost the title: c_numahai
+236 - vassal: c_numahai - Title given to 1001527 - Primary title: k_selyaina
+236 - vassal: c_numahai - Setting to vassal of k_

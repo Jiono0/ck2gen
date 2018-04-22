@@ -1,0 +1,1001 @@
+200 - Title given to 1001062
+200 - vassal: d_rabodar - Holder 1001062 - Primary title: d_rabodar has lost the title: d_rabodar
+200 - sub vassal: d_rabodar - Holder 1001062 - Primary title: d_rabodar has lost the title: d_rabodar
+200 - vassal: d_rabodar - Title given to 1001062 - Primary title: k_tatyan
+200 - sub vassal: d_rabodar - Title given to 1001062 - Primary title: k_tatyan
+200 - Holder (1001062) has gained d_rabodar
+200 - vassal: d_tariel - Holder 1001062 - Primary title: d_tariel has lost the title: d_tariel
+200 - sub vassal: d_tariel - Holder 1001062 - Primary title: d_tariel has lost the title: d_tariel
+200 - vassal: d_tariel - Title given to 1001062 - Primary title: k_tatyan
+200 - sub vassal: d_tariel - Title given to 1001062 - Primary title: k_tatyan
+200 - Holder (1001062) has gained d_tariel
+200 - sub vassal: c_emaijyan - Holder 1001062 - Primary title: c_emaijyan has lost the title: c_emaijyan
+200 - sub vassal: c_emaijyan - Title given to 1001062 - Primary title: k_tatyan
+200 - Holder (1001062) has gained c_emaijyan
+220 - vassal: d_alyo - Holder 1000830 - Primary title: d_alyo has lost the title: d_alyo
+220 - sub vassal: d_alyo - Holder 1000830 - Primary title: d_alyo has lost the title: d_alyo
+220 - vassal: d_alyo - Title given to 1000830 - Primary title: d_sucarak
+220 - sub vassal: d_alyo - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: d_sucarak - Holder (1000830) has gained d_alyo
+220 - sub vassal: d_sucarak - Holder (1000830) has gained d_alyo
+220 - sub vassal: c_avor - Holder 1000830 - Primary title: c_avor has lost the title: c_avor
+220 - sub vassal: c_avor - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: d_sucarak - Holder (1000830) has gained c_avor
+220 - sub vassal: d_sucarak - Holder (1000830) has gained c_avor
+220 - sub vassal: c_elyoti - Holder 1000830 - Primary title: c_elyoti has lost the title: c_elyoti
+220 - sub vassal: c_elyoti - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: d_sucarak - Holder (1000830) has gained c_elyoti
+220 - sub vassal: d_sucarak - Holder (1000830) has gained c_elyoti
+220 - sub vassal: c_benopti - Holder 1000830 - Primary title: c_benopti has lost the title: c_benopti
+220 - sub vassal: c_benopti - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: d_sucarak - Holder (1000830) has gained c_benopti
+220 - sub vassal: d_sucarak - Holder (1000830) has gained c_benopti
+220 - sub vassal: c_estarak - Holder 1000830 - Primary title: c_estarak has lost the title: c_estarak
+220 - sub vassal: c_estarak - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: d_sucarak - Holder (1000830) has gained c_estarak
+220 - sub vassal: d_sucarak - Holder (1000830) has gained c_estarak
+220 - sub vassal: c_rahizhi - Holder 1000830 - Primary title: c_rahizhi has lost the title: c_rahizhi
+220 - sub vassal: c_rahizhi - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: d_sucarak - Holder (1000830) has gained c_rahizhi
+220 - sub vassal: d_sucarak - Holder (1000830) has gained c_rahizhi
+220 - Holder 1000792 - Primary title: k_tatyan has lost the title: k_tatyan
+220 - Title given to 1000792 - Primary title: d_kucexiu
+220 - vassal: d_kucexiu - Holder (1000792) has gained k_tatyan
+220 - sub vassal: d_kucexiu - Holder (1000792) has gained k_tatyan
+220 - vassal: d_rabodar - Holder 1000792 - Primary title: d_rabodar has lost the title: d_rabodar
+220 - sub vassal: d_rabodar - Holder 1000792 - Primary title: d_rabodar has lost the title: d_rabodar
+220 - vassal: d_rabodar - Title given to 1000792 - Primary title: k_tatyan
+220 - sub vassal: d_rabodar - Title given to 1000792 - Primary title: k_tatyan
+220 - Holder (1000792) has gained d_rabodar
+220 - sub vassal: c_emaijyan - Setting to vassal of d_tariel in Validate Realm
+220 - vassal: d_rabodar - Lost vassal: c_emaijyan
+220 - sub vassal: d_rabodar - Lost vassal: c_emaijyan
+220 - vassal: d_tariel - Gained vassal: c_emaijyan
+220 - sub vassal: d_tariel - Gained vassal: c_emaijyan
+220 - vassal: d_tariel - Holder 1000792 - Primary title: d_tariel has lost the title: d_tariel
+220 - sub vassal: d_tariel - Holder 1000792 - Primary title: d_tariel has lost the title: d_tariel
+220 - vassal: d_tariel - Title given to 1000792 - Primary title: k_tatyan
+220 - sub vassal: d_tariel - Title given to 1000792 - Primary title: k_tatyan
+220 - Holder (1000792) has gained d_tariel
+220 - sub vassal: c_emaijyan - Holder 1000792 - Primary title: c_emaijyan has lost the title: c_emaijyan
+220 - sub vassal: c_emaijyan - Title given to 1000792 - Primary title: k_tatyan
+220 - Holder (1000792) has gained c_emaijyan
+221 - vassal: d_alyo - Holder 1002880 - Primary title: d_alyo has lost the title: c_natilek
+221 - sub vassal: d_alyo - Holder 1002880 - Primary title: d_alyo has lost the title: c_natilek
+221 - sub vassal: c_natilek - Title given to 1002880
+221 - vassal: d_alyo - Holder 1002881 - Primary title: d_alyo has lost the title: c_byiu
+221 - sub vassal: d_alyo - Holder 1002881 - Primary title: d_alyo has lost the title: c_byiu
+221 - sub vassal: c_byiu - Title given to 1002881
+221 - vassal: d_alyo - Holder 1002882 - Primary title: d_alyo has lost the title: c_evayan
+221 - sub vassal: d_alyo - Holder 1002882 - Primary title: d_alyo has lost the title: c_evayan
+221 - sub vassal: c_evayan - Title given to 1002882
+221 - vassal: d_alyo - Holder 1002883 - Primary title: d_alyo has lost the title: c_dahor
+221 - sub vassal: d_alyo - Holder 1002883 - Primary title: d_alyo has lost the title: c_dahor
+221 - sub vassal: c_dahor - Title given to 1002883
+221 - sub vassal: c_emaijyan - Given to 1002893 in HandleTitles - Too many duke titles
+221 - Holder 1002893 - Primary title: k_tatyan has lost the title: c_emaijyan
+221 - sub vassal: c_emaijyan - Title given to 1002893
+221 - Holder 1002893 - Primary title: k_tatyan has lost the title: d_tariel
+221 - vassal: d_tariel - Title given to 1002893 - Primary title: c_emaijyan
+221 - sub vassal: d_tariel - Title given to 1002893 - Primary title: c_emaijyan
+221 - sub vassal: c_emaijyan - Holder (1002893) has gained d_tariel
+221 - vassal: d_tariel - Too many dukes, given to dejure: k_tatyan
+221 - sub vassal: d_tariel - Too many dukes, given to dejure: k_tatyan
+224 - vassal: d_alyo - Holder 1001823 - Primary title: d_alyo has lost the title: d_sucarak
+224 - sub vassal: d_alyo - Holder 1001823 - Primary title: d_alyo has lost the title: d_sucarak
+224 - vassal: d_sucarak - Title given to 1001823
+224 - sub vassal: d_sucarak - Title given to 1001823
+224 - vassal: d_alyo - Holder 1001823 - Primary title: d_alyo has lost the title: d_alyo
+224 - sub vassal: d_alyo - Holder 1001823 - Primary title: d_alyo has lost the title: d_alyo
+224 - vassal: d_alyo - Title given to 1001823 - Primary title: d_sucarak
+224 - sub vassal: d_alyo - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: d_sucarak - Holder (1001823) has gained d_alyo
+224 - sub vassal: d_sucarak - Holder (1001823) has gained d_alyo
+224 - sub vassal: c_avor - Holder 1001823 - Primary title: c_avor has lost the title: c_avor
+224 - sub vassal: c_avor - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: d_sucarak - Holder (1001823) has gained c_avor
+224 - sub vassal: d_sucarak - Holder (1001823) has gained c_avor
+224 - sub vassal: c_elyoti - Holder 1001823 - Primary title: c_elyoti has lost the title: c_elyoti
+224 - sub vassal: c_elyoti - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: d_sucarak - Holder (1001823) has gained c_elyoti
+224 - sub vassal: d_sucarak - Holder (1001823) has gained c_elyoti
+224 - sub vassal: c_benopti - Holder 1001823 - Primary title: c_benopti has lost the title: c_benopti
+224 - sub vassal: c_benopti - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: d_sucarak - Holder (1001823) has gained c_benopti
+224 - sub vassal: d_sucarak - Holder (1001823) has gained c_benopti
+224 - sub vassal: c_estarak - Holder 1001823 - Primary title: c_estarak has lost the title: c_estarak
+224 - sub vassal: c_estarak - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: d_sucarak - Holder (1001823) has gained c_estarak
+224 - sub vassal: d_sucarak - Holder (1001823) has gained c_estarak
+224 - sub vassal: c_rahizhi - Holder 1001823 - Primary title: c_rahizhi has lost the title: c_rahizhi
+224 - sub vassal: c_rahizhi - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: d_sucarak - Holder (1001823) has gained c_rahizhi
+224 - sub vassal: d_sucarak - Holder (1001823) has gained c_rahizhi
+243 - Holder 1001327 - Primary title: k_tatyan has lost the title: k_tatyan
+243 - Title given to 1001327 - Primary title: c_suryan
+243 - sub vassal: c_suryan - Setting to vassal of k_tatyan in Validate Realm
+243 - Gained vassal: c_suryan
+243 - vassal: d_kucexiu - Holder 1001327 - Primary title: d_kucexiu has lost the title: d_kucexiu
+243 - sub vassal: d_kucexiu - Holder 1001327 - Primary title: d_kucexiu has lost the title: d_kucexiu
+243 - vassal: d_kucexiu - Title given to 1001327 - Primary title: k_tatyan
+243 - sub vassal: d_kucexiu - Title given to 1001327 - Primary title: k_tatyan
+243 - Holder (1001327) has gained d_kucexiu
+243 - sub vassal: c_tucan - Setting to vassal of d_rabodar in Validate Realm
+243 - vassal: d_kucexiu - Lost vassal: c_tucan
+243 - sub vassal: d_kucexiu - Lost vassal: c_tucan
+243 - sub vassal: c_kenan - Setting to vassal of d_rabodar in Validate Realm
+243 - vassal: d_kucexiu - Lost vassal: c_kenan
+243 - sub vassal: d_kucexiu - Lost vassal: c_kenan
+243 - sub vassal: c_kirarak - Setting to vassal of d_rabodar in Validate Realm
+243 - vassal: d_kucexiu - Lost vassal: c_kirarak
+243 - sub vassal: d_kucexiu - Lost vassal: c_kirarak
+243 - vassal: d_rabodar - Gained vassal: c_kirarak
+243 - sub vassal: d_rabodar - Gained vassal: c_kirarak
+243 - vassal: d_rabodar - Gained vassal: c_kenan
+243 - sub vassal: d_rabodar - Gained vassal: c_kenan
+243 - vassal: d_rabodar - Gained vassal: c_tucan
+243 - sub vassal: d_rabodar - Gained vassal: c_tucan
+243 - vassal: d_rabodar - Holder 1001327 - Primary title: d_rabodar has lost the title: d_rabodar
+243 - sub vassal: d_rabodar - Holder 1001327 - Primary title: d_rabodar has lost the title: d_rabodar
+243 - vassal: d_rabodar - Title given to 1001327 - Primary title: k_tatyan
+243 - sub vassal: d_rabodar - Title given to 1001327 - Primary title: k_tatyan
+243 - Holder (1001327) has gained d_rabodar
+243 - sub vassal: c_tucan - Holder 1001327 - Primary title: c_tucan has lost the title: c_tucan
+243 - sub vassal: c_tucan - Title given to 1001327 - Primary title: k_tatyan
+243 - Holder (1001327) has gained c_tucan
+243 - sub vassal: c_kenan - Holder 1001327 - Primary title: c_kenan has lost the title: c_kenan
+243 - sub vassal: c_kenan - Title given to 1001327 - Primary title: k_tatyan
+243 - Holder (1001327) has gained c_kenan
+243 - sub vassal: c_kirarak - Holder 1001327 - Primary title: c_kirarak has lost the title: c_kirarak
+243 - sub vassal: c_kirarak - Title given to 1001327 - Primary title: k_tatyan
+243 - Holder (1001327) has gained c_kirarak
+244 - vassal: d_kucexiu - Destroyed due to flagged problem
+244 - sub vassal: d_kucexiu - Destroyed due to flagged problem
+244 - vassal: d_kucexiu - Made independent
+244 - sub vassal: d_kucexiu - Made independent
+248 - Holder 1004535 - Primary title: k_tatyan has lost the title: k_tatyan
+248 - Title given to 1004535
+248 - vassal: d_rabodar - Holder 1004535 - Primary title: d_rabodar has lost the title: c_suryan
+248 - sub vassal: d_rabodar - Holder 1004535 - Primary title: d_rabodar has lost the title: c_suryan
+248 - vassal: c_suryan - Title given to 1004535 - Primary title: k_tatyan
+248 - sub vassal: c_suryan - Title given to 1004535 - Primary title: k_tatyan
+248 - Holder (1004535) has gained c_suryan
+248 - vassal: d_rabodar - Holder 1004535 - Primary title: d_rabodar has lost the title: d_rabodar
+248 - sub vassal: d_rabodar - Holder 1004535 - Primary title: d_rabodar has lost the title: d_rabodar
+248 - vassal: d_rabodar - Title given to 1004535 - Primary title: k_tatyan
+248 - sub vassal: d_rabodar - Title given to 1004535 - Primary title: k_tatyan
+248 - Holder (1004535) has gained d_rabodar
+248 - sub vassal: c_tucan - Holder 1004535 - Primary title: c_tucan has lost the title: c_tucan
+248 - sub vassal: c_tucan - Title given to 1004535 - Primary title: k_tatyan
+248 - Holder (1004535) has gained c_tucan
+248 - sub vassal: c_kenan - Holder 1004535 - Primary title: c_kenan has lost the title: c_kenan
+248 - sub vassal: c_kenan - Title given to 1004535 - Primary title: k_tatyan
+248 - Holder (1004535) has gained c_kenan
+248 - sub vassal: c_kirarak - Holder 1004535 - Primary title: c_kirarak has lost the title: c_kirarak
+248 - sub vassal: c_kirarak - Title given to 1004535 - Primary title: k_tatyan
+248 - Holder (1004535) has gained c_kirarak
+249 - vassal: d_alyo - Holder 1004535 - Primary title: d_alyo has lost the title: d_alyo
+249 - sub vassal: d_alyo - Holder 1004535 - Primary title: d_alyo has lost the title: d_alyo
+249 - vassal: d_alyo - Title given to 1004535 - Primary title: k_tatyan
+249 - sub vassal: d_alyo - Title given to 1004535 - Primary title: k_tatyan
+249 - Holder (1004535) has gained d_alyo
+249 - sub vassal: c_rahizhi - Setting to vassal of d_sucarak in Validate Realm
+249 - vassal: d_alyo - Lost vassal: c_rahizhi
+249 - sub vassal: d_alyo - Lost vassal: c_rahizhi
+249 - sub vassal: c_estarak - Setting to vassal of d_sucarak in Validate Realm
+249 - vassal: d_alyo - Lost vassal: c_estarak
+249 - sub vassal: d_alyo - Lost vassal: c_estarak
+249 - sub vassal: c_benopti - Setting to vassal of d_sucarak in Validate Realm
+249 - vassal: d_alyo - Lost vassal: c_benopti
+249 - sub vassal: d_alyo - Lost vassal: c_benopti
+249 - sub vassal: c_elyoti - Setting to vassal of d_sucarak in Validate Realm
+249 - vassal: d_alyo - Lost vassal: c_elyoti
+249 - sub vassal: d_alyo - Lost vassal: c_elyoti
+249 - sub vassal: c_avor - Setting to vassal of d_sucarak in Validate Realm
+249 - vassal: d_alyo - Lost vassal: c_avor
+249 - sub vassal: d_alyo - Lost vassal: c_avor
+249 - vassal: d_sucarak - Gained vassal: c_avor
+249 - sub vassal: d_sucarak - Gained vassal: c_avor
+249 - vassal: d_sucarak - Gained vassal: c_elyoti
+249 - sub vassal: d_sucarak - Gained vassal: c_elyoti
+249 - vassal: d_sucarak - Gained vassal: c_benopti
+249 - sub vassal: d_sucarak - Gained vassal: c_benopti
+249 - vassal: d_sucarak - Gained vassal: c_estarak
+249 - sub vassal: d_sucarak - Gained vassal: c_estarak
+249 - vassal: d_sucarak - Gained vassal: c_rahizhi
+249 - sub vassal: d_sucarak - Gained vassal: c_rahizhi
+249 - vassal: d_sucarak - Holder 1004535 - Primary title: d_sucarak has lost the title: d_sucarak
+249 - sub vassal: d_sucarak - Holder 1004535 - Primary title: d_sucarak has lost the title: d_sucarak
+249 - vassal: d_sucarak - Title given to 1004535 - Primary title: k_tatyan
+249 - sub vassal: d_sucarak - Title given to 1004535 - Primary title: k_tatyan
+249 - Holder (1004535) has gained d_sucarak
+249 - sub vassal: c_rahizhi - Holder 1004535 - Primary title: c_rahizhi has lost the title: c_rahizhi
+249 - sub vassal: c_rahizhi - Title given to 1004535 - Primary title: k_tatyan
+249 - Holder (1004535) has gained c_rahizhi
+249 - sub vassal: c_estarak - Holder 1004535 - Primary title: c_estarak has lost the title: c_estarak
+249 - sub vassal: c_estarak - Title given to 1004535 - Primary title: k_tatyan
+249 - Holder (1004535) has gained c_estarak
+249 - sub vassal: c_benopti - Holder 1004535 - Primary title: c_benopti has lost the title: c_benopti
+249 - sub vassal: c_benopti - Title given to 1004535 - Primary title: k_tatyan
+249 - Holder (1004535) has gained c_benopti
+249 - sub vassal: c_elyoti - Holder 1004535 - Primary title: c_elyoti has lost the title: c_elyoti
+249 - sub vassal: c_elyoti - Title given to 1004535 - Primary title: k_tatyan
+249 - Holder (1004535) has gained c_elyoti
+249 - sub vassal: c_avor - Holder 1004535 - Primary title: c_avor has lost the title: c_avor
+249 - sub vassal: c_avor - Title given to 1004535 - Primary title: k_tatyan
+249 - Holder (1004535) has gained c_avor
+249 - sub vassal: c_evayan - Given to 1004596 in HandleTitles - Too many duke titles
+249 - sub vassal: c_evayan - Holder 1004596 - Primary title: c_evayan has lost the title: c_evayan
+249 - sub vassal: c_evayan - Title given to 1004596
+249 - Holder 1004596 - Primary title: k_tatyan has lost the title: d_sucarak
+249 - vassal: d_sucarak - Title given to 1004596 - Primary title: c_evayan
+249 - sub vassal: d_sucarak - Title given to 1004596 - Primary title: c_evayan
+249 - sub vassal: c_evayan - Holder (1004596) has gained d_sucarak
+249 - sub vassal: c_rahizhi - Setting to vassal of k_tatyan in Validate Realm
+249 - vassal: d_sucarak - Lost vassal: c_rahizhi
+249 - sub vassal: d_sucarak - Lost vassal: c_rahizhi
+249 - sub vassal: c_estarak - Setting to vassal of k_tatyan in Validate Realm
+249 - vassal: d_sucarak - Lost vassal: c_estarak
+249 - sub vassal: d_sucarak - Lost vassal: c_estarak
+249 - sub vassal: c_benopti - Setting to vassal of k_tatyan in Validate Realm
+249 - vassal: d_sucarak - Lost vassal: c_benopti
+249 - sub vassal: d_sucarak - Lost vassal: c_benopti
+249 - sub vassal: c_elyoti - Setting to vassal of k_tatyan in Validate Realm
+249 - vassal: d_sucarak - Lost vassal: c_elyoti
+249 - sub vassal: d_sucarak - Lost vassal: c_elyoti
+249 - sub vassal: c_avor - Setting to vassal of k_tatyan in Validate Realm
+249 - vassal: d_sucarak - Lost vassal: c_avor
+249 - sub vassal: d_sucarak - Lost vassal: c_avor
+249 - Gained vassal: c_avor
+249 - Gained vassal: c_elyoti
+249 - Gained vassal: c_benopti
+249 - Gained vassal: c_estarak
+249 - Gained vassal: c_rahizhi
+249 - vassal: d_sucarak - Too many dukes, given to dejure: k_tatyan
+249 - sub vassal: d_sucarak - Too many dukes, given to dejure: k_tatyan
+249 - Holder 1004597 - Primary title: k_tatyan has lost the title: c_benopti
+249 - vassal: c_benopti - Title given to 1004597
+249 - sub vassal: c_benopti - Title given to 1004597
+249 - Holder 1004598 - Primary title: k_tatyan has lost the title: c_avor
+249 - vassal: c_avor - Title given to 1004598
+249 - sub vassal: c_avor - Title given to 1004598
+249 - Holder 1001543 - Primary title: k_tatyan has lost the title: c_elyoti
+249 - vassal: c_elyoti - Title given to 1001543
+249 - sub vassal: c_elyoti - Title given to 1001543
+249 - Holder 1001639 - Primary title: k_tatyan has lost the title: c_rahizhi
+249 - vassal: c_rahizhi - Title given to 1001639
+249 - sub vassal: c_rahizhi - Title given to 1001639
+250 - vassal: d_alyo - Destroyed due to flagged problem
+250 - sub vassal: d_alyo - Destroyed due to flagged problem
+250 - vassal: d_alyo - Made independent
+250 - sub vassal: d_alyo - Made independent
+251 - vassal: d_raxman - Holder 1001543 - Primary title: d_raxman has lost the title: d_raxman
+251 - sub vassal: d_raxman - Holder 1001543 - Primary title: d_raxman has lost the title: d_raxman
+251 - vassal: d_raxman - Title given to 1001543 - Primary title: c_elyoti
+251 - sub vassal: d_raxman - Title given to 1001543 - Primary title: c_elyoti
+251 - vassal: c_elyoti - Holder (1001543) has gained d_raxman
+251 - sub vassal: c_elyoti - Holder (1001543) has gained d_raxman
+251 - vassal: c_elyoti - Setting to vassal of d_raxman in Validate Realm
+251 - sub vassal: c_elyoti - Setting to vassal of d_raxman in Validate Realm
+251 - Lost vassal: c_elyoti
+251 - vassal: d_raxman - Gained vassal: c_elyoti
+251 - sub vassal: d_raxman - Gained vassal: c_elyoti
+251 - sub vassal: c_lyan - Holder 1001543 - Primary title: c_lyan has lost the title: c_lyan
+251 - sub vassal: c_lyan - Title given to 1001543 - Primary title: d_raxman
+251 - vassal: d_raxman - Holder (1001543) has gained c_lyan
+251 - sub vassal: d_raxman - Holder (1001543) has gained c_lyan
+251 - sub vassal: c_renayan - Holder 1001543 - Primary title: c_renayan has lost the title: c_renayan
+251 - sub vassal: c_renayan - Title given to 1001543 - Primary title: d_raxman
+251 - vassal: d_raxman - Holder (1001543) has gained c_renayan
+251 - sub vassal: d_raxman - Holder (1001543) has gained c_renayan
+251 - sub vassal: c_elya - Holder 1001543 - Primary title: c_elya has lost the title: c_elya
+251 - sub vassal: c_elya - Title given to 1001543 - Primary title: d_raxman
+251 - vassal: d_raxman - Holder (1001543) has gained c_elya
+251 - sub vassal: d_raxman - Holder (1001543) has gained c_elya
+251 - sub vassal: c_rahayan - Holder 1001543 - Primary title: c_rahayan has lost the title: c_rahayan
+251 - sub vassal: c_rahayan - Title given to 1001543 - Primary title: d_raxman
+251 - vassal: d_raxman - Holder (1001543) has gained c_rahayan
+251 - sub vassal: d_raxman - Holder (1001543) has gained c_rahayan
+254 - vassal: d_sucarak - Holder 1001639 - Primary title: d_sucarak has lost the title: d_sucarak
+254 - sub vassal: d_sucarak - Holder 1001639 - Primary title: d_sucarak has lost the title: d_sucarak
+254 - vassal: d_sucarak - Title given to 1001639 - Primary title: c_rahizhi
+254 - sub vassal: d_sucarak - Title given to 1001639 - Primary title: c_rahizhi
+254 - vassal: c_rahizhi - Holder (1001639) has gained d_sucarak
+254 - sub vassal: c_rahizhi - Holder (1001639) has gained d_sucarak
+254 - vassal: c_rahizhi - Setting to vassal of d_sucarak in Validate Realm
+254 - sub vassal: c_rahizhi - Setting to vassal of d_sucarak in Validate Realm
+254 - Lost vassal: c_rahizhi
+254 - vassal: d_sucarak - Gained vassal: c_rahizhi
+254 - sub vassal: d_sucarak - Gained vassal: c_rahizhi
+254 - sub vassal: c_evayan - Holder 1001639 - Primary title: c_evayan has lost the title: c_evayan
+254 - sub vassal: c_evayan - Title given to 1001639 - Primary title: d_sucarak
+254 - vassal: d_sucarak - Holder (1001639) has gained c_evayan
+254 - sub vassal: d_sucarak - Holder (1001639) has gained c_evayan
+264 - vassal: d_raxman - Holder 1005197 - Primary title: d_raxman has lost the title: d_raxman
+264 - sub vassal: d_raxman - Holder 1005197 - Primary title: d_raxman has lost the title: d_raxman
+264 - vassal: d_raxman - Title given to 1005197
+264 - sub vassal: d_raxman - Title given to 1005197
+264 - sub vassal: c_rahayan - Holder 1005197 - Primary title: c_rahayan has lost the title: c_rahayan
+264 - sub vassal: c_rahayan - Title given to 1005197 - Primary title: d_raxman
+264 - vassal: d_raxman - Holder (1005197) has gained c_rahayan
+264 - sub vassal: d_raxman - Holder (1005197) has gained c_rahayan
+264 - sub vassal: c_elya - Holder 1005197 - Primary title: c_elya has lost the title: c_elya
+264 - sub vassal: c_elya - Title given to 1005197 - Primary title: d_raxman
+264 - vassal: d_raxman - Holder (1005197) has gained c_elya
+264 - sub vassal: d_raxman - Holder (1005197) has gained c_elya
+264 - sub vassal: c_renayan - Holder 1005197 - Primary title: c_renayan has lost the title: c_renayan
+264 - sub vassal: c_renayan - Title given to 1005197 - Primary title: d_raxman
+264 - vassal: d_raxman - Holder (1005197) has gained c_renayan
+264 - sub vassal: d_raxman - Holder (1005197) has gained c_renayan
+264 - sub vassal: c_lyan - Holder 1005197 - Primary title: c_lyan has lost the title: c_lyan
+264 - sub vassal: c_lyan - Title given to 1005197 - Primary title: d_raxman
+264 - vassal: d_raxman - Holder (1005197) has gained c_lyan
+264 - sub vassal: d_raxman - Holder (1005197) has gained c_lyan
+264 - sub vassal: c_elyoti - Holder 1005197 - Primary title: c_elyoti has lost the title: c_elyoti
+264 - sub vassal: c_elyoti - Title given to 1005197 - Primary title: d_raxman
+264 - vassal: d_raxman - Holder (1005197) has gained c_elyoti
+264 - sub vassal: d_raxman - Holder (1005197) has gained c_elyoti
+264 - Holder 1004840 - Primary title: k_tatyan has lost the title: k_tatyan
+264 - Title given to 1004840
+264 - vassal: d_rabodar - Holder 1004840 - Primary title: d_rabodar has lost the title: d_rabodar
+264 - sub vassal: d_rabodar - Holder 1004840 - Primary title: d_rabodar has lost the title: d_rabodar
+264 - vassal: d_rabodar - Title given to 1004840 - Primary title: k_tatyan
+264 - sub vassal: d_rabodar - Title given to 1004840 - Primary title: k_tatyan
+264 - Holder (1004840) has gained d_rabodar
+264 - sub vassal: c_kirarak - Setting independent in Validate Realm
+264 - sub vassal: c_kirarak - Made independent
+264 - sub vassal: c_kenan - Setting independent in Validate Realm
+264 - sub vassal: c_kenan - Made independent
+264 - sub vassal: c_tucan - Setting independent in Validate Realm
+264 - sub vassal: c_tucan - Made independent
+264 - vassal: c_estarak - Holder 1004840 - Primary title: c_estarak has lost the title: c_estarak
+264 - sub vassal: c_estarak - Holder 1004840 - Primary title: c_estarak has lost the title: c_estarak
+264 - vassal: c_estarak - Title given to 1004840 - Primary title: k_tatyan
+264 - sub vassal: c_estarak - Title given to 1004840 - Primary title: k_tatyan
+264 - Holder (1004840) has gained c_estarak
+264 - vassal: c_suryan - Setting independent in Validate Realm
+264 - vassal: c_suryan - Made independent
+264 - Holder (1004840) has gained c_kirarak
+264 - Holder (1004840) has gained c_kenan
+264 - Holder (1004840) has gained c_tucan
+264 - Holder (1004840) has gained c_suryan
+265 - vassal: d_tariel - Holder 1003116 - Primary title: d_tariel has lost the title: d_tariel
+265 - sub vassal: d_tariel - Holder 1003116 - Primary title: d_tariel has lost the title: d_tariel
+265 - vassal: d_tariel - Title given to 1003116
+265 - sub vassal: d_tariel - Title given to 1003116
+265 - sub vassal: c_emaijyan - Holder 1003116 - Primary title: c_emaijyan has lost the title: c_emaijyan
+265 - sub vassal: c_emaijyan - Title given to 1003116 - Primary title: d_tariel
+265 - vassal: d_tariel - Holder (1003116) has gained c_emaijyan
+265 - sub vassal: d_tariel - Holder (1003116) has gained c_emaijyan
+268 - Holder 1004597 - Primary title: k_tatyan has lost the title: k_tatyan
+268 - Title given to 1004597 - Primary title: c_benopti
+268 - vassal: c_benopti - Holder (1004597) has gained k_tatyan
+268 - sub vassal: c_benopti - Holder (1004597) has gained k_tatyan
+268 - vassal: c_estarak - Setting to vassal of d_rabodar in Validate Realm
+268 - sub vassal: c_estarak - Setting to vassal of d_rabodar in Validate Realm
+268 - Lost vassal: c_estarak
+268 - vassal: d_rabodar - Gained vassal: c_estarak
+268 - sub vassal: d_rabodar - Gained vassal: c_estarak
+268 - vassal: d_rabodar - Holder 1004597 - Primary title: d_rabodar has lost the title: d_rabodar
+268 - sub vassal: d_rabodar - Holder 1004597 - Primary title: d_rabodar has lost the title: d_rabodar
+268 - vassal: d_rabodar - Title given to 1004597 - Primary title: k_tatyan
+268 - sub vassal: d_rabodar - Title given to 1004597 - Primary title: k_tatyan
+268 - Holder (1004597) has gained d_rabodar
+268 - sub vassal: c_estarak - Holder 1004597 - Primary title: c_estarak has lost the title: c_estarak
+268 - sub vassal: c_estarak - Title given to 1004597 - Primary title: k_tatyan
+268 - Holder (1004597) has gained c_estarak
+268 - Holder (1004597) has gained c_kirarak
+268 - Holder (1004597) has gained c_kenan
+268 - Holder (1004597) has gained c_tucan
+268 - Holder (1004597) has gained c_suryan
+269 - Holder 1005831 - Primary title: k_tatyan has lost the title: c_kirarak
+269 - Gained vassal: c_kirarak
+270 - vassal: d_sucarak - Holder 1003116 - Primary title: d_sucarak has lost the title: d_sucarak
+270 - sub vassal: d_sucarak - Holder 1003116 - Primary title: d_sucarak has lost the title: d_sucarak
+270 - vassal: d_sucarak - Title given to 1003116 - Primary title: d_tariel
+270 - sub vassal: d_sucarak - Title given to 1003116 - Primary title: d_tariel
+270 - vassal: d_tariel - Holder (1003116) has gained d_sucarak
+270 - sub vassal: d_tariel - Holder (1003116) has gained d_sucarak
+270 - sub vassal: c_evayan - Holder 1003116 - Primary title: c_evayan has lost the title: c_evayan
+270 - sub vassal: c_evayan - Title given to 1003116 - Primary title: d_tariel
+270 - vassal: d_tariel - Holder (1003116) has gained c_evayan
+270 - sub vassal: d_tariel - Holder (1003116) has gained c_evayan
+270 - sub vassal: c_rahizhi - Holder 1003116 - Primary title: c_rahizhi has lost the title: c_rahizhi
+270 - sub vassal: c_rahizhi - Title given to 1003116 - Primary title: d_tariel
+270 - vassal: d_tariel - Holder (1003116) has gained c_rahizhi
+270 - sub vassal: d_tariel - Holder (1003116) has gained c_rahizhi
+285 - Holder 1003116 - Primary title: k_tatyan has lost the title: k_tatyan
+285 - Title given to 1003116 - Primary title: d_sucarak
+285 - vassal: d_sucarak - Holder (1003116) has gained k_tatyan
+285 - sub vassal: d_sucarak - Holder (1003116) has gained k_tatyan
+285 - vassal: c_benopti - Setting to vassal of d_rabodar in Validate Realm
+285 - sub vassal: c_benopti - Setting to vassal of d_rabodar in Validate Realm
+285 - Lost vassal: c_benopti
+285 - vassal: d_rabodar - Gained vassal: c_benopti
+285 - sub vassal: d_rabodar - Gained vassal: c_benopti
+285 - vassal: d_rabodar - Holder 1003116 - Primary title: d_rabodar has lost the title: d_rabodar
+285 - sub vassal: d_rabodar - Holder 1003116 - Primary title: d_rabodar has lost the title: d_rabodar
+285 - vassal: d_rabodar - Title given to 1003116 - Primary title: k_tatyan
+285 - sub vassal: d_rabodar - Title given to 1003116 - Primary title: k_tatyan
+285 - Holder (1003116) has gained d_rabodar
+285 - Holder (1003116) has gained c_suryan
+285 - Holder (1003116) has gained c_tucan
+285 - Holder (1003116) has gained c_kenan
+285 - Holder (1003116) has gained c_estarak
+285 - Holder (1003116) has gained c_benopti
+286 - sub vassal: c_evayan - Given to 1006782 in HandleTitles - Too many duke titles
+286 - Holder 1006782 - Primary title: k_tatyan has lost the title: c_evayan
+286 - sub vassal: c_evayan - Title given to 1006782
+286 - Holder 1006782 - Primary title: k_tatyan has lost the title: d_sucarak
+286 - vassal: d_sucarak - Title given to 1006782 - Primary title: c_evayan
+286 - sub vassal: d_sucarak - Title given to 1006782 - Primary title: c_evayan
+286 - sub vassal: c_evayan - Holder (1006782) has gained d_sucarak
+286 - sub vassal: c_rahizhi - Setting to vassal of k_tatyan in Validate Realm
+286 - vassal: d_sucarak - Lost vassal: c_rahizhi
+286 - sub vassal: d_sucarak - Lost vassal: c_rahizhi
+286 - Gained vassal: c_rahizhi
+286 - vassal: d_sucarak - Too many dukes, given to dejure: k_tatyan
+286 - sub vassal: d_sucarak - Too many dukes, given to dejure: k_tatyan
+286 - Holder 1006784 - Primary title: k_tatyan has lost the title: c_rahizhi
+286 - vassal: c_rahizhi - Title given to 1006784
+286 - sub vassal: c_rahizhi - Title given to 1006784
+286 - Holder 1006785 - Primary title: k_tatyan has lost the title: c_kenan
+286 - Gained vassal: c_kenan
+286 - Holder 1004598 - Primary title: k_tatyan has lost the title: k_tatyan
+286 - Title given to 1004598 - Primary title: c_avor
+286 - vassal: c_avor - Holder (1004598) has gained k_tatyan
+286 - sub vassal: c_avor - Holder (1004598) has gained k_tatyan
+286 - vassal: d_tariel - Holder 1004598 - Primary title: d_tariel has lost the title: c_emaijyan
+286 - sub vassal: d_tariel - Holder 1004598 - Primary title: d_tariel has lost the title: c_emaijyan
+286 - sub vassal: c_emaijyan - Title given to 1004598 - Primary title: k_tatyan
+286 - Holder (1004598) has gained c_emaijyan
+286 - sub vassal: c_emaijyan - Setting to vassal of k_tatyan in Validate Realm
+286 - vassal: d_tariel - Lost vassal: c_emaijyan
+286 - sub vassal: d_tariel - Lost vassal: c_emaijyan
+286 - Gained vassal: c_emaijyan
+286 - vassal: d_tariel - Holder 1004598 - Primary title: d_tariel has lost the title: d_tariel
+286 - sub vassal: d_tariel - Holder 1004598 - Primary title: d_tariel has lost the title: d_tariel
+286 - vassal: d_tariel - Title given to 1004598 - Primary title: k_tatyan
+286 - sub vassal: d_tariel - Title given to 1004598 - Primary title: k_tatyan
+286 - Holder (1004598) has gained d_tariel
+286 - vassal: d_rabodar - Holder 1004598 - Primary title: d_rabodar has lost the title: d_rabodar
+286 - sub vassal: d_rabodar - Holder 1004598 - Primary title: d_rabodar has lost the title: d_rabodar
+286 - vassal: d_rabodar - Title given to 1004598 - Primary title: k_tatyan
+286 - sub vassal: d_rabodar - Title given to 1004598 - Primary title: k_tatyan
+286 - Holder (1004598) has gained d_rabodar
+286 - Holder (1004598) has gained c_suryan
+286 - Holder (1004598) has gained c_tucan
+286 - Holder (1004598) has gained c_estarak
+286 - Holder (1004598) has gained c_benopti
+287 - Holder 1006846 - Primary title: k_tatyan has lost the title: c_estarak
+287 - Gained vassal: c_estarak
+300 - sub vassal: c_tavizi - Holder 1004598 - Primary title: c_tavizi has lost the title: c_tavizi
+300 - sub vassal: c_tavizi - Title given to 1004598 - Primary title: k_tatyan
+300 - Holder (1004598) has gained c_tavizi
+300 - Holder 1007643 - Primary title: k_tatyan has lost the title: c_tucan
+300 - Gained vassal: c_tucan
+304 - Holder 1006782 - Primary title: k_tatyan has lost the title: k_tatyan
+304 - Title given to 1006782 - Primary title: d_sucarak
+304 - vassal: d_sucarak - Holder (1006782) has gained k_tatyan
+304 - sub vassal: d_sucarak - Holder (1006782) has gained k_tatyan
+304 - vassal: c_emaijyan - Setting to vassal of d_rabodar in Validate Realm
+304 - sub vassal: c_emaijyan - Setting to vassal of d_rabodar in Validate Realm
+304 - Lost vassal: c_emaijyan
+304 - vassal: c_avor - Setting to vassal of d_rabodar in Validate Realm
+304 - sub vassal: c_avor - Setting to vassal of d_rabodar in Validate Realm
+304 - Lost vassal: c_avor
+304 - vassal: d_rabodar - Gained vassal: c_avor
+304 - sub vassal: d_rabodar - Gained vassal: c_avor
+304 - vassal: d_rabodar - Gained vassal: c_emaijyan
+304 - sub vassal: d_rabodar - Gained vassal: c_emaijyan
+304 - vassal: d_rabodar - Holder 1006782 - Primary title: d_rabodar has lost the title: d_rabodar
+304 - sub vassal: d_rabodar - Holder 1006782 - Primary title: d_rabodar has lost the title: d_rabodar
+304 - vassal: d_rabodar - Title given to 1006782 - Primary title: k_tatyan
+304 - sub vassal: d_rabodar - Title given to 1006782 - Primary title: k_tatyan
+304 - Holder (1006782) has gained d_rabodar
+304 - sub vassal: c_tavizi - Setting to vassal of d_tariel in Validate Realm
+304 - vassal: d_rabodar - Lost vassal: c_tavizi
+304 - sub vassal: d_rabodar - Lost vassal: c_tavizi
+304 - sub vassal: c_emaijyan - Setting to vassal of d_tariel in Validate Realm
+304 - vassal: d_rabodar - Lost vassal: c_emaijyan
+304 - sub vassal: d_rabodar - Lost vassal: c_emaijyan
+304 - sub vassal: c_avor - Setting to vassal of d_tariel in Validate Realm
+304 - vassal: d_rabodar - Lost vassal: c_avor
+304 - sub vassal: d_rabodar - Lost vassal: c_avor
+304 - vassal: d_tariel - Gained vassal: c_avor
+304 - sub vassal: d_tariel - Gained vassal: c_avor
+304 - vassal: d_tariel - Gained vassal: c_emaijyan
+304 - sub vassal: d_tariel - Gained vassal: c_emaijyan
+304 - vassal: d_tariel - Gained vassal: c_tavizi
+304 - sub vassal: d_tariel - Gained vassal: c_tavizi
+304 - vassal: d_tariel - Holder 1006782 - Primary title: d_tariel has lost the title: c_tavizi
+304 - sub vassal: d_tariel - Holder 1006782 - Primary title: d_tariel has lost the title: c_tavizi
+304 - sub vassal: c_tavizi - Title given to 1006782 - Primary title: k_tatyan
+304 - Holder (1006782) has gained c_tavizi
+304 - sub vassal: c_tavizi - Setting to vassal of k_tatyan in Validate Realm
+304 - vassal: d_tariel - Lost vassal: c_tavizi
+304 - sub vassal: d_tariel - Lost vassal: c_tavizi
+304 - Gained vassal: c_tavizi
+304 - vassal: d_tariel - Holder 1006782 - Primary title: d_tariel has lost the title: c_benopti
+304 - sub vassal: d_tariel - Holder 1006782 - Primary title: d_tariel has lost the title: c_benopti
+304 - Holder (1006782) has gained c_benopti
+304 - vassal: d_tariel - Holder 1006782 - Primary title: d_tariel has lost the title: c_suryan
+304 - sub vassal: d_tariel - Holder 1006782 - Primary title: d_tariel has lost the title: c_suryan
+304 - Holder (1006782) has gained c_suryan
+304 - vassal: d_tariel - Holder 1006782 - Primary title: d_tariel has lost the title: d_tariel
+304 - sub vassal: d_tariel - Holder 1006782 - Primary title: d_tariel has lost the title: d_tariel
+304 - vassal: d_tariel - Title given to 1006782 - Primary title: k_tatyan
+304 - sub vassal: d_tariel - Title given to 1006782 - Primary title: k_tatyan
+304 - Holder (1006782) has gained d_tariel
+304 - sub vassal: c_emaijyan - Holder 1006782 - Primary title: c_emaijyan has lost the title: c_emaijyan
+304 - sub vassal: c_emaijyan - Title given to 1006782 - Primary title: k_tatyan
+304 - Holder (1006782) has gained c_emaijyan
+304 - sub vassal: c_avor - Holder 1006782 - Primary title: c_avor has lost the title: c_avor
+304 - sub vassal: c_avor - Title given to 1006782 - Primary title: k_tatyan
+304 - Holder (1006782) has gained c_avor
+305 - vassal: d_rabodar - Destroyed due to flagged problem
+305 - sub vassal: d_rabodar - Destroyed due to flagged problem
+305 - vassal: d_rabodar - Made independent
+305 - sub vassal: d_rabodar - Made independent
+305 - Holder 1007960 - Primary title: k_tatyan has lost the title: c_evayan
+305 - sub vassal: c_evayan - Title given to 1007960
+311 - vassal: d_raxman - Holder 1006569 - Primary title: d_raxman has lost the title: d_raxman
+311 - sub vassal: d_raxman - Holder 1006569 - Primary title: d_raxman has lost the title: d_raxman
+311 - vassal: d_raxman - Title given to 1006569
+311 - sub vassal: d_raxman - Title given to 1006569
+311 - sub vassal: c_rahayan - Holder 1006569 - Primary title: c_rahayan has lost the title: c_rahayan
+311 - sub vassal: c_rahayan - Title given to 1006569 - Primary title: d_raxman
+311 - vassal: d_raxman - Holder (1006569) has gained c_rahayan
+311 - sub vassal: d_raxman - Holder (1006569) has gained c_rahayan
+311 - sub vassal: c_elya - Holder 1006569 - Primary title: c_elya has lost the title: c_elya
+311 - sub vassal: c_elya - Title given to 1006569 - Primary title: d_raxman
+311 - vassal: d_raxman - Holder (1006569) has gained c_elya
+311 - sub vassal: d_raxman - Holder (1006569) has gained c_elya
+311 - sub vassal: c_renayan - Holder 1006569 - Primary title: c_renayan has lost the title: c_renayan
+311 - sub vassal: c_renayan - Title given to 1006569 - Primary title: d_raxman
+311 - vassal: d_raxman - Holder (1006569) has gained c_renayan
+311 - sub vassal: d_raxman - Holder (1006569) has gained c_renayan
+311 - sub vassal: c_lyan - Holder 1006569 - Primary title: c_lyan has lost the title: c_lyan
+311 - sub vassal: c_lyan - Title given to 1006569 - Primary title: d_raxman
+311 - vassal: d_raxman - Holder (1006569) has gained c_lyan
+311 - sub vassal: d_raxman - Holder (1006569) has gained c_lyan
+311 - sub vassal: c_elyoti - Holder 1006569 - Primary title: c_elyoti has lost the title: c_elyoti
+311 - sub vassal: c_elyoti - Title given to 1006569 - Primary title: d_raxman
+311 - vassal: d_raxman - Holder (1006569) has gained c_elyoti
+311 - sub vassal: d_raxman - Holder (1006569) has gained c_elyoti
+320 - vassal: d_raxman - Holder 1008466 - Primary title: d_raxman has lost the title: d_raxman
+320 - sub vassal: d_raxman - Holder 1008466 - Primary title: d_raxman has lost the title: d_raxman
+320 - vassal: d_raxman - Title given to 1008466
+320 - sub vassal: d_raxman - Title given to 1008466
+320 - sub vassal: c_elyoti - Holder 1008466 - Primary title: c_elyoti has lost the title: c_elyoti
+320 - sub vassal: c_elyoti - Title given to 1008466 - Primary title: d_raxman
+320 - vassal: d_raxman - Holder (1008466) has gained c_elyoti
+320 - sub vassal: d_raxman - Holder (1008466) has gained c_elyoti
+320 - sub vassal: c_lyan - Holder 1008466 - Primary title: c_lyan has lost the title: c_lyan
+320 - sub vassal: c_lyan - Title given to 1008466 - Primary title: d_raxman
+320 - vassal: d_raxman - Holder (1008466) has gained c_lyan
+320 - sub vassal: d_raxman - Holder (1008466) has gained c_lyan
+320 - sub vassal: c_renayan - Holder 1008466 - Primary title: c_renayan has lost the title: c_renayan
+320 - sub vassal: c_renayan - Title given to 1008466 - Primary title: d_raxman
+320 - vassal: d_raxman - Holder (1008466) has gained c_renayan
+320 - sub vassal: d_raxman - Holder (1008466) has gained c_renayan
+320 - sub vassal: c_elya - Holder 1008466 - Primary title: c_elya has lost the title: c_elya
+320 - sub vassal: c_elya - Title given to 1008466 - Primary title: d_raxman
+320 - vassal: d_raxman - Holder (1008466) has gained c_elya
+320 - sub vassal: d_raxman - Holder (1008466) has gained c_elya
+320 - sub vassal: c_rahayan - Holder 1008466 - Primary title: c_rahayan has lost the title: c_rahayan
+320 - sub vassal: c_rahayan - Title given to 1008466 - Primary title: d_raxman
+320 - vassal: d_raxman - Holder (1008466) has gained c_rahayan
+320 - sub vassal: d_raxman - Holder (1008466) has gained c_rahayan
+328 - Holder 1007494 - Primary title: k_tatyan has lost the title: k_tatyan
+328 - Title given to 1007494
+328 - vassal: d_sucarak - Holder 1007494 - Primary title: d_sucarak has lost the title: d_sucarak
+328 - sub vassal: d_sucarak - Holder 1007494 - Primary title: d_sucarak has lost the title: d_sucarak
+328 - vassal: d_sucarak - Title given to 1007494 - Primary title: k_tatyan
+328 - sub vassal: d_sucarak - Title given to 1007494 - Primary title: k_tatyan
+328 - Holder (1007494) has gained d_sucarak
+328 - vassal: c_tavizi - Setting to vassal of d_tariel in Validate Realm
+328 - sub vassal: c_tavizi - Setting to vassal of d_tariel in Validate Realm
+328 - Lost vassal: c_tavizi
+328 - vassal: d_tariel - Gained vassal: c_tavizi
+328 - sub vassal: d_tariel - Gained vassal: c_tavizi
+328 - vassal: d_tariel - Holder 1007494 - Primary title: d_tariel has lost the title: c_avor
+328 - sub vassal: d_tariel - Holder 1007494 - Primary title: d_tariel has lost the title: c_avor
+328 - sub vassal: c_avor - Title given to 1007494 - Primary title: k_tatyan
+328 - Holder (1007494) has gained c_avor
+328 - sub vassal: c_avor - Setting to vassal of k_tatyan in Validate Realm
+328 - vassal: d_tariel - Lost vassal: c_avor
+328 - sub vassal: d_tariel - Lost vassal: c_avor
+328 - Gained vassal: c_avor
+328 - vassal: d_tariel - Holder 1007494 - Primary title: d_tariel has lost the title: c_emaijyan
+328 - sub vassal: d_tariel - Holder 1007494 - Primary title: d_tariel has lost the title: c_emaijyan
+328 - sub vassal: c_emaijyan - Title given to 1007494 - Primary title: k_tatyan
+328 - Holder (1007494) has gained c_emaijyan
+328 - sub vassal: c_emaijyan - Setting to vassal of k_tatyan in Validate Realm
+328 - vassal: d_tariel - Lost vassal: c_emaijyan
+328 - sub vassal: d_tariel - Lost vassal: c_emaijyan
+328 - Gained vassal: c_emaijyan
+328 - vassal: d_tariel - Holder 1007494 - Primary title: d_tariel has lost the title: d_tariel
+328 - sub vassal: d_tariel - Holder 1007494 - Primary title: d_tariel has lost the title: d_tariel
+328 - vassal: d_tariel - Title given to 1007494 - Primary title: k_tatyan
+328 - sub vassal: d_tariel - Title given to 1007494 - Primary title: k_tatyan
+328 - Holder (1007494) has gained d_tariel
+328 - Holder (1007494) has gained c_suryan
+328 - Holder (1007494) has gained c_benopti
+328 - Holder (1007494) has gained c_tavizi
+332 - Holder 1006846 - Primary title: k_tatyan has lost the title: k_tatyan
+332 - Title given to 1006846 - Primary title: c_estarak
+332 - vassal: c_estarak - Holder (1006846) has gained k_tatyan
+332 - sub vassal: c_estarak - Holder (1006846) has gained k_tatyan
+332 - vassal: c_avor - Setting to vassal of d_sucarak in Validate Realm
+332 - sub vassal: c_avor - Setting to vassal of d_sucarak in Validate Realm
+332 - Lost vassal: c_avor
+332 - vassal: c_emaijyan - Setting to vassal of d_sucarak in Validate Realm
+332 - sub vassal: c_emaijyan - Setting to vassal of d_sucarak in Validate Realm
+332 - Lost vassal: c_emaijyan
+332 - vassal: d_sucarak - Gained vassal: c_emaijyan
+332 - sub vassal: d_sucarak - Gained vassal: c_emaijyan
+332 - vassal: d_sucarak - Gained vassal: c_avor
+332 - sub vassal: d_sucarak - Gained vassal: c_avor
+332 - vassal: d_sucarak - Holder 1006846 - Primary title: d_sucarak has lost the title: d_sucarak
+332 - sub vassal: d_sucarak - Holder 1006846 - Primary title: d_sucarak has lost the title: d_sucarak
+332 - vassal: d_sucarak - Title given to 1006846 - Primary title: k_tatyan
+332 - sub vassal: d_sucarak - Title given to 1006846 - Primary title: k_tatyan
+332 - Holder (1006846) has gained d_sucarak
+332 - sub vassal: c_avor - Setting to vassal of d_tariel in Validate Realm
+332 - vassal: d_sucarak - Lost vassal: c_avor
+332 - sub vassal: d_sucarak - Lost vassal: c_avor
+332 - sub vassal: c_emaijyan - Setting to vassal of d_tariel in Validate Realm
+332 - vassal: d_sucarak - Lost vassal: c_emaijyan
+332 - sub vassal: d_sucarak - Lost vassal: c_emaijyan
+332 - vassal: d_tariel - Gained vassal: c_emaijyan
+332 - sub vassal: d_tariel - Gained vassal: c_emaijyan
+332 - vassal: d_tariel - Gained vassal: c_avor
+332 - sub vassal: d_tariel - Gained vassal: c_avor
+332 - vassal: d_tariel - Holder 1006846 - Primary title: d_tariel has lost the title: c_avor
+332 - sub vassal: d_tariel - Holder 1006846 - Primary title: d_tariel has lost the title: c_avor
+332 - sub vassal: c_avor - Title given to 1006846 - Primary title: k_tatyan
+332 - Holder (1006846) has gained c_avor
+332 - sub vassal: c_avor - Setting to vassal of k_tatyan in Validate Realm
+332 - vassal: d_tariel - Lost vassal: c_avor
+332 - sub vassal: d_tariel - Lost vassal: c_avor
+332 - Gained vassal: c_avor
+332 - vassal: d_tariel - Holder 1006846 - Primary title: d_tariel has lost the title: c_emaijyan
+332 - sub vassal: d_tariel - Holder 1006846 - Primary title: d_tariel has lost the title: c_emaijyan
+332 - sub vassal: c_emaijyan - Title given to 1006846 - Primary title: k_tatyan
+332 - Holder (1006846) has gained c_emaijyan
+332 - sub vassal: c_emaijyan - Setting to vassal of k_tatyan in Validate Realm
+332 - vassal: d_tariel - Lost vassal: c_emaijyan
+332 - sub vassal: d_tariel - Lost vassal: c_emaijyan
+332 - Gained vassal: c_emaijyan
+332 - vassal: d_tariel - Holder 1006846 - Primary title: d_tariel has lost the title: d_tariel
+332 - sub vassal: d_tariel - Holder 1006846 - Primary title: d_tariel has lost the title: d_tariel
+332 - vassal: d_tariel - Title given to 1006846 - Primary title: k_tatyan
+332 - sub vassal: d_tariel - Title given to 1006846 - Primary title: k_tatyan
+332 - Holder (1006846) has gained d_tariel
+332 - Holder (1006846) has gained c_suryan
+332 - Holder (1006846) has gained c_benopti
+332 - Holder (1006846) has gained c_tavizi
+333 - Holder 1009425 - Primary title: k_tatyan has lost the title: c_suryan
+333 - Gained vassal: c_suryan
+340 - vassal: d_raxman - Holder 1009425 - Primary title: d_raxman has lost the title: d_raxman
+340 - sub vassal: d_raxman - Holder 1009425 - Primary title: d_raxman has lost the title: d_raxman
+340 - vassal: d_raxman - Title given to 1009425 - Primary title: c_suryan
+340 - sub vassal: d_raxman - Title given to 1009425 - Primary title: c_suryan
+340 - vassal: c_suryan - Holder (1009425) has gained d_raxman
+340 - sub vassal: c_suryan - Holder (1009425) has gained d_raxman
+340 - vassal: c_suryan - Setting to vassal of d_raxman in Validate Realm
+340 - sub vassal: c_suryan - Setting to vassal of d_raxman in Validate Realm
+340 - Lost vassal: c_suryan
+340 - vassal: d_raxman - Gained vassal: c_suryan
+340 - sub vassal: d_raxman - Gained vassal: c_suryan
+340 - sub vassal: c_rahayan - Holder 1009425 - Primary title: c_rahayan has lost the title: c_rahayan
+340 - sub vassal: c_rahayan - Title given to 1009425 - Primary title: d_raxman
+340 - vassal: d_raxman - Holder (1009425) has gained c_rahayan
+340 - sub vassal: d_raxman - Holder (1009425) has gained c_rahayan
+340 - sub vassal: c_elya - Holder 1009425 - Primary title: c_elya has lost the title: c_elya
+340 - sub vassal: c_elya - Title given to 1009425 - Primary title: d_raxman
+340 - vassal: d_raxman - Holder (1009425) has gained c_elya
+340 - sub vassal: d_raxman - Holder (1009425) has gained c_elya
+340 - sub vassal: c_renayan - Holder 1009425 - Primary title: c_renayan has lost the title: c_renayan
+340 - sub vassal: c_renayan - Title given to 1009425 - Primary title: d_raxman
+340 - vassal: d_raxman - Holder (1009425) has gained c_renayan
+340 - sub vassal: d_raxman - Holder (1009425) has gained c_renayan
+340 - sub vassal: c_lyan - Holder 1009425 - Primary title: c_lyan has lost the title: c_lyan
+340 - sub vassal: c_lyan - Title given to 1009425 - Primary title: d_raxman
+340 - vassal: d_raxman - Holder (1009425) has gained c_lyan
+340 - sub vassal: d_raxman - Holder (1009425) has gained c_lyan
+340 - sub vassal: c_elyoti - Holder 1009425 - Primary title: c_elyoti has lost the title: c_elyoti
+340 - sub vassal: c_elyoti - Title given to 1009425 - Primary title: d_raxman
+340 - vassal: d_raxman - Holder (1009425) has gained c_elyoti
+340 - sub vassal: d_raxman - Holder (1009425) has gained c_elyoti
+341 - vassal: d_raxman - Holder 1009782 - Primary title: d_raxman has lost the title: c_suryan
+341 - sub vassal: d_raxman - Holder 1009782 - Primary title: d_raxman has lost the title: c_suryan
+341 - sub vassal: c_suryan - Title given to 1009782
+343 - vassal: d_raxman - Holder 1006846 - Primary title: d_raxman has lost the title: d_raxman
+343 - sub vassal: d_raxman - Holder 1006846 - Primary title: d_raxman has lost the title: d_raxman
+343 - vassal: d_raxman - Title given to 1006846 - Primary title: k_tatyan
+343 - sub vassal: d_raxman - Title given to 1006846 - Primary title: k_tatyan
+343 - Holder (1006846) has gained d_raxman
+343 - sub vassal: c_rahayan - Holder 1006846 - Primary title: c_rahayan has lost the title: c_rahayan
+343 - sub vassal: c_rahayan - Title given to 1006846 - Primary title: k_tatyan
+343 - Holder (1006846) has gained c_rahayan
+343 - sub vassal: c_elya - Holder 1006846 - Primary title: c_elya has lost the title: c_elya
+343 - sub vassal: c_elya - Title given to 1006846 - Primary title: k_tatyan
+343 - Holder (1006846) has gained c_elya
+343 - sub vassal: c_renayan - Holder 1006846 - Primary title: c_renayan has lost the title: c_renayan
+343 - sub vassal: c_renayan - Title given to 1006846 - Primary title: k_tatyan
+343 - Holder (1006846) has gained c_renayan
+343 - sub vassal: c_lyan - Holder 1006846 - Primary title: c_lyan has lost the title: c_lyan
+343 - sub vassal: c_lyan - Title given to 1006846 - Primary title: k_tatyan
+343 - Holder (1006846) has gained c_lyan
+343 - sub vassal: c_elyoti - Holder 1006846 - Primary title: c_elyoti has lost the title: c_elyoti
+343 - sub vassal: c_elyoti - Title given to 1006846 - Primary title: k_tatyan
+343 - Holder (1006846) has gained c_elyoti
+343 - sub vassal: c_evayan - Given to 1009906 in HandleTitles - Too many duke titles
+343 - sub vassal: c_evayan - Holder 1009906 - Primary title: c_evayan has lost the title: c_evayan
+343 - sub vassal: c_evayan - Title given to 1009906
+343 - Holder 1009906 - Primary title: k_tatyan has lost the title: d_sucarak
+343 - vassal: d_sucarak - Title given to 1009906 - Primary title: c_evayan
+343 - sub vassal: d_sucarak - Title given to 1009906 - Primary title: c_evayan
+343 - sub vassal: c_evayan - Holder (1009906) has gained d_sucarak
+343 - vassal: d_sucarak - Too many dukes, given to dejure: k_tatyan
+343 - sub vassal: d_sucarak - Too many dukes, given to dejure: k_tatyan
+343 - Holder 1009907 - Primary title: k_tatyan has lost the title: c_lyan
+343 - sub vassal: c_lyan - Title given to 1009907
+343 - Holder 1009908 - Primary title: k_tatyan has lost the title: c_benopti
+343 - Gained vassal: c_benopti
+343 - Holder 1009909 - Primary title: k_tatyan has lost the title: c_rahayan
+343 - sub vassal: c_rahayan - Title given to 1009909
+343 - Holder 1009910 - Primary title: k_tatyan has lost the title: c_elyoti
+343 - sub vassal: c_elyoti - Title given to 1009910
+343 - Holder 1009911 - Primary title: k_tatyan has lost the title: c_elya
+343 - sub vassal: c_elya - Title given to 1009911
+344 - Holder 1009698 - Primary title: k_tatyan has lost the title: k_tatyan
+344 - Title given to 1009698
+344 - vassal: d_tariel - Holder 1009698 - Primary title: d_tariel has lost the title: c_tavizi
+344 - sub vassal: d_tariel - Holder 1009698 - Primary title: d_tariel has lost the title: c_tavizi
+344 - Holder (1009698) has gained c_tavizi
+344 - vassal: d_tariel - Holder 1009698 - Primary title: d_tariel has lost the title: d_tariel
+344 - sub vassal: d_tariel - Holder 1009698 - Primary title: d_tariel has lost the title: d_tariel
+344 - vassal: d_tariel - Title given to 1009698 - Primary title: k_tatyan
+344 - sub vassal: d_tariel - Title given to 1009698 - Primary title: k_tatyan
+344 - Holder (1009698) has gained d_tariel
+344 - vassal: c_emaijyan - Setting to vassal of d_raxman in Validate Realm
+344 - sub vassal: c_emaijyan - Setting to vassal of d_raxman in Validate Realm
+344 - Lost vassal: c_emaijyan
+344 - vassal: c_avor - Setting to vassal of d_raxman in Validate Realm
+344 - sub vassal: c_avor - Setting to vassal of d_raxman in Validate Realm
+344 - Lost vassal: c_avor
+344 - vassal: c_estarak - Setting to vassal of d_raxman in Validate Realm
+344 - sub vassal: c_estarak - Setting to vassal of d_raxman in Validate Realm
+344 - Lost vassal: c_estarak
+344 - vassal: d_raxman - Gained vassal: c_estarak
+344 - sub vassal: d_raxman - Gained vassal: c_estarak
+344 - vassal: d_raxman - Gained vassal: c_avor
+344 - sub vassal: d_raxman - Gained vassal: c_avor
+344 - vassal: d_raxman - Gained vassal: c_emaijyan
+344 - sub vassal: d_raxman - Gained vassal: c_emaijyan
+344 - vassal: d_raxman - Holder 1009698 - Primary title: d_raxman has lost the title: c_emaijyan
+344 - sub vassal: d_raxman - Holder 1009698 - Primary title: d_raxman has lost the title: c_emaijyan
+344 - sub vassal: c_emaijyan - Title given to 1009698 - Primary title: k_tatyan
+344 - Holder (1009698) has gained c_emaijyan
+344 - sub vassal: c_emaijyan - Setting to vassal of k_tatyan in Validate Realm
+344 - vassal: d_raxman - Lost vassal: c_emaijyan
+344 - sub vassal: d_raxman - Lost vassal: c_emaijyan
+344 - Gained vassal: c_emaijyan
+344 - vassal: d_raxman - Holder 1009698 - Primary title: d_raxman has lost the title: c_avor
+344 - sub vassal: d_raxman - Holder 1009698 - Primary title: d_raxman has lost the title: c_avor
+344 - sub vassal: c_avor - Title given to 1009698 - Primary title: k_tatyan
+344 - Holder (1009698) has gained c_avor
+344 - sub vassal: c_avor - Setting to vassal of k_tatyan in Validate Realm
+344 - vassal: d_raxman - Lost vassal: c_avor
+344 - sub vassal: d_raxman - Lost vassal: c_avor
+344 - Gained vassal: c_avor
+344 - vassal: d_raxman - Holder 1009698 - Primary title: d_raxman has lost the title: c_estarak
+344 - sub vassal: d_raxman - Holder 1009698 - Primary title: d_raxman has lost the title: c_estarak
+344 - sub vassal: c_estarak - Title given to 1009698 - Primary title: k_tatyan
+344 - Holder (1009698) has gained c_estarak
+344 - sub vassal: c_estarak - Setting to vassal of k_tatyan in Validate Realm
+344 - vassal: d_raxman - Lost vassal: c_estarak
+344 - sub vassal: d_raxman - Lost vassal: c_estarak
+344 - Gained vassal: c_estarak
+344 - vassal: d_raxman - Holder 1009698 - Primary title: d_raxman has lost the title: d_raxman
+344 - sub vassal: d_raxman - Holder 1009698 - Primary title: d_raxman has lost the title: d_raxman
+344 - vassal: d_raxman - Title given to 1009698 - Primary title: k_tatyan
+344 - sub vassal: d_raxman - Title given to 1009698 - Primary title: k_tatyan
+344 - Holder (1009698) has gained d_raxman
+344 - sub vassal: c_renayan - Holder 1009698 - Primary title: c_renayan has lost the title: c_renayan
+344 - sub vassal: c_renayan - Title given to 1009698 - Primary title: k_tatyan
+344 - Holder (1009698) has gained c_renayan
+360 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+360 - Lost vassal: c_asatexiu
+361 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+361 - Lost vassal: c_asatexiu
+362 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+362 - Lost vassal: c_asatexiu
+363 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+363 - Lost vassal: c_asatexiu
+364 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+364 - Lost vassal: c_asatexiu
+365 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+365 - Lost vassal: c_asatexiu
+366 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+366 - Lost vassal: c_asatexiu
+367 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+367 - Lost vassal: c_asatexiu
+368 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+368 - Lost vassal: c_asatexiu
+369 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+369 - Lost vassal: c_asatexiu
+370 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+370 - Lost vassal: c_asatexiu
+371 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+371 - Lost vassal: c_asatexiu
+372 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+372 - Lost vassal: c_asatexiu
+373 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+373 - Lost vassal: c_asatexiu
+374 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+374 - Lost vassal: c_asatexiu
+374 - Holder 1010669 - Primary title: k_tatyan has lost the title: k_tatyan
+374 - Title given to 1010669
+374 - vassal: d_raxman - Holder 1010669 - Primary title: d_raxman has lost the title: d_raxman
+374 - sub vassal: d_raxman - Holder 1010669 - Primary title: d_raxman has lost the title: d_raxman
+374 - vassal: d_raxman - Title given to 1010669 - Primary title: k_tatyan
+374 - sub vassal: d_raxman - Title given to 1010669 - Primary title: k_tatyan
+374 - Holder (1010669) has gained d_raxman
+374 - sub vassal: c_renayan - Setting to vassal of d_tariel in Validate Realm
+374 - vassal: d_raxman - Lost vassal: c_renayan
+374 - sub vassal: d_raxman - Lost vassal: c_renayan
+374 - vassal: c_estarak - Setting to vassal of d_tariel in Validate Realm
+374 - sub vassal: c_estarak - Setting to vassal of d_tariel in Validate Realm
+374 - Lost vassal: c_estarak
+374 - vassal: c_avor - Setting to vassal of d_tariel in Validate Realm
+374 - sub vassal: c_avor - Setting to vassal of d_tariel in Validate Realm
+374 - Lost vassal: c_avor
+374 - vassal: c_emaijyan - Setting to vassal of d_tariel in Validate Realm
+374 - sub vassal: c_emaijyan - Setting to vassal of d_tariel in Validate Realm
+374 - Lost vassal: c_emaijyan
+374 - vassal: d_tariel - Gained vassal: c_emaijyan
+374 - sub vassal: d_tariel - Gained vassal: c_emaijyan
+374 - vassal: d_tariel - Gained vassal: c_avor
+374 - sub vassal: d_tariel - Gained vassal: c_avor
+374 - vassal: d_tariel - Gained vassal: c_estarak
+374 - sub vassal: d_tariel - Gained vassal: c_estarak
+374 - vassal: d_tariel - Gained vassal: c_renayan
+374 - sub vassal: d_tariel - Gained vassal: c_renayan
+374 - vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: c_renayan
+374 - sub vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: c_renayan
+374 - sub vassal: c_renayan - Title given to 1010669 - Primary title: k_tatyan
+374 - Holder (1010669) has gained c_renayan
+374 - sub vassal: c_renayan - Setting to vassal of k_tatyan in Validate Realm
+374 - vassal: d_tariel - Lost vassal: c_renayan
+374 - sub vassal: d_tariel - Lost vassal: c_renayan
+374 - Gained vassal: c_renayan
+374 - vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: c_estarak
+374 - sub vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: c_estarak
+374 - sub vassal: c_estarak - Title given to 1010669 - Primary title: k_tatyan
+374 - Holder (1010669) has gained c_estarak
+374 - sub vassal: c_estarak - Setting to vassal of k_tatyan in Validate Realm
+374 - vassal: d_tariel - Lost vassal: c_estarak
+374 - sub vassal: d_tariel - Lost vassal: c_estarak
+374 - Gained vassal: c_estarak
+374 - vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: c_avor
+374 - sub vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: c_avor
+374 - sub vassal: c_avor - Title given to 1010669 - Primary title: k_tatyan
+374 - Holder (1010669) has gained c_avor
+374 - sub vassal: c_avor - Setting to vassal of k_tatyan in Validate Realm
+374 - vassal: d_tariel - Lost vassal: c_avor
+374 - sub vassal: d_tariel - Lost vassal: c_avor
+374 - Gained vassal: c_avor
+374 - vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: c_emaijyan
+374 - sub vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: c_emaijyan
+374 - sub vassal: c_emaijyan - Title given to 1010669 - Primary title: k_tatyan
+374 - Holder (1010669) has gained c_emaijyan
+374 - sub vassal: c_emaijyan - Setting to vassal of k_tatyan in Validate Realm
+374 - vassal: d_tariel - Lost vassal: c_emaijyan
+374 - sub vassal: d_tariel - Lost vassal: c_emaijyan
+374 - Gained vassal: c_emaijyan
+374 - vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: d_tariel
+374 - sub vassal: d_tariel - Holder 1010669 - Primary title: d_tariel has lost the title: d_tariel
+374 - vassal: d_tariel - Title given to 1010669 - Primary title: k_tatyan
+374 - sub vassal: d_tariel - Title given to 1010669 - Primary title: k_tatyan
+374 - Holder (1010669) has gained d_tariel
+374 - Holder (1010669) has gained c_tavizi
+375 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+375 - Lost vassal: c_asatexiu
+376 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+376 - Lost vassal: c_asatexiu
+377 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+377 - Lost vassal: c_asatexiu
+378 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+378 - Lost vassal: c_asatexiu
+379 - vassal: c_asatexiu - Setting to vassal of d_tabounu in Validate Realm
+379 - Lost vassal: c_asatexiu
+383 - vassal: d_raxman - Captured byd_tabounu in minor war
+383 - sub vassal: d_raxman - Captured byd_tabounu in minor war
+383 - vassal: d_raxman - Made independent
+383 - sub vassal: d_raxman - Made independent
+383 - Holder 1011742 - Primary title: k_tatyan has lost the title: d_raxman
+383 - vassal: d_sucarak - Made independent due to being a seperate island prior to giving to neighbour
+383 - sub vassal: d_sucarak - Made independent due to being a seperate island prior to giving to neighbour
+383 - vassal: d_sucarak - Made independent
+383 - sub vassal: d_sucarak - Made independent
+383 - vassal: c_kirarak - Made vassal of neighbour (d_tabounu) due to being a seperate island
+383 - sub vassal: c_kirarak - Made vassal of neighbour (d_tabounu) due to being a seperate island
+383 - Lost vassal: c_kirarak
+383 - vassal: c_tucan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+383 - sub vassal: c_tucan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+383 - Lost vassal: c_tucan
+383 - vassal: c_kenan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+383 - sub vassal: c_kenan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+383 - Lost vassal: c_kenan
+383 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+383 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+383 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+383 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+384 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+384 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+384 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+384 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+385 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+385 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+385 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+385 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+386 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+386 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+386 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+386 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+387 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+387 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+387 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+387 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+388 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+388 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+388 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+388 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+389 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+389 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+389 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+389 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+390 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+390 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+390 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+390 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+391 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+391 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+391 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+391 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+392 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+392 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+392 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+392 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+393 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+393 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+393 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+393 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+394 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+394 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+394 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+394 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+395 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+395 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+395 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+395 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+396 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+396 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+396 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+396 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+397 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+397 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+397 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+397 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+398 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+398 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+398 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+398 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu
+399 - vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+399 - sub vassal: c_renayan - Made vassal of neighbour (d_tabounu) due to being a seperate island
+399 - vassal: c_renayan - Given to neighbour holder of d_tabounu
+399 - sub vassal: c_renayan - Given to neighbour holder of d_tabounu

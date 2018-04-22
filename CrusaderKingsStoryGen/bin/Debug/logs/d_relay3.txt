@@ -1,0 +1,109 @@
+200 - Title given to 1000379
+200 - vassal: c_kipeza - Given to 1000382 via AddCharacterForTitle
+200 - sub vassal: c_kipeza - Given to 1000382 via AddCharacterForTitle
+200 - vassal: c_kipeza - Holder 1000382 - Primary title: c_kipeza has lost the title: c_kipeza
+200 - sub vassal: c_kipeza - Holder 1000382 - Primary title: c_kipeza has lost the title: c_kipeza
+200 - vassal: c_kipeza - Title given to 1000382
+200 - sub vassal: c_kipeza - Title given to 1000382
+200 - vassal: c_etoloro - Given to 1000384 via AddCharacterForTitle
+200 - sub vassal: c_etoloro - Given to 1000384 via AddCharacterForTitle
+200 - vassal: c_etoloro - Holder 1000384 - Primary title: c_etoloro has lost the title: c_etoloro
+200 - sub vassal: c_etoloro - Holder 1000384 - Primary title: c_etoloro has lost the title: c_etoloro
+200 - vassal: c_etoloro - Title given to 1000384
+200 - sub vassal: c_etoloro - Title given to 1000384
+200 - vassal: c_betirza - Holder 1000379 - Primary title: c_betirza has lost the title: c_betirza
+200 - sub vassal: c_betirza - Holder 1000379 - Primary title: c_betirza has lost the title: c_betirza
+200 - vassal: c_betirza - Title given to 1000379 - Primary title: d_relay
+200 - sub vassal: c_betirza - Title given to 1000379 - Primary title: d_relay
+200 - Holder (1000379) has gained c_betirza
+200 - vassal: c_kipeza - Holder 1000379 - Primary title: c_kipeza has lost the title: c_kipeza
+200 - sub vassal: c_kipeza - Holder 1000379 - Primary title: c_kipeza has lost the title: c_kipeza
+200 - vassal: c_kipeza - Title given to 1000379 - Primary title: d_relay
+200 - sub vassal: c_kipeza - Title given to 1000379 - Primary title: d_relay
+200 - Holder (1000379) has gained c_kipeza
+200 - vassal: c_tivesse - Holder 1000379 - Primary title: c_tivesse has lost the title: c_tivesse
+200 - sub vassal: c_tivesse - Holder 1000379 - Primary title: c_tivesse has lost the title: c_tivesse
+200 - vassal: c_tivesse - Title given to 1000379 - Primary title: d_relay
+200 - sub vassal: c_tivesse - Title given to 1000379 - Primary title: d_relay
+200 - Holder (1000379) has gained c_tivesse
+206 - Made vassal of neighbour (k_ehelama) due to being a seperate island
+206 - Given to neighbour holder of k_ehelama
+206 - Holder 1001028 - Primary title: d_relay has lost the title: d_relay
+206 - Title given to 1001028 - Primary title: k_ehelama
+215 - vassal: c_tivesse - Given to 1002440 in HandleTitles - Too many duke titles
+215 - vassal: c_tivesse - Holder 1002440 - Primary title: c_tivesse has lost the title: c_tivesse
+215 - vassal: c_tivesse - Title given to 1002440
+215 - Title given to 1002440 - Primary title: c_tivesse
+215 - vassal: c_tivesse - Holder (1002440) has gained d_relay
+215 - Too many dukes, made direct title into vassal of k_ehelama
+231 - Holder 1001579 - Primary title: d_relay has lost the title: d_relay
+231 - Title given to 1001579 - Primary title: k_ehelama
+231 - vassal: c_tivesse - Holder 1001579 - Primary title: c_tivesse has lost the title: c_tivesse
+231 - vassal: c_tivesse - Title given to 1001579 - Primary title: k_ehelama
+254 - Holder 1004204 - Primary title: d_relay has lost the title: d_relay
+254 - Title given to 1004204 - Primary title: k_ehelama
+254 - vassal: c_tivesse - Setting to vassal of d_koladan in Validate Realm
+254 - Lost vassal: c_tivesse
+267 - Gained vassal: c_tivesse
+267 - Holder 1005102 - Primary title: d_relay has lost the title: d_relay
+267 - Title given to 1005102 - Primary title: k_ehelama
+267 - vassal: c_tivesse - Setting independent in Validate Realm
+267 - vassal: c_tivesse - Made independent
+298 - Holder 1006066 - Primary title: d_relay has lost the title: d_relay
+298 - Title given to 1006066 - Primary title: k_ehelama
+300 - vassal: c_kipeza - Holder 1007011 - Primary title: c_kipeza has lost the title: c_kipeza
+300 - vassal: c_kipeza - Title given to 1007011
+300 - vassal: c_betirza - Holder 1007011 - Primary title: c_betirza has lost the title: c_betirza
+300 - vassal: c_betirza - Title given to 1007011 - Primary title: c_kipeza
+300 - vassal: c_kipeza - Holder (1007011) has gained c_betirza
+309 - Holder 1007068 - Primary title: d_relay has lost the title: d_relay
+309 - Title given to 1007068 - Primary title: k_ehelama
+335 - Holder 1006302 - Primary title: d_relay has lost the title: d_kaykory
+335 - Gained vassal: c_bibril
+335 - Gained vassal: c_loisava
+335 - Gained vassal: c_wahdi
+335 - Gained vassal: c_belida
+335 - Gained vassal: c_nyarael
+335 - Holder 1006302 - Primary title: d_relay has lost the title: c_bibril
+335 - vassal: c_bibril - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_bibril - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_bibril
+335 - Holder 1006302 - Primary title: d_relay has lost the title: c_loisava
+335 - vassal: c_loisava - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_loisava - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_loisava
+335 - Holder 1006302 - Primary title: d_relay has lost the title: c_wahdi
+335 - vassal: c_wahdi - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_wahdi - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_wahdi
+335 - Holder 1006302 - Primary title: d_relay has lost the title: c_belida
+335 - vassal: c_belida - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_belida - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_belida
+335 - Holder 1006302 - Primary title: d_relay has lost the title: c_nyarael
+335 - vassal: c_nyarael - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_nyarael - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_nyarael
+335 - Holder 1006302 - Primary title: d_relay has lost the title: d_relay
+335 - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_kipeza - Holder 1006302 - Primary title: c_kipeza has lost the title: c_betirza
+335 - vassal: c_betirza - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_kipeza - Holder 1006302 - Primary title: c_kipeza has lost the title: c_kipeza
+335 - vassal: c_kipeza - Title given to 1006302 - Primary title: k_ehelama
+335 - vassal: c_kipeza - Given to 1008853 in HandleTitles - Too many duke titles
+335 - vassal: c_kipeza - Title given to 1008853
+335 - Title given to 1008853 - Primary title: c_kipeza
+335 - vassal: c_kipeza - Holder (1008853) has gained d_relay
+335 - vassal: c_betirza - Setting to vassal of k_ehelama in Validate Realm
+335 - Lost vassal: c_betirza
+335 - Too many dukes, made direct title into vassal of k_ehelama
+367 - Holder 1006621 - Primary title: d_relay has lost the title: d_relay
+367 - Title given to 1006621
+367 - vassal: c_kipeza - Holder 1006621 - Primary title: c_kipeza has lost the title: c_kipeza
+367 - vassal: c_kipeza - Title given to 1006621 - Primary title: d_relay
+367 - Holder (1006621) has gained c_kipeza
+369 - Holder 1010506 - Primary title: d_relay has lost the title: d_relay
+369 - Title given to 1010506
+369 - vassal: c_kipeza - Holder 1010506 - Primary title: c_kipeza has lost the title: c_kipeza
+369 - vassal: c_kipeza - Title given to 1010506 - Primary title: d_relay
+369 - Holder (1010506) has gained c_kipeza

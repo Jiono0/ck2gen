@@ -1,0 +1,60 @@
+200 - Title given to 1000712
+200 - vassal: c_ramolay - Holder 1000712 - Primary title: c_ramolay has lost the title: c_ramolay
+200 - sub vassal: c_ramolay - Holder 1000712 - Primary title: c_ramolay has lost the title: c_ramolay
+200 - vassal: c_ramolay - Title given to 1000712 - Primary title: d_wet
+200 - sub vassal: c_ramolay - Title given to 1000712 - Primary title: d_wet
+200 - Holder (1000712) has gained c_ramolay
+200 - vassal: c_duerish - Holder 1000712 - Primary title: c_duerish has lost the title: c_duerish
+200 - sub vassal: c_duerish - Holder 1000712 - Primary title: c_duerish has lost the title: c_duerish
+200 - vassal: c_duerish - Title given to 1000712 - Primary title: d_wet
+200 - sub vassal: c_duerish - Title given to 1000712 - Primary title: d_wet
+200 - Holder (1000712) has gained c_duerish
+200 - vassal: c_kadila - Holder 1000712 - Primary title: c_kadila has lost the title: c_kadila
+200 - sub vassal: c_kadila - Holder 1000712 - Primary title: c_kadila has lost the title: c_kadila
+200 - vassal: c_kadila - Title given to 1000712 - Primary title: d_wet
+200 - sub vassal: c_kadila - Title given to 1000712 - Primary title: d_wet
+200 - Holder (1000712) has gained c_kadila
+200 - vassal: c_teral - Holder 1000712 - Primary title: c_teral has lost the title: c_teral
+200 - sub vassal: c_teral - Holder 1000712 - Primary title: c_teral has lost the title: c_teral
+200 - vassal: c_teral - Title given to 1000712 - Primary title: d_wet
+200 - sub vassal: c_teral - Title given to 1000712 - Primary title: d_wet
+200 - Holder (1000712) has gained c_teral
+206 - Holder (1000712) has gained k_wuerna
+213 - Holder 1001286 - Primary title: d_wet has lost the title: d_wet
+213 - Title given to 1001286 - Primary title: k_wuerna
+213 - vassal: c_teral - Setting to vassal of d_rigavid in Validate Realm
+213 - Lost vassal: c_teral
+213 - vassal: c_kadila - Setting to vassal of d_rigavid in Validate Realm
+213 - Lost vassal: c_kadila
+213 - vassal: c_duerish - Setting to vassal of d_rigavid in Validate Realm
+213 - Lost vassal: c_duerish
+213 - vassal: c_ramolay - Setting to vassal of d_rigavid in Validate Realm
+213 - Lost vassal: c_ramolay
+214 - Destroyed due to flagged problem
+214 - Made independent
+214 - Title destroyed
+382 - Given to 1009049 in TestCreateEmpire
+382 - Title given to 1009049 - Primary title: d_tugauna
+382 - Setting independent in Validate Realm
+382 - Made independent
+382 - Made independent for title creation d_wet for d_tugauna
+382 - Gained vassal: c_negyamo
+382 - Gained vassal: c_leleamm
+382 - Gained vassal: c_teral
+382 - Gained vassal: c_kadila
+382 - Gained vassal: c_duerish
+383 - Holder 1009454 - Primary title: d_wet has lost the title: d_wet
+383 - Title given to 1009454 - Primary title: e_samorka
+388 - vassal: c_negyamo - Holder 1009454 - Primary title: c_negyamo has lost the title: c_negyamo
+388 - vassal: c_negyamo - Title given to 1009454 - Primary title: e_samorka
+388 - vassal: c_leleamm - Holder 1009454 - Primary title: c_leleamm has lost the title: c_leleamm
+388 - vassal: c_leleamm - Title given to 1009454 - Primary title: e_samorka
+388 - vassal: c_teral - Holder 1009454 - Primary title: c_teral has lost the title: c_teral
+388 - vassal: c_teral - Title given to 1009454 - Primary title: e_samorka
+388 - vassal: c_kadila - Holder 1009454 - Primary title: c_kadila has lost the title: c_kadila
+388 - vassal: c_kadila - Title given to 1009454 - Primary title: e_samorka
+388 - vassal: c_duerish - Holder 1009454 - Primary title: c_duerish has lost the title: c_duerish
+388 - vassal: c_duerish - Title given to 1009454 - Primary title: e_samorka
+388 - vassal: c_leleamm - Title given to 1011453
+388 - vassal: c_duerish - Title given to 1011455
+388 - vassal: c_negyamo - Title given to 1011456

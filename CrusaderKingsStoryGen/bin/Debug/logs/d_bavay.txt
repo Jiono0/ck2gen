@@ -1,0 +1,204 @@
+200 - Title given to 1000668
+200 - vassal: c_tarew - Given to 1000671 via AddCharacterForTitle
+200 - sub vassal: c_tarew - Given to 1000671 via AddCharacterForTitle
+200 - vassal: c_tarew - Holder 1000671 - Primary title: c_tarew has lost the title: c_tarew
+200 - sub vassal: c_tarew - Holder 1000671 - Primary title: c_tarew has lost the title: c_tarew
+200 - vassal: c_tarew - Title given to 1000671
+200 - sub vassal: c_tarew - Title given to 1000671
+200 - vassal: c_akemosco - Holder 1000647 - Primary title: c_akemosco has lost the title: c_ebega
+200 - sub vassal: c_akemosco - Holder 1000647 - Primary title: c_akemosco has lost the title: c_ebega
+200 - sub vassal: c_ebega - Title given to 1000647 - Primary title: d_kakance
+200 - vassal: c_evavor - Holder 1000668 - Primary title: c_evavor has lost the title: c_evavor
+200 - sub vassal: c_evavor - Holder 1000668 - Primary title: c_evavor has lost the title: c_evavor
+200 - vassal: c_evavor - Title given to 1000668 - Primary title: d_bavay
+200 - sub vassal: c_evavor - Title given to 1000668 - Primary title: d_bavay
+200 - Holder (1000668) has gained c_evavor
+200 - vassal: c_tarew - Holder 1000668 - Primary title: c_tarew has lost the title: c_tarew
+200 - sub vassal: c_tarew - Holder 1000668 - Primary title: c_tarew has lost the title: c_tarew
+200 - vassal: c_tarew - Title given to 1000668 - Primary title: d_bavay
+200 - sub vassal: c_tarew - Title given to 1000668 - Primary title: d_bavay
+200 - Holder (1000668) has gained c_tarew
+200 - vassal: c_akemosco - Holder 1000668 - Primary title: c_akemosco has lost the title: c_akemosco
+200 - sub vassal: c_akemosco - Holder 1000668 - Primary title: c_akemosco has lost the title: c_akemosco
+200 - vassal: c_akemosco - Title given to 1000668 - Primary title: d_bavay
+200 - sub vassal: c_akemosco - Title given to 1000668 - Primary title: d_bavay
+200 - Holder (1000668) has gained c_akemosco
+215 - Captured byk_ketus in minor war
+230 - Holder 1002366 - Primary title: d_bavay has lost the title: d_bavay
+230 - Title given to 1002366
+230 - vassal: c_evavor - Holder 1002366 - Primary title: c_evavor has lost the title: c_evavor
+230 - vassal: c_evavor - Title given to 1002366 - Primary title: d_bavay
+230 - Holder (1002366) has gained c_evavor
+230 - vassal: c_tarew - Holder 1002366 - Primary title: c_tarew has lost the title: c_tarew
+230 - vassal: c_tarew - Title given to 1002366 - Primary title: d_bavay
+230 - Holder (1002366) has gained c_tarew
+230 - vassal: c_akemosco - Holder 1002366 - Primary title: c_akemosco has lost the title: c_akemosco
+230 - vassal: c_akemosco - Title given to 1002366 - Primary title: d_bavay
+230 - Holder (1002366) has gained c_akemosco
+257 - Holder (1002366) has gained d_wurance
+257 - Holder (1002366) has gained c_kayance
+257 - Holder (1002366) has gained c_sibenia
+260 - Holder 1003654 - Primary title: d_bavay has lost the title: d_bavay
+260 - Title given to 1003654
+260 - vassal: c_akemosco - Setting to vassal of d_wurance in Validate Realm
+260 - Lost vassal: c_akemosco
+260 - vassal: c_tarew - Setting to vassal of d_wurance in Validate Realm
+260 - Lost vassal: c_tarew
+260 - vassal: c_evavor - Setting to vassal of d_wurance in Validate Realm
+260 - Lost vassal: c_evavor
+260 - Holder (1003654) has gained d_wurance
+260 - Holder (1003654) has gained c_akemosco
+260 - Holder (1003654) has gained c_tarew
+260 - Holder (1003654) has gained c_evavor
+260 - Holder (1003654) has gained c_kayance
+260 - Holder (1003654) has gained c_sibenia
+261 - Destroyed due to flagged problem
+261 - Made independent
+261 - Title destroyed
+267 - Given to 1003654 in TestCreateEmpire
+267 - Title given to 1003654 - Primary title: d_wurance
+267 - Made independent for title creation d_bavay for d_wurance
+267 - Made independent
+267 - Gained vassal: c_akemosco
+267 - Gained vassal: c_tarew
+267 - Gained vassal: c_evavor
+267 - Gained vassal: c_kayance
+267 - Gained vassal: c_sibenia
+279 - Holder (1003654) has gained d_wurance
+279 - vassal: c_akemosco - Set liege on title creation d_wurance
+279 - sub vassal: c_akemosco - Set liege on title creation d_wurance
+279 - Lost vassal: c_akemosco
+279 - vassal: c_tarew - Set liege on title creation d_wurance
+279 - sub vassal: c_tarew - Set liege on title creation d_wurance
+279 - Lost vassal: c_tarew
+279 - vassal: c_evavor - Set liege on title creation d_wurance
+279 - sub vassal: c_evavor - Set liege on title creation d_wurance
+279 - Lost vassal: c_evavor
+279 - vassal: c_kayance - Set liege on title creation d_wurance
+279 - sub vassal: c_kayance - Set liege on title creation d_wurance
+279 - Lost vassal: c_kayance
+279 - vassal: c_sibenia - Set liege on title creation d_wurance
+279 - sub vassal: c_sibenia - Set liege on title creation d_wurance
+279 - Lost vassal: c_sibenia
+279 - sub vassal: c_akemosco - Setting independent due to liege destruction
+279 - sub vassal: c_akemosco - Made independent
+279 - sub vassal: c_tarew - Setting independent due to liege destruction
+279 - sub vassal: c_tarew - Made independent
+279 - sub vassal: c_sibenia - Setting independent due to liege destruction
+279 - sub vassal: c_sibenia - Made independent
+279 - sub vassal: c_kayance - Setting independent due to liege destruction
+279 - sub vassal: c_kayance - Made independent
+279 - sub vassal: c_evavor - Setting independent due to liege destruction
+279 - sub vassal: c_evavor - Made independent
+280 - Destroyed due to flagged problem
+280 - Title destroyed
+324 - Given to 1006928 in TestCreateEmpire
+324 - Title given to 1006928 - Primary title: c_sibenia
+324 - Gained vassal: c_sibenia
+324 - Made independent for title creation d_bavay for d_bavay
+324 - vassal: c_sibenia - Set liege on title creation d_bavay
+324 - sub vassal: c_sibenia - Set liege on title creation d_bavay
+324 - Gained vassal: c_kayance
+324 - Gained vassal: c_evavor
+324 - Gained vassal: c_tarew
+324 - Gained vassal: c_akemosco
+324 - Destroyed due to no capital's obtainable
+324 - Title destroyed
+324 - vassal: c_akemosco - Setting independent due to liege destruction
+324 - vassal: c_akemosco - Made independent
+324 - vassal: c_tarew - Setting independent due to liege destruction
+324 - vassal: c_tarew - Made independent
+324 - vassal: c_kayance - Setting independent due to liege destruction
+324 - vassal: c_kayance - Made independent
+324 - vassal: c_evavor - Setting independent due to liege destruction
+324 - vassal: c_evavor - Made independent
+324 - vassal: c_sibenia - Setting independent due to liege destruction
+324 - vassal: c_sibenia - Made independent
+336 - Given to 1006928 in TestCreateEmpire
+336 - Title given to 1006928 - Primary title: c_sibenia
+336 - Gained vassal: c_sibenia
+336 - Made independent for title creation d_bavay for d_bavay
+336 - vassal: c_sibenia - Set liege on title creation d_bavay
+336 - sub vassal: c_sibenia - Set liege on title creation d_bavay
+336 - Gained vassal: c_kayance
+336 - Gained vassal: c_evavor
+336 - Gained vassal: c_tarew
+336 - Gained vassal: c_akemosco
+336 - Destroyed due to no capital's obtainable
+336 - Title destroyed
+336 - vassal: c_akemosco - Setting independent due to liege destruction
+336 - vassal: c_akemosco - Made independent
+336 - vassal: c_tarew - Setting independent due to liege destruction
+336 - vassal: c_tarew - Made independent
+336 - vassal: c_evavor - Setting independent due to liege destruction
+336 - vassal: c_evavor - Made independent
+336 - vassal: c_kayance - Setting independent due to liege destruction
+336 - vassal: c_kayance - Made independent
+336 - vassal: c_sibenia - Setting independent due to liege destruction
+336 - vassal: c_sibenia - Made independent
+341 - Given to 1006928 in TestCreateEmpire
+341 - Title given to 1006928 - Primary title: c_sibenia
+341 - Gained vassal: c_sibenia
+341 - Made independent for title creation d_bavay for d_bavay
+341 - vassal: c_sibenia - Set liege on title creation d_bavay
+341 - sub vassal: c_sibenia - Set liege on title creation d_bavay
+341 - Gained vassal: c_kayance
+341 - Gained vassal: c_evavor
+341 - Gained vassal: c_tarew
+341 - Gained vassal: c_akemosco
+341 - Destroyed due to no capital's obtainable
+341 - Title destroyed
+341 - vassal: c_akemosco - Setting independent due to liege destruction
+341 - vassal: c_akemosco - Made independent
+341 - vassal: c_tarew - Setting independent due to liege destruction
+341 - vassal: c_tarew - Made independent
+341 - vassal: c_evavor - Setting independent due to liege destruction
+341 - vassal: c_evavor - Made independent
+341 - vassal: c_kayance - Setting independent due to liege destruction
+341 - vassal: c_kayance - Made independent
+341 - vassal: c_sibenia - Setting independent due to liege destruction
+341 - vassal: c_sibenia - Made independent
+349 - Given to 1010088 in TestCreateEmpire
+349 - Title given to 1010088 - Primary title: c_sibenia
+349 - Gained vassal: c_sibenia
+349 - Made independent for title creation d_bavay for d_bavay
+349 - vassal: c_sibenia - Set liege on title creation d_bavay
+349 - sub vassal: c_sibenia - Set liege on title creation d_bavay
+349 - Gained vassal: c_kayance
+349 - Gained vassal: c_evavor
+349 - Gained vassal: c_tarew
+349 - Gained vassal: c_akemosco
+349 - Destroyed due to no capital's obtainable
+349 - Title destroyed
+349 - vassal: c_akemosco - Setting independent due to liege destruction
+349 - vassal: c_akemosco - Made independent
+349 - vassal: c_tarew - Setting independent due to liege destruction
+349 - vassal: c_tarew - Made independent
+349 - vassal: c_evavor - Setting independent due to liege destruction
+349 - vassal: c_evavor - Made independent
+349 - vassal: c_kayance - Setting independent due to liege destruction
+349 - vassal: c_kayance - Made independent
+349 - vassal: c_sibenia - Setting independent due to liege destruction
+349 - vassal: c_sibenia - Made independent
+387 - Given to 1010647 in TestCreateEmpire
+387 - Title given to 1010647 - Primary title: c_sibenia
+387 - Gained vassal: c_sibenia
+387 - Made independent for title creation d_bavay for d_bavay
+387 - vassal: c_sibenia - Set liege on title creation d_bavay
+387 - sub vassal: c_sibenia - Set liege on title creation d_bavay
+387 - Gained vassal: c_kayance
+387 - Gained vassal: c_evavor
+387 - Gained vassal: c_tarew
+387 - Gained vassal: c_akemosco
+387 - Destroyed due to no capital's obtainable
+387 - Title destroyed
+387 - vassal: c_akemosco - Setting independent due to liege destruction
+387 - vassal: c_akemosco - Made independent
+387 - vassal: c_tarew - Setting independent due to liege destruction
+387 - vassal: c_tarew - Made independent
+387 - vassal: c_evavor - Setting independent due to liege destruction
+387 - vassal: c_evavor - Made independent
+387 - vassal: c_kayance - Setting independent due to liege destruction
+387 - vassal: c_kayance - Made independent
+387 - vassal: c_sibenia - Setting independent due to liege destruction
+387 - vassal: c_sibenia - Made independent

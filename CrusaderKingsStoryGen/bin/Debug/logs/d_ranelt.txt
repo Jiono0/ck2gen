@@ -1,0 +1,59 @@
+200 - Title given to 1000180
+200 - vassal: c_baimava - Holder 1000180 - Primary title: c_baimava has lost the title: c_baimava
+200 - sub vassal: c_baimava - Holder 1000180 - Primary title: c_baimava has lost the title: c_baimava
+200 - vassal: c_baimava - Title given to 1000180 - Primary title: d_ranelt
+200 - sub vassal: c_baimava - Title given to 1000180 - Primary title: d_ranelt
+200 - Holder (1000180) has gained c_baimava
+200 - vassal: c_ketohn - Holder 1000180 - Primary title: c_ketohn has lost the title: c_ketohn
+200 - sub vassal: c_ketohn - Holder 1000180 - Primary title: c_ketohn has lost the title: c_ketohn
+200 - vassal: c_ketohn - Title given to 1000180 - Primary title: d_ranelt
+200 - sub vassal: c_ketohn - Title given to 1000180 - Primary title: d_ranelt
+200 - Holder (1000180) has gained c_ketohn
+200 - vassal: c_danolas - Holder 1000180 - Primary title: c_danolas has lost the title: c_danolas
+200 - sub vassal: c_danolas - Holder 1000180 - Primary title: c_danolas has lost the title: c_danolas
+200 - vassal: c_danolas - Title given to 1000180 - Primary title: d_ranelt
+200 - sub vassal: c_danolas - Title given to 1000180 - Primary title: d_ranelt
+200 - Holder (1000180) has gained c_danolas
+238 - Holder 1002095 - Primary title: d_ranelt has lost the title: d_ranelt
+238 - Title given to 1002095
+238 - vassal: c_baimava - Holder 1002095 - Primary title: c_baimava has lost the title: c_baimava
+238 - vassal: c_baimava - Title given to 1002095 - Primary title: d_ranelt
+238 - Holder (1002095) has gained c_baimava
+238 - vassal: c_ketohn - Holder 1002095 - Primary title: c_ketohn has lost the title: c_ketohn
+238 - vassal: c_ketohn - Title given to 1002095 - Primary title: d_ranelt
+238 - Holder (1002095) has gained c_ketohn
+238 - vassal: c_danolas - Holder 1002095 - Primary title: c_danolas has lost the title: c_danolas
+238 - vassal: c_danolas - Title given to 1002095 - Primary title: d_ranelt
+238 - Holder (1002095) has gained c_danolas
+273 - Holder 1004370 - Primary title: d_ranelt has lost the title: d_ranelt
+273 - Title given to 1004370 - Primary title: k_qujman
+273 - vassal: c_baimava - Holder 1004370 - Primary title: c_baimava has lost the title: c_baimava
+273 - vassal: c_baimava - Title given to 1004370 - Primary title: k_qujman
+273 - vassal: c_ketohn - Holder 1004370 - Primary title: c_ketohn has lost the title: c_ketohn
+273 - vassal: c_ketohn - Title given to 1004370 - Primary title: k_qujman
+273 - vassal: c_danolas - Holder 1004370 - Primary title: c_danolas has lost the title: c_danolas
+273 - vassal: c_danolas - Title given to 1004370 - Primary title: k_qujman
+273 - vassal: c_ketohn - Given to 1005719 in HandleTitles - Too many duke titles
+273 - vassal: c_ketohn - Title given to 1005719
+273 - Title given to 1005719 - Primary title: c_ketohn
+273 - vassal: c_ketohn - Holder (1005719) has gained d_ranelt
+273 - vassal: c_baimava - Setting to vassal of k_qujman in Validate Realm
+273 - Lost vassal: c_baimava
+273 - vassal: c_danolas - Setting to vassal of k_qujman in Validate Realm
+273 - Lost vassal: c_danolas
+273 - Too many dukes, given to dejure: k_qujman
+292 - Holder 1005762 - Primary title: d_ranelt has lost the title: d_ranelt
+292 - Title given to 1005762
+292 - vassal: c_ketohn - Holder 1005762 - Primary title: c_ketohn has lost the title: c_ketohn
+292 - vassal: c_ketohn - Title given to 1005762 - Primary title: d_ranelt
+292 - Holder (1005762) has gained c_ketohn
+294 - Holder 1004580 - Primary title: d_ranelt has lost the title: d_ranelt
+294 - Title given to 1004580 - Primary title: c_runal
+294 - Gained vassal: c_runal
+294 - vassal: c_ketohn - Holder 1004580 - Primary title: c_ketohn has lost the title: c_ketohn
+294 - vassal: c_ketohn - Title given to 1004580 - Primary title: d_ranelt
+294 - Holder (1004580) has gained c_ketohn
+295 - Holder 1004370 - Primary title: d_ranelt has lost the title: d_ranelt
+295 - Title given to 1004370 - Primary title: k_qujman
+295 - vassal: c_runal - Holder 1004370 - Primary title: c_runal has lost the title: c_runal
+295 - vassal: c_

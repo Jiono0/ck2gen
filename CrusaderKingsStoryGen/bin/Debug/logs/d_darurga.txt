@@ -1,0 +1,110 @@
+200 - Title given to 1000629
+200 - vassal: c_qedava - Given to 1000633 via AddCharacterForTitle
+200 - sub vassal: c_qedava - Given to 1000633 via AddCharacterForTitle
+200 - vassal: c_qedava - Holder 1000633 - Primary title: c_qedava has lost the title: c_qedava
+200 - sub vassal: c_qedava - Holder 1000633 - Primary title: c_qedava has lost the title: c_qedava
+200 - vassal: c_qedava - Title given to 1000633
+200 - sub vassal: c_qedava - Title given to 1000633
+200 - vassal: c_awiba-va - Holder 1000618 - Primary title: c_awiba-va has lost the title: c_eturina
+200 - sub vassal: c_awiba-va - Holder 1000618 - Primary title: c_awiba-va has lost the title: c_eturina
+200 - sub vassal: c_eturina - Title given to 1000618 - Primary title: d_taqas
+200 - vassal: c_kiba-va - Holder 1000629 - Primary title: c_kiba-va has lost the title: c_kiba-va
+200 - sub vassal: c_kiba-va - Holder 1000629 - Primary title: c_kiba-va has lost the title: c_kiba-va
+200 - vassal: c_kiba-va - Title given to 1000629 - Primary title: d_darurga
+200 - sub vassal: c_kiba-va - Title given to 1000629 - Primary title: d_darurga
+200 - Holder (1000629) has gained c_kiba-va
+200 - vassal: c_nulava - Holder 1000629 - Primary title: c_nulava has lost the title: c_nulava
+200 - sub vassal: c_nulava - Holder 1000629 - Primary title: c_nulava has lost the title: c_nulava
+200 - vassal: c_nulava - Title given to 1000629 - Primary title: d_darurga
+200 - sub vassal: c_nulava - Title given to 1000629 - Primary title: d_darurga
+200 - Holder (1000629) has gained c_nulava
+200 - vassal: c_qedava - Holder 1000629 - Primary title: c_qedava has lost the title: c_qedava
+200 - sub vassal: c_qedava - Holder 1000629 - Primary title: c_qedava has lost the title: c_qedava
+200 - vassal: c_qedava - Title given to 1000629 - Primary title: d_darurga
+200 - sub vassal: c_qedava - Title given to 1000629 - Primary title: d_darurga
+200 - Holder (1000629) has gained c_qedava
+200 - vassal: c_awiba-va - Holder 1000629 - Primary title: c_awiba-va has lost the title: c_awiba-va
+200 - sub vassal: c_awiba-va - Holder 1000629 - Primary title: c_awiba-va has lost the title: c_awiba-va
+200 - vassal: c_awiba-va - Title given to 1000629 - Primary title: d_darurga
+200 - sub vassal: c_awiba-va - Title given to 1000629 - Primary title: d_darurga
+200 - Holder (1000629) has gained c_awiba-va
+202 - Holder 1000597 - Primary title: d_darurga has lost the title: d_darurga
+202 - Title given to 1000597 - Primary title: d_badael
+202 - vassal: c_awiba-va - Holder 1000597 - Primary title: c_awiba-va has lost the title: c_awiba-va
+202 - vassal: c_awiba-va - Title given to 1000597 - Primary title: d_badael
+202 - vassal: c_qedava - Holder 1000597 - Primary title: c_qedava has lost the title: c_qedava
+202 - vassal: c_qedava - Title given to 1000597 - Primary title: d_badael
+202 - vassal: c_nulava - Holder 1000597 - Primary title: c_nulava has lost the title: c_nulava
+202 - vassal: c_nulava - Title given to 1000597 - Primary title: d_badael
+202 - vassal: c_kiba-va - Holder 1000597 - Primary title: c_kiba-va has lost the title: c_kiba-va
+202 - vassal: c_kiba-va - Title given to 1000597 - Primary title: d_badael
+203 - Holder 1001716 - Primary title: d_darurga has lost the title: c_egandu
+203 - Holder 1001717 - Primary title: d_darurga has lost the title: c_luryuk
+213 - Holder 1002121 - Primary title: d_darurga has lost the title: d_badael
+213 - Gained vassal: c_libina
+213 - Holder 1002121 - Primary title: d_darurga has lost the title: c_libina
+213 - vassal: c_libina - Title given to 1002121 - Primary title: d_badael
+213 - vassal: c_libina - Setting to vassal of d_badael in Validate Realm
+213 - Lost vassal: c_libina
+213 - Holder 1002121 - Primary title: d_darurga has lost the title: d_darurga
+213 - Title given to 1002121 - Primary title: d_badael
+213 - vassal: c_awiba-va - Holder 1002121 - Primary title: c_awiba-va has lost the title: c_awiba-va
+213 - vassal: c_awiba-va - Title given to 1002121 - Primary title: d_badael
+213 - vassal: c_qedava - Holder 1002121 - Primary title: c_qedava has lost the title: c_qedava
+213 - vassal: c_qedava - Title given to 1002121 - Primary title: d_badael
+213 - vassal: c_nulava - Holder 1002121 - Primary title: c_nulava has lost the title: c_nulava
+213 - vassal: c_nulava - Title given to 1002121 - Primary title: d_badael
+213 - vassal: c_kiba-va - Holder 1002121 - Primary title: c_kiba-va has lost the title: c_kiba-va
+213 - vassal: c_kiba-va - Title given to 1002121 - Primary title: d_badael
+223 - Holder (1002121) has gained k_kinaneh
+229 - vassal: c_qedava - Given to 1003367 in HandleTitles - Too many duke titles
+229 - vassal: c_qedava - Title given to 1003367
+229 - Title given to 1003367 - Primary title: c_qedava
+229 - vassal: c_qedava - Holder (1003367) has gained d_darurga
+229 - vassal: c_kiba-va - Setting to vassal of k_kinaneh in Validate Realm
+229 - Lost vassal: c_kiba-va
+229 - vassal: c_nulava - Setting to vassal of k_kinaneh in Validate Realm
+229 - Lost vassal: c_nulava
+229 - vassal: c_awiba-va - Setting to vassal of k_kinaneh in Validate Realm
+229 - Lost vassal: c_awiba-va
+229 - Too many dukes, given to dejure: k_kinaneh
+245 - Holder 1002986 - Primary title: d_darurga has lost the title: d_darurga
+245 - Title given to 1002986 - Primary title: d_badael
+245 - vassal: c_qedava - Holder 1002986 - Primary title: c_qedava has lost the title: c_qedava
+245 - vassal: c_qedava - Title given to 1002986 - Primary title: d_badael
+246 - Holder 1004385 - Primary title: d_darurga has lost the title: c_libina
+246 - Holder 1003423 - Primary title: d_darurga has lost the title: d_badael
+254 - Holder (1002986) has gained d_rahega
+255 - vassal: c_qedava - Given to 1002247 in HandleTitles - Too many duke titles
+255 - vassal: c_qedava - Title given to 1002247
+255 - Title given to 1004405 - Primary title: k_kinaneh
+255 - Too many dukes, made direct title into vassal of k_kinaneh
+255 - Title given to 1004944
+260 - Holder 1002986 - Primary title: d_darurga has lost the title: d_darurga
+260 - Title given to 1002986 - Primary title: d_rahega
+261 - Holder 1004405 - Primary title: d_darurga has lost the title: d_litava
+271 - Holder 1005129 - Primary title: d_darurga has lost the title: d_rahega
+271 - Gained vassal: c_awibyka
+271 - Holder 1005129 - Primary title: d_darurga has lost the title: c_awibyka
+271 - vassal: c_awibyka - Title given to 1005129 - Primary title: d_rahega
+271 - vassal: c_awibyka - Setting to vassal of d_rahega in Validate Realm
+271 - Lost vassal: c_awibyka
+271 - Holder 1005129 - Primary title: d_darurga has lost the title: d_darurga
+271 - Title given to 1005129 - Primary title: d_rahega
+295 - Holder (1005129) has gained k_kinaneh
+296 - vassal: c_qedava - Given to 1003965 in HandleTitles - Too many duke titles
+296 - vassal: c_qedava - Holder 1003965 - Primary title: c_qedava has lost the title: c_qedava
+296 - vassal: c_qedava - Title given to 1003965
+296 - Title given to 1003965 - Primary title: c_qedava
+296 - vassal: c_qedava - Holder (1003965) has gained d_darurga
+296 - Too many dukes, given to dejure: k_kinaneh
+299 - Holder (1003965) has gained d_litava
+300 - Holder 1007488 - Primary title: d_darurga has lost the title: d_darurga
+300 - Title given to 1007488
+300 - vassal: c_qedava - Setting to vassal of d_litava in Validate Realm
+300 - Lost vassal: c_qedava
+300 - Holder (1007488) has gained d_litava
+300 - Holder (1007488) has gained c_qedava
+300 - Destroyed due to no capital's obtainable
+300 - Made independent
+300 - Title destroyed

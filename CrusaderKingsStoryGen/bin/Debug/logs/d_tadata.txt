@@ -1,0 +1,188 @@
+200 - Title given to 1000324
+200 - vassal: c_nazyata - Given to 1000327 via AddCharacterForTitle
+200 - sub vassal: c_nazyata - Given to 1000327 via AddCharacterForTitle
+200 - vassal: c_nazyata - Holder 1000327 - Primary title: c_nazyata has lost the title: c_nazyata
+200 - sub vassal: c_nazyata - Holder 1000327 - Primary title: c_nazyata has lost the title: c_nazyata
+200 - vassal: c_nazyata - Title given to 1000327
+200 - sub vassal: c_nazyata - Title given to 1000327
+200 - vassal: c_dunenes - Holder 1000324 - Primary title: c_dunenes has lost the title: c_dunenes
+200 - sub vassal: c_dunenes - Holder 1000324 - Primary title: c_dunenes has lost the title: c_dunenes
+200 - vassal: c_dunenes - Title given to 1000324 - Primary title: d_tadata
+200 - sub vassal: c_dunenes - Title given to 1000324 - Primary title: d_tadata
+200 - Holder (1000324) has gained c_dunenes
+200 - vassal: c_nazyata - Holder 1000324 - Primary title: c_nazyata has lost the title: c_nazyata
+200 - sub vassal: c_nazyata - Holder 1000324 - Primary title: c_nazyata has lost the title: c_nazyata
+200 - vassal: c_nazyata - Title given to 1000324 - Primary title: d_tadata
+200 - sub vassal: c_nazyata - Title given to 1000324 - Primary title: d_tadata
+200 - Holder (1000324) has gained c_nazyata
+210 - Holder 1001878 - Primary title: d_tadata has lost the title: d_tadata
+210 - Title given to 1001878
+210 - vassal: c_nazyata - Holder 1001878 - Primary title: c_nazyata has lost the title: c_nazyata
+210 - vassal: c_nazyata - Title given to 1001878 - Primary title: d_tadata
+210 - Holder (1001878) has gained c_nazyata
+210 - vassal: c_dunenes - Holder 1001878 - Primary title: c_dunenes has lost the title: c_dunenes
+210 - vassal: c_dunenes - Title given to 1001878 - Primary title: d_tadata
+210 - Holder (1001878) has gained c_dunenes
+227 - Holder (1001878) has gained d_wunes
+227 - Holder (1001878) has gained c_raev
+227 - Holder (1001878) has gained c_kunihka
+227 - Holder (1001878) has gained c_kazilu
+227 - Holder (1001878) has gained c_wunimha
+228 - vassal: c_dunenes - Title given to 1003260
+247 - Gained vassal: c_raev
+247 - Gained vassal: c_kunihka
+247 - Gained vassal: c_kazilu
+247 - Gained vassal: c_wunimha
+247 - Holder 1004440 - Primary title: d_tadata has lost the title: d_tadata
+247 - Title given to 1004440 - Primary title: d_wunes
+247 - vassal: c_wunimha - Holder 1004440 - Primary title: c_wunimha has lost the title: c_wunimha
+247 - vassal: c_wunimha - Title given to 1004440 - Primary title: d_wunes
+247 - vassal: c_kazilu - Holder 1004440 - Primary title: c_kazilu has lost the title: c_kazilu
+247 - vassal: c_kazilu - Title given to 1004440 - Primary title: d_wunes
+247 - vassal: c_kunihka - Holder 1004440 - Primary title: c_kunihka has lost the title: c_kunihka
+247 - vassal: c_kunihka - Title given to 1004440 - Primary title: d_wunes
+247 - vassal: c_raev - Holder 1004440 - Primary title: c_raev has lost the title: c_raev
+247 - vassal: c_raev - Title given to 1004440 - Primary title: d_wunes
+247 - vassal: c_nazyata - Holder 1004440 - Primary title: c_nazyata has lost the title: c_nazyata
+247 - vassal: c_nazyata - Title given to 1004440 - Primary title: d_wunes
+260 - Holder (1004440) has gained d_wunes
+260 - vassal: c_nazyata - Set liege on title creation d_wunes
+260 - Lost vassal: c_nazyata
+260 - vassal: c_raev - Set liege on title creation d_wunes
+260 - Lost vassal: c_raev
+260 - vassal: c_kunihka - Set liege on title creation d_wunes
+260 - Lost vassal: c_kunihka
+260 - vassal: c_kazilu - Set liege on title creation d_wunes
+260 - Lost vassal: c_kazilu
+260 - vassal: c_wunimha - Set liege on title creation d_wunes
+260 - Lost vassal: c_wunimha
+260 - vassal: c_dunenes - Holder 1004440 - Primary title: c_dunenes has lost the title: c_dunenes
+260 - vassal: c_dunenes - Title given to 1004440 - Primary title: d_tadata
+260 - Holder (1004440) has gained c_dunenes
+261 - Holder 1005295 - Primary title: d_tadata has lost the title: c_raev
+261 - Gained vassal: c_raev
+263 - Holder (1004440) has gained d_wunes
+263 - vassal: c_dunenes - Set liege on title creation d_wunes
+263 - Lost vassal: c_dunenes
+263 - vassal: c_raev - Holder 1004440 - Primary title: c_raev has lost the title: c_raev
+263 - vassal: c_raev - Title given to 1004440 - Primary title: d_tadata
+263 - Holder (1004440) has gained c_raev
+264 - Holder 1005498 - Primary title: d_tadata has lost the title: c_dunenes
+264 - Gained vassal: c_dunenes
+276 - Holder (1004440) has gained d_wunes
+276 - vassal: c_raev - Set liege on title creation d_wunes
+276 - Lost vassal: c_raev
+276 - vassal: c_dunenes - Holder 1004440 - Primary title: c_dunenes has lost the title: c_dunenes
+276 - vassal: c_dunenes - Title given to 1004440 - Primary title: d_tadata
+276 - Holder (1004440) has gained c_dunenes
+277 - Holder 1006278 - Primary title: d_tadata has lost the title: c_kunihka
+277 - Gained vassal: c_kunihka
+284 - Holder 1005673 - Primary title: d_tadata has lost the title: d_tadata
+284 - Title given to 1005673
+284 - vassal: c_dunenes - Holder 1005673 - Primary title: c_dunenes has lost the title: c_dunenes
+284 - vassal: c_dunenes - Title given to 1005673 - Primary title: d_tadata
+284 - Holder (1005673) has gained c_dunenes
+284 - Holder (1005673) has gained c_raev
+284 - Holder (1005673) has gained c_wunimha
+284 - Holder (1005673) has gained c_kazilu
+284 - Holder (1005673) has gained c_nazyata
+299 - Holder (1005673) has gained d_wunes
+299 - vassal: c_dunenes - Set liege on title creation d_wunes
+299 - Lost vassal: c_dunenes
+299 - vassal: c_kunihka - Holder 1005673 - Primary title: c_kunihka has lost the title: c_kunihka
+299 - vassal: c_kunihka - Title given to 1005673 - Primary title: d_tadata
+299 - Holder (1005673) has gained c_kunihka
+300 - Holder 1007584 - Primary title: d_tadata has lost the title: c_kazilu
+300 - Gained vassal: c_kazilu
+310 - Holder (1005673) has gained d_wunes
+310 - vassal: c_kunihka - Set liege on title creation d_wunes
+310 - Lost vassal: c_kunihka
+310 - vassal: c_kazilu - Holder 1005673 - Primary title: c_kazilu has lost the title: c_kazilu
+310 - vassal: c_kazilu - Title given to 1005673 - Primary title: d_tadata
+310 - Holder (1005673) has gained c_kazilu
+311 - Holder 1008249 - Primary title: d_tadata has lost the title: c_nazyata
+311 - Gained vassal: c_nazyata
+317 - Holder (1005673) has gained d_wunes
+317 - vassal: c_kazilu - Set liege on title creation d_wunes
+317 - Lost vassal: c_kazilu
+317 - vassal: c_nazyata - Holder 1005673 - Primary title: c_nazyata has lost the title: c_nazyata
+317 - vassal: c_nazyata - Title given to 1005673 - Primary title: d_tadata
+317 - Holder (1005673) has gained c_nazyata
+318 - Holder 1006709 - Primary title: d_tadata has lost the title: c_dunenes
+318 - Gained vassal: c_dunenes
+320 - Holder (1005673) has gained d_wunes
+320 - vassal: c_nazyata - Set liege on title creation d_wunes
+320 - Lost vassal: c_nazyata
+320 - vassal: c_dunenes - Holder 1005673 - Primary title: c_dunenes has lost the title: c_dunenes
+320 - vassal: c_dunenes - Title given to 1005673 - Primary title: d_tadata
+320 - Holder (1005673) has gained c_dunenes
+321 - Holder 1008754 - Primary title: d_tadata has lost the title: c_wunimha
+321 - Gained vassal: c_wunimha
+327 - Holder 1006709 - Primary title: d_tadata has lost the title: d_tadata
+327 - Title given to 1006709
+327 - vassal: c_dunenes - Setting independent in Validate Realm
+327 - vassal: c_dunenes - Made independent
+327 - Holder (1006709) has gained c_nazyata
+327 - Holder (1006709) has gained c_kazilu
+327 - Holder (1006709) has gained c_raev
+327 - Holder (1006709) has gained c_kunihka
+327 - Holder (1006709) has gained c_dunenes
+328 - vassal: c_wunimha - Holder 1006709 - Primary title: c_wunimha has lost the title: c_wunimha
+328 - vassal: c_wunimha - Title given to 1006709 - Primary title: d_tadata
+328 - Holder (1006709) has gained c_wunimha
+328 - Holder 1009147 - Primary title: d_tadata has lost the title: c_raev
+328 - Gained vassal: c_raev
+340 - Holder (1006709) has gained k_anula
+341 - vassal: c_wunimha - Given to 1009790 in HandleTitles - Too many duke titles
+341 - vassal: c_wunimha - Title given to 1009790
+341 - Title given to 1009790 - Primary title: c_wunimha
+341 - vassal: c_wunimha - Holder (1009790) has gained d_tadata
+341 - Too many dukes, given to dejure: k_anula
+361 - Holder 1009943 - Primary title: d_tadata has lost the title: d_tadata
+361 - Title given to 1009943
+361 - vassal: c_wunimha - Holder 1009943 - Primary title: c_wunimha has lost the title: c_wunimha
+361 - vassal: c_wunimha - Title given to 1009943 - Primary title: d_tadata
+361 - Holder (1009943) has gained c_wunimha
+373 - Holder 1009791 - Primary title: d_tadata has lost the title: d_tadata
+373 - Title given to 1009791 - Primary title: k_anula
+373 - vassal: c_wunimha - Holder 1009791 - Primary title: c_wunimha has lost the title: c_wunimha
+373 - vassal: c_wunimha - Title given to 1009791 - Primary title: k_anula
+373 - vassal: c_wunimha - Given to 1011457 in HandleTitles - Too many duke titles
+373 - vassal: c_wunimha - Title given to 1011457
+373 - Title given to 1011457 - Primary title: c_wunimha
+373 - vassal: c_wunimha - Holder (1011457) has gained d_tadata
+373 - Too many dukes, given to dejure: k_anula
+375 - Holder 1009791 - Primary title: d_tadata has lost the title: d_tadata
+375 - Title given to 1009791 - Primary title: k_anula
+375 - vassal: c_wunimha - Holder 1009791 - Primary title: c_wunimha has lost the title: c_wunimha
+375 - vassal: c_wunimha - Title given to 1009791 - Primary title: k_anula
+375 - vassal: c_wunimha - Title given to 1011543
+380 - Gained vassal: c_qisan
+380 - Gained vassal: c_dewimha
+380 - Gained vassal: c_wuhyata
+380 - Gained vassal: c_tasenes
+380 - Gained vassal: c_quhana
+380 - Holder 1009894 - Primary title: d_tadata has lost the title: d_tadata
+380 - Title given to 1009894 - Primary title: k_anula
+380 - vassal: c_quhana - Holder 1009894 - Primary title: c_quhana has lost the title: c_quhana
+380 - vassal: c_quhana - Title given to 1009894 - Primary title: k_anula
+380 - vassal: c_tasenes - Holder 1009894 - Primary title: c_tasenes has lost the title: c_tasenes
+380 - vassal: c_tasenes - Title given to 1009894 - Primary title: k_anula
+380 - vassal: c_wuhyata - Holder 1009894 - Primary title: c_wuhyata has lost the title: c_wuhyata
+380 - vassal: c_wuhyata - Title given to 1009894 - Primary title: k_anula
+380 - vassal: c_dewimha - Holder 1009894 - Primary title: c_dewimha has lost the title: c_dewimha
+380 - vassal: c_dewimha - Title given to 1009894 - Primary title: k_anula
+380 - vassal: c_qisan - Holder 1009894 - Primary title: c_qisan has lost the title: c_qisan
+380 - vassal: c_qisan - Title given to 1009894 - Primary title: k_anula
+392 - Holder 1012416 - Primary title: d_tadata has lost the title: d_tadata
+392 - Title given to 1012416 - Primary title: k_anula
+392 - vassal: c_quhana - Holder 1012416 - Primary title: c_quhana has lost the title: c_quhana
+392 - vassal: c_quhana - Title given to 1012416 - Primary title: k_anula
+392 - vassal: c_tasenes - Holder 1012416 - Primary title: c_tasenes has lost the title: c_tasenes
+392 - vassal: c_tasenes - Title given to 1012416 - Primary title: k_anula
+392 - vassal: c_wuhyata - Holder 1012416 - Primary title: c_wuhyata has lost the title: c_wuhyata
+392 - vassal: c_wuhyata - Title given to 1012416 - Primary title: k_anula
+392 - vassal: c_dewimha - Holder 1012416 - Primary title: c_dewimha has lost the title: c_dewimha
+392 - vassal: c_dewimha - Title given to 1012416 - Primary title: k_anula
+392 - vassal: c_qisan - Holder 1012416 - Primary title: c_qisan has lost the title: c_qisan
+392 - vassal: c_qisan - Title given to 1012416 - Primary title: k_anula

@@ -1,0 +1,171 @@
+200 - Title given to 1000530
+200 - vassal: c_kuryuk - Given to 1000533 via AddCharacterForTitle
+200 - sub vassal: c_kuryuk - Given to 1000533 via AddCharacterForTitle
+200 - vassal: c_kuryuk - Holder 1000533 - Primary title: c_kuryuk has lost the title: c_kuryuk
+200 - sub vassal: c_kuryuk - Holder 1000533 - Primary title: c_kuryuk has lost the title: c_kuryuk
+200 - vassal: c_kuryuk - Title given to 1000533
+200 - sub vassal: c_kuryuk - Title given to 1000533
+200 - vassal: c_tetyuk - Holder 1000530 - Primary title: c_tetyuk has lost the title: c_tetyuk
+200 - sub vassal: c_tetyuk - Holder 1000530 - Primary title: c_tetyuk has lost the title: c_tetyuk
+200 - vassal: c_tetyuk - Title given to 1000530 - Primary title: d_eturava
+200 - sub vassal: c_tetyuk - Title given to 1000530 - Primary title: d_eturava
+200 - Holder (1000530) has gained c_tetyuk
+200 - vassal: c_kuryuk - Holder 1000530 - Primary title: c_kuryuk has lost the title: c_kuryuk
+200 - sub vassal: c_kuryuk - Holder 1000530 - Primary title: c_kuryuk has lost the title: c_kuryuk
+200 - vassal: c_kuryuk - Title given to 1000530 - Primary title: d_eturava
+200 - sub vassal: c_kuryuk - Title given to 1000530 - Primary title: d_eturava
+200 - Holder (1000530) has gained c_kuryuk
+200 - vassal: c_wadyilni - Title given to 1000530 - Primary title: d_eturava
+200 - Holder (1000530) has gained c_wadyilni
+203 - Holder 1000505 - Primary title: d_eturava has lost the title: d_eturava
+203 - Title given to 1000505 - Primary title: d_kisina
+203 - vassal: c_wadyilni - Holder 1000505 - Primary title: c_wadyilni has lost the title: c_wadyilni
+203 - vassal: c_wadyilni - Title given to 1000505 - Primary title: d_kisina
+203 - vassal: c_kuryuk - Holder 1000505 - Primary title: c_kuryuk has lost the title: c_kuryuk
+203 - vassal: c_kuryuk - Title given to 1000505 - Primary title: d_kisina
+203 - vassal: c_tetyuk - Holder 1000505 - Primary title: c_tetyuk has lost the title: c_tetyuk
+203 - vassal: c_tetyuk - Title given to 1000505 - Primary title: d_kisina
+204 - Holder 1001809 - Primary title: d_eturava has lost the title: c_welinya
+215 - Holder 1002510 - Primary title: d_eturava has lost the title: d_kisina
+215 - Gained vassal: c_tadyilni
+215 - Gained vassal: c_bilisey
+215 - Holder 1002510 - Primary title: d_eturava has lost the title: c_bilisey
+215 - vassal: c_bilisey - Title given to 1002510 - Primary title: d_kisina
+215 - vassal: c_bilisey - Setting to vassal of d_kisina in Validate Realm
+215 - Lost vassal: c_bilisey
+215 - Holder 1002510 - Primary title: d_eturava has lost the title: c_tadyilni
+215 - vassal: c_tadyilni - Title given to 1002510 - Primary title: d_kisina
+215 - vassal: c_tadyilni - Setting to vassal of d_kisina in Validate Realm
+215 - Lost vassal: c_tadyilni
+215 - Holder 1002510 - Primary title: d_eturava has lost the title: d_eturava
+215 - Title given to 1002510 - Primary title: d_kisina
+215 - vassal: c_wadyilni - Holder 1002510 - Primary title: c_wadyilni has lost the title: c_wadyilni
+215 - vassal: c_wadyilni - Title given to 1002510 - Primary title: d_kisina
+215 - vassal: c_kuryuk - Holder 1002510 - Primary title: c_kuryuk has lost the title: c_kuryuk
+215 - vassal: c_kuryuk - Title given to 1002510 - Primary title: d_kisina
+215 - vassal: c_tetyuk - Holder 1002510 - Primary title: c_tetyuk has lost the title: c_tetyuk
+215 - vassal: c_tetyuk - Title given to 1002510 - Primary title: d_kisina
+246 - vassal: c_kuryuk - Title given to 1004401
+255 - Holder 1002873 - Primary title: d_eturava has lost the title: d_eturava
+255 - Title given to 1002873 - Primary title: k_karavor
+255 - vassal: c_wadyilni - Setting to vassal of d_beta-va in Validate Realm
+255 - Lost vassal: c_wadyilni
+255 - vassal: c_tetyuk - Setting to vassal of d_beta-va in Validate Realm
+255 - Lost vassal: c_tetyuk
+257 - vassal: c_kuryuk - Holder 1002873 - Primary title: c_kuryuk has lost the title: c_kuryuk
+257 - vassal: c_kuryuk - Title given to 1002873 - Primary title: k_karavor
+257 - vassal: c_kuryuk - Given to 1005086 in HandleTitles - Too many duke titles
+257 - vassal: c_kuryuk - Title given to 1005086
+257 - Title given to 1005086 - Primary title: c_kuryuk
+257 - vassal: c_kuryuk - Holder (1005086) has gained d_eturava
+257 - Too many dukes, given to dejure: k_karavor
+293 - Holder 1006168 - Primary title: d_eturava has lost the title: d_eturava
+293 - Title given to 1006168
+293 - vassal: c_kuryuk - Holder 1006168 - Primary title: c_kuryuk has lost the title: c_kuryuk
+293 - vassal: c_kuryuk - Title given to 1006168 - Primary title: d_eturava
+293 - Holder (1006168) has gained c_kuryuk
+294 - Made independent due to being a seperate island prior to giving to neighbour
+294 - Made independent
+294 - Given to neighbour holder of c_evisina
+294 - Holder 1004449 - Primary title: d_eturava has lost the title: d_eturava
+294 - Title given to 1004449 - Primary title: c_evisina
+298 - Holder 1007483 - Primary title: d_eturava has lost the title: d_eturava
+298 - Title given to 1007483
+298 - Holder (1007483) has gained c_evisina
+298 - Holder (1007483) has gained c_dauslni
+298 - Holder (1007483) has gained c_bitayda
+298 - Holder (1007483) has gained c_wurina
+321 - Holder (1007483) has gained d_sievisey
+321 - Gained vassal: c_wadyilni
+321 - vassal: c_wadyilni - Given to neighbour holder of d_eturava
+321 - sub vassal: c_wadyilni - Given to neighbour holder of d_eturava
+321 - vassal: c_wadyilni - Holder 1007483 - Primary title: c_wadyilni has lost the title: c_wadyilni
+321 - sub vassal: c_wadyilni - Holder 1007483 - Primary title: c_wadyilni has lost the title: c_wadyilni
+321 - vassal: c_wadyilni - Title given to 1007483 - Primary title: d_eturava
+321 - sub vassal: c_wadyilni - Title given to 1007483 - Primary title: d_eturava
+321 - Holder (1007483) has gained c_wadyilni
+339 - Holder 1008306 - Primary title: d_eturava has lost the title: d_eturava
+339 - Title given to 1008306
+339 - Holder (1008306) has gained c_evisina
+339 - Holder (1008306) has gained c_dauslni
+339 - Holder (1008306) has gained c_bitayda
+339 - Holder (1008306) has gained c_wurina
+339 - vassal: c_wadyilni - Holder 1008306 - Primary title: c_wadyilni has lost the title: c_wadyilni
+339 - sub vassal: c_wadyilni - Holder 1008306 - Primary title: c_wadyilni has lost the title: c_wadyilni
+339 - vassal: c_wadyilni - Title given to 1008306 - Primary title: d_eturava
+339 - sub vassal: c_wadyilni - Title given to 1008306 - Primary title: d_eturava
+339 - Holder (1008306) has gained c_wadyilni
+346 - Holder (1008306) has gained d_edyuk
+346 - vassal: c_wadyilni - Set liege on title creation d_edyuk
+346 - sub vassal: c_wadyilni - Set liege on title creation d_edyuk
+346 - Lost vassal: c_wadyilni
+346 - sub vassal: c_evisina - Setting independent due to liege destruction
+346 - sub vassal: c_evisina - Made independent
+346 - sub vassal: c_dauslni - Setting independent due to liege destruction
+346 - sub vassal: c_dauslni - Made independent
+346 - sub vassal: c_bitayda - Setting independent due to liege destruction
+346 - sub vassal: c_bitayda - Made independent
+346 - sub vassal: c_wurina - Setting independent due to liege destruction
+346 - sub vassal: c_wurina - Made independent
+346 - sub vassal: c_wadyilni - Setting independent due to liege destruction
+346 - sub vassal: c_wadyilni - Made independent
+347 - Holder (1008306) has gained d_edyuk
+347 - sub vassal: c_evisina - Setting independent due to liege destruction
+347 - sub vassal: c_evisina - Made independent
+347 - sub vassal: c_dauslni - Setting independent due to liege destruction
+347 - sub vassal: c_dauslni - Made independent
+347 - sub vassal: c_bitayda - Setting independent due to liege destruction
+347 - sub vassal: c_bitayda - Made independent
+347 - sub vassal: c_wurina - Setting independent due to liege destruction
+347 - sub vassal: c_wurina - Made independent
+347 - sub vassal: c_wadyilni - Setting independent due to liege destruction
+347 - sub vassal: c_wadyilni - Made independent
+350 - Holder 1006168 - Primary title: d_eturava has lost the title: d_eturava
+350 - Title given to 1006168 - Primary title: c_kuryuk
+350 - vassal: c_kuryuk - Holder (1006168) has gained d_eturava
+350 - sub vassal: c_kuryuk - Holder (1006168) has gained d_eturava
+350 - Holder (1006168) has gained c_wadyilni
+350 - Holder (1006168) has gained c_wurina
+350 - Holder (1006168) has gained c_bitayda
+350 - Holder (1006168) has gained c_dauslni
+350 - Holder (1006168) has gained c_evisina
+351 - Holder 1010324 - Primary title: d_eturava has lost the title: c_dauslni
+351 - Gained vassal: c_dauslni
+361 - Holder 1010324 - Primary title: d_eturava has lost the title: d_eturava
+361 - Title given to 1010324 - Primary title: c_dauslni
+361 - vassal: c_dauslni - Holder (1010324) has gained d_eturava
+361 - sub vassal: c_dauslni - Holder (1010324) has gained d_eturava
+361 - vassal: c_kuryuk - Setting independent in Validate Realm
+361 - vassal: c_kuryuk - Made independent
+361 - Holder (1010324) has gained c_evisina
+361 - Holder (1010324) has gained c_bitayda
+361 - Holder (1010324) has gained c_wurina
+361 - Holder (1010324) has gained c_wadyilni
+361 - Holder (1010324) has gained c_kuryuk
+362 - Holder (1010324) has gained d_edyuk
+362 - vassal: c_dauslni - Set liege on title creation d_edyuk
+362 - sub vassal: c_dauslni - Set liege on title creation d_edyuk
+362 - Lost vassal: c_dauslni
+362 - sub vassal: c_kuryuk - Setting independent due to liege destruction
+362 - sub vassal: c_kuryuk - Made independent
+362 - sub vassal: c_wadyilni - Setting independent due to liege destruction
+362 - sub vassal: c_wadyilni - Made independent
+362 - sub vassal: c_wurina - Setting independent due to liege destruction
+362 - sub vassal: c_wurina - Made independent
+362 - sub vassal: c_bitayda - Setting independent due to liege destruction
+362 - sub vassal: c_bitayda - Made independent
+362 - sub vassal: c_evisina - Setting independent due to liege destruction
+362 - sub vassal: c_evisina - Made independent
+362 - sub vassal: c_dauslni - Setting independent due to liege destruction
+362 - sub vassal: c_dauslni - Made independent
+362 - Holder 1010905 - Primary title: d_eturava has lost the title: c_wadyilni
+362 - Gained vassal: c_wadyilni
+362 - vassal: c_wadyilni - Holder 1010324 - Primary title: c_wadyilni has lost the title: c_wadyilni
+362 - sub vassal: c_wadyilni - Holder 1010324 - Primary title: c_wadyilni has lost the title: c_wadyilni
+362 - vassal: c_wadyilni - Title given to 1010324 - Primary title: d_eturava
+362 - sub vassal: c_wadyilni - Title given to 1010324 - Primary title: d_eturava
+362 - Holder (1010324) has gained c_wadyilni
+363 - Destroyed due to no capital's obtainable
+363 - Title destroyed
+363 - vassal: c_wadyilni - Setting independent due to liege destruction
+363 - vassal: c_wadyilni - Made independent

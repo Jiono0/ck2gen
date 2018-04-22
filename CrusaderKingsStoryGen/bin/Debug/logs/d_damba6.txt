@@ -1,0 +1,32 @@
+200 - Title given to 1000492
+200 - vassal: c_qisamba - Given to 1000495 via AddCharacterForTitle
+200 - sub vassal: c_qisamba - Given to 1000495 via AddCharacterForTitle
+200 - vassal: c_qisamba - Holder 1000495 - Primary title: c_qisamba has lost the title: c_qisamba
+200 - sub vassal: c_qisamba - Holder 1000495 - Primary title: c_qisamba has lost the title: c_qisamba
+200 - vassal: c_qisamba - Title given to 1000495
+200 - sub vassal: c_qisamba - Title given to 1000495
+200 - vassal: c_qupew - Holder 1000492 - Primary title: c_qupew has lost the title: c_qupew
+200 - sub vassal: c_qupew - Holder 1000492 - Primary title: c_qupew has lost the title: c_qupew
+200 - vassal: c_qupew - Title given to 1000492 - Primary title: d_damba
+200 - sub vassal: c_qupew - Title given to 1000492 - Primary title: d_damba
+200 - Holder (1000492) has gained c_qupew
+200 - vassal: c_qisamba - Holder 1000492 - Primary title: c_qisamba has lost the title: c_qisamba
+200 - sub vassal: c_qisamba - Holder 1000492 - Primary title: c_qisamba has lost the title: c_qisamba
+200 - vassal: c_qisamba - Title given to 1000492 - Primary title: d_damba
+200 - sub vassal: c_qisamba - Title given to 1000492 - Primary title: d_damba
+200 - Holder (1000492) has gained c_qisamba
+200 - vassal: c_tagabha - Title given to 1000492 - Primary title: d_damba
+200 - Holder (1000492) has gained c_tagabha
+200 - Holder 1001035 - Primary title: d_damba has lost the title: d_damba
+200 - Title given to 1001035 - Primary title: k_tagabha
+200 - vassal: c_qupew - Holder 1001035 - Primary title: c_qupew has lost the title: c_qupew
+200 - vassal: c_qupew - Title given to 1001035 - Primary title: k_tagabha
+227 - Holder (1001035) has gained d_sacar
+227 - Holder (1001035) has gained c_rorator
+239 - Title given to 1001886
+239 - vassal: c_qupew - Setting to vassal of d_sacar in Validate Realm
+239 - Lost vassal: c_qupew
+239 - Holder (1001886) has gained c_qupew
+239 - Gained vassal: c_qupew
+239 - Holder (1001886) has gained d_sacar
+239 - Holder (1001886) has gained c_rorator

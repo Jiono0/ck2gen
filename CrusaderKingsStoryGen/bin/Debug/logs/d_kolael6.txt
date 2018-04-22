@@ -1,0 +1,57 @@
+200 - Title given to 1000439
+200 - vassal: c_avoisand - Given to 1000442 via AddCharacterForTitle
+200 - sub vassal: c_avoisand - Given to 1000442 via AddCharacterForTitle
+200 - vassal: c_avoisand - Holder 1000442 - Primary title: c_avoisand has lost the title: c_avoisand
+200 - sub vassal: c_avoisand - Holder 1000442 - Primary title: c_avoisand has lost the title: c_avoisand
+200 - vassal: c_avoisand - Title given to 1000442
+200 - sub vassal: c_avoisand - Title given to 1000442
+200 - vassal: c_ejolirza - Holder 1000439 - Primary title: c_ejolirza has lost the title: c_ejolirza
+200 - sub vassal: c_ejolirza - Holder 1000439 - Primary title: c_ejolirza has lost the title: c_ejolirza
+200 - vassal: c_ejolirza - Title given to 1000439 - Primary title: d_kolael
+200 - sub vassal: c_ejolirza - Title given to 1000439 - Primary title: d_kolael
+200 - Holder (1000439) has gained c_ejolirza
+200 - vassal: c_avoisand - Holder 1000439 - Primary title: c_avoisand has lost the title: c_avoisand
+200 - sub vassal: c_avoisand - Holder 1000439 - Primary title: c_avoisand has lost the title: c_avoisand
+200 - vassal: c_avoisand - Title given to 1000439 - Primary title: d_kolael
+200 - sub vassal: c_avoisand - Title given to 1000439 - Primary title: d_kolael
+200 - Holder (1000439) has gained c_avoisand
+200 - vassal: c_loisava - Holder 1000439 - Primary title: c_loisava has lost the title: c_loisava
+200 - sub vassal: c_loisava - Holder 1000439 - Primary title: c_loisava has lost the title: c_loisava
+200 - vassal: c_loisava - Title given to 1000439 - Primary title: d_kolael
+200 - sub vassal: c_loisava - Title given to 1000439 - Primary title: d_kolael
+200 - Holder (1000439) has gained c_loisava
+210 - Holder 1002030 - Primary title: d_kolael has lost the title: d_kolael
+210 - Title given to 1002030
+210 - vassal: c_loisava - Holder 1002030 - Primary title: c_loisava has lost the title: c_loisava
+210 - vassal: c_loisava - Title given to 1002030 - Primary title: d_kolael
+210 - Holder (1002030) has gained c_loisava
+210 - vassal: c_avoisand - Holder 1002030 - Primary title: c_avoisand has lost the title: c_avoisand
+210 - vassal: c_avoisand - Title given to 1002030 - Primary title: d_kolael
+210 - Holder (1002030) has gained c_avoisand
+210 - vassal: c_ejolirza - Holder 1002030 - Primary title: c_ejolirza has lost the title: c_ejolirza
+210 - vassal: c_ejolirza - Title given to 1002030 - Primary title: d_kolael
+210 - Holder (1002030) has gained c_ejolirza
+231 - Holder 1003009 - Primary title: d_kolael has lost the title: d_kolael
+231 - Title given to 1003009 - Primary title: d_roland
+231 - vassal: c_ejolirza - Holder 1003009 - Primary title: c_ejolirza has lost the title: c_ejolirza
+231 - vassal: c_ejolirza - Title given to 1003009 - Primary title: d_roland
+231 - vassal: c_avoisand - Holder 1003009 - Primary title: c_avoisand has lost the title: c_avoisand
+231 - vassal: c_avoisand - Title given to 1003009 - Primary title: d_roland
+231 - vassal: c_loisava - Holder 1003009 - Primary title: c_loisava has lost the title: c_loisava
+231 - vassal: c_loisava - Title given to 1003009 - Primary title: d_roland
+252 - Holder 1003251 - Primary title: d_kolael has lost the title: d_kolael
+252 - Title given to 1003251
+252 - vassal: c_loisava - Setting to vassal of d_roland in Validate Realm
+252 - Lost vassal: c_loisava
+252 - vassal: c_avoisand - Setting to vassal of d_roland in Validate Realm
+252 - Lost vassal: c_avoisand
+252 - vassal: c_ejolirza - Setting to vassal of d_roland in Validate Realm
+252 - Lost vassal: c_ejolirza
+252 - Holder (1003251) has gained d_roland
+252 - Holder (1003251) has gained c_loisava
+252 - Holder (1003251) has gained c_avoisand
+252 - Holder (1003251) has gained c_ejolirza
+252 - Holder (1003251) has gained c_keja
+253 - Destroyed due to flagged problem
+253 - Made independent
+253 - Title destroyed

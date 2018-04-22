@@ -80,6 +80,9 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Cyotek.Windows.Forms.ColorPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=58daa28b0b2de221, processorArchitecture=MSIL">
+      <HintPath>packages\Cyotek.Windows.Forms.ColorPicker.1.7.2\lib\net35\Cyotek.Windows.Forms.ColorPicker.dll</HintPath>
+    </Reference>
     <Reference Include="DevIL.NET2, Version=1.1.2619.31671, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\devil\DevIL.NET2.dll</HintPath>
@@ -293,6 +296,7 @@
     <Content Include="data\pdxmap.lua">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -357,13 +361,12 @@
     <Folder Include="MapGen\NoiseLib\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\LibNoise\LibNoise\LibNoise.csproj">
-      <Project>{031C8CFF-F147-44EA-B7E5-0A5644808A7E}</Project>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibNoise\LibNoise\LibNoise.csproj">
+      <Project>{031c8cff-f147-44ea-b7e5-0a5644808a7e}</Project>
       <Name>LibNoise</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Cyotek.Windows.Forms.ColorPicker-master\Cyotek.Windows.Forms.ColorPicker\Cyotek.Windows.Forms.ColorPicker.csproj">
-      <Project>{fb2a5786-cd2e-42ce-bc5d-0fce90034221}</Project>
-      <Name>Cyotek.Windows.Forms.ColorPicker</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

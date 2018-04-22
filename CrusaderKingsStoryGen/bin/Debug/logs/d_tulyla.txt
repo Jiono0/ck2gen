@@ -1,0 +1,397 @@
+200 - Title given to 1000476
+200 - vassal: c_kalexis - Given to 1000479 via AddCharacterForTitle
+200 - sub vassal: c_kalexis - Given to 1000479 via AddCharacterForTitle
+200 - vassal: c_kalexis - Holder 1000479 - Primary title: c_kalexis has lost the title: c_kalexis
+200 - sub vassal: c_kalexis - Holder 1000479 - Primary title: c_kalexis has lost the title: c_kalexis
+200 - vassal: c_kalexis - Title given to 1000479
+200 - sub vassal: c_kalexis - Title given to 1000479
+200 - vassal: c_tedolf - Holder 1000476 - Primary title: c_tedolf has lost the title: c_tedolf
+200 - sub vassal: c_tedolf - Holder 1000476 - Primary title: c_tedolf has lost the title: c_tedolf
+200 - vassal: c_tedolf - Title given to 1000476 - Primary title: d_tulyla
+200 - sub vassal: c_tedolf - Title given to 1000476 - Primary title: d_tulyla
+200 - Holder (1000476) has gained c_tedolf
+200 - vassal: c_kalexis - Holder 1000476 - Primary title: c_kalexis has lost the title: c_kalexis
+200 - sub vassal: c_kalexis - Holder 1000476 - Primary title: c_kalexis has lost the title: c_kalexis
+200 - vassal: c_kalexis - Title given to 1000476 - Primary title: d_tulyla
+200 - sub vassal: c_kalexis - Title given to 1000476 - Primary title: d_tulyla
+200 - Holder (1000476) has gained c_kalexis
+200 - vassal: c_laren - Holder 1000476 - Primary title: c_laren has lost the title: c_laren
+200 - sub vassal: c_laren - Holder 1000476 - Primary title: c_laren has lost the title: c_laren
+200 - vassal: c_laren - Title given to 1000476 - Primary title: d_tulyla
+200 - sub vassal: c_laren - Title given to 1000476 - Primary title: d_tulyla
+200 - Holder (1000476) has gained c_laren
+200 - vassal: c_qabine - Title given to 1000476 - Primary title: d_tulyla
+200 - Holder (1000476) has gained c_qabine
+219 - Holder (1000476) has gained k_rutolas
+220 - vassal: c_kalexis - Given to 1002723 in HandleTitles - Too many duke titles
+220 - vassal: c_kalexis - Title given to 1002723
+220 - Title given to 1002723 - Primary title: c_kalexis
+220 - vassal: c_kalexis - Holder (1002723) has gained d_tulyla
+220 - vassal: c_tedolf - Setting to vassal of k_rutolas in Validate Realm
+220 - Lost vassal: c_tedolf
+220 - vassal: c_laren - Setting to vassal of k_rutolas in Validate Realm
+220 - Lost vassal: c_laren
+220 - vassal: c_qabine - Setting to vassal of k_rutolas in Validate Realm
+220 - Lost vassal: c_qabine
+220 - Too many dukes, given to dejure: k_rutolas
+225 - Holder 1000449 - Primary title: d_tulyla has lost the title: d_tulyla
+225 - Title given to 1000449 - Primary title: d_setistof
+225 - vassal: c_kalexis - Holder 1000449 - Primary title: c_kalexis has lost the title: c_kalexis
+225 - vassal: c_kalexis - Title given to 1000449 - Primary title: d_setistof
+226 - Holder 1003052 - Primary title: d_tulyla has lost the title: c_remistof
+226 - Holder 1000476 - Primary title: d_tulyla has lost the title: d_rupew
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: d_setistof
+234 - Gained vassal: c_alya
+234 - Gained vassal: c_libasz
+234 - Gained vassal: c_nalexis
+234 - Gained vassal: c_qibya
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: c_qibya
+234 - vassal: c_qibya - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_qibya - Setting to vassal of d_setistof in Validate Realm
+234 - Lost vassal: c_qibya
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: c_nalexis
+234 - vassal: c_nalexis - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_nalexis - Setting to vassal of d_setistof in Validate Realm
+234 - Lost vassal: c_nalexis
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: c_libasz
+234 - vassal: c_libasz - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_libasz - Setting to vassal of d_setistof in Validate Realm
+234 - Lost vassal: c_libasz
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: c_alya
+234 - vassal: c_alya - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_alya - Setting to vassal of d_setistof in Validate Realm
+234 - Lost vassal: c_alya
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: d_tulyla
+234 - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_kalexis - Holder 1001223 - Primary title: c_kalexis has lost the title: c_kalexis
+234 - vassal: c_kalexis - Title given to 1001223 - Primary title: d_setistof
+251 - Gained vassal: c_qibya
+251 - Gained vassal: c_nalexis
+251 - Gained vassal: c_libasz
+251 - Gained vassal: c_alya
+251 - Holder 1004319 - Primary title: d_tulyla has lost the title: d_tulyla
+251 - Title given to 1004319 - Primary title: d_setistof
+251 - vassal: c_kalexis - Holder 1004319 - Primary title: c_kalexis has lost the title: c_kalexis
+251 - vassal: c_kalexis - Title given to 1004319 - Primary title: d_setistof
+251 - vassal: c_alya - Holder 1004319 - Primary title: c_alya has lost the title: c_alya
+251 - vassal: c_alya - Title given to 1004319 - Primary title: d_setistof
+251 - vassal: c_libasz - Holder 1004319 - Primary title: c_libasz has lost the title: c_libasz
+251 - vassal: c_libasz - Title given to 1004319 - Primary title: d_setistof
+251 - vassal: c_nalexis - Holder 1004319 - Primary title: c_nalexis has lost the title: c_nalexis
+251 - vassal: c_nalexis - Title given to 1004319 - Primary title: d_setistof
+251 - vassal: c_qibya - Holder 1004319 - Primary title: c_qibya has lost the title: c_qibya
+251 - vassal: c_qibya - Title given to 1004319 - Primary title: d_setistof
+314 - Holder 1005767 - Primary title: d_tulyla has lost the title: d_tulyla
+314 - Title given to 1005767 - Primary title: k_rutolas
+314 - vassal: c_qibya - Holder 1005767 - Primary title: c_qibya has lost the title: c_qibya
+314 - vassal: c_qibya - Title given to 1005767 - Primary title: k_rutolas
+314 - vassal: c_nalexis - Holder 1005767 - Primary title: c_nalexis has lost the title: c_nalexis
+314 - vassal: c_nalexis - Title given to 1005767 - Primary title: k_rutolas
+314 - vassal: c_libasz - Holder 1005767 - Primary title: c_libasz has lost the title: c_libasz
+314 - vassal: c_libasz - Title given to 1005767 - Primary title: k_rutolas
+314 - vassal: c_alya - Holder 1005767 - Primary title: c_alya has lost the title: c_alya
+314 - vassal: c_alya - Title given to 1005767 - Primary title: k_rutolas
+314 - vassal: c_kalexis - Holder 1005767 - Primary title: c_kalexis has lost the title: c_kalexis
+314 - vassal: c_kalexis - Title given to 1005767 - Primary title: k_rutolas
+324 - Holder 1007933 - Primary title: d_tulyla has lost the title: d_tulyla
+324 - Title given to 1007933 - Primary title: k_rutolas
+324 - vassal: c_kalexis - Setting to vassal of d_kuryla in Validate Realm
+324 - Lost vassal: c_kalexis
+324 - vassal: c_alya - Setting to vassal of d_kuryla in Validate Realm
+324 - Lost vassal: c_alya
+324 - vassal: c_libasz - Setting to vassal of d_kuryla in Validate Realm
+324 - Lost vassal: c_libasz
+324 - vassal: c_nalexis - Setting to vassal of d_kuryla in Validate Realm
+324 - Lost vassal: c_nalexis
+324 - vassal: c_qibya - Setting to vassal of d_kuryla in Validate Realm
+324 - Lost vassal: c_qibya
+325 - Destroyed due to flagged problem
+325 - Made independent
+325 - Title destroyed
+329 - Given to 1008333 in TestCreateEmpire
+329 - Title given to 1008333 - Primary title: d_setistof
+329 - Made independent for title creation d_tulyla for d_setistof
+329 - Made independent
+329 - Gained vassal: c_nopius
+329 - Gained vassal: c_qabine
+329 - Gained vassal: c_laren
+330 - vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+330 - sub vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+330 - Lost vassal: c_qabine
+330 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+330 - Gained vassal: c_qabine
+330 - Gained vassal: c_qabine
+330 - vassal: c_qabine - Given to neighbour holder of k_saloet
+330 - sub vassal: c_qabine - Given to neighbour holder of k_saloet
+330 - vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+330 - sub vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+330 - Lost vassal: c_laren
+330 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+330 - Gained vassal: c_laren
+330 - Gained vassal: c_laren
+330 - vassal: c_laren - Given to neighbour holder of k_saloet
+330 - sub vassal: c_laren - Given to neighbour holder of k_saloet
+331 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+331 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+331 - Lost vassal: c_qabine
+331 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+331 - Gained vassal: c_qabine
+331 - Gained vassal: c_qabine
+331 - vassal: c_qabine - Given to neighbour holder of k_tya
+331 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+331 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+331 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+331 - Lost vassal: c_laren
+331 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+331 - Gained vassal: c_laren
+331 - Gained vassal: c_laren
+331 - vassal: c_laren - Given to neighbour holder of k_tya
+331 - sub vassal: c_laren - Given to neighbour holder of k_tya
+332 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+332 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+332 - Lost vassal: c_qabine
+332 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+332 - Gained vassal: c_qabine
+332 - Gained vassal: c_qabine
+332 - vassal: c_qabine - Given to neighbour holder of k_tya
+332 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+332 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+332 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+332 - Lost vassal: c_laren
+332 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+332 - Gained vassal: c_laren
+332 - Gained vassal: c_laren
+332 - vassal: c_laren - Given to neighbour holder of k_tya
+332 - sub vassal: c_laren - Given to neighbour holder of k_tya
+333 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+333 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+333 - Lost vassal: c_qabine
+333 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+333 - Gained vassal: c_qabine
+333 - Gained vassal: c_qabine
+333 - vassal: c_qabine - Given to neighbour holder of k_tya
+333 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+333 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+333 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+333 - Lost vassal: c_laren
+333 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+333 - Gained vassal: c_laren
+333 - Gained vassal: c_laren
+333 - vassal: c_laren - Given to neighbour holder of k_tya
+333 - sub vassal: c_laren - Given to neighbour holder of k_tya
+334 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+334 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+334 - Lost vassal: c_qabine
+334 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+334 - Gained vassal: c_qabine
+334 - Gained vassal: c_qabine
+334 - vassal: c_qabine - Given to neighbour holder of k_tya
+334 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+334 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+334 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+334 - Lost vassal: c_laren
+334 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+334 - Gained vassal: c_laren
+334 - Gained vassal: c_laren
+334 - vassal: c_laren - Given to neighbour holder of k_tya
+334 - sub vassal: c_laren - Given to neighbour holder of k_tya
+335 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+335 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+335 - Lost vassal: c_qabine
+335 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+335 - Gained vassal: c_qabine
+335 - Gained vassal: c_qabine
+335 - vassal: c_qabine - Given to neighbour holder of k_tya
+335 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+335 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+335 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+335 - Lost vassal: c_laren
+335 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+335 - Gained vassal: c_laren
+335 - Gained vassal: c_laren
+335 - vassal: c_laren - Given to neighbour holder of k_tya
+335 - sub vassal: c_laren - Given to neighbour holder of k_tya
+336 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+336 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+336 - Lost vassal: c_qabine
+336 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+336 - Gained vassal: c_qabine
+336 - Gained vassal: c_qabine
+336 - vassal: c_qabine - Given to neighbour holder of k_tya
+336 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+336 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+336 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+336 - Lost vassal: c_laren
+336 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+336 - Gained vassal: c_laren
+336 - Gained vassal: c_laren
+336 - vassal: c_laren - Given to neighbour holder of k_tya
+336 - sub vassal: c_laren - Given to neighbour holder of k_tya
+337 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+337 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+337 - Lost vassal: c_qabine
+337 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+337 - Gained vassal: c_qabine
+337 - Gained vassal: c_qabine
+337 - vassal: c_qabine - Given to neighbour holder of k_tya
+337 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+337 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+337 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+337 - Lost vassal: c_laren
+337 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+337 - Gained vassal: c_laren
+337 - Gained vassal: c_laren
+337 - vassal: c_laren - Given to neighbour holder of k_tya
+337 - sub vassal: c_laren - Given to neighbour holder of k_tya
+338 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+338 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+338 - Lost vassal: c_qabine
+338 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+338 - Gained vassal: c_qabine
+338 - Gained vassal: c_qabine
+338 - vassal: c_qabine - Given to neighbour holder of k_tya
+338 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+338 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+338 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+338 - Lost vassal: c_laren
+338 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+338 - Gained vassal: c_laren
+338 - Gained vassal: c_laren
+338 - vassal: c_laren - Given to neighbour holder of k_tya
+338 - sub vassal: c_laren - Given to neighbour holder of k_tya
+339 - vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+339 - sub vassal: c_qabine - Made vassal of neighbour (k_tya) due to being a seperate island
+339 - Lost vassal: c_qabine
+339 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+339 - Gained vassal: c_qabine
+339 - Gained vassal: c_qabine
+339 - vassal: c_qabine - Given to neighbour holder of k_tya
+339 - sub vassal: c_qabine - Given to neighbour holder of k_tya
+339 - vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+339 - sub vassal: c_laren - Made vassal of neighbour (k_tya) due to being a seperate island
+339 - Lost vassal: c_laren
+339 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+339 - Gained vassal: c_laren
+339 - Gained vassal: c_laren
+339 - vassal: c_laren - Given to neighbour holder of k_tya
+339 - sub vassal: c_laren - Given to neighbour holder of k_tya
+340 - vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+340 - sub vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+340 - Lost vassal: c_laren
+340 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+340 - Gained vassal: c_laren
+340 - Gained vassal: c_laren
+340 - vassal: c_laren - Given to neighbour holder of k_saloet
+340 - sub vassal: c_laren - Given to neighbour holder of k_saloet
+340 - vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+340 - sub vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+340 - Lost vassal: c_qabine
+340 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+340 - Gained vassal: c_qabine
+340 - Gained vassal: c_qabine
+340 - vassal: c_qabine - Given to neighbour holder of k_saloet
+340 - sub vassal: c_qabine - Given to neighbour holder of k_saloet
+341 - vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+341 - sub vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+341 - Lost vassal: c_laren
+341 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+341 - Gained vassal: c_laren
+341 - Gained vassal: c_laren
+341 - vassal: c_laren - Given to neighbour holder of k_saloet
+341 - sub vassal: c_laren - Given to neighbour holder of k_saloet
+341 - vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+341 - sub vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+341 - Lost vassal: c_qabine
+341 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+341 - Gained vassal: c_qabine
+341 - Gained vassal: c_qabine
+341 - vassal: c_qabine - Given to neighbour holder of k_saloet
+341 - sub vassal: c_qabine - Given to neighbour holder of k_saloet
+342 - vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+342 - sub vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+342 - Lost vassal: c_laren
+342 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+342 - Gained vassal: c_laren
+342 - Gained vassal: c_laren
+342 - vassal: c_laren - Given to neighbour holder of k_saloet
+342 - sub vassal: c_laren - Given to neighbour holder of k_saloet
+342 - vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+342 - sub vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+342 - Lost vassal: c_qabine
+342 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+342 - Gained vassal: c_qabine
+342 - Gained vassal: c_qabine
+342 - vassal: c_qabine - Given to neighbour holder of k_saloet
+342 - sub vassal: c_qabine - Given to neighbour holder of k_saloet
+343 - vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+343 - sub vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+343 - Lost vassal: c_laren
+343 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+343 - Gained vassal: c_laren
+343 - Gained vassal: c_laren
+343 - vassal: c_laren - Given to neighbour holder of k_saloet
+343 - sub vassal: c_laren - Given to neighbour holder of k_saloet
+343 - vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+343 - sub vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+343 - Lost vassal: c_qabine
+343 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+343 - Gained vassal: c_qabine
+343 - Gained vassal: c_qabine
+343 - vassal: c_qabine - Given to neighbour holder of k_saloet
+343 - sub vassal: c_qabine - Given to neighbour holder of k_saloet
+343 - Holder 1009217 - Primary title: d_tulyla has lost the title: d_tulyla
+343 - Title given to 1009217
+343 - vassal: c_laren - Holder 1009217 - Primary title: c_laren has lost the title: c_laren
+343 - sub vassal: c_laren - Holder 1009217 - Primary title: c_laren has lost the title: c_laren
+343 - vassal: c_laren - Title given to 1009217 - Primary title: d_tulyla
+343 - sub vassal: c_laren - Title given to 1009217 - Primary title: d_tulyla
+343 - Holder (1009217) has gained c_laren
+343 - vassal: c_qabine - Holder 1009217 - Primary title: c_qabine has lost the title: c_qabine
+343 - sub vassal: c_qabine - Holder 1009217 - Primary title: c_qabine has lost the title: c_qabine
+343 - vassal: c_qabine - Title given to 1009217 - Primary title: d_tulyla
+343 - sub vassal: c_qabine - Title given to 1009217 - Primary title: d_tulyla
+343 - Holder (1009217) has gained c_qabine
+343 - vassal: c_nopius - Holder 1009217 - Primary title: c_nopius has lost the title: c_nopius
+343 - sub vassal: c_nopius - Holder 1009217 - Primary title: c_nopius has lost the title: c_nopius
+343 - vassal: c_nopius - Title given to 1009217 - Primary title: d_tulyla
+343 - sub vassal: c_nopius - Title given to 1009217 - Primary title: d_tulyla
+343 - Holder (1009217) has gained c_nopius
+344 - vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+344 - sub vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+344 - Lost vassal: c_laren
+344 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+344 - Gained vassal: c_laren
+344 - Gained vassal: c_laren
+344 - vassal: c_laren - Given to neighbour holder of k_saloet
+344 - sub vassal: c_laren - Given to neighbour holder of k_saloet
+344 - vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+344 - sub vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+344 - Lost vassal: c_qabine
+344 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+344 - Gained vassal: c_qabine
+344 - Gained vassal: c_qabine
+344 - vassal: c_qabine - Given to neighbour holder of k_saloet
+344 - sub vassal: c_qabine - Given to neighbour holder of k_saloet
+345 - vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+345 - sub vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+345 - Lost vassal: c_laren
+345 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+345 - Gained vassal: c_laren
+345 - Gained vassal: c_laren
+345 - vassal: c_laren - Given to neighbour holder of k_saloet
+345 - sub vassal: c_laren - Given to neighbour holder of k_saloet
+345 - vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+345 - sub vassal: c_qabine - Made vassal of neighbour (k_saloet) due to being a seperate island
+345 - Lost vassal: c_qabine
+345 - sub vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+345 - Gained vassal: c_qabine
+345 - Gained vassal: c_qabine
+345 - vassal: c_qabine - Given to neighbour holder of k_saloet
+345 - sub vassal: c_qabine - Given to neighbour holder of k_saloet
+346 - vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+346 - sub vassal: c_laren - Made vassal of neighbour (k_saloet) due to being a seperate island
+346 - Lost vassal: c_laren
+346 - sub vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+346 - Gained vassal: c_laren
+346 - Gained vassal: c_laren
+34

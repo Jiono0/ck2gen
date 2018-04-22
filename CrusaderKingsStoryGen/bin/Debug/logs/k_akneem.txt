@@ -1,0 +1,551 @@
+200 - Title given to 1001040
+200 - vassal: d_kodurt - Holder 1001040 - Primary title: d_kodurt has lost the title: d_kodurt
+200 - sub vassal: d_kodurt - Holder 1001040 - Primary title: d_kodurt has lost the title: d_kodurt
+200 - vassal: d_kodurt - Title given to 1001040 - Primary title: k_akneem
+200 - sub vassal: d_kodurt - Title given to 1001040 - Primary title: k_akneem
+200 - Holder (1001040) has gained d_kodurt
+200 - sub vassal: c_ratadra - Holder 1001040 - Primary title: c_ratadra has lost the title: c_ratadra
+200 - sub vassal: c_ratadra - Title given to 1001040 - Primary title: k_akneem
+200 - Holder (1001040) has gained c_ratadra
+202 - Holder 1000251 - Primary title: k_akneem has lost the title: k_akneem
+202 - Title given to 1000251 - Primary title: d_amoreva
+202 - vassal: d_amoreva - Holder (1000251) has gained k_akneem
+202 - sub vassal: d_amoreva - Holder (1000251) has gained k_akneem
+202 - vassal: d_kodurt - Holder 1000251 - Primary title: d_kodurt has lost the title: d_kodurt
+202 - sub vassal: d_kodurt - Holder 1000251 - Primary title: d_kodurt has lost the title: d_kodurt
+202 - vassal: d_kodurt - Title given to 1000251 - Primary title: k_akneem
+202 - sub vassal: d_kodurt - Title given to 1000251 - Primary title: k_akneem
+202 - Holder (1000251) has gained d_kodurt
+202 - sub vassal: c_ratadra - Holder 1000251 - Primary title: c_ratadra has lost the title: c_ratadra
+202 - sub vassal: c_ratadra - Title given to 1000251 - Primary title: k_akneem
+202 - Holder (1000251) has gained c_ratadra
+206 - vassal: d_waelurt - Holder 1000251 - Primary title: d_waelurt has lost the title: d_waelurt
+206 - sub vassal: d_waelurt - Holder 1000251 - Primary title: d_waelurt has lost the title: d_waelurt
+206 - vassal: d_waelurt - Title given to 1000251 - Primary title: k_akneem
+206 - sub vassal: d_waelurt - Title given to 1000251 - Primary title: k_akneem
+206 - Holder (1000251) has gained d_waelurt
+206 - sub vassal: c_rayamha - Holder 1000251 - Primary title: c_rayamha has lost the title: c_rayamha
+206 - sub vassal: c_rayamha - Title given to 1000251 - Primary title: k_akneem
+206 - Holder (1000251) has gained c_rayamha
+206 - sub vassal: c_nimha - Holder 1000251 - Primary title: c_nimha has lost the title: c_nimha
+206 - sub vassal: c_nimha - Title given to 1000251 - Primary title: k_akneem
+206 - Holder (1000251) has gained c_nimha
+206 - sub vassal: c_denimha - Holder 1000251 - Primary title: c_denimha has lost the title: c_denimha
+206 - sub vassal: c_denimha - Title given to 1000251 - Primary title: k_akneem
+206 - Holder (1000251) has gained c_denimha
+206 - sub vassal: c_rodana - Holder 1000251 - Primary title: c_rodana has lost the title: c_rodana
+206 - sub vassal: c_rodana - Title given to 1000251 - Primary title: k_akneem
+206 - Holder (1000251) has gained c_rodana
+206 - sub vassal: c_qomas - Given to 1001983 in HandleTitles - Too many duke titles
+206 - Holder 1001983 - Primary title: k_akneem has lost the title: c_qomas
+206 - sub vassal: c_qomas - Title given to 1001983
+206 - Holder 1001983 - Primary title: k_akneem has lost the title: d_amoreva
+206 - vassal: d_amoreva - Title given to 1001983 - Primary title: c_qomas
+206 - sub vassal: d_amoreva - Title given to 1001983 - Primary title: c_qomas
+206 - sub vassal: c_qomas - Holder (1001983) has gained d_amoreva
+206 - sub vassal: c_qitya - Setting to vassal of k_akneem in Validate Realm
+206 - vassal: d_amoreva - Lost vassal: c_qitya
+206 - sub vassal: d_amoreva - Lost vassal: c_qitya
+206 - Gained vassal: c_qitya
+206 - vassal: d_amoreva - Too many dukes, given to dejure: k_akneem
+206 - sub vassal: d_amoreva - Too many dukes, given to dejure: k_akneem
+206 - Holder 1001985 - Primary title: k_akneem has lost the title: c_nimha
+206 - sub vassal: c_nimha - Title given to 1001985
+211 - vassal: d_warurt - Holder 1000251 - Primary title: d_warurt has lost the title: d_warurt
+211 - sub vassal: d_warurt - Holder 1000251 - Primary title: d_warurt has lost the title: d_warurt
+211 - vassal: d_warurt - Title given to 1000251 - Primary title: k_akneem
+211 - sub vassal: d_warurt - Title given to 1000251 - Primary title: k_akneem
+211 - Holder (1000251) has gained d_warurt
+211 - sub vassal: c_todurt - Holder 1000251 - Primary title: c_todurt has lost the title: c_todurt
+211 - sub vassal: c_todurt - Title given to 1000251 - Primary title: k_akneem
+211 - Holder (1000251) has gained c_todurt
+211 - sub vassal: c_nitavid - Holder 1000251 - Primary title: c_nitavid has lost the title: c_nitavid
+211 - sub vassal: c_nitavid - Title given to 1000251 - Primary title: k_akneem
+211 - Holder (1000251) has gained c_nitavid
+211 - sub vassal: c_toradra - Holder 1000251 - Primary title: c_toradra has lost the title: c_toradra
+211 - sub vassal: c_toradra - Title given to 1000251 - Primary title: k_akneem
+211 - Holder (1000251) has gained c_toradra
+211 - sub vassal: c_narurt - Holder 1000251 - Primary title: c_narurt has lost the title: c_narurt
+211 - sub vassal: c_narurt - Title given to 1000251 - Primary title: k_akneem
+211 - Holder (1000251) has gained c_narurt
+211 - sub vassal: c_nimha - Given to 1002317 in HandleTitles - Too many duke titles
+211 - sub vassal: c_nimha - Holder 1002317 - Primary title: c_nimha has lost the title: c_nimha
+211 - sub vassal: c_nimha - Title given to 1002317
+211 - Holder 1002317 - Primary title: k_akneem has lost the title: d_waelurt
+211 - vassal: d_waelurt - Title given to 1002317 - Primary title: c_nimha
+211 - sub vassal: d_waelurt - Title given to 1002317 - Primary title: c_nimha
+211 - sub vassal: c_nimha - Holder (1002317) has gained d_waelurt
+211 - sub vassal: c_rayamha - Setting to vassal of k_akneem in Validate Realm
+211 - vassal: d_waelurt - Lost vassal: c_rayamha
+211 - sub vassal: d_waelurt - Lost vassal: c_rayamha
+211 - sub vassal: c_denimha - Setting to vassal of k_akneem in Validate Realm
+211 - vassal: d_waelurt - Lost vassal: c_denimha
+211 - sub vassal: d_waelurt - Lost vassal: c_denimha
+211 - sub vassal: c_rodana - Setting to vassal of k_akneem in Validate Realm
+211 - vassal: d_waelurt - Lost vassal: c_rodana
+211 - sub vassal: d_waelurt - Lost vassal: c_rodana
+211 - Gained vassal: c_rodana
+211 - Gained vassal: c_denimha
+211 - Gained vassal: c_rayamha
+211 - vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+211 - sub vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+211 - Holder 1002318 - Primary title: k_akneem has lost the title: c_rayamha
+211 - vassal: c_rayamha - Title given to 1002318
+211 - sub vassal: c_rayamha - Title given to 1002318
+211 - Holder 1002319 - Primary title: k_akneem has lost the title: c_todurt
+211 - sub vassal: c_todurt - Title given to 1002319
+211 - Holder 1002320 - Primary title: k_akneem has lost the title: c_narurt
+211 - sub vassal: c_narurt - Title given to 1002320
+211 - Holder 1002321 - Primary title: k_akneem has lost the title: c_nitavid
+211 - sub vassal: c_nitavid - Title given to 1002321
+220 - Holder 1001496 - Primary title: k_akneem has lost the title: k_akneem
+220 - Title given to 1001496
+220 - vassal: d_warurt - Holder 1001496 - Primary title: d_warurt has lost the title: d_warurt
+220 - sub vassal: d_warurt - Holder 1001496 - Primary title: d_warurt has lost the title: d_warurt
+220 - vassal: d_warurt - Title given to 1001496 - Primary title: k_akneem
+220 - sub vassal: d_warurt - Title given to 1001496 - Primary title: k_akneem
+220 - Holder (1001496) has gained d_warurt
+220 - sub vassal: c_toradra - Setting to vassal of d_kodurt in Validate Realm
+220 - vassal: d_warurt - Lost vassal: c_toradra
+220 - sub vassal: d_warurt - Lost vassal: c_toradra
+220 - vassal: c_rodana - Setting to vassal of d_kodurt in Validate Realm
+220 - sub vassal: c_rodana - Setting to vassal of d_kodurt in Validate Realm
+220 - Lost vassal: c_rodana
+220 - vassal: c_denimha - Setting to vassal of d_kodurt in Validate Realm
+220 - sub vassal: c_denimha - Setting to vassal of d_kodurt in Validate Realm
+220 - Lost vassal: c_denimha
+220 - vassal: c_qitya - Setting to vassal of d_kodurt in Validate Realm
+220 - sub vassal: c_qitya - Setting to vassal of d_kodurt in Validate Realm
+220 - Lost vassal: c_qitya
+220 - vassal: d_kodurt - Gained vassal: c_qitya
+220 - sub vassal: d_kodurt - Gained vassal: c_qitya
+220 - vassal: d_kodurt - Gained vassal: c_denimha
+220 - sub vassal: d_kodurt - Gained vassal: c_denimha
+220 - vassal: d_kodurt - Gained vassal: c_rodana
+220 - sub vassal: d_kodurt - Gained vassal: c_rodana
+220 - vassal: d_kodurt - Gained vassal: c_toradra
+220 - sub vassal: d_kodurt - Gained vassal: c_toradra
+220 - vassal: d_kodurt - Holder 1001496 - Primary title: d_kodurt has lost the title: d_kodurt
+220 - sub vassal: d_kodurt - Holder 1001496 - Primary title: d_kodurt has lost the title: d_kodurt
+220 - vassal: d_kodurt - Title given to 1001496 - Primary title: k_akneem
+220 - sub vassal: d_kodurt - Title given to 1001496 - Primary title: k_akneem
+220 - Holder (1001496) has gained d_kodurt
+220 - sub vassal: c_toradra - Holder 1001496 - Primary title: c_toradra has lost the title: c_toradra
+220 - sub vassal: c_toradra - Title given to 1001496 - Primary title: k_akneem
+220 - Holder (1001496) has gained c_toradra
+220 - sub vassal: c_rodana - Holder 1001496 - Primary title: c_rodana has lost the title: c_rodana
+220 - sub vassal: c_rodana - Title given to 1001496 - Primary title: k_akneem
+220 - Holder (1001496) has gained c_rodana
+220 - sub vassal: c_denimha - Holder 1001496 - Primary title: c_denimha has lost the title: c_denimha
+220 - sub vassal: c_denimha - Title given to 1001496 - Primary title: k_akneem
+220 - Holder (1001496) has gained c_denimha
+220 - sub vassal: c_ratadra - Holder 1001496 - Primary title: c_ratadra has lost the title: c_ratadra
+220 - sub vassal: c_ratadra - Title given to 1001496 - Primary title: k_akneem
+220 - Holder (1001496) has gained c_ratadra
+220 - sub vassal: c_qitya - Holder 1001496 - Primary title: c_qitya has lost the title: c_qitya
+220 - sub vassal: c_qitya - Title given to 1001496 - Primary title: k_akneem
+220 - Holder (1001496) has gained c_qitya
+224 - vassal: d_amoreva - Holder 1002289 - Primary title: d_amoreva has lost the title: d_amoreva
+224 - sub vassal: d_amoreva - Holder 1002289 - Primary title: d_amoreva has lost the title: d_amoreva
+224 - vassal: d_amoreva - Title given to 1002289
+224 - sub vassal: d_amoreva - Title given to 1002289
+224 - sub vassal: c_qomas - Holder 1002289 - Primary title: c_qomas has lost the title: c_qomas
+224 - sub vassal: c_qomas - Title given to 1002289 - Primary title: d_amoreva
+224 - vassal: d_amoreva - Holder (1002289) has gained c_qomas
+224 - sub vassal: d_amoreva - Holder (1002289) has gained c_qomas
+224 - vassal: d_waelurt - Holder 1002289 - Primary title: d_waelurt has lost the title: d_waelurt
+224 - sub vassal: d_waelurt - Holder 1002289 - Primary title: d_waelurt has lost the title: d_waelurt
+224 - vassal: d_waelurt - Title given to 1002289 - Primary title: d_amoreva
+224 - sub vassal: d_waelurt - Title given to 1002289 - Primary title: d_amoreva
+224 - vassal: d_amoreva - Holder (1002289) has gained d_waelurt
+224 - sub vassal: d_amoreva - Holder (1002289) has gained d_waelurt
+224 - sub vassal: c_nimha - Holder 1002289 - Primary title: c_nimha has lost the title: c_nimha
+224 - sub vassal: c_nimha - Title given to 1002289 - Primary title: d_amoreva
+224 - vassal: d_amoreva - Holder (1002289) has gained c_nimha
+224 - sub vassal: d_amoreva - Holder (1002289) has gained c_nimha
+227 - vassal: d_waelurt - Holder 1001496 - Primary title: d_waelurt has lost the title: d_amoreva
+227 - sub vassal: d_waelurt - Holder 1001496 - Primary title: d_waelurt has lost the title: d_amoreva
+227 - vassal: d_amoreva - Title given to 1001496 - Primary title: k_akneem
+227 - sub vassal: d_amoreva - Title given to 1001496 - Primary title: k_akneem
+227 - Holder (1001496) has gained d_amoreva
+227 - sub vassal: c_qomas - Setting to vassal of d_waelurt in Validate Realm
+227 - vassal: d_amoreva - Lost vassal: c_qomas
+227 - sub vassal: d_amoreva - Lost vassal: c_qomas
+227 - vassal: d_waelurt - Gained vassal: c_qomas
+227 - sub vassal: d_waelurt - Gained vassal: c_qomas
+227 - vassal: d_waelurt - Holder 1001496 - Primary title: d_waelurt has lost the title: c_qomas
+227 - sub vassal: d_waelurt - Holder 1001496 - Primary title: d_waelurt has lost the title: c_qomas
+227 - sub vassal: c_qomas - Title given to 1001496 - Primary title: k_akneem
+227 - Holder (1001496) has gained c_qomas
+227 - sub vassal: c_qomas - Setting to vassal of k_akneem in Validate Realm
+227 - vassal: d_waelurt - Lost vassal: c_qomas
+227 - sub vassal: d_waelurt - Lost vassal: c_qomas
+227 - Gained vassal: c_qomas
+227 - vassal: d_waelurt - Holder 1001496 - Primary title: d_waelurt has lost the title: d_waelurt
+227 - sub vassal: d_waelurt - Holder 1001496 - Primary title: d_waelurt has lost the title: d_waelurt
+227 - vassal: d_waelurt - Title given to 1001496 - Primary title: k_akneem
+227 - sub vassal: d_waelurt - Title given to 1001496 - Primary title: k_akneem
+227 - Holder (1001496) has gained d_waelurt
+227 - sub vassal: c_nimha - Holder 1001496 - Primary title: c_nimha has lost the title: c_nimha
+227 - sub vassal: c_nimha - Title given to 1001496 - Primary title: k_akneem
+227 - Holder (1001496) has gained c_nimha
+227 - sub vassal: c_nimha - Given to 1003215 in HandleTitles - Too many duke titles
+227 - Holder 1003215 - Primary title: k_akneem has lost the title: c_nimha
+227 - sub vassal: c_nimha - Title given to 1003215
+227 - Holder 1003215 - Primary title: k_akneem has lost the title: d_waelurt
+227 - vassal: d_waelurt - Title given to 1003215 - Primary title: c_nimha
+227 - sub vassal: d_waelurt - Title given to 1003215 - Primary title: c_nimha
+227 - sub vassal: c_nimha - Holder (1003215) has gained d_waelurt
+227 - vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+227 - sub vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+227 - sub vassal: c_nitavid - Given to 1003216 in HandleTitles - Too many duke titles
+227 - sub vassal: c_nitavid - Holder 1003216 - Primary title: c_nitavid has lost the title: c_nitavid
+227 - sub vassal: c_nitavid - Title given to 1003216
+227 - Holder 1003216 - Primary title: k_akneem has lost the title: d_warurt
+227 - vassal: d_warurt - Title given to 1003216 - Primary title: c_nitavid
+227 - sub vassal: d_warurt - Title given to 1003216 - Primary title: c_nitavid
+227 - sub vassal: c_nitavid - Holder (1003216) has gained d_warurt
+227 - vassal: d_warurt - Too many dukes, given to dejure: k_akneem
+227 - sub vassal: d_warurt - Too many dukes, given to dejure: k_akneem
+227 - Holder 1003217 - Primary title: k_akneem has lost the title: c_qomas
+227 - vassal: c_qomas - Title given to 1003217
+227 - sub vassal: c_qomas - Title given to 1003217
+228 - vassal: d_amoreva - Destroyed due to flagged problem
+228 - sub vassal: d_amoreva - Destroyed due to flagged problem
+228 - vassal: d_amoreva - Made independent
+228 - sub vassal: d_amoreva - Made independent
+235 - Holder 1003215 - Primary title: k_akneem has lost the title: k_akneem
+235 - Title given to 1003215 - Primary title: d_waelurt
+235 - vassal: d_waelurt - Holder (1003215) has gained k_akneem
+235 - sub vassal: d_waelurt - Holder (1003215) has gained k_akneem
+235 - vassal: d_kodurt - Holder 1003215 - Primary title: d_kodurt has lost the title: d_kodurt
+235 - sub vassal: d_kodurt - Holder 1003215 - Primary title: d_kodurt has lost the title: d_kodurt
+235 - vassal: d_kodurt - Title given to 1003215 - Primary title: k_akneem
+235 - sub vassal: d_kodurt - Title given to 1003215 - Primary title: k_akneem
+235 - Holder (1003215) has gained d_kodurt
+235 - sub vassal: c_toradra - Holder 1003215 - Primary title: c_toradra has lost the title: c_toradra
+235 - sub vassal: c_toradra - Title given to 1003215 - Primary title: k_akneem
+235 - Holder (1003215) has gained c_toradra
+235 - sub vassal: c_rodana - Holder 1003215 - Primary title: c_rodana has lost the title: c_rodana
+235 - sub vassal: c_rodana - Title given to 1003215 - Primary title: k_akneem
+235 - Holder (1003215) has gained c_rodana
+235 - sub vassal: c_denimha - Holder 1003215 - Primary title: c_denimha has lost the title: c_denimha
+235 - sub vassal: c_denimha - Title given to 1003215 - Primary title: k_akneem
+235 - Holder (1003215) has gained c_denimha
+235 - sub vassal: c_ratadra - Holder 1003215 - Primary title: c_ratadra has lost the title: c_ratadra
+235 - sub vassal: c_ratadra - Title given to 1003215 - Primary title: k_akneem
+235 - Holder (1003215) has gained c_ratadra
+235 - sub vassal: c_qitya - Holder 1003215 - Primary title: c_qitya has lost the title: c_qitya
+235 - sub vassal: c_qitya - Title given to 1003215 - Primary title: k_akneem
+235 - Holder (1003215) has gained c_qitya
+236 - Holder 1003782 - Primary title: k_akneem has lost the title: c_nimha
+236 - sub vassal: c_nimha - Title given to 1003782
+268 - vassal: d_warurt - Holder 1003215 - Primary title: d_warurt has lost the title: d_warurt
+268 - sub vassal: d_warurt - Holder 1003215 - Primary title: d_warurt has lost the title: d_warurt
+268 - vassal: d_warurt - Title given to 1003215 - Primary title: k_akneem
+268 - sub vassal: d_warurt - Title given to 1003215 - Primary title: k_akneem
+268 - Holder (1003215) has gained d_warurt
+268 - sub vassal: c_nitavid - Holder 1003215 - Primary title: c_nitavid has lost the title: c_nitavid
+268 - sub vassal: c_nitavid - Title given to 1003215 - Primary title: k_akneem
+268 - Holder (1003215) has gained c_nitavid
+268 - sub vassal: c_nitavid - Given to 1005774 in HandleTitles - Too many duke titles
+268 - Holder 1005774 - Primary title: k_akneem has lost the title: c_nitavid
+268 - sub vassal: c_nitavid - Title given to 1005774
+268 - Holder 1005774 - Primary title: k_akneem has lost the title: d_warurt
+268 - vassal: d_warurt - Title given to 1005774 - Primary title: c_nitavid
+268 - sub vassal: d_warurt - Title given to 1005774 - Primary title: c_nitavid
+268 - sub vassal: c_nitavid - Holder (1005774) has gained d_warurt
+268 - vassal: d_warurt - Too many dukes, given to dejure: k_akneem
+268 - sub vassal: d_warurt - Too many dukes, given to dejure: k_akneem
+274 - Holder 1003466 - Primary title: k_akneem has lost the title: k_akneem
+274 - Title given to 1003466
+274 - vassal: d_waelurt - Holder 1003466 - Primary title: d_waelurt has lost the title: d_waelurt
+274 - sub vassal: d_waelurt - Holder 1003466 - Primary title: d_waelurt has lost the title: d_waelurt
+274 - vassal: d_waelurt - Title given to 1003466 - Primary title: k_akneem
+274 - sub vassal: d_waelurt - Title given to 1003466 - Primary title: k_akneem
+274 - Holder (1003466) has gained d_waelurt
+274 - vassal: d_kodurt - Holder 1003466 - Primary title: d_kodurt has lost the title: d_kodurt
+274 - sub vassal: d_kodurt - Holder 1003466 - Primary title: d_kodurt has lost the title: d_kodurt
+274 - vassal: d_kodurt - Title given to 1003466 - Primary title: k_akneem
+274 - sub vassal: d_kodurt - Title given to 1003466 - Primary title: k_akneem
+274 - Holder (1003466) has gained d_kodurt
+274 - sub vassal: c_toradra - Holder 1003466 - Primary title: c_toradra has lost the title: c_toradra
+274 - sub vassal: c_toradra - Title given to 1003466 - Primary title: k_akneem
+274 - Holder (1003466) has gained c_toradra
+274 - sub vassal: c_rodana - Holder 1003466 - Primary title: c_rodana has lost the title: c_rodana
+274 - sub vassal: c_rodana - Title given to 1003466 - Primary title: k_akneem
+274 - Holder (1003466) has gained c_rodana
+274 - sub vassal: c_denimha - Holder 1003466 - Primary title: c_denimha has lost the title: c_denimha
+274 - sub vassal: c_denimha - Title given to 1003466 - Primary title: k_akneem
+274 - Holder (1003466) has gained c_denimha
+274 - sub vassal: c_ratadra - Holder 1003466 - Primary title: c_ratadra has lost the title: c_ratadra
+274 - sub vassal: c_ratadra - Title given to 1003466 - Primary title: k_akneem
+274 - Holder (1003466) has gained c_ratadra
+274 - sub vassal: c_qitya - Holder 1003466 - Primary title: c_qitya has lost the title: c_qitya
+274 - sub vassal: c_qitya - Title given to 1003466 - Primary title: k_akneem
+274 - Holder (1003466) has gained c_qitya
+279 - vassal: d_warurt - Holder 1003466 - Primary title: d_warurt has lost the title: d_warurt
+279 - sub vassal: d_warurt - Holder 1003466 - Primary title: d_warurt has lost the title: d_warurt
+279 - vassal: d_warurt - Title given to 1003466 - Primary title: k_akneem
+279 - sub vassal: d_warurt - Title given to 1003466 - Primary title: k_akneem
+279 - Holder (1003466) has gained d_warurt
+279 - sub vassal: c_nitavid - Holder 1003466 - Primary title: c_nitavid has lost the title: c_nitavid
+279 - sub vassal: c_nitavid - Title given to 1003466 - Primary title: k_akneem
+279 - Holder (1003466) has gained c_nitavid
+279 - sub vassal: c_nimha - Given to 1006398 in HandleTitles - Too many duke titles
+279 - sub vassal: c_nimha - Holder 1006398 - Primary title: c_nimha has lost the title: c_nimha
+279 - sub vassal: c_nimha - Title given to 1006398
+279 - Holder 1006398 - Primary title: k_akneem has lost the title: d_waelurt
+279 - vassal: d_waelurt - Title given to 1006398 - Primary title: c_nimha
+279 - sub vassal: d_waelurt - Title given to 1006398 - Primary title: c_nimha
+279 - sub vassal: c_nimha - Holder (1006398) has gained d_waelurt
+279 - vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+279 - sub vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+279 - Holder 1006399 - Primary title: k_akneem has lost the title: c_nitavid
+279 - sub vassal: c_nitavid - Title given to 1006399
+297 - Holder 1007448 - Primary title: k_akneem has lost the title: k_akneem
+297 - Title given to 1007448
+297 - vassal: d_warurt - Holder 1007448 - Primary title: d_warurt has lost the title: d_warurt
+297 - sub vassal: d_warurt - Holder 1007448 - Primary title: d_warurt has lost the title: d_warurt
+297 - vassal: d_warurt - Title given to 1007448 - Primary title: k_akneem
+297 - sub vassal: d_warurt - Title given to 1007448 - Primary title: k_akneem
+297 - Holder (1007448) has gained d_warurt
+297 - vassal: d_kodurt - Holder 1007448 - Primary title: d_kodurt has lost the title: d_kodurt
+297 - sub vassal: d_kodurt - Holder 1007448 - Primary title: d_kodurt has lost the title: d_kodurt
+297 - vassal: d_kodurt - Title given to 1007448 - Primary title: k_akneem
+297 - sub vassal: d_kodurt - Title given to 1007448 - Primary title: k_akneem
+297 - Holder (1007448) has gained d_kodurt
+297 - sub vassal: c_qitya - Holder 1007448 - Primary title: c_qitya has lost the title: c_qitya
+297 - sub vassal: c_qitya - Title given to 1007448 - Primary title: k_akneem
+297 - Holder (1007448) has gained c_qitya
+297 - sub vassal: c_ratadra - Holder 1007448 - Primary title: c_ratadra has lost the title: c_ratadra
+297 - sub vassal: c_ratadra - Title given to 1007448 - Primary title: k_akneem
+297 - Holder (1007448) has gained c_ratadra
+297 - sub vassal: c_denimha - Holder 1007448 - Primary title: c_denimha has lost the title: c_denimha
+297 - sub vassal: c_denimha - Title given to 1007448 - Primary title: k_akneem
+297 - Holder (1007448) has gained c_denimha
+297 - sub vassal: c_rodana - Holder 1007448 - Primary title: c_rodana has lost the title: c_rodana
+297 - sub vassal: c_rodana - Title given to 1007448 - Primary title: k_akneem
+297 - Holder (1007448) has gained c_rodana
+297 - sub vassal: c_toradra - Holder 1007448 - Primary title: c_toradra has lost the title: c_toradra
+297 - sub vassal: c_toradra - Title given to 1007448 - Primary title: k_akneem
+297 - Holder (1007448) has gained c_toradra
+300 - sub vassal: c_teninda - Holder 1007448 - Primary title: c_teninda has lost the title: c_teninda
+300 - sub vassal: c_teninda - Title given to 1007448 - Primary title: k_akneem
+300 - Holder (1007448) has gained c_teninda
+300 - sub vassal: c_natama - Holder 1007448 - Primary title: c_natama has lost the title: c_natama
+300 - sub vassal: c_natama - Title given to 1007448 - Primary title: k_akneem
+300 - Holder (1007448) has gained c_natama
+300 - vassal: c_rayamha - Holder 1006398 - Primary title: c_rayamha has lost the title: c_rayamha
+300 - sub vassal: c_rayamha - Holder 1006398 - Primary title: c_rayamha has lost the title: c_rayamha
+300 - vassal: c_rayamha - Title given to 1006398 - Primary title: d_waelurt
+300 - sub vassal: c_rayamha - Title given to 1006398 - Primary title: d_waelurt
+300 - vassal: d_waelurt - Holder (1006398) has gained c_rayamha
+300 - sub vassal: d_waelurt - Holder (1006398) has gained c_rayamha
+300 - vassal: c_rayamha - Setting to vassal of d_waelurt in Validate Realm
+300 - sub vassal: c_rayamha - Setting to vassal of d_waelurt in Validate Realm
+300 - Lost vassal: c_rayamha
+300 - vassal: d_waelurt - Gained vassal: c_rayamha
+300 - sub vassal: d_waelurt - Gained vassal: c_rayamha
+300 - sub vassal: c_todurt - Holder 1002320 - Primary title: c_todurt has lost the title: c_todurt
+300 - sub vassal: c_todurt - Title given to 1002320 - Primary title: c_narurt
+300 - sub vassal: c_narurt - Holder (1002320) has gained c_todurt
+300 - sub vassal: c_todurt - Holder 1006399 - Primary title: c_todurt has lost the title: c_narurt
+300 - sub vassal: c_narurt - Title given to 1006399 - Primary title: c_nitavid
+300 - sub vassal: c_nitavid - Holder (1006399) has gained c_narurt
+300 - sub vassal: c_todurt - Holder 1006399 - Primary title: c_todurt has lost the title: c_todurt
+300 - sub vassal: c_todurt - Title given to 1006399 - Primary title: c_nitavid
+300 - sub vassal: c_nitavid - Holder (1006399) has gained c_todurt
+300 - Holder 1007622 - Primary title: k_akneem has lost the title: c_natama
+300 - sub vassal: c_natama - Title given to 1007622
+300 - Holder 1007623 - Primary title: k_akneem has lost the title: c_ratadra
+300 - sub vassal: c_ratadra - Title given to 1007623
+313 - Holder 1008163 - Primary title: k_akneem has lost the title: k_akneem
+313 - Title given to 1008163
+313 - vassal: d_warurt - Holder 1008163 - Primary title: d_warurt has lost the title: d_warurt
+313 - sub vassal: d_warurt - Holder 1008163 - Primary title: d_warurt has lost the title: d_warurt
+313 - vassal: d_warurt - Title given to 1008163 - Primary title: k_akneem
+313 - sub vassal: d_warurt - Title given to 1008163 - Primary title: k_akneem
+313 - Holder (1008163) has gained d_warurt
+313 - vassal: d_kodurt - Holder 1008163 - Primary title: d_kodurt has lost the title: d_kodurt
+313 - sub vassal: d_kodurt - Holder 1008163 - Primary title: d_kodurt has lost the title: d_kodurt
+313 - vassal: d_kodurt - Title given to 1008163 - Primary title: k_akneem
+313 - sub vassal: d_kodurt - Title given to 1008163 - Primary title: k_akneem
+313 - Holder (1008163) has gained d_kodurt
+313 - sub vassal: c_teninda - Holder 1008163 - Primary title: c_teninda has lost the title: c_teninda
+313 - sub vassal: c_teninda - Title given to 1008163 - Primary title: k_akneem
+313 - Holder (1008163) has gained c_teninda
+313 - sub vassal: c_toradra - Holder 1008163 - Primary title: c_toradra has lost the title: c_toradra
+313 - sub vassal: c_toradra - Title given to 1008163 - Primary title: k_akneem
+313 - Holder (1008163) has gained c_toradra
+313 - sub vassal: c_rodana - Holder 1008163 - Primary title: c_rodana has lost the title: c_rodana
+313 - sub vassal: c_rodana - Title given to 1008163 - Primary title: k_akneem
+313 - Holder (1008163) has gained c_rodana
+313 - sub vassal: c_denimha - Holder 1008163 - Primary title: c_denimha has lost the title: c_denimha
+313 - sub vassal: c_denimha - Title given to 1008163 - Primary title: k_akneem
+313 - Holder (1008163) has gained c_denimha
+313 - sub vassal: c_qitya - Holder 1008163 - Primary title: c_qitya has lost the title: c_qitya
+313 - sub vassal: c_qitya - Title given to 1008163 - Primary title: k_akneem
+313 - Holder (1008163) has gained c_qitya
+328 - vassal: d_waelurt - Holder 1006441 - Primary title: d_waelurt has lost the title: d_waelurt
+328 - sub vassal: d_waelurt - Holder 1006441 - Primary title: d_waelurt has lost the title: d_waelurt
+328 - vassal: d_waelurt - Title given to 1006441
+328 - sub vassal: d_waelurt - Title given to 1006441
+328 - sub vassal: c_nimha - Holder 1006441 - Primary title: c_nimha has lost the title: c_nimha
+328 - sub vassal: c_nimha - Title given to 1006441 - Primary title: d_waelurt
+328 - vassal: d_waelurt - Holder (1006441) has gained c_nimha
+328 - sub vassal: d_waelurt - Holder (1006441) has gained c_nimha
+328 - sub vassal: c_rayamha - Holder 1006441 - Primary title: c_rayamha has lost the title: c_rayamha
+328 - sub vassal: c_rayamha - Title given to 1006441 - Primary title: d_waelurt
+328 - vassal: d_waelurt - Holder (1006441) has gained c_rayamha
+328 - sub vassal: d_waelurt - Holder (1006441) has gained c_rayamha
+349 - vassal: d_waelurt - Holder 1009407 - Primary title: d_waelurt has lost the title: d_waelurt
+349 - sub vassal: d_waelurt - Holder 1009407 - Primary title: d_waelurt has lost the title: d_waelurt
+349 - vassal: d_waelurt - Title given to 1009407
+349 - sub vassal: d_waelurt - Title given to 1009407
+349 - sub vassal: c_rayamha - Holder 1009407 - Primary title: c_rayamha has lost the title: c_rayamha
+349 - sub vassal: c_rayamha - Title given to 1009407 - Primary title: d_waelurt
+349 - vassal: d_waelurt - Holder (1009407) has gained c_rayamha
+349 - sub vassal: d_waelurt - Holder (1009407) has gained c_rayamha
+349 - sub vassal: c_nimha - Holder 1009407 - Primary title: c_nimha has lost the title: c_nimha
+349 - sub vassal: c_nimha - Title given to 1009407 - Primary title: d_waelurt
+349 - vassal: d_waelurt - Holder (1009407) has gained c_nimha
+349 - sub vassal: d_waelurt - Holder (1009407) has gained c_nimha
+353 - vassal: d_tunay - Setting independent in Validate Realm
+353 - vassal: d_tunay - Made independent
+354 - vassal: d_waelurt - Holder 1008163 - Primary title: d_waelurt has lost the title: d_waelurt
+354 - sub vassal: d_waelurt - Holder 1008163 - Primary title: d_waelurt has lost the title: d_waelurt
+354 - vassal: d_waelurt - Title given to 1008163 - Primary title: k_akneem
+354 - sub vassal: d_waelurt - Title given to 1008163 - Primary title: k_akneem
+354 - Holder (1008163) has gained d_waelurt
+354 - sub vassal: c_rayamha - Holder 1008163 - Primary title: c_rayamha has lost the title: c_rayamha
+354 - sub vassal: c_rayamha - Title given to 1008163 - Primary title: k_akneem
+354 - Holder (1008163) has gained c_rayamha
+354 - sub vassal: c_nimha - Holder 1008163 - Primary title: c_nimha has lost the title: c_nimha
+354 - sub vassal: c_nimha - Title given to 1008163 - Primary title: k_akneem
+354 - Holder (1008163) has gained c_nimha
+354 - sub vassal: c_nimha - Given to 1008215 in HandleTitles - Too many duke titles
+354 - Holder 1008215 - Primary title: k_akneem has lost the title: c_nimha
+354 - sub vassal: c_nimha - Title given to 1008215
+354 - Holder 1008215 - Primary title: k_akneem has lost the title: d_waelurt
+354 - vassal: d_waelurt - Title given to 1008215 - Primary title: c_nimha
+354 - sub vassal: d_waelurt - Title given to 1008215 - Primary title: c_nimha
+354 - sub vassal: c_nimha - Holder (1008215) has gained d_waelurt
+354 - sub vassal: c_rayamha - Setting to vassal of k_akneem in Validate Realm
+354 - vassal: d_waelurt - Lost vassal: c_rayamha
+354 - sub vassal: d_waelurt - Lost vassal: c_rayamha
+354 - Gained vassal: c_rayamha
+354 - vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+354 - sub vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+354 - Holder 1010504 - Primary title: k_akneem has lost the title: c_rayamha
+354 - vassal: c_rayamha - Title given to 1010504
+354 - sub vassal: c_rayamha - Title given to 1010504
+360 - Holder 1008975 - Primary title: k_akneem has lost the title: k_akneem
+360 - Title given to 1008975
+360 - vassal: d_warurt - Holder 1008975 - Primary title: d_warurt has lost the title: d_warurt
+360 - sub vassal: d_warurt - Holder 1008975 - Primary title: d_warurt has lost the title: d_warurt
+360 - vassal: d_warurt - Title given to 1008975 - Primary title: k_akneem
+360 - sub vassal: d_warurt - Title given to 1008975 - Primary title: k_akneem
+360 - Holder (1008975) has gained d_warurt
+360 - vassal: d_kodurt - Holder 1008975 - Primary title: d_kodurt has lost the title: d_kodurt
+360 - sub vassal: d_kodurt - Holder 1008975 - Primary title: d_kodurt has lost the title: d_kodurt
+360 - vassal: d_kodurt - Title given to 1008975 - Primary title: k_akneem
+360 - sub vassal: d_kodurt - Title given to 1008975 - Primary title: k_akneem
+360 - Holder (1008975) has gained d_kodurt
+360 - sub vassal: c_qitya - Holder 1008975 - Primary title: c_qitya has lost the title: c_qitya
+360 - sub vassal: c_qitya - Title given to 1008975 - Primary title: k_akneem
+360 - Holder (1008975) has gained c_qitya
+360 - sub vassal: c_denimha - Holder 1008975 - Primary title: c_denimha has lost the title: c_denimha
+360 - sub vassal: c_denimha - Title given to 1008975 - Primary title: k_akneem
+360 - Holder (1008975) has gained c_denimha
+360 - sub vassal: c_rodana - Holder 1008975 - Primary title: c_rodana has lost the title: c_rodana
+360 - sub vassal: c_rodana - Title given to 1008975 - Primary title: k_akneem
+360 - Holder (1008975) has gained c_rodana
+360 - sub vassal: c_toradra - Holder 1008975 - Primary title: c_toradra has lost the title: c_toradra
+360 - sub vassal: c_toradra - Title given to 1008975 - Primary title: k_akneem
+360 - Holder (1008975) has gained c_toradra
+360 - sub vassal: c_teninda - Holder 1008975 - Primary title: c_teninda has lost the title: c_teninda
+360 - sub vassal: c_teninda - Title given to 1008975 - Primary title: k_akneem
+360 - Holder (1008975) has gained c_teninda
+362 - vassal: d_waelurt - Holder 1003217 - Primary title: d_waelurt has lost the title: d_waelurt
+362 - sub vassal: d_waelurt - Holder 1003217 - Primary title: d_waelurt has lost the title: d_waelurt
+362 - vassal: d_waelurt - Title given to 1003217 - Primary title: c_qomas
+362 - sub vassal: d_waelurt - Title given to 1003217 - Primary title: c_qomas
+362 - vassal: c_qomas - Holder (1003217) has gained d_waelurt
+362 - sub vassal: c_qomas - Holder (1003217) has gained d_waelurt
+362 - vassal: c_qomas - Setting to vassal of d_waelurt in Validate Realm
+362 - sub vassal: c_qomas - Setting to vassal of d_waelurt in Validate Realm
+362 - Lost vassal: c_qomas
+362 - vassal: d_waelurt - Gained vassal: c_qomas
+362 - sub vassal: d_waelurt - Gained vassal: c_qomas
+362 - sub vassal: c_nimha - Holder 1003217 - Primary title: c_nimha has lost the title: c_nimha
+362 - sub vassal: c_nimha - Title given to 1003217 - Primary title: d_waelurt
+362 - vassal: d_waelurt - Holder (1003217) has gained c_nimha
+362 - sub vassal: d_waelurt - Holder (1003217) has gained c_nimha
+371 - vassal: d_waelurt - Holder 1008975 - Primary title: d_waelurt has lost the title: d_waelurt
+371 - sub vassal: d_waelurt - Holder 1008975 - Primary title: d_waelurt has lost the title: d_waelurt
+371 - vassal: d_waelurt - Title given to 1008975 - Primary title: k_akneem
+371 - sub vassal: d_waelurt - Title given to 1008975 - Primary title: k_akneem
+371 - Holder (1008975) has gained d_waelurt
+371 - sub vassal: c_qomas - Holder 1008975 - Primary title: c_qomas has lost the title: c_qomas
+371 - sub vassal: c_qomas - Title given to 1008975 - Primary title: k_akneem
+371 - Holder (1008975) has gained c_qomas
+371 - sub vassal: c_nimha - Holder 1008975 - Primary title: c_nimha has lost the title: c_nimha
+371 - sub vassal: c_nimha - Title given to 1008975 - Primary title: k_akneem
+371 - Holder (1008975) has gained c_nimha
+371 - sub vassal: c_nimha - Given to 1011357 in HandleTitles - Too many duke titles
+371 - Holder 1011357 - Primary title: k_akneem has lost the title: c_nimha
+371 - sub vassal: c_nimha - Title given to 1011357
+371 - Holder 1011357 - Primary title: k_akneem has lost the title: d_waelurt
+371 - vassal: d_waelurt - Title given to 1011357 - Primary title: c_nimha
+371 - sub vassal: d_waelurt - Title given to 1011357 - Primary title: c_nimha
+371 - sub vassal: c_nimha - Holder (1011357) has gained d_waelurt
+371 - sub vassal: c_qomas - Setting to vassal of k_akneem in Validate Realm
+371 - vassal: d_waelurt - Lost vassal: c_qomas
+371 - sub vassal: d_waelurt - Lost vassal: c_qomas
+371 - Gained vassal: c_qomas
+371 - vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+371 - sub vassal: d_waelurt - Too many dukes, given to dejure: k_akneem
+371 - Holder 1011358 - Primary title: k_akneem has lost the title: c_qomas
+371 - vassal: c_qomas - Title given to 1011358
+371 - sub vassal: c_qomas - Title given to 1011358
+375 - vassal: c_qomas - Independent as conquerer
+375 - sub vassal: c_qomas - Independent as conquerer
+375 - vassal: c_qomas - Made independent
+375 - sub vassal: c_qomas - Made independent
+378 - Given to 1011358 in conquest
+378 - Holder 1011358 - Primary title: k_akneem has lost the title: k_akneem
+378 - Title given to 1011358 - Primary title: c_qomas
+378 - Holder (1011358) has gained k_wofie
+378 - Holder (1011358) has gained k_lophia
+378 - Holder (1011358) has gained k_ruatota
+378 - Holder 1008975 - Primary title: k_akneem has lost the title: k_akneem
+378 - Title given to 1008975 - Primary title: d_warurt
+378 - vassal: d_warurt - Holder (1008975) has gained k_akneem
+378 - sub vassal: d_warurt - Holder (1008975) has gained k_akneem
+378 - Holder (1008975) has gained c_qomas
+378 - Holder (1008975) has gained k_wofie
+378 - Holder (1008975) has gained k_lophia
+378 - Holder (1008975) has gained k_ruatota
+379 - Holder 1011748 - Primary title: k_akneem has lost the title: c_qomas
+379 - Gained vassal: c_qomas
+379 - sub vassal: d_emeiriga - Made vassal of neighbour (k_ebriga) due to being a seperate island
+379 - sub vassal: d_diturt - Made vassal of neighbour (k_ebriga) due to being a seperate island
+383 - vassal: d_waelurt - Holder 1011531 - Primary title: d_waelurt has lost the title: d_waelurt
+383 - vassal: d_waelurt - Title given to 1011531
+383 - vassal: d_waelurt - Holder (1011531) has gained c_nimha
+385 - vassal: d_waelurt - Made independent due to being a seperate island
+385 - vassal: d_waelurt - Made independent
+385 - vassal: c_qomas - Made vassal of neighbour (d_waelurt) due to being a seperate island
+385 - Lost vassal: c_qomas
+385 - vassal: c_rayamha - Made vassal of neighbour (d_desenes) due to being a seperate island
+385 - Lost vassal: c_rayamha
+386 - vassal: d_warurt - Lost vassal: c_nitavid
+386 - Holder 1012110 - Primary title: k_akneem has lost the title: k_akneem
+386 - Title given to 1012110 - Primary title: k_lophia
+386 - vassal: d_warurt - Holder 1012110 - Primary title: d_warurt has lost the title: d_warurt
+386 - vassal: d_warurt - Title given to 1012110 - Primary title: k_lophia
+386 - vassal: d_kodurt - Holder 1012110 - Primary title: d_kodurt has lost the title: d_kodurt
+386 - vassal: d_kodurt - Title given to 1012110 - Primary title: k_lophia
+387 - vassal: d_warurt - Destroyed due to flagged problem
+387 - vassal: d_warurt - Made independent

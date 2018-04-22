@@ -1,0 +1,64 @@
+200 - Title given to 1000220
+200 - vassal: c_seza - Given to 1000223 via AddCharacterForTitle
+200 - sub vassal: c_seza - Given to 1000223 via AddCharacterForTitle
+200 - vassal: c_seza - Holder 1000223 - Primary title: c_seza has lost the title: c_seza
+200 - sub vassal: c_seza - Holder 1000223 - Primary title: c_seza has lost the title: c_seza
+200 - vassal: c_seza - Title given to 1000223
+200 - sub vassal: c_seza - Title given to 1000223
+200 - vassal: c_wesse - Holder 1000220 - Primary title: c_wesse has lost the title: c_wesse
+200 - sub vassal: c_wesse - Holder 1000220 - Primary title: c_wesse has lost the title: c_wesse
+200 - vassal: c_wesse - Title given to 1000220 - Primary title: d_kiraky
+200 - sub vassal: c_wesse - Title given to 1000220 - Primary title: d_kiraky
+200 - Holder (1000220) has gained c_wesse
+200 - vassal: c_seza - Holder 1000220 - Primary title: c_seza has lost the title: c_seza
+200 - sub vassal: c_seza - Holder 1000220 - Primary title: c_seza has lost the title: c_seza
+200 - vassal: c_seza - Title given to 1000220 - Primary title: d_kiraky
+200 - sub vassal: c_seza - Title given to 1000220 - Primary title: d_kiraky
+200 - Holder (1000220) has gained c_seza
+200 - Holder (1000220) has gained d_nipude
+200 - Holder (1000220) has gained c_riplas
+200 - Holder (1000220) has gained c_niraise
+200 - Holder (1000220) has gained c_tajolas
+210 - vassal: c_seza - Given to 1002186 in HandleTitles - Too many duke titles
+210 - vassal: c_seza - Title given to 1002186
+210 - Title given to 1002186 - Primary title: c_seza
+210 - vassal: c_seza - Holder (1002186) has gained d_kiraky
+210 - vassal: c_wesse - Setting to vassal of k_ajirolas in Validate Realm
+210 - Lost vassal: c_wesse
+210 - Too many dukes, given to dejure: k_ajirolas
+213 - Holder 1000198 - Primary title: d_kiraky has lost the title: d_kiraky
+213 - Title given to 1000198 - Primary title: d_lughan
+213 - vassal: c_seza - Holder 1000198 - Primary title: c_seza has lost the title: c_seza
+213 - vassal: c_seza - Title given to 1000198 - Primary title: d_lughan
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: d_lughan
+217 - Gained vassal: c_tivude
+217 - Gained vassal: c_rajile
+217 - Gained vassal: c_lanamur
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: c_lanamur
+217 - vassal: c_lanamur - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: c_lanamur - Setting to vassal of d_lughan in Validate Realm
+217 - Lost vassal: c_lanamur
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: c_rajile
+217 - vassal: c_rajile - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: c_rajile - Setting to vassal of d_lughan in Validate Realm
+217 - Lost vassal: c_rajile
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: c_tivude
+217 - vassal: c_tivude - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: c_tivude - Setting to vassal of d_lughan in Validate Realm
+217 - Lost vassal: c_tivude
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: d_kiraky
+217 - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: c_seza - Holder 1001739 - Primary title: c_seza has lost the title: c_seza
+217 - vassal: c_seza - Title given to 1001739 - Primary title: d_lughan
+241 - Gained vassal: c_tivude
+241 - Gained vassal: c_rajile
+241 - Gained vassal: c_lanamur
+241 - Holder 1003105 - Primary title: d_kiraky has lost the title: d_kiraky
+241 - Title given to 1003105 - Primary title: d_lughan
+241 - vassal: c_lanamur - Holder 1003105 - Primary title: c_lanamur has lost the title: c_lanamur
+241 - vassal: c_lanamur - Title given to 1003105 - Primary title: d_lughan
+241 - vassal: c_rajile - Holder 1003105 - Primary title: c_rajile has lost the title: c_rajile
+241 - vassal: c_rajile - Title given to 1003105 - Primary title: d_lughan
+241 - vassal: c_tivude - Holder 1003105 - Primary title: c_tivude has lost the title: c_tivude
+241 - vassal: c_tivude - Title given to 1003105 - Primary title: d_lughan
+241 - vassal: c_seza - Holder 1003105

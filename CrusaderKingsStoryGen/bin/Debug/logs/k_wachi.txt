@@ -1,0 +1,1551 @@
+200 - Title given to 1001038
+200 - vassal: d_bisko - Holder 1001038 - Primary title: d_bisko has lost the title: d_bisko
+200 - sub vassal: d_bisko - Holder 1001038 - Primary title: d_bisko has lost the title: d_bisko
+200 - vassal: d_bisko - Title given to 1001038 - Primary title: k_wachi
+200 - sub vassal: d_bisko - Title given to 1001038 - Primary title: k_wachi
+200 - Holder (1001038) has gained d_bisko
+200 - vassal: d_keodat - Holder 1001038 - Primary title: d_keodat has lost the title: d_keodat
+200 - sub vassal: d_keodat - Holder 1001038 - Primary title: d_keodat has lost the title: d_keodat
+200 - vassal: d_keodat - Title given to 1001038 - Primary title: k_wachi
+200 - sub vassal: d_keodat - Title given to 1001038 - Primary title: k_wachi
+200 - Holder (1001038) has gained d_keodat
+200 - vassal: d_rande - Holder 1001038 - Primary title: d_rande has lost the title: d_rande
+200 - sub vassal: d_rande - Holder 1001038 - Primary title: d_rande has lost the title: d_rande
+200 - vassal: d_rande - Title given to 1001038 - Primary title: k_wachi
+200 - sub vassal: d_rande - Title given to 1001038 - Primary title: k_wachi
+200 - Holder (1001038) has gained d_rande
+200 - vassal: d_amihurdo - Holder 1001038 - Primary title: d_amihurdo has lost the title: d_amihurdo
+200 - sub vassal: d_amihurdo - Holder 1001038 - Primary title: d_amihurdo has lost the title: d_amihurdo
+200 - vassal: d_amihurdo - Title given to 1001038 - Primary title: k_wachi
+200 - sub vassal: d_amihurdo - Title given to 1001038 - Primary title: k_wachi
+200 - Holder (1001038) has gained d_amihurdo
+200 - sub vassal: c_takiel - Holder 1001038 - Primary title: c_takiel has lost the title: c_takiel
+200 - sub vassal: c_takiel - Title given to 1001038 - Primary title: k_wachi
+200 - Holder (1001038) has gained c_takiel
+200 - vassal: d_amihurdo - Destroyed due to flagged problem
+200 - sub vassal: d_amihurdo - Destroyed due to flagged problem
+200 - vassal: d_amihurdo - Made independent
+200 - sub vassal: d_amihurdo - Made independent
+200 - Gained vassal: c_baliel
+200 - sub vassal: c_tagike - Given to 1001381 in HandleTitles - Too many duke titles
+200 - sub vassal: c_simon - Holder 1001381 - Primary title: c_simon has lost the title: c_tagike
+200 - sub vassal: c_tagike - Title given to 1001381
+200 - Holder 1001381 - Primary title: k_wachi has lost the title: d_keodat
+200 - vassal: d_keodat - Title given to 1001381 - Primary title: c_tagike
+200 - sub vassal: d_keodat - Title given to 1001381 - Primary title: c_tagike
+200 - sub vassal: c_tagike - Holder (1001381) has gained d_keodat
+200 - vassal: d_keodat - Too many dukes, given to dejure: k_wachi
+200 - sub vassal: d_keodat - Too many dukes, given to dejure: k_wachi
+200 - vassal: d_keodat - Made independent due to being a seperate island
+200 - sub vassal: d_keodat - Made independent due to being a seperate island
+200 - vassal: d_keodat - Made independent
+200 - sub vassal: d_keodat - Made independent
+200 - sub vassal: c_egnaavo - Made vassal of neighbour (d_keodat) due to being a seperate island
+200 - vassal: d_bisko - Lost vassal: c_egnaavo
+200 - sub vassal: d_bisko - Lost vassal: c_egnaavo
+200 - sub vassal: c_takiel - Made vassal of neighbour (k_tenelge) due to being a seperate island
+200 - sub vassal: c_takiel - Given to neighbour holder of k_tenelge
+200 - vassal: c_baliel - Made independent due to being a seperate island
+200 - sub vassal: c_baliel - Made independent due to being a seperate island
+200 - vassal: c_baliel - Made independent
+200 - sub vassal: c_baliel - Made independent
+200 - sub vassal: c_wing - Made vassal of neighbour (k_tenelge) due to being a seperate island
+200 - vassal: d_rande - Lost vassal: c_wing
+200 - sub vassal: d_rande - Lost vassal: c_wing
+201 - vassal: d_rande - Destroyed due to flagged problem
+201 - sub vassal: d_rande - Destroyed due to flagged problem
+201 - vassal: d_rande - Made independent
+201 - sub vassal: d_rande - Made independent
+201 - vassal: d_wirachi - Holder 1001182 - Primary title: d_wirachi has lost the title: d_wirachi
+201 - sub vassal: d_wirachi - Holder 1001182 - Primary title: d_wirachi has lost the title: d_wirachi
+201 - vassal: d_wirachi - Title given to 1001182
+201 - sub vassal: d_wirachi - Title given to 1001182
+201 - sub vassal: c_ebegimon - Holder 1001182 - Primary title: c_ebegimon has lost the title: c_ebegimon
+201 - sub vassal: c_ebegimon - Title given to 1001182 - Primary title: d_wirachi
+201 - vassal: d_wirachi - Holder (1001182) has gained c_ebegimon
+201 - sub vassal: d_wirachi - Holder (1001182) has gained c_ebegimon
+201 - sub vassal: c_tanos - Holder 1001182 - Primary title: c_tanos has lost the title: c_tanos
+201 - sub vassal: c_tanos - Title given to 1001182 - Primary title: d_wirachi
+201 - vassal: d_wirachi - Holder (1001182) has gained c_tanos
+201 - sub vassal: d_wirachi - Holder (1001182) has gained c_tanos
+201 - sub vassal: c_kegiel - Holder 1001182 - Primary title: c_kegiel has lost the title: c_kegiel
+201 - sub vassal: c_kegiel - Title given to 1001182 - Primary title: d_wirachi
+201 - vassal: d_wirachi - Holder (1001182) has gained c_kegiel
+201 - sub vassal: d_wirachi - Holder (1001182) has gained c_kegiel
+201 - sub vassal: c_ririel - Holder 1001182 - Primary title: c_ririel has lost the title: c_ririel
+201 - sub vassal: c_ririel - Title given to 1001182 - Primary title: d_wirachi
+201 - vassal: d_wirachi - Holder (1001182) has gained c_ririel
+201 - sub vassal: d_wirachi - Holder (1001182) has gained c_ririel
+201 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+201 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+202 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+202 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+203 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+203 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+204 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+204 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+205 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+205 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+206 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+206 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+207 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+207 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+208 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+208 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+209 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+209 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+210 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+210 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+211 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+211 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+212 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+212 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+212 - vassal: d_bisko - Captured byd_keodat in minor war
+212 - sub vassal: d_bisko - Captured byd_keodat in minor war
+212 - vassal: d_bisko - Made independent
+212 - sub vassal: d_bisko - Made independent
+212 - Holder 1001381 - Primary title: k_wachi has lost the title: d_bisko
+213 - sub vassal: c_takiel - Assigned in handle titles: k_wachi
+213 - Gained vassal: c_takiel
+213 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+213 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+213 - vassal: c_takiel - Given to neighbour holder of k_witimon
+213 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+214 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+214 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+214 - vassal: c_takiel - Given to neighbour holder of k_witimon
+214 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+215 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+215 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+215 - vassal: c_takiel - Given to neighbour holder of k_witimon
+215 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+216 - vassal: d_lotys - Holder 1002104 - Primary title: d_lotys has lost the title: d_lotys
+216 - sub vassal: d_lotys - Holder 1002104 - Primary title: d_lotys has lost the title: d_lotys
+216 - vassal: d_lotys - Title given to 1002104
+216 - sub vassal: d_lotys - Title given to 1002104
+216 - sub vassal: c_atogachi - Holder 1002104 - Primary title: c_atogachi has lost the title: c_atogachi
+216 - sub vassal: c_atogachi - Title given to 1002104 - Primary title: d_lotys
+216 - vassal: d_lotys - Holder (1002104) has gained c_atogachi
+216 - sub vassal: d_lotys - Holder (1002104) has gained c_atogachi
+216 - sub vassal: c_tosmin - Holder 1002104 - Primary title: c_tosmin has lost the title: c_tosmin
+216 - sub vassal: c_tosmin - Title given to 1002104 - Primary title: d_lotys
+216 - vassal: d_lotys - Holder (1002104) has gained c_tosmin
+216 - sub vassal: d_lotys - Holder (1002104) has gained c_tosmin
+216 - sub vassal: c_etogisa - Holder 1002104 - Primary title: c_etogisa has lost the title: c_etogisa
+216 - sub vassal: c_etogisa - Title given to 1002104 - Primary title: d_lotys
+216 - vassal: d_lotys - Holder (1002104) has gained c_etogisa
+216 - sub vassal: d_lotys - Holder (1002104) has gained c_etogisa
+216 - sub vassal: c_logisa - Holder 1002104 - Primary title: c_logisa has lost the title: c_logisa
+216 - sub vassal: c_logisa - Title given to 1002104 - Primary title: d_lotys
+216 - vassal: d_lotys - Holder (1002104) has gained c_logisa
+216 - sub vassal: d_lotys - Holder (1002104) has gained c_logisa
+216 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+216 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+216 - vassal: c_takiel - Given to neighbour holder of k_witimon
+216 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+217 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+217 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+217 - vassal: c_takiel - Given to neighbour holder of k_witimon
+217 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+218 - vassal: d_degasin - Holder 1002352 - Primary title: d_degasin has lost the title: d_degasin
+218 - sub vassal: d_degasin - Holder 1002352 - Primary title: d_degasin has lost the title: d_degasin
+218 - vassal: d_degasin - Title given to 1002352
+218 - sub vassal: d_degasin - Title given to 1002352
+218 - sub vassal: c_wogasin - Holder 1002352 - Primary title: c_wogasin has lost the title: c_wogasin
+218 - sub vassal: c_wogasin - Title given to 1002352 - Primary title: d_degasin
+218 - vassal: d_degasin - Holder (1002352) has gained c_wogasin
+218 - sub vassal: d_degasin - Holder (1002352) has gained c_wogasin
+218 - sub vassal: c_qitud - Holder 1002352 - Primary title: c_qitud has lost the title: c_qitud
+218 - sub vassal: c_qitud - Title given to 1002352 - Primary title: d_degasin
+218 - vassal: d_degasin - Holder (1002352) has gained c_qitud
+218 - sub vassal: d_degasin - Holder (1002352) has gained c_qitud
+218 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+218 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+218 - vassal: c_takiel - Given to neighbour holder of k_witimon
+218 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+219 - vassal: d_lotys - Holder 1001182 - Primary title: d_lotys has lost the title: d_lotys
+219 - sub vassal: d_lotys - Holder 1001182 - Primary title: d_lotys has lost the title: d_lotys
+219 - vassal: d_lotys - Title given to 1001182 - Primary title: d_wirachi
+219 - sub vassal: d_lotys - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: d_wirachi - Holder (1001182) has gained d_lotys
+219 - sub vassal: d_wirachi - Holder (1001182) has gained d_lotys
+219 - sub vassal: c_atogachi - Holder 1001182 - Primary title: c_atogachi has lost the title: c_atogachi
+219 - sub vassal: c_atogachi - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: d_wirachi - Holder (1001182) has gained c_atogachi
+219 - sub vassal: d_wirachi - Holder (1001182) has gained c_atogachi
+219 - sub vassal: c_tosmin - Holder 1001182 - Primary title: c_tosmin has lost the title: c_tosmin
+219 - sub vassal: c_tosmin - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: d_wirachi - Holder (1001182) has gained c_tosmin
+219 - sub vassal: d_wirachi - Holder (1001182) has gained c_tosmin
+219 - sub vassal: c_etogisa - Holder 1001182 - Primary title: c_etogisa has lost the title: c_etogisa
+219 - sub vassal: c_etogisa - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: d_wirachi - Holder (1001182) has gained c_etogisa
+219 - sub vassal: d_wirachi - Holder (1001182) has gained c_etogisa
+219 - sub vassal: c_logisa - Holder 1001182 - Primary title: c_logisa has lost the title: c_logisa
+219 - sub vassal: c_logisa - Title given to 1001182 - Primary title: d_wirachi
+219 - vassal: d_wirachi - Holder (1001182) has gained c_logisa
+219 - sub vassal: d_wirachi - Holder (1001182) has gained c_logisa
+219 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+219 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+219 - vassal: c_takiel - Given to neighbour holder of k_witimon
+219 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+220 - vassal: d_lotys - Holder 1002796 - Primary title: d_lotys has lost the title: c_ririel
+220 - sub vassal: d_lotys - Holder 1002796 - Primary title: d_lotys has lost the title: c_ririel
+220 - sub vassal: c_ririel - Title given to 1002796
+220 - vassal: d_lotys - Holder 1002797 - Primary title: d_lotys has lost the title: c_tanos
+220 - sub vassal: d_lotys - Holder 1002797 - Primary title: d_lotys has lost the title: c_tanos
+220 - sub vassal: c_tanos - Title given to 1002797
+220 - vassal: d_lotys - Holder 1002798 - Primary title: d_lotys has lost the title: c_kegiel
+220 - sub vassal: d_lotys - Holder 1002798 - Primary title: d_lotys has lost the title: c_kegiel
+220 - sub vassal: c_kegiel - Title given to 1002798
+220 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+220 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+220 - vassal: c_takiel - Given to neighbour holder of k_witimon
+220 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+221 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+221 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+221 - vassal: c_takiel - Given to neighbour holder of k_witimon
+221 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+222 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+222 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+222 - vassal: c_takiel - Given to neighbour holder of k_witimon
+222 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+223 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+223 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+223 - vassal: c_takiel - Given to neighbour holder of k_witimon
+223 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+224 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+224 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+224 - vassal: c_takiel - Given to neighbour holder of k_witimon
+224 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+225 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+225 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+225 - vassal: c_takiel - Given to neighbour holder of k_witimon
+225 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+226 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+226 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+226 - vassal: c_takiel - Given to neighbour holder of k_witimon
+226 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+227 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+227 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+227 - vassal: c_takiel - Given to neighbour holder of k_witimon
+227 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+227 - Holder 1001742 - Primary title: k_wachi has lost the title: k_wachi
+227 - Title given to 1001742
+227 - vassal: c_takiel - Holder 1001742 - Primary title: c_takiel has lost the title: c_takiel
+227 - sub vassal: c_takiel - Holder 1001742 - Primary title: c_takiel has lost the title: c_takiel
+227 - vassal: c_takiel - Title given to 1001742 - Primary title: k_wachi
+227 - sub vassal: c_takiel - Title given to 1001742 - Primary title: k_wachi
+227 - Holder (1001742) has gained c_takiel
+228 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+228 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+228 - vassal: c_takiel - Given to neighbour holder of k_witimon
+228 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+229 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+229 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+229 - vassal: c_takiel - Given to neighbour holder of k_witimon
+229 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+230 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+230 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+230 - vassal: c_takiel - Given to neighbour holder of k_witimon
+230 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+231 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+231 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+231 - vassal: c_takiel - Given to neighbour holder of k_witimon
+231 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+232 - vassal: d_lotys - Holder 1002551 - Primary title: d_lotys has lost the title: d_lotys
+232 - sub vassal: d_lotys - Holder 1002551 - Primary title: d_lotys has lost the title: d_lotys
+232 - vassal: d_lotys - Title given to 1002551
+232 - sub vassal: d_lotys - Title given to 1002551
+232 - sub vassal: c_logisa - Setting to vassal of d_wirachi in Validate Realm
+232 - vassal: d_lotys - Lost vassal: c_logisa
+232 - sub vassal: d_lotys - Lost vassal: c_logisa
+232 - sub vassal: c_etogisa - Setting to vassal of d_wirachi in Validate Realm
+232 - vassal: d_lotys - Lost vassal: c_etogisa
+232 - sub vassal: d_lotys - Lost vassal: c_etogisa
+232 - sub vassal: c_tosmin - Setting to vassal of d_wirachi in Validate Realm
+232 - vassal: d_lotys - Lost vassal: c_tosmin
+232 - sub vassal: d_lotys - Lost vassal: c_tosmin
+232 - sub vassal: c_atogachi - Setting to vassal of d_wirachi in Validate Realm
+232 - vassal: d_lotys - Lost vassal: c_atogachi
+232 - sub vassal: d_lotys - Lost vassal: c_atogachi
+232 - vassal: d_wirachi - Gained vassal: c_atogachi
+232 - sub vassal: d_wirachi - Gained vassal: c_atogachi
+232 - vassal: d_wirachi - Gained vassal: c_tosmin
+232 - sub vassal: d_wirachi - Gained vassal: c_tosmin
+232 - vassal: d_wirachi - Gained vassal: c_etogisa
+232 - sub vassal: d_wirachi - Gained vassal: c_etogisa
+232 - vassal: d_wirachi - Gained vassal: c_logisa
+232 - sub vassal: d_wirachi - Gained vassal: c_logisa
+232 - vassal: d_wirachi - Holder 1002551 - Primary title: d_wirachi has lost the title: d_wirachi
+232 - sub vassal: d_wirachi - Holder 1002551 - Primary title: d_wirachi has lost the title: d_wirachi
+232 - vassal: d_wirachi - Title given to 1002551 - Primary title: d_lotys
+232 - sub vassal: d_wirachi - Title given to 1002551 - Primary title: d_lotys
+232 - vassal: d_lotys - Holder (1002551) has gained d_wirachi
+232 - sub vassal: d_lotys - Holder (1002551) has gained d_wirachi
+232 - sub vassal: c_logisa - Holder 1002551 - Primary title: c_logisa has lost the title: c_logisa
+232 - sub vassal: c_logisa - Title given to 1002551 - Primary title: d_lotys
+232 - vassal: d_lotys - Holder (1002551) has gained c_logisa
+232 - sub vassal: d_lotys - Holder (1002551) has gained c_logisa
+232 - sub vassal: c_etogisa - Holder 1002551 - Primary title: c_etogisa has lost the title: c_etogisa
+232 - sub vassal: c_etogisa - Title given to 1002551 - Primary title: d_lotys
+232 - vassal: d_lotys - Holder (1002551) has gained c_etogisa
+232 - sub vassal: d_lotys - Holder (1002551) has gained c_etogisa
+232 - sub vassal: c_tosmin - Holder 1002551 - Primary title: c_tosmin has lost the title: c_tosmin
+232 - sub vassal: c_tosmin - Title given to 1002551 - Primary title: d_lotys
+232 - vassal: d_lotys - Holder (1002551) has gained c_tosmin
+232 - sub vassal: d_lotys - Holder (1002551) has gained c_tosmin
+232 - sub vassal: c_atogachi - Holder 1002551 - Primary title: c_atogachi has lost the title: c_atogachi
+232 - sub vassal: c_atogachi - Title given to 1002551 - Primary title: d_lotys
+232 - vassal: d_lotys - Holder (1002551) has gained c_atogachi
+232 - sub vassal: d_lotys - Holder (1002551) has gained c_atogachi
+232 - sub vassal: c_ebegimon - Holder 1002551 - Primary title: c_ebegimon has lost the title: c_ebegimon
+232 - sub vassal: c_ebegimon - Title given to 1002551 - Primary title: d_lotys
+232 - vassal: d_lotys - Holder (1002551) has gained c_ebegimon
+232 - sub vassal: d_lotys - Holder (1002551) has gained c_ebegimon
+232 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+232 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+232 - vassal: c_takiel - Given to neighbour holder of k_witimon
+232 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+233 - vassal: d_lotys - Destroyed due to flagged problem
+233 - sub vassal: d_lotys - Destroyed due to flagged problem
+233 - vassal: d_lotys - Made independent
+233 - sub vassal: d_lotys - Made independent
+233 - vassal: d_wirachi - Holder (1002551) has gained d_lotys
+233 - sub vassal: d_wirachi - Holder (1002551) has gained d_lotys
+233 - Gained vassal: d_lotys
+233 - vassal: d_lotys - Made independent for title creation d_lotys for d_wirachi
+233 - sub vassal: d_lotys - Made independent for title creation d_lotys for d_wirachi
+233 - vassal: d_lotys - Made independent
+233 - sub vassal: d_lotys - Made independent
+233 - sub vassal: c_logisa - Set liege on title creation d_lotys
+233 - vassal: d_wirachi - Lost vassal: c_logisa
+233 - sub vassal: d_wirachi - Lost vassal: c_logisa
+233 - sub vassal: c_etogisa - Set liege on title creation d_lotys
+233 - vassal: d_wirachi - Lost vassal: c_etogisa
+233 - sub vassal: d_wirachi - Lost vassal: c_etogisa
+233 - sub vassal: c_tosmin - Set liege on title creation d_lotys
+233 - vassal: d_wirachi - Lost vassal: c_tosmin
+233 - sub vassal: d_wirachi - Lost vassal: c_tosmin
+233 - sub vassal: c_atogachi - Set liege on title creation d_lotys
+233 - vassal: d_wirachi - Lost vassal: c_atogachi
+233 - sub vassal: d_wirachi - Lost vassal: c_atogachi
+233 - sub vassal: c_ebegimon - Set liege on title creation d_lotys
+233 - vassal: d_wirachi - Lost vassal: c_ebegimon
+233 - sub vassal: d_wirachi - Lost vassal: c_ebegimon
+233 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+233 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+233 - vassal: c_takiel - Given to neighbour holder of k_witimon
+233 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+234 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+234 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+234 - vassal: c_takiel - Given to neighbour holder of k_witimon
+234 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+235 - vassal: d_ebegys - Holder 1001794 - Primary title: d_ebegys has lost the title: d_ebegys
+235 - sub vassal: d_ebegys - Holder 1001794 - Primary title: d_ebegys has lost the title: d_ebegys
+235 - vassal: d_ebegys - Title given to 1001794
+235 - sub vassal: d_ebegys - Title given to 1001794
+235 - sub vassal: c_titanos - Holder 1001794 - Primary title: c_titanos has lost the title: c_titanos
+235 - sub vassal: c_titanos - Title given to 1001794 - Primary title: d_ebegys
+235 - vassal: d_ebegys - Holder (1001794) has gained c_titanos
+235 - sub vassal: d_ebegys - Holder (1001794) has gained c_titanos
+235 - sub vassal: c_nirako - Holder 1001794 - Primary title: c_nirako has lost the title: c_nirako
+235 - sub vassal: c_nirako - Title given to 1001794 - Primary title: d_ebegys
+235 - vassal: d_ebegys - Holder (1001794) has gained c_nirako
+235 - sub vassal: d_ebegys - Holder (1001794) has gained c_nirako
+235 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+235 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+235 - vassal: c_takiel - Given to neighbour holder of k_witimon
+235 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+236 - vassal: d_totasin - Holder 1001874 - Primary title: d_totasin has lost the title: d_totasin
+236 - sub vassal: d_totasin - Holder 1001874 - Primary title: d_totasin has lost the title: d_totasin
+236 - vassal: d_totasin - Title given to 1001874
+236 - sub vassal: d_totasin - Title given to 1001874
+236 - sub vassal: c_taise - Holder 1001874 - Primary title: c_taise has lost the title: c_taise
+236 - sub vassal: c_taise - Title given to 1001874 - Primary title: d_totasin
+236 - vassal: d_totasin - Holder (1001874) has gained c_taise
+236 - sub vassal: d_totasin - Holder (1001874) has gained c_taise
+236 - sub vassal: c_eralachi - Holder 1001874 - Primary title: c_eralachi has lost the title: c_eralachi
+236 - sub vassal: c_eralachi - Title given to 1001874 - Primary title: d_totasin
+236 - vassal: d_totasin - Holder (1001874) has gained c_eralachi
+236 - sub vassal: d_totasin - Holder (1001874) has gained c_eralachi
+236 - sub vassal: c_negaise - Holder 1001874 - Primary title: c_negaise has lost the title: c_negaise
+236 - sub vassal: c_negaise - Title given to 1001874 - Primary title: d_totasin
+236 - vassal: d_totasin - Holder (1001874) has gained c_negaise
+236 - sub vassal: d_totasin - Holder (1001874) has gained c_negaise
+236 - sub vassal: c_evitagik - Holder 1001874 - Primary title: c_evitagik has lost the title: c_evitagik
+236 - sub vassal: c_evitagik - Title given to 1001874 - Primary title: d_totasin
+236 - vassal: d_totasin - Holder (1001874) has gained c_evitagik
+236 - sub vassal: d_totasin - Holder (1001874) has gained c_evitagik
+236 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+236 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+236 - vassal: c_takiel - Given to neighbour holder of k_witimon
+236 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+237 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+237 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+237 - vassal: c_takiel - Given to neighbour holder of k_witimon
+237 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+238 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+238 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+238 - vassal: c_takiel - Given to neighbour holder of k_witimon
+238 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+239 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+239 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+239 - vassal: c_takiel - Given to neighbour holder of k_witimon
+239 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+240 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+240 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+240 - vassal: c_takiel - Given to neighbour holder of k_witimon
+240 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+241 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+241 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+241 - vassal: c_takiel - Given to neighbour holder of k_witimon
+241 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+242 - vassal: d_wetaise - Holder 1001495 - Primary title: d_wetaise has lost the title: d_wetaise
+242 - sub vassal: d_wetaise - Holder 1001495 - Primary title: d_wetaise has lost the title: d_wetaise
+242 - vassal: d_wetaise - Title given to 1001495
+242 - sub vassal: d_wetaise - Title given to 1001495
+242 - sub vassal: c_dimon - Holder 1001495 - Primary title: c_dimon has lost the title: c_dimon
+242 - sub vassal: c_dimon - Title given to 1001495 - Primary title: d_wetaise
+242 - vassal: d_wetaise - Holder (1001495) has gained c_dimon
+242 - sub vassal: d_wetaise - Holder (1001495) has gained c_dimon
+242 - sub vassal: c_regagik - Holder 1001495 - Primary title: c_regagik has lost the title: c_regagik
+242 - sub vassal: c_regagik - Title given to 1001495 - Primary title: d_wetaise
+242 - vassal: d_wetaise - Holder (1001495) has gained c_regagik
+242 - sub vassal: d_wetaise - Holder (1001495) has gained c_regagik
+242 - sub vassal: c_kys - Holder 1001495 - Primary title: c_kys has lost the title: c_kys
+242 - sub vassal: c_kys - Title given to 1001495 - Primary title: d_wetaise
+242 - vassal: d_wetaise - Holder (1001495) has gained c_kys
+242 - sub vassal: d_wetaise - Holder (1001495) has gained c_kys
+242 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+242 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+242 - vassal: c_takiel - Given to neighbour holder of k_witimon
+242 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+243 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+243 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+243 - vassal: c_takiel - Given to neighbour holder of k_witimon
+243 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+244 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+244 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+244 - vassal: c_takiel - Given to neighbour holder of k_witimon
+244 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+245 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+245 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+245 - vassal: c_takiel - Given to neighbour holder of k_witimon
+245 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+246 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+246 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+246 - vassal: c_takiel - Given to neighbour holder of k_witimon
+246 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+247 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+247 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+247 - vassal: c_takiel - Given to neighbour holder of k_witimon
+247 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+248 - vassal: d_ebegys - Holder 1004014 - Primary title: d_ebegys has lost the title: d_ebegys
+248 - sub vassal: d_ebegys - Holder 1004014 - Primary title: d_ebegys has lost the title: d_ebegys
+248 - vassal: d_ebegys - Title given to 1004014
+248 - sub vassal: d_ebegys - Title given to 1004014
+248 - sub vassal: c_nirako - Holder 1004014 - Primary title: c_nirako has lost the title: c_nirako
+248 - sub vassal: c_nirako - Title given to 1004014 - Primary title: d_ebegys
+248 - vassal: d_ebegys - Holder (1004014) has gained c_nirako
+248 - sub vassal: d_ebegys - Holder (1004014) has gained c_nirako
+248 - sub vassal: c_titanos - Holder 1004014 - Primary title: c_titanos has lost the title: c_titanos
+248 - sub vassal: c_titanos - Title given to 1004014 - Primary title: d_ebegys
+248 - vassal: d_ebegys - Holder (1004014) has gained c_titanos
+248 - sub vassal: d_ebegys - Holder (1004014) has gained c_titanos
+248 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+248 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+248 - vassal: c_takiel - Given to neighbour holder of k_witimon
+248 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+249 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+249 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+249 - vassal: c_takiel - Given to neighbour holder of k_witimon
+249 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+250 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+250 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+250 - vassal: c_takiel - Given to neighbour holder of k_witimon
+250 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+251 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+251 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+251 - vassal: c_takiel - Given to neighbour holder of k_witimon
+251 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+252 - vassal: d_wetaise - Holder 1004179 - Primary title: d_wetaise has lost the title: d_wetaise
+252 - sub vassal: d_wetaise - Holder 1004179 - Primary title: d_wetaise has lost the title: d_wetaise
+252 - vassal: d_wetaise - Title given to 1004179
+252 - sub vassal: d_wetaise - Title given to 1004179
+252 - sub vassal: c_dimon - Holder 1004179 - Primary title: c_dimon has lost the title: c_dimon
+252 - sub vassal: c_dimon - Title given to 1004179 - Primary title: d_wetaise
+252 - vassal: d_wetaise - Holder (1004179) has gained c_dimon
+252 - sub vassal: d_wetaise - Holder (1004179) has gained c_dimon
+252 - sub vassal: c_regagik - Holder 1004179 - Primary title: c_regagik has lost the title: c_regagik
+252 - sub vassal: c_regagik - Title given to 1004179 - Primary title: d_wetaise
+252 - vassal: d_wetaise - Holder (1004179) has gained c_regagik
+252 - sub vassal: d_wetaise - Holder (1004179) has gained c_regagik
+252 - sub vassal: c_kys - Holder 1004179 - Primary title: c_kys has lost the title: c_kys
+252 - sub vassal: c_kys - Title given to 1004179 - Primary title: d_wetaise
+252 - vassal: d_wetaise - Holder (1004179) has gained c_kys
+252 - sub vassal: d_wetaise - Holder (1004179) has gained c_kys
+252 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+252 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+252 - vassal: c_takiel - Given to neighbour holder of k_witimon
+252 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+253 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+253 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+253 - vassal: c_takiel - Given to neighbour holder of k_witimon
+253 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+254 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+254 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+254 - vassal: c_takiel - Given to neighbour holder of k_witimon
+254 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+255 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+255 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+255 - vassal: c_takiel - Given to neighbour holder of k_witimon
+255 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+256 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+256 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+256 - vassal: c_takiel - Given to neighbour holder of k_witimon
+256 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+257 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+257 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+257 - vassal: c_takiel - Given to neighbour holder of k_witimon
+257 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+258 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+258 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+258 - vassal: c_takiel - Given to neighbour holder of k_witimon
+258 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+259 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+259 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+259 - vassal: c_takiel - Given to neighbour holder of k_witimon
+259 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+260 - vassal: d_wetaise - Holder 1005182 - Primary title: d_wetaise has lost the title: d_wetaise
+260 - sub vassal: d_wetaise - Holder 1005182 - Primary title: d_wetaise has lost the title: d_wetaise
+260 - vassal: d_wetaise - Title given to 1005182
+260 - sub vassal: d_wetaise - Title given to 1005182
+260 - sub vassal: c_kys - Holder 1005182 - Primary title: c_kys has lost the title: c_kys
+260 - sub vassal: c_kys - Title given to 1005182 - Primary title: d_wetaise
+260 - vassal: d_wetaise - Holder (1005182) has gained c_kys
+260 - sub vassal: d_wetaise - Holder (1005182) has gained c_kys
+260 - sub vassal: c_regagik - Holder 1005182 - Primary title: c_regagik has lost the title: c_regagik
+260 - sub vassal: c_regagik - Title given to 1005182 - Primary title: d_wetaise
+260 - vassal: d_wetaise - Holder (1005182) has gained c_regagik
+260 - sub vassal: d_wetaise - Holder (1005182) has gained c_regagik
+260 - sub vassal: c_dimon - Holder 1005182 - Primary title: c_dimon has lost the title: c_dimon
+260 - sub vassal: c_dimon - Title given to 1005182 - Primary title: d_wetaise
+260 - vassal: d_wetaise - Holder (1005182) has gained c_dimon
+260 - sub vassal: d_wetaise - Holder (1005182) has gained c_dimon
+260 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+260 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+260 - vassal: c_takiel - Given to neighbour holder of k_witimon
+260 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+261 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+261 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+261 - vassal: c_takiel - Given to neighbour holder of k_witimon
+261 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+262 - vassal: d_wirachi - Holder 1003759 - Primary title: d_wirachi has lost the title: d_wirachi
+262 - sub vassal: d_wirachi - Holder 1003759 - Primary title: d_wirachi has lost the title: d_wirachi
+262 - vassal: d_wirachi - Title given to 1003759
+262 - sub vassal: d_wirachi - Title given to 1003759
+262 - vassal: d_wirachi - Holder (1003759) has gained d_lotys
+262 - sub vassal: d_wirachi - Holder (1003759) has gained d_lotys
+262 - sub vassal: c_logisa - Holder 1003759 - Primary title: c_logisa has lost the title: c_logisa
+262 - sub vassal: c_logisa - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: d_wirachi - Holder (1003759) has gained c_logisa
+262 - sub vassal: d_wirachi - Holder (1003759) has gained c_logisa
+262 - sub vassal: c_etogisa - Holder 1003759 - Primary title: c_etogisa has lost the title: c_etogisa
+262 - sub vassal: c_etogisa - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: d_wirachi - Holder (1003759) has gained c_etogisa
+262 - sub vassal: d_wirachi - Holder (1003759) has gained c_etogisa
+262 - sub vassal: c_tosmin - Holder 1003759 - Primary title: c_tosmin has lost the title: c_tosmin
+262 - sub vassal: c_tosmin - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: d_wirachi - Holder (1003759) has gained c_tosmin
+262 - sub vassal: d_wirachi - Holder (1003759) has gained c_tosmin
+262 - sub vassal: c_atogachi - Holder 1003759 - Primary title: c_atogachi has lost the title: c_atogachi
+262 - sub vassal: c_atogachi - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: d_wirachi - Holder (1003759) has gained c_atogachi
+262 - sub vassal: d_wirachi - Holder (1003759) has gained c_atogachi
+262 - sub vassal: c_ebegimon - Holder 1003759 - Primary title: c_ebegimon has lost the title: c_ebegimon
+262 - sub vassal: c_ebegimon - Title given to 1003759 - Primary title: d_wirachi
+262 - vassal: d_wirachi - Holder (1003759) has gained c_ebegimon
+262 - sub vassal: d_wirachi - Holder (1003759) has gained c_ebegimon
+262 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+262 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+262 - vassal: c_takiel - Given to neighbour holder of k_witimon
+262 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+263 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+263 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+263 - vassal: c_takiel - Given to neighbour holder of k_witimon
+263 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+264 - vassal: d_totasin - Holder 1005412 - Primary title: d_totasin has lost the title: d_totasin
+264 - sub vassal: d_totasin - Holder 1005412 - Primary title: d_totasin has lost the title: d_totasin
+264 - vassal: d_totasin - Title given to 1005412
+264 - sub vassal: d_totasin - Title given to 1005412
+264 - sub vassal: c_taise - Holder 1005412 - Primary title: c_taise has lost the title: c_taise
+264 - sub vassal: c_taise - Title given to 1005412 - Primary title: d_totasin
+264 - vassal: d_totasin - Holder (1005412) has gained c_taise
+264 - sub vassal: d_totasin - Holder (1005412) has gained c_taise
+264 - sub vassal: c_eralachi - Holder 1005412 - Primary title: c_eralachi has lost the title: c_eralachi
+264 - sub vassal: c_eralachi - Title given to 1005412 - Primary title: d_totasin
+264 - vassal: d_totasin - Holder (1005412) has gained c_eralachi
+264 - sub vassal: d_totasin - Holder (1005412) has gained c_eralachi
+264 - sub vassal: c_negaise - Holder 1005412 - Primary title: c_negaise has lost the title: c_negaise
+264 - sub vassal: c_negaise - Title given to 1005412 - Primary title: d_totasin
+264 - vassal: d_totasin - Holder (1005412) has gained c_negaise
+264 - sub vassal: d_totasin - Holder (1005412) has gained c_negaise
+264 - sub vassal: c_evitagik - Holder 1005412 - Primary title: c_evitagik has lost the title: c_evitagik
+264 - sub vassal: c_evitagik - Title given to 1005412 - Primary title: d_totasin
+264 - vassal: d_totasin - Holder (1005412) has gained c_evitagik
+264 - sub vassal: d_totasin - Holder (1005412) has gained c_evitagik
+264 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+264 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+264 - vassal: c_takiel - Given to neighbour holder of k_witimon
+264 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+265 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+265 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+265 - vassal: c_takiel - Given to neighbour holder of k_witimon
+265 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+266 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+266 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+266 - vassal: c_takiel - Given to neighbour holder of k_witimon
+266 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+267 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+267 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+267 - vassal: c_takiel - Given to neighbour holder of k_witimon
+267 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+268 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+268 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+268 - vassal: c_takiel - Given to neighbour holder of k_witimon
+268 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+269 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+269 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+269 - vassal: c_takiel - Given to neighbour holder of k_witimon
+269 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+270 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+270 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+270 - vassal: c_takiel - Given to neighbour holder of k_witimon
+270 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+271 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+271 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+271 - vassal: c_takiel - Given to neighbour holder of k_witimon
+271 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+272 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+272 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+272 - vassal: c_takiel - Given to neighbour holder of k_witimon
+272 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+273 - vassal: d_degasin - Holder 1003256 - Primary title: d_degasin has lost the title: d_degasin
+273 - sub vassal: d_degasin - Holder 1003256 - Primary title: d_degasin has lost the title: d_degasin
+273 - vassal: d_degasin - Title given to 1003256
+273 - sub vassal: d_degasin - Title given to 1003256
+273 - sub vassal: c_qitud - Holder 1003256 - Primary title: c_qitud has lost the title: c_qitud
+273 - sub vassal: c_qitud - Title given to 1003256 - Primary title: d_degasin
+273 - vassal: d_degasin - Holder (1003256) has gained c_qitud
+273 - sub vassal: d_degasin - Holder (1003256) has gained c_qitud
+273 - sub vassal: c_wogasin - Holder 1003256 - Primary title: c_wogasin has lost the title: c_wogasin
+273 - sub vassal: c_wogasin - Title given to 1003256 - Primary title: d_degasin
+273 - vassal: d_degasin - Holder (1003256) has gained c_wogasin
+273 - sub vassal: d_degasin - Holder (1003256) has gained c_wogasin
+273 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+273 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+273 - vassal: c_takiel - Given to neighbour holder of k_witimon
+273 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+274 - vassal: d_ebegys - Holder 1005248 - Primary title: d_ebegys has lost the title: d_ebegys
+274 - sub vassal: d_ebegys - Holder 1005248 - Primary title: d_ebegys has lost the title: d_ebegys
+274 - vassal: d_ebegys - Title given to 1005248
+274 - sub vassal: d_ebegys - Title given to 1005248
+274 - sub vassal: c_titanos - Holder 1005248 - Primary title: c_titanos has lost the title: c_titanos
+274 - sub vassal: c_titanos - Title given to 1005248 - Primary title: d_ebegys
+274 - vassal: d_ebegys - Holder (1005248) has gained c_titanos
+274 - sub vassal: d_ebegys - Holder (1005248) has gained c_titanos
+274 - sub vassal: c_nirako - Holder 1005248 - Primary title: c_nirako has lost the title: c_nirako
+274 - sub vassal: c_nirako - Title given to 1005248 - Primary title: d_ebegys
+274 - vassal: d_ebegys - Holder (1005248) has gained c_nirako
+274 - sub vassal: d_ebegys - Holder (1005248) has gained c_nirako
+274 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+274 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+274 - vassal: c_takiel - Given to neighbour holder of k_witimon
+274 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+275 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+275 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+275 - vassal: c_takiel - Given to neighbour holder of k_witimon
+275 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+276 - vassal: d_totasin - Holder 1001742 - Primary title: d_totasin has lost the title: d_totasin
+276 - sub vassal: d_totasin - Holder 1001742 - Primary title: d_totasin has lost the title: d_totasin
+276 - vassal: d_totasin - Title given to 1001742 - Primary title: k_wachi
+276 - sub vassal: d_totasin - Title given to 1001742 - Primary title: k_wachi
+276 - Holder (1001742) has gained d_totasin
+276 - sub vassal: c_taise - Holder 1001742 - Primary title: c_taise has lost the title: c_taise
+276 - sub vassal: c_taise - Title given to 1001742 - Primary title: k_wachi
+276 - Holder (1001742) has gained c_taise
+276 - sub vassal: c_eralachi - Holder 1001742 - Primary title: c_eralachi has lost the title: c_eralachi
+276 - sub vassal: c_eralachi - Title given to 1001742 - Primary title: k_wachi
+276 - Holder (1001742) has gained c_eralachi
+276 - sub vassal: c_negaise - Holder 1001742 - Primary title: c_negaise has lost the title: c_negaise
+276 - sub vassal: c_negaise - Title given to 1001742 - Primary title: k_wachi
+276 - Holder (1001742) has gained c_negaise
+276 - sub vassal: c_evitagik - Holder 1001742 - Primary title: c_evitagik has lost the title: c_evitagik
+276 - sub vassal: c_evitagik - Title given to 1001742 - Primary title: k_wachi
+276 - Holder (1001742) has gained c_evitagik
+276 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+276 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+276 - vassal: c_takiel - Given to neighbour holder of k_witimon
+276 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+277 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+277 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+277 - vassal: c_takiel - Given to neighbour holder of k_witimon
+277 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+278 - vassal: d_wetaise - Holder 1005248 - Primary title: d_wetaise has lost the title: d_wetaise
+278 - sub vassal: d_wetaise - Holder 1005248 - Primary title: d_wetaise has lost the title: d_wetaise
+278 - vassal: d_wetaise - Title given to 1005248 - Primary title: d_ebegys
+278 - sub vassal: d_wetaise - Title given to 1005248 - Primary title: d_ebegys
+278 - vassal: d_ebegys - Holder (1005248) has gained d_wetaise
+278 - sub vassal: d_ebegys - Holder (1005248) has gained d_wetaise
+278 - sub vassal: c_kys - Holder 1005248 - Primary title: c_kys has lost the title: c_kys
+278 - sub vassal: c_kys - Title given to 1005248 - Primary title: d_ebegys
+278 - vassal: d_ebegys - Holder (1005248) has gained c_kys
+278 - sub vassal: d_ebegys - Holder (1005248) has gained c_kys
+278 - sub vassal: c_regagik - Holder 1005248 - Primary title: c_regagik has lost the title: c_regagik
+278 - sub vassal: c_regagik - Title given to 1005248 - Primary title: d_ebegys
+278 - vassal: d_ebegys - Holder (1005248) has gained c_regagik
+278 - sub vassal: d_ebegys - Holder (1005248) has gained c_regagik
+278 - sub vassal: c_dimon - Holder 1005248 - Primary title: c_dimon has lost the title: c_dimon
+278 - sub vassal: c_dimon - Title given to 1005248 - Primary title: d_ebegys
+278 - vassal: d_ebegys - Holder (1005248) has gained c_dimon
+278 - sub vassal: d_ebegys - Holder (1005248) has gained c_dimon
+278 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+278 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+278 - vassal: c_takiel - Given to neighbour holder of k_witimon
+278 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+278 - Holder 1006189 - Primary title: k_wachi has lost the title: k_wachi
+278 - Title given to 1006189
+278 - vassal: d_totasin - Holder 1006189 - Primary title: d_totasin has lost the title: c_takiel
+278 - sub vassal: d_totasin - Holder 1006189 - Primary title: d_totasin has lost the title: c_takiel
+278 - vassal: c_takiel - Title given to 1006189 - Primary title: k_wachi
+278 - sub vassal: c_takiel - Title given to 1006189 - Primary title: k_wachi
+278 - Holder (1006189) has gained c_takiel
+278 - vassal: d_totasin - Holder 1006189 - Primary title: d_totasin has lost the title: d_totasin
+278 - sub vassal: d_totasin - Holder 1006189 - Primary title: d_totasin has lost the title: d_totasin
+278 - vassal: d_totasin - Title given to 1006189 - Primary title: k_wachi
+278 - sub vassal: d_totasin - Title given to 1006189 - Primary title: k_wachi
+278 - Holder (1006189) has gained d_totasin
+278 - sub vassal: c_taise - Holder 1006189 - Primary title: c_taise has lost the title: c_taise
+278 - sub vassal: c_taise - Title given to 1006189 - Primary title: k_wachi
+278 - Holder (1006189) has gained c_taise
+278 - sub vassal: c_eralachi - Holder 1006189 - Primary title: c_eralachi has lost the title: c_eralachi
+278 - sub vassal: c_eralachi - Title given to 1006189 - Primary title: k_wachi
+278 - Holder (1006189) has gained c_eralachi
+278 - sub vassal: c_negaise - Holder 1006189 - Primary title: c_negaise has lost the title: c_negaise
+278 - sub vassal: c_negaise - Title given to 1006189 - Primary title: k_wachi
+278 - Holder (1006189) has gained c_negaise
+278 - sub vassal: c_evitagik - Holder 1006189 - Primary title: c_evitagik has lost the title: c_evitagik
+278 - sub vassal: c_evitagik - Title given to 1006189 - Primary title: k_wachi
+278 - Holder (1006189) has gained c_evitagik
+279 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+279 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+279 - vassal: c_takiel - Given to neighbour holder of k_witimon
+279 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+280 - vassal: d_wirachi - Holder 1006164 - Primary title: d_wirachi has lost the title: d_lotys
+280 - sub vassal: d_wirachi - Holder 1006164 - Primary title: d_wirachi has lost the title: d_lotys
+280 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+280 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+280 - vassal: c_takiel - Given to neighbour holder of k_witimon
+280 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+281 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+281 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+281 - vassal: c_takiel - Given to neighbour holder of k_witimon
+281 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+282 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+282 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+282 - vassal: c_takiel - Given to neighbour holder of k_witimon
+282 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+283 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+283 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+283 - vassal: c_takiel - Given to neighbour holder of k_witimon
+283 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+284 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+284 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+284 - vassal: c_takiel - Given to neighbour holder of k_witimon
+284 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+285 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+285 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+285 - vassal: c_takiel - Given to neighbour holder of k_witimon
+285 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+286 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+286 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+286 - vassal: c_takiel - Given to neighbour holder of k_witimon
+286 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+287 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+287 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+287 - vassal: c_takiel - Given to neighbour holder of k_witimon
+287 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+288 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+288 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+288 - vassal: c_takiel - Given to neighbour holder of k_witimon
+288 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+289 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+289 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+289 - vassal: c_takiel - Given to neighbour holder of k_witimon
+289 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+290 - vassal: d_degasin - Holder 1005248 - Primary title: d_degasin has lost the title: d_degasin
+290 - sub vassal: d_degasin - Holder 1005248 - Primary title: d_degasin has lost the title: d_degasin
+290 - vassal: d_degasin - Title given to 1005248 - Primary title: d_wetaise
+290 - sub vassal: d_degasin - Title given to 1005248 - Primary title: d_wetaise
+290 - vassal: d_wetaise - Holder (1005248) has gained d_degasin
+290 - sub vassal: d_wetaise - Holder (1005248) has gained d_degasin
+290 - sub vassal: c_ebegimon - Setting to vassal of d_wirachi in Validate Realm
+290 - sub vassal: c_atogachi - Setting to vassal of d_wirachi in Validate Realm
+290 - sub vassal: c_tosmin - Setting to vassal of d_wirachi in Validate Realm
+290 - sub vassal: c_etogisa - Setting to vassal of d_wirachi in Validate Realm
+290 - sub vassal: c_logisa - Setting to vassal of d_wirachi in Validate Realm
+290 - vassal: d_wirachi - Gained vassal: c_logisa
+290 - sub vassal: d_wirachi - Gained vassal: c_logisa
+290 - vassal: d_wirachi - Gained vassal: c_etogisa
+290 - sub vassal: d_wirachi - Gained vassal: c_etogisa
+290 - vassal: d_wirachi - Gained vassal: c_tosmin
+290 - sub vassal: d_wirachi - Gained vassal: c_tosmin
+290 - vassal: d_wirachi - Gained vassal: c_atogachi
+290 - sub vassal: d_wirachi - Gained vassal: c_atogachi
+290 - vassal: d_wirachi - Gained vassal: c_ebegimon
+290 - sub vassal: d_wirachi - Gained vassal: c_ebegimon
+290 - sub vassal: c_wogasin - Holder 1005248 - Primary title: c_wogasin has lost the title: c_wogasin
+290 - sub vassal: c_wogasin - Title given to 1005248 - Primary title: d_wetaise
+290 - vassal: d_wetaise - Holder (1005248) has gained c_wogasin
+290 - sub vassal: d_wetaise - Holder (1005248) has gained c_wogasin
+290 - sub vassal: c_qitud - Holder 1005248 - Primary title: c_qitud has lost the title: c_qitud
+290 - sub vassal: c_qitud - Title given to 1005248 - Primary title: d_wetaise
+290 - vassal: d_wetaise - Holder (1005248) has gained c_qitud
+290 - sub vassal: d_wetaise - Holder (1005248) has gained c_qitud
+290 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+290 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+290 - vassal: c_takiel - Given to neighbour holder of k_witimon
+290 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+291 - vassal: d_wirachi - Holder 1007031 - Primary title: d_wirachi has lost the title: d_wirachi
+291 - sub vassal: d_wirachi - Holder 1007031 - Primary title: d_wirachi has lost the title: d_wirachi
+291 - vassal: d_wirachi - Title given to 1007031
+291 - sub vassal: d_wirachi - Title given to 1007031
+291 - sub vassal: c_ebegimon - Holder 1007031 - Primary title: c_ebegimon has lost the title: c_ebegimon
+291 - sub vassal: c_ebegimon - Title given to 1007031 - Primary title: d_wirachi
+291 - vassal: d_wirachi - Holder (1007031) has gained c_ebegimon
+291 - sub vassal: d_wirachi - Holder (1007031) has gained c_ebegimon
+291 - sub vassal: c_atogachi - Holder 1007031 - Primary title: c_atogachi has lost the title: c_atogachi
+291 - sub vassal: c_atogachi - Title given to 1007031 - Primary title: d_wirachi
+291 - vassal: d_wirachi - Holder (1007031) has gained c_atogachi
+291 - sub vassal: d_wirachi - Holder (1007031) has gained c_atogachi
+291 - sub vassal: c_tosmin - Holder 1007031 - Primary title: c_tosmin has lost the title: c_tosmin
+291 - sub vassal: c_tosmin - Title given to 1007031 - Primary title: d_wirachi
+291 - vassal: d_wirachi - Holder (1007031) has gained c_tosmin
+291 - sub vassal: d_wirachi - Holder (1007031) has gained c_tosmin
+291 - sub vassal: c_etogisa - Holder 1007031 - Primary title: c_etogisa has lost the title: c_etogisa
+291 - sub vassal: c_etogisa - Title given to 1007031 - Primary title: d_wirachi
+291 - vassal: d_wirachi - Holder (1007031) has gained c_etogisa
+291 - sub vassal: d_wirachi - Holder (1007031) has gained c_etogisa
+291 - sub vassal: c_logisa - Holder 1007031 - Primary title: c_logisa has lost the title: c_logisa
+291 - sub vassal: c_logisa - Title given to 1007031 - Primary title: d_wirachi
+291 - vassal: d_wirachi - Holder (1007031) has gained c_logisa
+291 - sub vassal: d_wirachi - Holder (1007031) has gained c_logisa
+291 - vassal: d_wirachi - Holder 1005248 - Primary title: d_wirachi has lost the title: d_wirachi
+291 - sub vassal: d_wirachi - Holder 1005248 - Primary title: d_wirachi has lost the title: d_wirachi
+291 - vassal: d_wirachi - Title given to 1005248 - Primary title: d_degasin
+291 - sub vassal: d_wirachi - Title given to 1005248 - Primary title: d_degasin
+291 - vassal: d_degasin - Holder (1005248) has gained d_wirachi
+291 - sub vassal: d_degasin - Holder (1005248) has gained d_wirachi
+291 - sub vassal: c_ebegimon - Holder 1005248 - Primary title: c_ebegimon has lost the title: c_ebegimon
+291 - sub vassal: c_ebegimon - Title given to 1005248 - Primary title: d_wetaise
+291 - vassal: d_wetaise - Holder (1005248) has gained c_ebegimon
+291 - sub vassal: d_wetaise - Holder (1005248) has gained c_ebegimon
+291 - sub vassal: c_atogachi - Holder 1005248 - Primary title: c_atogachi has lost the title: c_atogachi
+291 - sub vassal: c_atogachi - Title given to 1005248 - Primary title: d_wetaise
+291 - vassal: d_wetaise - Holder (1005248) has gained c_atogachi
+291 - sub vassal: d_wetaise - Holder (1005248) has gained c_atogachi
+291 - sub vassal: c_tosmin - Holder 1005248 - Primary title: c_tosmin has lost the title: c_tosmin
+291 - sub vassal: c_tosmin - Title given to 1005248 - Primary title: d_wetaise
+291 - vassal: d_wetaise - Holder (1005248) has gained c_tosmin
+291 - sub vassal: d_wetaise - Holder (1005248) has gained c_tosmin
+291 - sub vassal: c_etogisa - Holder 1005248 - Primary title: c_etogisa has lost the title: c_etogisa
+291 - sub vassal: c_etogisa - Title given to 1005248 - Primary title: d_wetaise
+291 - vassal: d_wetaise - Holder (1005248) has gained c_etogisa
+291 - sub vassal: d_wetaise - Holder (1005248) has gained c_etogisa
+291 - sub vassal: c_logisa - Holder 1005248 - Primary title: c_logisa has lost the title: c_logisa
+291 - sub vassal: c_logisa - Title given to 1005248 - Primary title: d_wetaise
+291 - vassal: d_wetaise - Holder (1005248) has gained c_logisa
+291 - sub vassal: d_wetaise - Holder (1005248) has gained c_logisa
+291 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+291 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+291 - vassal: c_takiel - Given to neighbour holder of k_witimon
+291 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+292 - sub vassal: c_wogasin - Given to 1007094 in HandleTitles - Too many duke titles
+292 - vassal: d_wirachi - Holder 1007094 - Primary title: d_wirachi has lost the title: c_wogasin
+292 - sub vassal: d_wirachi - Holder 1007094 - Primary title: d_wirachi has lost the title: c_wogasin
+292 - sub vassal: c_wogasin - Title given to 1007094
+292 - vassal: d_wirachi - Holder 1006189 - Primary title: d_wirachi has lost the title: d_degasin
+292 - sub vassal: d_wirachi - Holder 1006189 - Primary title: d_wirachi has lost the title: d_degasin
+292 - vassal: d_degasin - Title given to 1006189 - Primary title: k_wachi
+292 - sub vassal: d_degasin - Title given to 1006189 - Primary title: k_wachi
+292 - Holder (1006189) has gained d_degasin
+292 - sub vassal: c_qitud - Setting to vassal of d_wirachi in Validate Realm
+292 - vassal: d_degasin - Lost vassal: c_qitud
+292 - sub vassal: d_degasin - Lost vassal: c_qitud
+292 - vassal: d_wirachi - Gained vassal: c_qitud
+292 - sub vassal: d_wirachi - Gained vassal: c_qitud
+292 - vassal: d_degasin - Too many dukes, made direct title into vassal of k_wachi
+292 - sub vassal: d_degasin - Too many dukes, made direct title into vassal of k_wachi
+292 - Holder 1002351 - Primary title: k_wachi has lost the title: d_degasin
+292 - vassal: d_degasin - Title given to 1002351
+292 - sub vassal: d_degasin - Title given to 1002351
+292 - sub vassal: c_titanos - Given to 1007095 in HandleTitles - Too many duke titles
+292 - vassal: d_wirachi - Holder 1007095 - Primary title: d_wirachi has lost the title: c_titanos
+292 - sub vassal: d_wirachi - Holder 1007095 - Primary title: d_wirachi has lost the title: c_titanos
+292 - sub vassal: c_titanos - Title given to 1007095
+292 - vassal: d_wirachi - Holder 1006189 - Primary title: d_wirachi has lost the title: d_ebegys
+292 - sub vassal: d_wirachi - Holder 1006189 - Primary title: d_wirachi has lost the title: d_ebegys
+292 - vassal: d_ebegys - Title given to 1006189 - Primary title: k_wachi
+292 - sub vassal: d_ebegys - Title given to 1006189 - Primary title: k_wachi
+292 - Holder (1006189) has gained d_ebegys
+292 - sub vassal: c_nirako - Setting to vassal of d_wirachi in Validate Realm
+292 - vassal: d_ebegys - Lost vassal: c_nirako
+292 - sub vassal: d_ebegys - Lost vassal: c_nirako
+292 - vassal: d_wirachi - Gained vassal: c_nirako
+292 - sub vassal: d_wirachi - Gained vassal: c_nirako
+292 - vassal: d_ebegys - Too many dukes, made direct title into vassal of k_wachi
+292 - sub vassal: d_ebegys - Too many dukes, made direct title into vassal of k_wachi
+292 - Holder 1007096 - Primary title: k_wachi has lost the title: d_ebegys
+292 - vassal: d_ebegys - Title given to 1007096
+292 - sub vassal: d_ebegys - Title given to 1007096
+292 - vassal: d_wirachi - Holder 1007097 - Primary title: d_wirachi has lost the title: c_kys
+292 - sub vassal: d_wirachi - Holder 1007097 - Primary title: d_wirachi has lost the title: c_kys
+292 - sub vassal: c_kys - Title given to 1007097
+292 - vassal: d_wirachi - Holder 1007098 - Primary title: d_wirachi has lost the title: c_regagik
+292 - sub vassal: d_wirachi - Holder 1007098 - Primary title: d_wirachi has lost the title: c_regagik
+292 - sub vassal: c_regagik - Title given to 1007098
+292 - vassal: d_wirachi - Holder 1007099 - Primary title: d_wirachi has lost the title: c_dimon
+292 - sub vassal: d_wirachi - Holder 1007099 - Primary title: d_wirachi has lost the title: c_dimon
+292 - sub vassal: c_dimon - Title given to 1007099
+292 - vassal: d_wirachi - Holder 1002978 - Primary title: d_wirachi has lost the title: c_ebegimon
+292 - sub vassal: d_wirachi - Holder 1002978 - Primary title: d_wirachi has lost the title: c_ebegimon
+292 - sub vassal: c_ebegimon - Title given to 1002978
+292 - vassal: d_wirachi - Holder 1007100 - Primary title: d_wirachi has lost the title: c_atogachi
+292 - sub vassal: d_wirachi - Holder 1007100 - Primary title: d_wirachi has lost the title: c_atogachi
+292 - sub vassal: c_atogachi - Title given to 1007100
+292 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+292 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+292 - vassal: c_takiel - Given to neighbour holder of k_witimon
+292 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+293 - vassal: d_degasin - Holder 1006189 - Primary title: d_degasin has lost the title: d_degasin
+293 - sub vassal: d_degasin - Holder 1006189 - Primary title: d_degasin has lost the title: d_degasin
+293 - vassal: d_degasin - Title given to 1006189 - Primary title: k_wachi
+293 - sub vassal: d_degasin - Title given to 1006189 - Primary title: k_wachi
+293 - Holder (1006189) has gained d_degasin
+293 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+293 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+293 - vassal: c_takiel - Given to neighbour holder of k_witimon
+293 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+294 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+294 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+294 - vassal: c_takiel - Given to neighbour holder of k_witimon
+294 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+295 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+295 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+295 - vassal: c_takiel - Given to neighbour holder of k_witimon
+295 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+296 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+296 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+296 - vassal: c_takiel - Given to neighbour holder of k_witimon
+296 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+297 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+297 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+297 - vassal: c_takiel - Given to neighbour holder of k_witimon
+297 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+298 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+298 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+298 - vassal: c_takiel - Given to neighbour holder of k_witimon
+298 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+299 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+299 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+299 - vassal: c_takiel - Given to neighbour holder of k_witimon
+299 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+300 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+300 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+300 - vassal: c_takiel - Given to neighbour holder of k_witimon
+300 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+301 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+301 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+301 - vassal: c_takiel - Given to neighbour holder of k_witimon
+301 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+302 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+302 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+302 - vassal: c_takiel - Given to neighbour holder of k_witimon
+302 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+303 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+303 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+303 - vassal: c_takiel - Given to neighbour holder of k_witimon
+303 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+304 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+304 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+304 - vassal: c_takiel - Given to neighbour holder of k_witimon
+304 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+305 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+305 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+305 - vassal: c_takiel - Given to neighbour holder of k_witimon
+305 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+306 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+306 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+306 - vassal: c_takiel - Given to neighbour holder of k_witimon
+306 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+307 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+307 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+307 - vassal: c_takiel - Given to neighbour holder of k_witimon
+307 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+308 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+308 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+308 - vassal: c_takiel - Given to neighbour holder of k_witimon
+308 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+309 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+309 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+309 - vassal: c_takiel - Given to neighbour holder of k_witimon
+309 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+310 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+310 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+310 - vassal: c_takiel - Given to neighbour holder of k_witimon
+310 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+311 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+311 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+311 - vassal: c_takiel - Given to neighbour holder of k_witimon
+311 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+312 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+312 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+312 - vassal: c_takiel - Given to neighbour holder of k_witimon
+312 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+313 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+313 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+313 - vassal: c_takiel - Given to neighbour holder of k_witimon
+313 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+314 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+314 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+314 - vassal: c_takiel - Given to neighbour holder of k_witimon
+314 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+315 - vassal: d_wirachi - Holder (1005248) has gained d_lotys
+315 - sub vassal: d_wirachi - Holder (1005248) has gained d_lotys
+315 - Gained vassal: d_lotys
+315 - vassal: d_lotys - Made independent for title creation d_lotys for d_wirachi
+315 - sub vassal: d_lotys - Made independent for title creation d_lotys for d_wirachi
+315 - vassal: d_lotys - Made independent
+315 - sub vassal: d_lotys - Made independent
+315 - sub vassal: c_logisa - Set liege on title creation d_lotys
+315 - vassal: d_wirachi - Lost vassal: c_logisa
+315 - sub vassal: d_wirachi - Lost vassal: c_logisa
+315 - sub vassal: c_etogisa - Set liege on title creation d_lotys
+315 - vassal: d_wirachi - Lost vassal: c_etogisa
+315 - sub vassal: d_wirachi - Lost vassal: c_etogisa
+315 - sub vassal: c_tosmin - Set liege on title creation d_lotys
+315 - vassal: d_wirachi - Lost vassal: c_tosmin
+315 - sub vassal: d_wirachi - Lost vassal: c_tosmin
+315 - sub vassal: c_qitud - Set liege on title creation d_lotys
+315 - vassal: d_wirachi - Lost vassal: c_qitud
+315 - sub vassal: d_wirachi - Lost vassal: c_qitud
+315 - sub vassal: c_nirako - Set liege on title creation d_lotys
+315 - vassal: d_wirachi - Lost vassal: c_nirako
+315 - sub vassal: d_wirachi - Lost vassal: c_nirako
+315 - sub vassal: c_regagik - Given to 1008457 in HandleTitles - Too many duke titles
+315 - sub vassal: c_regagik - Holder 1008457 - Primary title: c_regagik has lost the title: c_regagik
+315 - sub vassal: c_regagik - Title given to 1008457
+315 - vassal: d_wirachi - Holder 1006189 - Primary title: d_wirachi has lost the title: d_wetaise
+315 - sub vassal: d_wirachi - Holder 1006189 - Primary title: d_wirachi has lost the title: d_wetaise
+315 - vassal: d_wetaise - Title given to 1006189 - Primary title: k_wachi
+315 - sub vassal: d_wetaise - Title given to 1006189 - Primary title: k_wachi
+315 - Holder (1006189) has gained d_wetaise
+315 - vassal: d_wetaise - Too many dukes, made direct title into vassal of k_wachi
+315 - sub vassal: d_wetaise - Too many dukes, made direct title into vassal of k_wachi
+315 - Holder 1008458 - Primary title: k_wachi has lost the title: d_wetaise
+315 - vassal: d_wetaise - Title given to 1008458
+315 - sub vassal: d_wetaise - Title given to 1008458
+315 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+315 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+315 - vassal: c_takiel - Given to neighbour holder of k_witimon
+315 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+316 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+316 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+316 - vassal: c_takiel - Given to neighbour holder of k_witimon
+316 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+317 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+317 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+317 - vassal: c_takiel - Given to neighbour holder of k_witimon
+317 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+318 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+318 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+318 - vassal: c_takiel - Given to neighbour holder of k_witimon
+318 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+319 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+319 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+319 - vassal: c_takiel - Given to neighbour holder of k_witimon
+319 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+320 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+320 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+320 - vassal: c_takiel - Given to neighbour holder of k_witimon
+320 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+321 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+321 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+321 - vassal: c_takiel - Given to neighbour holder of k_witimon
+321 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+322 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+322 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+322 - vassal: c_takiel - Given to neighbour holder of k_witimon
+322 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+323 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+323 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+323 - vassal: c_takiel - Given to neighbour holder of k_witimon
+323 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+324 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+324 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+324 - vassal: c_takiel - Given to neighbour holder of k_witimon
+324 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+325 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+325 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+325 - vassal: c_takiel - Given to neighbour holder of k_witimon
+325 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+326 - vassal: d_wirachi - Holder 1006329 - Primary title: d_wirachi has lost the title: d_lotys
+326 - sub vassal: d_wirachi - Holder 1006329 - Primary title: d_wirachi has lost the title: d_lotys
+326 - vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+326 - sub vassal: c_takiel - Made vassal of neighbour (k_witimon) due to being a seperate island
+326 - vassal: c_takiel - Given to neighbour holder of k_witimon
+326 - sub vassal: c_takiel - Given to neighbour holder of k_witimon
+327 - Captured byd_keodat in minor war
+327 - Given to 1008305 in minor war along with lower
+327 - Holder 1008305 - Primary title: k_wachi has lost the title: k_wachi
+327 - Title given to 1008305 - Primary title: d_keodat
+327 - vassal: d_totasin - Holder 1008305 - Primary title: d_totasin has lost the title: d_totasin
+327 - sub vassal: d_totasin - Holder 1008305 - Primary title: d_totasin has lost the title: d_totasin
+327 - vassal: d_totasin - Title given to 1008305 - Primary title: k_wachi
+327 - sub vassal: d_totasin - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained d_totasin
+327 - vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: c_taise
+327 - sub vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: c_taise
+327 - sub vassal: c_taise - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_taise
+327 - sub vassal: c_evitagik - Setting to vassal of d_degasin in Validate Realm
+327 - vassal: d_totasin - Lost vassal: c_evitagik
+327 - sub vassal: d_totasin - Lost vassal: c_evitagik
+327 - sub vassal: c_negaise - Setting to vassal of d_degasin in Validate Realm
+327 - vassal: d_totasin - Lost vassal: c_negaise
+327 - sub vassal: d_totasin - Lost vassal: c_negaise
+327 - sub vassal: c_eralachi - Setting to vassal of d_degasin in Validate Realm
+327 - vassal: d_totasin - Lost vassal: c_eralachi
+327 - sub vassal: d_totasin - Lost vassal: c_eralachi
+327 - vassal: c_takiel - Setting to vassal of d_degasin in Validate Realm
+327 - sub vassal: c_takiel - Setting to vassal of d_degasin in Validate Realm
+327 - Lost vassal: c_takiel
+327 - vassal: d_degasin - Gained vassal: c_takiel
+327 - sub vassal: d_degasin - Gained vassal: c_takiel
+327 - vassal: d_degasin - Gained vassal: c_eralachi
+327 - sub vassal: d_degasin - Gained vassal: c_eralachi
+327 - vassal: d_degasin - Gained vassal: c_negaise
+327 - sub vassal: d_degasin - Gained vassal: c_negaise
+327 - vassal: d_degasin - Gained vassal: c_evitagik
+327 - sub vassal: d_degasin - Gained vassal: c_evitagik
+327 - sub vassal: c_nirako - Setting to vassal of d_wirachi in Validate Realm
+327 - sub vassal: c_qitud - Setting to vassal of d_wirachi in Validate Realm
+327 - sub vassal: c_tosmin - Setting to vassal of d_wirachi in Validate Realm
+327 - sub vassal: c_etogisa - Setting to vassal of d_wirachi in Validate Realm
+327 - sub vassal: c_logisa - Setting to vassal of d_wirachi in Validate Realm
+327 - vassal: d_wirachi - Gained vassal: c_logisa
+327 - sub vassal: d_wirachi - Gained vassal: c_logisa
+327 - vassal: d_wirachi - Gained vassal: c_etogisa
+327 - sub vassal: d_wirachi - Gained vassal: c_etogisa
+327 - vassal: d_wirachi - Gained vassal: c_tosmin
+327 - sub vassal: d_wirachi - Gained vassal: c_tosmin
+327 - vassal: d_wirachi - Gained vassal: c_qitud
+327 - sub vassal: d_wirachi - Gained vassal: c_qitud
+327 - vassal: d_wirachi - Gained vassal: c_nirako
+327 - sub vassal: d_wirachi - Gained vassal: c_nirako
+327 - vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: c_eralachi
+327 - sub vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: c_eralachi
+327 - sub vassal: c_eralachi - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_eralachi
+327 - sub vassal: c_eralachi - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_degasin - Lost vassal: c_eralachi
+327 - sub vassal: d_degasin - Lost vassal: c_eralachi
+327 - Gained vassal: c_eralachi
+327 - vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: c_negaise
+327 - sub vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: c_negaise
+327 - sub vassal: c_negaise - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_negaise
+327 - sub vassal: c_negaise - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_degasin - Lost vassal: c_negaise
+327 - sub vassal: d_degasin - Lost vassal: c_negaise
+327 - Gained vassal: c_negaise
+327 - vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: c_evitagik
+327 - sub vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: c_evitagik
+327 - sub vassal: c_evitagik - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_evitagik
+327 - sub vassal: c_evitagik - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_degasin - Lost vassal: c_evitagik
+327 - sub vassal: d_degasin - Lost vassal: c_evitagik
+327 - Gained vassal: c_evitagik
+327 - vassal: d_wirachi - Holder 1008305 - Primary title: d_wirachi has lost the title: d_wirachi
+327 - sub vassal: d_wirachi - Holder 1008305 - Primary title: d_wirachi has lost the title: d_wirachi
+327 - vassal: d_wirachi - Title given to 1008305 - Primary title: k_wachi
+327 - sub vassal: d_wirachi - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained d_wirachi
+327 - sub vassal: c_ririel - Holder 1008305 - Primary title: c_ririel has lost the title: c_ririel
+327 - sub vassal: c_ririel - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_ririel
+327 - sub vassal: c_kegiel - Holder 1008305 - Primary title: c_kegiel has lost the title: c_kegiel
+327 - sub vassal: c_kegiel - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_kegiel
+327 - sub vassal: c_tanos - Holder 1008305 - Primary title: c_tanos has lost the title: c_tanos
+327 - sub vassal: c_tanos - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_tanos
+327 - sub vassal: c_ebegimon - Holder 1008305 - Primary title: c_ebegimon has lost the title: c_ebegimon
+327 - sub vassal: c_ebegimon - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_ebegimon
+327 - sub vassal: c_nirako - Holder 1008305 - Primary title: c_nirako has lost the title: c_logisa
+327 - sub vassal: c_logisa - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_logisa
+327 - sub vassal: c_nirako - Holder 1008305 - Primary title: c_nirako has lost the title: c_etogisa
+327 - sub vassal: c_etogisa - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_etogisa
+327 - sub vassal: c_nirako - Holder 1008305 - Primary title: c_nirako has lost the title: c_tosmin
+327 - sub vassal: c_tosmin - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_tosmin
+327 - sub vassal: c_atogachi - Holder 1008305 - Primary title: c_atogachi has lost the title: c_atogachi
+327 - sub vassal: c_atogachi - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_atogachi
+327 - sub vassal: c_nirako - Holder 1008305 - Primary title: c_nirako has lost the title: c_qitud
+327 - sub vassal: c_qitud - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_qitud
+327 - sub vassal: c_nirako - Holder 1008305 - Primary title: c_nirako has lost the title: c_nirako
+327 - sub vassal: c_nirako - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_nirako
+327 - vassal: d_ebegys - Holder 1008305 - Primary title: d_ebegys has lost the title: d_ebegys
+327 - sub vassal: d_ebegys - Holder 1008305 - Primary title: d_ebegys has lost the title: d_ebegys
+327 - vassal: d_ebegys - Title given to 1008305 - Primary title: k_wachi
+327 - sub vassal: d_ebegys - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained d_ebegys
+327 - sub vassal: c_titanos - Holder 1008305 - Primary title: c_titanos has lost the title: c_titanos
+327 - sub vassal: c_titanos - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_titanos
+327 - vassal: d_wetaise - Holder 1008305 - Primary title: d_wetaise has lost the title: d_wetaise
+327 - sub vassal: d_wetaise - Holder 1008305 - Primary title: d_wetaise has lost the title: d_wetaise
+327 - vassal: d_wetaise - Title given to 1008305 - Primary title: k_wachi
+327 - sub vassal: d_wetaise - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained d_wetaise
+327 - sub vassal: c_kys - Holder 1008305 - Primary title: c_kys has lost the title: c_kys
+327 - sub vassal: c_kys - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_kys
+327 - sub vassal: c_regagik - Holder 1008305 - Primary title: c_regagik has lost the title: c_regagik
+327 - sub vassal: c_regagik - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_regagik
+327 - sub vassal: c_dimon - Holder 1008305 - Primary title: c_dimon has lost the title: c_dimon
+327 - sub vassal: c_dimon - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_dimon
+327 - vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: d_degasin
+327 - sub vassal: d_degasin - Holder 1008305 - Primary title: d_degasin has lost the title: d_degasin
+327 - vassal: d_degasin - Title given to 1008305 - Primary title: k_wachi
+327 - sub vassal: d_degasin - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained d_degasin
+327 - sub vassal: c_wogasin - Holder 1008305 - Primary title: c_wogasin has lost the title: c_wogasin
+327 - sub vassal: c_wogasin - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_wogasin
+327 - sub vassal: c_takiel - Holder 1008305 - Primary title: c_takiel has lost the title: c_takiel
+327 - sub vassal: c_takiel - Title given to 1008305 - Primary title: k_wachi
+327 - Holder (1008305) has gained c_takiel
+327 - sub vassal: c_kegiel - Given to 1009091 in HandleTitles - Too many duke titles
+327 - Holder 1009091 - Primary title: k_wachi has lost the title: c_kegiel
+327 - sub vassal: c_kegiel - Title given to 1009091
+327 - Holder 1009091 - Primary title: k_wachi has lost the title: d_wirachi
+327 - vassal: d_wirachi - Title given to 1009091 - Primary title: c_kegiel
+327 - sub vassal: d_wirachi - Title given to 1009091 - Primary title: c_kegiel
+327 - sub vassal: c_kegiel - Holder (1009091) has gained d_wirachi
+327 - sub vassal: c_ririel - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_ririel
+327 - sub vassal: d_wirachi - Lost vassal: c_ririel
+327 - sub vassal: c_tanos - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_tanos
+327 - sub vassal: d_wirachi - Lost vassal: c_tanos
+327 - sub vassal: c_ebegimon - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_ebegimon
+327 - sub vassal: d_wirachi - Lost vassal: c_ebegimon
+327 - sub vassal: c_logisa - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_logisa
+327 - sub vassal: d_wirachi - Lost vassal: c_logisa
+327 - sub vassal: c_etogisa - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_etogisa
+327 - sub vassal: d_wirachi - Lost vassal: c_etogisa
+327 - sub vassal: c_tosmin - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_tosmin
+327 - sub vassal: d_wirachi - Lost vassal: c_tosmin
+327 - sub vassal: c_atogachi - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_atogachi
+327 - sub vassal: d_wirachi - Lost vassal: c_atogachi
+327 - sub vassal: c_qitud - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_qitud
+327 - sub vassal: d_wirachi - Lost vassal: c_qitud
+327 - sub vassal: c_nirako - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_wirachi - Lost vassal: c_nirako
+327 - sub vassal: d_wirachi - Lost vassal: c_nirako
+327 - Gained vassal: c_nirako
+327 - Gained vassal: c_qitud
+327 - Gained vassal: c_atogachi
+327 - Gained vassal: c_tosmin
+327 - Gained vassal: c_etogisa
+327 - Gained vassal: c_logisa
+327 - Gained vassal: c_ebegimon
+327 - Gained vassal: c_tanos
+327 - Gained vassal: c_ririel
+327 - vassal: d_wirachi - Too many dukes, given to dejure: k_wachi
+327 - sub vassal: d_wirachi - Too many dukes, given to dejure: k_wachi
+327 - sub vassal: c_titanos - Given to 1009092 in HandleTitles - Too many duke titles
+327 - Holder 1009092 - Primary title: k_wachi has lost the title: c_titanos
+327 - sub vassal: c_titanos - Title given to 1009092
+327 - Holder 1009092 - Primary title: k_wachi has lost the title: d_ebegys
+327 - vassal: d_ebegys - Title given to 1009092 - Primary title: c_titanos
+327 - sub vassal: d_ebegys - Title given to 1009092 - Primary title: c_titanos
+327 - sub vassal: c_titanos - Holder (1009092) has gained d_ebegys
+327 - vassal: d_ebegys - Too many dukes, given to dejure: k_wachi
+327 - sub vassal: d_ebegys - Too many dukes, given to dejure: k_wachi
+327 - sub vassal: c_wogasin - Given to 1009094 in HandleTitles - Too many duke titles
+327 - Holder 1009094 - Primary title: k_wachi has lost the title: c_wogasin
+327 - sub vassal: c_wogasin - Title given to 1009094
+327 - Holder 1009094 - Primary title: k_wachi has lost the title: d_degasin
+327 - vassal: d_degasin - Title given to 1009094 - Primary title: c_wogasin
+327 - sub vassal: d_degasin - Title given to 1009094 - Primary title: c_wogasin
+327 - sub vassal: c_wogasin - Holder (1009094) has gained d_degasin
+327 - sub vassal: c_takiel - Setting to vassal of k_wachi in Validate Realm
+327 - vassal: d_degasin - Lost vassal: c_takiel
+327 - sub vassal: d_degasin - Lost vassal: c_takiel
+327 - Gained vassal: c_takiel
+327 - vassal: d_degasin - Too many dukes, given to dejure: k_wachi
+327 - sub vassal: d_degasin - Too many dukes, given to dejure: k_wachi
+327 - sub vassal: c_tagike - Given to 1009096 in HandleTitles - Too many duke titles
+327 - Holder 1009096 - Primary title: k_wachi has lost the title: c_tagike
+327 - sub vassal: c_tagike - Title given to 1009096
+327 - Holder 1009096 - Primary title: k_wachi has lost the title: d_keodat
+327 - sub vassal: c_tagike - Holder (1009096) has gained d_keodat
+327 - sub vassal: c_simon - Setting to vassal of k_wachi in Validate Realm
+327 - sub vassal: c_egnaavo - Setting to vassal of k_wachi in Validate Realm
+327 - Gained vassal: c_egnaavo
+327 - Gained vassal: c_simon
+327 - Gained vassal: d_keodat
+327 - Holder 1009098 - Primary title: k_wachi has lost the title: c_simon
+327 - vassal: c_simon - Title given to 1009098
+327 - sub vassal: c_simon - Title given to 1009098
+327 - Holder 1009099 - Primary title: k_wachi has lost the title: c_kys
+327 - sub vassal: c_kys - Title given to 1009099
+327 - Holder 1009101 - Primary title: k_wachi has lost the title: c_atogachi
+327 - vassal: c_atogachi - Title given to 1009101
+327 - sub vassal: c_atogachi - Title given to 1009101
+327 - Holder 1009102 - Primary title: k_wachi has lost the title: c_ririel
+327 - vassal: c_ririel - Title given to 1009102
+327 - sub vassal: c_ririel - Title given to 1009102
+327 - Holder 1009103 - Primary title: k_wachi has lost the title: c_negaise
+327 - vassal: c_negaise - Title given to 1009103
+327 - sub vassal: c_negaise - Title given to 1009103
+327 - Holder 1009104 - Primary title: k_wachi has lost the title: c_qitud
+327 - vassal: c_qitud - Title given to 1009104
+327 - sub vassal: c_qitud - Title given to 1009104
+327 - Holder 1009105 - Primary title: k_wachi has lost the title: c_egnaavo
+327 - vassal: c_egnaavo - Title given to 1009105
+327 - sub vassal: c_egnaavo - Title given to 1009105
+327 - Holder 1009106 - Primary title: k_wachi has lost the title: c_logisa
+327 - vassal: c_logisa - Title given to 1009106
+327 - sub vassal: c_logisa - Title given to 1009106
+327 - Holder 1009107 - Primary title: k_wachi has lost the title: c_evitagik
+327 - vassal: c_evitagik - Title given to 1009107
+327 - sub vassal: c_evitagik - Title given to 1009107
+327 - Holder 1009108 - Primary title: k_wachi has lost the title: c_nirako
+327 - vassal: c_nirako - Title given to 1009108
+327 - sub vassal: c_nirako - Title given to 1009108
+327 - Holder 1009109 - Primary title: k_wachi has lost the title: c_dimon
+327 - sub vassal: c_dimon - Title given to 1009109
+327 - Holder 1009110 - Primary title: k_wachi has lost the title: c_eralachi
+327 - vassal: c_eralachi - Title given to 1009110
+327 - sub vassal: c_eralachi - Title given to 1009110
+327 - Holder 1005937 - Primary title: k_wachi has lost the title: c_etogisa
+327 - vassal: c_etogisa - Title given to 1005937
+327 - sub vassal: c_etogisa - Title given to 1005937
+327 - Holder 1009111 - Primary title: k_wachi has lost the title: c_takiel
+327 - vassal: c_takiel - Title given to 1009111
+327 - sub vassal: c_takiel - Title given to 1009111
+327 - vassal: c_takiel - Made independent due to being a seperate island
+327 - sub vassal: c_takiel - Made independent due to being a seperate island
+327 - vassal: c_takiel - Made independent
+327 - sub vassal: c_takiel - Made independent
+327 - vassal: d_keodat - Made independent due to being a seperate island prior to giving to neighbour
+327 - sub vassal: d_keodat - Made independent due to being a seperate island prior to giving to neighbour
+327 - vassal: d_keodat - Made independent
+327 - sub vassal: d_keodat - Made independent
+327 - vassal: c_egnaavo - Made vassal of neighbour (d_keodat) due to being a seperate island
+327 - sub vassal: c_egnaavo - Made vassal of neighbour (d_keodat) due to being a seperate island
+327 - Lost vassal: c_egnaavo
+327 - vassal: c_simon - Made vassal of neighbour (d_keodat) due to being a seperate island
+327 - sub vassal: c_simon - Made vassal of neighbour (d_keodat) due to being a seperate island
+327 - Lost vassal: c_simon
+340 - vassal: d_degasin - Holder 1009553 - Primary title: d_degasin has lost the title: d_degasin
+340 - sub vassal: d_degasin - Holder 1009553 - Primary title: d_degasin has lost the title: d_degasin
+340 - vassal: d_degasin - Title given to 1009553
+340 - sub vassal: d_degasin - Title given to 1009553
+340 - sub vassal: c_wogasin - Holder 1009553 - Primary title: c_wogasin has lost the title: c_wogasin
+340 - sub vassal: c_wogasin - Title given to 1009553 - Primary title: d_degasin
+340 - vassal: d_degasin - Holder (1009553) has gained c_wogasin
+340 - sub vassal: d_degasin - Holder (1009553) has gained c_wogasin
+342 - vassal: d_degasin - Holder 1009102 - Primary title: d_degasin has lost the title: d_degasin
+342 - sub vassal: d_degasin - Holder 1009102 - Primary title: d_degasin has lost the title: d_degasin
+342 - vassal: d_degasin - Title given to 1009102 - Primary title: c_ririel
+342 - sub vassal: d_degasin - Title given to 1009102 - Primary title: c_ririel
+342 - vassal: c_ririel - Holder (1009102) has gained d_degasin
+342 - sub vassal: c_ririel - Holder (1009102) has gained d_degasin
+342 - vassal: c_ririel - Setting to vassal of d_degasin in Validate Realm
+342 - sub vassal: c_ririel - Setting to vassal of d_degasin in Validate Realm
+342 - Lost vassal: c_ririel
+342 - vassal: d_degasin - Gained vassal: c_ririel
+342 - sub vassal: d_degasin - Gained vassal: c_ririel
+342 - sub vassal: c_wogasin - Holder 1009102 - Primary title: c_wogasin has lost the title: c_wogasin
+342 - sub vassal: c_wogasin - Title given to 1009102 - Primary title: d_degasin
+342 - vassal: d_degasin - Holder (1009102) has gained c_wogasin
+342 - sub vassal: d_degasin - Holder (1009102) has gained c_wogasin
+349 - vassal: d_ebegys - Holder 1008305 - Primary title: d_ebegys has lost the title: d_ebegys
+349 - sub vassal: d_ebegys - Holder 1008305 - Primary title: d_ebegys has lost the title: d_ebegys
+349 - vassal: d_ebegys - Title given to 1008305 - Primary title: k_wachi
+349 - sub vassal: d_ebegys - Title given to 1008305 - Primary title: k_wachi
+349 - Holder (1008305) has gained d_ebegys
+349 - sub vassal: c_titanos - Holder 1008305 - Primary title: c_titanos has lost the title: c_titanos
+349 - sub vassal: c_titanos - Title given to 1008305 - Primary title: k_wachi
+349 - Holder (1008305) has gained c_titanos
+349 - sub vassal: c_titanos - Given to 1010233 in HandleTitles - Too many duke titles
+349 - Holder 1010233 - Primary title: k_wachi has lost the title: c_titanos
+349 - sub vassal: c_titanos - Title given to 1010233
+349 - Holder 1010233 - Primary title: k_wachi has lost the title: d_ebegys
+349 - vassal: d_ebegys - Title given to 1010233 - Primary title: c_titanos
+349 - sub vassal: d_ebegys - Title given to 1010233 - Primary title: c_titanos
+349 - sub vassal: c_titanos - Holder (1010233) has gained d_ebegys
+349 - vassal: d_ebegys - Too many dukes, given to dejure: k_wachi
+349 - sub vassal: d_ebegys - Too many dukes, given to dejure: k_wachi
+366 - vassal: d_wirachi - Holder 1009463 - Primary title: d_wirachi has lost the title: d_wirachi
+366 - sub vassal: d_wirachi - Holder 1009463 - Primary title: d_wirachi has lost the title: d_wirachi
+366 - vassal: d_wirachi - Title given to 1009463
+366 - sub vassal: d_wirachi - Title given to 1009463
+366 - sub vassal: c_kegiel - Holder 1009463 - Primary title: c_kegiel has lost the title: c_kegiel
+366 - sub vassal: c_kegiel - Title given to 1009463 - Primary title: d_wirachi
+366 - vassal: d_wirachi - Holder (1009463) has gained c_kegiel
+366 - sub vassal: d_wirachi - Holder (1009463) has gained c_kegiel
+367 - vassal: d_degasin - Holder 1009942 - Primary title: d_degasin has lost the title: d_degasin
+367 - sub vassal: d_degasin - Holder 1009942 - Primary title: d_degasin has lost the title: d_degasin
+367 - vassal: d_degasin - Title given to 1009942
+367 - sub vassal: d_degasin - Title given to 1009942
+367 - sub vassal: c_wogasin - Holder 1009942 - Primary title: c_wogasin has lost the title: c_wogasin
+367 - sub vassal: c_wogasin - Title given to 1009942 - Primary title: d_degasin
+367 - vassal: d_degasin - Holder (1009942) has gained c_wogasin
+367 - sub vassal: d_degasin - Holder (1009942) has gained c_wogasin
+367 - sub vassal: c_ririel - Holder 1009942 - Primary title: c_ririel has lost the title: c_ririel
+367 - sub vassal: c_ririel - Title given to 1009942 - Primary title: d_degasin
+367 - vassal: d_degasin - Holder (1009942) has gained c_ririel
+367 - sub vassal: d_degasin - Holder (1009942) has gained c_ririel
+369 - vassal: d_degasin - Holder 1009463 - Primary title: d_degasin has lost the title: d_degasin
+369 - sub vassal: d_degasin - Holder 1009463 - Primary title: d_degasin has lost the title: d_degasin
+369 - vassal: d_degasin - Title given to 1009463 - Primary title: d_wirachi
+369 - sub vassal: d_degasin - Title given to 1009463 - Primary title: d_wirachi
+369 - vassal: d_wirachi - Holder (1009463) has gained d_degasin
+369 - sub vassal: d_wirachi - Holder (1009463) has gained d_degasin
+369 - sub vassal: c_wogasin - Holder 1009463 - Primary title: c_wogasin has lost the title: c_wogasin
+369 - sub vassal: c_wogasin - Title given to 1009463 - Primary title: d_wirachi
+369 - vassal: d_wirachi - Holder (1009463) has gained c_wogasin
+369 - sub vassal: d_wirachi - Holder (1009463) has gained c_wogasin
+369 - sub vassal: c_ririel - Holder 1009463 - Primary title: c_ririel has lost the title: c_ririel
+369 - sub vassal: c_ririel - Title given to 1009463 - Primary title: d_wirachi
+369 - vassal: d_wirachi - Holder (1009463) has gained c_ririel
+369 - sub vassal: d_wirachi - Holder (1009463) has gained c_ririel
+369 - Holder 1009740 - Primary title: k_wachi has lost the title: k_wachi
+369 - Title given to 1009740
+369 - vassal: d_totasin - Holder 1009740 - Primary title: d_totasin has lost the title: d_totasin
+369 - sub vassal: d_totasin - Holder 1009740 - Primary title: d_totasin has lost the title: d_totasin
+369 - vassal: d_totasin - Title given to 1009740 - Primary title: k_wachi
+369 - sub vassal: d_totasin - Title given to 1009740 - Primary title: k_wachi
+369 - Holder (1009740) has gained d_totasin
+369 - sub vassal: c_taise - Setting to vassal of d_wetaise in Validate Realm
+369 - vassal: d_totasin - Lost vassal: c_taise
+369 - sub vassal: d_totasin - Lost vassal: c_taise
+369 - vassal: c_tanos - Setting to vassal of d_wetaise in Validate Realm
+369 - sub vassal: c_tanos - Setting to vassal of d_wetaise in Validate Realm
+369 - Lost vassal: c_tanos
+369 - vassal: c_ebegimon - Setting to vassal of d_wetaise in Validate Realm
+369 - sub vassal: c_ebegimon - Setting to vassal of d_wetaise in Validate Realm
+369 - Lost vassal: c_ebegimon
+369 - vassal: c_tosmin - Setting to vassal of d_wetaise in Validate Realm
+369 - sub vassal: c_tosmin - Setting to vassal of d_wetaise in Validate Realm
+369 - Lost vassal: c_tosmin
+369 - vassal: d_wetaise - Gained vassal: c_tosmin
+369 - sub vassal: d_wetaise - Gained vassal: c_tosmin
+369 - vassal: d_wetaise - Gained vassal: c_ebegimon
+369 - sub vassal: d_wetaise - Gained vassal: c_ebegimon
+369 - vassal: d_wetaise - Gained vassal: c_tanos
+369 - sub vassal: d_wetaise - Gained vassal: c_tanos
+369 - vassal: d_wetaise - Gained vassal: c_taise
+369 - sub vassal: d_wetaise - Gained vassal: c_taise
+369 - vassal: d_wetaise - Holder 1009740 - Primary title: d_wetaise has lost the title: d_wetaise
+369 - sub vassal: d_wetaise - Holder 1009740 - Primary title: d_wetaise has lost the title: d_wetaise
+369 - vassal: d_wetaise - Title given to 1009740 - Primary title: k_wachi
+369 - sub vassal: d_wetaise - Title given to 1009740 - Primary title: k_wachi
+369 - Holder (1009740) has gained d_wetaise
+369 - sub vassal: c_taise - Holder 1009740 - Primary title: c_taise has lost the title: c_taise
+369 - sub vassal: c_taise - Title given to 1009740 - Primary title: k_wachi
+369 - Holder (1009740) has gained c_taise
+369 - sub vassal: c_tanos - Holder 1009740 - Primary title: c_tanos has lost the title: c_tanos
+369 - sub vassal: c_tanos - Title given to 1009740 - Primary title: k_wachi
+369 - Holder (1009740) has gained c_tanos
+369 - sub vassal: c_ebegimon - Holder 1009740 - Primary title: c_ebegimon has lost the title: c_ebegimon
+369 - sub vassal: c_ebegimon - Title given to 1009740 - Primary title: k_wachi
+369 - Holder (1009740) has gained c_ebegimon
+369 - sub vassal: c_tosmin - Holder 1009740 - Primary title: c_tosmin has lost the title: c_tosmin
+369 - sub vassal: c_tosmin - Title given to 1009740 - Primary title: k_wachi
+369 - Holder (1009740) has gained c_tosmin
+369 - sub vassal: c_regagik - Holder 1009740 - Primary title: c_regagik has lost the title: c_regagik
+369 - sub vassal: c_regagik - Title given to 1009740 - Primary title: k_wachi
+369 - Holder (1009740) has gained c_regagik
+370 - vassal: d_totasin - Destroyed due to flagged problem
+370 - sub vassal: d_totasin - Destroyed due to flagged problem
+370 - vassal: d_totasin - Made independent
+370 - sub vassal: d_totasin - Made independent
+384 - vassal: d_ebegys - Holder 1010848 - Primary title: d_ebegys has lost the title: d_ebegys
+384 - sub vassal: d_ebegys - Holder 1010848 - Primary title: d_ebegys has lost the title: d_ebegys
+384 - vassal: d_ebegys - Title given to 1010848
+384 - sub vassal: d_ebegys - Title given to 1010848
+384 - sub vassal: c_titanos - Holder 1010848 - Primary title: c_titanos has lost the title: c_titanos
+384 - sub vassal: c_titanos - Title given to 1010848 - Primary title: d_ebegys
+384 - vassal: d_ebegys - Holder (1010848) has gained c_titanos
+384 - sub vassal: d_ebegys - Holder (1010848) has gained c_titanos
+385 - vassal: d_kusounig - Setting independent in Validate Realm
+385 - vassal: d_kusounig - Made independent
+391 - Holder 1009463 - Primary title: k_wachi has lost the title: k_wachi
+391 - Title given to 1009463 - Primary title: d_wirachi
+391 - vassal: d_wirachi - Holder (1009463) has gained k_wachi
+391 - sub vassal: d_wirachi - Holder (1009463) has gained k_wachi
+391 - vassal: d_wetaise - Holder 1009463 - Primary title: d_wetaise has lost the title: d_wetaise
+391 - sub vassal: d_wetaise - Holder 1009463 - Primary title: d_wetaise has lost the title: d_wetaise
+391 - vassal: d_wetaise - Title given to 1009463 - Primary title: k_wachi
+391 - sub vassal: d_wetaise - Title given to 1009463 - Primary title: k_wachi
+391 - Holder (1009463) has gained d_wetaise
+391 - sub vassal: c_regagik - Holder 1009463 - Primary title: c_regagik has lost the title: c_regagik
+391 - sub vassal: c_regagik - Title given to 1009463 - Primary title: k_wachi
+391 - Holder (1009463) has gained c_regagik
+391 - sub vassal: c_tosmin - Holder 1009463 - Primary title: c_tosmin has lost the title: c_tosmin
+391 - sub vassal: c_tosmin - Title given to 1009463 - Primary title: k_wachi
+391 - Holder (1009463) has gained c_tosmin
+391 - sub vassal: c_ebegimon - Holder 1009463 - Primary title: c_ebegimon has lost the title: c_ebegimon
+391 - sub vassal: c_ebegimon - Title given to 1009463 - Primary title: k_wachi
+391 - Holder (1009463) has gained c_ebegimon
+391 - sub vassal: c_tanos - Holder 1009463 - Primary title: c_tanos has lost the title: c_tanos
+391 - sub vassal: c_tanos - Title given to 1009463 - Primary title: k_wachi
+391 - Holder (1009463) has gained c_tanos
+391 - sub vassal: c_taise - Holder 1009463 - Primary title: c_taise has lost the title: c_taise
+391 - sub vassal: c_taise - Title given to 1009463 - Primary title: k_wachi
+391 - Holder (1009463) has gained c_taise
+392 - sub vassal: c_kegiel - Given to 1012412 in HandleTitles - Too many duke titles
+392 - Holder 1012412 - Primary title: k_wachi has lost the title: c_kegiel
+392 - sub vassal: c_kegiel - Title given to 1012412
+392 - Holder 1012412 - Primary title: k_wachi has lost the title: d_wirachi
+392 - vassal: d_wirachi - Title given to 1012412 - Primary title: c_kegiel
+392 - sub vassal: d_wirachi - Title given to 1012412 - Primary title: c_kegiel
+392 - sub vassal: c_kegiel - Holder (1012412) has gained d_wirachi
+392 - vassal: d_wirachi - Too many dukes, given to dejure: k_wachi
+392 - sub vassal: d_wirachi - Too many dukes, given to dejure: k_wachi
+392 - Holder 1012413 - Primary title: k_wachi has lost the title: c_wogasin
+392 - sub vassal: c_wogasin - Title given to 1012413
+392 - Holder 1012414 - Primary title: k_wachi has lost the title: c_ririel
+392 - sub vassal: c_ririel - Title given to 1012414

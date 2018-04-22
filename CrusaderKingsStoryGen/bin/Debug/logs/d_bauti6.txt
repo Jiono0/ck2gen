@@ -1,0 +1,50 @@
+200 - Title given to 1000063
+200 - vassal: c_tutirma - Given to 1000066 via AddCharacterForTitle
+200 - sub vassal: c_tutirma - Given to 1000066 via AddCharacterForTitle
+200 - vassal: c_tutirma - Holder 1000066 - Primary title: c_tutirma has lost the title: c_tutirma
+200 - sub vassal: c_tutirma - Holder 1000066 - Primary title: c_tutirma has lost the title: c_tutirma
+200 - vassal: c_tutirma - Title given to 1000066
+200 - sub vassal: c_tutirma - Title given to 1000066
+200 - vassal: c_wozija - Given to 1000068 via AddCharacterForTitle
+200 - sub vassal: c_wozija - Given to 1000068 via AddCharacterForTitle
+200 - vassal: c_wozija - Holder 1000068 - Primary title: c_wozija has lost the title: c_wozija
+200 - sub vassal: c_wozija - Holder 1000068 - Primary title: c_wozija has lost the title: c_wozija
+200 - vassal: c_wozija - Title given to 1000068
+200 - sub vassal: c_wozija - Title given to 1000068
+200 - vassal: c_talobad - Holder 1000063 - Primary title: c_talobad has lost the title: c_talobad
+200 - sub vassal: c_talobad - Holder 1000063 - Primary title: c_talobad has lost the title: c_talobad
+200 - vassal: c_talobad - Title given to 1000063 - Primary title: d_bauti
+200 - sub vassal: c_talobad - Title given to 1000063 - Primary title: d_bauti
+200 - Holder (1000063) has gained c_talobad
+200 - vassal: c_tutirma - Holder 1000063 - Primary title: c_tutirma has lost the title: c_tutirma
+200 - sub vassal: c_tutirma - Holder 1000063 - Primary title: c_tutirma has lost the title: c_tutirma
+200 - vassal: c_tutirma - Title given to 1000063 - Primary title: d_bauti
+200 - sub vassal: c_tutirma - Title given to 1000063 - Primary title: d_bauti
+200 - Holder (1000063) has gained c_tutirma
+200 - vassal: c_soradma - Holder 1000063 - Primary title: c_soradma has lost the title: c_soradma
+200 - sub vassal: c_soradma - Holder 1000063 - Primary title: c_soradma has lost the title: c_soradma
+200 - vassal: c_soradma - Title given to 1000063 - Primary title: d_bauti
+200 - sub vassal: c_soradma - Title given to 1000063 - Primary title: d_bauti
+200 - Holder (1000063) has gained c_soradma
+235 - Holder 1002935 - Primary title: d_bauti has lost the title: d_bauti
+235 - Title given to 1002935
+235 - vassal: c_talobad - Holder 1002935 - Primary title: c_talobad has lost the title: c_talobad
+235 - vassal: c_talobad - Title given to 1002935 - Primary title: d_bauti
+235 - Holder (1002935) has gained c_talobad
+235 - vassal: c_tutirma - Holder 1002935 - Primary title: c_tutirma has lost the title: c_tutirma
+235 - vassal: c_tutirma - Title given to 1002935 - Primary title: d_bauti
+235 - Holder (1002935) has gained c_tutirma
+235 - vassal: c_soradma - Holder 1002935 - Primary title: c_soradma has lost the title: c_soradma
+235 - vassal: c_soradma - Title given to 1002935 - Primary title: d_bauti
+235 - Holder (1002935) has gained c_soradma
+246 - Holder (1002935) has gained d_dadama
+246 - Holder (1002935) has gained c_tarirma
+246 - Holder (1002935) has gained c_daimuti
+246 - Holder (1002935) has gained c_boneva
+247 - vassal: c_tutirma - Title given to 1004241
+258 - Holder 1004177 - Primary title: d_bauti has lost the title: d_bauti
+258 - Title given to 1004177 - Primary title: k_bozemar
+258 - vassal: c_soradma - Setting to vassal of d_dadama in Validate Realm
+258 - Lost vassal: c_soradma
+258 - vassal: c_talobad - Setting to vassal of d_dadama in Validate Realm
+258 - Lost vassal: c_talobad

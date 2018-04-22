@@ -1,0 +1,86 @@
+200 - Title given to 1001001
+200 - vassal: c_kaykaus - Given to 1001004 via AddCharacterForTitle
+200 - sub vassal: c_kaykaus - Given to 1001004 via AddCharacterForTitle
+200 - vassal: c_kaykaus - Holder 1001004 - Primary title: c_kaykaus has lost the title: c_kaykaus
+200 - sub vassal: c_kaykaus - Holder 1001004 - Primary title: c_kaykaus has lost the title: c_kaykaus
+200 - vassal: c_kaykaus - Title given to 1001004
+200 - sub vassal: c_kaykaus - Title given to 1001004
+200 - vassal: c_telide - Holder 1001001 - Primary title: c_telide has lost the title: c_telide
+200 - sub vassal: c_telide - Holder 1001001 - Primary title: c_telide has lost the title: c_telide
+200 - vassal: c_telide - Title given to 1001001 - Primary title: d_ruisill
+200 - sub vassal: c_telide - Title given to 1001001 - Primary title: d_ruisill
+200 - Holder (1001001) has gained c_telide
+200 - vassal: c_kaykaus - Holder 1001001 - Primary title: c_kaykaus has lost the title: c_kaykaus
+200 - sub vassal: c_kaykaus - Holder 1001001 - Primary title: c_kaykaus has lost the title: c_kaykaus
+200 - vassal: c_kaykaus - Title given to 1001001 - Primary title: d_ruisill
+200 - sub vassal: c_kaykaus - Title given to 1001001 - Primary title: d_ruisill
+200 - Holder (1001001) has gained c_kaykaus
+203 - Holder 1000985 - Primary title: d_ruisill has lost the title: d_ruisill
+203 - Title given to 1000985 - Primary title: d_waymar
+203 - vassal: c_kaykaus - Holder 1000985 - Primary title: c_kaykaus has lost the title: c_kaykaus
+203 - vassal: c_kaykaus - Title given to 1000985 - Primary title: d_waymar
+203 - vassal: c_telide - Holder 1000985 - Primary title: c_telide has lost the title: c_telide
+203 - vassal: c_telide - Title given to 1000985 - Primary title: d_waymar
+262 - Gained vassal: c_tamoas
+262 - Gained vassal: c_kerar
+262 - Holder 1001647 - Primary title: d_ruisill has lost the title: d_ruisill
+262 - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: c_kerar - Holder 1001647 - Primary title: c_kerar has lost the title: c_kerar
+262 - vassal: c_kerar - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: c_tamoas - Holder 1001647 - Primary title: c_tamoas has lost the title: c_tamoas
+262 - vassal: c_tamoas - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: c_kaykaus - Holder 1001647 - Primary title: c_kaykaus has lost the title: c_kaykaus
+262 - vassal: c_kaykaus - Title given to 1001647 - Primary title: d_waymar
+262 - vassal: c_telide - Holder 1001647 - Primary title: c_telide has lost the title: c_telide
+262 - vassal: c_telide - Title given to 1001647 - Primary title: d_waymar
+270 - Holder 1005513 - Primary title: d_ruisill has lost the title: d_ruisill
+270 - Title given to 1005513
+270 - vassal: c_kerar - Holder 1005513 - Primary title: c_kerar has lost the title: c_kerar
+270 - vassal: c_kerar - Title given to 1005513 - Primary title: d_ruisill
+270 - Holder (1005513) has gained c_kerar
+270 - vassal: c_tamoas - Holder 1005513 - Primary title: c_tamoas has lost the title: c_tamoas
+270 - vassal: c_tamoas - Title given to 1005513 - Primary title: d_ruisill
+270 - Holder (1005513) has gained c_tamoas
+270 - vassal: c_kaykaus - Holder 1005513 - Primary title: c_kaykaus has lost the title: c_kaykaus
+270 - vassal: c_kaykaus - Title given to 1005513 - Primary title: d_ruisill
+270 - Holder (1005513) has gained c_kaykaus
+270 - vassal: c_telide - Holder 1005513 - Primary title: c_telide has lost the title: c_telide
+270 - vassal: c_telide - Title given to 1005513 - Primary title: d_ruisill
+270 - Holder (1005513) has gained c_telide
+273 - Holder 1004893 - Primary title: d_ruisill has lost the title: d_ruisill
+273 - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: c_kerar - Holder 1004893 - Primary title: c_kerar has lost the title: c_kerar
+273 - vassal: c_kerar - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: c_tamoas - Holder 1004893 - Primary title: c_tamoas has lost the title: c_tamoas
+273 - vassal: c_tamoas - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: c_kaykaus - Holder 1004893 - Primary title: c_kaykaus has lost the title: c_kaykaus
+273 - vassal: c_kaykaus - Title given to 1004893 - Primary title: d_tyio
+273 - vassal: c_telide - Holder 1004893 - Primary title: c_telide has lost the title: c_telide
+273 - vassal: c_telide - Title given to 1004893 - Primary title: d_tyio
+292 - Holder 1006837 - Primary title: d_ruisill has lost the title: d_ruisill
+292 - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: c_telide - Holder 1006837 - Primary title: c_telide has lost the title: c_telide
+292 - vassal: c_telide - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: c_kaykaus - Holder 1006837 - Primary title: c_kaykaus has lost the title: c_kaykaus
+292 - vassal: c_kaykaus - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: c_tamoas - Holder 1006837 - Primary title: c_tamoas has lost the title: c_tamoas
+292 - vassal: c_tamoas - Title given to 1006837 - Primary title: d_ryaus
+292 - vassal: c_kerar - Holder 1006837 - Primary title: c_kerar has lost the title: c_kerar
+292 - vassal: c_kerar - Title given to 1006837 - Primary title: d_ryaus
+293 - vassal: c_kaykaus - Given to 1007168 in HandleTitles - Too many duke titles
+293 - vassal: c_kaykaus - Title given to 1007168
+293 - Title given to 1006356 - Primary title: k_damoava
+293 - vassal: c_telide - Setting to vassal of d_tyio in Validate Realm
+293 - Lost vassal: c_telide
+293 - vassal: c_tamoas - Setting to vassal of d_tyio in Validate Realm
+293 - Lost vassal: c_tamoas
+293 - vassal: c_kerar - Setting to vassal of d_tyio in Validate Realm
+293 - Lost vassal: c_kerar
+293 - Too many dukes, made direct title into vassal of k_damoava
+293 - Title given to 1007170
+336 - Holder 1008254 - Primary title: d_ruisill has lost the title: d_ruisill
+336 - Title given to 1008254
+370 - Holder 1009654 - Primary title: d_ruisill has lost the title: d_ruisill
+370 - Title given to 1009654
+391 - Holder 1011943 - Primary title: d_ruisill has lost the title: d_ruisill
+391 - Title given to 1011943

@@ -1,0 +1,441 @@
+200 - Title given to 1001039
+200 - vassal: d_ladul - Holder 1001039 - Primary title: d_ladul has lost the title: d_ladul
+200 - sub vassal: d_ladul - Holder 1001039 - Primary title: d_ladul has lost the title: d_ladul
+200 - vassal: d_ladul - Title given to 1001039 - Primary title: k_kente
+200 - sub vassal: d_ladul - Title given to 1001039 - Primary title: k_kente
+200 - Holder (1001039) has gained d_ladul
+200 - vassal: d_qilie - Holder 1001039 - Primary title: d_qilie has lost the title: d_qilie
+200 - sub vassal: d_qilie - Holder 1001039 - Primary title: d_qilie has lost the title: d_qilie
+200 - vassal: d_qilie - Title given to 1001039 - Primary title: k_kente
+200 - sub vassal: d_qilie - Title given to 1001039 - Primary title: k_kente
+200 - Holder (1001039) has gained d_qilie
+200 - vassal: d_asalamba - Holder 1001039 - Primary title: d_asalamba has lost the title: d_asalamba
+200 - sub vassal: d_asalamba - Holder 1001039 - Primary title: d_asalamba has lost the title: d_asalamba
+200 - vassal: d_asalamba - Title given to 1001039 - Primary title: k_kente
+200 - sub vassal: d_asalamba - Title given to 1001039 - Primary title: k_kente
+200 - Holder (1001039) has gained d_asalamba
+200 - vassal: d_latam - Holder 1001039 - Primary title: d_latam has lost the title: d_latam
+200 - sub vassal: d_latam - Holder 1001039 - Primary title: d_latam has lost the title: d_latam
+200 - vassal: d_latam - Title given to 1001039 - Primary title: k_kente
+200 - sub vassal: d_latam - Title given to 1001039 - Primary title: k_kente
+200 - Holder (1001039) has gained d_latam
+200 - sub vassal: c_wabya - Holder 1001039 - Primary title: c_wabya has lost the title: c_wabya
+200 - sub vassal: c_wabya - Title given to 1001039 - Primary title: k_kente
+200 - Holder (1001039) has gained c_wabya
+200 - vassal: d_qilie - Destroyed due to flagged problem
+200 - sub vassal: d_qilie - Destroyed due to flagged problem
+200 - vassal: d_qilie - Made independent
+200 - sub vassal: d_qilie - Made independent
+200 - Gained vassal: c_qama
+200 - vassal: d_asalamba - Destroyed due to flagged problem
+200 - sub vassal: d_asalamba - Destroyed due to flagged problem
+200 - vassal: d_asalamba - Made independent
+200 - sub vassal: d_asalamba - Made independent
+200 - Gained vassal: c_rolirza
+200 - vassal: c_qama - Made independent due to being a seperate island
+200 - sub vassal: c_qama - Made independent due to being a seperate island
+200 - vassal: c_qama - Made independent
+200 - sub vassal: c_qama - Made independent
+200 - vassal: c_rolirza - Made independent due to being a seperate island
+200 - sub vassal: c_rolirza - Made independent due to being a seperate island
+200 - vassal: c_rolirza - Made independent
+200 - sub vassal: c_rolirza - Made independent
+203 - vassal: d_tabael - Holder 1001591 - Primary title: d_tabael has lost the title: d_tabael
+203 - sub vassal: d_tabael - Holder 1001591 - Primary title: d_tabael has lost the title: d_tabael
+203 - vassal: d_tabael - Title given to 1001591
+203 - sub vassal: d_tabael - Title given to 1001591
+203 - sub vassal: c_sibibril - Holder 1001591 - Primary title: c_sibibril has lost the title: c_sibibril
+203 - sub vassal: c_sibibril - Title given to 1001591 - Primary title: d_tabael
+203 - vassal: d_tabael - Holder (1001591) has gained c_sibibril
+203 - sub vassal: d_tabael - Holder (1001591) has gained c_sibibril
+203 - sub vassal: c_taday - Holder 1001591 - Primary title: c_taday has lost the title: c_taday
+203 - sub vassal: c_taday - Title given to 1001591 - Primary title: d_tabael
+203 - vassal: d_tabael - Holder (1001591) has gained c_taday
+203 - sub vassal: d_tabael - Holder (1001591) has gained c_taday
+212 - Holder 1002121 - Primary title: k_kente has lost the title: k_kente
+212 - Title given to 1002121
+212 - vassal: d_ladul - Holder 1002121 - Primary title: d_ladul has lost the title: d_ladul
+212 - sub vassal: d_ladul - Holder 1002121 - Primary title: d_ladul has lost the title: d_ladul
+212 - vassal: d_ladul - Title given to 1002121 - Primary title: k_kente
+212 - sub vassal: d_ladul - Title given to 1002121 - Primary title: k_kente
+212 - Holder (1002121) has gained d_ladul
+212 - sub vassal: c_wabya - Setting to vassal of d_latam in Validate Realm
+212 - vassal: d_ladul - Lost vassal: c_wabya
+212 - sub vassal: d_ladul - Lost vassal: c_wabya
+212 - vassal: d_latam - Gained vassal: c_wabya
+212 - sub vassal: d_latam - Gained vassal: c_wabya
+212 - vassal: d_latam - Holder 1002121 - Primary title: d_latam has lost the title: c_wabya
+212 - sub vassal: d_latam - Holder 1002121 - Primary title: d_latam has lost the title: c_wabya
+212 - sub vassal: c_wabya - Title given to 1002121 - Primary title: k_kente
+212 - Holder (1002121) has gained c_wabya
+212 - sub vassal: c_wabya - Setting to vassal of k_kente in Validate Realm
+212 - vassal: d_latam - Lost vassal: c_wabya
+212 - sub vassal: d_latam - Lost vassal: c_wabya
+212 - Gained vassal: c_wabya
+212 - vassal: d_latam - Holder 1002121 - Primary title: d_latam has lost the title: d_latam
+212 - sub vassal: d_latam - Holder 1002121 - Primary title: d_latam has lost the title: d_latam
+212 - vassal: d_latam - Title given to 1002121 - Primary title: k_kente
+212 - sub vassal: d_latam - Title given to 1002121 - Primary title: k_kente
+212 - Holder (1002121) has gained d_latam
+214 - vassal: d_wasin - Holder 1002379 - Primary title: d_wasin has lost the title: d_wasin
+214 - sub vassal: d_wasin - Holder 1002379 - Primary title: d_wasin has lost the title: d_wasin
+214 - vassal: d_wasin - Title given to 1002379
+214 - sub vassal: d_wasin - Title given to 1002379
+214 - sub vassal: c_tanibril - Holder 1002379 - Primary title: c_tanibril has lost the title: c_tanibril
+214 - sub vassal: c_tanibril - Title given to 1002379 - Primary title: d_wasin
+214 - vassal: d_wasin - Holder (1002379) has gained c_tanibril
+214 - sub vassal: d_wasin - Holder (1002379) has gained c_tanibril
+214 - sub vassal: c_kikati - Holder 1002379 - Primary title: c_kikati has lost the title: c_kikati
+214 - sub vassal: c_kikati - Title given to 1002379 - Primary title: d_wasin
+214 - vassal: d_wasin - Holder (1002379) has gained c_kikati
+214 - sub vassal: d_wasin - Holder (1002379) has gained c_kikati
+218 - vassal: d_tagalka - Holder 1002380 - Primary title: d_tagalka has lost the title: d_tagalka
+218 - sub vassal: d_tagalka - Holder 1002380 - Primary title: d_tagalka has lost the title: d_tagalka
+218 - vassal: d_tagalka - Title given to 1002380
+218 - sub vassal: d_tagalka - Title given to 1002380
+218 - sub vassal: c_babdul - Holder 1002380 - Primary title: c_babdul has lost the title: c_babdul
+218 - sub vassal: c_babdul - Title given to 1002380 - Primary title: d_tagalka
+218 - vassal: d_tagalka - Holder (1002380) has gained c_babdul
+218 - sub vassal: d_tagalka - Holder (1002380) has gained c_babdul
+218 - sub vassal: c_sadya - Holder 1002380 - Primary title: c_sadya has lost the title: c_sadya
+218 - sub vassal: c_sadya - Title given to 1002380 - Primary title: d_tagalka
+218 - vassal: d_tagalka - Holder (1002380) has gained c_sadya
+218 - sub vassal: d_tagalka - Holder (1002380) has gained c_sadya
+218 - Holder 1000605 - Primary title: k_kente has lost the title: k_kente
+218 - Title given to 1000605 - Primary title: d_ranin
+218 - vassal: d_ranin - Holder (1000605) has gained k_kente
+218 - sub vassal: d_ranin - Holder (1000605) has gained k_kente
+218 - vassal: c_wabya - Setting to vassal of d_ladul in Validate Realm
+218 - sub vassal: c_wabya - Setting to vassal of d_ladul in Validate Realm
+218 - Lost vassal: c_wabya
+218 - vassal: d_ladul - Gained vassal: c_wabya
+218 - sub vassal: d_ladul - Gained vassal: c_wabya
+218 - vassal: d_ladul - Holder 1000605 - Primary title: d_ladul has lost the title: d_ladul
+218 - sub vassal: d_ladul - Holder 1000605 - Primary title: d_ladul has lost the title: d_ladul
+218 - vassal: d_ladul - Title given to 1000605 - Primary title: k_kente
+218 - sub vassal: d_ladul - Title given to 1000605 - Primary title: k_kente
+218 - Holder (1000605) has gained d_ladul
+218 - sub vassal: c_wabya - Setting to vassal of d_latam in Validate Realm
+218 - vassal: d_ladul - Lost vassal: c_wabya
+218 - sub vassal: d_ladul - Lost vassal: c_wabya
+218 - vassal: d_latam - Gained vassal: c_wabya
+218 - sub vassal: d_latam - Gained vassal: c_wabya
+218 - vassal: d_latam - Holder 1000605 - Primary title: d_latam has lost the title: c_wabya
+218 - sub vassal: d_latam - Holder 1000605 - Primary title: d_latam has lost the title: c_wabya
+218 - sub vassal: c_wabya - Title given to 1000605 - Primary title: k_kente
+218 - Holder (1000605) has gained c_wabya
+218 - sub vassal: c_wabya - Setting to vassal of k_kente in Validate Realm
+218 - vassal: d_latam - Lost vassal: c_wabya
+218 - sub vassal: d_latam - Lost vassal: c_wabya
+218 - Gained vassal: c_wabya
+218 - vassal: d_latam - Holder 1000605 - Primary title: d_latam has lost the title: d_latam
+218 - sub vassal: d_latam - Holder 1000605 - Primary title: d_latam has lost the title: d_latam
+218 - vassal: d_latam - Title given to 1000605 - Primary title: k_kente
+218 - sub vassal: d_latam - Title given to 1000605 - Primary title: k_kente
+218 - Holder (1000605) has gained d_latam
+219 - sub vassal: c_waniel - Holder 1000605 - Primary title: c_waniel has lost the title: c_waniel
+219 - sub vassal: c_waniel - Title given to 1000605 - Primary title: k_kente
+219 - Holder (1000605) has gained c_waniel
+219 - sub vassal: c_waniel - Given to 1002660 in HandleTitles - Too many duke titles
+219 - Holder 1002660 - Primary title: k_kente has lost the title: c_waniel
+219 - sub vassal: c_waniel - Title given to 1002660
+219 - Holder 1002660 - Primary title: k_kente has lost the title: d_ladul
+219 - vassal: d_ladul - Title given to 1002660 - Primary title: c_waniel
+219 - sub vassal: d_ladul - Title given to 1002660 - Primary title: c_waniel
+219 - sub vassal: c_waniel - Holder (1002660) has gained d_ladul
+219 - vassal: d_ladul - Too many dukes, given to dejure: k_kente
+219 - sub vassal: d_ladul - Too many dukes, given to dejure: k_kente
+220 - vassal: d_tagalka - Holder 1000605 - Primary title: d_tagalka has lost the title: d_tagalka
+220 - sub vassal: d_tagalka - Holder 1000605 - Primary title: d_tagalka has lost the title: d_tagalka
+220 - vassal: d_tagalka - Title given to 1000605 - Primary title: k_kente
+220 - sub vassal: d_tagalka - Title given to 1000605 - Primary title: k_kente
+220 - Holder (1000605) has gained d_tagalka
+220 - sub vassal: c_sadya - Holder 1000605 - Primary title: c_sadya has lost the title: c_sadya
+220 - sub vassal: c_sadya - Title given to 1000605 - Primary title: k_kente
+220 - Holder (1000605) has gained c_sadya
+220 - sub vassal: c_babdul - Holder 1000605 - Primary title: c_babdul has lost the title: c_babdul
+220 - sub vassal: c_babdul - Title given to 1000605 - Primary title: k_kente
+220 - Holder (1000605) has gained c_babdul
+220 - vassal: d_latam - Destroyed due to flagged problem
+220 - sub vassal: d_latam - Destroyed due to flagged problem
+220 - vassal: d_latam - Made independent
+220 - sub vassal: d_latam - Made independent
+220 - Gained vassal: c_dibazsi
+220 - Holder 1002726 - Primary title: k_kente has lost the title: c_wabya
+220 - vassal: c_wabya - Title given to 1002726
+220 - sub vassal: c_wabya - Title given to 1002726
+220 - vassal: c_dibazsi - Made independent due to being a seperate island
+220 - sub vassal: c_dibazsi - Made independent due to being a seperate island
+220 - vassal: c_dibazsi - Made independent
+220 - sub vassal: c_dibazsi - Made independent
+233 - vassal: d_kinazsi - Holder 1003444 - Primary title: d_kinazsi has lost the title: d_kinazsi
+233 - sub vassal: d_kinazsi - Holder 1003444 - Primary title: d_kinazsi has lost the title: d_kinazsi
+233 - vassal: d_kinazsi - Title given to 1003444
+233 - sub vassal: d_kinazsi - Title given to 1003444
+233 - sub vassal: c_tasiel - Holder 1003444 - Primary title: c_tasiel has lost the title: c_tasiel
+233 - sub vassal: c_tasiel - Title given to 1003444 - Primary title: d_kinazsi
+233 - vassal: d_kinazsi - Holder (1003444) has gained c_tasiel
+233 - sub vassal: d_kinazsi - Holder (1003444) has gained c_tasiel
+233 - sub vassal: c_qikoth - Holder 1003444 - Primary title: c_qikoth has lost the title: c_qikoth
+233 - sub vassal: c_qikoth - Title given to 1003444 - Primary title: d_kinazsi
+233 - vassal: d_kinazsi - Holder (1003444) has gained c_qikoth
+233 - sub vassal: d_kinazsi - Holder (1003444) has gained c_qikoth
+233 - sub vassal: c_kodaday - Holder 1003444 - Primary title: c_kodaday has lost the title: c_kodaday
+233 - sub vassal: c_kodaday - Title given to 1003444 - Primary title: d_kinazsi
+233 - vassal: d_kinazsi - Holder (1003444) has gained c_kodaday
+233 - sub vassal: d_kinazsi - Holder (1003444) has gained c_kodaday
+235 - vassal: d_kilalka - Holder 1001673 - Primary title: d_kilalka has lost the title: d_kilalka
+235 - sub vassal: d_kilalka - Holder 1001673 - Primary title: d_kilalka has lost the title: d_kilalka
+235 - vassal: d_kilalka - Title given to 1001673
+235 - sub vassal: d_kilalka - Title given to 1001673
+235 - sub vassal: c_karati - Holder 1001673 - Primary title: c_karati has lost the title: c_karati
+235 - sub vassal: c_karati - Title given to 1001673 - Primary title: d_kilalka
+235 - vassal: d_kilalka - Holder (1001673) has gained c_karati
+235 - sub vassal: d_kilalka - Holder (1001673) has gained c_karati
+235 - sub vassal: c_kabdente - Holder 1001673 - Primary title: c_kabdente has lost the title: c_kabdente
+235 - sub vassal: c_kabdente - Title given to 1001673 - Primary title: d_kilalka
+235 - vassal: d_kilalka - Holder (1001673) has gained c_kabdente
+235 - sub vassal: d_kilalka - Holder (1001673) has gained c_kabdente
+235 - sub vassal: c_sagana - Holder 1001673 - Primary title: c_sagana has lost the title: c_sagana
+235 - sub vassal: c_sagana - Title given to 1001673 - Primary title: d_kilalka
+235 - vassal: d_kilalka - Holder (1001673) has gained c_sagana
+235 - sub vassal: d_kilalka - Holder (1001673) has gained c_sagana
+235 - sub vassal: c_dasaday - Holder 1001673 - Primary title: c_dasaday has lost the title: c_dasaday
+235 - sub vassal: c_dasaday - Title given to 1001673 - Primary title: d_kilalka
+235 - vassal: d_kilalka - Holder (1001673) has gained c_dasaday
+235 - sub vassal: d_kilalka - Holder (1001673) has gained c_dasaday
+236 - vassal: d_wasin - Holder 1002821 - Primary title: d_wasin has lost the title: d_wasin
+236 - sub vassal: d_wasin - Holder 1002821 - Primary title: d_wasin has lost the title: d_wasin
+236 - vassal: d_wasin - Title given to 1002821
+236 - sub vassal: d_wasin - Title given to 1002821
+236 - sub vassal: c_kikati - Holder 1002821 - Primary title: c_kikati has lost the title: c_kikati
+236 - sub vassal: c_kikati - Title given to 1002821 - Primary title: d_wasin
+236 - vassal: d_wasin - Holder (1002821) has gained c_kikati
+236 - sub vassal: d_wasin - Holder (1002821) has gained c_kikati
+236 - sub vassal: c_tanibril - Holder 1002821 - Primary title: c_tanibril has lost the title: c_tanibril
+236 - sub vassal: c_tanibril - Title given to 1002821 - Primary title: d_wasin
+236 - vassal: d_wasin - Holder (1002821) has gained c_tanibril
+236 - sub vassal: d_wasin - Holder (1002821) has gained c_tanibril
+237 - vassal: d_kinazsi - Holder 1000620 - Primary title: d_kinazsi has lost the title: d_kinazsi
+237 - sub vassal: d_kinazsi - Holder 1000620 - Primary title: d_kinazsi has lost the title: d_kinazsi
+237 - vassal: d_kinazsi - Title given to 1000620 - Primary title: d_ehaniel
+237 - sub vassal: d_kinazsi - Title given to 1000620 - Primary title: d_ehaniel
+237 - vassal: d_ehaniel - Holder (1000620) has gained d_kinazsi
+237 - sub vassal: d_ehaniel - Holder (1000620) has gained d_kinazsi
+237 - sub vassal: c_tasiel - Holder 1000620 - Primary title: c_tasiel has lost the title: c_tasiel
+237 - sub vassal: c_tasiel - Title given to 1000620 - Primary title: d_ehaniel
+237 - vassal: d_ehaniel - Holder (1000620) has gained c_tasiel
+237 - sub vassal: d_ehaniel - Holder (1000620) has gained c_tasiel
+237 - sub vassal: c_qikoth - Holder 1000620 - Primary title: c_qikoth has lost the title: c_qikoth
+237 - sub vassal: c_qikoth - Title given to 1000620 - Primary title: d_ehaniel
+237 - vassal: d_ehaniel - Holder (1000620) has gained c_qikoth
+237 - sub vassal: d_ehaniel - Holder (1000620) has gained c_qikoth
+237 - sub vassal: c_kodaday - Holder 1000620 - Primary title: c_kodaday has lost the title: c_kodaday
+237 - sub vassal: c_kodaday - Title given to 1000620 - Primary title: d_ehaniel
+237 - vassal: d_ehaniel - Holder (1000620) has gained c_kodaday
+237 - sub vassal: d_ehaniel - Holder (1000620) has gained c_kodaday
+237 - Holder 1001827 - Primary title: k_kente has lost the title: k_kente
+237 - Title given to 1001827
+237 - vassal: d_ranin - Holder 1001827 - Primary title: d_ranin has lost the title: d_ranin
+237 - sub vassal: d_ranin - Holder 1001827 - Primary title: d_ranin has lost the title: d_ranin
+237 - vassal: d_ranin - Title given to 1001827 - Primary title: k_kente
+237 - sub vassal: d_ranin - Title given to 1001827 - Primary title: k_kente
+237 - Holder (1001827) has gained d_ranin
+237 - sub vassal: c_eshnan - Setting to vassal of d_tagalka in Validate Realm
+237 - vassal: d_ranin - Lost vassal: c_eshnan
+237 - sub vassal: d_ranin - Lost vassal: c_eshnan
+237 - sub vassal: c_kikya - Setting to vassal of d_tagalka in Validate Realm
+237 - vassal: d_ranin - Lost vassal: c_kikya
+237 - sub vassal: d_ranin - Lost vassal: c_kikya
+237 - sub vassal: c_damiel - Setting to vassal of d_tagalka in Validate Realm
+237 - vassal: d_ranin - Lost vassal: c_damiel
+237 - sub vassal: d_ranin - Lost vassal: c_damiel
+237 - vassal: d_tagalka - Gained vassal: c_damiel
+237 - sub vassal: d_tagalka - Gained vassal: c_damiel
+237 - vassal: d_tagalka - Gained vassal: c_kikya
+237 - sub vassal: d_tagalka - Gained vassal: c_kikya
+237 - vassal: d_tagalka - Gained vassal: c_eshnan
+237 - sub vassal: d_tagalka - Gained vassal: c_eshnan
+237 - vassal: d_tagalka - Holder 1001827 - Primary title: d_tagalka has lost the title: d_tagalka
+237 - sub vassal: d_tagalka - Holder 1001827 - Primary title: d_tagalka has lost the title: d_tagalka
+237 - vassal: d_tagalka - Title given to 1001827 - Primary title: k_kente
+237 - sub vassal: d_tagalka - Title given to 1001827 - Primary title: k_kente
+237 - Holder (1001827) has gained d_tagalka
+237 - sub vassal: c_babdul - Holder 1001827 - Primary title: c_babdul has lost the title: c_babdul
+237 - sub vassal: c_babdul - Title given to 1001827 - Primary title: k_kente
+237 - Holder (1001827) has gained c_babdul
+237 - sub vassal: c_sadya - Holder 1001827 - Primary title: c_sadya has lost the title: c_sadya
+237 - sub vassal: c_sadya - Title given to 1001827 - Primary title: k_kente
+237 - Holder (1001827) has gained c_sadya
+237 - sub vassal: c_eshnan - Holder 1001827 - Primary title: c_eshnan has lost the title: c_eshnan
+237 - sub vassal: c_eshnan - Title given to 1001827 - Primary title: k_kente
+237 - Holder (1001827) has gained c_eshnan
+237 - sub vassal: c_kikya - Holder 1001827 - Primary title: c_kikya has lost the title: c_kikya
+237 - sub vassal: c_kikya - Title given to 1001827 - Primary title: k_kente
+237 - Holder (1001827) has gained c_kikya
+237 - sub vassal: c_damiel - Holder 1001827 - Primary title: c_damiel has lost the title: c_damiel
+237 - sub vassal: c_damiel - Title given to 1001827 - Primary title: k_kente
+237 - Holder (1001827) has gained c_damiel
+238 - vassal: d_ranin - Destroyed due to flagged problem
+238 - sub vassal: d_ranin - Destroyed due to flagged problem
+238 - vassal: d_ranin - Made independent
+238 - sub vassal: d_ranin - Made independent
+238 - vassal: d_kinazsi - Holder 1001266 - Primary title: d_kinazsi has lost the title: c_anikoth
+238 - sub vassal: d_kinazsi - Holder 1001266 - Primary title: d_kinazsi has lost the title: c_anikoth
+238 - sub vassal: c_anikoth - Title given to 1001266
+243 - vassal: d_kinazsi - Holder 1002231 - Primary title: d_kinazsi has lost the title: d_kinazsi
+243 - sub vassal: d_kinazsi - Holder 1002231 - Primary title: d_kinazsi has lost the title: d_kinazsi
+243 - vassal: d_kinazsi - Title given to 1002231
+243 - sub vassal: d_kinazsi - Title given to 1002231
+243 - sub vassal: c_kodaday - Setting to vassal of d_ehaniel in Validate Realm
+243 - vassal: d_kinazsi - Lost vassal: c_kodaday
+243 - sub vassal: d_kinazsi - Lost vassal: c_kodaday
+243 - sub vassal: c_qikoth - Setting to vassal of d_ehaniel in Validate Realm
+243 - vassal: d_kinazsi - Lost vassal: c_qikoth
+243 - sub vassal: d_kinazsi - Lost vassal: c_qikoth
+243 - sub vassal: c_tasiel - Setting to vassal of d_ehaniel in Validate Realm
+243 - vassal: d_kinazsi - Lost vassal: c_tasiel
+243 - sub vassal: d_kinazsi - Lost vassal: c_tasiel
+243 - vassal: d_ehaniel - Gained vassal: c_tasiel
+243 - sub vassal: d_ehaniel - Gained vassal: c_tasiel
+243 - vassal: d_ehaniel - Gained vassal: c_qikoth
+243 - sub vassal: d_ehaniel - Gained vassal: c_qikoth
+243 - vassal: d_ehaniel - Gained vassal: c_kodaday
+243 - sub vassal: d_ehaniel - Gained vassal: c_kodaday
+243 - vassal: d_ehaniel - Holder 1002231 - Primary title: d_ehaniel has lost the title: d_ehaniel
+243 - sub vassal: d_ehaniel - Holder 1002231 - Primary title: d_ehaniel has lost the title: d_ehaniel
+243 - vassal: d_ehaniel - Title given to 1002231 - Primary title: d_kinazsi
+243 - sub vassal: d_ehaniel - Title given to 1002231 - Primary title: d_kinazsi
+243 - vassal: d_kinazsi - Holder (1002231) has gained d_ehaniel
+243 - sub vassal: d_kinazsi - Holder (1002231) has gained d_ehaniel
+243 - sub vassal: c_kodaday - Holder 1002231 - Primary title: c_kodaday has lost the title: c_kodaday
+243 - sub vassal: c_kodaday - Title given to 1002231 - Primary title: d_kinazsi
+243 - vassal: d_kinazsi - Holder (1002231) has gained c_kodaday
+243 - sub vassal: d_kinazsi - Holder (1002231) has gained c_kodaday
+243 - sub vassal: c_qikoth - Holder 1002231 - Primary title: c_qikoth has lost the title: c_qikoth
+243 - sub vassal: c_qikoth - Title given to 1002231 - Primary title: d_kinazsi
+243 - vassal: d_kinazsi - Holder (1002231) has gained c_qikoth
+243 - sub vassal: d_kinazsi - Holder (1002231) has gained c_qikoth
+243 - sub vassal: c_tasiel - Holder 1002231 - Primary title: c_tasiel has lost the title: c_tasiel
+243 - sub vassal: c_tasiel - Title given to 1002231 - Primary title: d_kinazsi
+243 - vassal: d_kinazsi - Holder (1002231) has gained c_tasiel
+243 - sub vassal: d_kinazsi - Holder (1002231) has gained c_tasiel
+243 - sub vassal: c_rarente - Holder 1002231 - Primary title: c_rarente has lost the title: c_rarente
+243 - sub vassal: c_rarente - Title given to 1002231 - Primary title: d_kinazsi
+243 - vassal: d_kinazsi - Holder (1002231) has gained c_rarente
+243 - sub vassal: d_kinazsi - Holder (1002231) has gained c_rarente
+243 - sub vassal: c_danin - Holder 1002231 - Primary title: c_danin has lost the title: c_danin
+243 - sub vassal: c_danin - Title given to 1002231 - Primary title: d_kinazsi
+243 - vassal: d_kinazsi - Holder (1002231) has gained c_danin
+243 - sub vassal: d_kinazsi - Holder (1002231) has gained c_danin
+244 - vassal: d_kinazsi - Destroyed due to flagged problem
+244 - sub vassal: d_kinazsi - Destroyed due to flagged problem
+244 - vassal: d_kinazsi - Made independent
+244 - sub vassal: d_kinazsi - Made independent
+250 - vassal: d_ehaniel - Holder 1004134 - Primary title: d_ehaniel has lost the title: d_ehaniel
+250 - sub vassal: d_ehaniel - Holder 1004134 - Primary title: d_ehaniel has lost the title: d_ehaniel
+250 - vassal: d_ehaniel - Title given to 1004134
+250 - sub vassal: d_ehaniel - Title given to 1004134
+250 - sub vassal: c_kodaday - Holder 1004134 - Primary title: c_kodaday has lost the title: c_kodaday
+250 - sub vassal: c_kodaday - Title given to 1004134 - Primary title: d_ehaniel
+250 - vassal: d_ehaniel - Holder (1004134) has gained c_kodaday
+250 - sub vassal: d_ehaniel - Holder (1004134) has gained c_kodaday
+250 - sub vassal: c_qikoth - Holder 1004134 - Primary title: c_qikoth has lost the title: c_qikoth
+250 - sub vassal: c_qikoth - Title given to 1004134 - Primary title: d_ehaniel
+250 - vassal: d_ehaniel - Holder (1004134) has gained c_qikoth
+250 - sub vassal: d_ehaniel - Holder (1004134) has gained c_qikoth
+250 - sub vassal: c_tasiel - Holder 1004134 - Primary title: c_tasiel has lost the title: c_tasiel
+250 - sub vassal: c_tasiel - Title given to 1004134 - Primary title: d_ehaniel
+250 - vassal: d_ehaniel - Holder (1004134) has gained c_tasiel
+250 - sub vassal: d_ehaniel - Holder (1004134) has gained c_tasiel
+250 - sub vassal: c_rarente - Holder 1004134 - Primary title: c_rarente has lost the title: c_rarente
+250 - sub vassal: c_rarente - Title given to 1004134 - Primary title: d_ehaniel
+250 - vassal: d_ehaniel - Holder (1004134) has gained c_rarente
+250 - sub vassal: d_ehaniel - Holder (1004134) has gained c_rarente
+250 - sub vassal: c_danin - Holder 1004134 - Primary title: c_danin has lost the title: c_danin
+250 - sub vassal: c_danin - Title given to 1004134 - Primary title: d_ehaniel
+250 - vassal: d_ehaniel - Holder (1004134) has gained c_danin
+250 - sub vassal: d_ehaniel - Holder (1004134) has gained c_danin
+256 - vassal: d_ehaniel - Holder (1004134) has gained d_kinazsi
+256 - sub vassal: d_ehaniel - Holder (1004134) has gained d_kinazsi
+256 - Gained vassal: d_kinazsi
+256 - vassal: d_kinazsi - Made independent for title creation d_kinazsi for d_ehaniel
+256 - sub vassal: d_kinazsi - Made independent for title creation d_kinazsi for d_ehaniel
+256 - vassal: d_kinazsi - Made independent
+256 - sub vassal: d_kinazsi - Made independent
+256 - sub vassal: c_kodaday - Set liege on title creation d_kinazsi
+256 - vassal: d_ehaniel - Lost vassal: c_kodaday
+256 - sub vassal: d_ehaniel - Lost vassal: c_kodaday
+256 - sub vassal: c_qikoth - Set liege on title creation d_kinazsi
+256 - vassal: d_ehaniel - Lost vassal: c_qikoth
+256 - sub vassal: d_ehaniel - Lost vassal: c_qikoth
+256 - sub vassal: c_tasiel - Set liege on title creation d_kinazsi
+256 - vassal: d_ehaniel - Lost vassal: c_tasiel
+256 - sub vassal: d_ehaniel - Lost vassal: c_tasiel
+256 - sub vassal: c_rarente - Set liege on title creation d_kinazsi
+256 - vassal: d_ehaniel - Lost vassal: c_rarente
+256 - sub vassal: d_ehaniel - Lost vassal: c_rarente
+256 - sub vassal: c_danin - Set liege on title creation d_kinazsi
+256 - vassal: d_ehaniel - Lost vassal: c_danin
+256 - sub vassal: d_ehaniel - Lost vassal: c_danin
+256 - sub vassal: c_kodaday - Setting independent due to liege destruction
+256 - sub vassal: c_kodaday - Made independent
+256 - sub vassal: c_qikoth - Setting independent due to liege destruction
+256 - sub vassal: c_qikoth - Made independent
+256 - sub vassal: c_tasiel - Setting independent due to liege destruction
+256 - sub vassal: c_tasiel - Made independent
+256 - sub vassal: c_rarente - Setting independent due to liege destruction
+256 - sub vassal: c_rarente - Made independent
+256 - sub vassal: c_danin - Setting independent due to liege destruction
+256 - sub vassal: c_danin - Made independent
+256 - sub vassal: c_anikoth - Holder 1004134 - Primary title: c_anikoth has lost the title: c_anikoth
+256 - sub vassal: c_anikoth - Title given to 1004134 - Primary title: d_ehaniel
+256 - vassal: d_ehaniel - Holder (1004134) has gained c_anikoth
+256 - sub vassal: d_ehaniel - Holder (1004134) has gained c_anikoth
+257 - vassal: d_ehaniel - Holder 1004825 - Primary title: d_ehaniel has lost the title: c_rarente
+257 - sub vassal: d_ehaniel - Holder 1004825 - Primary title: d_ehaniel has lost the title: c_rarente
+257 - vassal: d_ehaniel - Gained vassal: c_rarente
+257 - sub vassal: d_ehaniel - Gained vassal: c_rarente
+257 - vassal: d_wasin - Holder 1004134 - Primary title: d_wasin has lost the title: d_wasin
+257 - sub vassal: d_wasin - Holder 1004134 - Primary title: d_wasin has lost the title: d_wasin
+257 - vassal: d_wasin - Title given to 1004134 - Primary title: d_ehaniel
+257 - sub vassal: d_wasin - Title given to 1004134 - Primary title: d_ehaniel
+257 - vassal: d_ehaniel - Holder (1004134) has gained d_wasin
+257 - sub vassal: d_ehaniel - Holder (1004134) has gained d_wasin
+257 - sub vassal: c_tanibril - Holder 1004134 - Primary title: c_tanibril has lost the title: c_tanibril
+257 - sub vassal: c_tanibril - Title given to 1004134 - Primary title: d_ehaniel
+257 - vassal: d_ehaniel - Holder (1004134) has gained c_tanibril
+257 - sub vassal: d_ehaniel - Holder (1004134) has gained c_tanibril
+257 - sub vassal: c_kikati - Holder 1004134 - Primary title: c_kikati has lost the title: c_kikati
+257 - sub vassal: c_kikati - Title given to 1004134 - Primary title: d_ehaniel
+257 - vassal: d_ehaniel - Holder (1004134) has gained c_kikati
+257 - sub vassal: d_ehaniel - Holder (1004134) has gained c_kikati
+258 - vassal: d_wasin - Holder 1004873 - Primary title: d_wasin has lost the title: c_tasiel
+258 - sub vassal: d_wasin - Holder 1004873 - Primary title: d_wasin has lost the title: c_tasiel
+258 - vassal: d_wasin - Gained vassal: c_tasiel
+258 - sub vassal: d_wasin - Gained vassal: c_tasiel
+258 - vassal: d_wasin - Holder 1004874 - Primary title: d_wasin has lost the title: c_anikoth
+258 - sub vassal: d_wasin - Holder 1004874 - Primary title: d_wasin has lost the title: c_anikoth
+258 - sub vassal: c_anikoth - Title given to 1004874
+262 - Holder 1003773 - Primary title: k_kente has lost the title: k_kente
+262 - Title given to 1003773
+262 - vassal: d_tagalka - Holder 1003773 - Primary title: d_tagalka has lost the title: d_tagalka
+262 - sub vassal: d_tagalka - Holder 1003773 - Primary title: d_tagalka has lost the title: d_tagalka
+262 - vassal: d_tagalka - Title given to 1003773 - Primary title: k_kente
+262 - sub vassal: d_tagalka - Title given to 1003773 - Primary title: k_kente
+262 - Holder (1003773) has gained d_tagalka
+262 - sub vassal: c_babdul - Holder 1003773 - Primary title: c_babdul has lost the title: c_babdul
+262 - sub vassal: c_babdul - Title given to 1003773 - Primary title: k_kente
+262 - Holder (1003773) has gained c_babdul
+262 - sub vassal: c_sadya - Holder 1003773 - Primary title: c_sadya has lost the title: c_sadya
+262 - sub vassal: c_sadya - Title given to 1003773 - Primary title: k_kente
+262 - Holder (1003773) has gained c_sadya
+262 - sub vassal: c_eshnan - Holder 1003773 - Primary title: c_eshnan has lost the title: c_eshnan
+262 - sub vassal: c_eshnan - Title given to 1003773 - Primary title: k_kente
+262 - Holder (1003773) has gained c_eshnan
+262 - sub vassal: c_kikya - Holder 1003773 - Primary title: c_kikya has lost the title: c_kikya
+262 - sub vassal: c_kikya - Title given to 1003773 - Primary title: k_kente
+262 - Holder (1003773) has gained c_kikya
+262 - sub vassal: c_damiel - Holder 1003773 - Primary title: c_damiel has lost the title: c_damiel
+262 - sub vassal: c_damiel - Title given to 1003773 - Primary title: k_kente
+262 - Holder (1003773) has gained c_damiel

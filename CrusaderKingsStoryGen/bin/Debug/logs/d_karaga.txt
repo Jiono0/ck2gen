@@ -1,0 +1,58 @@
+200 - Title given to 1000805
+200 - vassal: c_sinoman - Holder 1000805 - Primary title: c_sinoman has lost the title: c_sinoman
+200 - sub vassal: c_sinoman - Holder 1000805 - Primary title: c_sinoman has lost the title: c_sinoman
+200 - vassal: c_sinoman - Title given to 1000805 - Primary title: d_karaga
+200 - sub vassal: c_sinoman - Title given to 1000805 - Primary title: d_karaga
+200 - Holder (1000805) has gained c_sinoman
+200 - vassal: c_dutoman - Holder 1000805 - Primary title: c_dutoman has lost the title: c_dutoman
+200 - sub vassal: c_dutoman - Holder 1000805 - Primary title: c_dutoman has lost the title: c_dutoman
+200 - vassal: c_dutoman - Title given to 1000805 - Primary title: d_karaga
+200 - sub vassal: c_dutoman - Title given to 1000805 - Primary title: d_karaga
+200 - Holder (1000805) has gained c_dutoman
+200 - vassal: c_leraky - Holder 1000805 - Primary title: c_leraky has lost the title: c_leraky
+200 - sub vassal: c_leraky - Holder 1000805 - Primary title: c_leraky has lost the title: c_leraky
+200 - vassal: c_leraky - Title given to 1000805 - Primary title: d_karaga
+200 - sub vassal: c_leraky - Title given to 1000805 - Primary title: d_karaga
+200 - Holder (1000805) has gained c_leraky
+227 - Holder 1001684 - Primary title: d_karaga has lost the title: d_karaga
+227 - Title given to 1001684
+227 - vassal: c_sinoman - Holder 1001684 - Primary title: c_sinoman has lost the title: c_sinoman
+227 - vassal: c_sinoman - Title given to 1001684 - Primary title: d_karaga
+227 - Holder (1001684) has gained c_sinoman
+227 - vassal: c_dutoman - Holder 1001684 - Primary title: c_dutoman has lost the title: c_dutoman
+227 - vassal: c_dutoman - Title given to 1001684 - Primary title: d_karaga
+227 - Holder (1001684) has gained c_dutoman
+227 - vassal: c_leraky - Holder 1001684 - Primary title: c_leraky has lost the title: c_leraky
+227 - vassal: c_leraky - Title given to 1001684 - Primary title: d_karaga
+227 - Holder (1001684) has gained c_leraky
+230 - Holder 1000796 - Primary title: d_karaga has lost the title: d_karaga
+230 - Title given to 1000796 - Primary title: k_bonude
+230 - vassal: c_sinoman - Holder 1000796 - Primary title: c_sinoman has lost the title: c_sinoman
+230 - vassal: c_sinoman - Title given to 1000796 - Primary title: k_bonude
+230 - vassal: c_dutoman - Holder 1000796 - Primary title: c_dutoman has lost the title: c_dutoman
+230 - vassal: c_dutoman - Title given to 1000796 - Primary title: k_bonude
+230 - vassal: c_leraky - Holder 1000796 - Primary title: c_leraky has lost the title: c_leraky
+230 - vassal: c_leraky - Title given to 1000796 - Primary title: k_bonude
+230 - vassal: c_leraky - Title given to 1003347
+230 - vassal: c_dutoman - Title given to 1003348
+240 - Holder 1001519 - Primary title: d_karaga has lost the title: d_karaga
+240 - Title given to 1001519 - Primary title: k_bonude
+240 - vassal: c_sinoman - Setting to vassal of d_kasile in Validate Realm
+240 - Lost vassal: c_sinoman
+257 - Holder 1004337 - Primary title: d_karaga has lost the title: d_karaga
+257 - Title given to 1004337 - Primary title: k_bonude
+322 - Holder 1005508 - Primary title: d_karaga has lost the title: d_karaga
+322 - Title given to 1005508 - Primary title: k_bonude
+324 - Holder 1005667 - Primary title: d_karaga has lost the title: d_karaga
+324 - Title given to 1005667 - Primary title: k_bonude
+325 - vassal: c_leraky - Holder 1005667 - Primary title: c_leraky has lost the title: c_leraky
+325 - vassal: c_leraky - Title given to 1005667 - Primary title: k_bonude
+325 - vassal: c_leraky - Given to 1008360 in HandleTitles - Too many duke titles
+325 - vassal: c_leraky - Title given to 1008360
+325 - Title given to 1008360 - Primary title: c_leraky
+325 - vassal: c_leraky - Holder (1008360) has gained d_karaga
+325 - Too many dukes, given to dejure: k_bonude
+340 - Holder 1006719 - Primary title: d_karaga has lost the title: d_karaga
+340 - Title given to 1006719 - Primary title: d_kotahad
+340 - vassal: c_leraky - Holder 1006719 - Primary title: c_leraky has lost the title: c_leraky
+340 - vassal: 

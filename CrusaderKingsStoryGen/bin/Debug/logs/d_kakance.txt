@@ -1,0 +1,65 @@
+200 - Title given to 1000647
+200 - vassal: c_remance - Given to 1000650 via AddCharacterForTitle
+200 - sub vassal: c_remance - Given to 1000650 via AddCharacterForTitle
+200 - vassal: c_remance - Holder 1000650 - Primary title: c_remance has lost the title: c_remance
+200 - sub vassal: c_remance - Holder 1000650 - Primary title: c_remance has lost the title: c_remance
+200 - vassal: c_remance - Title given to 1000650
+200 - sub vassal: c_remance - Title given to 1000650
+200 - vassal: c_aega - Given to 1000652 via AddCharacterForTitle
+200 - sub vassal: c_aega - Given to 1000652 via AddCharacterForTitle
+200 - vassal: c_aega - Holder 1000652 - Primary title: c_aega has lost the title: c_aega
+200 - sub vassal: c_aega - Holder 1000652 - Primary title: c_aega has lost the title: c_aega
+200 - vassal: c_aega - Title given to 1000652
+200 - sub vassal: c_aega - Title given to 1000652
+200 - vassal: c_dayaew - Holder 1000642 - Primary title: c_dayaew has lost the title: c_natent
+200 - sub vassal: c_dayaew - Holder 1000642 - Primary title: c_dayaew has lost the title: c_natent
+200 - sub vassal: c_natent - Title given to 1000642 - Primary title: d_rairis
+200 - vassal: c_beylas - Holder 1000647 - Primary title: c_beylas has lost the title: c_beylas
+200 - sub vassal: c_beylas - Holder 1000647 - Primary title: c_beylas has lost the title: c_beylas
+200 - vassal: c_beylas - Title given to 1000647 - Primary title: d_kakance
+200 - sub vassal: c_beylas - Title given to 1000647 - Primary title: d_kakance
+200 - Holder (1000647) has gained c_beylas
+200 - vassal: c_remance - Holder 1000647 - Primary title: c_remance has lost the title: c_remance
+200 - sub vassal: c_remance - Holder 1000647 - Primary title: c_remance has lost the title: c_remance
+200 - vassal: c_remance - Title given to 1000647 - Primary title: d_kakance
+200 - sub vassal: c_remance - Title given to 1000647 - Primary title: d_kakance
+200 - Holder (1000647) has gained c_remance
+200 - vassal: c_aega - Holder 1000647 - Primary title: c_aega has lost the title: c_aega
+200 - sub vassal: c_aega - Holder 1000647 - Primary title: c_aega has lost the title: c_aega
+200 - vassal: c_aega - Title given to 1000647 - Primary title: d_kakance
+200 - sub vassal: c_aega - Title given to 1000647 - Primary title: d_kakance
+200 - Holder (1000647) has gained c_aega
+200 - vassal: c_dayaew - Holder 1000647 - Primary title: c_dayaew has lost the title: c_dayaew
+200 - sub vassal: c_dayaew - Holder 1000647 - Primary title: c_dayaew has lost the title: c_dayaew
+200 - vassal: c_dayaew - Title given to 1000647 - Primary title: d_kakance
+200 - sub vassal: c_dayaew - Title given to 1000647 - Primary title: d_kakance
+200 - Holder (1000647) has gained c_dayaew
+200 - vassal: c_ebega - Title given to 1000647 - Primary title: d_kakance
+200 - Holder (1000647) has gained c_ebega
+232 - Holder (1000647) has gained k_egaloza
+233 - vassal: c_beylas - Title given to 1003601
+233 - vassal: c_remance - Title given to 1003602
+233 - vassal: c_aega - Title given to 1003603
+233 - vassal: c_ebega - Title given to 1003604
+247 - Holder 1001528 - Primary title: d_kakance has lost the title: d_kakance
+247 - Title given to 1001528 - Primary title: k_egaloza
+247 - vassal: c_dayaew - Setting to vassal of d_tibael in Validate Realm
+247 - Lost vassal: c_dayaew
+259 - Holder 1004898 - Primary title: d_kakance has lost the title: d_kakance
+259 - Title given to 1004898 - Primary title: k_egaloza
+282 - Holder 1006026 - Primary title: d_kakance has lost the title: d_kakance
+282 - Title given to 1006026 - Primary title: k_egaloza
+293 - Holder 1005878 - Primary title: d_kakance has lost the title: d_kakance
+293 - Title given to 1005878 - Primary title: k_egaloza
+311 - Holder 1007114 - Primary title: d_kakance has lost the title: d_kakance
+311 - Title given to 1007114 - Primary title: k_egaloza
+353 - Holder 1008678 - Primary title: d_kakance has lost the title: d_kakance
+353 - Title given to 1008678 - Primary title: k_egaloza
+371 - Holder 1011100 - Primary title: d_kakance has lost the title: d_kakance
+371 - Title given to 1011100 - Primary title: k_egaloza
+380 - vassal: c_remance - Given to 1011795 in HandleTitles - Too many duke titles
+380 - vassal: c_remance - Holder 1011795 - Primary title: c_remance has lost the title: c_remance
+380 - vassal: c_remance - Title given to 1011795
+380 - Title given to 1011795 - Primary title: c_remance
+380 - vassal: c_remance - Holder (1011795) has gained d_kakance
+380 - Too many dukes, given to dejure: k_egaloza

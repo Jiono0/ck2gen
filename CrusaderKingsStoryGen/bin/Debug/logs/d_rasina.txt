@@ -1,0 +1,68 @@
+200 - Title given to 1000754
+200 - vassal: c_bicuqi - Holder 1000754 - Primary title: c_bicuqi has lost the title: c_bicuqi
+200 - sub vassal: c_bicuqi - Holder 1000754 - Primary title: c_bicuqi has lost the title: c_bicuqi
+200 - vassal: c_bicuqi - Title given to 1000754 - Primary title: d_rasina
+200 - sub vassal: c_bicuqi - Title given to 1000754 - Primary title: d_rasina
+200 - Holder (1000754) has gained c_bicuqi
+200 - vassal: c_kedith - Holder 1000754 - Primary title: c_kedith has lost the title: c_kedith
+200 - sub vassal: c_kedith - Holder 1000754 - Primary title: c_kedith has lost the title: c_kedith
+200 - vassal: c_kedith - Title given to 1000754 - Primary title: d_rasina
+200 - sub vassal: c_kedith - Title given to 1000754 - Primary title: d_rasina
+200 - Holder (1000754) has gained c_kedith
+200 - vassal: c_amatand - Holder 1000754 - Primary title: c_amatand has lost the title: c_amatand
+200 - sub vassal: c_amatand - Holder 1000754 - Primary title: c_amatand has lost the title: c_amatand
+200 - vassal: c_amatand - Title given to 1000754 - Primary title: d_rasina
+200 - sub vassal: c_amatand - Title given to 1000754 - Primary title: d_rasina
+200 - Holder (1000754) has gained c_amatand
+242 - Holder 1002308 - Primary title: d_rasina has lost the title: d_rasina
+242 - Title given to 1002308
+242 - vassal: c_amatand - Holder 1002308 - Primary title: c_amatand has lost the title: c_amatand
+242 - vassal: c_amatand - Title given to 1002308 - Primary title: d_rasina
+242 - Holder (1002308) has gained c_amatand
+242 - vassal: c_kedith - Holder 1002308 - Primary title: c_kedith has lost the title: c_kedith
+242 - vassal: c_kedith - Title given to 1002308 - Primary title: d_rasina
+242 - Holder (1002308) has gained c_kedith
+242 - vassal: c_bicuqi - Holder 1002308 - Primary title: c_bicuqi has lost the title: c_bicuqi
+242 - vassal: c_bicuqi - Title given to 1002308 - Primary title: d_rasina
+242 - Holder (1002308) has gained c_bicuqi
+271 - Holder 1004315 - Primary title: d_rasina has lost the title: d_rasina
+271 - Title given to 1004315
+271 - vassal: c_bicuqi - Holder 1004315 - Primary title: c_bicuqi has lost the title: c_bicuqi
+271 - vassal: c_bicuqi - Title given to 1004315 - Primary title: d_rasina
+271 - Holder (1004315) has gained c_bicuqi
+271 - vassal: c_kedith - Holder 1004315 - Primary title: c_kedith has lost the title: c_kedith
+271 - vassal: c_kedith - Title given to 1004315 - Primary title: d_rasina
+271 - Holder (1004315) has gained c_kedith
+271 - vassal: c_amatand - Holder 1004315 - Primary title: c_amatand has lost the title: c_amatand
+271 - vassal: c_amatand - Title given to 1004315 - Primary title: d_rasina
+271 - Holder (1004315) has gained c_amatand
+277 - Holder 1006178 - Primary title: d_rasina has lost the title: d_rasina
+277 - Title given to 1006178
+277 - vassal: c_bicuqi - Holder 1006178 - Primary title: c_bicuqi has lost the title: c_bicuqi
+277 - vassal: c_bicuqi - Title given to 1006178 - Primary title: d_rasina
+277 - Holder (1006178) has gained c_bicuqi
+277 - vassal: c_kedith - Holder 1006178 - Primary title: c_kedith has lost the title: c_kedith
+277 - vassal: c_kedith - Title given to 1006178 - Primary title: d_rasina
+277 - Holder (1006178) has gained c_kedith
+277 - vassal: c_amatand - Holder 1006178 - Primary title: c_amatand has lost the title: c_amatand
+277 - vassal: c_amatand - Title given to 1006178 - Primary title: d_rasina
+277 - Holder (1006178) has gained c_amatand
+284 - Holder 1005209 - Primary title: d_rasina has lost the title: d_rasina
+284 - Title given to 1005209 - Primary title: k_ketimon
+284 - vassal: c_amatand - Holder 1005209 - Primary title: c_amatand has lost the title: c_amatand
+284 - vassal: c_amatand - Title given to 1005209 - Primary title: k_ketimon
+284 - vassal: c_kedith - Holder 1005209 - Primary title: c_kedith has lost the title: c_kedith
+284 - vassal: c_kedith - Title given to 1005209 - Primary title: k_ketimon
+284 - vassal: c_bicuqi - Holder 1005209 - Primary title: c_bicuqi has lost the title: c_bicuqi
+284 - vassal: c_bicuqi - Title given to 1005209 - Primary title: k_ketimon
+302 - Holder 1006352 - Primary title: d_rasina has lost the title: d_rasina
+302 - Title given to 1006352 - Primary title: k_ketimon
+302 - vassal: c_bicuqi - Setting to vassal of d_tudatha in Validate Realm
+302 - Lost vassal: c_bicuqi
+302 - vassal: c_kedith - Setting to vassal of d_tudatha in Validate Realm
+302 - Lost vassal: c_kedith
+302 - vassal: c_amatand - Setting to vassal of d_tudatha in Validate Realm
+302 - Lost vassal: c_amatand
+303 - Destroyed due to flagged problem
+303 - Made independent
+303 - Title destroyed

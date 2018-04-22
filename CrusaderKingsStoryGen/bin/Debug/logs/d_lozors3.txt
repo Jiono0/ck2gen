@@ -1,0 +1,90 @@
+200 - Title given to 1000746
+200 - vassal: c_nugeva - Given to 1000750 via AddCharacterForTitle
+200 - sub vassal: c_nugeva - Given to 1000750 via AddCharacterForTitle
+200 - vassal: c_nugeva - Holder 1000750 - Primary title: c_nugeva has lost the title: c_nugeva
+200 - sub vassal: c_nugeva - Holder 1000750 - Primary title: c_nugeva has lost the title: c_nugeva
+200 - vassal: c_nugeva - Title given to 1000750
+200 - sub vassal: c_nugeva - Title given to 1000750
+200 - vassal: c_tugabha - Holder 1000746 - Primary title: c_tugabha has lost the title: c_tugabha
+200 - sub vassal: c_tugabha - Holder 1000746 - Primary title: c_tugabha has lost the title: c_tugabha
+200 - vassal: c_tugabha - Title given to 1000746 - Primary title: d_lozors
+200 - sub vassal: c_tugabha - Title given to 1000746 - Primary title: d_lozors
+200 - Holder (1000746) has gained c_tugabha
+200 - vassal: c_kuvdi - Holder 1000746 - Primary title: c_kuvdi has lost the title: c_kuvdi
+200 - sub vassal: c_kuvdi - Holder 1000746 - Primary title: c_kuvdi has lost the title: c_kuvdi
+200 - vassal: c_kuvdi - Title given to 1000746 - Primary title: d_lozors
+200 - sub vassal: c_kuvdi - Title given to 1000746 - Primary title: d_lozors
+200 - Holder (1000746) has gained c_kuvdi
+200 - vassal: c_nugeva - Holder 1000746 - Primary title: c_nugeva has lost the title: c_nugeva
+200 - sub vassal: c_nugeva - Holder 1000746 - Primary title: c_nugeva has lost the title: c_nugeva
+200 - vassal: c_nugeva - Title given to 1000746 - Primary title: d_lozors
+200 - sub vassal: c_nugeva - Title given to 1000746 - Primary title: d_lozors
+200 - Holder (1000746) has gained c_nugeva
+215 - Holder (1000746) has gained d_enyuk
+215 - Holder (1000746) has gained c_akweva
+215 - Holder (1000746) has gained c_ledogli
+215 - Holder (1000746) has gained c_kagabha
+216 - vassal: c_kuvdi - Title given to 1002487
+229 - Gained vassal: c_akweva
+229 - Gained vassal: c_ledogli
+229 - Gained vassal: c_kagabha
+229 - Holder 1001971 - Primary title: d_lozors has lost the title: d_lozors
+229 - Title given to 1001971 - Primary title: d_enyuk
+229 - vassal: c_kagabha - Holder 1001971 - Primary title: c_kagabha has lost the title: c_kagabha
+229 - vassal: c_kagabha - Title given to 1001971 - Primary title: d_enyuk
+229 - vassal: c_ledogli - Holder 1001971 - Primary title: c_ledogli has lost the title: c_ledogli
+229 - vassal: c_ledogli - Title given to 1001971 - Primary title: d_enyuk
+229 - vassal: c_akweva - Holder 1001971 - Primary title: c_akweva has lost the title: c_akweva
+229 - vassal: c_akweva - Title given to 1001971 - Primary title: d_enyuk
+229 - vassal: c_tugabha - Holder 1001971 - Primary title: c_tugabha has lost the title: c_tugabha
+229 - vassal: c_tugabha - Title given to 1001971 - Primary title: d_enyuk
+229 - vassal: c_nugeva - Holder 1001971 - Primary title: c_nugeva has lost the title: c_nugeva
+229 - vassal: c_nugeva - Title given to 1001971 - Primary title: d_enyuk
+238 - Holder (1001971) has gained k_rouen
+239 - vassal: c_kagabha - Title given to 1003826
+264 - vassal: c_ledogli - Title given to 1005209
+264 - vassal: c_nugeva - Title given to 1005211
+265 - Holder 1003386 - Primary title: d_lozors has lost the title: d_lozors
+265 - Title given to 1003386 - Primary title: k_rouen
+265 - vassal: c_akweva - Setting to vassal of d_tedavin in Validate Realm
+265 - Lost vassal: c_akweva
+265 - vassal: c_tugabha - Setting to vassal of d_tedavin in Validate Realm
+265 - Lost vassal: c_tugabha
+304 - Holder 1005826 - Primary title: d_lozors has lost the title: d_lozors
+304 - Title given to 1005826 - Primary title: k_rouen
+316 - Holder 1007690 - Primary title: d_lozors has lost the title: d_lozors
+316 - Title given to 1007690 - Primary title: k_rouen
+341 - Holder 1008563 - Primary title: d_lozors has lost the title: d_lozors
+341 - Title given to 1008563 - Primary title: k_rouen
+344 - Gained vassal: c_ruryal
+344 - Gained vassal: c_tugabha
+344 - Gained vassal: c_akweva
+344 - Holder 1006866 - Primary title: d_lozors has lost the title: d_lozors
+344 - Title given to 1006866 - Primary title: k_rouen
+344 - vassal: c_akweva - Setting to vassal of d_tedavin in Validate Realm
+344 - Lost vassal: c_akweva
+344 - vassal: c_tugabha - Setting to vassal of d_tedavin in Validate Realm
+344 - Lost vassal: c_tugabha
+344 - vassal: c_ruryal - Setting to vassal of d_tedavin in Validate Realm
+344 - Lost vassal: c_ruryal
+359 - Holder 1008341 - Primary title: d_lozors has lost the title: c_kenohn
+359 - Gained vassal: c_ruryal
+359 - Gained vassal: c_tugabha
+359 - Gained vassal: c_kedogli
+359 - Gained vassal: c_qahogli
+359 - Holder 1008341 - Primary title: d_lozors has lost the title: c_qahogli
+359 - vassal: c_qahogli - Title given to 1008341 - Primary title: k_rouen
+359 - vassal: c_qahogli - Setting to vassal of k_rouen in Validate Realm
+359 - Lost vassal: c_qahogli
+359 - Holder 1008341 - Primary title: d_lozors has lost the title: c_kedogli
+359 - vassal: c_kedogli - Title given to 1008341 - Primary title: k_rouen
+359 - vassal: c_kedogli - Setting to vassal of k_rouen in Validate Realm
+359 - Lost vassal: c_kedogli
+359 - Holder 1008341 - Primary title: d_lozors has lost the title: d_lozors
+359 - Title given to 1008341 - Primary title: k_rouen
+359 - vassal: c_tugabha - Setting to vassal of d_tedavin in Validate Realm
+359 - Lost vassal: c_tugabha
+359 - vassal: c_ruryal - Setting to vassal of d_tedavin in Validate Realm
+359 - Lost vassal: c_ruryal
+387 - Holder 1011069 - Primary title: d_lozors has lost the title: d_lozors
+387 - Title given to 1011069 - Primary title: k_rouen

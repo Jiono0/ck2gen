@@ -1,0 +1,147 @@
+200 - Title given to 1001010
+200 - vassal: c_darhun - Holder 1001010 - Primary title: c_darhun has lost the title: c_darhun
+200 - sub vassal: c_darhun - Holder 1001010 - Primary title: c_darhun has lost the title: c_darhun
+200 - vassal: c_darhun - Title given to 1001010 - Primary title: d_rarhun
+200 - sub vassal: c_darhun - Title given to 1001010 - Primary title: d_rarhun
+200 - Holder (1001010) has gained c_darhun
+200 - vassal: c_suisya - Holder 1001010 - Primary title: c_suisya has lost the title: c_suisya
+200 - sub vassal: c_suisya - Holder 1001010 - Primary title: c_suisya has lost the title: c_suisya
+200 - vassal: c_suisya - Title given to 1001010 - Primary title: d_rarhun
+200 - sub vassal: c_suisya - Title given to 1001010 - Primary title: d_rarhun
+200 - Holder (1001010) has gained c_suisya
+200 - vassal: c_baymar - Holder 1001010 - Primary title: c_baymar has lost the title: c_baymar
+200 - sub vassal: c_baymar - Holder 1001010 - Primary title: c_baymar has lost the title: c_baymar
+200 - vassal: c_baymar - Title given to 1001010 - Primary title: d_rarhun
+200 - sub vassal: c_baymar - Title given to 1001010 - Primary title: d_rarhun
+200 - Holder (1001010) has gained c_baymar
+200 - Holder 1001045 - Primary title: d_rarhun has lost the title: d_rarhun
+200 - Title given to 1001045 - Primary title: k_nanava
+200 - vassal: c_darhun - Holder 1001045 - Primary title: c_darhun has lost the title: c_darhun
+200 - vassal: c_darhun - Title given to 1001045 - Primary title: k_nanava
+200 - vassal: c_suisya - Given to 1001396 in HandleTitles - Too many duke titles
+200 - vassal: c_suisya - Holder 1001396 - Primary title: c_suisya has lost the title: c_suisya
+200 - vassal: c_suisya - Title given to 1001396
+200 - Title given to 1001396 - Primary title: c_suisya
+200 - vassal: c_suisya - Holder (1001396) has gained d_rarhun
+200 - vassal: c_darhun - Setting to vassal of k_nanava in Validate Realm
+200 - Lost vassal: c_darhun
+200 - Too many dukes, given to dejure: k_nanava
+200 - Made independent due to being a seperate island
+200 - Made independent
+211 - Holder 1001737 - Primary title: d_rarhun has lost the title: d_rarhun
+211 - Title given to 1001737
+211 - vassal: c_suisya - Holder 1001737 - Primary title: c_suisya has lost the title: c_suisya
+211 - sub vassal: c_suisya - Holder 1001737 - Primary title: c_suisya has lost the title: c_suisya
+211 - vassal: c_suisya - Title given to 1001737 - Primary title: d_rarhun
+211 - sub vassal: c_suisya - Title given to 1001737 - Primary title: d_rarhun
+211 - Holder (1001737) has gained c_suisya
+213 - Holder 1002427 - Primary title: d_rarhun has lost the title: d_rarhun
+213 - Title given to 1002427
+213 - vassal: c_suisya - Holder 1002427 - Primary title: c_suisya has lost the title: c_suisya
+213 - sub vassal: c_suisya - Holder 1002427 - Primary title: c_suisya has lost the title: c_suisya
+213 - vassal: c_suisya - Title given to 1002427 - Primary title: d_rarhun
+213 - sub vassal: c_suisya - Title given to 1002427 - Primary title: d_rarhun
+213 - Holder (1002427) has gained c_suisya
+229 - Holder (1002427) has gained k_nanava
+229 - vassal: c_suisya - Given to 1003354 in HandleTitles - Too many duke titles
+229 - vassal: c_suisya - Title given to 1003354
+229 - Title given to 1003354 - Primary title: c_suisya
+229 - vassal: c_suisya - Holder (1003354) has gained d_rarhun
+229 - Too many dukes, given to dejure: k_nanava
+229 - Made independent due to being a seperate island
+229 - Made independent
+252 - Holder 1003493 - Primary title: d_rarhun has lost the title: d_rarhun
+252 - Title given to 1003493
+252 - vassal: c_suisya - Holder 1003493 - Primary title: c_suisya has lost the title: c_suisya
+252 - sub vassal: c_suisya - Holder 1003493 - Primary title: c_suisya has lost the title: c_suisya
+252 - vassal: c_suisya - Title given to 1003493 - Primary title: d_rarhun
+252 - sub vassal: c_suisya - Title given to 1003493 - Primary title: d_rarhun
+252 - Holder (1003493) has gained c_suisya
+261 - Gained vassal: c_darhun
+261 - vassal: c_darhun - Given to neighbour holder of d_rarhun
+261 - sub vassal: c_darhun - Given to neighbour holder of d_rarhun
+261 - vassal: c_darhun - Holder 1003493 - Primary title: c_darhun has lost the title: c_darhun
+261 - sub vassal: c_darhun - Holder 1003493 - Primary title: c_darhun has lost the title: c_darhun
+261 - vassal: c_darhun - Title given to 1003493 - Primary title: d_rarhun
+261 - sub vassal: c_darhun - Title given to 1003493 - Primary title: d_rarhun
+261 - Holder (1003493) has gained c_darhun
+262 - Holder 1004955 - Primary title: d_rarhun has lost the title: d_rarhun
+262 - Title given to 1004955
+262 - vassal: c_suisya - Holder 1004955 - Primary title: c_suisya has lost the title: c_suisya
+262 - sub vassal: c_suisya - Holder 1004955 - Primary title: c_suisya has lost the title: c_suisya
+262 - vassal: c_suisya - Title given to 1004955 - Primary title: d_rarhun
+262 - sub vassal: c_suisya - Title given to 1004955 - Primary title: d_rarhun
+262 - Holder (1004955) has gained c_suisya
+262 - vassal: c_darhun - Holder 1004955 - Primary title: c_darhun has lost the title: c_darhun
+262 - sub vassal: c_darhun - Holder 1004955 - Primary title: c_darhun has lost the title: c_darhun
+262 - vassal: c_darhun - Title given to 1004955 - Primary title: d_rarhun
+262 - sub vassal: c_darhun - Title given to 1004955 - Primary title: d_rarhun
+262 - Holder (1004955) has gained c_darhun
+268 - Holder 1005771 - Primary title: d_rarhun has lost the title: d_rarhun
+268 - Title given to 1005771
+268 - vassal: c_suisya - Holder 1005771 - Primary title: c_suisya has lost the title: c_suisya
+268 - sub vassal: c_suisya - Holder 1005771 - Primary title: c_suisya has lost the title: c_suisya
+268 - vassal: c_suisya - Title given to 1005771 - Primary title: d_rarhun
+268 - sub vassal: c_suisya - Title given to 1005771 - Primary title: d_rarhun
+268 - Holder (1005771) has gained c_suisya
+268 - vassal: c_darhun - Holder 1005771 - Primary title: c_darhun has lost the title: c_darhun
+268 - sub vassal: c_darhun - Holder 1005771 - Primary title: c_darhun has lost the title: c_darhun
+268 - vassal: c_darhun - Title given to 1005771 - Primary title: d_rarhun
+268 - sub vassal: c_darhun - Title given to 1005771 - Primary title: d_rarhun
+268 - Holder (1005771) has gained c_darhun
+300 - vassal: c_baymar - Holder 1005771 - Primary title: c_baymar has lost the title: c_baymar
+300 - sub vassal: c_baymar - Holder 1005771 - Primary title: c_baymar has lost the title: c_baymar
+300 - vassal: c_baymar - Title given to 1005771 - Primary title: d_rarhun
+300 - sub vassal: c_baymar - Title given to 1005771 - Primary title: d_rarhun
+300 - Holder (1005771) has gained c_baymar
+314 - Holder 1006345 - Primary title: d_rarhun has lost the title: d_rarhun
+314 - Title given to 1006345
+314 - vassal: c_baymar - Holder 1006345 - Primary title: c_baymar has lost the title: c_baymar
+314 - sub vassal: c_baymar - Holder 1006345 - Primary title: c_baymar has lost the title: c_baymar
+314 - vassal: c_baymar - Title given to 1006345 - Primary title: d_rarhun
+314 - sub vassal: c_baymar - Title given to 1006345 - Primary title: d_rarhun
+314 - Holder (1006345) has gained c_baymar
+314 - vassal: c_suisya - Holder 1006345 - Primary title: c_suisya has lost the title: c_suisya
+314 - sub vassal: c_suisya - Holder 1006345 - Primary title: c_suisya has lost the title: c_suisya
+314 - vassal: c_suisya - Title given to 1006345 - Primary title: d_rarhun
+314 - sub vassal: c_suisya - Title given to 1006345 - Primary title: d_rarhun
+314 - Holder (1006345) has gained c_suisya
+314 - vassal: c_darhun - Holder 1006345 - Primary title: c_darhun has lost the title: c_darhun
+314 - sub vassal: c_darhun - Holder 1006345 - Primary title: c_darhun has lost the title: c_darhun
+314 - vassal: c_darhun - Title given to 1006345 - Primary title: d_rarhun
+314 - sub vassal: c_darhun - Title given to 1006345 - Primary title: d_rarhun
+314 - Holder (1006345) has gained c_darhun
+329 - Holder 1008577 - Primary title: d_rarhun has lost the title: d_rarhun
+329 - Title given to 1008577
+329 - vassal: c_darhun - Holder 1008577 - Primary title: c_darhun has lost the title: c_darhun
+329 - sub vassal: c_darhun - Holder 1008577 - Primary title: c_darhun has lost the title: c_darhun
+329 - vassal: c_darhun - Title given to 1008577 - Primary title: d_rarhun
+329 - sub vassal: c_darhun - Title given to 1008577 - Primary title: d_rarhun
+329 - Holder (1008577) has gained c_darhun
+329 - vassal: c_suisya - Holder 1008577 - Primary title: c_suisya has lost the title: c_suisya
+329 - sub vassal: c_suisya - Holder 1008577 - Primary title: c_suisya has lost the title: c_suisya
+329 - vassal: c_suisya - Title given to 1008577 - Primary title: d_rarhun
+329 - sub vassal: c_suisya - Title given to 1008577 - Primary title: d_rarhun
+329 - Holder (1008577) has gained c_suisya
+329 - vassal: c_baymar - Holder 1008577 - Primary title: c_baymar has lost the title: c_baymar
+329 - sub vassal: c_baymar - Holder 1008577 - Primary title: c_baymar has lost the title: c_baymar
+329 - vassal: c_baymar - Title given to 1008577 - Primary title: d_rarhun
+329 - sub vassal: c_baymar - Title given to 1008577 - Primary title: d_rarhun
+329 - Holder (1008577) has gained c_baymar
+378 - Holder 1011693 - Primary title: d_rarhun has lost the title: d_rarhun
+378 - Title given to 1011693
+378 - vassal: c_darhun - Holder 1011693 - Primary title: c_darhun has lost the title: c_darhun
+378 - sub vassal: c_darhun - Holder 1011693 - Primary title: c_darhun has lost the title: c_darhun
+378 - vassal: c_darhun - Title given to 1011693 - Primary title: d_rarhun
+378 - sub vassal: c_darhun - Title given to 1011693 - Primary title: d_rarhun
+378 - Holder (1011693) has gained c_darhun
+378 - vassal: c_suisya - Holder 1011693 - Primary title: c_suisya has lost the title: c_suisya
+378 - sub vassal: c_suisya - Holder 1011693 - Primary title: c_suisya has lost the title: c_suisya
+378 - vassal: c_suisya - Title given to 1011693 - Primary title: d_rarhun
+378 - sub vassal: c_suisya - Title given to 1011693 - Primary title: d_rarhun
+378 - Holder (1011693) has gained c_suisya
+378 - vassal: c_baymar - Holder 1011693 - Primary title: c_baymar has lost the title: c_baymar
+378 - sub vassal: c_baymar - Holder 1011693 - Primary title: c_baymar has lost the title: c_baymar
+378 - vassal: c_baymar - Title given to 1011693 - Primary title: d_rarhun
+378 - sub vassal: c_baymar - Title given to 1011693 - Primary title: d_rarhun
+378 - Holder (1011693) has gained c_baymar

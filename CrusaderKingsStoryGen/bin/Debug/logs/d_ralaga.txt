@@ -1,0 +1,58 @@
+200 - Title given to 1000690
+200 - vassal: c_rasul - Holder 1000654 - Primary title: c_rasul has lost the title: c_ribul
+200 - sub vassal: c_rasul - Holder 1000654 - Primary title: c_rasul has lost the title: c_ribul
+200 - sub vassal: c_ribul - Title given to 1000654 - Primary title: d_tiay
+200 - vassal: c_nulay - Holder 1000690 - Primary title: c_nulay has lost the title: c_nulay
+200 - sub vassal: c_nulay - Holder 1000690 - Primary title: c_nulay has lost the title: c_nulay
+200 - vassal: c_nulay - Title given to 1000690 - Primary title: d_ralaga
+200 - sub vassal: c_nulay - Title given to 1000690 - Primary title: d_ralaga
+200 - Holder (1000690) has gained c_nulay
+200 - vassal: c_linati - Holder 1000690 - Primary title: c_linati has lost the title: c_linati
+200 - sub vassal: c_linati - Holder 1000690 - Primary title: c_linati has lost the title: c_linati
+200 - vassal: c_linati - Title given to 1000690 - Primary title: d_ralaga
+200 - sub vassal: c_linati - Title given to 1000690 - Primary title: d_ralaga
+200 - Holder (1000690) has gained c_linati
+200 - vassal: c_rasul - Holder 1000690 - Primary title: c_rasul has lost the title: c_rasul
+200 - sub vassal: c_rasul - Holder 1000690 - Primary title: c_rasul has lost the title: c_rasul
+200 - vassal: c_rasul - Title given to 1000690 - Primary title: d_ralaga
+200 - sub vassal: c_rasul - Title given to 1000690 - Primary title: d_ralaga
+200 - Holder (1000690) has gained c_rasul
+238 - Holder 1001279 - Primary title: d_ralaga has lost the title: d_ralaga
+238 - Title given to 1001279
+238 - vassal: c_nulay - Holder 1001279 - Primary title: c_nulay has lost the title: c_nulay
+238 - vassal: c_nulay - Title given to 1001279 - Primary title: d_ralaga
+238 - Holder (1001279) has gained c_nulay
+238 - vassal: c_linati - Holder 1001279 - Primary title: c_linati has lost the title: c_linati
+238 - vassal: c_linati - Title given to 1001279 - Primary title: d_ralaga
+238 - Holder (1001279) has gained c_linati
+238 - vassal: c_rasul - Holder 1001279 - Primary title: c_rasul has lost the title: c_rasul
+238 - vassal: c_rasul - Title given to 1001279 - Primary title: d_ralaga
+238 - Holder (1001279) has gained c_rasul
+242 - Holder 1001828 - Primary title: d_ralaga has lost the title: d_ralaga
+242 - Title given to 1001828 - Primary title: d_kabiel
+242 - vassal: c_rasul - Holder 1001828 - Primary title: c_rasul has lost the title: c_rasul
+242 - vassal: c_rasul - Title given to 1001828 - Primary title: d_kabiel
+242 - vassal: c_linati - Holder 1001828 - Primary title: c_linati has lost the title: c_linati
+242 - vassal: c_linati - Title given to 1001828 - Primary title: d_kabiel
+242 - vassal: c_nulay - Holder 1001828 - Primary title: c_nulay has lost the title: c_nulay
+242 - vassal: c_nulay - Title given to 1001828 - Primary title: d_kabiel
+243 - Holder 1004033 - Primary title: d_ralaga has lost the title: c_ranibril
+243 - Holder 1004034 - Primary title: d_ralaga has lost the title: c_tanati
+248 - Holder (1001828) has gained c_rodati
+249 - vassal: c_rasul - Title given to 1004381
+249 - vassal: c_linati - Title given to 1004382
+249 - vassal: c_nulay - Title given to 1004383
+267 - Gained vassal: c_kibiel
+267 - Gained vassal: c_ehodazsi
+267 - Gained vassal: c_riniel
+267 - Gained vassal: c_lodente
+267 - Gained vassal: c_ekholtn
+267 - Holder 1003445 - Primary title: d_ralaga has lost the title: d_ralaga
+267 - Title given to 1003445 - Primary title: d_edanin
+267 - vassal: c_ekholtn - Holder 1003445 - Primary title: c_ekholtn has lost the title: c_ekholtn
+267 - vassal: c_ekholtn - Title given to 1003445 - Primary title: d_edanin
+267 - vassal: c_lodente - Holder 1003445 - Primary title: c_lodente has lost the title: c_lodente
+267 - vassal: c_lodente - Title given to 1003445 - Primary title: d_edanin
+267 - vassal: c_riniel - Holder 1003445 - Primary title: c_riniel has lost the title: c_riniel
+267 - vassal: c_riniel - Title given to 1003445 - Primary title: d_edanin
+267 - vassal: c_ehodazsi - Holder 1003445 - Primary title: c_ehodazsi has lost the title: c_ehodaz

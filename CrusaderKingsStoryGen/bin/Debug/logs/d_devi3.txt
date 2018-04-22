@@ -1,0 +1,101 @@
+200 - Title given to 1000484
+200 - vassal: c_ebabuchi - Given to 1000487 via AddCharacterForTitle
+200 - sub vassal: c_ebabuchi - Given to 1000487 via AddCharacterForTitle
+200 - vassal: c_ebabuchi - Holder 1000487 - Primary title: c_ebabuchi has lost the title: c_ebabuchi
+200 - sub vassal: c_ebabuchi - Holder 1000487 - Primary title: c_ebabuchi has lost the title: c_ebabuchi
+200 - vassal: c_ebabuchi - Title given to 1000487
+200 - sub vassal: c_ebabuchi - Title given to 1000487
+200 - vassal: c_emasoka - Holder 1000484 - Primary title: c_emasoka has lost the title: c_emasoka
+200 - sub vassal: c_emasoka - Holder 1000484 - Primary title: c_emasoka has lost the title: c_emasoka
+200 - vassal: c_emasoka - Title given to 1000484 - Primary title: d_devi
+200 - sub vassal: c_emasoka - Title given to 1000484 - Primary title: d_devi
+200 - Holder (1000484) has gained c_emasoka
+200 - vassal: c_ebabuchi - Holder 1000484 - Primary title: c_ebabuchi has lost the title: c_ebabuchi
+200 - sub vassal: c_ebabuchi - Holder 1000484 - Primary title: c_ebabuchi has lost the title: c_ebabuchi
+200 - vassal: c_ebabuchi - Title given to 1000484 - Primary title: d_devi
+200 - sub vassal: c_ebabuchi - Title given to 1000484 - Primary title: d_devi
+200 - Holder (1000484) has gained c_ebabuchi
+202 - Holder (1000484) has gained d_nipma
+202 - Holder (1000484) has gained c_badyal
+202 - Holder (1000484) has gained c_etans
+206 - Title given to 1000472 - Primary title: d_tadolf
+206 - vassal: c_ebabuchi - Setting to vassal of d_nipma in Validate Realm
+206 - Lost vassal: c_ebabuchi
+206 - vassal: c_emasoka - Setting to vassal of d_nipma in Validate Realm
+206 - Lost vassal: c_emasoka
+207 - Destroyed due to flagged problem
+207 - Made independent
+207 - Title destroyed
+227 - Given to 1000472 in TestCreateEmpire
+227 - Title given to 1000472 - Primary title: d_nipma
+227 - Made independent for title creation d_devi for d_nipma
+227 - Made independent
+227 - Gained vassal: c_etans
+227 - Gained vassal: c_badyal
+227 - Gained vassal: c_emasoka
+227 - Gained vassal: c_ebabuchi
+227 - Gained vassal: c_kuriana
+227 - vassal: c_etans - Given to 1003113 in HandleTitles - Too many duke titles
+227 - vassal: c_etans - Title given to 1003113
+234 - Holder 1003554 - Primary title: d_devi has lost the title: d_devi
+234 - Title given to 1003554 - Primary title: d_tadolf
+243 - vassal: c_badyal - Holder 1001229 - Primary title: c_badyal has lost the title: c_badyal
+243 - vassal: c_badyal - Title given to 1001229
+243 - vassal: c_emasoka - Holder 1001229 - Primary title: c_emasoka has lost the title: c_emasoka
+243 - vassal: c_emasoka - Title given to 1001229 - Primary title: c_badyal
+243 - vassal: c_badyal - Holder (1001229) has gained c_emasoka
+243 - vassal: c_ebabuchi - Holder 1001229 - Primary title: c_ebabuchi has lost the title: c_ebabuchi
+243 - vassal: c_ebabuchi - Title given to 1001229 - Primary title: c_badyal
+243 - vassal: c_badyal - Holder (1001229) has gained c_ebabuchi
+243 - vassal: c_kuriana - Holder 1001229 - Primary title: c_kuriana has lost the title: c_kuriana
+243 - vassal: c_kuriana - Title given to 1001229 - Primary title: c_badyal
+243 - vassal: c_badyal - Holder (1001229) has gained c_kuriana
+261 - Holder 1004076 - Primary title: d_devi has lost the title: d_devi
+261 - Title given to 1004076 - Primary title: d_tadolf
+263 - Holder 1005086 - Primary title: d_devi has lost the title: d_devi
+263 - Title given to 1005086 - Primary title: d_tadolf
+280 - sub vassal: d_tadolf - Setting independent in Validate Realm
+280 - sub vassal: d_tadolf - Made independent
+280 - sub vassal: d_namba - Setting independent in Validate Realm
+280 - sub vassal: d_namba - Made independent
+280 - sub vassal: c_keupamba - Holder 1005086 - Primary title: c_keupamba has lost the title: c_keupamba
+280 - sub vassal: c_keupamba - Title given to 1005086 - Primary title: d_devi
+280 - Holder (1005086) has gained c_keupamba
+280 - sub vassal: c_kulolf - Holder 1005086 - Primary title: c_kulolf has lost the title: c_kulolf
+280 - sub vassal: c_kulolf - Title given to 1005086 - Primary title: d_devi
+280 - Holder (1005086) has gained c_kulolf
+280 - sub vassal: c_ticuchi - Holder 1005086 - Primary title: c_ticuchi has lost the title: c_ticuchi
+280 - sub vassal: c_ticuchi - Title given to 1005086 - Primary title: d_devi
+280 - Holder (1005086) has gained c_ticuchi
+280 - sub vassal: c_tegyal - Holder 1005086 - Primary title: c_tegyal has lost the title: c_tegyal
+280 - sub vassal: c_tegyal - Title given to 1005086 - Primary title: d_devi
+280 - Holder (1005086) has gained c_tegyal
+289 - Title given to 1006490
+289 - Holder (1006490) has gained d_tadolf
+289 - Holder (1006490) has gained d_namba
+289 - sub vassal: c_keupamba - Holder 1006490 - Primary title: c_keupamba has lost the title: c_keupamba
+289 - sub vassal: c_keupamba - Title given to 1006490 - Primary title: d_devi
+289 - Holder (1006490) has gained c_keupamba
+289 - sub vassal: c_kulolf - Holder 1006490 - Primary title: c_kulolf has lost the title: c_kulolf
+289 - sub vassal: c_kulolf - Title given to 1006490 - Primary title: d_devi
+289 - Holder (1006490) has gained c_kulolf
+289 - sub vassal: c_ticuchi - Holder 1006490 - Primary title: c_ticuchi has lost the title: c_ticuchi
+289 - sub vassal: c_ticuchi - Title given to 1006490 - Primary title: d_devi
+289 - Holder (1006490) has gained c_ticuchi
+289 - sub vassal: c_tegyal - Holder 1006490 - Primary title: c_tegyal has lost the title: c_tegyal
+289 - sub vassal: c_tegyal - Title given to 1006490 - Primary title: d_devi
+289 - Holder (1006490) has gained c_tegyal
+326 - Holder 1006766 - Primary title: d_devi has lost the title: d_devi
+326 - Title given to 1006766 - Primary title: d_namba
+328 - Holder 1008505 - Primary title: d_devi has lost the title: d_devi
+328 - Title given to 1008505 - Primary title: d_namba
+365 - Holder 1006992 - Primary title: d_devi has lost the title: d_devi
+365 - Title given to 1006992 - Primary title: d_namba
+372 - Holder 1010672 - Primary title: d_devi has lost the title: d_devi
+372 - Title given to 1010672 - Primary title: d_namba
+376 - Holder 1010861 - Primary title: d_devi has lost the title: d_devi
+376 - Title given to 1010861 - Primary title: d_namba
+393 - Holder 1011106 - Primary title: d_devi has lost the title: d_devi
+393 - Title given to 1011106 - Primary title: d_namba
+395 - Holder 1011783 - Primary title: d_devi has lost the title: d_devi
+395 - Title given to 1011783 - Primary title: d_namba

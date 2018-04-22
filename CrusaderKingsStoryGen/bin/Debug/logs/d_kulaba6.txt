@@ -1,0 +1,48 @@
+200 - Title given to 1000726
+200 - vassal: c_ejohogli - Given to 1000729 via AddCharacterForTitle
+200 - sub vassal: c_ejohogli - Given to 1000729 via AddCharacterForTitle
+200 - vassal: c_ejohogli - Holder 1000729 - Primary title: c_ejohogli has lost the title: c_ejohogli
+200 - sub vassal: c_ejohogli - Holder 1000729 - Primary title: c_ejohogli has lost the title: c_ejohogli
+200 - vassal: c_ejohogli - Title given to 1000729
+200 - sub vassal: c_ejohogli - Title given to 1000729
+200 - vassal: c_narabha - Given to 1000731 via AddCharacterForTitle
+200 - sub vassal: c_narabha - Given to 1000731 via AddCharacterForTitle
+200 - vassal: c_narabha - Holder 1000731 - Primary title: c_narabha has lost the title: c_narabha
+200 - sub vassal: c_narabha - Holder 1000731 - Primary title: c_narabha has lost the title: c_narabha
+200 - vassal: c_narabha - Title given to 1000731
+200 - sub vassal: c_narabha - Title given to 1000731
+200 - vassal: c_ahjaba - Holder 1000726 - Primary title: c_ahjaba has lost the title: c_ahjaba
+200 - sub vassal: c_ahjaba - Holder 1000726 - Primary title: c_ahjaba has lost the title: c_ahjaba
+200 - vassal: c_ahjaba - Title given to 1000726 - Primary title: d_kulaba
+200 - sub vassal: c_ahjaba - Title given to 1000726 - Primary title: d_kulaba
+200 - Holder (1000726) has gained c_ahjaba
+200 - vassal: c_ejohogli - Holder 1000726 - Primary title: c_ejohogli has lost the title: c_ejohogli
+200 - sub vassal: c_ejohogli - Holder 1000726 - Primary title: c_ejohogli has lost the title: c_ejohogli
+200 - vassal: c_ejohogli - Title given to 1000726 - Primary title: d_kulaba
+200 - sub vassal: c_ejohogli - Title given to 1000726 - Primary title: d_kulaba
+200 - Holder (1000726) has gained c_ejohogli
+200 - vassal: c_narabha - Holder 1000726 - Primary title: c_narabha has lost the title: c_narabha
+200 - sub vassal: c_narabha - Holder 1000726 - Primary title: c_narabha has lost the title: c_narabha
+200 - vassal: c_narabha - Title given to 1000726 - Primary title: d_kulaba
+200 - sub vassal: c_narabha - Title given to 1000726 - Primary title: d_kulaba
+200 - Holder (1000726) has gained c_narabha
+200 - vassal: c_loheva - Title given to 1000726 - Primary title: d_kulaba
+200 - sub vassal: c_loheva - Title given to 1000726 - Primary title: d_kulaba
+200 - Holder (1000726) has gained c_loheva
+200 - Holder 1001043 - Primary title: d_kulaba has lost the title: c_loheva
+200 - vassal: c_loheva - Title given to 1001043 - Primary title: k_touln
+200 - vassal: c_loheva - Setting to vassal of k_touln in Validate Realm
+200 - Lost vassal: c_loheva
+212 - Holder (1000726) has gained k_touln
+239 - Captured byk_rouen in minor war
+255 - Holder 1002561 - Primary title: d_kulaba has lost the title: d_kulaba
+255 - Title given to 1002561 - Primary title: k_touln
+255 - vassal: c_narabha - Setting to vassal of d_rinanjay in Validate Realm
+255 - Lost vassal: c_narabha
+255 - vassal: c_ejohogli - Setting to vassal of d_rinanjay in Validate Realm
+255 - Lost vassal: c_ejohogli
+255 - vassal: c_ahjaba - Setting to vassal of d_rinanjay in Validate Realm
+255 - Lost vassal: c_ahjaba
+256 - Destroyed due to flagged problem
+256 - Made independent
+256 - Title destroyed

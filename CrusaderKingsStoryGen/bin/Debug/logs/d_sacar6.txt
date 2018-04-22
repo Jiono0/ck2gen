@@ -1,0 +1,76 @@
+200 - Title given to 1000761
+200 - vassal: c_tavosh - Given to 1000765 via AddCharacterForTitle
+200 - sub vassal: c_tavosh - Given to 1000765 via AddCharacterForTitle
+200 - vassal: c_tavosh - Holder 1000765 - Primary title: c_tavosh has lost the title: c_tavosh
+200 - sub vassal: c_tavosh - Holder 1000765 - Primary title: c_tavosh has lost the title: c_tavosh
+200 - vassal: c_tavosh - Title given to 1000765
+200 - sub vassal: c_tavosh - Title given to 1000765
+200 - vassal: c_rasator - Holder 1000761 - Primary title: c_rasator has lost the title: c_rasator
+200 - sub vassal: c_rasator - Holder 1000761 - Primary title: c_rasator has lost the title: c_rasator
+200 - vassal: c_rasator - Title given to 1000761 - Primary title: d_sacar
+200 - sub vassal: c_rasator - Title given to 1000761 - Primary title: d_sacar
+200 - Holder (1000761) has gained c_rasator
+200 - vassal: c_rorator - Holder 1000761 - Primary title: c_rorator has lost the title: c_rorator
+200 - sub vassal: c_rorator - Holder 1000761 - Primary title: c_rorator has lost the title: c_rorator
+200 - vassal: c_rorator - Title given to 1000761 - Primary title: d_sacar
+200 - sub vassal: c_rorator - Title given to 1000761 - Primary title: d_sacar
+200 - Holder (1000761) has gained c_rorator
+200 - vassal: c_tavosh - Holder 1000761 - Primary title: c_tavosh has lost the title: c_tavosh
+200 - sub vassal: c_tavosh - Holder 1000761 - Primary title: c_tavosh has lost the title: c_tavosh
+200 - vassal: c_tavosh - Title given to 1000761 - Primary title: d_sacar
+200 - sub vassal: c_tavosh - Title given to 1000761 - Primary title: d_sacar
+200 - Holder (1000761) has gained c_tavosh
+200 - vassal: c_tamdat - Holder 1000761 - Primary title: c_tamdat has lost the title: c_tamdat
+200 - sub vassal: c_tamdat - Holder 1000761 - Primary title: c_tamdat has lost the title: c_tamdat
+200 - vassal: c_tamdat - Title given to 1000761 - Primary title: d_sacar
+200 - sub vassal: c_tamdat - Title given to 1000761 - Primary title: d_sacar
+200 - Holder (1000761) has gained c_tamdat
+209 - Holder 1001598 - Primary title: d_sacar has lost the title: d_sacar
+209 - Title given to 1001598
+209 - vassal: c_tamdat - Holder 1001598 - Primary title: c_tamdat has lost the title: c_tamdat
+209 - vassal: c_tamdat - Title given to 1001598 - Primary title: d_sacar
+209 - Holder (1001598) has gained c_tamdat
+209 - vassal: c_tavosh - Holder 1001598 - Primary title: c_tavosh has lost the title: c_tavosh
+209 - vassal: c_tavosh - Title given to 1001598 - Primary title: d_sacar
+209 - Holder (1001598) has gained c_tavosh
+209 - vassal: c_rorator - Holder 1001598 - Primary title: c_rorator has lost the title: c_rorator
+209 - vassal: c_rorator - Title given to 1001598 - Primary title: d_sacar
+209 - Holder (1001598) has gained c_rorator
+209 - vassal: c_rasator - Holder 1001598 - Primary title: c_rasator has lost the title: c_rasator
+209 - vassal: c_rasator - Title given to 1001598 - Primary title: d_sacar
+209 - Holder (1001598) has gained c_rasator
+223 - Holder 1000516 - Primary title: d_sacar has lost the title: d_sacar
+223 - Title given to 1000516 - Primary title: k_tagabha
+223 - vassal: c_rasator - Holder 1000516 - Primary title: c_rasator has lost the title: c_rasator
+223 - vassal: c_rasator - Title given to 1000516 - Primary title: k_tagabha
+223 - vassal: c_rorator - Holder 1000516 - Primary title: c_rorator has lost the title: c_rorator
+223 - vassal: c_rorator - Title given to 1000516 - Primary title: k_tagabha
+223 - vassal: c_tavosh - Holder 1000516 - Primary title: c_tavosh has lost the title: c_tavosh
+223 - vassal: c_tavosh - Title given to 1000516 - Primary title: k_tagabha
+223 - vassal: c_tamdat - Holder 1000516 - Primary title: c_tamdat has lost the title: c_tamdat
+223 - vassal: c_tamdat - Title given to 1000516 - Primary title: k_tagabha
+223 - vassal: c_rorator - Given to 1002895 in HandleTitles - Too many duke titles
+223 - vassal: c_rorator - Title given to 1002895
+223 - Title given to 1002895 - Primary title: c_rorator
+223 - vassal: c_rorator - Holder (1002895) has gained d_sacar
+223 - vassal: c_rasator - Setting to vassal of k_tagabha in Validate Realm
+223 - Lost vassal: c_rasator
+223 - vassal: c_tavosh - Setting to vassal of k_tagabha in Validate Realm
+223 - Lost vassal: c_tavosh
+223 - vassal: c_tamdat - Setting to vassal of k_tagabha in Validate Realm
+223 - Lost vassal: c_tamdat
+223 - Too many dukes, given to dejure: k_tagabha
+227 - Holder 1001035 - Primary title: d_sacar has lost the title: d_sacar
+227 - Title given to 1001035 - Primary title: d_damba
+227 - vassal: c_rorator - Holder 1001035 - Primary title: c_rorator has lost the title: c_rorator
+227 - vassal: c_rorator - Title given to 1001035 - Primary title: d_damba
+239 - Holder 1001886 - Primary title: d_sacar has lost the title: d_damba
+239 - Gained vassal: c_qupew
+239 - Holder 1001886 - Primary title: d_sacar has lost the title: c_qupew
+239 - vassal: c_qupew - Title given to 1001886 - Primary title: d_damba
+239 - vassal: c_qupew - Setting to vassal of d_damba in Validate Realm
+239 - Lost vassal: c_qupew
+239 - Holder 1001886 - Primary title: d_sacar has lost the title: d_sacar
+239 - Title given to 1001886 - Primary title: d_damba
+239 - vassal: c_rorator - Holder 1001886 - Primary title: c_rorator has lost the title: c_rorator
+239 - vassal: c_rorator - Title given to 1001886 - Primary title: d_damba

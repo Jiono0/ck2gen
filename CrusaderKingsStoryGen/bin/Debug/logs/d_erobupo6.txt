@@ -1,0 +1,37 @@
+200 - Title given to 1000535
+200 - vassal: c_kisyal - Given to 1000539 via AddCharacterForTitle
+200 - sub vassal: c_kisyal - Given to 1000539 via AddCharacterForTitle
+200 - vassal: c_kisyal - Holder 1000539 - Primary title: c_kisyal has lost the title: c_kisyal
+200 - sub vassal: c_kisyal - Holder 1000539 - Primary title: c_kisyal has lost the title: c_kisyal
+200 - vassal: c_kisyal - Title given to 1000539
+200 - sub vassal: c_kisyal - Title given to 1000539
+200 - vassal: c_lyia - Holder 1000530 - Primary title: c_lyia has lost the title: c_bindoa
+200 - sub vassal: c_lyia - Holder 1000530 - Primary title: c_lyia has lost the title: c_bindoa
+200 - sub vassal: c_bindoa - Title given to 1000530 - Primary title: d_tilurab
+200 - vassal: c_lusina - Holder 1000535 - Primary title: c_lusina has lost the title: c_lusina
+200 - sub vassal: c_lusina - Holder 1000535 - Primary title: c_lusina has lost the title: c_lusina
+200 - vassal: c_lusina - Title given to 1000535 - Primary title: d_erobupo
+200 - sub vassal: c_lusina - Title given to 1000535 - Primary title: d_erobupo
+200 - Holder (1000535) has gained c_lusina
+200 - vassal: c_kumora - Holder 1000535 - Primary title: c_kumora has lost the title: c_kumora
+200 - sub vassal: c_kumora - Holder 1000535 - Primary title: c_kumora has lost the title: c_kumora
+200 - vassal: c_kumora - Title given to 1000535 - Primary title: d_erobupo
+200 - sub vassal: c_kumora - Title given to 1000535 - Primary title: d_erobupo
+200 - Holder (1000535) has gained c_kumora
+200 - vassal: c_lyia - Holder 1000535 - Primary title: c_lyia has lost the title: c_lyia
+200 - sub vassal: c_lyia - Holder 1000535 - Primary title: c_lyia has lost the title: c_lyia
+200 - vassal: c_lyia - Title given to 1000535 - Primary title: d_erobupo
+200 - sub vassal: c_lyia - Title given to 1000535 - Primary title: d_erobupo
+200 - Holder (1000535) has gained c_lyia
+200 - Holder 1001032 - Primary title: d_erobupo has lost the title: d_erobupo
+200 - Title given to 1001032 - Primary title: k_wesopelk
+200 - vassal: c_lusina - Holder 1001032 - Primary title: c_lusina has lost the title: c_lusina
+200 - vassal: c_lusina - Title given to 1001032 - Primary title: k_wesopelk
+216 - Holder 1001844 - Primary title: d_erobupo has lost the title: d_erobupo
+216 - Title given to 1001844 - Primary title: k_wesopelk
+216 - vassal: c_lusina - Holder 1001844 - Primary title: c_lusina has lost the title: c_lusina
+216 - vassal: c_lusina - Title given to 1001844 - Primary title: k_wesopelk
+263 - Holder 1002893 - Primary title: d_erobupo has lost the title: d_erobupo
+263 - Title given to 1002893 - Primary title: k_wesopelk
+263 - vassal: c_lusina - Setting to vassal of d_loaneri in Validate Realm
+263 - Lost vassal: c_lusina

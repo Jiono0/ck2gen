@@ -1,0 +1,97 @@
+200 - Title given to 1000320
+200 - vassal: c_agerave - Given to 1000324 via AddCharacterForTitle
+200 - sub vassal: c_agerave - Given to 1000324 via AddCharacterForTitle
+200 - vassal: c_agerave - Holder 1000324 - Primary title: c_agerave has lost the title: c_agerave
+200 - sub vassal: c_agerave - Holder 1000324 - Primary title: c_agerave has lost the title: c_agerave
+200 - vassal: c_agerave - Title given to 1000324
+200 - sub vassal: c_agerave - Title given to 1000324
+200 - vassal: c_weresse - Holder 1000320 - Primary title: c_weresse has lost the title: c_weresse
+200 - sub vassal: c_weresse - Holder 1000320 - Primary title: c_weresse has lost the title: c_weresse
+200 - vassal: c_weresse - Title given to 1000320 - Primary title: d_kibaula
+200 - sub vassal: c_weresse - Title given to 1000320 - Primary title: d_kibaula
+200 - Holder (1000320) has gained c_weresse
+200 - vassal: c_qapiota - Holder 1000320 - Primary title: c_qapiota has lost the title: c_qapiota
+200 - sub vassal: c_qapiota - Holder 1000320 - Primary title: c_qapiota has lost the title: c_qapiota
+200 - vassal: c_qapiota - Title given to 1000320 - Primary title: d_kibaula
+200 - sub vassal: c_qapiota - Title given to 1000320 - Primary title: d_kibaula
+200 - Holder (1000320) has gained c_qapiota
+200 - vassal: c_agerave - Holder 1000320 - Primary title: c_agerave has lost the title: c_agerave
+200 - sub vassal: c_agerave - Holder 1000320 - Primary title: c_agerave has lost the title: c_agerave
+200 - vassal: c_agerave - Title given to 1000320 - Primary title: d_kibaula
+200 - sub vassal: c_agerave - Title given to 1000320 - Primary title: d_kibaula
+200 - Holder (1000320) has gained c_agerave
+200 - Holder 1001026 - Primary title: d_kibaula has lost the title: d_kibaula
+200 - Title given to 1001026 - Primary title: k_reuparis
+200 - vassal: c_weresse - Holder 1001026 - Primary title: c_weresse has lost the title: c_weresse
+200 - vassal: c_weresse - Title given to 1001026 - Primary title: k_reuparis
+213 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+213 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+213 - vassal: c_qapiota - Made vassal of neighbour (k_wanolas) due to being a seperate island
+213 - Lost vassal: c_qapiota
+213 - vassal: c_agerave - Setting independent in Validate Realm
+213 - vassal: c_agerave - Made independent
+214 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+214 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+215 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+215 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+216 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+216 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+217 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+217 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+218 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+218 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+219 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+219 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+220 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+220 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+221 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+221 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+222 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+222 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+223 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+223 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+224 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+224 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+225 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+225 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+226 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+226 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+227 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+227 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+228 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+228 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+229 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+229 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+230 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+230 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+231 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+231 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+232 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+232 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+233 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+233 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+234 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+234 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+235 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+235 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+236 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+236 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+237 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+237 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+238 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+238 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+239 - vassal: c_weresse - Made vassal of neighbour (k_kyaa) due to being a seperate island
+239 - vassal: c_weresse - Given to neighbour holder of k_kyaa
+240 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+240 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+241 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+241 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+242 - vassal: c_weresse - Made vassal of neighbour (k_wanolas) due to being a seperate island
+242 - vassal: c_weresse - Given to neighbour holder of k_wanolas
+242 - Holder 1001763 - Primary title: d_kibaula has lost the title: d_kibaula
+242 - Title given to 1001763 - Primary title: k_reuparis
+242 - vassal: c_weresse - Setting to vassal of d_qibave in Validate Realm
+242 - Lost vassal: c_weresse
+243 - Destroyed due to flagged problem
+243 - Made independent
+243 - Title destroyed

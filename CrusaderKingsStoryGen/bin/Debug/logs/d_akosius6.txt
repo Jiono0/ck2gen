@@ -1,0 +1,46 @@
+200 - Title given to 1000840
+200 - vassal: c_nukaga - Given to 1000843 via AddCharacterForTitle
+200 - sub vassal: c_nukaga - Given to 1000843 via AddCharacterForTitle
+200 - vassal: c_nukaga - Holder 1000843 - Primary title: c_nukaga has lost the title: c_nukaga
+200 - sub vassal: c_nukaga - Holder 1000843 - Primary title: c_nukaga has lost the title: c_nukaga
+200 - vassal: c_nukaga - Title given to 1000843
+200 - sub vassal: c_nukaga - Title given to 1000843
+200 - vassal: c_atertal - Holder 1000840 - Primary title: c_atertal has lost the title: c_atertal
+200 - sub vassal: c_atertal - Holder 1000840 - Primary title: c_atertal has lost the title: c_atertal
+200 - vassal: c_atertal - Title given to 1000840 - Primary title: d_akosius
+200 - sub vassal: c_atertal - Title given to 1000840 - Primary title: d_akosius
+200 - Holder (1000840) has gained c_atertal
+200 - vassal: c_nukaga - Holder 1000840 - Primary title: c_nukaga has lost the title: c_nukaga
+200 - sub vassal: c_nukaga - Holder 1000840 - Primary title: c_nukaga has lost the title: c_nukaga
+200 - vassal: c_nukaga - Title given to 1000840 - Primary title: d_akosius
+200 - sub vassal: c_nukaga - Title given to 1000840 - Primary title: d_akosius
+200 - Holder (1000840) has gained c_nukaga
+206 - Holder 1000836 - Primary title: d_akosius has lost the title: d_akosius
+206 - Title given to 1000836 - Primary title: d_qezaya
+206 - vassal: c_nukaga - Holder 1000836 - Primary title: c_nukaga has lost the title: c_nukaga
+206 - vassal: c_nukaga - Title given to 1000836 - Primary title: d_qezaya
+206 - vassal: c_atertal - Holder 1000836 - Primary title: c_atertal has lost the title: c_atertal
+206 - vassal: c_atertal - Title given to 1000836 - Primary title: d_qezaya
+240 - Gained vassal: c_qerara
+240 - Gained vassal: c_woniusz
+240 - Holder 1002836 - Primary title: d_akosius has lost the title: d_akosius
+240 - Title given to 1002836 - Primary title: k_riliusz
+240 - vassal: c_woniusz - Holder 1002836 - Primary title: c_woniusz has lost the title: c_woniusz
+240 - vassal: c_woniusz - Title given to 1002836 - Primary title: k_riliusz
+240 - vassal: c_qerara - Holder 1002836 - Primary title: c_qerara has lost the title: c_qerara
+240 - vassal: c_qerara - Title given to 1002836 - Primary title: k_riliusz
+240 - vassal: c_nukaga - Holder 1002836 - Primary title: c_nukaga has lost the title: c_nukaga
+240 - vassal: c_nukaga - Title given to 1002836 - Primary title: k_riliusz
+240 - vassal: c_atertal - Holder 1002836 - Primary title: c_atertal has lost the title: c_atertal
+240 - vassal: c_atertal - Title given to 1002836 - Primary title: k_riliusz
+240 - vassal: c_atertal - Given to 1003886 in HandleTitles - Too many duke titles
+240 - vassal: c_atertal - Title given to 1003886
+240 - Title given to 1003886 - Primary title: c_atertal
+240 - vassal: c_atertal - Holder (1003886) has gained d_akosius
+240 - vassal: c_nukaga - Setting to vassal of k_riliusz in Validate Realm
+240 - Lost vassal: c_nukaga
+240 - vassal: c_qerara - Setting to vassal of k_riliusz in Validate Realm
+240 - Lost vassal: c_qerara
+240 - vassal: c_woniusz - Setting to vassal of k_riliusz in Validate Realm
+240 - Lost vassal: c_woniusz
+240 - Too many dukes, given to dejure: k_riliusz

@@ -1,0 +1,132 @@
+200 - Title given to 1000220
+200 - vassal: c_seza - Given to 1000223 via AddCharacterForTitle
+200 - sub vassal: c_seza - Given to 1000223 via AddCharacterForTitle
+200 - vassal: c_seza - Holder 1000223 - Primary title: c_seza has lost the title: c_seza
+200 - sub vassal: c_seza - Holder 1000223 - Primary title: c_seza has lost the title: c_seza
+200 - vassal: c_seza - Title given to 1000223
+200 - sub vassal: c_seza - Title given to 1000223
+200 - vassal: c_wesse - Holder 1000220 - Primary title: c_wesse has lost the title: c_wesse
+200 - sub vassal: c_wesse - Holder 1000220 - Primary title: c_wesse has lost the title: c_wesse
+200 - vassal: c_wesse - Title given to 1000220 - Primary title: d_kiraky
+200 - sub vassal: c_wesse - Title given to 1000220 - Primary title: d_kiraky
+200 - Holder (1000220) has gained c_wesse
+200 - vassal: c_seza - Holder 1000220 - Primary title: c_seza has lost the title: c_seza
+200 - sub vassal: c_seza - Holder 1000220 - Primary title: c_seza has lost the title: c_seza
+200 - vassal: c_seza - Title given to 1000220 - Primary title: d_kiraky
+200 - sub vassal: c_seza - Title given to 1000220 - Primary title: d_kiraky
+200 - Holder (1000220) has gained c_seza
+200 - Holder (1000220) has gained d_nipude
+200 - Holder (1000220) has gained c_riplas
+200 - Holder (1000220) has gained c_niraise
+200 - Holder (1000220) has gained c_tajolas
+210 - vassal: c_seza - Given to 1002186 in HandleTitles - Too many duke titles
+210 - vassal: c_seza - Title given to 1002186
+210 - Title given to 1002186 - Primary title: c_seza
+210 - vassal: c_seza - Holder (1002186) has gained d_kiraky
+210 - vassal: c_wesse - Setting to vassal of k_ajirolas in Validate Realm
+210 - Lost vassal: c_wesse
+210 - Too many dukes, given to dejure: k_ajirolas
+213 - Holder 1000198 - Primary title: d_kiraky has lost the title: d_kiraky
+213 - Title given to 1000198 - Primary title: d_lughan
+213 - vassal: c_seza - Holder 1000198 - Primary title: c_seza has lost the title: c_seza
+213 - vassal: c_seza - Title given to 1000198 - Primary title: d_lughan
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: d_lughan
+217 - Gained vassal: c_tivude
+217 - Gained vassal: c_rajile
+217 - Gained vassal: c_lanamur
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: c_lanamur
+217 - vassal: c_lanamur - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: c_lanamur - Setting to vassal of d_lughan in Validate Realm
+217 - Lost vassal: c_lanamur
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: c_rajile
+217 - vassal: c_rajile - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: c_rajile - Setting to vassal of d_lughan in Validate Realm
+217 - Lost vassal: c_rajile
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: c_tivude
+217 - vassal: c_tivude - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: c_tivude - Setting to vassal of d_lughan in Validate Realm
+217 - Lost vassal: c_tivude
+217 - Holder 1001739 - Primary title: d_kiraky has lost the title: d_kiraky
+217 - Title given to 1001739 - Primary title: d_lughan
+217 - vassal: c_seza - Holder 1001739 - Primary title: c_seza has lost the title: c_seza
+217 - vassal: c_seza - Title given to 1001739 - Primary title: d_lughan
+241 - Gained vassal: c_tivude
+241 - Gained vassal: c_rajile
+241 - Gained vassal: c_lanamur
+241 - Holder 1003105 - Primary title: d_kiraky has lost the title: d_kiraky
+241 - Title given to 1003105 - Primary title: d_lughan
+241 - vassal: c_lanamur - Holder 1003105 - Primary title: c_lanamur has lost the title: c_lanamur
+241 - vassal: c_lanamur - Title given to 1003105 - Primary title: d_lughan
+241 - vassal: c_rajile - Holder 1003105 - Primary title: c_rajile has lost the title: c_rajile
+241 - vassal: c_rajile - Title given to 1003105 - Primary title: d_lughan
+241 - vassal: c_tivude - Holder 1003105 - Primary title: c_tivude has lost the title: c_tivude
+241 - vassal: c_tivude - Title given to 1003105 - Primary title: d_lughan
+241 - vassal: c_seza - Holder 1003105 - Primary title: c_seza has lost the title: c_seza
+241 - vassal: c_seza - Title given to 1003105 - Primary title: d_lughan
+247 - Holder 1001480 - Primary title: d_kiraky has lost the title: d_kiraky
+247 - Title given to 1001480 - Primary title: k_ajirolas
+247 - vassal: c_lanamur - Holder 1001480 - Primary title: c_lanamur has lost the title: c_lanamur
+247 - vassal: c_lanamur - Title given to 1001480 - Primary title: k_ajirolas
+247 - vassal: c_rajile - Holder 1001480 - Primary title: c_rajile has lost the title: c_rajile
+247 - vassal: c_rajile - Title given to 1001480 - Primary title: k_ajirolas
+247 - vassal: c_tivude - Holder 1001480 - Primary title: c_tivude has lost the title: c_tivude
+247 - vassal: c_tivude - Title given to 1001480 - Primary title: k_ajirolas
+247 - vassal: c_seza - Holder 1001480 - Primary title: c_seza has lost the title: c_seza
+247 - vassal: c_seza - Title given to 1001480 - Primary title: k_ajirolas
+247 - vassal: c_lanamur - Title given to 1001572
+247 - vassal: c_rajile - Title given to 1004274
+247 - vassal: c_tivude - Title given to 1004275
+247 - vassal: c_seza - Title given to 1004276
+258 - Gained vassal: c_tirile
+258 - Gained vassal: c_tajolas
+258 - Gained vassal: c_niraise
+258 - Gained vassal: c_riplas
+258 - Gained vassal: c_wesse
+258 - Holder 1003819 - Primary title: d_kiraky has lost the title: c_wesse
+258 - vassal: c_wesse - Title given to 1003819 - Primary title: k_ajirolas
+258 - vassal: c_wesse - Setting to vassal of k_ajirolas in Validate Realm
+258 - Lost vassal: c_wesse
+258 - Holder 1003819 - Primary title: d_kiraky has lost the title: c_riplas
+258 - vassal: c_riplas - Title given to 1003819 - Primary title: k_ajirolas
+258 - vassal: c_riplas - Setting to vassal of k_ajirolas in Validate Realm
+258 - Lost vassal: c_riplas
+258 - Holder 1003819 - Primary title: d_kiraky has lost the title: c_niraise
+258 - vassal: c_niraise - Title given to 1003819 - Primary title: k_ajirolas
+258 - vassal: c_niraise - Setting to vassal of k_ajirolas in Validate Realm
+258 - Lost vassal: c_niraise
+258 - Holder 1003819 - Primary title: d_kiraky has lost the title: c_tajolas
+258 - vassal: c_tajolas - Title given to 1003819 - Primary title: k_ajirolas
+258 - vassal: c_tajolas - Setting to vassal of k_ajirolas in Validate Realm
+258 - Lost vassal: c_tajolas
+258 - Holder 1003819 - Primary title: d_kiraky has lost the title: c_tirile
+258 - vassal: c_tirile - Title given to 1003819 - Primary title: k_ajirolas
+258 - vassal: c_tirile - Setting to vassal of k_ajirolas in Validate Realm
+258 - Lost vassal: c_tirile
+258 - Holder 1003819 - Primary title: d_kiraky has lost the title: d_kiraky
+258 - Title given to 1003819 - Primary title: k_ajirolas
+267 - vassal: c_seza - Given to 1005379 in HandleTitles - Too many duke titles
+267 - vassal: c_seza - Holder 1005379 - Primary title: c_seza has lost the title: c_seza
+267 - vassal: c_seza - Title given to 1005379
+267 - Title given to 1005379 - Primary title: c_seza
+267 - vassal: c_seza - Holder (1005379) has gained d_kiraky
+267 - Too many dukes, given to dejure: k_ajirolas
+286 - Holder 1005708 - Primary title: d_kiraky has lost the title: d_kiraky
+286 - Title given to 1005708
+286 - vassal: c_seza - Holder 1005708 - Primary title: c_seza has lost the title: c_seza
+286 - vassal: c_seza - Title given to 1005708 - Primary title: d_kiraky
+286 - Holder (1005708) has gained c_seza
+306 - Holder 1006939 - Primary title: d_kiraky has lost the title: d_kiraky
+306 - Title given to 1006939
+306 - vassal: c_seza - Holder 1006939 - Primary title: c_seza has lost the title: c_seza
+306 - vassal: c_seza - Title given to 1006939 - Primary title: d_kiraky
+306 - Holder (1006939) has gained c_seza
+316 - Holder (1006939) has gained d_riereba
+316 - Holder (1006939) has gained c_rovolas
+316 - Holder (1006939) has gained c_kanaise
+316 - Holder (1006939) has gained c_laise
+316 - Holder (1006939) has gained c_tesse
+327 - Gained vassal: c_rovolas
+327 - Gained vassal: c_kanaise
+327 - Gained vassal: c_laise
+327 - Gained vassal: c_tesse
+327 - Hold

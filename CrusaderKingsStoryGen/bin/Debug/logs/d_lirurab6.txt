@@ -1,0 +1,33 @@
+200 - Title given to 1000546
+200 - vassal: c_labaleh - Given to 1000549 via AddCharacterForTitle
+200 - sub vassal: c_labaleh - Given to 1000549 via AddCharacterForTitle
+200 - vassal: c_labaleh - Holder 1000549 - Primary title: c_labaleh has lost the title: c_labaleh
+200 - sub vassal: c_labaleh - Holder 1000549 - Primary title: c_labaleh has lost the title: c_labaleh
+200 - vassal: c_labaleh - Title given to 1000549
+200 - sub vassal: c_labaleh - Title given to 1000549
+200 - vassal: c_tamaisu - Holder 1000546 - Primary title: c_tamaisu has lost the title: c_tamaisu
+200 - sub vassal: c_tamaisu - Holder 1000546 - Primary title: c_tamaisu has lost the title: c_tamaisu
+200 - vassal: c_tamaisu - Title given to 1000546 - Primary title: d_lirurab
+200 - sub vassal: c_tamaisu - Title given to 1000546 - Primary title: d_lirurab
+200 - Holder (1000546) has gained c_tamaisu
+200 - vassal: c_labaleh - Holder 1000546 - Primary title: c_labaleh has lost the title: c_labaleh
+200 - sub vassal: c_labaleh - Holder 1000546 - Primary title: c_labaleh has lost the title: c_labaleh
+200 - vassal: c_labaleh - Title given to 1000546 - Primary title: d_lirurab
+200 - sub vassal: c_labaleh - Title given to 1000546 - Primary title: d_lirurab
+200 - Holder (1000546) has gained c_labaleh
+227 - Holder 1002323 - Primary title: d_lirurab has lost the title: d_lirurab
+227 - Title given to 1002323
+227 - vassal: c_tamaisu - Holder 1002323 - Primary title: c_tamaisu has lost the title: c_tamaisu
+227 - vassal: c_tamaisu - Title given to 1002323 - Primary title: d_lirurab
+227 - Holder (1002323) has gained c_tamaisu
+227 - vassal: c_labaleh - Holder 1002323 - Primary title: c_labaleh has lost the title: c_labaleh
+227 - vassal: c_labaleh - Title given to 1002323 - Primary title: d_lirurab
+227 - Holder (1002323) has gained c_labaleh
+248 - Holder (1002323) has gained k_tye
+249 - vassal: c_tamaisu - Given to 1004407 in HandleTitles - Too many duke titles
+249 - vassal: c_tamaisu - Title given to 1004407
+249 - Title given to 1004407 - Primary title: c_tamaisu
+249 - vassal: c_tamaisu - Holder (1004407) has gained d_lirurab
+249 - vassal: c_labaleh - Setting to vassal of k_tye in Validate Realm
+249 - Lost vassal: c_labaleh
+249 - Too many dukes, given to dejure: k_tye

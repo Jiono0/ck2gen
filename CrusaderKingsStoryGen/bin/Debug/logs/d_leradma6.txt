@@ -1,0 +1,26 @@
+200 - Title given to 1000272
+200 - vassal: c_riatay - Holder 1000272 - Primary title: c_riatay has lost the title: c_riatay
+200 - sub vassal: c_riatay - Holder 1000272 - Primary title: c_riatay has lost the title: c_riatay
+200 - vassal: c_riatay - Title given to 1000272 - Primary title: d_leradma
+200 - sub vassal: c_riatay - Title given to 1000272 - Primary title: d_leradma
+200 - Holder (1000272) has gained c_riatay
+200 - vassal: c_ribeza - Holder 1000272 - Primary title: c_ribeza has lost the title: c_ribeza
+200 - sub vassal: c_ribeza - Holder 1000272 - Primary title: c_ribeza has lost the title: c_ribeza
+200 - vassal: c_ribeza - Title given to 1000272 - Primary title: d_leradma
+200 - sub vassal: c_ribeza - Title given to 1000272 - Primary title: d_leradma
+200 - Holder (1000272) has gained c_ribeza
+239 - Holder 1001376 - Primary title: d_leradma has lost the title: d_leradma
+239 - Title given to 1001376 - Primary title: k_kilimon
+239 - vassal: c_riatay - Holder 1001376 - Primary title: c_riatay has lost the title: c_riatay
+239 - vassal: c_riatay - Title given to 1001376 - Primary title: k_kilimon
+239 - vassal: c_ribeza - Holder 1001376 - Primary title: c_ribeza has lost the title: c_ribeza
+239 - vassal: c_ribeza - Title given to 1001376 - Primary title: k_kilimon
+245 - Holder 1003198 - Primary title: d_leradma has lost the title: d_leradma
+245 - Title given to 1003198 - Primary title: k_kilimon
+245 - vassal: c_ribeza - Setting to vassal of d_tairya in Validate Realm
+245 - Lost vassal: c_ribeza
+245 - vassal: c_riatay - Setting to vassal of d_tairya in Validate Realm
+245 - Lost vassal: c_riatay
+246 - Destroyed due to flagged problem
+246 - Made independent
+246 - Title destroyed

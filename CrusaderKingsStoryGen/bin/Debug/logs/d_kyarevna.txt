@@ -1,0 +1,74 @@
+200 - Title given to 1000758
+200 - vassal: c_ehanona - Given to 1000762 via AddCharacterForTitle
+200 - sub vassal: c_ehanona - Given to 1000762 via AddCharacterForTitle
+200 - vassal: c_ehanona - Holder 1000762 - Primary title: c_ehanona has lost the title: c_ehanona
+200 - sub vassal: c_ehanona - Holder 1000762 - Primary title: c_ehanona has lost the title: c_ehanona
+200 - vassal: c_ehanona - Title given to 1000762
+200 - sub vassal: c_ehanona - Title given to 1000762
+200 - vassal: c_rasild - Holder 1000758 - Primary title: c_rasild has lost the title: c_rasild
+200 - sub vassal: c_rasild - Holder 1000758 - Primary title: c_rasild has lost the title: c_rasild
+200 - vassal: c_rasild - Title given to 1000758 - Primary title: d_kyarevna
+200 - sub vassal: c_rasild - Title given to 1000758 - Primary title: d_kyarevna
+200 - Holder (1000758) has gained c_rasild
+200 - vassal: c_qurimon - Holder 1000758 - Primary title: c_qurimon has lost the title: c_qurimon
+200 - sub vassal: c_qurimon - Holder 1000758 - Primary title: c_qurimon has lost the title: c_qurimon
+200 - vassal: c_qurimon - Title given to 1000758 - Primary title: d_kyarevna
+200 - sub vassal: c_qurimon - Title given to 1000758 - Primary title: d_kyarevna
+200 - Holder (1000758) has gained c_qurimon
+200 - vassal: c_ehanona - Holder 1000758 - Primary title: c_ehanona has lost the title: c_ehanona
+200 - sub vassal: c_ehanona - Holder 1000758 - Primary title: c_ehanona has lost the title: c_ehanona
+200 - vassal: c_ehanona - Title given to 1000758 - Primary title: d_kyarevna
+200 - sub vassal: c_ehanona - Title given to 1000758 - Primary title: d_kyarevna
+200 - Holder (1000758) has gained c_ehanona
+200 - Holder 1001059 - Primary title: d_kyarevna has lost the title: d_kyarevna
+200 - Title given to 1001059 - Primary title: k_ketimon
+200 - vassal: c_rasild - Holder 1001059 - Primary title: c_rasild has lost the title: c_rasild
+200 - vassal: c_rasild - Title given to 1001059 - Primary title: k_ketimon
+225 - Holder 1002264 - Primary title: d_kyarevna has lost the title: d_kyarevna
+225 - Title given to 1002264 - Primary title: k_ketimon
+225 - vassal: c_rasild - Setting to vassal of d_tudatha in Validate Realm
+225 - Lost vassal: c_rasild
+241 - Holder 1004091 - Primary title: d_kyarevna has lost the title: d_kyarevna
+241 - Title given to 1004091 - Primary title: k_ketimon
+249 - Holder 1004137 - Primary title: d_kyarevna has lost the title: d_kyarevna
+249 - Title given to 1004137 - Primary title: k_ketimon
+274 - Holder 1005209 - Primary title: d_kyarevna has lost the title: d_kyarevna
+274 - Title given to 1005209 - Primary title: k_ketimon
+284 - vassal: c_qurimon - Holder 1005209 - Primary title: c_qurimon has lost the title: c_ehanona
+284 - vassal: c_ehanona - Title given to 1005209 - Primary title: k_ketimon
+284 - vassal: c_ehanona - Given to 1006677 in HandleTitles - Too many duke titles
+284 - vassal: c_ehanona - Title given to 1006677
+284 - Title given to 1006677 - Primary title: c_ehanona
+284 - vassal: c_ehanona - Holder (1006677) has gained d_kyarevna
+284 - Too many dukes, given to dejure: k_ketimon
+297 - Holder 1006999 - Primary title: d_kyarevna has lost the title: d_kyarevna
+297 - Title given to 1006999
+297 - vassal: c_ehanona - Holder 1006999 - Primary title: c_ehanona has lost the title: c_ehanona
+297 - vassal: c_ehanona - Title given to 1006999 - Primary title: d_kyarevna
+297 - Holder (1006999) has gained c_ehanona
+300 - vassal: c_qurimon - Holder 1006999 - Primary title: c_qurimon has lost the title: c_qurimon
+300 - vassal: c_qurimon - Title given to 1006999 - Primary title: d_kyarevna
+300 - Holder (1006999) has gained c_qurimon
+310 - Holder 1008154 - Primary title: d_kyarevna has lost the title: d_kyarevna
+310 - Title given to 1008154
+310 - vassal: c_qurimon - Holder 1008154 - Primary title: c_qurimon has lost the title: c_qurimon
+310 - vassal: c_qurimon - Title given to 1008154 - Primary title: d_kyarevna
+310 - Holder (1008154) has gained c_qurimon
+310 - vassal: c_ehanona - Holder 1008154 - Primary title: c_ehanona has lost the title: c_ehanona
+310 - vassal: c_ehanona - Title given to 1008154 - Primary title: d_kyarevna
+310 - Holder (1008154) has gained c_ehanona
+315 - Holder (1008154) has gained d_kaul
+315 - Holder (1008154) has gained c_batunas
+315 - Holder (1008154) has gained c_nyarild
+315 - Holder (1008154) has gained c_nyarevna
+315 - Holder (1008154) has gained c_ehkand
+315 - Holder (1008154) has gained c_natand
+316 - vassal: c_qurimon - Title given to 1008524
+327 - Holder 1009025 - Primary title: d_kyarevna has lost the title: d_kyarevna
+327 - Title given to 1009025 - Primary title: d_kaul
+327 - vassal: c_ehanona - Setting independent in Validate Realm
+327 - vassal: c_ehanona - Made independent
+364 - Holder 1009890 - Primary title: d_kyarevna has lost the title: d_kyarevna
+364 - Title given to 1009890 - Primary title: d_kaul
+385 - Holder 1011047 - Primary title: d_kyarevna has lost the title: d_kyarevna
+385 - Title given to 1011047 - Primary title: d_kaul

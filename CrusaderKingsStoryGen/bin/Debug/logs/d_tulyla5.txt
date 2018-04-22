@@ -1,0 +1,62 @@
+200 - Title given to 1000476
+200 - vassal: c_kalexis - Given to 1000479 via AddCharacterForTitle
+200 - sub vassal: c_kalexis - Given to 1000479 via AddCharacterForTitle
+200 - vassal: c_kalexis - Holder 1000479 - Primary title: c_kalexis has lost the title: c_kalexis
+200 - sub vassal: c_kalexis - Holder 1000479 - Primary title: c_kalexis has lost the title: c_kalexis
+200 - vassal: c_kalexis - Title given to 1000479
+200 - sub vassal: c_kalexis - Title given to 1000479
+200 - vassal: c_tedolf - Holder 1000476 - Primary title: c_tedolf has lost the title: c_tedolf
+200 - sub vassal: c_tedolf - Holder 1000476 - Primary title: c_tedolf has lost the title: c_tedolf
+200 - vassal: c_tedolf - Title given to 1000476 - Primary title: d_tulyla
+200 - sub vassal: c_tedolf - Title given to 1000476 - Primary title: d_tulyla
+200 - Holder (1000476) has gained c_tedolf
+200 - vassal: c_kalexis - Holder 1000476 - Primary title: c_kalexis has lost the title: c_kalexis
+200 - sub vassal: c_kalexis - Holder 1000476 - Primary title: c_kalexis has lost the title: c_kalexis
+200 - vassal: c_kalexis - Title given to 1000476 - Primary title: d_tulyla
+200 - sub vassal: c_kalexis - Title given to 1000476 - Primary title: d_tulyla
+200 - Holder (1000476) has gained c_kalexis
+200 - vassal: c_laren - Holder 1000476 - Primary title: c_laren has lost the title: c_laren
+200 - sub vassal: c_laren - Holder 1000476 - Primary title: c_laren has lost the title: c_laren
+200 - vassal: c_laren - Title given to 1000476 - Primary title: d_tulyla
+200 - sub vassal: c_laren - Title given to 1000476 - Primary title: d_tulyla
+200 - Holder (1000476) has gained c_laren
+200 - vassal: c_qabine - Title given to 1000476 - Primary title: d_tulyla
+200 - Holder (1000476) has gained c_qabine
+219 - Holder (1000476) has gained k_rutolas
+220 - vassal: c_kalexis - Given to 1002723 in HandleTitles - Too many duke titles
+220 - vassal: c_kalexis - Title given to 1002723
+220 - Title given to 1002723 - Primary title: c_kalexis
+220 - vassal: c_kalexis - Holder (1002723) has gained d_tulyla
+220 - vassal: c_tedolf - Setting to vassal of k_rutolas in Validate Realm
+220 - Lost vassal: c_tedolf
+220 - vassal: c_laren - Setting to vassal of k_rutolas in Validate Realm
+220 - Lost vassal: c_laren
+220 - vassal: c_qabine - Setting to vassal of k_rutolas in Validate Realm
+220 - Lost vassal: c_qabine
+220 - Too many dukes, given to dejure: k_rutolas
+225 - Holder 1000449 - Primary title: d_tulyla has lost the title: d_tulyla
+225 - Title given to 1000449 - Primary title: d_setistof
+225 - vassal: c_kalexis - Holder 1000449 - Primary title: c_kalexis has lost the title: c_kalexis
+225 - vassal: c_kalexis - Title given to 1000449 - Primary title: d_setistof
+226 - Holder 1003052 - Primary title: d_tulyla has lost the title: c_remistof
+226 - Holder 1000476 - Primary title: d_tulyla has lost the title: d_rupew
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: d_setistof
+234 - Gained vassal: c_alya
+234 - Gained vassal: c_libasz
+234 - Gained vassal: c_nalexis
+234 - Gained vassal: c_qibya
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: c_qibya
+234 - vassal: c_qibya - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_qibya - Setting to vassal of d_setistof in Validate Realm
+234 - Lost vassal: c_qibya
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: c_nalexis
+234 - vassal: c_nalexis - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_nalexis - Setting to vassal of d_setistof in Validate Realm
+234 - Lost vassal: c_nalexis
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: c_libasz
+234 - vassal: c_libasz - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_libasz - Setting to vassal of d_setistof in Validate Realm
+234 - Lost vassal: c_libasz
+234 - Holder 1001223 - Primary title: d_tulyla has lost the title: c_alya
+234 - vassal: c_alya - Title given to 1001223 - Primary title: d_setistof
+234 - vassal: c_alya - Setting to vassal of d_setistof in Valid

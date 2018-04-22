@@ -1,0 +1,114 @@
+200 - Title given to 1000684
+200 - vassal: c_reokas - Given to 1000687 via AddCharacterForTitle
+200 - sub vassal: c_reokas - Given to 1000687 via AddCharacterForTitle
+200 - vassal: c_reokas - Holder 1000687 - Primary title: c_reokas has lost the title: c_reokas
+200 - sub vassal: c_reokas - Holder 1000687 - Primary title: c_reokas has lost the title: c_reokas
+200 - vassal: c_reokas - Title given to 1000687
+200 - sub vassal: c_reokas - Title given to 1000687
+200 - vassal: c_wagifu - Given to 1000689 via AddCharacterForTitle
+200 - sub vassal: c_wagifu - Given to 1000689 via AddCharacterForTitle
+200 - vassal: c_wagifu - Holder 1000689 - Primary title: c_wagifu has lost the title: c_wagifu
+200 - sub vassal: c_wagifu - Holder 1000689 - Primary title: c_wagifu has lost the title: c_wagifu
+200 - vassal: c_wagifu - Title given to 1000689
+200 - sub vassal: c_wagifu - Title given to 1000689
+200 - vassal: c_egunuda - Holder 1000684 - Primary title: c_egunuda has lost the title: c_egunuda
+200 - sub vassal: c_egunuda - Holder 1000684 - Primary title: c_egunuda has lost the title: c_egunuda
+200 - vassal: c_egunuda - Title given to 1000684 - Primary title: d_sesukas
+200 - sub vassal: c_egunuda - Title given to 1000684 - Primary title: d_sesukas
+200 - Holder (1000684) has gained c_egunuda
+200 - vassal: c_reokas - Holder 1000684 - Primary title: c_reokas has lost the title: c_reokas
+200 - sub vassal: c_reokas - Holder 1000684 - Primary title: c_reokas has lost the title: c_reokas
+200 - vassal: c_reokas - Title given to 1000684 - Primary title: d_sesukas
+200 - sub vassal: c_reokas - Title given to 1000684 - Primary title: d_sesukas
+200 - Holder (1000684) has gained c_reokas
+200 - vassal: c_wagifu - Holder 1000684 - Primary title: c_wagifu has lost the title: c_wagifu
+200 - sub vassal: c_wagifu - Holder 1000684 - Primary title: c_wagifu has lost the title: c_wagifu
+200 - vassal: c_wagifu - Title given to 1000684 - Primary title: d_sesukas
+200 - sub vassal: c_wagifu - Title given to 1000684 - Primary title: d_sesukas
+200 - Holder (1000684) has gained c_wagifu
+218 - Holder 1001634 - Primary title: d_sesukas has lost the title: d_sesukas
+218 - Title given to 1001634
+218 - vassal: c_wagifu - Holder 1001634 - Primary title: c_wagifu has lost the title: c_wagifu
+218 - vassal: c_wagifu - Title given to 1001634 - Primary title: d_sesukas
+218 - Holder (1001634) has gained c_wagifu
+218 - vassal: c_reokas - Holder 1001634 - Primary title: c_reokas has lost the title: c_reokas
+218 - vassal: c_reokas - Title given to 1001634 - Primary title: d_sesukas
+218 - Holder (1001634) has gained c_reokas
+218 - vassal: c_egunuda - Holder 1001634 - Primary title: c_egunuda has lost the title: c_egunuda
+218 - vassal: c_egunuda - Title given to 1001634 - Primary title: d_sesukas
+218 - Holder (1001634) has gained c_egunuda
+252 - Holder (1001634) has gained d_ruguo
+266 - Holder 1003589 - Primary title: d_sesukas has lost the title: d_sesukas
+266 - Title given to 1003589
+266 - vassal: c_wagifu - Setting to vassal of d_ruguo in Validate Realm
+266 - Lost vassal: c_wagifu
+266 - vassal: c_reokas - Setting to vassal of d_ruguo in Validate Realm
+266 - Lost vassal: c_reokas
+266 - vassal: c_egunuda - Setting to vassal of d_ruguo in Validate Realm
+266 - Lost vassal: c_egunuda
+266 - Holder (1003589) has gained d_ruguo
+266 - Holder (1003589) has gained c_wagifu
+266 - Holder (1003589) has gained c_reokas
+266 - Holder (1003589) has gained c_egunuda
+267 - Destroyed due to flagged problem
+267 - Made independent
+267 - Title destroyed
+287 - Given to 1003589 in TestCreateEmpire
+287 - Title given to 1003589 - Primary title: d_ruguo
+287 - Made independent for title creation d_sesukas for d_ruguo
+287 - Made independent
+287 - Gained vassal: c_egunuda
+287 - Gained vassal: c_reokas
+287 - Gained vassal: c_wagifu
+290 - Holder 1005879 - Primary title: d_sesukas has lost the title: d_sesukas
+290 - Title given to 1005879 - Primary title: d_ruguo
+294 - vassal: c_egunuda - Holder 1005879 - Primary title: c_egunuda has lost the title: c_egunuda
+294 - vassal: c_egunuda - Title given to 1005879 - Primary title: d_ruguo
+294 - vassal: c_reokas - Holder 1005879 - Primary title: c_reokas has lost the title: c_reokas
+294 - vassal: c_reokas - Title given to 1005879 - Primary title: d_ruguo
+294 - vassal: c_wagifu - Holder 1005879 - Primary title: c_wagifu has lost the title: c_wagifu
+294 - vassal: c_wagifu - Title given to 1005879 - Primary title: d_ruguo
+294 - Holder 1007116 - Primary title: d_sesukas has lost the title: d_sesukas
+294 - Title given to 1007116 - Primary title: d_ruguo
+294 - vassal: c_egunuda - Holder 1007116 - Primary title: c_egunuda has lost the title: c_egunuda
+294 - vassal: c_egunuda - Title given to 1007116 - Primary title: d_ruguo
+294 - vassal: c_reokas - Holder 1007116 - Primary title: c_reokas has lost the title: c_reokas
+294 - vassal: c_reokas - Title given to 1007116 - Primary title: d_ruguo
+294 - vassal: c_wagifu - Holder 1007116 - Primary title: c_wagifu has lost the title: c_wagifu
+294 - vassal: c_wagifu - Title given to 1007116 - Primary title: d_ruguo
+295 - vassal: c_egunuda - Given to 1007301 in HandleTitles - Too many duke titles
+295 - vassal: c_egunuda - Title given to 1007301
+295 - Title given to 1005720 - Primary title: k_ruqi
+295 - vassal: c_reokas - Setting to vassal of d_qaoson in Validate Realm
+295 - Lost vassal: c_reokas
+295 - vassal: c_wagifu - Setting to vassal of d_qaoson in Validate Realm
+295 - Lost vassal: c_wagifu
+295 - Too many dukes, made direct title into vassal of k_ruqi
+295 - Title given to 1007302
+336 - Holder 1008098 - Primary title: d_sesukas has lost the title: d_sesukas
+336 - Title given to 1008098
+350 - Holder 1005714 - Primary title: d_sesukas has lost the title: d_sesukas
+350 - Title given to 1005714 - Primary title: c_besunas
+350 - Gained vassal: c_besunas
+355 - Holder 1009510 - Primary title: d_sesukas has lost the title: d_sesukas
+355 - Title given to 1009510 - Primary title: d_ruguo
+355 - vassal: c_besunas - Holder 1009510 - Primary title: c_besunas has lost the title: c_besunas
+355 - vassal: c_besunas - Title given to 1009510 - Primary title: d_ruguo
+356 - Holder 1006622 - Primary title: d_sesukas has lost the title: d_ruguo
+356 - Gained vassal: c_rajunas
+356 - Gained vassal: c_wagifu
+356 - Gained vassal: c_dogaise
+356 - Gained vassal: c_wasina
+356 - Holder 1010607 - Primary title: d_sesukas has lost the title: c_reokas
+370 - Holder 1010378 - Primary title: d_sesukas has lost the title: d_sesukas
+370 - Title given to 1010378 - Primary title: d_qaoson
+370 - vassal: c_wasina - Holder 1010378 - Primary title: c_wasina has lost the title: c_wasina
+370 - vassal: c_wasina - Title given to 1010378 - Primary title: d_qaoson
+370 - vassal: c_dogaise - Holder 1010378 - Primary title: c_dogaise has lost the title: c_dogaise
+370 - vassal: c_dogaise - Title given to 1010378 - Primary title: d_qaoson
+370 - vassal: c_wagifu - Holder 1010378 - Primary title: c_wagifu has lost the title: c_wagifu
+370 - vassal: c_wagifu - Title given to 1010378 - Primary title: d_qaoson
+370 - vassal: c_rajunas - Holder 1010378 - Primary title: c_rajunas has lost the title: c_rajunas
+370 - vassal: c_rajunas - Title given to 1010378 - Primary title: d_qaoson
+370 - vassal: c_besunas - Holder 1010378 - Primary title: c_besunas has lost the title: c_besunas
+370 - vassal: c_besunas - Title given to 1010378 - Primary title: d_qaoson

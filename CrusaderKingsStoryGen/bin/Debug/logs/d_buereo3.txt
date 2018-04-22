@@ -1,0 +1,90 @@
+200 - Title given to 1000888
+200 - vassal: c_bagya - Given to 1000892 via AddCharacterForTitle
+200 - sub vassal: c_bagya - Given to 1000892 via AddCharacterForTitle
+200 - vassal: c_bagya - Holder 1000892 - Primary title: c_bagya has lost the title: c_bagya
+200 - sub vassal: c_bagya - Holder 1000892 - Primary title: c_bagya has lost the title: c_bagya
+200 - vassal: c_bagya - Title given to 1000892
+200 - sub vassal: c_bagya - Title given to 1000892
+200 - vassal: c_keyanak - Holder 1000888 - Primary title: c_keyanak has lost the title: c_keyanak
+200 - sub vassal: c_keyanak - Holder 1000888 - Primary title: c_keyanak has lost the title: c_keyanak
+200 - vassal: c_keyanak - Title given to 1000888 - Primary title: d_buereo
+200 - sub vassal: c_keyanak - Title given to 1000888 - Primary title: d_buereo
+200 - Holder (1000888) has gained c_keyanak
+200 - vassal: c_tinemis - Holder 1000888 - Primary title: c_tinemis has lost the title: c_tinemis
+200 - sub vassal: c_tinemis - Holder 1000888 - Primary title: c_tinemis has lost the title: c_tinemis
+200 - vassal: c_tinemis - Title given to 1000888 - Primary title: d_buereo
+200 - sub vassal: c_tinemis - Title given to 1000888 - Primary title: d_buereo
+200 - Holder (1000888) has gained c_tinemis
+241 - Holder 1001899 - Primary title: d_buereo has lost the title: d_buereo
+241 - Title given to 1001899
+241 - vassal: c_tinemis - Holder 1001899 - Primary title: c_tinemis has lost the title: c_tinemis
+241 - vassal: c_tinemis - Title given to 1001899 - Primary title: d_buereo
+241 - Holder (1001899) has gained c_tinemis
+241 - vassal: c_keyanak - Holder 1001899 - Primary title: c_keyanak has lost the title: c_keyanak
+241 - vassal: c_keyanak - Title given to 1001899 - Primary title: d_buereo
+241 - Holder (1001899) has gained c_keyanak
+260 - Holder (1001899) has gained d_diyaneo
+260 - Holder (1001899) has gained c_egodanak
+273 - Title given to 1004140
+273 - vassal: c_tinemis - Setting to vassal of d_diyaneo in Validate Realm
+273 - Lost vassal: c_tinemis
+273 - vassal: c_keyanak - Setting to vassal of d_diyaneo in Validate Realm
+273 - Lost vassal: c_keyanak
+273 - Holder (1004140) has gained c_tinemis
+273 - Gained vassal: c_tinemis
+273 - Holder (1004140) has gained c_keyanak
+273 - Gained vassal: c_keyanak
+273 - Holder (1004140) has gained d_diyaneo
+273 - Holder (1004140) has gained c_egodanak
+288 - Gained vassal: c_egodanak
+288 - Holder 1005917 - Primary title: d_buereo has lost the title: d_buereo
+288 - Title given to 1005917 - Primary title: d_diyaneo
+288 - vassal: c_egodanak - Holder 1005917 - Primary title: c_egodanak has lost the title: c_egodanak
+288 - vassal: c_egodanak - Title given to 1005917 - Primary title: d_diyaneo
+288 - vassal: c_keyanak - Holder 1005917 - Primary title: c_keyanak has lost the title: c_keyanak
+288 - vassal: c_keyanak - Title given to 1005917 - Primary title: d_diyaneo
+288 - vassal: c_tinemis - Holder 1005917 - Primary title: c_tinemis has lost the title: c_tinemis
+288 - vassal: c_tinemis - Title given to 1005917 - Primary title: d_diyaneo
+292 - Holder 1006173 - Primary title: d_buereo has lost the title: d_buereo
+292 - Title given to 1006173 - Primary title: k_niel
+292 - vassal: c_egodanak - Holder 1006173 - Primary title: c_egodanak has lost the title: c_egodanak
+292 - vassal: c_egodanak - Title given to 1006173 - Primary title: k_niel
+292 - vassal: c_keyanak - Holder 1006173 - Primary title: c_keyanak has lost the title: c_keyanak
+292 - vassal: c_keyanak - Title given to 1006173 - Primary title: k_niel
+292 - vassal: c_tinemis - Holder 1006173 - Primary title: c_tinemis has lost the title: c_tinemis
+292 - vassal: c_tinemis - Title given to 1006173 - Primary title: k_niel
+293 - vassal: c_keyanak - Title given to 1006730
+299 - Gained vassal: c_wirinda
+299 - Gained vassal: c_lerana
+299 - Holder 1007006 - Primary title: d_buereo has lost the title: c_lerana
+299 - vassal: c_lerana - Title given to 1007006 - Primary title: k_niel
+299 - vassal: c_lerana - Setting to vassal of k_niel in Validate Realm
+299 - Lost vassal: c_lerana
+299 - Holder 1007006 - Primary title: d_buereo has lost the title: c_wirinda
+299 - vassal: c_wirinda - Title given to 1007006 - Primary title: k_niel
+299 - vassal: c_wirinda - Setting to vassal of k_niel in Validate Realm
+299 - Lost vassal: c_wirinda
+299 - Holder 1007006 - Primary title: d_buereo has lost the title: d_buereo
+299 - Title given to 1007006 - Primary title: k_niel
+299 - vassal: c_egodanak - Holder 1007006 - Primary title: c_egodanak has lost the title: c_egodanak
+299 - vassal: c_egodanak - Title given to 1007006 - Primary title: k_niel
+299 - vassal: c_tinemis - Holder 1007006 - Primary title: c_tinemis has lost the title: c_tinemis
+299 - vassal: c_tinemis - Title given to 1007006 - Primary title: k_niel
+300 - vassal: c_tinemis - Title given to 1007082
+311 - vassal: c_egodanak - Title given to 1007645
+314 - vassal: c_tinemis - Given to 1007777 in HandleTitles - Too many duke titles
+314 - vassal: c_tinemis - Holder 1007777 - Primary title: c_tinemis has lost the title: c_tinemis
+314 - vassal: c_tinemis - Title given to 1007777
+314 - Title given to 1007777 - Primary title: c_tinemis
+314 - vassal: c_tinemis - Holder (1007777) has gained d_buereo
+314 - Too many dukes, given to dejure: k_niel
+352 - Holder 1008416 - Primary title: d_buereo has lost the title: d_buereo
+352 - Title given to 1008416
+352 - vassal: c_tinemis - Holder 1008416 - Primary title: c_tinemis has lost the title: c_tinemis
+352 - vassal: c_tinemis - Title given to 1008416 - Primary title: d_buereo
+352 - Holder (1008416) has gained c_tinemis
+378 - Holder 1010098 - Primary title: d_buereo has lost the title: d_buereo
+378 - Title given to 1010098
+378 - vassal: c_tinemis - Holder 1010098 - Primary title: c_tinemis has lost the title: c_tinemis
+378 - vassal: c_tinemis - Title given to 1010098 - Primary title: d_buereo
+378 - Holder (1010098) has gained c_tinemis

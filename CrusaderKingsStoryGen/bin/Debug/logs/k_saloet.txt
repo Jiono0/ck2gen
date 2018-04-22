@@ -1,0 +1,479 @@
+200 - Title given to 1001037
+200 - vassal: d_tagavin - Holder 1001037 - Primary title: d_tagavin has lost the title: d_tagavin
+200 - sub vassal: d_tagavin - Holder 1001037 - Primary title: d_tagavin has lost the title: d_tagavin
+200 - vassal: d_tagavin - Title given to 1001037 - Primary title: k_saloet
+200 - sub vassal: d_tagavin - Title given to 1001037 - Primary title: k_saloet
+200 - Holder (1001037) has gained d_tagavin
+200 - sub vassal: c_bupard - Holder 1001037 - Primary title: c_bupard has lost the title: c_bupard
+200 - sub vassal: c_bupard - Title given to 1001037 - Primary title: k_saloet
+200 - Holder (1001037) has gained c_bupard
+231 - vassal: d_aguyasil - Holder 1001248 - Primary title: d_aguyasil has lost the title: d_aguyasil
+231 - sub vassal: d_aguyasil - Holder 1001248 - Primary title: d_aguyasil has lost the title: d_aguyasil
+231 - vassal: d_aguyasil - Title given to 1001248
+231 - sub vassal: d_aguyasil - Title given to 1001248
+231 - sub vassal: c_dovard - Holder 1001248 - Primary title: c_dovard has lost the title: c_dovard
+231 - sub vassal: c_dovard - Title given to 1001248 - Primary title: d_aguyasil
+231 - vassal: d_aguyasil - Holder (1001248) has gained c_dovard
+231 - sub vassal: d_aguyasil - Holder (1001248) has gained c_dovard
+231 - sub vassal: c_kafimon - Holder 1001248 - Primary title: c_kafimon has lost the title: c_kafimon
+231 - sub vassal: c_kafimon - Title given to 1001248 - Primary title: d_aguyasil
+231 - vassal: d_aguyasil - Holder (1001248) has gained c_kafimon
+231 - sub vassal: d_aguyasil - Holder (1001248) has gained c_kafimon
+234 - vassal: d_aguyasil - Holder 1001037 - Primary title: d_aguyasil has lost the title: d_aguyasil
+234 - sub vassal: d_aguyasil - Holder 1001037 - Primary title: d_aguyasil has lost the title: d_aguyasil
+234 - vassal: d_aguyasil - Title given to 1001037 - Primary title: k_saloet
+234 - sub vassal: d_aguyasil - Title given to 1001037 - Primary title: k_saloet
+234 - Holder (1001037) has gained d_aguyasil
+234 - sub vassal: c_dovard - Holder 1001037 - Primary title: c_dovard has lost the title: c_dovard
+234 - sub vassal: c_dovard - Title given to 1001037 - Primary title: k_saloet
+234 - Holder (1001037) has gained c_dovard
+234 - sub vassal: c_kafimon - Holder 1001037 - Primary title: c_kafimon has lost the title: c_kafimon
+234 - sub vassal: c_kafimon - Title given to 1001037 - Primary title: k_saloet
+234 - Holder (1001037) has gained c_kafimon
+236 - Holder 1003674 - Primary title: k_saloet has lost the title: k_saloet
+236 - Title given to 1003674
+236 - vassal: d_tagavin - Holder 1003674 - Primary title: d_tagavin has lost the title: d_tagavin
+236 - sub vassal: d_tagavin - Holder 1003674 - Primary title: d_tagavin has lost the title: d_tagavin
+236 - vassal: d_tagavin - Title given to 1003674 - Primary title: k_saloet
+236 - sub vassal: d_tagavin - Title given to 1003674 - Primary title: k_saloet
+236 - Holder (1003674) has gained d_tagavin
+236 - sub vassal: c_bupard - Setting to vassal of d_aguyasil in Validate Realm
+236 - vassal: d_tagavin - Lost vassal: c_bupard
+236 - sub vassal: d_tagavin - Lost vassal: c_bupard
+236 - vassal: d_aguyasil - Gained vassal: c_bupard
+236 - sub vassal: d_aguyasil - Gained vassal: c_bupard
+236 - vassal: d_aguyasil - Holder 1003674 - Primary title: d_aguyasil has lost the title: c_bupard
+236 - sub vassal: d_aguyasil - Holder 1003674 - Primary title: d_aguyasil has lost the title: c_bupard
+236 - sub vassal: c_bupard - Title given to 1003674 - Primary title: k_saloet
+236 - Holder (1003674) has gained c_bupard
+236 - sub vassal: c_bupard - Setting to vassal of k_saloet in Validate Realm
+236 - vassal: d_aguyasil - Lost vassal: c_bupard
+236 - sub vassal: d_aguyasil - Lost vassal: c_bupard
+236 - Gained vassal: c_bupard
+236 - vassal: d_aguyasil - Holder 1003674 - Primary title: d_aguyasil has lost the title: d_aguyasil
+236 - sub vassal: d_aguyasil - Holder 1003674 - Primary title: d_aguyasil has lost the title: d_aguyasil
+236 - vassal: d_aguyasil - Title given to 1003674 - Primary title: k_saloet
+236 - sub vassal: d_aguyasil - Title given to 1003674 - Primary title: k_saloet
+236 - Holder (1003674) has gained d_aguyasil
+236 - sub vassal: c_dovard - Holder 1003674 - Primary title: c_dovard has lost the title: c_dovard
+236 - sub vassal: c_dovard - Title given to 1003674 - Primary title: k_saloet
+236 - Holder (1003674) has gained c_dovard
+236 - sub vassal: c_kafimon - Holder 1003674 - Primary title: c_kafimon has lost the title: c_kafimon
+236 - sub vassal: c_kafimon - Title given to 1003674 - Primary title: k_saloet
+236 - Holder (1003674) has gained c_kafimon
+238 - Holder 1000581 - Primary title: k_saloet has lost the title: k_saloet
+238 - Title given to 1000581 - Primary title: d_satala
+238 - vassal: d_satala - Holder (1000581) has gained k_saloet
+238 - sub vassal: d_satala - Holder (1000581) has gained k_saloet
+238 - vassal: c_bupard - Setting to vassal of d_tagavin in Validate Realm
+238 - sub vassal: c_bupard - Setting to vassal of d_tagavin in Validate Realm
+238 - Lost vassal: c_bupard
+238 - vassal: d_tagavin - Gained vassal: c_bupard
+238 - sub vassal: d_tagavin - Gained vassal: c_bupard
+238 - vassal: d_tagavin - Holder 1000581 - Primary title: d_tagavin has lost the title: d_tagavin
+238 - sub vassal: d_tagavin - Holder 1000581 - Primary title: d_tagavin has lost the title: d_tagavin
+238 - vassal: d_tagavin - Title given to 1000581 - Primary title: k_saloet
+238 - sub vassal: d_tagavin - Title given to 1000581 - Primary title: k_saloet
+238 - Holder (1000581) has gained d_tagavin
+238 - sub vassal: c_bupard - Setting to vassal of d_aguyasil in Validate Realm
+238 - vassal: d_tagavin - Lost vassal: c_bupard
+238 - sub vassal: d_tagavin - Lost vassal: c_bupard
+238 - vassal: d_aguyasil - Gained vassal: c_bupard
+238 - sub vassal: d_aguyasil - Gained vassal: c_bupard
+238 - vassal: d_aguyasil - Holder 1000581 - Primary title: d_aguyasil has lost the title: c_bupard
+238 - sub vassal: d_aguyasil - Holder 1000581 - Primary title: d_aguyasil has lost the title: c_bupard
+238 - sub vassal: c_bupard - Title given to 1000581 - Primary title: k_saloet
+238 - Holder (1000581) has gained c_bupard
+238 - sub vassal: c_bupard - Setting to vassal of k_saloet in Validate Realm
+238 - vassal: d_aguyasil - Lost vassal: c_bupard
+238 - sub vassal: d_aguyasil - Lost vassal: c_bupard
+238 - Gained vassal: c_bupard
+238 - vassal: d_aguyasil - Holder 1000581 - Primary title: d_aguyasil has lost the title: d_aguyasil
+238 - sub vassal: d_aguyasil - Holder 1000581 - Primary title: d_aguyasil has lost the title: d_aguyasil
+238 - vassal: d_aguyasil - Title given to 1000581 - Primary title: k_saloet
+238 - sub vassal: d_aguyasil - Title given to 1000581 - Primary title: k_saloet
+238 - Holder (1000581) has gained d_aguyasil
+238 - sub vassal: c_dovard - Holder 1000581 - Primary title: c_dovard has lost the title: c_dovard
+238 - sub vassal: c_dovard - Title given to 1000581 - Primary title: k_saloet
+238 - Holder (1000581) has gained c_dovard
+238 - sub vassal: c_kafimon - Holder 1000581 - Primary title: c_kafimon has lost the title: c_kafimon
+238 - sub vassal: c_kafimon - Title given to 1000581 - Primary title: k_saloet
+238 - Holder (1000581) has gained c_kafimon
+239 - sub vassal: c_totyla - Given to 1003828 in HandleTitles - Too many duke titles
+239 - Holder 1003828 - Primary title: k_saloet has lost the title: c_totyla
+239 - sub vassal: c_totyla - Title given to 1003828
+239 - Holder 1003828 - Primary title: k_saloet has lost the title: d_satala
+239 - vassal: d_satala - Title given to 1003828 - Primary title: c_totyla
+239 - sub vassal: d_satala - Title given to 1003828 - Primary title: c_totyla
+239 - sub vassal: c_totyla - Holder (1003828) has gained d_satala
+239 - sub vassal: c_dovolas - Setting to vassal of k_saloet in Validate Realm
+239 - vassal: d_satala - Lost vassal: c_dovolas
+239 - sub vassal: d_satala - Lost vassal: c_dovolas
+239 - Gained vassal: c_dovolas
+239 - vassal: d_satala - Too many dukes, given to dejure: k_saloet
+239 - sub vassal: d_satala - Too many dukes, given to dejure: k_saloet
+239 - Holder 1001963 - Primary title: k_saloet has lost the title: k_saloet
+239 - Title given to 1001963
+239 - vassal: d_tagavin - Holder 1001963 - Primary title: d_tagavin has lost the title: c_dovolas
+239 - sub vassal: d_tagavin - Holder 1001963 - Primary title: d_tagavin has lost the title: c_dovolas
+239 - vassal: c_dovolas - Title given to 1001963 - Primary title: k_saloet
+239 - sub vassal: c_dovolas - Title given to 1001963 - Primary title: k_saloet
+239 - Holder (1001963) has gained c_dovolas
+239 - vassal: c_bupard - Setting to vassal of d_tagavin in Validate Realm
+239 - sub vassal: c_bupard - Setting to vassal of d_tagavin in Validate Realm
+239 - Lost vassal: c_bupard
+239 - vassal: d_tagavin - Gained vassal: c_bupard
+239 - sub vassal: d_tagavin - Gained vassal: c_bupard
+239 - vassal: d_tagavin - Holder 1001963 - Primary title: d_tagavin has lost the title: d_tagavin
+239 - sub vassal: d_tagavin - Holder 1001963 - Primary title: d_tagavin has lost the title: d_tagavin
+239 - vassal: d_tagavin - Title given to 1001963 - Primary title: k_saloet
+239 - sub vassal: d_tagavin - Title given to 1001963 - Primary title: k_saloet
+239 - Holder (1001963) has gained d_tagavin
+239 - sub vassal: c_bupard - Setting to vassal of d_aguyasil in Validate Realm
+239 - vassal: d_tagavin - Lost vassal: c_bupard
+239 - sub vassal: d_tagavin - Lost vassal: c_bupard
+239 - vassal: d_aguyasil - Gained vassal: c_bupard
+239 - sub vassal: d_aguyasil - Gained vassal: c_bupard
+239 - vassal: d_aguyasil - Holder 1001963 - Primary title: d_aguyasil has lost the title: c_bupard
+239 - sub vassal: d_aguyasil - Holder 1001963 - Primary title: d_aguyasil has lost the title: c_bupard
+239 - sub vassal: c_bupard - Title given to 1001963 - Primary title: k_saloet
+239 - Holder (1001963) has gained c_bupard
+239 - sub vassal: c_bupard - Setting to vassal of k_saloet in Validate Realm
+239 - vassal: d_aguyasil - Lost vassal: c_bupard
+239 - sub vassal: d_aguyasil - Lost vassal: c_bupard
+239 - Gained vassal: c_bupard
+239 - vassal: d_aguyasil - Holder 1001963 - Primary title: d_aguyasil has lost the title: d_aguyasil
+239 - sub vassal: d_aguyasil - Holder 1001963 - Primary title: d_aguyasil has lost the title: d_aguyasil
+239 - vassal: d_aguyasil - Title given to 1001963 - Primary title: k_saloet
+239 - sub vassal: d_aguyasil - Title given to 1001963 - Primary title: k_saloet
+239 - Holder (1001963) has gained d_aguyasil
+239 - sub vassal: c_dovard - Holder 1001963 - Primary title: c_dovard has lost the title: c_dovard
+239 - sub vassal: c_dovard - Title given to 1001963 - Primary title: k_saloet
+239 - Holder (1001963) has gained c_dovard
+239 - sub vassal: c_kafimon - Holder 1001963 - Primary title: c_kafimon has lost the title: c_kafimon
+239 - sub vassal: c_kafimon - Title given to 1001963 - Primary title: k_saloet
+239 - Holder (1001963) has gained c_kafimon
+244 - Holder 1003885 - Primary title: k_saloet has lost the title: k_saloet
+244 - Title given to 1003885
+244 - vassal: d_tagavin - Holder 1003885 - Primary title: d_tagavin has lost the title: d_tagavin
+244 - sub vassal: d_tagavin - Holder 1003885 - Primary title: d_tagavin has lost the title: d_tagavin
+244 - vassal: d_tagavin - Title given to 1003885 - Primary title: k_saloet
+244 - sub vassal: d_tagavin - Title given to 1003885 - Primary title: k_saloet
+244 - Holder (1003885) has gained d_tagavin
+244 - vassal: c_bupard - Setting to vassal of d_aguyasil in Validate Realm
+244 - sub vassal: c_bupard - Setting to vassal of d_aguyasil in Validate Realm
+244 - Lost vassal: c_bupard
+244 - vassal: c_dovolas - Setting to vassal of d_aguyasil in Validate Realm
+244 - sub vassal: c_dovolas - Setting to vassal of d_aguyasil in Validate Realm
+244 - Lost vassal: c_dovolas
+244 - vassal: d_aguyasil - Gained vassal: c_dovolas
+244 - sub vassal: d_aguyasil - Gained vassal: c_dovolas
+244 - vassal: d_aguyasil - Gained vassal: c_bupard
+244 - sub vassal: d_aguyasil - Gained vassal: c_bupard
+244 - vassal: d_aguyasil - Holder 1003885 - Primary title: d_aguyasil has lost the title: d_aguyasil
+244 - sub vassal: d_aguyasil - Holder 1003885 - Primary title: d_aguyasil has lost the title: d_aguyasil
+244 - vassal: d_aguyasil - Title given to 1003885 - Primary title: k_saloet
+244 - sub vassal: d_aguyasil - Title given to 1003885 - Primary title: k_saloet
+244 - Holder (1003885) has gained d_aguyasil
+244 - sub vassal: c_kafimon - Holder 1003885 - Primary title: c_kafimon has lost the title: c_kafimon
+244 - sub vassal: c_kafimon - Title given to 1003885 - Primary title: k_saloet
+244 - Holder (1003885) has gained c_kafimon
+244 - sub vassal: c_dovard - Holder 1003885 - Primary title: c_dovard has lost the title: c_dovard
+244 - sub vassal: c_dovard - Title given to 1003885 - Primary title: k_saloet
+244 - Holder (1003885) has gained c_dovard
+244 - sub vassal: c_bupard - Holder 1003885 - Primary title: c_bupard has lost the title: c_bupard
+244 - sub vassal: c_bupard - Title given to 1003885 - Primary title: k_saloet
+244 - Holder (1003885) has gained c_bupard
+244 - sub vassal: c_dovolas - Holder 1003885 - Primary title: c_dovolas has lost the title: c_dovolas
+244 - sub vassal: c_dovolas - Title given to 1003885 - Primary title: k_saloet
+244 - Holder (1003885) has gained c_dovolas
+260 - vassal: d_satala - Holder 1004255 - Primary title: d_satala has lost the title: d_satala
+260 - sub vassal: d_satala - Holder 1004255 - Primary title: d_satala has lost the title: d_satala
+260 - vassal: d_satala - Title given to 1004255
+260 - sub vassal: d_satala - Title given to 1004255
+260 - sub vassal: c_totyla - Holder 1004255 - Primary title: c_totyla has lost the title: c_totyla
+260 - sub vassal: c_totyla - Title given to 1004255 - Primary title: d_satala
+260 - vassal: d_satala - Holder (1004255) has gained c_totyla
+260 - sub vassal: d_satala - Holder (1004255) has gained c_totyla
+269 - vassal: d_qigolas - Holder 1001588 - Primary title: d_qigolas has lost the title: d_qigolas
+269 - sub vassal: d_qigolas - Holder 1001588 - Primary title: d_qigolas has lost the title: d_qigolas
+269 - vassal: d_qigolas - Title given to 1001588
+269 - sub vassal: d_qigolas - Title given to 1001588
+269 - sub vassal: c_wyad - Holder 1001588 - Primary title: c_wyad has lost the title: c_wyad
+269 - sub vassal: c_wyad - Title given to 1001588 - Primary title: d_qigolas
+269 - vassal: d_qigolas - Holder (1001588) has gained c_wyad
+269 - sub vassal: d_qigolas - Holder (1001588) has gained c_wyad
+269 - sub vassal: c_bupand - Holder 1001588 - Primary title: c_bupand has lost the title: c_bupand
+269 - sub vassal: c_bupand - Title given to 1001588 - Primary title: d_qigolas
+269 - vassal: d_qigolas - Holder (1001588) has gained c_bupand
+269 - sub vassal: d_qigolas - Holder (1001588) has gained c_bupand
+269 - sub vassal: c_nanius - Holder 1001588 - Primary title: c_nanius has lost the title: c_nanius
+269 - sub vassal: c_nanius - Title given to 1001588 - Primary title: d_qigolas
+269 - vassal: d_qigolas - Holder (1001588) has gained c_nanius
+269 - sub vassal: d_qigolas - Holder (1001588) has gained c_nanius
+270 - vassal: d_qigolas - Holder 1003885 - Primary title: d_qigolas has lost the title: d_qigolas
+270 - sub vassal: d_qigolas - Holder 1003885 - Primary title: d_qigolas has lost the title: d_qigolas
+270 - vassal: d_qigolas - Title given to 1003885 - Primary title: k_saloet
+270 - sub vassal: d_qigolas - Title given to 1003885 - Primary title: k_saloet
+270 - Holder (1003885) has gained d_qigolas
+270 - sub vassal: c_wyad - Holder 1003885 - Primary title: c_wyad has lost the title: c_wyad
+270 - sub vassal: c_wyad - Title given to 1003885 - Primary title: k_saloet
+270 - Holder (1003885) has gained c_wyad
+270 - sub vassal: c_bupand - Holder 1003885 - Primary title: c_bupand has lost the title: c_bupand
+270 - sub vassal: c_bupand - Title given to 1003885 - Primary title: k_saloet
+270 - Holder (1003885) has gained c_bupand
+270 - sub vassal: c_nanius - Holder 1003885 - Primary title: c_nanius has lost the title: c_nanius
+270 - sub vassal: c_nanius - Title given to 1003885 - Primary title: k_saloet
+270 - Holder (1003885) has gained c_nanius
+270 - sub vassal: c_wyad - Given to 1005566 in HandleTitles - Too many duke titles
+270 - Holder 1005566 - Primary title: k_saloet has lost the title: c_wyad
+270 - sub vassal: c_wyad - Title given to 1005566
+270 - Holder 1005566 - Primary title: k_saloet has lost the title: d_qigolas
+270 - vassal: d_qigolas - Title given to 1005566 - Primary title: c_wyad
+270 - sub vassal: d_qigolas - Title given to 1005566 - Primary title: c_wyad
+270 - sub vassal: c_wyad - Holder (1005566) has gained d_qigolas
+270 - sub vassal: c_bupand - Setting to vassal of k_saloet in Validate Realm
+270 - vassal: d_qigolas - Lost vassal: c_bupand
+270 - sub vassal: d_qigolas - Lost vassal: c_bupand
+270 - sub vassal: c_nanius - Setting to vassal of k_saloet in Validate Realm
+270 - vassal: d_qigolas - Lost vassal: c_nanius
+270 - sub vassal: d_qigolas - Lost vassal: c_nanius
+270 - Gained vassal: c_nanius
+270 - Gained vassal: c_bupand
+270 - vassal: d_qigolas - Too many dukes, given to dejure: k_saloet
+270 - sub vassal: d_qigolas - Too many dukes, given to dejure: k_saloet
+270 - Holder 1005567 - Primary title: k_saloet has lost the title: c_bupand
+270 - vassal: c_bupand - Title given to 1005567
+270 - sub vassal: c_bupand - Title given to 1005567
+273 - vassal: d_qigolas - Holder 1004255 - Primary title: d_qigolas has lost the title: d_qigolas
+273 - sub vassal: d_qigolas - Holder 1004255 - Primary title: d_qigolas has lost the title: d_qigolas
+273 - vassal: d_qigolas - Title given to 1004255 - Primary title: d_satala
+273 - sub vassal: d_qigolas - Title given to 1004255 - Primary title: d_satala
+273 - vassal: d_satala - Holder (1004255) has gained d_qigolas
+273 - sub vassal: d_satala - Holder (1004255) has gained d_qigolas
+273 - sub vassal: c_wyad - Holder 1004255 - Primary title: c_wyad has lost the title: c_wyad
+273 - sub vassal: c_wyad - Title given to 1004255 - Primary title: d_satala
+273 - vassal: d_satala - Holder (1004255) has gained c_wyad
+273 - sub vassal: d_satala - Holder (1004255) has gained c_wyad
+288 - vassal: d_qigolas - Holder 1005315 - Primary title: d_qigolas has lost the title: d_qigolas
+288 - sub vassal: d_qigolas - Holder 1005315 - Primary title: d_qigolas has lost the title: d_qigolas
+288 - vassal: d_qigolas - Title given to 1005315
+288 - sub vassal: d_qigolas - Title given to 1005315
+288 - sub vassal: c_wyad - Setting to vassal of d_satala in Validate Realm
+288 - vassal: d_qigolas - Lost vassal: c_wyad
+288 - sub vassal: d_qigolas - Lost vassal: c_wyad
+288 - vassal: d_satala - Gained vassal: c_wyad
+288 - sub vassal: d_satala - Gained vassal: c_wyad
+288 - vassal: d_satala - Holder 1005315 - Primary title: d_satala has lost the title: d_satala
+288 - sub vassal: d_satala - Holder 1005315 - Primary title: d_satala has lost the title: d_satala
+288 - vassal: d_satala - Title given to 1005315 - Primary title: d_qigolas
+288 - sub vassal: d_satala - Title given to 1005315 - Primary title: d_qigolas
+288 - vassal: d_qigolas - Holder (1005315) has gained d_satala
+288 - sub vassal: d_qigolas - Holder (1005315) has gained d_satala
+288 - sub vassal: c_wyad - Holder 1005315 - Primary title: c_wyad has lost the title: c_wyad
+288 - sub vassal: c_wyad - Title given to 1005315 - Primary title: d_qigolas
+288 - vassal: d_qigolas - Holder (1005315) has gained c_wyad
+288 - sub vassal: d_qigolas - Holder (1005315) has gained c_wyad
+288 - sub vassal: c_totyla - Holder 1005315 - Primary title: c_totyla has lost the title: c_totyla
+288 - sub vassal: c_totyla - Title given to 1005315 - Primary title: d_qigolas
+288 - vassal: d_qigolas - Holder (1005315) has gained c_totyla
+288 - sub vassal: d_qigolas - Holder (1005315) has gained c_totyla
+289 - vassal: d_qigolas - Destroyed due to flagged problem
+289 - sub vassal: d_qigolas - Destroyed due to flagged problem
+289 - vassal: d_qigolas - Made independent
+289 - sub vassal: d_qigolas - Made independent
+297 - Holder 1004842 - Primary title: k_saloet has lost the title: k_saloet
+297 - Title given to 1004842
+297 - vassal: d_tagavin - Holder 1004842 - Primary title: d_tagavin has lost the title: d_tagavin
+297 - sub vassal: d_tagavin - Holder 1004842 - Primary title: d_tagavin has lost the title: d_tagavin
+297 - vassal: d_tagavin - Title given to 1004842 - Primary title: k_saloet
+297 - sub vassal: d_tagavin - Title given to 1004842 - Primary title: k_saloet
+297 - Holder (1004842) has gained d_tagavin
+297 - vassal: c_nanius - Setting to vassal of d_aguyasil in Validate Realm
+297 - sub vassal: c_nanius - Setting to vassal of d_aguyasil in Validate Realm
+297 - Lost vassal: c_nanius
+297 - vassal: d_aguyasil - Gained vassal: c_nanius
+297 - sub vassal: d_aguyasil - Gained vassal: c_nanius
+297 - vassal: d_aguyasil - Holder 1004842 - Primary title: d_aguyasil has lost the title: d_aguyasil
+297 - sub vassal: d_aguyasil - Holder 1004842 - Primary title: d_aguyasil has lost the title: d_aguyasil
+297 - vassal: d_aguyasil - Title given to 1004842 - Primary title: k_saloet
+297 - sub vassal: d_aguyasil - Title given to 1004842 - Primary title: k_saloet
+297 - Holder (1004842) has gained d_aguyasil
+297 - sub vassal: c_nanius - Holder 1004842 - Primary title: c_nanius has lost the title: c_nanius
+297 - sub vassal: c_nanius - Title given to 1004842 - Primary title: k_saloet
+297 - Holder (1004842) has gained c_nanius
+297 - sub vassal: c_kafimon - Holder 1004842 - Primary title: c_kafimon has lost the title: c_kafimon
+297 - sub vassal: c_kafimon - Title given to 1004842 - Primary title: k_saloet
+297 - Holder (1004842) has gained c_kafimon
+297 - sub vassal: c_dovard - Holder 1004842 - Primary title: c_dovard has lost the title: c_dovard
+297 - sub vassal: c_dovard - Title given to 1004842 - Primary title: k_saloet
+297 - Holder (1004842) has gained c_dovard
+297 - sub vassal: c_bupard - Holder 1004842 - Primary title: c_bupard has lost the title: c_bupard
+297 - sub vassal: c_bupard - Title given to 1004842 - Primary title: k_saloet
+297 - Holder (1004842) has gained c_bupard
+297 - sub vassal: c_dovolas - Holder 1004842 - Primary title: c_dovolas has lost the title: c_dovolas
+297 - sub vassal: c_dovolas - Title given to 1004842 - Primary title: k_saloet
+297 - Holder (1004842) has gained c_dovolas
+300 - sub vassal: c_ligona - Holder 1004842 - Primary title: c_ligona has lost the title: c_ligona
+300 - sub vassal: c_ligona - Title given to 1004842 - Primary title: k_saloet
+300 - Holder (1004842) has gained c_ligona
+300 - sub vassal: c_tigand - Holder 1004842 - Primary title: c_tigand has lost the title: c_tigand
+300 - sub vassal: c_tigand - Title given to 1004842 - Primary title: k_saloet
+300 - Holder (1004842) has gained c_tigand
+300 - sub vassal: c_sand - Holder 1004842 - Primary title: c_sand has lost the title: c_sand
+300 - sub vassal: c_sand - Title given to 1004842 - Primary title: k_saloet
+300 - Holder (1004842) has gained c_sand
+300 - sub vassal: c_tigard - Holder 1004842 - Primary title: c_tigard has lost the title: c_tigard
+300 - sub vassal: c_tigard - Title given to 1004842 - Primary title: k_saloet
+300 - Holder (1004842) has gained c_tigard
+300 - Holder 1007076 - Primary title: k_saloet has lost the title: c_tigard
+300 - sub vassal: c_tigard - Title given to 1007076
+300 - Holder 1004325 - Primary title: k_saloet has lost the title: c_sand
+300 - sub vassal: c_sand - Title given to 1004325
+300 - Holder 1007077 - Primary title: k_saloet has lost the title: c_tigand
+300 - sub vassal: c_tigand - Title given to 1007077
+300 - Holder 1007078 - Primary title: k_saloet has lost the title: c_ligona
+300 - sub vassal: c_ligona - Title given to 1007078
+314 - Holder 1007226 - Primary title: k_saloet has lost the title: k_saloet
+314 - Title given to 1007226
+314 - vassal: d_tagavin - Holder 1007226 - Primary title: d_tagavin has lost the title: d_tagavin
+314 - sub vassal: d_tagavin - Holder 1007226 - Primary title: d_tagavin has lost the title: d_tagavin
+314 - vassal: d_tagavin - Title given to 1007226 - Primary title: k_saloet
+314 - sub vassal: d_tagavin - Title given to 1007226 - Primary title: k_saloet
+314 - Holder (1007226) has gained d_tagavin
+314 - vassal: d_aguyasil - Holder 1007226 - Primary title: d_aguyasil has lost the title: d_aguyasil
+314 - sub vassal: d_aguyasil - Holder 1007226 - Primary title: d_aguyasil has lost the title: d_aguyasil
+314 - vassal: d_aguyasil - Title given to 1007226 - Primary title: k_saloet
+314 - sub vassal: d_aguyasil - Title given to 1007226 - Primary title: k_saloet
+314 - Holder (1007226) has gained d_aguyasil
+314 - sub vassal: c_dovolas - Holder 1007226 - Primary title: c_dovolas has lost the title: c_dovolas
+314 - sub vassal: c_dovolas - Title given to 1007226 - Primary title: k_saloet
+314 - Holder (1007226) has gained c_dovolas
+314 - sub vassal: c_bupard - Holder 1007226 - Primary title: c_bupard has lost the title: c_bupard
+314 - sub vassal: c_bupard - Title given to 1007226 - Primary title: k_saloet
+314 - Holder (1007226) has gained c_bupard
+314 - sub vassal: c_dovard - Holder 1007226 - Primary title: c_dovard has lost the title: c_dovard
+314 - sub vassal: c_dovard - Title given to 1007226 - Primary title: k_saloet
+314 - Holder (1007226) has gained c_dovard
+314 - sub vassal: c_kafimon - Holder 1007226 - Primary title: c_kafimon has lost the title: c_kafimon
+314 - sub vassal: c_kafimon - Title given to 1007226 - Primary title: k_saloet
+314 - Holder (1007226) has gained c_kafimon
+314 - sub vassal: c_nanius - Holder 1007226 - Primary title: c_nanius has lost the title: c_nanius
+314 - sub vassal: c_nanius - Title given to 1007226 - Primary title: k_saloet
+314 - Holder (1007226) has gained c_nanius
+322 - vassal: d_satala - Holder 1006767 - Primary title: d_satala has lost the title: d_satala
+322 - sub vassal: d_satala - Holder 1006767 - Primary title: d_satala has lost the title: d_satala
+322 - vassal: d_satala - Title given to 1006767
+322 - sub vassal: d_satala - Title given to 1006767
+322 - sub vassal: c_wyad - Holder 1006767 - Primary title: c_wyad has lost the title: c_wyad
+322 - sub vassal: c_wyad - Title given to 1006767 - Primary title: d_satala
+322 - vassal: d_satala - Holder (1006767) has gained c_wyad
+322 - sub vassal: d_satala - Holder (1006767) has gained c_wyad
+322 - sub vassal: c_totyla - Holder 1006767 - Primary title: c_totyla has lost the title: c_totyla
+322 - sub vassal: c_totyla - Title given to 1006767 - Primary title: d_satala
+322 - vassal: d_satala - Holder (1006767) has gained c_totyla
+322 - sub vassal: d_satala - Holder (1006767) has gained c_totyla
+330 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+330 - Lost vassal: c_qabine
+330 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+330 - Lost vassal: c_laren
+330 - Gained vassal: c_natok
+330 - vassal: c_natok - Given to neighbour holder of k_saloet
+330 - sub vassal: c_natok - Given to neighbour holder of k_saloet
+330 - vassal: c_natok - Holder 1007226 - Primary title: c_natok has lost the title: c_natok
+330 - sub vassal: c_natok - Holder 1007226 - Primary title: c_natok has lost the title: c_natok
+330 - vassal: c_natok - Title given to 1007226 - Primary title: k_saloet
+330 - sub vassal: c_natok - Title given to 1007226 - Primary title: k_saloet
+330 - Holder (1007226) has gained c_natok
+330 - Holder 1008611 - Primary title: k_saloet has lost the title: c_natok
+330 - vassal: c_natok - Title given to 1008611
+330 - sub vassal: c_natok - Title given to 1008611
+331 - vassal: d_satala - Holder 1008406 - Primary title: d_satala has lost the title: d_satala
+331 - sub vassal: d_satala - Holder 1008406 - Primary title: d_satala has lost the title: d_satala
+331 - vassal: d_satala - Title given to 1008406
+331 - sub vassal: d_satala - Title given to 1008406
+331 - sub vassal: c_wyad - Holder 1008406 - Primary title: c_wyad has lost the title: c_wyad
+331 - sub vassal: c_wyad - Title given to 1008406 - Primary title: d_satala
+331 - vassal: d_satala - Holder (1008406) has gained c_wyad
+331 - sub vassal: d_satala - Holder (1008406) has gained c_wyad
+331 - sub vassal: c_totyla - Holder 1008406 - Primary title: c_totyla has lost the title: c_totyla
+331 - sub vassal: c_totyla - Title given to 1008406 - Primary title: d_satala
+331 - vassal: d_satala - Holder (1008406) has gained c_totyla
+331 - sub vassal: d_satala - Holder (1008406) has gained c_totyla
+331 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+331 - Lost vassal: c_tabine
+331 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+331 - Lost vassal: c_weniana
+331 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+331 - Lost vassal: c_rohn
+332 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+332 - Lost vassal: c_tabine
+332 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+332 - Lost vassal: c_weniana
+332 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+332 - Lost vassal: c_rohn
+333 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+333 - Lost vassal: c_tabine
+333 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+333 - Lost vassal: c_weniana
+333 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+333 - Lost vassal: c_rohn
+334 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+334 - Lost vassal: c_tabine
+334 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+334 - Lost vassal: c_weniana
+334 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+334 - Lost vassal: c_rohn
+335 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+335 - Lost vassal: c_tabine
+335 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+335 - Lost vassal: c_weniana
+335 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+335 - Lost vassal: c_rohn
+336 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+336 - Lost vassal: c_tabine
+336 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+336 - Lost vassal: c_weniana
+336 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+336 - Lost vassal: c_rohn
+337 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+337 - Lost vassal: c_tabine
+337 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+337 - Lost vassal: c_weniana
+337 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+337 - Lost vassal: c_rohn
+338 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+338 - Lost vassal: c_tabine
+338 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+338 - Lost vassal: c_weniana
+338 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+338 - Lost vassal: c_rohn
+339 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+339 - Lost vassal: c_tabine
+339 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+339 - Lost vassal: c_weniana
+339 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+339 - Lost vassal: c_rohn
+340 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+340 - Lost vassal: c_laren
+340 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+340 - Lost vassal: c_qabine
+340 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+340 - Lost vassal: c_rohn
+340 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+340 - Lost vassal: c_weniana
+340 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+340 - Lost vassal: c_tabine
+341 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+341 - Lost vassal: c_laren
+341 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm
+341 - Lost vassal: c_qabine
+341 - vassal: c_rohn - Setting to vassal of d_rupew in Validate Realm
+341 - Lost vassal: c_rohn
+341 - vassal: c_weniana - Setting to vassal of d_rupew in Validate Realm
+341 - Lost vassal: c_weniana
+341 - vassal: c_tabine - Setting to vassal of d_rupew in Validate Realm
+341 - Lost vassal: c_tabine
+342 - vassal: c_laren - Setting to vassal of d_tulyla in Validate Realm
+342 - Lost vassal: c_laren
+342 - vassal: c_qabine - Setting to vassal of d_tulyla in Validate Realm

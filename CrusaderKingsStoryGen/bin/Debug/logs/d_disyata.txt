@@ -1,0 +1,49 @@
+200 - Title given to 1000319
+200 - vassal: c_qisan - Given to 1000323 via AddCharacterForTitle
+200 - sub vassal: c_qisan - Given to 1000323 via AddCharacterForTitle
+200 - vassal: c_qisan - Holder 1000323 - Primary title: c_qisan has lost the title: c_qisan
+200 - sub vassal: c_qisan - Holder 1000323 - Primary title: c_qisan has lost the title: c_qisan
+200 - vassal: c_qisan - Title given to 1000323
+200 - sub vassal: c_qisan - Title given to 1000323
+200 - vassal: c_wuhyata - Holder 1000319 - Primary title: c_wuhyata has lost the title: c_wuhyata
+200 - sub vassal: c_wuhyata - Holder 1000319 - Primary title: c_wuhyata has lost the title: c_wuhyata
+200 - vassal: c_wuhyata - Title given to 1000319 - Primary title: d_disyata
+200 - sub vassal: c_wuhyata - Title given to 1000319 - Primary title: d_disyata
+200 - Holder (1000319) has gained c_wuhyata
+200 - vassal: c_dewimha - Holder 1000319 - Primary title: c_dewimha has lost the title: c_dewimha
+200 - sub vassal: c_dewimha - Holder 1000319 - Primary title: c_dewimha has lost the title: c_dewimha
+200 - vassal: c_dewimha - Title given to 1000319 - Primary title: d_disyata
+200 - sub vassal: c_dewimha - Title given to 1000319 - Primary title: d_disyata
+200 - Holder (1000319) has gained c_dewimha
+200 - vassal: c_qisan - Holder 1000319 - Primary title: c_qisan has lost the title: c_qisan
+200 - sub vassal: c_qisan - Holder 1000319 - Primary title: c_qisan has lost the title: c_qisan
+200 - vassal: c_qisan - Title given to 1000319 - Primary title: d_disyata
+200 - sub vassal: c_qisan - Title given to 1000319 - Primary title: d_disyata
+200 - Holder (1000319) has gained c_qisan
+201 - Holder 1001041 - Primary title: d_disyata has lost the title: d_disyata
+201 - Title given to 1001041 - Primary title: k_anula
+201 - vassal: c_qisan - Holder 1001041 - Primary title: c_qisan has lost the title: c_qisan
+201 - vassal: c_qisan - Title given to 1001041 - Primary title: k_anula
+201 - vassal: c_dewimha - Holder 1001041 - Primary title: c_dewimha has lost the title: c_dewimha
+201 - vassal: c_dewimha - Title given to 1001041 - Primary title: k_anula
+201 - vassal: c_wuhyata - Holder 1001041 - Primary title: c_wuhyata has lost the title: c_wuhyata
+201 - vassal: c_wuhyata - Title given to 1001041 - Primary title: k_anula
+216 - Holder 1001986 - Primary title: d_disyata has lost the title: d_disyata
+216 - Title given to 1001986 - Primary title: k_anula
+216 - vassal: c_qisan - Holder 1001986 - Primary title: c_qisan has lost the title: c_qisan
+216 - vassal: c_qisan - Title given to 1001986 - Primary title: k_anula
+216 - vassal: c_dewimha - Holder 1001986 - Primary title: c_dewimha has lost the title: c_dewimha
+216 - vassal: c_dewimha - Title given to 1001986 - Primary title: k_anula
+216 - vassal: c_wuhyata - Holder 1001986 - Primary title: c_wuhyata has lost the title: c_wuhyata
+216 - vassal: c_wuhyata - Title given to 1001986 - Primary title: k_anula
+220 - Holder 1000331 - Primary title: d_disyata has lost the title: d_disyata
+220 - Title given to 1000331 - Primary title: k_anula
+220 - vassal: c_wuhyata - Setting to vassal of d_talda in Validate Realm
+220 - Lost vassal: c_wuhyata
+220 - vassal: c_dewimha - Setting to vassal of d_talda in Validate Realm
+220 - Lost vassal: c_dewimha
+220 - vassal: c_qisan - Setting to vassal of d_talda in Validate Realm
+220 - Lost vassal: c_qisan
+221 - Destroyed due to flagged problem
+221 - Made independent
+221 - Title destroyed

@@ -1,0 +1,128 @@
+200 - Title given to 1000073
+200 - vassal: c_teirurt - Holder 1000073 - Primary title: c_teirurt has lost the title: c_teirurt
+200 - sub vassal: c_teirurt - Holder 1000073 - Primary title: c_teirurt has lost the title: c_teirurt
+200 - vassal: c_teirurt - Title given to 1000073 - Primary title: d_kamunda
+200 - sub vassal: c_teirurt - Title given to 1000073 - Primary title: d_kamunda
+200 - Holder (1000073) has gained c_teirurt
+200 - vassal: c_delobad - Holder 1000073 - Primary title: c_delobad has lost the title: c_delobad
+200 - sub vassal: c_delobad - Holder 1000073 - Primary title: c_delobad has lost the title: c_delobad
+200 - vassal: c_delobad - Title given to 1000073 - Primary title: d_kamunda
+200 - sub vassal: c_delobad - Title given to 1000073 - Primary title: d_kamunda
+200 - Holder (1000073) has gained c_delobad
+200 - vassal: c_damemar - Holder 1000073 - Primary title: c_damemar has lost the title: c_damemar
+200 - sub vassal: c_damemar - Holder 1000073 - Primary title: c_damemar has lost the title: c_damemar
+200 - vassal: c_damemar - Title given to 1000073 - Primary title: d_kamunda
+200 - sub vassal: c_damemar - Title given to 1000073 - Primary title: d_kamunda
+200 - Holder (1000073) has gained c_damemar
+237 - Holder 1003201 - Primary title: d_kamunda has lost the title: d_kamunda
+237 - Title given to 1003201
+237 - vassal: c_teirurt - Holder 1003201 - Primary title: c_teirurt has lost the title: c_teirurt
+237 - vassal: c_teirurt - Title given to 1003201 - Primary title: d_kamunda
+237 - Holder (1003201) has gained c_teirurt
+237 - vassal: c_delobad - Holder 1003201 - Primary title: c_delobad has lost the title: c_delobad
+237 - vassal: c_delobad - Title given to 1003201 - Primary title: d_kamunda
+237 - Holder (1003201) has gained c_delobad
+237 - vassal: c_damemar - Holder 1003201 - Primary title: c_damemar has lost the title: c_damemar
+237 - vassal: c_damemar - Title given to 1003201 - Primary title: d_kamunda
+237 - Holder (1003201) has gained c_damemar
+284 - Holder 1004630 - Primary title: d_kamunda has lost the title: d_kamunda
+284 - Title given to 1004630
+284 - vassal: c_damemar - Holder 1004630 - Primary title: c_damemar has lost the title: c_damemar
+284 - vassal: c_damemar - Title given to 1004630 - Primary title: d_kamunda
+284 - Holder (1004630) has gained c_damemar
+284 - vassal: c_delobad - Holder 1004630 - Primary title: c_delobad has lost the title: c_delobad
+284 - vassal: c_delobad - Title given to 1004630 - Primary title: d_kamunda
+284 - Holder (1004630) has gained c_delobad
+284 - vassal: c_teirurt - Holder 1004630 - Primary title: c_teirurt has lost the title: c_teirurt
+284 - vassal: c_teirurt - Title given to 1004630 - Primary title: d_kamunda
+284 - Holder (1004630) has gained c_teirurt
+291 - Holder 1004590 - Primary title: d_kamunda has lost the title: d_kamunda
+291 - Title given to 1004590 - Primary title: k_ebriga
+291 - vassal: c_damemar - Holder 1004590 - Primary title: c_damemar has lost the title: c_damemar
+291 - vassal: c_damemar - Title given to 1004590 - Primary title: k_ebriga
+291 - vassal: c_delobad - Holder 1004590 - Primary title: c_delobad has lost the title: c_delobad
+291 - vassal: c_delobad - Title given to 1004590 - Primary title: k_ebriga
+291 - vassal: c_teirurt - Holder 1004590 - Primary title: c_teirurt has lost the title: c_teirurt
+291 - vassal: c_teirurt - Title given to 1004590 - Primary title: k_ebriga
+291 - vassal: c_delobad - Title given to 1007053
+291 - vassal: c_damemar - Title given to 1007054
+291 - vassal: c_teirurt - Title given to 1007055
+294 - Gained vassal: c_egilemar
+294 - Gained vassal: c_darennio
+294 - Gained vassal: c_sarurt
+294 - Gained vassal: c_emoshel
+294 - Gained vassal: c_lilurt
+294 - Holder 1004833 - Primary title: d_kamunda has lost the title: c_lilurt
+294 - vassal: c_lilurt - Title given to 1004833 - Primary title: k_ebriga
+294 - vassal: c_lilurt - Setting to vassal of k_ebriga in Validate Realm
+294 - Lost vassal: c_lilurt
+294 - Holder 1004833 - Primary title: d_kamunda has lost the title: c_emoshel
+294 - vassal: c_emoshel - Title given to 1004833 - Primary title: k_ebriga
+294 - vassal: c_emoshel - Setting to vassal of k_ebriga in Validate Realm
+294 - Lost vassal: c_emoshel
+294 - Holder 1004833 - Primary title: d_kamunda has lost the title: c_sarurt
+294 - vassal: c_sarurt - Title given to 1004833 - Primary title: k_ebriga
+294 - vassal: c_sarurt - Setting to vassal of k_ebriga in Validate Realm
+294 - Lost vassal: c_sarurt
+294 - Holder 1004833 - Primary title: d_kamunda has lost the title: c_darennio
+294 - vassal: c_darennio - Title given to 1004833 - Primary title: k_ebriga
+294 - vassal: c_darennio - Setting to vassal of k_ebriga in Validate Realm
+294 - Lost vassal: c_darennio
+294 - Holder 1004833 - Primary title: d_kamunda has lost the title: c_egilemar
+294 - vassal: c_egilemar - Title given to 1004833 - Primary title: k_ebriga
+294 - vassal: c_egilemar - Setting to vassal of k_ebriga in Validate Realm
+294 - Lost vassal: c_egilemar
+294 - Holder 1004833 - Primary title: d_kamunda has lost the title: d_kamunda
+294 - Title given to 1004833 - Primary title: k_ebriga
+296 - Gained vassal: c_egilemar
+296 - Gained vassal: c_darennio
+296 - Gained vassal: c_sarurt
+296 - Gained vassal: c_emoshel
+296 - Gained vassal: c_lilurt
+296 - Holder 1007384 - Primary title: d_kamunda has lost the title: c_lilurt
+296 - vassal: c_lilurt - Title given to 1007384 - Primary title: k_ebriga
+296 - vassal: c_lilurt - Setting to vassal of k_ebriga in Validate Realm
+296 - Lost vassal: c_lilurt
+296 - Holder 1007384 - Primary title: d_kamunda has lost the title: c_emoshel
+296 - vassal: c_emoshel - Title given to 1007384 - Primary title: k_ebriga
+296 - vassal: c_emoshel - Setting to vassal of k_ebriga in Validate Realm
+296 - Lost vassal: c_emoshel
+296 - Holder 1007384 - Primary title: d_kamunda has lost the title: c_sarurt
+296 - vassal: c_sarurt - Title given to 1007384 - Primary title: k_ebriga
+296 - vassal: c_sarurt - Setting to vassal of k_ebriga in Validate Realm
+296 - Lost vassal: c_sarurt
+296 - Holder 1007384 - Primary title: d_kamunda has lost the title: c_darennio
+296 - vassal: c_darennio - Title given to 1007384 - Primary title: k_ebriga
+296 - vassal: c_darennio - Setting to vassal of k_ebriga in Validate Realm
+296 - Lost vassal: c_darennio
+296 - Holder 1007384 - Primary title: d_kamunda has lost the title: c_egilemar
+296 - vassal: c_egilemar - Title given to 1007384 - Primary title: k_ebriga
+296 - vassal: c_egilemar - Setting to vassal of k_ebriga in Validate Realm
+296 - Lost vassal: c_egilemar
+296 - Holder 1007384 - Primary title: d_kamunda has lost the title: d_kamunda
+296 - Title given to 1007384 - Primary title: k_ebriga
+329 - Holder 1007539 - Primary title: d_kamunda has lost the title: d_kamunda
+329 - Title given to 1007539 - Primary title: k_ebriga
+335 - Holder 1009410 - Primary title: d_kamunda has lost the title: d_kamunda
+335 - Title given to 1009410 - Primary title: k_ebriga
+353 - vassal: c_teirurt - Given to 1010448 in HandleTitles - Too many duke titles
+353 - vassal: c_teirurt - Holder 1010448 - Primary title: c_teirurt has lost the title: c_teirurt
+353 - vassal: c_teirurt - Title given to 1010448
+353 - Title given to 1010448 - Primary title: c_teirurt
+353 - vassal: c_teirurt - Holder (1010448) has gained d_kamunda
+353 - Too many dukes, given to dejure: k_ebriga
+364 - Holder 1010598 - Primary title: d_kamunda has lost the title: d_kamunda
+364 - Title given to 1010598
+364 - vassal: c_teirurt - Holder 1010598 - Primary title: c_teirurt has lost the title: c_teirurt
+364 - vassal: c_teirurt - Title given to 1010598 - Primary title: d_kamunda
+364 - Holder (1010598) has gained c_teirurt
+373 - Holder 1011437 - Primary title: d_kamunda has lost the title: d_kamunda
+373 - Title given to 1011437
+373 - vassal: c_teirurt - Holder 1011437 - Primary title: c_teirurt has lost the title: c_teirurt
+373 - vassal: c_teirurt - Title given to 1011437 - Primary title: d_kamunda
+373 - Holder (1011437) has gained c_teirurt
+386 - Holder 1011881 - Primary title: d_kamunda has lost the title: d_kamunda
+386 - Title given to 1011881
+386 - vassal: c_teirurt - Holder 1011881 - Primary title: c_teirurt has lost the title: c_teirurt
+386 - vassal: c_teirurt - Title given to 1011881 - Primary title: d_kamunda
+386 - Holder (1011881) has gained c_teirurt

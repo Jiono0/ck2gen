@@ -1,0 +1,81 @@
+200 - Title given to 1000801
+200 - vassal: c_suryan - Holder 1000801 - Primary title: c_suryan has lost the title: c_suryan
+200 - sub vassal: c_suryan - Holder 1000801 - Primary title: c_suryan has lost the title: c_suryan
+200 - vassal: c_suryan - Title given to 1000801 - Primary title: d_tatutlu
+200 - sub vassal: c_suryan - Title given to 1000801 - Primary title: d_tatutlu
+200 - Holder (1000801) has gained c_suryan
+200 - vassal: c_kyounu - Holder 1000801 - Primary title: c_kyounu has lost the title: c_kyounu
+200 - sub vassal: c_kyounu - Holder 1000801 - Primary title: c_kyounu has lost the title: c_kyounu
+200 - vassal: c_kyounu - Title given to 1000801 - Primary title: d_tatutlu
+200 - sub vassal: c_kyounu - Title given to 1000801 - Primary title: d_tatutlu
+200 - Holder (1000801) has gained c_kyounu
+235 - Holder (1000801) has gained k_kabounu
+236 - vassal: c_suryan - Title given to 1001327
+237 - Holder 1001538 - Primary title: d_tatutlu has lost the title: d_tatutlu
+237 - Title given to 1001538 - Primary title: k_kabounu
+237 - vassal: c_kyounu - Setting to vassal of d_kirirai in Validate Realm
+237 - Lost vassal: c_kyounu
+243 - Gained vassal: c_kyounu
+243 - Gained vassal: c_lodar
+243 - Gained vassal: c_ezabarak
+243 - Gained vassal: c_qongu
+243 - Gained vassal: c_kizi
+243 - Holder 1001640 - Primary title: d_tatutlu has lost the title: d_tatutlu
+243 - Title given to 1001640 - Primary title: k_kabounu
+243 - vassal: c_kizi - Holder 1001640 - Primary title: c_kizi has lost the title: c_kizi
+243 - vassal: c_kizi - Title given to 1001640 - Primary title: k_kabounu
+243 - vassal: c_qongu - Holder 1001640 - Primary title: c_qongu has lost the title: c_qongu
+243 - vassal: c_qongu - Title given to 1001640 - Primary title: k_kabounu
+243 - vassal: c_ezabarak - Holder 1001640 - Primary title: c_ezabarak has lost the title: c_ezabarak
+243 - vassal: c_ezabarak - Title given to 1001640 - Primary title: k_kabounu
+243 - vassal: c_lodar - Holder 1001640 - Primary title: c_lodar has lost the title: c_lodar
+243 - vassal: c_lodar - Title given to 1001640 - Primary title: k_kabounu
+243 - vassal: c_kyounu - Holder 1001640 - Primary title: c_kyounu has lost the title: c_kyounu
+243 - vassal: c_kyounu - Title given to 1001640 - Primary title: k_kabounu
+243 - vassal: c_suryan - Holder (1001327) has gained k_tatyan
+243 - vassal: c_suryan - Setting to vassal of k_tatyan in Validate Realm
+243 - Lost vassal: c_suryan
+244 - vassal: c_ezabarak - Title given to 1004261
+244 - vassal: c_qongu - Title given to 1004262
+261 - Holder 1002931 - Primary title: d_tatutlu has lost the title: d_tatutlu
+261 - Title given to 1002931 - Primary title: k_kabounu
+261 - vassal: c_kyounu - Setting to vassal of d_kirirai in Validate Realm
+261 - Lost vassal: c_kyounu
+261 - vassal: c_lodar - Setting to vassal of d_kirirai in Validate Realm
+261 - Lost vassal: c_lodar
+261 - vassal: c_kizi - Setting to vassal of d_kirirai in Validate Realm
+261 - Lost vassal: c_kizi
+273 - Holder 1005721 - Primary title: d_tatutlu has lost the title: d_tatutlu
+273 - Title given to 1005721 - Primary title: k_kabounu
+319 - Holder 1006614 - Primary title: d_tatutlu has lost the title: d_tatutlu
+319 - Title given to 1006614 - Primary title: k_kabounu
+334 - vassal: c_ezabarak - Holder 1006614 - Primary title: c_ezabarak has lost the title: c_ezabarak
+334 - vassal: c_ezabarak - Title given to 1006614 - Primary title: k_kabounu
+334 - vassal: c_ezabarak - Given to 1009476 in HandleTitles - Too many duke titles
+334 - vassal: c_ezabarak - Title given to 1009476
+334 - Title given to 1009476 - Primary title: c_ezabarak
+334 - vassal: c_ezabarak - Holder (1009476) has gained d_tatutlu
+334 - Too many dukes, given to dejure: k_kabounu
+336 - Holder 1008102 - Primary title: d_tatutlu has lost the title: d_tatutlu
+336 - Title given to 1008102 - Primary title: d_tokexiu
+336 - vassal: c_ezabarak - Holder 1008102 - Primary title: c_ezabarak has lost the title: c_ezabarak
+336 - vassal: c_ezabarak - Title given to 1008102 - Primary title: d_tokexiu
+349 - Holder 1008909 - Primary title: d_tatutlu has lost the title: d_tatutlu
+349 - Title given to 1008909
+349 - vassal: c_ezabarak - Setting to vassal of d_tokexiu in Validate Realm
+349 - Lost vassal: c_ezabarak
+349 - Holder (1008909) has gained d_tokexiu
+349 - Holder (1008909) has gained c_ezabarak
+349 - Holder (1008909) has gained c_asatexiu
+349 - Holder (1008909) has gained c_lyaa
+349 - vassal: c_qongu - Holder 1008909 - Primary title: c_qongu has lost the title: c_qongu
+349 - vassal: c_qongu - Title given to 1008909 - Primary title: d_tatutlu
+349 - Holder (1008909) has gained c_qongu
+358 - Holder (1008909) has gained d_tabounu
+358 - vassal: c_qongu - Set liege on title creation d_tabounu
+358 - Lost vassal: c_qongu
+358 - Holder 1010703 - Primary title: d_tatutlu has lost the title: c_lyaa
+358 - Holder 1008723 - Primary title: d_tatutlu has lost the title: d_tokexiu
+359 - Destroyed due to flagged problem
+359 - Made independent
+359 - Title destroyed

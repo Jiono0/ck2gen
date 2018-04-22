@@ -1,0 +1,36 @@
+200 - Title given to 1000001 - Primary title: c_talobad
+200 - Title given to 1000002 - Primary title: c_daamur
+200 - Given to 1000121 via AddCharacterForTitle
+200 - Title given to 1000121
+200 - Given to 1000122 via AddCharacterForTitle
+200 - Holder 1000122 - Primary title: c_baama has lost the title: c_baama
+200 - Title given to 1000122
+200 - Holder 1000119 - Primary title: c_baama has lost the title: c_baama
+200 - Title given to 1000119 - Primary title: d_weamida
+204 - Holder 1000069 - Primary title: c_baama has lost the title: c_baama
+204 - Title given to 1000069 - Primary title: d_saramur
+237 - Setting to vassal of d_saramur in Validate Realm
+237 - Holder 1001140 - Primary title: c_baama has lost the title: c_baama
+237 - Title given to 1001140 - Primary title: d_weamida
+241 - Holder 1003745 - Primary title: c_baama has lost the title: c_baama
+241 - Title given to 1003745 - Primary title: d_saramur
+243 - Setting to vassal of d_sasega in Validate Realm
+243 - Title given to 1004017
+277 - Holder 1004711 - Primary title: c_baama has lost the title: c_baama
+277 - Title given to 1004711 - Primary title: d_sanuti
+277 - Given to 1005900 in HandleTitles - Too many duke titles
+277 - Title given to 1005900
+292 - Given to 1006668 in HandleTitles - Too many duke titles
+292 - Holder 1006668 - Primary title: c_baama has lost the title: c_baama
+292 - Title given to 1006668
+292 - Holder (1006668) has gained d_sasega
+312 - Holder 1006852 - Primary title: c_baama has lost the title: c_baama
+312 - Title given to 1006852 - Primary title: d_sasega
+349 - Holder 1007759 - Primary title: c_baama has lost the title: c_baama
+349 - Title given to 1007759 - Primary title: d_wutifu
+369 - Set liege on title creation d_wutifu
+387 - Setting independent in Validate Realm
+387 - Made independent
+387 - Holder 1010144 - Primary title: c_baama has lost the title: c_baama
+387 - Title given to 1010144 - Primary title: d_sasega
+394 - Set liege on title creation d_wutifu

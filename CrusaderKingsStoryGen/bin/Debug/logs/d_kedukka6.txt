@@ -1,0 +1,44 @@
+200 - Title given to 1000360
+200 - vassal: c_tibasa - Holder 1000360 - Primary title: c_tibasa has lost the title: c_tibasa
+200 - sub vassal: c_tibasa - Holder 1000360 - Primary title: c_tibasa has lost the title: c_tibasa
+200 - vassal: c_tibasa - Title given to 1000360 - Primary title: d_kedukka
+200 - sub vassal: c_tibasa - Title given to 1000360 - Primary title: d_kedukka
+200 - Holder (1000360) has gained c_tibasa
+200 - vassal: c_sariga - Holder 1000360 - Primary title: c_sariga has lost the title: c_sariga
+200 - sub vassal: c_sariga - Holder 1000360 - Primary title: c_sariga has lost the title: c_sariga
+200 - vassal: c_sariga - Title given to 1000360 - Primary title: d_kedukka
+200 - sub vassal: c_sariga - Title given to 1000360 - Primary title: d_kedukka
+200 - Holder (1000360) has gained c_sariga
+200 - vassal: c_nilinia - Holder 1000360 - Primary title: c_nilinia has lost the title: c_nilinia
+200 - sub vassal: c_nilinia - Holder 1000360 - Primary title: c_nilinia has lost the title: c_nilinia
+200 - vassal: c_nilinia - Title given to 1000360 - Primary title: d_kedukka
+200 - sub vassal: c_nilinia - Title given to 1000360 - Primary title: d_kedukka
+200 - Holder (1000360) has gained c_nilinia
+200 - Holder 1001026 - Primary title: d_kedukka has lost the title: d_kedukka
+200 - Title given to 1001026 - Primary title: k_reuparis
+200 - vassal: c_nilinia - Holder 1001026 - Primary title: c_nilinia has lost the title: c_nilinia
+200 - vassal: c_nilinia - Title given to 1001026 - Primary title: k_reuparis
+200 - vassal: c_sariga - Holder 1001026 - Primary title: c_sariga has lost the title: c_sariga
+200 - vassal: c_sariga - Title given to 1001026 - Primary title: k_reuparis
+200 - vassal: c_tibasa - Holder 1001026 - Primary title: c_tibasa has lost the title: c_tibasa
+200 - vassal: c_tibasa - Title given to 1001026 - Primary title: k_reuparis
+200 - vassal: c_tibasa - Given to 1001380 in HandleTitles - Too many duke titles
+200 - vassal: c_tibasa - Title given to 1001380
+200 - Title given to 1001380 - Primary title: c_tibasa
+200 - vassal: c_tibasa - Holder (1001380) has gained d_kedukka
+200 - vassal: c_sariga - Setting to vassal of k_reuparis in Validate Realm
+200 - Lost vassal: c_sariga
+200 - vassal: c_nilinia - Setting to vassal of k_reuparis in Validate Realm
+200 - Lost vassal: c_nilinia
+200 - Too many dukes, given to dejure: k_reuparis
+202 - Holder (1001380) has gained d_lalivi
+202 - Holder (1001380) has gained c_saray
+202 - Holder (1001380) has gained c_rikeza
+202 - Holder (1001380) has gained c_ralatani
+202 - Holder (1001380) has gained c_ribadma
+213 - Setting independent in Validate Realm
+213 - Made independent
+214 - vassal: c_tibasa - Made vassal of neighbour (k_kyaa) due to being a seperate island
+214 - Lost vassal: c_tibasa
+215 - Destroyed due to flagged problem
+215 - Title destroyed

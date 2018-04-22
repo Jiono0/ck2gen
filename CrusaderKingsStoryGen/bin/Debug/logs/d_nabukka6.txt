@@ -1,0 +1,50 @@
+200 - Title given to 1000325
+200 - vassal: c_qapadma - Holder 1000325 - Primary title: c_qapadma has lost the title: c_qapadma
+200 - sub vassal: c_qapadma - Holder 1000325 - Primary title: c_qapadma has lost the title: c_qapadma
+200 - vassal: c_qapadma - Title given to 1000325 - Primary title: d_nabukka
+200 - sub vassal: c_qapadma - Title given to 1000325 - Primary title: d_nabukka
+200 - Holder (1000325) has gained c_qapadma
+200 - vassal: c_talalum - Holder 1000325 - Primary title: c_talalum has lost the title: c_talalum
+200 - sub vassal: c_talalum - Holder 1000325 - Primary title: c_talalum has lost the title: c_talalum
+200 - vassal: c_talalum - Title given to 1000325 - Primary title: d_nabukka
+200 - sub vassal: c_talalum - Title given to 1000325 - Primary title: d_nabukka
+200 - Holder (1000325) has gained c_talalum
+200 - vassal: c_qiatey - Holder 1000325 - Primary title: c_qiatey has lost the title: c_qiatey
+200 - sub vassal: c_qiatey - Holder 1000325 - Primary title: c_qiatey has lost the title: c_qiatey
+200 - vassal: c_qiatey - Title given to 1000325 - Primary title: d_nabukka
+200 - sub vassal: c_qiatey - Title given to 1000325 - Primary title: d_nabukka
+200 - Holder (1000325) has gained c_qiatey
+200 - vassal: c_narya - Title given to 1000325 - Primary title: d_nabukka
+200 - Holder (1000325) has gained c_narya
+206 - Holder 1000344 - Primary title: d_nabukka has lost the title: d_nabukka
+206 - Title given to 1000344 - Primary title: d_bedaula
+206 - vassal: c_narya - Holder 1000344 - Primary title: c_narya has lost the title: c_narya
+206 - vassal: c_narya - Title given to 1000344 - Primary title: d_bedaula
+206 - vassal: c_qiatey - Holder 1000344 - Primary title: c_qiatey has lost the title: c_qiatey
+206 - vassal: c_qiatey - Title given to 1000344 - Primary title: d_bedaula
+206 - vassal: c_talalum - Holder 1000344 - Primary title: c_talalum has lost the title: c_talalum
+206 - vassal: c_talalum - Title given to 1000344 - Primary title: d_bedaula
+206 - vassal: c_qapadma - Holder 1000344 - Primary title: c_qapadma has lost the title: c_qapadma
+206 - vassal: c_qapadma - Title given to 1000344 - Primary title: d_bedaula
+207 - Holder 1001950 - Primary title: d_nabukka has lost the title: c_dapick
+207 - Holder 1001951 - Primary title: d_nabukka has lost the title: c_karild
+207 - Holder 1001952 - Primary title: d_nabukka has lost the title: c_kyaise
+228 - Holder 1002026 - Primary title: d_nabukka has lost the title: d_nabukka
+228 - Title given to 1002026
+228 - vassal: c_qapadma - Setting to vassal of d_bedaula in Validate Realm
+228 - Lost vassal: c_qapadma
+228 - vassal: c_talalum - Setting to vassal of d_bedaula in Validate Realm
+228 - Lost vassal: c_talalum
+228 - vassal: c_qiatey - Setting to vassal of d_bedaula in Validate Realm
+228 - Lost vassal: c_qiatey
+228 - vassal: c_narya - Setting to vassal of d_bedaula in Validate Realm
+228 - Lost vassal: c_narya
+228 - Holder (1002026) has gained d_bedaula
+228 - Holder (1002026) has gained c_qapadma
+228 - Holder (1002026) has gained c_talalum
+228 - Holder (1002026) has gained c_qiatey
+228 - Holder (1002026) has gained c_narya
+228 - Holder (1002026) has gained c_keraise
+229 - Destroyed due to flagged problem
+229 - Made independent
+229 - Title destroyed

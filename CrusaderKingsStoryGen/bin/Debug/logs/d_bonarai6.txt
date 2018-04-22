@@ -1,0 +1,71 @@
+200 - Title given to 1000115
+200 - vassal: c_tanarai - Given to 1000118 via AddCharacterForTitle
+200 - sub vassal: c_tanarai - Given to 1000118 via AddCharacterForTitle
+200 - vassal: c_tanarai - Holder 1000118 - Primary title: c_tanarai has lost the title: c_tanarai
+200 - sub vassal: c_tanarai - Holder 1000118 - Primary title: c_tanarai has lost the title: c_tanarai
+200 - vassal: c_tanarai - Title given to 1000118
+200 - sub vassal: c_tanarai - Title given to 1000118
+200 - vassal: c_tierija - Holder 1000115 - Primary title: c_tierija has lost the title: c_tierija
+200 - sub vassal: c_tierija - Holder 1000115 - Primary title: c_tierija has lost the title: c_tierija
+200 - vassal: c_tierija - Title given to 1000115 - Primary title: d_bonarai
+200 - sub vassal: c_tierija - Title given to 1000115 - Primary title: d_bonarai
+200 - Holder (1000115) has gained c_tierija
+200 - vassal: c_tanarai - Holder 1000115 - Primary title: c_tanarai has lost the title: c_tanarai
+200 - sub vassal: c_tanarai - Holder 1000115 - Primary title: c_tanarai has lost the title: c_tanarai
+200 - vassal: c_tanarai - Title given to 1000115 - Primary title: d_bonarai
+200 - sub vassal: c_tanarai - Title given to 1000115 - Primary title: d_bonarai
+200 - Holder (1000115) has gained c_tanarai
+200 - Holder 1000123 - Primary title: d_bonarai has lost the title: d_bonarai
+200 - Title given to 1000123 - Primary title: d_kandama
+200 - vassal: c_tanarai - Holder 1000123 - Primary title: c_tanarai has lost the title: c_tanarai
+200 - vassal: c_tanarai - Title given to 1000123 - Primary title: d_kandama
+200 - vassal: c_tierija - Holder 1000123 - Primary title: c_tierija has lost the title: c_tierija
+200 - vassal: c_tierija - Title given to 1000123 - Primary title: d_kandama
+203 - Holder 1001018 - Primary title: d_bonarai has lost the title: d_kandama
+203 - Gained vassal: c_ebutirma
+203 - Gained vassal: c_kenavid
+203 - Gained vassal: c_daamur
+203 - Holder 1001018 - Primary title: d_bonarai has lost the title: c_daamur
+203 - vassal: c_daamur - Title given to 1001018 - Primary title: k_konadma
+203 - vassal: c_daamur - Setting to vassal of k_konadma in Validate Realm
+203 - Lost vassal: c_daamur
+203 - Holder 1001018 - Primary title: d_bonarai has lost the title: c_kenavid
+203 - vassal: c_kenavid - Title given to 1001018 - Primary title: k_konadma
+203 - vassal: c_kenavid - Setting to vassal of k_konadma in Validate Realm
+203 - Lost vassal: c_kenavid
+203 - Holder 1001018 - Primary title: d_bonarai has lost the title: c_ebutirma
+203 - vassal: c_ebutirma - Title given to 1001018 - Primary title: k_konadma
+203 - vassal: c_ebutirma - Setting to vassal of k_konadma in Validate Realm
+203 - Lost vassal: c_ebutirma
+203 - Holder 1001018 - Primary title: d_bonarai has lost the title: d_bonarai
+203 - Title given to 1001018 - Primary title: k_konadma
+203 - vassal: c_tanarai - Holder 1001018 - Primary title: c_tanarai has lost the title: c_tanarai
+203 - vassal: c_tanarai - Title given to 1001018 - Primary title: k_konadma
+203 - vassal: c_tierija - Holder 1001018 - Primary title: c_tierija has lost the title: c_tierija
+203 - vassal: c_tierija - Title given to 1001018 - Primary title: k_konadma
+203 - vassal: c_tanarai - Given to 1001696 in HandleTitles - Too many duke titles
+203 - vassal: c_tanarai - Title given to 1001696
+203 - Title given to 1001696 - Primary title: c_tanarai
+203 - vassal: c_tanarai - Holder (1001696) has gained d_bonarai
+203 - vassal: c_tierija - Setting to vassal of k_konadma in Validate Realm
+203 - Lost vassal: c_tierija
+203 - Too many dukes, given to dejure: k_konadma
+215 - Holder 1001612 - Primary title: d_bonarai has lost the title: d_bonarai
+215 - Title given to 1001612 - Primary title: k_konadma
+215 - vassal: c_tanarai - Holder 1001612 - Primary title: c_tanarai has lost the title: c_tanarai
+215 - vassal: c_tanarai - Title given to 1001612 - Primary title: k_konadma
+232 - vassal: c_tanarai - Given to 1003462 in HandleTitles - Too many duke titles
+232 - vassal: c_tanarai - Title given to 1003462
+232 - Title given to 1003462 - Primary title: c_tanarai
+232 - vassal: c_tanarai - Holder (1003462) has gained d_bonarai
+232 - Too many dukes, given to dejure: k_konadma
+244 - Holder 1003548 - Primary title: d_bonarai has lost the title: d_bonarai
+244 - Title given to 1003548
+244 - vassal: c_tanarai - Holder 1003548 - Primary title: c_tanarai has lost the title: c_tanarai
+244 - vassal: c_tanarai - Title given to 1003548 - Primary title: d_bonarai
+244 - Holder (1003548) has gained c_tanarai
+257 - Holder 1004758 - Primary title: d_bonarai has lost the title: d_bonarai
+257 - Title given to 1004758
+257 - vassal: c_tanarai - Holder 1004758 - Primary title: c_tanarai has lost the title: c_tanarai
+257 - vassal: c_tanarai - Title given to 1004758 - Primary title: d_bonarai
+257 - Holder (1004758) has gained c_tanarai

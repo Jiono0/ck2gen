@@ -1,0 +1,89 @@
+200 - Title given to 1000385
+200 - vassal: c_retand - Given to 1000388 via AddCharacterForTitle
+200 - sub vassal: c_retand - Given to 1000388 via AddCharacterForTitle
+200 - vassal: c_retand - Holder 1000388 - Primary title: c_retand has lost the title: c_retand
+200 - sub vassal: c_retand - Holder 1000388 - Primary title: c_retand has lost the title: c_retand
+200 - vassal: c_retand - Title given to 1000388
+200 - sub vassal: c_retand - Title given to 1000388
+200 - vassal: c_keja - Holder 1000385 - Primary title: c_keja has lost the title: c_keja
+200 - sub vassal: c_keja - Holder 1000385 - Primary title: c_keja has lost the title: c_keja
+200 - vassal: c_keja - Title given to 1000385 - Primary title: d_roland
+200 - sub vassal: c_keja - Title given to 1000385 - Primary title: d_roland
+200 - Holder (1000385) has gained c_keja
+200 - vassal: c_retand - Holder 1000385 - Primary title: c_retand has lost the title: c_retand
+200 - sub vassal: c_retand - Holder 1000385 - Primary title: c_retand has lost the title: c_retand
+200 - vassal: c_retand - Title given to 1000385 - Primary title: d_roland
+200 - sub vassal: c_retand - Title given to 1000385 - Primary title: d_roland
+200 - Holder (1000385) has gained c_retand
+214 - Holder 1002100 - Primary title: d_roland has lost the title: d_roland
+214 - Title given to 1002100
+214 - vassal: c_retand - Holder 1002100 - Primary title: c_retand has lost the title: c_retand
+214 - vassal: c_retand - Title given to 1002100 - Primary title: d_roland
+214 - Holder (1002100) has gained c_retand
+214 - vassal: c_keja - Holder 1002100 - Primary title: c_keja has lost the title: c_keja
+214 - vassal: c_keja - Title given to 1002100 - Primary title: d_roland
+214 - Holder (1002100) has gained c_keja
+224 - Holder 1000411 - Primary title: d_roland has lost the title: d_roland
+224 - Title given to 1000411 - Primary title: k_ehelama
+224 - vassal: c_keja - Holder 1000411 - Primary title: c_keja has lost the title: c_keja
+224 - vassal: c_keja - Title given to 1000411 - Primary title: k_ehelama
+224 - vassal: c_retand - Holder 1000411 - Primary title: c_retand has lost the title: c_retand
+224 - vassal: c_retand - Title given to 1000411 - Primary title: k_ehelama
+224 - vassal: c_keja - Given to 1002958 in HandleTitles - Too many duke titles
+224 - vassal: c_keja - Title given to 1002958
+224 - Title given to 1002958 - Primary title: c_keja
+224 - vassal: c_keja - Holder (1002958) has gained d_roland
+224 - vassal: c_retand - Setting to vassal of k_ehelama in Validate Realm
+224 - Lost vassal: c_retand
+224 - Too many dukes, given to dejure: k_ehelama
+225 - Holder 1000411 - Primary title: d_roland has lost the title: d_roland
+225 - Title given to 1000411 - Primary title: k_ehelama
+225 - vassal: c_keja - Holder 1000411 - Primary title: c_keja has lost the title: c_keja
+225 - vassal: c_keja - Title given to 1000411 - Primary title: k_ehelama
+225 - vassal: c_keja - Given to 1003009 in HandleTitles - Too many duke titles
+225 - vassal: c_keja - Title given to 1003009
+225 - Title given to 1003009 - Primary title: c_keja
+225 - vassal: c_keja - Holder (1003009) has gained d_roland
+225 - Too many dukes, given to dejure: k_ehelama
+231 - Holder (1003009) has gained d_kolael
+231 - Holder (1003009) has gained c_ejolirza
+231 - Holder (1003009) has gained c_avoisand
+231 - Holder (1003009) has gained c_loisava
+252 - Gained vassal: c_ejolirza
+252 - Gained vassal: c_avoisand
+252 - Gained vassal: c_loisava
+252 - Holder 1003251 - Primary title: d_roland has lost the title: d_roland
+252 - Title given to 1003251 - Primary title: d_kolael
+252 - vassal: c_loisava - Holder 1003251 - Primary title: c_loisava has lost the title: c_loisava
+252 - vassal: c_loisava - Title given to 1003251 - Primary title: d_kolael
+252 - vassal: c_avoisand - Holder 1003251 - Primary title: c_avoisand has lost the title: c_avoisand
+252 - vassal: c_avoisand - Title given to 1003251 - Primary title: d_kolael
+252 - vassal: c_ejolirza - Holder 1003251 - Primary title: c_ejolirza has lost the title: c_ejolirza
+252 - vassal: c_ejolirza - Title given to 1003251 - Primary title: d_kolael
+252 - vassal: c_keja - Holder 1003251 - Primary title: c_keja has lost the title: c_keja
+252 - vassal: c_keja - Title given to 1003251 - Primary title: d_kolael
+255 - Holder 1002873 - Primary title: d_roland has lost the title: d_roland
+255 - Title given to 1002873 - Primary title: d_kolilda
+255 - vassal: c_loisava - Holder 1002873 - Primary title: c_loisava has lost the title: c_loisava
+255 - vassal: c_loisava - Title given to 1002873 - Primary title: d_atolisa
+255 - vassal: c_avoisand - Holder 1002873 - Primary title: c_avoisand has lost the title: c_avoisand
+255 - vassal: c_avoisand - Title given to 1002873 - Primary title: d_atolisa
+255 - vassal: c_ejolirza - Holder 1002873 - Primary title: c_ejolirza has lost the title: c_ejolirza
+255 - vassal: c_ejolirza - Title given to 1002873 - Primary title: d_atolisa
+255 - vassal: c_keja - Holder 1002873 - Primary title: c_keja has lost the title: c_keja
+255 - vassal: c_keja - Title given to 1002873 - Primary title: d_atolisa
+256 - Holder 1004204 - Primary title: d_roland has lost the title: d_kolilda
+256 - Holder 1004766 - Primary title: d_roland has lost the title: c_qolavid
+256 - Holder 1004767 - Primary title: d_roland has lost the title: c_belida
+256 - Holder 1004768 - Primary title: d_roland has lost the title: c_nyarael
+267 - vassal: c_keja - Set liege on title creation d_kolael
+267 - Lost vassal: c_keja
+267 - vassal: c_ejolirza - Set liege on title creation d_kolael
+267 - Lost vassal: c_ejolirza
+267 - vassal: c_avoisand - Set liege on title creation d_kolael
+267 - Lost vassal: c_avoisand
+267 - vassal: c_loisava - Set liege on title creation d_kolael
+267 - Lost vassal: c_loisava
+268 - Destroyed due to flagged problem
+268 - Made independent
+268 - Title destroyed

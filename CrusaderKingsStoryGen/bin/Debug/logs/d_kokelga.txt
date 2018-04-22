@@ -1,0 +1,744 @@
+200 - Title given to 1000424
+200 - vassal: c_naudard - Holder 1000424 - Primary title: c_naudard has lost the title: c_naudard
+200 - sub vassal: c_naudard - Holder 1000424 - Primary title: c_naudard has lost the title: c_naudard
+200 - vassal: c_naudard - Title given to 1000424 - Primary title: d_kokelga
+200 - sub vassal: c_naudard - Title given to 1000424 - Primary title: d_kokelga
+200 - Holder (1000424) has gained c_naudard
+200 - vassal: c_damiss - Holder 1000424 - Primary title: c_damiss has lost the title: c_damiss
+200 - sub vassal: c_damiss - Holder 1000424 - Primary title: c_damiss has lost the title: c_damiss
+200 - vassal: c_damiss - Title given to 1000424 - Primary title: d_kokelga
+200 - sub vassal: c_damiss - Title given to 1000424 - Primary title: d_kokelga
+200 - Holder (1000424) has gained c_damiss
+200 - vassal: c_ebiruo - Holder 1000424 - Primary title: c_ebiruo has lost the title: c_ebiruo
+200 - sub vassal: c_ebiruo - Holder 1000424 - Primary title: c_ebiruo has lost the title: c_ebiruo
+200 - vassal: c_ebiruo - Title given to 1000424 - Primary title: d_kokelga
+200 - sub vassal: c_ebiruo - Title given to 1000424 - Primary title: d_kokelga
+200 - Holder (1000424) has gained c_ebiruo
+200 - Holder 1001247 - Primary title: d_kokelga has lost the title: d_kokelga
+200 - Title given to 1001247
+200 - vassal: c_ebiruo - Holder 1001247 - Primary title: c_ebiruo has lost the title: c_ebiruo
+200 - vassal: c_ebiruo - Title given to 1001247 - Primary title: d_kokelga
+200 - Holder (1001247) has gained c_ebiruo
+200 - vassal: c_damiss - Holder 1001247 - Primary title: c_damiss has lost the title: c_damiss
+200 - vassal: c_damiss - Title given to 1001247 - Primary title: d_kokelga
+200 - Holder (1001247) has gained c_damiss
+200 - vassal: c_naudard - Holder 1001247 - Primary title: c_naudard has lost the title: c_naudard
+200 - vassal: c_naudard - Title given to 1001247 - Primary title: d_kokelga
+200 - Holder (1001247) has gained c_naudard
+212 - Holder 1000409 - Primary title: d_kokelga has lost the title: d_kokelga
+212 - Title given to 1000409 - Primary title: d_lanyau
+212 - vassal: c_ebiruo - Holder 1000409 - Primary title: c_ebiruo has lost the title: c_ebiruo
+212 - vassal: c_ebiruo - Title given to 1000409 - Primary title: d_lanyau
+212 - vassal: c_damiss - Holder 1000409 - Primary title: c_damiss has lost the title: c_damiss
+212 - vassal: c_damiss - Title given to 1000409 - Primary title: d_lanyau
+212 - vassal: c_naudard - Holder 1000409 - Primary title: c_naudard has lost the title: c_naudard
+212 - vassal: c_naudard - Title given to 1000409 - Primary title: d_lanyau
+213 - Holder 1002417 - Primary title: d_kokelga has lost the title: c_ta
+222 - Holder 1001509 - Primary title: d_kokelga has lost the title: d_kokelga
+222 - Title given to 1001509
+222 - vassal: c_naudard - Setting to vassal of d_lanyau in Validate Realm
+222 - Lost vassal: c_naudard
+222 - vassal: c_damiss - Setting to vassal of d_lanyau in Validate Realm
+222 - Lost vassal: c_damiss
+222 - vassal: c_ebiruo - Setting to vassal of d_lanyau in Validate Realm
+222 - Lost vassal: c_ebiruo
+222 - Holder (1001509) has gained d_lanyau
+222 - Holder (1001509) has gained c_naudard
+222 - Holder (1001509) has gained c_damiss
+222 - Holder (1001509) has gained c_ebiruo
+222 - Holder (1001509) has gained c_kanari
+222 - Holder (1001509) has gained c_kanorich
+223 - Destroyed due to flagged problem
+223 - Made independent
+223 - Title destroyed
+227 - Given to 1001509 in TestCreateEmpire
+227 - Title given to 1001509 - Primary title: d_lanyau
+227 - Made independent for title creation d_kokelga for d_lanyau
+227 - Made independent
+227 - Gained vassal: c_naudard
+227 - Gained vassal: c_damiss
+227 - Gained vassal: c_ebiruo
+227 - Gained vassal: c_kanari
+227 - Gained vassal: c_kanorich
+228 - vassal: c_damiss - Title given to 1003267
+237 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+237 - Gained vassal: c_ta
+237 - Holder 1003155 - Primary title: d_kokelga has lost the title: d_kokelga
+237 - Title given to 1003155 - Primary title: d_lanyau
+237 - vassal: c_naudard - Holder 1003155 - Primary title: c_naudard has lost the title: c_ta
+237 - vassal: c_ta - Title given to 1003155 - Primary title: d_lanyau
+238 - vassal: c_kanari - Made vassal of neighbour (k_dayah) due to being a seperate island
+238 - sub vassal: c_kanari - Made vassal of neighbour (k_dayah) due to being a seperate island
+238 - Lost vassal: c_kanari
+238 - sub vassal: c_kanari - Setting independent in Validate Realm
+238 - sub vassal: c_kanari - Made independent
+238 - vassal: c_naudard - Holder 1002944 - Primary title: c_naudard has lost the title: c_kanari
+238 - sub vassal: c_naudard - Holder 1002944 - Primary title: c_naudard has lost the title: c_kanari
+238 - vassal: c_kanorich - Made vassal of neighbour (k_dayah) due to being a seperate island
+238 - sub vassal: c_kanorich - Made vassal of neighbour (k_dayah) due to being a seperate island
+238 - Lost vassal: c_kanorich
+238 - sub vassal: c_kanorich - Setting independent in Validate Realm
+238 - sub vassal: c_kanorich - Made independent
+238 - vassal: c_naudard - Holder 1002944 - Primary title: c_naudard has lost the title: c_kanorich
+238 - sub vassal: c_naudard - Holder 1002944 - Primary title: c_naudard has lost the title: c_kanorich
+238 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+238 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+238 - Lost vassal: c_ta
+238 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+238 - Gained vassal: c_ta
+238 - Gained vassal: c_ta
+238 - vassal: c_ta - Given to neighbour holder of k_dayah
+238 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+239 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+239 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+239 - Lost vassal: c_ta
+239 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+239 - Gained vassal: c_ta
+239 - Gained vassal: c_ta
+239 - vassal: c_ta - Given to neighbour holder of k_dayah
+239 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+240 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+240 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+240 - Lost vassal: c_ta
+240 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+240 - Gained vassal: c_ta
+240 - Gained vassal: c_ta
+240 - vassal: c_ta - Given to neighbour holder of k_dayah
+240 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+241 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+241 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+241 - Lost vassal: c_ta
+241 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+241 - Gained vassal: c_ta
+241 - Gained vassal: c_ta
+241 - vassal: c_ta - Given to neighbour holder of k_dayah
+241 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+242 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+242 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+242 - Lost vassal: c_ta
+242 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+242 - Gained vassal: c_ta
+242 - Gained vassal: c_ta
+242 - vassal: c_ta - Given to neighbour holder of k_dayah
+242 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+243 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+243 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+243 - Lost vassal: c_ta
+243 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+243 - Gained vassal: c_ta
+243 - Gained vassal: c_ta
+243 - vassal: c_ta - Given to neighbour holder of k_dayah
+243 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+244 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+244 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+244 - Lost vassal: c_ta
+244 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+244 - Gained vassal: c_ta
+244 - Gained vassal: c_ta
+244 - vassal: c_ta - Given to neighbour holder of k_dayah
+244 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+245 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+245 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+245 - Lost vassal: c_ta
+245 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+245 - Gained vassal: c_ta
+245 - Gained vassal: c_ta
+245 - vassal: c_ta - Given to neighbour holder of k_dayah
+245 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+246 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+246 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+246 - Lost vassal: c_ta
+246 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+246 - Gained vassal: c_ta
+246 - Gained vassal: c_ta
+246 - vassal: c_ta - Given to neighbour holder of k_dayah
+246 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+247 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+247 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+247 - Lost vassal: c_ta
+247 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+247 - Gained vassal: c_ta
+247 - Gained vassal: c_ta
+247 - vassal: c_ta - Given to neighbour holder of k_dayah
+247 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+248 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+248 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+248 - Lost vassal: c_ta
+248 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+248 - Gained vassal: c_ta
+248 - Gained vassal: c_ta
+248 - vassal: c_ta - Given to neighbour holder of k_dayah
+248 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+249 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+249 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+249 - Lost vassal: c_ta
+249 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+249 - Gained vassal: c_ta
+249 - Gained vassal: c_ta
+249 - vassal: c_ta - Given to neighbour holder of k_dayah
+249 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+250 - vassal: c_naudard - Holder 1003155 - Primary title: c_naudard has lost the title: c_naudard
+250 - sub vassal: c_naudard - Holder 1003155 - Primary title: c_naudard has lost the title: c_naudard
+250 - vassal: c_naudard - Title given to 1003155 - Primary title: d_kokelga
+250 - sub vassal: c_naudard - Title given to 1003155 - Primary title: d_kokelga
+250 - Holder (1003155) has gained c_naudard
+250 - vassal: c_ebiruo - Holder 1003155 - Primary title: c_ebiruo has lost the title: c_ebiruo
+250 - sub vassal: c_ebiruo - Holder 1003155 - Primary title: c_ebiruo has lost the title: c_ebiruo
+250 - vassal: c_ebiruo - Title given to 1003155 - Primary title: d_kokelga
+250 - sub vassal: c_ebiruo - Title given to 1003155 - Primary title: d_kokelga
+250 - Holder (1003155) has gained c_ebiruo
+250 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+250 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+250 - Lost vassal: c_ta
+250 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+250 - Gained vassal: c_ta
+250 - Gained vassal: c_ta
+250 - vassal: c_ta - Given to neighbour holder of k_dayah
+250 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+251 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+251 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+251 - Lost vassal: c_ta
+251 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+251 - Gained vassal: c_ta
+251 - Gained vassal: c_ta
+251 - vassal: c_ta - Given to neighbour holder of k_dayah
+251 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+252 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+252 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+252 - Lost vassal: c_ta
+252 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+252 - Gained vassal: c_ta
+252 - Gained vassal: c_ta
+252 - vassal: c_ta - Given to neighbour holder of k_dayah
+252 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+253 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+253 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+253 - Lost vassal: c_ta
+253 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+253 - Gained vassal: c_ta
+253 - Gained vassal: c_ta
+253 - vassal: c_ta - Given to neighbour holder of k_dayah
+253 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+254 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+254 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+254 - Lost vassal: c_ta
+254 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+254 - Gained vassal: c_ta
+254 - Gained vassal: c_ta
+254 - vassal: c_ta - Given to neighbour holder of k_dayah
+254 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+255 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+255 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+255 - Lost vassal: c_ta
+255 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+255 - Gained vassal: c_ta
+255 - Gained vassal: c_ta
+255 - vassal: c_ta - Given to neighbour holder of k_dayah
+255 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+256 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+256 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+256 - Lost vassal: c_ta
+256 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+256 - Gained vassal: c_ta
+256 - Gained vassal: c_ta
+256 - vassal: c_ta - Given to neighbour holder of k_dayah
+256 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+257 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+257 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+257 - Lost vassal: c_ta
+257 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+257 - Gained vassal: c_ta
+257 - Gained vassal: c_ta
+257 - vassal: c_ta - Given to neighbour holder of k_dayah
+257 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+258 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+258 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+258 - Lost vassal: c_ta
+258 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+258 - Gained vassal: c_ta
+258 - Gained vassal: c_ta
+258 - vassal: c_ta - Given to neighbour holder of k_dayah
+258 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+259 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+259 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+259 - Lost vassal: c_ta
+259 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+259 - Gained vassal: c_ta
+259 - Gained vassal: c_ta
+259 - vassal: c_ta - Given to neighbour holder of k_dayah
+259 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+260 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+260 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+260 - Lost vassal: c_ta
+260 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+260 - Gained vassal: c_ta
+260 - Gained vassal: c_ta
+260 - vassal: c_ta - Given to neighbour holder of k_dayah
+260 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+261 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+261 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+261 - Lost vassal: c_ta
+261 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+261 - Gained vassal: c_ta
+261 - Gained vassal: c_ta
+261 - vassal: c_ta - Given to neighbour holder of k_dayah
+261 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+262 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+262 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+262 - Lost vassal: c_ta
+262 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+262 - Gained vassal: c_ta
+262 - Gained vassal: c_ta
+262 - vassal: c_ta - Given to neighbour holder of k_dayah
+262 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+263 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+263 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+263 - Lost vassal: c_ta
+263 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+263 - Gained vassal: c_ta
+263 - Gained vassal: c_ta
+263 - vassal: c_ta - Given to neighbour holder of k_dayah
+263 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+264 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+264 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+264 - Lost vassal: c_ta
+264 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+264 - Gained vassal: c_ta
+264 - Gained vassal: c_ta
+264 - vassal: c_ta - Given to neighbour holder of k_dayah
+264 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+265 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+265 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+265 - Lost vassal: c_ta
+265 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+265 - Gained vassal: c_ta
+265 - Gained vassal: c_ta
+265 - vassal: c_ta - Given to neighbour holder of k_dayah
+265 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+266 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+266 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+266 - Lost vassal: c_ta
+266 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+266 - Gained vassal: c_ta
+266 - Gained vassal: c_ta
+266 - vassal: c_ta - Given to neighbour holder of k_dayah
+266 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+267 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+267 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+267 - Lost vassal: c_ta
+267 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+267 - Gained vassal: c_ta
+267 - Gained vassal: c_ta
+267 - vassal: c_ta - Given to neighbour holder of k_dayah
+267 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+268 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+268 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+268 - Lost vassal: c_ta
+268 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+268 - Gained vassal: c_ta
+268 - Gained vassal: c_ta
+268 - vassal: c_ta - Given to neighbour holder of k_dayah
+268 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+269 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+269 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+269 - Lost vassal: c_ta
+269 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+269 - Gained vassal: c_ta
+269 - Gained vassal: c_ta
+269 - vassal: c_ta - Given to neighbour holder of k_dayah
+269 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+270 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+270 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+270 - Lost vassal: c_ta
+270 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+270 - Gained vassal: c_ta
+270 - Gained vassal: c_ta
+270 - vassal: c_ta - Given to neighbour holder of k_dayah
+270 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+271 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+271 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+271 - Lost vassal: c_ta
+271 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+271 - Gained vassal: c_ta
+271 - Gained vassal: c_ta
+271 - vassal: c_ta - Given to neighbour holder of k_dayah
+271 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+272 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+272 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+272 - Lost vassal: c_ta
+272 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+272 - Gained vassal: c_ta
+272 - Gained vassal: c_ta
+272 - vassal: c_ta - Given to neighbour holder of k_dayah
+272 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+273 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+273 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+273 - Lost vassal: c_ta
+273 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+273 - Gained vassal: c_ta
+273 - Gained vassal: c_ta
+273 - vassal: c_ta - Given to neighbour holder of k_dayah
+273 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+274 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+274 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+274 - Lost vassal: c_ta
+274 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+274 - Gained vassal: c_ta
+274 - Gained vassal: c_ta
+274 - vassal: c_ta - Given to neighbour holder of k_dayah
+274 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+275 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+275 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+275 - Lost vassal: c_ta
+275 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+275 - Gained vassal: c_ta
+275 - Gained vassal: c_ta
+275 - vassal: c_ta - Given to neighbour holder of k_dayah
+275 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+276 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+276 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+276 - Lost vassal: c_ta
+276 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+276 - Gained vassal: c_ta
+276 - Gained vassal: c_ta
+276 - vassal: c_ta - Given to neighbour holder of k_dayah
+276 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+277 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+277 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+277 - Lost vassal: c_ta
+277 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+277 - Gained vassal: c_ta
+277 - Gained vassal: c_ta
+277 - vassal: c_ta - Given to neighbour holder of k_dayah
+277 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+278 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+278 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+278 - Lost vassal: c_ta
+278 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+278 - Gained vassal: c_ta
+278 - Gained vassal: c_ta
+278 - vassal: c_ta - Given to neighbour holder of k_dayah
+278 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+279 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+279 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+279 - Lost vassal: c_ta
+279 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+279 - Gained vassal: c_ta
+279 - Gained vassal: c_ta
+279 - vassal: c_ta - Given to neighbour holder of k_dayah
+279 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+279 - Holder 1006008 - Primary title: d_kokelga has lost the title: d_kokelga
+279 - Title given to 1006008
+279 - vassal: c_ebiruo - Holder 1006008 - Primary title: c_ebiruo has lost the title: c_ebiruo
+279 - sub vassal: c_ebiruo - Holder 1006008 - Primary title: c_ebiruo has lost the title: c_ebiruo
+279 - vassal: c_ebiruo - Title given to 1006008 - Primary title: d_kokelga
+279 - sub vassal: c_ebiruo - Title given to 1006008 - Primary title: d_kokelga
+279 - Holder (1006008) has gained c_ebiruo
+279 - vassal: c_naudard - Holder 1006008 - Primary title: c_naudard has lost the title: c_naudard
+279 - sub vassal: c_naudard - Holder 1006008 - Primary title: c_naudard has lost the title: c_naudard
+279 - vassal: c_naudard - Title given to 1006008 - Primary title: d_kokelga
+279 - sub vassal: c_naudard - Title given to 1006008 - Primary title: d_kokelga
+279 - Holder (1006008) has gained c_naudard
+279 - vassal: c_ta - Holder 1006008 - Primary title: c_ta has lost the title: c_ta
+279 - sub vassal: c_ta - Holder 1006008 - Primary title: c_ta has lost the title: c_ta
+279 - vassal: c_ta - Title given to 1006008 - Primary title: d_kokelga
+279 - sub vassal: c_ta - Title given to 1006008 - Primary title: d_kokelga
+279 - Holder (1006008) has gained c_ta
+280 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+280 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+280 - Lost vassal: c_ta
+280 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+280 - Gained vassal: c_ta
+280 - Gained vassal: c_ta
+280 - vassal: c_ta - Given to neighbour holder of k_dayah
+280 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+281 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+281 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+281 - Lost vassal: c_ta
+281 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+281 - Gained vassal: c_ta
+281 - Gained vassal: c_ta
+281 - vassal: c_ta - Given to neighbour holder of k_dayah
+281 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+282 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+282 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+282 - Lost vassal: c_ta
+282 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+282 - Gained vassal: c_ta
+282 - Gained vassal: c_ta
+282 - vassal: c_ta - Given to neighbour holder of k_dayah
+282 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+283 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+283 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+283 - Lost vassal: c_ta
+283 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+283 - Gained vassal: c_ta
+283 - Gained vassal: c_ta
+283 - vassal: c_ta - Given to neighbour holder of k_dayah
+283 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+284 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+284 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+284 - Lost vassal: c_ta
+284 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+284 - Gained vassal: c_ta
+284 - Gained vassal: c_ta
+284 - vassal: c_ta - Given to neighbour holder of k_dayah
+284 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+285 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+285 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+285 - Lost vassal: c_ta
+285 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+285 - Gained vassal: c_ta
+285 - Gained vassal: c_ta
+285 - vassal: c_ta - Given to neighbour holder of k_dayah
+285 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+286 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+286 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+286 - Lost vassal: c_ta
+286 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+286 - Gained vassal: c_ta
+286 - Gained vassal: c_ta
+286 - vassal: c_ta - Given to neighbour holder of k_dayah
+286 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+287 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+287 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+287 - Lost vassal: c_ta
+287 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+287 - Gained vassal: c_ta
+287 - Gained vassal: c_ta
+287 - vassal: c_ta - Given to neighbour holder of k_dayah
+287 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+288 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+288 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+288 - Lost vassal: c_ta
+288 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+288 - Gained vassal: c_ta
+288 - Gained vassal: c_ta
+288 - vassal: c_ta - Given to neighbour holder of k_dayah
+288 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+288 - Holder 1006882 - Primary title: d_kokelga has lost the title: d_kokelga
+288 - Title given to 1006882
+288 - vassal: c_ta - Holder 1006882 - Primary title: c_ta has lost the title: c_ta
+288 - sub vassal: c_ta - Holder 1006882 - Primary title: c_ta has lost the title: c_ta
+288 - vassal: c_ta - Title given to 1006882 - Primary title: d_kokelga
+288 - sub vassal: c_ta - Title given to 1006882 - Primary title: d_kokelga
+288 - Holder (1006882) has gained c_ta
+288 - vassal: c_naudard - Holder 1006882 - Primary title: c_naudard has lost the title: c_naudard
+288 - sub vassal: c_naudard - Holder 1006882 - Primary title: c_naudard has lost the title: c_naudard
+288 - vassal: c_naudard - Title given to 1006882 - Primary title: d_kokelga
+288 - sub vassal: c_naudard - Title given to 1006882 - Primary title: d_kokelga
+288 - Holder (1006882) has gained c_naudard
+288 - vassal: c_ebiruo - Holder 1006882 - Primary title: c_ebiruo has lost the title: c_ebiruo
+288 - sub vassal: c_ebiruo - Holder 1006882 - Primary title: c_ebiruo has lost the title: c_ebiruo
+288 - vassal: c_ebiruo - Title given to 1006882 - Primary title: d_kokelga
+288 - sub vassal: c_ebiruo - Title given to 1006882 - Primary title: d_kokelga
+288 - Holder (1006882) has gained c_ebiruo
+289 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+289 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+289 - Lost vassal: c_ta
+289 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+289 - Gained vassal: c_ta
+289 - Gained vassal: c_ta
+289 - vassal: c_ta - Given to neighbour holder of k_dayah
+289 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+290 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+290 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+290 - Lost vassal: c_ta
+290 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+290 - Gained vassal: c_ta
+290 - Gained vassal: c_ta
+290 - vassal: c_ta - Given to neighbour holder of k_dayah
+290 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+291 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+291 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+291 - Lost vassal: c_ta
+291 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+291 - Gained vassal: c_ta
+291 - Gained vassal: c_ta
+291 - vassal: c_ta - Given to neighbour holder of k_dayah
+291 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+292 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+292 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+292 - Lost vassal: c_ta
+292 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+292 - Gained vassal: c_ta
+292 - Gained vassal: c_ta
+292 - vassal: c_ta - Given to neighbour holder of k_dayah
+292 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+293 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+293 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+293 - Lost vassal: c_ta
+293 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+293 - Gained vassal: c_ta
+293 - Gained vassal: c_ta
+293 - vassal: c_ta - Given to neighbour holder of k_dayah
+293 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+294 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+294 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+294 - Lost vassal: c_ta
+294 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+294 - Gained vassal: c_ta
+294 - Gained vassal: c_ta
+294 - vassal: c_ta - Given to neighbour holder of k_dayah
+294 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+295 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+295 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+295 - Lost vassal: c_ta
+295 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+295 - Gained vassal: c_ta
+295 - Gained vassal: c_ta
+295 - vassal: c_ta - Given to neighbour holder of k_dayah
+295 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+296 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+296 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+296 - Lost vassal: c_ta
+296 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+296 - Gained vassal: c_ta
+296 - Gained vassal: c_ta
+296 - vassal: c_ta - Given to neighbour holder of k_dayah
+296 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+297 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+297 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+297 - Lost vassal: c_ta
+297 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+297 - Gained vassal: c_ta
+297 - Gained vassal: c_ta
+297 - vassal: c_ta - Given to neighbour holder of k_dayah
+297 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+298 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+298 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+298 - Lost vassal: c_ta
+298 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+298 - Gained vassal: c_ta
+298 - Gained vassal: c_ta
+298 - vassal: c_ta - Given to neighbour holder of k_dayah
+298 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+299 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+299 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+299 - Lost vassal: c_ta
+299 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+299 - Gained vassal: c_ta
+299 - Gained vassal: c_ta
+299 - vassal: c_ta - Given to neighbour holder of k_dayah
+299 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+299 - Holder 1006994 - Primary title: d_kokelga has lost the title: d_kokelga
+299 - Title given to 1006994
+299 - vassal: c_ta - Holder 1006994 - Primary title: c_ta has lost the title: c_ta
+299 - sub vassal: c_ta - Holder 1006994 - Primary title: c_ta has lost the title: c_ta
+299 - vassal: c_ta - Title given to 1006994 - Primary title: d_kokelga
+299 - sub vassal: c_ta - Title given to 1006994 - Primary title: d_kokelga
+299 - Holder (1006994) has gained c_ta
+299 - vassal: c_naudard - Holder 1006994 - Primary title: c_naudard has lost the title: c_naudard
+299 - sub vassal: c_naudard - Holder 1006994 - Primary title: c_naudard has lost the title: c_naudard
+299 - vassal: c_naudard - Title given to 1006994 - Primary title: d_kokelga
+299 - sub vassal: c_naudard - Title given to 1006994 - Primary title: d_kokelga
+299 - Holder (1006994) has gained c_naudard
+299 - vassal: c_ebiruo - Holder 1006994 - Primary title: c_ebiruo has lost the title: c_ebiruo
+299 - sub vassal: c_ebiruo - Holder 1006994 - Primary title: c_ebiruo has lost the title: c_ebiruo
+299 - vassal: c_ebiruo - Title given to 1006994 - Primary title: d_kokelga
+299 - sub vassal: c_ebiruo - Title given to 1006994 - Primary title: d_kokelga
+299 - Holder (1006994) has gained c_ebiruo
+300 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+300 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+300 - Lost vassal: c_ta
+300 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+300 - Gained vassal: c_ta
+300 - Gained vassal: c_ta
+300 - vassal: c_ta - Given to neighbour holder of k_dayah
+300 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+301 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+301 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+301 - Lost vassal: c_ta
+301 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+301 - Gained vassal: c_ta
+301 - Gained vassal: c_ta
+301 - vassal: c_ta - Given to neighbour holder of k_dayah
+301 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+302 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+302 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+302 - Lost vassal: c_ta
+302 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+302 - Gained vassal: c_ta
+302 - Gained vassal: c_ta
+302 - vassal: c_ta - Given to neighbour holder of k_dayah
+302 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+303 - vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+303 - sub vassal: c_ta - Made vassal of neighbour (k_dayah) due to being a seperate island
+303 - Lost vassal: c_ta
+303 - sub vassal: c_ta - Setting to vassal of d_kokelga in Validate Realm
+303 - Gained vassal: c_ta
+303 - Gained vassal: c_ta
+303 - vassal: c_ta - Given to neighbour holder of k_dayah
+303 - sub vassal: c_ta - Given to neighbour holder of k_dayah
+303 - Holder (1006994) has gained k_dayah
+303 - vassal: c_damiss - Given to 1007827 in HandleTitles - Too many duke titles
+303 - vassal: c_damiss - Holder 1007827 - Primary title: c_damiss has lost the title: c_damiss
+303 - vassal: c_damiss - Title given to 1007827
+303 - Title given to 1007827 - Primary title: c_damiss
+303 - vassal: c_damiss - Holder (1007827) has gained d_kokelga
+303 - vassal: c_ebiruo - Setting to vassal of k_dayah in Validate Realm
+303 - Lost vassal: c_ebiruo
+303 - vassal: c_naudard - Setting to vassal of k_dayah in Validate Realm
+303 - Lost vassal: c_naudard
+303 - vassal: c_ta - Setting to vassal of k_dayah in Validate Realm
+303 - Lost vassal: c_ta
+303 - Too many dukes, made direct title into vassal of k_dayah
+303 - Made vassal of neighbour (k_tiel) due to being a seperate island
+303 - Given to neighbour holder of k_tiel
+303 - Holder 1007227 - Primary title: d_kokelga has lost the title: d_kokelga
+303 - Title given to 1007227 - Primary title: k_tiel
+315 - Gained vassal: c_ebiruo
+315 - Gained vassal: c_kanari
+315 - Gained vassal: c_rajari
+315 - Gained vassal: c_tasta
+315 - Gained vassal: c_rumasta
+315 - Holder 1007686 - Primary title: d_kokelga has lost the title: c_rumasta
+315 - vassal: c_rumasta - Title given to 1007686 - Primary title: k_tiel
+315 - vassal: c_rumasta - Setting to vassal of k_tiel in Validate Realm
+315 - Lost vassal: c_rumasta
+315 - Holder 1007686 - Primary title: d_kokelga has lost the title: c_tasta
+315 - vassal: c_tasta - Title given to 1007686 - Primary title: k_tiel
+315 - vassal: c_tasta - Setting to vassal of k_tiel in Validate Realm
+315 - Lost vassal: c_tasta
+315 - Holder 1007686 - Primary title: d_kokelga has lost the title: c_rajari
+315 - vassal: c_rajari - Title given to 1007686 - Primary title: k_tiel
+315 - vassal: c_rajari - Setting to vassal of k_tiel in Validate Realm
+315 - Lost vassal: c_rajari
+315 - Holder 1007686 - Primary title: d_kokelga has lost the title: c_kanari
+315 - vassal: c_kanari - Title given to 1007686 - Primary title: k_tiel
+315 - vassal: c_kanari - Setting to vassal of k_tiel in Validate Realm
+315 - Lost vassal: c_kanari
+315 - Holder 1007686 - Primary title: d_kokelga has lost the title: c_ebiruo
+315 - vassal: c_ebiruo - Title given to 1007686 - Primary title: k_tiel
+315 - vassal: c_ebiruo - Setting to vassal of k_tiel in Validate Realm
+315 - Lost vassal: c_ebiruo
+315 - Holder 1007686 - Primary title: d_kokelga has lost the title: d_kokelga
+315 - Title given to 1007686 - Primary title: k_tiel
+334 - vassal: c_damiss - Given to 1009470 in HandleTitles - Too many duke titles
+334 - vassal: c_damiss - Holder 1009470 - Primary title: c_damiss has lost the title: c_damiss
+334 - vassal: c_damiss - Title given to 1009470
+334 - Title given to 1009470 - Primary title: c_damiss
+334 - vassal: c_damiss - Holder (1009470) has gained d_kokelga
+334 - Too many dukes, given to dejure: k_tiel
+363 - Holder 1010850 - Primary title: d_kokelga has lost the title: d_kokelga
+363 - Title given to 1010850
+363 - vassal: c_damiss - Holder 1010850 - Primary title: c_damiss has lost the title: c_damiss
+363 - vassal: c_damiss - Title given to 1010850 - Primary title: d_kokelga
+363 - Holder (1010850) has gained c_damiss
+382 - Holder (1010850) has gained d_egaudant
+382 - Holder (1010850) has gained c_ta
+382 - Holder (1010850) has gained c_akumasta
+383 - Title given to 1011935
+383 - vassal: c_damiss - Setting to vassal of d_egaudant in Validate Realm
+383 - Lost vassal: c_damiss
+383 - Holder (1011935) has gained c_damiss
+383 - Gained vassal: c_damiss
+383 - Holder (1011935) has gained d_egaudant
+383 - Holder (1011935) has gained c_ta
+383 - Holder (1011935) has gained c_akumasta
+396 - Title given to 1011288 - Primary title: k_tiel
+396 - vassal: c_damiss - Setting to vassal of d_egaudant in Validate Realm
+396 - Lost vassal: c_damiss
+396 - Destroyed due to flagged problem
+396 - Made independent
+396 - Title destroyed

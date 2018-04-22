@@ -1,0 +1,32 @@
+200 - Title given to 1000916
+200 - vassal: c_roboman - Holder 1000916 - Primary title: c_roboman has lost the title: c_roboman
+200 - sub vassal: c_roboman - Holder 1000916 - Primary title: c_roboman has lost the title: c_roboman
+200 - vassal: c_roboman - Title given to 1000916 - Primary title: d_tatin
+200 - sub vassal: c_roboman - Title given to 1000916 - Primary title: d_tatin
+200 - Holder (1000916) has gained c_roboman
+200 - vassal: c_arobaija - Holder 1000916 - Primary title: c_arobaija has lost the title: c_arobaija
+200 - sub vassal: c_arobaija - Holder 1000916 - Primary title: c_arobaija has lost the title: c_arobaija
+200 - vassal: c_arobaija - Title given to 1000916 - Primary title: d_tatin
+200 - sub vassal: c_arobaija - Title given to 1000916 - Primary title: d_tatin
+200 - Holder (1000916) has gained c_arobaija
+200 - vassal: c_ranayim - Holder 1000916 - Primary title: c_ranayim has lost the title: c_ranayim
+200 - sub vassal: c_ranayim - Holder 1000916 - Primary title: c_ranayim has lost the title: c_ranayim
+200 - vassal: c_ranayim - Title given to 1000916 - Primary title: d_tatin
+200 - sub vassal: c_ranayim - Title given to 1000916 - Primary title: d_tatin
+200 - Holder (1000916) has gained c_ranayim
+207 - Holder (1000916) has gained d_bimude
+207 - Holder (1000916) has gained c_sanaga
+207 - Holder (1000916) has gained c_kanayim
+207 - Holder (1000916) has gained c_lyaa
+207 - Holder (1000916) has gained c_wutomo
+207 - Holder (1000916) has gained c_datayim
+208 - vassal: c_ranayim - Title given to 1002052
+208 - vassal: c_roboman - Title given to 1002053
+227 - vassal: c_roboman - Given to 1003131 in HandleTitles - Too many duke titles
+227 - vassal: c_roboman - Holder 1003131 - Primary title: c_roboman has lost the title: c_roboman
+227 - vassal: c_roboman - Title given to 1003131
+227 - Title given to 1003131 - Primary title: c_roboman
+227 - vassal: c_roboman - Holder (1003131) has gained d_tatin
+227 - vassal: c_arobaija - Setting to vassal of k_afageelo in Validate Realm
+227 - Lost vassal: c_arobaija
+227 - Too many dukes, given to dejure: k_afageelo

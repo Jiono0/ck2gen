@@ -1,0 +1,29 @@
+200 - Title given to 1000177
+200 - vassal: c_wanohn - Holder 1000177 - Primary title: c_wanohn has lost the title: c_wanohn
+200 - sub vassal: c_wanohn - Holder 1000177 - Primary title: c_wanohn has lost the title: c_wanohn
+200 - vassal: c_wanohn - Title given to 1000177 - Primary title: d_evenohn
+200 - sub vassal: c_wanohn - Title given to 1000177 - Primary title: d_evenohn
+200 - Holder (1000177) has gained c_wanohn
+200 - vassal: c_runal - Holder 1000177 - Primary title: c_runal has lost the title: c_runal
+200 - sub vassal: c_runal - Holder 1000177 - Primary title: c_runal has lost the title: c_runal
+200 - vassal: c_runal - Title given to 1000177 - Primary title: d_evenohn
+200 - sub vassal: c_runal - Title given to 1000177 - Primary title: d_evenohn
+200 - Holder (1000177) has gained c_runal
+228 - Holder 1001803 - Primary title: d_evenohn has lost the title: d_evenohn
+228 - Title given to 1001803
+228 - vassal: c_wanohn - Holder 1001803 - Primary title: c_wanohn has lost the title: c_wanohn
+228 - vassal: c_wanohn - Title given to 1001803 - Primary title: d_evenohn
+228 - Holder (1001803) has gained c_wanohn
+228 - vassal: c_runal - Holder 1001803 - Primary title: c_runal has lost the title: c_runal
+228 - vassal: c_runal - Title given to 1001803 - Primary title: d_evenohn
+228 - Holder (1001803) has gained c_runal
+245 - Holder (1001803) has gained k_qujman
+251 - Holder 1003595 - Primary title: d_evenohn has lost the title: d_evenohn
+251 - Title given to 1003595 - Primary title: k_qujman
+251 - vassal: c_runal - Setting to vassal of d_wesance in Validate Realm
+251 - Lost vassal: c_runal
+251 - vassal: c_wanohn - Setting to vassal of d_wesance in Validate Realm
+251 - Lost vassal: c_wanohn
+252 - Destroyed due to flagged problem
+252 - Made independent
+252 - Title destroyed

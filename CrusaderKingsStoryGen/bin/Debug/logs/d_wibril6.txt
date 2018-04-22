@@ -1,0 +1,62 @@
+200 - Title given to 1000406
+200 - vassal: c_ehelava - Given to 1000409 via AddCharacterForTitle
+200 - sub vassal: c_ehelava - Given to 1000409 via AddCharacterForTitle
+200 - vassal: c_ehelava - Holder 1000409 - Primary title: c_ehelava has lost the title: c_ehelava
+200 - sub vassal: c_ehelava - Holder 1000409 - Primary title: c_ehelava has lost the title: c_ehelava
+200 - vassal: c_ehelava - Title given to 1000409
+200 - sub vassal: c_ehelava - Title given to 1000409
+200 - vassal: c_balavid - Holder 1000202 - Primary title: c_balavid has lost the title: c_ranjasz
+200 - sub vassal: c_balavid - Holder 1000202 - Primary title: c_balavid has lost the title: c_ranjasz
+200 - sub vassal: c_ranjasz - Title given to 1000202 - Primary title: d_ebirude
+200 - vassal: c_balavid - Holder 1000390 - Primary title: c_balavid has lost the title: c_ketoro
+200 - sub vassal: c_balavid - Holder 1000390 - Primary title: c_balavid has lost the title: c_ketoro
+200 - sub vassal: c_ketoro - Title given to 1000390 - Primary title: d_kolay
+200 - vassal: c_balavid - Holder 1000400 - Primary title: c_balavid has lost the title: c_tiuhava
+200 - sub vassal: c_balavid - Holder 1000400 - Primary title: c_balavid has lost the title: c_tiuhava
+200 - sub vassal: c_tiuhava - Title given to 1000400 - Primary title: d_ribril
+200 - vassal: c_netida - Holder 1000406 - Primary title: c_netida has lost the title: c_netida
+200 - sub vassal: c_netida - Holder 1000406 - Primary title: c_netida has lost the title: c_netida
+200 - vassal: c_netida - Title given to 1000406 - Primary title: d_wibril
+200 - sub vassal: c_netida - Title given to 1000406 - Primary title: d_wibril
+200 - Holder (1000406) has gained c_netida
+200 - vassal: c_ehelava - Holder 1000406 - Primary title: c_ehelava has lost the title: c_ehelava
+200 - sub vassal: c_ehelava - Holder 1000406 - Primary title: c_ehelava has lost the title: c_ehelava
+200 - vassal: c_ehelava - Title given to 1000406 - Primary title: d_wibril
+200 - sub vassal: c_ehelava - Title given to 1000406 - Primary title: d_wibril
+200 - Holder (1000406) has gained c_ehelava
+200 - vassal: c_balavid - Holder 1000406 - Primary title: c_balavid has lost the title: c_balavid
+200 - sub vassal: c_balavid - Holder 1000406 - Primary title: c_balavid has lost the title: c_balavid
+200 - vassal: c_balavid - Title given to 1000406 - Primary title: d_wibril
+200 - sub vassal: c_balavid - Title given to 1000406 - Primary title: d_wibril
+200 - Holder (1000406) has gained c_balavid
+200 - Holder 1001028 - Primary title: d_wibril has lost the title: d_wibril
+200 - Title given to 1001028 - Primary title: k_ehelama
+200 - vassal: c_ehelava - Given to 1001387 in HandleTitles - Too many duke titles
+200 - vassal: c_netida - Holder 1001387 - Primary title: c_netida has lost the title: c_ehelava
+200 - vassal: c_ehelava - Title given to 1001387
+200 - Title given to 1001387 - Primary title: c_ehelava
+200 - vassal: c_ehelava - Holder (1001387) has gained d_wibril
+200 - Too many dukes, given to dejure: k_ehelama
+241 - Holder 1001746 - Primary title: d_wibril has lost the title: d_wibril
+241 - Title given to 1001746
+241 - vassal: c_ehelava - Holder 1001746 - Primary title: c_ehelava has lost the title: c_ehelava
+241 - vassal: c_ehelava - Title given to 1001746 - Primary title: d_wibril
+241 - Holder (1001746) has gained c_ehelava
+242 - Holder 1000367 - Primary title: d_wibril has lost the title: d_wibril
+242 - Title given to 1000367 - Primary title: d_atolisa
+242 - vassal: c_ehelava - Holder 1000367 - Primary title: c_ehelava has lost the title: c_ehelava
+242 - vassal: c_ehelava - Title given to 1000367 - Primary title: d_atolisa
+243 - Holder 1004023 - Primary title: d_wibril has lost the title: c_doro
+243 - Holder 1001579 - Primary title: d_wibril has lost the title: d_kolilda
+243 - Gained vassal: c_nyarael
+243 - Gained vassal: c_belida
+248 - Holder (1000367) has gained d_kolilda
+249 - vassal: c_ehelava - Given to 1004376 in HandleTitles - Too many duke titles
+249 - vassal: c_ehelava - Title given to 1004376
+249 - Title given to 1001579 - Primary title: k_ehelama
+249 - vassal: c_belida - Setting to vassal of d_kolilda in Validate Realm
+249 - Lost vassal: c_belida
+249 - vassal: c_nyarael - Setting to vassal of d_kolilda in Validate Realm
+249 - Lost vassal: c_nyarael
+249 - Too many dukes, made direct title into vassal of k_ehelama
+249 - Title given to 1004377

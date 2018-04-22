@@ -1,0 +1,127 @@
+200 - Title given to 1000708
+200 - vassal: c_kiyas - Given to 1000711 via AddCharacterForTitle
+200 - sub vassal: c_kiyas - Given to 1000711 via AddCharacterForTitle
+200 - vassal: c_kiyas - Holder 1000711 - Primary title: c_kiyas has lost the title: c_kiyas
+200 - sub vassal: c_kiyas - Holder 1000711 - Primary title: c_kiyas has lost the title: c_kiyas
+200 - vassal: c_kiyas - Title given to 1000711
+200 - sub vassal: c_kiyas - Title given to 1000711
+200 - vassal: c_kilyas - Holder 1000708 - Primary title: c_kilyas has lost the title: c_kilyas
+200 - sub vassal: c_kilyas - Holder 1000708 - Primary title: c_kilyas has lost the title: c_kilyas
+200 - vassal: c_kilyas - Title given to 1000708 - Primary title: d_telulay
+200 - sub vassal: c_kilyas - Title given to 1000708 - Primary title: d_telulay
+200 - Holder (1000708) has gained c_kilyas
+200 - vassal: c_kiyas - Holder 1000708 - Primary title: c_kiyas has lost the title: c_kiyas
+200 - sub vassal: c_kiyas - Holder 1000708 - Primary title: c_kiyas has lost the title: c_kiyas
+200 - vassal: c_kiyas - Title given to 1000708 - Primary title: d_telulay
+200 - sub vassal: c_kiyas - Title given to 1000708 - Primary title: d_telulay
+200 - Holder (1000708) has gained c_kiyas
+235 - Holder 1001596 - Primary title: d_telulay has lost the title: d_telulay
+235 - Title given to 1001596
+235 - vassal: c_kilyas - Holder 1001596 - Primary title: c_kilyas has lost the title: c_kilyas
+235 - vassal: c_kilyas - Title given to 1001596 - Primary title: d_telulay
+235 - Holder (1001596) has gained c_kilyas
+235 - vassal: c_kiyas - Holder 1001596 - Primary title: c_kiyas has lost the title: c_kiyas
+235 - vassal: c_kiyas - Title given to 1001596 - Primary title: d_telulay
+235 - Holder (1001596) has gained c_kiyas
+237 - Holder 1002063 - Primary title: d_telulay has lost the title: d_telulay
+237 - Title given to 1002063 - Primary title: k_qonauna
+237 - vassal: c_kilyas - Holder 1002063 - Primary title: c_kilyas has lost the title: c_kilyas
+237 - vassal: c_kilyas - Title given to 1002063 - Primary title: k_qonauna
+237 - vassal: c_kiyas - Holder 1002063 - Primary title: c_kiyas has lost the title: c_kiyas
+237 - vassal: c_kiyas - Title given to 1002063 - Primary title: k_qonauna
+249 - Holder 1003069 - Primary title: d_telulay has lost the title: d_telulay
+249 - Title given to 1003069 - Primary title: k_qonauna
+249 - vassal: c_kiyas - Setting to vassal of d_ronauna in Validate Realm
+249 - Lost vassal: c_kiyas
+249 - vassal: c_kilyas - Setting to vassal of d_ronauna in Validate Realm
+249 - Lost vassal: c_kilyas
+250 - Destroyed due to flagged problem
+250 - Made independent
+250 - Title destroyed
+297 - Given to 1005730 in TestCreateEmpire
+297 - Title given to 1005730 - Primary title: d_ronauna
+297 - Setting independent in Validate Realm
+297 - Made independent
+297 - Made independent for title creation d_telulay for d_ronauna
+297 - Gained vassal: c_kiyas
+297 - Gained vassal: c_kilyas
+297 - Gained vassal: c_babyas
+297 - Gained vassal: c_eladevi
+328 - sub vassal: c_ketente - Setting to vassal of d_telulay in Validate Realm
+328 - Gained vassal: c_ketente
+328 - Holder 1006546 - Primary title: d_telulay has lost the title: d_telulay
+328 - Title given to 1006546 - Primary title: k_qonauna
+328 - vassal: c_kiyas - Holder 1006546 - Primary title: c_kiyas has lost the title: c_kiyas
+328 - vassal: c_kiyas - Title given to 1006546 - Primary title: k_qonauna
+328 - vassal: c_kilyas - Holder 1006546 - Primary title: c_kilyas has lost the title: c_kilyas
+328 - vassal: c_kilyas - Title given to 1006546 - Primary title: k_qonauna
+328 - vassal: c_babyas - Holder 1006546 - Primary title: c_babyas has lost the title: c_babyas
+328 - vassal: c_babyas - Title given to 1006546 - Primary title: k_qonauna
+328 - vassal: c_eladevi - Holder 1006546 - Primary title: c_eladevi has lost the title: c_eladevi
+328 - vassal: c_eladevi - Title given to 1006546 - Primary title: k_qonauna
+328 - vassal: c_ketente - Holder 1006546 - Primary title: c_ketente has lost the title: c_ketente
+328 - vassal: c_ketente - Title given to 1006546 - Primary title: k_qonauna
+329 - vassal: c_eladevi - Made vassal of neighbour (e_samorka) due to being a seperate island
+329 - sub vassal: c_eladevi - Made vassal of neighbour (e_samorka) due to being a seperate island
+329 - Lost vassal: c_eladevi
+329 - sub vassal: c_eladevi - Setting to vassal of d_telulay in Validate Realm
+329 - Gained vassal: c_eladevi
+329 - Gained vassal: c_eladevi
+329 - vassal: c_eladevi - Given to neighbour holder of e_samorka
+329 - sub vassal: c_eladevi - Given to neighbour holder of e_samorka
+329 - Gained vassal: c_dalakai
+329 - vassal: c_dalakai - Given to neighbour holder of d_telulay
+329 - sub vassal: c_dalakai - Given to neighbour holder of d_telulay
+329 - vassal: c_dalakai - Holder 1006546 - Primary title: c_dalakai has lost the title: c_dalakai
+329 - sub vassal: c_dalakai - Holder 1006546 - Primary title: c_dalakai has lost the title: c_dalakai
+329 - vassal: c_dalakai - Title given to 1006546 - Primary title: d_telulay
+329 - sub vassal: c_dalakai - Title given to 1006546 - Primary title: d_telulay
+329 - Holder (1006546) has gained c_dalakai
+330 - Holder 1008597 - Primary title: d_telulay has lost the title: c_eladevi
+330 - vassal: c_eladevi - Title given to 1008597
+330 - sub vassal: c_eladevi - Title given to 1008597
+331 - Holder (1006546) has gained d_ronauna
+331 - vassal: c_kiyas - Set liege on title creation d_ronauna
+331 - sub vassal: c_kiyas - Set liege on title creation d_ronauna
+331 - Lost vassal: c_kiyas
+331 - vassal: c_kilyas - Set liege on title creation d_ronauna
+331 - sub vassal: c_kilyas - Set liege on title creation d_ronauna
+331 - Lost vassal: c_kilyas
+331 - vassal: c_babyas - Set liege on title creation d_ronauna
+331 - sub vassal: c_babyas - Set liege on title creation d_ronauna
+331 - Lost vassal: c_babyas
+331 - vassal: c_ketente - Set liege on title creation d_ronauna
+331 - sub vassal: c_ketente - Set liege on title creation d_ronauna
+331 - Lost vassal: c_ketente
+331 - vassal: c_dalakai - Set liege on title creation d_ronauna
+331 - sub vassal: c_dalakai - Set liege on title creation d_ronauna
+331 - Lost vassal: c_dalakai
+331 - vassal: c_eladevi - Holder 1006546 - Primary title: c_eladevi has lost the title: c_eladevi
+331 - sub vassal: c_eladevi - Holder 1006546 - Primary title: c_eladevi has lost the title: c_eladevi
+331 - vassal: c_eladevi - Title given to 1006546 - Primary title: d_telulay
+331 - sub vassal: c_eladevi - Title given to 1006546 - Primary title: d_telulay
+331 - Holder (1006546) has gained c_eladevi
+332 - Holder 1008703 - Primary title: d_telulay has lost the title: c_kiyas
+332 - sub vassal: c_kiyas - Title given to 1008703
+344 - Set liege on title creation k_qonauna
+344 - vassal: c_eladevi - Set liege on title creation k_qonauna
+344 - Lost vassal: c_eladevi
+344 - Gained vassal: c_kiyas
+344 - Gained vassal: c_kilyas
+344 - Gained vassal: c_babyas
+344 - Gained vassal: c_ketente
+344 - Gained vassal: c_dalakai
+344 - Gained vassal: c_eladevi
+344 - Holder 1009282 - Primary title: d_telulay has lost the title: d_telulay
+344 - Title given to 1009282 - Primary title: k_qonauna
+344 - vassal: c_eladevi - Holder 1009282 - Primary title: c_eladevi has lost the title: c_eladevi
+344 - vassal: c_eladevi - Title given to 1009282 - Primary title: k_qonauna
+344 - vassal: c_dalakai - Holder 1009282 - Primary title: c_dalakai has lost the title: c_dalakai
+344 - vassal: c_dalakai - Title given to 1009282 - Primary title: k_qonauna
+344 - vassal: c_ketente - Holder 1009282 - Primary title: c_ketente has lost the title: c_ketente
+344 - vassal: c_ketente - Title given to 1009282 - Primary title: k_qonauna
+344 - vassal: c_babyas - Holder 1009282 - Primary title: c_babyas has lost the title: c_babyas
+344 - vassal: c_babyas - Title given to 1009282 - Primary title: k_qonauna
+344 - vassal: c_kilyas - Holder 1009282 - Primary title: c_kilyas has lost the title: c_kilyas
+344 - vassal: c_kilyas - Title given to 1009282 - Primary title: k_qonauna
+344 - vassal: c_kiyas - Holder 1009282 - Primary title

@@ -1,0 +1,335 @@
+200 - Title given to 1001054
+200 - vassal: d_esenitsa - Holder 1001054 - Primary title: d_esenitsa has lost the title: d_esenitsa
+200 - sub vassal: d_esenitsa - Holder 1001054 - Primary title: d_esenitsa has lost the title: d_esenitsa
+200 - vassal: d_esenitsa - Title given to 1001054 - Primary title: k_esevucia
+200 - sub vassal: d_esenitsa - Title given to 1001054 - Primary title: k_esevucia
+200 - Holder (1001054) has gained d_esenitsa
+200 - Holder (1001054) has gained c_tilogna
+200 - vassal: d_rawayah - Holder 1001054 - Primary title: d_rawayah has lost the title: d_rawayah
+200 - sub vassal: d_rawayah - Holder 1001054 - Primary title: d_rawayah has lost the title: d_rawayah
+200 - vassal: d_rawayah - Title given to 1001054 - Primary title: k_esevucia
+200 - sub vassal: d_rawayah - Title given to 1001054 - Primary title: k_esevucia
+200 - Holder (1001054) has gained d_rawayah
+200 - sub vassal: c_line - Holder 1001054 - Primary title: c_line has lost the title: c_line
+200 - sub vassal: c_line - Title given to 1001054 - Primary title: k_esevucia
+200 - Holder (1001054) has gained c_line
+200 - sub vassal: c_banuha - Holder 1001054 - Primary title: c_banuha has lost the title: c_banuha
+200 - sub vassal: c_banuha - Title given to 1001054 - Primary title: k_esevucia
+200 - Holder (1001054) has gained c_banuha
+200 - sub vassal: c_kulacius - Holder 1001054 - Primary title: c_kulacius has lost the title: c_kulacius
+200 - sub vassal: c_kulacius - Title given to 1001054 - Primary title: k_esevucia
+200 - Holder (1001054) has gained c_kulacius
+225 - Holder 1001542 - Primary title: k_esevucia has lost the title: k_esevucia
+225 - Title given to 1001542
+225 - vassal: d_rawayah - Holder 1001542 - Primary title: d_rawayah has lost the title: d_rawayah
+225 - sub vassal: d_rawayah - Holder 1001542 - Primary title: d_rawayah has lost the title: d_rawayah
+225 - vassal: d_rawayah - Title given to 1001542 - Primary title: k_esevucia
+225 - sub vassal: d_rawayah - Title given to 1001542 - Primary title: k_esevucia
+225 - Holder (1001542) has gained d_rawayah
+225 - sub vassal: c_line - Setting to vassal of d_esenitsa in Validate Realm
+225 - vassal: d_rawayah - Lost vassal: c_line
+225 - sub vassal: d_rawayah - Lost vassal: c_line
+225 - sub vassal: c_banuha - Setting to vassal of d_esenitsa in Validate Realm
+225 - vassal: d_rawayah - Lost vassal: c_banuha
+225 - sub vassal: d_rawayah - Lost vassal: c_banuha
+225 - sub vassal: c_kulacius - Setting to vassal of d_esenitsa in Validate Realm
+225 - vassal: d_rawayah - Lost vassal: c_kulacius
+225 - sub vassal: d_rawayah - Lost vassal: c_kulacius
+225 - vassal: d_esenitsa - Gained vassal: c_kulacius
+225 - sub vassal: d_esenitsa - Gained vassal: c_kulacius
+225 - vassal: d_esenitsa - Gained vassal: c_banuha
+225 - sub vassal: d_esenitsa - Gained vassal: c_banuha
+225 - vassal: d_esenitsa - Gained vassal: c_line
+225 - sub vassal: d_esenitsa - Gained vassal: c_line
+225 - vassal: d_esenitsa - Holder 1001542 - Primary title: d_esenitsa has lost the title: d_esenitsa
+225 - sub vassal: d_esenitsa - Holder 1001542 - Primary title: d_esenitsa has lost the title: d_esenitsa
+225 - vassal: d_esenitsa - Title given to 1001542 - Primary title: k_esevucia
+225 - sub vassal: d_esenitsa - Title given to 1001542 - Primary title: k_esevucia
+225 - Holder (1001542) has gained d_esenitsa
+225 - Holder (1001542) has gained c_tilogna
+225 - Holder (1001542) has gained c_line
+225 - Holder (1001542) has gained c_banuha
+225 - Holder (1001542) has gained c_kulacius
+226 - vassal: d_rawayah - Destroyed due to flagged problem
+226 - sub vassal: d_rawayah - Destroyed due to flagged problem
+226 - vassal: d_rawayah - Made independent
+226 - sub vassal: d_rawayah - Made independent
+229 - vassal: d_egnacius - Holder 1001542 - Primary title: d_egnacius has lost the title: d_egnacius
+229 - sub vassal: d_egnacius - Holder 1001542 - Primary title: d_egnacius has lost the title: d_egnacius
+229 - vassal: d_egnacius - Title given to 1001542 - Primary title: k_esevucia
+229 - sub vassal: d_egnacius - Title given to 1001542 - Primary title: k_esevucia
+229 - Holder (1001542) has gained d_egnacius
+229 - sub vassal: c_ranora - Holder 1001542 - Primary title: c_ranora has lost the title: c_ranora
+229 - sub vassal: c_ranora - Title given to 1001542 - Primary title: k_esevucia
+229 - Holder (1001542) has gained c_ranora
+229 - sub vassal: c_kilamo - Holder 1001542 - Primary title: c_kilamo has lost the title: c_kilamo
+229 - sub vassal: c_kilamo - Title given to 1001542 - Primary title: k_esevucia
+229 - Holder (1001542) has gained c_kilamo
+229 - sub vassal: c_wawamo - Holder 1001542 - Primary title: c_wawamo has lost the title: c_wawamo
+229 - sub vassal: c_wawamo - Title given to 1001542 - Primary title: k_esevucia
+229 - Holder (1001542) has gained c_wawamo
+229 - Holder 1003281 - Primary title: k_esevucia has lost the title: c_kilamo
+229 - sub vassal: c_kilamo - Title given to 1003281
+229 - Holder 1003282 - Primary title: k_esevucia has lost the title: c_ranora
+229 - sub vassal: c_ranora - Title given to 1003282
+232 - Holder 1003068 - Primary title: k_esevucia has lost the title: k_esevucia
+232 - Title given to 1003068
+232 - vassal: d_esenitsa - Holder 1003068 - Primary title: d_esenitsa has lost the title: d_esenitsa
+232 - sub vassal: d_esenitsa - Holder 1003068 - Primary title: d_esenitsa has lost the title: d_esenitsa
+232 - vassal: d_esenitsa - Title given to 1003068 - Primary title: k_esevucia
+232 - sub vassal: d_esenitsa - Title given to 1003068 - Primary title: k_esevucia
+232 - Holder (1003068) has gained d_esenitsa
+232 - vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: c_tilogna
+232 - sub vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: c_tilogna
+232 - Holder (1003068) has gained c_tilogna
+232 - vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: c_line
+232 - sub vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: c_line
+232 - Holder (1003068) has gained c_line
+232 - vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: c_banuha
+232 - sub vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: c_banuha
+232 - Holder (1003068) has gained c_banuha
+232 - vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: c_kulacius
+232 - sub vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: c_kulacius
+232 - Holder (1003068) has gained c_kulacius
+232 - vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: d_egnacius
+232 - sub vassal: d_egnacius - Holder 1003068 - Primary title: d_egnacius has lost the title: d_egnacius
+232 - vassal: d_egnacius - Title given to 1003068 - Primary title: k_esevucia
+232 - sub vassal: d_egnacius - Title given to 1003068 - Primary title: k_esevucia
+232 - Holder (1003068) has gained d_egnacius
+232 - sub vassal: c_wawamo - Holder 1003068 - Primary title: c_wawamo has lost the title: c_wawamo
+232 - sub vassal: c_wawamo - Title given to 1003068 - Primary title: k_esevucia
+232 - Holder (1003068) has gained c_wawamo
+238 - vassal: d_waruha - Holder 1001980 - Primary title: d_waruha has lost the title: d_waruha
+238 - sub vassal: d_waruha - Holder 1001980 - Primary title: d_waruha has lost the title: d_waruha
+238 - vassal: d_waruha - Title given to 1001980
+238 - sub vassal: d_waruha - Title given to 1001980
+238 - sub vassal: c_wagida - Holder 1001980 - Primary title: c_wagida has lost the title: c_wagida
+238 - sub vassal: c_wagida - Title given to 1001980 - Primary title: d_waruha
+238 - vassal: d_waruha - Holder (1001980) has gained c_wagida
+238 - sub vassal: d_waruha - Holder (1001980) has gained c_wagida
+238 - sub vassal: c_bawazy - Holder 1001980 - Primary title: c_bawazy has lost the title: c_bawazy
+238 - sub vassal: c_bawazy - Title given to 1001980 - Primary title: d_waruha
+238 - vassal: d_waruha - Holder (1001980) has gained c_bawazy
+238 - sub vassal: d_waruha - Holder (1001980) has gained c_bawazy
+243 - vassal: d_bayasene - Holder 1001610 - Primary title: d_bayasene has lost the title: d_bayasene
+243 - sub vassal: d_bayasene - Holder 1001610 - Primary title: d_bayasene has lost the title: d_bayasene
+243 - vassal: d_bayasene - Title given to 1001610
+243 - sub vassal: d_bayasene - Title given to 1001610
+243 - sub vassal: c_kajuha - Holder 1001610 - Primary title: c_kajuha has lost the title: c_kajuha
+243 - sub vassal: c_kajuha - Title given to 1001610 - Primary title: d_bayasene
+243 - vassal: d_bayasene - Holder (1001610) has gained c_kajuha
+243 - sub vassal: d_bayasene - Holder (1001610) has gained c_kajuha
+243 - sub vassal: c_soksa - Holder 1001610 - Primary title: c_soksa has lost the title: c_soksa
+243 - sub vassal: c_soksa - Title given to 1001610 - Primary title: d_bayasene
+243 - vassal: d_bayasene - Holder (1001610) has gained c_soksa
+243 - sub vassal: d_bayasene - Holder (1001610) has gained c_soksa
+248 - Holder 1004149 - Primary title: k_esevucia has lost the title: k_esevucia
+248 - Title given to 1004149
+248 - vassal: d_egnacius - Holder 1004149 - Primary title: d_egnacius has lost the title: d_egnacius
+248 - sub vassal: d_egnacius - Holder 1004149 - Primary title: d_egnacius has lost the title: d_egnacius
+248 - vassal: d_egnacius - Title given to 1004149 - Primary title: k_esevucia
+248 - sub vassal: d_egnacius - Title given to 1004149 - Primary title: k_esevucia
+248 - Holder (1004149) has gained d_egnacius
+248 - sub vassal: c_wawamo - Setting to vassal of d_esenitsa in Validate Realm
+248 - vassal: d_egnacius - Lost vassal: c_wawamo
+248 - sub vassal: d_egnacius - Lost vassal: c_wawamo
+248 - vassal: d_esenitsa - Gained vassal: c_wawamo
+248 - sub vassal: d_esenitsa - Gained vassal: c_wawamo
+248 - vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_wawamo
+248 - sub vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_wawamo
+248 - sub vassal: c_wawamo - Title given to 1004149 - Primary title: k_esevucia
+248 - Holder (1004149) has gained c_wawamo
+248 - sub vassal: c_wawamo - Setting to vassal of k_esevucia in Validate Realm
+248 - vassal: d_esenitsa - Lost vassal: c_wawamo
+248 - sub vassal: d_esenitsa - Lost vassal: c_wawamo
+248 - Gained vassal: c_wawamo
+248 - vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_kulacius
+248 - sub vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_kulacius
+248 - Holder (1004149) has gained c_kulacius
+248 - vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_banuha
+248 - sub vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_banuha
+248 - Holder (1004149) has gained c_banuha
+248 - vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_line
+248 - sub vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_line
+248 - Holder (1004149) has gained c_line
+248 - vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_tilogna
+248 - sub vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: c_tilogna
+248 - Holder (1004149) has gained c_tilogna
+248 - vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: d_esenitsa
+248 - sub vassal: d_esenitsa - Holder 1004149 - Primary title: d_esenitsa has lost the title: d_esenitsa
+248 - vassal: d_esenitsa - Title given to 1004149 - Primary title: k_esevucia
+248 - sub vassal: d_esenitsa - Title given to 1004149 - Primary title: k_esevucia
+248 - Holder (1004149) has gained d_esenitsa
+260 - vassal: d_bayasene - Holder 1004526 - Primary title: d_bayasene has lost the title: d_bayasene
+260 - sub vassal: d_bayasene - Holder 1004526 - Primary title: d_bayasene has lost the title: d_bayasene
+260 - vassal: d_bayasene - Title given to 1004526
+260 - sub vassal: d_bayasene - Title given to 1004526
+260 - sub vassal: c_soksa - Holder 1004526 - Primary title: c_soksa has lost the title: c_soksa
+260 - sub vassal: c_soksa - Title given to 1004526 - Primary title: d_bayasene
+260 - vassal: d_bayasene - Holder (1004526) has gained c_soksa
+260 - sub vassal: d_bayasene - Holder (1004526) has gained c_soksa
+260 - sub vassal: c_kajuha - Holder 1004526 - Primary title: c_kajuha has lost the title: c_kajuha
+260 - sub vassal: c_kajuha - Title given to 1004526 - Primary title: d_bayasene
+260 - vassal: d_bayasene - Holder (1004526) has gained c_kajuha
+260 - sub vassal: d_bayasene - Holder (1004526) has gained c_kajuha
+268 - vassal: d_waruha - Holder 1005266 - Primary title: d_waruha has lost the title: d_waruha
+268 - sub vassal: d_waruha - Holder 1005266 - Primary title: d_waruha has lost the title: d_waruha
+268 - vassal: d_waruha - Title given to 1005266
+268 - sub vassal: d_waruha - Title given to 1005266
+268 - sub vassal: c_wagida - Holder 1005266 - Primary title: c_wagida has lost the title: c_wagida
+268 - sub vassal: c_wagida - Title given to 1005266 - Primary title: d_waruha
+268 - vassal: d_waruha - Holder (1005266) has gained c_wagida
+268 - sub vassal: d_waruha - Holder (1005266) has gained c_wagida
+268 - sub vassal: c_bawazy - Holder 1005266 - Primary title: c_bawazy has lost the title: c_bawazy
+268 - sub vassal: c_bawazy - Title given to 1005266 - Primary title: d_waruha
+268 - vassal: d_waruha - Holder (1005266) has gained c_bawazy
+268 - sub vassal: d_waruha - Holder (1005266) has gained c_bawazy
+298 - vassal: d_bayasene - Holder 1005718 - Primary title: d_bayasene has lost the title: d_bayasene
+298 - sub vassal: d_bayasene - Holder 1005718 - Primary title: d_bayasene has lost the title: d_bayasene
+298 - vassal: d_bayasene - Title given to 1005718
+298 - sub vassal: d_bayasene - Title given to 1005718
+298 - sub vassal: c_kajuha - Holder 1005718 - Primary title: c_kajuha has lost the title: c_kajuha
+298 - sub vassal: c_kajuha - Title given to 1005718 - Primary title: d_bayasene
+298 - vassal: d_bayasene - Holder (1005718) has gained c_kajuha
+298 - sub vassal: d_bayasene - Holder (1005718) has gained c_kajuha
+298 - sub vassal: c_soksa - Holder 1005718 - Primary title: c_soksa has lost the title: c_soksa
+298 - sub vassal: c_soksa - Title given to 1005718 - Primary title: d_bayasene
+298 - vassal: d_bayasene - Holder (1005718) has gained c_soksa
+298 - sub vassal: d_bayasene - Holder (1005718) has gained c_soksa
+302 - vassal: d_waruha - Holder 1006158 - Primary title: d_waruha has lost the title: d_waruha
+302 - sub vassal: d_waruha - Holder 1006158 - Primary title: d_waruha has lost the title: d_waruha
+302 - vassal: d_waruha - Title given to 1006158
+302 - sub vassal: d_waruha - Title given to 1006158
+302 - sub vassal: c_wagida - Holder 1006158 - Primary title: c_wagida has lost the title: c_wagida
+302 - sub vassal: c_wagida - Title given to 1006158 - Primary title: d_waruha
+302 - vassal: d_waruha - Holder (1006158) has gained c_wagida
+302 - sub vassal: d_waruha - Holder (1006158) has gained c_wagida
+302 - sub vassal: c_bawazy - Holder 1006158 - Primary title: c_bawazy has lost the title: c_bawazy
+302 - sub vassal: c_bawazy - Title given to 1006158 - Primary title: d_waruha
+302 - vassal: d_waruha - Holder (1006158) has gained c_bawazy
+302 - sub vassal: d_waruha - Holder (1006158) has gained c_bawazy
+309 - Holder 1005162 - Primary title: k_esevucia has lost the title: k_esevucia
+309 - Title given to 1005162
+309 - vassal: d_egnacius - Holder 1005162 - Primary title: d_egnacius has lost the title: d_egnacius
+309 - sub vassal: d_egnacius - Holder 1005162 - Primary title: d_egnacius has lost the title: d_egnacius
+309 - vassal: d_egnacius - Title given to 1005162 - Primary title: k_esevucia
+309 - sub vassal: d_egnacius - Title given to 1005162 - Primary title: k_esevucia
+309 - Holder (1005162) has gained d_egnacius
+309 - vassal: c_wawamo - Setting to vassal of d_esenitsa in Validate Realm
+309 - sub vassal: c_wawamo - Setting to vassal of d_esenitsa in Validate Realm
+309 - Lost vassal: c_wawamo
+309 - vassal: d_esenitsa - Gained vassal: c_wawamo
+309 - sub vassal: d_esenitsa - Gained vassal: c_wawamo
+309 - vassal: d_esenitsa - Holder 1005162 - Primary title: d_esenitsa has lost the title: d_esenitsa
+309 - sub vassal: d_esenitsa - Holder 1005162 - Primary title: d_esenitsa has lost the title: d_esenitsa
+309 - vassal: d_esenitsa - Title given to 1005162 - Primary title: k_esevucia
+309 - sub vassal: d_esenitsa - Title given to 1005162 - Primary title: k_esevucia
+309 - Holder (1005162) has gained d_esenitsa
+309 - Holder (1005162) has gained c_tilogna
+309 - Holder (1005162) has gained c_line
+309 - Holder (1005162) has gained c_banuha
+309 - Holder (1005162) has gained c_kulacius
+309 - Holder (1005162) has gained c_wawamo
+318 - vassal: d_bayasene - Holder 1006998 - Primary title: d_bayasene has lost the title: d_bayasene
+318 - sub vassal: d_bayasene - Holder 1006998 - Primary title: d_bayasene has lost the title: d_bayasene
+318 - vassal: d_bayasene - Title given to 1006998
+318 - sub vassal: d_bayasene - Title given to 1006998
+318 - sub vassal: c_soksa - Holder 1006998 - Primary title: c_soksa has lost the title: c_soksa
+318 - sub vassal: c_soksa - Title given to 1006998 - Primary title: d_bayasene
+318 - vassal: d_bayasene - Holder (1006998) has gained c_soksa
+318 - sub vassal: d_bayasene - Holder (1006998) has gained c_soksa
+318 - sub vassal: c_kajuha - Holder 1006998 - Primary title: c_kajuha has lost the title: c_kajuha
+318 - sub vassal: c_kajuha - Title given to 1006998 - Primary title: d_bayasene
+318 - vassal: d_bayasene - Holder (1006998) has gained c_kajuha
+318 - sub vassal: d_bayasene - Holder (1006998) has gained c_kajuha
+318 - Holder 1007729 - Primary title: k_esevucia has lost the title: k_esevucia
+318 - Title given to 1007729
+318 - vassal: d_egnacius - Holder 1007729 - Primary title: d_egnacius has lost the title: d_egnacius
+318 - sub vassal: d_egnacius - Holder 1007729 - Primary title: d_egnacius has lost the title: d_egnacius
+318 - vassal: d_egnacius - Title given to 1007729 - Primary title: k_esevucia
+318 - sub vassal: d_egnacius - Title given to 1007729 - Primary title: k_esevucia
+318 - Holder (1007729) has gained d_egnacius
+318 - vassal: d_esenitsa - Holder 1007729 - Primary title: d_esenitsa has lost the title: d_esenitsa
+318 - sub vassal: d_esenitsa - Holder 1007729 - Primary title: d_esenitsa has lost the title: d_esenitsa
+318 - vassal: d_esenitsa - Title given to 1007729 - Primary title: k_esevucia
+318 - sub vassal: d_esenitsa - Title given to 1007729 - Primary title: k_esevucia
+318 - Holder (1007729) has gained d_esenitsa
+318 - Holder (1007729) has gained c_tilogna
+318 - Holder (1007729) has gained c_line
+318 - Holder (1007729) has gained c_banuha
+318 - Holder (1007729) has gained c_kulacius
+318 - Holder (1007729) has gained c_wawamo
+323 - vassal: d_waruha - Holder 1007729 - Primary title: d_waruha has lost the title: d_waruha
+323 - sub vassal: d_waruha - Holder 1007729 - Primary title: d_waruha has lost the title: d_waruha
+323 - vassal: d_waruha - Title given to 1007729 - Primary title: k_esevucia
+323 - sub vassal: d_waruha - Title given to 1007729 - Primary title: k_esevucia
+323 - Holder (1007729) has gained d_waruha
+323 - sub vassal: c_bawazy - Holder 1007729 - Primary title: c_bawazy has lost the title: c_bawazy
+323 - sub vassal: c_bawazy - Title given to 1007729 - Primary title: k_esevucia
+323 - Holder (1007729) has gained c_bawazy
+323 - sub vassal: c_wagida - Holder 1007729 - Primary title: c_wagida has lost the title: c_wagida
+323 - sub vassal: c_wagida - Title given to 1007729 - Primary title: k_esevucia
+323 - Holder (1007729) has gained c_wagida
+323 - vassal: d_esenitsa - Destroyed due to flagged problem
+323 - sub vassal: d_esenitsa - Destroyed due to flagged problem
+323 - vassal: d_esenitsa - Made independent
+323 - sub vassal: d_esenitsa - Made independent
+323 - Gained vassal: c_tilogna
+323 - vassal: c_tilogna - Given to 1005780 in HandleTitles - Too many duke titles
+323 - sub vassal: c_tilogna - Given to 1005780 in HandleTitles - Too many duke titles
+323 - Holder 1008247 - Primary title: k_esevucia has lost the title: c_line
+323 - Gained vassal: c_line
+323 - Holder 1008248 - Primary title: k_esevucia has lost the title: c_bawazy
+323 - sub vassal: c_bawazy - Title given to 1008248
+323 - vassal: c_tilogna - Made independent due to being a seperate island
+323 - sub vassal: c_tilogna - Made independent due to being a seperate island
+323 - Holder 1008249 - Primary title: k_esevucia has lost the title: c_tilogna
+323 - vassal: c_tilogna - Title given to 1008249
+323 - sub vassal: c_tilogna - Title given to 1008249
+323 - vassal: c_tilogna - Made independent
+323 - sub vassal: c_tilogna - Made independent
+360 - vassal: d_bayasene - Holder 1008285 - Primary title: d_bayasene has lost the title: d_bayasene
+360 - sub vassal: d_bayasene - Holder 1008285 - Primary title: d_bayasene has lost the title: d_bayasene
+360 - vassal: d_bayasene - Title given to 1008285
+360 - sub vassal: d_bayasene - Title given to 1008285
+360 - sub vassal: c_kajuha - Holder 1008285 - Primary title: c_kajuha has lost the title: c_kajuha
+360 - sub vassal: c_kajuha - Title given to 1008285 - Primary title: d_bayasene
+360 - vassal: d_bayasene - Holder (1008285) has gained c_kajuha
+360 - sub vassal: d_bayasene - Holder (1008285) has gained c_kajuha
+360 - sub vassal: c_soksa - Holder 1008285 - Primary title: c_soksa has lost the title: c_soksa
+360 - sub vassal: c_soksa - Title given to 1008285 - Primary title: d_bayasene
+360 - vassal: d_bayasene - Holder (1008285) has gained c_soksa
+360 - sub vassal: d_bayasene - Holder (1008285) has gained c_soksa
+362 - vassal: d_bayasene - Holder 1007729 - Primary title: d_bayasene has lost the title: d_bayasene
+362 - sub vassal: d_bayasene - Holder 1007729 - Primary title: d_bayasene has lost the title: d_bayasene
+362 - vassal: d_bayasene - Title given to 1007729 - Primary title: k_esevucia
+362 - sub vassal: d_bayasene - Title given to 1007729 - Primary title: k_esevucia
+362 - Holder (1007729) has gained d_bayasene
+362 - sub vassal: c_kajuha - Holder 1007729 - Primary title: c_kajuha has lost the title: c_kajuha
+362 - sub vassal: c_kajuha - Title given to 1007729 - Primary title: k_esevucia
+362 - Holder (1007729) has gained c_kajuha
+362 - sub vassal: c_soksa - Holder 1007729 - Primary title: c_soksa has lost the title: c_soksa
+362 - sub vassal: c_soksa - Title given to 1007729 - Primary title: k_esevucia
+362 - Holder (1007729) has gained c_soksa
+362 - sub vassal: c_wagida - Given to 1010161 in HandleTitles - Too many duke titles
+362 - Holder 1010161 - Primary title: k_esevucia has lost the title: c_wagida
+362 - sub vassal: c_wagida - Title given to 1010161
+362 - Holder 1010161 - Primary title: k_esevucia has lost the title: d_waruha
+362 - vassal: d_waruha - Title given to 1010161 - Primary title: c_wagida
+362 - sub vassal: d_waruha - Title given to 1010161 - Primary title: c_wagida
+362 - sub vassal: c_wagida - Holder (1010161) has gained d_waruha
+362 - vassal: d_waruha - Too many dukes, given to dejure: k_esevucia
+362 - sub vassal: d_waruha - Too many dukes, given to dejure: k_esevucia
+374 - Holder 1008806 - Primary title: k_esevucia has lost the title: k_esevucia
+374 - Title given to 1008806
+374 - vassal: d_egnacius - Holder 1008806 - Primary title: d_egnacius has lost the title: d_egnacius
+374 - sub vassal: d_egnacius - Holder 1008806 - Primary title: d_egnacius has lost the title: d_egnacius
+374 - vassal: d_egnacius - Title given to 1008806 - Primary title: k_esevucia
+374 - sub vassal: d_egnacius - Title given to 1008806 - Primary title: k_esevucia
+374 - Holder (1008806) has gained d_egnacius
+374 - vassal: d_bayasene - Holder 1008806 - Primary title: d_bayasene has lost the title: c_wawamo
+374 - sub vassal: d_bayasene - Holder 1008806 - Primary title: d_bayasene has lost the title: c_wawamo
+374 - Holder (1008806) has gained c_wawamo
+374 - vassal: d_bayasene - Holder 1008806 - Primary title: d_bayasene has lost the title: c_kulacius
+374 - sub vassal: d_bayasene - Holder 1008806 - Primary title: d_bayasene has lost the title: c_kulacius
+374 - Holde

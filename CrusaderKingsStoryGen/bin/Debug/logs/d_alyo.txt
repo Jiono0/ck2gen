@@ -1,0 +1,70 @@
+200 - Title given to 1000813
+200 - vassal: c_elyoti - Given to 1000816 via AddCharacterForTitle
+200 - sub vassal: c_elyoti - Given to 1000816 via AddCharacterForTitle
+200 - vassal: c_elyoti - Holder 1000816 - Primary title: c_elyoti has lost the title: c_elyoti
+200 - sub vassal: c_elyoti - Holder 1000816 - Primary title: c_elyoti has lost the title: c_elyoti
+200 - vassal: c_elyoti - Title given to 1000816
+200 - sub vassal: c_elyoti - Title given to 1000816
+200 - vassal: c_avor - Holder 1000813 - Primary title: c_avor has lost the title: c_avor
+200 - sub vassal: c_avor - Holder 1000813 - Primary title: c_avor has lost the title: c_avor
+200 - vassal: c_avor - Title given to 1000813 - Primary title: d_alyo
+200 - sub vassal: c_avor - Title given to 1000813 - Primary title: d_alyo
+200 - Holder (1000813) has gained c_avor
+200 - vassal: c_elyoti - Holder 1000813 - Primary title: c_elyoti has lost the title: c_elyoti
+200 - sub vassal: c_elyoti - Holder 1000813 - Primary title: c_elyoti has lost the title: c_elyoti
+200 - vassal: c_elyoti - Title given to 1000813 - Primary title: d_alyo
+200 - sub vassal: c_elyoti - Title given to 1000813 - Primary title: d_alyo
+200 - Holder (1000813) has gained c_elyoti
+200 - vassal: c_benopti - Holder 1000813 - Primary title: c_benopti has lost the title: c_benopti
+200 - sub vassal: c_benopti - Holder 1000813 - Primary title: c_benopti has lost the title: c_benopti
+200 - vassal: c_benopti - Title given to 1000813 - Primary title: d_alyo
+200 - sub vassal: c_benopti - Title given to 1000813 - Primary title: d_alyo
+200 - Holder (1000813) has gained c_benopti
+200 - vassal: c_estarak - Title given to 1000813 - Primary title: d_alyo
+200 - Holder (1000813) has gained c_estarak
+200 - vassal: c_rahizhi - Title given to 1000813 - Primary title: d_alyo
+200 - Holder (1000813) has gained c_rahizhi
+220 - Holder 1000830 - Primary title: d_alyo has lost the title: d_alyo
+220 - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: c_avor - Holder 1000830 - Primary title: c_avor has lost the title: c_avor
+220 - vassal: c_avor - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: c_elyoti - Holder 1000830 - Primary title: c_elyoti has lost the title: c_elyoti
+220 - vassal: c_elyoti - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: c_benopti - Holder 1000830 - Primary title: c_benopti has lost the title: c_benopti
+220 - vassal: c_benopti - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: c_estarak - Holder 1000830 - Primary title: c_estarak has lost the title: c_estarak
+220 - vassal: c_estarak - Title given to 1000830 - Primary title: d_sucarak
+220 - vassal: c_rahizhi - Holder 1000830 - Primary title: c_rahizhi has lost the title: c_rahizhi
+220 - vassal: c_rahizhi - Title given to 1000830 - Primary title: d_sucarak
+221 - Holder 1002880 - Primary title: d_alyo has lost the title: c_natilek
+221 - Holder 1002881 - Primary title: d_alyo has lost the title: c_byiu
+221 - Holder 1002882 - Primary title: d_alyo has lost the title: c_evayan
+221 - Holder 1002883 - Primary title: d_alyo has lost the title: c_dahor
+224 - Holder 1001823 - Primary title: d_alyo has lost the title: d_sucarak
+224 - Holder 1001823 - Primary title: d_alyo has lost the title: d_alyo
+224 - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: c_avor - Holder 1001823 - Primary title: c_avor has lost the title: c_avor
+224 - vassal: c_avor - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: c_elyoti - Holder 1001823 - Primary title: c_elyoti has lost the title: c_elyoti
+224 - vassal: c_elyoti - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: c_benopti - Holder 1001823 - Primary title: c_benopti has lost the title: c_benopti
+224 - vassal: c_benopti - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: c_estarak - Holder 1001823 - Primary title: c_estarak has lost the title: c_estarak
+224 - vassal: c_estarak - Title given to 1001823 - Primary title: d_sucarak
+224 - vassal: c_rahizhi - Holder 1001823 - Primary title: c_rahizhi has lost the title: c_rahizhi
+224 - vassal: c_rahizhi - Title given to 1001823 - Primary title: d_sucarak
+249 - Holder 1004535 - Primary title: d_alyo has lost the title: d_alyo
+249 - Title given to 1004535 - Primary title: k_tatyan
+249 - vassal: c_rahizhi - Setting to vassal of d_sucarak in Validate Realm
+249 - Lost vassal: c_rahizhi
+249 - vassal: c_estarak - Setting to vassal of d_sucarak in Validate Realm
+249 - Lost vassal: c_estarak
+249 - vassal: c_benopti - Setting to vassal of d_sucarak in Validate Realm
+249 - Lost vassal: c_benopti
+249 - vassal: c_elyoti - Setting to vassal of d_sucarak in Validate Realm
+249 - Lost vassal: c_elyoti
+249 - vassal: c_avor - Setting to vassal of d_sucarak in Validate Realm
+249 - Lost vassal: c_avor
+250 - Destroyed due to flagged problem
+250 - Made independent
+250 - Title destroyed
