@@ -257,6 +257,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Managers\TraitManager.cs" />
     <Compile Include="Managers\WarManager.cs" />
+    <Content Include="DLLs\DevIL.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DLLs\ILU.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <EmbeddedResource Include="Forms\CreateBookmark.resx">
       <DependentUpon>CreateBookmark.cs</DependentUpon>
     </EmbeddedResource>
@@ -315,6 +321,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Content Include="DLLs\DevIL.NET2.dll" />
     <AdditionalFiles Include="stylecop.json" />
   </ItemGroup>
   <ItemGroup>
@@ -355,13 +362,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="data\common\trade_routes\00_silk_route.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="DLLs\DevIL.dll">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="DLLs\DevIL.NET2.dll" />
-    <Content Include="DLLs\ILU.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Resource Include="Resources\icons.png" />

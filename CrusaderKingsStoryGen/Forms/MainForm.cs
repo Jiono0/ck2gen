@@ -1404,7 +1404,7 @@ replace_path=""common/religious_titles""
 
             gen.ShowDialog(this);
         }
-
+        
         private void button3_Click(object sender, EventArgs e)
         {
             autoload = true;

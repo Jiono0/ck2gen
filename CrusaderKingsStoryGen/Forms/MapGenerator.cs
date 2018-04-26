@@ -14,6 +14,7 @@ namespace CrusaderKingsStoryGen.Forms
     using CrusaderKingsStoryGen.Helpers;
     using CrusaderKingsStoryGen.MapGen;
     using LibNoise.Modfiers;
+    using DevIL;
 
     public partial class MapGenerator : Form
     {
@@ -199,17 +200,17 @@ namespace CrusaderKingsStoryGen.Forms
             // MapGenManager.instance.Create(usedSeed, 600);
             LockBitmap waterColorMap =
                 new LockBitmap(
-                    DevIL.DevIL.LoadBitmap(Directory.GetCurrentDirectory() +
+                    DevIL.LoadBitmap(Directory.GetCurrentDirectory() +
                                            "\\data\\mapstuff\\terrain\\colormap_water.dds"));
             waterColorMap.ResizeImage(MapGenManager.instance.Width, MapGenManager.instance.Height);
-            DevIL.DevIL.SaveBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap_water.dds", waterColorMap.Source);
+            DevIL.SaveBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap_water.dds", waterColorMap.Source);
             //  LockBitmap normalMap = new LockBitmap(new Bitmap((Directory.GetCurrentDirectory() + "\\data\\mapstuff\\world_normal_height.bmp")));
             //  normalMap.ResizeImage(MapGenManager.instance.Width, MapGenManager.instance.Height);
 
             //    normalMap.Save24(Globals.MapOutputTotalDir + "map\\world_normal_height.bmp");
 
             //preview.Image = DevIL.DevIL.LoadBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds");
-            this.landBitmap = DevIL.DevIL.LoadBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds");
+            this.landBitmap = DevIL.LoadBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds");
             this.preview.Invalidate();
             //   map = null;
             this.exportButton.Enabled = false;
@@ -329,16 +330,16 @@ namespace CrusaderKingsStoryGen.Forms
 
             LockBitmap waterColorMap =
                 new LockBitmap(
-                    DevIL.DevIL.LoadBitmap(Directory.GetCurrentDirectory() +
+                    DevIL.LoadBitmap(Directory.GetCurrentDirectory() +
                                            "\\data\\mapstuff\\terrain\\colormap_water.dds"));
             waterColorMap.ResizeImage(MapGenManager.instance.Width, MapGenManager.instance.Height);
-            DevIL.DevIL.SaveBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap_water.dds", waterColorMap.Source);
+            DevIL.SaveBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap_water.dds", waterColorMap.Source);
             // LockBitmap normalMap = new LockBitmap(new Bitmap((Directory.GetCurrentDirectory() + "\\data\\mapstuff\\world_normal_height.bmp")));
             //   normalMap.ResizeImage(MapGenManager.instance.Width, MapGenManager.instance.Height);
 
             //     normalMap.Save24(Globals.MapOutputTotalDir + "map\\world_normal_height.bmp");
 
-            this.preview.Image = DevIL.DevIL.LoadBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds");
+            this.preview.Image = DevIL.LoadBitmap(Globals.MapOutputTotalDir + "map\\terrain\\colormap.dds");
 
             this.preview.Invalidate();
             //   map = null;
