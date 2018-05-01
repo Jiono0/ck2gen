@@ -1,0 +1,2424 @@
+200 - Title given to 1001577
+200 - vassal: d_nuva - Holder 1001577 - Primary title: d_nuva has lost the title: d_nuva
+200 - sub vassal: d_nuva - Holder 1001577 - Primary title: d_nuva has lost the title: d_nuva
+200 - vassal: d_nuva - Title given to 1001577 - Primary title: k_kiwuel
+200 - sub vassal: d_nuva - Title given to 1001577 - Primary title: k_kiwuel
+200 - Holder (1001577) has gained d_nuva
+200 - vassal: d_sanuel - Holder 1001577 - Primary title: d_sanuel has lost the title: d_sanuel
+200 - sub vassal: d_sanuel - Holder 1001577 - Primary title: d_sanuel has lost the title: d_sanuel
+200 - vassal: d_sanuel - Title given to 1001577 - Primary title: k_kiwuel
+200 - sub vassal: d_sanuel - Title given to 1001577 - Primary title: k_kiwuel
+200 - Holder (1001577) has gained d_sanuel
+200 - sub vassal: c_rambona - Holder 1001577 - Primary title: c_rambona has lost the title: c_rambona
+200 - sub vassal: c_rambona - Title given to 1001577 - Primary title: k_kiwuel
+200 - Holder (1001577) has gained c_rambona
+201 - vassal: d_tarinn - Holder 1001577 - Primary title: d_tarinn has lost the title: d_tarinn
+201 - sub vassal: d_tarinn - Holder 1001577 - Primary title: d_tarinn has lost the title: d_tarinn
+201 - vassal: d_tarinn - Title given to 1001577 - Primary title: k_kiwuel
+201 - sub vassal: d_tarinn - Title given to 1001577 - Primary title: k_kiwuel
+201 - Holder (1001577) has gained d_tarinn
+201 - sub vassal: c_runaiti - Holder 1001577 - Primary title: c_runaiti has lost the title: c_runaiti
+201 - sub vassal: c_runaiti - Title given to 1001577 - Primary title: k_kiwuel
+201 - Holder (1001577) has gained c_runaiti
+201 - sub vassal: c_qalaya - Holder 1001577 - Primary title: c_qalaya has lost the title: c_qalaya
+201 - sub vassal: c_qalaya - Title given to 1001577 - Primary title: k_kiwuel
+201 - Holder (1001577) has gained c_qalaya
+201 - sub vassal: c_ruduka - Holder 1001577 - Primary title: c_ruduka has lost the title: c_ruduka
+201 - sub vassal: c_ruduka - Title given to 1001577 - Primary title: k_kiwuel
+201 - Holder (1001577) has gained c_ruduka
+201 - sub vassal: c_qalaya - Given to 1002280 in HandleTitles - Too many duke titles
+201 - Holder 1002280 - Primary title: k_kiwuel has lost the title: c_qalaya
+201 - sub vassal: c_qalaya - Title given to 1002280
+201 - Holder 1002280 - Primary title: k_kiwuel has lost the title: d_tarinn
+201 - vassal: d_tarinn - Title given to 1002280 - Primary title: c_qalaya
+201 - sub vassal: d_tarinn - Title given to 1002280 - Primary title: c_qalaya
+201 - sub vassal: c_qalaya - Holder (1002280) has gained d_tarinn
+201 - sub vassal: c_runaiti - Setting to vassal of k_kiwuel in Validate Realm
+201 - vassal: d_tarinn - Lost vassal: c_runaiti
+201 - sub vassal: d_tarinn - Lost vassal: c_runaiti
+201 - sub vassal: c_ruduka - Setting to vassal of k_kiwuel in Validate Realm
+201 - vassal: d_tarinn - Lost vassal: c_ruduka
+201 - sub vassal: d_tarinn - Lost vassal: c_ruduka
+201 - Gained vassal: c_ruduka
+201 - Gained vassal: c_runaiti
+201 - vassal: d_tarinn - Too many dukes, given to dejure: k_kiwuel
+201 - sub vassal: d_tarinn - Too many dukes, given to dejure: k_kiwuel
+203 - vassal: d_kaicha - Holder 1001959 - Primary title: d_kaicha has lost the title: d_kaicha
+203 - sub vassal: d_kaicha - Holder 1001959 - Primary title: d_kaicha has lost the title: d_kaicha
+203 - vassal: d_kaicha - Title given to 1001959
+203 - sub vassal: d_kaicha - Title given to 1001959
+203 - sub vassal: c_beumapa - Holder 1001959 - Primary title: c_beumapa has lost the title: c_beumapa
+203 - sub vassal: c_beumapa - Title given to 1001959 - Primary title: d_kaicha
+203 - vassal: d_kaicha - Holder (1001959) has gained c_beumapa
+203 - sub vassal: d_kaicha - Holder (1001959) has gained c_beumapa
+203 - sub vassal: c_nenulai - Holder 1001959 - Primary title: c_nenulai has lost the title: c_nenulai
+203 - sub vassal: c_nenulai - Title given to 1001959 - Primary title: d_kaicha
+203 - vassal: d_kaicha - Holder (1001959) has gained c_nenulai
+203 - sub vassal: d_kaicha - Holder (1001959) has gained c_nenulai
+203 - sub vassal: c_lehelen - Holder 1001959 - Primary title: c_lehelen has lost the title: c_lehelen
+203 - sub vassal: c_lehelen - Title given to 1001959 - Primary title: d_kaicha
+203 - vassal: d_kaicha - Holder (1001959) has gained c_lehelen
+203 - sub vassal: d_kaicha - Holder (1001959) has gained c_lehelen
+203 - sub vassal: c_tehalom - Holder 1001959 - Primary title: c_tehalom has lost the title: c_tehalom
+203 - sub vassal: c_tehalom - Title given to 1001959 - Primary title: d_kaicha
+203 - vassal: d_kaicha - Holder (1001959) has gained c_tehalom
+203 - sub vassal: d_kaicha - Holder (1001959) has gained c_tehalom
+205 - vassal: d_deraiti - Holder 1001948 - Primary title: d_deraiti has lost the title: d_deraiti
+205 - sub vassal: d_deraiti - Holder 1001948 - Primary title: d_deraiti has lost the title: d_deraiti
+205 - vassal: d_deraiti - Title given to 1001948
+205 - sub vassal: d_deraiti - Title given to 1001948
+205 - sub vassal: c_nenaya - Holder 1001948 - Primary title: c_nenaya has lost the title: c_nenaya
+205 - sub vassal: c_nenaya - Title given to 1001948 - Primary title: d_deraiti
+205 - vassal: d_deraiti - Holder (1001948) has gained c_nenaya
+205 - sub vassal: d_deraiti - Holder (1001948) has gained c_nenaya
+205 - sub vassal: c_niacdes - Holder 1001948 - Primary title: c_niacdes has lost the title: c_niacdes
+205 - sub vassal: c_niacdes - Title given to 1001948 - Primary title: d_deraiti
+205 - vassal: d_deraiti - Holder (1001948) has gained c_niacdes
+205 - sub vassal: d_deraiti - Holder (1001948) has gained c_niacdes
+205 - sub vassal: c_kammad - Holder 1001948 - Primary title: c_kammad has lost the title: c_kammad
+205 - sub vassal: c_kammad - Title given to 1001948 - Primary title: d_deraiti
+205 - vassal: d_deraiti - Holder (1001948) has gained c_kammad
+205 - sub vassal: d_deraiti - Holder (1001948) has gained c_kammad
+205 - sub vassal: c_laraya - Holder 1001948 - Primary title: c_laraya has lost the title: c_laraya
+205 - sub vassal: c_laraya - Title given to 1001948 - Primary title: d_deraiti
+205 - vassal: d_deraiti - Holder (1001948) has gained c_laraya
+205 - sub vassal: d_deraiti - Holder (1001948) has gained c_laraya
+214 - vassal: d_kaicha - Holder 1001122 - Primary title: d_kaicha has lost the title: d_kaicha
+214 - sub vassal: d_kaicha - Holder 1001122 - Primary title: d_kaicha has lost the title: d_kaicha
+214 - vassal: d_kaicha - Title given to 1001122 - Primary title: d_tatelen
+214 - sub vassal: d_kaicha - Title given to 1001122 - Primary title: d_tatelen
+214 - vassal: d_tatelen - Holder (1001122) has gained d_kaicha
+214 - sub vassal: d_tatelen - Holder (1001122) has gained d_kaicha
+214 - sub vassal: c_beumapa - Holder 1001122 - Primary title: c_beumapa has lost the title: c_beumapa
+214 - sub vassal: c_beumapa - Title given to 1001122 - Primary title: d_tatelen
+214 - vassal: d_tatelen - Holder (1001122) has gained c_beumapa
+214 - sub vassal: d_tatelen - Holder (1001122) has gained c_beumapa
+214 - sub vassal: c_nenulai - Holder 1001122 - Primary title: c_nenulai has lost the title: c_nenulai
+214 - sub vassal: c_nenulai - Title given to 1001122 - Primary title: d_tatelen
+214 - vassal: d_tatelen - Holder (1001122) has gained c_nenulai
+214 - sub vassal: d_tatelen - Holder (1001122) has gained c_nenulai
+214 - sub vassal: c_lehelen - Holder 1001122 - Primary title: c_lehelen has lost the title: c_lehelen
+214 - sub vassal: c_lehelen - Title given to 1001122 - Primary title: d_tatelen
+214 - vassal: d_tatelen - Holder (1001122) has gained c_lehelen
+214 - sub vassal: d_tatelen - Holder (1001122) has gained c_lehelen
+214 - sub vassal: c_tehalom - Holder 1001122 - Primary title: c_tehalom has lost the title: c_tehalom
+214 - sub vassal: c_tehalom - Title given to 1001122 - Primary title: d_tatelen
+214 - vassal: d_tatelen - Holder (1001122) has gained c_tehalom
+214 - sub vassal: d_tatelen - Holder (1001122) has gained c_tehalom
+215 - vassal: d_nenge - Holder 1002234 - Primary title: d_nenge has lost the title: d_nenge
+215 - sub vassal: d_nenge - Holder 1002234 - Primary title: d_nenge has lost the title: d_nenge
+215 - vassal: d_nenge - Title given to 1002234
+215 - sub vassal: d_nenge - Title given to 1002234
+215 - sub vassal: c_emebaka - Holder 1002234 - Primary title: c_emebaka has lost the title: c_emebaka
+215 - sub vassal: c_emebaka - Title given to 1002234 - Primary title: d_nenge
+215 - vassal: d_nenge - Holder (1002234) has gained c_emebaka
+215 - sub vassal: d_nenge - Holder (1002234) has gained c_emebaka
+215 - sub vassal: c_kiacdes - Holder 1002234 - Primary title: c_kiacdes has lost the title: c_kiacdes
+215 - sub vassal: c_kiacdes - Title given to 1002234 - Primary title: d_nenge
+215 - vassal: d_nenge - Holder (1002234) has gained c_kiacdes
+215 - sub vassal: d_nenge - Holder (1002234) has gained c_kiacdes
+215 - sub vassal: c_dengaka - Holder 1002234 - Primary title: c_dengaka has lost the title: c_dengaka
+215 - sub vassal: c_dengaka - Title given to 1002234 - Primary title: d_nenge
+215 - vassal: d_nenge - Holder (1002234) has gained c_dengaka
+215 - sub vassal: d_nenge - Holder (1002234) has gained c_dengaka
+215 - vassal: d_aromuel - Holder 1002384 - Primary title: d_aromuel has lost the title: d_aromuel
+215 - sub vassal: d_aromuel - Holder 1002384 - Primary title: d_aromuel has lost the title: d_aromuel
+215 - vassal: d_aromuel - Title given to 1002384
+215 - sub vassal: d_aromuel - Title given to 1002384
+215 - sub vassal: c_karulai - Holder 1002384 - Primary title: c_karulai has lost the title: c_karulai
+215 - sub vassal: c_karulai - Title given to 1002384 - Primary title: d_aromuel
+215 - vassal: d_aromuel - Holder (1002384) has gained c_karulai
+215 - sub vassal: d_aromuel - Holder (1002384) has gained c_karulai
+215 - sub vassal: c_diranie - Holder 1002384 - Primary title: c_diranie has lost the title: c_diranie
+215 - sub vassal: c_diranie - Title given to 1002384 - Primary title: d_aromuel
+215 - vassal: d_aromuel - Holder (1002384) has gained c_diranie
+215 - sub vassal: d_aromuel - Holder (1002384) has gained c_diranie
+215 - sub vassal: c_kora - Holder 1002384 - Primary title: c_kora has lost the title: c_kora
+215 - sub vassal: c_kora - Title given to 1002384 - Primary title: d_aromuel
+215 - vassal: d_aromuel - Holder (1002384) has gained c_kora
+215 - sub vassal: d_aromuel - Holder (1002384) has gained c_kora
+215 - vassal: d_kaicha - Holder 1003648 - Primary title: d_kaicha has lost the title: c_daledrik
+215 - sub vassal: d_kaicha - Holder 1003648 - Primary title: d_kaicha has lost the title: c_daledrik
+215 - sub vassal: c_daledrik - Title given to 1003648
+215 - vassal: d_kaicha - Holder 1003649 - Primary title: d_kaicha has lost the title: c_agaresar
+215 - sub vassal: d_kaicha - Holder 1003649 - Primary title: d_kaicha has lost the title: c_agaresar
+215 - sub vassal: c_agaresar - Title given to 1003649
+217 - vassal: d_kodaiti - Holder 1001948 - Primary title: d_kodaiti has lost the title: d_kodaiti
+217 - sub vassal: d_kodaiti - Holder 1001948 - Primary title: d_kodaiti has lost the title: d_kodaiti
+217 - vassal: d_kodaiti - Title given to 1001948 - Primary title: d_deraiti
+217 - sub vassal: d_kodaiti - Title given to 1001948 - Primary title: d_deraiti
+217 - vassal: d_deraiti - Holder (1001948) has gained d_kodaiti
+217 - sub vassal: d_deraiti - Holder (1001948) has gained d_kodaiti
+217 - sub vassal: c_eluka - Holder 1001948 - Primary title: c_eluka has lost the title: c_eluka
+217 - sub vassal: c_eluka - Title given to 1001948 - Primary title: d_deraiti
+217 - vassal: d_deraiti - Holder (1001948) has gained c_eluka
+217 - sub vassal: d_deraiti - Holder (1001948) has gained c_eluka
+217 - sub vassal: c_leramson - Holder 1001948 - Primary title: c_leramson has lost the title: c_leramson
+217 - sub vassal: c_leramson - Title given to 1001948 - Primary title: d_deraiti
+217 - vassal: d_deraiti - Holder (1001948) has gained c_leramson
+217 - sub vassal: d_deraiti - Holder (1001948) has gained c_leramson
+218 - vassal: d_kodaiti - Holder 1003886 - Primary title: d_kodaiti has lost the title: c_kammad
+218 - sub vassal: d_kodaiti - Holder 1003886 - Primary title: d_kodaiti has lost the title: c_kammad
+218 - sub vassal: c_kammad - Title given to 1003886
+221 - vassal: d_tebona - Holder 1002646 - Primary title: d_tebona has lost the title: d_tebona
+221 - sub vassal: d_tebona - Holder 1002646 - Primary title: d_tebona has lost the title: d_tebona
+221 - vassal: d_tebona - Title given to 1002646
+221 - sub vassal: d_tebona - Title given to 1002646
+221 - sub vassal: c_reraudes - Holder 1002646 - Primary title: c_reraudes has lost the title: c_reraudes
+221 - sub vassal: c_reraudes - Title given to 1002646 - Primary title: d_tebona
+221 - vassal: d_tebona - Holder (1002646) has gained c_reraudes
+221 - sub vassal: d_tebona - Holder (1002646) has gained c_reraudes
+221 - sub vassal: c_etulai - Holder 1002646 - Primary title: c_etulai has lost the title: c_etulai
+221 - sub vassal: c_etulai - Title given to 1002646 - Primary title: d_tebona
+221 - vassal: d_tebona - Holder (1002646) has gained c_etulai
+221 - sub vassal: d_tebona - Holder (1002646) has gained c_etulai
+221 - sub vassal: c_dalaka - Holder 1002646 - Primary title: c_dalaka has lost the title: c_dalaka
+221 - sub vassal: c_dalaka - Title given to 1002646 - Primary title: d_tebona
+221 - vassal: d_tebona - Holder (1002646) has gained c_dalaka
+221 - sub vassal: d_tebona - Holder (1002646) has gained c_dalaka
+232 - vassal: d_tebona - Holder 1004494 - Primary title: d_tebona has lost the title: d_tebona
+232 - sub vassal: d_tebona - Holder 1004494 - Primary title: d_tebona has lost the title: d_tebona
+232 - vassal: d_tebona - Title given to 1004494
+232 - sub vassal: d_tebona - Title given to 1004494
+232 - sub vassal: c_reraudes - Holder 1004494 - Primary title: c_reraudes has lost the title: c_reraudes
+232 - sub vassal: c_reraudes - Title given to 1004494 - Primary title: d_tebona
+232 - vassal: d_tebona - Holder (1004494) has gained c_reraudes
+232 - sub vassal: d_tebona - Holder (1004494) has gained c_reraudes
+232 - sub vassal: c_etulai - Holder 1004494 - Primary title: c_etulai has lost the title: c_etulai
+232 - sub vassal: c_etulai - Title given to 1004494 - Primary title: d_tebona
+232 - vassal: d_tebona - Holder (1004494) has gained c_etulai
+232 - sub vassal: d_tebona - Holder (1004494) has gained c_etulai
+232 - sub vassal: c_dalaka - Holder 1004494 - Primary title: c_dalaka has lost the title: c_dalaka
+232 - sub vassal: c_dalaka - Title given to 1004494 - Primary title: d_tebona
+232 - vassal: d_tebona - Holder (1004494) has gained c_dalaka
+232 - sub vassal: d_tebona - Holder (1004494) has gained c_dalaka
+233 - vassal: d_tebona - Holder 1002234 - Primary title: d_tebona has lost the title: d_tebona
+233 - sub vassal: d_tebona - Holder 1002234 - Primary title: d_tebona has lost the title: d_tebona
+233 - vassal: d_tebona - Title given to 1002234 - Primary title: d_nenge
+233 - sub vassal: d_tebona - Title given to 1002234 - Primary title: d_nenge
+233 - vassal: d_nenge - Holder (1002234) has gained d_tebona
+233 - sub vassal: d_nenge - Holder (1002234) has gained d_tebona
+233 - sub vassal: c_reraudes - Holder 1002234 - Primary title: c_reraudes has lost the title: c_reraudes
+233 - sub vassal: c_reraudes - Title given to 1002234 - Primary title: d_nenge
+233 - vassal: d_nenge - Holder (1002234) has gained c_reraudes
+233 - sub vassal: d_nenge - Holder (1002234) has gained c_reraudes
+233 - sub vassal: c_etulai - Holder 1002234 - Primary title: c_etulai has lost the title: c_etulai
+233 - sub vassal: c_etulai - Title given to 1002234 - Primary title: d_nenge
+233 - vassal: d_nenge - Holder (1002234) has gained c_etulai
+233 - sub vassal: d_nenge - Holder (1002234) has gained c_etulai
+233 - sub vassal: c_dalaka - Holder 1002234 - Primary title: c_dalaka has lost the title: c_dalaka
+233 - sub vassal: c_dalaka - Title given to 1002234 - Primary title: d_nenge
+233 - vassal: d_nenge - Holder (1002234) has gained c_dalaka
+233 - sub vassal: d_nenge - Holder (1002234) has gained c_dalaka
+234 - vassal: d_tebona - Holder 1005180 - Primary title: d_tebona has lost the title: c_emebaka
+234 - sub vassal: d_tebona - Holder 1005180 - Primary title: d_tebona has lost the title: c_emebaka
+234 - sub vassal: c_emebaka - Title given to 1005180
+245 - Gained vassal: d_tambe
+246 - Holder 1002426 - Primary title: k_kiwuel has lost the title: k_kiwuel
+246 - Title given to 1002426
+246 - vassal: d_sanuel - Holder 1002426 - Primary title: d_sanuel has lost the title: d_sanuel
+246 - sub vassal: d_sanuel - Holder 1002426 - Primary title: d_sanuel has lost the title: d_sanuel
+246 - vassal: d_sanuel - Title given to 1002426 - Primary title: k_kiwuel
+246 - sub vassal: d_sanuel - Title given to 1002426 - Primary title: k_kiwuel
+246 - Holder (1002426) has gained d_sanuel
+246 - sub vassal: c_rambona - Setting to vassal of d_nuva in Validate Realm
+246 - vassal: d_sanuel - Lost vassal: c_rambona
+246 - sub vassal: d_sanuel - Lost vassal: c_rambona
+246 - vassal: c_runaiti - Setting to vassal of d_nuva in Validate Realm
+246 - sub vassal: c_runaiti - Setting to vassal of d_nuva in Validate Realm
+246 - Lost vassal: c_runaiti
+246 - vassal: c_ruduka - Setting to vassal of d_nuva in Validate Realm
+246 - sub vassal: c_ruduka - Setting to vassal of d_nuva in Validate Realm
+246 - Lost vassal: c_ruduka
+246 - vassal: d_nuva - Gained vassal: c_ruduka
+246 - sub vassal: d_nuva - Gained vassal: c_ruduka
+246 - vassal: d_nuva - Gained vassal: c_runaiti
+246 - sub vassal: d_nuva - Gained vassal: c_runaiti
+246 - vassal: d_nuva - Gained vassal: c_rambona
+246 - sub vassal: d_nuva - Gained vassal: c_rambona
+246 - vassal: d_nuva - Holder 1002426 - Primary title: d_nuva has lost the title: d_nuva
+246 - sub vassal: d_nuva - Holder 1002426 - Primary title: d_nuva has lost the title: d_nuva
+246 - vassal: d_nuva - Title given to 1002426 - Primary title: k_kiwuel
+246 - sub vassal: d_nuva - Title given to 1002426 - Primary title: k_kiwuel
+246 - Holder (1002426) has gained d_nuva
+246 - sub vassal: c_rambona - Holder 1002426 - Primary title: c_rambona has lost the title: c_rambona
+246 - sub vassal: c_rambona - Title given to 1002426 - Primary title: k_kiwuel
+246 - Holder (1002426) has gained c_rambona
+246 - sub vassal: c_runaiti - Holder 1002426 - Primary title: c_runaiti has lost the title: c_runaiti
+246 - sub vassal: c_runaiti - Title given to 1002426 - Primary title: k_kiwuel
+246 - Holder (1002426) has gained c_runaiti
+246 - sub vassal: c_ruduka - Holder 1002426 - Primary title: c_ruduka has lost the title: c_ruduka
+246 - sub vassal: c_ruduka - Title given to 1002426 - Primary title: k_kiwuel
+246 - Holder (1002426) has gained c_ruduka
+248 - vassal: d_tarinn - Holder 1004318 - Primary title: d_tarinn has lost the title: d_tarinn
+248 - sub vassal: d_tarinn - Holder 1004318 - Primary title: d_tarinn has lost the title: d_tarinn
+248 - vassal: d_tarinn - Title given to 1004318
+248 - sub vassal: d_tarinn - Title given to 1004318
+248 - sub vassal: c_qalaya - Holder 1004318 - Primary title: c_qalaya has lost the title: c_qalaya
+248 - sub vassal: c_qalaya - Title given to 1004318 - Primary title: d_tarinn
+248 - vassal: d_tarinn - Holder (1004318) has gained c_qalaya
+248 - sub vassal: d_tarinn - Holder (1004318) has gained c_qalaya
+248 - vassal: d_tatelen - Captured byk_eguvona in minor war
+248 - sub vassal: d_tatelen - Captured byk_eguvona in minor war
+248 - Lost vassal: d_tatelen
+248 - sub vassal: d_tatelen - Setting independent in Validate Realm
+248 - sub vassal: d_tatelen - Made independent
+251 - vassal: d_kaicha - Holder 1003098 - Primary title: d_kaicha has lost the title: d_kaicha
+251 - sub vassal: d_kaicha - Holder 1003098 - Primary title: d_kaicha has lost the title: d_kaicha
+251 - vassal: d_kaicha - Title given to 1003098
+251 - sub vassal: d_kaicha - Title given to 1003098
+251 - vassal: d_kaicha - Lost vassal: c_beumapa
+251 - sub vassal: d_kaicha - Lost vassal: c_beumapa
+251 - vassal: d_kaicha - Lost vassal: c_nenulai
+251 - sub vassal: d_kaicha - Lost vassal: c_nenulai
+251 - vassal: d_kaicha - Lost vassal: c_lehelen
+251 - sub vassal: d_kaicha - Lost vassal: c_lehelen
+251 - vassal: d_kaicha - Lost vassal: c_tehalom
+251 - sub vassal: d_kaicha - Lost vassal: c_tehalom
+251 - vassal: d_kaicha - Holder (1003098) has gained d_tatelen
+251 - sub vassal: d_kaicha - Holder (1003098) has gained d_tatelen
+251 - sub vassal: c_lahavinn - Holder 1003098 - Primary title: c_lahavinn has lost the title: c_lahavinn
+251 - sub vassal: c_lahavinn - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: d_kaicha - Holder (1003098) has gained c_lahavinn
+251 - sub vassal: d_kaicha - Holder (1003098) has gained c_lahavinn
+251 - sub vassal: c_beumapa - Holder 1003098 - Primary title: c_beumapa has lost the title: c_beumapa
+251 - sub vassal: c_beumapa - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: d_kaicha - Holder (1003098) has gained c_beumapa
+251 - sub vassal: d_kaicha - Holder (1003098) has gained c_beumapa
+251 - sub vassal: c_nenulai - Holder 1003098 - Primary title: c_nenulai has lost the title: c_nenulai
+251 - sub vassal: c_nenulai - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: d_kaicha - Holder (1003098) has gained c_nenulai
+251 - sub vassal: d_kaicha - Holder (1003098) has gained c_nenulai
+251 - sub vassal: c_lehelen - Holder 1003098 - Primary title: c_lehelen has lost the title: c_lehelen
+251 - sub vassal: c_lehelen - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: d_kaicha - Holder (1003098) has gained c_lehelen
+251 - sub vassal: d_kaicha - Holder (1003098) has gained c_lehelen
+251 - sub vassal: c_tehalom - Holder 1003098 - Primary title: c_tehalom has lost the title: c_tehalom
+251 - sub vassal: c_tehalom - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: d_kaicha - Holder (1003098) has gained c_tehalom
+251 - sub vassal: d_kaicha - Holder (1003098) has gained c_tehalom
+252 - vassal: d_kaicha - Destroyed due to flagged problem
+252 - sub vassal: d_kaicha - Destroyed due to flagged problem
+252 - vassal: d_kaicha - Made independent
+252 - sub vassal: d_kaicha - Made independent
+252 - vassal: d_aromuel - Holder 1005109 - Primary title: d_aromuel has lost the title: d_aromuel
+252 - sub vassal: d_aromuel - Holder 1005109 - Primary title: d_aromuel has lost the title: d_aromuel
+252 - vassal: d_aromuel - Title given to 1005109
+252 - sub vassal: d_aromuel - Title given to 1005109
+252 - sub vassal: c_karulai - Holder 1005109 - Primary title: c_karulai has lost the title: c_karulai
+252 - sub vassal: c_karulai - Title given to 1005109 - Primary title: d_aromuel
+252 - vassal: d_aromuel - Holder (1005109) has gained c_karulai
+252 - sub vassal: d_aromuel - Holder (1005109) has gained c_karulai
+252 - sub vassal: c_diranie - Holder 1005109 - Primary title: c_diranie has lost the title: c_diranie
+252 - sub vassal: c_diranie - Title given to 1005109 - Primary title: d_aromuel
+252 - vassal: d_aromuel - Holder (1005109) has gained c_diranie
+252 - sub vassal: d_aromuel - Holder (1005109) has gained c_diranie
+252 - sub vassal: c_kora - Holder 1005109 - Primary title: c_kora has lost the title: c_kora
+252 - sub vassal: c_kora - Title given to 1005109 - Primary title: d_aromuel
+252 - vassal: d_aromuel - Holder (1005109) has gained c_kora
+252 - sub vassal: d_aromuel - Holder (1005109) has gained c_kora
+252 - vassal: d_tambe - Made vassal of neighbour (k_eguvona) due to being a seperate island
+252 - sub vassal: d_tambe - Made vassal of neighbour (k_eguvona) due to being a seperate island
+252 - Lost vassal: d_tambe
+253 - vassal: d_aromuel - Holder 1002426 - Primary title: d_aromuel has lost the title: d_aromuel
+253 - sub vassal: d_aromuel - Holder 1002426 - Primary title: d_aromuel has lost the title: d_aromuel
+253 - vassal: d_aromuel - Title given to 1002426 - Primary title: k_kiwuel
+253 - sub vassal: d_aromuel - Title given to 1002426 - Primary title: k_kiwuel
+253 - Holder (1002426) has gained d_aromuel
+253 - sub vassal: c_karulai - Holder 1002426 - Primary title: c_karulai has lost the title: c_karulai
+253 - sub vassal: c_karulai - Title given to 1002426 - Primary title: k_kiwuel
+253 - Holder (1002426) has gained c_karulai
+253 - sub vassal: c_diranie - Holder 1002426 - Primary title: c_diranie has lost the title: c_diranie
+253 - sub vassal: c_diranie - Title given to 1002426 - Primary title: k_kiwuel
+253 - Holder (1002426) has gained c_diranie
+253 - sub vassal: c_kora - Holder 1002426 - Primary title: c_kora has lost the title: c_kora
+253 - sub vassal: c_kora - Title given to 1002426 - Primary title: k_kiwuel
+253 - Holder (1002426) has gained c_kora
+253 - sub vassal: c_tanava - Given to 1006843 in HandleTitles - Too many duke titles
+253 - sub vassal: c_tanava - Holder 1006843 - Primary title: c_tanava has lost the title: c_tanava
+253 - sub vassal: c_tanava - Title given to 1006843
+253 - Holder 1006843 - Primary title: k_kiwuel has lost the title: d_nuva
+253 - vassal: d_nuva - Title given to 1006843 - Primary title: c_tanava
+253 - sub vassal: d_nuva - Title given to 1006843 - Primary title: c_tanava
+253 - sub vassal: c_tanava - Holder (1006843) has gained d_nuva
+253 - sub vassal: c_rambona - Setting to vassal of k_kiwuel in Validate Realm
+253 - vassal: d_nuva - Lost vassal: c_rambona
+253 - sub vassal: d_nuva - Lost vassal: c_rambona
+253 - sub vassal: c_runaiti - Setting to vassal of k_kiwuel in Validate Realm
+253 - vassal: d_nuva - Lost vassal: c_runaiti
+253 - sub vassal: d_nuva - Lost vassal: c_runaiti
+253 - sub vassal: c_ruduka - Setting to vassal of k_kiwuel in Validate Realm
+253 - vassal: d_nuva - Lost vassal: c_ruduka
+253 - sub vassal: d_nuva - Lost vassal: c_ruduka
+253 - Gained vassal: c_ruduka
+253 - Gained vassal: c_runaiti
+253 - Gained vassal: c_rambona
+253 - vassal: d_nuva - Too many dukes, given to dejure: k_kiwuel
+253 - sub vassal: d_nuva - Too many dukes, given to dejure: k_kiwuel
+253 - Holder 1006844 - Primary title: k_kiwuel has lost the title: c_runaiti
+253 - vassal: c_runaiti - Title given to 1006844
+253 - sub vassal: c_runaiti - Title given to 1006844
+254 - vassal: d_tebona - Holder 1004739 - Primary title: d_tebona has lost the title: d_tebona
+254 - sub vassal: d_tebona - Holder 1004739 - Primary title: d_tebona has lost the title: d_tebona
+254 - vassal: d_tebona - Title given to 1004739
+254 - sub vassal: d_tebona - Title given to 1004739
+254 - sub vassal: c_dalaka - Setting to vassal of d_nenge in Validate Realm
+254 - vassal: d_tebona - Lost vassal: c_dalaka
+254 - sub vassal: d_tebona - Lost vassal: c_dalaka
+254 - sub vassal: c_etulai - Setting to vassal of d_nenge in Validate Realm
+254 - vassal: d_tebona - Lost vassal: c_etulai
+254 - sub vassal: d_tebona - Lost vassal: c_etulai
+254 - sub vassal: c_reraudes - Setting to vassal of d_nenge in Validate Realm
+254 - vassal: d_tebona - Lost vassal: c_reraudes
+254 - sub vassal: d_tebona - Lost vassal: c_reraudes
+254 - vassal: d_nenge - Gained vassal: c_reraudes
+254 - sub vassal: d_nenge - Gained vassal: c_reraudes
+254 - vassal: d_nenge - Gained vassal: c_etulai
+254 - sub vassal: d_nenge - Gained vassal: c_etulai
+254 - vassal: d_nenge - Gained vassal: c_dalaka
+254 - sub vassal: d_nenge - Gained vassal: c_dalaka
+254 - vassal: d_nenge - Holder 1004739 - Primary title: d_nenge has lost the title: d_nenge
+254 - sub vassal: d_nenge - Holder 1004739 - Primary title: d_nenge has lost the title: d_nenge
+254 - vassal: d_nenge - Title given to 1004739 - Primary title: d_tebona
+254 - sub vassal: d_nenge - Title given to 1004739 - Primary title: d_tebona
+254 - vassal: d_tebona - Holder (1004739) has gained d_nenge
+254 - sub vassal: d_tebona - Holder (1004739) has gained d_nenge
+254 - sub vassal: c_dalaka - Holder 1004739 - Primary title: c_dalaka has lost the title: c_dalaka
+254 - sub vassal: c_dalaka - Title given to 1004739 - Primary title: d_tebona
+254 - vassal: d_tebona - Holder (1004739) has gained c_dalaka
+254 - sub vassal: d_tebona - Holder (1004739) has gained c_dalaka
+254 - sub vassal: c_etulai - Holder 1004739 - Primary title: c_etulai has lost the title: c_etulai
+254 - sub vassal: c_etulai - Title given to 1004739 - Primary title: d_tebona
+254 - vassal: d_tebona - Holder (1004739) has gained c_etulai
+254 - sub vassal: d_tebona - Holder (1004739) has gained c_etulai
+254 - sub vassal: c_reraudes - Holder 1004739 - Primary title: c_reraudes has lost the title: c_reraudes
+254 - sub vassal: c_reraudes - Title given to 1004739 - Primary title: d_tebona
+254 - vassal: d_tebona - Holder (1004739) has gained c_reraudes
+254 - sub vassal: d_tebona - Holder (1004739) has gained c_reraudes
+254 - sub vassal: c_kiacdes - Holder 1004739 - Primary title: c_kiacdes has lost the title: c_kiacdes
+254 - sub vassal: c_kiacdes - Title given to 1004739 - Primary title: d_tebona
+254 - vassal: d_tebona - Holder (1004739) has gained c_kiacdes
+254 - sub vassal: d_tebona - Holder (1004739) has gained c_kiacdes
+254 - sub vassal: c_dengaka - Holder 1004739 - Primary title: c_dengaka has lost the title: c_dengaka
+254 - sub vassal: c_dengaka - Title given to 1004739 - Primary title: d_tebona
+254 - vassal: d_tebona - Holder (1004739) has gained c_dengaka
+254 - sub vassal: d_tebona - Holder (1004739) has gained c_dengaka
+255 - vassal: d_tebona - Destroyed due to flagged problem
+255 - sub vassal: d_tebona - Destroyed due to flagged problem
+255 - vassal: d_tebona - Made independent
+255 - sub vassal: d_tebona - Made independent
+257 - vassal: d_deraiti - Holder 1004820 - Primary title: d_deraiti has lost the title: d_deraiti
+257 - sub vassal: d_deraiti - Holder 1004820 - Primary title: d_deraiti has lost the title: d_deraiti
+257 - vassal: d_deraiti - Title given to 1004820
+257 - sub vassal: d_deraiti - Title given to 1004820
+257 - sub vassal: c_laraya - Setting to vassal of d_kodaiti in Validate Realm
+257 - vassal: d_deraiti - Lost vassal: c_laraya
+257 - sub vassal: d_deraiti - Lost vassal: c_laraya
+257 - sub vassal: c_niacdes - Setting to vassal of d_kodaiti in Validate Realm
+257 - vassal: d_deraiti - Lost vassal: c_niacdes
+257 - sub vassal: d_deraiti - Lost vassal: c_niacdes
+257 - sub vassal: c_nenaya - Setting to vassal of d_kodaiti in Validate Realm
+257 - vassal: d_deraiti - Lost vassal: c_nenaya
+257 - sub vassal: d_deraiti - Lost vassal: c_nenaya
+257 - vassal: d_kodaiti - Gained vassal: c_nenaya
+257 - sub vassal: d_kodaiti - Gained vassal: c_nenaya
+257 - vassal: d_kodaiti - Gained vassal: c_niacdes
+257 - sub vassal: d_kodaiti - Gained vassal: c_niacdes
+257 - vassal: d_kodaiti - Gained vassal: c_laraya
+257 - sub vassal: d_kodaiti - Gained vassal: c_laraya
+257 - vassal: d_kodaiti - Holder 1004820 - Primary title: d_kodaiti has lost the title: d_kodaiti
+257 - sub vassal: d_kodaiti - Holder 1004820 - Primary title: d_kodaiti has lost the title: d_kodaiti
+257 - vassal: d_kodaiti - Title given to 1004820 - Primary title: d_deraiti
+257 - sub vassal: d_kodaiti - Title given to 1004820 - Primary title: d_deraiti
+257 - vassal: d_deraiti - Holder (1004820) has gained d_kodaiti
+257 - sub vassal: d_deraiti - Holder (1004820) has gained d_kodaiti
+257 - sub vassal: c_leramson - Holder 1004820 - Primary title: c_leramson has lost the title: c_leramson
+257 - sub vassal: c_leramson - Title given to 1004820 - Primary title: d_deraiti
+257 - vassal: d_deraiti - Holder (1004820) has gained c_leramson
+257 - sub vassal: d_deraiti - Holder (1004820) has gained c_leramson
+257 - sub vassal: c_eluka - Holder 1004820 - Primary title: c_eluka has lost the title: c_eluka
+257 - sub vassal: c_eluka - Title given to 1004820 - Primary title: d_deraiti
+257 - vassal: d_deraiti - Holder (1004820) has gained c_eluka
+257 - sub vassal: d_deraiti - Holder (1004820) has gained c_eluka
+257 - sub vassal: c_laraya - Holder 1004820 - Primary title: c_laraya has lost the title: c_laraya
+257 - sub vassal: c_laraya - Title given to 1004820 - Primary title: d_deraiti
+257 - vassal: d_deraiti - Holder (1004820) has gained c_laraya
+257 - sub vassal: d_deraiti - Holder (1004820) has gained c_laraya
+257 - sub vassal: c_niacdes - Holder 1004820 - Primary title: c_niacdes has lost the title: c_niacdes
+257 - sub vassal: c_niacdes - Title given to 1004820 - Primary title: d_deraiti
+257 - vassal: d_deraiti - Holder (1004820) has gained c_niacdes
+257 - sub vassal: d_deraiti - Holder (1004820) has gained c_niacdes
+257 - sub vassal: c_nenaya - Holder 1004820 - Primary title: c_nenaya has lost the title: c_nenaya
+257 - sub vassal: c_nenaya - Title given to 1004820 - Primary title: d_deraiti
+257 - vassal: d_deraiti - Holder (1004820) has gained c_nenaya
+257 - sub vassal: d_deraiti - Holder (1004820) has gained c_nenaya
+258 - sub vassal: c_kammad - Holder 1004820 - Primary title: c_kammad has lost the title: c_kammad
+258 - sub vassal: c_kammad - Title given to 1004820 - Primary title: d_deraiti
+258 - vassal: d_deraiti - Holder (1004820) has gained c_kammad
+258 - sub vassal: d_deraiti - Holder (1004820) has gained c_kammad
+258 - vassal: d_deraiti - Holder 1007238 - Primary title: d_deraiti has lost the title: c_leramson
+258 - sub vassal: d_deraiti - Holder 1007238 - Primary title: d_deraiti has lost the title: c_leramson
+258 - sub vassal: c_leramson - Title given to 1007238
+258 - Holder 1006402 - Primary title: k_kiwuel has lost the title: k_kiwuel
+258 - Title given to 1006402
+258 - vassal: d_sanuel - Holder 1006402 - Primary title: d_sanuel has lost the title: d_sanuel
+258 - sub vassal: d_sanuel - Holder 1006402 - Primary title: d_sanuel has lost the title: d_sanuel
+258 - vassal: d_sanuel - Title given to 1006402 - Primary title: k_kiwuel
+258 - sub vassal: d_sanuel - Title given to 1006402 - Primary title: k_kiwuel
+258 - Holder (1006402) has gained d_sanuel
+258 - vassal: c_rambona - Setting to vassal of d_aromuel in Validate Realm
+258 - sub vassal: c_rambona - Setting to vassal of d_aromuel in Validate Realm
+258 - Lost vassal: c_rambona
+258 - vassal: c_ruduka - Setting to vassal of d_aromuel in Validate Realm
+258 - sub vassal: c_ruduka - Setting to vassal of d_aromuel in Validate Realm
+258 - Lost vassal: c_ruduka
+258 - vassal: d_aromuel - Gained vassal: c_ruduka
+258 - sub vassal: d_aromuel - Gained vassal: c_ruduka
+258 - vassal: d_aromuel - Gained vassal: c_rambona
+258 - sub vassal: d_aromuel - Gained vassal: c_rambona
+258 - vassal: d_aromuel - Holder 1006402 - Primary title: d_aromuel has lost the title: c_rambona
+258 - sub vassal: d_aromuel - Holder 1006402 - Primary title: d_aromuel has lost the title: c_rambona
+258 - sub vassal: c_rambona - Title given to 1006402 - Primary title: k_kiwuel
+258 - Holder (1006402) has gained c_rambona
+258 - sub vassal: c_rambona - Setting to vassal of k_kiwuel in Validate Realm
+258 - vassal: d_aromuel - Lost vassal: c_rambona
+258 - sub vassal: d_aromuel - Lost vassal: c_rambona
+258 - Gained vassal: c_rambona
+258 - vassal: d_aromuel - Holder 1006402 - Primary title: d_aromuel has lost the title: c_ruduka
+258 - sub vassal: d_aromuel - Holder 1006402 - Primary title: d_aromuel has lost the title: c_ruduka
+258 - sub vassal: c_ruduka - Title given to 1006402 - Primary title: k_kiwuel
+258 - Holder (1006402) has gained c_ruduka
+258 - sub vassal: c_ruduka - Setting to vassal of k_kiwuel in Validate Realm
+258 - vassal: d_aromuel - Lost vassal: c_ruduka
+258 - sub vassal: d_aromuel - Lost vassal: c_ruduka
+258 - Gained vassal: c_ruduka
+258 - vassal: d_aromuel - Holder 1006402 - Primary title: d_aromuel has lost the title: d_aromuel
+258 - sub vassal: d_aromuel - Holder 1006402 - Primary title: d_aromuel has lost the title: d_aromuel
+258 - vassal: d_aromuel - Title given to 1006402 - Primary title: k_kiwuel
+258 - sub vassal: d_aromuel - Title given to 1006402 - Primary title: k_kiwuel
+258 - Holder (1006402) has gained d_aromuel
+258 - sub vassal: c_karulai - Holder 1006402 - Primary title: c_karulai has lost the title: c_karulai
+258 - sub vassal: c_karulai - Title given to 1006402 - Primary title: k_kiwuel
+258 - Holder (1006402) has gained c_karulai
+258 - sub vassal: c_diranie - Holder 1006402 - Primary title: c_diranie has lost the title: c_diranie
+258 - sub vassal: c_diranie - Title given to 1006402 - Primary title: k_kiwuel
+258 - Holder (1006402) has gained c_diranie
+258 - sub vassal: c_kora - Holder 1006402 - Primary title: c_kora has lost the title: c_kora
+258 - sub vassal: c_kora - Title given to 1006402 - Primary title: k_kiwuel
+258 - Holder (1006402) has gained c_kora
+263 - vassal: d_nuva - Holder 1006402 - Primary title: d_nuva has lost the title: d_nuva
+263 - sub vassal: d_nuva - Holder 1006402 - Primary title: d_nuva has lost the title: d_nuva
+263 - vassal: d_nuva - Title given to 1006402 - Primary title: k_kiwuel
+263 - sub vassal: d_nuva - Title given to 1006402 - Primary title: k_kiwuel
+263 - Holder (1006402) has gained d_nuva
+263 - sub vassal: c_tanava - Holder 1006402 - Primary title: c_tanava has lost the title: c_tanava
+263 - sub vassal: c_tanava - Title given to 1006402 - Primary title: k_kiwuel
+263 - Holder (1006402) has gained c_tanava
+263 - sub vassal: c_tanalom - Given to 1007711 in HandleTitles - Too many duke titles
+263 - sub vassal: c_riwelen - Holder 1007711 - Primary title: c_riwelen has lost the title: c_tanalom
+263 - sub vassal: c_tanalom - Title given to 1007711
+263 - Holder 1007711 - Primary title: k_kiwuel has lost the title: d_sanuel
+263 - vassal: d_sanuel - Title given to 1007711 - Primary title: c_tanalom
+263 - sub vassal: d_sanuel - Title given to 1007711 - Primary title: c_tanalom
+263 - sub vassal: c_tanalom - Holder (1007711) has gained d_sanuel
+263 - vassal: d_sanuel - Too many dukes, given to dejure: k_kiwuel
+263 - sub vassal: d_sanuel - Too many dukes, given to dejure: k_kiwuel
+263 - Holder 1007712 - Primary title: k_kiwuel has lost the title: c_ruduka
+263 - vassal: c_ruduka - Title given to 1007712
+263 - sub vassal: c_ruduka - Title given to 1007712
+264 - vassal: d_tarinn - Holder 1006817 - Primary title: d_tarinn has lost the title: d_tarinn
+264 - sub vassal: d_tarinn - Holder 1006817 - Primary title: d_tarinn has lost the title: d_tarinn
+264 - vassal: d_tarinn - Title given to 1006817
+264 - sub vassal: d_tarinn - Title given to 1006817
+264 - sub vassal: c_qalaya - Holder 1006817 - Primary title: c_qalaya has lost the title: c_qalaya
+264 - sub vassal: c_qalaya - Title given to 1006817 - Primary title: d_tarinn
+264 - vassal: d_tarinn - Holder (1006817) has gained c_qalaya
+264 - sub vassal: d_tarinn - Holder (1006817) has gained c_qalaya
+271 - vassal: d_deraiti - Holder 1008358 - Primary title: d_deraiti has lost the title: d_deraiti
+271 - sub vassal: d_deraiti - Holder 1008358 - Primary title: d_deraiti has lost the title: d_deraiti
+271 - vassal: d_deraiti - Title given to 1008358
+271 - sub vassal: d_deraiti - Title given to 1008358
+271 - sub vassal: c_kammad - Setting to vassal of d_kodaiti in Validate Realm
+271 - vassal: d_deraiti - Lost vassal: c_kammad
+271 - sub vassal: d_deraiti - Lost vassal: c_kammad
+271 - vassal: d_kodaiti - Gained vassal: c_kammad
+271 - sub vassal: d_kodaiti - Gained vassal: c_kammad
+271 - vassal: d_kodaiti - Holder 1008358 - Primary title: d_kodaiti has lost the title: d_kodaiti
+271 - sub vassal: d_kodaiti - Holder 1008358 - Primary title: d_kodaiti has lost the title: d_kodaiti
+271 - vassal: d_kodaiti - Title given to 1008358 - Primary title: d_deraiti
+271 - sub vassal: d_kodaiti - Title given to 1008358 - Primary title: d_deraiti
+271 - vassal: d_deraiti - Holder (1008358) has gained d_kodaiti
+271 - sub vassal: d_deraiti - Holder (1008358) has gained d_kodaiti
+271 - sub vassal: c_kammad - Holder 1008358 - Primary title: c_kammad has lost the title: c_kammad
+271 - sub vassal: c_kammad - Title given to 1008358 - Primary title: d_deraiti
+271 - vassal: d_deraiti - Holder (1008358) has gained c_kammad
+271 - sub vassal: d_deraiti - Holder (1008358) has gained c_kammad
+271 - sub vassal: c_nenaya - Holder 1008358 - Primary title: c_nenaya has lost the title: c_nenaya
+271 - sub vassal: c_nenaya - Title given to 1008358 - Primary title: d_deraiti
+271 - vassal: d_deraiti - Holder (1008358) has gained c_nenaya
+271 - sub vassal: d_deraiti - Holder (1008358) has gained c_nenaya
+271 - sub vassal: c_niacdes - Holder 1008358 - Primary title: c_niacdes has lost the title: c_niacdes
+271 - sub vassal: c_niacdes - Title given to 1008358 - Primary title: d_deraiti
+271 - vassal: d_deraiti - Holder (1008358) has gained c_niacdes
+271 - sub vassal: d_deraiti - Holder (1008358) has gained c_niacdes
+271 - sub vassal: c_laraya - Holder 1008358 - Primary title: c_laraya has lost the title: c_laraya
+271 - sub vassal: c_laraya - Title given to 1008358 - Primary title: d_deraiti
+271 - vassal: d_deraiti - Holder (1008358) has gained c_laraya
+271 - sub vassal: d_deraiti - Holder (1008358) has gained c_laraya
+271 - sub vassal: c_eluka - Holder 1008358 - Primary title: c_eluka has lost the title: c_eluka
+271 - sub vassal: c_eluka - Title given to 1008358 - Primary title: d_deraiti
+271 - vassal: d_deraiti - Holder (1008358) has gained c_eluka
+271 - sub vassal: d_deraiti - Holder (1008358) has gained c_eluka
+272 - vassal: d_deraiti - Destroyed due to flagged problem
+272 - sub vassal: d_deraiti - Destroyed due to flagged problem
+272 - vassal: d_deraiti - Made independent
+272 - sub vassal: d_deraiti - Made independent
+272 - vassal: d_nenge - Holder 1008114 - Primary title: d_nenge has lost the title: d_nenge
+272 - sub vassal: d_nenge - Holder 1008114 - Primary title: d_nenge has lost the title: d_nenge
+272 - vassal: d_nenge - Title given to 1008114
+272 - sub vassal: d_nenge - Title given to 1008114
+272 - sub vassal: c_dengaka - Holder 1008114 - Primary title: c_dengaka has lost the title: c_dengaka
+272 - sub vassal: c_dengaka - Title given to 1008114 - Primary title: d_nenge
+272 - vassal: d_nenge - Holder (1008114) has gained c_dengaka
+272 - sub vassal: d_nenge - Holder (1008114) has gained c_dengaka
+272 - sub vassal: c_kiacdes - Holder 1008114 - Primary title: c_kiacdes has lost the title: c_kiacdes
+272 - sub vassal: c_kiacdes - Title given to 1008114 - Primary title: d_nenge
+272 - vassal: d_nenge - Holder (1008114) has gained c_kiacdes
+272 - sub vassal: d_nenge - Holder (1008114) has gained c_kiacdes
+272 - sub vassal: c_reraudes - Holder 1008114 - Primary title: c_reraudes has lost the title: c_reraudes
+272 - sub vassal: c_reraudes - Title given to 1008114 - Primary title: d_nenge
+272 - vassal: d_nenge - Holder (1008114) has gained c_reraudes
+272 - sub vassal: d_nenge - Holder (1008114) has gained c_reraudes
+272 - sub vassal: c_etulai - Holder 1008114 - Primary title: c_etulai has lost the title: c_etulai
+272 - sub vassal: c_etulai - Title given to 1008114 - Primary title: d_nenge
+272 - vassal: d_nenge - Holder (1008114) has gained c_etulai
+272 - sub vassal: d_nenge - Holder (1008114) has gained c_etulai
+272 - sub vassal: c_dalaka - Holder 1008114 - Primary title: c_dalaka has lost the title: c_dalaka
+272 - sub vassal: c_dalaka - Title given to 1008114 - Primary title: d_nenge
+272 - vassal: d_nenge - Holder (1008114) has gained c_dalaka
+272 - sub vassal: d_nenge - Holder (1008114) has gained c_dalaka
+277 - vassal: d_nenge - Holder (1008114) has gained d_tebona
+277 - sub vassal: d_nenge - Holder (1008114) has gained d_tebona
+277 - Gained vassal: d_tebona
+277 - vassal: d_tebona - Made independent for title creation d_tebona for d_nenge
+277 - sub vassal: d_tebona - Made independent for title creation d_tebona for d_nenge
+277 - vassal: d_tebona - Made independent
+277 - sub vassal: d_tebona - Made independent
+277 - sub vassal: c_dengaka - Set liege on title creation d_tebona
+277 - vassal: d_nenge - Lost vassal: c_dengaka
+277 - sub vassal: d_nenge - Lost vassal: c_dengaka
+277 - sub vassal: c_kiacdes - Set liege on title creation d_tebona
+277 - vassal: d_nenge - Lost vassal: c_kiacdes
+277 - sub vassal: d_nenge - Lost vassal: c_kiacdes
+277 - sub vassal: c_reraudes - Set liege on title creation d_tebona
+277 - vassal: d_nenge - Lost vassal: c_reraudes
+277 - sub vassal: d_nenge - Lost vassal: c_reraudes
+277 - sub vassal: c_etulai - Set liege on title creation d_tebona
+277 - vassal: d_nenge - Lost vassal: c_etulai
+277 - sub vassal: d_nenge - Lost vassal: c_etulai
+277 - sub vassal: c_dalaka - Set liege on title creation d_tebona
+277 - vassal: d_nenge - Lost vassal: c_dalaka
+277 - sub vassal: d_nenge - Lost vassal: c_dalaka
+277 - sub vassal: c_emebaka - Holder 1008114 - Primary title: c_emebaka has lost the title: c_emebaka
+277 - sub vassal: c_emebaka - Title given to 1008114 - Primary title: d_nenge
+277 - vassal: d_nenge - Holder (1008114) has gained c_emebaka
+277 - sub vassal: d_nenge - Holder (1008114) has gained c_emebaka
+278 - vassal: d_nenge - Holder 1008949 - Primary title: d_nenge has lost the title: c_dengaka
+278 - sub vassal: d_nenge - Holder 1008949 - Primary title: d_nenge has lost the title: c_dengaka
+278 - sub vassal: c_dengaka - Title given to 1008949
+281 - vassal: d_kodaiti - Holder (1008358) has gained d_deraiti
+281 - sub vassal: d_kodaiti - Holder (1008358) has gained d_deraiti
+281 - Gained vassal: d_deraiti
+281 - vassal: d_deraiti - Made independent for title creation d_deraiti for d_kodaiti
+281 - sub vassal: d_deraiti - Made independent for title creation d_deraiti for d_kodaiti
+281 - vassal: d_deraiti - Made independent
+281 - sub vassal: d_deraiti - Made independent
+281 - sub vassal: c_eluka - Set liege on title creation d_deraiti
+281 - vassal: d_kodaiti - Lost vassal: c_eluka
+281 - sub vassal: d_kodaiti - Lost vassal: c_eluka
+281 - sub vassal: c_laraya - Set liege on title creation d_deraiti
+281 - vassal: d_kodaiti - Lost vassal: c_laraya
+281 - sub vassal: d_kodaiti - Lost vassal: c_laraya
+281 - sub vassal: c_niacdes - Set liege on title creation d_deraiti
+281 - vassal: d_kodaiti - Lost vassal: c_niacdes
+281 - sub vassal: d_kodaiti - Lost vassal: c_niacdes
+281 - sub vassal: c_nenaya - Set liege on title creation d_deraiti
+281 - vassal: d_kodaiti - Lost vassal: c_nenaya
+281 - sub vassal: d_kodaiti - Lost vassal: c_nenaya
+281 - sub vassal: c_kammad - Set liege on title creation d_deraiti
+281 - vassal: d_kodaiti - Lost vassal: c_kammad
+281 - sub vassal: d_kodaiti - Lost vassal: c_kammad
+281 - sub vassal: c_leramson - Holder 1008358 - Primary title: c_leramson has lost the title: c_leramson
+281 - sub vassal: c_leramson - Title given to 1008358 - Primary title: d_kodaiti
+281 - vassal: d_kodaiti - Holder (1008358) has gained c_leramson
+281 - sub vassal: d_kodaiti - Holder (1008358) has gained c_leramson
+282 - vassal: d_kodaiti - Holder 1009261 - Primary title: d_kodaiti has lost the title: c_nenaya
+282 - sub vassal: d_kodaiti - Holder 1009261 - Primary title: d_kodaiti has lost the title: c_nenaya
+282 - sub vassal: c_nenaya - Title given to 1009261
+284 - vassal: d_tarinn - Holder 1008869 - Primary title: d_tarinn has lost the title: d_tarinn
+284 - sub vassal: d_tarinn - Holder 1008869 - Primary title: d_tarinn has lost the title: d_tarinn
+284 - vassal: d_tarinn - Title given to 1008869
+284 - sub vassal: d_tarinn - Title given to 1008869
+284 - sub vassal: c_qalaya - Holder 1008869 - Primary title: c_qalaya has lost the title: c_qalaya
+284 - sub vassal: c_qalaya - Title given to 1008869 - Primary title: d_tarinn
+284 - vassal: d_tarinn - Holder (1008869) has gained c_qalaya
+284 - sub vassal: d_tarinn - Holder (1008869) has gained c_qalaya
+285 - vassal: d_nuva - Captured byd_kaicha in minor war
+285 - sub vassal: d_nuva - Captured byd_kaicha in minor war
+285 - vassal: d_nuva - Made independent
+285 - sub vassal: d_nuva - Made independent
+285 - Holder 1003098 - Primary title: k_kiwuel has lost the title: d_nuva
+285 - sub vassal: c_tanava - Setting to vassal of k_kiwuel in Validate Realm
+285 - Gained vassal: c_tanava
+285 - vassal: d_nenge - Holder 1003098 - Primary title: d_nenge has lost the title: d_tebona
+285 - sub vassal: d_nenge - Holder 1003098 - Primary title: d_nenge has lost the title: d_tebona
+285 - sub vassal: c_dalaka - Made vassal of neighbour (d_kaicha) due to being a seperate island
+285 - sub vassal: c_dalaka - Given to neighbour holder of d_kaicha
+285 - vassal: d_kodaiti - Holder 1007444 - Primary title: d_kodaiti has lost the title: d_deraiti
+285 - sub vassal: d_kodaiti - Holder 1007444 - Primary title: d_kodaiti has lost the title: d_deraiti
+285 - sub vassal: c_reraudes - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: c_dalaka - Setting to vassal of d_nenge in Validate Realm
+285 - sub vassal: c_etulai - Setting to vassal of d_nenge in Validate Realm
+285 - sub vassal: c_reraudes - Setting to vassal of d_nenge in Validate Realm
+285 - sub vassal: c_kiacdes - Setting to vassal of d_nenge in Validate Realm
+285 - vassal: d_nenge - Gained vassal: c_kiacdes
+285 - sub vassal: d_nenge - Gained vassal: c_kiacdes
+285 - vassal: d_nenge - Gained vassal: c_reraudes
+285 - sub vassal: d_nenge - Gained vassal: c_reraudes
+285 - vassal: d_nenge - Gained vassal: c_etulai
+285 - sub vassal: d_nenge - Gained vassal: c_etulai
+285 - vassal: d_nenge - Gained vassal: c_dalaka
+285 - sub vassal: d_nenge - Gained vassal: c_dalaka
+285 - vassal: d_nenge - Gained vassal: c_reraudes
+285 - sub vassal: d_nenge - Gained vassal: c_reraudes
+285 - sub vassal: c_reraudes - Given to neighbour holder of k_evishp
+285 - vassal: d_nenge - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: d_nenge - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - Lost vassal: d_nenge
+285 - vassal: d_tarinn - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: d_tarinn - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - Lost vassal: d_tarinn
+285 - vassal: c_ruduka - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: c_ruduka - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - Lost vassal: c_ruduka
+285 - vassal: d_kodaiti - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: d_kodaiti - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - Lost vassal: d_kodaiti
+285 - sub vassal: c_karulai - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: c_karulai - Given to neighbour holder of k_evishp
+285 - vassal: c_runaiti - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: c_runaiti - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - Lost vassal: c_runaiti
+285 - sub vassal: c_kora - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: c_kora - Given to neighbour holder of k_evishp
+285 - sub vassal: c_diranie - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: c_diranie - Given to neighbour holder of k_evishp
+285 - vassal: d_sanuel - Made independent due to being a seperate island prior to giving to neighbour
+285 - sub vassal: d_sanuel - Made independent due to being a seperate island prior to giving to neighbour
+285 - vassal: d_sanuel - Made independent
+285 - sub vassal: d_sanuel - Made independent
+285 - vassal: c_rambona - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - sub vassal: c_rambona - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - vassal: c_rambona - Given to neighbour holder of k_evishp
+285 - sub vassal: c_rambona - Given to neighbour holder of k_evishp
+286 - vassal: c_kairava - Setting independent in Validate Realm
+286 - vassal: c_kairava - Made independent
+286 - Holder (1006402) has gained c_kairava
+286 - Gained vassal: c_tanalom
+286 - vassal: c_tanalom - Given to neighbour holder of k_kiwuel
+286 - sub vassal: c_tanalom - Given to neighbour holder of k_kiwuel
+286 - vassal: c_tanalom - Holder 1006402 - Primary title: c_tanalom has lost the title: c_tanalom
+286 - sub vassal: c_tanalom - Holder 1006402 - Primary title: c_tanalom has lost the title: c_tanalom
+286 - vassal: c_tanalom - Title given to 1006402 - Primary title: k_kiwuel
+286 - sub vassal: c_tanalom - Title given to 1006402 - Primary title: k_kiwuel
+286 - Holder (1006402) has gained c_tanalom
+286 - Gained vassal: c_riwelen
+286 - vassal: c_riwelen - Given to neighbour holder of k_kiwuel
+286 - sub vassal: c_riwelen - Given to neighbour holder of k_kiwuel
+286 - vassal: c_riwelen - Holder 1006402 - Primary title: c_riwelen has lost the title: c_riwelen
+286 - sub vassal: c_riwelen - Holder 1006402 - Primary title: c_riwelen has lost the title: c_riwelen
+286 - vassal: c_riwelen - Title given to 1006402 - Primary title: k_kiwuel
+286 - sub vassal: c_riwelen - Title given to 1006402 - Primary title: k_kiwuel
+286 - Holder (1006402) has gained c_riwelen
+286 - Holder 1009604 - Primary title: k_kiwuel has lost the title: c_karulai
+286 - sub vassal: c_karulai - Title given to 1009604
+286 - Holder 1009605 - Primary title: k_kiwuel has lost the title: c_kairava
+286 - Gained vassal: c_kairava
+286 - Holder 1009606 - Primary title: k_kiwuel has lost the title: c_diranie
+286 - sub vassal: c_diranie - Title given to 1009606
+286 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+286 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+286 - Lost vassal: c_kairava
+286 - vassal: c_rambona - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - sub vassal: c_rambona - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - vassal: c_rambona - Given to neighbour holder of k_evishp
+286 - sub vassal: c_rambona - Given to neighbour holder of k_evishp
+286 - vassal: c_tanalom - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - sub vassal: c_tanalom - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - vassal: c_tanalom - Given to neighbour holder of k_evishp
+286 - sub vassal: c_tanalom - Given to neighbour holder of k_evishp
+286 - vassal: c_riwelen - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - sub vassal: c_riwelen - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - vassal: c_riwelen - Given to neighbour holder of k_evishp
+286 - sub vassal: c_riwelen - Given to neighbour holder of k_evishp
+286 - sub vassal: c_diranie - Made vassal of neighbour (d_kaicha) due to being a seperate island
+286 - vassal: d_aromuel - Lost vassal: c_diranie
+286 - sub vassal: d_aromuel - Lost vassal: c_diranie
+286 - sub vassal: c_kora - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - sub vassal: c_kora - Given to neighbour holder of k_evishp
+286 - sub vassal: c_karulai - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - vassal: d_aromuel - Lost vassal: c_karulai
+286 - sub vassal: d_aromuel - Lost vassal: c_karulai
+287 - Gained vassal: c_kairava
+287 - vassal: c_kairava - Given to neighbour holder of k_kiwuel
+287 - sub vassal: c_kairava - Given to neighbour holder of k_kiwuel
+287 - vassal: c_kairava - Holder 1006402 - Primary title: c_kairava has lost the title: c_kairava
+287 - sub vassal: c_kairava - Holder 1006402 - Primary title: c_kairava has lost the title: c_kairava
+287 - vassal: c_kairava - Title given to 1006402 - Primary title: k_kiwuel
+287 - sub vassal: c_kairava - Title given to 1006402 - Primary title: k_kiwuel
+287 - Holder (1006402) has gained c_kairava
+287 - Holder 1009689 - Primary title: k_kiwuel has lost the title: c_kora
+287 - sub vassal: c_kora - Title given to 1009689
+287 - sub vassal: c_kora - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - vassal: d_aromuel - Lost vassal: c_kora
+287 - sub vassal: d_aromuel - Lost vassal: c_kora
+287 - vassal: c_rambona - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - sub vassal: c_rambona - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - vassal: c_rambona - Given to neighbour holder of k_evishp
+287 - sub vassal: c_rambona - Given to neighbour holder of k_evishp
+287 - vassal: c_riwelen - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - sub vassal: c_riwelen - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - vassal: c_riwelen - Given to neighbour holder of k_evishp
+287 - sub vassal: c_riwelen - Given to neighbour holder of k_evishp
+287 - vassal: c_tanalom - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - sub vassal: c_tanalom - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - vassal: c_tanalom - Given to neighbour holder of k_evishp
+287 - sub vassal: c_tanalom - Given to neighbour holder of k_evishp
+287 - vassal: c_kairava - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - sub vassal: c_kairava - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - vassal: c_kairava - Given to neighbour holder of k_evishp
+287 - sub vassal: c_kairava - Given to neighbour holder of k_evishp
+288 - vassal: d_aromuel - Destroyed due to flagged problem
+288 - sub vassal: d_aromuel - Destroyed due to flagged problem
+288 - vassal: d_aromuel - Made independent
+288 - sub vassal: d_aromuel - Made independent
+288 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+288 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+288 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+288 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+288 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+288 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+288 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+288 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+288 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+288 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+288 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+288 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+288 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+288 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+288 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+288 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+289 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+289 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+289 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+289 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+289 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+289 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+289 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+289 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+289 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+289 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+289 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+289 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+289 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+289 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+289 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+289 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+290 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+290 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+290 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+290 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+290 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+290 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+290 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+290 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+290 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+290 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+290 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+290 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+290 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+290 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+290 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+290 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+291 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+291 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+291 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+291 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+291 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+291 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+291 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+291 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+291 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+291 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+291 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+291 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+291 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+291 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+291 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+291 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+292 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+292 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+292 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+292 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+292 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+292 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+292 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+292 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+292 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+292 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+292 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+292 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+292 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+292 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+292 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+292 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+293 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+293 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+293 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+293 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+293 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+293 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+293 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+293 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+293 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+293 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+293 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+293 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+293 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+293 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+293 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+293 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+294 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+294 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+294 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+294 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+294 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+294 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+294 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+294 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+294 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+294 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+294 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+294 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+294 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+294 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+294 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+294 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+295 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+295 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+295 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+295 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+295 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+295 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+295 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+295 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+295 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+295 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+295 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+295 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+295 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+295 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+295 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+295 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+296 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+296 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+296 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+296 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+296 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+296 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+296 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+296 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+296 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+296 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+296 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+296 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+296 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+296 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+296 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+296 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+297 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+297 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+297 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+297 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+297 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+297 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+297 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+297 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+297 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+297 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+297 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+297 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+297 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+297 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+297 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+297 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+298 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+298 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+298 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+298 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+298 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+298 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+298 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+298 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+298 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+298 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+298 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+298 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+298 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+298 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+298 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+298 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+299 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+299 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+299 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+299 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+299 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+299 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+299 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+299 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+299 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+299 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+299 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+299 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+299 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+299 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+299 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+299 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+300 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+300 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+300 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+300 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+300 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+300 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+300 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+300 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+300 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+300 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+300 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+300 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+300 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+300 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+300 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+300 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+301 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+301 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+301 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+301 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+301 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+301 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+301 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+301 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+301 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+301 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+301 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+301 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+301 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+301 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+301 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+301 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+302 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+302 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+302 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+302 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+302 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+302 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+302 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+302 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+302 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+302 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+302 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+302 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+302 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+302 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+302 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+302 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+303 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+303 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+303 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+303 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+303 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+303 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+303 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+303 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+303 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+303 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+303 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+303 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+303 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+303 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+303 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+303 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+303 - Holder 1008884 - Primary title: k_kiwuel has lost the title: k_kiwuel
+303 - Title given to 1008884
+303 - vassal: c_kairava - Holder 1008884 - Primary title: c_kairava has lost the title: c_kairava
+303 - sub vassal: c_kairava - Holder 1008884 - Primary title: c_kairava has lost the title: c_kairava
+303 - vassal: c_kairava - Title given to 1008884 - Primary title: k_kiwuel
+303 - sub vassal: c_kairava - Title given to 1008884 - Primary title: k_kiwuel
+303 - Holder (1008884) has gained c_kairava
+303 - vassal: c_riwelen - Holder 1008884 - Primary title: c_riwelen has lost the title: c_riwelen
+303 - sub vassal: c_riwelen - Holder 1008884 - Primary title: c_riwelen has lost the title: c_riwelen
+303 - vassal: c_riwelen - Title given to 1008884 - Primary title: k_kiwuel
+303 - sub vassal: c_riwelen - Title given to 1008884 - Primary title: k_kiwuel
+303 - Holder (1008884) has gained c_riwelen
+303 - vassal: c_tanalom - Holder 1008884 - Primary title: c_tanalom has lost the title: c_tanalom
+303 - sub vassal: c_tanalom - Holder 1008884 - Primary title: c_tanalom has lost the title: c_tanalom
+303 - vassal: c_tanalom - Title given to 1008884 - Primary title: k_kiwuel
+303 - sub vassal: c_tanalom - Title given to 1008884 - Primary title: k_kiwuel
+303 - Holder (1008884) has gained c_tanalom
+303 - vassal: c_rambona - Holder 1008884 - Primary title: c_rambona has lost the title: c_rambona
+303 - sub vassal: c_rambona - Holder 1008884 - Primary title: c_rambona has lost the title: c_rambona
+303 - vassal: c_rambona - Title given to 1008884 - Primary title: k_kiwuel
+303 - sub vassal: c_rambona - Title given to 1008884 - Primary title: k_kiwuel
+303 - Holder (1008884) has gained c_rambona
+303 - vassal: c_tanava - Holder 1008884 - Primary title: c_tanava has lost the title: c_tanava
+303 - sub vassal: c_tanava - Holder 1008884 - Primary title: c_tanava has lost the title: c_tanava
+303 - vassal: c_tanava - Title given to 1008884 - Primary title: k_kiwuel
+303 - sub vassal: c_tanava - Title given to 1008884 - Primary title: k_kiwuel
+303 - Holder (1008884) has gained c_tanava
+304 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+304 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+304 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+304 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+304 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+304 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+304 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+304 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+304 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+304 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+304 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+304 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+304 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+304 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+304 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+304 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+305 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+305 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+305 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+305 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+305 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+305 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+305 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+305 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+305 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+305 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+305 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+305 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+305 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+305 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+305 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+305 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+306 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+306 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+306 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+306 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+306 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+306 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+306 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+306 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+306 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+306 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+306 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+306 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+306 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+306 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+306 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+306 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+307 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+307 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+307 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+307 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+307 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+307 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+307 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+307 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+307 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+307 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+307 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+307 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+307 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+307 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+307 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+307 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+308 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+308 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+308 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+308 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+308 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+308 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+308 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+308 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+308 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+308 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+308 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+308 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+308 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+308 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+308 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+308 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+309 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+309 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+309 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+309 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+309 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+309 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+309 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+309 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+309 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+309 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+309 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+309 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+309 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+309 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+309 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+309 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+310 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+310 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+310 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+310 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+310 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+310 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+310 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+310 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+310 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+310 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+310 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+310 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+310 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+310 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+310 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+310 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+311 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+311 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+311 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+311 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+311 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+311 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+311 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+311 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+311 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+311 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+311 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+311 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+311 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+311 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+311 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+311 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+312 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+312 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+312 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+312 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+312 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+312 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+312 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+312 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+312 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+312 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+312 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+312 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+312 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+312 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+312 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+312 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+313 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+313 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+313 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+313 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+313 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+313 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+313 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+313 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+313 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+313 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+313 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+313 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+313 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+313 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+313 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+313 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+314 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+314 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+314 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+314 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+314 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+314 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+314 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+314 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+314 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+314 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+314 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+314 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+314 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+314 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+314 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+314 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+315 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+315 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+315 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+315 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+315 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+315 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+315 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+315 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+315 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+315 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+315 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+315 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+315 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+315 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+315 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+315 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+316 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+316 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+316 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+316 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+316 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+316 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+316 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+316 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+316 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+316 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+316 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+316 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+316 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+316 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+316 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+316 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+317 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+317 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+317 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+317 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+317 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+317 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+317 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+317 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+317 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+317 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+317 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+317 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+317 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+317 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+317 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+317 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+318 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+318 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+318 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+318 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+318 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+318 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+318 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+318 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+318 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+318 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+318 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+318 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+318 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+318 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+318 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+318 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+319 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+319 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+319 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+319 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+319 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+319 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+319 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+319 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+319 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+319 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+319 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+319 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+319 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+319 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+319 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+319 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+320 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+320 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+320 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+320 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+320 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+320 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+320 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+320 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+320 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+320 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+320 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+320 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+320 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+320 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+320 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+320 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+321 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+321 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+321 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+321 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+321 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+321 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+321 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+321 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+321 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+321 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+321 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+321 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+321 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+321 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+321 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+321 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+322 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+322 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+322 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+322 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+322 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+322 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+322 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+322 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+322 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+322 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+322 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+322 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+322 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+322 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+322 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+322 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+323 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+323 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+323 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+323 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+323 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+323 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+323 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+323 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+323 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+323 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+323 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+323 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+323 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+323 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+323 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+323 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+324 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+324 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+324 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+324 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+324 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+324 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+324 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+324 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+324 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+324 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+324 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+324 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+324 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+324 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+324 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+324 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+325 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+325 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+325 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+325 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+325 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+325 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+325 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+325 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+325 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+325 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+325 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+325 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+325 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+325 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+325 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+325 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+326 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+326 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+326 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+326 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+326 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+326 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+326 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+326 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+326 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+326 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+326 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+326 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+326 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+326 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+326 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+326 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+327 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+327 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+327 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+327 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+327 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+327 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+327 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+327 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+327 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+327 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+327 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+327 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+327 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+327 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+327 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+327 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+328 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+328 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+328 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+328 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+328 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+328 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+328 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+328 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+328 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+328 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+328 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+328 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+328 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+328 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+328 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+328 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+329 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+329 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+329 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+329 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+329 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+329 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+329 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+329 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+329 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+329 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+329 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+329 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+329 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+329 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+329 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+329 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+330 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+330 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+330 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+330 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+330 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+330 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+330 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+330 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+330 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+330 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+330 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+330 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+330 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+330 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+330 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+330 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+330 - Holder 1011901 - Primary title: k_kiwuel has lost the title: k_kiwuel
+330 - Title given to 1011901
+330 - vassal: c_tanava - Holder 1011901 - Primary title: c_tanava has lost the title: c_tanava
+330 - sub vassal: c_tanava - Holder 1011901 - Primary title: c_tanava has lost the title: c_tanava
+330 - vassal: c_tanava - Title given to 1011901 - Primary title: k_kiwuel
+330 - sub vassal: c_tanava - Title given to 1011901 - Primary title: k_kiwuel
+330 - Holder (1011901) has gained c_tanava
+330 - vassal: c_rambona - Holder 1011901 - Primary title: c_rambona has lost the title: c_rambona
+330 - sub vassal: c_rambona - Holder 1011901 - Primary title: c_rambona has lost the title: c_rambona
+330 - vassal: c_rambona - Title given to 1011901 - Primary title: k_kiwuel
+330 - sub vassal: c_rambona - Title given to 1011901 - Primary title: k_kiwuel
+330 - Holder (1011901) has gained c_rambona
+330 - vassal: c_tanalom - Holder 1011901 - Primary title: c_tanalom has lost the title: c_tanalom
+330 - sub vassal: c_tanalom - Holder 1011901 - Primary title: c_tanalom has lost the title: c_tanalom
+330 - vassal: c_tanalom - Title given to 1011901 - Primary title: k_kiwuel
+330 - sub vassal: c_tanalom - Title given to 1011901 - Primary title: k_kiwuel
+330 - Holder (1011901) has gained c_tanalom
+330 - vassal: c_riwelen - Holder 1011901 - Primary title: c_riwelen has lost the title: c_riwelen
+330 - sub vassal: c_riwelen - Holder 1011901 - Primary title: c_riwelen has lost the title: c_riwelen
+330 - vassal: c_riwelen - Title given to 1011901 - Primary title: k_kiwuel
+330 - sub vassal: c_riwelen - Title given to 1011901 - Primary title: k_kiwuel
+330 - Holder (1011901) has gained c_riwelen
+330 - vassal: c_kairava - Holder 1011901 - Primary title: c_kairava has lost the title: c_kairava
+330 - sub vassal: c_kairava - Holder 1011901 - Primary title: c_kairava has lost the title: c_kairava
+330 - vassal: c_kairava - Title given to 1011901 - Primary title: k_kiwuel
+330 - sub vassal: c_kairava - Title given to 1011901 - Primary title: k_kiwuel
+330 - Holder (1011901) has gained c_kairava
+331 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+331 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+331 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+331 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+331 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+331 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+331 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+331 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+331 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+331 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+331 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+331 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+331 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+331 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+331 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+331 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+332 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+332 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+332 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+332 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+332 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+332 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+332 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+332 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+332 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+332 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+332 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+332 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+332 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+332 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+332 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+332 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+333 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+333 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+333 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+333 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+333 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+333 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+333 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+333 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+333 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+333 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+333 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+333 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+333 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+333 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+333 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+333 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+334 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+334 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+334 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+334 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+334 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+334 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+334 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+334 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+334 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+334 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+334 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+334 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+334 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+334 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+334 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+334 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+335 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+335 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+335 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+335 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+335 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+335 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+335 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+335 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+335 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+335 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+335 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+335 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+335 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+335 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+335 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+335 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+336 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+336 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+336 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+336 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+336 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+336 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+336 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+336 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+336 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+336 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+336 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+336 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+336 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+336 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+336 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+336 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+337 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+337 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+337 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+337 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+337 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+337 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+337 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+337 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+337 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+337 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+337 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+337 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+337 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+337 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+337 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+337 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+338 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+338 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+338 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+338 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+338 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+338 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+338 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+338 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+338 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+338 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+338 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+338 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+338 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+338 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+338 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+338 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+339 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+339 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+339 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+339 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+339 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+339 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+339 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+339 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+339 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+339 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+339 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+339 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+339 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+339 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+339 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+339 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+340 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+340 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+340 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+340 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+340 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+340 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+340 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+340 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+340 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+340 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+340 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+340 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+340 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+340 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+340 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+340 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+341 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+341 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+341 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+341 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+341 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+341 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+341 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+341 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+341 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+341 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+341 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+341 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+341 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+341 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+341 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+341 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+342 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+342 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+342 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+342 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+342 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+342 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+342 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+342 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+342 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+342 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+342 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+342 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+342 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+342 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+342 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+342 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+343 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+343 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+343 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+343 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+343 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+343 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+343 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+343 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+343 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+343 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+343 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+343 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+343 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+343 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+343 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+343 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+344 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+344 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+344 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+344 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+344 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+344 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+344 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+344 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+344 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+344 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+344 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+344 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+344 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+344 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+344 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+344 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+345 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+345 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+345 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+345 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+345 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+345 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+345 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+345 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+345 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+345 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+345 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+345 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+345 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+345 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+345 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+345 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+346 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+346 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+346 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+346 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+346 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+346 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+346 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+346 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+346 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+346 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+346 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+346 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+346 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+346 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+346 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+346 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+347 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+347 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+347 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+347 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+347 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+347 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+347 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+347 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+347 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+347 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+347 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+347 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+347 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+347 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+347 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+347 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+348 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+348 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+348 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+348 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+348 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+348 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+348 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+348 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+348 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+348 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+348 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+348 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+348 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+348 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+348 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+348 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+349 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+349 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+349 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+349 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+349 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+349 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+349 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+349 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+349 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+349 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+349 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+349 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+349 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+349 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+349 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+349 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+350 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+350 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+350 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+350 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+350 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+350 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+350 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+350 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+350 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+350 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+350 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+350 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+350 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+350 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+350 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+350 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+351 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+351 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+351 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+351 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+351 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+351 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+351 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+351 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+351 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+351 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+351 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+351 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+351 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+351 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+351 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+351 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+352 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+352 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+352 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+352 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+352 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+352 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+352 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+352 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+352 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+352 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+352 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+352 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+352 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+352 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+352 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+352 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+353 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+353 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+353 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+353 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+353 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+353 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+353 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+353 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+353 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+353 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+353 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+353 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+353 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+353 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+353 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+353 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+354 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+354 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+354 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+354 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+354 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+354 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+354 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+354 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+354 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+354 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+354 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+354 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+354 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+354 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+354 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+354 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+355 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+355 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+355 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+355 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+355 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+355 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+355 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+355 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+355 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+355 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+355 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+355 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+355 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+355 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+355 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+355 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+356 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+356 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+356 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+356 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+356 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+356 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+356 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+356 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+356 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+356 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+356 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+356 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+356 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+356 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+356 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+356 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+357 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+357 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+357 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+357 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+357 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+357 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+357 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+357 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+357 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+357 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+357 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+357 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+357 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+357 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+357 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+357 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+358 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+358 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+358 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+358 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+358 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+358 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+358 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+358 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+358 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+358 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+358 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+358 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+358 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+358 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+358 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+358 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+359 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+359 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+359 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+359 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+359 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+359 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+359 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+359 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+359 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+359 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+359 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+359 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+359 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+359 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+359 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+359 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+359 - Holder 1013810 - Primary title: k_kiwuel has lost the title: k_kiwuel
+359 - Title given to 1013810
+359 - vassal: c_kairava - Holder 1013810 - Primary title: c_kairava has lost the title: c_kairava
+359 - sub vassal: c_kairava - Holder 1013810 - Primary title: c_kairava has lost the title: c_kairava
+359 - vassal: c_kairava - Title given to 1013810 - Primary title: k_kiwuel
+359 - sub vassal: c_kairava - Title given to 1013810 - Primary title: k_kiwuel
+359 - Holder (1013810) has gained c_kairava
+359 - vassal: c_riwelen - Holder 1013810 - Primary title: c_riwelen has lost the title: c_riwelen
+359 - sub vassal: c_riwelen - Holder 1013810 - Primary title: c_riwelen has lost the title: c_riwelen
+359 - vassal: c_riwelen - Title given to 1013810 - Primary title: k_kiwuel
+359 - sub vassal: c_riwelen - Title given to 1013810 - Primary title: k_kiwuel
+359 - Holder (1013810) has gained c_riwelen
+359 - vassal: c_tanalom - Holder 1013810 - Primary title: c_tanalom has lost the title: c_tanalom
+359 - sub vassal: c_tanalom - Holder 1013810 - Primary title: c_tanalom has lost the title: c_tanalom
+359 - vassal: c_tanalom - Title given to 1013810 - Primary title: k_kiwuel
+359 - sub vassal: c_tanalom - Title given to 1013810 - Primary title: k_kiwuel
+359 - Holder (1013810) has gained c_tanalom
+359 - vassal: c_rambona - Holder 1013810 - Primary title: c_rambona has lost the title: c_rambona
+359 - sub vassal: c_rambona - Holder 1013810 - Primary title: c_rambona has lost the title: c_rambona
+359 - vassal: c_rambona - Title given to 1013810 - Primary title: k_kiwuel
+359 - sub vassal: c_rambona - Title given to 1013810 - Primary title: k_kiwuel
+359 - Holder (1013810) has gained c_rambona
+359 - vassal: c_tanava - Holder 1013810 - Primary title: c_tanava has lost the title: c_tanava
+359 - sub vassal: c_tanava - Holder 1013810 - Primary title: c_tanava has lost the title: c_tanava
+359 - vassal: c_tanava - Title given to 1013810 - Primary title: k_kiwuel
+359 - sub vassal: c_tanava - Title given to 1013810 - Primary title: k_kiwuel
+359 - Holder (1013810) has gained c_tanava
+360 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+360 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+360 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+360 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+360 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+360 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+360 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+360 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+360 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+360 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+360 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+360 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+360 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+360 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+360 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+360 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+361 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+361 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+361 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+361 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+361 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+361 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+361 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+361 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+361 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+361 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+361 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+361 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+361 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+361 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+361 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+361 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+362 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+362 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+362 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+362 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+362 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+362 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+362 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+362 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+362 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+362 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+362 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+362 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+362 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+362 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+362 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+362 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+363 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+363 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+363 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+363 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+363 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+363 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+363 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+363 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+363 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+363 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+363 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+363 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+363 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+363 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+363 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+363 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+364 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+364 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+364 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+364 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+364 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+364 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+364 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+364 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+364 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+364 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+364 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+364 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+364 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+364 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+364 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+364 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+365 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+365 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+365 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+365 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+365 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+365 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+365 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+365 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+365 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+365 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+365 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+365 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+365 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+365 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+365 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+365 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+366 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+366 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+366 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+366 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+366 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+366 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+366 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+366 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+366 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+366 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+366 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+366 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+366 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+366 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+366 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+366 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+367 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+367 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+367 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+367 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+367 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+367 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+367 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+367 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+367 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+367 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+367 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+367 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+367 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+367 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+367 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+367 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+367 - Holder 1015487 - Primary title: k_kiwuel has lost the title: k_kiwuel
+367 - Title given to 1015487
+367 - vassal: c_tanava - Holder 1015487 - Primary title: c_tanava has lost the title: c_tanava
+367 - sub vassal: c_tanava - Holder 1015487 - Primary title: c_tanava has lost the title: c_tanava
+367 - vassal: c_tanava - Title given to 1015487 - Primary title: k_kiwuel
+367 - sub vassal: c_tanava - Title given to 1015487 - Primary title: k_kiwuel
+367 - Holder (1015487) has gained c_tanava
+367 - vassal: c_rambona - Holder 1015487 - Primary title: c_rambona has lost the title: c_rambona
+367 - sub vassal: c_rambona - Holder 1015487 - Primary title: c_rambona has lost the title: c_rambona
+367 - vassal: c_rambona - Title given to 1015487 - Primary title: k_kiwuel
+367 - sub vassal: c_rambona - Title given to 1015487 - Primary title: k_kiwuel
+367 - Holder (1015487) has gained c_rambona
+367 - vassal: c_tanalom - Holder 1015487 - Primary title: c_tanalom has lost the title: c_tanalom
+367 - sub vassal: c_tanalom - Holder 1015487 - Primary title: c_tanalom has lost the title: c_tanalom
+367 - vassal: c_tanalom - Title given to 1015487 - Primary title: k_kiwuel
+367 - sub vassal: c_tanalom - Title given to 1015487 - Primary title: k_kiwuel
+367 - Holder (1015487) has gained c_tanalom
+367 - vassal: c_riwelen - Holder 1015487 - Primary title: c_riwelen has lost the title: c_riwelen
+367 - sub vassal: c_riwelen - Holder 1015487 - Primary title: c_riwelen has lost the title: c_riwelen
+367 - vassal: c_riwelen - Title given to 1015487 - Primary title: k_kiwuel
+367 - sub vassal: c_riwelen - Title given to 1015487 - Primary title: k_kiwuel
+367 - Holder (1015487) has gained c_riwelen
+367 - vassal: c_kairava - Holder 1015487 - Primary title: c_kairava has lost the title: c_kairava
+367 - sub vassal: c_kairava - Holder 1015487 - Primary title: c_kairava has lost the title: c_kairava
+367 - vassal: c_kairava - Title given to 1015487 - Primary title: k_kiwuel
+367 - sub vassal: c_kairava - Title given to 1015487 - Primary title: k_kiwuel
+367 - Holder (1015487) has gained c_kairava
+368 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+368 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+368 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+368 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+368 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+368 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+368 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+368 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+368 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+368 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+368 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+368 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+368 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+368 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+368 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+368 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+369 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+369 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+369 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+369 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+369 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+369 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+369 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+369 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+369 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+369 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+369 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+369 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+369 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+369 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+369 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+369 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+370 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+370 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+370 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+370 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+370 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+370 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+370 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+370 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+370 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+370 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+370 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+370 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+370 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+370 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+370 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+370 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+371 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+371 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+371 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+371 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+371 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+371 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+371 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+371 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+371 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+371 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+371 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+371 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+371 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+371 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+371 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+371 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+372 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+372 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+372 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+372 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+372 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+372 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+372 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+372 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+372 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+372 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+372 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+372 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+372 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+372 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+372 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+372 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+373 - vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+373 - sub vassal: c_rambona - Made vassal of neighbour (d_kaicha) due to being a seperate island
+373 - vassal: c_rambona - Given to neighbour holder of d_kaicha
+373 - sub vassal: c_rambona - Given to neighbour holder of d_kaicha
+373 - vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+373 - sub vassal: c_riwelen - Made vassal of neighbour (d_kaicha) due to being a seperate island
+373 - vassal: c_riwelen - Given to neighbour holder of d_kaicha
+373 - sub vassal: c_riwelen - Given to neighbour holder of d_kaicha
+373 - vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+373 - sub vassal: c_tanalom - Made vassal of neighbour (d_kaicha) due to being a seperate island
+373 - vassal: c_tanalom - Given to neighbour holder of d_kaicha
+373 - sub vassal: c_tanalom - Given to neighbour holder of d_kaicha
+373 - vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+373 - sub vassal: c_kairava - Made vassal of neighbour (d_kaicha) due to being a seperate island
+373 - vassal: c_kairava - Given to neighbour holder of d_kaicha
+373 - sub vassal: c_kairava - Given to neighbour holder of d_kaicha
+374 - Gained vassal: c_ratuel
+374 - vassal: c_ratuel - Given to neighbour holder of k_kiwuel
+374 - sub vassal: c_ratuel - Given to neighbour holder of k_kiwuel
+374 - vassal: c_ratuel - Holder 1015487 - Primary title: c_ratuel has lost the title: c_ratuel
+374 - sub vassal: c_ratuel - Holder 1015487 - Primary title: c_ratuel has lost the title: c_ratuel
+374 - vassal: c_ratuel - Title given to 1015487 - Primary title: k_kiwuel
+374 - sub vassal: c_ratuel - Title given to 1015487 - Primary title: k_kiwuel
+374 - Holder (1015487) has gained c_ratuel
+374 - Holder 1013206 - Primary title: k_kiwuel has lost the title: c_riwelen
+374 - vassal: c_riwelen - Title given to 1013206
+374 - sub vassal: c_riwelen - Title given to 1013206
+395 - Holder 1016738 - Primary title: k_kiwuel has lost the title: k_kiwuel
+395 - Title given to 1016738
+395 - vassal: c_ratuel - Holder 1016738 - Primary title: c_ratuel has lost the title: c_ratuel
+395 - sub vassal: c_ratuel - Holder 1016738 - Primary title: c_ratuel has lost the title: c_ratuel
+395 - vassal: c_ratuel - Title given to 1016738 - Primary title: k_kiwuel
+395 - sub vassal: c_ratuel - Title given to 1016738 - Primary title: k_kiwuel
+395 - Holder (1016738) has gained c_ratuel
+395 - vassal: c_kairava - Holder 1016738 - Primary title: c_kairava has lost the title: c_kairava
+395 - sub vassal: c_kairava - Holder 1016738 - Primary title: c_kairava has lost the title: c_kairava
+395 - vassal: c_kairava - Title given to 1016738 - Primary title: k_kiwuel
+395 - sub vassal: c_kairava - Title given to 1016738 - Primary title: k_kiwuel
+395 - Holder (1016738) has gained c_kairava
+395 - vassal: c_tanalom - Holder 1016738 - Primary title: c_tanalom has lost the title: c_tanalom
+395 - sub vassal: c_tanalom - Holder 1016738 - Primary title: c_tanalom has lost the title: c_tanalom
+395 - vassal: c_tanalom - Title given to 1016738 - Primary title: k_kiwuel
+395 - sub vassal: c_tanalom - Title given to 1016738 - Primary title: k_kiwuel
+395 - Holder (1016738) has gained c_tanalom
+395 - vassal: c_rambona - Holder 1016738 - Primary title: c_rambona has lost the title: c_rambona
+395 - sub vassal: c_rambona - Holder 1016738 - Primary title: c_rambona has lost the title: c_rambona
+395 - vassal: c_rambona - Title given to 1016738 - Primary title: k_kiwuel
+395 - sub vassal: c_rambona - Title given to 1016738 - Primary title: k_kiwuel
+395 - Holder (1016738) has gained c_rambona
+395 - vassal: c_tanava - Holder 1016738 - Primary title: c_tanava has lost the title: c_tanava
+395 - sub vassal: c_tanava - Holder 1016738 - Primary title: c_tanava has lost the title: c_tanava
+395 - vassal: c_tanava - Title given to 1016738 - Primary title: k_kiwuel
+395 - sub vassal: c_tanava - Title given to 1016738 - Primary title: k_kiwuel
+395 - Holder (1016738) has gained c_tanava
+397 - Captured byd_kaicha in minor war
+397 - Given to 1015181 in minor war along with lower
+397 - Holder 1015181 - Primary title: k_kiwuel has lost the title: k_kiwuel
+397 - Title given to 1015181 - Primary title: d_kaicha
+397 - vassal: c_riwelen - Holder 1015181 - Primary title: c_riwelen has lost the title: c_riwelen
+397 - sub vassal: c_riwelen - Holder 1015181 - Primary title: c_riwelen has lost the title: c_riwelen
+397 - vassal: c_riwelen - Title given to 1015181 - Primary title: k_kiwuel
+397 - sub vassal: c_riwelen - Title given to 1015181 - Primary title: k_kiwuel
+397 - Holder (1015181) has gained c_riwelen
+397 - vassal: c_ratuel - Holder 1015181 - Primary title: c_ratuel has lost the title: c_rambona
+397 - sub vassal: c_ratuel - Holder 1015181 - Primary title: c_ratuel has lost the title: c_rambona
+397 - vassal: c_rambona - Title given to 1015181 - Primary title: k_kiwuel
+397 - sub vassal: c_rambona - Title given to 1015181 - Primary title: k_kiwuel
+397 - Holder (1015181) has gained c_rambona
+397 - vassal: c_ratuel - Holder 1015181 - Primary title: c_ratuel has lost the title: c_kairava
+397 - sub vassal: c_ratuel - Holder 1015181 - Primary title: c_ratuel has lost the title: c_kairava
+397 - vassal: c_kairava - Title given to 1015181 - Primary title: k_kiwuel
+397 - sub vassal: c_kairava - Title given to 1015181 - Primary title: k_kiwuel
+397 - Holder (1015181) has gained c_kairava
+397 - vassal: c_ratuel - Holder 1015181 - Primary title: c_ratuel has lost the title: c_ratuel
+397 - sub vassal: c_ratuel - Holder 1015181 - Primary title: c_ratuel has lost the title: c_ratuel
+397 - vassal: c_ratuel - Title given to 1015181 - Primary title: k_kiwuel
+397 - sub vassal: c_ratuel - Title given to 1015181 - Primary title: k_kiwuel
+397 - Holder (1015181) has gained c_ratuel
+397 - vassal: c_tanalom - Holder 1015181 - Primary title: c_tanalom has lost the title: c_tanava
+397 - sub vassal: c_tanalom - Holder 1015181 - Primary title: c_tanalom has lost the title: c_tanava
+397 - vassal: c_tanava - Title given to 1015181 - Primary title: k_kiwuel
+397 - sub vassal: c_tanava - Title given to 1015181 - Primary title: k_kiwuel
+397 - Holder (1015181) has gained c_tanava
+397 - vassal: c_tanalom - Holder 1015181 - Primary title: c_tanalom has lost the title: c_tanalom
+397 - sub vassal: c_tanalom - Holder 1015181 - Primary title: c_tanalom has lost the title: c_tanalom
+397 - vassal: c_tanalom - Title given to 1015181 - Primary title: k_kiwuel
+397 - sub vassal: c_tanalom - Title given to 1015181 - Primary title: k_kiwuel
+397 - Holder (1015181) has gained c_tanalom
+397 - sub vassal: c_lehelen - Given to 1017902 in HandleTitles - Too many duke titles
+397 - sub vassal: c_lehelen - Holder 1017902 - Primary title: c_lehelen has lost the title: c_lehelen
+397 - sub vassal: c_lehelen - Title given to 1017902
+397 - Holder 1017902 - Primary title: k_kiwuel has lost the title: d_kaicha
+397 - sub vassal: c_lehelen - Holder (1017902) has gained d_kaicha
+397 - sub vassal: c_diranie - Setting to vassal of k_kiwuel in Validate Realm
+397 - Gained vassal: c_diranie
+397 - Gained vassal: d_kaicha
+397 - sub vassal: c_daledrik - Given to 1017903 in HandleTitles - Too many duke titles
+397 - sub vassal: c_daledrik - Holder 1017903 - Primary title: c_daledrik has lost the title: c_daledrik
+397 - sub vassal: c_daledrik - Title given to 1017903
+397 - Holder 1017903 - Primary title: k_kiwuel has lost the title: d_tatelen
+397 - sub vassal: c_daledrik - Holder (1017903) has gained d_tatelen
+397 - Gained vassal: d_tatelen
+397 - Holder 1017904 - Primary title: k_kiwuel has lost the title: c_lahavinn
+397 - sub vassal: c_lahavinn - Title given to 1017904
+397 - Holder 1017905 - Primary title: k_kiwuel has lost the title: c_beetage
+397 - sub vassal: c_beetage - Title given to 1017905
+397 - Holder 1017906 - Primary title: k_kiwuel has lost the title: c_riwelen
+397 - vassal: c_riwelen - Title given to 1017906
+397 - sub vassal: c_riwelen - Title given to 1017906
+397 - Holder 1017907 - Primary title: k_kiwuel has lost the title: c_kairava
+397 - vassal: c_kairava - Title given to 1017907
+397 - sub vassal: c_kairava - Title given to 1017907
+398 - Holder 1017903 - Primary title: k_kiwuel has lost the title: k_kiwuel
+398 - Title given to 1017903 - Primary title: d_tatelen
+398 - vassal: d_tatelen - Holder (1017903) has gained k_kiwuel
+398 - sub vassal: d_tatelen - Holder (1017903) has gained k_kiwuel
+398 - vassal: c_diranie - Setting to vassal of d_nuva in Validate Realm
+398 - Lost vassal: c_diranie
+398 - vassal: c_rambona - Setting to vassal of d_nuva in Validate Realm
+398 - Lost vassal: c_rambona
+398 - vassal: c_ratuel - Setting to vassal of d_nuva in Validate Realm
+398 - Lost vassal: c_ratuel
+398 - vassal: c_tanava - Setting to vassal of d_nuva in Validate Realm
+398 - Lost vassal: c_tanava
+398 - vassal: c_tanalom - Setting to vassal of d_nuva in Validate Realm
+398 - Lost vassal: c_tanalom
+398 - Holder (1017903) has gained d_nuva
+398 - Holder (1017903) has gained d_lomalom
+398 - sub vassal: c_diranie - Holder 1017903 - Primary title: c_diranie has lost the title: c_rambona
+398 - sub vassal: c_rambona - Title given to 1017903 - Primary title: k_kiwuel
+398 - Holder (1017903) has gained c_rambona
+398 - sub vassal: c_diranie - Holder 1017903 - Primary title: c_diranie has lost the title: c_ratuel
+398 - sub vassal: c_ratuel - Title given to 1017903 - Primary title: k_kiwuel
+398 - Holder (1017903) has gained c_ratuel
+398 - sub vassal: c_diranie - Holder 1017903 - Primary title: c_diranie has lost the title: c_tanava
+398 - sub vassal: c_tanava - Title given to 1017903 - Primary title: k_kiwuel
+398 - Holder (1017903) has gained c_tanava
+398 - sub vassal: c_diranie - Holder 1017903 - Primary title: c_diranie has lost the title: c_tanalom
+398 - sub vassal: c_tanalom - Title given to 1017903 - Primary title: k_kiwuel
+398 - Holder (1017903) has gained c_tanalom
+399 - sub vassal: c_beetage - Given to 1018046 in HandleTitles - Too many duke titles
+399 - sub vassal: c_beetage - Holder 1018046 - Primary title: c_beetage has lost the title: c_beetage
+399 - sub vassal: c_beetage - Title given to 1018046
+399 - Holder 1018046 - Primary title: k_kiwuel has lost the title: d_lomalom
+399 - sub vassal: c_beetage - Holder (1018046) has gained d_lomalom
+399 - Gained vassal: d_lomalom
+400 - sub vassal: c_ruvelen - Holder 1017904 - Primary title: c_ruvelen has lost the title: c_ruvelen
+400 - sub vassal: c_ruvelen - Title given to 1017904 - Primary title: c_lahavinn
+400 - sub vassal: c_lahavinn - Holder (1017904) has gained c_ruvelen
+400 - sub vassal: c_agaresar - Holder 1017903 - Primary title: c_agaresar has lost the title: c_agaresar
+400 - sub vassal: c_agaresar - Title given to 1017903 - Primary title: k_kiwuel
+400 - Holder (1017903) has gained c_agaresar

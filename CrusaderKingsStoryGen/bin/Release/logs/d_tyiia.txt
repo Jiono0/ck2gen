@@ -1,0 +1,64 @@
+200 - Title given to 1000808
+200 - vassal: c_sarule - Given to 1000811 via AddCharacterForTitle
+200 - sub vassal: c_sarule - Given to 1000811 via AddCharacterForTitle
+200 - vassal: c_sarule - Holder 1000811 - Primary title: c_sarule has lost the title: c_sarule
+200 - sub vassal: c_sarule - Holder 1000811 - Primary title: c_sarule has lost the title: c_sarule
+200 - vassal: c_sarule - Title given to 1000811
+200 - sub vassal: c_sarule - Title given to 1000811
+200 - vassal: c_bazimir - Holder 1000808 - Primary title: c_bazimir has lost the title: c_bazimir
+200 - sub vassal: c_bazimir - Holder 1000808 - Primary title: c_bazimir has lost the title: c_bazimir
+200 - vassal: c_bazimir - Title given to 1000808 - Primary title: d_tyiia
+200 - sub vassal: c_bazimir - Title given to 1000808 - Primary title: d_tyiia
+200 - Holder (1000808) has gained c_bazimir
+200 - vassal: c_sarule - Holder 1000808 - Primary title: c_sarule has lost the title: c_sarule
+200 - sub vassal: c_sarule - Holder 1000808 - Primary title: c_sarule has lost the title: c_sarule
+200 - vassal: c_sarule - Title given to 1000808 - Primary title: d_tyiia
+200 - sub vassal: c_sarule - Title given to 1000808 - Primary title: d_tyiia
+200 - Holder (1000808) has gained c_sarule
+200 - vassal: c_eskail - Holder 1000808 - Primary title: c_eskail has lost the title: c_eskail
+200 - sub vassal: c_eskail - Holder 1000808 - Primary title: c_eskail has lost the title: c_eskail
+200 - vassal: c_eskail - Title given to 1000808 - Primary title: d_tyiia
+200 - sub vassal: c_eskail - Title given to 1000808 - Primary title: d_tyiia
+200 - Holder (1000808) has gained c_eskail
+200 - vassal: c_kavule - Holder 1000808 - Primary title: c_kavule has lost the title: c_kavule
+200 - sub vassal: c_kavule - Holder 1000808 - Primary title: c_kavule has lost the title: c_kavule
+200 - vassal: c_kavule - Title given to 1000808 - Primary title: d_tyiia
+200 - sub vassal: c_kavule - Title given to 1000808 - Primary title: d_tyiia
+200 - Holder (1000808) has gained c_kavule
+231 - Holder 1001887 - Primary title: d_tyiia has lost the title: d_tyiia
+231 - Title given to 1001887
+231 - vassal: c_bazimir - Holder 1001887 - Primary title: c_bazimir has lost the title: c_bazimir
+231 - vassal: c_bazimir - Title given to 1001887 - Primary title: d_tyiia
+231 - Holder (1001887) has gained c_bazimir
+231 - vassal: c_sarule - Holder 1001887 - Primary title: c_sarule has lost the title: c_sarule
+231 - vassal: c_sarule - Title given to 1001887 - Primary title: d_tyiia
+231 - Holder (1001887) has gained c_sarule
+231 - vassal: c_eskail - Holder 1001887 - Primary title: c_eskail has lost the title: c_eskail
+231 - vassal: c_eskail - Title given to 1001887 - Primary title: d_tyiia
+231 - Holder (1001887) has gained c_eskail
+231 - vassal: c_kavule - Holder 1001887 - Primary title: c_kavule has lost the title: c_kavule
+231 - vassal: c_kavule - Title given to 1001887 - Primary title: d_tyiia
+231 - Holder (1001887) has gained c_kavule
+233 - Holder 1002089 - Primary title: d_tyiia has lost the title: d_tyiia
+233 - Title given to 1002089 - Primary title: k_aguyinia
+233 - vassal: c_bazimir - Holder 1002089 - Primary title: c_bazimir has lost the title: c_bazimir
+233 - vassal: c_bazimir - Title given to 1002089 - Primary title: k_aguyinia
+233 - vassal: c_sarule - Holder 1002089 - Primary title: c_sarule has lost the title: c_sarule
+233 - vassal: c_sarule - Title given to 1002089 - Primary title: k_aguyinia
+233 - vassal: c_eskail - Holder 1002089 - Primary title: c_eskail has lost the title: c_eskail
+233 - vassal: c_eskail - Title given to 1002089 - Primary title: k_aguyinia
+233 - vassal: c_kavule - Holder 1002089 - Primary title: c_kavule has lost the title: c_kavule
+233 - vassal: c_kavule - Title given to 1002089 - Primary title: k_aguyinia
+241 - Holder 1005397 - Primary title: d_tyiia has lost the title: d_tyiia
+241 - Title given to 1005397 - Primary title: k_aguyinia
+241 - vassal: c_kavule - Setting to vassal of d_rojyi in Validate Realm
+241 - Lost vassal: c_kavule
+241 - vassal: c_eskail - Setting to vassal of d_rojyi in Validate Realm
+241 - Lost vassal: c_eskail
+241 - vassal: c_sarule - Setting to vassal of d_rojyi in Validate Realm
+241 - Lost vassal: c_sarule
+241 - vassal: c_bazimir - Setting to vassal of d_rojyi in Validate Realm
+241 - Lost vassal: c_bazimir
+242 - Destroyed due to flagged problem
+242 - Made independent
+242 - Title destroyed

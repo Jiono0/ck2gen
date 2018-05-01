@@ -1,0 +1,61 @@
+200 - Title given to 1001515
+200 - vassal: d_ketse - Holder 1001515 - Primary title: d_ketse has lost the title: c_lyolina
+200 - sub vassal: d_ketse - Holder 1001515 - Primary title: d_ketse has lost the title: c_lyolina
+200 - sub vassal: c_lyolina - Title given to 1001515 - Primary title: k_areinin
+200 - Holder (1001515) has gained c_lyolina
+200 - Holder (1001515) has gained c_sihazsi
+200 - sub vassal: c_lyolina - Setting to vassal of k_areinin in Validate Realm
+200 - vassal: d_ketse - Lost vassal: c_lyolina
+200 - sub vassal: d_ketse - Lost vassal: c_lyolina
+200 - Gained vassal: c_lyolina
+201 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+201 - Holder (1001515) has gained c_sihazsi
+202 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+202 - Holder (1001515) has gained c_sihazsi
+203 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+203 - Holder (1001515) has gained c_sihazsi
+204 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+204 - Holder (1001515) has gained c_sihazsi
+205 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+205 - Holder (1001515) has gained c_sihazsi
+206 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+206 - Holder (1001515) has gained c_sihazsi
+207 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+207 - Holder (1001515) has gained c_sihazsi
+208 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+208 - Holder (1001515) has gained c_sihazsi
+209 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+209 - Holder (1001515) has gained c_sihazsi
+210 - Holder 1002024 - Primary title: k_areinin has lost the title: c_sihazsi
+217 - vassal: d_ketse - Holder 1002443 - Primary title: d_ketse has lost the title: d_ketse
+217 - sub vassal: d_ketse - Holder 1002443 - Primary title: d_ketse has lost the title: d_ketse
+217 - vassal: d_ketse - Title given to 1002443
+217 - sub vassal: d_ketse - Title given to 1002443
+217 - sub vassal: c_lolir - Holder 1002443 - Primary title: c_lolir has lost the title: c_lolir
+217 - sub vassal: c_lolir - Title given to 1002443 - Primary title: d_ketse
+217 - vassal: d_ketse - Holder (1002443) has gained c_lolir
+217 - sub vassal: d_ketse - Holder (1002443) has gained c_lolir
+217 - sub vassal: c_egnina - Holder 1002443 - Primary title: c_egnina has lost the title: c_egnina
+217 - sub vassal: c_egnina - Title given to 1002443 - Primary title: d_ketse
+217 - vassal: d_ketse - Holder (1002443) has gained c_egnina
+217 - sub vassal: d_ketse - Holder (1002443) has gained c_egnina
+230 - vassal: d_ketse - Holder 1001515 - Primary title: d_ketse has lost the title: d_ketse
+230 - sub vassal: d_ketse - Holder 1001515 - Primary title: d_ketse has lost the title: d_ketse
+230 - vassal: d_ketse - Title given to 1001515 - Primary title: k_areinin
+230 - sub vassal: d_ketse - Title given to 1001515 - Primary title: k_areinin
+230 - Holder (1001515) has gained d_ketse
+230 - sub vassal: c_egnina - Holder 1001515 - Primary title: c_egnina has lost the title: c_egnina
+230 - sub vassal: c_egnina - Title given to 1001515 - Primary title: k_areinin
+230 - Holder (1001515) has gained c_egnina
+230 - sub vassal: c_lolir - Holder 1001515 - Primary title: c_lolir has lost the title: c_lolir
+230 - sub vassal: c_lolir - Title given to 1001515 - Primary title: k_areinin
+230 - Holder (1001515) has gained c_lolir
+246 - Holder 1002021 - Primary title: k_areinin has lost the title: k_areinin
+246 - Title given to 1002021
+246 - vassal: d_ketse - Holder 1002021 - Primary title: d_ketse has lost the title: d_ketse
+246 - sub vassal: d_ketse - Holder 1002021 - Primary title: d_ketse has lost the title: d_ketse
+246 - vassal: d_ketse - Title given to 1002021 - Primary title: k_areinin
+246 - sub vassal: d_ketse - Title given to 1002021 - Primary title: k_areinin
+246 - Holder (1002021) has gained d_ketse
+246 - vassal: c_lyolina - Setting independent in Validate Realm
+246 - s

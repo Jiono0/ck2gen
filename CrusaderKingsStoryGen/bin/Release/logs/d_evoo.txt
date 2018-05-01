@@ -1,0 +1,78 @@
+200 - Title given to 1000838
+200 - vassal: c_enily - Holder 1000838 - Primary title: c_enily has lost the title: c_enily
+200 - sub vassal: c_enily - Holder 1000838 - Primary title: c_enily has lost the title: c_enily
+200 - vassal: c_enily - Title given to 1000838 - Primary title: d_evoo
+200 - sub vassal: c_enily - Title given to 1000838 - Primary title: d_evoo
+200 - Holder (1000838) has gained c_enily
+200 - vassal: c_qumena - Holder 1000838 - Primary title: c_qumena has lost the title: c_qumena
+200 - sub vassal: c_qumena - Holder 1000838 - Primary title: c_qumena has lost the title: c_qumena
+200 - vassal: c_qumena - Title given to 1000838 - Primary title: d_evoo
+200 - sub vassal: c_qumena - Title given to 1000838 - Primary title: d_evoo
+200 - Holder (1000838) has gained c_qumena
+207 - Holder 1000832 - Primary title: d_evoo has lost the title: d_evoo
+207 - Title given to 1000832 - Primary title: k_nugona
+207 - vassal: c_qumena - Holder 1000832 - Primary title: c_qumena has lost the title: c_qumena
+207 - vassal: c_qumena - Title given to 1000832 - Primary title: k_nugona
+207 - vassal: c_enily - Holder 1000832 - Primary title: c_enily has lost the title: c_enily
+207 - vassal: c_enily - Title given to 1000832 - Primary title: k_nugona
+207 - vassal: c_qumena - Given to 1003024 in HandleTitles - Too many duke titles
+207 - vassal: c_qumena - Title given to 1003024
+207 - Title given to 1003024 - Primary title: c_qumena
+207 - vassal: c_qumena - Holder (1003024) has gained d_evoo
+207 - vassal: c_enily - Setting to vassal of k_nugona in Validate Realm
+207 - Lost vassal: c_enily
+207 - Too many dukes, given to dejure: k_nugona
+210 - Holder 1000870 - Primary title: d_evoo has lost the title: d_evoo
+210 - Title given to 1000870 - Primary title: d_wurissa
+210 - vassal: c_qumena - Holder 1000870 - Primary title: c_qumena has lost the title: c_qumena
+210 - vassal: c_qumena - Title given to 1000870 - Primary title: d_dutisey
+211 - Holder 1003352 - Primary title: d_evoo has lost the title: c_anatatti
+211 - Holder 1000832 - Primary title: d_evoo has lost the title: d_dutisey
+211 - Gained vassal: c_ranonza
+211 - Gained vassal: c_tanimir
+211 - Gained vassal: c_dagily
+211 - Holder 1003354 - Primary title: d_evoo has lost the title: c_tarege
+234 - Gained vassal: c_tyiande
+234 - Holder 1003094 - Primary title: d_evoo has lost the title: d_evoo
+234 - Title given to 1003094 - Primary title: d_wurissa
+234 - vassal: c_dagily - Holder 1003094 - Primary title: c_dagily has lost the title: c_dagily
+234 - vassal: c_dagily - Title given to 1003094 - Primary title: d_wurissa
+234 - vassal: c_tanimir - Holder 1003094 - Primary title: c_tanimir has lost the title: c_tanimir
+234 - vassal: c_tanimir - Title given to 1003094 - Primary title: d_wurissa
+234 - vassal: c_ranonza - Holder 1003094 - Primary title: c_ranonza has lost the title: c_ranonza
+234 - vassal: c_ranonza - Title given to 1003094 - Primary title: d_wurissa
+234 - vassal: c_tyiande - Holder 1003094 - Primary title: c_tyiande has lost the title: c_tyiande
+234 - vassal: c_tyiande - Title given to 1003094 - Primary title: d_wurissa
+234 - vassal: c_qumena - Holder 1003094 - Primary title: c_qumena has lost the title: c_qumena
+234 - vassal: c_qumena - Title given to 1003094 - Primary title: d_wurissa
+235 - vassal: c_dagily - Title given to 1002515
+236 - vassal: c_dagily - Holder (1002515) has gained k_dyie
+236 - vassal: c_dagily - Setting to vassal of k_dyie in Validate Realm
+236 - Lost vassal: c_dagily
+254 - Gained vassal: c_tarege
+254 - Holder 1006906 - Primary title: d_evoo has lost the title: d_evoo
+254 - Title given to 1006906 - Primary title: d_wurissa
+254 - vassal: c_tarege - Holder 1006906 - Primary title: c_tarege has lost the title: c_tarege
+254 - vassal: c_tarege - Title given to 1006906 - Primary title: d_wurissa
+254 - vassal: c_qumena - Holder 1006906 - Primary title: c_qumena has lost the title: c_qumena
+254 - vassal: c_qumena - Title given to 1006906 - Primary title: d_wurissa
+254 - vassal: c_tyiande - Holder 1006906 - Primary title: c_tyiande has lost the title: c_tyiande
+254 - vassal: c_tyiande - Title given to 1006906 - Primary title: d_wurissa
+254 - vassal: c_ranonza - Holder 1006906 - Primary title: c_ranonza has lost the title: c_ranonza
+254 - vassal: c_ranonza - Title given to 1006906 - Primary title: d_wurissa
+254 - vassal: c_tanimir - Holder 1006906 - Primary title: c_tanimir has lost the title: c_tanimir
+254 - vassal: c_tanimir - Title given to 1006906 - Primary title: d_wurissa
+262 - Holder (1006906) has gained d_wurissa
+262 - vassal: c_tanimir - Set liege on title creation d_wurissa
+262 - Lost vassal: c_tanimir
+262 - vassal: c_ranonza - Set liege on title creation d_wurissa
+262 - Lost vassal: c_ranonza
+262 - vassal: c_tyiande - Set liege on title creation d_wurissa
+262 - Lost vassal: c_tyiande
+262 - vassal: c_qumena - Set liege on title creation d_wurissa
+262 - Lost vassal: c_qumena
+262 - vassal: c_tarege - Set liege on title creation d_wurissa
+262 - Lost vassal: c_tarege
+263 - Destroyed due to flagged problem
+263 - Made independent
+263 - Title destroyed

@@ -1,0 +1,112 @@
+200 - Title given to 1001000
+200 - vassal: c_asanda - Given to 1001003 via AddCharacterForTitle
+200 - sub vassal: c_asanda - Given to 1001003 via AddCharacterForTitle
+200 - vassal: c_asanda - Holder 1001003 - Primary title: c_asanda has lost the title: c_asanda
+200 - sub vassal: c_asanda - Holder 1001003 - Primary title: c_asanda has lost the title: c_asanda
+200 - vassal: c_asanda - Title given to 1001003
+200 - sub vassal: c_asanda - Title given to 1001003
+200 - vassal: c_qathila - Given to 1001005 via AddCharacterForTitle
+200 - sub vassal: c_qathila - Given to 1001005 via AddCharacterForTitle
+200 - vassal: c_qathila - Holder 1001005 - Primary title: c_qathila has lost the title: c_qathila
+200 - sub vassal: c_qathila - Holder 1001005 - Primary title: c_qathila has lost the title: c_qathila
+200 - vassal: c_qathila - Title given to 1001005
+200 - sub vassal: c_qathila - Title given to 1001005
+200 - vassal: c_agavanda - Holder 1001000 - Primary title: c_agavanda has lost the title: c_agavanda
+200 - sub vassal: c_agavanda - Holder 1001000 - Primary title: c_agavanda has lost the title: c_agavanda
+200 - vassal: c_agavanda - Title given to 1001000 - Primary title: d_agulanda
+200 - sub vassal: c_agavanda - Title given to 1001000 - Primary title: d_agulanda
+200 - Holder (1001000) has gained c_agavanda
+200 - vassal: c_asanda - Holder 1001000 - Primary title: c_asanda has lost the title: c_asanda
+200 - sub vassal: c_asanda - Holder 1001000 - Primary title: c_asanda has lost the title: c_asanda
+200 - vassal: c_asanda - Title given to 1001000 - Primary title: d_agulanda
+200 - sub vassal: c_asanda - Title given to 1001000 - Primary title: d_agulanda
+200 - Holder (1001000) has gained c_asanda
+200 - Holder 1001931 - Primary title: d_agulanda has lost the title: d_agulanda
+200 - Title given to 1001931
+200 - vassal: c_asanda - Holder 1001931 - Primary title: c_asanda has lost the title: c_asanda
+200 - vassal: c_asanda - Title given to 1001931 - Primary title: d_agulanda
+200 - Holder (1001931) has gained c_asanda
+200 - vassal: c_agavanda - Holder 1001931 - Primary title: c_agavanda has lost the title: c_agavanda
+200 - vassal: c_agavanda - Title given to 1001931 - Primary title: d_agulanda
+200 - Holder (1001931) has gained c_agavanda
+207 - Holder 1001598 - Primary title: d_agulanda has lost the title: d_agulanda
+207 - Title given to 1001598 - Primary title: k_lathelen
+207 - vassal: c_asanda - Holder 1001598 - Primary title: c_asanda has lost the title: c_asanda
+207 - vassal: c_asanda - Title given to 1001598 - Primary title: k_lathelen
+207 - vassal: c_agavanda - Holder 1001598 - Primary title: c_agavanda has lost the title: c_agavanda
+207 - vassal: c_agavanda - Title given to 1001598 - Primary title: k_lathelen
+236 - Gained vassal: c_daselen
+236 - Holder 1002290 - Primary title: d_agulanda has lost the title: d_agulanda
+236 - Title given to 1002290 - Primary title: k_lathelen
+236 - vassal: c_agavanda - Holder 1002290 - Primary title: c_agavanda has lost the title: c_agavanda
+236 - vassal: c_agavanda - Title given to 1002290 - Primary title: k_lathelen
+236 - vassal: c_asanda - Holder 1002290 - Primary title: c_asanda has lost the title: c_asanda
+236 - vassal: c_asanda - Title given to 1002290 - Primary title: k_lathelen
+236 - vassal: c_daselen - Holder 1002290 - Primary title: c_daselen has lost the title: c_daselen
+236 - vassal: c_daselen - Title given to 1002290 - Primary title: k_lathelen
+266 - Holder 1005669 - Primary title: d_agulanda has lost the title: d_agulanda
+266 - Title given to 1005669 - Primary title: k_lathelen
+266 - vassal: c_agavanda - Holder 1005669 - Primary title: c_agavanda has lost the title: c_agavanda
+266 - vassal: c_agavanda - Title given to 1005669 - Primary title: k_lathelen
+266 - vassal: c_asanda - Holder 1005669 - Primary title: c_asanda has lost the title: c_asanda
+266 - vassal: c_asanda - Title given to 1005669 - Primary title: k_lathelen
+266 - vassal: c_daselen - Holder 1005669 - Primary title: c_daselen has lost the title: c_daselen
+266 - vassal: c_daselen - Title given to 1005669 - Primary title: k_lathelen
+299 - Holder 1009205 - Primary title: d_agulanda has lost the title: d_agulanda
+299 - Title given to 1009205 - Primary title: k_lathelen
+299 - vassal: c_daselen - Holder 1009205 - Primary title: c_daselen has lost the title: c_daselen
+299 - vassal: c_daselen - Title given to 1009205 - Primary title: k_lathelen
+299 - vassal: c_asanda - Holder 1009205 - Primary title: c_asanda has lost the title: c_asanda
+299 - vassal: c_asanda - Title given to 1009205 - Primary title: k_lathelen
+299 - vassal: c_agavanda - Holder 1009205 - Primary title: c_agavanda has lost the title: c_agavanda
+299 - vassal: c_agavanda - Title given to 1009205 - Primary title: k_lathelen
+331 - Gained vassal: c_qathila
+331 - Gained vassal: c_esonitej
+331 - Holder 1010928 - Primary title: d_agulanda has lost the title: d_agulanda
+331 - Title given to 1010928 - Primary title: k_lathelen
+331 - vassal: c_daselen - Holder 1010928 - Primary title: c_daselen has lost the title: c_daselen
+331 - vassal: c_daselen - Title given to 1010928 - Primary title: k_lathelen
+331 - vassal: c_asanda - Holder 1010928 - Primary title: c_asanda has lost the title: c_asanda
+331 - vassal: c_asanda - Title given to 1010928 - Primary title: k_lathelen
+331 - vassal: c_agavanda - Holder 1010928 - Primary title: c_agavanda has lost the title: c_agavanda
+331 - vassal: c_agavanda - Title given to 1010928 - Primary title: k_lathelen
+331 - vassal: c_esonitej - Holder 1010928 - Primary title: c_esonitej has lost the title: c_esonitej
+331 - vassal: c_esonitej - Title given to 1010928 - Primary title: k_lathelen
+331 - vassal: c_qathila - Holder 1010928 - Primary title: c_qathila has lost the title: c_qathila
+331 - vassal: c_qathila - Title given to 1010928 - Primary title: k_lathelen
+356 - Holder 1013386 - Primary title: d_agulanda has lost the title: d_agulanda
+356 - Title given to 1013386 - Primary title: k_lathelen
+356 - vassal: c_qathila - Holder 1013386 - Primary title: c_qathila has lost the title: c_qathila
+356 - vassal: c_qathila - Title given to 1013386 - Primary title: k_lathelen
+356 - vassal: c_esonitej - Holder 1013386 - Primary title: c_esonitej has lost the title: c_esonitej
+356 - vassal: c_esonitej - Title given to 1013386 - Primary title: k_lathelen
+356 - vassal: c_agavanda - Holder 1013386 - Primary title: c_agavanda has lost the title: c_agavanda
+356 - vassal: c_agavanda - Title given to 1013386 - Primary title: k_lathelen
+356 - vassal: c_asanda - Holder 1013386 - Primary title: c_asanda has lost the title: c_asanda
+356 - vassal: c_asanda - Title given to 1013386 - Primary title: k_lathelen
+356 - vassal: c_daselen - Holder 1013386 - Primary title: c_daselen has lost the title: c_daselen
+356 - vassal: c_daselen - Title given to 1013386 - Primary title: k_lathelen
+394 - Holder 1017722 - Primary title: d_agulanda has lost the title: d_agulanda
+394 - Title given to 1017722 - Primary title: k_lathelen
+394 - vassal: c_qathila - Holder 1017722 - Primary title: c_qathila has lost the title: c_qathila
+394 - vassal: c_qathila - Title given to 1017722 - Primary title: k_lathelen
+394 - vassal: c_esonitej - Holder 1017722 - Primary title: c_esonitej has lost the title: c_esonitej
+394 - vassal: c_esonitej - Title given to 1017722 - Primary title: k_lathelen
+394 - vassal: c_agavanda - Holder 1017722 - Primary title: c_agavanda has lost the title: c_agavanda
+394 - vassal: c_agavanda - Title given to 1017722 - Primary title: k_lathelen
+394 - vassal: c_asanda - Holder 1017722 - Primary title: c_asanda has lost the title: c_asanda
+394 - vassal: c_asanda - Title given to 1017722 - Primary title: k_lathelen
+394 - vassal: c_daselen - Holder 1017722 - Primary title: c_daselen has lost the title: c_daselen
+394 - vassal: c_daselen - Title given to 1017722 - Primary title: k_lathelen
+397 - Holder 1017913 - Primary title: d_agulanda has lost the title: d_agulanda
+397 - Title given to 1017913 - Primary title: k_lathelen
+397 - vassal: c_qathila - Holder 1017913 - Primary title: c_qathila has lost the title: c_qathila
+397 - vassal: c_qathila - Title given to 1017913 - Primary title: k_lathelen
+397 - vassal: c_esonitej - Holder 1017913 - Primary title: c_esonitej has lost the title: c_esonitej
+397 - vassal: c_esonitej - Title given to 1017913 - Primary title: k_lathelen
+397 - vassal: c_agavanda - Holder 1017913 - Primary title: c_agavanda has lost the title: c_agavanda
+397 - vassal: c_agavanda - Title given to 1017913 - Primary title: k_lathelen
+397 - vassal: c_asanda - Holder 1017913 - Primary title: c_asanda has lost the title: c_asanda
+397 - vassal: c_asanda - Title given to 1017913 - Primary title: k_lathelen
+397 - vassal: c_daselen - Holder 1017913 - Primary title: c_daselen has lost the title: c_daselen
+397 - vassal: c_daselen - Title given to 1017913 - Primary title: k_lathelen

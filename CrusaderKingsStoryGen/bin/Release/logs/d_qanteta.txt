@@ -1,0 +1,35 @@
+200 - Title given to 1000453
+200 - vassal: c_talunes - Holder 1000453 - Primary title: c_talunes has lost the title: c_talunes
+200 - sub vassal: c_talunes - Holder 1000453 - Primary title: c_talunes has lost the title: c_talunes
+200 - vassal: c_talunes - Title given to 1000453 - Primary title: d_qanteta
+200 - sub vassal: c_talunes - Title given to 1000453 - Primary title: d_qanteta
+200 - Holder (1000453) has gained c_talunes
+200 - vassal: c_silek - Holder 1000453 - Primary title: c_silek has lost the title: c_silek
+200 - sub vassal: c_silek - Holder 1000453 - Primary title: c_silek has lost the title: c_silek
+200 - vassal: c_silek - Title given to 1000453 - Primary title: d_qanteta
+200 - sub vassal: c_silek - Title given to 1000453 - Primary title: d_qanteta
+200 - Holder (1000453) has gained c_silek
+200 - vassal: c_tomati - Holder 1000453 - Primary title: c_tomati has lost the title: c_tomati
+200 - sub vassal: c_tomati - Holder 1000453 - Primary title: c_tomati has lost the title: c_tomati
+200 - vassal: c_tomati - Title given to 1000453 - Primary title: d_qanteta
+200 - sub vassal: c_tomati - Title given to 1000453 - Primary title: d_qanteta
+200 - Holder (1000453) has gained c_tomati
+201 - Holder 1001548 - Primary title: d_qanteta has lost the title: d_qanteta
+201 - Title given to 1001548 - Primary title: k_raitulf
+201 - vassal: c_tomati - Holder 1001548 - Primary title: c_tomati has lost the title: c_tomati
+201 - vassal: c_tomati - Title given to 1001548 - Primary title: k_raitulf
+201 - vassal: c_silek - Holder 1001548 - Primary title: c_silek has lost the title: c_silek
+201 - vassal: c_silek - Title given to 1001548 - Primary title: k_raitulf
+201 - vassal: c_talunes - Holder 1001548 - Primary title: c_talunes has lost the title: c_talunes
+201 - vassal: c_talunes - Title given to 1001548 - Primary title: k_raitulf
+222 - Holder 1002668 - Primary title: d_qanteta has lost the title: d_qanteta
+222 - Title given to 1002668 - Primary title: k_raitulf
+222 - vassal: c_talunes - Setting to vassal of d_tareetha in Validate Realm
+222 - Lost vassal: c_talunes
+222 - vassal: c_silek - Setting to vassal of d_tareetha in Validate Realm
+222 - Lost vassal: c_silek
+222 - vassal: c_tomati - Setting to vassal of d_tareetha in Validate Realm
+222 - Lost vassal: c_tomati
+223 - Destroyed due to flagged problem
+223 - Made independent
+223 - Title destroyed

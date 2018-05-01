@@ -1,0 +1,72 @@
+200 - Title given to 1000975
+200 - vassal: c_kolelen - Given to 1000979 via AddCharacterForTitle
+200 - sub vassal: c_kolelen - Given to 1000979 via AddCharacterForTitle
+200 - vassal: c_kolelen - Holder 1000979 - Primary title: c_kolelen has lost the title: c_kolelen
+200 - sub vassal: c_kolelen - Holder 1000979 - Primary title: c_kolelen has lost the title: c_kolelen
+200 - vassal: c_kolelen - Title given to 1000979
+200 - sub vassal: c_kolelen - Title given to 1000979
+200 - vassal: c_nulika - Holder 1000975 - Primary title: c_nulika has lost the title: c_nulika
+200 - sub vassal: c_nulika - Holder 1000975 - Primary title: c_nulika has lost the title: c_nulika
+200 - vassal: c_nulika - Title given to 1000975 - Primary title: d_tasya
+200 - sub vassal: c_nulika - Title given to 1000975 - Primary title: d_tasya
+200 - Holder (1000975) has gained c_nulika
+200 - vassal: c_kulika - Holder 1000975 - Primary title: c_kulika has lost the title: c_kulika
+200 - sub vassal: c_kulika - Holder 1000975 - Primary title: c_kulika has lost the title: c_kulika
+200 - vassal: c_kulika - Title given to 1000975 - Primary title: d_tasya
+200 - sub vassal: c_kulika - Title given to 1000975 - Primary title: d_tasya
+200 - Holder (1000975) has gained c_kulika
+200 - vassal: c_kolelen - Holder 1000975 - Primary title: c_kolelen has lost the title: c_kolelen
+200 - sub vassal: c_kolelen - Holder 1000975 - Primary title: c_kolelen has lost the title: c_kolelen
+200 - vassal: c_kolelen - Title given to 1000975 - Primary title: d_tasya
+200 - sub vassal: c_kolelen - Title given to 1000975 - Primary title: d_tasya
+200 - Holder (1000975) has gained c_kolelen
+200 - vassal: c_kulanda - Title given to 1000975 - Primary title: d_tasya
+200 - Holder (1000975) has gained c_kulanda
+235 - Holder 1001925 - Primary title: d_tasya has lost the title: d_tasya
+235 - Title given to 1001925
+235 - vassal: c_nulika - Holder 1001925 - Primary title: c_nulika has lost the title: c_nulika
+235 - vassal: c_nulika - Title given to 1001925 - Primary title: d_tasya
+235 - Holder (1001925) has gained c_nulika
+235 - vassal: c_kulika - Holder 1001925 - Primary title: c_kulika has lost the title: c_kulika
+235 - vassal: c_kulika - Title given to 1001925 - Primary title: d_tasya
+235 - Holder (1001925) has gained c_kulika
+235 - vassal: c_kolelen - Holder 1001925 - Primary title: c_kolelen has lost the title: c_kolelen
+235 - vassal: c_kolelen - Title given to 1001925 - Primary title: d_tasya
+235 - Holder (1001925) has gained c_kolelen
+235 - vassal: c_kulanda - Holder 1001925 - Primary title: c_kulanda has lost the title: c_kulanda
+235 - vassal: c_kulanda - Title given to 1001925 - Primary title: d_tasya
+235 - Holder (1001925) has gained c_kulanda
+254 - Holder 1006499 - Primary title: d_tasya has lost the title: d_tasya
+254 - Title given to 1006499 - Primary title: k_solagnar
+254 - vassal: c_kulanda - Holder 1006499 - Primary title: c_kulanda has lost the title: c_kulanda
+254 - vassal: c_kulanda - Title given to 1006499 - Primary title: k_solagnar
+254 - vassal: c_kolelen - Holder 1006499 - Primary title: c_kolelen has lost the title: c_kolelen
+254 - vassal: c_kolelen - Title given to 1006499 - Primary title: k_solagnar
+254 - vassal: c_kulika - Holder 1006499 - Primary title: c_kulika has lost the title: c_kulika
+254 - vassal: c_kulika - Title given to 1006499 - Primary title: k_solagnar
+254 - vassal: c_nulika - Holder 1006499 - Primary title: c_nulika has lost the title: c_nulika
+254 - vassal: c_nulika - Title given to 1006499 - Primary title: k_solagnar
+254 - vassal: c_kulanda - Title given to 1006924
+254 - vassal: c_nulika - Title given to 1006925
+254 - vassal: c_kulika - Title given to 1006926
+254 - vassal: c_kolelen - Title given to 1006927
+281 - Holder 1009204 - Primary title: d_tasya has lost the title: d_tasya
+281 - Title given to 1009204 - Primary title: k_solagnar
+303 - vassal: c_nulika - Given to 1011079 in HandleTitles - Too many duke titles
+303 - vassal: c_nulika - Holder 1011079 - Primary title: c_nulika has lost the title: c_nulika
+303 - vassal: c_nulika - Title given to 1011079
+303 - Title given to 1011079 - Primary title: c_nulika
+303 - vassal: c_nulika - Holder (1011079) has gained d_tasya
+303 - Too many dukes, given to dejure: k_solagnar
+335 - Holder (1011079) has gained k_solagnar
+336 - vassal: c_nulika - Title given to 1013611
+349 - Holder 1011139 - Primary title: d_tasya has lost the title: d_tasya
+349 - Title given to 1011139 - Primary title: k_solagnar
+354 - Holder 1014709 - Primary title: d_tasya has lost the title: d_tasya
+354 - Title given to 1014709 - Primary title: k_solagnar
+400 - vassal: c_kulanda - Holder 1014709 - Primary title: c_kulanda has lost the title: c_kulanda
+400 - vassal: c_kulanda - Title given to 1014709 - Primary title: k_solagnar
+400 - vassal: c_kulika - Holder 1014709 - Primary title: c_kulika has lost the title: c_kulika
+400 - vassal: c_kulika - Title given to 1014709 - Primary title: k_solagnar
+400 - vassal: c_kolelen - Holder 1014709 - Primary title: c_kolelen has lost the title: c_kolelen
+400 - vassal: c_kolelen - Title given to 1014709 - Primary title: k_solagnar

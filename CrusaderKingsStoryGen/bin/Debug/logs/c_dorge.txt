@@ -1,0 +1,75 @@
+200 - Title given to 1000004 - Primary title: c_rainala
+200 - Given to 1000265 via AddCharacterForTitle
+200 - Title given to 1000265
+200 - Holder 1000264 - Primary title: c_dorge has lost the title: c_dorge
+200 - Title given to 1000264 - Primary title: d_anirarma
+200 - Holder 1000254 - Primary title: c_dorge has lost the title: c_dorge
+200 - Title given to 1000254 - Primary title: d_eniraul
+216 - Given to 1003462 in HandleTitles - Too many duke titles
+216 - Title given to 1003462
+216 - Holder (1003462) has gained d_anirarma
+226 - Holder 1003584 - Primary title: c_dorge has lost the title: c_dorge
+226 - Title given to 1003584 - Primary title: d_anirarma
+229 - Holder 1003912 - Primary title: c_dorge has lost the title: c_dorge
+229 - Title given to 1003912 - Primary title: d_anirarma
+267 - Holder 1005071 - Primary title: c_dorge has lost the title: c_dorge
+267 - Title given to 1005071 - Primary title: d_rara
+291 - Set liege on title creation d_rara
+292 - Set liege on title creation d_anirarma
+292 - Setting independent due to liege destruction
+292 - Made independent
+293 - sub vassal: c_sunilen - Setting independent due to liege destruction
+293 - sub vassal: c_sunilen - Made independent
+303 - Holder 1007975 - Primary title: c_dorge has lost the title: c_dorge
+303 - Title given to 1007975
+303 - Holder (1007975) has gained c_tyawirma
+303 - Holder (1007975) has gained c_kired
+303 - Holder (1007975) has gained c_nemili
+303 - Holder (1007975) has gained c_qienili
+303 - Holder (1007975) has gained c_sunilen
+304 - Holder (1007975) has gained d_rara
+304 - Set liege on title creation d_rara
+304 - sub vassal: c_kired - Setting independent due to liege destruction
+304 - sub vassal: c_kired - Made independent
+304 - sub vassal: c_nemili - Setting independent due to liege destruction
+304 - sub vassal: c_nemili - Made independent
+304 - sub vassal: c_qienili - Setting independent due to liege destruction
+304 - sub vassal: c_qienili - Made independent
+304 - sub vassal: c_tyawirma - Setting independent due to liege destruction
+304 - sub vassal: c_tyawirma - Made independent
+304 - Setting independent due to liege destruction
+304 - sub vassal: c_dorge - Setting independent due to liege destruction
+304 - Made independent
+304 - sub vassal: c_dorge - Made independent
+304 - sub vassal: c_sunilen - Setting independent due to liege destruction
+304 - sub vassal: c_sunilen - Made independent
+318 - Holder (1007975) has gained d_rara
+318 - Set liege on title creation d_rara
+318 - sub vassal: c_sunilen - Setting independent due to liege destruction
+318 - sub vassal: c_sunilen - Made independent
+318 - sub vassal: c_qienili - Setting independent due to liege destruction
+318 - sub vassal: c_qienili - Made independent
+318 - sub vassal: c_nemili - Setting independent due to liege destruction
+318 - sub vassal: c_nemili - Made independent
+318 - sub vassal: c_kired - Setting independent due to liege destruction
+318 - sub vassal: c_kired - Made independent
+318 - sub vassal: c_tyawirma - Setting independent due to liege destruction
+318 - sub vassal: c_tyawirma - Made independent
+318 - Setting independent due to liege destruction
+318 - sub vassal: c_dorge - Setting independent due to liege destruction
+318 - Made independent
+318 - sub vassal: c_dorge - Made independent
+322 - Holder (1007975) has gained d_anirarma
+322 - Set liege on title creation d_anirarma
+322 - sub vassal: c_qienili - Setting independent due to liege destruction
+322 - sub vassal: c_qienili - Made independent
+322 - sub vassal: c_nemili - Setting independent due to liege destruction
+322 - sub vassal: c_nemili - Made independent
+322 - sub vassal: c_kired - Setting independent due to liege destruction
+322 - sub vassal: c_kired - Made independent
+322 - sub vassal: c_tyawirma - Setting independent due to liege destruction
+322 - sub vassal: c_tyawirma - Made independent
+322 - Setting independent due to liege destruction
+322 - sub vassal: c_dorge - Setting independent due to liege destruction
+322 - Made independent
+322 - sub vassal: c

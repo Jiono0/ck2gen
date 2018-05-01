@@ -1,0 +1,54 @@
+200 - Title given to 1001020
+200 - vassal: c_betli - Given to 1001023 via AddCharacterForTitle
+200 - sub vassal: c_betli - Given to 1001023 via AddCharacterForTitle
+200 - vassal: c_betli - Holder 1001023 - Primary title: c_betli has lost the title: c_betli
+200 - sub vassal: c_betli - Holder 1001023 - Primary title: c_betli has lost the title: c_betli
+200 - vassal: c_betli - Title given to 1001023
+200 - sub vassal: c_betli - Title given to 1001023
+200 - vassal: c_tavunas - Holder 1001020 - Primary title: c_tavunas has lost the title: c_tavunas
+200 - sub vassal: c_tavunas - Holder 1001020 - Primary title: c_tavunas has lost the title: c_tavunas
+200 - vassal: c_tavunas - Title given to 1001020 - Primary title: d_eshahara
+200 - sub vassal: c_tavunas - Title given to 1001020 - Primary title: d_eshahara
+200 - Holder (1001020) has gained c_tavunas
+200 - vassal: c_betli - Holder 1001020 - Primary title: c_betli has lost the title: c_betli
+200 - sub vassal: c_betli - Holder 1001020 - Primary title: c_betli has lost the title: c_betli
+200 - vassal: c_betli - Title given to 1001020 - Primary title: d_eshahara
+200 - sub vassal: c_betli - Title given to 1001020 - Primary title: d_eshahara
+200 - Holder (1001020) has gained c_betli
+200 - Holder 1001500 - Primary title: d_eshahara has lost the title: d_eshahara
+200 - Title given to 1001500 - Primary title: k_lilare
+200 - vassal: c_tavunas - Holder 1001500 - Primary title: c_tavunas has lost the title: c_tavunas
+200 - vassal: c_tavunas - Title given to 1001500 - Primary title: k_lilare
+201 - Holder 1002159 - Primary title: d_eshahara has lost the title: d_eshahara
+201 - Title given to 1002159 - Primary title: k_lilare
+201 - vassal: c_tavunas - Holder 1002159 - Primary title: c_tavunas has lost the title: c_tavunas
+201 - vassal: c_tavunas - Title given to 1002159 - Primary title: k_lilare
+256 - Holder 1003848 - Primary title: d_eshahara has lost the title: d_eshahara
+256 - Title given to 1003848 - Primary title: k_lilare
+256 - vassal: c_tavunas - Holder 1003848 - Primary title: c_tavunas has lost the title: c_tavunas
+256 - vassal: c_tavunas - Title given to 1003848 - Primary title: k_lilare
+267 - Gained vassal: c_wamaydum
+267 - Gained vassal: c_kisamin
+267 - Gained vassal: c_donona
+267 - Gained vassal: c_etetlare
+267 - Holder 1007241 - Primary title: d_eshahara has lost the title: d_eshahara
+267 - Title given to 1007241 - Primary title: k_lilare
+267 - vassal: c_etetlare - Holder 1007241 - Primary title: c_etetlare has lost the title: c_etetlare
+267 - vassal: c_etetlare - Title given to 1007241 - Primary title: k_lilare
+267 - vassal: c_donona - Holder 1007241 - Primary title: c_donona has lost the title: c_donona
+267 - vassal: c_donona - Title given to 1007241 - Primary title: k_lilare
+267 - vassal: c_kisamin - Holder 1007241 - Primary title: c_kisamin has lost the title: c_kisamin
+267 - vassal: c_kisamin - Title given to 1007241 - Primary title: k_lilare
+267 - vassal: c_wamaydum - Holder 1007241 - Primary title: c_wamaydum has lost the title: c_wamaydum
+267 - vassal: c_wamaydum - Title given to 1007241 - Primary title: k_lilare
+267 - vassal: c_tavunas - Holder 1007241 - Primary title: c_tavunas has lost the title: c_tavunas
+267 - vassal: c_tavunas - Title given to 1007241 - Primary title: k_lilare
+288 - Holder 1007483 - Primary title: d_eshahara has lost the title: d_eshahara
+288 - Title given to 1007483 - Primary title: k_lilare
+288 - vassal: c_tavunas - Holder 1007483 - Primary title: c_tavunas has lost the title: c_tavunas
+288 - vassal: c_tavunas - Title given to 1007483 - Primary title: k_lilare
+288 - vassal: c_wamaydum - Holder 1007483 - Primary title: c_wamaydum has lost the title: c_wamaydum
+288 - vassal: c_wamaydum - Title given to 1007483 - Primary title: k_lilare
+288 - vassal: c_kisamin - Holder 1007483 - Primary title: c_kisamin has lost the title: c_kisamin
+288 - vassal: c_kisamin - Title given to 1007483 - Primary title: k_lilare
+288 - vassal: c_donona - Holder 1007483 - Primary title: c_donona has lost the title: c_donona

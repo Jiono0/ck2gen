@@ -1,0 +1,484 @@
+200 - Title given to 1001511
+200 - vassal: d_kunana - Holder 1001511 - Primary title: d_kunana has lost the title: d_kunana
+200 - sub vassal: d_kunana - Holder 1001511 - Primary title: d_kunana has lost the title: d_kunana
+200 - vassal: d_kunana - Title given to 1001511 - Primary title: k_tigurg
+200 - sub vassal: d_kunana - Title given to 1001511 - Primary title: k_tigurg
+200 - Holder (1001511) has gained d_kunana
+200 - sub vassal: c_tabdalla - Holder 1001511 - Primary title: c_tabdalla has lost the title: c_tabdalla
+200 - sub vassal: c_tabdalla - Title given to 1001511 - Primary title: k_tigurg
+200 - Holder (1001511) has gained c_tabdalla
+200 - vassal: d_sedag - Holder 1001511 - Primary title: d_sedag has lost the title: d_sedag
+200 - sub vassal: d_sedag - Holder 1001511 - Primary title: d_sedag has lost the title: d_sedag
+200 - vassal: d_sedag - Title given to 1001511 - Primary title: k_tigurg
+200 - sub vassal: d_sedag - Title given to 1001511 - Primary title: k_tigurg
+200 - Holder (1001511) has gained d_sedag
+200 - sub vassal: c_tomon - Holder 1001511 - Primary title: c_tomon has lost the title: c_tomon
+200 - sub vassal: c_tomon - Title given to 1001511 - Primary title: k_tigurg
+200 - Holder (1001511) has gained c_tomon
+200 - sub vassal: c_ehjagay - Holder 1001511 - Primary title: c_ehjagay has lost the title: c_ehjagay
+200 - sub vassal: c_ehjagay - Title given to 1001511 - Primary title: k_tigurg
+200 - Holder (1001511) has gained c_ehjagay
+200 - sub vassal: c_egeruhan - Holder 1001511 - Primary title: c_egeruhan has lost the title: c_egeruhan
+200 - sub vassal: c_egeruhan - Title given to 1001511 - Primary title: k_tigurg
+200 - Holder (1001511) has gained c_egeruhan
+200 - sub vassal: c_tedalla - Holder 1001511 - Primary title: c_tedalla has lost the title: c_tedalla
+200 - sub vassal: c_tedalla - Title given to 1001511 - Primary title: k_tigurg
+200 - Holder (1001511) has gained c_tedalla
+200 - Setting independent due to liege destruction
+201 - Holder (1001511) has gained c_lidagay
+201 - Holder 1002162 - Primary title: k_tigurg has lost the title: c_tomon
+201 - sub vassal: c_tomon - Title given to 1002162
+201 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+202 - Holder (1001511) has gained c_lidagay
+202 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+203 - Holder (1001511) has gained c_lidagay
+203 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+204 - Holder (1001511) has gained c_lidagay
+204 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+205 - Holder (1001511) has gained c_lidagay
+205 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+206 - Holder (1001511) has gained c_lidagay
+206 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+207 - Holder (1001511) has gained c_lidagay
+207 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+207 - Holder 1002163 - Primary title: k_tigurg has lost the title: k_tigurg
+207 - Title given to 1002163
+207 - vassal: d_sedag - Holder 1002163 - Primary title: d_sedag has lost the title: d_sedag
+207 - sub vassal: d_sedag - Holder 1002163 - Primary title: d_sedag has lost the title: d_sedag
+207 - vassal: d_sedag - Title given to 1002163 - Primary title: k_tigurg
+207 - sub vassal: d_sedag - Title given to 1002163 - Primary title: k_tigurg
+207 - Holder (1002163) has gained d_sedag
+207 - sub vassal: c_tedalla - Setting to vassal of d_kunana in Validate Realm
+207 - vassal: d_sedag - Lost vassal: c_tedalla
+207 - sub vassal: d_sedag - Lost vassal: c_tedalla
+207 - sub vassal: c_egeruhan - Setting to vassal of d_kunana in Validate Realm
+207 - vassal: d_sedag - Lost vassal: c_egeruhan
+207 - sub vassal: d_sedag - Lost vassal: c_egeruhan
+207 - sub vassal: c_ehjagay - Setting to vassal of d_kunana in Validate Realm
+207 - vassal: d_sedag - Lost vassal: c_ehjagay
+207 - sub vassal: d_sedag - Lost vassal: c_ehjagay
+207 - vassal: d_kunana - Gained vassal: c_ehjagay
+207 - sub vassal: d_kunana - Gained vassal: c_ehjagay
+207 - vassal: d_kunana - Gained vassal: c_egeruhan
+207 - sub vassal: d_kunana - Gained vassal: c_egeruhan
+207 - vassal: d_kunana - Gained vassal: c_tedalla
+207 - sub vassal: d_kunana - Gained vassal: c_tedalla
+207 - vassal: d_kunana - Holder 1002163 - Primary title: d_kunana has lost the title: d_kunana
+207 - sub vassal: d_kunana - Holder 1002163 - Primary title: d_kunana has lost the title: d_kunana
+207 - vassal: d_kunana - Title given to 1002163 - Primary title: k_tigurg
+207 - sub vassal: d_kunana - Title given to 1002163 - Primary title: k_tigurg
+207 - Holder (1002163) has gained d_kunana
+207 - sub vassal: c_tedalla - Holder 1002163 - Primary title: c_tedalla has lost the title: c_tedalla
+207 - sub vassal: c_tedalla - Title given to 1002163 - Primary title: k_tigurg
+207 - Holder (1002163) has gained c_tedalla
+207 - sub vassal: c_egeruhan - Holder 1002163 - Primary title: c_egeruhan has lost the title: c_egeruhan
+207 - sub vassal: c_egeruhan - Title given to 1002163 - Primary title: k_tigurg
+207 - Holder (1002163) has gained c_egeruhan
+207 - sub vassal: c_ehjagay - Holder 1002163 - Primary title: c_ehjagay has lost the title: c_ehjagay
+207 - sub vassal: c_ehjagay - Title given to 1002163 - Primary title: k_tigurg
+207 - Holder (1002163) has gained c_ehjagay
+207 - sub vassal: c_tabdalla - Holder 1002163 - Primary title: c_tabdalla has lost the title: c_tabdalla
+207 - sub vassal: c_tabdalla - Title given to 1002163 - Primary title: k_tigurg
+207 - Holder (1002163) has gained c_tabdalla
+208 - Holder (1002163) has gained c_lidagay
+208 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+209 - Holder (1002163) has gained c_lidagay
+209 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+210 - Holder (1002163) has gained c_lidagay
+210 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+211 - Holder (1002163) has gained c_lidagay
+211 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+212 - Holder (1002163) has gained c_lidagay
+212 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+213 - Holder (1002163) has gained c_lidagay
+213 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+214 - Holder (1002163) has gained c_lidagay
+214 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+215 - Holder (1002163) has gained c_lidagay
+215 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+216 - Holder (1002163) has gained c_lidagay
+216 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+217 - Holder (1002163) has gained c_lidagay
+217 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+218 - Holder (1002163) has gained c_lidagay
+218 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+219 - Holder (1002163) has gained c_lidagay
+219 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+220 - Holder (1002163) has gained c_lidagay
+220 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+221 - Holder (1002163) has gained c_lidagay
+221 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+222 - Holder (1002163) has gained c_lidagay
+222 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+223 - Holder (1002163) has gained c_lidagay
+223 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+224 - Holder (1002163) has gained c_lidagay
+224 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+225 - Holder (1002163) has gained c_lidagay
+225 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+226 - Holder (1002163) has gained c_lidagay
+226 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+227 - Holder (1002163) has gained c_lidagay
+227 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+228 - Holder (1002163) has gained c_lidagay
+228 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+229 - Holder (1002163) has gained c_lidagay
+229 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+229 - Holder 1003546 - Primary title: k_tigurg has lost the title: k_tigurg
+229 - Title given to 1003546
+229 - vassal: d_kunana - Holder 1003546 - Primary title: d_kunana has lost the title: d_kunana
+229 - sub vassal: d_kunana - Holder 1003546 - Primary title: d_kunana has lost the title: d_kunana
+229 - vassal: d_kunana - Title given to 1003546 - Primary title: k_tigurg
+229 - sub vassal: d_kunana - Title given to 1003546 - Primary title: k_tigurg
+229 - Holder (1003546) has gained d_kunana
+229 - sub vassal: c_tabdalla - Setting to vassal of d_sedag in Validate Realm
+229 - vassal: d_kunana - Lost vassal: c_tabdalla
+229 - sub vassal: d_kunana - Lost vassal: c_tabdalla
+229 - sub vassal: c_ehjagay - Setting to vassal of d_sedag in Validate Realm
+229 - vassal: d_kunana - Lost vassal: c_ehjagay
+229 - sub vassal: d_kunana - Lost vassal: c_ehjagay
+229 - sub vassal: c_egeruhan - Setting to vassal of d_sedag in Validate Realm
+229 - vassal: d_kunana - Lost vassal: c_egeruhan
+229 - sub vassal: d_kunana - Lost vassal: c_egeruhan
+229 - sub vassal: c_tedalla - Setting to vassal of d_sedag in Validate Realm
+229 - vassal: d_kunana - Lost vassal: c_tedalla
+229 - sub vassal: d_kunana - Lost vassal: c_tedalla
+229 - vassal: d_sedag - Gained vassal: c_tedalla
+229 - sub vassal: d_sedag - Gained vassal: c_tedalla
+229 - vassal: d_sedag - Gained vassal: c_egeruhan
+229 - sub vassal: d_sedag - Gained vassal: c_egeruhan
+229 - vassal: d_sedag - Gained vassal: c_ehjagay
+229 - sub vassal: d_sedag - Gained vassal: c_ehjagay
+229 - vassal: d_sedag - Gained vassal: c_tabdalla
+229 - sub vassal: d_sedag - Gained vassal: c_tabdalla
+229 - vassal: d_sedag - Holder 1003546 - Primary title: d_sedag has lost the title: d_sedag
+229 - sub vassal: d_sedag - Holder 1003546 - Primary title: d_sedag has lost the title: d_sedag
+229 - vassal: d_sedag - Title given to 1003546 - Primary title: k_tigurg
+229 - sub vassal: d_sedag - Title given to 1003546 - Primary title: k_tigurg
+229 - Holder (1003546) has gained d_sedag
+229 - sub vassal: c_tabdalla - Holder 1003546 - Primary title: c_tabdalla has lost the title: c_tabdalla
+229 - sub vassal: c_tabdalla - Title given to 1003546 - Primary title: k_tigurg
+229 - Holder (1003546) has gained c_tabdalla
+229 - sub vassal: c_ehjagay - Holder 1003546 - Primary title: c_ehjagay has lost the title: c_ehjagay
+229 - sub vassal: c_ehjagay - Title given to 1003546 - Primary title: k_tigurg
+229 - Holder (1003546) has gained c_ehjagay
+229 - sub vassal: c_egeruhan - Holder 1003546 - Primary title: c_egeruhan has lost the title: c_egeruhan
+229 - sub vassal: c_egeruhan - Title given to 1003546 - Primary title: k_tigurg
+229 - Holder (1003546) has gained c_egeruhan
+229 - sub vassal: c_tedalla - Holder 1003546 - Primary title: c_tedalla has lost the title: c_tedalla
+229 - sub vassal: c_tedalla - Title given to 1003546 - Primary title: k_tigurg
+229 - Holder (1003546) has gained c_tedalla
+230 - Holder (1003546) has gained c_lidagay
+230 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+231 - Holder (1003546) has gained c_lidagay
+231 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+232 - Holder (1003546) has gained c_lidagay
+232 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+233 - Holder (1003546) has gained c_lidagay
+233 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+234 - Holder (1003546) has gained c_lidagay
+234 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+235 - Holder (1003546) has gained c_lidagay
+235 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+236 - Holder (1003546) has gained c_lidagay
+236 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+237 - Holder (1003546) has gained c_lidagay
+237 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+238 - Holder (1003546) has gained c_lidagay
+238 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+239 - Holder (1003546) has gained c_lidagay
+239 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+240 - Holder (1003546) has gained c_lidagay
+240 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+241 - Holder (1003546) has gained c_lidagay
+241 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+242 - vassal: d_esigana - Holder 1002682 - Primary title: d_esigana has lost the title: d_esigana
+242 - sub vassal: d_esigana - Holder 1002682 - Primary title: d_esigana has lost the title: d_esigana
+242 - vassal: d_esigana - Title given to 1002682
+242 - sub vassal: d_esigana - Title given to 1002682
+242 - sub vassal: c_tarew - Holder 1002682 - Primary title: c_tarew has lost the title: c_tarew
+242 - sub vassal: c_tarew - Title given to 1002682 - Primary title: d_esigana
+242 - vassal: d_esigana - Holder (1002682) has gained c_tarew
+242 - sub vassal: d_esigana - Holder (1002682) has gained c_tarew
+242 - sub vassal: c_keliza - Holder 1002682 - Primary title: c_keliza has lost the title: c_keliza
+242 - sub vassal: c_keliza - Title given to 1002682 - Primary title: d_esigana
+242 - vassal: d_esigana - Holder (1002682) has gained c_keliza
+242 - sub vassal: d_esigana - Holder (1002682) has gained c_keliza
+242 - sub vassal: c_ledard - Holder 1002682 - Primary title: c_ledard has lost the title: c_ledard
+242 - sub vassal: c_ledard - Title given to 1002682 - Primary title: d_esigana
+242 - vassal: d_esigana - Holder (1002682) has gained c_ledard
+242 - sub vassal: d_esigana - Holder (1002682) has gained c_ledard
+242 - Holder (1003546) has gained c_lidagay
+242 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+243 - Holder (1003546) has gained c_lidagay
+243 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+244 - Holder (1003546) has gained c_lidagay
+244 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+245 - Holder (1003546) has gained c_lidagay
+245 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+246 - Holder (1003546) has gained c_lidagay
+246 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+247 - Holder (1003546) has gained c_lidagay
+247 - Holder 1001510 - Primary title: k_tigurg has lost the title: c_lidagay
+247 - Holder 1002682 - Primary title: k_tigurg has lost the title: k_tigurg
+247 - Title given to 1002682 - Primary title: d_esigana
+247 - vassal: d_esigana - Holder (1002682) has gained k_tigurg
+247 - sub vassal: d_esigana - Holder (1002682) has gained k_tigurg
+247 - vassal: d_sedag - Holder 1002682 - Primary title: d_sedag has lost the title: d_sedag
+247 - sub vassal: d_sedag - Holder 1002682 - Primary title: d_sedag has lost the title: d_sedag
+247 - vassal: d_sedag - Title given to 1002682 - Primary title: k_tigurg
+247 - sub vassal: d_sedag - Title given to 1002682 - Primary title: k_tigurg
+247 - Holder (1002682) has gained d_sedag
+247 - sub vassal: c_tedalla - Setting to vassal of d_kunana in Validate Realm
+247 - vassal: d_sedag - Lost vassal: c_tedalla
+247 - sub vassal: d_sedag - Lost vassal: c_tedalla
+247 - sub vassal: c_egeruhan - Setting to vassal of d_kunana in Validate Realm
+247 - vassal: d_sedag - Lost vassal: c_egeruhan
+247 - sub vassal: d_sedag - Lost vassal: c_egeruhan
+247 - sub vassal: c_ehjagay - Setting to vassal of d_kunana in Validate Realm
+247 - vassal: d_sedag - Lost vassal: c_ehjagay
+247 - sub vassal: d_sedag - Lost vassal: c_ehjagay
+247 - sub vassal: c_tabdalla - Setting to vassal of d_kunana in Validate Realm
+247 - vassal: d_sedag - Lost vassal: c_tabdalla
+247 - sub vassal: d_sedag - Lost vassal: c_tabdalla
+247 - vassal: d_kunana - Gained vassal: c_tabdalla
+247 - sub vassal: d_kunana - Gained vassal: c_tabdalla
+247 - vassal: d_kunana - Gained vassal: c_ehjagay
+247 - sub vassal: d_kunana - Gained vassal: c_ehjagay
+247 - vassal: d_kunana - Gained vassal: c_egeruhan
+247 - sub vassal: d_kunana - Gained vassal: c_egeruhan
+247 - vassal: d_kunana - Gained vassal: c_tedalla
+247 - sub vassal: d_kunana - Gained vassal: c_tedalla
+247 - vassal: d_kunana - Holder 1002682 - Primary title: d_kunana has lost the title: d_kunana
+247 - sub vassal: d_kunana - Holder 1002682 - Primary title: d_kunana has lost the title: d_kunana
+247 - vassal: d_kunana - Title given to 1002682 - Primary title: k_tigurg
+247 - sub vassal: d_kunana - Title given to 1002682 - Primary title: k_tigurg
+247 - Holder (1002682) has gained d_kunana
+247 - sub vassal: c_tedalla - Holder 1002682 - Primary title: c_tedalla has lost the title: c_tedalla
+247 - sub vassal: c_tedalla - Title given to 1002682 - Primary title: k_tigurg
+247 - Holder (1002682) has gained c_tedalla
+247 - sub vassal: c_egeruhan - Holder 1002682 - Primary title: c_egeruhan has lost the title: c_egeruhan
+247 - sub vassal: c_egeruhan - Title given to 1002682 - Primary title: k_tigurg
+247 - Holder (1002682) has gained c_egeruhan
+247 - sub vassal: c_ehjagay - Holder 1002682 - Primary title: c_ehjagay has lost the title: c_ehjagay
+247 - sub vassal: c_ehjagay - Title given to 1002682 - Primary title: k_tigurg
+247 - Holder (1002682) has gained c_ehjagay
+247 - sub vassal: c_tabdalla - Holder 1002682 - Primary title: c_tabdalla has lost the title: c_tabdalla
+247 - sub vassal: c_tabdalla - Title given to 1002682 - Primary title: k_tigurg
+247 - Holder (1002682) has gained c_tabdalla
+248 - Holder (1002682) has gained c_lidagay
+248 - sub vassal: c_tomon - Holder 1002682 - Primary title: c_tomon has lost the title: c_tomon
+248 - sub vassal: c_tomon - Title given to 1002682 - Primary title: k_tigurg
+248 - Holder (1002682) has gained c_tomon
+248 - sub vassal: c_tomon - Given to 1005923 in HandleTitles - Too many duke titles
+248 - Holder 1005923 - Primary title: k_tigurg has lost the title: c_tomon
+248 - sub vassal: c_tomon - Title given to 1005923
+248 - Holder 1005923 - Primary title: k_tigurg has lost the title: d_sedag
+248 - vassal: d_sedag - Title given to 1005923 - Primary title: c_tomon
+248 - sub vassal: d_sedag - Title given to 1005923 - Primary title: c_tomon
+248 - sub vassal: c_tomon - Holder (1005923) has gained d_sedag
+248 - vassal: d_sedag - Too many dukes, given to dejure: k_tigurg
+248 - sub vassal: d_sedag - Too many dukes, given to dejure: k_tigurg
+248 - Holder 1005924 - Primary title: k_tigurg has lost the title: c_ledard
+248 - sub vassal: c_ledard - Title given to 1005924
+248 - Holder 1005925 - Primary title: k_tigurg has lost the title: c_lidagay
+248 - Gained vassal: c_lidagay
+248 - Holder 1005926 - Primary title: k_tigurg has lost the title: c_keliza
+248 - sub vassal: c_keliza - Title given to 1005926
+248 - vassal: c_lidagay - Made independent due to being a seperate island
+248 - sub vassal: c_lidagay - Made independent due to being a seperate island
+248 - vassal: c_lidagay - Made independent
+248 - sub vassal: c_lidagay - Made independent
+259 - Holder 1005665 - Primary title: k_tigurg has lost the title: k_tigurg
+259 - Title given to 1005665
+259 - vassal: d_esigana - Holder 1005665 - Primary title: d_esigana has lost the title: d_esigana
+259 - sub vassal: d_esigana - Holder 1005665 - Primary title: d_esigana has lost the title: d_esigana
+259 - vassal: d_esigana - Title given to 1005665 - Primary title: k_tigurg
+259 - sub vassal: d_esigana - Title given to 1005665 - Primary title: k_tigurg
+259 - Holder (1005665) has gained d_esigana
+259 - sub vassal: c_tarew - Setting to vassal of d_kunana in Validate Realm
+259 - vassal: d_esigana - Lost vassal: c_tarew
+259 - sub vassal: d_esigana - Lost vassal: c_tarew
+259 - vassal: d_kunana - Gained vassal: c_tarew
+259 - sub vassal: d_kunana - Gained vassal: c_tarew
+259 - vassal: d_kunana - Holder 1005665 - Primary title: d_kunana has lost the title: c_tarew
+259 - sub vassal: d_kunana - Holder 1005665 - Primary title: d_kunana has lost the title: c_tarew
+259 - sub vassal: c_tarew - Title given to 1005665 - Primary title: k_tigurg
+259 - Holder (1005665) has gained c_tarew
+259 - sub vassal: c_tarew - Setting to vassal of k_tigurg in Validate Realm
+259 - vassal: d_kunana - Lost vassal: c_tarew
+259 - sub vassal: d_kunana - Lost vassal: c_tarew
+259 - Gained vassal: c_tarew
+259 - vassal: d_kunana - Holder 1005665 - Primary title: d_kunana has lost the title: d_kunana
+259 - sub vassal: d_kunana - Holder 1005665 - Primary title: d_kunana has lost the title: d_kunana
+259 - vassal: d_kunana - Title given to 1005665 - Primary title: k_tigurg
+259 - sub vassal: d_kunana - Title given to 1005665 - Primary title: k_tigurg
+259 - Holder (1005665) has gained d_kunana
+259 - sub vassal: c_tedalla - Holder 1005665 - Primary title: c_tedalla has lost the title: c_tedalla
+259 - sub vassal: c_tedalla - Title given to 1005665 - Primary title: k_tigurg
+259 - Holder (1005665) has gained c_tedalla
+259 - sub vassal: c_egeruhan - Holder 1005665 - Primary title: c_egeruhan has lost the title: c_egeruhan
+259 - sub vassal: c_egeruhan - Title given to 1005665 - Primary title: k_tigurg
+259 - Holder (1005665) has gained c_egeruhan
+259 - sub vassal: c_ehjagay - Holder 1005665 - Primary title: c_ehjagay has lost the title: c_ehjagay
+259 - sub vassal: c_ehjagay - Title given to 1005665 - Primary title: k_tigurg
+259 - Holder (1005665) has gained c_ehjagay
+259 - sub vassal: c_tabdalla - Holder 1005665 - Primary title: c_tabdalla has lost the title: c_tabdalla
+259 - sub vassal: c_tabdalla - Title given to 1005665 - Primary title: k_tigurg
+259 - Holder (1005665) has gained c_tabdalla
+267 - Holder 1007248 - Primary title: k_tigurg has lost the title: k_tigurg
+267 - Title given to 1007248
+267 - vassal: d_kunana - Holder 1007248 - Primary title: d_kunana has lost the title: d_kunana
+267 - sub vassal: d_kunana - Holder 1007248 - Primary title: d_kunana has lost the title: d_kunana
+267 - vassal: d_kunana - Title given to 1007248 - Primary title: k_tigurg
+267 - sub vassal: d_kunana - Title given to 1007248 - Primary title: k_tigurg
+267 - Holder (1007248) has gained d_kunana
+267 - sub vassal: c_tabdalla - Setting to vassal of d_esigana in Validate Realm
+267 - vassal: d_kunana - Lost vassal: c_tabdalla
+267 - sub vassal: d_kunana - Lost vassal: c_tabdalla
+267 - sub vassal: c_ehjagay - Setting to vassal of d_esigana in Validate Realm
+267 - vassal: d_kunana - Lost vassal: c_ehjagay
+267 - sub vassal: d_kunana - Lost vassal: c_ehjagay
+267 - sub vassal: c_egeruhan - Setting to vassal of d_esigana in Validate Realm
+267 - vassal: d_kunana - Lost vassal: c_egeruhan
+267 - sub vassal: d_kunana - Lost vassal: c_egeruhan
+267 - sub vassal: c_tedalla - Setting to vassal of d_esigana in Validate Realm
+267 - vassal: d_kunana - Lost vassal: c_tedalla
+267 - sub vassal: d_kunana - Lost vassal: c_tedalla
+267 - vassal: c_tarew - Setting to vassal of d_esigana in Validate Realm
+267 - sub vassal: c_tarew - Setting to vassal of d_esigana in Validate Realm
+267 - Lost vassal: c_tarew
+267 - vassal: d_esigana - Gained vassal: c_tarew
+267 - sub vassal: d_esigana - Gained vassal: c_tarew
+267 - vassal: d_esigana - Gained vassal: c_tedalla
+267 - sub vassal: d_esigana - Gained vassal: c_tedalla
+267 - vassal: d_esigana - Gained vassal: c_egeruhan
+267 - sub vassal: d_esigana - Gained vassal: c_egeruhan
+267 - vassal: d_esigana - Gained vassal: c_ehjagay
+267 - sub vassal: d_esigana - Gained vassal: c_ehjagay
+267 - vassal: d_esigana - Gained vassal: c_tabdalla
+267 - sub vassal: d_esigana - Gained vassal: c_tabdalla
+267 - vassal: d_esigana - Holder 1007248 - Primary title: d_esigana has lost the title: d_esigana
+267 - sub vassal: d_esigana - Holder 1007248 - Primary title: d_esigana has lost the title: d_esigana
+267 - vassal: d_esigana - Title given to 1007248 - Primary title: k_tigurg
+267 - sub vassal: d_esigana - Title given to 1007248 - Primary title: k_tigurg
+267 - Holder (1007248) has gained d_esigana
+267 - sub vassal: c_tabdalla - Holder 1007248 - Primary title: c_tabdalla has lost the title: c_tabdalla
+267 - sub vassal: c_tabdalla - Title given to 1007248 - Primary title: k_tigurg
+267 - Holder (1007248) has gained c_tabdalla
+267 - sub vassal: c_ehjagay - Holder 1007248 - Primary title: c_ehjagay has lost the title: c_ehjagay
+267 - sub vassal: c_ehjagay - Title given to 1007248 - Primary title: k_tigurg
+267 - Holder (1007248) has gained c_ehjagay
+267 - sub vassal: c_egeruhan - Holder 1007248 - Primary title: c_egeruhan has lost the title: c_egeruhan
+267 - sub vassal: c_egeruhan - Title given to 1007248 - Primary title: k_tigurg
+267 - Holder (1007248) has gained c_egeruhan
+267 - sub vassal: c_tedalla - Holder 1007248 - Primary title: c_tedalla has lost the title: c_tedalla
+267 - sub vassal: c_tedalla - Title given to 1007248 - Primary title: k_tigurg
+267 - Holder (1007248) has gained c_tedalla
+267 - sub vassal: c_tarew - Holder 1007248 - Primary title: c_tarew has lost the title: c_tarew
+267 - sub vassal: c_tarew - Title given to 1007248 - Primary title: k_tigurg
+267 - Holder (1007248) has gained c_tarew
+270 - vassal: d_sedag - Holder 1006073 - Primary title: d_sedag has lost the title: d_sedag
+270 - sub vassal: d_sedag - Holder 1006073 - Primary title: d_sedag has lost the title: d_sedag
+270 - vassal: d_sedag - Title given to 1006073
+270 - sub vassal: d_sedag - Title given to 1006073
+270 - sub vassal: c_tomon - Holder 1006073 - Primary title: c_tomon has lost the title: c_tomon
+270 - sub vassal: c_tomon - Title given to 1006073 - Primary title: d_sedag
+270 - vassal: d_sedag - Holder (1006073) has gained c_tomon
+270 - sub vassal: d_sedag - Holder (1006073) has gained c_tomon
+301 - sub vassal: c_redyen - Holder 1007248 - Primary title: c_redyen has lost the title: c_redyen
+301 - sub vassal: c_redyen - Title given to 1007248 - Primary title: k_tigurg
+301 - Holder (1007248) has gained c_redyen
+301 - sub vassal: c_afeij - Holder 1007248 - Primary title: c_afeij has lost the title: c_afeij
+301 - sub vassal: c_afeij - Title given to 1007248 - Primary title: k_tigurg
+301 - Holder (1007248) has gained c_afeij
+301 - sub vassal: c_wozyan - Holder 1007248 - Primary title: c_wozyan has lost the title: c_wozyan
+301 - sub vassal: c_wozyan - Title given to 1007248 - Primary title: k_tigurg
+301 - Holder (1007248) has gained c_wozyan
+301 - Holder 1009848 - Primary title: k_tigurg has lost the title: c_egeruhan
+301 - sub vassal: c_egeruhan - Title given to 1009848
+301 - Holder 1009849 - Primary title: k_tigurg has lost the title: c_tabdalla
+301 - sub vassal: c_tabdalla - Title given to 1009849
+301 - Holder 1009850 - Primary title: k_tigurg has lost the title: c_tedalla
+301 - sub vassal: c_tedalla - Title given to 1009850
+301 - Holder 1009443 - Primary title: k_tigurg has lost the title: k_tigurg
+301 - Title given to 1009443
+301 - vassal: d_kunana - Holder 1009443 - Primary title: d_kunana has lost the title: d_kunana
+301 - sub vassal: d_kunana - Holder 1009443 - Primary title: d_kunana has lost the title: d_kunana
+301 - vassal: d_kunana - Title given to 1009443 - Primary title: k_tigurg
+301 - sub vassal: d_kunana - Title given to 1009443 - Primary title: k_tigurg
+301 - Holder (1009443) has gained d_kunana
+301 - sub vassal: c_redyen - Setting to vassal of d_esigana in Validate Realm
+301 - vassal: d_kunana - Lost vassal: c_redyen
+301 - sub vassal: d_kunana - Lost vassal: c_redyen
+301 - sub vassal: c_afeij - Setting to vassal of d_esigana in Validate Realm
+301 - vassal: d_kunana - Lost vassal: c_afeij
+301 - sub vassal: d_kunana - Lost vassal: c_afeij
+301 - sub vassal: c_wozyan - Setting to vassal of d_esigana in Validate Realm
+301 - vassal: d_kunana - Lost vassal: c_wozyan
+301 - sub vassal: d_kunana - Lost vassal: c_wozyan
+301 - vassal: d_esigana - Gained vassal: c_wozyan
+301 - sub vassal: d_esigana - Gained vassal: c_wozyan
+301 - vassal: d_esigana - Gained vassal: c_afeij
+301 - sub vassal: d_esigana - Gained vassal: c_afeij
+301 - vassal: d_esigana - Gained vassal: c_redyen
+301 - sub vassal: d_esigana - Gained vassal: c_redyen
+301 - vassal: d_esigana - Holder 1009443 - Primary title: d_esigana has lost the title: d_esigana
+301 - sub vassal: d_esigana - Holder 1009443 - Primary title: d_esigana has lost the title: d_esigana
+301 - vassal: d_esigana - Title given to 1009443 - Primary title: k_tigurg
+301 - sub vassal: d_esigana - Title given to 1009443 - Primary title: k_tigurg
+301 - Holder (1009443) has gained d_esigana
+301 - sub vassal: c_ehjagay - Holder 1009443 - Primary title: c_ehjagay has lost the title: c_ehjagay
+301 - sub vassal: c_ehjagay - Title given to 1009443 - Primary title: k_tigurg
+301 - Holder (1009443) has gained c_ehjagay
+301 - sub vassal: c_tarew - Holder 1009443 - Primary title: c_tarew has lost the title: c_tarew
+301 - sub vassal: c_tarew - Title given to 1009443 - Primary title: k_tigurg
+301 - Holder (1009443) has gained c_tarew
+301 - sub vassal: c_redyen - Holder 1009443 - Primary title: c_redyen has lost the title: c_redyen
+301 - sub vassal: c_redyen - Title given to 1009443 - Primary title: k_tigurg
+301 - Holder (1009443) has gained c_redyen
+301 - sub vassal: c_afeij - Holder 1009443 - Primary title: c_afeij has lost the title: c_afeij
+301 - sub vassal: c_afeij - Title given to 1009443 - Primary title: k_tigurg
+301 - Holder (1009443) has gained c_afeij
+301 - sub vassal: c_wozyan - Holder 1009443 - Primary title: c_wozyan has lost the title: c_wozyan
+301 - sub vassal: c_wozyan - Title given to 1009443 - Primary title: k_tigurg
+301 - Holder (1009443) has gained c_wozyan
+302 - vassal: d_kunana - Destroyed due to flagged problem
+302 - sub vassal: d_kunana - Destroyed due to flagged problem
+302 - vassal: d_kunana - Made independent
+302 - sub vassal: d_kunana - Made independent
+303 - vassal: d_sedag - Holder 1008066 - Primary title: d_sedag has lost the title: d_sedag
+303 - sub vassal: d_sedag - Holder 1008066 - Primary title: d_sedag has lost the title: d_sedag
+303 - vassal: d_sedag - Title given to 1008066
+303 - sub vassal: d_sedag - Title given to 1008066
+303 - sub vassal: c_tomon - Holder 1008066 - Primary title: c_tomon has lost the title: c_tomon
+303 - sub vassal: c_tomon - Title given to 1008066 - Primary title: d_sedag
+303 - vassal: d_sedag - Holder (1008066) has gained c_tomon
+303 - sub vassal: d_sedag - Holder (1008066) has gained c_tomon
+311 - Holder 1010532 - Primary title: k_tigurg has lost the title: k_tigurg
+311 - Title given to 1010532
+311 - vassal: d_esigana - Holder 1010532 - Primary title: d_esigana has lost the title: d_esigana
+311 - sub vassal: d_esigana - Holder 1010532 - Primary title: d_esigana has lost the title: d_esigana
+311 - vassal: d_esigana - Title given to 1010532 - Primary title: k_tigurg
+311 - sub vassal: d_esigana - Title given to 1010532 - Primary title: k_tigurg
+311 - Holder (1010532) has gained d_esigana
+311 - sub vassal: c_ehjagay - Holder 1010532 - Primary title: c_ehjagay has lost the title: c_ehjagay
+311 - sub vassal: c_ehjagay - Title given to 1010532 - Primary title: k_tigurg
+311 - Holder (1010532) has gained c_ehjagay
+311 - sub vassal: c_tarew - Holder 1010532 - Primary title: c_tarew has lost the title: c_tarew
+311 - sub vassal: c_tarew - Title given to 1010532 - Primary title: k_tigurg
+311 - Holder (1010532) has gained c_tarew
+311 - sub vassal: c_redyen - Holder 1010532 - Primary title: c_redyen has lost the title: c_redyen
+311 - sub vassal: c_redyen - Title given to 1010532 - Primary title: k_tigurg
+311 - Holder (1010532) has gained c_redyen
+311 - sub vassal: c_afeij - Holder 1010532 - Primary title: c_afeij has lost the title: c_afeij
+311 - sub vassal: c_afeij - Title given to 1010532 - Primary title: k_tigurg
+311 - Holder (1010532) has gained c_afeij
+311 - sub vassal: c_wozyan - Holder 1010532 - Primary title: c_wozyan has lost the title: c_wozyan
+311 - sub vassal: c_wozyan - Title given to 1010532 - Primary title: k_tigurg
+311 - Holder (1010532) has gained c_wozyan
+317 - vassal: d_sedag - Holder 1010883 - Primary title: d_sedag has lost the title: d_sedag
+317 - sub vassal: d_sedag - Holder 1010883 - Primary title: d_sedag has lost the title: d_sedag
+317 - vassal: d_sedag - Title given to 1010883
+317 - sub vassal: d_sedag - Title given to 1010883
+317 - sub

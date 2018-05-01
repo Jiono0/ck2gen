@@ -1,0 +1,122 @@
+200 - Title given to 1000092
+200 - vassal: c_waarel - Holder 1000092 - Primary title: c_waarel has lost the title: c_waarel
+200 - sub vassal: c_waarel - Holder 1000092 - Primary title: c_waarel has lost the title: c_waarel
+200 - vassal: c_waarel - Title given to 1000092 - Primary title: d_kacaric
+200 - sub vassal: c_waarel - Title given to 1000092 - Primary title: d_kacaric
+200 - Holder (1000092) has gained c_waarel
+200 - vassal: c_lule - Holder 1000092 - Primary title: c_lule has lost the title: c_lule
+200 - sub vassal: c_lule - Holder 1000092 - Primary title: c_lule has lost the title: c_lule
+200 - vassal: c_lule - Title given to 1000092 - Primary title: d_kacaric
+200 - sub vassal: c_lule - Title given to 1000092 - Primary title: d_kacaric
+200 - Holder (1000092) has gained c_lule
+200 - vassal: c_wihl - Holder 1000092 - Primary title: c_wihl has lost the title: c_wihl
+200 - sub vassal: c_wihl - Holder 1000092 - Primary title: c_wihl has lost the title: c_wihl
+200 - vassal: c_wihl - Title given to 1000092 - Primary title: d_kacaric
+200 - sub vassal: c_wihl - Title given to 1000092 - Primary title: d_kacaric
+200 - Holder (1000092) has gained c_wihl
+204 - Holder 1002464 - Primary title: d_kacaric has lost the title: d_kacaric
+204 - Title given to 1002464
+204 - vassal: c_wihl - Holder 1002464 - Primary title: c_wihl has lost the title: c_wihl
+204 - vassal: c_wihl - Title given to 1002464 - Primary title: d_kacaric
+204 - Holder (1002464) has gained c_wihl
+204 - vassal: c_lule - Holder 1002464 - Primary title: c_lule has lost the title: c_lule
+204 - vassal: c_lule - Title given to 1002464 - Primary title: d_kacaric
+204 - Holder (1002464) has gained c_lule
+204 - vassal: c_waarel - Holder 1002464 - Primary title: c_waarel has lost the title: c_waarel
+204 - vassal: c_waarel - Title given to 1002464 - Primary title: d_kacaric
+204 - Holder (1002464) has gained c_waarel
+231 - Holder 1004027 - Primary title: d_kacaric has lost the title: d_kacaric
+231 - Title given to 1004027
+231 - vassal: c_waarel - Holder 1004027 - Primary title: c_waarel has lost the title: c_waarel
+231 - vassal: c_waarel - Title given to 1004027 - Primary title: d_kacaric
+231 - Holder (1004027) has gained c_waarel
+231 - vassal: c_lule - Holder 1004027 - Primary title: c_lule has lost the title: c_lule
+231 - vassal: c_lule - Title given to 1004027 - Primary title: d_kacaric
+231 - Holder (1004027) has gained c_lule
+231 - vassal: c_wihl - Holder 1004027 - Primary title: c_wihl has lost the title: c_wihl
+231 - vassal: c_wihl - Title given to 1004027 - Primary title: d_kacaric
+231 - Holder (1004027) has gained c_wihl
+263 - Holder 1005531 - Primary title: d_kacaric has lost the title: d_kacaric
+263 - Title given to 1005531
+263 - vassal: c_waarel - Holder 1005531 - Primary title: c_waarel has lost the title: c_waarel
+263 - vassal: c_waarel - Title given to 1005531 - Primary title: d_kacaric
+263 - Holder (1005531) has gained c_waarel
+263 - vassal: c_lule - Holder 1005531 - Primary title: c_lule has lost the title: c_lule
+263 - vassal: c_lule - Title given to 1005531 - Primary title: d_kacaric
+263 - Holder (1005531) has gained c_lule
+263 - vassal: c_wihl - Holder 1005531 - Primary title: c_wihl has lost the title: c_wihl
+263 - vassal: c_wihl - Title given to 1005531 - Primary title: d_kacaric
+263 - Holder (1005531) has gained c_wihl
+266 - Captured byk_benalme in minor war
+289 - Holder 1008435 - Primary title: d_kacaric has lost the title: d_kacaric
+289 - Title given to 1008435
+289 - vassal: c_wihl - Holder 1008435 - Primary title: c_wihl has lost the title: c_wihl
+289 - vassal: c_wihl - Title given to 1008435 - Primary title: d_kacaric
+289 - Holder (1008435) has gained c_wihl
+289 - vassal: c_lule - Holder 1008435 - Primary title: c_lule has lost the title: c_lule
+289 - vassal: c_lule - Title given to 1008435 - Primary title: d_kacaric
+289 - Holder (1008435) has gained c_lule
+289 - vassal: c_waarel - Holder 1008435 - Primary title: c_waarel has lost the title: c_waarel
+289 - vassal: c_waarel - Title given to 1008435 - Primary title: d_kacaric
+289 - Holder (1008435) has gained c_waarel
+294 - Made vassal of neighbour (k_ezitzin) due to being a seperate island
+294 - Given to neighbour holder of k_ezitzin
+294 - Holder 1007212 - Primary title: d_kacaric has lost the title: d_kacaric
+294 - Title given to 1007212 - Primary title: k_ezitzin
+294 - vassal: c_lule - Given to 1010235 in HandleTitles - Too many duke titles
+294 - vassal: c_wihl - Holder 1010235 - Primary title: c_wihl has lost the title: c_lule
+294 - vassal: c_lule - Title given to 1010235
+294 - Title given to 1010235 - Primary title: c_lule
+294 - vassal: c_lule - Holder (1010235) has gained d_kacaric
+294 - Too many dukes, given to dejure: k_ezitzin
+310 - Holder 1010411 - Primary title: d_kacaric has lost the title: d_kacaric
+310 - Title given to 1010411
+310 - vassal: c_lule - Holder 1010411 - Primary title: c_lule has lost the title: c_lule
+310 - vassal: c_lule - Title given to 1010411 - Primary title: d_kacaric
+310 - Holder (1010411) has gained c_lule
+311 - Holder 1009084 - Primary title: d_kacaric has lost the title: d_kacaric
+311 - Title given to 1009084 - Primary title: k_ezitzin
+311 - vassal: c_lule - Holder 1009084 - Primary title: c_lule has lost the title: c_lule
+311 - vassal: c_lule - Title given to 1009084 - Primary title: k_ezitzin
+311 - vassal: c_lule - Title given to 1011693
+328 - Holder 1012386 - Primary title: d_kacaric has lost the title: d_kacaric
+328 - Title given to 1012386 - Primary title: k_ezitzin
+336 - Holder 1013599 - Primary title: d_kacaric has lost the title: d_kacaric
+336 - Title given to 1013599 - Primary title: k_ezitzin
+374 - Holder 1013677 - Primary title: d_kacaric has lost the title: d_kacaric
+374 - Title given to 1013677 - Primary title: k_ezitzin
+381 - Gained vassal: c_anelgi
+381 - Gained vassal: c_tible
+381 - Gained vassal: c_konihl
+381 - Gained vassal: c_deninia
+381 - Gained vassal: c_qiseelo
+381 - Holder 1005016 - Primary title: d_kacaric has lost the title: d_kacaric
+381 - Title given to 1005016 - Primary title: k_ezitzin
+381 - vassal: c_qiseelo - Holder 1005016 - Primary title: c_qiseelo has lost the title: c_qiseelo
+381 - vassal: c_qiseelo - Title given to 1005016 - Primary title: k_ezitzin
+381 - vassal: c_deninia - Holder 1005016 - Primary title: c_deninia has lost the title: c_deninia
+381 - vassal: c_deninia - Title given to 1005016 - Primary title: k_ezitzin
+381 - vassal: c_konihl - Holder 1005016 - Primary title: c_konihl has lost the title: c_konihl
+381 - vassal: c_konihl - Title given to 1005016 - Primary title: k_ezitzin
+381 - vassal: c_tible - Holder 1005016 - Primary title: c_tible has lost the title: c_tible
+381 - vassal: c_tible - Title given to 1005016 - Primary title: k_ezitzin
+381 - vassal: c_anelgi - Holder 1005016 - Primary title: c_anelgi has lost the title: c_anelgi
+381 - vassal: c_anelgi - Title given to 1005016 - Primary title: k_ezitzin
+399 - Holder 1017068 - Primary title: d_kacaric has lost the title: d_kacaric
+399 - Title given to 1017068 - Primary title: k_ezitzin
+399 - vassal: c_qiseelo - Holder 1017068 - Primary title: c_qiseelo has lost the title: c_qiseelo
+399 - vassal: c_qiseelo - Title given to 1017068 - Primary title: k_ezitzin
+399 - vassal: c_deninia - Holder 1017068 - Primary title: c_deninia has lost the title: c_deninia
+399 - vassal: c_deninia - Title given to 1017068 - Primary title: k_ezitzin
+399 - vassal: c_konihl - Holder 1017068 - Primary title: c_konihl has lost the title: c_konihl
+399 - vassal: c_konihl - Title given to 1017068 - Primary title: k_ezitzin
+399 - vassal: c_tible - Holder 1017068 - Primary title: c_tible has lost the title: c_tible
+399 - vassal: c_tible - Title given to 1017068 - Primary title: k_ezitzin
+399 - vassal: c_anelgi - Holder 1017068 - Primary title: c_anelgi has lost the title: c_anelgi
+399 - vassal: c_anelgi - Title given to 1017068 - Primary title: k_ezitzin
+400 - vassal: c_wihl - Holder 1017068 - Primary title: c_wihl has lost the title: c_wihl
+400 - vassal: c_wihl - Title given to 1017068 - Primary title: k_ezitzin
+400 - vassal: c_waarel - Holder 1017068 - Primary title: c_waarel has lost the title: c_waarel
+400 - vassal: c_waarel - Title given to 1017068 - Primary title: k_ezitzin
+400 - vassal: c_lule - Holder 1017068 - Primary title: c_lule has lost the title: c_lule
+400 - vassal: c_lule - Title given to 1017068 - Primary title: k_ezitzin

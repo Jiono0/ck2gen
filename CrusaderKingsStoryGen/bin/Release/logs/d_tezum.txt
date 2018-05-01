@@ -1,0 +1,137 @@
+200 - Title given to 1000493
+200 - vassal: c_rutum - Given to 1000496 via AddCharacterForTitle
+200 - sub vassal: c_rutum - Given to 1000496 via AddCharacterForTitle
+200 - vassal: c_rutum - Holder 1000496 - Primary title: c_rutum has lost the title: c_rutum
+200 - sub vassal: c_rutum - Holder 1000496 - Primary title: c_rutum has lost the title: c_rutum
+200 - vassal: c_rutum - Title given to 1000496
+200 - sub vassal: c_rutum - Title given to 1000496
+200 - vassal: c_rutamir - Holder 1000481 - Primary title: c_rutamir has lost the title: c_kerum
+200 - sub vassal: c_rutamir - Holder 1000481 - Primary title: c_rutamir has lost the title: c_kerum
+200 - sub vassal: c_kerum - Title given to 1000481 - Primary title: d_sohera
+200 - vassal: c_rutamir - Holder 1000481 - Primary title: c_rutamir has lost the title: c_ajohum
+200 - sub vassal: c_rutamir - Holder 1000481 - Primary title: c_rutamir has lost the title: c_ajohum
+200 - sub vassal: c_ajohum - Title given to 1000481 - Primary title: d_sohera
+200 - vassal: c_teorrel - Holder 1000493 - Primary title: c_teorrel has lost the title: c_teorrel
+200 - sub vassal: c_teorrel - Holder 1000493 - Primary title: c_teorrel has lost the title: c_teorrel
+200 - vassal: c_teorrel - Title given to 1000493 - Primary title: d_tezum
+200 - sub vassal: c_teorrel - Title given to 1000493 - Primary title: d_tezum
+200 - Holder (1000493) has gained c_teorrel
+200 - vassal: c_rutum - Holder 1000493 - Primary title: c_rutum has lost the title: c_rutum
+200 - sub vassal: c_rutum - Holder 1000493 - Primary title: c_rutum has lost the title: c_rutum
+200 - vassal: c_rutum - Title given to 1000493 - Primary title: d_tezum
+200 - sub vassal: c_rutum - Title given to 1000493 - Primary title: d_tezum
+200 - Holder (1000493) has gained c_rutum
+200 - vassal: c_rutamir - Holder 1000493 - Primary title: c_rutamir has lost the title: c_rutamir
+200 - sub vassal: c_rutamir - Holder 1000493 - Primary title: c_rutamir has lost the title: c_rutamir
+200 - vassal: c_rutamir - Title given to 1000493 - Primary title: d_tezum
+200 - sub vassal: c_rutamir - Title given to 1000493 - Primary title: d_tezum
+200 - Holder (1000493) has gained c_rutamir
+234 - Holder 1002353 - Primary title: d_tezum has lost the title: d_tezum
+234 - Title given to 1002353
+234 - vassal: c_teorrel - Holder 1002353 - Primary title: c_teorrel has lost the title: c_teorrel
+234 - vassal: c_teorrel - Title given to 1002353 - Primary title: d_tezum
+234 - Holder (1002353) has gained c_teorrel
+234 - vassal: c_rutum - Holder 1002353 - Primary title: c_rutum has lost the title: c_rutum
+234 - vassal: c_rutum - Title given to 1002353 - Primary title: d_tezum
+234 - Holder (1002353) has gained c_rutum
+234 - vassal: c_rutamir - Holder 1002353 - Primary title: c_rutamir has lost the title: c_rutamir
+234 - vassal: c_rutamir - Title given to 1002353 - Primary title: d_tezum
+234 - Holder (1002353) has gained c_rutamir
+256 - Holder 1005447 - Primary title: d_tezum has lost the title: d_tezum
+256 - Title given to 1005447
+256 - vassal: c_rutamir - Holder 1005447 - Primary title: c_rutamir has lost the title: c_rutamir
+256 - vassal: c_rutamir - Title given to 1005447 - Primary title: d_tezum
+256 - Holder (1005447) has gained c_rutamir
+256 - vassal: c_rutum - Holder 1005447 - Primary title: c_rutum has lost the title: c_rutum
+256 - vassal: c_rutum - Title given to 1005447 - Primary title: d_tezum
+256 - Holder (1005447) has gained c_rutum
+256 - vassal: c_teorrel - Holder 1005447 - Primary title: c_teorrel has lost the title: c_teorrel
+256 - vassal: c_teorrel - Title given to 1005447 - Primary title: d_tezum
+256 - Holder (1005447) has gained c_teorrel
+259 - Holder 1002352 - Primary title: d_tezum has lost the title: d_tezum
+259 - Title given to 1002352 - Primary title: d_sohera
+259 - vassal: c_rutamir - Holder 1002352 - Primary title: c_rutamir has lost the title: c_rutamir
+259 - vassal: c_rutamir - Title given to 1002352 - Primary title: d_sohera
+259 - vassal: c_rutum - Holder 1002352 - Primary title: c_rutum has lost the title: c_rutum
+259 - vassal: c_rutum - Title given to 1002352 - Primary title: d_sohera
+259 - vassal: c_teorrel - Holder 1002352 - Primary title: c_teorrel has lost the title: c_teorrel
+259 - vassal: c_teorrel - Title given to 1002352 - Primary title: d_sohera
+260 - vassal: c_teorrel - Title given to 1007406
+260 - vassal: c_rutum - Title given to 1007407
+262 - Gained vassal: c_ajohum
+262 - Gained vassal: c_kerum
+262 - Gained vassal: c_wamichay
+262 - Gained vassal: c_dalamir
+262 - Holder 1004155 - Primary title: d_tezum has lost the title: d_tezum
+262 - Title given to 1004155 - Primary title: k_relera
+262 - vassal: c_rutamir - Holder 1004155 - Primary title: c_rutamir has lost the title: c_rutamir
+262 - vassal: c_rutamir - Title given to 1004155 - Primary title: k_relera
+262 - vassal: c_dalamir - Holder 1004155 - Primary title: c_dalamir has lost the title: c_dalamir
+262 - vassal: c_dalamir - Title given to 1004155 - Primary title: k_relera
+262 - vassal: c_wamichay - Holder 1004155 - Primary title: c_wamichay has lost the title: c_wamichay
+262 - vassal: c_wamichay - Title given to 1004155 - Primary title: k_relera
+262 - vassal: c_kerum - Holder 1004155 - Primary title: c_kerum has lost the title: c_kerum
+262 - vassal: c_kerum - Title given to 1004155 - Primary title: k_relera
+262 - vassal: c_ajohum - Holder 1004155 - Primary title: c_ajohum has lost the title: c_ajohum
+262 - vassal: c_ajohum - Title given to 1004155 - Primary title: k_relera
+262 - vassal: c_rutamir - Given to 1007607 in HandleTitles - Too many duke titles
+262 - vassal: c_rutamir - Title given to 1007607
+262 - Title given to 1007607 - Primary title: c_rutamir
+262 - vassal: c_rutamir - Holder (1007607) has gained d_tezum
+262 - vassal: c_dalamir - Setting to vassal of k_relera in Validate Realm
+262 - Lost vassal: c_dalamir
+262 - vassal: c_wamichay - Setting to vassal of k_relera in Validate Realm
+262 - Lost vassal: c_wamichay
+262 - vassal: c_kerum - Setting to vassal of k_relera in Validate Realm
+262 - Lost vassal: c_kerum
+262 - vassal: c_ajohum - Setting to vassal of k_relera in Validate Realm
+262 - Lost vassal: c_ajohum
+262 - Too many dukes, given to dejure: k_relera
+281 - Holder 1007759 - Primary title: d_tezum has lost the title: d_tezum
+281 - Title given to 1007759
+281 - vassal: c_rutamir - Holder 1007759 - Primary title: c_rutamir has lost the title: c_rutamir
+281 - vassal: c_rutamir - Title given to 1007759 - Primary title: d_tezum
+281 - Holder (1007759) has gained c_rutamir
+283 - Holder 1009275 - Primary title: d_tezum has lost the title: d_tezum
+283 - Title given to 1009275 - Primary title: k_relera
+283 - vassal: c_rutamir - Holder 1009275 - Primary title: c_rutamir has lost the title: c_rutamir
+283 - vassal: c_rutamir - Title given to 1009275 - Primary title: k_relera
+284 - Holder 1008669 - Primary title: d_tezum has lost the title: d_tezum
+284 - Title given to 1008669 - Primary title: k_relera
+284 - vassal: c_rutamir - Holder 1008669 - Primary title: c_rutamir has lost the title: c_rutamir
+284 - vassal: c_rutamir - Title given to 1008669 - Primary title: k_relera
+304 - Gained vassal: c_kutisco
+304 - Holder 1009005 - Primary title: d_tezum has lost the title: d_tezum
+304 - Title given to 1009005 - Primary title: k_relera
+304 - vassal: c_kutisco - Holder 1009005 - Primary title: c_kutisco has lost the title: c_kutisco
+304 - vassal: c_kutisco - Title given to 1009005 - Primary title: k_relera
+304 - vassal: c_rutamir - Holder 1009005 - Primary title: c_rutamir has lost the title: c_rutamir
+304 - vassal: c_rutamir - Title given to 1009005 - Primary title: k_relera
+320 - vassal: c_rutamir - Title given to 1012388
+325 - Gained vassal: c_wamichay
+325 - Holder 1011397 - Primary title: d_tezum has lost the title: d_tezum
+325 - Title given to 1011397 - Primary title: k_relera
+325 - vassal: c_wamichay - Holder 1011397 - Primary title: c_wamichay has lost the title: c_wamichay
+325 - vassal: c_wamichay - Title given to 1011397 - Primary title: k_relera
+325 - vassal: c_kutisco - Setting independent in Validate Realm
+325 - vassal: c_kutisco - Made independent
+342 - Holder 1013299 - Primary title: d_tezum has lost the title: d_tezum
+342 - Title given to 1013299 - Primary title: k_relera
+342 - vassal: c_wamichay - Setting to vassal of d_dacamir in Validate Realm
+342 - Lost vassal: c_wamichay
+353 - Holder 1014694 - Primary title: d_tezum has lost the title: d_tezum
+353 - Title given to 1014694 - Primary title: k_relera
+390 - Holder 1015818 - Primary title: d_tezum has lost the title: d_tezum
+390 - Title given to 1015818 - Primary title: k_relera
+398 - Holder 1017899 - Primary title: d_tezum has lost the title: d_tezum
+398 - Title given to 1017899 - Primary title: k_relera
+399 - Gained vassal: c_kisco
+399 - Holder 1018038 - Primary title: d_tezum has lost the title: d_tezum
+399 - Title given to 1018038 - Primary title: k_relera
+399 - vassal: c_kisco - Setting to vassal of d_rokudia in Validate Realm
+399 - Lost vassal: c_kisco
+400 - vassal: c_teorrel - Holder 1012388 - Primary title: c_teorrel has lost the title: c_teorrel
+400 - vassal: c_teorrel - Title given to 1012388 - Primary title: c_rutamir
+400 - vassal: c_rutamir - Holder (1012388) has gained c_teorrel
+400 - vassal: c_rutum - Holder 1018038 - Primary title: c_rutum has lost the title: c_rutum
+400 - vassal: c_rutum - Title given to 1018038 - Primary title: k_relera

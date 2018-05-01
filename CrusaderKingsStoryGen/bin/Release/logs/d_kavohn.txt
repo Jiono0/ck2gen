@@ -1,0 +1,61 @@
+200 - Title given to 1000685
+200 - vassal: c_ezivaerd - Holder 1000685 - Primary title: c_ezivaerd has lost the title: c_ezivaerd
+200 - sub vassal: c_ezivaerd - Holder 1000685 - Primary title: c_ezivaerd has lost the title: c_ezivaerd
+200 - vassal: c_ezivaerd - Title given to 1000685 - Primary title: d_kavohn
+200 - sub vassal: c_ezivaerd - Title given to 1000685 - Primary title: d_kavohn
+200 - Holder (1000685) has gained c_ezivaerd
+200 - vassal: c_sagian - Holder 1000685 - Primary title: c_sagian has lost the title: c_sagian
+200 - sub vassal: c_sagian - Holder 1000685 - Primary title: c_sagian has lost the title: c_sagian
+200 - vassal: c_sagian - Title given to 1000685 - Primary title: d_kavohn
+200 - sub vassal: c_sagian - Title given to 1000685 - Primary title: d_kavohn
+200 - Holder (1000685) has gained c_sagian
+200 - vassal: c_sarine - Holder 1000685 - Primary title: c_sarine has lost the title: c_sarine
+200 - sub vassal: c_sarine - Holder 1000685 - Primary title: c_sarine has lost the title: c_sarine
+200 - vassal: c_sarine - Title given to 1000685 - Primary title: d_kavohn
+200 - sub vassal: c_sarine - Title given to 1000685 - Primary title: d_kavohn
+200 - Holder (1000685) has gained c_sarine
+244 - Holder 1003182 - Primary title: d_kavohn has lost the title: d_kavohn
+244 - Title given to 1003182
+244 - vassal: c_sarine - Holder 1003182 - Primary title: c_sarine has lost the title: c_sarine
+244 - vassal: c_sarine - Title given to 1003182 - Primary title: d_kavohn
+244 - Holder (1003182) has gained c_sarine
+244 - vassal: c_sagian - Holder 1003182 - Primary title: c_sagian has lost the title: c_sagian
+244 - vassal: c_sagian - Title given to 1003182 - Primary title: d_kavohn
+244 - Holder (1003182) has gained c_sagian
+244 - vassal: c_ezivaerd - Holder 1003182 - Primary title: c_ezivaerd has lost the title: c_ezivaerd
+244 - vassal: c_ezivaerd - Title given to 1003182 - Primary title: d_kavohn
+244 - Holder (1003182) has gained c_ezivaerd
+276 - Holder (1003182) has gained d_damema
+276 - Holder (1003182) has gained c_lagian
+293 - Holder 1008108 - Primary title: d_kavohn has lost the title: d_kavohn
+293 - Title given to 1008108
+293 - vassal: c_sarine - Setting to vassal of d_damema in Validate Realm
+293 - Lost vassal: c_sarine
+293 - vassal: c_sagian - Setting to vassal of d_damema in Validate Realm
+293 - Lost vassal: c_sagian
+293 - vassal: c_ezivaerd - Setting to vassal of d_damema in Validate Realm
+293 - Lost vassal: c_ezivaerd
+293 - Holder (1008108) has gained c_lagian
+293 - Gained vassal: c_lagian
+293 - Holder (1008108) has gained d_damema
+293 - Holder (1008108) has gained c_sarine
+293 - Holder (1008108) has gained c_sagian
+293 - Holder (1008108) has gained c_ezivaerd
+296 - Holder 1010215 - Primary title: d_kavohn has lost the title: d_kavohn
+296 - Title given to 1010215
+296 - vassal: c_lagian - Setting to vassal of d_damema in Validate Realm
+296 - Lost vassal: c_lagian
+296 - Holder (1010215) has gained c_lagian
+296 - Gained vassal: c_lagian
+296 - Holder (1010215) has gained d_damema
+296 - Holder (1010215) has gained c_sarine
+296 - Holder (1010215) has gained c_sagian
+296 - Holder (1010215) has gained c_ezivaerd
+300 - Holder (1010215) has gained c_lelian
+300 - Holder 1008798 - Primary title: d_kavohn has lost the title: d_kavohn
+300 - Title given to 1008798 - Primary title: k_warair
+300 - vassal: c_lagian - Setting to vassal of d_damema in Validate Realm
+300 - Lost vassal: c_lagian
+300 - Destroyed due to flagged problem
+300 - Made independent
+300 - Title destroyed

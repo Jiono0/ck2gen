@@ -1,0 +1,87 @@
+200 - Title given to 1001079
+200 - vassal: c_reraudes - Holder 1001079 - Primary title: c_reraudes has lost the title: c_reraudes
+200 - sub vassal: c_reraudes - Holder 1001079 - Primary title: c_reraudes has lost the title: c_reraudes
+200 - vassal: c_reraudes - Title given to 1001079 - Primary title: d_tebona
+200 - sub vassal: c_reraudes - Title given to 1001079 - Primary title: d_tebona
+200 - Holder (1001079) has gained c_reraudes
+200 - vassal: c_etulai - Holder 1001079 - Primary title: c_etulai has lost the title: c_etulai
+200 - sub vassal: c_etulai - Holder 1001079 - Primary title: c_etulai has lost the title: c_etulai
+200 - vassal: c_etulai - Title given to 1001079 - Primary title: d_tebona
+200 - sub vassal: c_etulai - Title given to 1001079 - Primary title: d_tebona
+200 - Holder (1001079) has gained c_etulai
+200 - vassal: c_dalaka - Title given to 1001079 - Primary title: d_tebona
+200 - Holder (1001079) has gained c_dalaka
+221 - Holder 1002646 - Primary title: d_tebona has lost the title: d_tebona
+221 - Title given to 1002646
+221 - vassal: c_reraudes - Holder 1002646 - Primary title: c_reraudes has lost the title: c_reraudes
+221 - vassal: c_reraudes - Title given to 1002646 - Primary title: d_tebona
+221 - Holder (1002646) has gained c_reraudes
+221 - vassal: c_etulai - Holder 1002646 - Primary title: c_etulai has lost the title: c_etulai
+221 - vassal: c_etulai - Title given to 1002646 - Primary title: d_tebona
+221 - Holder (1002646) has gained c_etulai
+221 - vassal: c_dalaka - Holder 1002646 - Primary title: c_dalaka has lost the title: c_dalaka
+221 - vassal: c_dalaka - Title given to 1002646 - Primary title: d_tebona
+221 - Holder (1002646) has gained c_dalaka
+232 - Holder 1004494 - Primary title: d_tebona has lost the title: d_tebona
+232 - Title given to 1004494
+232 - vassal: c_reraudes - Holder 1004494 - Primary title: c_reraudes has lost the title: c_reraudes
+232 - vassal: c_reraudes - Title given to 1004494 - Primary title: d_tebona
+232 - Holder (1004494) has gained c_reraudes
+232 - vassal: c_etulai - Holder 1004494 - Primary title: c_etulai has lost the title: c_etulai
+232 - vassal: c_etulai - Title given to 1004494 - Primary title: d_tebona
+232 - Holder (1004494) has gained c_etulai
+232 - vassal: c_dalaka - Holder 1004494 - Primary title: c_dalaka has lost the title: c_dalaka
+232 - vassal: c_dalaka - Title given to 1004494 - Primary title: d_tebona
+232 - Holder (1004494) has gained c_dalaka
+233 - Holder 1002234 - Primary title: d_tebona has lost the title: d_tebona
+233 - Title given to 1002234 - Primary title: d_nenge
+233 - vassal: c_reraudes - Holder 1002234 - Primary title: c_reraudes has lost the title: c_reraudes
+233 - vassal: c_reraudes - Title given to 1002234 - Primary title: d_nenge
+233 - vassal: c_etulai - Holder 1002234 - Primary title: c_etulai has lost the title: c_etulai
+233 - vassal: c_etulai - Title given to 1002234 - Primary title: d_nenge
+233 - vassal: c_dalaka - Holder 1002234 - Primary title: c_dalaka has lost the title: c_dalaka
+233 - vassal: c_dalaka - Title given to 1002234 - Primary title: d_nenge
+234 - Holder 1005180 - Primary title: d_tebona has lost the title: c_emebaka
+254 - Holder 1004739 - Primary title: d_tebona has lost the title: d_tebona
+254 - Title given to 1004739
+254 - vassal: c_dalaka - Setting to vassal of d_nenge in Validate Realm
+254 - Lost vassal: c_dalaka
+254 - vassal: c_etulai - Setting to vassal of d_nenge in Validate Realm
+254 - Lost vassal: c_etulai
+254 - vassal: c_reraudes - Setting to vassal of d_nenge in Validate Realm
+254 - Lost vassal: c_reraudes
+254 - Holder (1004739) has gained d_nenge
+254 - Holder (1004739) has gained c_dalaka
+254 - Holder (1004739) has gained c_etulai
+254 - Holder (1004739) has gained c_reraudes
+254 - Holder (1004739) has gained c_kiacdes
+254 - Holder (1004739) has gained c_dengaka
+255 - Destroyed due to flagged problem
+255 - Made independent
+255 - Title destroyed
+277 - Given to 1008114 in TestCreateEmpire
+277 - Title given to 1008114 - Primary title: d_nenge
+277 - Made independent for title creation d_tebona for d_nenge
+277 - Made independent
+277 - Gained vassal: c_dengaka
+277 - Gained vassal: c_kiacdes
+277 - Gained vassal: c_reraudes
+277 - Gained vassal: c_etulai
+277 - Gained vassal: c_dalaka
+278 - vassal: c_dengaka - Title given to 1008949
+285 - Given to neighbour holder of d_kaicha
+285 - Title given to 1003098 - Primary title: d_kaicha
+285 - vassal: c_dalaka - Made vassal of neighbour (d_kaicha) due to being a seperate island
+285 - vassal: c_dalaka - Given to neighbour holder of d_kaicha
+285 - vassal: c_reraudes - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - Lost vassal: c_reraudes
+285 - vassal: c_dalaka - Setting to vassal of d_nenge in Validate Realm
+285 - Lost vassal: c_dalaka
+285 - vassal: c_etulai - Setting to vassal of d_nenge in Validate Realm
+285 - Lost vassal: c_etulai
+285 - vassal: c_kiacdes - Setting to vassal of d_nenge in Validate Realm
+285 - Lost vassal: c_kiacdes
+286 - vassal: c_dengaka - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - Lost vassal: c_dengaka
+287 - Destroyed due to flagged problem
+287 - Title destroyed

@@ -1,0 +1,212 @@
+200 - Title given to 1000878
+200 - vassal: c_tanond - Given to 1000882 via AddCharacterForTitle
+200 - sub vassal: c_tanond - Given to 1000882 via AddCharacterForTitle
+200 - vassal: c_tanond - Holder 1000882 - Primary title: c_tanond has lost the title: c_tanond
+200 - sub vassal: c_tanond - Holder 1000882 - Primary title: c_tanond has lost the title: c_tanond
+200 - vassal: c_tanond - Title given to 1000882
+200 - sub vassal: c_tanond - Title given to 1000882
+200 - vassal: c_kanyana - Holder 1000878 - Primary title: c_kanyana has lost the title: c_kanyana
+200 - sub vassal: c_kanyana - Holder 1000878 - Primary title: c_kanyana has lost the title: c_kanyana
+200 - vassal: c_kanyana - Title given to 1000878 - Primary title: d_werar
+200 - sub vassal: c_kanyana - Title given to 1000878 - Primary title: d_werar
+200 - Holder (1000878) has gained c_kanyana
+200 - vassal: c_seinirek - Holder 1000878 - Primary title: c_seinirek has lost the title: c_seinirek
+200 - sub vassal: c_seinirek - Holder 1000878 - Primary title: c_seinirek has lost the title: c_seinirek
+200 - vassal: c_seinirek - Title given to 1000878 - Primary title: d_werar
+200 - sub vassal: c_seinirek - Title given to 1000878 - Primary title: d_werar
+200 - Holder (1000878) has gained c_seinirek
+200 - vassal: c_tanond - Holder 1000878 - Primary title: c_tanond has lost the title: c_tanond
+200 - sub vassal: c_tanond - Holder 1000878 - Primary title: c_tanond has lost the title: c_tanond
+200 - vassal: c_tanond - Title given to 1000878 - Primary title: d_werar
+200 - sub vassal: c_tanond - Title given to 1000878 - Primary title: d_werar
+200 - Holder (1000878) has gained c_tanond
+200 - Holder 1001564 - Primary title: d_werar has lost the title: d_werar
+200 - Title given to 1001564 - Primary title: k_tazina
+200 - vassal: c_kanyana - Given to 1002090 in HandleTitles - Too many duke titles
+200 - vassal: c_kanyana - Holder 1002090 - Primary title: c_kanyana has lost the title: c_kanyana
+200 - vassal: c_kanyana - Title given to 1002090
+200 - Title given to 1002090 - Primary title: c_kanyana
+200 - vassal: c_kanyana - Holder (1002090) has gained d_werar
+200 - Too many dukes, given to dejure: k_tazina
+221 - Holder 1002517 - Primary title: d_werar has lost the title: d_werar
+221 - Title given to 1002517
+221 - vassal: c_kanyana - Holder 1002517 - Primary title: c_kanyana has lost the title: c_kanyana
+221 - vassal: c_kanyana - Title given to 1002517 - Primary title: d_werar
+221 - Holder (1002517) has gained c_kanyana
+239 - Holder 1004652 - Primary title: d_werar has lost the title: d_werar
+239 - Title given to 1004652
+239 - vassal: c_kanyana - Holder 1004652 - Primary title: c_kanyana has lost the title: c_kanyana
+239 - vassal: c_kanyana - Title given to 1004652 - Primary title: d_werar
+239 - Holder (1004652) has gained c_kanyana
+248 - Holder 1004647 - Primary title: d_werar has lost the title: d_werar
+248 - Title given to 1004647 - Primary title: d_ryana
+248 - vassal: c_kanyana - Holder 1004647 - Primary title: c_kanyana has lost the title: c_kanyana
+248 - vassal: c_kanyana - Title given to 1004647 - Primary title: d_ryana
+262 - Holder 1007231 - Primary title: d_werar has lost the title: d_werar
+262 - Title given to 1007231
+262 - vassal: c_kanyana - Setting to vassal of d_ryana in Validate Realm
+262 - Lost vassal: c_kanyana
+262 - Holder (1007231) has gained d_ryana
+262 - Holder (1007231) has gained c_kanyana
+262 - Holder (1007231) has gained c_suyyana
+263 - vassal: c_seinirek - Holder 1007231 - Primary title: c_seinirek has lost the title: c_tanond
+263 - vassal: c_tanond - Title given to 1007231 - Primary title: d_werar
+263 - Holder (1007231) has gained c_tanond
+280 - Gained vassal: c_kanyana
+280 - Gained vassal: c_suyyana
+280 - Holder 1008612 - Primary title: d_werar has lost the title: d_werar
+280 - Title given to 1008612 - Primary title: d_ryana
+280 - vassal: c_tanond - Holder 1008612 - Primary title: c_tanond has lost the title: c_tanond
+280 - vassal: c_tanond - Title given to 1008612 - Primary title: d_ryana
+280 - vassal: c_suyyana - Holder 1008612 - Primary title: c_suyyana has lost the title: c_suyyana
+280 - vassal: c_suyyana - Title given to 1008612 - Primary title: d_ryana
+280 - vassal: c_kanyana - Holder 1008612 - Primary title: c_kanyana has lost the title: c_kanyana
+280 - vassal: c_kanyana - Title given to 1008612 - Primary title: d_ryana
+300 - vassal: c_seinirek - Holder 1008612 - Primary title: c_seinirek has lost the title: c_seinirek
+300 - vassal: c_seinirek - Title given to 1008612 - Primary title: d_ryana
+326 - Gained vassal: c_wyahena
+326 - Holder 1011048 - Primary title: d_werar has lost the title: d_werar
+326 - Title given to 1011048 - Primary title: d_ryana
+326 - vassal: c_tanond - Holder 1011048 - Primary title: c_tanond has lost the title: c_tanond
+326 - vassal: c_tanond - Title given to 1011048 - Primary title: d_ryana
+326 - vassal: c_suyyana - Holder 1011048 - Primary title: c_suyyana has lost the title: c_suyyana
+326 - vassal: c_suyyana - Title given to 1011048 - Primary title: d_ryana
+326 - vassal: c_kanyana - Holder 1011048 - Primary title: c_kanyana has lost the title: c_kanyana
+326 - vassal: c_kanyana - Title given to 1011048 - Primary title: d_ryana
+326 - vassal: c_wyahena - Holder 1011048 - Primary title: c_wyahena has lost the title: c_wyahena
+326 - vassal: c_wyahena - Title given to 1011048 - Primary title: d_ryana
+326 - vassal: c_seinirek - Holder 1011048 - Primary title: c_seinirek has lost the title: c_seinirek
+326 - vassal: c_seinirek - Title given to 1011048 - Primary title: d_ryana
+339 - Holder (1011048) has gained d_ryana
+339 - vassal: c_tanond - Set liege on title creation d_ryana
+339 - Lost vassal: c_tanond
+339 - vassal: c_suyyana - Set liege on title creation d_ryana
+339 - Lost vassal: c_suyyana
+339 - vassal: c_kanyana - Set liege on title creation d_ryana
+339 - Lost vassal: c_kanyana
+339 - vassal: c_wyahena - Set liege on title creation d_ryana
+339 - Lost vassal: c_wyahena
+339 - vassal: c_seinirek - Set liege on title creation d_ryana
+339 - Lost vassal: c_seinirek
+339 - Holder 1012972 - Primary title: d_werar has lost the title: d_werar
+339 - Title given to 1012972
+339 - Holder (1012972) has gained c_tanond
+339 - Holder (1012972) has gained c_suyyana
+339 - Holder (1012972) has gained c_kanyana
+339 - Holder (1012972) has gained c_wyahena
+339 - Holder (1012972) has gained c_seinirek
+340 - Destroyed due to flagged problem
+340 - Made independent
+340 - Title destroyed
+347 - Given to 1013993 in TestCreateEmpire
+347 - Title given to 1013993 - Primary title: c_tanond
+347 - Gained vassal: c_tanond
+347 - Made independent for title creation d_werar for d_werar
+347 - vassal: c_tanond - Set liege on title creation d_werar
+347 - sub vassal: c_tanond - Set liege on title creation d_werar
+347 - Gained vassal: c_kanyana
+347 - Gained vassal: c_seinirek
+347 - Destroyed due to no capital's obtainable
+347 - Title destroyed
+347 - vassal: c_tanond - Setting independent due to liege destruction
+347 - vassal: c_tanond - Made independent
+347 - vassal: c_seinirek - Setting independent due to liege destruction
+347 - vassal: c_seinirek - Made independent
+347 - vassal: c_kanyana - Setting independent due to liege destruction
+347 - vassal: c_kanyana - Made independent
+348 - Given to 1013993 in TestCreateEmpire
+348 - Title given to 1013993 - Primary title: c_tanond
+348 - Gained vassal: c_tanond
+348 - Made independent for title creation d_werar for d_werar
+348 - vassal: c_tanond - Set liege on title creation d_werar
+348 - sub vassal: c_tanond - Set liege on title creation d_werar
+348 - Gained vassal: c_kanyana
+348 - Gained vassal: c_seinirek
+348 - Destroyed due to no capital's obtainable
+348 - Title destroyed
+348 - vassal: c_seinirek - Setting independent due to liege destruction
+348 - vassal: c_seinirek - Made independent
+348 - vassal: c_kanyana - Setting independent due to liege destruction
+348 - vassal: c_kanyana - Made independent
+348 - vassal: c_tanond - Setting independent due to liege destruction
+348 - vassal: c_tanond - Made independent
+354 - Given to 1013993 in TestCreateEmpire
+354 - Title given to 1013993 - Primary title: c_tanond
+354 - Gained vassal: c_tanond
+354 - Made independent for title creation d_werar for d_werar
+354 - vassal: c_tanond - Set liege on title creation d_werar
+354 - sub vassal: c_tanond - Set liege on title creation d_werar
+354 - Gained vassal: c_kanyana
+354 - Gained vassal: c_seinirek
+354 - Destroyed due to no capital's obtainable
+354 - Title destroyed
+354 - vassal: c_seinirek - Setting independent due to liege destruction
+354 - vassal: c_seinirek - Made independent
+354 - vassal: c_kanyana - Setting independent due to liege destruction
+354 - vassal: c_kanyana - Made independent
+354 - vassal: c_tanond - Setting independent due to liege destruction
+354 - vassal: c_tanond - Made independent
+356 - Given to 1013993 in TestCreateEmpire
+356 - Title given to 1013993 - Primary title: c_tanond
+356 - Gained vassal: c_tanond
+356 - Made independent for title creation d_werar for d_werar
+356 - vassal: c_tanond - Set liege on title creation d_werar
+356 - sub vassal: c_tanond - Set liege on title creation d_werar
+356 - Gained vassal: c_kanyana
+356 - Gained vassal: c_seinirek
+356 - Destroyed due to no capital's obtainable
+356 - Title destroyed
+356 - vassal: c_seinirek - Setting independent due to liege destruction
+356 - vassal: c_seinirek - Made independent
+356 - vassal: c_kanyana - Setting independent due to liege destruction
+356 - vassal: c_kanyana - Made independent
+356 - vassal: c_tanond - Setting independent due to liege destruction
+356 - vassal: c_tanond - Made independent
+360 - Given to 1013993 in TestCreateEmpire
+360 - Title given to 1013993 - Primary title: c_tanond
+360 - Gained vassal: c_tanond
+360 - Made independent for title creation d_werar for d_werar
+360 - vassal: c_tanond - Set liege on title creation d_werar
+360 - sub vassal: c_tanond - Set liege on title creation d_werar
+360 - Gained vassal: c_kanyana
+360 - Gained vassal: c_seinirek
+360 - Destroyed due to no capital's obtainable
+360 - Title destroyed
+360 - vassal: c_seinirek - Setting independent due to liege destruction
+360 - vassal: c_seinirek - Made independent
+360 - vassal: c_kanyana - Setting independent due to liege destruction
+360 - vassal: c_kanyana - Made independent
+360 - vassal: c_tanond - Setting independent due to liege destruction
+360 - vassal: c_tanond - Made independent
+390 - Given to 1013993 in TestCreateEmpire
+390 - Title given to 1013993 - Primary title: c_tanond
+390 - Gained vassal: c_tanond
+390 - Made independent for title creation d_werar for d_werar
+390 - vassal: c_tanond - Set liege on title creation d_werar
+390 - sub vassal: c_tanond - Set liege on title creation d_werar
+390 - Gained vassal: c_kanyana
+390 - Gained vassal: c_seinirek
+390 - Destroyed due to no capital's obtainable
+390 - Title destroyed
+390 - vassal: c_seinirek - Setting independent due to liege destruction
+390 - vassal: c_seinirek - Made independent
+390 - vassal: c_kanyana - Setting independent due to liege destruction
+390 - vassal: c_kanyana - Made independent
+390 - vassal: c_tanond - Setting independent due to liege destruction
+390 - vassal: c_tanond - Made independent
+395 - Given to 1015225 in TestCreateEmpire
+395 - Title given to 1015225 - Primary title: c_tanond
+395 - Gained vassal: c_tanond
+395 - Made independent for title creation d_werar for d_werar
+395 - vassal: c_tanond - Set liege on title creation d_werar
+395 - sub vassal: c_tanond - Set liege on title creation d_werar
+395 - Gained vassal: c_kanyana
+395 - Gained vassal: c_seinirek
+395 - Destroyed due to no capital's obtainable
+395 - Title destroyed
+395 - vassal: c_seinirek - Setting independent due to liege destruction
+395 - vassal: c_seinirek - Made independent
+395 - vassal: c_kanyana - Setting independent due to liege destruction
+395 - vassal: c_kanyana - Made independent
+395 - vassal: c_tanond - Setting independent due to liege destruction
+395 - vassal: c_tanond - Made independent

@@ -1,0 +1,180 @@
+200 - Title given to 1000080
+200 - vassal: c_sacera - Holder 1000080 - Primary title: c_sacera has lost the title: c_sacera
+200 - sub vassal: c_sacera - Holder 1000080 - Primary title: c_sacera has lost the title: c_sacera
+200 - vassal: c_sacera - Title given to 1000080 - Primary title: d_qenindo
+200 - sub vassal: c_sacera - Title given to 1000080 - Primary title: d_qenindo
+200 - Holder (1000080) has gained c_sacera
+200 - vassal: c_wanenav - Holder 1000080 - Primary title: c_wanenav has lost the title: c_wanenav
+200 - sub vassal: c_wanenav - Holder 1000080 - Primary title: c_wanenav has lost the title: c_wanenav
+200 - vassal: c_wanenav - Title given to 1000080 - Primary title: d_qenindo
+200 - sub vassal: c_wanenav - Title given to 1000080 - Primary title: d_qenindo
+200 - Holder (1000080) has gained c_wanenav
+200 - vassal: c_achu - Holder 1000080 - Primary title: c_achu has lost the title: c_achu
+200 - sub vassal: c_achu - Holder 1000080 - Primary title: c_achu has lost the title: c_achu
+200 - vassal: c_achu - Title given to 1000080 - Primary title: d_qenindo
+200 - sub vassal: c_achu - Title given to 1000080 - Primary title: d_qenindo
+200 - Holder (1000080) has gained c_achu
+200 - vassal: c_wible - Holder 1000080 - Primary title: c_wible has lost the title: c_wible
+200 - sub vassal: c_wible - Holder 1000080 - Primary title: c_wible has lost the title: c_wible
+200 - vassal: c_wible - Title given to 1000080 - Primary title: d_qenindo
+200 - sub vassal: c_wible - Title given to 1000080 - Primary title: d_qenindo
+200 - Holder (1000080) has gained c_wible
+217 - Holder 1002833 - Primary title: d_qenindo has lost the title: d_qenindo
+217 - Title given to 1002833
+217 - vassal: c_wible - Holder 1002833 - Primary title: c_wible has lost the title: c_wible
+217 - vassal: c_wible - Title given to 1002833 - Primary title: d_qenindo
+217 - Holder (1002833) has gained c_wible
+217 - vassal: c_achu - Holder 1002833 - Primary title: c_achu has lost the title: c_achu
+217 - vassal: c_achu - Title given to 1002833 - Primary title: d_qenindo
+217 - Holder (1002833) has gained c_achu
+217 - vassal: c_wanenav - Holder 1002833 - Primary title: c_wanenav has lost the title: c_wanenav
+217 - vassal: c_wanenav - Title given to 1002833 - Primary title: d_qenindo
+217 - Holder (1002833) has gained c_wanenav
+217 - vassal: c_sacera - Holder 1002833 - Primary title: c_sacera has lost the title: c_sacera
+217 - vassal: c_sacera - Title given to 1002833 - Primary title: d_qenindo
+217 - Holder (1002833) has gained c_sacera
+248 - Holder 1003259 - Primary title: d_qenindo has lost the title: d_qenindo
+248 - Title given to 1003259 - Primary title: d_qisco
+248 - vassal: c_wible - Holder 1003259 - Primary title: c_wible has lost the title: c_wible
+248 - vassal: c_wible - Title given to 1003259 - Primary title: d_qindo
+248 - vassal: c_achu - Holder 1003259 - Primary title: c_achu has lost the title: c_achu
+248 - vassal: c_achu - Title given to 1003259 - Primary title: d_qindo
+248 - vassal: c_wanenav - Holder 1003259 - Primary title: c_wanenav has lost the title: c_wanenav
+248 - vassal: c_wanenav - Title given to 1003259 - Primary title: d_qindo
+248 - vassal: c_sacera - Holder 1003259 - Primary title: c_sacera has lost the title: c_sacera
+248 - vassal: c_sacera - Title given to 1003259 - Primary title: d_qindo
+249 - Holder 1006445 - Primary title: d_qenindo has lost the title: c_tor
+249 - Holder 1002409 - Primary title: d_qenindo has lost the title: d_qisco
+249 - Gained vassal: c_daarel
+249 - Gained vassal: c_qionesi
+249 - Gained vassal: c_sacaric
+249 - Holder 1006448 - Primary title: d_qenindo has lost the title: c_aconoj
+249 - Holder 1006449 - Primary title: d_qenindo has lost the title: c_benelgi
+249 - Holder 1006450 - Primary title: d_qenindo has lost the title: c_belgi
+249 - Holder 1006451 - Primary title: d_qenindo has lost the title: c_wanenav
+249 - vassal: c_wanenav - Title given to 1006451
+249 - Holder 1006452 - Primary title: d_qenindo has lost the title: c_sacera
+249 - vassal: c_sacera - Title given to 1006452
+249 - Holder 1004627 - Primary title: d_qenindo has lost the title: d_qindo
+249 - Holder 1004627 - Primary title: d_qenindo has lost the title: c_sacaric
+249 - vassal: c_sacaric - Title given to 1004627 - Primary title: d_qindo
+249 - vassal: c_sacaric - Setting to vassal of d_qindo in Validate Realm
+249 - Lost vassal: c_sacaric
+249 - Holder 1004627 - Primary title: d_qenindo has lost the title: c_qionesi
+249 - vassal: c_qionesi - Title given to 1004627 - Primary title: d_qindo
+249 - vassal: c_qionesi - Setting to vassal of d_qindo in Validate Realm
+249 - Lost vassal: c_qionesi
+249 - Holder 1004627 - Primary title: d_qenindo has lost the title: c_daarel
+249 - vassal: c_daarel - Title given to 1004627 - Primary title: d_qindo
+249 - vassal: c_daarel - Setting to vassal of d_qindo in Validate Realm
+249 - Lost vassal: c_daarel
+249 - Holder 1004627 - Primary title: d_qenindo has lost the title: d_qenindo
+249 - Title given to 1004627 - Primary title: d_qindo
+249 - vassal: c_wible - Holder 1004627 - Primary title: c_wible has lost the title: c_wible
+249 - vassal: c_wible - Title given to 1004627 - Primary title: d_qindo
+249 - vassal: c_achu - Holder 1004627 - Primary title: c_achu has lost the title: c_achu
+249 - vassal: c_achu - Title given to 1004627 - Primary title: d_qindo
+250 - Holder 1006447 - Primary title: d_qenindo has lost the title: d_qindo
+250 - Gained vassal: c_daarel
+250 - Gained vassal: c_qionesi
+250 - Gained vassal: c_sacaric
+250 - Holder 1006447 - Primary title: d_qenindo has lost the title: c_sacaric
+250 - vassal: c_sacaric - Title given to 1006447 - Primary title: d_qisco
+250 - vassal: c_sacaric - Setting to vassal of d_qisco in Validate Realm
+250 - Lost vassal: c_sacaric
+250 - Holder 1006447 - Primary title: d_qenindo has lost the title: c_qionesi
+250 - vassal: c_qionesi - Title given to 1006447 - Primary title: d_qisco
+250 - vassal: c_qionesi - Setting to vassal of d_qisco in Validate Realm
+250 - Lost vassal: c_qionesi
+250 - Holder 1006447 - Primary title: d_qenindo has lost the title: c_daarel
+250 - vassal: c_daarel - Title given to 1006447 - Primary title: d_qisco
+250 - vassal: c_daarel - Setting to vassal of d_qisco in Validate Realm
+250 - Lost vassal: c_daarel
+250 - Holder 1006447 - Primary title: d_qenindo has lost the title: d_qenindo
+250 - Title given to 1006447 - Primary title: d_qisco
+250 - vassal: c_wible - Holder 1006447 - Primary title: c_wible has lost the title: c_wible
+250 - vassal: c_wible - Title given to 1006447 - Primary title: d_qisco
+250 - vassal: c_achu - Holder 1006447 - Primary title: c_achu has lost the title: c_achu
+250 - vassal: c_achu - Title given to 1006447 - Primary title: d_qisco
+251 - Holder 1002409 - Primary title: d_qenindo has lost the title: d_qindo
+256 - Holder (1006447) has gained k_benalme
+257 - vassal: c_achu - Given to 1007155 in HandleTitles - Too many duke titles
+257 - vassal: c_achu - Title given to 1007155
+257 - Title given to 1007155 - Primary title: c_achu
+257 - vassal: c_achu - Holder (1007155) has gained d_qenindo
+257 - vassal: c_wible - Setting to vassal of k_benalme in Validate Realm
+257 - Lost vassal: c_wible
+257 - Too many dukes, given to dejure: k_benalme
+275 - Holder (1007155) has gained d_nanible
+275 - Holder (1007155) has gained c_denible
+275 - Holder (1007155) has gained c_keorihl
+275 - Holder (1007155) has gained c_ranoxti
+275 - Holder (1007155) has gained c_ahenalme
+298 - Gained vassal: c_denible
+298 - Gained vassal: c_keorihl
+298 - Gained vassal: c_ranoxti
+298 - Gained vassal: c_ahenalme
+298 - Holder 1007785 - Primary title: d_qenindo has lost the title: d_qenindo
+298 - Title given to 1007785 - Primary title: k_benalme
+298 - vassal: c_ahenalme - Holder 1007785 - Primary title: c_ahenalme has lost the title: c_ahenalme
+298 - vassal: c_ahenalme - Title given to 1007785 - Primary title: k_benalme
+298 - vassal: c_ranoxti - Holder 1007785 - Primary title: c_ranoxti has lost the title: c_ranoxti
+298 - vassal: c_ranoxti - Title given to 1007785 - Primary title: k_benalme
+298 - vassal: c_keorihl - Holder 1007785 - Primary title: c_keorihl has lost the title: c_keorihl
+298 - vassal: c_keorihl - Title given to 1007785 - Primary title: k_benalme
+298 - vassal: c_denible - Holder 1007785 - Primary title: c_denible has lost the title: c_denible
+298 - vassal: c_denible - Title given to 1007785 - Primary title: k_benalme
+298 - vassal: c_achu - Holder 1007785 - Primary title: c_achu has lost the title: c_achu
+298 - vassal: c_achu - Title given to 1007785 - Primary title: k_benalme
+328 - Holder 1009676 - Primary title: d_qenindo has lost the title: d_qenindo
+328 - Title given to 1009676 - Primary title: k_benalme
+328 - vassal: c_ahenalme - Holder 1009676 - Primary title: c_ahenalme has lost the title: c_ahenalme
+328 - vassal: c_ahenalme - Title given to 1009676 - Primary title: k_benalme
+328 - vassal: c_ranoxti - Holder 1009676 - Primary title: c_ranoxti has lost the title: c_ranoxti
+328 - vassal: c_ranoxti - Title given to 1009676 - Primary title: k_benalme
+328 - vassal: c_keorihl - Holder 1009676 - Primary title: c_keorihl has lost the title: c_keorihl
+328 - vassal: c_keorihl - Title given to 1009676 - Primary title: k_benalme
+328 - vassal: c_denible - Holder 1009676 - Primary title: c_denible has lost the title: c_denible
+328 - vassal: c_denible - Title given to 1009676 - Primary title: k_benalme
+328 - vassal: c_achu - Holder 1009676 - Primary title: c_achu has lost the title: c_achu
+328 - vassal: c_achu - Title given to 1009676 - Primary title: k_benalme
+349 - Holder 1013869 - Primary title: d_qenindo has lost the title: d_qenindo
+349 - Title given to 1013869 - Primary title: k_benalme
+349 - vassal: c_achu - Setting to vassal of d_abing in Validate Realm
+349 - Lost vassal: c_achu
+349 - vassal: c_denible - Setting to vassal of d_abing in Validate Realm
+349 - Lost vassal: c_denible
+349 - vassal: c_keorihl - Setting to vassal of d_abing in Validate Realm
+349 - Lost vassal: c_keorihl
+349 - vassal: c_ranoxti - Setting to vassal of d_abing in Validate Realm
+349 - Lost vassal: c_ranoxti
+349 - vassal: c_ahenalme - Setting to vassal of d_abing in Validate Realm
+349 - Lost vassal: c_ahenalme
+364 - Holder 1015047 - Primary title: d_qenindo has lost the title: d_qenindo
+364 - Title given to 1015047 - Primary title: k_benalme
+377 - Holder 1009272 - Primary title: d_qenindo has lost the title: d_qenindo
+377 - Title given to 1009272 - Primary title: k_benalme
+378 - Holder 1014597 - Primary title: d_qenindo has lost the title: d_qenindo
+378 - Title given to 1014597 - Primary title: k_benalme
+379 - vassal: c_wanenav - Holder 1014597 - Primary title: c_wanenav has lost the title: c_wanenav
+379 - vassal: c_wanenav - Title given to 1014597 - Primary title: k_benalme
+379 - vassal: c_wanenav - Given to 1016655 in HandleTitles - Too many duke titles
+379 - vassal: c_wanenav - Title given to 1016655
+379 - Title given to 1016655 - Primary title: c_wanenav
+379 - vassal: c_wanenav - Holder (1016655) has gained d_qenindo
+379 - Too many dukes, given to dejure: k_benalme
+394 - Holder 1013372 - Primary title: d_qenindo has lost the title: d_qenindo
+394 - Title given to 1013372 - Primary title: c_rogatai
+394 - Gained vassal: c_rogatai
+394 - vassal: c_wanenav - Holder 1013372 - Primary title: c_wanenav has lost the title: c_wanenav
+394 - vassal: c_wanenav - Title given to 1013372 - Primary title: d_qenindo
+394 - Holder (1013372) has gained c_wanenav
+400 - vassal: c_sacera - Holder 1013372 - Primary title: c_sacera has lost the title: c_sacera
+400 - vassal: c_sacera - Title given to 1013372 - Primary title: d_qenindo
+400 - Holder (1013372) has gained c_sacera
+400 - Holder (1013372) has gained c_nonelgi
+400 - Gained vassal: c_nonelgi
+400 - Holder (1013372) has gained c_kavum
+400 - Holder (1013372) has gained c_woninia
+400 - Holder (1013372) has gained c_ranaarel
+400 - Holder (1013372) has gained c_qionesi

@@ -1,0 +1,100 @@
+200 - Title given to 1001122
+200 - vassal: c_lahavinn - Holder 1001122 - Primary title: c_lahavinn has lost the title: c_lahavinn
+200 - sub vassal: c_lahavinn - Holder 1001122 - Primary title: c_lahavinn has lost the title: c_lahavinn
+200 - vassal: c_lahavinn - Title given to 1001122 - Primary title: d_tatelen
+200 - sub vassal: c_lahavinn - Title given to 1001122 - Primary title: d_tatelen
+200 - Holder (1001122) has gained c_lahavinn
+200 - vassal: c_agaresar - Holder 1001122 - Primary title: c_agaresar has lost the title: c_agaresar
+200 - sub vassal: c_agaresar - Holder 1001122 - Primary title: c_agaresar has lost the title: c_agaresar
+200 - vassal: c_agaresar - Title given to 1001122 - Primary title: d_tatelen
+200 - sub vassal: c_agaresar - Title given to 1001122 - Primary title: d_tatelen
+200 - Holder (1001122) has gained c_agaresar
+200 - vassal: c_daledrik - Holder 1001122 - Primary title: c_daledrik has lost the title: c_daledrik
+200 - sub vassal: c_daledrik - Holder 1001122 - Primary title: c_daledrik has lost the title: c_daledrik
+200 - vassal: c_daledrik - Title given to 1001122 - Primary title: d_tatelen
+200 - sub vassal: c_daledrik - Title given to 1001122 - Primary title: d_tatelen
+200 - Holder (1001122) has gained c_daledrik
+214 - Holder (1001122) has gained d_kaicha
+214 - Holder (1001122) has gained c_beumapa
+214 - Holder (1001122) has gained c_nenulai
+214 - Holder (1001122) has gained c_lehelen
+214 - Holder (1001122) has gained c_tehalom
+215 - vassal: c_daledrik - Title given to 1003648
+215 - vassal: c_agaresar - Title given to 1003649
+248 - Captured byk_eguvona in minor war
+248 - Setting independent in Validate Realm
+248 - Made independent
+251 - sub vassal: c_beumapa - Setting to vassal of d_tatelen in Validate Realm
+251 - sub vassal: c_nenulai - Setting to vassal of d_tatelen in Validate Realm
+251 - sub vassal: c_lehelen - Setting to vassal of d_tatelen in Validate Realm
+251 - sub vassal: c_tehalom - Setting to vassal of d_tatelen in Validate Realm
+251 - Gained vassal: c_tehalom
+251 - Gained vassal: c_lehelen
+251 - Gained vassal: c_nenulai
+251 - Gained vassal: c_beumapa
+251 - Holder 1003098 - Primary title: d_tatelen has lost the title: d_tatelen
+251 - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: c_lahavinn - Holder 1003098 - Primary title: c_lahavinn has lost the title: c_lahavinn
+251 - vassal: c_lahavinn - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: c_beumapa - Holder 1003098 - Primary title: c_beumapa has lost the title: c_beumapa
+251 - vassal: c_beumapa - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: c_nenulai - Holder 1003098 - Primary title: c_nenulai has lost the title: c_nenulai
+251 - vassal: c_nenulai - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: c_lehelen - Holder 1003098 - Primary title: c_lehelen has lost the title: c_lehelen
+251 - vassal: c_lehelen - Title given to 1003098 - Primary title: d_kaicha
+251 - vassal: c_tehalom - Holder 1003098 - Primary title: c_tehalom has lost the title: c_tehalom
+251 - vassal: c_tehalom - Title given to 1003098 - Primary title: d_kaicha
+252 - Holder (1003098) has gained d_kaicha
+252 - vassal: c_lahavinn - Set liege on title creation d_kaicha
+252 - sub vassal: c_lahavinn - Set liege on title creation d_kaicha
+252 - Lost vassal: c_lahavinn
+252 - vassal: c_beumapa - Set liege on title creation d_kaicha
+252 - sub vassal: c_beumapa - Set liege on title creation d_kaicha
+252 - Lost vassal: c_beumapa
+252 - vassal: c_nenulai - Set liege on title creation d_kaicha
+252 - sub vassal: c_nenulai - Set liege on title creation d_kaicha
+252 - Lost vassal: c_nenulai
+252 - vassal: c_lehelen - Set liege on title creation d_kaicha
+252 - sub vassal: c_lehelen - Set liege on title creation d_kaicha
+252 - Lost vassal: c_lehelen
+252 - vassal: c_tehalom - Set liege on title creation d_kaicha
+252 - sub vassal: c_tehalom - Set liege on title creation d_kaicha
+252 - Lost vassal: c_tehalom
+252 - vassal: c_daledrik - Holder 1003098 - Primary title: c_daledrik has lost the title: c_daledrik
+252 - sub vassal: c_daledrik - Holder 1003098 - Primary title: c_daledrik has lost the title: c_daledrik
+252 - vassal: c_daledrik - Title given to 1003098 - Primary title: d_tatelen
+252 - sub vassal: c_daledrik - Title given to 1003098 - Primary title: d_tatelen
+252 - Holder (1003098) has gained c_daledrik
+253 - Holder 1006820 - Primary title: d_tatelen has lost the title: c_lehelen
+253 - sub vassal: c_lehelen - Title given to 1006820
+286 - vassal: c_daledrik - Title given to 1009581
+298 - Holder 1007422 - Primary title: d_tatelen has lost the title: d_tatelen
+298 - Title given to 1007422 - Primary title: d_kaicha
+300 - vassal: c_agaresar - Holder 1007422 - Primary title: c_agaresar has lost the title: c_agaresar
+300 - vassal: c_agaresar - Title given to 1007422 - Primary title: d_kaicha
+300 - vassal: c_agaresar - Title given to 1010764
+327 - Holder 1010906 - Primary title: d_tatelen has lost the title: d_tatelen
+327 - Title given to 1010906 - Primary title: d_kaicha
+334 - Holder 1013453 - Primary title: d_tatelen has lost the title: d_tatelen
+334 - Title given to 1013453 - Primary title: d_kaicha
+340 - Holder 1006820 - Primary title: d_tatelen has lost the title: d_tatelen
+340 - Title given to 1006820 - Primary title: d_kaicha
+351 - Holder 1014683 - Primary title: d_tatelen has lost the title: d_tatelen
+351 - Title given to 1014683 - Primary title: d_kaicha
+373 - Holder 1015122 - Primary title: d_tatelen has lost the title: d_tatelen
+373 - Title given to 1015122 - Primary title: d_kaicha
+374 - Holder 1009664 - Primary title: d_tatelen has lost the title: d_tatelen
+374 - Title given to 1009664 - Primary title: d_kaicha
+381 - Holder 1016484 - Primary title: d_tatelen has lost the title: d_tatelen
+381 - Title given to 1016484 - Primary title: d_kaicha
+391 - Holder 1015181 - Primary title: d_tatelen has lost the title: d_tatelen
+391 - Title given to 1015181 - Primary title: d_kaicha
+397 - vassal: c_daledrik - Given to 1017903 in HandleTitles - Too many duke titles
+397 - vassal: c_daledrik - Holder 1017903 - Primary title: c_daledrik has lost the title: c_daledrik
+397 - vassal: c_daledrik - Title given to 1017903
+397 - Title given to 1017903 - Primary title: c_daledrik
+397 - vassal: c_daledrik - Holder (1017903) has gained d_tatelen
+397 - Too many dukes, given to dejure: k_kiwuel
+398 - Holder (1017903) has gained k_kiwuel
+400 - vassal: c_agaresar - Holder 1017903 - Primary title: c_agaresar has lost the title: c_agaresar
+400 - vassal: c_agaresar - Title given to 1017903 - Primary title: k_kiwuel

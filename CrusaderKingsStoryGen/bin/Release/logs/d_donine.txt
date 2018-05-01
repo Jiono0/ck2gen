@@ -1,0 +1,125 @@
+200 - Title given to 1000676
+200 - vassal: c_askab - Holder 1000676 - Primary title: c_askab has lost the title: c_askab
+200 - sub vassal: c_askab - Holder 1000676 - Primary title: c_askab has lost the title: c_askab
+200 - vassal: c_askab - Title given to 1000676 - Primary title: d_donine
+200 - sub vassal: c_askab - Title given to 1000676 - Primary title: d_donine
+200 - Holder (1000676) has gained c_askab
+200 - vassal: c_talab - Holder 1000676 - Primary title: c_talab has lost the title: c_talab
+200 - sub vassal: c_talab - Holder 1000676 - Primary title: c_talab has lost the title: c_talab
+200 - vassal: c_talab - Title given to 1000676 - Primary title: d_donine
+200 - sub vassal: c_talab - Title given to 1000676 - Primary title: d_donine
+200 - Holder (1000676) has gained c_talab
+200 - vassal: c_bonab - Holder 1000676 - Primary title: c_bonab has lost the title: c_bonab
+200 - sub vassal: c_bonab - Holder 1000676 - Primary title: c_bonab has lost the title: c_bonab
+200 - vassal: c_bonab - Title given to 1000676 - Primary title: d_donine
+200 - sub vassal: c_bonab - Title given to 1000676 - Primary title: d_donine
+200 - Holder (1000676) has gained c_bonab
+204 - Holder (1000676) has gained d_bagle
+204 - Holder (1000676) has gained c_qozagle
+204 - Holder (1000676) has gained c_beupala
+204 - Holder (1000676) has gained c_walara
+204 - Holder (1000676) has gained c_nagara
+205 - vassal: c_talab - Title given to 1002744
+205 - vassal: c_askab - Title given to 1002746
+218 - Holder (1000676) has gained c_wulunet
+218 - Gained vassal: c_wulunet
+218 - Holder (1000676) has gained d_karair
+218 - Holder (1000676) has gained c_nalandi
+218 - Holder (1000676) has gained c_ataliu
+218 - Holder (1000676) has gained c_kagian
+218 - Holder (1000676) has gained c_redian
+219 - vassal: c_talab - Given to 1003952 in HandleTitles - Too many duke titles
+219 - vassal: c_talab - Holder 1003952 - Primary title: c_talab has lost the title: c_talab
+219 - vassal: c_talab - Title given to 1003952
+219 - Title given to 1002272 - Primary title: k_dogine
+219 - vassal: c_bonab - Setting to vassal of d_karair in Validate Realm
+219 - Lost vassal: c_bonab
+219 - vassal: c_wulunet - Setting to vassal of d_karair in Validate Realm
+219 - Lost vassal: c_wulunet
+219 - Too many dukes, made direct title into vassal of k_dogine
+219 - Title given to 1003953
+227 - Holder 1003962 - Primary title: d_donine has lost the title: d_donine
+227 - Title given to 1003962
+228 - Holder 1000676 - Primary title: d_donine has lost the title: d_donine
+228 - Title given to 1000676 - Primary title: d_kala
+229 - Holder 1004806 - Primary title: d_donine has lost the title: c_kagian
+229 - Holder 1002272 - Primary title: d_donine has lost the title: d_karair
+229 - Gained vassal: c_bonab
+229 - Gained vassal: c_qozagle
+229 - Gained vassal: c_beupala
+229 - Gained vassal: c_nagara
+244 - vassal: c_talab - Given to 1002860 in HandleTitles - Too many duke titles
+244 - vassal: c_talab - Holder 1002860 - Primary title: c_talab has lost the title: c_talab
+244 - vassal: c_talab - Title given to 1002860
+244 - Title given to 1005199 - Primary title: k_dogine
+244 - vassal: c_bonab - Setting to vassal of d_togaid in Validate Realm
+244 - Lost vassal: c_bonab
+244 - vassal: c_qozagle - Setting to vassal of d_togaid in Validate Realm
+244 - Lost vassal: c_qozagle
+244 - vassal: c_beupala - Setting to vassal of d_togaid in Validate Realm
+244 - Lost vassal: c_beupala
+244 - vassal: c_nagara - Setting to vassal of d_togaid in Validate Realm
+244 - Lost vassal: c_nagara
+244 - Too many dukes, made direct title into vassal of k_dogine
+244 - Title given to 1002980
+256 - Holder 1006132 - Primary title: d_donine has lost the title: d_donine
+256 - Title given to 1006132
+277 - Holder 1007861 - Primary title: d_donine has lost the title: d_donine
+277 - Title given to 1007861
+281 - Holder (1007861) has gained k_dogine
+300 - vassal: c_askab - Holder 1007861 - Primary title: c_askab has lost the title: c_askab
+300 - vassal: c_askab - Title given to 1007861 - Primary title: k_dogine
+308 - Gained vassal: c_qozagle
+308 - Gained vassal: c_qeolam
+308 - Gained vassal: c_ketonn
+308 - Gained vassal: c_kagulev
+308 - Holder 1009368 - Primary title: d_donine has lost the title: d_donine
+308 - Title given to 1009368 - Primary title: k_dogine
+308 - vassal: c_askab - Holder 1009368 - Primary title: c_askab has lost the title: c_askab
+308 - vassal: c_askab - Title given to 1009368 - Primary title: k_dogine
+308 - vassal: c_kagulev - Holder 1009368 - Primary title: c_kagulev has lost the title: c_kagulev
+308 - vassal: c_kagulev - Title given to 1009368 - Primary title: k_dogine
+308 - vassal: c_ketonn - Holder 1009368 - Primary title: c_ketonn has lost the title: c_ketonn
+308 - vassal: c_ketonn - Title given to 1009368 - Primary title: k_dogine
+308 - vassal: c_qeolam - Holder 1009368 - Primary title: c_qeolam has lost the title: c_qeolam
+308 - vassal: c_qeolam - Title given to 1009368 - Primary title: k_dogine
+308 - vassal: c_qozagle - Holder 1009368 - Primary title: c_qozagle has lost the title: c_qozagle
+308 - vassal: c_qozagle - Title given to 1009368 - Primary title: k_dogine
+316 - Holder 1011555 - Primary title: d_donine has lost the title: d_donine
+316 - Title given to 1011555 - Primary title: k_dogine
+316 - vassal: c_askab - Holder 1011555 - Primary title: c_askab has lost the title: c_askab
+316 - vassal: c_askab - Title given to 1011555 - Primary title: k_dogine
+316 - vassal: c_kagulev - Holder 1011555 - Primary title: c_kagulev has lost the title: c_kagulev
+316 - vassal: c_kagulev - Title given to 1011555 - Primary title: k_dogine
+316 - vassal: c_ketonn - Holder 1011555 - Primary title: c_ketonn has lost the title: c_ketonn
+316 - vassal: c_ketonn - Title given to 1011555 - Primary title: k_dogine
+316 - vassal: c_qeolam - Holder 1011555 - Primary title: c_qeolam has lost the title: c_qeolam
+316 - vassal: c_qeolam - Title given to 1011555 - Primary title: k_dogine
+316 - vassal: c_qozagle - Holder 1011555 - Primary title: c_qozagle has lost the title: c_qozagle
+316 - vassal: c_qozagle - Title given to 1011555 - Primary title: k_dogine
+349 - Holder 1013804 - Primary title: d_donine has lost the title: d_donine
+349 - Title given to 1013804 - Primary title: k_dogine
+349 - vassal: c_askab - Holder 1013804 - Primary title: c_askab has lost the title: c_askab
+349 - vassal: c_askab - Title given to 1013804 - Primary title: k_dogine
+349 - vassal: c_kagulev - Holder 1013804 - Primary title: c_kagulev has lost the title: c_kagulev
+349 - vassal: c_kagulev - Title given to 1013804 - Primary title: k_dogine
+349 - vassal: c_ketonn - Holder 1013804 - Primary title: c_ketonn has lost the title: c_ketonn
+349 - vassal: c_ketonn - Title given to 1013804 - Primary title: k_dogine
+349 - vassal: c_qeolam - Holder 1013804 - Primary title: c_qeolam has lost the title: c_qeolam
+349 - vassal: c_qeolam - Title given to 1013804 - Primary title: k_dogine
+349 - vassal: c_qozagle - Holder 1013804 - Primary title: c_qozagle has lost the title: c_qozagle
+349 - vassal: c_qozagle - Title given to 1013804 - Primary title: k_dogine
+375 - Holder 1015129 - Primary title: d_donine has lost the title: d_donine
+375 - Title given to 1015129 - Primary title: k_dogine
+375 - vassal: c_qozagle - Holder 1015129 - Primary title: c_qozagle has lost the title: c_qozagle
+375 - vassal: c_qozagle - Title given to 1015129 - Primary title: k_dogine
+375 - vassal: c_qeolam - Holder 1015129 - Primary title: c_qeolam has lost the title: c_qeolam
+375 - vassal: c_qeolam - Title given to 1015129 - Primary title: k_dogine
+375 - vassal: c_ketonn - Holder 1015129 - Primary title: c_ketonn has lost the title: c_ketonn
+375 - vassal: c_ketonn - Title given to 1015129 - Primary title: k_dogine
+375 - vassal: c_kagulev - Holder 1015129 - Primary title: c_kagulev has lost the title: c_kagulev
+375 - vassal: c_kagulev - Title given to 1015129 - Primary title: k_dogine
+375 - vassal: c_askab - Holder 1015129 - Primary title: c_askab has lost the title: c_askab
+375 - vassal: c_askab - Title given to 1015129 - Primary title: k_dogine
+400 - vassal: c_talab - Holder 1015129 - Primary title: c_talab has lost the title: c_talab
+400 - vassal: c_talab - Title given to 1015129 - Primary title: k_dogine

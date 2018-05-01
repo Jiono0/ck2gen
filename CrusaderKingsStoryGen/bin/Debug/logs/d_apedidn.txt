@@ -1,0 +1,124 @@
+200 - Title given to 1001118
+200 - vassal: c_tueregh - Given to 1001122 via AddCharacterForTitle
+200 - sub vassal: c_tueregh - Given to 1001122 via AddCharacterForTitle
+200 - vassal: c_tueregh - Holder 1001122 - Primary title: c_tueregh has lost the title: c_tueregh
+200 - sub vassal: c_tueregh - Holder 1001122 - Primary title: c_tueregh has lost the title: c_tueregh
+200 - vassal: c_tueregh - Title given to 1001122
+200 - sub vassal: c_tueregh - Title given to 1001122
+200 - vassal: c_keret - Holder 1001118 - Primary title: c_keret has lost the title: c_keret
+200 - sub vassal: c_keret - Holder 1001118 - Primary title: c_keret has lost the title: c_keret
+200 - vassal: c_keret - Title given to 1001118 - Primary title: d_apedidn
+200 - sub vassal: c_keret - Title given to 1001118 - Primary title: d_apedidn
+200 - Holder (1001118) has gained c_keret
+200 - vassal: c_wulibel - Holder 1001118 - Primary title: c_wulibel has lost the title: c_wulibel
+200 - sub vassal: c_wulibel - Holder 1001118 - Primary title: c_wulibel has lost the title: c_wulibel
+200 - vassal: c_wulibel - Title given to 1001118 - Primary title: d_apedidn
+200 - sub vassal: c_wulibel - Title given to 1001118 - Primary title: d_apedidn
+200 - Holder (1001118) has gained c_wulibel
+200 - vassal: c_tueregh - Holder 1001118 - Primary title: c_tueregh has lost the title: c_tueregh
+200 - sub vassal: c_tueregh - Holder 1001118 - Primary title: c_tueregh has lost the title: c_tueregh
+200 - vassal: c_tueregh - Title given to 1001118 - Primary title: d_apedidn
+200 - sub vassal: c_tueregh - Title given to 1001118 - Primary title: d_apedidn
+200 - Holder (1001118) has gained c_tueregh
+200 - Holder 1001123 - Primary title: d_apedidn has lost the title: d_apedidn
+200 - Title given to 1001123 - Primary title: d_qeran
+200 - vassal: c_tueregh - Holder 1001123 - Primary title: c_tueregh has lost the title: c_tueregh
+200 - vassal: c_tueregh - Title given to 1001123 - Primary title: d_qeran
+200 - vassal: c_wulibel - Holder 1001123 - Primary title: c_wulibel has lost the title: c_wulibel
+200 - vassal: c_wulibel - Title given to 1001123 - Primary title: d_qeran
+200 - vassal: c_keret - Holder 1001123 - Primary title: c_keret has lost the title: c_keret
+200 - vassal: c_keret - Title given to 1001123 - Primary title: d_qeran
+201 - Holder 1002127 - Primary title: d_apedidn has lost the title: c_kaymima
+201 - Holder 1002129 - Primary title: d_apedidn has lost the title: c_riget
+213 - Holder 1002671 - Primary title: d_apedidn has lost the title: d_qeran
+213 - Gained vassal: c_lotan
+213 - Gained vassal: c_reraiba
+213 - Holder 1002671 - Primary title: d_apedidn has lost the title: c_reraiba
+213 - vassal: c_reraiba - Title given to 1002671 - Primary title: d_qeran
+213 - vassal: c_reraiba - Setting to vassal of d_qeran in Validate Realm
+213 - Lost vassal: c_reraiba
+213 - Holder 1002671 - Primary title: d_apedidn has lost the title: c_lotan
+213 - vassal: c_lotan - Title given to 1002671 - Primary title: d_qeran
+213 - vassal: c_lotan - Setting to vassal of d_qeran in Validate Realm
+213 - Lost vassal: c_lotan
+213 - Holder 1002671 - Primary title: d_apedidn has lost the title: d_apedidn
+213 - Title given to 1002671 - Primary title: d_qeran
+213 - vassal: c_tueregh - Holder 1002671 - Primary title: c_tueregh has lost the title: c_tueregh
+213 - vassal: c_tueregh - Title given to 1002671 - Primary title: d_qeran
+213 - vassal: c_wulibel - Holder 1002671 - Primary title: c_wulibel has lost the title: c_wulibel
+213 - vassal: c_wulibel - Title given to 1002671 - Primary title: d_qeran
+213 - vassal: c_keret - Holder 1002671 - Primary title: c_keret has lost the title: c_keret
+213 - vassal: c_keret - Title given to 1002671 - Primary title: d_qeran
+225 - Gained vassal: c_lotan
+225 - Gained vassal: c_reraiba
+225 - Holder 1001108 - Primary title: d_apedidn has lost the title: d_apedidn
+225 - Title given to 1001108 - Primary title: k_butidn
+225 - vassal: c_reraiba - Holder 1001108 - Primary title: c_reraiba has lost the title: c_reraiba
+225 - vassal: c_reraiba - Title given to 1001108 - Primary title: k_butidn
+225 - vassal: c_lotan - Holder 1001108 - Primary title: c_lotan has lost the title: c_lotan
+225 - vassal: c_lotan - Title given to 1001108 - Primary title: k_butidn
+225 - vassal: c_tueregh - Holder 1001108 - Primary title: c_tueregh has lost the title: c_tueregh
+225 - vassal: c_tueregh - Title given to 1001108 - Primary title: k_butidn
+225 - vassal: c_wulibel - Holder 1001108 - Primary title: c_wulibel has lost the title: c_wulibel
+225 - vassal: c_wulibel - Title given to 1001108 - Primary title: k_butidn
+225 - vassal: c_keret - Holder 1001108 - Primary title: c_keret has lost the title: c_keret
+225 - vassal: c_keret - Title given to 1001108 - Primary title: k_butidn
+225 - vassal: c_keret - Given to 1004131 in HandleTitles - Too many duke titles
+225 - vassal: c_keret - Title given to 1004131
+225 - Title given to 1004131 - Primary title: c_keret
+225 - vassal: c_keret - Holder (1004131) has gained d_apedidn
+225 - vassal: c_reraiba - Setting to vassal of k_butidn in Validate Realm
+225 - Lost vassal: c_reraiba
+225 - vassal: c_lotan - Setting to vassal of k_butidn in Validate Realm
+225 - Lost vassal: c_lotan
+225 - vassal: c_tueregh - Setting to vassal of k_butidn in Validate Realm
+225 - Lost vassal: c_tueregh
+225 - vassal: c_wulibel - Setting to vassal of k_butidn in Validate Realm
+225 - Lost vassal: c_wulibel
+225 - Too many dukes, given to dejure: k_butidn
+236 - Holder (1004131) has gained d_enisso
+236 - Holder (1004131) has gained c_qutan
+236 - Holder (1004131) has gained c_beregh
+236 - Holder (1004131) has gained c_welibel
+257 - vassal: c_keret - Title given to 1006574
+259 - Title given to 1004648
+259 - Holder (1004648) has gained c_welibel
+259 - Gained vassal: c_welibel
+259 - Holder (1004648) has gained c_beregh
+259 - Gained vassal: c_beregh
+259 - Holder (1004648) has gained d_epedibel
+259 - Holder (1004648) has gained c_seremzi
+259 - Holder (1004648) has gained c_nulomon
+259 - Holder (1004648) has gained c_ataymima
+272 - Gained vassal: c_seremzi
+272 - Gained vassal: c_nulomon
+272 - Gained vassal: c_ataymima
+272 - Holder 1006573 - Primary title: d_apedidn has lost the title: d_apedidn
+272 - Title given to 1006573 - Primary title: d_enisso
+272 - vassal: c_ataymima - Holder 1006573 - Primary title: c_ataymima has lost the title: c_ataymima
+272 - vassal: c_ataymima - Title given to 1006573 - Primary title: d_enisso
+272 - vassal: c_nulomon - Holder 1006573 - Primary title: c_nulomon has lost the title: c_nulomon
+272 - vassal: c_nulomon - Title given to 1006573 - Primary title: d_enisso
+272 - vassal: c_seremzi - Holder 1006573 - Primary title: c_seremzi has lost the title: c_seremzi
+272 - vassal: c_seremzi - Title given to 1006573 - Primary title: d_enisso
+272 - vassal: c_beregh - Holder 1006573 - Primary title: c_beregh has lost the title: c_beregh
+272 - vassal: c_beregh - Title given to 1006573 - Primary title: d_enisso
+272 - vassal: c_welibel - Holder 1006573 - Primary title: c_welibel has lost the title: c_welibel
+272 - vassal: c_welibel - Title given to 1006573 - Primary title: d_enisso
+274 - vassal: c_seremzi - Title given to 1007909
+274 - vassal: c_nulomon - Title given to 1007910
+278 - vassal: c_keret - Given to 1008199 in HandleTitles - Too many duke titles
+278 - vassal: c_keret - Holder 1008199 - Primary title: c_keret has lost the title: c_keret
+278 - vassal: c_keret - Title given to 1008199
+278 - Title given to 1004932 - Primary title: k_butidn
+278 - vassal: c_ataymima - Setting to vassal of d_enisso in Validate Realm
+278 - Lost vassal: c_ataymima
+278 - vassal: c_beregh - Setting to vassal of d_enisso in Validate Realm
+278 - Lost vassal: c_beregh
+278 - vassal: c_welibel - Setting to vassal of d_enisso in Validate Realm
+278 - Lost vassal: c_welibel
+278 - Too many dukes, made direct title into vassal of k_butidn
+278 - Title given to 1008201
+280 - Holder 1007841 - Primary title: d_apedidn has lost the title: d_apedidn
+280 - Title given to 1007841 - Primary title: d_epedibel
+297 - Holder (1007841) has gai

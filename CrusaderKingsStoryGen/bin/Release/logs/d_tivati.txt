@@ -1,0 +1,32 @@
+200 - Title given to 1000358
+200 - vassal: c_epatutan - Holder 1000358 - Primary title: c_epatutan has lost the title: c_epatutan
+200 - sub vassal: c_epatutan - Holder 1000358 - Primary title: c_epatutan has lost the title: c_epatutan
+200 - vassal: c_epatutan - Title given to 1000358 - Primary title: d_tivati
+200 - sub vassal: c_epatutan - Title given to 1000358 - Primary title: d_tivati
+200 - Holder (1000358) has gained c_epatutan
+200 - vassal: c_aracati - Holder 1000358 - Primary title: c_aracati has lost the title: c_aracati
+200 - sub vassal: c_aracati - Holder 1000358 - Primary title: c_aracati has lost the title: c_aracati
+200 - vassal: c_aracati - Title given to 1000358 - Primary title: d_tivati
+200 - sub vassal: c_aracati - Title given to 1000358 - Primary title: d_tivati
+200 - Holder (1000358) has gained c_aracati
+200 - vassal: c_nalati - Title given to 1000358 - Primary title: d_tivati
+200 - Holder (1000358) has gained c_nalati
+201 - Holder 1001549 - Primary title: d_tivati has lost the title: d_tivati
+201 - Title given to 1001549 - Primary title: k_rakhe
+201 - vassal: c_nalati - Holder 1001549 - Primary title: c_nalati has lost the title: c_nalati
+201 - vassal: c_nalati - Title given to 1001549 - Primary title: k_rakhe
+201 - vassal: c_aracati - Holder 1001549 - Primary title: c_aracati has lost the title: c_aracati
+201 - vassal: c_aracati - Title given to 1001549 - Primary title: k_rakhe
+201 - vassal: c_epatutan - Holder 1001549 - Primary title: c_epatutan has lost the title: c_epatutan
+201 - vassal: c_epatutan - Title given to 1001549 - Primary title: k_rakhe
+247 - Holder 1002547 - Primary title: d_tivati has lost the title: d_tivati
+247 - Title given to 1002547 - Primary title: k_rakhe
+247 - vassal: c_nalati - Setting to vassal of d_suloze in Validate Realm
+247 - Lost vassal: c_nalati
+247 - vassal: c_aracati - Setting to vassal of d_suloze in Validate Realm
+247 - Lost vassal: c_aracati
+247 - vassal: c_epatutan - Setting to vassal of d_suloze in Validate Realm
+247 - Lost vassal: c_epatutan
+248 - Destroyed due to flagged problem
+248 - Made independent
+248 - Title destroyed

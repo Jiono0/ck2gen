@@ -1,0 +1,109 @@
+200 - Title given to 1000241
+200 - vassal: c_lodiazis - Holder 1000241 - Primary title: c_lodiazis has lost the title: c_lodiazis
+200 - sub vassal: c_lodiazis - Holder 1000241 - Primary title: c_lodiazis has lost the title: c_lodiazis
+200 - vassal: c_lodiazis - Title given to 1000241 - Primary title: d_butyu
+200 - sub vassal: c_lodiazis - Title given to 1000241 - Primary title: d_butyu
+200 - Holder (1000241) has gained c_lodiazis
+200 - vassal: c_quririn - Holder 1000241 - Primary title: c_quririn has lost the title: c_quririn
+200 - sub vassal: c_quririn - Holder 1000241 - Primary title: c_quririn has lost the title: c_quririn
+200 - vassal: c_quririn - Title given to 1000241 - Primary title: d_butyu
+200 - sub vassal: c_quririn - Title given to 1000241 - Primary title: d_butyu
+200 - Holder (1000241) has gained c_quririn
+200 - vassal: c_sodukan - Holder 1000241 - Primary title: c_sodukan has lost the title: c_sodukan
+200 - sub vassal: c_sodukan - Holder 1000241 - Primary title: c_sodukan has lost the title: c_sodukan
+200 - vassal: c_sodukan - Title given to 1000241 - Primary title: d_butyu
+200 - sub vassal: c_sodukan - Title given to 1000241 - Primary title: d_butyu
+200 - Holder (1000241) has gained c_sodukan
+203 - Holder 1000169 - Primary title: d_butyu has lost the title: d_butyu
+203 - Title given to 1000169 - Primary title: d_lakuyan
+203 - vassal: c_sodukan - Holder 1000169 - Primary title: c_sodukan has lost the title: c_sodukan
+203 - vassal: c_sodukan - Title given to 1000169 - Primary title: d_lakuyan
+203 - vassal: c_quririn - Holder 1000169 - Primary title: c_quririn has lost the title: c_quririn
+203 - vassal: c_quririn - Title given to 1000169 - Primary title: d_lakuyan
+203 - vassal: c_lodiazis - Holder 1000169 - Primary title: c_lodiazis has lost the title: c_lodiazis
+203 - vassal: c_lodiazis - Title given to 1000169 - Primary title: d_lakuyan
+204 - Holder 1002432 - Primary title: d_butyu has lost the title: c_sanaya
+204 - Holder 1002433 - Primary title: d_butyu has lost the title: c_bodergis
+214 - Holder 1002727 - Primary title: d_butyu has lost the title: d_lakuyan
+214 - Gained vassal: c_avirukan
+214 - Gained vassal: c_sodelim
+214 - Holder 1002727 - Primary title: d_butyu has lost the title: c_sodelim
+214 - vassal: c_sodelim - Title given to 1002727 - Primary title: d_lakuyan
+214 - vassal: c_sodelim - Setting to vassal of d_lakuyan in Validate Realm
+214 - Lost vassal: c_sodelim
+214 - Holder 1002727 - Primary title: d_butyu has lost the title: c_avirukan
+214 - vassal: c_avirukan - Title given to 1002727 - Primary title: d_lakuyan
+214 - vassal: c_avirukan - Setting to vassal of d_lakuyan in Validate Realm
+214 - Lost vassal: c_avirukan
+214 - Holder 1002727 - Primary title: d_butyu has lost the title: d_butyu
+214 - Title given to 1002727 - Primary title: d_lakuyan
+214 - vassal: c_sodukan - Holder 1002727 - Primary title: c_sodukan has lost the title: c_sodukan
+214 - vassal: c_sodukan - Title given to 1002727 - Primary title: d_lakuyan
+214 - vassal: c_quririn - Holder 1002727 - Primary title: c_quririn has lost the title: c_quririn
+214 - vassal: c_quririn - Title given to 1002727 - Primary title: d_lakuyan
+214 - vassal: c_lodiazis - Holder 1002727 - Primary title: c_lodiazis has lost the title: c_lodiazis
+214 - vassal: c_lodiazis - Title given to 1002727 - Primary title: d_lakuyan
+258 - Gained vassal: c_avirukan
+258 - Gained vassal: c_sodelim
+258 - Holder 1004169 - Primary title: d_butyu has lost the title: d_butyu
+258 - Title given to 1004169 - Primary title: d_lakuyan
+258 - vassal: c_sodelim - Holder 1004169 - Primary title: c_sodelim has lost the title: c_sodelim
+258 - vassal: c_sodelim - Title given to 1004169 - Primary title: d_lakuyan
+258 - vassal: c_avirukan - Holder 1004169 - Primary title: c_avirukan has lost the title: c_avirukan
+258 - vassal: c_avirukan - Title given to 1004169 - Primary title: d_lakuyan
+258 - vassal: c_sodukan - Holder 1004169 - Primary title: c_sodukan has lost the title: c_sodukan
+258 - vassal: c_sodukan - Title given to 1004169 - Primary title: d_lakuyan
+258 - vassal: c_quririn - Holder 1004169 - Primary title: c_quririn has lost the title: c_quririn
+258 - vassal: c_quririn - Title given to 1004169 - Primary title: d_lakuyan
+258 - vassal: c_lodiazis - Holder 1004169 - Primary title: c_lodiazis has lost the title: c_lodiazis
+258 - vassal: c_lodiazis - Title given to 1004169 - Primary title: d_lakuyan
+284 - vassal: c_sodelim - Title given to 1008647
+284 - vassal: c_lodiazis - Title given to 1005167
+284 - vassal: c_quririn - Title given to 1008648
+284 - vassal: c_avirukan - Title given to 1004284
+284 - vassal: c_sodukan - Title given to 1008649
+287 - Gained vassal: c_tanao
+287 - Gained vassal: c_toduyan
+287 - Gained vassal: c_ashocji
+287 - Gained vassal: c_lodirin
+287 - Gained vassal: c_kanasan
+287 - Holder 1006880 - Primary title: d_butyu has lost the title: d_butyu
+287 - Title given to 1006880 - Primary title: k_waintas
+287 - vassal: c_kanasan - Holder 1006880 - Primary title: c_kanasan has lost the title: c_kanasan
+287 - vassal: c_kanasan - Title given to 1006880 - Primary title: k_waintas
+287 - vassal: c_lodirin - Holder 1006880 - Primary title: c_lodirin has lost the title: c_lodirin
+287 - vassal: c_lodirin - Title given to 1006880 - Primary title: k_waintas
+287 - vassal: c_ashocji - Holder 1006880 - Primary title: c_ashocji has lost the title: c_ashocji
+287 - vassal: c_ashocji - Title given to 1006880 - Primary title: k_waintas
+287 - vassal: c_toduyan - Holder 1006880 - Primary title: c_toduyan has lost the title: c_toduyan
+287 - vassal: c_toduyan - Title given to 1006880 - Primary title: k_waintas
+287 - vassal: c_tanao - Holder 1006880 - Primary title: c_tanao has lost the title: c_tanao
+287 - vassal: c_tanao - Title given to 1006880 - Primary title: k_waintas
+310 - Holder 1009497 - Primary title: d_butyu has lost the title: d_butyu
+310 - Title given to 1009497 - Primary title: k_waintas
+310 - vassal: c_tanao - Holder 1009497 - Primary title: c_tanao has lost the title: c_tanao
+310 - vassal: c_tanao - Title given to 1009497 - Primary title: k_waintas
+310 - vassal: c_toduyan - Holder 1009497 - Primary title: c_toduyan has lost the title: c_toduyan
+310 - vassal: c_toduyan - Title given to 1009497 - Primary title: k_waintas
+310 - vassal: c_ashocji - Holder 1009497 - Primary title: c_ashocji has lost the title: c_ashocji
+310 - vassal: c_ashocji - Title given to 1009497 - Primary title: k_waintas
+310 - vassal: c_lodirin - Holder 1009497 - Primary title: c_lodirin has lost the title: c_lodirin
+310 - vassal: c_lodirin - Title given to 1009497 - Primary title: k_waintas
+310 - vassal: c_kanasan - Holder 1009497 - Primary title: c_kanasan has lost the title: c_kanasan
+310 - vassal: c_kanasan - Title given to 1009497 - Primary title: k_waintas
+337 - Holder 1010946 - Primary title: d_butyu has lost the title: d_butyu
+337 - Title given to 1010946 - Primary title: k_waintas
+337 - vassal: c_kanasan - Holder 1010946 - Primary title: c_kanasan has lost the title: c_kanasan
+337 - vassal: c_kanasan - Title given to 1010946 - Primary title: k_waintas
+337 - vassal: c_lodirin - Holder 1010946 - Primary title: c_lodirin has lost the title: c_lodirin
+337 - vassal: c_lodirin - Title given to 1010946 - Primary title: k_waintas
+337 - vassal: c_ashocji - Holder 1010946 - Primary title: c_ashocji has lost the title: c_ashocji
+337 - vassal: c_ashocji - Title given to 1010946 - Primary title: k_waintas
+337 - vassal: c_toduyan - Holder 1010946 - Primary title: c_toduyan has lost the title: c_toduyan
+337 - vassal: c_toduyan - Title given to 1010946 - Primary title: k_waintas
+337 - vassal: c_tanao - Holder 1010946 - Primary title: c_tanao has lost the title: c_tanao
+337 - vassal: c_tanao - Title given to 1010946 - Primary title: k_waintas
+343 - Holder 1008488 - Primary title: d_butyu has lost the title: d_butyu
+343 - Title given to 1008488 - Primary title: k_waintas
+343 - vassal: c_tanao - Holder 1008488 - Primary title: c_tanao has lost the title: c_tanao
+343 - vassal: c_tanao - Title given to 1008488 - Primary title: k_wain

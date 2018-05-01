@@ -1,0 +1,403 @@
+200 - Title given to 1001590
+200 - vassal: d_tabiraz - Holder 1001590 - Primary title: d_tabiraz has lost the title: c_relona
+200 - sub vassal: d_tabiraz - Holder 1001590 - Primary title: d_tabiraz has lost the title: c_relona
+200 - sub vassal: c_relona - Title given to 1001590 - Primary title: k_emarolik
+200 - Holder (1001590) has gained c_relona
+208 - Holder 1001408 - Primary title: k_emarolik has lost the title: k_emarolik
+208 - Title given to 1001408 - Primary title: d_tabiraz
+208 - vassal: d_tabiraz - Holder (1001408) has gained k_emarolik
+208 - sub vassal: d_tabiraz - Holder (1001408) has gained k_emarolik
+208 - sub vassal: c_relona - Holder 1001408 - Primary title: c_relona has lost the title: c_relona
+208 - sub vassal: c_relona - Title given to 1001408 - Primary title: k_emarolik
+208 - Holder (1001408) has gained c_relona
+211 - vassal: d_tacoos - Holder 1002662 - Primary title: d_tacoos has lost the title: d_tacoos
+211 - sub vassal: d_tacoos - Holder 1002662 - Primary title: d_tacoos has lost the title: d_tacoos
+211 - vassal: d_tacoos - Title given to 1002662
+211 - sub vassal: d_tacoos - Title given to 1002662
+211 - sub vassal: c_kyaui - Holder 1002662 - Primary title: c_kyaui has lost the title: c_kyaui
+211 - sub vassal: c_kyaui - Title given to 1002662 - Primary title: d_tacoos
+211 - vassal: d_tacoos - Holder (1002662) has gained c_kyaui
+211 - sub vassal: d_tacoos - Holder (1002662) has gained c_kyaui
+211 - sub vassal: c_narona - Holder 1002662 - Primary title: c_narona has lost the title: c_narona
+211 - sub vassal: c_narona - Title given to 1002662 - Primary title: d_tacoos
+211 - vassal: d_tacoos - Holder (1002662) has gained c_narona
+211 - sub vassal: d_tacoos - Holder (1002662) has gained c_narona
+211 - sub vassal: c_naciraz - Holder 1002662 - Primary title: c_naciraz has lost the title: c_naciraz
+211 - sub vassal: c_naciraz - Title given to 1002662 - Primary title: d_tacoos
+211 - vassal: d_tacoos - Holder (1002662) has gained c_naciraz
+211 - sub vassal: d_tacoos - Holder (1002662) has gained c_naciraz
+214 - Holder 1002900 - Primary title: k_emarolik has lost the title: k_emarolik
+214 - Title given to 1002900
+214 - vassal: d_tabiraz - Holder 1002900 - Primary title: d_tabiraz has lost the title: d_tabiraz
+214 - sub vassal: d_tabiraz - Holder 1002900 - Primary title: d_tabiraz has lost the title: d_tabiraz
+214 - vassal: d_tabiraz - Title given to 1002900 - Primary title: k_emarolik
+214 - sub vassal: d_tabiraz - Title given to 1002900 - Primary title: k_emarolik
+214 - Holder (1002900) has gained d_tabiraz
+214 - sub vassal: c_kashad - Holder 1002900 - Primary title: c_kashad has lost the title: c_kashad
+214 - sub vassal: c_kashad - Title given to 1002900 - Primary title: k_emarolik
+214 - Holder (1002900) has gained c_kashad
+214 - sub vassal: c_relona - Holder 1002900 - Primary title: c_relona has lost the title: c_relona
+214 - sub vassal: c_relona - Title given to 1002900 - Primary title: k_emarolik
+214 - Holder (1002900) has gained c_relona
+240 - vassal: d_ryaia - Holder 1002398 - Primary title: d_ryaia has lost the title: d_ryaia
+240 - sub vassal: d_ryaia - Holder 1002398 - Primary title: d_ryaia has lost the title: d_ryaia
+240 - vassal: d_ryaia - Title given to 1002398
+240 - sub vassal: d_ryaia - Title given to 1002398
+240 - sub vassal: c_qabashad - Holder 1002398 - Primary title: c_qabashad has lost the title: c_qabashad
+240 - sub vassal: c_qabashad - Title given to 1002398 - Primary title: d_ryaia
+240 - vassal: d_ryaia - Holder (1002398) has gained c_qabashad
+240 - sub vassal: d_ryaia - Holder (1002398) has gained c_qabashad
+240 - sub vassal: c_tenebia - Holder 1002398 - Primary title: c_tenebia has lost the title: c_tenebia
+240 - sub vassal: c_tenebia - Title given to 1002398 - Primary title: d_ryaia
+240 - vassal: d_ryaia - Holder (1002398) has gained c_tenebia
+240 - sub vassal: d_ryaia - Holder (1002398) has gained c_tenebia
+242 - Holder 1004257 - Primary title: k_emarolik has lost the title: k_emarolik
+242 - Title given to 1004257
+242 - vassal: d_tabiraz - Holder 1004257 - Primary title: d_tabiraz has lost the title: d_tabiraz
+242 - sub vassal: d_tabiraz - Holder 1004257 - Primary title: d_tabiraz has lost the title: d_tabiraz
+242 - vassal: d_tabiraz - Title given to 1004257 - Primary title: k_emarolik
+242 - sub vassal: d_tabiraz - Title given to 1004257 - Primary title: k_emarolik
+242 - Holder (1004257) has gained d_tabiraz
+242 - sub vassal: c_kashad - Holder 1004257 - Primary title: c_kashad has lost the title: c_kashad
+242 - sub vassal: c_kashad - Title given to 1004257 - Primary title: k_emarolik
+242 - Holder (1004257) has gained c_kashad
+242 - sub vassal: c_relona - Holder 1004257 - Primary title: c_relona has lost the title: c_relona
+242 - sub vassal: c_relona - Title given to 1004257 - Primary title: k_emarolik
+242 - Holder (1004257) has gained c_relona
+256 - vassal: d_tacoos - Holder 1002398 - Primary title: d_tacoos has lost the title: d_tacoos
+256 - sub vassal: d_tacoos - Holder 1002398 - Primary title: d_tacoos has lost the title: d_tacoos
+256 - vassal: d_tacoos - Title given to 1002398 - Primary title: d_ryaia
+256 - sub vassal: d_tacoos - Title given to 1002398 - Primary title: d_ryaia
+256 - vassal: d_ryaia - Holder (1002398) has gained d_tacoos
+256 - sub vassal: d_ryaia - Holder (1002398) has gained d_tacoos
+256 - sub vassal: c_kyaui - Holder 1002398 - Primary title: c_kyaui has lost the title: c_kyaui
+256 - sub vassal: c_kyaui - Title given to 1002398 - Primary title: d_ryaia
+256 - vassal: d_ryaia - Holder (1002398) has gained c_kyaui
+256 - sub vassal: d_ryaia - Holder (1002398) has gained c_kyaui
+256 - sub vassal: c_narona - Holder 1002398 - Primary title: c_narona has lost the title: c_narona
+256 - sub vassal: c_narona - Title given to 1002398 - Primary title: d_ryaia
+256 - vassal: d_ryaia - Holder (1002398) has gained c_narona
+256 - sub vassal: d_ryaia - Holder (1002398) has gained c_narona
+256 - sub vassal: c_naciraz - Holder 1002398 - Primary title: c_naciraz has lost the title: c_naciraz
+256 - sub vassal: c_naciraz - Title given to 1002398 - Primary title: d_ryaia
+256 - vassal: d_ryaia - Holder (1002398) has gained c_naciraz
+256 - sub vassal: d_ryaia - Holder (1002398) has gained c_naciraz
+258 - vassal: d_tacoos - Holder 1006912 - Primary title: d_tacoos has lost the title: d_ryaia
+258 - sub vassal: d_tacoos - Holder 1006912 - Primary title: d_tacoos has lost the title: d_ryaia
+258 - vassal: d_ryaia - Title given to 1006912
+258 - sub vassal: d_ryaia - Title given to 1006912
+258 - sub vassal: c_qabashad - Setting to vassal of d_tacoos in Validate Realm
+258 - vassal: d_ryaia - Lost vassal: c_qabashad
+258 - sub vassal: d_ryaia - Lost vassal: c_qabashad
+258 - sub vassal: c_tenebia - Setting to vassal of d_tacoos in Validate Realm
+258 - vassal: d_ryaia - Lost vassal: c_tenebia
+258 - sub vassal: d_ryaia - Lost vassal: c_tenebia
+258 - vassal: d_tacoos - Gained vassal: c_tenebia
+258 - sub vassal: d_tacoos - Gained vassal: c_tenebia
+258 - vassal: d_tacoos - Gained vassal: c_qabashad
+258 - sub vassal: d_tacoos - Gained vassal: c_qabashad
+258 - vassal: d_tacoos - Holder 1006912 - Primary title: d_tacoos has lost the title: c_qabashad
+258 - sub vassal: d_tacoos - Holder 1006912 - Primary title: d_tacoos has lost the title: c_qabashad
+258 - sub vassal: c_qabashad - Title given to 1006912 - Primary title: d_ryaia
+258 - vassal: d_ryaia - Holder (1006912) has gained c_qabashad
+258 - sub vassal: d_ryaia - Holder (1006912) has gained c_qabashad
+258 - sub vassal: c_qabashad - Setting to vassal of d_ryaia in Validate Realm
+258 - vassal: d_tacoos - Lost vassal: c_qabashad
+258 - sub vassal: d_tacoos - Lost vassal: c_qabashad
+258 - vassal: d_ryaia - Gained vassal: c_qabashad
+258 - sub vassal: d_ryaia - Gained vassal: c_qabashad
+258 - vassal: d_tacoos - Holder 1006912 - Primary title: d_tacoos has lost the title: c_tenebia
+258 - sub vassal: d_tacoos - Holder 1006912 - Primary title: d_tacoos has lost the title: c_tenebia
+258 - sub vassal: c_tenebia - Title given to 1006912 - Primary title: d_ryaia
+258 - vassal: d_ryaia - Holder (1006912) has gained c_tenebia
+258 - sub vassal: d_ryaia - Holder (1006912) has gained c_tenebia
+258 - sub vassal: c_tenebia - Setting to vassal of d_ryaia in Validate Realm
+258 - vassal: d_tacoos - Lost vassal: c_tenebia
+258 - sub vassal: d_tacoos - Lost vassal: c_tenebia
+258 - vassal: d_ryaia - Gained vassal: c_tenebia
+258 - sub vassal: d_ryaia - Gained vassal: c_tenebia
+258 - vassal: d_tacoos - Holder 1006912 - Primary title: d_tacoos has lost the title: d_tacoos
+258 - sub vassal: d_tacoos - Holder 1006912 - Primary title: d_tacoos has lost the title: d_tacoos
+258 - vassal: d_tacoos - Title given to 1006912 - Primary title: d_ryaia
+258 - sub vassal: d_tacoos - Title given to 1006912 - Primary title: d_ryaia
+258 - vassal: d_ryaia - Holder (1006912) has gained d_tacoos
+258 - sub vassal: d_ryaia - Holder (1006912) has gained d_tacoos
+258 - sub vassal: c_kyaui - Holder 1006912 - Primary title: c_kyaui has lost the title: c_kyaui
+258 - sub vassal: c_kyaui - Title given to 1006912 - Primary title: d_ryaia
+258 - vassal: d_ryaia - Holder (1006912) has gained c_kyaui
+258 - sub vassal: d_ryaia - Holder (1006912) has gained c_kyaui
+258 - sub vassal: c_narona - Holder 1006912 - Primary title: c_narona has lost the title: c_narona
+258 - sub vassal: c_narona - Title given to 1006912 - Primary title: d_ryaia
+258 - vassal: d_ryaia - Holder (1006912) has gained c_narona
+258 - sub vassal: d_ryaia - Holder (1006912) has gained c_narona
+258 - sub vassal: c_naciraz - Holder 1006912 - Primary title: c_naciraz has lost the title: c_naciraz
+258 - sub vassal: c_naciraz - Title given to 1006912 - Primary title: d_ryaia
+258 - vassal: d_ryaia - Holder (1006912) has gained c_naciraz
+258 - sub vassal: d_ryaia - Holder (1006912) has gained c_naciraz
+261 - vassal: d_tacoos - Holder 1004257 - Primary title: d_tacoos has lost the title: d_tacoos
+261 - sub vassal: d_tacoos - Holder 1004257 - Primary title: d_tacoos has lost the title: d_tacoos
+261 - vassal: d_tacoos - Title given to 1004257 - Primary title: k_emarolik
+261 - sub vassal: d_tacoos - Title given to 1004257 - Primary title: k_emarolik
+261 - Holder (1004257) has gained d_tacoos
+261 - sub vassal: c_naciraz - Setting to vassal of d_ryaia in Validate Realm
+261 - vassal: d_tacoos - Lost vassal: c_naciraz
+261 - sub vassal: d_tacoos - Lost vassal: c_naciraz
+261 - sub vassal: c_narona - Setting to vassal of d_ryaia in Validate Realm
+261 - vassal: d_tacoos - Lost vassal: c_narona
+261 - sub vassal: d_tacoos - Lost vassal: c_narona
+261 - sub vassal: c_kyaui - Setting to vassal of d_ryaia in Validate Realm
+261 - vassal: d_tacoos - Lost vassal: c_kyaui
+261 - sub vassal: d_tacoos - Lost vassal: c_kyaui
+261 - vassal: d_ryaia - Gained vassal: c_kyaui
+261 - sub vassal: d_ryaia - Gained vassal: c_kyaui
+261 - vassal: d_ryaia - Gained vassal: c_narona
+261 - sub vassal: d_ryaia - Gained vassal: c_narona
+261 - vassal: d_ryaia - Gained vassal: c_naciraz
+261 - sub vassal: d_ryaia - Gained vassal: c_naciraz
+261 - vassal: d_ryaia - Holder 1004257 - Primary title: d_ryaia has lost the title: d_ryaia
+261 - sub vassal: d_ryaia - Holder 1004257 - Primary title: d_ryaia has lost the title: d_ryaia
+261 - vassal: d_ryaia - Title given to 1004257 - Primary title: k_emarolik
+261 - sub vassal: d_ryaia - Title given to 1004257 - Primary title: k_emarolik
+261 - Holder (1004257) has gained d_ryaia
+261 - sub vassal: c_naciraz - Holder 1004257 - Primary title: c_naciraz has lost the title: c_naciraz
+261 - sub vassal: c_naciraz - Title given to 1004257 - Primary title: k_emarolik
+261 - Holder (1004257) has gained c_naciraz
+261 - sub vassal: c_narona - Holder 1004257 - Primary title: c_narona has lost the title: c_narona
+261 - sub vassal: c_narona - Title given to 1004257 - Primary title: k_emarolik
+261 - Holder (1004257) has gained c_narona
+261 - sub vassal: c_kyaui - Holder 1004257 - Primary title: c_kyaui has lost the title: c_kyaui
+261 - sub vassal: c_kyaui - Title given to 1004257 - Primary title: k_emarolik
+261 - Holder (1004257) has gained c_kyaui
+261 - sub vassal: c_tenebia - Holder 1004257 - Primary title: c_tenebia has lost the title: c_tenebia
+261 - sub vassal: c_tenebia - Title given to 1004257 - Primary title: k_emarolik
+261 - Holder (1004257) has gained c_tenebia
+261 - sub vassal: c_qabashad - Holder 1004257 - Primary title: c_qabashad has lost the title: c_qabashad
+261 - sub vassal: c_qabashad - Title given to 1004257 - Primary title: k_emarolik
+261 - Holder (1004257) has gained c_qabashad
+261 - vassal: d_tacoos - Destroyed due to flagged problem
+261 - sub vassal: d_tacoos - Destroyed due to flagged problem
+261 - vassal: d_tacoos - Made independent
+261 - sub vassal: d_tacoos - Made independent
+261 - Holder 1003014 - Primary title: k_emarolik has lost the title: c_naciraz
+261 - sub vassal: c_naciraz - Title given to 1003014
+261 - Holder 1007545 - Primary title: k_emarolik has lost the title: c_narona
+261 - sub vassal: c_narona - Title given to 1007545
+281 - Holder 1006329 - Primary title: k_emarolik has lost the title: k_emarolik
+281 - Title given to 1006329
+281 - vassal: d_ryaia - Holder 1006329 - Primary title: d_ryaia has lost the title: d_ryaia
+281 - sub vassal: d_ryaia - Holder 1006329 - Primary title: d_ryaia has lost the title: d_ryaia
+281 - vassal: d_ryaia - Title given to 1006329 - Primary title: k_emarolik
+281 - sub vassal: d_ryaia - Title given to 1006329 - Primary title: k_emarolik
+281 - Holder (1006329) has gained d_ryaia
+281 - sub vassal: c_qabashad - Setting to vassal of d_tabiraz in Validate Realm
+281 - vassal: d_ryaia - Lost vassal: c_qabashad
+281 - sub vassal: d_ryaia - Lost vassal: c_qabashad
+281 - sub vassal: c_tenebia - Setting to vassal of d_tabiraz in Validate Realm
+281 - vassal: d_ryaia - Lost vassal: c_tenebia
+281 - sub vassal: d_ryaia - Lost vassal: c_tenebia
+281 - sub vassal: c_kyaui - Setting to vassal of d_tabiraz in Validate Realm
+281 - vassal: d_ryaia - Lost vassal: c_kyaui
+281 - sub vassal: d_ryaia - Lost vassal: c_kyaui
+281 - vassal: d_tabiraz - Gained vassal: c_kyaui
+281 - sub vassal: d_tabiraz - Gained vassal: c_kyaui
+281 - vassal: d_tabiraz - Gained vassal: c_tenebia
+281 - sub vassal: d_tabiraz - Gained vassal: c_tenebia
+281 - vassal: d_tabiraz - Gained vassal: c_qabashad
+281 - sub vassal: d_tabiraz - Gained vassal: c_qabashad
+281 - vassal: d_tabiraz - Holder 1006329 - Primary title: d_tabiraz has lost the title: d_tabiraz
+281 - sub vassal: d_tabiraz - Holder 1006329 - Primary title: d_tabiraz has lost the title: d_tabiraz
+281 - vassal: d_tabiraz - Title given to 1006329 - Primary title: k_emarolik
+281 - sub vassal: d_tabiraz - Title given to 1006329 - Primary title: k_emarolik
+281 - Holder (1006329) has gained d_tabiraz
+281 - sub vassal: c_qabashad - Holder 1006329 - Primary title: c_qabashad has lost the title: c_qabashad
+281 - sub vassal: c_qabashad - Title given to 1006329 - Primary title: k_emarolik
+281 - Holder (1006329) has gained c_qabashad
+281 - sub vassal: c_tenebia - Holder 1006329 - Primary title: c_tenebia has lost the title: c_tenebia
+281 - sub vassal: c_tenebia - Title given to 1006329 - Primary title: k_emarolik
+281 - Holder (1006329) has gained c_tenebia
+281 - sub vassal: c_kyaui - Holder 1006329 - Primary title: c_kyaui has lost the title: c_kyaui
+281 - sub vassal: c_kyaui - Title given to 1006329 - Primary title: k_emarolik
+281 - Holder (1006329) has gained c_kyaui
+281 - sub vassal: c_kashad - Holder 1006329 - Primary title: c_kashad has lost the title: c_kashad
+281 - sub vassal: c_kashad - Title given to 1006329 - Primary title: k_emarolik
+281 - Holder (1006329) has gained c_kashad
+281 - sub vassal: c_relona - Holder 1006329 - Primary title: c_relona has lost the title: c_relona
+281 - sub vassal: c_relona - Title given to 1006329 - Primary title: k_emarolik
+281 - Holder (1006329) has gained c_relona
+282 - Holder 1009290 - Primary title: k_emarolik has lost the title: k_emarolik
+282 - Title given to 1009290
+282 - vassal: d_ryaia - Holder 1009290 - Primary title: d_ryaia has lost the title: d_ryaia
+282 - sub vassal: d_ryaia - Holder 1009290 - Primary title: d_ryaia has lost the title: d_ryaia
+282 - vassal: d_ryaia - Title given to 1009290 - Primary title: k_emarolik
+282 - sub vassal: d_ryaia - Title given to 1009290 - Primary title: k_emarolik
+282 - Holder (1009290) has gained d_ryaia
+282 - vassal: d_tabiraz - Holder 1009290 - Primary title: d_tabiraz has lost the title: d_tabiraz
+282 - sub vassal: d_tabiraz - Holder 1009290 - Primary title: d_tabiraz has lost the title: d_tabiraz
+282 - vassal: d_tabiraz - Title given to 1009290 - Primary title: k_emarolik
+282 - sub vassal: d_tabiraz - Title given to 1009290 - Primary title: k_emarolik
+282 - Holder (1009290) has gained d_tabiraz
+282 - sub vassal: c_qabashad - Holder 1009290 - Primary title: c_qabashad has lost the title: c_qabashad
+282 - sub vassal: c_qabashad - Title given to 1009290 - Primary title: k_emarolik
+282 - Holder (1009290) has gained c_qabashad
+282 - sub vassal: c_tenebia - Holder 1009290 - Primary title: c_tenebia has lost the title: c_tenebia
+282 - sub vassal: c_tenebia - Title given to 1009290 - Primary title: k_emarolik
+282 - Holder (1009290) has gained c_tenebia
+282 - sub vassal: c_kyaui - Holder 1009290 - Primary title: c_kyaui has lost the title: c_kyaui
+282 - sub vassal: c_kyaui - Title given to 1009290 - Primary title: k_emarolik
+282 - Holder (1009290) has gained c_kyaui
+282 - sub vassal: c_kashad - Holder 1009290 - Primary title: c_kashad has lost the title: c_kashad
+282 - sub vassal: c_kashad - Title given to 1009290 - Primary title: k_emarolik
+282 - Holder (1009290) has gained c_kashad
+282 - sub vassal: c_relona - Holder 1009290 - Primary title: c_relona has lost the title: c_relona
+282 - sub vassal: c_relona - Title given to 1009290 - Primary title: k_emarolik
+282 - Holder (1009290) has gained c_relona
+300 - Holder 1009768 - Primary title: k_emarolik has lost the title: k_emarolik
+300 - Title given to 1009768
+300 - vassal: d_tabiraz - Holder 1009768 - Primary title: d_tabiraz has lost the title: d_tabiraz
+300 - sub vassal: d_tabiraz - Holder 1009768 - Primary title: d_tabiraz has lost the title: d_tabiraz
+300 - vassal: d_tabiraz - Title given to 1009768 - Primary title: k_emarolik
+300 - sub vassal: d_tabiraz - Title given to 1009768 - Primary title: k_emarolik
+300 - Holder (1009768) has gained d_tabiraz
+300 - sub vassal: c_relona - Setting to vassal of d_ryaia in Validate Realm
+300 - vassal: d_tabiraz - Lost vassal: c_relona
+300 - sub vassal: d_tabiraz - Lost vassal: c_relona
+300 - sub vassal: c_kashad - Setting to vassal of d_ryaia in Validate Realm
+300 - vassal: d_tabiraz - Lost vassal: c_kashad
+300 - sub vassal: d_tabiraz - Lost vassal: c_kashad
+300 - sub vassal: c_kyaui - Setting to vassal of d_ryaia in Validate Realm
+300 - vassal: d_tabiraz - Lost vassal: c_kyaui
+300 - sub vassal: d_tabiraz - Lost vassal: c_kyaui
+300 - sub vassal: c_tenebia - Setting to vassal of d_ryaia in Validate Realm
+300 - vassal: d_tabiraz - Lost vassal: c_tenebia
+300 - sub vassal: d_tabiraz - Lost vassal: c_tenebia
+300 - sub vassal: c_qabashad - Setting to vassal of d_ryaia in Validate Realm
+300 - vassal: d_tabiraz - Lost vassal: c_qabashad
+300 - sub vassal: d_tabiraz - Lost vassal: c_qabashad
+300 - vassal: d_ryaia - Gained vassal: c_qabashad
+300 - sub vassal: d_ryaia - Gained vassal: c_qabashad
+300 - vassal: d_ryaia - Gained vassal: c_tenebia
+300 - sub vassal: d_ryaia - Gained vassal: c_tenebia
+300 - vassal: d_ryaia - Gained vassal: c_kyaui
+300 - sub vassal: d_ryaia - Gained vassal: c_kyaui
+300 - vassal: d_ryaia - Gained vassal: c_kashad
+300 - sub vassal: d_ryaia - Gained vassal: c_kashad
+300 - vassal: d_ryaia - Gained vassal: c_relona
+300 - sub vassal: d_ryaia - Gained vassal: c_relona
+300 - vassal: d_ryaia - Holder 1009768 - Primary title: d_ryaia has lost the title: d_ryaia
+300 - sub vassal: d_ryaia - Holder 1009768 - Primary title: d_ryaia has lost the title: d_ryaia
+300 - vassal: d_ryaia - Title given to 1009768 - Primary title: k_emarolik
+300 - sub vassal: d_ryaia - Title given to 1009768 - Primary title: k_emarolik
+300 - Holder (1009768) has gained d_ryaia
+300 - sub vassal: c_relona - Holder 1009768 - Primary title: c_relona has lost the title: c_relona
+300 - sub vassal: c_relona - Title given to 1009768 - Primary title: k_emarolik
+300 - Holder (1009768) has gained c_relona
+300 - sub vassal: c_kashad - Holder 1009768 - Primary title: c_kashad has lost the title: c_kashad
+300 - sub vassal: c_kashad - Title given to 1009768 - Primary title: k_emarolik
+300 - Holder (1009768) has gained c_kashad
+300 - sub vassal: c_kyaui - Holder 1009768 - Primary title: c_kyaui has lost the title: c_kyaui
+300 - sub vassal: c_kyaui - Title given to 1009768 - Primary title: k_emarolik
+300 - Holder (1009768) has gained c_kyaui
+300 - sub vassal: c_tenebia - Holder 1009768 - Primary title: c_tenebia has lost the title: c_tenebia
+300 - sub vassal: c_tenebia - Title given to 1009768 - Primary title: k_emarolik
+300 - Holder (1009768) has gained c_tenebia
+300 - sub vassal: c_qabashad - Holder 1009768 - Primary title: c_qabashad has lost the title: c_qabashad
+300 - sub vassal: c_qabashad - Title given to 1009768 - Primary title: k_emarolik
+300 - Holder (1009768) has gained c_qabashad
+301 - vassal: d_tabiraz - Destroyed due to flagged problem
+301 - sub vassal: d_tabiraz - Destroyed due to flagged problem
+301 - vassal: d_tabiraz - Made independent
+301 - sub vassal: d_tabiraz - Made independent
+305 - Holder 1011262 - Primary title: k_emarolik has lost the title: k_emarolik
+305 - Title given to 1011262
+305 - vassal: d_ryaia - Holder 1011262 - Primary title: d_ryaia has lost the title: d_ryaia
+305 - sub vassal: d_ryaia - Holder 1011262 - Primary title: d_ryaia has lost the title: d_ryaia
+305 - vassal: d_ryaia - Title given to 1011262 - Primary title: k_emarolik
+305 - sub vassal: d_ryaia - Title given to 1011262 - Primary title: k_emarolik
+305 - Holder (1011262) has gained d_ryaia
+305 - sub vassal: c_relona - Holder 1011262 - Primary title: c_relona has lost the title: c_relona
+305 - sub vassal: c_relona - Title given to 1011262 - Primary title: k_emarolik
+305 - Holder (1011262) has gained c_relona
+305 - sub vassal: c_kashad - Holder 1011262 - Primary title: c_kashad has lost the title: c_kashad
+305 - sub vassal: c_kashad - Title given to 1011262 - Primary title: k_emarolik
+305 - Holder (1011262) has gained c_kashad
+305 - sub vassal: c_kyaui - Holder 1011262 - Primary title: c_kyaui has lost the title: c_kyaui
+305 - sub vassal: c_kyaui - Title given to 1011262 - Primary title: k_emarolik
+305 - Holder (1011262) has gained c_kyaui
+305 - sub vassal: c_tenebia - Holder 1011262 - Primary title: c_tenebia has lost the title: c_tenebia
+305 - sub vassal: c_tenebia - Title given to 1011262 - Primary title: k_emarolik
+305 - Holder (1011262) has gained c_tenebia
+305 - sub vassal: c_qabashad - Holder 1011262 - Primary title: c_qabashad has lost the title: c_qabashad
+305 - sub vassal: c_qabashad - Title given to 1011262 - Primary title: k_emarolik
+305 - Holder (1011262) has gained c_qabashad
+324 - Holder 1011486 - Primary title: k_emarolik has lost the title: k_emarolik
+324 - Title given to 1011486
+324 - vassal: d_ryaia - Holder 1011486 - Primary title: d_ryaia has lost the title: d_ryaia
+324 - sub vassal: d_ryaia - Holder 1011486 - Primary title: d_ryaia has lost the title: d_ryaia
+324 - vassal: d_ryaia - Title given to 1011486 - Primary title: k_emarolik
+324 - sub vassal: d_ryaia - Title given to 1011486 - Primary title: k_emarolik
+324 - Holder (1011486) has gained d_ryaia
+324 - sub vassal: c_qabashad - Holder 1011486 - Primary title: c_qabashad has lost the title: c_qabashad
+324 - sub vassal: c_qabashad - Title given to 1011486 - Primary title: k_emarolik
+324 - Holder (1011486) has gained c_qabashad
+324 - sub vassal: c_tenebia - Holder 1011486 - Primary title: c_tenebia has lost the title: c_tenebia
+324 - sub vassal: c_tenebia - Title given to 1011486 - Primary title: k_emarolik
+324 - Holder (1011486) has gained c_tenebia
+324 - sub vassal: c_kyaui - Holder 1011486 - Primary title: c_kyaui has lost the title: c_kyaui
+324 - sub vassal: c_kyaui - Title given to 1011486 - Primary title: k_emarolik
+324 - Holder (1011486) has gained c_kyaui
+324 - sub vassal: c_kashad - Holder 1011486 - Primary title: c_kashad has lost the title: c_kashad
+324 - sub vassal: c_kashad - Title given to 1011486 - Primary title: k_emarolik
+324 - Holder (1011486) has gained c_kashad
+324 - sub vassal: c_relona - Holder 1011486 - Primary title: c_relona has lost the title: c_relona
+324 - sub vassal: c_relona - Title given to 1011486 - Primary title: k_emarolik
+324 - Holder (1011486) has gained c_relona
+359 - Holder 1012776 - Primary title: k_emarolik has lost the title: k_emarolik
+359 - Title given to 1012776
+359 - vassal: d_ryaia - Holder 1012776 - Primary title: d_ryaia has lost the title: d_ryaia
+359 - sub vassal: d_ryaia - Holder 1012776 - Primary title: d_ryaia has lost the title: d_ryaia
+359 - vassal: d_ryaia - Title given to 1012776 - Primary title: k_emarolik
+359 - sub vassal: d_ryaia - Title given to 1012776 - Primary title: k_emarolik
+359 - Holder (1012776) has gained d_ryaia
+359 - sub vassal: c_relona - Holder 1012776 - Primary title: c_relona has lost the title: c_relona
+359 - sub vassal: c_relona - Title given to 1012776 - Primary title: k_emarolik
+359 - Holder (1012776) has gained c_relona
+359 - sub vassal: c_kashad - Holder 1012776 - Primary title: c_kashad has lost the title: c_kashad
+359 - sub vassal: c_kashad - Title given to 1012776 - Primary title: k_emarolik
+359 - Holder (1012776) has gained c_kashad
+359 - sub vassal: c_kyaui - Holder 1012776 - Primary title: c_kyaui has lost the title: c_kyaui
+359 - sub vassal: c_kyaui - Title given to 1012776 - Primary title: k_emarolik
+359 - Holder (1012776) has gained c_kyaui
+359 - sub vassal: c_tenebia - Holder 1012776 - Primary title: c_tenebia has lost the title: c_tenebia
+359 - sub vassal: c_tenebia - Title given to 1012776 - Primary title: k_emarolik
+359 - Holder (1012776) has gained c_tenebia
+359 - sub vassal: c_qabashad - Holder 1012776 - Primary title: c_qabashad has lost the title: c_qabashad
+359 - sub vassal: c_qabashad - Title given to 1012776 - Primary title: k_emarolik
+359 - Holder (1012776) has gained c_qabashad
+378 - Holder 1015488 - Primary title: k_emarolik has lost the title: k_emarolik
+378 - Title given to 1015488
+378 - vassal: d_ryaia - Holder 1015488 - Primary title: d_ryaia has lost the title: d_ryaia
+378 - sub vassal: d_ryaia - Holder 1015488 - Primary title: d_ryaia has lost the title: d_ryaia
+378 - vassal: d_ryaia - Title given to 1015488 - Primary title: k_emarolik
+378 - sub vassal: d_ryaia - Title given to 1015488 - Primary title: k_emarolik
+378 - Holder (1015488) has gained d_ryaia
+378 - sub vassal: c_qabashad - Holder 1015488 - Primary title: c_qabashad has lost the title: c_qabashad
+378 - sub vassal: c_qabashad - Title given to 1015488 - Primary title: k_emarolik
+378 - Holder (1015488) has gained c_qabashad
+378 - sub vassal: c_tenebia - Holder 1015488 - Primary title: c_tenebia has lost the title: c_tenebia
+378 - sub vassal: c_tenebia - Title given to 1015488 - Primary title: k_emarolik
+378 - Holder (1015488) has gained c_tenebia
+378 - sub vassal: c_kyaui - Holder 1015488 - Primary title: c_kyaui has lost the title: c_kyaui
+378 - sub vassal: c_kyaui - Title given to 1015488 - Primary title: k_emarolik
+378 - Holder (1015488) has gained c_kyaui
+378 - sub vassal: c_kashad - Holder 1015488 - Primary title: c_kashad has lost the title: c_kashad
+378 - sub vassal: c_kashad - Title given to 1015488 - Primary title: k_emarolik
+378 - Holder (1015488) has gained c_kashad
+378 - sub vassal: c_relona - Holder 1015488 - Primary title: c_relona has lost the title: c_relona
+378 - sub vassal: c_relona - Title given to 1015488 - Primary title: k_emarolik
+378 - Holder (1015488) has gained c_relona
+400 - sub vassal: c_naciraz - Holder 1015488 - Primary title: c_naciraz has lost the title: c_naciraz
+400 - sub vassal: c_naciraz - Title given to 1015488 - Primary title: k_emarolik
+400 - Holder (1015488) has gained c_naciraz
+400 - sub vassal: c_narona - Holder 1015488 - Primary title: c_narona has lost the title: c_narona
+400 - sub vassal: c_narona - Title given to 1015488 - Primary title: k_emarolik
+400 - Holder (1015488) has gained c_narona

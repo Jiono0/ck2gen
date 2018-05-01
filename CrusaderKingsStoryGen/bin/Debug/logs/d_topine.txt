@@ -1,0 +1,62 @@
+200 - Title given to 1000913
+200 - vassal: c_kanena - Holder 1000913 - Primary title: c_kanena has lost the title: c_kanena
+200 - sub vassal: c_kanena - Holder 1000913 - Primary title: c_kanena has lost the title: c_kanena
+200 - vassal: c_kanena - Title given to 1000913 - Primary title: d_topine
+200 - sub vassal: c_kanena - Title given to 1000913 - Primary title: d_topine
+200 - Holder (1000913) has gained c_kanena
+200 - vassal: c_nidari - Holder 1000913 - Primary title: c_nidari has lost the title: c_nidari
+200 - sub vassal: c_nidari - Holder 1000913 - Primary title: c_nidari has lost the title: c_nidari
+200 - vassal: c_nidari - Title given to 1000913 - Primary title: d_topine
+200 - sub vassal: c_nidari - Title given to 1000913 - Primary title: d_topine
+200 - Holder (1000913) has gained c_nidari
+200 - vassal: c_susib - Holder 1000913 - Primary title: c_susib has lost the title: c_susib
+200 - sub vassal: c_susib - Holder 1000913 - Primary title: c_susib has lost the title: c_susib
+200 - vassal: c_susib - Title given to 1000913 - Primary title: d_topine
+200 - sub vassal: c_susib - Title given to 1000913 - Primary title: d_topine
+200 - Holder (1000913) has gained c_susib
+212 - Holder 1002663 - Primary title: d_topine has lost the title: d_topine
+212 - Title given to 1002663
+212 - vassal: c_susib - Holder 1002663 - Primary title: c_susib has lost the title: c_susib
+212 - vassal: c_susib - Title given to 1002663 - Primary title: d_topine
+212 - Holder (1002663) has gained c_susib
+212 - vassal: c_nidari - Holder 1002663 - Primary title: c_nidari has lost the title: c_nidari
+212 - vassal: c_nidari - Title given to 1002663 - Primary title: d_topine
+212 - Holder (1002663) has gained c_nidari
+212 - vassal: c_kanena - Holder 1002663 - Primary title: c_kanena has lost the title: c_kanena
+212 - vassal: c_kanena - Title given to 1002663 - Primary title: d_topine
+212 - Holder (1002663) has gained c_kanena
+230 - Holder (1002663) has gained d_qieden
+230 - Holder (1002663) has gained c_eleble
+230 - Holder (1002663) has gained c_nibomir
+234 - vassal: c_susib - Given to 1004815 in HandleTitles - Too many duke titles
+234 - vassal: c_susib - Title given to 1004815
+234 - Title given to 1004815 - Primary title: c_susib
+234 - vassal: c_susib - Holder (1004815) has gained d_topine
+234 - vassal: c_kanena - Setting to vassal of k_ashutsen in Validate Realm
+234 - Lost vassal: c_kanena
+234 - vassal: c_nidari - Setting to vassal of k_ashutsen in Validate Realm
+234 - Lost vassal: c_nidari
+234 - Too many dukes, given to dejure: k_ashutsen
+259 - Holder 1005431 - Primary title: d_topine has lost the title: d_topine
+259 - Title given to 1005431
+259 - vassal: c_susib - Holder 1005431 - Primary title: c_susib has lost the title: c_susib
+259 - vassal: c_susib - Title given to 1005431 - Primary title: d_topine
+259 - Holder (1005431) has gained c_susib
+270 - Holder 1002663 - Primary title: d_topine has lost the title: d_topine
+270 - Title given to 1002663 - Primary title: k_ashutsen
+270 - vassal: c_susib - Holder 1002663 - Primary title: c_susib has lost the title: c_susib
+270 - vassal: c_susib - Title given to 1002663 - Primary title: k_ashutsen
+270 - vassal: c_susib - Given to 1007629 in HandleTitles - Too many duke titles
+270 - vassal: c_susib - Title given to 1007629
+270 - Title given to 1007629 - Primary title: c_susib
+270 - vassal: c_susib - Holder (1007629) has gained d_topine
+270 - Too many dukes, given to dejure: k_ashutsen
+308 - Holder 1006811 - Primary title: d_topine has lost the title: d_topine
+308 - Title given to 1006811 - Primary title: d_bisib
+308 - vassal: c_susib - Holder 1006811 - Primary title: c_susib has lost the title: c_susib
+308 - vassal: c_susib - Title given to 1006811 - Primary title: d_bisib
+315 - Holder 1009164 - Primary title: d_topine has lost the title: d_bisib
+315 - Gained vassal: c_eshutsen
+315 - Holder 1009164 - Primary title: d_topine has lost the title: c_eshutsen
+315 - vassal: c_eshutsen - Title given to 1009164 - Primary title: d_lopari
+315 - vassal: c_eshutsen 

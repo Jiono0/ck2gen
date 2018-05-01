@@ -1,0 +1,63 @@
+200 - Title given to 1000513
+200 - vassal: c_tanaha - Given to 1000516 via AddCharacterForTitle
+200 - sub vassal: c_tanaha - Given to 1000516 via AddCharacterForTitle
+200 - vassal: c_tanaha - Holder 1000516 - Primary title: c_tanaha has lost the title: c_tanaha
+200 - sub vassal: c_tanaha - Holder 1000516 - Primary title: c_tanaha has lost the title: c_tanaha
+200 - vassal: c_tanaha - Title given to 1000516
+200 - sub vassal: c_tanaha - Title given to 1000516
+200 - vassal: c_sovald - Holder 1000513 - Primary title: c_sovald has lost the title: c_sovald
+200 - sub vassal: c_sovald - Holder 1000513 - Primary title: c_sovald has lost the title: c_sovald
+200 - vassal: c_sovald - Title given to 1000513 - Primary title: d_baepul
+200 - sub vassal: c_sovald - Title given to 1000513 - Primary title: d_baepul
+200 - Holder (1000513) has gained c_sovald
+200 - vassal: c_tanaha - Holder 1000513 - Primary title: c_tanaha has lost the title: c_tanaha
+200 - sub vassal: c_tanaha - Holder 1000513 - Primary title: c_tanaha has lost the title: c_tanaha
+200 - vassal: c_tanaha - Title given to 1000513 - Primary title: d_baepul
+200 - sub vassal: c_tanaha - Title given to 1000513 - Primary title: d_baepul
+200 - Holder (1000513) has gained c_tanaha
+200 - vassal: c_amisib - Holder 1000513 - Primary title: c_amisib has lost the title: c_amisib
+200 - sub vassal: c_amisib - Holder 1000513 - Primary title: c_amisib has lost the title: c_amisib
+200 - vassal: c_amisib - Title given to 1000513 - Primary title: d_baepul
+200 - sub vassal: c_amisib - Title given to 1000513 - Primary title: d_baepul
+200 - Holder (1000513) has gained c_amisib
+200 - vassal: c_woukh - Holder 1000513 - Primary title: c_woukh has lost the title: c_woukh
+200 - sub vassal: c_woukh - Holder 1000513 - Primary title: c_woukh has lost the title: c_woukh
+200 - vassal: c_woukh - Title given to 1000513 - Primary title: d_baepul
+200 - sub vassal: c_woukh - Title given to 1000513 - Primary title: d_baepul
+200 - Holder (1000513) has gained c_woukh
+200 - Holder 1001480 - Primary title: d_baepul has lost the title: c_woukh
+200 - vassal: c_woukh - Title given to 1001480 - Primary title: k_sarilla
+202 - Holder 1000435 - Primary title: d_baepul has lost the title: d_baepul
+202 - Title given to 1000435 - Primary title: d_tatara
+202 - vassal: c_woukh - Setting to vassal of k_sarilla in Validate Realm
+202 - Lost vassal: c_woukh
+202 - vassal: c_amisib - Holder 1000435 - Primary title: c_amisib has lost the title: c_amisib
+202 - vassal: c_amisib - Title given to 1000435 - Primary title: d_tatara
+202 - vassal: c_tanaha - Holder 1000435 - Primary title: c_tanaha has lost the title: c_tanaha
+202 - vassal: c_tanaha - Title given to 1000435 - Primary title: d_tatara
+202 - vassal: c_sovald - Holder 1000435 - Primary title: c_sovald has lost the title: c_sovald
+202 - vassal: c_sovald - Title given to 1000435 - Primary title: d_tatara
+203 - Holder 1002332 - Primary title: d_baepul has lost the title: c_rair
+210 - Captured byk_tyawille in minor war
+210 - Gained vassal: c_satara
+210 - Gained vassal: c_satara
+210 - vassal: c_satara - Given to neighbour holder of k_sabiske
+210 - Gained vassal: c_disina
+210 - Gained vassal: c_disina
+210 - vassal: c_disina - Given to neighbour holder of k_sabiske
+211 - vassal: c_satara - Made vassal of neighbour (k_sabiske) due to being a seperate island
+211 - Lost vassal: c_satara
+211 - Gained vassal: c_satara
+211 - Gained vassal: c_satara
+211 - vassal: c_satara - Given to neighbour holder of k_sabiske
+211 - vassal: c_disina - Made vassal of neighbour (k_sabiske) due to being a seperate island
+211 - Lost vassal: c_disina
+211 - Gained vassal: c_disina
+211 - Gained vassal: c_disina
+211 - vassal: c_disina - Given to neighbour holder of k_sabiske
+212 - vassal: c_satara - Made vassal of neighbour (k_sabiske) due to being a seperate island
+212 - Lost vassal: c_satara
+212 - Gained vassal: c_satara
+212 - Gained vassal: c_satara
+212 - vassal: c_satara - Given to neighbour holder of k_sabiske
+212 - vassal: c_disina - Made vassal of n

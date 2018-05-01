@@ -1,0 +1,174 @@
+200 - Title given to 1000588
+200 - vassal: c_wurand - Holder 1000588 - Primary title: c_wurand has lost the title: c_wurand
+200 - sub vassal: c_wurand - Holder 1000588 - Primary title: c_wurand has lost the title: c_wurand
+200 - vassal: c_wurand - Title given to 1000588 - Primary title: d_keolam
+200 - sub vassal: c_wurand - Title given to 1000588 - Primary title: d_keolam
+200 - Holder (1000588) has gained c_wurand
+200 - vassal: c_beor - Holder 1000588 - Primary title: c_beor has lost the title: c_beor
+200 - sub vassal: c_beor - Holder 1000588 - Primary title: c_beor has lost the title: c_beor
+200 - vassal: c_beor - Title given to 1000588 - Primary title: d_keolam
+200 - sub vassal: c_beor - Title given to 1000588 - Primary title: d_keolam
+200 - Holder (1000588) has gained c_beor
+203 - Holder 1000600 - Primary title: d_keolam has lost the title: d_keolam
+203 - Title given to 1000600 - Primary title: d_duregum
+203 - vassal: c_beor - Holder 1000600 - Primary title: c_beor has lost the title: c_beor
+203 - vassal: c_beor - Title given to 1000600 - Primary title: d_lelita
+203 - vassal: c_wurand - Holder 1000600 - Primary title: c_wurand has lost the title: c_wurand
+203 - vassal: c_wurand - Title given to 1000600 - Primary title: d_lelita
+204 - Holder 1002629 - Primary title: d_keolam has lost the title: c_bonegum
+204 - Holder 1001555 - Primary title: d_keolam has lost the title: d_duregum
+204 - Gained vassal: c_nuregum
+204 - Gained vassal: c_nalara
+204 - Gained vassal: c_ruregum
+204 - Holder 1002631 - Primary title: d_keolam has lost the title: c_awalita
+235 - Holder 1002739 - Primary title: d_keolam has lost the title: d_keolam
+235 - Title given to 1002739
+235 - vassal: c_wurand - Setting to vassal of d_lelita in Validate Realm
+235 - Lost vassal: c_wurand
+235 - vassal: c_beor - Setting to vassal of d_lelita in Validate Realm
+235 - Lost vassal: c_beor
+235 - vassal: c_nuregum - Setting to vassal of d_lelita in Validate Realm
+235 - Lost vassal: c_nuregum
+235 - vassal: c_nalara - Setting to vassal of d_lelita in Validate Realm
+235 - Lost vassal: c_nalara
+235 - vassal: c_ruregum - Setting to vassal of d_lelita in Validate Realm
+235 - Lost vassal: c_ruregum
+235 - Holder (1002739) has gained d_lelita
+235 - Holder (1002739) has gained c_wurand
+235 - Holder (1002739) has gained c_beor
+235 - Holder (1002739) has gained c_nuregum
+235 - Holder (1002739) has gained c_nalara
+235 - Holder (1002739) has gained c_ruregum
+236 - Destroyed due to flagged problem
+236 - Made independent
+236 - Title destroyed
+243 - Given to 1002739 in TestCreateEmpire
+243 - Title given to 1002739 - Primary title: d_lelita
+243 - Made independent for title creation d_keolam for d_lelita
+243 - Made independent
+243 - Gained vassal: c_ruregum
+243 - Gained vassal: c_nalara
+243 - Gained vassal: c_nuregum
+243 - Gained vassal: c_beor
+243 - Gained vassal: c_wurand
+253 - vassal: c_wurand - Given to 1006840 in HandleTitles - Too many duke titles
+253 - vassal: c_wurand - Title given to 1006840
+253 - Title given to 1006840 - Primary title: c_wurand
+253 - vassal: c_wurand - Holder (1006840) has gained d_keolam
+253 - vassal: c_ruregum - Setting to vassal of k_lona in Validate Realm
+253 - Lost vassal: c_ruregum
+253 - vassal: c_nalara - Setting to vassal of k_lona in Validate Realm
+253 - Lost vassal: c_nalara
+253 - vassal: c_nuregum - Setting to vassal of k_lona in Validate Realm
+253 - Lost vassal: c_nuregum
+253 - vassal: c_beor - Setting to vassal of k_lona in Validate Realm
+253 - Lost vassal: c_beor
+253 - Too many dukes, given to dejure: k_lona
+289 - Holder 1006838 - Primary title: d_keolam has lost the title: d_keolam
+289 - Title given to 1006838 - Primary title: k_lona
+289 - vassal: c_wurand - Holder 1006838 - Primary title: c_wurand has lost the title: c_wurand
+289 - vassal: c_wurand - Title given to 1006838 - Primary title: k_lona
+289 - vassal: c_wurand - Title given to 1009831
+298 - Gained vassal: c_ratyayka
+298 - Gained vassal: c_beor
+298 - Gained vassal: c_nuregum
+298 - Gained vassal: c_nalara
+298 - Gained vassal: c_ruregum
+298 - Holder 1007319 - Primary title: d_keolam has lost the title: c_ruregum
+298 - vassal: c_ruregum - Title given to 1007319 - Primary title: k_lona
+298 - vassal: c_ruregum - Setting to vassal of k_lona in Validate Realm
+298 - Lost vassal: c_ruregum
+298 - Holder 1007319 - Primary title: d_keolam has lost the title: c_nalara
+298 - vassal: c_nalara - Title given to 1007319 - Primary title: k_lona
+298 - vassal: c_nalara - Setting to vassal of k_lona in Validate Realm
+298 - Lost vassal: c_nalara
+298 - Holder 1007319 - Primary title: d_keolam has lost the title: c_nuregum
+298 - vassal: c_nuregum - Title given to 1007319 - Primary title: k_lona
+298 - vassal: c_nuregum - Setting to vassal of k_lona in Validate Realm
+298 - Lost vassal: c_nuregum
+298 - Holder 1007319 - Primary title: d_keolam has lost the title: c_beor
+298 - vassal: c_beor - Title given to 1007319 - Primary title: k_lona
+298 - vassal: c_beor - Setting to vassal of k_lona in Validate Realm
+298 - Lost vassal: c_beor
+298 - Holder 1007319 - Primary title: d_keolam has lost the title: c_ratyayka
+298 - vassal: c_ratyayka - Title given to 1007319 - Primary title: k_lona
+298 - vassal: c_ratyayka - Setting to vassal of k_lona in Validate Realm
+298 - Lost vassal: c_ratyayka
+298 - Holder 1007319 - Primary title: d_keolam has lost the title: d_keolam
+298 - Title given to 1007319 - Primary title: k_lona
+311 - Holder 1010687 - Primary title: d_keolam has lost the title: d_keolam
+311 - Title given to 1010687 - Primary title: k_lona
+312 - Holder 1011773 - Primary title: d_keolam has lost the title: d_keolam
+312 - Title given to 1011773 - Primary title: k_lona
+328 - Gained vassal: c_awalita
+328 - Gained vassal: c_nelogli
+328 - Gained vassal: c_ratyayka
+328 - Gained vassal: c_nuregum
+328 - Gained vassal: c_nalara
+328 - Holder 1011895 - Primary title: d_keolam has lost the title: d_keolam
+328 - Title given to 1011895 - Primary title: k_lona
+328 - vassal: c_nalara - Holder 1011895 - Primary title: c_nalara has lost the title: c_nalara
+328 - vassal: c_nalara - Title given to 1011895 - Primary title: k_lona
+328 - vassal: c_nuregum - Holder 1011895 - Primary title: c_nuregum has lost the title: c_nuregum
+328 - vassal: c_nuregum - Title given to 1011895 - Primary title: k_lona
+328 - vassal: c_ratyayka - Holder 1011895 - Primary title: c_ratyayka has lost the title: c_ratyayka
+328 - vassal: c_ratyayka - Title given to 1011895 - Primary title: k_lona
+328 - vassal: c_nelogli - Holder 1011895 - Primary title: c_nelogli has lost the title: c_nelogli
+328 - vassal: c_nelogli - Title given to 1011895 - Primary title: k_lona
+328 - vassal: c_awalita - Holder 1011895 - Primary title: c_awalita has lost the title: c_awalita
+328 - vassal: c_awalita - Title given to 1011895 - Primary title: k_lona
+333 - Holder 1011128 - Primary title: d_keolam has lost the title: d_keolam
+333 - Title given to 1011128 - Primary title: k_lona
+333 - vassal: c_nalara - Setting to vassal of d_selema in Validate Realm
+333 - Lost vassal: c_nalara
+333 - vassal: c_nuregum - Setting to vassal of d_selema in Validate Realm
+333 - Lost vassal: c_nuregum
+333 - vassal: c_ratyayka - Setting to vassal of d_selema in Validate Realm
+333 - Lost vassal: c_ratyayka
+333 - vassal: c_nelogli - Setting to vassal of d_selema in Validate Realm
+333 - Lost vassal: c_nelogli
+333 - vassal: c_awalita - Setting to vassal of d_selema in Validate Realm
+333 - Lost vassal: c_awalita
+336 - Gained vassal: c_awalita
+336 - Gained vassal: c_nelogli
+336 - Gained vassal: c_ratyayka
+336 - Gained vassal: c_nuregum
+336 - Gained vassal: c_nalara
+336 - Holder 1013036 - Primary title: d_keolam has lost the title: d_keolam
+336 - Title given to 1013036 - Primary title: k_lona
+336 - vassal: c_nalara - Holder 1013036 - Primary title: c_nalara has lost the title: c_nalara
+336 - vassal: c_nalara - Title given to 1013036 - Primary title: k_lona
+336 - vassal: c_nuregum - Holder 1013036 - Primary title: c_nuregum has lost the title: c_nuregum
+336 - vassal: c_nuregum - Title given to 1013036 - Primary title: k_lona
+336 - vassal: c_ratyayka - Holder 1013036 - Primary title: c_ratyayka has lost the title: c_ratyayka
+336 - vassal: c_ratyayka - Title given to 1013036 - Primary title: k_lona
+336 - vassal: c_nelogli - Holder 1013036 - Primary title: c_nelogli has lost the title: c_nelogli
+336 - vassal: c_nelogli - Title given to 1013036 - Primary title: k_lona
+336 - vassal: c_awalita - Holder 1013036 - Primary title: c_awalita has lost the title: c_awalita
+336 - vassal: c_awalita - Title given to 1013036 - Primary title: k_lona
+360 - Holder 1015320 - Primary title: d_keolam has lost the title: d_keolam
+360 - Title given to 1015320 - Primary title: k_lona
+360 - vassal: c_nalara - Holder 1015320 - Primary title: c_nalara has lost the title: c_nalara
+360 - vassal: c_nalara - Title given to 1015320 - Primary title: k_lona
+360 - vassal: c_nuregum - Holder 1015320 - Primary title: c_nuregum has lost the title: c_nuregum
+360 - vassal: c_nuregum - Title given to 1015320 - Primary title: k_lona
+360 - vassal: c_ratyayka - Holder 1015320 - Primary title: c_ratyayka has lost the title: c_ratyayka
+360 - vassal: c_ratyayka - Title given to 1015320 - Primary title: k_lona
+360 - vassal: c_nelogli - Holder 1015320 - Primary title: c_nelogli has lost the title: c_nelogli
+360 - vassal: c_nelogli - Title given to 1015320 - Primary title: k_lona
+360 - vassal: c_awalita - Holder 1015320 - Primary title: c_awalita has lost the title: c_awalita
+360 - vassal: c_awalita - Title given to 1015320 - Primary title: k_lona
+387 - Holder 1016868 - Primary title: d_keolam has lost the title: d_keolam
+387 - Title given to 1016868 - Primary title: k_lona
+387 - vassal: c_awalita - Setting to vassal of d_duregum in Validate Realm
+387 - Lost vassal: c_awalita
+387 - vassal: c_nelogli - Setting to vassal of d_duregum in Validate Realm
+387 - Lost vassal: c_nelogli
+387 - vassal: c_ratyayka - Setting to vassal of d_duregum in Validate Realm
+387 - Lost vassal: c_ratyayka
+387 - vassal: c_nuregum - Setting to vassal of d_duregum in Validate Realm
+387 - Lost vassal: c_nuregum
+387 - vassal: c_nalara - Setting to vassal of d_duregum in Validate Realm
+387 - Lost vassal: c_nalara
+400 - vassal: c_wurand - Holder 1016868 - Primary title: c_wurand has lost the title: c_wurand
+400 - vassal: c_wurand - Title given to 1016868 - Primary title: k_lona

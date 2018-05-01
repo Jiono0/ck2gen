@@ -1,0 +1,35 @@
+200 - Title given to 1001224
+200 - vassal: c_qavurd - Holder 1001224 - Primary title: c_qavurd has lost the title: c_qavurd
+200 - sub vassal: c_qavurd - Holder 1001224 - Primary title: c_qavurd has lost the title: c_qavurd
+200 - vassal: c_qavurd - Title given to 1001224 - Primary title: d_tanemme
+200 - sub vassal: c_qavurd - Title given to 1001224 - Primary title: d_tanemme
+200 - Holder (1001224) has gained c_qavurd
+200 - vassal: c_rinozel - Holder 1001224 - Primary title: c_rinozel has lost the title: c_rinozel
+200 - sub vassal: c_rinozel - Holder 1001224 - Primary title: c_rinozel has lost the title: c_rinozel
+200 - vassal: c_rinozel - Title given to 1001224 - Primary title: d_tanemme
+200 - sub vassal: c_rinozel - Title given to 1001224 - Primary title: d_tanemme
+200 - Holder (1001224) has gained c_rinozel
+200 - vassal: c_qavitis - Holder 1001224 - Primary title: c_qavitis has lost the title: c_qavitis
+200 - sub vassal: c_qavitis - Holder 1001224 - Primary title: c_qavitis has lost the title: c_qavitis
+200 - vassal: c_qavitis - Title given to 1001224 - Primary title: d_tanemme
+200 - sub vassal: c_qavitis - Title given to 1001224 - Primary title: d_tanemme
+200 - Holder (1001224) has gained c_qavitis
+200 - Holder 1001582 - Primary title: d_tanemme has lost the title: c_qavitis
+200 - vassal: c_qavitis - Title given to 1001582 - Primary title: k_kyutila
+200 - Holder 1001582 - Primary title: d_tanemme has lost the title: d_tanemme
+200 - Title given to 1001582 - Primary title: k_kyutila
+200 - vassal: c_rinozel - Holder 1001582 - Primary title: c_rinozel has lost the title: c_rinozel
+200 - vassal: c_rinozel - Title given to 1001582 - Primary title: k_kyutila
+200 - vassal: c_qavurd - Holder 1001582 - Primary title: c_qavurd has lost the title: c_qavurd
+200 - vassal: c_qavurd - Title given to 1001582 - Primary title: k_kyutila
+214 - Holder 1002789 - Primary title: d_tanemme has lost the title: d_tanemme
+214 - Title given to 1002789 - Primary title: k_kyutila
+214 - vassal: c_qavurd - Setting to vassal of d_etedas in Validate Realm
+214 - Lost vassal: c_qavurd
+214 - vassal: c_rinozel - Setting to vassal of d_etedas in Validate Realm
+214 - Lost vassal: c_rinozel
+214 - vassal: c_qavitis - Setting to vassal of d_etedas in Validate Realm
+214 - Lost vassal: c_qavitis
+215 - Destroyed due to flagged problem
+215 - Made independent
+215 - Title destroyed

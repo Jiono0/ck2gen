@@ -1,0 +1,57 @@
+200 - Title given to 1001401
+200 - vassal: c_kelegh - Given to 1001405 via AddCharacterForTitle
+200 - sub vassal: c_kelegh - Given to 1001405 via AddCharacterForTitle
+200 - vassal: c_kelegh - Holder 1001405 - Primary title: c_kelegh has lost the title: c_kelegh
+200 - sub vassal: c_kelegh - Holder 1001405 - Primary title: c_kelegh has lost the title: c_kelegh
+200 - vassal: c_kelegh - Title given to 1001405
+200 - sub vassal: c_kelegh - Title given to 1001405
+200 - vassal: c_esohang - Holder 1001401 - Primary title: c_esohang has lost the title: c_esohang
+200 - sub vassal: c_esohang - Holder 1001401 - Primary title: c_esohang has lost the title: c_esohang
+200 - vassal: c_esohang - Title given to 1001401 - Primary title: d_kimegs
+200 - sub vassal: c_esohang - Title given to 1001401 - Primary title: d_kimegs
+200 - Holder (1001401) has gained c_esohang
+200 - vassal: c_nulatad - Holder 1001401 - Primary title: c_nulatad has lost the title: c_nulatad
+200 - sub vassal: c_nulatad - Holder 1001401 - Primary title: c_nulatad has lost the title: c_nulatad
+200 - vassal: c_nulatad - Title given to 1001401 - Primary title: d_kimegs
+200 - sub vassal: c_nulatad - Title given to 1001401 - Primary title: d_kimegs
+200 - Holder (1001401) has gained c_nulatad
+200 - vassal: c_kelegh - Holder 1001401 - Primary title: c_kelegh has lost the title: c_kelegh
+200 - sub vassal: c_kelegh - Holder 1001401 - Primary title: c_kelegh has lost the title: c_kelegh
+200 - vassal: c_kelegh - Title given to 1001401 - Primary title: d_kimegs
+200 - sub vassal: c_kelegh - Title given to 1001401 - Primary title: d_kimegs
+200 - Holder (1001401) has gained c_kelegh
+216 - Holder 1002581 - Primary title: d_kimegs has lost the title: d_kimegs
+216 - Title given to 1002581
+216 - vassal: c_kelegh - Holder 1002581 - Primary title: c_kelegh has lost the title: c_kelegh
+216 - vassal: c_kelegh - Title given to 1002581 - Primary title: d_kimegs
+216 - Holder (1002581) has gained c_kelegh
+216 - vassal: c_nulatad - Holder 1002581 - Primary title: c_nulatad has lost the title: c_nulatad
+216 - vassal: c_nulatad - Title given to 1002581 - Primary title: d_kimegs
+216 - Holder (1002581) has gained c_nulatad
+216 - vassal: c_esohang - Holder 1002581 - Primary title: c_esohang has lost the title: c_esohang
+216 - vassal: c_esohang - Title given to 1002581 - Primary title: d_kimegs
+216 - Holder (1002581) has gained c_esohang
+246 - Holder 1001513 - Primary title: d_kimegs has lost the title: d_kimegs
+246 - Title given to 1001513 - Primary title: k_bedakti
+246 - vassal: c_kelegh - Holder 1001513 - Primary title: c_kelegh has lost the title: c_kelegh
+246 - vassal: c_kelegh - Title given to 1001513 - Primary title: k_bedakti
+246 - vassal: c_nulatad - Holder 1001513 - Primary title: c_nulatad has lost the title: c_nulatad
+246 - vassal: c_nulatad - Title given to 1001513 - Primary title: k_bedakti
+246 - vassal: c_esohang - Holder 1001513 - Primary title: c_esohang has lost the title: c_esohang
+246 - vassal: c_esohang - Title given to 1001513 - Primary title: k_bedakti
+259 - vassal: c_esohang - Given to 1006757 in HandleTitles - Too many duke titles
+259 - vassal: c_esohang - Title given to 1006757
+259 - Title given to 1006757 - Primary title: c_esohang
+259 - vassal: c_esohang - Holder (1006757) has gained d_kimegs
+259 - vassal: c_kelegh - Setting to vassal of k_bedakti in Validate Realm
+259 - Lost vassal: c_kelegh
+259 - vassal: c_nulatad - Setting to vassal of k_bedakti in Validate Realm
+259 - Lost vassal: c_nulatad
+259 - Too many dukes, given to dejure: k_bedakti
+261 - Holder 1001513 - Primary title: d_kimegs has lost the title: d_kimegs
+261 - Title given to 1001513 - Primary title: k_bedakti
+261 - vassal: c_esohang - Holder 1001513 - Primary title: c_esohang has lost the title: c_esohang
+261 - vassal: c_esohang - Title given to 1001513 - Primary title: k_bedakti
+261 - vassal: c_esohang - Given to 1006933 in HandleTitles - Too many duke titles
+261 - vassal: c_esohang - Title given to 1006933
+261 - Title given to 1006933 - Primary title: c_eso

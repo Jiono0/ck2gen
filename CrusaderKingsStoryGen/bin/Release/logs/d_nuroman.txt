@@ -1,0 +1,133 @@
+200 - Title given to 1001293
+200 - vassal: c_besurd - Holder 1001293 - Primary title: c_besurd has lost the title: c_besurd
+200 - sub vassal: c_besurd - Holder 1001293 - Primary title: c_besurd has lost the title: c_besurd
+200 - vassal: c_besurd - Title given to 1001293 - Primary title: d_nuroman
+200 - sub vassal: c_besurd - Title given to 1001293 - Primary title: d_nuroman
+200 - Holder (1001293) has gained c_besurd
+200 - vassal: c_ninozel - Holder 1001293 - Primary title: c_ninozel has lost the title: c_ninozel
+200 - sub vassal: c_ninozel - Holder 1001293 - Primary title: c_ninozel has lost the title: c_ninozel
+200 - vassal: c_ninozel - Title given to 1001293 - Primary title: d_nuroman
+200 - sub vassal: c_ninozel - Title given to 1001293 - Primary title: d_nuroman
+200 - Holder (1001293) has gained c_ninozel
+200 - vassal: c_kaveike - Holder 1001293 - Primary title: c_kaveike has lost the title: c_kaveike
+200 - sub vassal: c_kaveike - Holder 1001293 - Primary title: c_kaveike has lost the title: c_kaveike
+200 - vassal: c_kaveike - Title given to 1001293 - Primary title: d_nuroman
+200 - sub vassal: c_kaveike - Title given to 1001293 - Primary title: d_nuroman
+200 - Holder (1001293) has gained c_kaveike
+200 - vassal: c_emurana - Holder 1001293 - Primary title: c_emurana has lost the title: c_emurana
+200 - sub vassal: c_emurana - Holder 1001293 - Primary title: c_emurana has lost the title: c_emurana
+200 - vassal: c_emurana - Title given to 1001293 - Primary title: d_nuroman
+200 - sub vassal: c_emurana - Title given to 1001293 - Primary title: d_nuroman
+200 - Holder (1001293) has gained c_emurana
+235 - Holder 1002394 - Primary title: d_nuroman has lost the title: d_nuroman
+235 - Title given to 1002394
+235 - vassal: c_besurd - Holder 1002394 - Primary title: c_besurd has lost the title: c_besurd
+235 - vassal: c_besurd - Title given to 1002394 - Primary title: d_nuroman
+235 - Holder (1002394) has gained c_besurd
+235 - vassal: c_ninozel - Holder 1002394 - Primary title: c_ninozel has lost the title: c_ninozel
+235 - vassal: c_ninozel - Title given to 1002394 - Primary title: d_nuroman
+235 - Holder (1002394) has gained c_ninozel
+235 - vassal: c_kaveike - Holder 1002394 - Primary title: c_kaveike has lost the title: c_kaveike
+235 - vassal: c_kaveike - Title given to 1002394 - Primary title: d_nuroman
+235 - Holder (1002394) has gained c_kaveike
+235 - vassal: c_emurana - Holder 1002394 - Primary title: c_emurana has lost the title: c_emurana
+235 - vassal: c_emurana - Title given to 1002394 - Primary title: d_nuroman
+235 - Holder (1002394) has gained c_emurana
+249 - Holder 1006228 - Primary title: d_nuroman has lost the title: d_nuroman
+249 - Title given to 1006228
+249 - vassal: c_emurana - Holder 1006228 - Primary title: c_emurana has lost the title: c_emurana
+249 - vassal: c_emurana - Title given to 1006228 - Primary title: d_nuroman
+249 - Holder (1006228) has gained c_emurana
+249 - vassal: c_kaveike - Holder 1006228 - Primary title: c_kaveike has lost the title: c_kaveike
+249 - vassal: c_kaveike - Title given to 1006228 - Primary title: d_nuroman
+249 - Holder (1006228) has gained c_kaveike
+249 - vassal: c_ninozel - Holder 1006228 - Primary title: c_ninozel has lost the title: c_ninozel
+249 - vassal: c_ninozel - Title given to 1006228 - Primary title: d_nuroman
+249 - Holder (1006228) has gained c_ninozel
+249 - vassal: c_besurd - Holder 1006228 - Primary title: c_besurd has lost the title: c_besurd
+249 - vassal: c_besurd - Title given to 1006228 - Primary title: d_nuroman
+249 - Holder (1006228) has gained c_besurd
+276 - Holder 1007703 - Primary title: d_nuroman has lost the title: d_nuroman
+276 - Title given to 1007703
+276 - vassal: c_besurd - Holder 1007703 - Primary title: c_besurd has lost the title: c_besurd
+276 - vassal: c_besurd - Title given to 1007703 - Primary title: d_nuroman
+276 - Holder (1007703) has gained c_besurd
+276 - vassal: c_ninozel - Holder 1007703 - Primary title: c_ninozel has lost the title: c_ninozel
+276 - vassal: c_ninozel - Title given to 1007703 - Primary title: d_nuroman
+276 - Holder (1007703) has gained c_ninozel
+276 - vassal: c_kaveike - Holder 1007703 - Primary title: c_kaveike has lost the title: c_kaveike
+276 - vassal: c_kaveike - Title given to 1007703 - Primary title: d_nuroman
+276 - Holder (1007703) has gained c_kaveike
+276 - vassal: c_emurana - Holder 1007703 - Primary title: c_emurana has lost the title: c_emurana
+276 - vassal: c_emurana - Title given to 1007703 - Primary title: d_nuroman
+276 - Holder (1007703) has gained c_emurana
+293 - Holder (1007703) has gained k_kyutila
+294 - vassal: c_besurd - Given to 1010277 in HandleTitles - Too many duke titles
+294 - vassal: c_besurd - Title given to 1010277
+294 - Title given to 1010277 - Primary title: c_besurd
+294 - vassal: c_besurd - Holder (1010277) has gained d_nuroman
+294 - vassal: c_emurana - Setting to vassal of k_kyutila in Validate Realm
+294 - Lost vassal: c_emurana
+294 - vassal: c_kaveike - Setting to vassal of k_kyutila in Validate Realm
+294 - Lost vassal: c_kaveike
+294 - vassal: c_ninozel - Setting to vassal of k_kyutila in Validate Realm
+294 - Lost vassal: c_ninozel
+294 - Too many dukes, given to dejure: k_kyutila
+303 - Holder 1010268 - Primary title: d_nuroman has lost the title: d_nuroman
+303 - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_besurd - Holder 1010268 - Primary title: c_besurd has lost the title: c_besurd
+303 - vassal: c_besurd - Title given to 1010268 - Primary title: k_ditedas
+304 - vassal: c_besurd - Title given to 1011179
+317 - Gained vassal: c_litanu
+317 - Gained vassal: c_rinozel
+317 - Gained vassal: c_qanune
+317 - Gained vassal: c_eracas
+317 - Gained vassal: c_rugas
+317 - Holder 1010658 - Primary title: d_nuroman has lost the title: c_rugas
+317 - vassal: c_rugas - Title given to 1010658 - Primary title: k_kyutila
+317 - vassal: c_rugas - Setting to vassal of k_kyutila in Validate Realm
+317 - Lost vassal: c_rugas
+317 - Holder 1010658 - Primary title: d_nuroman has lost the title: c_eracas
+317 - vassal: c_eracas - Title given to 1010658 - Primary title: k_kyutila
+317 - vassal: c_eracas - Setting to vassal of k_kyutila in Validate Realm
+317 - Lost vassal: c_eracas
+317 - Holder 1010658 - Primary title: d_nuroman has lost the title: c_qanune
+317 - vassal: c_qanune - Title given to 1010658 - Primary title: k_kyutila
+317 - vassal: c_qanune - Setting to vassal of k_kyutila in Validate Realm
+317 - Lost vassal: c_qanune
+317 - Holder 1010658 - Primary title: d_nuroman has lost the title: d_nuroman
+317 - Title given to 1010658 - Primary title: k_kyutila
+317 - vassal: c_rinozel - Holder 1010658 - Primary title: c_rinozel has lost the title: c_rinozel
+317 - vassal: c_rinozel - Title given to 1010658 - Primary title: k_kyutila
+317 - vassal: c_litanu - Holder 1010658 - Primary title: c_litanu has lost the title: c_litanu
+317 - vassal: c_litanu - Title given to 1010658 - Primary title: k_kyutila
+344 - Captured byk_rugoman in minor war
+355 - Gained vassal: c_qanune
+355 - Gained vassal: c_eracas
+355 - Gained vassal: c_rugas
+355 - Holder 1012917 - Primary title: d_nuroman has lost the title: d_nuroman
+355 - Title given to 1012917 - Primary title: k_kyutila
+355 - vassal: c_rugas - Holder 1012917 - Primary title: c_rugas has lost the title: c_rugas
+355 - vassal: c_rugas - Title given to 1012917 - Primary title: k_kyutila
+355 - vassal: c_eracas - Holder 1012917 - Primary title: c_eracas has lost the title: c_eracas
+355 - vassal: c_eracas - Title given to 1012917 - Primary title: k_kyutila
+355 - vassal: c_qanune - Holder 1012917 - Primary title: c_qanune has lost the title: c_qanune
+355 - vassal: c_qanune - Title given to 1012917 - Primary title: k_kyutila
+355 - vassal: c_rinozel - Holder 1012917 - Primary title: c_rinozel has lost the title: c_rinozel
+355 - vassal: c_rinozel - Title given to 1012917 - Primary title: k_kyutila
+355 - vassal: c_litanu - Holder 1012917 - Primary title: c_litanu has lost the title: c_litanu
+355 - vassal: c_litanu - Title given to 1012917 - Primary title: k_kyutila
+392 - Holder 1015408 - Primary title: d_nuroman has lost the title: d_nuroman
+392 - Title given to 1015408 - Primary title: k_kyutila
+392 - vassal: c_rugas - Holder 1015408 - Primary title: c_rugas has lost the title: c_rugas
+392 - vassal: c_rugas - Title given to 1015408 - Primary title: k_kyutila
+392 - vassal: c_eracas - Holder 1015408 - Primary title: c_eracas has lost the title: c_eracas
+392 - vassal: c_eracas - Title given to 1015408 - Primary title: k_kyutila
+392 - vassal: c_qanune - Holder 1015408 - Primary title: c_qanune has lost the title: c_qanune
+392 - vassal: c_qanune - Title given to 1015408 - Primary title: k_kyutila
+392 - vassal: c_rinozel - Holder 1015408 - Primary title: c_rinozel has lost the title: c_rinozel
+392 - vassal: c_rinozel - Title given to 1015408 - Primary title: k_kyutila
+392 - vassal: c_litanu - Holder 1015408 - Primary title: c_litanu has lost the title: c_litanu
+392 - vassal: c_litanu - Title given to 1015408 - Primary title: k_kyutila
+400 - vassal: c_besurd - Holder 1015408 - Primary title: c_besurd has lost the title: c_besurd
+400 - vassal: c_besurd - Title given to 1015408 - Primary title: k_kyutila

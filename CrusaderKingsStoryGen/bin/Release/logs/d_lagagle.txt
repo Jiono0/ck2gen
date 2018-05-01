@@ -1,0 +1,63 @@
+200 - Title given to 1000634
+200 - vassal: c_lulona - Given to 1000637 via AddCharacterForTitle
+200 - sub vassal: c_lulona - Given to 1000637 via AddCharacterForTitle
+200 - vassal: c_lulona - Holder 1000637 - Primary title: c_lulona has lost the title: c_lulona
+200 - sub vassal: c_lulona - Holder 1000637 - Primary title: c_lulona has lost the title: c_lulona
+200 - vassal: c_lulona - Title given to 1000637
+200 - sub vassal: c_lulona - Title given to 1000637
+200 - vassal: c_qeolam - Given to 1000639 via AddCharacterForTitle
+200 - sub vassal: c_qeolam - Given to 1000639 via AddCharacterForTitle
+200 - vassal: c_qeolam - Holder 1000639 - Primary title: c_qeolam has lost the title: c_qeolam
+200 - sub vassal: c_qeolam - Holder 1000639 - Primary title: c_qeolam has lost the title: c_qeolam
+200 - vassal: c_qeolam - Title given to 1000639
+200 - sub vassal: c_qeolam - Title given to 1000639
+200 - vassal: c_ratona - Holder 1000634 - Primary title: c_ratona has lost the title: c_ratona
+200 - sub vassal: c_ratona - Holder 1000634 - Primary title: c_ratona has lost the title: c_ratona
+200 - vassal: c_ratona - Title given to 1000634 - Primary title: d_lagagle
+200 - sub vassal: c_ratona - Title given to 1000634 - Primary title: d_lagagle
+200 - Holder (1000634) has gained c_ratona
+200 - vassal: c_lulona - Holder 1000634 - Primary title: c_lulona has lost the title: c_lulona
+200 - sub vassal: c_lulona - Holder 1000634 - Primary title: c_lulona has lost the title: c_lulona
+200 - vassal: c_lulona - Title given to 1000634 - Primary title: d_lagagle
+200 - sub vassal: c_lulona - Title given to 1000634 - Primary title: d_lagagle
+200 - Holder (1000634) has gained c_lulona
+200 - vassal: c_tillathi - Holder 1000634 - Primary title: c_tillathi has lost the title: c_tillathi
+200 - sub vassal: c_tillathi - Holder 1000634 - Primary title: c_tillathi has lost the title: c_tillathi
+200 - vassal: c_tillathi - Title given to 1000634 - Primary title: d_lagagle
+200 - sub vassal: c_tillathi - Title given to 1000634 - Primary title: d_lagagle
+200 - Holder (1000634) has gained c_tillathi
+200 - vassal: c_karara - Holder 1000634 - Primary title: c_karara has lost the title: c_karara
+200 - sub vassal: c_karara - Holder 1000634 - Primary title: c_karara has lost the title: c_karara
+200 - vassal: c_karara - Title given to 1000634 - Primary title: d_lagagle
+200 - sub vassal: c_karara - Title given to 1000634 - Primary title: d_lagagle
+200 - Holder (1000634) has gained c_karara
+211 - Holder 1000507 - Primary title: d_lagagle has lost the title: d_lagagle
+211 - Title given to 1000507 - Primary title: d_remabha
+211 - vassal: c_karara - Holder 1000507 - Primary title: c_karara has lost the title: c_karara
+211 - vassal: c_karara - Title given to 1000507 - Primary title: d_remabha
+211 - vassal: c_tillathi - Holder 1000507 - Primary title: c_tillathi has lost the title: c_tillathi
+211 - vassal: c_tillathi - Title given to 1000507 - Primary title: d_remabha
+211 - vassal: c_lulona - Holder 1000507 - Primary title: c_lulona has lost the title: c_lulona
+211 - vassal: c_lulona - Title given to 1000507 - Primary title: d_remabha
+211 - vassal: c_ratona - Holder 1000507 - Primary title: c_ratona has lost the title: c_ratona
+211 - vassal: c_ratona - Title given to 1000507 - Primary title: d_remabha
+212 - Holder 1003439 - Primary title: d_lagagle has lost the title: c_bohiya
+240 - Holder 1003879 - Primary title: d_lagagle has lost the title: d_lagagle
+240 - Title given to 1003879
+240 - vassal: c_karara - Setting to vassal of d_remabha in Validate Realm
+240 - Lost vassal: c_karara
+240 - vassal: c_tillathi - Setting to vassal of d_remabha in Validate Realm
+240 - Lost vassal: c_tillathi
+240 - vassal: c_lulona - Setting to vassal of d_remabha in Validate Realm
+240 - Lost vassal: c_lulona
+240 - vassal: c_ratona - Setting to vassal of d_remabha in Validate Realm
+240 - Lost vassal: c_ratona
+240 - Holder (1003879) has gained d_remabha
+240 - Holder (1003879) has gained c_ditiya
+240 - Holder (1003879) has gained c_karara
+240 - Holder (1003879) has gained c_tillathi
+240 - Holder (1003879) has gained c_lulona
+240 - Holder (1003879) has gained c_ratona
+241 - Destroyed due to flagged problem
+241 - Made independent
+241 - Title destroyed

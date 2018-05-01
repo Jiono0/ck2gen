@@ -1,0 +1,73 @@
+200 - Title given to 1000402
+200 - vassal: c_rungulf - Holder 1000402 - Primary title: c_rungulf has lost the title: c_rungulf
+200 - sub vassal: c_rungulf - Holder 1000402 - Primary title: c_rungulf has lost the title: c_rungulf
+200 - vassal: c_rungulf - Title given to 1000402 - Primary title: d_wacigh
+200 - sub vassal: c_rungulf - Title given to 1000402 - Primary title: d_wacigh
+200 - Holder (1000402) has gained c_rungulf
+200 - vassal: c_tivigh - Holder 1000402 - Primary title: c_tivigh has lost the title: c_tivigh
+200 - sub vassal: c_tivigh - Holder 1000402 - Primary title: c_tivigh has lost the title: c_tivigh
+200 - vassal: c_tivigh - Title given to 1000402 - Primary title: d_wacigh
+200 - sub vassal: c_tivigh - Title given to 1000402 - Primary title: d_wacigh
+200 - Holder (1000402) has gained c_tivigh
+200 - vassal: c_lomilek - Holder 1000402 - Primary title: c_lomilek has lost the title: c_lomilek
+200 - sub vassal: c_lomilek - Holder 1000402 - Primary title: c_lomilek has lost the title: c_lomilek
+200 - vassal: c_lomilek - Title given to 1000402 - Primary title: d_wacigh
+200 - sub vassal: c_lomilek - Title given to 1000402 - Primary title: d_wacigh
+200 - Holder (1000402) has gained c_lomilek
+200 - Holder 1001545 - Primary title: d_wacigh has lost the title: d_wacigh
+200 - Title given to 1001545 - Primary title: k_lelike
+200 - vassal: c_lomilek - Given to 1002062 in HandleTitles - Too many duke titles
+200 - vassal: c_rungulf - Holder 1002062 - Primary title: c_rungulf has lost the title: c_lomilek
+200 - vassal: c_lomilek - Title given to 1002062
+200 - Title given to 1002062 - Primary title: c_lomilek
+200 - vassal: c_lomilek - Holder (1002062) has gained d_wacigh
+200 - Too many dukes, given to dejure: k_lelike
+244 - Holder 1005956 - Primary title: d_wacigh has lost the title: d_wacigh
+244 - Title given to 1005956
+244 - vassal: c_lomilek - Holder 1005956 - Primary title: c_lomilek has lost the title: c_lomilek
+244 - vassal: c_lomilek - Title given to 1005956 - Primary title: d_wacigh
+244 - Holder (1005956) has gained c_lomilek
+250 - Holder 1006372 - Primary title: d_wacigh has lost the title: d_wacigh
+250 - Title given to 1006372 - Primary title: d_lomilek
+250 - vassal: c_lomilek - Holder 1006372 - Primary title: c_lomilek has lost the title: c_lomilek
+250 - vassal: c_lomilek - Title given to 1006372 - Primary title: d_lomilek
+258 - Holder 1006459 - Primary title: d_wacigh has lost the title: d_lomilek
+258 - Holder 1006459 - Primary title: d_wacigh has lost the title: d_wacigh
+258 - Title given to 1006459 - Primary title: d_lomilek
+258 - vassal: c_lomilek - Holder 1006459 - Primary title: c_lomilek has lost the title: c_lomilek
+258 - vassal: c_lomilek - Title given to 1006459 - Primary title: d_lomilek
+284 - Holder 1008023 - Primary title: d_wacigh has lost the title: d_wacigh
+284 - Title given to 1008023 - Primary title: d_lomilek
+284 - vassal: c_lomilek - Holder 1008023 - Primary title: c_lomilek has lost the title: c_lomilek
+284 - vassal: c_lomilek - Title given to 1008023 - Primary title: d_lomilek
+300 - vassal: c_rungulf - Holder 1008023 - Primary title: c_rungulf has lost the title: c_rungulf
+300 - vassal: c_rungulf - Title given to 1008023 - Primary title: d_lomilek
+300 - vassal: c_tivigh - Holder 1008023 - Primary title: c_tivigh has lost the title: c_tivigh
+300 - vassal: c_tivigh - Title given to 1008023 - Primary title: d_lomilek
+319 - vassal: c_lomilek - Given to 1012296 in HandleTitles - Too many duke titles
+319 - vassal: c_lomilek - Title given to 1012296
+319 - Title given to 1010614 - Primary title: k_lelike
+319 - vassal: c_tivigh - Setting to vassal of d_somigh in Validate Realm
+319 - Lost vassal: c_tivigh
+319 - vassal: c_rungulf - Setting to vassal of d_somigh in Validate Realm
+319 - Lost vassal: c_rungulf
+319 - Too many dukes, made direct title into vassal of k_lelike
+319 - Title given to 1012297
+335 - Holder 1012025 - Primary title: d_wacigh has lost the title: d_wacigh
+335 - Title given to 1012025 - Primary title: d_kahigh
+348 - Holder 1014376 - Primary title: d_wacigh has lost the title: d_wacigh
+348 - Title given to 1014376
+348 - Holder (1014376) has gained d_kahigh
+363 - Holder 1012442 - Primary title: d_wacigh has lost the title: d_wacigh
+363 - Title given to 1012442 - Primary title: d_lomilek
+364 - Holder 1012108 - Primary title: d_wacigh has lost the title: d_kahigh
+364 - Holder 1012108 - Primary title: d_wacigh has lost the title: d_baidas
+368 - Holder (1012442) has gained d_baidas
+369 - vassal: c_lomilek - Given to 1012531 in HandleTitles - Too many duke titles
+369 - vassal: c_lomilek - Holder 1012531 - Primary title: c_lomilek has lost the title: c_lomilek
+369 - vassal: c_lomilek - Title given to 1012531
+369 - Title given to 1012108 - Primary title: k_lelike
+369 - Too many dukes, made direct title into vassal of k_lelike
+369 - Title given to 1012387
+375 - Holder 1016260 - Primary title: d_wacigh has lost the title: d_wacigh
+375 - Title given to 1016260

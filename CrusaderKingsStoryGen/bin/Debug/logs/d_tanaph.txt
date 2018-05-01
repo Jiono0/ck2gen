@@ -1,0 +1,63 @@
+200 - Title given to 1000830
+200 - vassal: c_bidebar - Holder 1000830 - Primary title: c_bidebar has lost the title: c_bidebar
+200 - sub vassal: c_bidebar - Holder 1000830 - Primary title: c_bidebar has lost the title: c_bidebar
+200 - vassal: c_bidebar - Title given to 1000830 - Primary title: d_tanaph
+200 - sub vassal: c_bidebar - Title given to 1000830 - Primary title: d_tanaph
+200 - Holder (1000830) has gained c_bidebar
+200 - vassal: c_qomir - Holder 1000830 - Primary title: c_qomir has lost the title: c_qomir
+200 - sub vassal: c_qomir - Holder 1000830 - Primary title: c_qomir has lost the title: c_qomir
+200 - vassal: c_qomir - Title given to 1000830 - Primary title: d_tanaph
+200 - sub vassal: c_qomir - Title given to 1000830 - Primary title: d_tanaph
+200 - Holder (1000830) has gained c_qomir
+200 - vassal: c_rusand - Holder 1000830 - Primary title: c_rusand has lost the title: c_rusand
+200 - sub vassal: c_rusand - Holder 1000830 - Primary title: c_rusand has lost the title: c_rusand
+200 - vassal: c_rusand - Title given to 1000830 - Primary title: d_tanaph
+200 - sub vassal: c_rusand - Title given to 1000830 - Primary title: d_tanaph
+200 - Holder (1000830) has gained c_rusand
+205 - Holder (1000830) has gained d_kidiin
+205 - Holder (1000830) has gained c_dauzen
+205 - Holder (1000830) has gained c_susuk
+205 - Holder (1000830) has gained c_tapunt
+206 - vassal: c_bidebar - Title given to 1002659
+237 - Gained vassal: c_dauzen
+237 - Gained vassal: c_susuk
+237 - Gained vassal: c_tapunt
+237 - Holder 1002928 - Primary title: d_tanaph has lost the title: d_tanaph
+237 - Title given to 1002928 - Primary title: d_kidiin
+237 - vassal: c_tapunt - Holder 1002928 - Primary title: c_tapunt has lost the title: c_tapunt
+237 - vassal: c_tapunt - Title given to 1002928 - Primary title: d_kidiin
+237 - vassal: c_susuk - Holder 1002928 - Primary title: c_susuk has lost the title: c_susuk
+237 - vassal: c_susuk - Title given to 1002928 - Primary title: d_kidiin
+237 - vassal: c_dauzen - Holder 1002928 - Primary title: c_dauzen has lost the title: c_dauzen
+237 - vassal: c_dauzen - Title given to 1002928 - Primary title: d_kidiin
+237 - vassal: c_qomir - Holder 1002928 - Primary title: c_qomir has lost the title: c_qomir
+237 - vassal: c_qomir - Title given to 1002928 - Primary title: d_kidiin
+237 - vassal: c_rusand - Holder 1002928 - Primary title: c_rusand has lost the title: c_rusand
+237 - vassal: c_rusand - Title given to 1002928 - Primary title: d_kidiin
+246 - Holder 1005279 - Primary title: d_tanaph has lost the title: d_tanaph
+246 - Title given to 1005279
+246 - vassal: c_rusand - Holder 1005279 - Primary title: c_rusand has lost the title: c_rusand
+246 - vassal: c_rusand - Title given to 1005279 - Primary title: d_tanaph
+246 - Holder (1005279) has gained c_rusand
+246 - vassal: c_qomir - Holder 1005279 - Primary title: c_qomir has lost the title: c_qomir
+246 - vassal: c_qomir - Title given to 1005279 - Primary title: d_tanaph
+246 - Holder (1005279) has gained c_qomir
+246 - vassal: c_dauzen - Holder 1005279 - Primary title: c_dauzen has lost the title: c_dauzen
+246 - vassal: c_dauzen - Title given to 1005279 - Primary title: d_tanaph
+246 - Holder (1005279) has gained c_dauzen
+246 - vassal: c_susuk - Holder 1005279 - Primary title: c_susuk has lost the title: c_susuk
+246 - vassal: c_susuk - Title given to 1005279 - Primary title: d_tanaph
+246 - Holder (1005279) has gained c_susuk
+246 - vassal: c_tapunt - Holder 1005279 - Primary title: c_tapunt has lost the title: c_tapunt
+246 - vassal: c_tapunt - Title given to 1005279 - Primary title: d_tanaph
+246 - Holder (1005279) has gained c_tapunt
+248 - Holder (1005279) has gained d_kidiin
+248 - vassal: c_rusand - Set liege on title creation d_kidiin
+248 - Lost vassal: c_rusand
+248 - vassal: c_qomir - Set liege on title creation d_kidiin
+248 - Lost vassal: c_qomir
+248 - vassal: c_dauzen - Set liege on title creation d_kidiin
+248 - Lost vassal: c_dauzen
+248 - vassal: c_susuk - Set liege on title creation d_kidiin
+248 - Lost vassal: c_susuk
+248 - v

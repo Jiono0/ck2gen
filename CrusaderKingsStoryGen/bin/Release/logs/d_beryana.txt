@@ -1,0 +1,81 @@
+200 - Title given to 1000766
+200 - vassal: c_qazina - Given to 1000770 via AddCharacterForTitle
+200 - sub vassal: c_qazina - Given to 1000770 via AddCharacterForTitle
+200 - vassal: c_qazina - Holder 1000770 - Primary title: c_qazina has lost the title: c_qazina
+200 - sub vassal: c_qazina - Holder 1000770 - Primary title: c_qazina has lost the title: c_qazina
+200 - vassal: c_qazina - Title given to 1000770
+200 - sub vassal: c_qazina - Title given to 1000770
+200 - vassal: c_ladatha - Holder 1000766 - Primary title: c_ladatha has lost the title: c_ladatha
+200 - sub vassal: c_ladatha - Holder 1000766 - Primary title: c_ladatha has lost the title: c_ladatha
+200 - vassal: c_ladatha - Title given to 1000766 - Primary title: d_beryana
+200 - sub vassal: c_ladatha - Title given to 1000766 - Primary title: d_beryana
+200 - Holder (1000766) has gained c_ladatha
+200 - vassal: c_luyind - Holder 1000766 - Primary title: c_luyind has lost the title: c_luyind
+200 - sub vassal: c_luyind - Holder 1000766 - Primary title: c_luyind has lost the title: c_luyind
+200 - vassal: c_luyind - Title given to 1000766 - Primary title: d_beryana
+200 - sub vassal: c_luyind - Title given to 1000766 - Primary title: d_beryana
+200 - Holder (1000766) has gained c_luyind
+200 - vassal: c_qazina - Holder 1000766 - Primary title: c_qazina has lost the title: c_qazina
+200 - sub vassal: c_qazina - Holder 1000766 - Primary title: c_qazina has lost the title: c_qazina
+200 - vassal: c_qazina - Title given to 1000766 - Primary title: d_beryana
+200 - sub vassal: c_qazina - Title given to 1000766 - Primary title: d_beryana
+200 - Holder (1000766) has gained c_qazina
+227 - Holder 1002219 - Primary title: d_beryana has lost the title: d_beryana
+227 - Title given to 1002219
+227 - vassal: c_ladatha - Holder 1002219 - Primary title: c_ladatha has lost the title: c_ladatha
+227 - vassal: c_ladatha - Title given to 1002219 - Primary title: d_beryana
+227 - Holder (1002219) has gained c_ladatha
+227 - vassal: c_luyind - Holder 1002219 - Primary title: c_luyind has lost the title: c_luyind
+227 - vassal: c_luyind - Title given to 1002219 - Primary title: d_beryana
+227 - Holder (1002219) has gained c_luyind
+227 - vassal: c_qazina - Holder 1002219 - Primary title: c_qazina has lost the title: c_qazina
+227 - vassal: c_qazina - Title given to 1002219 - Primary title: d_beryana
+227 - Holder (1002219) has gained c_qazina
+245 - Holder (1002219) has gained d_kadina
+245 - Holder (1002219) has gained c_kosiu
+245 - Holder (1002219) has gained c_banatha
+245 - Holder (1002219) has gained c_tind
+246 - vassal: c_ladatha - Title given to 1006217
+262 - Gained vassal: c_kosiu
+262 - Gained vassal: c_banatha
+262 - Gained vassal: c_tind
+262 - Holder 1004808 - Primary title: d_beryana has lost the title: d_beryana
+262 - Title given to 1004808 - Primary title: d_kadina
+262 - vassal: c_tind - Holder 1004808 - Primary title: c_tind has lost the title: c_tind
+262 - vassal: c_tind - Title given to 1004808 - Primary title: d_kadina
+262 - vassal: c_banatha - Holder 1004808 - Primary title: c_banatha has lost the title: c_banatha
+262 - vassal: c_banatha - Title given to 1004808 - Primary title: d_kadina
+262 - vassal: c_kosiu - Holder 1004808 - Primary title: c_kosiu has lost the title: c_kosiu
+262 - vassal: c_kosiu - Title given to 1004808 - Primary title: d_kadina
+262 - vassal: c_luyind - Holder 1004808 - Primary title: c_luyind has lost the title: c_luyind
+262 - vassal: c_luyind - Title given to 1004808 - Primary title: d_kadina
+262 - vassal: c_qazina - Holder 1004808 - Primary title: c_qazina has lost the title: c_qazina
+262 - vassal: c_qazina - Title given to 1004808 - Primary title: d_kadina
+263 - Holder (1004808) has gained d_kadina
+263 - vassal: c_tind - Set liege on title creation d_kadina
+263 - Lost vassal: c_tind
+263 - vassal: c_banatha - Set liege on title creation d_kadina
+263 - Lost vassal: c_banatha
+263 - vassal: c_kosiu - Set liege on title creation d_kadina
+263 - Lost vassal: c_kosiu
+263 - vassal: c_luyind - Set liege on title creation d_kadina
+263 - Lost vassal: c_luyind
+263 - vassal: c_qazina - Set liege on title creation d_kadina
+263 - Lost vassal: c_qazina
+263 - vassal: c_ladatha - Holder 1004808 - Primary title: c_ladatha has lost the title: c_ladatha
+263 - vassal: c_ladatha - Title given to 1004808 - Primary title: d_beryana
+263 - Holder (1004808) has gained c_ladatha
+264 - Holder 1007764 - Primary title: d_beryana has lost the title: c_luyind
+265 - Holder (1004808) has gained k_aguyinia
+266 - vassal: c_ladatha - Given to 1007964 in HandleTitles - Too many duke titles
+266 - vassal: c_ladatha - Title given to 1007964
+266 - Title given to 1007964 - Primary title: c_ladatha
+266 - vassal: c_ladatha - Holder (1007964) has gained d_beryana
+266 - Too many dukes, given to dejure: k_aguyinia
+284 - Holder 1007687 - Primary title: d_beryana has lost the title: c_ladatha
+284 - vassal: c_ladatha - Title given to 1007687 - Primary title: k_aguyinia
+284 - vassal: c_ladatha - Setting to vassal of k_aguyinia in Validate Realm
+284 - Lost vassal: c_ladatha
+285 - Destroyed due to flagged problem
+285 - Made independent
+285 - Title destroyed

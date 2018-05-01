@@ -1,0 +1,153 @@
+200 - Title given to 1000498
+200 - vassal: c_enba - Given to 1000501 via AddCharacterForTitle
+200 - sub vassal: c_enba - Given to 1000501 via AddCharacterForTitle
+200 - vassal: c_enba - Holder 1000501 - Primary title: c_enba has lost the title: c_enba
+200 - sub vassal: c_enba - Holder 1000501 - Primary title: c_enba has lost the title: c_enba
+200 - vassal: c_enba - Title given to 1000501
+200 - sub vassal: c_enba - Title given to 1000501
+200 - vassal: c_kaepul - Holder 1000498 - Primary title: c_kaepul has lost the title: c_kaepul
+200 - sub vassal: c_kaepul - Holder 1000498 - Primary title: c_kaepul has lost the title: c_kaepul
+200 - vassal: c_kaepul - Title given to 1000498 - Primary title: d_dul
+200 - sub vassal: c_kaepul - Title given to 1000498 - Primary title: d_dul
+200 - Holder (1000498) has gained c_kaepul
+200 - vassal: c_enba - Holder 1000498 - Primary title: c_enba has lost the title: c_enba
+200 - sub vassal: c_enba - Holder 1000498 - Primary title: c_enba has lost the title: c_enba
+200 - vassal: c_enba - Title given to 1000498 - Primary title: d_dul
+200 - sub vassal: c_enba - Title given to 1000498 - Primary title: d_dul
+200 - Holder (1000498) has gained c_enba
+200 - vassal: c_latul - Holder 1000498 - Primary title: c_latul has lost the title: c_latul
+200 - sub vassal: c_latul - Holder 1000498 - Primary title: c_latul has lost the title: c_latul
+200 - vassal: c_latul - Title given to 1000498 - Primary title: d_dul
+200 - sub vassal: c_latul - Title given to 1000498 - Primary title: d_dul
+200 - Holder (1000498) has gained c_latul
+206 - Holder 1002447 - Primary title: d_dul has lost the title: d_dul
+206 - Title given to 1002447 - Primary title: d_nadin
+206 - vassal: c_latul - Holder 1002447 - Primary title: c_latul has lost the title: c_latul
+206 - vassal: c_latul - Title given to 1002447 - Primary title: d_nadin
+206 - vassal: c_enba - Holder 1002447 - Primary title: c_enba has lost the title: c_enba
+206 - vassal: c_enba - Title given to 1002447 - Primary title: d_nadin
+206 - vassal: c_kaepul - Holder 1002447 - Primary title: c_kaepul has lost the title: c_kaepul
+206 - vassal: c_kaepul - Title given to 1002447 - Primary title: d_nadin
+222 - vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - Lost vassal: c_kaepul
+222 - Gained vassal: c_kaepul
+222 - Gained vassal: c_kaepul
+222 - vassal: c_kaepul - Given to neighbour holder of k_seateas
+222 - vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - Lost vassal: c_enba
+222 - Gained vassal: c_enba
+222 - Gained vassal: c_enba
+222 - vassal: c_enba - Given to neighbour holder of k_seateas
+222 - vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - Lost vassal: c_latul
+222 - Gained vassal: c_latul
+222 - Gained vassal: c_latul
+222 - vassal: c_latul - Given to neighbour holder of k_seateas
+223 - vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - Lost vassal: c_kaepul
+223 - Gained vassal: c_kaepul
+223 - Gained vassal: c_kaepul
+223 - vassal: c_kaepul - Given to neighbour holder of k_seateas
+223 - vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - Lost vassal: c_enba
+223 - Gained vassal: c_enba
+223 - Gained vassal: c_enba
+223 - vassal: c_enba - Given to neighbour holder of k_seateas
+223 - vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - Lost vassal: c_latul
+223 - Gained vassal: c_latul
+223 - Gained vassal: c_latul
+223 - vassal: c_latul - Given to neighbour holder of k_seateas
+224 - vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - Lost vassal: c_kaepul
+224 - Gained vassal: c_kaepul
+224 - Gained vassal: c_kaepul
+224 - vassal: c_kaepul - Given to neighbour holder of k_seateas
+224 - vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - Lost vassal: c_enba
+224 - Gained vassal: c_enba
+224 - Gained vassal: c_enba
+224 - vassal: c_enba - Given to neighbour holder of k_seateas
+224 - vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - Lost vassal: c_latul
+224 - Gained vassal: c_latul
+224 - Gained vassal: c_latul
+224 - vassal: c_latul - Given to neighbour holder of k_seateas
+225 - vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - Lost vassal: c_kaepul
+225 - Gained vassal: c_kaepul
+225 - Gained vassal: c_kaepul
+225 - vassal: c_kaepul - Given to neighbour holder of k_seateas
+225 - vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - Lost vassal: c_enba
+225 - Gained vassal: c_enba
+225 - Gained vassal: c_enba
+225 - vassal: c_enba - Given to neighbour holder of k_seateas
+225 - vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - Lost vassal: c_latul
+225 - Gained vassal: c_latul
+225 - Gained vassal: c_latul
+225 - vassal: c_latul - Given to neighbour holder of k_seateas
+226 - vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - Lost vassal: c_kaepul
+226 - Gained vassal: c_kaepul
+226 - Gained vassal: c_kaepul
+226 - vassal: c_kaepul - Given to neighbour holder of k_seateas
+226 - vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - Lost vassal: c_enba
+226 - Gained vassal: c_enba
+226 - Gained vassal: c_enba
+226 - vassal: c_enba - Given to neighbour holder of k_seateas
+226 - vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - Lost vassal: c_latul
+226 - Gained vassal: c_latul
+226 - Gained vassal: c_latul
+226 - vassal: c_latul - Given to neighbour holder of k_seateas
+227 - vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - Lost vassal: c_kaepul
+227 - Gained vassal: c_kaepul
+227 - Gained vassal: c_kaepul
+227 - vassal: c_kaepul - Given to neighbour holder of k_seateas
+227 - vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - Lost vassal: c_enba
+227 - Gained vassal: c_enba
+227 - Gained vassal: c_enba
+227 - vassal: c_enba - Given to neighbour holder of k_seateas
+227 - vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - Lost vassal: c_latul
+227 - Gained vassal: c_latul
+227 - Gained vassal: c_latul
+227 - vassal: c_latul - Given to neighbour holder of k_seateas
+228 - vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+228 - Lost vassal: c_kaepul
+228 - Gained vassal: c_kaepul
+228 - Gained vassal: c_kaepul
+228 - vassal: c_kaepul - Given to neighbour holder of k_seateas
+228 - vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+228 - Lost vassal: c_enba
+228 - Gained vassal: c_enba
+228 - Gained vassal: c_enba
+228 - vassal: c_enba - Given to neighbour holder of k_seateas
+228 - vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+228 - Lost vassal: c_latul
+228 - Gained vassal: c_latul
+228 - Gained vassal: c_latul
+228 - vassal: c_latul - Given to neighbour holder of k_seateas
+229 - vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+229 - Lost vassal: c_kaepul
+229 - Gained vassal: c_kaepul
+229 - Gained vassal: c_kaepul
+229 - vassal: c_kaepul - Given to neighbour holder of k_seateas
+229 - vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+229 - Lost vassal: c_enba
+229 - Gained vassal: c_enba
+229 - Gained vassal: c_enba
+229 - vassal: c_enba - Given to neighbour holder of k_seateas
+229 - vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+229 - Lost vassal: c_latul
+229 - Gained vassal: c_latul
+229 - Gained vassal: c_latul
+229 - vassal: c_latul - Given to neighbour holder of k_seateas
+230 - Holder 1002454 - Primary title: d_dul has lost the title: d_dul
+230 - Title given to 1002454
+23

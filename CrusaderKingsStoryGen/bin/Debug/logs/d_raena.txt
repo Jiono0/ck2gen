@@ -1,0 +1,56 @@
+200 - Title given to 1000248
+200 - vassal: c_baulay - Given to 1000251 via AddCharacterForTitle
+200 - sub vassal: c_baulay - Given to 1000251 via AddCharacterForTitle
+200 - vassal: c_baulay - Holder 1000251 - Primary title: c_baulay has lost the title: c_baulay
+200 - sub vassal: c_baulay - Holder 1000251 - Primary title: c_baulay has lost the title: c_baulay
+200 - vassal: c_baulay - Title given to 1000251
+200 - sub vassal: c_baulay - Title given to 1000251
+200 - vassal: c_dielolh - Given to 1000253 via AddCharacterForTitle
+200 - sub vassal: c_dielolh - Given to 1000253 via AddCharacterForTitle
+200 - vassal: c_dielolh - Holder 1000253 - Primary title: c_dielolh has lost the title: c_dielolh
+200 - sub vassal: c_dielolh - Holder 1000253 - Primary title: c_dielolh has lost the title: c_dielolh
+200 - vassal: c_dielolh - Title given to 1000253
+200 - sub vassal: c_dielolh - Title given to 1000253
+200 - vassal: c_loctas - Holder 1000244 - Primary title: c_loctas has lost the title: c_kutelgil
+200 - sub vassal: c_loctas - Holder 1000244 - Primary title: c_loctas has lost the title: c_kutelgil
+200 - sub vassal: c_kutelgil - Title given to 1000244 - Primary title: d_kangena
+200 - vassal: c_tanolh - Holder 1000248 - Primary title: c_tanolh has lost the title: c_tanolh
+200 - sub vassal: c_tanolh - Holder 1000248 - Primary title: c_tanolh has lost the title: c_tanolh
+200 - vassal: c_tanolh - Title given to 1000248 - Primary title: d_raena
+200 - sub vassal: c_tanolh - Title given to 1000248 - Primary title: d_raena
+200 - Holder (1000248) has gained c_tanolh
+200 - vassal: c_baulay - Holder 1000248 - Primary title: c_baulay has lost the title: c_baulay
+200 - sub vassal: c_baulay - Holder 1000248 - Primary title: c_baulay has lost the title: c_baulay
+200 - vassal: c_baulay - Title given to 1000248 - Primary title: d_raena
+200 - sub vassal: c_baulay - Title given to 1000248 - Primary title: d_raena
+200 - Holder (1000248) has gained c_baulay
+200 - vassal: c_dielolh - Holder 1000248 - Primary title: c_dielolh has lost the title: c_dielolh
+200 - sub vassal: c_dielolh - Holder 1000248 - Primary title: c_dielolh has lost the title: c_dielolh
+200 - vassal: c_dielolh - Title given to 1000248 - Primary title: d_raena
+200 - sub vassal: c_dielolh - Title given to 1000248 - Primary title: d_raena
+200 - Holder (1000248) has gained c_dielolh
+200 - vassal: c_loctas - Holder 1000248 - Primary title: c_loctas has lost the title: c_loctas
+200 - sub vassal: c_loctas - Holder 1000248 - Primary title: c_loctas has lost the title: c_loctas
+200 - vassal: c_loctas - Title given to 1000248 - Primary title: d_raena
+200 - sub vassal: c_loctas - Title given to 1000248 - Primary title: d_raena
+200 - Holder (1000248) has gained c_loctas
+200 - Holder 1001469 - Primary title: d_raena has lost the title: d_raena
+200 - Title given to 1001469 - Primary title: k_kuolh
+200 - vassal: c_tanolh - Holder 1001469 - Primary title: c_tanolh has lost the title: c_tanolh
+200 - vassal: c_tanolh - Title given to 1001469 - Primary title: k_kuolh
+215 - Holder 1003038 - Primary title: d_raena has lost the title: d_raena
+215 - Title given to 1003038 - Primary title: k_kuolh
+215 - vassal: c_tanolh - Holder 1003038 - Primary title: c_tanolh has lost the title: c_tanolh
+215 - vassal: c_tanolh - Title given to 1003038 - Primary title: k_kuolh
+222 - Holder 1000294 - Primary title: d_raena has lost the title: d_raena
+222 - Title given to 1000294 - Primary title: k_kuolh
+222 - vassal: c_tanolh - Holder 1000294 - Primary title: c_tanolh has lost the title: c_tanolh
+222 - vassal: c_tanolh - Title given to 1000294 - Primary title: k_kuolh
+224 - Gained vassal: c_diralay
+224 - Gained vassal: c_tieluel
+224 - Gained vassal: c_sanirma
+224 - Holder 1002076 - Primary title: d_raena has lost the title: c_sanirma
+224 - vassal: c_sanirma - Title given to 1002076 - Primary title: k_kuolh
+224 - vassal: c_sanirma - Setting to vassal of k_kuolh in Validate Realm
+224 - Lost vassal: c_sanirma
+224 - Holder 1002076 - Primary title: d_raena has lost the title: c_t

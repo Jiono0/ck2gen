@@ -1,0 +1,57 @@
+200 - Title given to 1000927
+200 - vassal: c_edilafu - Holder 1000927 - Primary title: c_edilafu has lost the title: c_edilafu
+200 - sub vassal: c_edilafu - Holder 1000927 - Primary title: c_edilafu has lost the title: c_edilafu
+200 - vassal: c_edilafu - Title given to 1000927 - Primary title: d_radulah
+200 - sub vassal: c_edilafu - Title given to 1000927 - Primary title: d_radulah
+200 - Holder (1000927) has gained c_edilafu
+200 - vassal: c_tazaaq - Holder 1000927 - Primary title: c_tazaaq has lost the title: c_tazaaq
+200 - sub vassal: c_tazaaq - Holder 1000927 - Primary title: c_tazaaq has lost the title: c_tazaaq
+200 - vassal: c_tazaaq - Title given to 1000927 - Primary title: d_radulah
+200 - sub vassal: c_tazaaq - Title given to 1000927 - Primary title: d_radulah
+200 - Holder (1000927) has gained c_tazaaq
+200 - Holder 1001493 - Primary title: d_radulah has lost the title: d_radulah
+200 - Title given to 1001493 - Primary title: k_ashutsen
+200 - vassal: c_edilafu - Holder 1001493 - Primary title: c_edilafu has lost the title: c_edilafu
+200 - vassal: c_edilafu - Title given to 1001493 - Primary title: k_ashutsen
+202 - Holder 1001994 - Primary title: d_radulah has lost the title: d_radulah
+202 - Title given to 1001994 - Primary title: k_ashutsen
+202 - vassal: c_edilafu - Holder 1001994 - Primary title: c_edilafu has lost the title: c_edilafu
+202 - vassal: c_edilafu - Title given to 1001994 - Primary title: k_ashutsen
+230 - Holder 1003467 - Primary title: d_radulah has lost the title: d_radulah
+230 - Title given to 1003467 - Primary title: k_ashutsen
+230 - vassal: c_edilafu - Holder 1003467 - Primary title: c_edilafu has lost the title: c_edilafu
+230 - vassal: c_edilafu - Title given to 1003467 - Primary title: k_ashutsen
+233 - Holder 1002663 - Primary title: d_radulah has lost the title: d_radulah
+233 - Title given to 1002663 - Primary title: k_ashutsen
+233 - vassal: c_edilafu - Holder 1002663 - Primary title: c_edilafu has lost the title: c_edilafu
+233 - vassal: c_edilafu - Title given to 1002663 - Primary title: k_ashutsen
+257 - vassal: c_edilafu - Given to 1006586 in HandleTitles - Too many duke titles
+257 - vassal: c_edilafu - Title given to 1006586
+257 - Title given to 1006586 - Primary title: c_edilafu
+257 - vassal: c_edilafu - Holder (1006586) has gained d_radulah
+257 - Too many dukes, given to dejure: k_ashutsen
+260 - Holder 1002663 - Primary title: d_radulah has lost the title: d_radulah
+260 - Title given to 1002663 - Primary title: k_ashutsen
+260 - vassal: c_edilafu - Holder 1002663 - Primary title: c_edilafu has lost the title: c_edilafu
+260 - vassal: c_edilafu - Title given to 1002663 - Primary title: k_ashutsen
+260 - vassal: c_edilafu - Title given to 1006838
+274 - Holder 1005681 - Primary title: d_radulah has lost the title: d_radulah
+274 - Title given to 1005681 - Primary title: k_ashutsen
+296 - Gained vassal: c_kusine
+296 - Gained vassal: c_kanena
+296 - Gained vassal: c_nidari
+296 - Gained vassal: c_eleble
+296 - Gained vassal: c_nibomir
+296 - Holder 1008440 - Primary title: d_radulah has lost the title: d_radulah
+296 - Title given to 1008440 - Primary title: k_ashutsen
+296 - vassal: c_nibomir - Holder 1008440 - Primary title: c_nibomir has lost the title: c_nibomir
+296 - vassal: c_nibomir - Title given to 1008440 - Primary title: k_ashutsen
+296 - vassal: c_eleble - Holder 1008440 - Primary title: c_eleble has lost the title: c_eleble
+296 - vassal: c_eleble - Title given to 1008440 - Primary title: k_ashutsen
+296 - vassal: c_nidari - Holder 1008440 - Primary title: c_nidari has lost the title: c_nidari
+296 - vassal: c_nidari - Title given to 1008440 - Primary title: k_ashutsen
+296 - vassal: c_kanena - Holder 1008440 - Primary title: c_kanena has lost the title: c_kanena
+296 - vassal: c_kanena - Title given to 1008440 - Primary title: k_ashutsen
+296 - vassal: c_kusine - Holder 1008440 - Primary title: c_kusine has lost the title: c_kusine
+296 - vassal: c_kusine - Title given to 1008440 - Primary title: k_ashutsen
+300 - vassal: c_tazaaq - Holder 1008440 

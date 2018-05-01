@@ -1,0 +1,30 @@
+200 - Title given to 1000015 - Primary title: c_teorrel
+200 - Given to 1000500 via AddCharacterForTitle
+200 - Title given to 1000500
+200 - Given to 1000501 via AddCharacterForTitle
+200 - Holder 1000501 - Primary title: c_kutisco has lost the title: c_kutisco
+200 - Title given to 1000501
+200 - Holder 1000498 - Primary title: c_kutisco has lost the title: c_kutisco
+200 - Title given to 1000498 - Primary title: d_relicha
+203 - Title given to 1002492
+271 - Holder 1007853 - Primary title: c_kutisco has lost the title: c_kutisco
+271 - Title given to 1007853 - Primary title: d_relicha
+273 - Title given to 1008532
+275 - Given to 1008668 in HandleTitles - Too many duke titles
+275 - Holder 1008668 - Primary title: c_kutisco has lost the title: c_kutisco
+275 - Title given to 1008668
+285 - Given to 1009514 in HandleTitles - Too many duke titles
+285 - Holder 1009514 - Primary title: c_kutisco has lost the title: c_kutisco
+285 - Title given to 1009514
+285 - Holder (1009514) has gained d_relicha
+287 - Holder 1008669 - Primary title: c_kutisco has lost the title: c_kutisco
+287 - Title given to 1008669 - Primary title: k_relera
+304 - Setting to vassal of d_tezum in Validate Realm
+304 - Holder 1009005 - Primary title: c_kutisco has lost the title: c_kutisco
+304 - Title given to 1009005 - Primary title: k_relera
+325 - Setting independent in Validate Realm
+325 - Made independent
+325 - Holder 1011397 - Primary title: c_kutisco has lost the title: c_kutisco
+325 - Title given to 1011397 - Primary title: k_relera
+342 - Title given to 1014027
+342 - Too many dukes, made direct title into vassal of k_relera

@@ -1,0 +1,351 @@
+200 - Title given to 1001159
+200 - vassal: c_nonogul - Given to 1001162 via AddCharacterForTitle
+200 - sub vassal: c_nonogul - Given to 1001162 via AddCharacterForTitle
+200 - vassal: c_nonogul - Holder 1001162 - Primary title: c_nonogul has lost the title: c_nonogul
+200 - sub vassal: c_nonogul - Holder 1001162 - Primary title: c_nonogul has lost the title: c_nonogul
+200 - vassal: c_nonogul - Title given to 1001162
+200 - sub vassal: c_nonogul - Title given to 1001162
+200 - vassal: c_balla - Holder 1001159 - Primary title: c_balla has lost the title: c_balla
+200 - sub vassal: c_balla - Holder 1001159 - Primary title: c_balla has lost the title: c_balla
+200 - vassal: c_balla - Title given to 1001159 - Primary title: d_naow
+200 - sub vassal: c_balla - Title given to 1001159 - Primary title: d_naow
+200 - Holder (1001159) has gained c_balla
+200 - vassal: c_nonogul - Holder 1001159 - Primary title: c_nonogul has lost the title: c_nonogul
+200 - sub vassal: c_nonogul - Holder 1001159 - Primary title: c_nonogul has lost the title: c_nonogul
+200 - vassal: c_nonogul - Title given to 1001159 - Primary title: d_naow
+200 - sub vassal: c_nonogul - Title given to 1001159 - Primary title: d_naow
+200 - Holder (1001159) has gained c_nonogul
+200 - vassal: c_lihuovi - Holder 1001159 - Primary title: c_lihuovi has lost the title: c_lihuovi
+200 - sub vassal: c_lihuovi - Holder 1001159 - Primary title: c_lihuovi has lost the title: c_lihuovi
+200 - vassal: c_lihuovi - Title given to 1001159 - Primary title: d_naow
+200 - sub vassal: c_lihuovi - Title given to 1001159 - Primary title: d_naow
+200 - Holder (1001159) has gained c_lihuovi
+200 - vassal: c_baow - Holder 1001159 - Primary title: c_baow has lost the title: c_baow
+200 - sub vassal: c_baow - Holder 1001159 - Primary title: c_baow has lost the title: c_baow
+200 - vassal: c_baow - Title given to 1001159 - Primary title: d_naow
+200 - sub vassal: c_baow - Title given to 1001159 - Primary title: d_naow
+200 - Holder (1001159) has gained c_baow
+200 - Holder 1001554 - Primary title: d_naow has lost the title: d_naow
+200 - Title given to 1001554 - Primary title: k_sediu
+200 - vassal: c_nonogul - Given to 1002074 in HandleTitles - Too many duke titles
+200 - vassal: c_balla - Holder 1002074 - Primary title: c_balla has lost the title: c_nonogul
+200 - vassal: c_nonogul - Title given to 1002074
+200 - Title given to 1002074 - Primary title: c_nonogul
+200 - vassal: c_nonogul - Holder (1002074) has gained d_naow
+200 - Too many dukes, given to dejure: k_sediu
+200 - Made independent due to being a seperate island
+200 - Made independent
+200 - Holder (1002074) has gained d_deizew
+245 - Holder 1002764 - Primary title: d_naow has lost the title: d_naow
+245 - Title given to 1002764
+245 - Holder (1002764) has gained d_deizew
+245 - vassal: c_nonogul - Holder 1002764 - Primary title: c_nonogul has lost the title: c_nonogul
+245 - sub vassal: c_nonogul - Holder 1002764 - Primary title: c_nonogul has lost the title: c_nonogul
+245 - vassal: c_nonogul - Title given to 1002764 - Primary title: d_naow
+245 - sub vassal: c_nonogul - Title given to 1002764 - Primary title: d_naow
+245 - Holder (1002764) has gained c_nonogul
+257 - Holder 1001159 - Primary title: d_naow has lost the title: d_naow
+257 - Title given to 1001159 - Primary title: c_balla
+257 - vassal: c_balla - Holder (1001159) has gained d_naow
+257 - sub vassal: c_balla - Holder (1001159) has gained d_naow
+257 - vassal: c_nonogul - Setting to vassal of d_deizew in Validate Realm
+257 - Lost vassal: c_nonogul
+257 - Holder (1001159) has gained d_deizew
+257 - sub vassal: c_nonogul - Holder 1001159 - Primary title: c_nonogul has lost the title: c_nonogul
+257 - sub vassal: c_nonogul - Title given to 1001159 - Primary title: d_naow
+257 - Holder (1001159) has gained c_nonogul
+259 - Holder 1003001 - Primary title: d_naow has lost the title: d_naow
+259 - Title given to 1003001
+259 - Holder (1003001) has gained d_deizew
+259 - vassal: c_balla - Holder 1003001 - Primary title: c_balla has lost the title: c_nonogul
+259 - sub vassal: c_balla - Holder 1003001 - Primary title: c_balla has lost the title: c_nonogul
+259 - sub vassal: c_nonogul - Title given to 1003001 - Primary title: d_naow
+259 - Holder (1003001) has gained c_nonogul
+261 - Holder 1007519 - Primary title: d_naow has lost the title: d_naow
+261 - Title given to 1007519
+261 - Holder (1007519) has gained d_deizew
+261 - sub vassal: c_nonogul - Holder 1007519 - Primary title: c_nonogul has lost the title: c_nonogul
+261 - sub vassal: c_nonogul - Title given to 1007519 - Primary title: d_naow
+261 - Holder (1007519) has gained c_nonogul
+270 - vassal: c_balla - Holder 1007519 - Primary title: c_balla has lost the title: c_balla
+270 - sub vassal: c_balla - Holder 1007519 - Primary title: c_balla has lost the title: c_balla
+270 - vassal: c_balla - Title given to 1007519 - Primary title: d_naow
+270 - sub vassal: c_balla - Title given to 1007519 - Primary title: d_naow
+270 - Holder (1007519) has gained c_balla
+270 - vassal: c_lihuovi - Holder 1007519 - Primary title: c_lihuovi has lost the title: c_lihuovi
+270 - sub vassal: c_lihuovi - Holder 1007519 - Primary title: c_lihuovi has lost the title: c_lihuovi
+270 - vassal: c_lihuovi - Title given to 1007519 - Primary title: d_naow
+270 - sub vassal: c_lihuovi - Title given to 1007519 - Primary title: d_naow
+270 - Holder (1007519) has gained c_lihuovi
+270 - vassal: c_baow - Holder 1007519 - Primary title: c_baow has lost the title: c_baow
+270 - sub vassal: c_baow - Holder 1007519 - Primary title: c_baow has lost the title: c_baow
+270 - vassal: c_baow - Title given to 1007519 - Primary title: d_naow
+270 - sub vassal: c_baow - Title given to 1007519 - Primary title: d_naow
+270 - Holder (1007519) has gained c_baow
+300 - sub vassal: c_tikona - Holder 1007519 - Primary title: c_tikona has lost the title: c_tikona
+300 - sub vassal: c_tikona - Title given to 1007519 - Primary title: d_naow
+300 - Holder (1007519) has gained c_tikona
+300 - sub vassal: c_sorika - Holder 1007519 - Primary title: c_sorika has lost the title: c_sorika
+300 - sub vassal: c_sorika - Title given to 1007519 - Primary title: d_naow
+300 - Holder (1007519) has gained c_sorika
+300 - Holder 1010768 - Primary title: d_naow has lost the title: c_tikona
+300 - sub vassal: c_tikona - Title given to 1010768
+302 - Holder 1008453 - Primary title: d_naow has lost the title: d_naow
+302 - Title given to 1008453
+302 - Holder (1008453) has gained d_deizew
+302 - sub vassal: c_sorika - Holder 1008453 - Primary title: c_sorika has lost the title: c_sorika
+302 - sub vassal: c_sorika - Title given to 1008453 - Primary title: d_naow
+302 - Holder (1008453) has gained c_sorika
+302 - vassal: c_balla - Setting independent in Validate Realm
+302 - sub vassal: c_balla - Setting independent in Validate Realm
+302 - vassal: c_balla - Made independent
+302 - sub vassal: c_balla - Made independent
+302 - vassal: c_lihuovi - Setting independent in Validate Realm
+302 - sub vassal: c_lihuovi - Setting independent in Validate Realm
+302 - vassal: c_lihuovi - Made independent
+302 - sub vassal: c_lihuovi - Made independent
+302 - vassal: c_baow - Setting independent in Validate Realm
+302 - sub vassal: c_baow - Setting independent in Validate Realm
+302 - vassal: c_baow - Made independent
+302 - sub vassal: c_baow - Made independent
+302 - sub vassal: c_nonogul - Holder 1008453 - Primary title: c_nonogul has lost the title: c_nonogul
+302 - sub vassal: c_nonogul - Title given to 1008453 - Primary title: d_naow
+302 - Holder (1008453) has gained c_nonogul
+302 - Holder (1008453) has gained c_balla
+302 - Holder (1008453) has gained c_lihuovi
+302 - Holder (1008453) has gained c_baow
+303 - Destroyed due to flagged problem
+303 - Title destroyed
+303 - Given to 1008453 in TestCreateEmpire
+303 - Title given to 1008453 - Primary title: d_deizew
+303 - Made independent for title creation d_naow for d_deizew
+303 - Gained vassal: c_sorika
+303 - Gained vassal: c_nonogul
+303 - Gained vassal: c_balla
+303 - Gained vassal: c_lihuovi
+303 - Gained vassal: c_baow
+303 - Destroyed due to no capital's obtainable
+303 - Title destroyed
+303 - vassal: c_balla - Setting independent due to liege destruction
+303 - vassal: c_balla - Made independent
+303 - vassal: c_lihuovi - Setting independent due to liege destruction
+303 - vassal: c_lihuovi - Made independent
+303 - vassal: c_nonogul - Setting independent due to liege destruction
+303 - vassal: c_nonogul - Made independent
+303 - vassal: c_sorika - Setting independent due to liege destruction
+303 - vassal: c_sorika - Made independent
+303 - vassal: c_baow - Setting independent due to liege destruction
+303 - vassal: c_baow - Made independent
+316 - Given to 1008453 in TestCreateEmpire
+316 - Title given to 1008453 - Primary title: d_deizew
+316 - Made independent for title creation d_naow for d_deizew
+316 - Gained vassal: c_sorika
+316 - Gained vassal: c_balla
+316 - Gained vassal: c_lihuovi
+316 - Gained vassal: c_baow
+316 - Gained vassal: c_tikona
+316 - Destroyed due to no capital's obtainable
+316 - Title destroyed
+316 - vassal: c_tikona - Setting independent due to liege destruction
+316 - vassal: c_tikona - Made independent
+316 - vassal: c_baow - Setting independent due to liege destruction
+316 - vassal: c_baow - Made independent
+316 - vassal: c_lihuovi - Setting independent due to liege destruction
+316 - vassal: c_lihuovi - Made independent
+316 - vassal: c_balla - Setting independent due to liege destruction
+316 - vassal: c_balla - Made independent
+316 - vassal: c_sorika - Setting independent due to liege destruction
+316 - vassal: c_sorika - Made independent
+322 - Given to 1008453 in TestCreateEmpire
+322 - Title given to 1008453 - Primary title: d_deizew
+322 - Made independent for title creation d_naow for d_deizew
+322 - Gained vassal: c_nonogul
+322 - Gained vassal: c_tikona
+322 - Gained vassal: c_baow
+322 - Gained vassal: c_balla
+322 - Gained vassal: c_sorika
+322 - Destroyed due to no capital's obtainable
+322 - Title destroyed
+322 - vassal: c_sorika - Setting independent due to liege destruction
+322 - vassal: c_sorika - Made independent
+322 - vassal: c_balla - Setting independent due to liege destruction
+322 - vassal: c_balla - Made independent
+322 - vassal: c_baow - Setting independent due to liege destruction
+322 - vassal: c_baow - Made independent
+322 - vassal: c_tikona - Setting independent due to liege destruction
+322 - vassal: c_tikona - Made independent
+322 - vassal: c_nonogul - Setting independent due to liege destruction
+322 - vassal: c_nonogul - Made independent
+323 - Given to 1008453 in TestCreateEmpire
+323 - Title given to 1008453 - Primary title: d_deizew
+323 - Made independent for title creation d_naow for d_deizew
+323 - Gained vassal: c_nonogul
+323 - Gained vassal: c_tikona
+323 - Gained vassal: c_baow
+323 - Gained vassal: c_balla
+323 - Gained vassal: c_sorika
+323 - Gained vassal: c_lihuovi
+323 - Destroyed due to no capital's obtainable
+323 - Title destroyed
+323 - vassal: c_sorika - Setting independent due to liege destruction
+323 - vassal: c_sorika - Made independent
+323 - vassal: c_balla - Setting independent due to liege destruction
+323 - vassal: c_balla - Made independent
+323 - vassal: c_baow - Setting independent due to liege destruction
+323 - vassal: c_baow - Made independent
+323 - vassal: c_tikona - Setting independent due to liege destruction
+323 - vassal: c_tikona - Made independent
+323 - vassal: c_nonogul - Setting independent due to liege destruction
+323 - vassal: c_nonogul - Made independent
+323 - vassal: c_lihuovi - Setting independent due to liege destruction
+323 - vassal: c_lihuovi - Made independent
+336 - Given to 1008453 in TestCreateEmpire
+336 - Title given to 1008453 - Primary title: c_tikona
+336 - Gained vassal: c_tikona
+336 - Made independent for title creation d_naow for d_naow
+336 - vassal: c_tikona - Set liege on title creation d_naow
+336 - sub vassal: c_tikona - Set liege on title creation d_naow
+336 - Gained vassal: c_baow
+336 - Gained vassal: c_balla
+336 - Gained vassal: c_sorika
+336 - Gained vassal: c_lihuovi
+336 - Gained vassal: c_nonogul
+336 - Destroyed due to no capital's obtainable
+336 - Title destroyed
+336 - vassal: c_nonogul - Setting independent due to liege destruction
+336 - vassal: c_nonogul - Made independent
+336 - vassal: c_lihuovi - Setting independent due to liege destruction
+336 - vassal: c_lihuovi - Made independent
+336 - vassal: c_sorika - Setting independent due to liege destruction
+336 - vassal: c_sorika - Made independent
+336 - vassal: c_balla - Setting independent due to liege destruction
+336 - vassal: c_balla - Made independent
+336 - vassal: c_baow - Setting independent due to liege destruction
+336 - vassal: c_baow - Made independent
+336 - vassal: c_tikona - Setting independent due to liege destruction
+336 - vassal: c_tikona - Made independent
+343 - Given to 1013851 in TestCreateEmpire
+343 - Title given to 1013851 - Primary title: c_tikona
+343 - Gained vassal: c_tikona
+343 - Made independent for title creation d_naow for d_naow
+343 - vassal: c_tikona - Set liege on title creation d_naow
+343 - sub vassal: c_tikona - Set liege on title creation d_naow
+343 - Gained vassal: c_baow
+343 - Gained vassal: c_balla
+343 - Gained vassal: c_sorika
+343 - Gained vassal: c_lihuovi
+343 - Gained vassal: c_nonogul
+343 - Destroyed due to no capital's obtainable
+343 - Title destroyed
+343 - vassal: c_nonogul - Setting independent due to liege destruction
+343 - vassal: c_nonogul - Made independent
+343 - vassal: c_lihuovi - Setting independent due to liege destruction
+343 - vassal: c_lihuovi - Made independent
+343 - vassal: c_sorika - Setting independent due to liege destruction
+343 - vassal: c_sorika - Made independent
+343 - vassal: c_balla - Setting independent due to liege destruction
+343 - vassal: c_balla - Made independent
+343 - vassal: c_baow - Setting independent due to liege destruction
+343 - vassal: c_baow - Made independent
+343 - vassal: c_tikona - Setting independent due to liege destruction
+343 - vassal: c_tikona - Made independent
+359 - Given to 1014293 in TestCreateEmpire
+359 - Title given to 1014293 - Primary title: c_tikona
+359 - Gained vassal: c_tikona
+359 - Made independent for title creation d_naow for d_naow
+359 - vassal: c_tikona - Set liege on title creation d_naow
+359 - sub vassal: c_tikona - Set liege on title creation d_naow
+359 - Gained vassal: c_baow
+359 - Gained vassal: c_balla
+359 - Gained vassal: c_sorika
+359 - Gained vassal: c_lihuovi
+359 - Gained vassal: c_nonogul
+359 - Destroyed due to no capital's obtainable
+359 - Title destroyed
+359 - vassal: c_nonogul - Setting independent due to liege destruction
+359 - vassal: c_nonogul - Made independent
+359 - vassal: c_lihuovi - Setting independent due to liege destruction
+359 - vassal: c_lihuovi - Made independent
+359 - vassal: c_sorika - Setting independent due to liege destruction
+359 - vassal: c_sorika - Made independent
+359 - vassal: c_balla - Setting independent due to liege destruction
+359 - vassal: c_balla - Made independent
+359 - vassal: c_baow - Setting independent due to liege destruction
+359 - vassal: c_baow - Made independent
+359 - vassal: c_tikona - Setting independent due to liege destruction
+359 - vassal: c_tikona - Made independent
+360 - Given to 1014293 in TestCreateEmpire
+360 - Title given to 1014293 - Primary title: c_tikona
+360 - Gained vassal: c_tikona
+360 - Made independent for title creation d_naow for d_naow
+360 - vassal: c_tikona - Set liege on title creation d_naow
+360 - sub vassal: c_tikona - Set liege on title creation d_naow
+360 - Gained vassal: c_baow
+360 - Gained vassal: c_balla
+360 - Gained vassal: c_sorika
+360 - Gained vassal: c_lihuovi
+360 - Gained vassal: c_nonogul
+360 - Destroyed due to no capital's obtainable
+360 - Title destroyed
+360 - vassal: c_nonogul - Setting independent due to liege destruction
+360 - vassal: c_nonogul - Made independent
+360 - vassal: c_lihuovi - Setting independent due to liege destruction
+360 - vassal: c_lihuovi - Made independent
+360 - vassal: c_sorika - Setting independent due to liege destruction
+360 - vassal: c_sorika - Made independent
+360 - vassal: c_balla - Setting independent due to liege destruction
+360 - vassal: c_balla - Made independent
+360 - vassal: c_baow - Setting independent due to liege destruction
+360 - vassal: c_baow - Made independent
+360 - vassal: c_tikona - Setting independent due to liege destruction
+360 - vassal: c_tikona - Made independent
+361 - Given to 1014293 in TestCreateEmpire
+361 - Title given to 1014293 - Primary title: c_tikona
+361 - Gained vassal: c_tikona
+361 - Made independent for title creation d_naow for d_naow
+361 - vassal: c_tikona - Set liege on title creation d_naow
+361 - sub vassal: c_tikona - Set liege on title creation d_naow
+361 - Gained vassal: c_baow
+361 - Gained vassal: c_balla
+361 - Gained vassal: c_sorika
+361 - Gained vassal: c_lihuovi
+361 - Gained vassal: c_nonogul
+361 - Destroyed due to no capital's obtainable
+361 - Title destroyed
+361 - vassal: c_nonogul - Setting independent due to liege destruction
+361 - vassal: c_nonogul - Made independent
+361 - vassal: c_lihuovi - Setting independent due to liege destruction
+361 - vassal: c_lihuovi - Made independent
+361 - vassal: c_sorika - Setting independent due to liege destruction
+361 - vassal: c_sorika - Made independent
+361 - vassal: c_balla - Setting independent due to liege destruction
+361 - vassal: c_balla - Made independent
+361 - vassal: c_baow - Setting independent due to liege destruction
+361 - vassal: c_baow - Made independent
+361 - vassal: c_tikona - Setting independent due to liege destruction
+361 - vassal: c_tikona - Made independent
+399 - Given to 1014445 in TestCreateEmpire
+399 - Title given to 1014445 - Primary title: c_tikona
+399 - Gained vassal: c_tikona
+399 - Made independent for title creation d_naow for d_naow
+399 - vassal: c_tikona - Set liege on title creation d_naow
+399 - sub vassal: c_tikona - Set liege on title creation d_naow
+399 - Gained vassal: c_baow
+399 - Gained vassal: c_balla
+399 - Gained vassal: c_sorika
+399 - Gained vassal: c_lihuovi
+399 - Gained vassal: c_nonogul
+399 - Destroyed due to no capital's obtainable
+399 - Title destroyed
+399 - vassal: c_nonogul - Setting independent due to liege destruction
+399 - vassal: c_nonogul - Made independent
+399 - vassal: c_lihuovi - Setting independent due to liege destruction
+399 - vassal: c_lihuovi - Made independent
+399 - vassal: c_sorika - Setting independent due to liege destruction
+399 - vassal: c_sorika - Made independent
+399 - vassal: c_balla - Setting independent due to liege destruction
+399 - vassal: c_balla - Made independent
+399 - vassal: c_baow - Setting independent due to liege destruction
+399 - vassal: c_baow - Made independent
+399 - vassal: c_tikona - Setting independent due to liege destruction
+399 - vassal: c_tikona - Made independent

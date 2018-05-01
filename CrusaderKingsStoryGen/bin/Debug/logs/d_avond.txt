@@ -1,0 +1,58 @@
+200 - Title given to 1000488
+200 - vassal: c_lahara - Given to 1000491 via AddCharacterForTitle
+200 - sub vassal: c_lahara - Given to 1000491 via AddCharacterForTitle
+200 - vassal: c_lahara - Holder 1000491 - Primary title: c_lahara has lost the title: c_lahara
+200 - sub vassal: c_lahara - Holder 1000491 - Primary title: c_lahara has lost the title: c_lahara
+200 - vassal: c_lahara - Title given to 1000491
+200 - sub vassal: c_lahara - Title given to 1000491
+200 - vassal: c_azuisal - Given to 1000493 via AddCharacterForTitle
+200 - sub vassal: c_azuisal - Given to 1000493 via AddCharacterForTitle
+200 - vassal: c_azuisal - Holder 1000493 - Primary title: c_azuisal has lost the title: c_azuisal
+200 - sub vassal: c_azuisal - Holder 1000493 - Primary title: c_azuisal has lost the title: c_azuisal
+200 - vassal: c_azuisal - Title given to 1000493
+200 - sub vassal: c_azuisal - Title given to 1000493
+200 - vassal: c_qezs - Holder 1000488 - Primary title: c_qezs has lost the title: c_qezs
+200 - sub vassal: c_qezs - Holder 1000488 - Primary title: c_qezs has lost the title: c_qezs
+200 - vassal: c_qezs - Title given to 1000488 - Primary title: d_avond
+200 - sub vassal: c_qezs - Title given to 1000488 - Primary title: d_avond
+200 - Holder (1000488) has gained c_qezs
+200 - vassal: c_lahara - Holder 1000488 - Primary title: c_lahara has lost the title: c_lahara
+200 - sub vassal: c_lahara - Holder 1000488 - Primary title: c_lahara has lost the title: c_lahara
+200 - vassal: c_lahara - Title given to 1000488 - Primary title: d_avond
+200 - sub vassal: c_lahara - Title given to 1000488 - Primary title: d_avond
+200 - Holder (1000488) has gained c_lahara
+200 - vassal: c_azuisal - Holder 1000488 - Primary title: c_azuisal has lost the title: c_azuisal
+200 - sub vassal: c_azuisal - Holder 1000488 - Primary title: c_azuisal has lost the title: c_azuisal
+200 - vassal: c_azuisal - Title given to 1000488 - Primary title: d_avond
+200 - sub vassal: c_azuisal - Title given to 1000488 - Primary title: d_avond
+200 - Holder (1000488) has gained c_azuisal
+200 - vassal: c_kovils - Title given to 1000488 - Primary title: d_avond
+200 - Holder (1000488) has gained c_kovils
+200 - vassal: c_suisald - Holder 1000488 - Primary title: c_suisald has lost the title: c_suisald
+200 - sub vassal: c_suisald - Holder 1000488 - Primary title: c_suisald has lost the title: c_suisald
+200 - vassal: c_suisald - Title given to 1000488 - Primary title: d_avond
+200 - sub vassal: c_suisald - Title given to 1000488 - Primary title: d_avond
+200 - Holder (1000488) has gained c_suisald
+200 - vassal: c_kyitils - Title given to 1000488 - Primary title: d_avond
+200 - Holder (1000488) has gained c_kyitils
+200 - vassal: c_elajnal - Title given to 1000488 - Primary title: d_avond
+200 - Holder (1000488) has gained c_elajnal
+200 - Holder 1001719 - Primary title: d_avond has lost the title: c_kyitils
+200 - vassal: c_kyitils - Title given to 1001719
+200 - Holder 1001720 - Primary title: d_avond has lost the title: c_azuisal
+200 - vassal: c_azuisal - Title given to 1001720
+230 - Holder 1003015 - Primary title: d_avond has lost the title: d_avond
+230 - Title given to 1003015
+230 - vassal: c_qezs - Holder 1003015 - Primary title: c_qezs has lost the title: c_qezs
+230 - vassal: c_qezs - Title given to 1003015 - Primary title: d_avond
+230 - Holder (1003015) has gained c_qezs
+230 - vassal: c_lahara - Holder 1003015 - Primary title: c_lahara has lost the title: c_lahara
+230 - vassal: c_lahara - Title given to 1003015 - Primary title: d_avond
+230 - Holder (1003015) has gained c_lahara
+230 - vassal: c_kovils - Holder 1003015 - Primary title: c_kovils has lost the title: c_kovils
+230 - vassal: c_kovils - Title given to 1003015 - Primary title: d_avond
+230 - Holder (1003015) has gained c_kovils
+230 - vassal: c_suisald - Holder 1003015 - Primary title: c_suisald has lost the title: c_suisald
+230 - vassal: c_suisald - Title given to 1003015 - Primary title: d_avond
+230 - Holder (1003015) has gained c_suisald
+230 - vassal: c_elajnal - Holder 1003015 - P

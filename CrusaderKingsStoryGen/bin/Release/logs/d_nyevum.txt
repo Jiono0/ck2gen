@@ -1,0 +1,153 @@
+200 - Title given to 1000098
+200 - vassal: c_ahraric - Holder 1000098 - Primary title: c_ahraric has lost the title: c_ahraric
+200 - sub vassal: c_ahraric - Holder 1000098 - Primary title: c_ahraric has lost the title: c_ahraric
+200 - vassal: c_ahraric - Title given to 1000098 - Primary title: d_nyevum
+200 - sub vassal: c_ahraric - Title given to 1000098 - Primary title: d_nyevum
+200 - Holder (1000098) has gained c_ahraric
+200 - vassal: c_azdindo - Holder 1000098 - Primary title: c_azdindo has lost the title: c_azdindo
+200 - sub vassal: c_azdindo - Holder 1000098 - Primary title: c_azdindo has lost the title: c_azdindo
+200 - vassal: c_azdindo - Title given to 1000098 - Primary title: d_nyevum
+200 - sub vassal: c_azdindo - Title given to 1000098 - Primary title: d_nyevum
+200 - Holder (1000098) has gained c_azdindo
+200 - vassal: c_lisco - Holder 1000098 - Primary title: c_lisco has lost the title: c_lisco
+200 - sub vassal: c_lisco - Holder 1000098 - Primary title: c_lisco has lost the title: c_lisco
+200 - vassal: c_lisco - Title given to 1000098 - Primary title: d_nyevum
+200 - sub vassal: c_lisco - Title given to 1000098 - Primary title: d_nyevum
+200 - Holder (1000098) has gained c_lisco
+200 - Holder 1001537 - Primary title: d_nyevum has lost the title: d_nyevum
+200 - Title given to 1001537 - Primary title: k_wesab
+200 - vassal: c_ahraric - Holder 1001537 - Primary title: c_ahraric has lost the title: c_ahraric
+200 - vassal: c_ahraric - Title given to 1001537 - Primary title: k_wesab
+203 - Holder 1000111 - Primary title: d_nyevum has lost the title: d_nyevum
+203 - Title given to 1000111 - Primary title: k_wesab
+203 - vassal: c_ahraric - Holder 1000111 - Primary title: c_ahraric has lost the title: c_ahraric
+203 - vassal: c_ahraric - Title given to 1000111 - Primary title: k_wesab
+204 - Gained vassal: c_nera
+204 - Gained vassal: c_kavor
+204 - Holder 1002467 - Primary title: d_nyevum has lost the title: c_kavor
+204 - vassal: c_kavor - Title given to 1002467 - Primary title: k_wesab
+204 - vassal: c_kavor - Setting to vassal of k_wesab in Validate Realm
+204 - Lost vassal: c_kavor
+204 - Holder 1002467 - Primary title: d_nyevum has lost the title: c_nera
+204 - vassal: c_nera - Title given to 1002467 - Primary title: k_wesab
+204 - vassal: c_nera - Setting to vassal of k_wesab in Validate Realm
+204 - Lost vassal: c_nera
+204 - Holder 1002467 - Primary title: d_nyevum has lost the title: d_nyevum
+204 - Title given to 1002467 - Primary title: k_wesab
+204 - vassal: c_ahraric - Holder 1002467 - Primary title: c_ahraric has lost the title: c_ahraric
+204 - vassal: c_ahraric - Title given to 1002467 - Primary title: k_wesab
+209 - Holder 1003210 - Primary title: d_nyevum has lost the title: c_kavor
+209 - Gained vassal: c_nera
+209 - Holder 1003210 - Primary title: d_nyevum has lost the title: c_nera
+209 - vassal: c_nera - Title given to 1003210 - Primary title: k_wesab
+209 - vassal: c_nera - Setting to vassal of k_wesab in Validate Realm
+209 - Lost vassal: c_nera
+209 - Holder 1003210 - Primary title: d_nyevum has lost the title: d_nyevum
+209 - Title given to 1003210 - Primary title: k_wesab
+209 - vassal: c_ahraric - Setting to vassal of d_reldige in Validate Realm
+209 - Lost vassal: c_ahraric
+254 - Holder 1004832 - Primary title: d_nyevum has lost the title: d_nyevum
+254 - Title given to 1004832 - Primary title: k_wesab
+275 - Gained vassal: c_kavor
+275 - Gained vassal: c_nera
+275 - Gained vassal: c_ahraric
+275 - Gained vassal: c_dumara
+275 - Gained vassal: c_esepule
+275 - Holder 1007786 - Primary title: d_nyevum has lost the title: d_nyevum
+275 - Title given to 1007786 - Primary title: k_wesab
+275 - vassal: c_esepule - Holder 1007786 - Primary title: c_esepule has lost the title: c_esepule
+275 - vassal: c_esepule - Title given to 1007786 - Primary title: k_wesab
+275 - vassal: c_dumara - Holder 1007786 - Primary title: c_dumara has lost the title: c_dumara
+275 - vassal: c_dumara - Title given to 1007786 - Primary title: k_wesab
+275 - vassal: c_ahraric - Holder 1007786 - Primary title: c_ahraric has lost the title: c_ahraric
+275 - vassal: c_ahraric - Title given to 1007786 - Primary title: k_wesab
+275 - vassal: c_nera - Holder 1007786 - Primary title: c_nera has lost the title: c_nera
+275 - vassal: c_nera - Title given to 1007786 - Primary title: k_wesab
+275 - vassal: c_kavor - Holder 1007786 - Primary title: c_kavor has lost the title: c_kavor
+275 - vassal: c_kavor - Title given to 1007786 - Primary title: k_wesab
+301 - vassal: c_azdindo - Holder 1007786 - Primary title: c_azdindo has lost the title: c_azdindo
+301 - vassal: c_azdindo - Title given to 1007786 - Primary title: k_wesab
+301 - vassal: c_lisco - Holder 1007786 - Primary title: c_lisco has lost the title: c_lisco
+301 - vassal: c_lisco - Title given to 1007786 - Primary title: k_wesab
+301 - vassal: c_lisco - Title given to 1010915
+301 - vassal: c_nera - Title given to 1010916
+328 - Holder 1010612 - Primary title: d_nyevum has lost the title: d_keyaab
+329 - Holder 1010612 - Primary title: d_nyevum has lost the title: d_nyevum
+329 - Title given to 1010612 - Primary title: k_wesab
+329 - vassal: c_azdindo - Holder 1010612 - Primary title: c_azdindo has lost the title: c_azdindo
+329 - vassal: c_azdindo - Title given to 1010612 - Primary title: k_wesab
+329 - vassal: c_kavor - Holder 1010612 - Primary title: c_kavor has lost the title: c_kavor
+329 - vassal: c_kavor - Title given to 1010612 - Primary title: k_wesab
+329 - vassal: c_ahraric - Holder 1010612 - Primary title: c_ahraric has lost the title: c_ahraric
+329 - vassal: c_ahraric - Title given to 1010612 - Primary title: k_wesab
+329 - vassal: c_dumara - Holder 1010612 - Primary title: c_dumara has lost the title: c_dumara
+329 - vassal: c_dumara - Title given to 1010612 - Primary title: k_wesab
+329 - vassal: c_esepule - Holder 1010612 - Primary title: c_esepule has lost the title: c_esepule
+329 - vassal: c_esepule - Title given to 1010612 - Primary title: k_wesab
+340 - vassal: c_kavor - Title given to 1013870
+359 - Gained vassal: c_kazander
+359 - Holder 1013056 - Primary title: d_nyevum has lost the title: d_nyevum
+359 - Title given to 1013056 - Primary title: k_konakim
+359 - vassal: c_kazander - Holder 1013056 - Primary title: c_kazander has lost the title: c_kazander
+359 - vassal: c_kazander - Title given to 1013056 - Primary title: k_konakim
+359 - vassal: c_azdindo - Holder 1013056 - Primary title: c_azdindo has lost the title: c_azdindo
+359 - vassal: c_azdindo - Title given to 1013056 - Primary title: k_konakim
+359 - vassal: c_ahraric - Holder 1013056 - Primary title: c_ahraric has lost the title: c_ahraric
+359 - vassal: c_ahraric - Title given to 1013056 - Primary title: k_konakim
+359 - vassal: c_dumara - Holder 1013056 - Primary title: c_dumara has lost the title: c_dumara
+359 - vassal: c_dumara - Title given to 1013056 - Primary title: k_konakim
+359 - vassal: c_esepule - Holder 1013056 - Primary title: c_esepule has lost the title: c_esepule
+359 - vassal: c_esepule - Title given to 1013056 - Primary title: k_konakim
+360 - vassal: c_esepule - Title given to 1015315
+374 - Holder 1015603 - Primary title: d_nyevum has lost the title: d_nyevum
+374 - Title given to 1015603 - Primary title: k_konakim
+374 - vassal: c_dumara - Setting to vassal of d_keyaab in Validate Realm
+374 - Lost vassal: c_dumara
+374 - vassal: c_ahraric - Setting to vassal of d_keyaab in Validate Realm
+374 - Lost vassal: c_ahraric
+374 - vassal: c_azdindo - Setting to vassal of d_keyaab in Validate Realm
+374 - Lost vassal: c_azdindo
+374 - vassal: c_kazander - Setting to vassal of d_keyaab in Validate Realm
+374 - Lost vassal: c_kazander
+381 - Gained vassal: c_being
+381 - Gained vassal: c_dumara
+381 - Gained vassal: c_ahraric
+381 - Gained vassal: c_azdindo
+381 - Gained vassal: c_kazander
+381 - Holder 1013652 - Primary title: d_nyevum has lost the title: d_nyevum
+381 - Title given to 1013652 - Primary title: k_konakim
+381 - vassal: c_kazander - Holder 1013652 - Primary title: c_kazander has lost the title: c_kazander
+381 - vassal: c_kazander - Title given to 1013652 - Primary title: k_konakim
+381 - vassal: c_azdindo - Holder 1013652 - Primary title: c_azdindo has lost the title: c_azdindo
+381 - vassal: c_azdindo - Title given to 1013652 - Primary title: k_konakim
+381 - vassal: c_ahraric - Holder 1013652 - Primary title: c_ahraric has lost the title: c_ahraric
+381 - vassal: c_ahraric - Title given to 1013652 - Primary title: k_konakim
+381 - vassal: c_dumara - Holder 1013652 - Primary title: c_dumara has lost the title: c_dumara
+381 - vassal: c_dumara - Title given to 1013652 - Primary title: k_konakim
+381 - vassal: c_being - Holder 1013652 - Primary title: c_being has lost the title: c_being
+381 - vassal: c_being - Title given to 1013652 - Primary title: k_konakim
+382 - vassal: c_azdindo - Given to 1014145 in HandleTitles - Too many duke titles
+382 - vassal: c_azdindo - Title given to 1014145
+382 - Title given to 1014145 - Primary title: c_azdindo
+382 - vassal: c_azdindo - Holder (1014145) has gained d_nyevum
+382 - vassal: c_kazander - Setting to vassal of k_konakim in Validate Realm
+382 - Lost vassal: c_kazander
+382 - vassal: c_ahraric - Setting to vassal of k_konakim in Validate Realm
+382 - Lost vassal: c_ahraric
+382 - vassal: c_dumara - Setting to vassal of k_konakim in Validate Realm
+382 - Lost vassal: c_dumara
+382 - vassal: c_being - Setting to vassal of k_konakim in Validate Realm
+382 - Lost vassal: c_being
+382 - Too many dukes, given to dejure: k_wesab
+384 - Holder 1014070 - Primary title: d_nyevum has lost the title: d_nyevum
+384 - Title given to 1014070 - Primary title: d_reldige
+384 - vassal: c_azdindo - Holder 1014070 - Primary title: c_azdindo has lost the title: c_azdindo
+384 - vassal: c_azdindo - Title given to 1014070 - Primary title: d_reldige
+400 - vassal: c_lisco - Holder 1010916 - Primary title: c_lisco has lost the title: c_lisco
+400 - vassal: c_lisco - Title given to 1010916 - Primary title: c_nera
+400 - vassal: c_nera - Holder (1010916) has gained c_lisco
+400 - vassal: c_lisco - Holder 1014070 - Primary title: c_lisco has lost the title: c_nera
+400 - vassal: c_nera - Title given to 1014070 - Primary title: d_nyevum
+400 - Holder (1014070) has gained c_nera
+400 - vassal: c_lisco - Holder 1014070 - Primary title: c_lisco has lost the title: c_lisco
+400 - vassal: c_lisco - Title given to 1014070 - Primary title: d_reldige

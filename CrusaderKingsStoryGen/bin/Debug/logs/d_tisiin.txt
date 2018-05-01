@@ -1,0 +1,59 @@
+200 - Title given to 1000839
+200 - vassal: c_qisabir - Given to 1000842 via AddCharacterForTitle
+200 - sub vassal: c_qisabir - Given to 1000842 via AddCharacterForTitle
+200 - vassal: c_qisabir - Holder 1000842 - Primary title: c_qisabir has lost the title: c_qisabir
+200 - sub vassal: c_qisabir - Holder 1000842 - Primary title: c_qisabir has lost the title: c_qisabir
+200 - vassal: c_qisabir - Title given to 1000842
+200 - sub vassal: c_qisabir - Title given to 1000842
+200 - vassal: c_kisine - Given to 1000844 via AddCharacterForTitle
+200 - sub vassal: c_kisine - Given to 1000844 via AddCharacterForTitle
+200 - vassal: c_kisine - Holder 1000844 - Primary title: c_kisine has lost the title: c_kisine
+200 - sub vassal: c_kisine - Holder 1000844 - Primary title: c_kisine has lost the title: c_kisine
+200 - vassal: c_kisine - Title given to 1000844
+200 - sub vassal: c_kisine - Title given to 1000844
+200 - vassal: c_rasulah - Holder 1000839 - Primary title: c_rasulah has lost the title: c_rasulah
+200 - sub vassal: c_rasulah - Holder 1000839 - Primary title: c_rasulah has lost the title: c_rasulah
+200 - vassal: c_rasulah - Title given to 1000839 - Primary title: d_tisiin
+200 - sub vassal: c_rasulah - Title given to 1000839 - Primary title: d_tisiin
+200 - Holder (1000839) has gained c_rasulah
+200 - vassal: c_qisabir - Holder 1000839 - Primary title: c_qisabir has lost the title: c_qisabir
+200 - sub vassal: c_qisabir - Holder 1000839 - Primary title: c_qisabir has lost the title: c_qisabir
+200 - vassal: c_qisabir - Title given to 1000839 - Primary title: d_tisiin
+200 - sub vassal: c_qisabir - Title given to 1000839 - Primary title: d_tisiin
+200 - Holder (1000839) has gained c_qisabir
+200 - vassal: c_taaq - Title given to 1000839 - Primary title: d_tisiin
+200 - Holder (1000839) has gained c_taaq
+200 - Holder 1001495 - Primary title: d_tisiin has lost the title: d_tisiin
+200 - Title given to 1001495 - Primary title: k_kusumo
+200 - vassal: c_rasulah - Holder 1001495 - Primary title: c_rasulah has lost the title: c_rasulah
+200 - vassal: c_rasulah - Title given to 1001495 - Primary title: k_kusumo
+214 - Holder 1002862 - Primary title: d_tisiin has lost the title: d_tisiin
+214 - Title given to 1002862 - Primary title: k_kusumo
+214 - vassal: c_rasulah - Holder 1002862 - Primary title: c_rasulah has lost the title: c_rasulah
+214 - vassal: c_rasulah - Title given to 1002862 - Primary title: k_kusumo
+220 - Gained vassal: c_kisine
+220 - Gained vassal: c_rigafu
+220 - Gained vassal: c_edilaaq
+220 - Gained vassal: c_bigumo
+220 - Holder 1000923 - Primary title: d_tisiin has lost the title: d_tisiin
+220 - Title given to 1000923 - Primary title: k_kusumo
+220 - vassal: c_bigumo - Holder 1000923 - Primary title: c_bigumo has lost the title: c_bigumo
+220 - vassal: c_bigumo - Title given to 1000923 - Primary title: k_kusumo
+220 - vassal: c_edilaaq - Holder 1000923 - Primary title: c_edilaaq has lost the title: c_edilaaq
+220 - vassal: c_edilaaq - Title given to 1000923 - Primary title: k_kusumo
+220 - vassal: c_rigafu - Holder 1000923 - Primary title: c_rigafu has lost the title: c_rigafu
+220 - vassal: c_rigafu - Title given to 1000923 - Primary title: k_kusumo
+220 - vassal: c_kisine - Holder 1000923 - Primary title: c_kisine has lost the title: c_kisine
+220 - vassal: c_kisine - Title given to 1000923 - Primary title: k_kusumo
+220 - vassal: c_rasulah - Holder 1000923 - Primary title: c_rasulah has lost the title: c_rasulah
+220 - vassal: c_rasulah - Title given to 1000923 - Primary title: k_kusumo
+238 - Holder 1002468 - Primary title: d_tisiin has lost the title: d_tisiin
+238 - Title given to 1002468 - Primary title: k_kusumo
+238 - vassal: c_bigumo - Setting to vassal of d_tilari in Validate Realm
+238 - Lost vassal: c_bigumo
+238 - vassal: c_edilaaq - Setting to vassal of d_tilari in Validate Realm
+238 - Lost vassal: c_edilaaq
+238 - vassal: c_rigafu - Setting to vassal of d_tilari in Validate Realm
+238 - Lost vassal: c_rigafu
+238 - vassal: c_kisine - Setting to vassal of d_tilari in Validate Realm
+238 

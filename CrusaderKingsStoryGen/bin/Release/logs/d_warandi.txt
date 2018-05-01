@@ -1,0 +1,150 @@
+200 - Title given to 1001284
+200 - vassal: c_atomiu - Holder 1001284 - Primary title: c_atomiu has lost the title: c_atomiu
+200 - sub vassal: c_atomiu - Holder 1001284 - Primary title: c_atomiu has lost the title: c_atomiu
+200 - vassal: c_atomiu - Title given to 1001284 - Primary title: d_warandi
+200 - sub vassal: c_atomiu - Title given to 1001284 - Primary title: d_warandi
+200 - Holder (1001284) has gained c_atomiu
+200 - vassal: c_nugedas - Holder 1001284 - Primary title: c_nugedas has lost the title: c_nugedas
+200 - sub vassal: c_nugedas - Holder 1001284 - Primary title: c_nugedas has lost the title: c_nugedas
+200 - vassal: c_nugedas - Title given to 1001284 - Primary title: d_warandi
+200 - sub vassal: c_nugedas - Title given to 1001284 - Primary title: d_warandi
+200 - Holder (1001284) has gained c_nugedas
+222 - Captured byk_rugoman in minor war
+233 - Holder 1002000 - Primary title: d_warandi has lost the title: d_warandi
+233 - Title given to 1002000
+233 - vassal: c_atomiu - Holder 1002000 - Primary title: c_atomiu has lost the title: c_atomiu
+233 - vassal: c_atomiu - Title given to 1002000 - Primary title: d_warandi
+233 - Holder (1002000) has gained c_atomiu
+233 - vassal: c_nugedas - Holder 1002000 - Primary title: c_nugedas has lost the title: c_nugedas
+233 - vassal: c_nugedas - Title given to 1002000 - Primary title: d_warandi
+233 - Holder (1002000) has gained c_nugedas
+261 - Holder 1005188 - Primary title: d_warandi has lost the title: d_warandi
+261 - Title given to 1005188
+261 - vassal: c_atomiu - Holder 1005188 - Primary title: c_atomiu has lost the title: c_atomiu
+261 - vassal: c_atomiu - Title given to 1005188 - Primary title: d_warandi
+261 - Holder (1005188) has gained c_atomiu
+261 - vassal: c_nugedas - Holder 1005188 - Primary title: c_nugedas has lost the title: c_nugedas
+261 - vassal: c_nugedas - Title given to 1005188 - Primary title: d_warandi
+261 - Holder (1005188) has gained c_nugedas
+281 - Holder 1005824 - Primary title: d_warandi has lost the title: d_warandi
+281 - Title given to 1005824 - Primary title: k_rugoman
+281 - vassal: c_nugedas - Holder 1005824 - Primary title: c_nugedas has lost the title: c_nugedas
+281 - vassal: c_nugedas - Title given to 1005824 - Primary title: k_rugoman
+281 - vassal: c_atomiu - Holder 1005824 - Primary title: c_atomiu has lost the title: c_atomiu
+281 - vassal: c_atomiu - Title given to 1005824 - Primary title: k_rugoman
+281 - vassal: c_nugedas - Given to 1009200 in HandleTitles - Too many duke titles
+281 - vassal: c_nugedas - Title given to 1009200
+281 - Title given to 1009200 - Primary title: c_nugedas
+281 - vassal: c_nugedas - Holder (1009200) has gained d_warandi
+281 - vassal: c_atomiu - Setting to vassal of k_rugoman in Validate Realm
+281 - Lost vassal: c_atomiu
+281 - Too many dukes, made direct title into vassal of k_rugoman
+301 - Made vassal of neighbour (k_doredas) due to being a seperate island
+301 - Given to neighbour holder of k_doredas
+301 - Holder 1007081 - Primary title: d_warandi has lost the title: d_warandi
+301 - Title given to 1007081 - Primary title: k_doredas
+307 - Gained vassal: c_keras
+307 - Gained vassal: c_saililvi
+307 - Gained vassal: c_naiu
+307 - Gained vassal: c_sorugh
+307 - Gained vassal: c_nomilvi
+307 - Holder 1009046 - Primary title: d_warandi has lost the title: c_nomilvi
+307 - vassal: c_nomilvi - Title given to 1009046 - Primary title: k_doredas
+307 - vassal: c_nomilvi - Setting to vassal of k_doredas in Validate Realm
+307 - Lost vassal: c_nomilvi
+307 - Holder 1009046 - Primary title: d_warandi has lost the title: c_sorugh
+307 - vassal: c_sorugh - Title given to 1009046 - Primary title: k_doredas
+307 - vassal: c_sorugh - Setting to vassal of k_doredas in Validate Realm
+307 - Lost vassal: c_sorugh
+307 - Holder 1009046 - Primary title: d_warandi has lost the title: c_naiu
+307 - vassal: c_naiu - Title given to 1009046 - Primary title: k_doredas
+307 - vassal: c_naiu - Setting to vassal of k_doredas in Validate Realm
+307 - Lost vassal: c_naiu
+307 - Holder 1009046 - Primary title: d_warandi has lost the title: c_saililvi
+307 - vassal: c_saililvi - Title given to 1009046 - Primary title: k_doredas
+307 - vassal: c_saililvi - Setting to vassal of k_doredas in Validate Realm
+307 - Lost vassal: c_saililvi
+307 - Holder 1009046 - Primary title: d_warandi has lost the title: d_warandi
+307 - Title given to 1009046 - Primary title: k_doredas
+307 - vassal: c_keras - Holder 1009046 - Primary title: c_keras has lost the title: c_keras
+307 - vassal: c_keras - Title given to 1009046 - Primary title: k_doredas
+311 - Holder 1011560 - Primary title: d_warandi has lost the title: c_nomilvi
+311 - Gained vassal: c_saililvi
+311 - Gained vassal: c_naiu
+311 - Gained vassal: c_sorugh
+311 - Holder 1011560 - Primary title: d_warandi has lost the title: c_sorugh
+311 - vassal: c_sorugh - Title given to 1011560 - Primary title: k_doredas
+311 - vassal: c_sorugh - Setting to vassal of k_doredas in Validate Realm
+311 - Lost vassal: c_sorugh
+311 - Holder 1011560 - Primary title: d_warandi has lost the title: c_naiu
+311 - vassal: c_naiu - Title given to 1011560 - Primary title: k_doredas
+311 - vassal: c_naiu - Setting to vassal of k_doredas in Validate Realm
+311 - Lost vassal: c_naiu
+311 - Holder 1011560 - Primary title: d_warandi has lost the title: c_saililvi
+311 - vassal: c_saililvi - Title given to 1011560 - Primary title: k_doredas
+311 - vassal: c_saililvi - Setting to vassal of k_doredas in Validate Realm
+311 - Lost vassal: c_saililvi
+311 - Holder 1011560 - Primary title: d_warandi has lost the title: d_warandi
+311 - Title given to 1011560 - Primary title: k_doredas
+311 - vassal: c_keras - Holder 1011560 - Primary title: c_keras has lost the title: c_keras
+311 - vassal: c_keras - Title given to 1011560 - Primary title: k_doredas
+317 - vassal: c_keras - Title given to 1007888
+328 - Gained vassal: c_sorugh
+328 - Gained vassal: c_naiu
+328 - Gained vassal: c_wasair
+328 - Gained vassal: c_wehyapa
+328 - Gained vassal: c_kavozel
+328 - Holder 1012183 - Primary title: d_warandi has lost the title: d_warandi
+328 - Title given to 1012183 - Primary title: k_doredas
+328 - vassal: c_kavozel - Holder 1012183 - Primary title: c_kavozel has lost the title: c_kavozel
+328 - vassal: c_kavozel - Title given to 1012183 - Primary title: k_doredas
+328 - vassal: c_wehyapa - Holder 1012183 - Primary title: c_wehyapa has lost the title: c_wehyapa
+328 - vassal: c_wehyapa - Title given to 1012183 - Primary title: k_doredas
+328 - vassal: c_wasair - Holder 1012183 - Primary title: c_wasair has lost the title: c_wasair
+328 - vassal: c_wasair - Title given to 1012183 - Primary title: k_doredas
+328 - vassal: c_naiu - Holder 1012183 - Primary title: c_naiu has lost the title: c_naiu
+328 - vassal: c_naiu - Title given to 1012183 - Primary title: k_doredas
+328 - vassal: c_sorugh - Holder 1012183 - Primary title: c_sorugh has lost the title: c_sorugh
+328 - vassal: c_sorugh - Title given to 1012183 - Primary title: k_doredas
+333 - Holder 1013307 - Primary title: d_warandi has lost the title: d_warandi
+333 - Title given to 1013307 - Primary title: k_doredas
+333 - vassal: c_kavozel - Holder 1013307 - Primary title: c_kavozel has lost the title: c_kavozel
+333 - vassal: c_kavozel - Title given to 1013307 - Primary title: k_doredas
+333 - vassal: c_wehyapa - Holder 1013307 - Primary title: c_wehyapa has lost the title: c_wehyapa
+333 - vassal: c_wehyapa - Title given to 1013307 - Primary title: k_doredas
+333 - vassal: c_wasair - Holder 1013307 - Primary title: c_wasair has lost the title: c_wasair
+333 - vassal: c_wasair - Title given to 1013307 - Primary title: k_doredas
+333 - vassal: c_naiu - Holder 1013307 - Primary title: c_naiu has lost the title: c_naiu
+333 - vassal: c_naiu - Title given to 1013307 - Primary title: k_doredas
+333 - vassal: c_sorugh - Holder 1013307 - Primary title: c_sorugh has lost the title: c_sorugh
+333 - vassal: c_sorugh - Title given to 1013307 - Primary title: k_doredas
+359 - Holder 1014478 - Primary title: d_warandi has lost the title: d_warandi
+359 - Title given to 1014478 - Primary title: k_doredas
+359 - vassal: c_sorugh - Holder 1014478 - Primary title: c_sorugh has lost the title: c_sorugh
+359 - vassal: c_sorugh - Title given to 1014478 - Primary title: k_doredas
+359 - vassal: c_naiu - Holder 1014478 - Primary title: c_naiu has lost the title: c_naiu
+359 - vassal: c_naiu - Title given to 1014478 - Primary title: k_doredas
+359 - vassal: c_wasair - Holder 1014478 - Primary title: c_wasair has lost the title: c_wasair
+359 - vassal: c_wasair - Title given to 1014478 - Primary title: k_doredas
+359 - vassal: c_wehyapa - Holder 1014478 - Primary title: c_wehyapa has lost the title: c_wehyapa
+359 - vassal: c_wehyapa - Title given to 1014478 - Primary title: k_doredas
+359 - vassal: c_kavozel - Holder 1014478 - Primary title: c_kavozel has lost the title: c_kavozel
+359 - vassal: c_kavozel - Title given to 1014478 - Primary title: k_doredas
+388 - Holder 1016349 - Primary title: d_warandi has lost the title: d_warandi
+388 - Title given to 1016349 - Primary title: k_doredas
+388 - vassal: c_sorugh - Holder 1016349 - Primary title: c_sorugh has lost the title: c_sorugh
+388 - vassal: c_sorugh - Title given to 1016349 - Primary title: k_doredas
+388 - vassal: c_naiu - Holder 1016349 - Primary title: c_naiu has lost the title: c_naiu
+388 - vassal: c_naiu - Title given to 1016349 - Primary title: k_doredas
+388 - vassal: c_wasair - Holder 1016349 - Primary title: c_wasair has lost the title: c_wasair
+388 - vassal: c_wasair - Title given to 1016349 - Primary title: k_doredas
+388 - vassal: c_wehyapa - Holder 1016349 - Primary title: c_wehyapa has lost the title: c_wehyapa
+388 - vassal: c_wehyapa - Title given to 1016349 - Primary title: k_doredas
+388 - vassal: c_kavozel - Holder 1016349 - Primary title: c_kavozel has lost the title: c_kavozel
+388 - vassal: c_kavozel - Title given to 1016349 - Primary title: k_doredas
+400 - vassal: c_keras - Holder 1016349 - Primary title: c_keras has lost the title: c_keras
+400 - vassal: c_keras - Title given to 1016349 - Primary title: k_doredas
+400 - vassal: c_nugedas - Holder 1009434 - Primary title: c_nugedas has lost the title: c_nugedas
+400 - vassal: c_nugedas - Title given to 1009434
+400 - vassal: c_nugedas - Holder 1018053 - Primary title: c_nugedas has lost the title: c_nugedas
+400 - vassal: c_nugedas - Title given to 1018053

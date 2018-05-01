@@ -1,0 +1,54 @@
+200 - Title given to 1000398
+200 - vassal: c_sivutan - Given to 1000401 via AddCharacterForTitle
+200 - sub vassal: c_sivutan - Given to 1000401 via AddCharacterForTitle
+200 - vassal: c_sivutan - Holder 1000401 - Primary title: c_sivutan has lost the title: c_sivutan
+200 - sub vassal: c_sivutan - Holder 1000401 - Primary title: c_sivutan has lost the title: c_sivutan
+200 - vassal: c_sivutan - Title given to 1000401
+200 - sub vassal: c_sivutan - Title given to 1000401
+200 - vassal: c_dalilek - Holder 1000398 - Primary title: c_dalilek has lost the title: c_dalilek
+200 - sub vassal: c_dalilek - Holder 1000398 - Primary title: c_dalilek has lost the title: c_dalilek
+200 - vassal: c_dalilek - Title given to 1000398 - Primary title: d_qomina
+200 - sub vassal: c_dalilek - Title given to 1000398 - Primary title: d_qomina
+200 - Holder (1000398) has gained c_dalilek
+200 - vassal: c_sivutan - Holder 1000398 - Primary title: c_sivutan has lost the title: c_sivutan
+200 - sub vassal: c_sivutan - Holder 1000398 - Primary title: c_sivutan has lost the title: c_sivutan
+200 - vassal: c_sivutan - Title given to 1000398 - Primary title: d_qomina
+200 - sub vassal: c_sivutan - Title given to 1000398 - Primary title: d_qomina
+200 - Holder (1000398) has gained c_sivutan
+200 - Holder 1001550 - Primary title: d_qomina has lost the title: c_sivutan
+200 - vassal: c_sivutan - Title given to 1001550 - Primary title: k_qaitigh
+206 - vassal: c_sivutan - Setting to vassal of k_qaitigh in Validate Realm
+206 - Lost vassal: c_sivutan
+218 - Holder 1001792 - Primary title: d_qomina has lost the title: d_qomina
+218 - Title given to 1001792
+218 - vassal: c_dalilek - Holder 1001792 - Primary title: c_dalilek has lost the title: c_dalilek
+218 - vassal: c_dalilek - Title given to 1001792 - Primary title: d_qomina
+218 - Holder (1001792) has gained c_dalilek
+266 - Holder 1005475 - Primary title: d_qomina has lost the title: d_qomina
+266 - Title given to 1005475 - Primary title: k_qaitigh
+266 - vassal: c_dalilek - Holder 1005475 - Primary title: c_dalilek has lost the title: c_dalilek
+266 - vassal: c_dalilek - Title given to 1005475 - Primary title: k_qaitigh
+284 - Gained vassal: c_kahati
+284 - Gained vassal: c_edungulf
+284 - Gained vassal: c_wungulf
+284 - Holder 1005656 - Primary title: d_qomina has lost the title: d_qomina
+284 - Title given to 1005656 - Primary title: k_qaitigh
+284 - vassal: c_dalilek - Holder 1005656 - Primary title: c_dalilek has lost the title: c_dalilek
+284 - vassal: c_dalilek - Title given to 1005656 - Primary title: k_qaitigh
+284 - vassal: c_wungulf - Setting independent in Validate Realm
+284 - vassal: c_wungulf - Made independent
+284 - vassal: c_edungulf - Setting independent in Validate Realm
+284 - vassal: c_edungulf - Made independent
+284 - vassal: c_kahati - Setting independent in Validate Realm
+284 - vassal: c_kahati - Made independent
+291 - Holder 1010003 - Primary title: d_qomina has lost the title: d_qomina
+291 - Title given to 1010003 - Primary title: k_qaitigh
+291 - vassal: c_dalilek - Holder 1010003 - Primary title: c_dalilek has lost the title: c_dalilek
+291 - vassal: c_dalilek - Title given to 1010003 - Primary title: k_qaitigh
+341 - Holder 1010685 - Primary title: d_qomina has lost the title: d_qomina
+341 - Title given to 1010685 - Primary title: k_qaitigh
+341 - vassal: c_dalilek - Setting independent in Validate Realm
+341 - vassal: c_dalilek - Made independent
+342 - Destroyed due to flagged problem
+342 - Made independent
+342 - Title destroyed

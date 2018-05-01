@@ -1,0 +1,89 @@
+200 - Title given to 1000762
+200 - vassal: c_ladyana - Holder 1000762 - Primary title: c_ladyana has lost the title: c_ladyana
+200 - sub vassal: c_ladyana - Holder 1000762 - Primary title: c_ladyana has lost the title: c_ladyana
+200 - vassal: c_ladyana - Title given to 1000762 - Primary title: d_borena
+200 - sub vassal: c_ladyana - Title given to 1000762 - Primary title: d_borena
+200 - Holder (1000762) has gained c_ladyana
+200 - vassal: c_wuharl - Holder 1000762 - Primary title: c_wuharl has lost the title: c_wuharl
+200 - sub vassal: c_wuharl - Holder 1000762 - Primary title: c_wuharl has lost the title: c_wuharl
+200 - vassal: c_wuharl - Title given to 1000762 - Primary title: d_borena
+200 - sub vassal: c_wuharl - Title given to 1000762 - Primary title: d_borena
+200 - Holder (1000762) has gained c_wuharl
+200 - vassal: c_katha - Holder 1000762 - Primary title: c_katha has lost the title: c_katha
+200 - sub vassal: c_katha - Holder 1000762 - Primary title: c_katha has lost the title: c_katha
+200 - vassal: c_katha - Title given to 1000762 - Primary title: d_borena
+200 - sub vassal: c_katha - Title given to 1000762 - Primary title: d_borena
+200 - Holder (1000762) has gained c_katha
+251 - Holder 1003275 - Primary title: d_borena has lost the title: d_borena
+251 - Title given to 1003275 - Primary title: k_tazina
+251 - vassal: c_katha - Holder 1003275 - Primary title: c_katha has lost the title: c_katha
+251 - vassal: c_katha - Title given to 1003275 - Primary title: k_tazina
+251 - vassal: c_wuharl - Holder 1003275 - Primary title: c_wuharl has lost the title: c_wuharl
+251 - vassal: c_wuharl - Title given to 1003275 - Primary title: k_tazina
+251 - vassal: c_ladyana - Holder 1003275 - Primary title: c_ladyana has lost the title: c_ladyana
+251 - vassal: c_ladyana - Title given to 1003275 - Primary title: k_tazina
+251 - vassal: c_katha - Title given to 1006668
+256 - Gained vassal: c_qeygind
+256 - Gained vassal: c_rojinia
+256 - Gained vassal: c_bulena
+256 - Holder 1006155 - Primary title: d_borena has lost the title: c_bulena
+256 - vassal: c_bulena - Title given to 1006155 - Primary title: k_tazina
+256 - vassal: c_bulena - Setting to vassal of k_tazina in Validate Realm
+256 - Lost vassal: c_bulena
+256 - Holder 1006155 - Primary title: d_borena has lost the title: c_rojinia
+256 - vassal: c_rojinia - Title given to 1006155 - Primary title: k_tazina
+256 - vassal: c_rojinia - Setting to vassal of k_tazina in Validate Realm
+256 - Lost vassal: c_rojinia
+256 - Holder 1006155 - Primary title: d_borena has lost the title: c_qeygind
+256 - vassal: c_qeygind - Title given to 1006155 - Primary title: k_tazina
+256 - vassal: c_qeygind - Setting to vassal of k_tazina in Validate Realm
+256 - Lost vassal: c_qeygind
+256 - Holder 1006155 - Primary title: d_borena has lost the title: d_borena
+256 - Title given to 1006155 - Primary title: k_tazina
+256 - vassal: c_wuharl - Holder 1006155 - Primary title: c_wuharl has lost the title: c_wuharl
+256 - vassal: c_wuharl - Title given to 1006155 - Primary title: k_tazina
+256 - vassal: c_ladyana - Holder 1006155 - Primary title: c_ladyana has lost the title: c_ladyana
+256 - vassal: c_ladyana - Title given to 1006155 - Primary title: k_tazina
+264 - vassal: c_ladyana - Title given to 1007788
+264 - vassal: c_wuharl - Title given to 1007789
+270 - Gained vassal: c_erasimir
+270 - Gained vassal: c_lenage
+270 - Gained vassal: c_bulena
+270 - Gained vassal: c_rojinia
+270 - Gained vassal: c_qeygind
+270 - Holder 1007416 - Primary title: d_borena has lost the title: d_borena
+270 - Title given to 1007416 - Primary title: k_tazina
+270 - vassal: c_qeygind - Setting to vassal of d_dumarl in Validate Realm
+270 - Lost vassal: c_qeygind
+270 - vassal: c_rojinia - Setting to vassal of d_dumarl in Validate Realm
+270 - Lost vassal: c_rojinia
+270 - vassal: c_bulena - Setting to vassal of d_dumarl in Validate Realm
+270 - Lost vassal: c_bulena
+270 - vassal: c_lenage - Setting to vassal of d_dumarl in Validate Realm
+270 - Lost vassal: c_lenage
+270 - vassal: c_erasimir - Setting to vassal of d_dumarl in Validate Realm
+270 - Lost vassal: c_erasimir
+297 - Holder 1008800 - Primary title: d_borena has lost the title: d_borena
+297 - Title given to 1008800 - Primary title: k_tazina
+305 - Holder 1011073 - Primary title: d_borena has lost the title: d_borena
+305 - Title given to 1011073 - Primary title: k_tazina
+313 - Holder 1006667 - Primary title: d_borena has lost the title: d_borena
+313 - Title given to 1006667 - Primary title: k_tazina
+314 - Holder 1011974 - Primary title: d_borena has lost the title: d_borena
+314 - Title given to 1011974 - Primary title: k_tazina
+363 - Holder 1013303 - Primary title: d_borena has lost the title: d_borena
+363 - Title given to 1013303 - Primary title: k_tazina
+368 - Holder 1015605 - Primary title: d_borena has lost the title: d_borena
+368 - Title given to 1015605 - Primary title: k_tazina
+400 - vassal: c_katha - Holder 1007789 - Primary title: c_katha has lost the title: c_katha
+400 - vassal: c_katha - Title given to 1007789 - Primary title: c_wuharl
+400 - vassal: c_wuharl - Holder (1007789) has gained c_katha
+400 - vassal: c_ladyana - Holder 1007789 - Primary title: c_ladyana has lost the title: c_ladyana
+400 - vassal: c_ladyana - Title given to 1007789 - Primary title: c_katha
+400 - vassal: c_katha - Holder (1007789) has gained c_ladyana
+400 - vassal: c_ladyana - Holder 1015605 - Primary title: c_ladyana has lost the title: c_wuharl
+400 - vassal: c_wuharl - Title given to 1015605 - Primary title: k_tazina
+400 - vassal: c_ladyana - Holder 1015605 - Primary title: c_ladyana has lost the title: c_katha
+400 - vassal: c_katha - Title given to 1015605 - Primary title: k_tazina
+400 - vassal: c_ladyana - Holder 1015605 - Primary title: c_ladyana has lost the title: c_ladyana
+400 - vassal: c_ladyana - Title given to 1015605 - Primary title: k_tazina

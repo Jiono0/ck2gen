@@ -1,0 +1,113 @@
+200 - Title given to 1000327
+200 - vassal: c_quare - Given to 1000330 via AddCharacterForTitle
+200 - sub vassal: c_quare - Given to 1000330 via AddCharacterForTitle
+200 - vassal: c_quare - Holder 1000330 - Primary title: c_quare has lost the title: c_quare
+200 - sub vassal: c_quare - Holder 1000330 - Primary title: c_quare has lost the title: c_quare
+200 - vassal: c_quare - Title given to 1000330
+200 - sub vassal: c_quare - Title given to 1000330
+200 - vassal: c_telura - Holder 1000327 - Primary title: c_telura has lost the title: c_telura
+200 - sub vassal: c_telura - Holder 1000327 - Primary title: c_telura has lost the title: c_telura
+200 - vassal: c_telura - Title given to 1000327 - Primary title: d_kanumru
+200 - sub vassal: c_telura - Title given to 1000327 - Primary title: d_kanumru
+200 - Holder (1000327) has gained c_telura
+200 - vassal: c_quare - Holder 1000327 - Primary title: c_quare has lost the title: c_quare
+200 - sub vassal: c_quare - Holder 1000327 - Primary title: c_quare has lost the title: c_quare
+200 - vassal: c_quare - Title given to 1000327 - Primary title: d_kanumru
+200 - sub vassal: c_quare - Title given to 1000327 - Primary title: d_kanumru
+200 - Holder (1000327) has gained c_quare
+200 - Made vassal of neighbour (k_ralinan) due to being a seperate island
+200 - Given to neighbour holder of k_ralinan
+200 - Holder 1001544 - Primary title: d_kanumru has lost the title: d_kanumru
+200 - Title given to 1001544 - Primary title: k_ralinan
+209 - Gained vassal: c_agopinan
+209 - Holder 1002262 - Primary title: d_kanumru has lost the title: d_kanumru
+209 - Title given to 1002262 - Primary title: k_ralinan
+209 - vassal: c_agopinan - Holder 1002262 - Primary title: c_agopinan has lost the title: c_agopinan
+209 - vassal: c_agopinan - Title given to 1002262 - Primary title: k_ralinan
+216 - Holder 1000290 - Primary title: d_kanumru has lost the title: d_kanumru
+216 - Title given to 1000290 - Primary title: k_ralinan
+216 - vassal: c_agopinan - Holder 1000290 - Primary title: c_agopinan has lost the title: c_agopinan
+216 - vassal: c_agopinan - Title given to 1000290 - Primary title: k_ralinan
+217 - vassal: c_quare - Given to 1003819 in HandleTitles - Too many duke titles
+217 - vassal: c_quare - Holder 1003819 - Primary title: c_quare has lost the title: c_quare
+217 - vassal: c_quare - Title given to 1003819
+217 - Title given to 1003819 - Primary title: c_quare
+217 - vassal: c_quare - Holder (1003819) has gained d_kanumru
+217 - vassal: c_agopinan - Setting to vassal of k_ralinan in Validate Realm
+217 - Lost vassal: c_agopinan
+217 - Too many dukes, made direct title into vassal of k_ralinan
+231 - Holder 1004035 - Primary title: d_kanumru has lost the title: d_kanumru
+231 - Title given to 1004035
+231 - vassal: c_quare - Holder 1004035 - Primary title: c_quare has lost the title: c_quare
+231 - vassal: c_quare - Title given to 1004035 - Primary title: d_kanumru
+231 - Holder (1004035) has gained c_quare
+256 - Holder 1005795 - Primary title: d_kanumru has lost the title: d_kanumru
+256 - Title given to 1005795
+256 - vassal: c_quare - Holder 1005795 - Primary title: c_quare has lost the title: c_quare
+256 - vassal: c_quare - Title given to 1005795 - Primary title: d_kanumru
+256 - Holder (1005795) has gained c_quare
+295 - Holder 1007847 - Primary title: d_kanumru has lost the title: d_kanumru
+295 - Title given to 1007847
+295 - vassal: c_quare - Holder 1007847 - Primary title: c_quare has lost the title: c_quare
+295 - vassal: c_quare - Title given to 1007847 - Primary title: d_kanumru
+295 - Holder (1007847) has gained c_quare
+300 - vassal: c_telura - Holder 1007847 - Primary title: c_telura has lost the title: c_telura
+300 - vassal: c_telura - Title given to 1007847 - Primary title: d_kanumru
+300 - Holder (1007847) has gained c_telura
+300 - Holder 1010580 - Primary title: d_kanumru has lost the title: d_kanumru
+300 - Title given to 1010580
+300 - vassal: c_telura - Holder 1010580 - Primary title: c_telura has lost the title: c_telura
+300 - vassal: c_telura - Title given to 1010580 - Primary title: d_kanumru
+300 - Holder (1010580) has gained c_telura
+300 - vassal: c_quare - Holder 1010580 - Primary title: c_quare has lost the title: c_quare
+300 - vassal: c_quare - Title given to 1010580 - Primary title: d_kanumru
+300 - Holder (1010580) has gained c_quare
+318 - Holder 1004153 - Primary title: d_kanumru has lost the title: d_kanumru
+318 - Title given to 1004153 - Primary title: d_tungula
+318 - vassal: c_telura - Holder 1004153 - Primary title: c_telura has lost the title: c_telura
+318 - vassal: c_telura - Title given to 1004153 - Primary title: d_tungula
+318 - vassal: c_quare - Holder 1004153 - Primary title: c_quare has lost the title: c_quare
+318 - vassal: c_quare - Title given to 1004153 - Primary title: d_tungula
+328 - Gained vassal: c_sodinan
+328 - Gained vassal: c_agopinan
+328 - Holder 1012678 - Primary title: d_kanumru has lost the title: d_kanumru
+328 - Title given to 1012678 - Primary title: d_tungula
+328 - vassal: c_agopinan - Holder 1012678 - Primary title: c_agopinan has lost the title: c_agopinan
+328 - vassal: c_agopinan - Title given to 1012678 - Primary title: d_tungula
+328 - vassal: c_sodinan - Holder 1012678 - Primary title: c_sodinan has lost the title: c_sodinan
+328 - vassal: c_sodinan - Title given to 1012678 - Primary title: d_tungula
+328 - vassal: c_telura - Holder 1012678 - Primary title: c_telura has lost the title: c_telura
+328 - vassal: c_telura - Title given to 1012678 - Primary title: d_tungula
+328 - vassal: c_quare - Holder 1012678 - Primary title: c_quare has lost the title: c_quare
+328 - vassal: c_quare - Title given to 1012678 - Primary title: d_tungula
+332 - Gained vassal: c_nobati
+332 - Holder 1012324 - Primary title: d_kanumru has lost the title: d_kanumru
+332 - Title given to 1012324 - Primary title: d_tafumru
+332 - vassal: c_agopinan - Holder 1012324 - Primary title: c_agopinan has lost the title: c_agopinan
+332 - vassal: c_agopinan - Title given to 1012324 - Primary title: d_tafumru
+332 - vassal: c_sodinan - Holder 1012324 - Primary title: c_sodinan has lost the title: c_sodinan
+332 - vassal: c_sodinan - Title given to 1012324 - Primary title: d_tafumru
+332 - vassal: c_telura - Holder 1012324 - Primary title: c_telura has lost the title: c_telura
+332 - vassal: c_telura - Title given to 1012324 - Primary title: d_tafumru
+332 - vassal: c_quare - Holder 1012324 - Primary title: c_quare has lost the title: c_quare
+332 - vassal: c_quare - Title given to 1012324 - Primary title: d_tafumru
+332 - vassal: c_nobati - Holder 1012324 - Primary title: c_nobati has lost the title: c_nobati
+332 - vassal: c_nobati - Title given to 1012324 - Primary title: d_tafumru
+334 - vassal: c_quare - Given to 1013433 in HandleTitles - Too many duke titles
+334 - vassal: c_quare - Title given to 1013433
+334 - Title given to 1011471 - Primary title: k_ralinan
+334 - vassal: c_agopinan - Setting to vassal of d_adadura in Validate Realm
+334 - Lost vassal: c_agopinan
+334 - vassal: c_sodinan - Setting to vassal of d_adadura in Validate Realm
+334 - Lost vassal: c_sodinan
+334 - vassal: c_telura - Setting to vassal of d_adadura in Validate Realm
+334 - Lost vassal: c_telura
+334 - vassal: c_nobati - Setting to vassal of d_adadura in Validate Realm
+334 - Lost vassal: c_nobati
+334 - Too many dukes, made direct title into vassal of k_ralinan
+334 - Title given to 1013434
+353 - Holder 1014605 - Primary title: d_kanumru has lost the title: d_kanumru
+353 - Title given to 1014605
+368 - Holder 1015390 - Primary title: d_kanumru has lost the title: d_kanumru
+368 - Title given to 1015390 - Primary title: c_telura
+368 - Gained vassal: c_telura

@@ -1,0 +1,72 @@
+200 - Title given to 1000960
+200 - vassal: c_alephen - Given to 1000963 via AddCharacterForTitle
+200 - sub vassal: c_alephen - Given to 1000963 via AddCharacterForTitle
+200 - vassal: c_alephen - Holder 1000963 - Primary title: c_alephen has lost the title: c_alephen
+200 - sub vassal: c_alephen - Holder 1000963 - Primary title: c_alephen has lost the title: c_alephen
+200 - vassal: c_alephen - Title given to 1000963
+200 - sub vassal: c_alephen - Title given to 1000963
+200 - vassal: c_kolely - Holder 1000960 - Primary title: c_kolely has lost the title: c_kolely
+200 - sub vassal: c_kolely - Holder 1000960 - Primary title: c_kolely has lost the title: c_kolely
+200 - vassal: c_kolely - Title given to 1000960 - Primary title: d_qazew
+200 - sub vassal: c_kolely - Title given to 1000960 - Primary title: d_qazew
+200 - Holder (1000960) has gained c_kolely
+200 - vassal: c_alephen - Holder 1000960 - Primary title: c_alephen has lost the title: c_alephen
+200 - sub vassal: c_alephen - Holder 1000960 - Primary title: c_alephen has lost the title: c_alephen
+200 - vassal: c_alephen - Title given to 1000960 - Primary title: d_qazew
+200 - sub vassal: c_alephen - Title given to 1000960 - Primary title: d_qazew
+200 - Holder (1000960) has gained c_alephen
+200 - vassal: c_asilda - Title given to 1000960 - Primary title: d_qazew
+200 - Holder (1000960) has gained c_asilda
+201 - Holder (1000960) has gained d_teseran
+201 - Holder (1000960) has gained c_sag
+201 - Holder (1000960) has gained c_salely
+201 - Holder (1000960) has gained c_dasagye
+201 - Holder (1000960) has gained c_lanudo
+202 - vassal: c_kolely - Title given to 1002247
+202 - vassal: c_asilda - Title given to 1002248
+218 - Title given to 1002757
+218 - vassal: c_alephen - Setting to vassal of d_teseran in Validate Realm
+218 - Lost vassal: c_alephen
+218 - Holder (1002757) has gained c_alephen
+218 - Gained vassal: c_alephen
+218 - Holder (1002757) has gained d_teseran
+218 - Holder (1002757) has gained c_sag
+218 - Holder (1002757) has gained c_salely
+218 - Holder (1002757) has gained c_dasagye
+218 - Holder (1002757) has gained c_lanudo
+257 - vassal: c_alephen - Title given to 1006567
+259 - Title given to 1003982 - Primary title: c_sag
+259 - Gained vassal: c_sag
+259 - Holder (1003982) has gained c_salely
+259 - Gained vassal: c_salely
+259 - Holder (1003982) has gained c_dasagye
+259 - Gained vassal: c_dasagye
+259 - Holder (1003982) has gained d_sorin
+259 - Holder (1003982) has gained c_wodew
+259 - Holder (1003982) has gained c_riduo
+259 - Holder (1003982) has gained c_kavorin
+260 - vassal: c_dasagye - Title given to 1006813
+273 - Gained vassal: c_wodew
+273 - Gained vassal: c_riduo
+273 - Gained vassal: c_kavorin
+273 - Holder 1007538 - Primary title: d_qazew has lost the title: d_qazew
+273 - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: c_kavorin - Holder 1007538 - Primary title: c_kavorin has lost the title: c_kavorin
+273 - vassal: c_kavorin - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: c_riduo - Holder 1007538 - Primary title: c_riduo has lost the title: c_riduo
+273 - vassal: c_riduo - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: c_wodew - Holder 1007538 - Primary title: c_wodew has lost the title: c_wodew
+273 - vassal: c_wodew - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: c_salely - Holder 1007538 - Primary title: c_salely has lost the title: c_salely
+273 - vassal: c_salely - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: c_sag - Holder 1007538 - Primary title: c_sag has lost the title: c_sag
+273 - vassal: c_sag - Title given to 1007538 - Primary title: d_sorin
+295 - Holder (1007538) has gained d_sorin
+295 - vassal: c_sag - Set liege on title creation d_sorin
+295 - Lost vassal: c_sag
+295 - vassal: c_salely - Set liege on title creation d_sorin
+295 - Lost vassal: c_salely
+295 - vassal: c_wodew - Set liege on title creation d_sorin
+295 - Lost vassal: c_wodew
+295 - vassal: c_riduo - Set liege on title creation d_sorin
+295 - Lost vassal: c_riduo

@@ -1,0 +1,59 @@
+200 - Title given to 1000362
+200 - vassal: c_atsipal - Holder 1000362 - Primary title: c_atsipal has lost the title: c_atsipal
+200 - sub vassal: c_atsipal - Holder 1000362 - Primary title: c_atsipal has lost the title: c_atsipal
+200 - vassal: c_atsipal - Title given to 1000362 - Primary title: d_tyug
+200 - sub vassal: c_atsipal - Title given to 1000362 - Primary title: d_tyug
+200 - Holder (1000362) has gained c_atsipal
+200 - vassal: c_eniralen - Holder 1000362 - Primary title: c_eniralen has lost the title: c_eniralen
+200 - sub vassal: c_eniralen - Holder 1000362 - Primary title: c_eniralen has lost the title: c_eniralen
+200 - vassal: c_eniralen - Title given to 1000362 - Primary title: d_tyug
+200 - sub vassal: c_eniralen - Title given to 1000362 - Primary title: d_tyug
+200 - Holder (1000362) has gained c_eniralen
+200 - vassal: c_qanolf - Holder 1000362 - Primary title: c_qanolf has lost the title: c_qanolf
+200 - sub vassal: c_qanolf - Holder 1000362 - Primary title: c_qanolf has lost the title: c_qanolf
+200 - vassal: c_qanolf - Title given to 1000362 - Primary title: d_tyug
+200 - sub vassal: c_qanolf - Title given to 1000362 - Primary title: d_tyug
+200 - Holder (1000362) has gained c_qanolf
+221 - Holder 1003171 - Primary title: d_tyug has lost the title: d_tyug
+221 - Title given to 1003171
+221 - vassal: c_atsipal - Holder 1003171 - Primary title: c_atsipal has lost the title: c_atsipal
+221 - vassal: c_atsipal - Title given to 1003171 - Primary title: d_tyug
+221 - Holder (1003171) has gained c_atsipal
+221 - vassal: c_eniralen - Holder 1003171 - Primary title: c_eniralen has lost the title: c_eniralen
+221 - vassal: c_eniralen - Title given to 1003171 - Primary title: d_tyug
+221 - Holder (1003171) has gained c_eniralen
+221 - vassal: c_qanolf - Holder 1003171 - Primary title: c_qanolf has lost the title: c_qanolf
+221 - vassal: c_qanolf - Title given to 1003171 - Primary title: d_tyug
+221 - Holder (1003171) has gained c_qanolf
+223 - Holder 1001472 - Primary title: d_tyug has lost the title: d_tyug
+223 - Title given to 1001472 - Primary title: k_tibilen
+223 - vassal: c_atsipal - Holder 1001472 - Primary title: c_atsipal has lost the title: c_atsipal
+223 - vassal: c_atsipal - Title given to 1001472 - Primary title: k_tibilen
+223 - vassal: c_eniralen - Holder 1001472 - Primary title: c_eniralen has lost the title: c_eniralen
+223 - vassal: c_eniralen - Title given to 1001472 - Primary title: k_tibilen
+223 - vassal: c_qanolf - Holder 1001472 - Primary title: c_qanolf has lost the title: c_qanolf
+223 - vassal: c_qanolf - Title given to 1001472 - Primary title: k_tibilen
+223 - vassal: c_eniralen - Given to 1003991 in HandleTitles - Too many duke titles
+223 - vassal: c_eniralen - Title given to 1003991
+223 - Title given to 1003991 - Primary title: c_eniralen
+223 - vassal: c_eniralen - Holder (1003991) has gained d_tyug
+223 - vassal: c_atsipal - Setting to vassal of k_tibilen in Validate Realm
+223 - Lost vassal: c_atsipal
+223 - vassal: c_qanolf - Setting to vassal of k_tibilen in Validate Realm
+223 - Lost vassal: c_qanolf
+223 - Too many dukes, given to dejure: k_tibilen
+255 - Holder (1003991) has gained d_kipal
+255 - Holder (1003991) has gained c_qisofni
+255 - Holder (1003991) has gained c_lyolomas
+255 - Holder (1003991) has gained c_tard
+267 - Gained vassal: c_qisofni
+267 - Holder 1004326 - Primary title: d_tyug has lost the title: d_tyug
+267 - Title given to 1004326 - Primary title: d_kipal
+267 - vassal: c_qisofni - Holder 1004326 - Primary title: c_qisofni has lost the title: c_qisofni
+267 - vassal: c_qisofni - Title given to 1004326 - Primary title: d_kipal
+267 - vassal: c_eniralen - Holder 1004326 - Primary title: c_eniralen has lost the title: c_eniralen
+267 - vassal: c_eniralen - Title given to 1004326 - Primary title: d_kipal
+281 - Gained vassal: c_sadurg
+281 - Holder 1007697 - Primary title: d_tyug has lost the title: d_tyug
+281 - Title given to 1007697 - Primary title: k_tibilen
+281 - vassal: c_qisofni - Holder 1007697 - Primary title: c_qisofni has lost the title: c

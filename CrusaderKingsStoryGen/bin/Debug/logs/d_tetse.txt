@@ -1,0 +1,58 @@
+200 - Title given to 1000467
+200 - vassal: c_kahans - Holder 1000467 - Primary title: c_kahans has lost the title: c_kahans
+200 - sub vassal: c_kahans - Holder 1000467 - Primary title: c_kahans has lost the title: c_kahans
+200 - vassal: c_kahans - Title given to 1000467 - Primary title: d_tetse
+200 - sub vassal: c_kahans - Title given to 1000467 - Primary title: d_tetse
+200 - Holder (1000467) has gained c_kahans
+200 - vassal: c_wuisre - Holder 1000467 - Primary title: c_wuisre has lost the title: c_wuisre
+200 - sub vassal: c_wuisre - Holder 1000467 - Primary title: c_wuisre has lost the title: c_wuisre
+200 - vassal: c_wuisre - Title given to 1000467 - Primary title: d_tetse
+200 - sub vassal: c_wuisre - Title given to 1000467 - Primary title: d_tetse
+200 - Holder (1000467) has gained c_wuisre
+200 - vassal: c_elans - Holder 1000467 - Primary title: c_elans has lost the title: c_elans
+200 - sub vassal: c_elans - Holder 1000467 - Primary title: c_elans has lost the title: c_elans
+200 - vassal: c_elans - Title given to 1000467 - Primary title: d_tetse
+200 - sub vassal: c_elans - Title given to 1000467 - Primary title: d_tetse
+200 - Holder (1000467) has gained c_elans
+215 - Holder 1002735 - Primary title: d_tetse has lost the title: d_tetse
+215 - Title given to 1002735
+215 - vassal: c_elans - Holder 1002735 - Primary title: c_elans has lost the title: c_elans
+215 - vassal: c_elans - Title given to 1002735 - Primary title: d_tetse
+215 - Holder (1002735) has gained c_elans
+215 - vassal: c_wuisre - Holder 1002735 - Primary title: c_wuisre has lost the title: c_wuisre
+215 - vassal: c_wuisre - Title given to 1002735 - Primary title: d_tetse
+215 - Holder (1002735) has gained c_wuisre
+215 - vassal: c_kahans - Holder 1002735 - Primary title: c_kahans has lost the title: c_kahans
+215 - vassal: c_kahans - Title given to 1002735 - Primary title: d_tetse
+215 - Holder (1002735) has gained c_kahans
+230 - Holder 1004254 - Primary title: d_tetse has lost the title: d_tetse
+230 - Title given to 1004254
+230 - vassal: c_kahans - Holder 1004254 - Primary title: c_kahans has lost the title: c_kahans
+230 - vassal: c_kahans - Title given to 1004254 - Primary title: d_tetse
+230 - Holder (1004254) has gained c_kahans
+230 - vassal: c_wuisre - Holder 1004254 - Primary title: c_wuisre has lost the title: c_wuisre
+230 - vassal: c_wuisre - Title given to 1004254 - Primary title: d_tetse
+230 - Holder (1004254) has gained c_wuisre
+230 - vassal: c_elans - Holder 1004254 - Primary title: c_elans has lost the title: c_elans
+230 - vassal: c_elans - Title given to 1004254 - Primary title: d_tetse
+230 - Holder (1004254) has gained c_elans
+244 - Holder 1002454 - Primary title: d_tetse has lost the title: d_tetse
+244 - Title given to 1002454 - Primary title: d_nadin
+244 - vassal: c_elans - Holder 1002454 - Primary title: c_elans has lost the title: c_elans
+244 - vassal: c_elans - Title given to 1002454 - Primary title: d_nadin
+244 - vassal: c_wuisre - Holder 1002454 - Primary title: c_wuisre has lost the title: c_wuisre
+244 - vassal: c_wuisre - Title given to 1002454 - Primary title: d_nadin
+244 - vassal: c_kahans - Holder 1002454 - Primary title: c_kahans has lost the title: c_kahans
+244 - vassal: c_kahans - Title given to 1002454 - Primary title: d_nadin
+266 - Holder 1002594 - Primary title: d_tetse has lost the title: d_nadin
+266 - Made vassal of neighbour (k_tyawille) due to being a seperate island
+266 - Given to neighbour holder of k_tyawille
+266 - Holder 1002594 - Primary title: d_tetse has lost the title: d_tetse
+266 - Title given to 1002594 - Primary title: k_tyawille
+266 - vassal: c_kahans - Given to 1007329 in HandleTitles - Too many duke titles
+266 - vassal: c_kahans - Holder 1007329 - Primary title: c_kahans has lost the title: c_kahans
+266 - vassal: c_kahans - Title given to 1007329
+266 - Title given to 1007329 - Primary title: c_kahans
+266 - vassal: c_kahans - Holder (1007329) has gained d_tetse
+266 - Too many dukes, made direct title into vassal of k_tyawille
+267 - Holder 1002594 - Primary title

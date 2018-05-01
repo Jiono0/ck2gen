@@ -1,0 +1,1716 @@
+200 - Title given to 1001477
+200 - vassal: d_qabib - Holder 1001477 - Primary title: d_qabib has lost the title: d_qabib
+200 - sub vassal: d_qabib - Holder 1001477 - Primary title: d_qabib has lost the title: d_qabib
+200 - vassal: d_qabib - Title given to 1001477 - Primary title: k_reatib
+200 - sub vassal: d_qabib - Title given to 1001477 - Primary title: k_reatib
+200 - Holder (1001477) has gained d_qabib
+200 - vassal: d_lescougu - Holder 1001477 - Primary title: d_lescougu has lost the title: d_lescougu
+200 - sub vassal: d_lescougu - Holder 1001477 - Primary title: d_lescougu has lost the title: d_lescougu
+200 - vassal: d_lescougu - Title given to 1001477 - Primary title: k_reatib
+200 - sub vassal: d_lescougu - Title given to 1001477 - Primary title: k_reatib
+200 - Holder (1001477) has gained d_lescougu
+200 - sub vassal: c_wyati - Holder 1001477 - Primary title: c_wyati has lost the title: c_wyati
+200 - sub vassal: c_wyati - Title given to 1001477 - Primary title: k_reatib
+200 - Holder (1001477) has gained c_wyati
+201 - vassal: d_kaepazsi - Holder 1000558 - Primary title: d_kaepazsi has lost the title: d_kaepazsi
+201 - sub vassal: d_kaepazsi - Holder 1000558 - Primary title: d_kaepazsi has lost the title: d_kaepazsi
+201 - vassal: d_kaepazsi - Title given to 1000558 - Primary title: d_nadin
+201 - sub vassal: d_kaepazsi - Title given to 1000558 - Primary title: d_nadin
+201 - vassal: d_nadin - Holder (1000558) has gained d_kaepazsi
+201 - sub vassal: d_nadin - Holder (1000558) has gained d_kaepazsi
+201 - sub vassal: c_doukh - Holder 1000558 - Primary title: c_doukh has lost the title: c_doukh
+201 - sub vassal: c_doukh - Title given to 1000558 - Primary title: d_nadin
+201 - vassal: d_nadin - Holder (1000558) has gained c_doukh
+201 - sub vassal: d_nadin - Holder (1000558) has gained c_doukh
+201 - sub vassal: c_tintou - Holder 1000558 - Primary title: c_tintou has lost the title: c_tintou
+201 - sub vassal: c_tintou - Title given to 1000558 - Primary title: d_nadin
+201 - vassal: d_nadin - Holder (1000558) has gained c_tintou
+201 - sub vassal: d_nadin - Holder (1000558) has gained c_tintou
+201 - sub vassal: c_rib - Holder 1000558 - Primary title: c_rib has lost the title: c_rib
+201 - sub vassal: c_rib - Title given to 1000558 - Primary title: d_nadin
+201 - vassal: d_nadin - Holder (1000558) has gained c_rib
+201 - sub vassal: d_nadin - Holder (1000558) has gained c_rib
+201 - Holder (1001477) has gained c_bakearl
+202 - vassal: d_kaepazsi - Holder 1002225 - Primary title: d_kaepazsi has lost the title: c_tuisara
+202 - sub vassal: d_kaepazsi - Holder 1002225 - Primary title: d_kaepazsi has lost the title: c_tuisara
+202 - sub vassal: c_tuisara - Title given to 1002225
+202 - Holder 1001481 - Primary title: k_reatib has lost the title: c_bakearl
+203 - vassal: d_tesane - Holder 1000558 - Primary title: d_tesane has lost the title: d_tesane
+203 - sub vassal: d_tesane - Holder 1000558 - Primary title: d_tesane has lost the title: d_tesane
+203 - vassal: d_tesane - Title given to 1000558 - Primary title: d_kaepazsi
+203 - sub vassal: d_tesane - Title given to 1000558 - Primary title: d_kaepazsi
+203 - vassal: d_kaepazsi - Holder (1000558) has gained d_tesane
+203 - sub vassal: d_kaepazsi - Holder (1000558) has gained d_tesane
+203 - sub vassal: c_baepomir - Holder 1000558 - Primary title: c_baepomir has lost the title: c_baepomir
+203 - sub vassal: c_baepomir - Title given to 1000558 - Primary title: d_nadin
+203 - vassal: d_nadin - Holder (1000558) has gained c_baepomir
+203 - sub vassal: d_nadin - Holder (1000558) has gained c_baepomir
+203 - sub vassal: c_riel - Holder 1000558 - Primary title: c_riel has lost the title: c_riel
+203 - sub vassal: c_riel - Title given to 1000558 - Primary title: d_nadin
+203 - vassal: d_nadin - Holder (1000558) has gained c_riel
+203 - sub vassal: d_nadin - Holder (1000558) has gained c_riel
+203 - sub vassal: c_kaepetse - Holder 1000558 - Primary title: c_kaepetse has lost the title: c_kaepetse
+203 - sub vassal: c_kaepetse - Title given to 1000558 - Primary title: d_nadin
+203 - vassal: d_nadin - Holder (1000558) has gained c_kaepetse
+203 - sub vassal: d_nadin - Holder (1000558) has gained c_kaepetse
+203 - sub vassal: c_dainba - Holder 1000558 - Primary title: c_dainba has lost the title: c_dainba
+203 - sub vassal: c_dainba - Title given to 1000558 - Primary title: d_nadin
+203 - vassal: d_nadin - Holder (1000558) has gained c_dainba
+203 - sub vassal: d_nadin - Holder (1000558) has gained c_dainba
+204 - sub vassal: c_byake - Given to 1002446 in HandleTitles - Too many duke titles
+204 - vassal: d_tesane - Holder 1002446 - Primary title: d_tesane has lost the title: c_byake
+204 - sub vassal: d_tesane - Holder 1002446 - Primary title: d_tesane has lost the title: c_byake
+204 - sub vassal: c_byake - Title given to 1002446
+204 - vassal: d_tesane - Holder 1001477 - Primary title: d_tesane has lost the title: d_nadin
+204 - sub vassal: d_tesane - Holder 1001477 - Primary title: d_tesane has lost the title: d_nadin
+204 - vassal: d_nadin - Title given to 1001477 - Primary title: k_reatib
+204 - sub vassal: d_nadin - Title given to 1001477 - Primary title: k_reatib
+204 - Holder (1001477) has gained d_nadin
+204 - sub vassal: c_dib - Setting to vassal of d_tesane in Validate Realm
+204 - vassal: d_nadin - Lost vassal: c_dib
+204 - sub vassal: d_nadin - Lost vassal: c_dib
+204 - vassal: d_tesane - Gained vassal: c_dib
+204 - sub vassal: d_tesane - Gained vassal: c_dib
+204 - vassal: d_nadin - Too many dukes, made direct title into vassal of k_reatib
+204 - sub vassal: d_nadin - Too many dukes, made direct title into vassal of k_reatib
+204 - Holder 1002447 - Primary title: k_reatib has lost the title: d_nadin
+204 - vassal: d_nadin - Title given to 1002447
+204 - sub vassal: d_nadin - Title given to 1002447
+204 - vassal: d_tesane - Holder 1002448 - Primary title: d_tesane has lost the title: c_tintou
+204 - sub vassal: d_tesane - Holder 1002448 - Primary title: d_tesane has lost the title: c_tintou
+204 - sub vassal: c_tintou - Title given to 1002448
+204 - vassal: d_tesane - Holder 1002450 - Primary title: d_tesane has lost the title: c_rib
+204 - sub vassal: d_tesane - Holder 1002450 - Primary title: d_tesane has lost the title: c_rib
+204 - sub vassal: c_rib - Title given to 1002450
+204 - vassal: d_tesane - Holder 1002451 - Primary title: d_tesane has lost the title: c_doukh
+204 - sub vassal: d_tesane - Holder 1002451 - Primary title: d_tesane has lost the title: c_doukh
+204 - sub vassal: c_doukh - Title given to 1002451
+206 - vassal: d_dul - Holder 1002447 - Primary title: d_dul has lost the title: d_dul
+206 - sub vassal: d_dul - Holder 1002447 - Primary title: d_dul has lost the title: d_dul
+206 - vassal: d_dul - Title given to 1002447 - Primary title: d_nadin
+206 - sub vassal: d_dul - Title given to 1002447 - Primary title: d_nadin
+206 - vassal: d_nadin - Holder (1002447) has gained d_dul
+206 - sub vassal: d_nadin - Holder (1002447) has gained d_dul
+206 - sub vassal: c_latul - Holder 1002447 - Primary title: c_latul has lost the title: c_latul
+206 - sub vassal: c_latul - Title given to 1002447 - Primary title: d_nadin
+206 - vassal: d_nadin - Holder (1002447) has gained c_latul
+206 - sub vassal: d_nadin - Holder (1002447) has gained c_latul
+206 - sub vassal: c_enba - Holder 1002447 - Primary title: c_enba has lost the title: c_enba
+206 - sub vassal: c_enba - Title given to 1002447 - Primary title: d_nadin
+206 - vassal: d_nadin - Holder (1002447) has gained c_enba
+206 - sub vassal: d_nadin - Holder (1002447) has gained c_enba
+206 - sub vassal: c_kaepul - Holder 1002447 - Primary title: c_kaepul has lost the title: c_kaepul
+206 - sub vassal: c_kaepul - Title given to 1002447 - Primary title: d_nadin
+206 - vassal: d_nadin - Holder (1002447) has gained c_kaepul
+206 - sub vassal: d_nadin - Holder (1002447) has gained c_kaepul
+215 - vassal: d_tetse - Holder 1002735 - Primary title: d_tetse has lost the title: d_tetse
+215 - sub vassal: d_tetse - Holder 1002735 - Primary title: d_tetse has lost the title: d_tetse
+215 - vassal: d_tetse - Title given to 1002735
+215 - sub vassal: d_tetse - Title given to 1002735
+215 - sub vassal: c_elans - Holder 1002735 - Primary title: c_elans has lost the title: c_elans
+215 - sub vassal: c_elans - Title given to 1002735 - Primary title: d_tetse
+215 - vassal: d_tetse - Holder (1002735) has gained c_elans
+215 - sub vassal: d_tetse - Holder (1002735) has gained c_elans
+215 - sub vassal: c_wuisre - Holder 1002735 - Primary title: c_wuisre has lost the title: c_wuisre
+215 - sub vassal: c_wuisre - Title given to 1002735 - Primary title: d_tetse
+215 - vassal: d_tetse - Holder (1002735) has gained c_wuisre
+215 - sub vassal: d_tetse - Holder (1002735) has gained c_wuisre
+215 - sub vassal: c_kahans - Holder 1002735 - Primary title: c_kahans has lost the title: c_kahans
+215 - sub vassal: c_kahans - Title given to 1002735 - Primary title: d_tetse
+215 - vassal: d_tetse - Holder (1002735) has gained c_kahans
+215 - sub vassal: d_tetse - Holder (1002735) has gained c_kahans
+219 - Holder (1001477) has gained c_bakearl
+220 - Holder 1001491 - Primary title: k_reatib has lost the title: c_bakearl
+220 - Holder (1001477) has gained c_bakearl
+221 - Holder 1001491 - Primary title: k_reatib has lost the title: c_bakearl
+221 - vassal: d_tesane - Captured byk_evalloth in minor war
+221 - sub vassal: d_tesane - Captured byk_evalloth in minor war
+221 - Lost vassal: d_tesane
+221 - vassal: d_kaepazsi - Setting independent in Validate Realm
+221 - vassal: d_kaepazsi - Made independent
+221 - Holder (1001477) has gained c_bakearl
+222 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - vassal: d_dul - Lost vassal: c_kaepul
+222 - sub vassal: d_dul - Lost vassal: c_kaepul
+222 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+222 - vassal: d_dul - Gained vassal: c_kaepul
+222 - sub vassal: d_dul - Gained vassal: c_kaepul
+222 - vassal: d_dul - Gained vassal: c_kaepul
+222 - sub vassal: d_dul - Gained vassal: c_kaepul
+222 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+222 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - vassal: d_dul - Lost vassal: c_enba
+222 - sub vassal: d_dul - Lost vassal: c_enba
+222 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+222 - vassal: d_dul - Gained vassal: c_enba
+222 - sub vassal: d_dul - Gained vassal: c_enba
+222 - vassal: d_dul - Gained vassal: c_enba
+222 - sub vassal: d_dul - Gained vassal: c_enba
+222 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+222 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - vassal: d_dul - Lost vassal: c_latul
+222 - sub vassal: d_dul - Lost vassal: c_latul
+222 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+222 - vassal: d_dul - Gained vassal: c_latul
+222 - sub vassal: d_dul - Gained vassal: c_latul
+222 - vassal: d_dul - Gained vassal: c_latul
+222 - sub vassal: d_dul - Gained vassal: c_latul
+222 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+222 - sub vassal: c_ajond - Made vassal of neighbour (k_evalloth) due to being a seperate island
+222 - vassal: d_qabib - Lost vassal: c_ajond
+222 - sub vassal: d_qabib - Lost vassal: c_ajond
+222 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+222 - Holder 1001491 - Primary title: k_reatib has lost the title: c_bakearl
+222 - Gained vassal: c_rib
+222 - vassal: c_rib - Given to neighbour holder of k_reatib
+222 - sub vassal: c_rib - Given to neighbour holder of k_reatib
+222 - vassal: c_rib - Holder 1001477 - Primary title: c_rib has lost the title: c_rib
+222 - sub vassal: c_rib - Holder 1001477 - Primary title: c_rib has lost the title: c_rib
+222 - vassal: c_rib - Title given to 1001477 - Primary title: k_reatib
+222 - sub vassal: c_rib - Title given to 1001477 - Primary title: k_reatib
+222 - Holder (1001477) has gained c_rib
+222 - Gained vassal: c_doukh
+222 - vassal: c_doukh - Given to neighbour holder of k_reatib
+222 - sub vassal: c_doukh - Given to neighbour holder of k_reatib
+222 - vassal: c_doukh - Holder 1001477 - Primary title: c_doukh has lost the title: c_doukh
+222 - sub vassal: c_doukh - Holder 1001477 - Primary title: c_doukh has lost the title: c_doukh
+222 - vassal: c_doukh - Title given to 1001477 - Primary title: k_reatib
+222 - sub vassal: c_doukh - Title given to 1001477 - Primary title: k_reatib
+222 - Holder (1001477) has gained c_doukh
+222 - Holder (1001477) has gained c_bakearl
+223 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - vassal: d_dul - Lost vassal: c_kaepul
+223 - sub vassal: d_dul - Lost vassal: c_kaepul
+223 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+223 - vassal: d_dul - Gained vassal: c_kaepul
+223 - sub vassal: d_dul - Gained vassal: c_kaepul
+223 - vassal: d_dul - Gained vassal: c_kaepul
+223 - sub vassal: d_dul - Gained vassal: c_kaepul
+223 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+223 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - vassal: d_dul - Lost vassal: c_enba
+223 - sub vassal: d_dul - Lost vassal: c_enba
+223 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+223 - vassal: d_dul - Gained vassal: c_enba
+223 - sub vassal: d_dul - Gained vassal: c_enba
+223 - vassal: d_dul - Gained vassal: c_enba
+223 - sub vassal: d_dul - Gained vassal: c_enba
+223 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+223 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - vassal: d_dul - Lost vassal: c_latul
+223 - sub vassal: d_dul - Lost vassal: c_latul
+223 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+223 - vassal: d_dul - Gained vassal: c_latul
+223 - sub vassal: d_dul - Gained vassal: c_latul
+223 - vassal: d_dul - Gained vassal: c_latul
+223 - sub vassal: d_dul - Gained vassal: c_latul
+223 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+223 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+223 - Holder 1001491 - Primary title: k_reatib has lost the title: c_bakearl
+223 - Holder (1001477) has gained c_bakearl
+224 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - vassal: d_dul - Lost vassal: c_kaepul
+224 - sub vassal: d_dul - Lost vassal: c_kaepul
+224 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+224 - vassal: d_dul - Gained vassal: c_kaepul
+224 - sub vassal: d_dul - Gained vassal: c_kaepul
+224 - vassal: d_dul - Gained vassal: c_kaepul
+224 - sub vassal: d_dul - Gained vassal: c_kaepul
+224 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+224 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - vassal: d_dul - Lost vassal: c_enba
+224 - sub vassal: d_dul - Lost vassal: c_enba
+224 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+224 - vassal: d_dul - Gained vassal: c_enba
+224 - sub vassal: d_dul - Gained vassal: c_enba
+224 - vassal: d_dul - Gained vassal: c_enba
+224 - sub vassal: d_dul - Gained vassal: c_enba
+224 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+224 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - vassal: d_dul - Lost vassal: c_latul
+224 - sub vassal: d_dul - Lost vassal: c_latul
+224 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+224 - vassal: d_dul - Gained vassal: c_latul
+224 - sub vassal: d_dul - Gained vassal: c_latul
+224 - vassal: d_dul - Gained vassal: c_latul
+224 - sub vassal: d_dul - Gained vassal: c_latul
+224 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+224 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+224 - Holder 1002490 - Primary title: k_reatib has lost the title: c_bakearl
+224 - Holder (1001477) has gained c_bakearl
+225 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - vassal: d_dul - Lost vassal: c_kaepul
+225 - sub vassal: d_dul - Lost vassal: c_kaepul
+225 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+225 - vassal: d_dul - Gained vassal: c_kaepul
+225 - sub vassal: d_dul - Gained vassal: c_kaepul
+225 - vassal: d_dul - Gained vassal: c_kaepul
+225 - sub vassal: d_dul - Gained vassal: c_kaepul
+225 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+225 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - vassal: d_dul - Lost vassal: c_enba
+225 - sub vassal: d_dul - Lost vassal: c_enba
+225 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+225 - vassal: d_dul - Gained vassal: c_enba
+225 - sub vassal: d_dul - Gained vassal: c_enba
+225 - vassal: d_dul - Gained vassal: c_enba
+225 - sub vassal: d_dul - Gained vassal: c_enba
+225 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+225 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - vassal: d_dul - Lost vassal: c_latul
+225 - sub vassal: d_dul - Lost vassal: c_latul
+225 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+225 - vassal: d_dul - Gained vassal: c_latul
+225 - sub vassal: d_dul - Gained vassal: c_latul
+225 - vassal: d_dul - Gained vassal: c_latul
+225 - sub vassal: d_dul - Gained vassal: c_latul
+225 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+225 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+225 - Holder 1002490 - Primary title: k_reatib has lost the title: c_bakearl
+225 - Holder 1003200 - Primary title: k_reatib has lost the title: k_reatib
+225 - Title given to 1003200
+225 - vassal: d_qabib - Holder 1003200 - Primary title: d_qabib has lost the title: d_qabib
+225 - sub vassal: d_qabib - Holder 1003200 - Primary title: d_qabib has lost the title: d_qabib
+225 - vassal: d_qabib - Title given to 1003200 - Primary title: k_reatib
+225 - sub vassal: d_qabib - Title given to 1003200 - Primary title: k_reatib
+225 - Holder (1003200) has gained d_qabib
+225 - sub vassal: c_wyati - Setting to vassal of d_lescougu in Validate Realm
+225 - vassal: d_qabib - Lost vassal: c_wyati
+225 - sub vassal: d_qabib - Lost vassal: c_wyati
+225 - vassal: c_rib - Setting to vassal of d_lescougu in Validate Realm
+225 - sub vassal: c_rib - Setting to vassal of d_lescougu in Validate Realm
+225 - Lost vassal: c_rib
+225 - vassal: c_doukh - Setting to vassal of d_lescougu in Validate Realm
+225 - sub vassal: c_doukh - Setting to vassal of d_lescougu in Validate Realm
+225 - Lost vassal: c_doukh
+225 - vassal: d_lescougu - Gained vassal: c_doukh
+225 - sub vassal: d_lescougu - Gained vassal: c_doukh
+225 - vassal: d_lescougu - Gained vassal: c_rib
+225 - sub vassal: d_lescougu - Gained vassal: c_rib
+225 - vassal: d_lescougu - Gained vassal: c_wyati
+225 - sub vassal: d_lescougu - Gained vassal: c_wyati
+225 - vassal: d_lescougu - Holder 1003200 - Primary title: d_lescougu has lost the title: d_lescougu
+225 - sub vassal: d_lescougu - Holder 1003200 - Primary title: d_lescougu has lost the title: d_lescougu
+225 - vassal: d_lescougu - Title given to 1003200 - Primary title: k_reatib
+225 - sub vassal: d_lescougu - Title given to 1003200 - Primary title: k_reatib
+225 - Holder (1003200) has gained d_lescougu
+225 - sub vassal: c_wyati - Holder 1003200 - Primary title: c_wyati has lost the title: c_wyati
+225 - sub vassal: c_wyati - Title given to 1003200 - Primary title: k_reatib
+225 - Holder (1003200) has gained c_wyati
+225 - sub vassal: c_rib - Holder 1003200 - Primary title: c_rib has lost the title: c_rib
+225 - sub vassal: c_rib - Title given to 1003200 - Primary title: k_reatib
+225 - Holder (1003200) has gained c_rib
+225 - sub vassal: c_doukh - Holder 1003200 - Primary title: c_doukh has lost the title: c_doukh
+225 - sub vassal: c_doukh - Title given to 1003200 - Primary title: k_reatib
+225 - Holder (1003200) has gained c_doukh
+225 - Holder (1003200) has gained c_bakearl
+226 - vassal: d_qabib - Destroyed due to flagged problem
+226 - sub vassal: d_qabib - Destroyed due to flagged problem
+226 - vassal: d_qabib - Made independent
+226 - sub vassal: d_qabib - Made independent
+226 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - vassal: d_dul - Lost vassal: c_kaepul
+226 - sub vassal: d_dul - Lost vassal: c_kaepul
+226 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+226 - vassal: d_dul - Gained vassal: c_kaepul
+226 - sub vassal: d_dul - Gained vassal: c_kaepul
+226 - vassal: d_dul - Gained vassal: c_kaepul
+226 - sub vassal: d_dul - Gained vassal: c_kaepul
+226 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+226 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - vassal: d_dul - Lost vassal: c_enba
+226 - sub vassal: d_dul - Lost vassal: c_enba
+226 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+226 - vassal: d_dul - Gained vassal: c_enba
+226 - sub vassal: d_dul - Gained vassal: c_enba
+226 - vassal: d_dul - Gained vassal: c_enba
+226 - sub vassal: d_dul - Gained vassal: c_enba
+226 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+226 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - vassal: d_dul - Lost vassal: c_latul
+226 - sub vassal: d_dul - Lost vassal: c_latul
+226 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+226 - vassal: d_dul - Gained vassal: c_latul
+226 - sub vassal: d_dul - Gained vassal: c_latul
+226 - vassal: d_dul - Gained vassal: c_latul
+226 - sub vassal: d_dul - Gained vassal: c_latul
+226 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+226 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+226 - Holder 1002490 - Primary title: k_reatib has lost the title: c_bakearl
+226 - Holder (1003200) has gained c_bakearl
+227 - vassal: d_relia - Holder 1002222 - Primary title: d_relia has lost the title: d_relia
+227 - sub vassal: d_relia - Holder 1002222 - Primary title: d_relia has lost the title: d_relia
+227 - vassal: d_relia - Title given to 1002222
+227 - sub vassal: d_relia - Title given to 1002222
+227 - sub vassal: c_tono - Holder 1002222 - Primary title: c_tono has lost the title: c_tono
+227 - sub vassal: c_tono - Title given to 1002222 - Primary title: d_relia
+227 - vassal: d_relia - Holder (1002222) has gained c_tono
+227 - sub vassal: d_relia - Holder (1002222) has gained c_tono
+227 - sub vassal: c_dajnal - Holder 1002222 - Primary title: c_dajnal has lost the title: c_dajnal
+227 - sub vassal: c_dajnal - Title given to 1002222 - Primary title: d_relia
+227 - vassal: d_relia - Holder (1002222) has gained c_dajnal
+227 - sub vassal: d_relia - Holder (1002222) has gained c_dajnal
+227 - sub vassal: c_watolir - Holder 1002222 - Primary title: c_watolir has lost the title: c_watolir
+227 - sub vassal: c_watolir - Title given to 1002222 - Primary title: d_relia
+227 - vassal: d_relia - Holder (1002222) has gained c_watolir
+227 - sub vassal: d_relia - Holder (1002222) has gained c_watolir
+227 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - vassal: d_dul - Lost vassal: c_kaepul
+227 - sub vassal: d_dul - Lost vassal: c_kaepul
+227 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+227 - vassal: d_dul - Gained vassal: c_kaepul
+227 - sub vassal: d_dul - Gained vassal: c_kaepul
+227 - vassal: d_dul - Gained vassal: c_kaepul
+227 - sub vassal: d_dul - Gained vassal: c_kaepul
+227 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+227 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - vassal: d_dul - Lost vassal: c_enba
+227 - sub vassal: d_dul - Lost vassal: c_enba
+227 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+227 - vassal: d_dul - Gained vassal: c_enba
+227 - sub vassal: d_dul - Gained vassal: c_enba
+227 - vassal: d_dul - Gained vassal: c_enba
+227 - sub vassal: d_dul - Gained vassal: c_enba
+227 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+227 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - vassal: d_dul - Lost vassal: c_latul
+227 - sub vassal: d_dul - Lost vassal: c_latul
+227 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+227 - vassal: d_dul - Gained vassal: c_latul
+227 - sub vassal: d_dul - Gained vassal: c_latul
+227 - vassal: d_dul - Gained vassal: c_latul
+227 - sub vassal: d_dul - Gained vassal: c_latul
+227 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+227 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+227 - Holder 1000791 - Primary title: k_reatib has lost the title: c_bakearl
+228 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+228 - vassal: d_dul - Lost vassal: c_kaepul
+228 - sub vassal: d_dul - Lost vassal: c_kaepul
+228 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+228 - vassal: d_dul - Gained vassal: c_kaepul
+228 - sub vassal: d_dul - Gained vassal: c_kaepul
+228 - vassal: d_dul - Gained vassal: c_kaepul
+228 - sub vassal: d_dul - Gained vassal: c_kaepul
+228 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+228 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+228 - vassal: d_dul - Lost vassal: c_enba
+228 - sub vassal: d_dul - Lost vassal: c_enba
+228 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+228 - vassal: d_dul - Gained vassal: c_enba
+228 - sub vassal: d_dul - Gained vassal: c_enba
+228 - vassal: d_dul - Gained vassal: c_enba
+228 - sub vassal: d_dul - Gained vassal: c_enba
+228 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+228 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+228 - vassal: d_dul - Lost vassal: c_latul
+228 - sub vassal: d_dul - Lost vassal: c_latul
+228 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+228 - vassal: d_dul - Gained vassal: c_latul
+228 - sub vassal: d_dul - Gained vassal: c_latul
+228 - vassal: d_dul - Gained vassal: c_latul
+228 - sub vassal: d_dul - Gained vassal: c_latul
+228 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+228 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+228 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+229 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+229 - vassal: d_dul - Lost vassal: c_kaepul
+229 - sub vassal: d_dul - Lost vassal: c_kaepul
+229 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+229 - vassal: d_dul - Gained vassal: c_kaepul
+229 - sub vassal: d_dul - Gained vassal: c_kaepul
+229 - vassal: d_dul - Gained vassal: c_kaepul
+229 - sub vassal: d_dul - Gained vassal: c_kaepul
+229 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+229 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+229 - vassal: d_dul - Lost vassal: c_enba
+229 - sub vassal: d_dul - Lost vassal: c_enba
+229 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+229 - vassal: d_dul - Gained vassal: c_enba
+229 - sub vassal: d_dul - Gained vassal: c_enba
+229 - vassal: d_dul - Gained vassal: c_enba
+229 - sub vassal: d_dul - Gained vassal: c_enba
+229 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+229 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+229 - vassal: d_dul - Lost vassal: c_latul
+229 - sub vassal: d_dul - Lost vassal: c_latul
+229 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+229 - vassal: d_dul - Gained vassal: c_latul
+229 - sub vassal: d_dul - Gained vassal: c_latul
+229 - vassal: d_dul - Gained vassal: c_latul
+229 - sub vassal: d_dul - Gained vassal: c_latul
+229 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+229 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+229 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+230 - vassal: d_tetse - Holder 1004254 - Primary title: d_tetse has lost the title: d_tetse
+230 - sub vassal: d_tetse - Holder 1004254 - Primary title: d_tetse has lost the title: d_tetse
+230 - vassal: d_tetse - Title given to 1004254
+230 - sub vassal: d_tetse - Title given to 1004254
+230 - sub vassal: c_kahans - Holder 1004254 - Primary title: c_kahans has lost the title: c_kahans
+230 - sub vassal: c_kahans - Title given to 1004254 - Primary title: d_tetse
+230 - vassal: d_tetse - Holder (1004254) has gained c_kahans
+230 - sub vassal: d_tetse - Holder (1004254) has gained c_kahans
+230 - sub vassal: c_wuisre - Holder 1004254 - Primary title: c_wuisre has lost the title: c_wuisre
+230 - sub vassal: c_wuisre - Title given to 1004254 - Primary title: d_tetse
+230 - vassal: d_tetse - Holder (1004254) has gained c_wuisre
+230 - sub vassal: d_tetse - Holder (1004254) has gained c_wuisre
+230 - sub vassal: c_elans - Holder 1004254 - Primary title: c_elans has lost the title: c_elans
+230 - sub vassal: c_elans - Title given to 1004254 - Primary title: d_tetse
+230 - vassal: d_tetse - Holder (1004254) has gained c_elans
+230 - sub vassal: d_tetse - Holder (1004254) has gained c_elans
+230 - vassal: d_dul - Holder 1002454 - Primary title: d_dul has lost the title: d_dul
+230 - sub vassal: d_dul - Holder 1002454 - Primary title: d_dul has lost the title: d_dul
+230 - vassal: d_dul - Title given to 1002454
+230 - sub vassal: d_dul - Title given to 1002454
+230 - sub vassal: c_kaepul - Setting to vassal of d_nadin in Validate Realm
+230 - vassal: d_dul - Lost vassal: c_kaepul
+230 - sub vassal: d_dul - Lost vassal: c_kaepul
+230 - sub vassal: c_enba - Setting to vassal of d_nadin in Validate Realm
+230 - vassal: d_dul - Lost vassal: c_enba
+230 - sub vassal: d_dul - Lost vassal: c_enba
+230 - sub vassal: c_latul - Setting to vassal of d_nadin in Validate Realm
+230 - vassal: d_dul - Lost vassal: c_latul
+230 - sub vassal: d_dul - Lost vassal: c_latul
+230 - vassal: d_nadin - Gained vassal: c_latul
+230 - sub vassal: d_nadin - Gained vassal: c_latul
+230 - vassal: d_nadin - Gained vassal: c_enba
+230 - sub vassal: d_nadin - Gained vassal: c_enba
+230 - vassal: d_nadin - Gained vassal: c_kaepul
+230 - sub vassal: d_nadin - Gained vassal: c_kaepul
+230 - vassal: d_nadin - Holder 1002454 - Primary title: d_nadin has lost the title: d_nadin
+230 - sub vassal: d_nadin - Holder 1002454 - Primary title: d_nadin has lost the title: d_nadin
+230 - vassal: d_nadin - Title given to 1002454 - Primary title: d_dul
+230 - sub vassal: d_nadin - Title given to 1002454 - Primary title: d_dul
+230 - vassal: d_dul - Holder (1002454) has gained d_nadin
+230 - sub vassal: d_dul - Holder (1002454) has gained d_nadin
+230 - sub vassal: c_kaepul - Holder 1002454 - Primary title: c_kaepul has lost the title: c_kaepul
+230 - sub vassal: c_kaepul - Title given to 1002454 - Primary title: d_dul
+230 - vassal: d_dul - Holder (1002454) has gained c_kaepul
+230 - sub vassal: d_dul - Holder (1002454) has gained c_kaepul
+230 - sub vassal: c_enba - Holder 1002454 - Primary title: c_enba has lost the title: c_enba
+230 - sub vassal: c_enba - Title given to 1002454 - Primary title: d_dul
+230 - vassal: d_dul - Holder (1002454) has gained c_enba
+230 - sub vassal: d_dul - Holder (1002454) has gained c_enba
+230 - sub vassal: c_latul - Holder 1002454 - Primary title: c_latul has lost the title: c_latul
+230 - sub vassal: c_latul - Title given to 1002454 - Primary title: d_dul
+230 - vassal: d_dul - Holder (1002454) has gained c_latul
+230 - sub vassal: d_dul - Holder (1002454) has gained c_latul
+230 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+230 - vassal: d_nadin - Lost vassal: c_kaepul
+230 - sub vassal: d_nadin - Lost vassal: c_kaepul
+230 - sub vassal: c_kaepul - Setting to vassal of d_dul in Validate Realm
+230 - vassal: d_dul - Gained vassal: c_kaepul
+230 - sub vassal: d_dul - Gained vassal: c_kaepul
+230 - vassal: d_dul - Gained vassal: c_kaepul
+230 - sub vassal: d_dul - Gained vassal: c_kaepul
+230 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+230 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+230 - vassal: d_nadin - Lost vassal: c_enba
+230 - sub vassal: d_nadin - Lost vassal: c_enba
+230 - sub vassal: c_enba - Setting to vassal of d_dul in Validate Realm
+230 - vassal: d_dul - Gained vassal: c_enba
+230 - sub vassal: d_dul - Gained vassal: c_enba
+230 - vassal: d_dul - Gained vassal: c_enba
+230 - sub vassal: d_dul - Gained vassal: c_enba
+230 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+230 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+230 - vassal: d_nadin - Lost vassal: c_latul
+230 - sub vassal: d_nadin - Lost vassal: c_latul
+230 - sub vassal: c_latul - Setting to vassal of d_dul in Validate Realm
+230 - vassal: d_dul - Gained vassal: c_latul
+230 - sub vassal: d_dul - Gained vassal: c_latul
+230 - vassal: d_dul - Gained vassal: c_latul
+230 - sub vassal: d_dul - Gained vassal: c_latul
+230 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+230 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+230 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+231 - vassal: d_dul - Destroyed due to no capital's obtainable
+231 - sub vassal: d_dul - Destroyed due to no capital's obtainable
+231 - vassal: d_dul - Made independent
+231 - sub vassal: d_dul - Made independent
+231 - sub vassal: c_latul - Setting liege to this liege in SoftDestroy
+231 - sub vassal: c_kaepul - Setting to vassal of d_nadin in Validate Realm
+231 - sub vassal: c_enba - Setting to vassal of d_nadin in Validate Realm
+231 - vassal: c_latul - Setting to vassal of d_nadin in Validate Realm
+231 - sub vassal: c_latul - Setting to vassal of d_nadin in Validate Realm
+231 - Lost vassal: c_latul
+231 - vassal: d_nadin - Gained vassal: c_latul
+231 - sub vassal: d_nadin - Gained vassal: c_latul
+231 - vassal: d_nadin - Gained vassal: c_enba
+231 - sub vassal: d_nadin - Gained vassal: c_enba
+231 - vassal: d_nadin - Gained vassal: c_kaepul
+231 - sub vassal: d_nadin - Gained vassal: c_kaepul
+231 - vassal: d_nadin - Gained vassal: c_latul
+231 - sub vassal: d_nadin - Gained vassal: c_latul
+231 - sub vassal: c_enba - Setting liege to this liege in SoftDestroy
+231 - vassal: d_nadin - Lost vassal: c_enba
+231 - sub vassal: d_nadin - Lost vassal: c_enba
+231 - vassal: c_enba - Setting to vassal of d_nadin in Validate Realm
+231 - sub vassal: c_enba - Setting to vassal of d_nadin in Validate Realm
+231 - Lost vassal: c_enba
+231 - vassal: d_nadin - Gained vassal: c_enba
+231 - sub vassal: d_nadin - Gained vassal: c_enba
+231 - vassal: d_nadin - Gained vassal: c_enba
+231 - sub vassal: d_nadin - Gained vassal: c_enba
+231 - sub vassal: c_kaepul - Setting liege to this liege in SoftDestroy
+231 - vassal: d_nadin - Lost vassal: c_kaepul
+231 - sub vassal: d_nadin - Lost vassal: c_kaepul
+231 - vassal: c_kaepul - Setting to vassal of d_nadin in Validate Realm
+231 - sub vassal: c_kaepul - Setting to vassal of d_nadin in Validate Realm
+231 - Lost vassal: c_kaepul
+231 - vassal: d_nadin - Gained vassal: c_kaepul
+231 - sub vassal: d_nadin - Gained vassal: c_kaepul
+231 - vassal: d_nadin - Gained vassal: c_kaepul
+231 - sub vassal: d_nadin - Gained vassal: c_kaepul
+231 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+231 - vassal: d_nadin - Lost vassal: c_kaepul
+231 - sub vassal: d_nadin - Lost vassal: c_kaepul
+231 - sub vassal: c_kaepul - Setting to vassal of d_nadin in Validate Realm
+231 - vassal: d_nadin - Gained vassal: c_kaepul
+231 - sub vassal: d_nadin - Gained vassal: c_kaepul
+231 - vassal: d_nadin - Gained vassal: c_kaepul
+231 - sub vassal: d_nadin - Gained vassal: c_kaepul
+231 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+231 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+231 - vassal: d_nadin - Lost vassal: c_enba
+231 - sub vassal: d_nadin - Lost vassal: c_enba
+231 - sub vassal: c_enba - Setting to vassal of d_nadin in Validate Realm
+231 - vassal: d_nadin - Gained vassal: c_enba
+231 - sub vassal: d_nadin - Gained vassal: c_enba
+231 - vassal: d_nadin - Gained vassal: c_enba
+231 - sub vassal: d_nadin - Gained vassal: c_enba
+231 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+231 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+231 - vassal: d_nadin - Lost vassal: c_latul
+231 - sub vassal: d_nadin - Lost vassal: c_latul
+231 - sub vassal: c_latul - Setting to vassal of d_nadin in Validate Realm
+231 - vassal: d_nadin - Gained vassal: c_latul
+231 - sub vassal: d_nadin - Gained vassal: c_latul
+231 - vassal: d_nadin - Gained vassal: c_latul
+231 - sub vassal: d_nadin - Gained vassal: c_latul
+231 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+231 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+231 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+232 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+232 - vassal: d_nadin - Lost vassal: c_kaepul
+232 - sub vassal: d_nadin - Lost vassal: c_kaepul
+232 - sub vassal: c_kaepul - Setting to vassal of d_nadin in Validate Realm
+232 - vassal: d_nadin - Gained vassal: c_kaepul
+232 - sub vassal: d_nadin - Gained vassal: c_kaepul
+232 - vassal: d_nadin - Gained vassal: c_kaepul
+232 - sub vassal: d_nadin - Gained vassal: c_kaepul
+232 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+232 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+232 - vassal: d_nadin - Lost vassal: c_enba
+232 - sub vassal: d_nadin - Lost vassal: c_enba
+232 - sub vassal: c_enba - Setting to vassal of d_nadin in Validate Realm
+232 - vassal: d_nadin - Gained vassal: c_enba
+232 - sub vassal: d_nadin - Gained vassal: c_enba
+232 - vassal: d_nadin - Gained vassal: c_enba
+232 - sub vassal: d_nadin - Gained vassal: c_enba
+232 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+232 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+232 - vassal: d_nadin - Lost vassal: c_latul
+232 - sub vassal: d_nadin - Lost vassal: c_latul
+232 - sub vassal: c_latul - Setting to vassal of d_nadin in Validate Realm
+232 - vassal: d_nadin - Gained vassal: c_latul
+232 - sub vassal: d_nadin - Gained vassal: c_latul
+232 - vassal: d_nadin - Gained vassal: c_latul
+232 - sub vassal: d_nadin - Gained vassal: c_latul
+232 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+232 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+232 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+233 - vassal: d_wara - Holder 1000510 - Primary title: d_wara has lost the title: d_wara
+233 - sub vassal: d_wara - Holder 1000510 - Primary title: d_wara has lost the title: d_wara
+233 - vassal: d_wara - Title given to 1000510 - Primary title: d_latiel
+233 - sub vassal: d_wara - Title given to 1000510 - Primary title: d_latiel
+233 - vassal: d_latiel - Holder (1000510) has gained d_wara
+233 - sub vassal: d_latiel - Holder (1000510) has gained d_wara
+233 - sub vassal: c_averina - Holder 1000510 - Primary title: c_averina has lost the title: c_averina
+233 - sub vassal: c_averina - Title given to 1000510 - Primary title: d_latiel
+233 - vassal: d_latiel - Holder (1000510) has gained c_averina
+233 - sub vassal: d_latiel - Holder (1000510) has gained c_averina
+233 - sub vassal: c_baha - Holder 1000510 - Primary title: c_baha has lost the title: c_baha
+233 - sub vassal: c_baha - Title given to 1000510 - Primary title: d_latiel
+233 - vassal: d_latiel - Holder (1000510) has gained c_baha
+233 - sub vassal: d_latiel - Holder (1000510) has gained c_baha
+233 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+233 - vassal: d_nadin - Lost vassal: c_kaepul
+233 - sub vassal: d_nadin - Lost vassal: c_kaepul
+233 - sub vassal: c_kaepul - Setting to vassal of d_nadin in Validate Realm
+233 - vassal: d_nadin - Gained vassal: c_kaepul
+233 - sub vassal: d_nadin - Gained vassal: c_kaepul
+233 - vassal: d_nadin - Gained vassal: c_kaepul
+233 - sub vassal: d_nadin - Gained vassal: c_kaepul
+233 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+233 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+233 - vassal: d_nadin - Lost vassal: c_enba
+233 - sub vassal: d_nadin - Lost vassal: c_enba
+233 - sub vassal: c_enba - Setting to vassal of d_nadin in Validate Realm
+233 - vassal: d_nadin - Gained vassal: c_enba
+233 - sub vassal: d_nadin - Gained vassal: c_enba
+233 - vassal: d_nadin - Gained vassal: c_enba
+233 - sub vassal: d_nadin - Gained vassal: c_enba
+233 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+233 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+233 - vassal: d_nadin - Lost vassal: c_latul
+233 - sub vassal: d_nadin - Lost vassal: c_latul
+233 - sub vassal: c_latul - Setting to vassal of d_nadin in Validate Realm
+233 - vassal: d_nadin - Gained vassal: c_latul
+233 - sub vassal: d_nadin - Gained vassal: c_latul
+233 - vassal: d_nadin - Gained vassal: c_latul
+233 - sub vassal: d_nadin - Gained vassal: c_latul
+233 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+233 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+233 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+234 - sub vassal: c_kaepul - Made vassal of neighbour (k_seateas) due to being a seperate island
+234 - vassal: d_nadin - Lost vassal: c_kaepul
+234 - sub vassal: d_nadin - Lost vassal: c_kaepul
+234 - sub vassal: c_kaepul - Setting to vassal of d_nadin in Validate Realm
+234 - vassal: d_nadin - Gained vassal: c_kaepul
+234 - sub vassal: d_nadin - Gained vassal: c_kaepul
+234 - vassal: d_nadin - Gained vassal: c_kaepul
+234 - sub vassal: d_nadin - Gained vassal: c_kaepul
+234 - sub vassal: c_kaepul - Given to neighbour holder of k_seateas
+234 - sub vassal: c_enba - Made vassal of neighbour (k_seateas) due to being a seperate island
+234 - vassal: d_nadin - Lost vassal: c_enba
+234 - sub vassal: d_nadin - Lost vassal: c_enba
+234 - sub vassal: c_enba - Setting to vassal of d_nadin in Validate Realm
+234 - vassal: d_nadin - Gained vassal: c_enba
+234 - sub vassal: d_nadin - Gained vassal: c_enba
+234 - vassal: d_nadin - Gained vassal: c_enba
+234 - sub vassal: d_nadin - Gained vassal: c_enba
+234 - sub vassal: c_enba - Given to neighbour holder of k_seateas
+234 - sub vassal: c_latul - Made vassal of neighbour (k_seateas) due to being a seperate island
+234 - vassal: d_nadin - Lost vassal: c_latul
+234 - sub vassal: d_nadin - Lost vassal: c_latul
+234 - sub vassal: c_latul - Setting to vassal of d_nadin in Validate Realm
+234 - vassal: d_nadin - Gained vassal: c_latul
+234 - sub vassal: d_nadin - Gained vassal: c_latul
+234 - vassal: d_nadin - Gained vassal: c_latul
+234 - sub vassal: d_nadin - Gained vassal: c_latul
+234 - sub vassal: c_latul - Given to neighbour holder of k_seateas
+234 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+234 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+235 - vassal: d_nadin - Holder (1002454) has gained d_dul
+235 - sub vassal: d_nadin - Holder (1002454) has gained d_dul
+235 - Gained vassal: d_dul
+235 - vassal: d_dul - Made independent for title creation d_dul for d_nadin
+235 - sub vassal: d_dul - Made independent for title creation d_dul for d_nadin
+235 - vassal: d_dul - Made independent
+235 - sub vassal: d_dul - Made independent
+235 - sub vassal: c_kaepul - Set liege on title creation d_dul
+235 - vassal: d_nadin - Lost vassal: c_kaepul
+235 - sub vassal: d_nadin - Lost vassal: c_kaepul
+235 - sub vassal: c_enba - Set liege on title creation d_dul
+235 - vassal: d_nadin - Lost vassal: c_enba
+235 - sub vassal: d_nadin - Lost vassal: c_enba
+235 - sub vassal: c_latul - Set liege on title creation d_dul
+235 - vassal: d_nadin - Lost vassal: c_latul
+235 - sub vassal: d_nadin - Lost vassal: c_latul
+235 - sub vassal: c_latul - Setting independent due to liege destruction
+235 - sub vassal: c_latul - Made independent
+235 - sub vassal: c_kaepul - Setting independent due to liege destruction
+235 - sub vassal: c_kaepul - Made independent
+235 - sub vassal: c_enba - Setting independent due to liege destruction
+235 - sub vassal: c_enba - Made independent
+235 - vassal: d_nadin - Holder 1000791 - Primary title: d_nadin has lost the title: c_kaepul
+235 - sub vassal: d_nadin - Holder 1000791 - Primary title: d_nadin has lost the title: c_kaepul
+235 - vassal: d_nadin - Holder 1000791 - Primary title: d_nadin has lost the title: c_enba
+235 - sub vassal: d_nadin - Holder 1000791 - Primary title: d_nadin has lost the title: c_enba
+235 - vassal: d_nadin - Holder 1000791 - Primary title: d_nadin has lost the title: c_latul
+235 - sub vassal: d_nadin - Holder 1000791 - Primary title: d_nadin has lost the title: c_latul
+235 - sub vassal: c_wyati - Made vassal of neighbour (k_seateas) due to being a seperate island
+235 - sub vassal: c_wyati - Given to neighbour holder of k_seateas
+236 - sub vassal: c_wyati - Made vassal of neighbour (k_tyawille) due to being a seperate island
+236 - sub vassal: c_wyati - Given to neighbour holder of k_tyawille
+237 - vassal: d_wara - Holder 1002834 - Primary title: d_wara has lost the title: d_latiel
+237 - sub vassal: d_wara - Holder 1002834 - Primary title: d_wara has lost the title: d_latiel
+237 - vassal: d_latiel - Title given to 1002834
+237 - sub vassal: d_latiel - Title given to 1002834
+237 - sub vassal: c_kair - Setting to vassal of d_wara in Validate Realm
+237 - vassal: d_latiel - Lost vassal: c_kair
+237 - sub vassal: d_latiel - Lost vassal: c_kair
+237 - sub vassal: c_weorge - Setting to vassal of d_wara in Validate Realm
+237 - vassal: d_latiel - Lost vassal: c_weorge
+237 - sub vassal: d_latiel - Lost vassal: c_weorge
+237 - vassal: d_wara - Gained vassal: c_weorge
+237 - sub vassal: d_wara - Gained vassal: c_weorge
+237 - vassal: d_wara - Gained vassal: c_kair
+237 - sub vassal: d_wara - Gained vassal: c_kair
+237 - vassal: d_wara - Holder 1002834 - Primary title: d_wara has lost the title: c_kair
+237 - sub vassal: d_wara - Holder 1002834 - Primary title: d_wara has lost the title: c_kair
+237 - sub vassal: c_kair - Title given to 1002834 - Primary title: d_latiel
+237 - vassal: d_latiel - Holder (1002834) has gained c_kair
+237 - sub vassal: d_latiel - Holder (1002834) has gained c_kair
+237 - sub vassal: c_kair - Setting to vassal of d_latiel in Validate Realm
+237 - vassal: d_wara - Lost vassal: c_kair
+237 - sub vassal: d_wara - Lost vassal: c_kair
+237 - vassal: d_latiel - Gained vassal: c_kair
+237 - sub vassal: d_latiel - Gained vassal: c_kair
+237 - vassal: d_wara - Holder 1002834 - Primary title: d_wara has lost the title: c_weorge
+237 - sub vassal: d_wara - Holder 1002834 - Primary title: d_wara has lost the title: c_weorge
+237 - sub vassal: c_weorge - Title given to 1002834 - Primary title: d_latiel
+237 - vassal: d_latiel - Holder (1002834) has gained c_weorge
+237 - sub vassal: d_latiel - Holder (1002834) has gained c_weorge
+237 - sub vassal: c_weorge - Setting to vassal of d_latiel in Validate Realm
+237 - vassal: d_wara - Lost vassal: c_weorge
+237 - sub vassal: d_wara - Lost vassal: c_weorge
+237 - vassal: d_latiel - Gained vassal: c_weorge
+237 - sub vassal: d_latiel - Gained vassal: c_weorge
+237 - vassal: d_wara - Holder 1002834 - Primary title: d_wara has lost the title: d_wara
+237 - sub vassal: d_wara - Holder 1002834 - Primary title: d_wara has lost the title: d_wara
+237 - vassal: d_wara - Title given to 1002834 - Primary title: d_latiel
+237 - sub vassal: d_wara - Title given to 1002834 - Primary title: d_latiel
+237 - vassal: d_latiel - Holder (1002834) has gained d_wara
+237 - sub vassal: d_latiel - Holder (1002834) has gained d_wara
+237 - sub vassal: c_averina - Holder 1002834 - Primary title: c_averina has lost the title: c_averina
+237 - sub vassal: c_averina - Title given to 1002834 - Primary title: d_latiel
+237 - vassal: d_latiel - Holder (1002834) has gained c_averina
+237 - sub vassal: d_latiel - Holder (1002834) has gained c_averina
+237 - sub vassal: c_baha - Holder 1002834 - Primary title: c_baha has lost the title: c_baha
+237 - sub vassal: c_baha - Title given to 1002834 - Primary title: d_latiel
+237 - vassal: d_latiel - Holder (1002834) has gained c_baha
+237 - sub vassal: d_latiel - Holder (1002834) has gained c_baha
+237 - sub vassal: c_wyati - Made vassal of neighbour (k_tyawille) due to being a seperate island
+237 - sub vassal: c_wyati - Given to neighbour holder of k_tyawille
+238 - sub vassal: c_wyati - Made vassal of neighbour (k_tyawille) due to being a seperate island
+238 - sub vassal: c_wyati - Given to neighbour holder of k_tyawille
+239 - sub vassal: c_wyati - Made vassal of neighbour (k_tyawille) due to being a seperate island
+239 - sub vassal: c_wyati - Given to neighbour holder of k_tyawille
+240 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+240 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+241 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+241 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+242 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+242 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+243 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+243 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+244 - vassal: d_tetse - Holder 1002454 - Primary title: d_tetse has lost the title: d_tetse
+244 - sub vassal: d_tetse - Holder 1002454 - Primary title: d_tetse has lost the title: d_tetse
+244 - vassal: d_tetse - Title given to 1002454 - Primary title: d_nadin
+244 - sub vassal: d_tetse - Title given to 1002454 - Primary title: d_nadin
+244 - vassal: d_nadin - Holder (1002454) has gained d_tetse
+244 - sub vassal: d_nadin - Holder (1002454) has gained d_tetse
+244 - sub vassal: c_elans - Holder 1002454 - Primary title: c_elans has lost the title: c_elans
+244 - sub vassal: c_elans - Title given to 1002454 - Primary title: d_nadin
+244 - vassal: d_nadin - Holder (1002454) has gained c_elans
+244 - sub vassal: d_nadin - Holder (1002454) has gained c_elans
+244 - sub vassal: c_wuisre - Holder 1002454 - Primary title: c_wuisre has lost the title: c_wuisre
+244 - sub vassal: c_wuisre - Title given to 1002454 - Primary title: d_nadin
+244 - vassal: d_nadin - Holder (1002454) has gained c_wuisre
+244 - sub vassal: d_nadin - Holder (1002454) has gained c_wuisre
+244 - sub vassal: c_kahans - Holder 1002454 - Primary title: c_kahans has lost the title: c_kahans
+244 - sub vassal: c_kahans - Title given to 1002454 - Primary title: d_nadin
+244 - vassal: d_nadin - Holder (1002454) has gained c_kahans
+244 - sub vassal: d_nadin - Holder (1002454) has gained c_kahans
+244 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+244 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+245 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+245 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+246 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+246 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+247 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+247 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+248 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+248 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+249 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+249 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+250 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+250 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+251 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+251 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+252 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+252 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+253 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+253 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+254 - vassal: d_relia - Holder 1004407 - Primary title: d_relia has lost the title: d_relia
+254 - sub vassal: d_relia - Holder 1004407 - Primary title: d_relia has lost the title: d_relia
+254 - vassal: d_relia - Title given to 1004407
+254 - sub vassal: d_relia - Title given to 1004407
+254 - sub vassal: c_watolir - Holder 1004407 - Primary title: c_watolir has lost the title: c_watolir
+254 - sub vassal: c_watolir - Title given to 1004407 - Primary title: d_relia
+254 - vassal: d_relia - Holder (1004407) has gained c_watolir
+254 - sub vassal: d_relia - Holder (1004407) has gained c_watolir
+254 - sub vassal: c_dajnal - Holder 1004407 - Primary title: c_dajnal has lost the title: c_dajnal
+254 - sub vassal: c_dajnal - Title given to 1004407 - Primary title: d_relia
+254 - vassal: d_relia - Holder (1004407) has gained c_dajnal
+254 - sub vassal: d_relia - Holder (1004407) has gained c_dajnal
+254 - sub vassal: c_tono - Holder 1004407 - Primary title: c_tono has lost the title: c_tono
+254 - sub vassal: c_tono - Title given to 1004407 - Primary title: d_relia
+254 - vassal: d_relia - Holder (1004407) has gained c_tono
+254 - sub vassal: d_relia - Holder (1004407) has gained c_tono
+254 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+254 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+255 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+255 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+256 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+256 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+256 - Holder 1004443 - Primary title: k_reatib has lost the title: k_reatib
+256 - Title given to 1004443
+256 - vassal: d_lescougu - Holder 1004443 - Primary title: d_lescougu has lost the title: c_doukh
+256 - sub vassal: d_lescougu - Holder 1004443 - Primary title: d_lescougu has lost the title: c_doukh
+256 - sub vassal: c_doukh - Title given to 1004443 - Primary title: k_reatib
+256 - Holder (1004443) has gained c_doukh
+256 - sub vassal: c_doukh - Setting to vassal of k_reatib in Validate Realm
+256 - vassal: d_lescougu - Lost vassal: c_doukh
+256 - sub vassal: d_lescougu - Lost vassal: c_doukh
+256 - Gained vassal: c_doukh
+256 - vassal: d_lescougu - Holder 1004443 - Primary title: d_lescougu has lost the title: c_rib
+256 - sub vassal: d_lescougu - Holder 1004443 - Primary title: d_lescougu has lost the title: c_rib
+256 - sub vassal: c_rib - Title given to 1004443 - Primary title: k_reatib
+256 - Holder (1004443) has gained c_rib
+256 - sub vassal: c_rib - Setting to vassal of k_reatib in Validate Realm
+256 - vassal: d_lescougu - Lost vassal: c_rib
+256 - sub vassal: d_lescougu - Lost vassal: c_rib
+256 - Gained vassal: c_rib
+256 - vassal: d_lescougu - Holder 1004443 - Primary title: d_lescougu has lost the title: c_wyati
+256 - sub vassal: d_lescougu - Holder 1004443 - Primary title: d_lescougu has lost the title: c_wyati
+256 - sub vassal: c_wyati - Title given to 1004443 - Primary title: k_reatib
+256 - Holder (1004443) has gained c_wyati
+256 - sub vassal: c_wyati - Setting to vassal of k_reatib in Validate Realm
+256 - vassal: d_lescougu - Lost vassal: c_wyati
+256 - sub vassal: d_lescougu - Lost vassal: c_wyati
+256 - Gained vassal: c_wyati
+256 - vassal: d_lescougu - Holder 1004443 - Primary title: d_lescougu has lost the title: d_lescougu
+256 - sub vassal: d_lescougu - Holder 1004443 - Primary title: d_lescougu has lost the title: d_lescougu
+256 - vassal: d_lescougu - Title given to 1004443 - Primary title: k_reatib
+256 - sub vassal: d_lescougu - Title given to 1004443 - Primary title: k_reatib
+256 - Holder (1004443) has gained d_lescougu
+257 - vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+257 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+257 - vassal: c_wyati - Given to neighbour holder of k_tuyasar
+257 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+258 - vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+258 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+258 - vassal: c_wyati - Given to neighbour holder of k_tuyasar
+258 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+259 - vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+259 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+259 - vassal: c_wyati - Given to neighbour holder of k_tuyasar
+259 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+259 - Holder 1006747 - Primary title: k_reatib has lost the title: k_reatib
+259 - Title given to 1006747
+259 - vassal: d_lescougu - Holder 1006747 - Primary title: d_lescougu has lost the title: c_doukh
+259 - sub vassal: d_lescougu - Holder 1006747 - Primary title: d_lescougu has lost the title: c_doukh
+259 - vassal: c_doukh - Title given to 1006747 - Primary title: k_reatib
+259 - sub vassal: c_doukh - Title given to 1006747 - Primary title: k_reatib
+259 - Holder (1006747) has gained c_doukh
+259 - vassal: c_rib - Setting to vassal of d_lescougu in Validate Realm
+259 - sub vassal: c_rib - Setting to vassal of d_lescougu in Validate Realm
+259 - Lost vassal: c_rib
+259 - vassal: c_wyati - Setting to vassal of d_lescougu in Validate Realm
+259 - sub vassal: c_wyati - Setting to vassal of d_lescougu in Validate Realm
+259 - Lost vassal: c_wyati
+259 - vassal: d_lescougu - Gained vassal: c_wyati
+259 - sub vassal: d_lescougu - Gained vassal: c_wyati
+259 - vassal: d_lescougu - Gained vassal: c_rib
+259 - sub vassal: d_lescougu - Gained vassal: c_rib
+259 - vassal: d_lescougu - Holder 1006747 - Primary title: d_lescougu has lost the title: c_rib
+259 - sub vassal: d_lescougu - Holder 1006747 - Primary title: d_lescougu has lost the title: c_rib
+259 - sub vassal: c_rib - Title given to 1006747 - Primary title: k_reatib
+259 - Holder (1006747) has gained c_rib
+259 - sub vassal: c_rib - Setting to vassal of k_reatib in Validate Realm
+259 - vassal: d_lescougu - Lost vassal: c_rib
+259 - sub vassal: d_lescougu - Lost vassal: c_rib
+259 - Gained vassal: c_rib
+259 - vassal: d_lescougu - Holder 1006747 - Primary title: d_lescougu has lost the title: c_wyati
+259 - sub vassal: d_lescougu - Holder 1006747 - Primary title: d_lescougu has lost the title: c_wyati
+259 - sub vassal: c_wyati - Title given to 1006747 - Primary title: k_reatib
+259 - Holder (1006747) has gained c_wyati
+259 - sub vassal: c_wyati - Setting to vassal of k_reatib in Validate Realm
+259 - vassal: d_lescougu - Lost vassal: c_wyati
+259 - sub vassal: d_lescougu - Lost vassal: c_wyati
+259 - Gained vassal: c_wyati
+259 - vassal: d_lescougu - Holder 1006747 - Primary title: d_lescougu has lost the title: d_lescougu
+259 - sub vassal: d_lescougu - Holder 1006747 - Primary title: d_lescougu has lost the title: d_lescougu
+259 - vassal: d_lescougu - Title given to 1006747 - Primary title: k_reatib
+259 - sub vassal: d_lescougu - Title given to 1006747 - Primary title: k_reatib
+259 - Holder (1006747) has gained d_lescougu
+260 - vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+260 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+260 - vassal: c_wyati - Given to neighbour holder of k_tuyasar
+260 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+261 - vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+261 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+261 - vassal: c_wyati - Given to neighbour holder of k_tuyasar
+261 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+262 - vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+262 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+262 - vassal: c_wyati - Given to neighbour holder of k_tuyasar
+262 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+263 - vassal: d_wara - Holder 1005170 - Primary title: d_wara has lost the title: d_wara
+263 - sub vassal: d_wara - Holder 1005170 - Primary title: d_wara has lost the title: d_wara
+263 - vassal: d_wara - Title given to 1005170
+263 - sub vassal: d_wara - Title given to 1005170
+263 - sub vassal: c_baha - Setting to vassal of d_latiel in Validate Realm
+263 - vassal: d_wara - Lost vassal: c_baha
+263 - sub vassal: d_wara - Lost vassal: c_baha
+263 - sub vassal: c_averina - Setting to vassal of d_latiel in Validate Realm
+263 - vassal: d_wara - Lost vassal: c_averina
+263 - sub vassal: d_wara - Lost vassal: c_averina
+263 - vassal: d_latiel - Gained vassal: c_averina
+263 - sub vassal: d_latiel - Gained vassal: c_averina
+263 - vassal: d_latiel - Gained vassal: c_baha
+263 - sub vassal: d_latiel - Gained vassal: c_baha
+263 - vassal: d_latiel - Holder 1005170 - Primary title: d_latiel has lost the title: d_latiel
+263 - sub vassal: d_latiel - Holder 1005170 - Primary title: d_latiel has lost the title: d_latiel
+263 - vassal: d_latiel - Title given to 1005170 - Primary title: d_wara
+263 - sub vassal: d_latiel - Title given to 1005170 - Primary title: d_wara
+263 - vassal: d_wara - Holder (1005170) has gained d_latiel
+263 - sub vassal: d_wara - Holder (1005170) has gained d_latiel
+263 - sub vassal: c_baha - Holder 1005170 - Primary title: c_baha has lost the title: c_baha
+263 - sub vassal: c_baha - Title given to 1005170 - Primary title: d_wara
+263 - vassal: d_wara - Holder (1005170) has gained c_baha
+263 - sub vassal: d_wara - Holder (1005170) has gained c_baha
+263 - sub vassal: c_averina - Holder 1005170 - Primary title: c_averina has lost the title: c_averina
+263 - sub vassal: c_averina - Title given to 1005170 - Primary title: d_wara
+263 - vassal: d_wara - Holder (1005170) has gained c_averina
+263 - sub vassal: d_wara - Holder (1005170) has gained c_averina
+263 - sub vassal: c_weorge - Holder 1005170 - Primary title: c_weorge has lost the title: c_weorge
+263 - sub vassal: c_weorge - Title given to 1005170 - Primary title: d_wara
+263 - vassal: d_wara - Holder (1005170) has gained c_weorge
+263 - sub vassal: d_wara - Holder (1005170) has gained c_weorge
+263 - sub vassal: c_kair - Holder 1005170 - Primary title: c_kair has lost the title: c_kair
+263 - sub vassal: c_kair - Title given to 1005170 - Primary title: d_wara
+263 - vassal: d_wara - Holder (1005170) has gained c_kair
+263 - sub vassal: d_wara - Holder (1005170) has gained c_kair
+263 - vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+263 - sub vassal: c_wyati - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+263 - vassal: c_wyati - Given to neighbour holder of k_tuyasar
+263 - sub vassal: c_wyati - Given to neighbour holder of k_tuyasar
+264 - vassal: d_wara - Destroyed due to flagged problem
+264 - sub vassal: d_wara - Destroyed due to flagged problem
+264 - vassal: d_wara - Made independent
+264 - sub vassal: d_wara - Made independent
+264 - vassal: c_wyati - Made vassal of neighbour (k_tyawille) due to being a seperate island
+264 - sub vassal: c_wyati - Made vassal of neighbour (k_tyawille) due to being a seperate island
+264 - vassal: c_wyati - Given to neighbour holder of k_tyawille
+264 - sub vassal: c_wyati - Given to neighbour holder of k_tyawille
+265 - vassal: c_wyati - Made vassal of neighbour (k_tyawille) due to being a seperate island
+265 - sub vassal: c_wyati - Made vassal of neighbour (k_tyawille) due to being a seperate island
+265 - vassal: c_wyati - Given to neighbour holder of k_tyawille
+265 - sub vassal: c_wyati - Given to neighbour holder of k_tyawille
+266 - vassal: d_latiel - Holder (1005170) has gained d_wara
+266 - sub vassal: d_latiel - Holder (1005170) has gained d_wara
+266 - Gained vassal: d_wara
+266 - vassal: d_wara - Made independent for title creation d_wara for d_latiel
+266 - sub vassal: d_wara - Made independent for title creation d_wara for d_latiel
+266 - vassal: d_wara - Made independent
+266 - sub vassal: d_wara - Made independent
+266 - sub vassal: c_baha - Set liege on title creation d_wara
+266 - vassal: d_latiel - Lost vassal: c_baha
+266 - sub vassal: d_latiel - Lost vassal: c_baha
+266 - sub vassal: c_averina - Set liege on title creation d_wara
+266 - vassal: d_latiel - Lost vassal: c_averina
+266 - sub vassal: d_latiel - Lost vassal: c_averina
+266 - sub vassal: c_weorge - Set liege on title creation d_wara
+266 - vassal: d_latiel - Lost vassal: c_weorge
+266 - sub vassal: d_latiel - Lost vassal: c_weorge
+266 - sub vassal: c_kair - Set liege on title creation d_wara
+266 - vassal: d_latiel - Lost vassal: c_kair
+266 - sub vassal: d_latiel - Lost vassal: c_kair
+266 - sub vassal: c_baha - Setting independent due to liege destruction
+266 - sub vassal: c_baha - Made independent
+266 - sub vassal: c_averina - Setting independent due to liege destruction
+266 - sub vassal: c_averina - Made independent
+266 - sub vassal: c_kair - Setting independent due to liege destruction
+266 - sub vassal: c_kair - Made independent
+266 - sub vassal: c_weorge - Setting independent due to liege destruction
+266 - sub vassal: c_weorge - Made independent
+266 - vassal: d_nadin - Made vassal of neighbour (k_tyawille) due to being a seperate island
+266 - sub vassal: d_nadin - Made vassal of neighbour (k_tyawille) due to being a seperate island
+266 - Lost vassal: d_nadin
+266 - sub vassal: d_nadin - Setting independent in Validate Realm
+266 - sub vassal: d_nadin - Made independent
+266 - vassal: d_tetse - Holder 1002594 - Primary title: d_tetse has lost the title: d_nadin
+266 - sub vassal: d_tetse - Holder 1002594 - Primary title: d_tetse has lost the title: d_nadin
+266 - vassal: d_relia - Made vassal of neighbour (k_evalloth) due to being a seperate island
+266 - sub vassal: d_relia - Made vassal of neighbour (k_evalloth) due to being a seperate island
+266 - Lost vassal: d_relia
+266 - vassal: d_latiel - Holder 1006287 - Primary title: d_latiel has lost the title: c_kair
+266 - sub vassal: d_latiel - Holder 1006287 - Primary title: d_latiel has lost the title: c_kair
+266 - vassal: d_latiel - Holder 1002594 - Primary title: d_latiel has lost the title: c_baha
+266 - sub vassal: d_latiel - Holder 1002594 - Primary title: d_latiel has lost the title: c_baha
+266 - vassal: d_latiel - Holder 1002594 - Primary title: d_latiel has lost the title: c_averina
+266 - sub vassal: d_latiel - Holder 1002594 - Primary title: d_latiel has lost the title: c_averina
+266 - vassal: d_tetse - Made vassal of neighbour (k_tyawille) due to being a seperate island
+266 - sub vassal: d_tetse - Made vassal of neighbour (k_tyawille) due to being a seperate island
+266 - Lost vassal: d_tetse
+266 - vassal: d_latiel - Holder 1002594 - Primary title: d_latiel has lost the title: c_weorge
+266 - sub vassal: d_latiel - Holder 1002594 - Primary title: d_latiel has lost the title: c_weorge
+266 - vassal: c_rib - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+266 - sub vassal: c_rib - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+266 - vassal: c_rib - Given to neighbour holder of k_tuyasar
+266 - sub vassal: c_rib - Given to neighbour holder of k_tuyasar
+266 - vassal: c_doukh - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+266 - sub vassal: c_doukh - Made vassal of neighbour (k_tuyasar) due to being a seperate island
+266 - vassal: c_doukh - Given to neighbour holder of k_tuyasar
+266 - sub vassal: c_doukh - Given to neighbour holder of k_tuyasar
+267 - vassal: d_latiel - Destroyed due to flagged problem
+267 - sub vassal: d_latiel - Destroyed due to flagged problem
+267 - vassal: d_latiel - Made independent
+267 - sub vassal: d_latiel - Made independent
+267 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+267 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+267 - vassal: c_rib - Given to neighbour holder of k_tyawille
+267 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+267 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+267 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+267 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+267 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+268 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+268 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+268 - vassal: c_rib - Given to neighbour holder of k_tyawille
+268 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+268 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+268 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+268 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+268 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+269 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+269 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+269 - vassal: c_rib - Given to neighbour holder of k_tyawille
+269 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+269 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+269 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+269 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+269 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+270 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+270 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+270 - vassal: c_rib - Given to neighbour holder of k_tyawille
+270 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+270 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+270 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+270 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+270 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+271 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+271 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+271 - vassal: c_rib - Given to neighbour holder of k_tyawille
+271 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+271 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+271 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+271 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+271 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+272 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+272 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+272 - vassal: c_rib - Given to neighbour holder of k_tyawille
+272 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+272 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+272 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+272 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+272 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+273 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+273 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+273 - vassal: c_rib - Given to neighbour holder of k_tyawille
+273 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+273 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+273 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+273 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+273 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+274 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+274 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+274 - vassal: c_rib - Given to neighbour holder of k_tyawille
+274 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+274 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+274 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+274 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+274 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+275 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+275 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+275 - vassal: c_rib - Given to neighbour holder of k_tyawille
+275 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+275 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+275 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+275 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+275 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+276 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+276 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+276 - vassal: c_rib - Given to neighbour holder of k_tyawille
+276 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+276 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+276 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+276 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+276 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+277 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+277 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+277 - vassal: c_rib - Given to neighbour holder of k_tyawille
+277 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+277 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+277 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+277 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+277 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+278 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+278 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+278 - vassal: c_rib - Given to neighbour holder of k_tyawille
+278 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+278 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+278 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+278 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+278 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+279 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+279 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+279 - vassal: c_rib - Given to neighbour holder of k_tyawille
+279 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+279 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+279 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+279 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+279 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+280 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+280 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+280 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+280 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+280 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+280 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+280 - vassal: c_rib - Given to neighbour holder of k_evalloth
+280 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+281 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+281 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+281 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+281 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+281 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+281 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+281 - vassal: c_rib - Given to neighbour holder of k_evalloth
+281 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+282 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+282 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+282 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+282 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+282 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+282 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+282 - vassal: c_rib - Given to neighbour holder of k_evalloth
+282 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+283 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+283 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+283 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+283 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+283 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+283 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+283 - vassal: c_rib - Given to neighbour holder of k_evalloth
+283 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+284 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+284 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+284 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+284 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+284 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+284 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+284 - vassal: c_rib - Given to neighbour holder of k_evalloth
+284 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+285 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+285 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+285 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+285 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+285 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+285 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+285 - vassal: c_rib - Given to neighbour holder of k_evalloth
+285 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+286 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+286 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+286 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+286 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+286 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+286 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+286 - vassal: c_rib - Given to neighbour holder of k_evalloth
+286 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+287 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+287 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+287 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+287 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+287 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+287 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+287 - vassal: c_rib - Given to neighbour holder of k_evalloth
+287 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+288 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+288 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+288 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+288 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+288 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+288 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+288 - vassal: c_rib - Given to neighbour holder of k_evalloth
+288 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+289 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+289 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+289 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+289 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+289 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+289 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+289 - vassal: c_rib - Given to neighbour holder of k_evalloth
+289 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+290 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+290 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+290 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+290 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+290 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+290 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+290 - vassal: c_rib - Given to neighbour holder of k_evalloth
+290 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+291 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+291 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+291 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+291 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+291 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+291 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+291 - vassal: c_rib - Given to neighbour holder of k_evalloth
+291 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+292 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+292 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+292 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+292 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+292 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+292 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+292 - vassal: c_rib - Given to neighbour holder of k_evalloth
+292 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+293 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+293 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+293 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+293 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+293 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+293 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+293 - vassal: c_rib - Given to neighbour holder of k_evalloth
+293 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+294 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+294 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+294 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+294 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+294 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+294 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+294 - vassal: c_rib - Given to neighbour holder of k_evalloth
+294 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+295 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+295 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+295 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+295 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+295 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+295 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+295 - vassal: c_rib - Given to neighbour holder of k_evalloth
+295 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+296 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+296 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+296 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+296 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+296 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+296 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+296 - vassal: c_rib - Given to neighbour holder of k_evalloth
+296 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+297 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+297 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+297 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+297 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+297 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+297 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+297 - vassal: c_rib - Given to neighbour holder of k_evalloth
+297 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+298 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+298 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+298 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+298 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+298 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+298 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+298 - vassal: c_rib - Given to neighbour holder of k_evalloth
+298 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+299 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+299 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+299 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+299 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+299 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+299 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+299 - vassal: c_rib - Given to neighbour holder of k_evalloth
+299 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+300 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+300 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+300 - vassal: c_rib - Given to neighbour holder of k_tyawille
+300 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+300 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+300 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+300 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+300 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+301 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+301 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+301 - vassal: c_rib - Given to neighbour holder of k_tyawille
+301 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+301 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+301 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+301 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+301 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+302 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+302 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+302 - vassal: c_rib - Given to neighbour holder of k_tyawille
+302 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+302 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+302 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+302 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+302 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+303 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+303 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+303 - vassal: c_rib - Given to neighbour holder of k_tyawille
+303 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+303 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+303 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+303 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+303 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+304 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+304 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+304 - vassal: c_rib - Given to neighbour holder of k_tyawille
+304 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+304 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+304 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+304 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+304 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+305 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+305 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+305 - vassal: c_rib - Given to neighbour holder of k_tyawille
+305 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+305 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+305 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+305 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+305 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+306 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+306 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+306 - vassal: c_rib - Given to neighbour holder of k_tyawille
+306 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+306 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+306 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+306 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+306 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+306 - Holder 1007003 - Primary title: k_reatib has lost the title: k_reatib
+306 - Title given to 1007003
+306 - vassal: d_lescougu - Holder 1007003 - Primary title: d_lescougu has lost the title: d_lescougu
+306 - sub vassal: d_lescougu - Holder 1007003 - Primary title: d_lescougu has lost the title: d_lescougu
+306 - vassal: d_lescougu - Title given to 1007003 - Primary title: k_reatib
+306 - sub vassal: d_lescougu - Title given to 1007003 - Primary title: k_reatib
+306 - Holder (1007003) has gained d_lescougu
+306 - vassal: c_wyati - Holder 1007003 - Primary title: c_wyati has lost the title: c_wyati
+306 - sub vassal: c_wyati - Holder 1007003 - Primary title: c_wyati has lost the title: c_wyati
+306 - vassal: c_wyati - Title given to 1007003 - Primary title: k_reatib
+306 - sub vassal: c_wyati - Title given to 1007003 - Primary title: k_reatib
+306 - Holder (1007003) has gained c_wyati
+306 - vassal: c_rib - Holder 1007003 - Primary title: c_rib has lost the title: c_rib
+306 - sub vassal: c_rib - Holder 1007003 - Primary title: c_rib has lost the title: c_rib
+306 - vassal: c_rib - Title given to 1007003 - Primary title: k_reatib
+306 - sub vassal: c_rib - Title given to 1007003 - Primary title: k_reatib
+306 - Holder (1007003) has gained c_rib
+306 - vassal: c_doukh - Holder 1007003 - Primary title: c_doukh has lost the title: c_doukh
+306 - sub vassal: c_doukh - Holder 1007003 - Primary title: c_doukh has lost the title: c_doukh
+306 - vassal: c_doukh - Title given to 1007003 - Primary title: k_reatib
+306 - sub vassal: c_doukh - Title given to 1007003 - Primary title: k_reatib
+306 - Holder (1007003) has gained c_doukh
+307 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+307 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+307 - vassal: c_rib - Given to neighbour holder of k_tyawille
+307 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+307 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+307 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+307 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+307 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+308 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+308 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+308 - vassal: c_rib - Given to neighbour holder of k_tyawille
+308 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+308 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+308 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+308 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+308 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+309 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+309 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+309 - vassal: c_rib - Given to neighbour holder of k_tyawille
+309 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+309 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+309 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+309 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+309 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+310 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+310 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+310 - vassal: c_rib - Given to neighbour holder of k_tyawille
+310 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+310 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+310 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+310 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+310 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+311 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+311 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+311 - vassal: c_rib - Given to neighbour holder of k_tyawille
+311 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+311 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+311 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+311 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+311 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+312 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+312 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+312 - vassal: c_rib - Given to neighbour holder of k_tyawille
+312 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+312 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+312 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+312 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+312 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+313 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+313 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+313 - vassal: c_rib - Given to neighbour holder of k_tyawille
+313 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+313 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+313 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+313 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+313 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+314 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+314 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+314 - vassal: c_rib - Given to neighbour holder of k_tyawille
+314 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+314 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+314 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+314 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+314 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+315 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+315 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+315 - vassal: c_rib - Given to neighbour holder of k_tyawille
+315 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+315 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+315 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+315 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+315 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+316 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+316 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+316 - vassal: c_rib - Given to neighbour holder of k_tyawille
+316 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+316 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+316 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+316 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+316 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+317 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+317 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+317 - vassal: c_rib - Given to neighbour holder of k_tyawille
+317 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+317 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+317 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+317 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+317 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+318 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+318 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+318 - vassal: c_rib - Given to neighbour holder of k_tyawille
+318 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+318 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+318 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+318 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+318 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+319 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+319 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+319 - vassal: c_rib - Given to neighbour holder of k_tyawille
+319 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+319 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+319 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+319 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+319 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+320 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+320 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+320 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+320 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+320 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+320 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+320 - vassal: c_rib - Given to neighbour holder of k_evalloth
+320 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+321 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+321 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+321 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+321 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+321 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+321 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+321 - vassal: c_rib - Given to neighbour holder of k_evalloth
+321 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+322 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+322 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+322 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+322 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+322 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+322 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+322 - vassal: c_rib - Given to neighbour holder of k_evalloth
+322 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+323 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+323 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+323 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+323 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+323 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+323 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+323 - vassal: c_rib - Given to neighbour holder of k_evalloth
+323 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+323 - Holder 1010590 - Primary title: k_reatib has lost the title: k_reatib
+323 - Title given to 1010590
+323 - vassal: d_lescougu - Holder 1010590 - Primary title: d_lescougu has lost the title: c_doukh
+323 - sub vassal: d_lescougu - Holder 1010590 - Primary title: d_lescougu has lost the title: c_doukh
+323 - vassal: c_doukh - Title given to 1010590 - Primary title: k_reatib
+323 - sub vassal: c_doukh - Title given to 1010590 - Primary title: k_reatib
+323 - Holder (1010590) has gained c_doukh
+323 - vassal: c_rib - Setting to vassal of d_lescougu in Validate Realm
+323 - sub vassal: c_rib - Setting to vassal of d_lescougu in Validate Realm
+323 - Lost vassal: c_rib
+323 - vassal: c_wyati - Setting to vassal of d_lescougu in Validate Realm
+323 - sub vassal: c_wyati - Setting to vassal of d_lescougu in Validate Realm
+323 - Lost vassal: c_wyati
+323 - vassal: d_lescougu - Gained vassal: c_wyati
+323 - sub vassal: d_lescougu - Gained vassal: c_wyati
+323 - vassal: d_lescougu - Gained vassal: c_rib
+323 - sub vassal: d_lescougu - Gained vassal: c_rib
+323 - vassal: d_lescougu - Holder 1010590 - Primary title: d_lescougu has lost the title: c_rib
+323 - sub vassal: d_lescougu - Holder 1010590 - Primary title: d_lescougu has lost the title: c_rib
+323 - sub vassal: c_rib - Title given to 1010590 - Primary title: k_reatib
+323 - Holder (1010590) has gained c_rib
+323 - sub vassal: c_rib - Setting to vassal of k_reatib in Validate Realm
+323 - vassal: d_lescougu - Lost vassal: c_rib
+323 - sub vassal: d_lescougu - Lost vassal: c_rib
+323 - Gained vassal: c_rib
+323 - vassal: d_lescougu - Holder 1010590 - Primary title: d_lescougu has lost the title: c_wyati
+323 - sub vassal: d_lescougu - Holder 1010590 - Primary title: d_lescougu has lost the title: c_wyati
+323 - sub vassal: c_wyati - Title given to 1010590 - Primary title: k_reatib
+323 - Holder (1010590) has gained c_wyati
+323 - sub vassal: c_wyati - Setting to vassal of k_reatib in Validate Realm
+323 - vassal: d_lescougu - Lost vassal: c_wyati
+323 - sub vassal: d_lescougu - Lost vassal: c_wyati
+323 - Gained vassal: c_wyati
+323 - vassal: d_lescougu - Holder 1010590 - Primary title: d_lescougu has lost the title: d_lescougu
+323 - sub vassal: d_lescougu - Holder 1010590 - Primary title: d_lescougu has lost the title: d_lescougu
+323 - vassal: d_lescougu - Title given to 1010590 - Primary title: k_reatib
+323 - sub vassal: d_lescougu - Title given to 1010590 - Primary title: k_reatib
+323 - Holder (1010590) has gained d_lescougu
+324 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+324 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+324 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+324 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+324 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+324 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+324 - vassal: c_rib - Given to neighbour holder of k_evalloth
+324 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+325 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+325 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+325 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+325 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+325 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+325 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+325 - vassal: c_rib - Given to neighbour holder of k_evalloth
+325 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+326 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+326 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+326 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+326 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+326 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+326 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+326 - vassal: c_rib - Given to neighbour holder of k_evalloth
+326 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+327 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+327 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+327 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+327 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+327 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+327 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+327 - vassal: c_rib - Given to neighbour holder of k_evalloth
+327 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+328 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+328 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+328 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+328 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+328 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+328 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+328 - vassal: c_rib - Given to neighbour holder of k_evalloth
+328 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+329 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+329 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+329 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+329 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+329 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+329 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+329 - vassal: c_rib - Given to neighbour holder of k_evalloth
+329 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+330 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+330 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+330 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+330 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+330 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+330 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+330 - vassal: c_rib - Given to neighbour holder of k_evalloth
+330 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+331 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+331 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+331 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+331 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+331 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+331 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+331 - vassal: c_rib - Given to neighbour holder of k_evalloth
+331 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+332 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+332 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+332 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+332 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+332 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+332 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+332 - vassal: c_rib - Given to neighbour holder of k_evalloth
+332 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+333 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+333 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+333 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+333 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+333 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+333 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+333 - vassal: c_rib - Given to neighbour holder of k_evalloth
+333 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+334 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+334 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+334 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+334 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+334 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+334 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+334 - vassal: c_rib - Given to neighbour holder of k_evalloth
+334 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+335 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+335 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+335 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+335 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+335 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+335 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+335 - vassal: c_rib - Given to neighbour holder of k_evalloth
+335 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+336 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+336 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+336 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+336 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+336 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+336 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+336 - vassal: c_rib - Given to neighbour holder of k_evalloth
+336 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+337 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+337 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+337 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+337 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+337 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+337 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+337 - vassal: c_rib - Given to neighbour holder of k_evalloth
+337 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+338 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+338 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+338 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+338 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+338 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+338 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+338 - vassal: c_rib - Given to neighbour holder of k_evalloth
+338 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+339 - vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+339 - sub vassal: c_doukh - Made vassal of neighbour (k_evalloth) due to being a seperate island
+339 - vassal: c_doukh - Given to neighbour holder of k_evalloth
+339 - sub vassal: c_doukh - Given to neighbour holder of k_evalloth
+339 - vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+339 - sub vassal: c_rib - Made vassal of neighbour (k_evalloth) due to being a seperate island
+339 - vassal: c_rib - Given to neighbour holder of k_evalloth
+339 - sub vassal: c_rib - Given to neighbour holder of k_evalloth
+340 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+340 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+340 - vassal: c_rib - Given to neighbour holder of k_tyawille
+340 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+340 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+340 - sub vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+340 - vassal: c_doukh - Given to neighbour holder of k_tyawille
+340 - sub vassal: c_doukh - Given to neighbour holder of k_tyawille
+341 - vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+341 - sub vassal: c_rib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+341 - vassal: c_rib - Given to neighbour holder of k_tyawille
+341 - sub vassal: c_rib - Given to neighbour holder of k_tyawille
+341 - vassal: c_doukh - Made vassal of neighbour (k_tyawille) due to being a seperate island
+341 - sub vassal: c_d

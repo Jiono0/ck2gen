@@ -1,0 +1,860 @@
+200 - Title given to 1001481
+200 - vassal: d_edond - Holder 1001481 - Primary title: d_edond has lost the title: d_edond
+200 - sub vassal: d_edond - Holder 1001481 - Primary title: d_edond has lost the title: d_edond
+200 - vassal: d_edond - Title given to 1001481 - Primary title: k_evalloth
+200 - sub vassal: d_edond - Title given to 1001481 - Primary title: k_evalloth
+200 - Holder (1001481) has gained d_edond
+200 - sub vassal: c_tyod - Holder 1001481 - Primary title: c_tyod has lost the title: c_tyod
+200 - sub vassal: c_tyod - Title given to 1001481 - Primary title: k_evalloth
+200 - Holder (1001481) has gained c_tyod
+202 - Holder (1001481) has gained c_bakearl
+202 - Holder 1001491 - Primary title: k_evalloth has lost the title: c_bakearl
+209 - vassal: d_tivane - Holder 1002917 - Primary title: d_tivane has lost the title: d_tivane
+209 - sub vassal: d_tivane - Holder 1002917 - Primary title: d_tivane has lost the title: d_tivane
+209 - vassal: d_tivane - Title given to 1002917
+209 - sub vassal: d_tivane - Title given to 1002917
+209 - sub vassal: c_ajilla - Holder 1002917 - Primary title: c_ajilla has lost the title: c_ajilla
+209 - sub vassal: c_ajilla - Title given to 1002917 - Primary title: d_tivane
+209 - vassal: d_tivane - Holder (1002917) has gained c_ajilla
+209 - sub vassal: d_tivane - Holder (1002917) has gained c_ajilla
+209 - sub vassal: c_nodomir - Holder 1002917 - Primary title: c_nodomir has lost the title: c_nodomir
+209 - sub vassal: c_nodomir - Title given to 1002917 - Primary title: d_tivane
+209 - vassal: d_tivane - Holder (1002917) has gained c_nodomir
+209 - sub vassal: d_tivane - Holder (1002917) has gained c_nodomir
+211 - vassal: d_nacilla - Holder 1001481 - Primary title: d_nacilla has lost the title: d_nacilla
+211 - sub vassal: d_nacilla - Holder 1001481 - Primary title: d_nacilla has lost the title: d_nacilla
+211 - vassal: d_nacilla - Title given to 1001481 - Primary title: k_evalloth
+211 - sub vassal: d_nacilla - Title given to 1001481 - Primary title: k_evalloth
+211 - Holder (1001481) has gained d_nacilla
+211 - sub vassal: c_kava - Holder 1001481 - Primary title: c_kava has lost the title: c_kava
+211 - sub vassal: c_kava - Title given to 1001481 - Primary title: k_evalloth
+211 - Holder (1001481) has gained c_kava
+211 - sub vassal: c_taepeda - Holder 1001481 - Primary title: c_taepeda has lost the title: c_taepeda
+211 - sub vassal: c_taepeda - Title given to 1001481 - Primary title: k_evalloth
+211 - Holder (1001481) has gained c_taepeda
+218 - vassal: d_kadane - Captured byk_seateas in minor war
+218 - sub vassal: d_kadane - Captured byk_seateas in minor war
+218 - Lost vassal: d_kadane
+218 - Holder (1001481) has gained c_bakearl
+219 - Holder 1001477 - Primary title: k_evalloth has lost the title: c_bakearl
+221 - sub vassal: d_kaepazsi - Setting independent in Validate Realm
+221 - sub vassal: d_kaepazsi - Made independent
+221 - Gained vassal: d_tesane
+222 - sub vassal: c_adanti - Setting independent in Validate Realm
+222 - sub vassal: c_adanti - Made independent
+222 - Gained vassal: c_ajond
+222 - vassal: c_ajond - Given to neighbour holder of k_evalloth
+222 - sub vassal: c_ajond - Given to neighbour holder of k_evalloth
+222 - vassal: c_ajond - Holder 1001481 - Primary title: c_ajond has lost the title: c_ajond
+222 - sub vassal: c_ajond - Holder 1001481 - Primary title: c_ajond has lost the title: c_ajond
+222 - vassal: c_ajond - Title given to 1001481 - Primary title: k_evalloth
+222 - sub vassal: c_ajond - Title given to 1001481 - Primary title: k_evalloth
+222 - Holder (1001481) has gained c_ajond
+222 - sub vassal: c_rib - Made vassal of neighbour (k_reatib) due to being a seperate island
+222 - sub vassal: c_tintou - Made vassal of neighbour (k_tyawille) due to being a seperate island
+222 - sub vassal: c_doukh - Made vassal of neighbour (k_reatib) due to being a seperate island
+226 - vassal: d_alezs - Holder 1002091 - Primary title: d_alezs has lost the title: d_alezs
+226 - sub vassal: d_alezs - Holder 1002091 - Primary title: d_alezs has lost the title: d_alezs
+226 - vassal: d_alezs - Title given to 1002091
+226 - sub vassal: d_alezs - Title given to 1002091
+226 - sub vassal: c_adavilia - Holder 1002091 - Primary title: c_adavilia has lost the title: c_adavilia
+226 - sub vassal: c_adavilia - Title given to 1002091 - Primary title: d_alezs
+226 - vassal: d_alezs - Holder (1002091) has gained c_adavilia
+226 - sub vassal: d_alezs - Holder (1002091) has gained c_adavilia
+226 - sub vassal: c_teinin - Holder 1002091 - Primary title: c_teinin has lost the title: c_teinin
+226 - sub vassal: c_teinin - Title given to 1002091 - Primary title: d_alezs
+226 - vassal: d_alezs - Holder (1002091) has gained c_teinin
+226 - sub vassal: d_alezs - Holder (1002091) has gained c_teinin
+233 - vassal: d_alezs - Holder 1001481 - Primary title: d_alezs has lost the title: d_alezs
+233 - sub vassal: d_alezs - Holder 1001481 - Primary title: d_alezs has lost the title: d_alezs
+233 - vassal: d_alezs - Title given to 1001481 - Primary title: k_evalloth
+233 - sub vassal: d_alezs - Title given to 1001481 - Primary title: k_evalloth
+233 - Holder (1001481) has gained d_alezs
+233 - sub vassal: c_adavilia - Holder 1001481 - Primary title: c_adavilia has lost the title: c_adavilia
+233 - sub vassal: c_adavilia - Title given to 1001481 - Primary title: k_evalloth
+233 - Holder (1001481) has gained c_adavilia
+233 - sub vassal: c_teinin - Holder 1001481 - Primary title: c_teinin has lost the title: c_teinin
+233 - sub vassal: c_teinin - Title given to 1001481 - Primary title: k_evalloth
+233 - Holder (1001481) has gained c_teinin
+233 - sub vassal: c_taepeda - Given to 1004745 in HandleTitles - Too many duke titles
+233 - Holder 1004745 - Primary title: k_evalloth has lost the title: c_taepeda
+233 - sub vassal: c_taepeda - Title given to 1004745
+233 - Holder 1004745 - Primary title: k_evalloth has lost the title: d_nacilla
+233 - vassal: d_nacilla - Title given to 1004745 - Primary title: c_taepeda
+233 - sub vassal: d_nacilla - Title given to 1004745 - Primary title: c_taepeda
+233 - sub vassal: c_taepeda - Holder (1004745) has gained d_nacilla
+233 - sub vassal: c_kava - Setting to vassal of k_evalloth in Validate Realm
+233 - vassal: d_nacilla - Lost vassal: c_kava
+233 - sub vassal: d_nacilla - Lost vassal: c_kava
+233 - Gained vassal: c_kava
+233 - vassal: d_nacilla - Too many dukes, given to dejure: k_evalloth
+233 - sub vassal: d_nacilla - Too many dukes, given to dejure: k_evalloth
+236 - vassal: d_budelen - Holder 1000558 - Primary title: d_budelen has lost the title: d_budelen
+236 - sub vassal: d_budelen - Holder 1000558 - Primary title: d_budelen has lost the title: d_budelen
+236 - vassal: d_budelen - Title given to 1000558 - Primary title: d_tesane
+236 - sub vassal: d_budelen - Title given to 1000558 - Primary title: d_tesane
+236 - vassal: d_tesane - Holder (1000558) has gained d_budelen
+236 - sub vassal: d_tesane - Holder (1000558) has gained d_budelen
+236 - sub vassal: c_larazsi - Holder 1000558 - Primary title: c_larazsi has lost the title: c_larazsi
+236 - sub vassal: c_larazsi - Title given to 1000558 - Primary title: d_tesane
+236 - vassal: d_tesane - Holder (1000558) has gained c_larazsi
+236 - sub vassal: d_tesane - Holder (1000558) has gained c_larazsi
+236 - sub vassal: c_rulezs - Holder 1000558 - Primary title: c_rulezs has lost the title: c_rulezs
+236 - sub vassal: c_rulezs - Title given to 1000558 - Primary title: d_tesane
+236 - vassal: d_tesane - Holder (1000558) has gained c_rulezs
+236 - sub vassal: d_tesane - Holder (1000558) has gained c_rulezs
+236 - sub vassal: c_kititar - Holder 1000558 - Primary title: c_kititar has lost the title: c_kititar
+236 - sub vassal: c_kititar - Title given to 1000558 - Primary title: d_tesane
+236 - vassal: d_tesane - Holder (1000558) has gained c_kititar
+236 - sub vassal: d_tesane - Holder (1000558) has gained c_kititar
+237 - vassal: d_budelen - Holder 1004996 - Primary title: d_budelen has lost the title: c_kaepetse
+237 - sub vassal: d_budelen - Holder 1004996 - Primary title: d_budelen has lost the title: c_kaepetse
+237 - sub vassal: c_kaepetse - Title given to 1004996
+237 - vassal: d_budelen - Holder 1004997 - Primary title: d_budelen has lost the title: c_dainba
+237 - sub vassal: d_budelen - Holder 1004997 - Primary title: d_budelen has lost the title: c_dainba
+237 - sub vassal: c_dainba - Title given to 1004997
+237 - vassal: d_budelen - Holder 1004998 - Primary title: d_budelen has lost the title: c_dib
+237 - sub vassal: d_budelen - Holder 1004998 - Primary title: d_budelen has lost the title: c_dib
+237 - sub vassal: c_dib - Title given to 1004998
+244 - Holder 1000558 - Primary title: k_evalloth has lost the title: k_evalloth
+244 - Title given to 1000558 - Primary title: d_tesane
+244 - vassal: d_tesane - Holder (1000558) has gained k_evalloth
+244 - sub vassal: d_tesane - Holder (1000558) has gained k_evalloth
+244 - vassal: c_ajond - Setting to vassal of d_edond in Validate Realm
+244 - sub vassal: c_ajond - Setting to vassal of d_edond in Validate Realm
+244 - Lost vassal: c_ajond
+244 - vassal: c_kava - Setting to vassal of d_edond in Validate Realm
+244 - sub vassal: c_kava - Setting to vassal of d_edond in Validate Realm
+244 - Lost vassal: c_kava
+244 - vassal: d_edond - Gained vassal: c_kava
+244 - sub vassal: d_edond - Gained vassal: c_kava
+244 - vassal: d_edond - Gained vassal: c_ajond
+244 - sub vassal: d_edond - Gained vassal: c_ajond
+244 - vassal: d_edond - Holder 1000558 - Primary title: d_edond has lost the title: d_edond
+244 - sub vassal: d_edond - Holder 1000558 - Primary title: d_edond has lost the title: d_edond
+244 - vassal: d_edond - Title given to 1000558 - Primary title: k_evalloth
+244 - sub vassal: d_edond - Title given to 1000558 - Primary title: k_evalloth
+244 - Holder (1000558) has gained d_edond
+244 - sub vassal: c_ajond - Setting to vassal of d_alezs in Validate Realm
+244 - vassal: d_edond - Lost vassal: c_ajond
+244 - sub vassal: d_edond - Lost vassal: c_ajond
+244 - sub vassal: c_tyod - Setting to vassal of d_alezs in Validate Realm
+244 - vassal: d_edond - Lost vassal: c_tyod
+244 - sub vassal: d_edond - Lost vassal: c_tyod
+244 - sub vassal: c_kava - Setting to vassal of d_alezs in Validate Realm
+244 - vassal: d_edond - Lost vassal: c_kava
+244 - sub vassal: d_edond - Lost vassal: c_kava
+244 - vassal: d_alezs - Gained vassal: c_kava
+244 - sub vassal: d_alezs - Gained vassal: c_kava
+244 - vassal: d_alezs - Gained vassal: c_tyod
+244 - sub vassal: d_alezs - Gained vassal: c_tyod
+244 - vassal: d_alezs - Gained vassal: c_ajond
+244 - sub vassal: d_alezs - Gained vassal: c_ajond
+244 - vassal: d_alezs - Holder 1000558 - Primary title: d_alezs has lost the title: d_alezs
+244 - sub vassal: d_alezs - Holder 1000558 - Primary title: d_alezs has lost the title: d_alezs
+244 - vassal: d_alezs - Title given to 1000558 - Primary title: k_evalloth
+244 - sub vassal: d_alezs - Title given to 1000558 - Primary title: k_evalloth
+244 - Holder (1000558) has gained d_alezs
+244 - sub vassal: c_teinin - Holder 1000558 - Primary title: c_teinin has lost the title: c_teinin
+244 - sub vassal: c_teinin - Title given to 1000558 - Primary title: k_evalloth
+244 - Holder (1000558) has gained c_teinin
+244 - sub vassal: c_adavilia - Holder 1000558 - Primary title: c_adavilia has lost the title: c_adavilia
+244 - sub vassal: c_adavilia - Title given to 1000558 - Primary title: k_evalloth
+244 - Holder (1000558) has gained c_adavilia
+244 - sub vassal: c_ajond - Holder 1000558 - Primary title: c_ajond has lost the title: c_ajond
+244 - sub vassal: c_ajond - Title given to 1000558 - Primary title: k_evalloth
+244 - Holder (1000558) has gained c_ajond
+244 - sub vassal: c_tyod - Holder 1000558 - Primary title: c_tyod has lost the title: c_tyod
+244 - sub vassal: c_tyod - Title given to 1000558 - Primary title: k_evalloth
+244 - Holder (1000558) has gained c_tyod
+244 - sub vassal: c_kava - Holder 1000558 - Primary title: c_kava has lost the title: c_kava
+244 - sub vassal: c_kava - Title given to 1000558 - Primary title: k_evalloth
+244 - Holder (1000558) has gained c_kava
+245 - sub vassal: c_rulezs - Given to 1005669 in HandleTitles - Too many duke titles
+245 - Holder 1005669 - Primary title: k_evalloth has lost the title: c_rulezs
+245 - sub vassal: c_rulezs - Title given to 1005669
+245 - Holder 1005669 - Primary title: k_evalloth has lost the title: d_budelen
+245 - vassal: d_budelen - Title given to 1005669 - Primary title: c_rulezs
+245 - sub vassal: d_budelen - Title given to 1005669 - Primary title: c_rulezs
+245 - sub vassal: c_rulezs - Holder (1005669) has gained d_budelen
+245 - sub vassal: c_kititar - Setting to vassal of k_evalloth in Validate Realm
+245 - vassal: d_budelen - Lost vassal: c_kititar
+245 - sub vassal: d_budelen - Lost vassal: c_kititar
+245 - sub vassal: c_larazsi - Setting to vassal of k_evalloth in Validate Realm
+245 - vassal: d_budelen - Lost vassal: c_larazsi
+245 - sub vassal: d_budelen - Lost vassal: c_larazsi
+245 - Gained vassal: c_larazsi
+245 - Gained vassal: c_kititar
+245 - vassal: d_budelen - Too many dukes, given to dejure: k_evalloth
+245 - sub vassal: d_budelen - Too many dukes, given to dejure: k_evalloth
+245 - sub vassal: c_kaepetse - Given to 1005670 in HandleTitles - Too many duke titles
+245 - sub vassal: c_kaepetse - Holder 1005670 - Primary title: c_kaepetse has lost the title: c_kaepetse
+245 - sub vassal: c_kaepetse - Title given to 1005670
+245 - Holder 1005670 - Primary title: k_evalloth has lost the title: d_tesane
+245 - vassal: d_tesane - Title given to 1005670 - Primary title: c_kaepetse
+245 - sub vassal: d_tesane - Title given to 1005670 - Primary title: c_kaepetse
+245 - sub vassal: c_kaepetse - Holder (1005670) has gained d_tesane
+245 - sub vassal: c_baepomir - Setting to vassal of k_evalloth in Validate Realm
+245 - vassal: d_tesane - Lost vassal: c_baepomir
+245 - sub vassal: d_tesane - Lost vassal: c_baepomir
+245 - sub vassal: c_riel - Setting to vassal of k_evalloth in Validate Realm
+245 - vassal: d_tesane - Lost vassal: c_riel
+245 - sub vassal: d_tesane - Lost vassal: c_riel
+245 - Gained vassal: c_riel
+245 - Gained vassal: c_baepomir
+245 - vassal: d_tesane - Too many dukes, made direct title into vassal of k_evalloth
+245 - sub vassal: d_tesane - Too many dukes, made direct title into vassal of k_evalloth
+245 - Holder 1005671 - Primary title: k_evalloth has lost the title: c_larazsi
+245 - vassal: c_larazsi - Title given to 1005671
+245 - sub vassal: c_larazsi - Title given to 1005671
+245 - Holder 1005672 - Primary title: k_evalloth has lost the title: c_riel
+245 - vassal: c_riel - Title given to 1005672
+245 - sub vassal: c_riel - Title given to 1005672
+245 - Holder 1005673 - Primary title: k_evalloth has lost the title: c_baepomir
+245 - vassal: c_baepomir - Title given to 1005673
+245 - sub vassal: c_baepomir - Title given to 1005673
+245 - Holder 1003016 - Primary title: k_evalloth has lost the title: c_kititar
+245 - vassal: c_kititar - Title given to 1003016
+245 - sub vassal: c_kititar - Title given to 1003016
+248 - vassal: d_tivane - Holder 1004186 - Primary title: d_tivane has lost the title: d_tivane
+248 - sub vassal: d_tivane - Holder 1004186 - Primary title: d_tivane has lost the title: d_tivane
+248 - vassal: d_tivane - Title given to 1004186
+248 - sub vassal: d_tivane - Title given to 1004186
+248 - sub vassal: c_ajilla - Holder 1004186 - Primary title: c_ajilla has lost the title: c_ajilla
+248 - sub vassal: c_ajilla - Title given to 1004186 - Primary title: d_tivane
+248 - vassal: d_tivane - Holder (1004186) has gained c_ajilla
+248 - sub vassal: d_tivane - Holder (1004186) has gained c_ajilla
+248 - sub vassal: c_nodomir - Holder 1004186 - Primary title: c_nodomir has lost the title: c_nodomir
+248 - sub vassal: c_nodomir - Title given to 1004186 - Primary title: d_tivane
+248 - vassal: d_tivane - Holder (1004186) has gained c_nodomir
+248 - sub vassal: d_tivane - Holder (1004186) has gained c_nodomir
+250 - Holder 1002226 - Primary title: k_evalloth has lost the title: k_evalloth
+250 - Title given to 1002226
+250 - vassal: d_edond - Holder 1002226 - Primary title: d_edond has lost the title: d_edond
+250 - sub vassal: d_edond - Holder 1002226 - Primary title: d_edond has lost the title: d_edond
+250 - vassal: d_edond - Title given to 1002226 - Primary title: k_evalloth
+250 - sub vassal: d_edond - Title given to 1002226 - Primary title: k_evalloth
+250 - Holder (1002226) has gained d_edond
+250 - vassal: d_alezs - Holder 1002226 - Primary title: d_alezs has lost the title: d_alezs
+250 - sub vassal: d_alezs - Holder 1002226 - Primary title: d_alezs has lost the title: d_alezs
+250 - vassal: d_alezs - Title given to 1002226 - Primary title: k_evalloth
+250 - sub vassal: d_alezs - Title given to 1002226 - Primary title: k_evalloth
+250 - Holder (1002226) has gained d_alezs
+250 - sub vassal: c_teinin - Holder 1002226 - Primary title: c_teinin has lost the title: c_teinin
+250 - sub vassal: c_teinin - Title given to 1002226 - Primary title: k_evalloth
+250 - Holder (1002226) has gained c_teinin
+250 - sub vassal: c_adavilia - Holder 1002226 - Primary title: c_adavilia has lost the title: c_adavilia
+250 - sub vassal: c_adavilia - Title given to 1002226 - Primary title: k_evalloth
+250 - Holder (1002226) has gained c_adavilia
+250 - sub vassal: c_ajond - Holder 1002226 - Primary title: c_ajond has lost the title: c_ajond
+250 - sub vassal: c_ajond - Title given to 1002226 - Primary title: k_evalloth
+250 - Holder (1002226) has gained c_ajond
+250 - sub vassal: c_tyod - Holder 1002226 - Primary title: c_tyod has lost the title: c_tyod
+250 - sub vassal: c_tyod - Title given to 1002226 - Primary title: k_evalloth
+250 - Holder (1002226) has gained c_tyod
+250 - sub vassal: c_kava - Holder 1002226 - Primary title: c_kava has lost the title: c_kava
+250 - sub vassal: c_kava - Title given to 1002226 - Primary title: k_evalloth
+250 - Holder (1002226) has gained c_kava
+256 - vassal: d_tivane - Holder 1002226 - Primary title: d_tivane has lost the title: d_tivane
+256 - sub vassal: d_tivane - Holder 1002226 - Primary title: d_tivane has lost the title: d_tivane
+256 - vassal: d_tivane - Title given to 1002226 - Primary title: k_evalloth
+256 - sub vassal: d_tivane - Title given to 1002226 - Primary title: k_evalloth
+256 - Holder (1002226) has gained d_tivane
+256 - sub vassal: c_ajilla - Holder 1002226 - Primary title: c_ajilla has lost the title: c_ajilla
+256 - sub vassal: c_ajilla - Title given to 1002226 - Primary title: k_evalloth
+256 - Holder (1002226) has gained c_ajilla
+256 - sub vassal: c_nodomir - Holder 1002226 - Primary title: c_nodomir has lost the title: c_nodomir
+256 - sub vassal: c_nodomir - Title given to 1002226 - Primary title: k_evalloth
+256 - Holder (1002226) has gained c_nodomir
+256 - sub vassal: c_nodomir - Given to 1006504 in HandleTitles - Too many duke titles
+256 - Holder 1006504 - Primary title: k_evalloth has lost the title: c_nodomir
+256 - sub vassal: c_nodomir - Title given to 1006504
+256 - Holder 1006504 - Primary title: k_evalloth has lost the title: d_tivane
+256 - vassal: d_tivane - Title given to 1006504 - Primary title: c_nodomir
+256 - sub vassal: d_tivane - Title given to 1006504 - Primary title: c_nodomir
+256 - sub vassal: c_nodomir - Holder (1006504) has gained d_tivane
+256 - sub vassal: c_ajilla - Setting to vassal of k_evalloth in Validate Realm
+256 - vassal: d_tivane - Lost vassal: c_ajilla
+256 - sub vassal: d_tivane - Lost vassal: c_ajilla
+256 - Gained vassal: c_ajilla
+256 - vassal: d_tivane - Too many dukes, given to dejure: k_evalloth
+256 - sub vassal: d_tivane - Too many dukes, given to dejure: k_evalloth
+256 - Holder 1006505 - Primary title: k_evalloth has lost the title: c_ajilla
+256 - vassal: c_ajilla - Title given to 1006505
+256 - sub vassal: c_ajilla - Title given to 1006505
+257 - vassal: d_tivane - Holder 1002226 - Primary title: d_tivane has lost the title: d_tivane
+257 - sub vassal: d_tivane - Holder 1002226 - Primary title: d_tivane has lost the title: d_tivane
+257 - vassal: d_tivane - Title given to 1002226 - Primary title: k_evalloth
+257 - sub vassal: d_tivane - Title given to 1002226 - Primary title: k_evalloth
+257 - Holder (1002226) has gained d_tivane
+257 - sub vassal: c_nodomir - Holder 1002226 - Primary title: c_nodomir has lost the title: c_nodomir
+257 - sub vassal: c_nodomir - Title given to 1002226 - Primary title: k_evalloth
+257 - Holder (1002226) has gained c_nodomir
+257 - sub vassal: c_ryake - Holder 1002226 - Primary title: c_ryake has lost the title: c_wacitar
+257 - sub vassal: c_wacitar - Title given to 1002226 - Primary title: k_evalloth
+257 - Holder (1002226) has gained c_wacitar
+257 - sub vassal: c_wacitar - Given to 1006583 in HandleTitles - Too many duke titles
+257 - Holder 1006583 - Primary title: k_evalloth has lost the title: c_wacitar
+257 - sub vassal: c_wacitar - Title given to 1006583
+257 - Holder 1006583 - Primary title: k_evalloth has lost the title: d_edond
+257 - vassal: d_edond - Title given to 1006583 - Primary title: c_wacitar
+257 - sub vassal: d_edond - Title given to 1006583 - Primary title: c_wacitar
+257 - sub vassal: c_wacitar - Holder (1006583) has gained d_edond
+257 - vassal: d_edond - Too many dukes, given to dejure: k_evalloth
+257 - sub vassal: d_edond - Too many dukes, given to dejure: k_evalloth
+257 - Holder 1006584 - Primary title: k_evalloth has lost the title: c_nodomir
+257 - sub vassal: c_nodomir - Title given to 1006584
+259 - Holder 1006287 - Primary title: k_evalloth has lost the title: k_evalloth
+259 - Title given to 1006287
+259 - vassal: d_alezs - Holder 1006287 - Primary title: d_alezs has lost the title: d_alezs
+259 - sub vassal: d_alezs - Holder 1006287 - Primary title: d_alezs has lost the title: d_alezs
+259 - vassal: d_alezs - Title given to 1006287 - Primary title: k_evalloth
+259 - sub vassal: d_alezs - Title given to 1006287 - Primary title: k_evalloth
+259 - Holder (1006287) has gained d_alezs
+259 - sub vassal: c_teinin - Setting to vassal of d_tivane in Validate Realm
+259 - vassal: d_alezs - Lost vassal: c_teinin
+259 - sub vassal: d_alezs - Lost vassal: c_teinin
+259 - sub vassal: c_adavilia - Setting to vassal of d_tivane in Validate Realm
+259 - vassal: d_alezs - Lost vassal: c_adavilia
+259 - sub vassal: d_alezs - Lost vassal: c_adavilia
+259 - sub vassal: c_ajond - Setting to vassal of d_tivane in Validate Realm
+259 - vassal: d_alezs - Lost vassal: c_ajond
+259 - sub vassal: d_alezs - Lost vassal: c_ajond
+259 - sub vassal: c_tyod - Setting to vassal of d_tivane in Validate Realm
+259 - vassal: d_alezs - Lost vassal: c_tyod
+259 - sub vassal: d_alezs - Lost vassal: c_tyod
+259 - sub vassal: c_kava - Setting to vassal of d_tivane in Validate Realm
+259 - vassal: d_alezs - Lost vassal: c_kava
+259 - sub vassal: d_alezs - Lost vassal: c_kava
+259 - vassal: d_tivane - Gained vassal: c_kava
+259 - sub vassal: d_tivane - Gained vassal: c_kava
+259 - vassal: d_tivane - Gained vassal: c_tyod
+259 - sub vassal: d_tivane - Gained vassal: c_tyod
+259 - vassal: d_tivane - Gained vassal: c_ajond
+259 - sub vassal: d_tivane - Gained vassal: c_ajond
+259 - vassal: d_tivane - Gained vassal: c_adavilia
+259 - sub vassal: d_tivane - Gained vassal: c_adavilia
+259 - vassal: d_tivane - Gained vassal: c_teinin
+259 - sub vassal: d_tivane - Gained vassal: c_teinin
+259 - vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_teinin
+259 - sub vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_teinin
+259 - sub vassal: c_teinin - Title given to 1006287 - Primary title: k_evalloth
+259 - Holder (1006287) has gained c_teinin
+259 - sub vassal: c_teinin - Setting to vassal of k_evalloth in Validate Realm
+259 - vassal: d_tivane - Lost vassal: c_teinin
+259 - sub vassal: d_tivane - Lost vassal: c_teinin
+259 - Gained vassal: c_teinin
+259 - vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_adavilia
+259 - sub vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_adavilia
+259 - sub vassal: c_adavilia - Title given to 1006287 - Primary title: k_evalloth
+259 - Holder (1006287) has gained c_adavilia
+259 - sub vassal: c_adavilia - Setting to vassal of k_evalloth in Validate Realm
+259 - vassal: d_tivane - Lost vassal: c_adavilia
+259 - sub vassal: d_tivane - Lost vassal: c_adavilia
+259 - Gained vassal: c_adavilia
+259 - vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_ajond
+259 - sub vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_ajond
+259 - sub vassal: c_ajond - Title given to 1006287 - Primary title: k_evalloth
+259 - Holder (1006287) has gained c_ajond
+259 - sub vassal: c_ajond - Setting to vassal of k_evalloth in Validate Realm
+259 - vassal: d_tivane - Lost vassal: c_ajond
+259 - sub vassal: d_tivane - Lost vassal: c_ajond
+259 - Gained vassal: c_ajond
+259 - vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_tyod
+259 - sub vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_tyod
+259 - sub vassal: c_tyod - Title given to 1006287 - Primary title: k_evalloth
+259 - Holder (1006287) has gained c_tyod
+259 - sub vassal: c_tyod - Setting to vassal of k_evalloth in Validate Realm
+259 - vassal: d_tivane - Lost vassal: c_tyod
+259 - sub vassal: d_tivane - Lost vassal: c_tyod
+259 - Gained vassal: c_tyod
+259 - vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_kava
+259 - sub vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: c_kava
+259 - sub vassal: c_kava - Title given to 1006287 - Primary title: k_evalloth
+259 - Holder (1006287) has gained c_kava
+259 - sub vassal: c_kava - Setting to vassal of k_evalloth in Validate Realm
+259 - vassal: d_tivane - Lost vassal: c_kava
+259 - sub vassal: d_tivane - Lost vassal: c_kava
+259 - Gained vassal: c_kava
+259 - vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: d_tivane
+259 - sub vassal: d_tivane - Holder 1006287 - Primary title: d_tivane has lost the title: d_tivane
+259 - vassal: d_tivane - Title given to 1006287 - Primary title: k_evalloth
+259 - sub vassal: d_tivane - Title given to 1006287 - Primary title: k_evalloth
+259 - Holder (1006287) has gained d_tivane
+260 - vassal: d_alezs - Destroyed due to flagged problem
+260 - sub vassal: d_alezs - Destroyed due to flagged problem
+260 - vassal: d_alezs - Made independent
+260 - sub vassal: d_alezs - Made independent
+266 - vassal: d_tesane - Holder 1006047 - Primary title: d_tesane has lost the title: d_tesane
+266 - sub vassal: d_tesane - Holder 1006047 - Primary title: d_tesane has lost the title: d_tesane
+266 - vassal: d_tesane - Title given to 1006047
+266 - sub vassal: d_tesane - Title given to 1006047
+266 - sub vassal: c_kaepetse - Holder 1006047 - Primary title: c_kaepetse has lost the title: c_kaepetse
+266 - sub vassal: c_kaepetse - Title given to 1006047 - Primary title: d_tesane
+266 - vassal: d_tesane - Holder (1006047) has gained c_kaepetse
+266 - sub vassal: d_tesane - Holder (1006047) has gained c_kaepetse
+266 - Gained vassal: d_relia
+266 - vassal: d_relia - Given to neighbour holder of k_evalloth
+266 - sub vassal: d_relia - Given to neighbour holder of k_evalloth
+266 - vassal: d_relia - Holder 1006287 - Primary title: d_relia has lost the title: d_relia
+266 - sub vassal: d_relia - Holder 1006287 - Primary title: d_relia has lost the title: d_relia
+266 - vassal: d_relia - Title given to 1006287 - Primary title: k_evalloth
+266 - sub vassal: d_relia - Title given to 1006287 - Primary title: k_evalloth
+266 - Holder (1006287) has gained d_relia
+266 - Holder (1006287) has gained c_kair
+266 - Holder 1007323 - Primary title: k_evalloth has lost the title: c_kair
+266 - Gained vassal: c_kair
+270 - vassal: d_nacilla - Holder 1004850 - Primary title: d_nacilla has lost the title: d_nacilla
+270 - sub vassal: d_nacilla - Holder 1004850 - Primary title: d_nacilla has lost the title: d_nacilla
+270 - vassal: d_nacilla - Title given to 1004850
+270 - sub vassal: d_nacilla - Title given to 1004850
+270 - sub vassal: c_taepeda - Holder 1004850 - Primary title: c_taepeda has lost the title: c_taepeda
+270 - sub vassal: c_taepeda - Title given to 1004850 - Primary title: d_nacilla
+270 - vassal: d_nacilla - Holder (1004850) has gained c_taepeda
+270 - sub vassal: d_nacilla - Holder (1004850) has gained c_taepeda
+271 - vassal: d_budelen - Holder 1005890 - Primary title: d_budelen has lost the title: d_budelen
+271 - sub vassal: d_budelen - Holder 1005890 - Primary title: d_budelen has lost the title: d_budelen
+271 - vassal: d_budelen - Title given to 1005890
+271 - sub vassal: d_budelen - Title given to 1005890
+271 - sub vassal: c_rulezs - Holder 1005890 - Primary title: c_rulezs has lost the title: c_rulezs
+271 - sub vassal: c_rulezs - Title given to 1005890 - Primary title: d_budelen
+271 - vassal: d_budelen - Holder (1005890) has gained c_rulezs
+271 - sub vassal: d_budelen - Holder (1005890) has gained c_rulezs
+276 - vassal: d_tesane - Holder 1007897 - Primary title: d_tesane has lost the title: d_tesane
+276 - sub vassal: d_tesane - Holder 1007897 - Primary title: d_tesane has lost the title: d_tesane
+276 - vassal: d_tesane - Title given to 1007897
+276 - sub vassal: d_tesane - Title given to 1007897
+276 - sub vassal: c_kaepetse - Holder 1007897 - Primary title: c_kaepetse has lost the title: c_kaepetse
+276 - sub vassal: c_kaepetse - Title given to 1007897 - Primary title: d_tesane
+276 - vassal: d_tesane - Holder (1007897) has gained c_kaepetse
+276 - sub vassal: d_tesane - Holder (1007897) has gained c_kaepetse
+292 - vassal: d_tesane - Holder 1005890 - Primary title: d_tesane has lost the title: d_tesane
+292 - sub vassal: d_tesane - Holder 1005890 - Primary title: d_tesane has lost the title: d_tesane
+292 - vassal: d_tesane - Title given to 1005890 - Primary title: d_budelen
+292 - sub vassal: d_tesane - Title given to 1005890 - Primary title: d_budelen
+292 - vassal: d_budelen - Holder (1005890) has gained d_tesane
+292 - sub vassal: d_budelen - Holder (1005890) has gained d_tesane
+292 - sub vassal: c_kaepetse - Holder 1005890 - Primary title: c_kaepetse has lost the title: c_kaepetse
+292 - sub vassal: c_kaepetse - Title given to 1005890 - Primary title: d_budelen
+292 - vassal: d_budelen - Holder (1005890) has gained c_kaepetse
+292 - sub vassal: d_budelen - Holder (1005890) has gained c_kaepetse
+299 - vassal: d_tesane - Holder 1008053 - Primary title: d_tesane has lost the title: d_budelen
+299 - sub vassal: d_tesane - Holder 1008053 - Primary title: d_tesane has lost the title: d_budelen
+299 - vassal: d_budelen - Title given to 1008053
+299 - sub vassal: d_budelen - Title given to 1008053
+299 - sub vassal: c_rulezs - Setting to vassal of d_tesane in Validate Realm
+299 - vassal: d_budelen - Lost vassal: c_rulezs
+299 - sub vassal: d_budelen - Lost vassal: c_rulezs
+299 - vassal: d_tesane - Gained vassal: c_rulezs
+299 - sub vassal: d_tesane - Gained vassal: c_rulezs
+299 - vassal: d_tesane - Holder 1008053 - Primary title: d_tesane has lost the title: c_rulezs
+299 - sub vassal: d_tesane - Holder 1008053 - Primary title: d_tesane has lost the title: c_rulezs
+299 - sub vassal: c_rulezs - Title given to 1008053 - Primary title: d_budelen
+299 - vassal: d_budelen - Holder (1008053) has gained c_rulezs
+299 - sub vassal: d_budelen - Holder (1008053) has gained c_rulezs
+299 - sub vassal: c_rulezs - Setting to vassal of d_budelen in Validate Realm
+299 - vassal: d_tesane - Lost vassal: c_rulezs
+299 - sub vassal: d_tesane - Lost vassal: c_rulezs
+299 - vassal: d_budelen - Gained vassal: c_rulezs
+299 - sub vassal: d_budelen - Gained vassal: c_rulezs
+299 - vassal: d_tesane - Holder 1008053 - Primary title: d_tesane has lost the title: d_tesane
+299 - sub vassal: d_tesane - Holder 1008053 - Primary title: d_tesane has lost the title: d_tesane
+299 - vassal: d_tesane - Title given to 1008053 - Primary title: d_budelen
+299 - sub vassal: d_tesane - Title given to 1008053 - Primary title: d_budelen
+299 - vassal: d_budelen - Holder (1008053) has gained d_tesane
+299 - sub vassal: d_budelen - Holder (1008053) has gained d_tesane
+299 - sub vassal: c_kaepetse - Holder 1008053 - Primary title: c_kaepetse has lost the title: c_kaepetse
+299 - sub vassal: c_kaepetse - Title given to 1008053 - Primary title: d_budelen
+299 - vassal: d_budelen - Holder (1008053) has gained c_kaepetse
+299 - sub vassal: d_budelen - Holder (1008053) has gained c_kaepetse
+300 - sub vassal: c_ryake - Holder 1006583 - Primary title: c_ryake has lost the title: c_ryake
+300 - sub vassal: c_ryake - Title given to 1006583 - Primary title: d_edond
+300 - vassal: d_edond - Holder (1006583) has gained c_ryake
+300 - sub vassal: d_edond - Holder (1006583) has gained c_ryake
+301 - vassal: d_edond - Holder 1007193 - Primary title: d_edond has lost the title: d_edond
+301 - sub vassal: d_edond - Holder 1007193 - Primary title: d_edond has lost the title: d_edond
+301 - vassal: d_edond - Title given to 1007193
+301 - sub vassal: d_edond - Title given to 1007193
+301 - sub vassal: c_ryake - Holder 1007193 - Primary title: c_ryake has lost the title: c_ryake
+301 - sub vassal: c_ryake - Title given to 1007193 - Primary title: d_edond
+301 - vassal: d_edond - Holder (1007193) has gained c_ryake
+301 - sub vassal: d_edond - Holder (1007193) has gained c_ryake
+301 - sub vassal: c_wacitar - Holder 1007193 - Primary title: c_wacitar has lost the title: c_wacitar
+301 - sub vassal: c_wacitar - Title given to 1007193 - Primary title: d_edond
+301 - vassal: d_edond - Holder (1007193) has gained c_wacitar
+301 - sub vassal: d_edond - Holder (1007193) has gained c_wacitar
+302 - vassal: d_nacilla - Holder 1008121 - Primary title: d_nacilla has lost the title: d_nacilla
+302 - sub vassal: d_nacilla - Holder 1008121 - Primary title: d_nacilla has lost the title: d_nacilla
+302 - vassal: d_nacilla - Title given to 1008121
+302 - sub vassal: d_nacilla - Title given to 1008121
+302 - sub vassal: c_taepeda - Holder 1008121 - Primary title: c_taepeda has lost the title: c_taepeda
+302 - sub vassal: c_taepeda - Title given to 1008121 - Primary title: d_nacilla
+302 - vassal: d_nacilla - Holder (1008121) has gained c_taepeda
+302 - sub vassal: d_nacilla - Holder (1008121) has gained c_taepeda
+311 - vassal: d_edond - Holder 1010427 - Primary title: d_edond has lost the title: d_edond
+311 - sub vassal: d_edond - Holder 1010427 - Primary title: d_edond has lost the title: d_edond
+311 - vassal: d_edond - Title given to 1010427
+311 - sub vassal: d_edond - Title given to 1010427
+311 - sub vassal: c_ryake - Holder 1010427 - Primary title: c_ryake has lost the title: c_ryake
+311 - sub vassal: c_ryake - Title given to 1010427 - Primary title: d_edond
+311 - vassal: d_edond - Holder (1010427) has gained c_ryake
+311 - sub vassal: d_edond - Holder (1010427) has gained c_ryake
+311 - sub vassal: c_wacitar - Holder 1010427 - Primary title: c_wacitar has lost the title: c_wacitar
+311 - sub vassal: c_wacitar - Title given to 1010427 - Primary title: d_edond
+311 - vassal: d_edond - Holder (1010427) has gained c_wacitar
+311 - sub vassal: d_edond - Holder (1010427) has gained c_wacitar
+313 - vassal: d_nacilla - Holder 1006287 - Primary title: d_nacilla has lost the title: d_nacilla
+313 - sub vassal: d_nacilla - Holder 1006287 - Primary title: d_nacilla has lost the title: d_nacilla
+313 - vassal: d_nacilla - Title given to 1006287 - Primary title: k_evalloth
+313 - sub vassal: d_nacilla - Title given to 1006287 - Primary title: k_evalloth
+313 - Holder (1006287) has gained d_nacilla
+313 - sub vassal: c_taepeda - Holder 1006287 - Primary title: c_taepeda has lost the title: c_taepeda
+313 - sub vassal: c_taepeda - Title given to 1006287 - Primary title: k_evalloth
+313 - Holder (1006287) has gained c_taepeda
+313 - sub vassal: c_taepeda - Given to 1010661 in HandleTitles - Too many duke titles
+313 - Holder 1010661 - Primary title: k_evalloth has lost the title: c_taepeda
+313 - sub vassal: c_taepeda - Title given to 1010661
+313 - Holder 1010661 - Primary title: k_evalloth has lost the title: d_nacilla
+313 - vassal: d_nacilla - Title given to 1010661 - Primary title: c_taepeda
+313 - sub vassal: d_nacilla - Title given to 1010661 - Primary title: c_taepeda
+313 - sub vassal: c_taepeda - Holder (1010661) has gained d_nacilla
+313 - vassal: d_nacilla - Too many dukes, given to dejure: k_evalloth
+313 - sub vassal: d_nacilla - Too many dukes, given to dejure: k_evalloth
+313 - Holder 1008283 - Primary title: k_evalloth has lost the title: k_evalloth
+313 - Title given to 1008283
+313 - vassal: d_relia - Holder 1008283 - Primary title: d_relia has lost the title: d_relia
+313 - sub vassal: d_relia - Holder 1008283 - Primary title: d_relia has lost the title: d_relia
+313 - vassal: d_relia - Title given to 1008283 - Primary title: k_evalloth
+313 - sub vassal: d_relia - Title given to 1008283 - Primary title: k_evalloth
+313 - Holder (1008283) has gained d_relia
+313 - vassal: c_kava - Setting to vassal of d_tivane in Validate Realm
+313 - sub vassal: c_kava - Setting to vassal of d_tivane in Validate Realm
+313 - Lost vassal: c_kava
+313 - vassal: c_tyod - Setting to vassal of d_tivane in Validate Realm
+313 - sub vassal: c_tyod - Setting to vassal of d_tivane in Validate Realm
+313 - Lost vassal: c_tyod
+313 - vassal: c_ajond - Setting to vassal of d_tivane in Validate Realm
+313 - sub vassal: c_ajond - Setting to vassal of d_tivane in Validate Realm
+313 - Lost vassal: c_ajond
+313 - vassal: c_adavilia - Setting to vassal of d_tivane in Validate Realm
+313 - sub vassal: c_adavilia - Setting to vassal of d_tivane in Validate Realm
+313 - Lost vassal: c_adavilia
+313 - vassal: c_teinin - Setting to vassal of d_tivane in Validate Realm
+313 - sub vassal: c_teinin - Setting to vassal of d_tivane in Validate Realm
+313 - Lost vassal: c_teinin
+313 - vassal: d_tivane - Gained vassal: c_teinin
+313 - sub vassal: d_tivane - Gained vassal: c_teinin
+313 - vassal: d_tivane - Gained vassal: c_adavilia
+313 - sub vassal: d_tivane - Gained vassal: c_adavilia
+313 - vassal: d_tivane - Gained vassal: c_ajond
+313 - sub vassal: d_tivane - Gained vassal: c_ajond
+313 - vassal: d_tivane - Gained vassal: c_tyod
+313 - sub vassal: d_tivane - Gained vassal: c_tyod
+313 - vassal: d_tivane - Gained vassal: c_kava
+313 - sub vassal: d_tivane - Gained vassal: c_kava
+313 - vassal: d_tivane - Holder 1008283 - Primary title: d_tivane has lost the title: d_tivane
+313 - sub vassal: d_tivane - Holder 1008283 - Primary title: d_tivane has lost the title: d_tivane
+313 - vassal: d_tivane - Title given to 1008283 - Primary title: k_evalloth
+313 - sub vassal: d_tivane - Title given to 1008283 - Primary title: k_evalloth
+313 - Holder (1008283) has gained d_tivane
+313 - sub vassal: c_kava - Holder 1008283 - Primary title: c_kava has lost the title: c_kava
+313 - sub vassal: c_kava - Title given to 1008283 - Primary title: k_evalloth
+313 - Holder (1008283) has gained c_kava
+313 - sub vassal: c_tyod - Holder 1008283 - Primary title: c_tyod has lost the title: c_tyod
+313 - sub vassal: c_tyod - Title given to 1008283 - Primary title: k_evalloth
+313 - Holder (1008283) has gained c_tyod
+313 - sub vassal: c_ajond - Holder 1008283 - Primary title: c_ajond has lost the title: c_ajond
+313 - sub vassal: c_ajond - Title given to 1008283 - Primary title: k_evalloth
+313 - Holder (1008283) has gained c_ajond
+313 - sub vassal: c_adavilia - Holder 1008283 - Primary title: c_adavilia has lost the title: c_adavilia
+313 - sub vassal: c_adavilia - Title given to 1008283 - Primary title: k_evalloth
+313 - Holder (1008283) has gained c_adavilia
+313 - sub vassal: c_teinin - Holder 1008283 - Primary title: c_teinin has lost the title: c_teinin
+313 - sub vassal: c_teinin - Title given to 1008283 - Primary title: k_evalloth
+313 - Holder (1008283) has gained c_teinin
+314 - Holder 1008053 - Primary title: k_evalloth has lost the title: k_evalloth
+314 - Title given to 1008053 - Primary title: d_tesane
+314 - vassal: d_tesane - Holder (1008053) has gained k_evalloth
+314 - sub vassal: d_tesane - Holder (1008053) has gained k_evalloth
+314 - vassal: d_relia - Holder 1008053 - Primary title: d_relia has lost the title: d_relia
+314 - sub vassal: d_relia - Holder 1008053 - Primary title: d_relia has lost the title: d_relia
+314 - vassal: d_relia - Title given to 1008053 - Primary title: k_evalloth
+314 - sub vassal: d_relia - Title given to 1008053 - Primary title: k_evalloth
+314 - Holder (1008053) has gained d_relia
+314 - vassal: d_tivane - Holder 1008053 - Primary title: d_tivane has lost the title: d_tivane
+314 - sub vassal: d_tivane - Holder 1008053 - Primary title: d_tivane has lost the title: d_tivane
+314 - vassal: d_tivane - Title given to 1008053 - Primary title: k_evalloth
+314 - sub vassal: d_tivane - Title given to 1008053 - Primary title: k_evalloth
+314 - Holder (1008053) has gained d_tivane
+314 - sub vassal: c_kava - Holder 1008053 - Primary title: c_kava has lost the title: c_kava
+314 - sub vassal: c_kava - Title given to 1008053 - Primary title: k_evalloth
+314 - Holder (1008053) has gained c_kava
+314 - sub vassal: c_tyod - Holder 1008053 - Primary title: c_tyod has lost the title: c_tyod
+314 - sub vassal: c_tyod - Title given to 1008053 - Primary title: k_evalloth
+314 - Holder (1008053) has gained c_tyod
+314 - sub vassal: c_ajond - Holder 1008053 - Primary title: c_ajond has lost the title: c_ajond
+314 - sub vassal: c_ajond - Title given to 1008053 - Primary title: k_evalloth
+314 - Holder (1008053) has gained c_ajond
+314 - sub vassal: c_adavilia - Holder 1008053 - Primary title: c_adavilia has lost the title: c_adavilia
+314 - sub vassal: c_adavilia - Title given to 1008053 - Primary title: k_evalloth
+314 - Holder (1008053) has gained c_adavilia
+314 - sub vassal: c_teinin - Holder 1008053 - Primary title: c_teinin has lost the title: c_teinin
+314 - sub vassal: c_teinin - Title given to 1008053 - Primary title: k_evalloth
+314 - Holder (1008053) has gained c_teinin
+315 - sub vassal: c_tono - Given to 1010812 in HandleTitles - Too many duke titles
+315 - sub vassal: c_tono - Holder 1010812 - Primary title: c_tono has lost the title: c_tono
+315 - sub vassal: c_tono - Title given to 1010812
+315 - Holder 1010812 - Primary title: k_evalloth has lost the title: d_relia
+315 - vassal: d_relia - Title given to 1010812 - Primary title: c_tono
+315 - sub vassal: d_relia - Title given to 1010812 - Primary title: c_tono
+315 - sub vassal: c_tono - Holder (1010812) has gained d_relia
+315 - vassal: d_relia - Too many dukes, made direct title into vassal of k_evalloth
+315 - sub vassal: d_relia - Too many dukes, made direct title into vassal of k_evalloth
+315 - sub vassal: c_kaepetse - Given to 1010813 in HandleTitles - Too many duke titles
+315 - Holder 1010813 - Primary title: k_evalloth has lost the title: c_kaepetse
+315 - sub vassal: c_kaepetse - Title given to 1010813
+315 - Holder 1010813 - Primary title: k_evalloth has lost the title: d_tesane
+315 - vassal: d_tesane - Title given to 1010813 - Primary title: c_kaepetse
+315 - sub vassal: d_tesane - Title given to 1010813 - Primary title: c_kaepetse
+315 - sub vassal: c_kaepetse - Holder (1010813) has gained d_tesane
+315 - vassal: d_tesane - Too many dukes, made direct title into vassal of k_evalloth
+315 - sub vassal: d_tesane - Too many dukes, made direct title into vassal of k_evalloth
+315 - Holder 1010815 - Primary title: k_evalloth has lost the title: c_rulezs
+315 - sub vassal: c_rulezs - Title given to 1010815
+324 - vassal: d_edond - Holder 1005671 - Primary title: d_edond has lost the title: d_edond
+324 - sub vassal: d_edond - Holder 1005671 - Primary title: d_edond has lost the title: d_edond
+324 - vassal: d_edond - Title given to 1005671 - Primary title: c_larazsi
+324 - sub vassal: d_edond - Title given to 1005671 - Primary title: c_larazsi
+324 - vassal: c_larazsi - Holder (1005671) has gained d_edond
+324 - sub vassal: c_larazsi - Holder (1005671) has gained d_edond
+324 - vassal: c_larazsi - Setting to vassal of d_edond in Validate Realm
+324 - sub vassal: c_larazsi - Setting to vassal of d_edond in Validate Realm
+324 - Lost vassal: c_larazsi
+324 - vassal: d_edond - Gained vassal: c_larazsi
+324 - sub vassal: d_edond - Gained vassal: c_larazsi
+324 - sub vassal: c_wacitar - Holder 1005671 - Primary title: c_wacitar has lost the title: c_wacitar
+324 - sub vassal: c_wacitar - Title given to 1005671 - Primary title: d_edond
+324 - vassal: d_edond - Holder (1005671) has gained c_wacitar
+324 - sub vassal: d_edond - Holder (1005671) has gained c_wacitar
+324 - sub vassal: c_ryake - Holder 1005671 - Primary title: c_ryake has lost the title: c_ryake
+324 - sub vassal: c_ryake - Title given to 1005671 - Primary title: d_edond
+324 - vassal: d_edond - Holder (1005671) has gained c_ryake
+324 - sub vassal: d_edond - Holder (1005671) has gained c_ryake
+326 - vassal: d_edond - Holder 1008053 - Primary title: d_edond has lost the title: d_edond
+326 - sub vassal: d_edond - Holder 1008053 - Primary title: d_edond has lost the title: d_edond
+326 - vassal: d_edond - Title given to 1008053 - Primary title: k_evalloth
+326 - sub vassal: d_edond - Title given to 1008053 - Primary title: k_evalloth
+326 - Holder (1008053) has gained d_edond
+326 - sub vassal: c_larazsi - Holder 1008053 - Primary title: c_larazsi has lost the title: c_larazsi
+326 - sub vassal: c_larazsi - Title given to 1008053 - Primary title: k_evalloth
+326 - Holder (1008053) has gained c_larazsi
+326 - sub vassal: c_wacitar - Holder 1008053 - Primary title: c_wacitar has lost the title: c_wacitar
+326 - sub vassal: c_wacitar - Title given to 1008053 - Primary title: k_evalloth
+326 - Holder (1008053) has gained c_wacitar
+326 - sub vassal: c_ryake - Holder 1008053 - Primary title: c_ryake has lost the title: c_ryake
+326 - sub vassal: c_ryake - Title given to 1008053 - Primary title: k_evalloth
+326 - Holder (1008053) has gained c_ryake
+326 - sub vassal: c_wacitar - Given to 1011585 in HandleTitles - Too many duke titles
+326 - Holder 1011585 - Primary title: k_evalloth has lost the title: c_wacitar
+326 - sub vassal: c_wacitar - Title given to 1011585
+326 - Holder 1011585 - Primary title: k_evalloth has lost the title: d_edond
+326 - vassal: d_edond - Title given to 1011585 - Primary title: c_wacitar
+326 - sub vassal: d_edond - Title given to 1011585 - Primary title: c_wacitar
+326 - sub vassal: c_wacitar - Holder (1011585) has gained d_edond
+326 - sub vassal: c_larazsi - Setting to vassal of k_evalloth in Validate Realm
+326 - vassal: d_edond - Lost vassal: c_larazsi
+326 - sub vassal: d_edond - Lost vassal: c_larazsi
+326 - sub vassal: c_ryake - Setting to vassal of k_evalloth in Validate Realm
+326 - vassal: d_edond - Lost vassal: c_ryake
+326 - sub vassal: d_edond - Lost vassal: c_ryake
+326 - Gained vassal: c_ryake
+326 - Gained vassal: c_larazsi
+326 - vassal: d_edond - Too many dukes, given to dejure: k_evalloth
+326 - sub vassal: d_edond - Too many dukes, given to dejure: k_evalloth
+326 - Holder 1011586 - Primary title: k_evalloth has lost the title: c_larazsi
+326 - vassal: c_larazsi - Title given to 1011586
+326 - sub vassal: c_larazsi - Title given to 1011586
+326 - Holder 1011588 - Primary title: k_evalloth has lost the title: c_ryake
+326 - vassal: c_ryake - Title given to 1011588
+326 - sub vassal: c_ryake - Title given to 1011588
+327 - vassal: d_edond - Holder 1010813 - Primary title: d_edond has lost the title: d_edond
+327 - sub vassal: d_edond - Holder 1010813 - Primary title: d_edond has lost the title: d_edond
+327 - vassal: d_edond - Title given to 1010813 - Primary title: d_tesane
+327 - sub vassal: d_edond - Title given to 1010813 - Primary title: d_tesane
+327 - vassal: d_tesane - Holder (1010813) has gained d_edond
+327 - sub vassal: d_tesane - Holder (1010813) has gained d_edond
+327 - sub vassal: c_wacitar - Holder 1010813 - Primary title: c_wacitar has lost the title: c_wacitar
+327 - sub vassal: c_wacitar - Title given to 1010813 - Primary title: d_tesane
+327 - vassal: d_tesane - Holder (1010813) has gained c_wacitar
+327 - sub vassal: d_tesane - Holder (1010813) has gained c_wacitar
+330 - vassal: d_relia - Holder 1008053 - Primary title: d_relia has lost the title: d_relia
+330 - sub vassal: d_relia - Holder 1008053 - Primary title: d_relia has lost the title: d_relia
+330 - vassal: d_relia - Title given to 1008053 - Primary title: k_evalloth
+330 - sub vassal: d_relia - Title given to 1008053 - Primary title: k_evalloth
+330 - Holder (1008053) has gained d_relia
+330 - sub vassal: c_tono - Holder 1008053 - Primary title: c_tono has lost the title: c_tono
+330 - sub vassal: c_tono - Title given to 1008053 - Primary title: k_evalloth
+330 - Holder (1008053) has gained c_tono
+330 - sub vassal: c_tono - Given to 1011848 in HandleTitles - Too many duke titles
+330 - Holder 1011848 - Primary title: k_evalloth has lost the title: c_tono
+330 - sub vassal: c_tono - Title given to 1011848
+330 - Holder 1011848 - Primary title: k_evalloth has lost the title: d_relia
+330 - vassal: d_relia - Title given to 1011848 - Primary title: c_tono
+330 - sub vassal: d_relia - Title given to 1011848 - Primary title: c_tono
+330 - sub vassal: c_tono - Holder (1011848) has gained d_relia
+330 - vassal: d_relia - Too many dukes, made direct title into vassal of k_evalloth
+330 - sub vassal: d_relia - Too many dukes, made direct title into vassal of k_evalloth
+330 - Holder 1010510 - Primary title: k_evalloth has lost the title: k_evalloth
+330 - Title given to 1010510
+330 - vassal: d_budelen - Holder 1010510 - Primary title: d_budelen has lost the title: d_budelen
+330 - sub vassal: d_budelen - Holder 1010510 - Primary title: d_budelen has lost the title: d_budelen
+330 - vassal: d_budelen - Title given to 1010510 - Primary title: k_evalloth
+330 - sub vassal: d_budelen - Title given to 1010510 - Primary title: k_evalloth
+330 - Holder (1010510) has gained d_budelen
+330 - vassal: d_tivane - Holder 1010510 - Primary title: d_tivane has lost the title: d_tivane
+330 - sub vassal: d_tivane - Holder 1010510 - Primary title: d_tivane has lost the title: d_tivane
+330 - vassal: d_tivane - Title given to 1010510 - Primary title: k_evalloth
+330 - sub vassal: d_tivane - Title given to 1010510 - Primary title: k_evalloth
+330 - Holder (1010510) has gained d_tivane
+330 - sub vassal: c_teinin - Holder 1010510 - Primary title: c_teinin has lost the title: c_teinin
+330 - sub vassal: c_teinin - Title given to 1010510 - Primary title: k_evalloth
+330 - Holder (1010510) has gained c_teinin
+330 - sub vassal: c_adavilia - Holder 1010510 - Primary title: c_adavilia has lost the title: c_adavilia
+330 - sub vassal: c_adavilia - Title given to 1010510 - Primary title: k_evalloth
+330 - Holder (1010510) has gained c_adavilia
+330 - sub vassal: c_ajond - Holder 1010510 - Primary title: c_ajond has lost the title: c_ajond
+330 - sub vassal: c_ajond - Title given to 1010510 - Primary title: k_evalloth
+330 - Holder (1010510) has gained c_ajond
+330 - sub vassal: c_tyod - Holder 1010510 - Primary title: c_tyod has lost the title: c_tyod
+330 - sub vassal: c_tyod - Title given to 1010510 - Primary title: k_evalloth
+330 - Holder (1010510) has gained c_tyod
+330 - sub vassal: c_kava - Holder 1010510 - Primary title: c_kava has lost the title: c_kava
+330 - sub vassal: c_kava - Title given to 1010510 - Primary title: k_evalloth
+330 - Holder (1010510) has gained c_kava
+334 - vassal: d_edond - Holder 1011137 - Primary title: d_edond has lost the title: d_tesane
+334 - sub vassal: d_edond - Holder 1011137 - Primary title: d_edond has lost the title: d_tesane
+334 - vassal: d_tesane - Title given to 1011137
+334 - sub vassal: d_tesane - Title given to 1011137
+334 - sub vassal: c_kaepetse - Setting to vassal of d_edond in Validate Realm
+334 - vassal: d_tesane - Lost vassal: c_kaepetse
+334 - sub vassal: d_tesane - Lost vassal: c_kaepetse
+334 - vassal: d_edond - Gained vassal: c_kaepetse
+334 - sub vassal: d_edond - Gained vassal: c_kaepetse
+334 - vassal: d_edond - Holder 1011137 - Primary title: d_edond has lost the title: c_kaepetse
+334 - sub vassal: d_edond - Holder 1011137 - Primary title: d_edond has lost the title: c_kaepetse
+334 - sub vassal: c_kaepetse - Title given to 1011137 - Primary title: d_tesane
+334 - vassal: d_tesane - Holder (1011137) has gained c_kaepetse
+334 - sub vassal: d_tesane - Holder (1011137) has gained c_kaepetse
+334 - sub vassal: c_kaepetse - Setting to vassal of d_tesane in Validate Realm
+334 - vassal: d_edond - Lost vassal: c_kaepetse
+334 - sub vassal: d_edond - Lost vassal: c_kaepetse
+334 - vassal: d_tesane - Gained vassal: c_kaepetse
+334 - sub vassal: d_tesane - Gained vassal: c_kaepetse
+334 - vassal: d_edond - Holder 1011137 - Primary title: d_edond has lost the title: d_edond
+334 - sub vassal: d_edond - Holder 1011137 - Primary title: d_edond has lost the title: d_edond
+334 - vassal: d_edond - Title given to 1011137 - Primary title: d_tesane
+334 - sub vassal: d_edond - Title given to 1011137 - Primary title: d_tesane
+334 - vassal: d_tesane - Holder (1011137) has gained d_edond
+334 - sub vassal: d_tesane - Holder (1011137) has gained d_edond
+334 - sub vassal: c_wacitar - Holder 1011137 - Primary title: c_wacitar has lost the title: c_wacitar
+334 - sub vassal: c_wacitar - Title given to 1011137 - Primary title: d_tesane
+334 - vassal: d_tesane - Holder (1011137) has gained c_wacitar
+334 - sub vassal: d_tesane - Holder (1011137) has gained c_wacitar
+342 - vassal: d_relia - Holder 1011137 - Primary title: d_relia has lost the title: d_relia
+342 - sub vassal: d_relia - Holder 1011137 - Primary title: d_relia has lost the title: d_relia
+342 - vassal: d_relia - Title given to 1011137 - Primary title: d_tesane
+342 - sub vassal: d_relia - Title given to 1011137 - Primary title: d_tesane
+342 - vassal: d_tesane - Holder (1011137) has gained d_relia
+342 - sub vassal: d_tesane - Holder (1011137) has gained d_relia
+342 - sub vassal: c_tono - Holder 1011137 - Primary title: c_tono has lost the title: c_tono
+342 - sub vassal: c_tono - Title given to 1011137 - Primary title: d_tesane
+342 - vassal: d_tesane - Holder (1011137) has gained c_tono
+342 - sub vassal: d_tesane - Holder (1011137) has gained c_tono
+343 - sub vassal: c_wacitar - Given to 1012629 in HandleTitles - Too many duke titles
+343 - vassal: d_relia - Holder 1012629 - Primary title: d_relia has lost the title: c_wacitar
+343 - sub vassal: d_relia - Holder 1012629 - Primary title: d_relia has lost the title: c_wacitar
+343 - sub vassal: c_wacitar - Title given to 1012629
+343 - vassal: d_relia - Holder 1010510 - Primary title: d_relia has lost the title: d_edond
+343 - sub vassal: d_relia - Holder 1010510 - Primary title: d_relia has lost the title: d_edond
+343 - vassal: d_edond - Title given to 1010510 - Primary title: k_evalloth
+343 - sub vassal: d_edond - Title given to 1010510 - Primary title: k_evalloth
+343 - Holder (1010510) has gained d_edond
+343 - vassal: d_edond - Too many dukes, made direct title into vassal of k_evalloth
+343 - sub vassal: d_edond - Too many dukes, made direct title into vassal of k_evalloth
+343 - Holder 1012630 - Primary title: k_evalloth has lost the title: d_edond
+343 - vassal: d_edond - Title given to 1012630
+343 - sub vassal: d_edond - Title given to 1012630
+346 - vassal: d_edond - Holder 1005673 - Primary title: d_edond has lost the title: d_edond
+346 - sub vassal: d_edond - Holder 1005673 - Primary title: d_edond has lost the title: d_edond
+346 - vassal: d_edond - Title given to 1005673 - Primary title: c_baepomir
+346 - sub vassal: d_edond - Title given to 1005673 - Primary title: c_baepomir
+346 - vassal: c_baepomir - Holder (1005673) has gained d_edond
+346 - sub vassal: c_baepomir - Holder (1005673) has gained d_edond
+346 - vassal: c_baepomir - Setting to vassal of d_edond in Validate Realm
+346 - sub vassal: c_baepomir - Setting to vassal of d_edond in Validate Realm
+346 - Lost vassal: c_baepomir
+346 - vassal: d_edond - Gained vassal: c_baepomir
+346 - sub vassal: d_edond - Gained vassal: c_baepomir
+346 - Holder 1011963 - Primary title: k_evalloth has lost the title: k_evalloth
+346 - Title given to 1011963
+346 - vassal: d_budelen - Holder 1011963 - Primary title: d_budelen has lost the title: d_budelen
+346 - sub vassal: d_budelen - Holder 1011963 - Primary title: d_budelen has lost the title: d_budelen
+346 - vassal: d_budelen - Title given to 1011963 - Primary title: k_evalloth
+346 - sub vassal: d_budelen - Title given to 1011963 - Primary title: k_evalloth
+346 - Holder (1011963) has gained d_budelen
+346 - vassal: d_tivane - Holder 1011963 - Primary title: d_tivane has lost the title: d_tivane
+346 - sub vassal: d_tivane - Holder 1011963 - Primary title: d_tivane has lost the title: d_tivane
+346 - vassal: d_tivane - Title given to 1011963 - Primary title: k_evalloth
+346 - sub vassal: d_tivane - Title given to 1011963 - Primary title: k_evalloth
+346 - Holder (1011963) has gained d_tivane
+346 - sub vassal: c_kava - Holder 1011963 - Primary title: c_kava has lost the title: c_kava
+346 - sub vassal: c_kava - Title given to 1011963 - Primary title: k_evalloth
+346 - Holder (1011963) has gained c_kava
+346 - sub vassal: c_tyod - Holder 1011963 - Primary title: c_tyod has lost the title: c_tyod
+346 - sub vassal: c_tyod - Title given to 1011963 - Primary title: k_evalloth
+346 - Holder (1011963) has gained c_tyod
+346 - sub vassal: c_ajond - Holder 1011963 - Primary title: c_ajond has lost the title: c_ajond
+346 - sub vassal: c_ajond - Title given to 1011963 - Primary title: k_evalloth
+346 - Holder (1011963) has gained c_ajond
+346 - sub vassal: c_adavilia - Holder 1011963 - Primary title: c_adavilia has lost the title: c_adavilia
+346 - sub vassal: c_adavilia - Title given to 1011963 - Primary title: k_evalloth
+346 - Holder (1011963) has gained c_adavilia
+346 - sub vassal: c_teinin - Holder 1011963 - Primary title: c_teinin has lost the title: c_teinin
+346 - sub vassal: c_teinin - Title given to 1011963 - Primary title: k_evalloth
+346 - Holder (1011963) has gained c_teinin
+347 - vassal: d_edond - Holder 1011963 - Primary title: d_edond has lost the title: d_edond
+347 - sub vassal: d_edond - Holder 1011963 - Primary title: d_edond has lost the title: d_edond
+347 - vassal: d_edond - Title given to 1011963 - Primary title: k_evalloth
+347 - sub vassal: d_edond - Title given to 1011963 - Primary title: k_evalloth
+347 - Holder (1011963) has gained d_edond
+347 - sub vassal: c_baepomir - Holder 1011963 - Primary title: c_baepomir has lost the title: c_baepomir
+347 - sub vassal: c_baepomir - Title given to 1011963 - Primary title: k_evalloth
+347 - Holder (1011963) has gained c_baepomir
+347 - sub vassal: c_rulezs - Given to 1012887 in HandleTitles - Too many duke titles
+347 - sub vassal: c_rulezs - Holder 1012887 - Primary title: c_rulezs has lost the title: c_rulezs
+347 - sub vassal: c_rulezs - Title given to 1012887
+347 - Holder 1012887 - Primary title: k_evalloth has lost the title: d_budelen
+347 - vassal: d_budelen - Title given to 1012887 - Primary title: c_rulezs
+347 - sub vassal: d_budelen - Title given to 1012887 - Primary title: c_rulezs
+347 - sub vassal: c_rulezs - Holder (1012887) has gained d_budelen
+347 - vassal: d_budelen - Too many dukes, given to dejure: k_evalloth
+347 - sub vassal: d_budelen - Too many dukes, given to dejure: k_evalloth
+347 - Holder 1012888 - Primary title: k_evalloth has lost the title: c_baepomir
+347 - sub vassal: c_baepomir - Title given to 1012888
+349 - vassal: c_kititar - Holder 1012887 - Primary title: c_kititar has lost the title: c_kititar
+349 - sub vassal: c_kititar - Holder 1012887 - Primary title: c_kititar has lost the title: c_kititar
+349 - vassal: c_kititar - Title given to 1012887 - Primary title: d_budelen
+349 - sub vassal: c_kititar - Title given to 1012887 - Primary title: d_budelen
+349 - vassal: d_budelen - Holder (1012887) has gained c_kititar
+349 - sub vassal: d_budelen - Holder (1012887) has gained c_kititar
+349 - vassal: c_kititar - Setting to vassal of d_budelen in Validate Realm
+349 - sub vassal: c_kititar - Setting to vassal of d_budelen in Validate Realm
+349 - Lost vassal: c_kititar
+349 - vassal: d_budelen - Gained vassal: c_kititar
+349 - sub vassal: d_budelen - Gained vassal: c_kititar
+349 - sub vassal: c_dajnal - Holder 1006552 - Primary title: c_dajnal has lost the title: c_dajnal
+349 - sub vassal: c_dajnal - Title given to 1006552
+349 - sub vassal: c_watolir - Holder 1006552 - Primary title: c_watolir has lost the title: c_watolir
+349 - sub vassal: c_watolir - Title given to 1006552 - Primary title: c_dajnal
+349 - sub vassal: c_dajnal - Holder (1006552) has gained c_watolir
+349 - sub vassal: c_dainba - Hold

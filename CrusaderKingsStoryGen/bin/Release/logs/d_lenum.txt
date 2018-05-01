@@ -1,0 +1,100 @@
+200 - Title given to 1000475
+200 - vassal: c_lacihl - Given to 1000478 via AddCharacterForTitle
+200 - sub vassal: c_lacihl - Given to 1000478 via AddCharacterForTitle
+200 - vassal: c_lacihl - Holder 1000478 - Primary title: c_lacihl has lost the title: c_lacihl
+200 - sub vassal: c_lacihl - Holder 1000478 - Primary title: c_lacihl has lost the title: c_lacihl
+200 - vassal: c_lacihl - Title given to 1000478
+200 - sub vassal: c_lacihl - Title given to 1000478
+200 - vassal: c_kisco - Given to 1000480 via AddCharacterForTitle
+200 - sub vassal: c_kisco - Given to 1000480 via AddCharacterForTitle
+200 - vassal: c_kisco - Holder 1000480 - Primary title: c_kisco has lost the title: c_kisco
+200 - sub vassal: c_kisco - Holder 1000480 - Primary title: c_kisco has lost the title: c_kisco
+200 - vassal: c_kisco - Title given to 1000480
+200 - sub vassal: c_kisco - Title given to 1000480
+200 - vassal: c_nalisco - Holder 1000475 - Primary title: c_nalisco has lost the title: c_nalisco
+200 - sub vassal: c_nalisco - Holder 1000475 - Primary title: c_nalisco has lost the title: c_nalisco
+200 - vassal: c_nalisco - Title given to 1000475 - Primary title: d_lenum
+200 - sub vassal: c_nalisco - Title given to 1000475 - Primary title: d_lenum
+200 - Holder (1000475) has gained c_nalisco
+200 - vassal: c_lacihl - Holder 1000475 - Primary title: c_lacihl has lost the title: c_lacihl
+200 - sub vassal: c_lacihl - Holder 1000475 - Primary title: c_lacihl has lost the title: c_lacihl
+200 - vassal: c_lacihl - Title given to 1000475 - Primary title: d_lenum
+200 - sub vassal: c_lacihl - Title given to 1000475 - Primary title: d_lenum
+200 - Holder (1000475) has gained c_lacihl
+200 - vassal: c_kulamir - Holder 1000475 - Primary title: c_kulamir has lost the title: c_kulamir
+200 - sub vassal: c_kulamir - Holder 1000475 - Primary title: c_kulamir has lost the title: c_kulamir
+200 - vassal: c_kulamir - Title given to 1000475 - Primary title: d_lenum
+200 - sub vassal: c_kulamir - Title given to 1000475 - Primary title: d_lenum
+200 - Holder (1000475) has gained c_kulamir
+247 - Holder 1002970 - Primary title: d_lenum has lost the title: d_lenum
+247 - Title given to 1002970
+247 - vassal: c_kulamir - Holder 1002970 - Primary title: c_kulamir has lost the title: c_kulamir
+247 - vassal: c_kulamir - Title given to 1002970 - Primary title: d_lenum
+247 - Holder (1002970) has gained c_kulamir
+247 - vassal: c_lacihl - Holder 1002970 - Primary title: c_lacihl has lost the title: c_lacihl
+247 - vassal: c_lacihl - Title given to 1002970 - Primary title: d_lenum
+247 - Holder (1002970) has gained c_lacihl
+247 - vassal: c_nalisco - Holder 1002970 - Primary title: c_nalisco has lost the title: c_nalisco
+247 - vassal: c_nalisco - Title given to 1002970 - Primary title: d_lenum
+247 - Holder (1002970) has gained c_nalisco
+265 - Holder 1007504 - Primary title: d_lenum has lost the title: d_lenum
+265 - Title given to 1007504
+265 - vassal: c_nalisco - Holder 1007504 - Primary title: c_nalisco has lost the title: c_nalisco
+265 - vassal: c_nalisco - Title given to 1007504 - Primary title: d_lenum
+265 - Holder (1007504) has gained c_nalisco
+265 - vassal: c_lacihl - Holder 1007504 - Primary title: c_lacihl has lost the title: c_lacihl
+265 - vassal: c_lacihl - Title given to 1007504 - Primary title: d_lenum
+265 - Holder (1007504) has gained c_lacihl
+265 - vassal: c_kulamir - Holder 1007504 - Primary title: c_kulamir has lost the title: c_kulamir
+265 - vassal: c_kulamir - Title given to 1007504 - Primary title: d_lenum
+265 - Holder (1007504) has gained c_kulamir
+274 - Holder 1007853 - Primary title: d_lenum has lost the title: d_lenum
+274 - Title given to 1007853 - Primary title: d_rokudia
+274 - vassal: c_nalisco - Holder 1007853 - Primary title: c_nalisco has lost the title: c_nalisco
+274 - vassal: c_nalisco - Title given to 1007853 - Primary title: d_relicha
+274 - vassal: c_lacihl - Holder 1007853 - Primary title: c_lacihl has lost the title: c_lacihl
+274 - vassal: c_lacihl - Title given to 1007853 - Primary title: d_relicha
+274 - vassal: c_kulamir - Holder 1007853 - Primary title: c_kulamir has lost the title: c_kulamir
+274 - vassal: c_kulamir - Title given to 1007853 - Primary title: d_relicha
+275 - Holder 1005657 - Primary title: d_lenum has lost the title: d_relicha
+275 - Holder 1008670 - Primary title: d_lenum has lost the title: c_sokera
+275 - Holder 1008671 - Primary title: d_lenum has lost the title: c_wohera
+275 - Holder 1008672 - Primary title: d_lenum has lost the title: c_sutudia
+331 - Holder 1009255 - Primary title: d_lenum has lost the title: d_lenum
+331 - Title given to 1009255
+331 - vassal: c_kulamir - Setting to vassal of d_rokudia in Validate Realm
+331 - Lost vassal: c_kulamir
+331 - vassal: c_lacihl - Setting to vassal of d_rokudia in Validate Realm
+331 - Lost vassal: c_lacihl
+331 - vassal: c_nalisco - Setting to vassal of d_rokudia in Validate Realm
+331 - Lost vassal: c_nalisco
+331 - Holder (1009255) has gained d_rokudia
+331 - Holder (1009255) has gained c_kulamir
+331 - Holder (1009255) has gained c_lacihl
+331 - Holder (1009255) has gained c_nalisco
+331 - Holder (1009255) has gained c_dutum
+331 - Holder (1009255) has gained c_kisco
+332 - Destroyed due to flagged problem
+332 - Made independent
+332 - Title destroyed
+332 - Given to 1009255 in TestCreateEmpire
+332 - Title given to 1009255 - Primary title: d_rokudia
+332 - Made independent for title creation d_lenum for d_rokudia
+332 - Made independent
+332 - Gained vassal: c_kulamir
+332 - Gained vassal: c_lacihl
+332 - Gained vassal: c_nalisco
+332 - Gained vassal: c_dutum
+332 - Gained vassal: c_kisco
+332 - Destroyed due to no capital's obtainable
+332 - Title destroyed
+332 - vassal: c_kulamir - Setting independent due to liege destruction
+332 - vassal: c_kulamir - Made independent
+332 - vassal: c_lacihl - Setting independent due to liege destruction
+332 - vassal: c_lacihl - Made independent
+332 - vassal: c_nalisco - Setting independent due to liege destruction
+332 - vassal: c_nalisco - Made independent
+332 - vassal: c_dutum - Setting independent due to liege destruction
+332 - vassal: c_dutum - Made independent
+332 - vassal: c_kisco - Setting independent due to liege destruction
+332 - vassal: c_kisco - Made independent

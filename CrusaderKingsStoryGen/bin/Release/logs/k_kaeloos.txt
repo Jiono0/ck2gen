@@ -1,0 +1,1008 @@
+200 - Title given to 1001570
+200 - vassal: d_qorar - Holder 1001570 - Primary title: d_qorar has lost the title: d_qorar
+200 - sub vassal: d_qorar - Holder 1001570 - Primary title: d_qorar has lost the title: d_qorar
+200 - vassal: d_qorar - Title given to 1001570 - Primary title: k_kaeloos
+200 - sub vassal: d_qorar - Title given to 1001570 - Primary title: k_kaeloos
+200 - Holder (1001570) has gained d_qorar
+200 - sub vassal: c_serissa - Holder 1001570 - Primary title: c_serissa has lost the title: c_serissa
+200 - sub vassal: c_serissa - Title given to 1001570 - Primary title: k_kaeloos
+200 - Holder (1001570) has gained c_serissa
+201 - vassal: d_keinatti - Holder 1001898 - Primary title: d_keinatti has lost the title: d_keinatti
+201 - sub vassal: d_keinatti - Holder 1001898 - Primary title: d_keinatti has lost the title: d_keinatti
+201 - vassal: d_keinatti - Title given to 1001898
+201 - sub vassal: d_keinatti - Title given to 1001898
+201 - sub vassal: c_buraa - Holder 1001898 - Primary title: c_buraa has lost the title: c_buraa
+201 - sub vassal: c_buraa - Title given to 1001898 - Primary title: d_keinatti
+201 - vassal: d_keinatti - Holder (1001898) has gained c_buraa
+201 - sub vassal: d_keinatti - Holder (1001898) has gained c_buraa
+201 - sub vassal: c_rutebia - Holder 1001898 - Primary title: c_rutebia has lost the title: c_rutebia
+201 - sub vassal: c_rutebia - Title given to 1001898 - Primary title: d_keinatti
+201 - vassal: d_keinatti - Holder (1001898) has gained c_rutebia
+201 - sub vassal: d_keinatti - Holder (1001898) has gained c_rutebia
+203 - vassal: d_sayanaa - Holder 1001570 - Primary title: d_sayanaa has lost the title: d_sayanaa
+203 - sub vassal: d_sayanaa - Holder 1001570 - Primary title: d_sayanaa has lost the title: d_sayanaa
+203 - vassal: d_sayanaa - Title given to 1001570 - Primary title: k_kaeloos
+203 - sub vassal: d_sayanaa - Title given to 1001570 - Primary title: k_kaeloos
+203 - Holder (1001570) has gained d_sayanaa
+203 - sub vassal: c_sutar - Holder 1001570 - Primary title: c_sutar has lost the title: c_sutar
+203 - sub vassal: c_sutar - Title given to 1001570 - Primary title: k_kaeloos
+203 - Holder (1001570) has gained c_sutar
+203 - sub vassal: c_enage - Holder 1001570 - Primary title: c_enage has lost the title: c_enage
+203 - sub vassal: c_enage - Title given to 1001570 - Primary title: k_kaeloos
+203 - Holder (1001570) has gained c_enage
+210 - vassal: d_rahavar - Holder 1000909 - Primary title: d_rahavar has lost the title: d_rahavar
+210 - sub vassal: d_rahavar - Holder 1000909 - Primary title: d_rahavar has lost the title: d_rahavar
+210 - vassal: d_rahavar - Title given to 1000909 - Primary title: d_lurissa
+210 - sub vassal: d_rahavar - Title given to 1000909 - Primary title: d_lurissa
+210 - vassal: d_lurissa - Holder (1000909) has gained d_rahavar
+210 - sub vassal: d_lurissa - Holder (1000909) has gained d_rahavar
+210 - sub vassal: c_qarisey - Holder 1000909 - Primary title: c_qarisey has lost the title: c_qarisey
+210 - sub vassal: c_qarisey - Title given to 1000909 - Primary title: d_lurissa
+210 - vassal: d_lurissa - Holder (1000909) has gained c_qarisey
+210 - sub vassal: d_lurissa - Holder (1000909) has gained c_qarisey
+210 - sub vassal: c_neinar - Holder 1000909 - Primary title: c_neinar has lost the title: c_neinar
+210 - sub vassal: c_neinar - Title given to 1000909 - Primary title: d_lurissa
+210 - vassal: d_lurissa - Holder (1000909) has gained c_neinar
+210 - sub vassal: d_lurissa - Holder (1000909) has gained c_neinar
+210 - sub vassal: c_kutissa - Holder 1000909 - Primary title: c_kutissa has lost the title: c_kutissa
+210 - sub vassal: c_kutissa - Title given to 1000909 - Primary title: d_lurissa
+210 - vassal: d_lurissa - Holder (1000909) has gained c_kutissa
+210 - sub vassal: d_lurissa - Holder (1000909) has gained c_kutissa
+215 - Holder 1003663 - Primary title: k_kaeloos has lost the title: k_kaeloos
+215 - Title given to 1003663
+215 - vassal: d_qorar - Holder 1003663 - Primary title: d_qorar has lost the title: d_qorar
+215 - sub vassal: d_qorar - Holder 1003663 - Primary title: d_qorar has lost the title: d_qorar
+215 - vassal: d_qorar - Title given to 1003663 - Primary title: k_kaeloos
+215 - sub vassal: d_qorar - Title given to 1003663 - Primary title: k_kaeloos
+215 - Holder (1003663) has gained d_qorar
+215 - sub vassal: c_serissa - Setting to vassal of d_sayanaa in Validate Realm
+215 - vassal: d_qorar - Lost vassal: c_serissa
+215 - sub vassal: d_qorar - Lost vassal: c_serissa
+215 - vassal: d_sayanaa - Gained vassal: c_serissa
+215 - sub vassal: d_sayanaa - Gained vassal: c_serissa
+215 - vassal: d_sayanaa - Holder 1003663 - Primary title: d_sayanaa has lost the title: c_serissa
+215 - sub vassal: d_sayanaa - Holder 1003663 - Primary title: d_sayanaa has lost the title: c_serissa
+215 - sub vassal: c_serissa - Title given to 1003663 - Primary title: k_kaeloos
+215 - Holder (1003663) has gained c_serissa
+215 - sub vassal: c_serissa - Setting to vassal of k_kaeloos in Validate Realm
+215 - vassal: d_sayanaa - Lost vassal: c_serissa
+215 - sub vassal: d_sayanaa - Lost vassal: c_serissa
+215 - Gained vassal: c_serissa
+215 - vassal: d_sayanaa - Holder 1003663 - Primary title: d_sayanaa has lost the title: d_sayanaa
+215 - sub vassal: d_sayanaa - Holder 1003663 - Primary title: d_sayanaa has lost the title: d_sayanaa
+215 - vassal: d_sayanaa - Title given to 1003663 - Primary title: k_kaeloos
+215 - sub vassal: d_sayanaa - Title given to 1003663 - Primary title: k_kaeloos
+215 - Holder (1003663) has gained d_sayanaa
+215 - sub vassal: c_sutar - Holder 1003663 - Primary title: c_sutar has lost the title: c_sutar
+215 - sub vassal: c_sutar - Title given to 1003663 - Primary title: k_kaeloos
+215 - Holder (1003663) has gained c_sutar
+215 - sub vassal: c_enage - Holder 1003663 - Primary title: c_enage has lost the title: c_enage
+215 - sub vassal: c_enage - Title given to 1003663 - Primary title: k_kaeloos
+215 - Holder (1003663) has gained c_enage
+217 - vassal: d_keinatti - Holder 1003717 - Primary title: d_keinatti has lost the title: d_keinatti
+217 - sub vassal: d_keinatti - Holder 1003717 - Primary title: d_keinatti has lost the title: d_keinatti
+217 - vassal: d_keinatti - Title given to 1003717
+217 - sub vassal: d_keinatti - Title given to 1003717
+217 - sub vassal: c_buraa - Holder 1003717 - Primary title: c_buraa has lost the title: c_buraa
+217 - sub vassal: c_buraa - Title given to 1003717 - Primary title: d_keinatti
+217 - vassal: d_keinatti - Holder (1003717) has gained c_buraa
+217 - sub vassal: d_keinatti - Holder (1003717) has gained c_buraa
+217 - sub vassal: c_rutebia - Holder 1003717 - Primary title: c_rutebia has lost the title: c_rutebia
+217 - sub vassal: c_rutebia - Title given to 1003717 - Primary title: d_keinatti
+217 - vassal: d_keinatti - Holder (1003717) has gained c_rutebia
+217 - sub vassal: d_keinatti - Holder (1003717) has gained c_rutebia
+222 - Holder 1003895 - Primary title: k_kaeloos has lost the title: k_kaeloos
+222 - Title given to 1003895
+222 - vassal: d_qorar - Holder 1003895 - Primary title: d_qorar has lost the title: d_qorar
+222 - sub vassal: d_qorar - Holder 1003895 - Primary title: d_qorar has lost the title: d_qorar
+222 - vassal: d_qorar - Title given to 1003895 - Primary title: k_kaeloos
+222 - sub vassal: d_qorar - Title given to 1003895 - Primary title: k_kaeloos
+222 - Holder (1003895) has gained d_qorar
+222 - vassal: c_serissa - Setting to vassal of d_sayanaa in Validate Realm
+222 - sub vassal: c_serissa - Setting to vassal of d_sayanaa in Validate Realm
+222 - Lost vassal: c_serissa
+222 - vassal: d_sayanaa - Gained vassal: c_serissa
+222 - sub vassal: d_sayanaa - Gained vassal: c_serissa
+222 - vassal: d_sayanaa - Holder 1003895 - Primary title: d_sayanaa has lost the title: d_sayanaa
+222 - sub vassal: d_sayanaa - Holder 1003895 - Primary title: d_sayanaa has lost the title: d_sayanaa
+222 - vassal: d_sayanaa - Title given to 1003895 - Primary title: k_kaeloos
+222 - sub vassal: d_sayanaa - Title given to 1003895 - Primary title: k_kaeloos
+222 - Holder (1003895) has gained d_sayanaa
+222 - sub vassal: c_enage - Holder 1003895 - Primary title: c_enage has lost the title: c_enage
+222 - sub vassal: c_enage - Title given to 1003895 - Primary title: k_kaeloos
+222 - Holder (1003895) has gained c_enage
+222 - sub vassal: c_sutar - Holder 1003895 - Primary title: c_sutar has lost the title: c_sutar
+222 - sub vassal: c_sutar - Title given to 1003895 - Primary title: k_kaeloos
+222 - Holder (1003895) has gained c_sutar
+222 - sub vassal: c_serissa - Holder 1003895 - Primary title: c_serissa has lost the title: c_serissa
+222 - sub vassal: c_serissa - Title given to 1003895 - Primary title: k_kaeloos
+222 - Holder (1003895) has gained c_serissa
+236 - vassal: d_rerashad - Holder 1003107 - Primary title: d_rerashad has lost the title: d_rerashad
+236 - sub vassal: d_rerashad - Holder 1003107 - Primary title: d_rerashad has lost the title: d_rerashad
+236 - vassal: d_rerashad - Title given to 1003107
+236 - sub vassal: d_rerashad - Title given to 1003107
+236 - sub vassal: c_rodimir - Holder 1003107 - Primary title: c_rodimir has lost the title: c_rodimir
+236 - sub vassal: c_rodimir - Title given to 1003107 - Primary title: d_rerashad
+236 - vassal: d_rerashad - Holder (1003107) has gained c_rodimir
+236 - sub vassal: d_rerashad - Holder (1003107) has gained c_rodimir
+236 - sub vassal: c_turumer - Holder 1003107 - Primary title: c_turumer has lost the title: c_turumer
+236 - sub vassal: c_turumer - Title given to 1003107 - Primary title: d_rerashad
+236 - vassal: d_rerashad - Holder (1003107) has gained c_turumer
+236 - sub vassal: d_rerashad - Holder (1003107) has gained c_turumer
+236 - sub vassal: c_kodar - Holder 1003107 - Primary title: c_kodar has lost the title: c_kodar
+236 - sub vassal: c_kodar - Title given to 1003107 - Primary title: d_rerashad
+236 - vassal: d_rerashad - Holder (1003107) has gained c_kodar
+236 - sub vassal: d_rerashad - Holder (1003107) has gained c_kodar
+244 - Holder 1005819 - Primary title: k_kaeloos has lost the title: k_kaeloos
+244 - Title given to 1005819
+244 - vassal: d_qorar - Holder 1005819 - Primary title: d_qorar has lost the title: d_qorar
+244 - sub vassal: d_qorar - Holder 1005819 - Primary title: d_qorar has lost the title: d_qorar
+244 - vassal: d_qorar - Title given to 1005819 - Primary title: k_kaeloos
+244 - sub vassal: d_qorar - Title given to 1005819 - Primary title: k_kaeloos
+244 - Holder (1005819) has gained d_qorar
+244 - vassal: d_sayanaa - Holder 1005819 - Primary title: d_sayanaa has lost the title: d_sayanaa
+244 - sub vassal: d_sayanaa - Holder 1005819 - Primary title: d_sayanaa has lost the title: d_sayanaa
+244 - vassal: d_sayanaa - Title given to 1005819 - Primary title: k_kaeloos
+244 - sub vassal: d_sayanaa - Title given to 1005819 - Primary title: k_kaeloos
+244 - Holder (1005819) has gained d_sayanaa
+244 - sub vassal: c_serissa - Holder 1005819 - Primary title: c_serissa has lost the title: c_serissa
+244 - sub vassal: c_serissa - Title given to 1005819 - Primary title: k_kaeloos
+244 - Holder (1005819) has gained c_serissa
+244 - sub vassal: c_sutar - Holder 1005819 - Primary title: c_sutar has lost the title: c_sutar
+244 - sub vassal: c_sutar - Title given to 1005819 - Primary title: k_kaeloos
+244 - Holder (1005819) has gained c_sutar
+244 - sub vassal: c_enage - Holder 1005819 - Primary title: c_enage has lost the title: c_enage
+244 - sub vassal: c_enage - Title given to 1005819 - Primary title: k_kaeloos
+244 - Holder (1005819) has gained c_enage
+245 - vassal: d_rahavar - Holder 1001908 - Primary title: d_rahavar has lost the title: d_rahavar
+245 - sub vassal: d_rahavar - Holder 1001908 - Primary title: d_rahavar has lost the title: d_rahavar
+245 - vassal: d_rahavar - Title given to 1001908
+245 - sub vassal: d_rahavar - Title given to 1001908
+245 - sub vassal: c_qarisey - Setting to vassal of d_lurissa in Validate Realm
+245 - vassal: d_rahavar - Lost vassal: c_qarisey
+245 - sub vassal: d_rahavar - Lost vassal: c_qarisey
+245 - sub vassal: c_neinar - Setting to vassal of d_lurissa in Validate Realm
+245 - vassal: d_rahavar - Lost vassal: c_neinar
+245 - sub vassal: d_rahavar - Lost vassal: c_neinar
+245 - sub vassal: c_kutissa - Setting to vassal of d_lurissa in Validate Realm
+245 - vassal: d_rahavar - Lost vassal: c_kutissa
+245 - sub vassal: d_rahavar - Lost vassal: c_kutissa
+245 - vassal: d_lurissa - Gained vassal: c_kutissa
+245 - sub vassal: d_lurissa - Gained vassal: c_kutissa
+245 - vassal: d_lurissa - Gained vassal: c_neinar
+245 - sub vassal: d_lurissa - Gained vassal: c_neinar
+245 - vassal: d_lurissa - Gained vassal: c_qarisey
+245 - sub vassal: d_lurissa - Gained vassal: c_qarisey
+245 - vassal: d_lurissa - Holder 1001908 - Primary title: d_lurissa has lost the title: d_lurissa
+245 - sub vassal: d_lurissa - Holder 1001908 - Primary title: d_lurissa has lost the title: d_lurissa
+245 - vassal: d_lurissa - Title given to 1001908 - Primary title: d_rahavar
+245 - sub vassal: d_lurissa - Title given to 1001908 - Primary title: d_rahavar
+245 - vassal: d_rahavar - Holder (1001908) has gained d_lurissa
+245 - sub vassal: d_rahavar - Holder (1001908) has gained d_lurissa
+245 - sub vassal: c_rarumer - Holder 1001908 - Primary title: c_rarumer has lost the title: c_rarumer
+245 - sub vassal: c_rarumer - Title given to 1001908 - Primary title: d_rahavar
+245 - vassal: d_rahavar - Holder (1001908) has gained c_rarumer
+245 - sub vassal: d_rahavar - Holder (1001908) has gained c_rarumer
+245 - sub vassal: c_animir - Holder 1001908 - Primary title: c_animir has lost the title: c_animir
+245 - sub vassal: c_animir - Title given to 1001908 - Primary title: d_rahavar
+245 - vassal: d_rahavar - Holder (1001908) has gained c_animir
+245 - sub vassal: d_rahavar - Holder (1001908) has gained c_animir
+245 - sub vassal: c_qarisey - Holder 1001908 - Primary title: c_qarisey has lost the title: c_qarisey
+245 - sub vassal: c_qarisey - Title given to 1001908 - Primary title: d_rahavar
+245 - vassal: d_rahavar - Holder (1001908) has gained c_qarisey
+245 - sub vassal: d_rahavar - Holder (1001908) has gained c_qarisey
+245 - sub vassal: c_neinar - Holder 1001908 - Primary title: c_neinar has lost the title: c_neinar
+245 - sub vassal: c_neinar - Title given to 1001908 - Primary title: d_rahavar
+245 - vassal: d_rahavar - Holder (1001908) has gained c_neinar
+245 - sub vassal: d_rahavar - Holder (1001908) has gained c_neinar
+245 - sub vassal: c_kutissa - Holder 1001908 - Primary title: c_kutissa has lost the title: c_kutissa
+245 - sub vassal: c_kutissa - Title given to 1001908 - Primary title: d_rahavar
+245 - vassal: d_rahavar - Holder (1001908) has gained c_kutissa
+245 - sub vassal: d_rahavar - Holder (1001908) has gained c_kutissa
+246 - vassal: d_rahavar - Destroyed due to flagged problem
+246 - sub vassal: d_rahavar - Destroyed due to flagged problem
+246 - vassal: d_rahavar - Made independent
+246 - sub vassal: d_rahavar - Made independent
+253 - vassal: d_lurissa - Holder (1001908) has gained d_rahavar
+253 - sub vassal: d_lurissa - Holder (1001908) has gained d_rahavar
+253 - Gained vassal: d_rahavar
+253 - vassal: d_rahavar - Made independent for title creation d_rahavar for d_lurissa
+253 - sub vassal: d_rahavar - Made independent for title creation d_rahavar for d_lurissa
+253 - vassal: d_rahavar - Made independent
+253 - sub vassal: d_rahavar - Made independent
+253 - sub vassal: c_rarumer - Set liege on title creation d_rahavar
+253 - vassal: d_lurissa - Lost vassal: c_rarumer
+253 - sub vassal: d_lurissa - Lost vassal: c_rarumer
+253 - sub vassal: c_animir - Set liege on title creation d_rahavar
+253 - vassal: d_lurissa - Lost vassal: c_animir
+253 - sub vassal: d_lurissa - Lost vassal: c_animir
+253 - sub vassal: c_qarisey - Set liege on title creation d_rahavar
+253 - vassal: d_lurissa - Lost vassal: c_qarisey
+253 - sub vassal: d_lurissa - Lost vassal: c_qarisey
+253 - sub vassal: c_neinar - Set liege on title creation d_rahavar
+253 - vassal: d_lurissa - Lost vassal: c_neinar
+253 - sub vassal: d_lurissa - Lost vassal: c_neinar
+253 - sub vassal: c_kutissa - Set liege on title creation d_rahavar
+253 - vassal: d_lurissa - Lost vassal: c_kutissa
+253 - sub vassal: d_lurissa - Lost vassal: c_kutissa
+253 - sub vassal: c_rarumer - Setting independent due to liege destruction
+253 - sub vassal: c_rarumer - Made independent
+253 - sub vassal: c_animir - Setting independent due to liege destruction
+253 - sub vassal: c_animir - Made independent
+253 - sub vassal: c_qarisey - Setting independent due to liege destruction
+253 - sub vassal: c_qarisey - Made independent
+253 - sub vassal: c_neinar - Setting independent due to liege destruction
+253 - sub vassal: c_neinar - Made independent
+253 - sub vassal: c_kutissa - Setting independent due to liege destruction
+253 - sub vassal: c_kutissa - Made independent
+253 - Holder 1001908 - Primary title: k_kaeloos has lost the title: k_kaeloos
+253 - Title given to 1001908 - Primary title: d_lurissa
+253 - vassal: d_lurissa - Holder (1001908) has gained k_kaeloos
+253 - sub vassal: d_lurissa - Holder (1001908) has gained k_kaeloos
+253 - vassal: d_qorar - Holder 1001908 - Primary title: d_qorar has lost the title: d_qorar
+253 - sub vassal: d_qorar - Holder 1001908 - Primary title: d_qorar has lost the title: d_qorar
+253 - vassal: d_qorar - Title given to 1001908 - Primary title: k_kaeloos
+253 - sub vassal: d_qorar - Title given to 1001908 - Primary title: k_kaeloos
+253 - Holder (1001908) has gained d_qorar
+253 - vassal: d_sayanaa - Holder 1001908 - Primary title: d_sayanaa has lost the title: d_sayanaa
+253 - sub vassal: d_sayanaa - Holder 1001908 - Primary title: d_sayanaa has lost the title: d_sayanaa
+253 - vassal: d_sayanaa - Title given to 1001908 - Primary title: k_kaeloos
+253 - sub vassal: d_sayanaa - Title given to 1001908 - Primary title: k_kaeloos
+253 - Holder (1001908) has gained d_sayanaa
+253 - sub vassal: c_serissa - Holder 1001908 - Primary title: c_serissa has lost the title: c_serissa
+253 - sub vassal: c_serissa - Title given to 1001908 - Primary title: k_kaeloos
+253 - Holder (1001908) has gained c_serissa
+253 - sub vassal: c_sutar - Holder 1001908 - Primary title: c_sutar has lost the title: c_sutar
+253 - sub vassal: c_sutar - Title given to 1001908 - Primary title: k_kaeloos
+253 - Holder (1001908) has gained c_sutar
+253 - sub vassal: c_enage - Holder 1001908 - Primary title: c_enage has lost the title: c_enage
+253 - sub vassal: c_enage - Title given to 1001908 - Primary title: k_kaeloos
+253 - Holder (1001908) has gained c_enage
+254 - vassal: d_lurissa - Destroyed due to flagged problem
+254 - sub vassal: d_lurissa - Destroyed due to flagged problem
+254 - vassal: d_lurissa - Made independent
+254 - sub vassal: d_lurissa - Made independent
+254 - vassal: d_daciraz - Holder 1002399 - Primary title: d_daciraz has lost the title: d_daciraz
+254 - sub vassal: d_daciraz - Holder 1002399 - Primary title: d_daciraz has lost the title: d_daciraz
+254 - vassal: d_daciraz - Title given to 1002399
+254 - sub vassal: d_daciraz - Title given to 1002399
+254 - sub vassal: c_larumer - Holder 1002399 - Primary title: c_larumer has lost the title: c_larumer
+254 - sub vassal: c_larumer - Title given to 1002399 - Primary title: d_daciraz
+254 - vassal: d_daciraz - Holder (1002399) has gained c_larumer
+254 - sub vassal: d_daciraz - Holder (1002399) has gained c_larumer
+254 - sub vassal: c_dutissa - Holder 1002399 - Primary title: c_dutissa has lost the title: c_dutissa
+254 - sub vassal: c_dutissa - Title given to 1002399 - Primary title: d_daciraz
+254 - vassal: d_daciraz - Holder (1002399) has gained c_dutissa
+254 - sub vassal: d_daciraz - Holder (1002399) has gained c_dutissa
+254 - sub vassal: c_qatirek - Holder 1002399 - Primary title: c_qatirek has lost the title: c_qatirek
+254 - sub vassal: c_qatirek - Title given to 1002399 - Primary title: d_daciraz
+254 - vassal: d_daciraz - Holder (1002399) has gained c_qatirek
+254 - sub vassal: d_daciraz - Holder (1002399) has gained c_qatirek
+254 - Holder 1003122 - Primary title: k_kaeloos has lost the title: c_qarisey
+254 - Gained vassal: c_qarisey
+254 - Holder 1006921 - Primary title: k_kaeloos has lost the title: c_kutissa
+254 - Gained vassal: c_kutissa
+254 - Holder 1006922 - Primary title: k_kaeloos has lost the title: c_animir
+254 - Gained vassal: c_animir
+260 - vassal: d_rerashad - Holder 1005892 - Primary title: d_rerashad has lost the title: d_rerashad
+260 - sub vassal: d_rerashad - Holder 1005892 - Primary title: d_rerashad has lost the title: d_rerashad
+260 - vassal: d_rerashad - Title given to 1005892
+260 - sub vassal: d_rerashad - Title given to 1005892
+260 - sub vassal: c_rodimir - Holder 1005892 - Primary title: c_rodimir has lost the title: c_rodimir
+260 - sub vassal: c_rodimir - Title given to 1005892 - Primary title: d_rerashad
+260 - vassal: d_rerashad - Holder (1005892) has gained c_rodimir
+260 - sub vassal: d_rerashad - Holder (1005892) has gained c_rodimir
+260 - sub vassal: c_turumer - Holder 1005892 - Primary title: c_turumer has lost the title: c_turumer
+260 - sub vassal: c_turumer - Title given to 1005892 - Primary title: d_rerashad
+260 - vassal: d_rerashad - Holder (1005892) has gained c_turumer
+260 - sub vassal: d_rerashad - Holder (1005892) has gained c_turumer
+260 - sub vassal: c_kodar - Holder 1005892 - Primary title: c_kodar has lost the title: c_kodar
+260 - sub vassal: c_kodar - Title given to 1005892 - Primary title: d_rerashad
+260 - vassal: d_rerashad - Holder (1005892) has gained c_kodar
+260 - sub vassal: d_rerashad - Holder (1005892) has gained c_kodar
+262 - vassal: d_keinatti - Holder 1006056 - Primary title: d_keinatti has lost the title: d_keinatti
+262 - sub vassal: d_keinatti - Holder 1006056 - Primary title: d_keinatti has lost the title: d_keinatti
+262 - vassal: d_keinatti - Title given to 1006056
+262 - sub vassal: d_keinatti - Title given to 1006056
+262 - sub vassal: c_rutebia - Holder 1006056 - Primary title: c_rutebia has lost the title: c_rutebia
+262 - sub vassal: c_rutebia - Title given to 1006056 - Primary title: d_keinatti
+262 - vassal: d_keinatti - Holder (1006056) has gained c_rutebia
+262 - sub vassal: d_keinatti - Holder (1006056) has gained c_rutebia
+262 - sub vassal: c_buraa - Holder 1006056 - Primary title: c_buraa has lost the title: c_buraa
+262 - sub vassal: c_buraa - Title given to 1006056 - Primary title: d_keinatti
+262 - vassal: d_keinatti - Holder (1006056) has gained c_buraa
+262 - sub vassal: d_keinatti - Holder (1006056) has gained c_buraa
+266 - vassal: d_daciraz - Holder 1007246 - Primary title: d_daciraz has lost the title: d_daciraz
+266 - sub vassal: d_daciraz - Holder 1007246 - Primary title: d_daciraz has lost the title: d_daciraz
+266 - vassal: d_daciraz - Title given to 1007246
+266 - sub vassal: d_daciraz - Title given to 1007246
+266 - sub vassal: c_qatirek - Holder 1007246 - Primary title: c_qatirek has lost the title: c_qatirek
+266 - sub vassal: c_qatirek - Title given to 1007246 - Primary title: d_daciraz
+266 - vassal: d_daciraz - Holder (1007246) has gained c_qatirek
+266 - sub vassal: d_daciraz - Holder (1007246) has gained c_qatirek
+266 - sub vassal: c_dutissa - Holder 1007246 - Primary title: c_dutissa has lost the title: c_dutissa
+266 - sub vassal: c_dutissa - Title given to 1007246 - Primary title: d_daciraz
+266 - vassal: d_daciraz - Holder (1007246) has gained c_dutissa
+266 - sub vassal: d_daciraz - Holder (1007246) has gained c_dutissa
+266 - sub vassal: c_larumer - Holder 1007246 - Primary title: c_larumer has lost the title: c_larumer
+266 - sub vassal: c_larumer - Title given to 1007246 - Primary title: d_daciraz
+266 - vassal: d_daciraz - Holder (1007246) has gained c_larumer
+266 - sub vassal: d_daciraz - Holder (1007246) has gained c_larumer
+271 - vassal: d_rerashad - Holder 1006921 - Primary title: d_rerashad has lost the title: d_rerashad
+271 - sub vassal: d_rerashad - Holder 1006921 - Primary title: d_rerashad has lost the title: d_rerashad
+271 - vassal: d_rerashad - Title given to 1006921 - Primary title: c_kutissa
+271 - sub vassal: d_rerashad - Title given to 1006921 - Primary title: c_kutissa
+271 - vassal: c_kutissa - Holder (1006921) has gained d_rerashad
+271 - sub vassal: c_kutissa - Holder (1006921) has gained d_rerashad
+271 - vassal: c_kutissa - Setting to vassal of d_rerashad in Validate Realm
+271 - sub vassal: c_kutissa - Setting to vassal of d_rerashad in Validate Realm
+271 - Lost vassal: c_kutissa
+271 - vassal: d_rerashad - Gained vassal: c_kutissa
+271 - sub vassal: d_rerashad - Gained vassal: c_kutissa
+271 - sub vassal: c_rodimir - Holder 1006921 - Primary title: c_rodimir has lost the title: c_rodimir
+271 - sub vassal: c_rodimir - Title given to 1006921 - Primary title: d_rerashad
+271 - vassal: d_rerashad - Holder (1006921) has gained c_rodimir
+271 - sub vassal: d_rerashad - Holder (1006921) has gained c_rodimir
+271 - sub vassal: c_turumer - Holder 1006921 - Primary title: c_turumer has lost the title: c_turumer
+271 - sub vassal: c_turumer - Title given to 1006921 - Primary title: d_rerashad
+271 - vassal: d_rerashad - Holder (1006921) has gained c_turumer
+271 - sub vassal: d_rerashad - Holder (1006921) has gained c_turumer
+271 - sub vassal: c_kodar - Holder 1006921 - Primary title: c_kodar has lost the title: c_kodar
+271 - sub vassal: c_kodar - Title given to 1006921 - Primary title: d_rerashad
+271 - vassal: d_rerashad - Holder (1006921) has gained c_kodar
+271 - sub vassal: d_rerashad - Holder (1006921) has gained c_kodar
+277 - Holder 1007710 - Primary title: k_kaeloos has lost the title: k_kaeloos
+277 - Title given to 1007710
+277 - vassal: d_qorar - Holder 1007710 - Primary title: d_qorar has lost the title: d_qorar
+277 - sub vassal: d_qorar - Holder 1007710 - Primary title: d_qorar has lost the title: d_qorar
+277 - vassal: d_qorar - Title given to 1007710 - Primary title: k_kaeloos
+277 - sub vassal: d_qorar - Title given to 1007710 - Primary title: k_kaeloos
+277 - Holder (1007710) has gained d_qorar
+277 - vassal: d_sayanaa - Holder 1007710 - Primary title: d_sayanaa has lost the title: d_sayanaa
+277 - sub vassal: d_sayanaa - Holder 1007710 - Primary title: d_sayanaa has lost the title: d_sayanaa
+277 - vassal: d_sayanaa - Title given to 1007710 - Primary title: k_kaeloos
+277 - sub vassal: d_sayanaa - Title given to 1007710 - Primary title: k_kaeloos
+277 - Holder (1007710) has gained d_sayanaa
+277 - sub vassal: c_enage - Holder 1007710 - Primary title: c_enage has lost the title: c_enage
+277 - sub vassal: c_enage - Title given to 1007710 - Primary title: k_kaeloos
+277 - Holder (1007710) has gained c_enage
+277 - sub vassal: c_sutar - Holder 1007710 - Primary title: c_sutar has lost the title: c_sutar
+277 - sub vassal: c_sutar - Title given to 1007710 - Primary title: k_kaeloos
+277 - Holder (1007710) has gained c_sutar
+277 - sub vassal: c_serissa - Holder 1007710 - Primary title: c_serissa has lost the title: c_serissa
+277 - sub vassal: c_serissa - Title given to 1007710 - Primary title: k_kaeloos
+277 - Holder (1007710) has gained c_serissa
+277 - Holder (1007710) has gained c_neinar
+277 - Holder (1007710) has gained c_rarumer
+283 - Holder 1009370 - Primary title: k_kaeloos has lost the title: k_kaeloos
+283 - Title given to 1009370
+283 - vassal: d_qorar - Holder 1009370 - Primary title: d_qorar has lost the title: d_qorar
+283 - sub vassal: d_qorar - Holder 1009370 - Primary title: d_qorar has lost the title: d_qorar
+283 - vassal: d_qorar - Title given to 1009370 - Primary title: k_kaeloos
+283 - sub vassal: d_qorar - Title given to 1009370 - Primary title: k_kaeloos
+283 - Holder (1009370) has gained d_qorar
+283 - vassal: d_sayanaa - Holder 1009370 - Primary title: d_sayanaa has lost the title: d_sayanaa
+283 - sub vassal: d_sayanaa - Holder 1009370 - Primary title: d_sayanaa has lost the title: d_sayanaa
+283 - vassal: d_sayanaa - Title given to 1009370 - Primary title: k_kaeloos
+283 - sub vassal: d_sayanaa - Title given to 1009370 - Primary title: k_kaeloos
+283 - Holder (1009370) has gained d_sayanaa
+283 - Holder (1009370) has gained c_rarumer
+283 - Holder (1009370) has gained c_neinar
+283 - Holder (1009370) has gained c_serissa
+283 - Holder (1009370) has gained c_sutar
+283 - Holder (1009370) has gained c_enage
+284 - vassal: d_sayanaa - Destroyed due to flagged problem
+284 - sub vassal: d_sayanaa - Destroyed due to flagged problem
+284 - vassal: d_sayanaa - Made independent
+284 - sub vassal: d_sayanaa - Made independent
+284 - vassal: c_animir - Holder 1009370 - Primary title: c_animir has lost the title: c_animir
+284 - sub vassal: c_animir - Holder 1009370 - Primary title: c_animir has lost the title: c_animir
+284 - vassal: c_animir - Title given to 1009370 - Primary title: k_kaeloos
+284 - sub vassal: c_animir - Title given to 1009370 - Primary title: k_kaeloos
+284 - Holder (1009370) has gained c_animir
+284 - Holder 1009450 - Primary title: k_kaeloos has lost the title: c_sutar
+284 - Gained vassal: c_sutar
+290 - vassal: d_keinatti - Holder 1008182 - Primary title: d_keinatti has lost the title: d_keinatti
+290 - sub vassal: d_keinatti - Holder 1008182 - Primary title: d_keinatti has lost the title: d_keinatti
+290 - vassal: d_keinatti - Title given to 1008182
+290 - sub vassal: d_keinatti - Title given to 1008182
+290 - sub vassal: c_buraa - Holder 1008182 - Primary title: c_buraa has lost the title: c_buraa
+290 - sub vassal: c_buraa - Title given to 1008182 - Primary title: d_keinatti
+290 - vassal: d_keinatti - Holder (1008182) has gained c_buraa
+290 - sub vassal: d_keinatti - Holder (1008182) has gained c_buraa
+290 - sub vassal: c_rutebia - Holder 1008182 - Primary title: c_rutebia has lost the title: c_rutebia
+290 - sub vassal: c_rutebia - Title given to 1008182 - Primary title: d_keinatti
+290 - vassal: d_keinatti - Holder (1008182) has gained c_rutebia
+290 - sub vassal: d_keinatti - Holder (1008182) has gained c_rutebia
+290 - vassal: d_rerashad - Holder 1008621 - Primary title: d_rerashad has lost the title: d_rerashad
+290 - sub vassal: d_rerashad - Holder 1008621 - Primary title: d_rerashad has lost the title: d_rerashad
+290 - vassal: d_rerashad - Title given to 1008621
+290 - sub vassal: d_rerashad - Title given to 1008621
+290 - sub vassal: c_kodar - Holder 1008621 - Primary title: c_kodar has lost the title: c_kodar
+290 - sub vassal: c_kodar - Title given to 1008621 - Primary title: d_rerashad
+290 - vassal: d_rerashad - Holder (1008621) has gained c_kodar
+290 - sub vassal: d_rerashad - Holder (1008621) has gained c_kodar
+290 - sub vassal: c_turumer - Holder 1008621 - Primary title: c_turumer has lost the title: c_turumer
+290 - sub vassal: c_turumer - Title given to 1008621 - Primary title: d_rerashad
+290 - vassal: d_rerashad - Holder (1008621) has gained c_turumer
+290 - sub vassal: d_rerashad - Holder (1008621) has gained c_turumer
+290 - sub vassal: c_rodimir - Holder 1008621 - Primary title: c_rodimir has lost the title: c_rodimir
+290 - sub vassal: c_rodimir - Title given to 1008621 - Primary title: d_rerashad
+290 - vassal: d_rerashad - Holder (1008621) has gained c_rodimir
+290 - sub vassal: d_rerashad - Holder (1008621) has gained c_rodimir
+290 - sub vassal: c_kutissa - Holder 1008621 - Primary title: c_kutissa has lost the title: c_kutissa
+290 - sub vassal: c_kutissa - Title given to 1008621 - Primary title: d_rerashad
+290 - vassal: d_rerashad - Holder (1008621) has gained c_kutissa
+290 - sub vassal: d_rerashad - Holder (1008621) has gained c_kutissa
+300 - sub vassal: c_layanar - Holder 1009370 - Primary title: c_layanar has lost the title: c_layanar
+300 - sub vassal: c_layanar - Title given to 1009370 - Primary title: k_kaeloos
+300 - Holder (1009370) has gained c_layanar
+300 - sub vassal: c_beinimir - Holder 1009370 - Primary title: c_beinimir has lost the title: c_beinimir
+300 - sub vassal: c_beinimir - Title given to 1009370 - Primary title: k_kaeloos
+300 - Holder (1009370) has gained c_beinimir
+300 - Holder 1010823 - Primary title: k_kaeloos has lost the title: c_serissa
+300 - Gained vassal: c_serissa
+300 - Holder 1010824 - Primary title: k_kaeloos has lost the title: c_enage
+300 - Gained vassal: c_enage
+310 - Holder 1011623 - Primary title: k_kaeloos has lost the title: k_kaeloos
+310 - Title given to 1011623
+310 - vassal: d_qorar - Holder 1011623 - Primary title: d_qorar has lost the title: d_qorar
+310 - sub vassal: d_qorar - Holder 1011623 - Primary title: d_qorar has lost the title: d_qorar
+310 - vassal: d_qorar - Title given to 1011623 - Primary title: k_kaeloos
+310 - sub vassal: d_qorar - Title given to 1011623 - Primary title: k_kaeloos
+310 - Holder (1011623) has gained d_qorar
+310 - vassal: c_animir - Setting independent in Validate Realm
+310 - sub vassal: c_animir - Setting independent in Validate Realm
+310 - vassal: c_animir - Made independent
+310 - sub vassal: c_animir - Made independent
+310 - sub vassal: c_beinimir - Holder 1011623 - Primary title: c_beinimir has lost the title: c_beinimir
+310 - sub vassal: c_beinimir - Title given to 1011623 - Primary title: k_kaeloos
+310 - Holder (1011623) has gained c_beinimir
+310 - sub vassal: c_layanar - Holder 1011623 - Primary title: c_layanar has lost the title: c_layanar
+310 - sub vassal: c_layanar - Title given to 1011623 - Primary title: k_kaeloos
+310 - Holder (1011623) has gained c_layanar
+310 - Holder (1011623) has gained c_animir
+310 - Holder (1011623) has gained c_neinar
+310 - Holder (1011623) has gained c_rarumer
+311 - vassal: d_daciraz - Holder 1009023 - Primary title: d_daciraz has lost the title: d_daciraz
+311 - sub vassal: d_daciraz - Holder 1009023 - Primary title: d_daciraz has lost the title: d_daciraz
+311 - vassal: d_daciraz - Title given to 1009023
+311 - sub vassal: d_daciraz - Title given to 1009023
+311 - sub vassal: c_qatirek - Holder 1009023 - Primary title: c_qatirek has lost the title: c_qatirek
+311 - sub vassal: c_qatirek - Title given to 1009023 - Primary title: d_daciraz
+311 - vassal: d_daciraz - Holder (1009023) has gained c_qatirek
+311 - sub vassal: d_daciraz - Holder (1009023) has gained c_qatirek
+311 - sub vassal: c_dutissa - Holder 1009023 - Primary title: c_dutissa has lost the title: c_dutissa
+311 - sub vassal: c_dutissa - Title given to 1009023 - Primary title: d_daciraz
+311 - vassal: d_daciraz - Holder (1009023) has gained c_dutissa
+311 - sub vassal: d_daciraz - Holder (1009023) has gained c_dutissa
+311 - sub vassal: c_larumer - Holder 1009023 - Primary title: c_larumer has lost the title: c_larumer
+311 - sub vassal: c_larumer - Title given to 1009023 - Primary title: d_daciraz
+311 - vassal: d_daciraz - Holder (1009023) has gained c_larumer
+311 - sub vassal: d_daciraz - Holder (1009023) has gained c_larumer
+313 - vassal: d_rerashad - Holder 1010779 - Primary title: d_rerashad has lost the title: d_rerashad
+313 - sub vassal: d_rerashad - Holder 1010779 - Primary title: d_rerashad has lost the title: d_rerashad
+313 - vassal: d_rerashad - Title given to 1010779
+313 - sub vassal: d_rerashad - Title given to 1010779
+313 - sub vassal: c_kutissa - Holder 1010779 - Primary title: c_kutissa has lost the title: c_kutissa
+313 - sub vassal: c_kutissa - Title given to 1010779 - Primary title: d_rerashad
+313 - vassal: d_rerashad - Holder (1010779) has gained c_kutissa
+313 - sub vassal: d_rerashad - Holder (1010779) has gained c_kutissa
+313 - sub vassal: c_rodimir - Holder 1010779 - Primary title: c_rodimir has lost the title: c_rodimir
+313 - sub vassal: c_rodimir - Title given to 1010779 - Primary title: d_rerashad
+313 - vassal: d_rerashad - Holder (1010779) has gained c_rodimir
+313 - sub vassal: d_rerashad - Holder (1010779) has gained c_rodimir
+313 - sub vassal: c_turumer - Holder 1010779 - Primary title: c_turumer has lost the title: c_turumer
+313 - sub vassal: c_turumer - Title given to 1010779 - Primary title: d_rerashad
+313 - vassal: d_rerashad - Holder (1010779) has gained c_turumer
+313 - sub vassal: d_rerashad - Holder (1010779) has gained c_turumer
+313 - sub vassal: c_kodar - Holder 1010779 - Primary title: c_kodar has lost the title: c_kodar
+313 - sub vassal: c_kodar - Title given to 1010779 - Primary title: d_rerashad
+313 - vassal: d_rerashad - Holder (1010779) has gained c_kodar
+313 - sub vassal: d_rerashad - Holder (1010779) has gained c_kodar
+314 - vassal: d_rerashad - Holder 1009450 - Primary title: d_rerashad has lost the title: d_rerashad
+314 - sub vassal: d_rerashad - Holder 1009450 - Primary title: d_rerashad has lost the title: d_rerashad
+314 - vassal: d_rerashad - Title given to 1009450 - Primary title: c_sutar
+314 - sub vassal: d_rerashad - Title given to 1009450 - Primary title: c_sutar
+314 - vassal: c_sutar - Holder (1009450) has gained d_rerashad
+314 - sub vassal: c_sutar - Holder (1009450) has gained d_rerashad
+314 - vassal: c_sutar - Setting to vassal of d_rerashad in Validate Realm
+314 - sub vassal: c_sutar - Setting to vassal of d_rerashad in Validate Realm
+314 - Lost vassal: c_sutar
+314 - vassal: d_rerashad - Gained vassal: c_sutar
+314 - sub vassal: d_rerashad - Gained vassal: c_sutar
+314 - sub vassal: c_kutissa - Holder 1009450 - Primary title: c_kutissa has lost the title: c_kutissa
+314 - sub vassal: c_kutissa - Title given to 1009450 - Primary title: d_rerashad
+314 - vassal: d_rerashad - Holder (1009450) has gained c_kutissa
+314 - sub vassal: d_rerashad - Holder (1009450) has gained c_kutissa
+314 - sub vassal: c_rodimir - Holder 1009450 - Primary title: c_rodimir has lost the title: c_rodimir
+314 - sub vassal: c_rodimir - Title given to 1009450 - Primary title: d_rerashad
+314 - vassal: d_rerashad - Holder (1009450) has gained c_rodimir
+314 - sub vassal: d_rerashad - Holder (1009450) has gained c_rodimir
+314 - sub vassal: c_turumer - Holder 1009450 - Primary title: c_turumer has lost the title: c_turumer
+314 - sub vassal: c_turumer - Title given to 1009450 - Primary title: d_rerashad
+314 - vassal: d_rerashad - Holder (1009450) has gained c_turumer
+314 - sub vassal: d_rerashad - Holder (1009450) has gained c_turumer
+314 - sub vassal: c_kodar - Holder 1009450 - Primary title: c_kodar has lost the title: c_kodar
+314 - sub vassal: c_kodar - Title given to 1009450 - Primary title: d_rerashad
+314 - vassal: d_rerashad - Holder (1009450) has gained c_kodar
+314 - sub vassal: d_rerashad - Holder (1009450) has gained c_kodar
+326 - Holder 1003122 - Primary title: k_kaeloos has lost the title: k_kaeloos
+326 - Title given to 1003122 - Primary title: c_qarisey
+326 - vassal: c_qarisey - Holder (1003122) has gained k_kaeloos
+326 - sub vassal: c_qarisey - Holder (1003122) has gained k_kaeloos
+326 - vassal: d_qorar - Holder 1003122 - Primary title: d_qorar has lost the title: d_qorar
+326 - sub vassal: d_qorar - Holder 1003122 - Primary title: d_qorar has lost the title: d_qorar
+326 - vassal: d_qorar - Title given to 1003122 - Primary title: k_kaeloos
+326 - sub vassal: d_qorar - Title given to 1003122 - Primary title: k_kaeloos
+326 - Holder (1003122) has gained d_qorar
+326 - Holder (1003122) has gained c_rarumer
+326 - Holder (1003122) has gained c_neinar
+326 - Holder (1003122) has gained c_animir
+326 - Holder (1003122) has gained c_layanar
+326 - Holder (1003122) has gained c_beinimir
+327 - vassal: d_qorar - Destroyed due to flagged problem
+327 - sub vassal: d_qorar - Destroyed due to flagged problem
+327 - vassal: d_qorar - Made independent
+327 - sub vassal: d_qorar - Made independent
+327 - Holder 1012914 - Primary title: k_kaeloos has lost the title: c_rarumer
+327 - Gained vassal: c_rarumer
+329 - vassal: d_rerashad - Holder 1003122 - Primary title: d_rerashad has lost the title: d_rerashad
+329 - sub vassal: d_rerashad - Holder 1003122 - Primary title: d_rerashad has lost the title: d_rerashad
+329 - vassal: d_rerashad - Title given to 1003122 - Primary title: k_kaeloos
+329 - sub vassal: d_rerashad - Title given to 1003122 - Primary title: k_kaeloos
+329 - Holder (1003122) has gained d_rerashad
+329 - sub vassal: c_kodar - Holder 1003122 - Primary title: c_kodar has lost the title: c_kodar
+329 - sub vassal: c_kodar - Title given to 1003122 - Primary title: k_kaeloos
+329 - Holder (1003122) has gained c_kodar
+329 - sub vassal: c_turumer - Holder 1003122 - Primary title: c_turumer has lost the title: c_turumer
+329 - sub vassal: c_turumer - Title given to 1003122 - Primary title: k_kaeloos
+329 - Holder (1003122) has gained c_turumer
+329 - sub vassal: c_rodimir - Holder 1003122 - Primary title: c_rodimir has lost the title: c_rodimir
+329 - sub vassal: c_rodimir - Title given to 1003122 - Primary title: k_kaeloos
+329 - Holder (1003122) has gained c_rodimir
+329 - sub vassal: c_kutissa - Holder 1003122 - Primary title: c_kutissa has lost the title: c_kutissa
+329 - sub vassal: c_kutissa - Title given to 1003122 - Primary title: k_kaeloos
+329 - Holder (1003122) has gained c_kutissa
+329 - sub vassal: c_sutar - Holder 1003122 - Primary title: c_sutar has lost the title: c_sutar
+329 - sub vassal: c_sutar - Title given to 1003122 - Primary title: k_kaeloos
+329 - Holder (1003122) has gained c_sutar
+329 - Holder 1013059 - Primary title: k_kaeloos has lost the title: c_layanar
+329 - Gained vassal: c_layanar
+329 - Holder 1013060 - Primary title: k_kaeloos has lost the title: c_kutissa
+329 - sub vassal: c_kutissa - Title given to 1013060
+329 - Holder 1013061 - Primary title: k_kaeloos has lost the title: c_kodar
+329 - sub vassal: c_kodar - Title given to 1013061
+329 - Holder 1013062 - Primary title: k_kaeloos has lost the title: c_rodimir
+329 - sub vassal: c_rodimir - Title given to 1013062
+329 - Holder 1013063 - Primary title: k_kaeloos has lost the title: c_turumer
+329 - sub vassal: c_turumer - Title given to 1013063
+329 - Holder 1013064 - Primary title: k_kaeloos has lost the title: k_kaeloos
+329 - Title given to 1013064
+329 - vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: c_qarisey
+329 - sub vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: c_qarisey
+329 - vassal: c_qarisey - Title given to 1013064 - Primary title: k_kaeloos
+329 - sub vassal: c_qarisey - Title given to 1013064 - Primary title: k_kaeloos
+329 - Holder (1013064) has gained c_qarisey
+329 - vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: c_neinar
+329 - sub vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: c_neinar
+329 - Holder (1013064) has gained c_neinar
+329 - vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: c_animir
+329 - sub vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: c_animir
+329 - Holder (1013064) has gained c_animir
+329 - vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: c_beinimir
+329 - sub vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: c_beinimir
+329 - Holder (1013064) has gained c_beinimir
+329 - vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: d_rerashad
+329 - sub vassal: d_rerashad - Holder 1013064 - Primary title: d_rerashad has lost the title: d_rerashad
+329 - vassal: d_rerashad - Title given to 1013064 - Primary title: k_kaeloos
+329 - sub vassal: d_rerashad - Title given to 1013064 - Primary title: k_kaeloos
+329 - Holder (1013064) has gained d_rerashad
+329 - sub vassal: c_sutar - Holder 1013064 - Primary title: c_sutar has lost the title: c_sutar
+329 - sub vassal: c_sutar - Title given to 1013064 - Primary title: k_kaeloos
+329 - Holder (1013064) has gained c_sutar
+330 - vassal: d_keinatti - Holder 1011051 - Primary title: d_keinatti has lost the title: d_keinatti
+330 - sub vassal: d_keinatti - Holder 1011051 - Primary title: d_keinatti has lost the title: d_keinatti
+330 - vassal: d_keinatti - Title given to 1011051
+330 - sub vassal: d_keinatti - Title given to 1011051
+330 - sub vassal: c_buraa - Holder 1011051 - Primary title: c_buraa has lost the title: c_buraa
+330 - sub vassal: c_buraa - Title given to 1011051 - Primary title: d_keinatti
+330 - vassal: d_keinatti - Holder (1011051) has gained c_buraa
+330 - sub vassal: d_keinatti - Holder (1011051) has gained c_buraa
+330 - sub vassal: c_rutebia - Holder 1011051 - Primary title: c_rutebia has lost the title: c_rutebia
+330 - sub vassal: c_rutebia - Title given to 1011051 - Primary title: d_keinatti
+330 - vassal: d_keinatti - Holder (1011051) has gained c_rutebia
+330 - sub vassal: d_keinatti - Holder (1011051) has gained c_rutebia
+333 - Holder 1009023 - Primary title: k_kaeloos has lost the title: k_kaeloos
+333 - Title given to 1009023 - Primary title: d_daciraz
+333 - vassal: d_daciraz - Holder (1009023) has gained k_kaeloos
+333 - sub vassal: d_daciraz - Holder (1009023) has gained k_kaeloos
+333 - vassal: c_qarisey - Setting to vassal of d_rerashad in Validate Realm
+333 - sub vassal: c_qarisey - Setting to vassal of d_rerashad in Validate Realm
+333 - Lost vassal: c_qarisey
+333 - vassal: d_rerashad - Gained vassal: c_qarisey
+333 - sub vassal: d_rerashad - Gained vassal: c_qarisey
+333 - vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: c_qarisey
+333 - sub vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: c_qarisey
+333 - sub vassal: c_qarisey - Title given to 1009023 - Primary title: k_kaeloos
+333 - Holder (1009023) has gained c_qarisey
+333 - sub vassal: c_qarisey - Setting to vassal of k_kaeloos in Validate Realm
+333 - vassal: d_rerashad - Lost vassal: c_qarisey
+333 - sub vassal: d_rerashad - Lost vassal: c_qarisey
+333 - Gained vassal: c_qarisey
+333 - vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: c_neinar
+333 - sub vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: c_neinar
+333 - Holder (1009023) has gained c_neinar
+333 - vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: c_animir
+333 - sub vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: c_animir
+333 - Holder (1009023) has gained c_animir
+333 - vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: c_beinimir
+333 - sub vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: c_beinimir
+333 - Holder (1009023) has gained c_beinimir
+333 - vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: d_rerashad
+333 - sub vassal: d_rerashad - Holder 1009023 - Primary title: d_rerashad has lost the title: d_rerashad
+333 - vassal: d_rerashad - Title given to 1009023 - Primary title: k_kaeloos
+333 - sub vassal: d_rerashad - Title given to 1009023 - Primary title: k_kaeloos
+333 - Holder (1009023) has gained d_rerashad
+333 - sub vassal: c_sutar - Holder 1009023 - Primary title: c_sutar has lost the title: c_sutar
+333 - sub vassal: c_sutar - Title given to 1009023 - Primary title: k_kaeloos
+333 - Holder (1009023) has gained c_sutar
+334 - Holder 1013464 - Primary title: k_kaeloos has lost the title: c_sutar
+334 - sub vassal: c_sutar - Title given to 1013464
+334 - Holder 1013465 - Primary title: k_kaeloos has lost the title: c_qatirek
+334 - sub vassal: c_qatirek - Title given to 1013465
+334 - Holder 1013466 - Primary title: k_kaeloos has lost the title: c_dutissa
+334 - sub vassal: c_dutissa - Title given to 1013466
+334 - Holder 1012914 - Primary title: k_kaeloos has lost the title: k_kaeloos
+334 - Title given to 1012914 - Primary title: c_rarumer
+334 - vassal: c_rarumer - Holder (1012914) has gained k_kaeloos
+334 - sub vassal: c_rarumer - Holder (1012914) has gained k_kaeloos
+334 - vassal: c_qarisey - Setting to vassal of d_daciraz in Validate Realm
+334 - sub vassal: c_qarisey - Setting to vassal of d_daciraz in Validate Realm
+334 - Lost vassal: c_qarisey
+334 - vassal: d_daciraz - Gained vassal: c_qarisey
+334 - sub vassal: d_daciraz - Gained vassal: c_qarisey
+334 - vassal: d_daciraz - Holder 1012914 - Primary title: d_daciraz has lost the title: d_daciraz
+334 - sub vassal: d_daciraz - Holder 1012914 - Primary title: d_daciraz has lost the title: d_daciraz
+334 - vassal: d_daciraz - Title given to 1012914 - Primary title: k_kaeloos
+334 - sub vassal: d_daciraz - Title given to 1012914 - Primary title: k_kaeloos
+334 - Holder (1012914) has gained d_daciraz
+334 - sub vassal: c_larumer - Setting to vassal of d_rerashad in Validate Realm
+334 - vassal: d_daciraz - Lost vassal: c_larumer
+334 - sub vassal: d_daciraz - Lost vassal: c_larumer
+334 - sub vassal: c_qarisey - Setting to vassal of d_rerashad in Validate Realm
+334 - vassal: d_daciraz - Lost vassal: c_qarisey
+334 - sub vassal: d_daciraz - Lost vassal: c_qarisey
+334 - vassal: d_rerashad - Gained vassal: c_qarisey
+334 - sub vassal: d_rerashad - Gained vassal: c_qarisey
+334 - vassal: d_rerashad - Gained vassal: c_larumer
+334 - sub vassal: d_rerashad - Gained vassal: c_larumer
+334 - vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_larumer
+334 - sub vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_larumer
+334 - sub vassal: c_larumer - Title given to 1012914 - Primary title: k_kaeloos
+334 - Holder (1012914) has gained c_larumer
+334 - sub vassal: c_larumer - Setting to vassal of k_kaeloos in Validate Realm
+334 - vassal: d_rerashad - Lost vassal: c_larumer
+334 - sub vassal: d_rerashad - Lost vassal: c_larumer
+334 - Gained vassal: c_larumer
+334 - vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_qarisey
+334 - sub vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_qarisey
+334 - sub vassal: c_qarisey - Title given to 1012914 - Primary title: k_kaeloos
+334 - Holder (1012914) has gained c_qarisey
+334 - sub vassal: c_qarisey - Setting to vassal of k_kaeloos in Validate Realm
+334 - vassal: d_rerashad - Lost vassal: c_qarisey
+334 - sub vassal: d_rerashad - Lost vassal: c_qarisey
+334 - Gained vassal: c_qarisey
+334 - vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_neinar
+334 - sub vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_neinar
+334 - Holder (1012914) has gained c_neinar
+334 - vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_animir
+334 - sub vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_animir
+334 - Holder (1012914) has gained c_animir
+334 - vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_beinimir
+334 - sub vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: c_beinimir
+334 - Holder (1012914) has gained c_beinimir
+334 - vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: d_rerashad
+334 - sub vassal: d_rerashad - Holder 1012914 - Primary title: d_rerashad has lost the title: d_rerashad
+334 - vassal: d_rerashad - Title given to 1012914 - Primary title: k_kaeloos
+334 - sub vassal: d_rerashad - Title given to 1012914 - Primary title: k_kaeloos
+334 - Holder (1012914) has gained d_rerashad
+335 - Holder 1013534 - Primary title: k_kaeloos has lost the title: c_neinar
+335 - Gained vassal: c_neinar
+339 - Holder 1013605 - Primary title: k_kaeloos has lost the title: k_kaeloos
+339 - Title given to 1013605
+339 - vassal: d_daciraz - Holder 1013605 - Primary title: d_daciraz has lost the title: c_rarumer
+339 - sub vassal: d_daciraz - Holder 1013605 - Primary title: d_daciraz has lost the title: c_rarumer
+339 - vassal: c_rarumer - Title given to 1013605 - Primary title: k_kaeloos
+339 - sub vassal: c_rarumer - Title given to 1013605 - Primary title: k_kaeloos
+339 - Holder (1013605) has gained c_rarumer
+339 - vassal: c_larumer - Setting to vassal of d_daciraz in Validate Realm
+339 - sub vassal: c_larumer - Setting to vassal of d_daciraz in Validate Realm
+339 - Lost vassal: c_larumer
+339 - vassal: c_qarisey - Setting to vassal of d_daciraz in Validate Realm
+339 - sub vassal: c_qarisey - Setting to vassal of d_daciraz in Validate Realm
+339 - Lost vassal: c_qarisey
+339 - vassal: d_daciraz - Gained vassal: c_qarisey
+339 - sub vassal: d_daciraz - Gained vassal: c_qarisey
+339 - vassal: d_daciraz - Gained vassal: c_larumer
+339 - sub vassal: d_daciraz - Gained vassal: c_larumer
+339 - vassal: d_daciraz - Holder 1013605 - Primary title: d_daciraz has lost the title: d_daciraz
+339 - sub vassal: d_daciraz - Holder 1013605 - Primary title: d_daciraz has lost the title: d_daciraz
+339 - vassal: d_daciraz - Title given to 1013605 - Primary title: k_kaeloos
+339 - sub vassal: d_daciraz - Title given to 1013605 - Primary title: k_kaeloos
+339 - Holder (1013605) has gained d_daciraz
+339 - sub vassal: c_larumer - Setting to vassal of d_rerashad in Validate Realm
+339 - vassal: d_daciraz - Lost vassal: c_larumer
+339 - sub vassal: d_daciraz - Lost vassal: c_larumer
+339 - sub vassal: c_qarisey - Setting to vassal of d_rerashad in Validate Realm
+339 - vassal: d_daciraz - Lost vassal: c_qarisey
+339 - sub vassal: d_daciraz - Lost vassal: c_qarisey
+339 - vassal: d_rerashad - Gained vassal: c_qarisey
+339 - sub vassal: d_rerashad - Gained vassal: c_qarisey
+339 - vassal: d_rerashad - Gained vassal: c_larumer
+339 - sub vassal: d_rerashad - Gained vassal: c_larumer
+339 - vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: c_larumer
+339 - sub vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: c_larumer
+339 - sub vassal: c_larumer - Title given to 1013605 - Primary title: k_kaeloos
+339 - Holder (1013605) has gained c_larumer
+339 - sub vassal: c_larumer - Setting to vassal of k_kaeloos in Validate Realm
+339 - vassal: d_rerashad - Lost vassal: c_larumer
+339 - sub vassal: d_rerashad - Lost vassal: c_larumer
+339 - Gained vassal: c_larumer
+339 - vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: c_qarisey
+339 - sub vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: c_qarisey
+339 - sub vassal: c_qarisey - Title given to 1013605 - Primary title: k_kaeloos
+339 - Holder (1013605) has gained c_qarisey
+339 - sub vassal: c_qarisey - Setting to vassal of k_kaeloos in Validate Realm
+339 - vassal: d_rerashad - Lost vassal: c_qarisey
+339 - sub vassal: d_rerashad - Lost vassal: c_qarisey
+339 - Gained vassal: c_qarisey
+339 - vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: c_animir
+339 - sub vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: c_animir
+339 - Holder (1013605) has gained c_animir
+339 - vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: c_beinimir
+339 - sub vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: c_beinimir
+339 - Holder (1013605) has gained c_beinimir
+339 - vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: d_rerashad
+339 - sub vassal: d_rerashad - Holder 1013605 - Primary title: d_rerashad has lost the title: d_rerashad
+339 - vassal: d_rerashad - Title given to 1013605 - Primary title: k_kaeloos
+339 - sub vassal: d_rerashad - Title given to 1013605 - Primary title: k_kaeloos
+339 - Holder (1013605) has gained d_rerashad
+349 - vassal: d_keinatti - Holder 1013605 - Primary title: d_keinatti has lost the title: d_keinatti
+349 - sub vassal: d_keinatti - Holder 1013605 - Primary title: d_keinatti has lost the title: d_keinatti
+349 - vassal: d_keinatti - Title given to 1013605 - Primary title: k_kaeloos
+349 - sub vassal: d_keinatti - Title given to 1013605 - Primary title: k_kaeloos
+349 - Holder (1013605) has gained d_keinatti
+349 - sub vassal: c_rutebia - Holder 1013605 - Primary title: c_rutebia has lost the title: c_rutebia
+349 - sub vassal: c_rutebia - Title given to 1013605 - Primary title: k_kaeloos
+349 - Holder (1013605) has gained c_rutebia
+349 - sub vassal: c_buraa - Holder 1013605 - Primary title: c_buraa has lost the title: c_buraa
+349 - sub vassal: c_buraa - Title given to 1013605 - Primary title: k_kaeloos
+349 - Holder (1013605) has gained c_buraa
+349 - sub vassal: c_buraa - Given to 1014553 in HandleTitles - Too many duke titles
+349 - Holder 1014553 - Primary title: k_kaeloos has lost the title: c_buraa
+349 - sub vassal: c_buraa - Title given to 1014553
+349 - Holder 1014553 - Primary title: k_kaeloos has lost the title: d_keinatti
+349 - vassal: d_keinatti - Title given to 1014553 - Primary title: c_buraa
+349 - sub vassal: d_keinatti - Title given to 1014553 - Primary title: c_buraa
+349 - sub vassal: c_buraa - Holder (1014553) has gained d_keinatti
+349 - sub vassal: c_rutebia - Setting to vassal of k_kaeloos in Validate Realm
+349 - vassal: d_keinatti - Lost vassal: c_rutebia
+349 - sub vassal: d_keinatti - Lost vassal: c_rutebia
+349 - Gained vassal: c_rutebia
+349 - vassal: d_keinatti - Too many dukes, given to dejure: k_kaeloos
+349 - sub vassal: d_keinatti - Too many dukes, given to dejure: k_kaeloos
+349 - Holder 1014554 - Primary title: k_kaeloos has lost the title: c_beinimir
+349 - Gained vassal: c_beinimir
+360 - Holder 1014772 - Primary title: k_kaeloos has lost the title: k_kaeloos
+360 - Title given to 1014772
+360 - vassal: d_daciraz - Holder 1014772 - Primary title: d_daciraz has lost the title: d_daciraz
+360 - sub vassal: d_daciraz - Holder 1014772 - Primary title: d_daciraz has lost the title: d_daciraz
+360 - vassal: d_daciraz - Title given to 1014772 - Primary title: k_kaeloos
+360 - sub vassal: d_daciraz - Title given to 1014772 - Primary title: k_kaeloos
+360 - Holder (1014772) has gained d_daciraz
+360 - vassal: c_rutebia - Setting to vassal of d_rerashad in Validate Realm
+360 - sub vassal: c_rutebia - Setting to vassal of d_rerashad in Validate Realm
+360 - Lost vassal: c_rutebia
+360 - vassal: c_rarumer - Setting to vassal of d_rerashad in Validate Realm
+360 - sub vassal: c_rarumer - Setting to vassal of d_rerashad in Validate Realm
+360 - Lost vassal: c_rarumer
+360 - vassal: c_larumer - Setting to vassal of d_rerashad in Validate Realm
+360 - sub vassal: c_larumer - Setting to vassal of d_rerashad in Validate Realm
+360 - Lost vassal: c_larumer
+360 - vassal: c_qarisey - Setting to vassal of d_rerashad in Validate Realm
+360 - sub vassal: c_qarisey - Setting to vassal of d_rerashad in Validate Realm
+360 - Lost vassal: c_qarisey
+360 - vassal: d_rerashad - Gained vassal: c_qarisey
+360 - sub vassal: d_rerashad - Gained vassal: c_qarisey
+360 - vassal: d_rerashad - Gained vassal: c_larumer
+360 - sub vassal: d_rerashad - Gained vassal: c_larumer
+360 - vassal: d_rerashad - Gained vassal: c_rarumer
+360 - sub vassal: d_rerashad - Gained vassal: c_rarumer
+360 - vassal: d_rerashad - Gained vassal: c_rutebia
+360 - sub vassal: d_rerashad - Gained vassal: c_rutebia
+360 - vassal: d_rerashad - Holder 1014772 - Primary title: d_rerashad has lost the title: d_rerashad
+360 - sub vassal: d_rerashad - Holder 1014772 - Primary title: d_rerashad has lost the title: d_rerashad
+360 - vassal: d_rerashad - Title given to 1014772 - Primary title: k_kaeloos
+360 - sub vassal: d_rerashad - Title given to 1014772 - Primary title: k_kaeloos
+360 - Holder (1014772) has gained d_rerashad
+360 - sub vassal: c_rutebia - Holder 1014772 - Primary title: c_rutebia has lost the title: c_rutebia
+360 - sub vassal: c_rutebia - Title given to 1014772 - Primary title: k_kaeloos
+360 - Holder (1014772) has gained c_rutebia
+360 - sub vassal: c_rarumer - Holder 1014772 - Primary title: c_rarumer has lost the title: c_rarumer
+360 - sub vassal: c_rarumer - Title given to 1014772 - Primary title: k_kaeloos
+360 - Holder (1014772) has gained c_rarumer
+360 - sub vassal: c_larumer - Holder 1014772 - Primary title: c_larumer has lost the title: c_larumer
+360 - sub vassal: c_larumer - Title given to 1014772 - Primary title: k_kaeloos
+360 - Holder (1014772) has gained c_larumer
+360 - sub vassal: c_qarisey - Holder 1014772 - Primary title: c_qarisey has lost the title: c_qarisey
+360 - sub vassal: c_qarisey - Title given to 1014772 - Primary title: k_kaeloos
+360 - Holder (1014772) has gained c_qarisey
+360 - Holder (1014772) has gained c_animir
+376 - Captured byk_wurebia in minor war
+376 - Given to 1015131 in minor war along with lower
+376 - Holder 1015131 - Primary title: k_kaeloos has lost the title: k_kaeloos
+376 - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: c_serissa - Holder 1015131 - Primary title: c_serissa has lost the title: c_serissa
+376 - vassal: c_serissa - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: c_layanar - Holder 1015131 - Primary title: c_layanar has lost the title: c_layanar
+376 - vassal: c_layanar - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: d_keinatti - Holder 1015131 - Primary title: d_keinatti has lost the title: d_keinatti
+376 - vassal: d_keinatti - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: d_daciraz - Holder 1015131 - Primary title: d_daciraz has lost the title: d_daciraz
+376 - vassal: d_daciraz - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: d_rerashad - Holder 1015131 - Primary title: d_rerashad has lost the title: d_rerashad
+376 - vassal: d_rerashad - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: c_enage - Holder 1015131 - Primary title: c_enage has lost the title: c_enage
+376 - vassal: c_enage - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: c_neinar - Holder 1015131 - Primary title: c_neinar has lost the title: c_neinar
+376 - vassal: c_neinar - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: c_beinimir - Holder 1015131 - Primary title: c_beinimir has lost the title: c_beinimir
+376 - vassal: c_beinimir - Title given to 1015131 - Primary title: k_wurebia
+377 - vassal: d_rerashad - Title given to 1010525 - Primary title: c_turumer
+377 - vassal: d_rerashad - Lost vassal: c_rodimir
+377 - vassal: d_rerashad - Lost vassal: c_kodar
+377 - vassal: d_rerashad - Lost vassal: c_kutissa
+377 - vassal: d_rerashad - Lost vassal: c_sutar
+377 - vassal: d_rerashad - Lost vassal: c_rutebia
+377 - vassal: d_rerashad - Lost vassal: c_rarumer
+377 - vassal: d_rerashad - Lost vassal: c_larumer
+377 - vassal: d_rerashad - Lost vassal: c_qarisey
+377 - vassal: d_rerashad - Too many dukes, given to dejure: k_kaeloos
+377 - vassal: c_layanar - Title given to 1016501
+377 - vassal: c_beinimir - Title given to 1016502
+377 - vassal: c_enage - Title given to 1016504
+377 - vassal: c_serissa - Title given to 1016505
+377 - vassal: c_neinar - Title given to 1016506
+379 - vassal: d_rerashad - Holder 1015131 - Primary title: d_rerashad has lost the title: d_rerashad
+379 - vassal: d_rerashad - Title given to 1015131 - Primary title: k_wurebia
+379 - vassal: d_keinatti - Title given to 1016662 - Primary title: c_buraa
+379 - vassal: d_keinatti - Too many dukes, given to dejure: k_kaeloos
+380 - vassal: c_beinimir - Holder 1015131 - Primary title: c_beinimir has lost the title: c_beinimir
+380 - sub vassal: c_beinimir - Holder 1015131 - Primary title: c_beinimir has lost the title: c_beinimir
+380 - vassal: c_beinimir - Title given to 1015131 - Primary title: k_kaeloos
+380 - sub vassal: c_beinimir - Title given to 1015131 - Primary title: k_kaeloos
+380 - Holder (1015131) has gained c_beinimir
+380 - Holder 1016736 - Primary title: k_kaeloos has lost the title: c_syahind
+380 - sub vassal: c_syahind - Title given to 1016736
+381 - sub vassal: d_keinaa - Holder 1016512 - Primary title: d_keinaa has lost the title: d_keinaa
+381 - sub vassal: d_keinaa - Title given to 1016512 - Primary title: c_tujimir
+381 - sub vassal: c_tujimir - Holder (1016512) has gained d_keinaa
+381 - sub vassal: c_tujimir - Setting to vassal of d_keinaa in Validate Realm
+381 - sub vassal: d_keinaa - Gained vassal: c_tujimir
+381 - sub vassal: c_denily - Holder 1016512 - Primary title: c_denily has lost the title: c_denily
+381 - sub vassal: c_denily - Title given to 1016512 - Primary title: d_keinaa
+381 - sub vassal: d_keinaa - Holder (1016512) has gained c_denily
+381 - sub vassal: c_tyee - Holder 1016512 - Primary title: c_tyee has lost the title: c_tyee
+381 - sub vassal: c_tyee - Title given to 1016512 - Primary title: d_keinaa
+381 - sub vassal: d_keinaa - Holder (1016512) has gained c_tyee
+388 - sub vassal: d_kyae - Holder 1015131 - Primary title: d_kyae has lost the title: d_kyae
+388 - sub vassal: d_kyae - Title given to 1015131 - Primary title: k_kaeloos
+388 - Holder (1015131) has gained d_kyae
+388 - sub vassal: c_teygina - Holder 1015131 - Primary title: c_teygina has lost the title: c_teygina
+388 - sub vassal: c_teygina - Title given to 1015131 - Primary title: k_kaeloos
+388 - Holder (1015131) has gained c_teygina
+388 - sub vassal: c_turumer - Given to 1017286 in HandleTitles - Too many duke titles
+388 - sub vassal: c_turumer - Holder 1017286 - Primary title: c_turumer has lost the title: c_turumer
+388 - sub vassal: c_turumer - Title given to 1017286
+388 - Holder 1017286 - Primary title: k_kaeloos has lost the title: d_rerashad
+388 - vassal: d_rerashad - Title given to 1017286 - Primary title: c_turumer
+388 - sub vassal: d_rerashad - Title given to 1017286 - Primary title: c_turumer
+388 - sub vassal: c_turumer - Holder (1017286) has gained d_rerashad
+388 - vassal: d_rerashad - Too many dukes, given to dejure: k_kaeloos
+388 - sub vassal: d_rerashad - Too many dukes, given to dejure: k_kaeloos
+388 - Holder 1017288 - Primary title: k_kaeloos has lost the title: c_kodar
+388 - sub vassal: c_kodar - Title given to 1017288
+390 - sub vassal: d_tanimia - Holder 1016477 - Primary title: d_tanimia has lost the title: d_tanimia
+390 - sub vassal: d_tanimia - Title given to 1016477
+393 - sub vassal: d_sumind - Holder 1014679 - Primary title: d_sumind has lost the title: d_sumind
+393 - sub vassal: d_sumind - Title given to 1014679
+393 - sub vassal: d_acecage - Holder 1014679 - Primary title: d_acecage has lost the title: d_acecage
+393 - sub vassal: d_acecage - Title given to 1014679 - Primary title: d_sumind
+393 - sub vassal: d_sumind - Holder (1014679) has gained d_acecage
+393 - sub vassal: c_byae - Holder 1014679 - Primary title: c_byae has lost the title: c_byae
+393 - sub vassal: c_byae - Title given to 1014679 - Primary title: d_sumind
+393 - sub vassal: d_sumind - Holder (1014679) has gained c_byae
+393 - sub vassal: c_taninia - Holder 1014679 - Primary title: c_taninia has lost the title: c_taninia
+393 - sub vassal: c_taninia - Title given to 1014679 - Primary title: d_sumind
+393 - sub vassal: d_sumind - Holder (1014679) has gained c_taninia
+393 - sub vassal: c_ehumind - Holder 1014679 - Primary title: c_ehumind has lost the title: c_ehumind
+393 - sub vassal: c_ehumind - Title given to 1014679 - Primary title: d_sumind
+393 - sub vassal: d_sumind - Holder (1014679) has gained c_ehumind
+393 - Gained vassal: c_enily
+393 - vassal: c_enily - Given to neighbour holder of k_kaeloos
+393 - sub vassal: c_enily - Given to neighbour holder of k_kaeloos
+393 - vassal: c_enily - Holder 1015131 - Primary title: c_enily has lost the title: c_enily
+393 - sub vassal: c_enily - Holder 1015131 - Primary title: c_enily has lost the title: c_enily
+393 - vassal: c_enily - Title given to 1015131 - Primary title: k_kaeloos
+393 - sub vassal: c_enily - Title given to 1015131 - Primary title: k_kaeloos
+393 - Holder (1015131) has gained c_enily
+393 - Holder 1017648 - Primary title: k_kaeloos has lost the title: c_edalsis
+393 - sub vassal: c_edalsis - Title given to 1017648
+394 - Gained vassal: c_banimon
+394 - vassal: c_banimon - Given to neighbour holder of k_kaeloos
+394 - sub vassal: c_banimon - Given to neighbour holder of k_kaeloos
+394 - vassal: c_banimon - Holder 1015131 - Primary title: c_banimon has lost the title: c_banimon
+394 - sub vassal: c_banimon - Holder 1015131 - Primary title: c_banimon has lost the title: c_banimon
+394 - vassal: c_banimon - Title given to 1015131 - Primary title: k_kaeloos
+394 - sub vassal: c_banimon - Title given to 1015131 - Primary title: k_kaeloos
+394 - Holder (1015131) has gained c_banimon
+394 - Gained vassal: c_qeyyuna
+394 - vassal: c_qeyyuna - Given to neighbour holder of k_kaeloos
+394 - sub vassal: c_qeyyuna - Given to neighbour holder of k_kaeloos
+394 - vassal: c_qeyyuna - Holder 1015131 - Primary title: c_qeyyuna has lost the title: c_qeyyuna
+394 - sub vassal: c_qeyyuna - Holder 1015131 - Primary title: c_qeyyuna has lost the title: c_qeyyuna
+394 - vassal: c_qeyyuna - Title given to 1015131 - Primary title: k_kaeloos
+394 - sub vassal: c_qeyyuna - Title given to 1015131 - Primary title: k_kaeloos
+394 - Holder (1015131) has gained c_qeyyuna
+394 - Holder 1014105 - Primary title: k_kaeloos has lost the title: c_teygina
+394 - sub vassal: c_teygina - Title given to 1014105
+394 - Holder 1017718 - Primary title: k_kaeloos has lost the title: c_qarisey
+394 - sub vassal: c_qarisey - Title given to 1017718
+395 - sub vassal: d_keinaa - Holder 1017058 - Primary title: d_keinaa has lost the title: d_keinaa
+395 - sub vassal: d_keinaa - Title given to 1017058
+395 - sub vassal: c_tujimir - Holder 1017058 - Primary title: c_tujimir has lost the title: c_tujimir
+395 - sub vassal: c_tujimir - Title given to 1017058 - Primary title: d_keinaa
+395 - sub vassal: d_keinaa - Holder (1017058) has gained c_tujimir
+395 - sub vassal: c_denily - Holder 1017058 - Primary title: c_denily has lost the title: c_denily
+395 - sub vassal: c_denily - Title given to 1017058 - Primary title: d_keinaa
+395 - sub vassal: d_keinaa - Holder (1017058) has gained c_denily
+395 - sub vassal: c_tyee - Holder 1017058 - Primary title: c_tyee has lost the title: c_tyee
+395 - sub vassal: c_tyee - Title given to 1017058 - Primary title: d_keinaa
+395 - sub vassal: d_keinaa - Holder (1017058) has gained c_tyee
+397 - vassal: d_rerashad - Holder 1017711 - Primary title: d_rerashad has lost the title: d_rerashad
+397 - sub vassal: d_rerashad - Holder 1017711 - Primary title: d_rerashad has lost the title: d_rerashad
+397 - vassal: d_rerashad - Title given to 1017711
+397 - sub vassal: d_rerashad - Title given to 1017711
+397 - sub vassal: c_turumer - Holder 1017711 - Primary title: c_turumer has lost the title: c_turumer
+397 - sub vassal: c_turumer - Title given to 1017711 - Primary title: d_rerashad
+397 - vassal: d_rerashad - Holder (1017711) has gained c_turumer
+397 - sub vassal: d_rerashad - Holder (1017711) has gained c_turumer
+400 - sub vassal: c_qamoo - Holder 1016513 - Primary title: c_qamoo has lost the title: c_qamoo
+400 - sub vassal: c_qamoo - Title given to 1016513 - Primary title: c_qanimir
+400 - sub vassal: c_qanimir - Holder (1016513) has gained c_qamoo
+400 - sub vassal: c_ramond - Holder 1014679 - Primary title: c_ramond has lost the title: c_ramond
+400 - sub vassal: c_ramond - Title given to 1014679 - Primary title: d_sumind
+400 - sub vassal: d_sumind - Holder (1014679) has gained c_ramond
+400 - sub vassal: c_ramond - Setting to vassal of d_sumind in Validate Realm
+400 - sub vassal: d_sumind - Gained vassal: c_ramond
+400 - sub vassal: c_ehinia - Holder 1014679 - Primary title: c_ehinia has lost the title: c_ehinia
+400 - sub vassal: c_ehinia - Title given to 1014679 - Primary title: d_sumind
+400 - sub vassal: d_sumind - Holder (1014679) has gained c_ehinia
+400 - sub vassal: c_ehinia - Setting to vassal of d_sumind in Validate Realm
+400 - sub vassal: d_sumind - Gained vassal: c_ehinia
+400 - sub vassal: c_qamond - Holder 1017288 - Primary title: c_qamond has lost the title: c_qamond
+400 - sub vassal: c_qamond - Title given to 1017288 - Primary title: c_kodar
+400 - sub vassal: c_kodar - Holder (1017288) has gained c_qamond
+400 - sub vassal: c_qatirek - Holder 1015131 - Primary title: c_qatirek has lost the title: c_qatirek
+400 - sub vassal: c_qatirek - Title given to 1015131 - Primary title: k_kaeloos
+400 - Holder (1015131) has gained c_qatirek
+400 - sub vassal: c_lenage - Holder 1017288 - Primary title: c_lenage has lost the title: c_lenage
+400 - sub vassal: c_lenage - Title given to 1017288 - Primary title: c_qamond
+400 - sub vassal: c_qamond - Holder (1017288) has gained c_lenage
+400 - sub vassal: c_rumimir - Holder 1016477 - Primary title: c_rumimir has lost the title: c_rumimir
+400 - sub vassal: c_rumimir - Title given to 1016477 - Primary title: d_tanimia
+400 - sub vassal: d_tanimia - Holder (1016477) has gained c_rumimir
+400 - sub vassal: c_qamoo - Holder 1015131 - Primary title: c_qamoo has lost the title: c_qanimir
+400 - sub vassal: c_qanimir - Title given to 1015131 - Primary title: k_kaeloos
+400 - Holder (1015131) has gained c_qanimir

@@ -1,0 +1,126 @@
+200 - Title given to 1000116
+200 - vassal: c_saric - Given to 1000119 via AddCharacterForTitle
+200 - sub vassal: c_saric - Given to 1000119 via AddCharacterForTitle
+200 - vassal: c_saric - Holder 1000119 - Primary title: c_saric has lost the title: c_saric
+200 - sub vassal: c_saric - Holder 1000119 - Primary title: c_saric has lost the title: c_saric
+200 - vassal: c_saric - Title given to 1000119
+200 - sub vassal: c_saric - Title given to 1000119
+200 - vassal: c_rogatai - Holder 1000116 - Primary title: c_rogatai has lost the title: c_rogatai
+200 - sub vassal: c_rogatai - Holder 1000116 - Primary title: c_rogatai has lost the title: c_rogatai
+200 - vassal: c_rogatai - Title given to 1000116 - Primary title: d_wodune
+200 - sub vassal: c_rogatai - Title given to 1000116 - Primary title: d_wodune
+200 - Holder (1000116) has gained c_rogatai
+200 - vassal: c_saric - Holder 1000116 - Primary title: c_saric has lost the title: c_saric
+200 - sub vassal: c_saric - Holder 1000116 - Primary title: c_saric has lost the title: c_saric
+200 - vassal: c_saric - Title given to 1000116 - Primary title: d_wodune
+200 - sub vassal: c_saric - Title given to 1000116 - Primary title: d_wodune
+200 - Holder (1000116) has gained c_saric
+200 - vassal: c_ding - Holder 1000116 - Primary title: c_ding has lost the title: c_ding
+200 - sub vassal: c_ding - Holder 1000116 - Primary title: c_ding has lost the title: c_ding
+200 - vassal: c_ding - Title given to 1000116 - Primary title: d_wodune
+200 - sub vassal: c_ding - Title given to 1000116 - Primary title: d_wodune
+200 - Holder (1000116) has gained c_ding
+200 - Made vassal of neighbour (k_benalme) due to being a seperate island
+200 - Given to neighbour holder of k_benalme
+200 - Holder 1001534 - Primary title: d_wodune has lost the title: d_wodune
+200 - Title given to 1001534 - Primary title: k_benalme
+246 - Gained vassal: c_eleon
+246 - Holder 1002409 - Primary title: d_wodune has lost the title: d_wodune
+246 - Title given to 1002409 - Primary title: k_benalme
+246 - vassal: c_eleon - Holder 1002409 - Primary title: c_eleon has lost the title: c_eleon
+246 - vassal: c_eleon - Title given to 1002409 - Primary title: k_benalme
+251 - vassal: c_rogatai - Given to 1006657 in HandleTitles - Too many duke titles
+251 - vassal: c_ding - Holder 1006657 - Primary title: c_ding has lost the title: c_rogatai
+251 - vassal: c_rogatai - Title given to 1006657
+251 - Title given to 1006657 - Primary title: c_rogatai
+251 - vassal: c_rogatai - Holder (1006657) has gained d_wodune
+251 - vassal: c_eleon - Setting to vassal of k_benalme in Validate Realm
+251 - Lost vassal: c_eleon
+251 - Too many dukes, made direct title into vassal of k_benalme
+254 - Holder 1004629 - Primary title: d_wodune has lost the title: d_wodune
+254 - Title given to 1004629 - Primary title: d_lamum
+254 - vassal: c_rogatai - Holder 1004629 - Primary title: c_rogatai has lost the title: c_rogatai
+254 - vassal: c_rogatai - Title given to 1004629 - Primary title: d_lamum
+280 - Holder 1005532 - Primary title: d_wodune has lost the title: d_wodune
+280 - Title given to 1005532 - Primary title: d_abing
+280 - vassal: c_rogatai - Setting to vassal of d_lamum in Validate Realm
+280 - Lost vassal: c_rogatai
+281 - vassal: c_ding - Holder 1005532 - Primary title: c_ding has lost the title: c_ding
+281 - vassal: c_ding - Title given to 1005532 - Primary title: d_wodune
+281 - Holder (1005532) has gained c_ding
+300 - vassal: c_saric - Holder 1005532 - Primary title: c_saric has lost the title: c_saric
+300 - vassal: c_saric - Title given to 1005532 - Primary title: d_abing
+300 - Holder 1010749 - Primary title: d_wodune has lost the title: c_dor
+306 - Gained vassal: c_rogatai
+306 - Gained vassal: c_rindo
+306 - Gained vassal: c_duovesi
+306 - Holder 1006966 - Primary title: d_wodune has lost the title: d_wodune
+306 - Title given to 1006966 - Primary title: d_abing
+306 - vassal: c_duovesi - Holder 1006966 - Primary title: c_duovesi has lost the title: c_duovesi
+306 - vassal: c_duovesi - Title given to 1006966 - Primary title: d_abing
+306 - vassal: c_rindo - Holder 1006966 - Primary title: c_rindo has lost the title: c_rindo
+306 - vassal: c_rindo - Title given to 1006966 - Primary title: d_abing
+306 - vassal: c_rogatai - Holder 1006966 - Primary title: c_rogatai has lost the title: c_rogatai
+306 - vassal: c_rogatai - Title given to 1006966 - Primary title: d_abing
+306 - vassal: c_ding - Holder 1006966 - Primary title: c_ding has lost the title: c_ding
+306 - vassal: c_ding - Title given to 1006966 - Primary title: d_abing
+306 - vassal: c_saric - Holder 1006966 - Primary title: c_saric has lost the title: c_saric
+306 - vassal: c_saric - Title given to 1006966 - Primary title: d_abing
+310 - Holder 1011379 - Primary title: d_wodune has lost the title: d_wodune
+310 - Title given to 1011379 - Primary title: d_abing
+310 - vassal: c_duovesi - Holder 1011379 - Primary title: c_duovesi has lost the title: c_duovesi
+310 - vassal: c_duovesi - Title given to 1011379 - Primary title: d_abing
+310 - vassal: c_rindo - Holder 1011379 - Primary title: c_rindo has lost the title: c_rindo
+310 - vassal: c_rindo - Title given to 1011379 - Primary title: d_abing
+310 - vassal: c_rogatai - Holder 1011379 - Primary title: c_rogatai has lost the title: c_rogatai
+310 - vassal: c_rogatai - Title given to 1011379 - Primary title: d_abing
+310 - vassal: c_ding - Holder 1011379 - Primary title: c_ding has lost the title: c_ding
+310 - vassal: c_ding - Title given to 1011379 - Primary title: d_abing
+310 - vassal: c_saric - Holder 1011379 - Primary title: c_saric has lost the title: c_saric
+310 - vassal: c_saric - Title given to 1011379 - Primary title: d_abing
+333 - Holder 1009676 - Primary title: d_wodune has lost the title: d_wodune
+333 - Title given to 1009676 - Primary title: k_benalme
+333 - vassal: c_duovesi - Holder 1009676 - Primary title: c_duovesi has lost the title: c_duovesi
+333 - vassal: c_duovesi - Title given to 1009676 - Primary title: k_benalme
+333 - vassal: c_rindo - Holder 1009676 - Primary title: c_rindo has lost the title: c_rindo
+333 - vassal: c_rindo - Title given to 1009676 - Primary title: k_benalme
+333 - vassal: c_rogatai - Holder 1009676 - Primary title: c_rogatai has lost the title: c_rogatai
+333 - vassal: c_rogatai - Title given to 1009676 - Primary title: k_benalme
+333 - vassal: c_ding - Holder 1009676 - Primary title: c_ding has lost the title: c_ding
+333 - vassal: c_ding - Title given to 1009676 - Primary title: k_benalme
+333 - vassal: c_saric - Holder 1009676 - Primary title: c_saric has lost the title: c_saric
+333 - vassal: c_saric - Title given to 1009676 - Primary title: k_benalme
+333 - vassal: c_ding - Given to 1013368 in HandleTitles - Too many duke titles
+333 - vassal: c_ding - Title given to 1013368
+333 - Title given to 1013368 - Primary title: c_ding
+333 - vassal: c_ding - Holder (1013368) has gained d_wodune
+333 - vassal: c_duovesi - Setting to vassal of k_benalme in Validate Realm
+333 - Lost vassal: c_duovesi
+333 - vassal: c_rindo - Setting to vassal of k_benalme in Validate Realm
+333 - Lost vassal: c_rindo
+333 - vassal: c_rogatai - Setting to vassal of k_benalme in Validate Realm
+333 - Lost vassal: c_rogatai
+333 - vassal: c_saric - Setting to vassal of k_benalme in Validate Realm
+333 - Lost vassal: c_saric
+333 - Too many dukes, made direct title into vassal of k_benalme
+338 - Holder 1013727 - Primary title: d_wodune has lost the title: d_wodune
+338 - Title given to 1013727
+338 - vassal: c_ding - Holder 1013727 - Primary title: c_ding has lost the title: c_ding
+338 - vassal: c_ding - Title given to 1013727 - Primary title: d_wodune
+338 - Holder (1013727) has gained c_ding
+371 - Holder 1014942 - Primary title: d_wodune has lost the title: d_wodune
+371 - Title given to 1014942
+371 - vassal: c_ding - Holder 1014942 - Primary title: c_ding has lost the title: c_ding
+371 - vassal: c_ding - Title given to 1014942 - Primary title: d_wodune
+371 - Holder (1014942) has gained c_ding
+373 - Holder 1013945 - Primary title: d_wodune has lost the title: d_wodune
+373 - Title given to 1013945 - Primary title: d_tor
+373 - vassal: c_ding - Holder 1013945 - Primary title: c_ding has lost the title: c_ding
+373 - vassal: c_ding - Title given to 1013945 - Primary title: d_tor
+384 - Gained vassal: c_lonihl
+384 - Holder 1014816 - Primary title: d_wodune has lost the title: d_wodune
+384 - Title given to 1014816 - Primary title: d_tor
+384 - vassal: c_ding - Holder 1014816 - Primary title: c_ding has lost the title: c_ding
+384 - vassal: c_ding - Title given to 1014816 - Primary title: d_tor
+384 - vassal: c_lonihl - Holder 1014816 - Primary title: c_lonihl has lost the title: c_lonihl
+384 - vassal: c_lonihl - Title given to 1014816 - Primary title: d_tor

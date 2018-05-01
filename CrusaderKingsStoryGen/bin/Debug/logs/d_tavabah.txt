@@ -1,0 +1,65 @@
+200 - Title given to 1001042
+200 - vassal: c_tisevna - Holder 1001042 - Primary title: c_tisevna has lost the title: c_tisevna
+200 - sub vassal: c_tisevna - Holder 1001042 - Primary title: c_tisevna has lost the title: c_tisevna
+200 - vassal: c_tisevna - Title given to 1001042 - Primary title: d_tavabah
+200 - sub vassal: c_tisevna - Title given to 1001042 - Primary title: d_tavabah
+200 - Holder (1001042) has gained c_tisevna
+200 - vassal: c_kenary - Holder 1001042 - Primary title: c_kenary has lost the title: c_kenary
+200 - sub vassal: c_kenary - Holder 1001042 - Primary title: c_kenary has lost the title: c_kenary
+200 - vassal: c_kenary - Title given to 1001042 - Primary title: d_tavabah
+200 - sub vassal: c_kenary - Title given to 1001042 - Primary title: d_tavabah
+200 - Holder (1001042) has gained c_kenary
+209 - Holder (1001042) has gained d_lavault
+209 - Holder (1001042) has gained c_lare
+209 - Holder (1001042) has gained c_netlna
+209 - Holder (1001042) has gained c_kurunas
+243 - Gained vassal: c_kurunas
+243 - Gained vassal: c_netlna
+243 - Gained vassal: c_lare
+243 - Holder 1000998 - Primary title: d_tavabah has lost the title: d_tavabah
+243 - Title given to 1000998 - Primary title: d_banary
+243 - vassal: c_kenary - Holder 1000998 - Primary title: c_kenary has lost the title: c_kenary
+243 - vassal: c_kenary - Title given to 1000998 - Primary title: d_banary
+243 - vassal: c_tisevna - Holder 1000998 - Primary title: c_tisevna has lost the title: c_tisevna
+243 - vassal: c_tisevna - Title given to 1000998 - Primary title: d_banary
+243 - vassal: c_lare - Holder 1000998 - Primary title: c_lare has lost the title: c_lare
+243 - vassal: c_lare - Title given to 1000998 - Primary title: d_banary
+243 - vassal: c_netlna - Holder 1000998 - Primary title: c_netlna has lost the title: c_netlna
+243 - vassal: c_netlna - Title given to 1000998 - Primary title: d_banary
+243 - vassal: c_kurunas - Holder 1000998 - Primary title: c_kurunas has lost the title: c_kurunas
+243 - vassal: c_kurunas - Title given to 1000998 - Primary title: d_banary
+244 - vassal: c_tisevna - Title given to 1005596
+244 - vassal: c_kenary - Title given to 1005597
+244 - vassal: c_netlna - Title given to 1005598
+245 - Gained vassal: c_tanamin
+245 - Gained vassal: c_athatha
+245 - Gained vassal: c_rabah
+245 - Holder 1002474 - Primary title: d_tavabah has lost the title: c_rabah
+245 - vassal: c_rabah - Title given to 1002474 - Primary title: d_banary
+245 - vassal: c_rabah - Setting to vassal of d_banary in Validate Realm
+245 - Lost vassal: c_rabah
+245 - Holder 1002474 - Primary title: d_tavabah has lost the title: c_athatha
+245 - vassal: c_athatha - Title given to 1002474 - Primary title: d_banary
+245 - vassal: c_athatha - Setting to vassal of d_banary in Validate Realm
+245 - Lost vassal: c_athatha
+245 - Holder 1002474 - Primary title: d_tavabah has lost the title: c_tanamin
+245 - vassal: c_tanamin - Title given to 1002474 - Primary title: d_banary
+245 - vassal: c_tanamin - Setting to vassal of d_banary in Validate Realm
+245 - Lost vassal: c_tanamin
+245 - Holder 1002474 - Primary title: d_tavabah has lost the title: d_tavabah
+245 - Title given to 1002474 - Primary title: d_banary
+245 - vassal: c_lare - Holder 1002474 - Primary title: c_lare has lost the title: c_lare
+245 - vassal: c_lare - Title given to 1002474 - Primary title: d_banary
+245 - vassal: c_kurunas - Holder 1002474 - Primary title: c_kurunas has lost the title: c_kurunas
+245 - vassal: c_kurunas - Title given to 1002474 - Primary title: d_banary
+248 - vassal: c_lare - Set liege on title creation d_lavault
+248 - Lost vassal: c_lare
+248 - vassal: c_kurunas - Set liege on title creation d_lavault
+248 - Lost vassal: c_kurunas
+265 - Holder (1002474) has gained d_banary
+265 - Setting independent in Validate Realm
+265 - Made independent
+268 - Holder 1007461 - Primary title: d_tavabah has lost the title: d_tavabah
+268 - Title given to 1007461 - Primary title: d_lavault
+273 - Holder 1007540 - Primary title: d_tavabah has lost the title: d_tavabah
+273 - Ti

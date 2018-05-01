@@ -1,0 +1,124 @@
+200 - Title given to 1000174
+200 - vassal: c_defirin - Holder 1000174 - Primary title: c_defirin has lost the title: c_defirin
+200 - sub vassal: c_defirin - Holder 1000174 - Primary title: c_defirin has lost the title: c_defirin
+200 - vassal: c_defirin - Title given to 1000174 - Primary title: d_kefasan
+200 - sub vassal: c_defirin - Title given to 1000174 - Primary title: d_kefasan
+200 - Holder (1000174) has gained c_defirin
+200 - vassal: c_relim - Holder 1000174 - Primary title: c_relim has lost the title: c_relim
+200 - sub vassal: c_relim - Holder 1000174 - Primary title: c_relim has lost the title: c_relim
+200 - vassal: c_relim - Title given to 1000174 - Primary title: d_kefasan
+200 - sub vassal: c_relim - Title given to 1000174 - Primary title: d_kefasan
+200 - Holder (1000174) has gained c_relim
+200 - vassal: c_rakyu - Holder 1000174 - Primary title: c_rakyu has lost the title: c_rakyu
+200 - sub vassal: c_rakyu - Holder 1000174 - Primary title: c_rakyu has lost the title: c_rakyu
+200 - vassal: c_rakyu - Title given to 1000174 - Primary title: d_kefasan
+200 - sub vassal: c_rakyu - Title given to 1000174 - Primary title: d_kefasan
+200 - Holder (1000174) has gained c_rakyu
+200 - Holder 1000222 - Primary title: d_kefasan has lost the title: d_kefasan
+200 - Title given to 1000222 - Primary title: d_kainzis
+200 - vassal: c_rakyu - Holder 1000222 - Primary title: c_rakyu has lost the title: c_rakyu
+200 - vassal: c_rakyu - Title given to 1000222 - Primary title: d_kainzis
+200 - vassal: c_relim - Holder 1000222 - Primary title: c_relim has lost the title: c_relim
+200 - vassal: c_relim - Title given to 1000222 - Primary title: d_kainzis
+200 - vassal: c_defirin - Holder 1000222 - Primary title: c_defirin has lost the title: c_defirin
+200 - vassal: c_defirin - Title given to 1000222 - Primary title: d_kainzis
+201 - Holder 1002069 - Primary title: d_kefasan has lost the title: c_nasan
+207 - Holder 1002071 - Primary title: d_kefasan has lost the title: d_kainzis
+207 - Gained vassal: c_wodermis
+207 - Gained vassal: c_rakaya
+207 - Holder 1002071 - Primary title: d_kefasan has lost the title: c_rakaya
+207 - vassal: c_rakaya - Title given to 1002071 - Primary title: d_kainzis
+207 - vassal: c_rakaya - Setting to vassal of d_kainzis in Validate Realm
+207 - Lost vassal: c_rakaya
+207 - Holder 1002071 - Primary title: d_kefasan has lost the title: c_wodermis
+207 - vassal: c_wodermis - Title given to 1002071 - Primary title: d_kainzis
+207 - vassal: c_wodermis - Setting to vassal of d_kainzis in Validate Realm
+207 - Lost vassal: c_wodermis
+207 - Holder 1002071 - Primary title: d_kefasan has lost the title: d_kefasan
+207 - Title given to 1002071 - Primary title: d_kainzis
+207 - vassal: c_rakyu - Holder 1002071 - Primary title: c_rakyu has lost the title: c_rakyu
+207 - vassal: c_rakyu - Title given to 1002071 - Primary title: d_kainzis
+207 - vassal: c_relim - Holder 1002071 - Primary title: c_relim has lost the title: c_relim
+207 - vassal: c_relim - Title given to 1002071 - Primary title: d_kainzis
+207 - vassal: c_defirin - Holder 1002071 - Primary title: c_defirin has lost the title: c_defirin
+207 - vassal: c_defirin - Title given to 1002071 - Primary title: d_kainzis
+210 - Holder 1000226 - Primary title: d_kefasan has lost the title: d_kainzis
+210 - Gained vassal: c_wodermis
+210 - Gained vassal: c_rakaya
+210 - Holder 1000226 - Primary title: d_kefasan has lost the title: c_rakaya
+210 - vassal: c_rakaya - Title given to 1000226 - Primary title: d_bodaytas
+210 - vassal: c_rakaya - Setting to vassal of d_bodaytas in Validate Realm
+210 - Lost vassal: c_rakaya
+210 - Holder 1000226 - Primary title: d_kefasan has lost the title: c_wodermis
+210 - vassal: c_wodermis - Title given to 1000226 - Primary title: d_bodaytas
+210 - vassal: c_wodermis - Setting to vassal of d_bodaytas in Validate Realm
+210 - Lost vassal: c_wodermis
+210 - Holder 1000226 - Primary title: d_kefasan has lost the title: d_kefasan
+210 - Title given to 1000226 - Primary title: d_bodaytas
+210 - vassal: c_rakyu - Holder 1000226 - Primary title: c_rakyu has lost the title: c_rakyu
+210 - vassal: c_rakyu - Title given to 1000226 - Primary title: d_bodaytas
+210 - vassal: c_relim - Holder 1000226 - Primary title: c_relim has lost the title: c_relim
+210 - vassal: c_relim - Title given to 1000226 - Primary title: d_bodaytas
+210 - vassal: c_defirin - Holder 1000226 - Primary title: c_defirin has lost the title: c_defirin
+210 - vassal: c_defirin - Title given to 1000226 - Primary title: d_bodaytas
+211 - Holder (1000226) has gained c_nasan
+211 - vassal: c_defirin - Title given to 1003086
+211 - vassal: c_rakyu - Title given to 1003087
+233 - Holder 1001653 - Primary title: d_kefasan has lost the title: d_kefasan
+233 - Title given to 1001653
+233 - vassal: c_relim - Setting to vassal of d_bodaytas in Validate Realm
+233 - Lost vassal: c_relim
+233 - Holder (1001653) has gained d_bodaytas
+233 - Holder (1001653) has gained c_relim
+233 - Holder (1001653) has gained c_wodermis
+233 - Holder (1001653) has gained c_rakaya
+233 - Holder (1001653) has gained c_refao
+233 - Holder (1001653) has gained c_sergis
+238 - Holder 1002728 - Primary title: d_kefasan has lost the title: d_kefasan
+238 - Title given to 1002728 - Primary title: d_kangena
+239 - Holder 1005160 - Primary title: d_kefasan has lost the title: c_refao
+239 - Holder 1002686 - Primary title: d_kefasan has lost the title: d_bodaytas
+239 - Gained vassal: c_sergis
+239 - Gained vassal: c_rakaya
+239 - Gained vassal: c_wodermis
+239 - Gained vassal: c_relim
+239 - Holder 1005161 - Primary title: d_kefasan has lost the title: c_kili
+239 - Holder 1005163 - Primary title: d_kefasan has lost the title: c_quned
+239 - Holder 1005164 - Primary title: d_kefasan has lost the title: c_eduyan
+244 - Gained vassal: c_kutelgil
+244 - Holder 1004709 - Primary title: d_kefasan has lost the title: d_kefasan
+244 - Title given to 1004709 - Primary title: d_kangena
+244 - vassal: c_kutelgil - Holder 1004709 - Primary title: c_kutelgil has lost the title: c_kutelgil
+244 - vassal: c_kutelgil - Title given to 1004709 - Primary title: d_kangena
+244 - vassal: c_relim - Holder 1004709 - Primary title: c_relim has lost the title: c_relim
+244 - vassal: c_relim - Title given to 1004709 - Primary title: d_kangena
+244 - vassal: c_wodermis - Holder 1004709 - Primary title: c_wodermis has lost the title: c_wodermis
+244 - vassal: c_wodermis - Title given to 1004709 - Primary title: d_kangena
+244 - vassal: c_rakaya - Holder 1004709 - Primary title: c_rakaya has lost the title: c_rakaya
+244 - vassal: c_rakaya - Title given to 1004709 - Primary title: d_kangena
+244 - vassal: c_sergis - Holder 1004709 - Primary title: c_sergis has lost the title: c_sergis
+244 - vassal: c_sergis - Title given to 1004709 - Primary title: d_kangena
+253 - vassal: c_rakyu - Given to 1006265 in HandleTitles - Too many duke titles
+253 - vassal: c_rakyu - Holder 1006265 - Primary title: c_rakyu has lost the title: c_rakyu
+253 - vassal: c_rakyu - Title given to 1006265
+253 - Title given to 1005202 - Primary title: k_kiraya
+253 - vassal: c_kutelgil - Setting to vassal of d_kutelim in Validate Realm
+253 - Lost vassal: c_kutelgil
+253 - vassal: c_relim - Setting to vassal of d_kutelim in Validate Realm
+253 - Lost vassal: c_relim
+253 - vassal: c_wodermis - Setting to vassal of d_kutelim in Validate Realm
+253 - Lost vassal: c_wodermis
+253 - vassal: c_rakaya - Setting to vassal of d_kutelim in Validate Realm
+253 - Lost vassal: c_rakaya
+253 - vassal: c_sergis - Setting to vassal of d_kutelim in Validate Realm
+253 - Lost vassal: c_sergis
+253 - Too many dukes, made direct title into vassal of k_kiraya
+253 - Title given to 1003508
+278 - Holder 1006473 - Primary title: d_kefasan has lost the title: d_kefasan
+278 - Title given to 1006473
+288 - Holder (1006473) has gained k_kiraya
+300 - vassal: c_defirin - Holder 1006473 - Primary title: c_defirin has lost the title: c_defirin
+300 - vassal: c_defirin - Title given to 1006473 - Primary title: k_kiraya
+309 - Gained vassal: c_nobirin
+309 - Gained vassal: c_qodermis
+309 - Gained vassal

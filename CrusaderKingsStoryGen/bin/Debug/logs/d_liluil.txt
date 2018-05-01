@@ -1,0 +1,58 @@
+200 - Title given to 1000711
+200 - vassal: c_suisre - Given to 1000715 via AddCharacterForTitle
+200 - sub vassal: c_suisre - Given to 1000715 via AddCharacterForTitle
+200 - vassal: c_suisre - Holder 1000715 - Primary title: c_suisre has lost the title: c_suisre
+200 - sub vassal: c_suisre - Holder 1000715 - Primary title: c_suisre has lost the title: c_suisre
+200 - vassal: c_suisre - Title given to 1000715
+200 - sub vassal: c_suisre - Title given to 1000715
+200 - vassal: c_ruil - Holder 1000711 - Primary title: c_ruil has lost the title: c_ruil
+200 - sub vassal: c_ruil - Holder 1000711 - Primary title: c_ruil has lost the title: c_ruil
+200 - vassal: c_ruil - Title given to 1000711 - Primary title: d_liluil
+200 - sub vassal: c_ruil - Title given to 1000711 - Primary title: d_liluil
+200 - Holder (1000711) has gained c_ruil
+200 - vassal: c_amajayor - Holder 1000711 - Primary title: c_amajayor has lost the title: c_amajayor
+200 - sub vassal: c_amajayor - Holder 1000711 - Primary title: c_amajayor has lost the title: c_amajayor
+200 - vassal: c_amajayor - Title given to 1000711 - Primary title: d_liluil
+200 - sub vassal: c_amajayor - Title given to 1000711 - Primary title: d_liluil
+200 - Holder (1000711) has gained c_amajayor
+200 - vassal: c_suisre - Holder 1000711 - Primary title: c_suisre has lost the title: c_suisre
+200 - sub vassal: c_suisre - Holder 1000711 - Primary title: c_suisre has lost the title: c_suisre
+200 - vassal: c_suisre - Title given to 1000711 - Primary title: d_liluil
+200 - sub vassal: c_suisre - Title given to 1000711 - Primary title: d_liluil
+200 - Holder (1000711) has gained c_suisre
+200 - vassal: c_demabel - Holder 1000711 - Primary title: c_demabel has lost the title: c_demabel
+200 - sub vassal: c_demabel - Holder 1000711 - Primary title: c_demabel has lost the title: c_demabel
+200 - vassal: c_demabel - Title given to 1000711 - Primary title: d_liluil
+200 - sub vassal: c_demabel - Title given to 1000711 - Primary title: d_liluil
+200 - Holder (1000711) has gained c_demabel
+200 - Holder 1001475 - Primary title: d_liluil has lost the title: d_liluil
+200 - Title given to 1001475 - Primary title: k_rava
+200 - vassal: c_amajayor - Given to 1001965 in HandleTitles - Too many duke titles
+200 - vassal: c_ruil - Holder 1001965 - Primary title: c_ruil has lost the title: c_amajayor
+200 - vassal: c_amajayor - Title given to 1001965
+200 - Title given to 1001965 - Primary title: c_amajayor
+200 - vassal: c_amajayor - Holder (1001965) has gained d_liluil
+200 - Too many dukes, given to dejure: k_rava
+212 - Holder 1002653 - Primary title: d_liluil has lost the title: d_liluil
+212 - Title given to 1002653
+212 - vassal: c_amajayor - Holder 1002653 - Primary title: c_amajayor has lost the title: c_amajayor
+212 - vassal: c_amajayor - Title given to 1002653 - Primary title: d_liluil
+212 - Holder (1002653) has gained c_amajayor
+220 - Holder 1001966 - Primary title: d_liluil has lost the title: d_liluil
+220 - Title given to 1001966 - Primary title: d_lib
+220 - vassal: c_amajayor - Holder 1001966 - Primary title: c_amajayor has lost the title: c_amajayor
+220 - vassal: c_amajayor - Title given to 1001966 - Primary title: d_lib
+221 - Holder 1003819 - Primary title: d_liluil has lost the title: c_dyolelen
+221 - Holder 1003705 - Primary title: d_liluil has lost the title: d_ryitald
+223 - Holder (1001966) has gained d_kanans
+225 - Title given to 1000345 - Primary title: d_tyoa
+225 - vassal: c_amajayor - Setting to vassal of d_kanans in Validate Realm
+225 - Lost vassal: c_amajayor
+231 - Title given to 1003763 - Primary title: k_rava
+232 - vassal: c_ruil - Holder 1003763 - Primary title: c_ruil has lost the title: c_demabel
+232 - vassal: c_demabel - Title given to 1003763 - Primary title: k_rava
+232 - vassal: c_demabel - Given to 1004656 in HandleTitles - Too many duke titles
+232 - vassal: c_demabel - Title given to 1004656
+232 - Title given to 1004656 - Primary title: c_demabel
+232 - vassal: c_demabel - Holder (1004656) has gained d_liluil
+232 - Too many dukes, given to dejure:

@@ -1,0 +1,146 @@
+200 - Title given to 1000556
+200 - vassal: c_kerema - Given to 1000559 via AddCharacterForTitle
+200 - sub vassal: c_kerema - Given to 1000559 via AddCharacterForTitle
+200 - vassal: c_kerema - Holder 1000559 - Primary title: c_kerema has lost the title: c_kerema
+200 - sub vassal: c_kerema - Holder 1000559 - Primary title: c_kerema has lost the title: c_kerema
+200 - vassal: c_kerema - Title given to 1000559
+200 - sub vassal: c_kerema - Title given to 1000559
+200 - vassal: c_egzadeva - Holder 1000556 - Primary title: c_egzadeva has lost the title: c_egzadeva
+200 - sub vassal: c_egzadeva - Holder 1000556 - Primary title: c_egzadeva has lost the title: c_egzadeva
+200 - vassal: c_egzadeva - Title given to 1000556 - Primary title: d_kerathi
+200 - sub vassal: c_egzadeva - Title given to 1000556 - Primary title: d_kerathi
+200 - Holder (1000556) has gained c_egzadeva
+200 - vassal: c_kerema - Holder 1000556 - Primary title: c_kerema has lost the title: c_kerema
+200 - sub vassal: c_kerema - Holder 1000556 - Primary title: c_kerema has lost the title: c_kerema
+200 - vassal: c_kerema - Title given to 1000556 - Primary title: d_kerathi
+200 - sub vassal: c_kerema - Title given to 1000556 - Primary title: d_kerathi
+200 - Holder (1000556) has gained c_kerema
+200 - vassal: c_qema - Title given to 1000556 - Primary title: d_kerathi
+200 - Holder (1000556) has gained c_qema
+200 - Holder 1001558 - Primary title: d_kerathi has lost the title: d_kerathi
+200 - Title given to 1001558 - Primary title: k_aryayka
+200 - vassal: c_egzadeva - Holder 1001558 - Primary title: c_egzadeva has lost the title: c_egzadeva
+200 - vassal: c_egzadeva - Title given to 1001558 - Primary title: k_aryayka
+210 - Holder 1002787 - Primary title: d_kerathi has lost the title: d_kerathi
+210 - Title given to 1002787 - Primary title: k_aryayka
+210 - vassal: c_egzadeva - Holder 1002787 - Primary title: c_egzadeva has lost the title: c_egzadeva
+210 - vassal: c_egzadeva - Title given to 1002787 - Primary title: k_aryayka
+225 - Holder 1004327 - Primary title: d_kerathi has lost the title: d_kerathi
+225 - Title given to 1004327 - Primary title: k_aryayka
+225 - vassal: c_egzadeva - Holder 1004327 - Primary title: c_egzadeva has lost the title: c_egzadeva
+225 - vassal: c_egzadeva - Title given to 1004327 - Primary title: k_aryayka
+226 - Holder 1004578 - Primary title: d_kerathi has lost the title: d_kerathi
+226 - Title given to 1004578 - Primary title: k_aryayka
+226 - vassal: c_egzadeva - Holder 1004578 - Primary title: c_egzadeva has lost the title: c_egzadeva
+226 - vassal: c_egzadeva - Title given to 1004578 - Primary title: k_aryayka
+270 - Holder 1004669 - Primary title: d_kerathi has lost the title: d_kerathi
+270 - Title given to 1004669 - Primary title: k_aryayka
+270 - vassal: c_egzadeva - Setting to vassal of d_ketyayka in Validate Realm
+270 - Lost vassal: c_egzadeva
+303 - Holder 1008465 - Primary title: d_kerathi has lost the title: d_kerathi
+303 - Title given to 1008465 - Primary title: k_aryayka
+306 - vassal: c_kerema - Holder 1011296 - Primary title: c_kerema has lost the title: c_kerema
+306 - vassal: c_kerema - Title given to 1011296
+306 - vassal: c_qema - Holder 1011296 - Primary title: c_qema has lost the title: c_qema
+306 - vassal: c_qema - Title given to 1011296 - Primary title: c_kerema
+306 - vassal: c_kerema - Holder (1011296) has gained c_qema
+325 - Gained vassal: c_reothi
+325 - Gained vassal: c_teothi
+325 - Gained vassal: c_egzadeva
+325 - Gained vassal: c_seronn
+325 - Gained vassal: c_nayaka
+325 - Holder 1008535 - Primary title: d_kerathi has lost the title: d_kerathi
+325 - Title given to 1008535 - Primary title: k_aryayka
+325 - vassal: c_nayaka - Holder 1008535 - Primary title: c_nayaka has lost the title: c_nayaka
+325 - vassal: c_nayaka - Title given to 1008535 - Primary title: k_aryayka
+325 - vassal: c_seronn - Holder 1008535 - Primary title: c_seronn has lost the title: c_seronn
+325 - vassal: c_seronn - Title given to 1008535 - Primary title: k_aryayka
+325 - vassal: c_egzadeva - Holder 1008535 - Primary title: c_egzadeva has lost the title: c_egzadeva
+325 - vassal: c_egzadeva - Title given to 1008535 - Primary title: k_aryayka
+325 - vassal: c_teothi - Holder 1008535 - Primary title: c_teothi has lost the title: c_teothi
+325 - vassal: c_teothi - Title given to 1008535 - Primary title: k_aryayka
+325 - vassal: c_reothi - Holder 1008535 - Primary title: c_reothi has lost the title: c_reothi
+325 - vassal: c_reothi - Title given to 1008535 - Primary title: k_aryayka
+342 - Holder 1012537 - Primary title: d_kerathi has lost the title: d_kerathi
+342 - Title given to 1012537 - Primary title: k_aryayka
+342 - vassal: c_reothi - Setting to vassal of d_tatyayka in Validate Realm
+342 - Lost vassal: c_reothi
+342 - vassal: c_teothi - Setting to vassal of d_tatyayka in Validate Realm
+342 - Lost vassal: c_teothi
+342 - vassal: c_egzadeva - Setting to vassal of d_tatyayka in Validate Realm
+342 - Lost vassal: c_egzadeva
+342 - vassal: c_seronn - Setting to vassal of d_tatyayka in Validate Realm
+342 - Lost vassal: c_seronn
+342 - vassal: c_nayaka - Setting to vassal of d_tatyayka in Validate Realm
+342 - Lost vassal: c_nayaka
+348 - Holder 1014468 - Primary title: d_kerathi has lost the title: d_kerathi
+348 - Title given to 1014468 - Primary title: k_aryayka
+365 - Gained vassal: c_reothi
+365 - Gained vassal: c_teothi
+365 - Gained vassal: c_egzadeva
+365 - Gained vassal: c_seronn
+365 - Gained vassal: c_nayaka
+365 - Holder 1007532 - Primary title: d_kerathi has lost the title: d_kerathi
+365 - Title given to 1007532 - Primary title: k_aryayka
+365 - vassal: c_nayaka - Holder 1007532 - Primary title: c_nayaka has lost the title: c_nayaka
+365 - vassal: c_nayaka - Title given to 1007532 - Primary title: k_aryayka
+365 - vassal: c_seronn - Holder 1007532 - Primary title: c_seronn has lost the title: c_seronn
+365 - vassal: c_seronn - Title given to 1007532 - Primary title: k_aryayka
+365 - vassal: c_egzadeva - Holder 1007532 - Primary title: c_egzadeva has lost the title: c_egzadeva
+365 - vassal: c_egzadeva - Title given to 1007532 - Primary title: k_aryayka
+365 - vassal: c_teothi - Holder 1007532 - Primary title: c_teothi has lost the title: c_teothi
+365 - vassal: c_teothi - Title given to 1007532 - Primary title: k_aryayka
+365 - vassal: c_reothi - Holder 1007532 - Primary title: c_reothi has lost the title: c_reothi
+365 - vassal: c_reothi - Title given to 1007532 - Primary title: k_aryayka
+366 - Holder 1012837 - Primary title: d_kerathi has lost the title: d_kerathi
+366 - Title given to 1012837 - Primary title: k_aryayka
+366 - vassal: c_nayaka - Holder 1012837 - Primary title: c_nayaka has lost the title: c_nayaka
+366 - vassal: c_nayaka - Title given to 1012837 - Primary title: k_aryayka
+366 - vassal: c_seronn - Holder 1012837 - Primary title: c_seronn has lost the title: c_seronn
+366 - vassal: c_seronn - Title given to 1012837 - Primary title: k_aryayka
+366 - vassal: c_egzadeva - Holder 1012837 - Primary title: c_egzadeva has lost the title: c_egzadeva
+366 - vassal: c_egzadeva - Title given to 1012837 - Primary title: k_aryayka
+366 - vassal: c_teothi - Holder 1012837 - Primary title: c_teothi has lost the title: c_teothi
+366 - vassal: c_teothi - Title given to 1012837 - Primary title: k_aryayka
+366 - vassal: c_reothi - Holder 1012837 - Primary title: c_reothi has lost the title: c_reothi
+366 - vassal: c_reothi - Title given to 1012837 - Primary title: k_aryayka
+372 - Holder 1015234 - Primary title: d_kerathi has lost the title: d_kerathi
+372 - Title given to 1015234 - Primary title: k_aryayka
+372 - vassal: c_nayaka - Holder 1015234 - Primary title: c_nayaka has lost the title: c_nayaka
+372 - vassal: c_nayaka - Title given to 1015234 - Primary title: k_aryayka
+372 - vassal: c_seronn - Holder 1015234 - Primary title: c_seronn has lost the title: c_seronn
+372 - vassal: c_seronn - Title given to 1015234 - Primary title: k_aryayka
+372 - vassal: c_egzadeva - Holder 1015234 - Primary title: c_egzadeva has lost the title: c_egzadeva
+372 - vassal: c_egzadeva - Title given to 1015234 - Primary title: k_aryayka
+372 - vassal: c_teothi - Holder 1015234 - Primary title: c_teothi has lost the title: c_teothi
+372 - vassal: c_teothi - Title given to 1015234 - Primary title: k_aryayka
+372 - vassal: c_reothi - Holder 1015234 - Primary title: c_reothi has lost the title: c_reothi
+372 - vassal: c_reothi - Title given to 1015234 - Primary title: k_aryayka
+375 - Holder 1013037 - Primary title: d_kerathi has lost the title: d_kerathi
+375 - Title given to 1013037 - Primary title: k_aryayka
+375 - vassal: c_nayaka - Holder 1013037 - Primary title: c_nayaka has lost the title: c_nayaka
+375 - vassal: c_nayaka - Title given to 1013037 - Primary title: k_aryayka
+375 - vassal: c_seronn - Holder 1013037 - Primary title: c_seronn has lost the title: c_seronn
+375 - vassal: c_seronn - Title given to 1013037 - Primary title: k_aryayka
+375 - vassal: c_egzadeva - Holder 1013037 - Primary title: c_egzadeva has lost the title: c_egzadeva
+375 - vassal: c_egzadeva - Title given to 1013037 - Primary title: k_aryayka
+375 - vassal: c_teothi - Holder 1013037 - Primary title: c_teothi has lost the title: c_teothi
+375 - vassal: c_teothi - Title given to 1013037 - Primary title: k_aryayka
+375 - vassal: c_reothi - Holder 1013037 - Primary title: c_reothi has lost the title: c_reothi
+375 - vassal: c_reothi - Title given to 1013037 - Primary title: k_aryayka
+384 - Holder 1015461 - Primary title: d_kerathi has lost the title: d_kerathi
+384 - Title given to 1015461 - Primary title: k_aryayka
+384 - vassal: c_reothi - Holder 1015461 - Primary title: c_reothi has lost the title: c_reothi
+384 - vassal: c_reothi - Title given to 1015461 - Primary title: k_aryayka
+384 - vassal: c_teothi - Holder 1015461 - Primary title: c_teothi has lost the title: c_teothi
+384 - vassal: c_teothi - Title given to 1015461 - Primary title: k_aryayka
+384 - vassal: c_egzadeva - Holder 1015461 - Primary title: c_egzadeva has lost the title: c_egzadeva
+384 - vassal: c_egzadeva - Title given to 1015461 - Primary title: k_aryayka
+384 - vassal: c_seronn - Holder 1015461 - Primary title: c_seronn has lost the title: c_seronn
+384 - vassal: c_seronn - Title given to 1015461 - Primary title: k_aryayka
+384 - vassal: c_nayaka - Holder 1015461 - Primary title: c_nayaka has lost the title: c_nayaka
+384 - vassal: c_nayaka - Title given to 1015461 - Primary title: k_aryayka
+400 - vassal: c_kerema - Holder 1015461 - Primary title: c_kerema has lost the title: c_kerema
+400 - vassal: c_kerema - Title given to 1015461 - Primary title: k_aryayka
+400 - vassal: c_qema - Holder 1015461 - Primary title: c_qema has lost the title: c_qema
+400 - vassal: c_qema - Title given to 1015461 - Primary title: k_aryayka

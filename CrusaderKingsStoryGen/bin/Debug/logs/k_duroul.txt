@@ -1,0 +1,710 @@
+200 - Title given to 1001488
+200 - vassal: d_dolala - Holder 1001488 - Primary title: d_dolala has lost the title: d_dolala
+200 - sub vassal: d_dolala - Holder 1001488 - Primary title: d_dolala has lost the title: d_dolala
+200 - vassal: d_dolala - Title given to 1001488 - Primary title: k_duroul
+200 - sub vassal: d_dolala - Title given to 1001488 - Primary title: k_duroul
+200 - Holder (1001488) has gained d_dolala
+200 - sub vassal: c_tadabha - Holder 1001488 - Primary title: c_tadabha has lost the title: c_tadabha
+200 - sub vassal: c_tadabha - Title given to 1001488 - Primary title: k_duroul
+200 - Holder (1001488) has gained c_tadabha
+208 - vassal: d_watabha - Holder 1002101 - Primary title: d_watabha has lost the title: d_watabha
+208 - sub vassal: d_watabha - Holder 1002101 - Primary title: d_watabha has lost the title: d_watabha
+208 - vassal: d_watabha - Title given to 1002101
+208 - sub vassal: d_watabha - Title given to 1002101
+208 - sub vassal: c_kucaud - Holder 1002101 - Primary title: c_kucaud has lost the title: c_kucaud
+208 - sub vassal: c_kucaud - Title given to 1002101 - Primary title: d_watabha
+208 - vassal: d_watabha - Holder (1002101) has gained c_kucaud
+208 - sub vassal: d_watabha - Holder (1002101) has gained c_kucaud
+208 - sub vassal: c_lucugel - Holder 1002101 - Primary title: c_lucugel has lost the title: c_lucugel
+208 - sub vassal: c_lucugel - Title given to 1002101 - Primary title: d_watabha
+208 - vassal: d_watabha - Holder (1002101) has gained c_lucugel
+208 - sub vassal: d_watabha - Holder (1002101) has gained c_lucugel
+222 - vassal: d_watabha - Holder 1003890 - Primary title: d_watabha has lost the title: d_watabha
+222 - sub vassal: d_watabha - Holder 1003890 - Primary title: d_watabha has lost the title: d_watabha
+222 - vassal: d_watabha - Title given to 1003890
+222 - sub vassal: d_watabha - Title given to 1003890
+222 - sub vassal: c_lucugel - Holder 1003890 - Primary title: c_lucugel has lost the title: c_lucugel
+222 - sub vassal: c_lucugel - Title given to 1003890 - Primary title: d_watabha
+222 - vassal: d_watabha - Holder (1003890) has gained c_lucugel
+222 - sub vassal: d_watabha - Holder (1003890) has gained c_lucugel
+222 - sub vassal: c_kucaud - Holder 1003890 - Primary title: c_kucaud has lost the title: c_kucaud
+222 - sub vassal: c_kucaud - Title given to 1003890 - Primary title: d_watabha
+222 - vassal: d_watabha - Holder (1003890) has gained c_kucaud
+222 - sub vassal: d_watabha - Holder (1003890) has gained c_kucaud
+230 - sub vassal: d_kazing - Setting independent in Validate Realm
+230 - sub vassal: d_kazing - Made independent
+230 - Gained vassal: d_tolaud
+231 - sub vassal: c_rescugel - Made vassal of neighbour (k_kanaud) due to being a seperate island
+231 - sub vassal: c_busubu - Made vassal of neighbour (k_kanaud) due to being a seperate island
+231 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+231 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+231 - vassal: d_tolaud - Gained vassal: c_detubu
+231 - sub vassal: d_tolaud - Gained vassal: c_detubu
+231 - vassal: d_tolaud - Gained vassal: c_detubu
+231 - sub vassal: d_tolaud - Gained vassal: c_detubu
+231 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+232 - Gained vassal: c_rasubu
+232 - vassal: c_rasubu - Given to neighbour holder of k_duroul
+232 - sub vassal: c_rasubu - Given to neighbour holder of k_duroul
+232 - vassal: c_rasubu - Holder 1001488 - Primary title: c_rasubu has lost the title: c_rasubu
+232 - sub vassal: c_rasubu - Holder 1001488 - Primary title: c_rasubu has lost the title: c_rasubu
+232 - vassal: c_rasubu - Title given to 1001488 - Primary title: k_duroul
+232 - sub vassal: c_rasubu - Title given to 1001488 - Primary title: k_duroul
+232 - Holder (1001488) has gained c_rasubu
+232 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+232 - vassal: d_tolaud - Lost vassal: c_detubu
+232 - sub vassal: d_tolaud - Lost vassal: c_detubu
+232 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+232 - vassal: d_tolaud - Gained vassal: c_detubu
+232 - sub vassal: d_tolaud - Gained vassal: c_detubu
+232 - vassal: d_tolaud - Gained vassal: c_detubu
+232 - sub vassal: d_tolaud - Gained vassal: c_detubu
+232 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+232 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+232 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+232 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+232 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+233 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+233 - vassal: d_tolaud - Lost vassal: c_detubu
+233 - sub vassal: d_tolaud - Lost vassal: c_detubu
+233 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+233 - vassal: d_tolaud - Gained vassal: c_detubu
+233 - sub vassal: d_tolaud - Gained vassal: c_detubu
+233 - vassal: d_tolaud - Gained vassal: c_detubu
+233 - sub vassal: d_tolaud - Gained vassal: c_detubu
+233 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+233 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+233 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+233 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+233 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+234 - Gained vassal: c_waytougu
+234 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+234 - vassal: d_tolaud - Lost vassal: c_detubu
+234 - sub vassal: d_tolaud - Lost vassal: c_detubu
+234 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+234 - vassal: d_tolaud - Gained vassal: c_detubu
+234 - sub vassal: d_tolaud - Gained vassal: c_detubu
+234 - vassal: d_tolaud - Gained vassal: c_detubu
+234 - sub vassal: d_tolaud - Gained vassal: c_detubu
+234 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+234 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+234 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+234 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+234 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+234 - vassal: c_waytougu - Made independent due to being a seperate island
+234 - sub vassal: c_waytougu - Made independent due to being a seperate island
+234 - vassal: c_waytougu - Made independent
+234 - sub vassal: c_waytougu - Made independent
+235 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+235 - vassal: d_tolaud - Lost vassal: c_detubu
+235 - sub vassal: d_tolaud - Lost vassal: c_detubu
+235 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+235 - vassal: d_tolaud - Gained vassal: c_detubu
+235 - sub vassal: d_tolaud - Gained vassal: c_detubu
+235 - vassal: d_tolaud - Gained vassal: c_detubu
+235 - sub vassal: d_tolaud - Gained vassal: c_detubu
+235 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+235 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+235 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+235 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+235 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+236 - vassal: d_watabha - Holder 1000651 - Primary title: d_watabha has lost the title: d_watabha
+236 - sub vassal: d_watabha - Holder 1000651 - Primary title: d_watabha has lost the title: d_watabha
+236 - vassal: d_watabha - Title given to 1000651 - Primary title: d_satelge
+236 - sub vassal: d_watabha - Title given to 1000651 - Primary title: d_satelge
+236 - vassal: d_satelge - Holder (1000651) has gained d_watabha
+236 - sub vassal: d_satelge - Holder (1000651) has gained d_watabha
+236 - sub vassal: c_lucugel - Holder 1000651 - Primary title: c_lucugel has lost the title: c_lucugel
+236 - sub vassal: c_lucugel - Title given to 1000651 - Primary title: d_satelge
+236 - vassal: d_satelge - Holder (1000651) has gained c_lucugel
+236 - sub vassal: d_satelge - Holder (1000651) has gained c_lucugel
+236 - sub vassal: c_kucaud - Holder 1000651 - Primary title: c_kucaud has lost the title: c_kucaud
+236 - sub vassal: c_kucaud - Title given to 1000651 - Primary title: d_satelge
+236 - vassal: d_satelge - Holder (1000651) has gained c_kucaud
+236 - sub vassal: d_satelge - Holder (1000651) has gained c_kucaud
+236 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+236 - vassal: d_tolaud - Lost vassal: c_detubu
+236 - sub vassal: d_tolaud - Lost vassal: c_detubu
+236 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+236 - vassal: d_tolaud - Gained vassal: c_detubu
+236 - sub vassal: d_tolaud - Gained vassal: c_detubu
+236 - vassal: d_tolaud - Gained vassal: c_detubu
+236 - sub vassal: d_tolaud - Gained vassal: c_detubu
+236 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+236 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+236 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+236 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+236 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+237 - Gained vassal: c_waytougu
+237 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+237 - vassal: d_tolaud - Lost vassal: c_detubu
+237 - sub vassal: d_tolaud - Lost vassal: c_detubu
+237 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+237 - vassal: d_tolaud - Gained vassal: c_detubu
+237 - sub vassal: d_tolaud - Gained vassal: c_detubu
+237 - vassal: d_tolaud - Gained vassal: c_detubu
+237 - sub vassal: d_tolaud - Gained vassal: c_detubu
+237 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+237 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+237 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+237 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+237 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+237 - vassal: c_waytougu - Made independent due to being a seperate island
+237 - sub vassal: c_waytougu - Made independent due to being a seperate island
+237 - vassal: c_waytougu - Made independent
+237 - sub vassal: c_waytougu - Made independent
+238 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+238 - vassal: d_tolaud - Lost vassal: c_detubu
+238 - sub vassal: d_tolaud - Lost vassal: c_detubu
+238 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+238 - vassal: d_tolaud - Gained vassal: c_detubu
+238 - sub vassal: d_tolaud - Gained vassal: c_detubu
+238 - vassal: d_tolaud - Gained vassal: c_detubu
+238 - sub vassal: d_tolaud - Gained vassal: c_detubu
+238 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+238 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+238 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+238 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+238 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+239 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+239 - vassal: d_tolaud - Lost vassal: c_detubu
+239 - sub vassal: d_tolaud - Lost vassal: c_detubu
+239 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+239 - vassal: d_tolaud - Gained vassal: c_detubu
+239 - sub vassal: d_tolaud - Gained vassal: c_detubu
+239 - vassal: d_tolaud - Gained vassal: c_detubu
+239 - sub vassal: d_tolaud - Gained vassal: c_detubu
+239 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+239 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+239 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+239 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+239 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+240 - vassal: d_tolaud - Holder 1002650 - Primary title: d_tolaud has lost the title: d_tolaud
+240 - sub vassal: d_tolaud - Holder 1002650 - Primary title: d_tolaud has lost the title: d_tolaud
+240 - vassal: d_tolaud - Title given to 1002650
+240 - sub vassal: d_tolaud - Title given to 1002650
+240 - sub vassal: c_detubu - Holder 1002650 - Primary title: c_detubu has lost the title: c_detubu
+240 - sub vassal: c_detubu - Title given to 1002650 - Primary title: d_tolaud
+240 - vassal: d_tolaud - Holder (1002650) has gained c_detubu
+240 - sub vassal: d_tolaud - Holder (1002650) has gained c_detubu
+240 - sub vassal: c_nady - Holder 1002650 - Primary title: c_nady has lost the title: c_nady
+240 - sub vassal: c_nady - Title given to 1002650 - Primary title: d_tolaud
+240 - vassal: d_tolaud - Holder (1002650) has gained c_nady
+240 - sub vassal: d_tolaud - Holder (1002650) has gained c_nady
+240 - sub vassal: c_tavoul - Holder 1002650 - Primary title: c_tavoul has lost the title: c_tavoul
+240 - sub vassal: c_tavoul - Title given to 1002650 - Primary title: d_tolaud
+240 - vassal: d_tolaud - Holder (1002650) has gained c_tavoul
+240 - sub vassal: d_tolaud - Holder (1002650) has gained c_tavoul
+240 - sub vassal: c_kuraud - Holder 1002650 - Primary title: c_kuraud has lost the title: c_kuraud
+240 - sub vassal: c_kuraud - Title given to 1002650 - Primary title: d_tolaud
+240 - vassal: d_tolaud - Holder (1002650) has gained c_kuraud
+240 - sub vassal: d_tolaud - Holder (1002650) has gained c_kuraud
+240 - sub vassal: c_databha - Holder 1002650 - Primary title: c_databha has lost the title: c_databha
+240 - sub vassal: c_databha - Title given to 1002650 - Primary title: d_tolaud
+240 - vassal: d_tolaud - Holder (1002650) has gained c_databha
+240 - sub vassal: d_tolaud - Holder (1002650) has gained c_databha
+240 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+240 - vassal: d_tolaud - Lost vassal: c_detubu
+240 - sub vassal: d_tolaud - Lost vassal: c_detubu
+240 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+240 - vassal: d_tolaud - Gained vassal: c_detubu
+240 - sub vassal: d_tolaud - Gained vassal: c_detubu
+240 - vassal: d_tolaud - Gained vassal: c_detubu
+240 - sub vassal: d_tolaud - Gained vassal: c_detubu
+240 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+240 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+240 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+240 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+240 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+241 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+241 - vassal: d_tolaud - Lost vassal: c_detubu
+241 - sub vassal: d_tolaud - Lost vassal: c_detubu
+241 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+241 - vassal: d_tolaud - Gained vassal: c_detubu
+241 - sub vassal: d_tolaud - Gained vassal: c_detubu
+241 - vassal: d_tolaud - Gained vassal: c_detubu
+241 - sub vassal: d_tolaud - Gained vassal: c_detubu
+241 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+241 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+241 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+241 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+241 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+242 - vassal: d_tolaud - Holder 1005347 - Primary title: d_tolaud has lost the title: d_tolaud
+242 - sub vassal: d_tolaud - Holder 1005347 - Primary title: d_tolaud has lost the title: d_tolaud
+242 - vassal: d_tolaud - Title given to 1005347
+242 - sub vassal: d_tolaud - Title given to 1005347
+242 - sub vassal: c_detubu - Holder 1005347 - Primary title: c_detubu has lost the title: c_detubu
+242 - sub vassal: c_detubu - Title given to 1005347 - Primary title: d_tolaud
+242 - vassal: d_tolaud - Holder (1005347) has gained c_detubu
+242 - sub vassal: d_tolaud - Holder (1005347) has gained c_detubu
+242 - sub vassal: c_nady - Holder 1005347 - Primary title: c_nady has lost the title: c_nady
+242 - sub vassal: c_nady - Title given to 1005347 - Primary title: d_tolaud
+242 - vassal: d_tolaud - Holder (1005347) has gained c_nady
+242 - sub vassal: d_tolaud - Holder (1005347) has gained c_nady
+242 - sub vassal: c_tavoul - Holder 1005347 - Primary title: c_tavoul has lost the title: c_tavoul
+242 - sub vassal: c_tavoul - Title given to 1005347 - Primary title: d_tolaud
+242 - vassal: d_tolaud - Holder (1005347) has gained c_tavoul
+242 - sub vassal: d_tolaud - Holder (1005347) has gained c_tavoul
+242 - sub vassal: c_kuraud - Holder 1005347 - Primary title: c_kuraud has lost the title: c_kuraud
+242 - sub vassal: c_kuraud - Title given to 1005347 - Primary title: d_tolaud
+242 - vassal: d_tolaud - Holder (1005347) has gained c_kuraud
+242 - sub vassal: d_tolaud - Holder (1005347) has gained c_kuraud
+242 - sub vassal: c_databha - Holder 1005347 - Primary title: c_databha has lost the title: c_databha
+242 - sub vassal: c_databha - Title given to 1005347 - Primary title: d_tolaud
+242 - vassal: d_tolaud - Holder (1005347) has gained c_databha
+242 - sub vassal: d_tolaud - Holder (1005347) has gained c_databha
+242 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+242 - vassal: d_tolaud - Lost vassal: c_detubu
+242 - sub vassal: d_tolaud - Lost vassal: c_detubu
+242 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+242 - vassal: d_tolaud - Gained vassal: c_detubu
+242 - sub vassal: d_tolaud - Gained vassal: c_detubu
+242 - vassal: d_tolaud - Gained vassal: c_detubu
+242 - sub vassal: d_tolaud - Gained vassal: c_detubu
+242 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+242 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+242 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+242 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+242 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+242 - Holder 1002860 - Primary title: k_duroul has lost the title: k_duroul
+242 - Title given to 1002860
+242 - vassal: d_dolala - Holder 1002860 - Primary title: d_dolala has lost the title: d_dolala
+242 - sub vassal: d_dolala - Holder 1002860 - Primary title: d_dolala has lost the title: d_dolala
+242 - vassal: d_dolala - Title given to 1002860 - Primary title: k_duroul
+242 - sub vassal: d_dolala - Title given to 1002860 - Primary title: k_duroul
+242 - Holder (1002860) has gained d_dolala
+242 - sub vassal: c_tadabha - Setting independent in Validate Realm
+242 - sub vassal: c_tadabha - Made independent
+242 - vassal: c_rasubu - Holder 1002860 - Primary title: c_rasubu has lost the title: c_rasubu
+242 - sub vassal: c_rasubu - Holder 1002860 - Primary title: c_rasubu has lost the title: c_rasubu
+242 - vassal: c_rasubu - Title given to 1002860 - Primary title: k_duroul
+242 - sub vassal: c_rasubu - Title given to 1002860 - Primary title: k_duroul
+242 - Holder (1002860) has gained c_rasubu
+242 - Holder (1002860) has gained c_tadabha
+243 - Gained vassal: c_waytougu
+243 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+243 - vassal: d_tolaud - Lost vassal: c_detubu
+243 - sub vassal: d_tolaud - Lost vassal: c_detubu
+243 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+243 - vassal: d_tolaud - Gained vassal: c_detubu
+243 - sub vassal: d_tolaud - Gained vassal: c_detubu
+243 - vassal: d_tolaud - Gained vassal: c_detubu
+243 - sub vassal: d_tolaud - Gained vassal: c_detubu
+243 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+243 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+243 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+243 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+243 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+243 - vassal: c_waytougu - Made independent due to being a seperate island
+243 - sub vassal: c_waytougu - Made independent due to being a seperate island
+243 - vassal: c_waytougu - Made independent
+243 - sub vassal: c_waytougu - Made independent
+244 - Gained vassal: c_waytougu
+244 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+244 - vassal: d_tolaud - Lost vassal: c_detubu
+244 - sub vassal: d_tolaud - Lost vassal: c_detubu
+244 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+244 - vassal: d_tolaud - Gained vassal: c_detubu
+244 - sub vassal: d_tolaud - Gained vassal: c_detubu
+244 - vassal: d_tolaud - Gained vassal: c_detubu
+244 - sub vassal: d_tolaud - Gained vassal: c_detubu
+244 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+244 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+244 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+244 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+244 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+244 - vassal: c_waytougu - Made independent due to being a seperate island
+244 - sub vassal: c_waytougu - Made independent due to being a seperate island
+244 - vassal: c_waytougu - Made independent
+244 - sub vassal: c_waytougu - Made independent
+245 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+245 - vassal: d_tolaud - Lost vassal: c_detubu
+245 - sub vassal: d_tolaud - Lost vassal: c_detubu
+245 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+245 - vassal: d_tolaud - Gained vassal: c_detubu
+245 - sub vassal: d_tolaud - Gained vassal: c_detubu
+245 - vassal: d_tolaud - Gained vassal: c_detubu
+245 - sub vassal: d_tolaud - Gained vassal: c_detubu
+245 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+245 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+245 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+245 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+245 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+246 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+246 - vassal: d_tolaud - Lost vassal: c_detubu
+246 - sub vassal: d_tolaud - Lost vassal: c_detubu
+246 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+246 - vassal: d_tolaud - Gained vassal: c_detubu
+246 - sub vassal: d_tolaud - Gained vassal: c_detubu
+246 - vassal: d_tolaud - Gained vassal: c_detubu
+246 - sub vassal: d_tolaud - Gained vassal: c_detubu
+246 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+246 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+246 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+246 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+246 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+247 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+247 - vassal: d_tolaud - Lost vassal: c_detubu
+247 - sub vassal: d_tolaud - Lost vassal: c_detubu
+247 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+247 - vassal: d_tolaud - Gained vassal: c_detubu
+247 - sub vassal: d_tolaud - Gained vassal: c_detubu
+247 - vassal: d_tolaud - Gained vassal: c_detubu
+247 - sub vassal: d_tolaud - Gained vassal: c_detubu
+247 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+247 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+247 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+247 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+247 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+248 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+248 - vassal: d_tolaud - Lost vassal: c_detubu
+248 - sub vassal: d_tolaud - Lost vassal: c_detubu
+248 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+248 - vassal: d_tolaud - Gained vassal: c_detubu
+248 - sub vassal: d_tolaud - Gained vassal: c_detubu
+248 - vassal: d_tolaud - Gained vassal: c_detubu
+248 - sub vassal: d_tolaud - Gained vassal: c_detubu
+248 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+248 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+248 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+248 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+248 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+249 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+249 - vassal: d_tolaud - Lost vassal: c_detubu
+249 - sub vassal: d_tolaud - Lost vassal: c_detubu
+249 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+249 - vassal: d_tolaud - Gained vassal: c_detubu
+249 - sub vassal: d_tolaud - Gained vassal: c_detubu
+249 - vassal: d_tolaud - Gained vassal: c_detubu
+249 - sub vassal: d_tolaud - Gained vassal: c_detubu
+249 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+249 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+249 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+249 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+249 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+250 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+250 - vassal: d_tolaud - Lost vassal: c_detubu
+250 - sub vassal: d_tolaud - Lost vassal: c_detubu
+250 - sub vassal: c_detubu - Setting to vassal of d_tolaud in Validate Realm
+250 - vassal: d_tolaud - Gained vassal: c_detubu
+250 - sub vassal: d_tolaud - Gained vassal: c_detubu
+250 - vassal: d_tolaud - Gained vassal: c_detubu
+250 - sub vassal: d_tolaud - Gained vassal: c_detubu
+250 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+250 - vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+250 - sub vassal: c_rasubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+250 - vassal: c_rasubu - Given to neighbour holder of k_navabha
+250 - sub vassal: c_rasubu - Given to neighbour holder of k_navabha
+251 - vassal: d_tolaud - Holder 1002860 - Primary title: d_tolaud has lost the title: d_tolaud
+251 - sub vassal: d_tolaud - Holder 1002860 - Primary title: d_tolaud has lost the title: d_tolaud
+251 - vassal: d_tolaud - Title given to 1002860 - Primary title: k_duroul
+251 - sub vassal: d_tolaud - Title given to 1002860 - Primary title: k_duroul
+251 - Holder (1002860) has gained d_tolaud
+251 - sub vassal: c_detubu - Holder 1002860 - Primary title: c_detubu has lost the title: c_detubu
+251 - sub vassal: c_detubu - Title given to 1002860 - Primary title: k_duroul
+251 - Holder (1002860) has gained c_detubu
+251 - sub vassal: c_nady - Holder 1002860 - Primary title: c_nady has lost the title: c_nady
+251 - sub vassal: c_nady - Title given to 1002860 - Primary title: k_duroul
+251 - Holder (1002860) has gained c_nady
+251 - sub vassal: c_tavoul - Holder 1002860 - Primary title: c_tavoul has lost the title: c_tavoul
+251 - sub vassal: c_tavoul - Title given to 1002860 - Primary title: k_duroul
+251 - Holder (1002860) has gained c_tavoul
+251 - sub vassal: c_kuraud - Holder 1002860 - Primary title: c_kuraud has lost the title: c_kuraud
+251 - sub vassal: c_kuraud - Title given to 1002860 - Primary title: k_duroul
+251 - Holder (1002860) has gained c_kuraud
+251 - sub vassal: c_databha - Holder 1002860 - Primary title: c_databha has lost the title: c_databha
+251 - sub vassal: c_databha - Title given to 1002860 - Primary title: k_duroul
+251 - Holder (1002860) has gained c_databha
+251 - vassal: d_satelge - Holder 1002456 - Primary title: d_satelge has lost the title: d_satelge
+251 - sub vassal: d_satelge - Holder 1002456 - Primary title: d_satelge has lost the title: d_satelge
+251 - vassal: d_satelge - Title given to 1002456
+251 - sub vassal: d_satelge - Title given to 1002456
+251 - sub vassal: c_nisamba - Setting to vassal of d_watabha in Validate Realm
+251 - vassal: d_satelge - Lost vassal: c_nisamba
+251 - sub vassal: d_satelge - Lost vassal: c_nisamba
+251 - sub vassal: c_wucabha - Setting to vassal of d_watabha in Validate Realm
+251 - vassal: d_satelge - Lost vassal: c_wucabha
+251 - sub vassal: d_satelge - Lost vassal: c_wucabha
+251 - sub vassal: c_lahabha - Setting to vassal of d_watabha in Validate Realm
+251 - vassal: d_satelge - Lost vassal: c_lahabha
+251 - sub vassal: d_satelge - Lost vassal: c_lahabha
+251 - vassal: d_watabha - Gained vassal: c_lahabha
+251 - sub vassal: d_watabha - Gained vassal: c_lahabha
+251 - vassal: d_watabha - Gained vassal: c_wucabha
+251 - sub vassal: d_watabha - Gained vassal: c_wucabha
+251 - vassal: d_watabha - Gained vassal: c_nisamba
+251 - sub vassal: d_watabha - Gained vassal: c_nisamba
+251 - vassal: d_watabha - Holder 1002456 - Primary title: d_watabha has lost the title: d_watabha
+251 - sub vassal: d_watabha - Holder 1002456 - Primary title: d_watabha has lost the title: d_watabha
+251 - vassal: d_watabha - Title given to 1002456 - Primary title: d_satelge
+251 - sub vassal: d_watabha - Title given to 1002456 - Primary title: d_satelge
+251 - vassal: d_satelge - Holder (1002456) has gained d_watabha
+251 - sub vassal: d_satelge - Holder (1002456) has gained d_watabha
+251 - sub vassal: c_kucaud - Holder 1002456 - Primary title: c_kucaud has lost the title: c_kucaud
+251 - sub vassal: c_kucaud - Title given to 1002456 - Primary title: d_satelge
+251 - vassal: d_satelge - Holder (1002456) has gained c_kucaud
+251 - sub vassal: d_satelge - Holder (1002456) has gained c_kucaud
+251 - sub vassal: c_lucugel - Holder 1002456 - Primary title: c_lucugel has lost the title: c_lucugel
+251 - sub vassal: c_lucugel - Title given to 1002456 - Primary title: d_satelge
+251 - vassal: d_satelge - Holder (1002456) has gained c_lucugel
+251 - sub vassal: d_satelge - Holder (1002456) has gained c_lucugel
+251 - sub vassal: c_nisamba - Holder 1002456 - Primary title: c_nisamba has lost the title: c_nisamba
+251 - sub vassal: c_nisamba - Title given to 1002456 - Primary title: d_satelge
+251 - vassal: d_satelge - Holder (1002456) has gained c_nisamba
+251 - sub vassal: d_satelge - Holder (1002456) has gained c_nisamba
+251 - sub vassal: c_wucabha - Holder 1002456 - Primary title: c_wucabha has lost the title: c_wucabha
+251 - sub vassal: c_wucabha - Title given to 1002456 - Primary title: d_satelge
+251 - vassal: d_satelge - Holder (1002456) has gained c_wucabha
+251 - sub vassal: d_satelge - Holder (1002456) has gained c_wucabha
+251 - sub vassal: c_lahabha - Holder 1002456 - Primary title: c_lahabha has lost the title: c_lahabha
+251 - sub vassal: c_lahabha - Title given to 1002456 - Primary title: d_satelge
+251 - vassal: d_satelge - Holder (1002456) has gained c_lahabha
+251 - sub vassal: d_satelge - Holder (1002456) has gained c_lahabha
+251 - Holder 1006158 - Primary title: k_duroul has lost the title: c_kuraud
+251 - sub vassal: c_kuraud - Title given to 1006158
+251 - Holder 1006159 - Primary title: k_duroul has lost the title: c_rasubu
+251 - vassal: c_rasubu - Title given to 1006159
+251 - sub vassal: c_rasubu - Title given to 1006159
+251 - vassal: c_rasubu - Made independent due to being a seperate island prior to giving to neighbour
+251 - sub vassal: c_rasubu - Made independent due to being a seperate island prior to giving to neighbour
+251 - vassal: c_rasubu - Made independent
+251 - sub vassal: c_rasubu - Made independent
+251 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+251 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+252 - vassal: d_satelge - Destroyed due to flagged problem
+252 - sub vassal: d_satelge - Destroyed due to flagged problem
+252 - vassal: d_satelge - Made independent
+252 - sub vassal: d_satelge - Made independent
+252 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+252 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+253 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+253 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+254 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+254 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+255 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+255 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+256 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+256 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+257 - sub vassal: c_detubu - Made vassal of neighbour (k_navabha) due to being a seperate island
+257 - sub vassal: c_detubu - Given to neighbour holder of k_navabha
+258 - vassal: d_watabha - Holder 1002860 - Primary title: d_watabha has lost the title: d_watabha
+258 - sub vassal: d_watabha - Holder 1002860 - Primary title: d_watabha has lost the title: d_watabha
+258 - vassal: d_watabha - Title given to 1002860 - Primary title: k_duroul
+258 - sub vassal: d_watabha - Title given to 1002860 - Primary title: k_duroul
+258 - Holder (1002860) has gained d_watabha
+258 - sub vassal: c_kucaud - Holder 1002860 - Primary title: c_kucaud has lost the title: c_kucaud
+258 - sub vassal: c_kucaud - Title given to 1002860 - Primary title: k_duroul
+258 - Holder (1002860) has gained c_kucaud
+258 - sub vassal: c_lucugel - Holder 1002860 - Primary title: c_lucugel has lost the title: c_lucugel
+258 - sub vassal: c_lucugel - Title given to 1002860 - Primary title: k_duroul
+258 - Holder (1002860) has gained c_lucugel
+258 - sub vassal: c_nisamba - Holder 1002860 - Primary title: c_nisamba has lost the title: c_nisamba
+258 - sub vassal: c_nisamba - Title given to 1002860 - Primary title: k_duroul
+258 - Holder (1002860) has gained c_nisamba
+258 - sub vassal: c_wucabha - Holder 1002860 - Primary title: c_wucabha has lost the title: c_wucabha
+258 - sub vassal: c_wucabha - Title given to 1002860 - Primary title: k_duroul
+258 - Holder (1002860) has gained c_wucabha
+258 - sub vassal: c_lahabha - Holder 1002860 - Primary title: c_lahabha has lost the title: c_lahabha
+258 - sub vassal: c_lahabha - Title given to 1002860 - Primary title: k_duroul
+258 - Holder (1002860) has gained c_lahabha
+258 - sub vassal: c_databha - Given to 1006678 in HandleTitles - Too many duke titles
+258 - Holder 1006678 - Primary title: k_duroul has lost the title: c_databha
+258 - sub vassal: c_databha - Title given to 1006678
+258 - Holder 1006678 - Primary title: k_duroul has lost the title: d_tolaud
+258 - vassal: d_tolaud - Title given to 1006678 - Primary title: c_databha
+258 - sub vassal: d_tolaud - Title given to 1006678 - Primary title: c_databha
+258 - sub vassal: c_databha - Holder (1006678) has gained d_tolaud
+258 - sub vassal: c_detubu - Setting to vassal of k_duroul in Validate Realm
+258 - vassal: d_tolaud - Lost vassal: c_detubu
+258 - sub vassal: d_tolaud - Lost vassal: c_detubu
+258 - sub vassal: c_nady - Setting to vassal of k_duroul in Validate Realm
+258 - vassal: d_tolaud - Lost vassal: c_nady
+258 - sub vassal: d_tolaud - Lost vassal: c_nady
+258 - sub vassal: c_tavoul - Setting to vassal of k_duroul in Validate Realm
+258 - vassal: d_tolaud - Lost vassal: c_tavoul
+258 - sub vassal: d_tolaud - Lost vassal: c_tavoul
+258 - Gained vassal: c_tavoul
+258 - Gained vassal: c_nady
+258 - Gained vassal: c_detubu
+258 - vassal: d_tolaud - Too many dukes, made direct title into vassal of k_duroul
+258 - sub vassal: d_tolaud - Too many dukes, made direct title into vassal of k_duroul
+258 - Holder 1006679 - Primary title: k_duroul has lost the title: c_nisamba
+258 - sub vassal: c_nisamba - Title given to 1006679
+258 - Holder 1006680 - Primary title: k_duroul has lost the title: c_wucabha
+258 - sub vassal: c_wucabha - Title given to 1006680
+258 - Holder 1006681 - Primary title: k_duroul has lost the title: c_lucugel
+258 - sub vassal: c_lucugel - Title given to 1006681
+258 - Holder 1006682 - Primary title: k_duroul has lost the title: c_detubu
+258 - vassal: c_detubu - Title given to 1006682
+258 - sub vassal: c_detubu - Title given to 1006682
+258 - vassal: c_detubu - Made vassal of neighbour (k_kanaud) due to being a seperate island
+258 - sub vassal: c_detubu - Made vassal of neighbour (k_kanaud) due to being a seperate island
+258 - Lost vassal: c_detubu
+269 - Holder 1005756 - Primary title: k_duroul has lost the title: k_duroul
+269 - Title given to 1005756
+269 - vassal: d_watabha - Holder 1005756 - Primary title: d_watabha has lost the title: d_watabha
+269 - sub vassal: d_watabha - Holder 1005756 - Primary title: d_watabha has lost the title: d_watabha
+269 - vassal: d_watabha - Title given to 1005756 - Primary title: k_duroul
+269 - sub vassal: d_watabha - Title given to 1005756 - Primary title: k_duroul
+269 - Holder (1005756) has gained d_watabha
+269 - sub vassal: c_lahabha - Setting to vassal of d_dolala in Validate Realm
+269 - vassal: d_watabha - Lost vassal: c_lahabha
+269 - sub vassal: d_watabha - Lost vassal: c_lahabha
+269 - sub vassal: c_kucaud - Setting to vassal of d_dolala in Validate Realm
+269 - vassal: d_watabha - Lost vassal: c_kucaud
+269 - sub vassal: d_watabha - Lost vassal: c_kucaud
+269 - vassal: c_tavoul - Setting to vassal of d_dolala in Validate Realm
+269 - sub vassal: c_tavoul - Setting to vassal of d_dolala in Validate Realm
+269 - Lost vassal: c_tavoul
+269 - vassal: c_nady - Setting to vassal of d_dolala in Validate Realm
+269 - sub vassal: c_nady - Setting to vassal of d_dolala in Validate Realm
+269 - Lost vassal: c_nady
+269 - vassal: d_dolala - Gained vassal: c_nady
+269 - sub vassal: d_dolala - Gained vassal: c_nady
+269 - vassal: d_dolala - Gained vassal: c_tavoul
+269 - sub vassal: d_dolala - Gained vassal: c_tavoul
+269 - vassal: d_dolala - Gained vassal: c_kucaud
+269 - sub vassal: d_dolala - Gained vassal: c_kucaud
+269 - vassal: d_dolala - Gained vassal: c_lahabha
+269 - sub vassal: d_dolala - Gained vassal: c_lahabha
+269 - vassal: d_dolala - Holder 1005756 - Primary title: d_dolala has lost the title: d_dolala
+269 - sub vassal: d_dolala - Holder 1005756 - Primary title: d_dolala has lost the title: d_dolala
+269 - vassal: d_dolala - Title given to 1005756 - Primary title: k_duroul
+269 - sub vassal: d_dolala - Title given to 1005756 - Primary title: k_duroul
+269 - Holder (1005756) has gained d_dolala
+269 - sub vassal: c_lahabha - Holder 1005756 - Primary title: c_lahabha has lost the title: c_lahabha
+269 - sub vassal: c_lahabha - Title given to 1005756 - Primary title: k_duroul
+269 - Holder (1005756) has gained c_lahabha
+269 - sub vassal: c_kucaud - Holder 1005756 - Primary title: c_kucaud has lost the title: c_kucaud
+269 - sub vassal: c_kucaud - Title given to 1005756 - Primary title: k_duroul
+269 - Holder (1005756) has gained c_kucaud
+269 - sub vassal: c_tavoul - Holder 1005756 - Primary title: c_tavoul has lost the title: c_tavoul
+269 - sub vassal: c_tavoul - Title given to 1005756 - Primary title: k_duroul
+269 - Holder (1005756) has gained c_tavoul
+269 - sub vassal: c_nady - Holder 1005756 - Primary title: c_nady has lost the title: c_nady
+269 - sub vassal: c_nady - Title given to 1005756 - Primary title: k_duroul
+269 - Holder (1005756) has gained c_nady
+269 - Holder (1005756) has gained c_tadabha
+278 - vassal: d_dolala - Captured byk_kanaud in minor war
+278 - sub vassal: d_dolala - Captured byk_kanaud in minor war
+281 - Holder 1007784 - Primary title: k_duroul has lost the title: k_duroul
+281 - Title given to 1007784
+281 - vassal: d_dolala - Holder 1007784 - Primary title: d_dolala has lost the title: d_dolala
+281 - sub vassal: d_dolala - Holder 1007784 - Primary title: d_dolala has lost the title: d_dolala
+281 - vassal: d_dolala - Title given to 1007784 - Primary title: k_duroul
+281 - sub vassal: d_dolala - Title given to 1007784 - Primary title: k_duroul
+281 - Holder (1007784) has gained d_dolala
+281 - sub vassal: c_nady - Setting to vassal of d_watabha in Validate Realm
+281 - vassal: d_dolala - Lost vassal: c_nady
+281 - sub vassal: d_dolala - Lost vassal: c_nady
+281 - sub vassal: c_tavoul - Setting to vassal of d_watabha in Validate Realm
+281 - vassal: d_dolala - Lost vassal: c_tavoul
+281 - sub vassal: d_dolala - Lost vassal: c_tavoul
+281 - sub vassal: c_kucaud - Setting to vassal of d_watabha in Validate Realm
+281 - vassal: d_dolala - Lost vassal: c_kucaud
+281 - sub vassal: d_dolala - Lost vassal: c_kucaud
+281 - sub vassal: c_lahabha - Setting to vassal of d_watabha in Validate Realm
+281 - vassal: d_dolala - Lost vassal: c_lahabha
+281 - sub vassal: d_dolala - Lost vassal: c_lahabha
+281 - vassal: d_watabha - Gained vassal: c_lahabha
+281 - sub vassal: d_watabha - Gained vassal: c_lahabha
+281 - vassal: d_watabha - Gained vassal: c_kucaud
+281 - sub vassal: d_watabha - Gained vassal: c_kucaud
+281 - vassal: d_watabha - Gained vassal: c_tavoul
+281 - sub vassal: d_watabha - Gained vassal: c_tavoul
+281 - vassal: d_watabha - Gained vassal: c_nady
+281 - sub vassal: d_watabha - Gained vassal: c_nady
+281 - vassal: d_watabha - Holder 1007784 - Primary title: d_watabha has lost the title: d_watabha
+281 - sub vassal: d_watabha - Holder 1007784 - Primary title: d_watabha has lost the title: d_watabha
+281 - vassal: d_watabha - Title given to 1007784 - Primary title: k_duroul
+281 - sub vassal: d_watabha - Title given to 1007784 - Primary title: k_duroul
+281 - Holder (1007784) has gained d_watabha
+281 - Holder (1007784) has gained c_tadabha
+281 - Holder (1007784) has gained c_nady
+281 - Holder (1007784) has gained c_tavoul
+281 - Holder (1007784) has gained c_kucaud
+281 - Holder (1007784) has gained c_lahabha
+300 - sub vassal: c_anurund - Holder 1007784 - Primary title: c_anurund has lost the title: c_anurund
+300 - sub vassal: c_anurund - Title given to 1007784 - Primary title: k_duroul
+300 - Holder (1007784) has gained c_anurund
+300 - Holder 1009753 - Primary title: k_duroul has lost the title: c_nady
+300 - Gained vassal: c_nady
+301 - vassal: d_tolaud - Holder 1007195 - Primary title: d_tolaud has lost the title: d_tolaud
+301 - sub vassal: d_tolaud - Holder 1007195 - Primary title: d_tolaud has lost the title: d_tolaud
+301 - vassal: d_tolaud - Title given to 1007195
+301 - sub vassal: d_tolaud - Title given to 1007195
+301 - sub vassal: c_databha - Holder 1007195 - Primary title: c_databha has lost the title: c_databha
+301 - sub vassal: c_databha - Title given to 1007195 - Primary title: d_tolaud
+301 - vassal: d_tolaud - Holder (1007195) has gained c_databha
+301 - sub vassal: d_tolaud - Holder (1007195) has gained c_databha
+302 - vassal: d_tolaud - Holder 1007784 - Primary title: d_tolaud has lost the title: d_tolaud
+302 - sub vassal: d_tolaud - Holder 1007784 - Primary title: d_tolaud has lost the title: d_tolaud
+302 - vassal: d_tolaud - Title given to 1007784 - Primary title: k_duroul
+302 - sub vassal: d_tolaud - Title given to 1007784 - Primary title: k_duroul
+302 - Holder (1007784) has gained d_tolaud
+302 - sub vassal: c_databha - Holder 1007784 - Primary title: c_databha has lost the title: c_databha
+302 - sub vassal: c_databha - Title given to 1007784 - Primary title: k_duroul
+302 - Holder (1007784) has gained c_databha
+302 - sub vassal: c_databha - Given to 1009925 in HandleTitles - Too many duke titles
+302 - Holder 1009925 - Primary title: k_duroul has lost the title: c_databha
+302 - sub vassal: c_databha - Title given to 1009925
+302 - Holder 1009925 - Primary title: k_duroul has lost the title: d_tolaud
+302 - vassal: d_tolaud - Title given to 1009925 - Primary title: c_databha
+302 - sub vassal: d_tolaud - Title given to 1009925 - Primary title: c_databha
+302 - sub vassal: c_databha - Holder (1009925) has gained d_tolaud
+302 - vassal: d_tolaud - Too many dukes, made direct title into vassal of k_duroul
+302 - sub vassal: d_tolaud - Too many dukes, made direct title into vassal of k_duroul
+311 - Holder 1010388 - Primary title: k_duroul has lost the title: k_duroul
+311 - Title given to 1010388
+311 - vassal: d_watabha - Holder 1010388 - Primary title: d_watabha has lost the title: d_watabha
+311 - sub vassal: d_watabha - Holder 1010388 - Primary title: d_watabha has lost the title: d_watabha
+311 - vassal: d_watabha - Title given to 1010388 - Primary title: k_duroul
+311 - sub vassal: d_watabha - Title given to 1010388 - Primary title: k_duroul
+311 - Holder (1010388) has gained d_watabha
+311 - vassal: d_dolala - Holder 1010388 - Primary title: d_dolala has lost the title: d_dolala
+311 - sub vassal: d_dolala - Holder 1010388 - Primary title: d_dolala has lost the title: d_dolala
+311 - vassal: d_dolala - Title given to 1010388 - Primary title: k_duroul
+311 - sub vassal: d_dolala - Title given to 1010388 - Primary title: k_duroul
+311 - Holder (1010388) has gained d_dolala
+311 - sub vassal: c_anurund - Holder 1010388 - Primary title: c_anurund has lost the title: c_anurund
+311 - sub vassal: c_anurund - Title given to 1010388 - Primary title: k_duroul
+311 - Holder (1010388) has gained c_anurund
+311 - Holder (1010388) has gained c_lahabha
+311 - Holder (1010388) has gained c_kucaud
+311 - Holder (1010388) has gained c_tavoul
+311 - Holder (1010388) has gained c_tadabha
+320 - Holder 1011158 - Primary title: k_duroul has lost the title: k_duroul
+320 - Title given to 1011158
+320 - vassal: d_dolala - Holder 1011158 - Primary title: d_dolala has lost the title: d_dolala
+320 - sub vassal: d_dolala - Holder 1011158 - Primary title: d_dolala has lost the title: d_dolala
+320 - vassal: d_dolala - Title given to 1011158 - Primary title: k_duroul
+320 - sub vassal: d_dolala - Title given to 1011158 - Primary title: k_duroul
+320 - Holder (1011158) has gained d_dolala
+320 - sub vassal: c_anurund - Setting to vassal of d_watabha in Validate Realm
+320 - vassal: d_dolala - Lost vassal: c_anurund
+320 - sub vassal: d_dolala - Lost vassal: c_anurund
+320 - vassal: d_watabha - Gained vassal: c_anurund
+320 - sub vassal: d_watabha - Gained vassal: c_anurund
+320 - vassal: d_watabha - Holder 1011158 - Primary title: d_watabha has lost the title: d_watabha
+320 - sub vassal: d_watabha - Holder 1011158 - Primary title: d_watabha has lost the title: d_watabha
+320 - vassal: d_watabha - Title given to 1011158 - Primary title: k_duroul
+320 - sub vassal: d_watabha - Title given to 1011158 - Primary title: k_duroul
+320 - Holder (1011158) has gained d_watabha
+320 - Holder (1011158) has gained c_tadabha
+320 - Holder (1011158) has gained c_tavoul
+320 - Holder (1011158) has gained c_kucaud
+320 - Holder (1011158) has gained c_lahabha
+320 - Holder (1011158) has gained c_anurund
+321 - vassal: d_dolala - Destroyed due to flagged problem
+321 - sub vassal: d_dolala - Destroyed due to flagged problem
+321 - vassal: d_dolala - Made independent
+321 - sub vassal: d_dolala - Made independent
+321 - vassal: c_nady - Holder 1011158 - Primary title: c_nady has lost the title: c_nady
+321 - sub vassal: c_nady - Holder 1011158 - Primary title: c_nady has lost the title: c_nady
+321 - vassal: c_nady - Title given to 1011158 - Primary title: k_duroul
+321 - sub vassal: c_nady - Title given to 1011158 - Primary title: k_duroul
+321 - Holder (1011158) has gained c_nady
+321 - Holder 1005588 - Primary title: k_duroul has lost the title: c_tavoul
+321 - Gained vassal: c_tavoul
+323 - vassal: d_tolaud - Holder 1009972 - Primary title: d_tolaud has lost the title: d_tolaud
+323 - sub vassal: d_tolaud - Holder 1009972 - Primary title

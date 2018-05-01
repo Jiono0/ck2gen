@@ -1,0 +1,488 @@
+200 - Title given to 1000794
+200 - vassal: c_sularl - Given to 1000797 via AddCharacterForTitle
+200 - sub vassal: c_sularl - Given to 1000797 via AddCharacterForTitle
+200 - vassal: c_sularl - Holder 1000797 - Primary title: c_sularl has lost the title: c_sularl
+200 - sub vassal: c_sularl - Holder 1000797 - Primary title: c_sularl has lost the title: c_sularl
+200 - vassal: c_sularl - Title given to 1000797
+200 - sub vassal: c_sularl - Title given to 1000797
+200 - vassal: c_wadina - Holder 1000794 - Primary title: c_wadina has lost the title: c_wadina
+200 - sub vassal: c_wadina - Holder 1000794 - Primary title: c_wadina has lost the title: c_wadina
+200 - vassal: c_wadina - Title given to 1000794 - Primary title: d_dumarl
+200 - sub vassal: c_wadina - Title given to 1000794 - Primary title: d_dumarl
+200 - Holder (1000794) has gained c_wadina
+200 - vassal: c_sularl - Holder 1000794 - Primary title: c_sularl has lost the title: c_sularl
+200 - sub vassal: c_sularl - Holder 1000794 - Primary title: c_sularl has lost the title: c_sularl
+200 - vassal: c_sularl - Title given to 1000794 - Primary title: d_dumarl
+200 - sub vassal: c_sularl - Title given to 1000794 - Primary title: d_dumarl
+200 - Holder (1000794) has gained c_sularl
+200 - Holder 1001564 - Primary title: d_dumarl has lost the title: d_dumarl
+200 - Title given to 1001564 - Primary title: k_tazina
+223 - Gained vassal: c_bujena
+223 - Holder 1002549 - Primary title: d_dumarl has lost the title: d_dumarl
+223 - Title given to 1002549 - Primary title: k_tazina
+223 - vassal: c_bujena - Holder 1002549 - Primary title: c_bujena has lost the title: c_bujena
+223 - vassal: c_bujena - Title given to 1002549 - Primary title: k_tazina
+229 - Holder 1000835 - Primary title: d_dumarl has lost the title: d_dumarl
+229 - Title given to 1000835 - Primary title: k_tazina
+229 - vassal: c_bujena - Setting to vassal of d_evond in Validate Realm
+229 - Lost vassal: c_bujena
+230 - vassal: c_sularl - Given to 1004909 in HandleTitles - Too many duke titles
+230 - vassal: c_wadina - Holder 1004909 - Primary title: c_wadina has lost the title: c_sularl
+230 - vassal: c_sularl - Title given to 1004909
+230 - Title given to 1004909 - Primary title: c_sularl
+230 - vassal: c_sularl - Holder (1004909) has gained d_dumarl
+230 - Too many dukes, given to dejure: k_tazina
+233 - Holder 1005103 - Primary title: d_dumarl has lost the title: d_dumarl
+233 - Title given to 1005103
+233 - vassal: c_sularl - Holder 1005103 - Primary title: c_sularl has lost the title: c_sularl
+233 - vassal: c_sularl - Title given to 1005103 - Primary title: d_dumarl
+233 - Holder (1005103) has gained c_sularl
+260 - Holder 1007229 - Primary title: d_dumarl has lost the title: d_dumarl
+260 - Title given to 1007229
+260 - vassal: c_sularl - Holder 1007229 - Primary title: c_sularl has lost the title: c_sularl
+260 - vassal: c_sularl - Title given to 1007229 - Primary title: d_dumarl
+260 - Holder (1007229) has gained c_sularl
+264 - Holder 1006155 - Primary title: d_dumarl has lost the title: d_dumarl
+264 - Title given to 1006155 - Primary title: k_tazina
+264 - vassal: c_sularl - Holder 1006155 - Primary title: c_sularl has lost the title: c_sularl
+264 - vassal: c_sularl - Title given to 1006155 - Primary title: k_tazina
+264 - vassal: c_sularl - Title given to 1003535
+270 - Gained vassal: c_erasimir
+270 - Gained vassal: c_lenage
+270 - Gained vassal: c_bulena
+270 - Gained vassal: c_rojinia
+270 - Gained vassal: c_qeygind
+270 - Holder 1007416 - Primary title: d_dumarl has lost the title: c_qeygind
+270 - vassal: c_qeygind - Title given to 1007416 - Primary title: k_tazina
+270 - vassal: c_qeygind - Setting to vassal of k_tazina in Validate Realm
+270 - Lost vassal: c_qeygind
+270 - Holder 1007416 - Primary title: d_dumarl has lost the title: c_rojinia
+270 - vassal: c_rojinia - Title given to 1007416 - Primary title: k_tazina
+270 - vassal: c_rojinia - Setting to vassal of k_tazina in Validate Realm
+270 - Lost vassal: c_rojinia
+270 - Holder 1007416 - Primary title: d_dumarl has lost the title: c_bulena
+270 - vassal: c_bulena - Title given to 1007416 - Primary title: k_tazina
+270 - vassal: c_bulena - Setting to vassal of k_tazina in Validate Realm
+270 - Lost vassal: c_bulena
+270 - Holder 1007416 - Primary title: d_dumarl has lost the title: c_lenage
+270 - vassal: c_lenage - Title given to 1007416 - Primary title: k_tazina
+270 - vassal: c_lenage - Setting to vassal of k_tazina in Validate Realm
+270 - Lost vassal: c_lenage
+270 - Holder 1007416 - Primary title: d_dumarl has lost the title: c_erasimir
+270 - vassal: c_erasimir - Title given to 1007416 - Primary title: k_tazina
+270 - vassal: c_erasimir - Setting to vassal of k_tazina in Validate Realm
+270 - Lost vassal: c_erasimir
+270 - Holder 1007416 - Primary title: d_dumarl has lost the title: d_dumarl
+270 - Title given to 1007416 - Primary title: k_tazina
+297 - Gained vassal: c_adatha
+297 - Gained vassal: c_qeygind
+297 - Gained vassal: c_rojinia
+297 - Gained vassal: c_bulena
+297 - Gained vassal: c_lenage
+297 - Holder 1008800 - Primary title: d_dumarl has lost the title: d_dumarl
+297 - Title given to 1008800 - Primary title: k_tazina
+297 - vassal: c_lenage - Holder 1008800 - Primary title: c_lenage has lost the title: c_lenage
+297 - vassal: c_lenage - Title given to 1008800 - Primary title: k_tazina
+297 - vassal: c_bulena - Holder 1008800 - Primary title: c_bulena has lost the title: c_bulena
+297 - vassal: c_bulena - Title given to 1008800 - Primary title: k_tazina
+297 - vassal: c_rojinia - Holder 1008800 - Primary title: c_rojinia has lost the title: c_rojinia
+297 - vassal: c_rojinia - Title given to 1008800 - Primary title: k_tazina
+297 - vassal: c_qeygind - Holder 1008800 - Primary title: c_qeygind has lost the title: c_qeygind
+297 - vassal: c_qeygind - Title given to 1008800 - Primary title: k_tazina
+297 - vassal: c_adatha - Holder 1008800 - Primary title: c_adatha has lost the title: c_adatha
+297 - vassal: c_adatha - Title given to 1008800 - Primary title: k_tazina
+298 - vassal: c_lenage - Made vassal of neighbour (k_nugona) due to being a seperate island
+298 - vassal: c_lenage - Given to neighbour holder of k_nugona
+298 - vassal: c_bulena - Made vassal of neighbour (k_nugona) due to being a seperate island
+298 - vassal: c_bulena - Given to neighbour holder of k_nugona
+299 - vassal: c_lenage - Made vassal of neighbour (k_nugona) due to being a seperate island
+299 - vassal: c_lenage - Given to neighbour holder of k_nugona
+299 - vassal: c_bulena - Made vassal of neighbour (k_nugona) due to being a seperate island
+299 - vassal: c_bulena - Given to neighbour holder of k_nugona
+300 - vassal: c_wadina - Holder 1008800 - Primary title: c_wadina has lost the title: c_wadina
+300 - vassal: c_wadina - Title given to 1008800 - Primary title: k_tazina
+300 - vassal: c_lenage - Title given to 1010818
+300 - vassal: c_lenage - Made vassal of neighbour (k_wurebia) due to being a seperate island
+300 - Lost vassal: c_lenage
+300 - vassal: c_bulena - Made vassal of neighbour (k_nugona) due to being a seperate island
+300 - vassal: c_bulena - Given to neighbour holder of k_nugona
+301 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+301 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+302 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+302 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+303 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+303 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+304 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+304 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+305 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+305 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+305 - Holder 1011073 - Primary title: d_dumarl has lost the title: d_dumarl
+305 - Title given to 1011073 - Primary title: k_tazina
+305 - vassal: c_wadina - Holder 1011073 - Primary title: c_wadina has lost the title: c_wadina
+305 - vassal: c_wadina - Title given to 1011073 - Primary title: k_tazina
+305 - vassal: c_adatha - Holder 1011073 - Primary title: c_adatha has lost the title: c_adatha
+305 - vassal: c_adatha - Title given to 1011073 - Primary title: k_tazina
+305 - vassal: c_qeygind - Holder 1011073 - Primary title: c_qeygind has lost the title: c_qeygind
+305 - vassal: c_qeygind - Title given to 1011073 - Primary title: k_tazina
+305 - vassal: c_rojinia - Holder 1011073 - Primary title: c_rojinia has lost the title: c_rojinia
+305 - vassal: c_rojinia - Title given to 1011073 - Primary title: k_tazina
+305 - vassal: c_bulena - Holder 1011073 - Primary title: c_bulena has lost the title: c_bulena
+305 - vassal: c_bulena - Title given to 1011073 - Primary title: k_tazina
+306 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+306 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+307 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+307 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+308 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+308 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+309 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+309 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+310 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+310 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+311 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+311 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+312 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+312 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+313 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+313 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+313 - Holder 1006667 - Primary title: d_dumarl has lost the title: d_dumarl
+313 - Title given to 1006667 - Primary title: k_tazina
+313 - vassal: c_wadina - Holder 1006667 - Primary title: c_wadina has lost the title: c_wadina
+313 - vassal: c_wadina - Title given to 1006667 - Primary title: k_tazina
+313 - vassal: c_adatha - Holder 1006667 - Primary title: c_adatha has lost the title: c_adatha
+313 - vassal: c_adatha - Title given to 1006667 - Primary title: k_tazina
+313 - vassal: c_qeygind - Holder 1006667 - Primary title: c_qeygind has lost the title: c_qeygind
+313 - vassal: c_qeygind - Title given to 1006667 - Primary title: k_tazina
+313 - vassal: c_rojinia - Holder 1006667 - Primary title: c_rojinia has lost the title: c_rojinia
+313 - vassal: c_rojinia - Title given to 1006667 - Primary title: k_tazina
+313 - vassal: c_bulena - Holder 1006667 - Primary title: c_bulena has lost the title: c_bulena
+313 - vassal: c_bulena - Title given to 1006667 - Primary title: k_tazina
+314 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+314 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+314 - Holder 1011974 - Primary title: d_dumarl has lost the title: d_dumarl
+314 - Title given to 1011974 - Primary title: k_tazina
+314 - vassal: c_wadina - Holder 1011974 - Primary title: c_wadina has lost the title: c_wadina
+314 - vassal: c_wadina - Title given to 1011974 - Primary title: k_tazina
+314 - vassal: c_adatha - Holder 1011974 - Primary title: c_adatha has lost the title: c_adatha
+314 - vassal: c_adatha - Title given to 1011974 - Primary title: k_tazina
+314 - vassal: c_qeygind - Holder 1011974 - Primary title: c_qeygind has lost the title: c_qeygind
+314 - vassal: c_qeygind - Title given to 1011974 - Primary title: k_tazina
+314 - vassal: c_rojinia - Holder 1011974 - Primary title: c_rojinia has lost the title: c_rojinia
+314 - vassal: c_rojinia - Title given to 1011974 - Primary title: k_tazina
+314 - vassal: c_bulena - Holder 1011974 - Primary title: c_bulena has lost the title: c_bulena
+314 - vassal: c_bulena - Title given to 1011974 - Primary title: k_tazina
+315 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+315 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+316 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+316 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+317 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+317 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+318 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+318 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+319 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+319 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+320 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+320 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+321 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+321 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+322 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+322 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+323 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+323 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+324 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+324 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+325 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+325 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+326 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+326 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+327 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+327 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+328 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+328 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+329 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+329 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+330 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+330 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+331 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+331 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+332 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+332 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+333 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+333 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+334 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+334 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+335 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+335 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+336 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+336 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+337 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+337 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+338 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+338 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+339 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+339 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+340 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+340 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+340 - vassal: c_sularl - Made vassal of neighbour (k_tojyana) due to being a seperate island
+340 - Lost vassal: c_sularl
+340 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+340 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+341 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+341 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+341 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+341 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+342 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+342 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+342 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+342 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+343 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+343 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+343 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+343 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+344 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+344 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+344 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+344 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+345 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+345 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+345 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+345 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+346 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+346 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+346 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+346 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+347 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+347 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+347 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+347 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+348 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+348 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+348 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+348 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+349 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+349 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+349 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+349 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+350 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+350 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+350 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+350 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+351 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+351 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+351 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+351 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+352 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+352 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+352 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+352 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+353 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+353 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+353 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+353 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+354 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+354 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+354 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+354 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+355 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+355 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+355 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+355 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+356 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+356 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+356 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+356 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+357 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+357 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+357 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+357 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+358 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+358 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+358 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+358 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+359 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+359 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+359 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+359 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+360 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+360 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+360 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+360 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+361 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+361 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+361 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+361 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+362 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+362 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+362 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+362 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+363 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+363 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+363 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+363 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+363 - Holder 1013303 - Primary title: d_dumarl has lost the title: d_dumarl
+363 - Title given to 1013303 - Primary title: k_tazina
+363 - vassal: c_bulena - Holder 1013303 - Primary title: c_bulena has lost the title: c_bulena
+363 - vassal: c_bulena - Title given to 1013303 - Primary title: k_tazina
+363 - vassal: c_rojinia - Holder 1013303 - Primary title: c_rojinia has lost the title: c_rojinia
+363 - vassal: c_rojinia - Title given to 1013303 - Primary title: k_tazina
+363 - vassal: c_qeygind - Holder 1013303 - Primary title: c_qeygind has lost the title: c_qeygind
+363 - vassal: c_qeygind - Title given to 1013303 - Primary title: k_tazina
+363 - vassal: c_adatha - Holder 1013303 - Primary title: c_adatha has lost the title: c_adatha
+363 - vassal: c_adatha - Title given to 1013303 - Primary title: k_tazina
+363 - vassal: c_wadina - Holder 1013303 - Primary title: c_wadina has lost the title: c_wadina
+363 - vassal: c_wadina - Title given to 1013303 - Primary title: k_tazina
+364 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+364 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+364 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+364 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+365 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+365 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+365 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+365 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+366 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+366 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+366 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+366 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+367 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+367 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+367 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+367 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+368 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+368 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+368 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+368 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+368 - Holder 1015605 - Primary title: d_dumarl has lost the title: d_dumarl
+368 - Title given to 1015605 - Primary title: k_tazina
+368 - vassal: c_bulena - Holder 1015605 - Primary title: c_bulena has lost the title: c_bulena
+368 - vassal: c_bulena - Title given to 1015605 - Primary title: k_tazina
+368 - vassal: c_rojinia - Holder 1015605 - Primary title: c_rojinia has lost the title: c_rojinia
+368 - vassal: c_rojinia - Title given to 1015605 - Primary title: k_tazina
+368 - vassal: c_qeygind - Holder 1015605 - Primary title: c_qeygind has lost the title: c_qeygind
+368 - vassal: c_qeygind - Title given to 1015605 - Primary title: k_tazina
+368 - vassal: c_adatha - Holder 1015605 - Primary title: c_adatha has lost the title: c_adatha
+368 - vassal: c_adatha - Title given to 1015605 - Primary title: k_tazina
+368 - vassal: c_wadina - Holder 1015605 - Primary title: c_wadina has lost the title: c_wadina
+368 - vassal: c_wadina - Title given to 1015605 - Primary title: k_tazina
+369 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+369 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+369 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+369 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+370 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+370 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+370 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+370 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+371 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+371 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+371 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+371 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+372 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+372 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+372 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+372 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+373 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+373 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+373 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+373 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+374 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+374 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+374 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+374 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+375 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+375 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+375 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+375 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+376 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+376 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+376 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+376 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+377 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+377 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+377 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+377 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+378 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+378 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+378 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+378 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+379 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+379 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+379 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+379 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+380 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+380 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+380 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+380 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+381 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+381 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+381 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+381 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+382 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+382 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+382 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+382 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+383 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+383 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+383 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+383 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+384 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+384 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+384 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+384 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+385 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+385 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+385 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+385 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+386 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+386 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+386 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+386 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+387 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+387 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+387 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+387 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+388 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+388 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+388 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+388 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+389 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+389 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+389 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+389 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+390 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+390 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+390 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+390 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+391 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+391 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+391 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+391 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+392 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+392 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+392 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+392 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+393 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+393 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+393 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+393 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+394 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+394 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+394 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+394 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+395 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+395 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+395 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+395 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+396 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+396 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+396 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+396 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+397 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+397 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+397 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+397 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+398 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+398 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+398 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+398 - vassal: c_bulena - Given to neighbour holder of k_tojyana
+399 - vassal: c_wadina - Made vassal of neighbour (k_tojyana) due to being a seperate island
+399 - vassal: c_wadina - Given to neighbour holder of k_tojyana
+399 - vassal: c_bulena - Made vassal of neighbour (k_tojyana) due to being a seperate island
+399 - vassal: c_bulena - Given to neighbour holder of k_tojyana

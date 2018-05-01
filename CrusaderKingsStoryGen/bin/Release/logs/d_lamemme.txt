@@ -1,0 +1,159 @@
+200 - Title given to 1001211
+200 - vassal: c_wozel - Given to 1001214 via AddCharacterForTitle
+200 - sub vassal: c_wozel - Given to 1001214 via AddCharacterForTitle
+200 - vassal: c_wozel - Holder 1001214 - Primary title: c_wozel has lost the title: c_wozel
+200 - sub vassal: c_wozel - Holder 1001214 - Primary title: c_wozel has lost the title: c_wozel
+200 - vassal: c_wozel - Title given to 1001214
+200 - sub vassal: c_wozel - Title given to 1001214
+200 - vassal: c_nameike - Holder 1001211 - Primary title: c_nameike has lost the title: c_nameike
+200 - sub vassal: c_nameike - Holder 1001211 - Primary title: c_nameike has lost the title: c_nameike
+200 - vassal: c_nameike - Title given to 1001211 - Primary title: d_lamemme
+200 - sub vassal: c_nameike - Title given to 1001211 - Primary title: d_lamemme
+200 - Holder (1001211) has gained c_nameike
+200 - vassal: c_wozel - Holder 1001211 - Primary title: c_wozel has lost the title: c_wozel
+200 - sub vassal: c_wozel - Holder 1001211 - Primary title: c_wozel has lost the title: c_wozel
+200 - vassal: c_wozel - Title given to 1001211 - Primary title: d_lamemme
+200 - sub vassal: c_wozel - Title given to 1001211 - Primary title: d_lamemme
+200 - Holder (1001211) has gained c_wozel
+200 - vassal: c_dadeser - Holder 1001211 - Primary title: c_dadeser has lost the title: c_dadeser
+200 - sub vassal: c_dadeser - Holder 1001211 - Primary title: c_dadeser has lost the title: c_dadeser
+200 - vassal: c_dadeser - Title given to 1001211 - Primary title: d_lamemme
+200 - sub vassal: c_dadeser - Title given to 1001211 - Primary title: d_lamemme
+200 - Holder (1001211) has gained c_dadeser
+215 - Holder 1002243 - Primary title: d_lamemme has lost the title: d_lamemme
+215 - Title given to 1002243
+215 - vassal: c_dadeser - Holder 1002243 - Primary title: c_dadeser has lost the title: c_dadeser
+215 - vassal: c_dadeser - Title given to 1002243 - Primary title: d_lamemme
+215 - Holder (1002243) has gained c_dadeser
+215 - vassal: c_wozel - Holder 1002243 - Primary title: c_wozel has lost the title: c_wozel
+215 - vassal: c_wozel - Title given to 1002243 - Primary title: d_lamemme
+215 - Holder (1002243) has gained c_wozel
+215 - vassal: c_nameike - Holder 1002243 - Primary title: c_nameike has lost the title: c_nameike
+215 - vassal: c_nameike - Title given to 1002243 - Primary title: d_lamemme
+215 - Holder (1002243) has gained c_nameike
+221 - Holder 1002284 - Primary title: d_lamemme has lost the title: d_lamemme
+221 - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: c_nameike - Holder 1002284 - Primary title: c_nameike has lost the title: c_nameike
+221 - vassal: c_nameike - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: c_wozel - Holder 1002284 - Primary title: c_wozel has lost the title: c_wozel
+221 - vassal: c_wozel - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: c_dadeser - Holder 1002284 - Primary title: c_dadeser has lost the title: c_dadeser
+221 - vassal: c_dadeser - Title given to 1002284 - Primary title: d_qorana
+221 - Holder (1002284) has gained d_ruroman
+222 - vassal: c_dadeser - Title given to 1004242
+224 - Title given to 1003730
+224 - vassal: c_nameike - Setting to vassal of d_qorana in Validate Realm
+224 - Lost vassal: c_nameike
+224 - vassal: c_wozel - Setting to vassal of d_qorana in Validate Realm
+224 - Lost vassal: c_wozel
+224 - Holder (1003730) has gained c_nameike
+224 - Gained vassal: c_nameike
+224 - Holder (1003730) has gained c_wozel
+224 - Gained vassal: c_wozel
+224 - Holder (1003730) has gained c_evanows
+224 - Gained vassal: c_evanows
+224 - Holder (1003730) has gained c_tiolvi
+224 - Gained vassal: c_tiolvi
+224 - Holder (1003730) has gained d_qorana
+226 - vassal: c_wozel - Given to 1004570 in HandleTitles - Too many duke titles
+226 - vassal: c_wozel - Title given to 1004570
+226 - Title given to 1002558 - Primary title: k_rugoman
+226 - vassal: c_nameike - Setting to vassal of d_ruroman in Validate Realm
+226 - Lost vassal: c_nameike
+226 - vassal: c_evanows - Setting to vassal of d_ruroman in Validate Realm
+226 - Lost vassal: c_evanows
+226 - vassal: c_tiolvi - Setting to vassal of d_ruroman in Validate Realm
+226 - Lost vassal: c_tiolvi
+226 - Too many dukes, made direct title into vassal of k_rugoman
+226 - Title given to 1004571
+254 - Holder 1004902 - Primary title: d_lamemme has lost the title: d_lamemme
+254 - Title given to 1004902
+255 - Holder (1004902) has gained d_naradas
+255 - Holder (1004902) has gained d_lerila
+260 - Holder (1004902) has gained c_etameike
+260 - Holder (1004902) has gained c_kawurd
+275 - Holder 1008692 - Primary title: d_lamemme has lost the title: d_lerila
+275 - Gained vassal: c_etameike
+275 - Gained vassal: c_kawurd
+277 - Holder 1008692 - Primary title: d_lamemme has lost the title: d_lamemme
+277 - Title given to 1008692
+277 - vassal: c_kawurd - Holder 1008692 - Primary title: c_kawurd has lost the title: c_kawurd
+277 - vassal: c_kawurd - Title given to 1008692 - Primary title: d_lamemme
+277 - Holder (1008692) has gained c_kawurd
+277 - vassal: c_etameike - Holder 1008692 - Primary title: c_etameike has lost the title: c_etameike
+277 - vassal: c_etameike - Title given to 1008692 - Primary title: d_lamemme
+277 - Holder (1008692) has gained c_etameike
+277 - Holder (1008692) has gained d_kanune
+277 - Holder (1008692) has gained c_sanows
+277 - Holder (1008692) has gained c_noseser
+280 - Holder (1008692) has gained d_naradas
+280 - vassal: c_etameike - Set liege on title creation d_naradas
+280 - Lost vassal: c_etameike
+280 - vassal: c_kawurd - Set liege on title creation d_naradas
+280 - Lost vassal: c_kawurd
+299 - Holder 1005189 - Primary title: d_lamemme has lost the title: d_lamemme
+299 - Title given to 1005189 - Primary title: d_ruroman
+300 - Holder 1010017 - Primary title: d_lamemme has lost the title: d_ruroman
+300 - Holder 1010771 - Primary title: d_lamemme has lost the title: c_noseser
+300 - Gained vassal: c_noseser
+300 - Holder 1010772 - Primary title: d_lamemme has lost the title: c_nameike
+301 - Holder 1009436 - Primary title: d_lamemme has lost the title: d_lamemme
+301 - Title given to 1009436
+301 - Holder (1009436) has gained d_qorana
+301 - Holder (1009436) has gained c_kawurd
+301 - Holder (1009436) has gained c_etameike
+301 - Holder (1009436) has gained c_sanows
+301 - Holder (1009436) has gained c_evanows
+301 - Holder (1009436) has gained c_tiolvi
+315 - Holder (1009436) has gained d_kanune
+315 - Holder 1012036 - Primary title: d_lamemme has lost the title: c_sanows
+315 - Holder 1010017 - Primary title: d_lamemme has lost the title: d_kanune
+315 - Gained vassal: c_tiolvi
+315 - Gained vassal: c_evanows
+315 - Gained vassal: c_etameike
+315 - Gained vassal: c_kawurd
+322 - Holder 1011145 - Primary title: d_lamemme has lost the title: d_lamemme
+322 - Title given to 1011145
+322 - vassal: c_tiolvi - Setting to vassal of d_qorana in Validate Realm
+322 - Lost vassal: c_tiolvi
+322 - vassal: c_evanows - Setting to vassal of d_qorana in Validate Realm
+322 - Lost vassal: c_evanows
+322 - vassal: c_etameike - Setting to vassal of d_qorana in Validate Realm
+322 - Lost vassal: c_etameike
+322 - vassal: c_kawurd - Setting to vassal of d_qorana in Validate Realm
+322 - Lost vassal: c_kawurd
+322 - Holder (1011145) has gained d_qorana
+322 - Holder (1011145) has gained c_tiolvi
+322 - Holder (1011145) has gained c_evanows
+322 - Holder (1011145) has gained c_etameike
+322 - Holder (1011145) has gained c_kawurd
+356 - Holder 1012822 - Primary title: d_lamemme has lost the title: d_lamemme
+356 - Title given to 1012822
+356 - Holder (1012822) has gained d_qorana
+356 - Holder (1012822) has gained c_kawurd
+356 - Holder (1012822) has gained c_etameike
+356 - Holder (1012822) has gained c_evanows
+356 - Holder (1012822) has gained c_tiolvi
+375 - Holder (1012822) has gained d_naradas
+386 - Holder 1016141 - Primary title: d_lamemme has lost the title: d_lamemme
+386 - Title given to 1016141
+386 - Holder (1016141) has gained d_qorana
+386 - Holder (1016141) has gained c_kawurd
+386 - Holder (1016141) has gained c_etameike
+386 - Holder (1016141) has gained c_evanows
+386 - Holder (1016141) has gained c_tiolvi
+400 - vassal: c_dadeser - Holder 1010771 - Primary title: c_dadeser has lost the title: c_dadeser
+400 - vassal: c_dadeser - Title given to 1010771 - Primary title: c_noseser
+400 - vassal: c_noseser - Holder (1010771) has gained c_dadeser
+400 - vassal: c_wozel - Holder 1016141 - Primary title: c_wozel has lost the title: c_wozel
+400 - vassal: c_wozel - Title given to 1016141 - Primary title: d_lamemme
+400 - Holder (1016141) has gained c_wozel
+400 - Holder (1016141) has gained c_karana
+400 - Gained vassal: c_karana
+400 - vassal: c_dadeser - Holder 1016141 - Primary title: c_dadeser has lost the title: c_noseser
+400 - vassal: c_noseser - Title given to 1016141 - Primary title: d_lamemme
+400 - Holder (1016141) has gained c_noseser
+400 - vassal: c_dadeser - Holder 1016141 - Primary title: c_dadeser has lost the title: c_dadeser
+400 - vassal: c_dadeser - Title given to 1016141 - Primary title: d_lamemme
+400 - Holder (1016141) has gained c_dadeser
+400 - Holder (1016141) has gained c_nameike

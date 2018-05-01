@@ -1,0 +1,28 @@
+200 - Title given to 1000835
+200 - vassal: c_qeygind - Holder 1000835 - Primary title: c_qeygind has lost the title: c_qeygind
+200 - sub vassal: c_qeygind - Holder 1000835 - Primary title: c_qeygind has lost the title: c_qeygind
+200 - vassal: c_qeygind - Title given to 1000835 - Primary title: d_abagoo
+200 - sub vassal: c_qeygind - Title given to 1000835 - Primary title: d_abagoo
+200 - Holder (1000835) has gained c_qeygind
+200 - vassal: c_rojinia - Holder 1000835 - Primary title: c_rojinia has lost the title: c_rojinia
+200 - sub vassal: c_rojinia - Holder 1000835 - Primary title: c_rojinia has lost the title: c_rojinia
+200 - vassal: c_rojinia - Title given to 1000835 - Primary title: d_abagoo
+200 - sub vassal: c_rojinia - Title given to 1000835 - Primary title: d_abagoo
+200 - Holder (1000835) has gained c_rojinia
+200 - vassal: c_akojena - Holder 1000835 - Primary title: c_akojena has lost the title: c_akojena
+200 - sub vassal: c_akojena - Holder 1000835 - Primary title: c_akojena has lost the title: c_akojena
+200 - vassal: c_akojena - Title given to 1000835 - Primary title: d_abagoo
+200 - sub vassal: c_akojena - Title given to 1000835 - Primary title: d_abagoo
+200 - Holder (1000835) has gained c_akojena
+229 - Holder (1000835) has gained k_tazina
+234 - Holder 1003275 - Primary title: d_abagoo has lost the title: d_abagoo
+234 - Title given to 1003275 - Primary title: k_tazina
+234 - vassal: c_qeygind - Setting to vassal of d_evond in Validate Realm
+234 - Lost vassal: c_qeygind
+234 - vassal: c_rojinia - Setting to vassal of d_evond in Validate Realm
+234 - Lost vassal: c_rojinia
+234 - vassal: c_akojena - Setting to vassal of d_evond in Validate Realm
+234 - Lost vassal: c_akojena
+235 - Destroyed due to flagged problem
+235 - Made independent
+235 - Title destroyed

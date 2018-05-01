@@ -1,0 +1,123 @@
+200 - Title given to 1000313
+200 - vassal: c_lopike - Given to 1000316 via AddCharacterForTitle
+200 - sub vassal: c_lopike - Given to 1000316 via AddCharacterForTitle
+200 - vassal: c_lopike - Holder 1000316 - Primary title: c_lopike has lost the title: c_lopike
+200 - sub vassal: c_lopike - Holder 1000316 - Primary title: c_lopike has lost the title: c_lopike
+200 - vassal: c_lopike - Title given to 1000316
+200 - sub vassal: c_lopike - Title given to 1000316
+200 - vassal: c_ekugedas - Holder 1000313 - Primary title: c_ekugedas has lost the title: c_ekugedas
+200 - sub vassal: c_ekugedas - Holder 1000313 - Primary title: c_ekugedas has lost the title: c_ekugedas
+200 - vassal: c_ekugedas - Title given to 1000313 - Primary title: d_taidas
+200 - sub vassal: c_ekugedas - Title given to 1000313 - Primary title: d_taidas
+200 - Holder (1000313) has gained c_ekugedas
+200 - vassal: c_lopike - Holder 1000313 - Primary title: c_lopike has lost the title: c_lopike
+200 - sub vassal: c_lopike - Holder 1000313 - Primary title: c_lopike has lost the title: c_lopike
+200 - vassal: c_lopike - Title given to 1000313 - Primary title: d_taidas
+200 - sub vassal: c_lopike - Title given to 1000313 - Primary title: d_taidas
+200 - Holder (1000313) has gained c_lopike
+200 - vassal: c_bugare - Holder 1000313 - Primary title: c_bugare has lost the title: c_bugare
+200 - sub vassal: c_bugare - Holder 1000313 - Primary title: c_bugare has lost the title: c_bugare
+200 - vassal: c_bugare - Title given to 1000313 - Primary title: d_taidas
+200 - sub vassal: c_bugare - Title given to 1000313 - Primary title: d_taidas
+200 - Holder (1000313) has gained c_bugare
+200 - Made vassal of neighbour (k_lelike) due to being a seperate island
+200 - Given to neighbour holder of k_lelike
+200 - Holder 1001545 - Primary title: d_taidas has lost the title: d_taidas
+200 - Title given to 1001545 - Primary title: k_lelike
+201 - vassal: c_ekugedas - Given to 1002265 in HandleTitles - Too many duke titles
+201 - vassal: c_bugare - Holder 1002265 - Primary title: c_bugare has lost the title: c_ekugedas
+201 - vassal: c_ekugedas - Title given to 1002265
+201 - Title given to 1002265 - Primary title: c_ekugedas
+201 - vassal: c_ekugedas - Holder (1002265) has gained d_taidas
+201 - Too many dukes, made direct title into vassal of k_lelike
+244 - Holder 1002728 - Primary title: d_taidas has lost the title: d_taidas
+244 - Title given to 1002728
+244 - vassal: c_ekugedas - Holder 1002728 - Primary title: c_ekugedas has lost the title: c_ekugedas
+244 - vassal: c_ekugedas - Title given to 1002728 - Primary title: d_taidas
+244 - Holder (1002728) has gained c_ekugedas
+272 - Holder 1007500 - Primary title: d_taidas has lost the title: d_taidas
+272 - Title given to 1007500
+272 - vassal: c_ekugedas - Holder 1007500 - Primary title: c_ekugedas has lost the title: c_ekugedas
+272 - vassal: c_ekugedas - Title given to 1007500 - Primary title: d_taidas
+272 - Holder (1007500) has gained c_ekugedas
+300 - vassal: c_bugare - Holder 1007500 - Primary title: c_bugare has lost the title: c_bugare
+300 - vassal: c_bugare - Title given to 1007500 - Primary title: d_taidas
+300 - Holder (1007500) has gained c_bugare
+300 - vassal: c_lopike - Holder 1007500 - Primary title: c_lopike has lost the title: c_lopike
+300 - vassal: c_lopike - Title given to 1007500 - Primary title: d_taidas
+300 - Holder (1007500) has gained c_lopike
+318 - Holder 1009732 - Primary title: d_taidas has lost the title: d_taidas
+318 - Title given to 1009732
+318 - vassal: c_lopike - Holder 1009732 - Primary title: c_lopike has lost the title: c_lopike
+318 - vassal: c_lopike - Title given to 1009732 - Primary title: d_taidas
+318 - Holder (1009732) has gained c_lopike
+318 - vassal: c_bugare - Holder 1009732 - Primary title: c_bugare has lost the title: c_bugare
+318 - vassal: c_bugare - Title given to 1009732 - Primary title: d_taidas
+318 - Holder (1009732) has gained c_bugare
+318 - vassal: c_ekugedas - Holder 1009732 - Primary title: c_ekugedas has lost the title: c_ekugedas
+318 - vassal: c_ekugedas - Title given to 1009732 - Primary title: d_taidas
+318 - Holder (1009732) has gained c_ekugedas
+340 - Holder 1012677 - Primary title: d_taidas has lost the title: d_taidas
+340 - Title given to 1012677
+340 - vassal: c_lopike - Holder 1012677 - Primary title: c_lopike has lost the title: c_lopike
+340 - vassal: c_lopike - Title given to 1012677 - Primary title: d_taidas
+340 - Holder (1012677) has gained c_lopike
+340 - vassal: c_bugare - Holder 1012677 - Primary title: c_bugare has lost the title: c_bugare
+340 - vassal: c_bugare - Title given to 1012677 - Primary title: d_taidas
+340 - Holder (1012677) has gained c_bugare
+340 - vassal: c_ekugedas - Holder 1012677 - Primary title: c_ekugedas has lost the title: c_ekugedas
+340 - vassal: c_ekugedas - Title given to 1012677 - Primary title: d_taidas
+340 - Holder (1012677) has gained c_ekugedas
+390 - Holder 1016468 - Primary title: d_taidas has lost the title: d_taidas
+390 - Title given to 1016468
+390 - vassal: c_lopike - Holder 1016468 - Primary title: c_lopike has lost the title: c_lopike
+390 - vassal: c_lopike - Title given to 1016468 - Primary title: d_taidas
+390 - Holder (1016468) has gained c_lopike
+390 - vassal: c_bugare - Holder 1016468 - Primary title: c_bugare has lost the title: c_bugare
+390 - vassal: c_bugare - Title given to 1016468 - Primary title: d_taidas
+390 - Holder (1016468) has gained c_bugare
+390 - vassal: c_ekugedas - Holder 1016468 - Primary title: c_ekugedas has lost the title: c_ekugedas
+390 - vassal: c_ekugedas - Title given to 1016468 - Primary title: d_taidas
+390 - Holder (1016468) has gained c_ekugedas
+391 - Holder 1016467 - Primary title: d_taidas has lost the title: d_taidas
+391 - Title given to 1016467 - Primary title: d_etraidas
+391 - vassal: c_lopike - Holder 1016467 - Primary title: c_lopike has lost the title: c_lopike
+391 - vassal: c_lopike - Title given to 1016467 - Primary title: d_etraidas
+391 - vassal: c_bugare - Holder 1016467 - Primary title: c_bugare has lost the title: c_bugare
+391 - vassal: c_bugare - Title given to 1016467 - Primary title: d_etraidas
+391 - vassal: c_ekugedas - Holder 1016467 - Primary title: c_ekugedas has lost the title: c_ekugedas
+391 - vassal: c_ekugedas - Title given to 1016467 - Primary title: d_etraidas
+392 - Holder 1014950 - Primary title: d_taidas has lost the title: d_domilek
+392 - Gained vassal: c_tareetha
+392 - Gained vassal: c_ralike
+392 - Gained vassal: c_wareetha
+392 - Gained vassal: c_luilare
+392 - Gained vassal: c_quibel
+392 - Holder 1017552 - Primary title: d_taidas has lost the title: c_tareetha
+392 - vassal: c_tareetha - Title given to 1017552
+392 - Holder 1017553 - Primary title: d_taidas has lost the title: c_quibel
+392 - vassal: c_quibel - Title given to 1017553
+392 - Holder 1017554 - Primary title: d_taidas has lost the title: c_wareetha
+392 - vassal: c_wareetha - Title given to 1017554
+393 - Holder 1015591 - Primary title: d_taidas has lost the title: d_etraidas
+393 - Holder 1015591 - Primary title: d_taidas has lost the title: c_luilare
+393 - vassal: c_luilare - Title given to 1015591 - Primary title: d_lomilek
+393 - vassal: c_luilare - Setting to vassal of d_lomilek in Validate Realm
+393 - Lost vassal: c_luilare
+393 - Holder 1015591 - Primary title: d_taidas has lost the title: c_ralike
+393 - vassal: c_ralike - Title given to 1015591 - Primary title: d_lomilek
+393 - vassal: c_ralike - Setting to vassal of d_lomilek in Validate Realm
+393 - Lost vassal: c_ralike
+393 - Holder 1015591 - Primary title: d_taidas has lost the title: d_taidas
+393 - Title given to 1015591 - Primary title: d_lomilek
+393 - vassal: c_lopike - Holder 1015591 - Primary title: c_lopike has lost the title: c_lopike
+393 - vassal: c_lopike - Title given to 1015591 - Primary title: d_lomilek
+393 - vassal: c_bugare - Holder 1015591 - Primary title: c_bugare has lost the title: c_bugare
+393 - vassal: c_bugare - Title given to 1015591 - Primary title: d_lomilek
+393 - vassal: c_ekugedas - Holder 1015591 - Primary title: c_ekugedas has lost the title: c_ekugedas
+393 - vassal: c_ekugedas - Title given to 1015591 - Primary title: d_lomilek
+394 - Holder 1014950 - Primary title: d_taidas has lost the title: d_lomilek
+394 - Gained vassal: c_ralike
+394 - Gained vassal: c_luilare
+394 - Holder 1014950 - Primary title: d_taidas has lost the title: d_baidas
+400 - Holder (1015591) has gained c_lugibel

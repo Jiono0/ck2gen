@@ -1,0 +1,45 @@
+200 - Title given to 1000437
+200 - vassal: c_evradh - Holder 1000437 - Primary title: c_evradh has lost the title: c_evradh
+200 - sub vassal: c_evradh - Holder 1000437 - Primary title: c_evradh has lost the title: c_evradh
+200 - vassal: c_evradh - Title given to 1000437 - Primary title: d_lemyh
+200 - sub vassal: c_evradh - Title given to 1000437 - Primary title: d_lemyh
+200 - Holder (1000437) has gained c_evradh
+200 - vassal: c_raymadh - Holder 1000437 - Primary title: c_raymadh has lost the title: c_raymadh
+200 - sub vassal: c_raymadh - Holder 1000437 - Primary title: c_raymadh has lost the title: c_raymadh
+200 - vassal: c_raymadh - Title given to 1000437 - Primary title: d_lemyh
+200 - sub vassal: c_raymadh - Title given to 1000437 - Primary title: d_lemyh
+200 - Holder (1000437) has gained c_raymadh
+200 - vassal: c_sand - Holder 1000437 - Primary title: c_sand has lost the title: c_sand
+200 - sub vassal: c_sand - Holder 1000437 - Primary title: c_sand has lost the title: c_sand
+200 - vassal: c_sand - Title given to 1000437 - Primary title: d_lemyh
+200 - sub vassal: c_sand - Title given to 1000437 - Primary title: d_lemyh
+200 - Holder (1000437) has gained c_sand
+200 - Holder 1001594 - Primary title: d_lemyh has lost the title: d_lemyh
+200 - Title given to 1001594 - Primary title: k_apatilek
+200 - vassal: c_evradh - Holder 1001594 - Primary title: c_evradh has lost the title: c_evradh
+200 - vassal: c_evradh - Title given to 1001594 - Primary title: k_apatilek
+242 - Holder 1002132 - Primary title: d_lemyh has lost the title: d_lemyh
+242 - Title given to 1002132 - Primary title: k_apatilek
+242 - vassal: c_evradh - Holder 1002132 - Primary title: c_evradh has lost the title: c_evradh
+242 - vassal: c_evradh - Title given to 1002132 - Primary title: k_apatilek
+254 - Holder 1006241 - Primary title: d_lemyh has lost the title: d_lemyh
+254 - Title given to 1006241 - Primary title: k_apatilek
+254 - vassal: c_evradh - Setting to vassal of d_wojayya in Validate Realm
+254 - Lost vassal: c_evradh
+266 - Holder 1003126 - Primary title: d_lemyh has lost the title: d_lemyh
+266 - Title given to 1003126 - Primary title: k_apatilek
+277 - Holder 1008888 - Primary title: d_lemyh has lost the title: d_lemyh
+277 - Title given to 1008888 - Primary title: k_apatilek
+300 - vassal: c_raymadh - Holder 1008888 - Primary title: c_raymadh has lost the title: c_raymadh
+300 - vassal: c_raymadh - Title given to 1008888 - Primary title: k_apatilek
+300 - vassal: c_sand - Holder 1008888 - Primary title: c_sand has lost the title: c_sand
+300 - vassal: c_sand - Title given to 1008888 - Primary title: k_apatilek
+325 - Holder 1012027 - Primary title: d_lemyh has lost the title: d_lemyh
+325 - Title given to 1012027 - Primary title: k_apatilek
+325 - vassal: c_raymadh - Setting to vassal of d_wojayya in Validate Realm
+325 - Lost vassal: c_raymadh
+325 - vassal: c_sand - Setting to vassal of d_wojayya in Validate Realm
+325 - Lost vassal: c_sand
+326 - Destroyed due to flagged problem
+326 - Made independent
+326 - Title destroyed

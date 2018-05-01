@@ -1,0 +1,56 @@
+200 - Title given to 1000885
+200 - vassal: c_epasaoro - Given to 1000888 via AddCharacterForTitle
+200 - sub vassal: c_epasaoro - Given to 1000888 via AddCharacterForTitle
+200 - vassal: c_epasaoro - Holder 1000888 - Primary title: c_epasaoro has lost the title: c_epasaoro
+200 - sub vassal: c_epasaoro - Holder 1000888 - Primary title: c_epasaoro has lost the title: c_epasaoro
+200 - vassal: c_epasaoro - Title given to 1000888
+200 - sub vassal: c_epasaoro - Title given to 1000888
+200 - vassal: c_qidari - Holder 1000885 - Primary title: c_qidari has lost the title: c_qidari
+200 - sub vassal: c_qidari - Holder 1000885 - Primary title: c_qidari has lost the title: c_qidari
+200 - vassal: c_qidari - Title given to 1000885 - Primary title: d_nusari
+200 - sub vassal: c_qidari - Title given to 1000885 - Primary title: d_nusari
+200 - Holder (1000885) has gained c_qidari
+200 - vassal: c_epasaoro - Holder 1000885 - Primary title: c_epasaoro has lost the title: c_epasaoro
+200 - sub vassal: c_epasaoro - Holder 1000885 - Primary title: c_epasaoro has lost the title: c_epasaoro
+200 - vassal: c_epasaoro - Title given to 1000885 - Primary title: d_nusari
+200 - sub vassal: c_epasaoro - Title given to 1000885 - Primary title: d_nusari
+200 - Holder (1000885) has gained c_epasaoro
+200 - vassal: c_bujafu - Holder 1000885 - Primary title: c_bujafu has lost the title: c_bujafu
+200 - sub vassal: c_bujafu - Holder 1000885 - Primary title: c_bujafu has lost the title: c_bujafu
+200 - vassal: c_bujafu - Title given to 1000885 - Primary title: d_nusari
+200 - sub vassal: c_bujafu - Title given to 1000885 - Primary title: d_nusari
+200 - Holder (1000885) has gained c_bujafu
+200 - vassal: c_bigulah - Title given to 1000885 - Primary title: d_nusari
+200 - Holder (1000885) has gained c_bigulah
+201 - Holder 1002114 - Primary title: d_nusari has lost the title: d_nusari
+201 - Title given to 1002114
+201 - vassal: c_bigulah - Holder 1002114 - Primary title: c_bigulah has lost the title: c_bigulah
+201 - vassal: c_bigulah - Title given to 1002114 - Primary title: d_nusari
+201 - Holder (1002114) has gained c_bigulah
+201 - vassal: c_bujafu - Holder 1002114 - Primary title: c_bujafu has lost the title: c_bujafu
+201 - vassal: c_bujafu - Title given to 1002114 - Primary title: d_nusari
+201 - Holder (1002114) has gained c_bujafu
+201 - vassal: c_epasaoro - Holder 1002114 - Primary title: c_epasaoro has lost the title: c_epasaoro
+201 - vassal: c_epasaoro - Title given to 1002114 - Primary title: d_nusari
+201 - Holder (1002114) has gained c_epasaoro
+201 - vassal: c_qidari - Holder 1002114 - Primary title: c_qidari has lost the title: c_qidari
+201 - vassal: c_qidari - Title given to 1002114 - Primary title: d_nusari
+201 - Holder (1002114) has gained c_qidari
+213 - Holder 1001494 - Primary title: d_nusari has lost the title: d_nusari
+213 - Title given to 1001494 - Primary title: k_diliam
+213 - vassal: c_bigulah - Holder 1001494 - Primary title: c_bigulah has lost the title: c_bigulah
+213 - vassal: c_bigulah - Title given to 1001494 - Primary title: k_diliam
+213 - vassal: c_bujafu - Holder 1001494 - Primary title: c_bujafu has lost the title: c_bujafu
+213 - vassal: c_bujafu - Title given to 1001494 - Primary title: k_diliam
+213 - vassal: c_epasaoro - Holder 1001494 - Primary title: c_epasaoro has lost the title: c_epasaoro
+213 - vassal: c_epasaoro - Title given to 1001494 - Primary title: k_diliam
+213 - vassal: c_qidari - Holder 1001494 - Primary title: c_qidari has lost the title: c_qidari
+213 - vassal: c_qidari - Title given to 1001494 - Primary title: k_diliam
+213 - vassal: c_qidari - Title given to 1003270
+218 - vassal: c_qidari - Given to 1003631 in HandleTitles - Too many duke titles
+218 - vassal: c_qidari - Holder 1003631 - Primary title: c_qidari has lost the title: c_qidari
+218 - vassal: c_qidari - Title given to 1003631
+218 - Title given to 1003631 - Primary title: c_qidari
+218 - vassal: c_qidari - Holder (1003631) has gained d_nusari
+218 - vassal: c_bigulah - Setting to vassal of k_diliam in Validate Realm
+218 - 

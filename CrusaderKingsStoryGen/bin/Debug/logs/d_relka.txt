@@ -1,0 +1,63 @@
+200 - Title given to 1000993
+200 - vassal: c_leter - Given to 1000997 via AddCharacterForTitle
+200 - sub vassal: c_leter - Given to 1000997 via AddCharacterForTitle
+200 - vassal: c_leter - Holder 1000997 - Primary title: c_leter has lost the title: c_leter
+200 - sub vassal: c_leter - Holder 1000997 - Primary title: c_leter has lost the title: c_leter
+200 - vassal: c_leter - Title given to 1000997
+200 - sub vassal: c_leter - Title given to 1000997
+200 - vassal: c_diate - Holder 1000993 - Primary title: c_diate has lost the title: c_diate
+200 - sub vassal: c_diate - Holder 1000993 - Primary title: c_diate has lost the title: c_diate
+200 - vassal: c_diate - Title given to 1000993 - Primary title: d_relka
+200 - sub vassal: c_diate - Title given to 1000993 - Primary title: d_relka
+200 - Holder (1000993) has gained c_diate
+200 - vassal: c_rufa - Holder 1000993 - Primary title: c_rufa has lost the title: c_rufa
+200 - sub vassal: c_rufa - Holder 1000993 - Primary title: c_rufa has lost the title: c_rufa
+200 - vassal: c_rufa - Title given to 1000993 - Primary title: d_relka
+200 - sub vassal: c_rufa - Title given to 1000993 - Primary title: d_relka
+200 - Holder (1000993) has gained c_rufa
+200 - vassal: c_leter - Holder 1000993 - Primary title: c_leter has lost the title: c_leter
+200 - sub vassal: c_leter - Holder 1000993 - Primary title: c_leter has lost the title: c_leter
+200 - vassal: c_leter - Title given to 1000993 - Primary title: d_relka
+200 - sub vassal: c_leter - Title given to 1000993 - Primary title: d_relka
+200 - Holder (1000993) has gained c_leter
+200 - vassal: c_egisufa - Holder 1000993 - Primary title: c_egisufa has lost the title: c_egisufa
+200 - sub vassal: c_egisufa - Holder 1000993 - Primary title: c_egisufa has lost the title: c_egisufa
+200 - vassal: c_egisufa - Title given to 1000993 - Primary title: d_relka
+200 - sub vassal: c_egisufa - Title given to 1000993 - Primary title: d_relka
+200 - Holder (1000993) has gained c_egisufa
+200 - Holder 1001482 - Primary title: d_relka has lost the title: d_relka
+200 - Title given to 1001482 - Primary title: k_qavelin
+200 - vassal: c_diate - Made independent due to being a seperate island
+200 - vassal: c_diate - Made independent
+200 - vassal: c_rufa - Setting independent in Validate Realm
+200 - vassal: c_rufa - Made independent
+200 - vassal: c_leter - Setting independent in Validate Realm
+200 - vassal: c_leter - Made independent
+200 - vassal: c_egisufa - Setting independent in Validate Realm
+200 - vassal: c_egisufa - Made independent
+201 - Destroyed due to flagged problem
+201 - Made independent
+201 - Title destroyed
+274 - Given to 1004241 in TestCreateEmpire
+274 - Title given to 1004241 - Primary title: c_egisufa
+274 - Gained vassal: c_egisufa
+274 - Made independent for title creation d_relka for d_relka
+274 - vassal: c_egisufa - Set liege on title creation d_relka
+274 - sub vassal: c_egisufa - Set liege on title creation d_relka
+274 - Gained vassal: c_leter
+274 - Gained vassal: c_rufa
+274 - Gained vassal: c_diate
+293 - Holder 1005565 - Primary title: d_relka has lost the title: d_relka
+293 - Title given to 1005565
+293 - vassal: c_diate - Holder 1005565 - Primary title: c_diate has lost the title: c_diate
+293 - sub vassal: c_diate - Holder 1005565 - Primary title: c_diate has lost the title: c_diate
+293 - vassal: c_diate - Title given to 1005565 - Primary title: d_relka
+293 - sub vassal: c_diate - Title given to 1005565 - Primary title: d_relka
+293 - Holder (1005565) has gained c_diate
+293 - vassal: c_rufa - Holder 1005565 - Primary title: c_rufa has lost the title: c_rufa
+293 - sub vassal: c_rufa - Holder 1005565 - Primary title: c_rufa has lost the title: c_rufa
+293 - vassal: c_rufa - Title given to 1005565 - Primary title: d_relka
+293 - sub vassal: c_rufa - Title given to 1005565 - Primary title: d_relka
+293 - Holder (1005565) has gained c_rufa
+293 - vassal: c_leter - Holder 1005565 - Primary title: c_leter has lost the title: c_leter
+293 - sub vassal: c_leter - Holder 1005565 - Primary title: c_leter has lost

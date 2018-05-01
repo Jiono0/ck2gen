@@ -1,0 +1,47 @@
+200 - Title given to 1001014
+200 - vassal: c_egona - Given to 1001017 via AddCharacterForTitle
+200 - sub vassal: c_egona - Given to 1001017 via AddCharacterForTitle
+200 - vassal: c_egona - Holder 1001017 - Primary title: c_egona has lost the title: c_egona
+200 - sub vassal: c_egona - Holder 1001017 - Primary title: c_egona has lost the title: c_egona
+200 - vassal: c_egona - Title given to 1001017
+200 - sub vassal: c_egona - Title given to 1001017
+200 - vassal: c_asozoppi - Given to 1001019 via AddCharacterForTitle
+200 - sub vassal: c_asozoppi - Given to 1001019 via AddCharacterForTitle
+200 - vassal: c_asozoppi - Holder 1001019 - Primary title: c_asozoppi has lost the title: c_asozoppi
+200 - sub vassal: c_asozoppi - Holder 1001019 - Primary title: c_asozoppi has lost the title: c_asozoppi
+200 - vassal: c_asozoppi - Title given to 1001019
+200 - sub vassal: c_asozoppi - Title given to 1001019
+200 - vassal: c_bodoen - Holder 1001014 - Primary title: c_bodoen has lost the title: c_bodoen
+200 - sub vassal: c_bodoen - Holder 1001014 - Primary title: c_bodoen has lost the title: c_bodoen
+200 - vassal: c_bodoen - Title given to 1001014 - Primary title: d_esozona
+200 - sub vassal: c_bodoen - Title given to 1001014 - Primary title: d_esozona
+200 - Holder (1001014) has gained c_bodoen
+200 - vassal: c_egona - Holder 1001014 - Primary title: c_egona has lost the title: c_egona
+200 - sub vassal: c_egona - Holder 1001014 - Primary title: c_egona has lost the title: c_egona
+200 - vassal: c_egona - Title given to 1001014 - Primary title: d_esozona
+200 - sub vassal: c_egona - Title given to 1001014 - Primary title: d_esozona
+200 - Holder (1001014) has gained c_egona
+200 - vassal: c_evengoen - Holder 1001014 - Primary title: c_evengoen has lost the title: c_evengoen
+200 - sub vassal: c_evengoen - Holder 1001014 - Primary title: c_evengoen has lost the title: c_evengoen
+200 - vassal: c_evengoen - Title given to 1001014 - Primary title: d_esozona
+200 - sub vassal: c_evengoen - Title given to 1001014 - Primary title: d_esozona
+200 - Holder (1001014) has gained c_evengoen
+200 - vassal: c_nasamon - Holder 1001014 - Primary title: c_nasamon has lost the title: c_nasamon
+200 - sub vassal: c_nasamon - Holder 1001014 - Primary title: c_nasamon has lost the title: c_nasamon
+200 - vassal: c_nasamon - Title given to 1001014 - Primary title: d_esozona
+200 - sub vassal: c_nasamon - Title given to 1001014 - Primary title: d_esozona
+200 - Holder (1001014) has gained c_nasamon
+219 - Holder (1001014) has gained k_bodalp
+245 - Holder 1002644 - Primary title: d_esozona has lost the title: d_esozona
+245 - Title given to 1002644 - Primary title: k_bodalp
+245 - vassal: c_nasamon - Setting to vassal of d_tonalil in Validate Realm
+245 - Lost vassal: c_nasamon
+245 - vassal: c_evengoen - Setting to vassal of d_tonalil in Validate Realm
+245 - Lost vassal: c_evengoen
+245 - vassal: c_egona - Setting to vassal of d_tonalil in Validate Realm
+245 - Lost vassal: c_egona
+245 - vassal: c_bodoen - Setting to vassal of d_tonalil in Validate Realm
+245 - Lost vassal: c_bodoen
+246 - Destroyed due to flagged problem
+246 - Made independent
+246 - Title destroyed

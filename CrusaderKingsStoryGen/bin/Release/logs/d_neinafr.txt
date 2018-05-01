@@ -1,0 +1,34 @@
+200 - Title given to 1000927
+200 - vassal: c_reinar - Given to 1000930 via AddCharacterForTitle
+200 - sub vassal: c_reinar - Given to 1000930 via AddCharacterForTitle
+200 - vassal: c_reinar - Holder 1000930 - Primary title: c_reinar has lost the title: c_reinar
+200 - sub vassal: c_reinar - Holder 1000930 - Primary title: c_reinar has lost the title: c_reinar
+200 - vassal: c_reinar - Title given to 1000930
+200 - sub vassal: c_reinar - Title given to 1000930
+200 - vassal: c_rodar - Holder 1000927 - Primary title: c_rodar has lost the title: c_rodar
+200 - sub vassal: c_rodar - Holder 1000927 - Primary title: c_rodar has lost the title: c_rodar
+200 - vassal: c_rodar - Title given to 1000927 - Primary title: d_neinafr
+200 - sub vassal: c_rodar - Title given to 1000927 - Primary title: d_neinafr
+200 - Holder (1000927) has gained c_rodar
+200 - vassal: c_reinar - Holder 1000927 - Primary title: c_reinar has lost the title: c_reinar
+200 - sub vassal: c_reinar - Holder 1000927 - Primary title: c_reinar has lost the title: c_reinar
+200 - vassal: c_reinar - Title given to 1000927 - Primary title: d_neinafr
+200 - sub vassal: c_reinar - Title given to 1000927 - Primary title: d_neinafr
+200 - Holder (1000927) has gained c_reinar
+200 - vassal: c_leinar - Holder 1000927 - Primary title: c_leinar has lost the title: c_leinar
+200 - sub vassal: c_leinar - Holder 1000927 - Primary title: c_leinar has lost the title: c_leinar
+200 - vassal: c_leinar - Title given to 1000927 - Primary title: d_neinafr
+200 - sub vassal: c_leinar - Title given to 1000927 - Primary title: d_neinafr
+200 - Holder (1000927) has gained c_leinar
+218 - Holder (1000927) has gained k_reinatti
+247 - Holder 1003276 - Primary title: d_neinafr has lost the title: d_neinafr
+247 - Title given to 1003276 - Primary title: k_reinatti
+247 - vassal: c_leinar - Setting to vassal of d_rarafr in Validate Realm
+247 - Lost vassal: c_leinar
+247 - vassal: c_reinar - Setting to vassal of d_rarafr in Validate Realm
+247 - Lost vassal: c_reinar
+247 - vassal: c_rodar - Setting to vassal of d_rarafr in Validate Realm
+247 - Lost vassal: c_rodar
+248 - Destroyed due to flagged problem
+248 - Made independent
+248 - Title destroyed

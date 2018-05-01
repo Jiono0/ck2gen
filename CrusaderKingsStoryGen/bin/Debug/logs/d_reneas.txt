@@ -1,0 +1,58 @@
+200 - Title given to 1000320
+200 - vassal: c_kunotan - Given to 1000324 via AddCharacterForTitle
+200 - sub vassal: c_kunotan - Given to 1000324 via AddCharacterForTitle
+200 - vassal: c_kunotan - Holder 1000324 - Primary title: c_kunotan has lost the title: c_kunotan
+200 - sub vassal: c_kunotan - Holder 1000324 - Primary title: c_kunotan has lost the title: c_kunotan
+200 - vassal: c_kunotan - Title given to 1000324
+200 - sub vassal: c_kunotan - Title given to 1000324
+200 - vassal: c_ekaduel - Holder 1000320 - Primary title: c_ekaduel has lost the title: c_ekaduel
+200 - sub vassal: c_ekaduel - Holder 1000320 - Primary title: c_ekaduel has lost the title: c_ekaduel
+200 - vassal: c_ekaduel - Title given to 1000320 - Primary title: d_reneas
+200 - sub vassal: c_ekaduel - Title given to 1000320 - Primary title: d_reneas
+200 - Holder (1000320) has gained c_ekaduel
+200 - vassal: c_lieluel - Holder 1000320 - Primary title: c_lieluel has lost the title: c_lieluel
+200 - sub vassal: c_lieluel - Holder 1000320 - Primary title: c_lieluel has lost the title: c_lieluel
+200 - vassal: c_lieluel - Title given to 1000320 - Primary title: d_reneas
+200 - sub vassal: c_lieluel - Title given to 1000320 - Primary title: d_reneas
+200 - Holder (1000320) has gained c_lieluel
+200 - vassal: c_kunotan - Holder 1000320 - Primary title: c_kunotan has lost the title: c_kunotan
+200 - sub vassal: c_kunotan - Holder 1000320 - Primary title: c_kunotan has lost the title: c_kunotan
+200 - vassal: c_kunotan - Title given to 1000320 - Primary title: d_reneas
+200 - sub vassal: c_kunotan - Title given to 1000320 - Primary title: d_reneas
+200 - Holder (1000320) has gained c_kunotan
+246 - Holder 1003316 - Primary title: d_reneas has lost the title: d_reneas
+246 - Title given to 1003316
+246 - vassal: c_kunotan - Holder 1003316 - Primary title: c_kunotan has lost the title: c_kunotan
+246 - vassal: c_kunotan - Title given to 1003316 - Primary title: d_reneas
+246 - Holder (1003316) has gained c_kunotan
+246 - vassal: c_lieluel - Holder 1003316 - Primary title: c_lieluel has lost the title: c_lieluel
+246 - vassal: c_lieluel - Title given to 1003316 - Primary title: d_reneas
+246 - Holder (1003316) has gained c_lieluel
+246 - vassal: c_ekaduel - Holder 1003316 - Primary title: c_ekaduel has lost the title: c_ekaduel
+246 - vassal: c_ekaduel - Title given to 1003316 - Primary title: d_reneas
+246 - Holder (1003316) has gained c_ekaduel
+250 - Holder 1002383 - Primary title: d_reneas has lost the title: d_reneas
+250 - Title given to 1002383 - Primary title: k_anienolh
+250 - vassal: c_kunotan - Holder 1002383 - Primary title: c_kunotan has lost the title: c_kunotan
+250 - vassal: c_kunotan - Title given to 1002383 - Primary title: k_anienolh
+250 - vassal: c_lieluel - Holder 1002383 - Primary title: c_lieluel has lost the title: c_lieluel
+250 - vassal: c_lieluel - Title given to 1002383 - Primary title: k_anienolh
+250 - vassal: c_ekaduel - Holder 1002383 - Primary title: c_ekaduel has lost the title: c_ekaduel
+250 - vassal: c_ekaduel - Title given to 1002383 - Primary title: k_anienolh
+254 - vassal: c_kunotan - Given to 1006354 in HandleTitles - Too many duke titles
+254 - vassal: c_kunotan - Title given to 1006354
+254 - Title given to 1006354 - Primary title: c_kunotan
+254 - vassal: c_kunotan - Holder (1006354) has gained d_reneas
+254 - vassal: c_lieluel - Setting to vassal of k_anienolh in Validate Realm
+254 - Lost vassal: c_lieluel
+254 - vassal: c_ekaduel - Setting to vassal of k_anienolh in Validate Realm
+254 - Lost vassal: c_ekaduel
+254 - Too many dukes, given to dejure: k_anienolh
+273 - Holder (1006354) has gained k_anienolh
+274 - vassal: c_kunotan - Given to 1007925 in HandleTitles - Too many duke titles
+274 - vassal: c_kunotan - Title given to 1007925
+274 - Title given to 1007925 - Primary title: c_kunotan
+274 - vassal: c_kunotan - Holder (1007925) has gained d_reneas
+274 - Too many dukes, given to dejure: k_anienolh
+294 - Holder 1008184 - Primary title: d_reneas has lost the title: d_reneas
+294 - Title given to 1008184

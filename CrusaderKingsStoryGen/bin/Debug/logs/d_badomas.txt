@@ -1,0 +1,67 @@
+200 - Title given to 1000348
+200 - vassal: c_duban - Holder 1000348 - Primary title: c_duban has lost the title: c_duban
+200 - sub vassal: c_duban - Holder 1000348 - Primary title: c_duban has lost the title: c_duban
+200 - vassal: c_duban - Title given to 1000348 - Primary title: d_badomas
+200 - sub vassal: c_duban - Title given to 1000348 - Primary title: d_badomas
+200 - Holder (1000348) has gained c_duban
+200 - vassal: c_kophia - Holder 1000348 - Primary title: c_kophia has lost the title: c_kophia
+200 - sub vassal: c_kophia - Holder 1000348 - Primary title: c_kophia has lost the title: c_kophia
+200 - vassal: c_kophia - Title given to 1000348 - Primary title: d_badomas
+200 - sub vassal: c_kophia - Title given to 1000348 - Primary title: d_badomas
+200 - Holder (1000348) has gained c_kophia
+203 - Holder 1000345 - Primary title: d_badomas has lost the title: d_badomas
+203 - Title given to 1000345 - Primary title: d_tyoa
+203 - vassal: c_kophia - Holder 1000345 - Primary title: c_kophia has lost the title: c_kophia
+203 - vassal: c_kophia - Title given to 1000345 - Primary title: d_tyoa
+203 - vassal: c_duban - Holder 1000345 - Primary title: c_duban has lost the title: c_duban
+203 - vassal: c_duban - Title given to 1000345 - Primary title: d_tyoa
+226 - vassal: c_kophia - Given to 1004175 in HandleTitles - Too many duke titles
+226 - vassal: c_kophia - Title given to 1004175
+226 - Title given to 1003705 - Primary title: k_rava
+226 - vassal: c_duban - Setting to vassal of d_kanans in Validate Realm
+226 - Lost vassal: c_duban
+226 - Too many dukes, made direct title into vassal of k_rava
+226 - Title given to 1004176
+240 - Holder (1004176) has gained d_nanina
+240 - Holder (1004176) has gained c_akaneas
+255 - Title given to 1004780
+255 - Holder (1004780) has gained d_nanina
+255 - Holder (1004780) has gained c_akaneas
+259 - Title given to 1006408 - Primary title: d_liluil
+260 - vassal: c_kophia - Given to 1006800 in HandleTitles - Too many duke titles
+260 - vassal: c_kophia - Holder 1006800 - Primary title: c_kophia has lost the title: c_kophia
+260 - vassal: c_kophia - Title given to 1006800
+260 - Title given to 1003763 - Primary title: k_rava
+260 - Too many dukes, made direct title into vassal of k_rava
+260 - Title given to 1006802
+298 - Holder 1006408 - Primary title: d_badomas has lost the title: d_badomas
+298 - Title given to 1006408 - Primary title: d_nanina
+299 - Holder 1009622 - Primary title: d_badomas has lost the title: c_akaneas
+299 - Holder 1007699 - Primary title: d_badomas has lost the title: d_nanina
+300 - Holder (1006408) has gained c_ruil
+304 - Gained vassal: c_demabel
+304 - Gained vassal: c_ruil
+304 - Gained vassal: c_suisre
+304 - Holder 1007893 - Primary title: d_badomas has lost the title: d_badomas
+304 - Title given to 1007893 - Primary title: d_liluil
+304 - vassal: c_suisre - Holder 1007893 - Primary title: c_suisre has lost the title: c_suisre
+304 - vassal: c_suisre - Title given to 1007893 - Primary title: d_liluil
+304 - vassal: c_ruil - Holder 1007893 - Primary title: c_ruil has lost the title: c_ruil
+304 - vassal: c_ruil - Title given to 1007893 - Primary title: d_liluil
+304 - vassal: c_demabel - Holder 1007893 - Primary title: c_demabel has lost the title: c_demabel
+304 - vassal: c_demabel - Title given to 1007893 - Primary title: d_liluil
+305 - Holder (1007893) has gained d_liluil
+305 - vassal: c_suisre - Set liege on title creation d_liluil
+305 - Lost vassal: c_suisre
+305 - vassal: c_ruil - Set liege on title creation d_liluil
+305 - Lost vassal: c_ruil
+305 - vassal: c_demabel - Set liege on title creation d_liluil
+305 - Lost vassal: c_demabel
+327 - Holder 1010777 - Primary title: d_badomas has lost the title: d_liluil
+332 - Gained vassal: c_suisre
+332 - Gained vassal: c_ruil
+332 - Gained vassal: c_demabel
+334 - Holder 1010777 - Primary title: d_badomas has lost the title: d_badomas
+334 - Title given to 1010777
+334 - vassal: c_demabel - Holder 1010777 - Primary title: c_demabel has lost the title: c_demabel
+334 - vassal: c_demabel - Title g

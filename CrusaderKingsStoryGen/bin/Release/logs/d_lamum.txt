@@ -1,0 +1,72 @@
+200 - Title given to 1000101
+200 - vassal: c_daytor - Holder 1000101 - Primary title: c_daytor has lost the title: c_daytor
+200 - sub vassal: c_daytor - Holder 1000101 - Primary title: c_daytor has lost the title: c_daytor
+200 - vassal: c_daytor - Title given to 1000101 - Primary title: d_lamum
+200 - sub vassal: c_daytor - Title given to 1000101 - Primary title: d_lamum
+200 - Holder (1000101) has gained c_daytor
+200 - vassal: c_dionera - Holder 1000101 - Primary title: c_dionera has lost the title: c_dionera
+200 - sub vassal: c_dionera - Holder 1000101 - Primary title: c_dionera has lost the title: c_dionera
+200 - vassal: c_dionera - Title given to 1000101 - Primary title: d_lamum
+200 - sub vassal: c_dionera - Title given to 1000101 - Primary title: d_lamum
+200 - Holder (1000101) has gained c_dionera
+200 - Made vassal of neighbour (k_benalme) due to being a seperate island
+200 - Given to neighbour holder of k_benalme
+200 - Holder 1001534 - Primary title: d_lamum has lost the title: d_lamum
+200 - Title given to 1001534 - Primary title: k_benalme
+201 - vassal: c_daytor - Given to 1002256 in HandleTitles - Too many duke titles
+201 - vassal: c_dionera - Holder 1002256 - Primary title: c_dionera has lost the title: c_daytor
+201 - vassal: c_daytor - Title given to 1002256
+201 - Title given to 1002256 - Primary title: c_daytor
+201 - vassal: c_daytor - Holder (1002256) has gained d_lamum
+201 - Too many dukes, made direct title into vassal of k_benalme
+224 - Holder 1002720 - Primary title: d_lamum has lost the title: d_lamum
+224 - Title given to 1002720
+224 - vassal: c_daytor - Holder 1002720 - Primary title: c_daytor has lost the title: c_daytor
+224 - vassal: c_daytor - Title given to 1002720 - Primary title: d_lamum
+224 - Holder (1002720) has gained c_daytor
+248 - Holder 1004629 - Primary title: d_lamum has lost the title: d_lamum
+248 - Title given to 1004629
+248 - vassal: c_daytor - Holder 1004629 - Primary title: c_daytor has lost the title: c_daytor
+248 - vassal: c_daytor - Title given to 1004629 - Primary title: d_lamum
+248 - Holder (1004629) has gained c_daytor
+254 - Holder (1004629) has gained d_wodune
+254 - Holder (1004629) has gained c_rogatai
+280 - Gained vassal: c_rogatai
+280 - Holder 1005532 - Primary title: d_lamum has lost the title: d_lamum
+280 - Title given to 1005532 - Primary title: d_abing
+280 - vassal: c_daytor - Holder 1005532 - Primary title: c_daytor has lost the title: c_daytor
+280 - vassal: c_daytor - Title given to 1005532 - Primary title: d_abing
+280 - vassal: c_rogatai - Holder 1005532 - Primary title: c_rogatai has lost the title: c_rogatai
+280 - vassal: c_rogatai - Title given to 1005532 - Primary title: d_abing
+281 - vassal: c_daytor - Given to 1009162 in HandleTitles - Too many duke titles
+281 - vassal: c_daytor - Title given to 1009162
+281 - Title given to 1007785 - Primary title: k_benalme
+281 - vassal: c_rogatai - Setting to vassal of d_abing in Validate Realm
+281 - Lost vassal: c_rogatai
+281 - Too many dukes, made direct title into vassal of k_benalme
+281 - Title given to 1004028
+283 - Holder 1009329 - Primary title: d_lamum has lost the title: d_lamum
+283 - Title given to 1009329
+300 - vassal: c_dionera - Holder 1009329 - Primary title: c_dionera has lost the title: c_dionera
+300 - vassal: c_dionera - Title given to 1009329 - Primary title: d_lamum
+300 - Holder (1009329) has gained c_dionera
+317 - Holder 1008514 - Primary title: d_lamum has lost the title: d_lamum
+317 - Title given to 1008514 - Primary title: d_qindo
+317 - vassal: c_dionera - Holder 1008514 - Primary title: c_dionera has lost the title: c_dionera
+317 - vassal: c_dionera - Title given to 1008514 - Primary title: d_qindo
+349 - Holder 1011747 - Primary title: d_lamum has lost the title: d_lamum
+349 - Title given to 1011747 - Primary title: d_qindo
+349 - vassal: c_dionera - Holder 1011747 - Primary title: c_dionera has lost the title: c_dionera
+349 - vassal: c_dionera - Title given to 1011747 - Primary title: d_qindo
+363 - Holder 1014597 - Primary title: d_lamum has lost the title: d_lamum
+363 - Title given to 1014597 - Primary title: d_qindo
+363 - vassal: c_dionera - Holder 1014597 - Primary title: c_dionera has lost the title: c_dionera
+363 - vassal: c_dionera - Title given to 1014597 - Primary title: d_qindo
+379 - vassal: c_daytor - Given to 1016656 in HandleTitles - Too many duke titles
+379 - vassal: c_daytor - Holder 1016656 - Primary title: c_daytor has lost the title: c_daytor
+379 - vassal: c_daytor - Title given to 1016656
+379 - Title given to 1016656 - Primary title: c_daytor
+379 - vassal: c_daytor - Holder (1016656) has gained d_lamum
+379 - vassal: c_dionera - Setting to vassal of k_benalme in Validate Realm
+379 - Lost vassal: c_dionera
+379 - Too many dukes, made direct title into vassal of k_benalme

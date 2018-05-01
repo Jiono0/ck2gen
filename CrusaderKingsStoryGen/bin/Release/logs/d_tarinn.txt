@@ -1,0 +1,151 @@
+200 - Title given to 1001086
+200 - vassal: c_karulai - Given to 1001090 via AddCharacterForTitle
+200 - sub vassal: c_karulai - Given to 1001090 via AddCharacterForTitle
+200 - vassal: c_karulai - Holder 1001090 - Primary title: c_karulai has lost the title: c_karulai
+200 - sub vassal: c_karulai - Holder 1001090 - Primary title: c_karulai has lost the title: c_karulai
+200 - vassal: c_karulai - Title given to 1001090
+200 - sub vassal: c_karulai - Title given to 1001090
+200 - vassal: c_ruduka - Holder 1001086 - Primary title: c_ruduka has lost the title: c_ruduka
+200 - sub vassal: c_ruduka - Holder 1001086 - Primary title: c_ruduka has lost the title: c_ruduka
+200 - vassal: c_ruduka - Title given to 1001086 - Primary title: d_tarinn
+200 - sub vassal: c_ruduka - Title given to 1001086 - Primary title: d_tarinn
+200 - Holder (1001086) has gained c_ruduka
+200 - vassal: c_qalaya - Holder 1001086 - Primary title: c_qalaya has lost the title: c_qalaya
+200 - sub vassal: c_qalaya - Holder 1001086 - Primary title: c_qalaya has lost the title: c_qalaya
+200 - vassal: c_qalaya - Title given to 1001086 - Primary title: d_tarinn
+200 - sub vassal: c_qalaya - Title given to 1001086 - Primary title: d_tarinn
+200 - Holder (1001086) has gained c_qalaya
+200 - vassal: c_runaiti - Holder 1001086 - Primary title: c_runaiti has lost the title: c_runaiti
+200 - sub vassal: c_runaiti - Holder 1001086 - Primary title: c_runaiti has lost the title: c_runaiti
+200 - vassal: c_runaiti - Title given to 1001086 - Primary title: d_tarinn
+200 - sub vassal: c_runaiti - Title given to 1001086 - Primary title: d_tarinn
+200 - Holder (1001086) has gained c_runaiti
+201 - Holder 1001577 - Primary title: d_tarinn has lost the title: d_tarinn
+201 - Title given to 1001577 - Primary title: k_kiwuel
+201 - vassal: c_runaiti - Holder 1001577 - Primary title: c_runaiti has lost the title: c_runaiti
+201 - vassal: c_runaiti - Title given to 1001577 - Primary title: k_kiwuel
+201 - vassal: c_qalaya - Holder 1001577 - Primary title: c_qalaya has lost the title: c_qalaya
+201 - vassal: c_qalaya - Title given to 1001577 - Primary title: k_kiwuel
+201 - vassal: c_ruduka - Holder 1001577 - Primary title: c_ruduka has lost the title: c_ruduka
+201 - vassal: c_ruduka - Title given to 1001577 - Primary title: k_kiwuel
+201 - vassal: c_qalaya - Given to 1002280 in HandleTitles - Too many duke titles
+201 - vassal: c_qalaya - Title given to 1002280
+201 - Title given to 1002280 - Primary title: c_qalaya
+201 - vassal: c_qalaya - Holder (1002280) has gained d_tarinn
+201 - vassal: c_runaiti - Setting to vassal of k_kiwuel in Validate Realm
+201 - Lost vassal: c_runaiti
+201 - vassal: c_ruduka - Setting to vassal of k_kiwuel in Validate Realm
+201 - Lost vassal: c_ruduka
+201 - Too many dukes, given to dejure: k_kiwuel
+248 - Holder 1004318 - Primary title: d_tarinn has lost the title: d_tarinn
+248 - Title given to 1004318
+248 - vassal: c_qalaya - Holder 1004318 - Primary title: c_qalaya has lost the title: c_qalaya
+248 - vassal: c_qalaya - Title given to 1004318 - Primary title: d_tarinn
+248 - Holder (1004318) has gained c_qalaya
+264 - Holder 1006817 - Primary title: d_tarinn has lost the title: d_tarinn
+264 - Title given to 1006817
+264 - vassal: c_qalaya - Holder 1006817 - Primary title: c_qalaya has lost the title: c_qalaya
+264 - vassal: c_qalaya - Title given to 1006817 - Primary title: d_tarinn
+264 - Holder (1006817) has gained c_qalaya
+284 - Holder 1008869 - Primary title: d_tarinn has lost the title: d_tarinn
+284 - Title given to 1008869
+284 - vassal: c_qalaya - Holder 1008869 - Primary title: c_qalaya has lost the title: c_qalaya
+284 - vassal: c_qalaya - Title given to 1008869 - Primary title: d_tarinn
+284 - Holder (1008869) has gained c_qalaya
+285 - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - Given to neighbour holder of k_evishp
+285 - Holder 1007444 - Primary title: d_tarinn has lost the title: d_tarinn
+285 - Title given to 1007444 - Primary title: k_evishp
+286 - vassal: c_qalaya - Given to 1005135 in HandleTitles - Too many duke titles
+286 - vassal: c_qalaya - Holder 1005135 - Primary title: c_qalaya has lost the title: c_qalaya
+286 - vassal: c_qalaya - Title given to 1005135
+286 - Title given to 1005135 - Primary title: c_qalaya
+286 - vassal: c_qalaya - Holder (1005135) has gained d_tarinn
+286 - Too many dukes, made direct title into vassal of k_evishp
+289 - Holder 1007444 - Primary title: d_tarinn has lost the title: d_tarinn
+289 - Title given to 1007444 - Primary title: k_evishp
+289 - vassal: c_qalaya - Holder 1007444 - Primary title: c_qalaya has lost the title: c_qalaya
+289 - vassal: c_qalaya - Title given to 1007444 - Primary title: k_evishp
+289 - vassal: c_qalaya - Title given to 1009838
+296 - Gained vassal: c_kora
+296 - Gained vassal: c_karulai
+296 - Gained vassal: c_dengaka
+296 - Holder 1009837 - Primary title: d_tarinn has lost the title: c_dengaka
+296 - vassal: c_dengaka - Title given to 1009837 - Primary title: k_evishp
+296 - vassal: c_dengaka - Setting to vassal of k_evishp in Validate Realm
+296 - Lost vassal: c_dengaka
+296 - Holder 1009837 - Primary title: d_tarinn has lost the title: c_karulai
+296 - vassal: c_karulai - Title given to 1009837 - Primary title: k_evishp
+296 - vassal: c_karulai - Setting to vassal of k_evishp in Validate Realm
+296 - Lost vassal: c_karulai
+296 - Holder 1009837 - Primary title: d_tarinn has lost the title: c_kora
+296 - vassal: c_kora - Title given to 1009837 - Primary title: k_evishp
+296 - vassal: c_kora - Setting to vassal of k_evishp in Validate Realm
+296 - Lost vassal: c_kora
+296 - Holder 1009837 - Primary title: d_tarinn has lost the title: d_tarinn
+296 - Title given to 1009837 - Primary title: k_evishp
+325 - Holder 1010998 - Primary title: d_tarinn has lost the title: d_tarinn
+325 - Title given to 1010998 - Primary title: k_evishp
+336 - Holder 1013382 - Primary title: d_tarinn has lost the title: d_tarinn
+336 - Title given to 1013382 - Primary title: k_evishp
+339 - Holder 1013796 - Primary title: d_tarinn has lost the title: d_tarinn
+339 - Title given to 1013796 - Primary title: k_evishp
+363 - Gained vassal: c_kora
+363 - Gained vassal: c_dengaka
+363 - Gained vassal: c_nebuka
+363 - Gained vassal: c_niacdes
+363 - Gained vassal: c_laraya
+363 - Holder 1010890 - Primary title: d_tarinn has lost the title: d_tarinn
+363 - Title given to 1010890 - Primary title: k_evishp
+363 - vassal: c_laraya - Holder 1010890 - Primary title: c_laraya has lost the title: c_laraya
+363 - vassal: c_laraya - Title given to 1010890 - Primary title: k_evishp
+363 - vassal: c_niacdes - Holder 1010890 - Primary title: c_niacdes has lost the title: c_niacdes
+363 - vassal: c_niacdes - Title given to 1010890 - Primary title: k_evishp
+363 - vassal: c_nebuka - Holder 1010890 - Primary title: c_nebuka has lost the title: c_nebuka
+363 - vassal: c_nebuka - Title given to 1010890 - Primary title: k_evishp
+363 - vassal: c_dengaka - Holder 1010890 - Primary title: c_dengaka has lost the title: c_dengaka
+363 - vassal: c_dengaka - Title given to 1010890 - Primary title: k_evishp
+363 - vassal: c_kora - Holder 1010890 - Primary title: c_kora has lost the title: c_kora
+363 - vassal: c_kora - Title given to 1010890 - Primary title: k_evishp
+368 - Holder 1015893 - Primary title: d_tarinn has lost the title: d_tarinn
+368 - Title given to 1015893 - Primary title: k_evishp
+368 - vassal: c_laraya - Holder 1015893 - Primary title: c_laraya has lost the title: c_laraya
+368 - vassal: c_laraya - Title given to 1015893 - Primary title: k_evishp
+368 - vassal: c_niacdes - Holder 1015893 - Primary title: c_niacdes has lost the title: c_niacdes
+368 - vassal: c_niacdes - Title given to 1015893 - Primary title: k_evishp
+368 - vassal: c_nebuka - Holder 1015893 - Primary title: c_nebuka has lost the title: c_nebuka
+368 - vassal: c_nebuka - Title given to 1015893 - Primary title: k_evishp
+368 - vassal: c_dengaka - Holder 1015893 - Primary title: c_dengaka has lost the title: c_dengaka
+368 - vassal: c_dengaka - Title given to 1015893 - Primary title: k_evishp
+368 - vassal: c_kora - Holder 1015893 - Primary title: c_kora has lost the title: c_kora
+368 - vassal: c_kora - Title given to 1015893 - Primary title: k_evishp
+375 - Holder 1015882 - Primary title: d_tarinn has lost the title: d_tarinn
+375 - Title given to 1015882 - Primary title: k_evishp
+375 - vassal: c_laraya - Holder 1015882 - Primary title: c_laraya has lost the title: c_laraya
+375 - vassal: c_laraya - Title given to 1015882 - Primary title: k_evishp
+375 - vassal: c_niacdes - Holder 1015882 - Primary title: c_niacdes has lost the title: c_niacdes
+375 - vassal: c_niacdes - Title given to 1015882 - Primary title: k_evishp
+375 - vassal: c_nebuka - Holder 1015882 - Primary title: c_nebuka has lost the title: c_nebuka
+375 - vassal: c_nebuka - Title given to 1015882 - Primary title: k_evishp
+375 - vassal: c_dengaka - Holder 1015882 - Primary title: c_dengaka has lost the title: c_dengaka
+375 - vassal: c_dengaka - Title given to 1015882 - Primary title: k_evishp
+375 - vassal: c_kora - Holder 1015882 - Primary title: c_kora has lost the title: c_kora
+375 - vassal: c_kora - Title given to 1015882 - Primary title: k_evishp
+384 - Holder 1014893 - Primary title: d_tarinn has lost the title: d_tarinn
+384 - Title given to 1014893 - Primary title: k_evishp
+384 - vassal: c_kora - Setting to vassal of d_reetail in Validate Realm
+384 - Lost vassal: c_kora
+384 - vassal: c_dengaka - Setting to vassal of d_reetail in Validate Realm
+384 - Lost vassal: c_dengaka
+384 - vassal: c_nebuka - Setting to vassal of d_reetail in Validate Realm
+384 - Lost vassal: c_nebuka
+384 - vassal: c_niacdes - Setting to vassal of d_reetail in Validate Realm
+384 - Lost vassal: c_niacdes
+384 - vassal: c_laraya - Setting to vassal of d_reetail in Validate Realm
+384 - Lost vassal: c_laraya
+385 - vassal: c_qalaya - Given to 1017078 in HandleTitles - Too many duke titles
+385 - vassal: c_qalaya - Holder 1017078 - Primary title: c_qalaya has lost the title: c_qalaya
+385 - vassal: c_qalaya - Title given to 1017078
+385 - Title given to 1017078 - Primary title: c_qalaya
+385 - vassal: c_qalaya - Holder (1017078) has gained d_tarinn
+385 - Too many dukes, made direct title into vassal of k_evishp

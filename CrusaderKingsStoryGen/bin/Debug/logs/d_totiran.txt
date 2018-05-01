@@ -1,0 +1,60 @@
+200 - Title given to 1000582
+200 - vassal: c_koteke - Given to 1000585 via AddCharacterForTitle
+200 - sub vassal: c_koteke - Given to 1000585 via AddCharacterForTitle
+200 - vassal: c_koteke - Holder 1000585 - Primary title: c_koteke has lost the title: c_koteke
+200 - sub vassal: c_koteke - Holder 1000585 - Primary title: c_koteke has lost the title: c_koteke
+200 - vassal: c_koteke - Title given to 1000585
+200 - sub vassal: c_koteke - Title given to 1000585
+200 - vassal: c_kallar - Holder 1000582 - Primary title: c_kallar has lost the title: c_kallar
+200 - sub vassal: c_kallar - Holder 1000582 - Primary title: c_kallar has lost the title: c_kallar
+200 - vassal: c_kallar - Title given to 1000582 - Primary title: d_totiran
+200 - sub vassal: c_kallar - Title given to 1000582 - Primary title: d_totiran
+200 - Holder (1000582) has gained c_kallar
+200 - vassal: c_koteke - Holder 1000582 - Primary title: c_koteke has lost the title: c_koteke
+200 - sub vassal: c_koteke - Holder 1000582 - Primary title: c_koteke has lost the title: c_koteke
+200 - vassal: c_koteke - Title given to 1000582 - Primary title: d_totiran
+200 - sub vassal: c_koteke - Title given to 1000582 - Primary title: d_totiran
+200 - Holder (1000582) has gained c_koteke
+201 - Holder (1000582) has gained d_bireye
+201 - Holder (1000582) has gained c_eviran
+201 - Holder (1000582) has gained c_nineke
+201 - Holder (1000582) has gained c_lamomo
+214 - Holder (1000582) has gained c_ninasar
+214 - Holder (1000582) has gained c_doveke
+215 - vassal: c_kallar - Title given to 1003377
+241 - Holder 1002464 - Primary title: d_totiran has lost the title: d_totiran
+241 - Title given to 1002464 - Primary title: k_qotasar
+241 - vassal: c_koteke - Setting to vassal of d_bireye in Validate Realm
+241 - Lost vassal: c_koteke
+258 - Holder 1005918 - Primary title: d_totiran has lost the title: d_totiran
+258 - Title given to 1005918 - Primary title: k_qotasar
+287 - Gained vassal: c_tajesse
+287 - Gained vassal: c_ninasar
+287 - Gained vassal: c_lamomo
+287 - Gained vassal: c_eviran
+287 - Gained vassal: c_koteke
+287 - Holder 1007627 - Primary title: d_totiran has lost the title: d_totiran
+287 - Title given to 1007627 - Primary title: k_qotasar
+287 - vassal: c_koteke - Holder 1007627 - Primary title: c_koteke has lost the title: c_koteke
+287 - vassal: c_koteke - Title given to 1007627 - Primary title: k_qotasar
+287 - vassal: c_eviran - Holder 1007627 - Primary title: c_eviran has lost the title: c_eviran
+287 - vassal: c_eviran - Title given to 1007627 - Primary title: k_qotasar
+287 - vassal: c_lamomo - Holder 1007627 - Primary title: c_lamomo has lost the title: c_lamomo
+287 - vassal: c_lamomo - Title given to 1007627 - Primary title: k_qotasar
+287 - vassal: c_ninasar - Holder 1007627 - Primary title: c_ninasar has lost the title: c_ninasar
+287 - vassal: c_ninasar - Title given to 1007627 - Primary title: k_qotasar
+287 - vassal: c_tajesse - Holder 1007627 - Primary title: c_tajesse has lost the title: c_tajesse
+287 - vassal: c_tajesse - Title given to 1007627 - Primary title: k_qotasar
+300 - vassal: c_kallar - Holder 1007627 - Primary title: c_kallar has lost the title: c_kallar
+300 - vassal: c_kallar - Title given to 1007627 - Primary title: k_qotasar
+300 - vassal: c_eviran - Title given to 1009750
+329 - Holder 1008974 - Primary title: d_totiran has lost the title: d_totiran
+329 - Title given to 1008974 - Primary title: k_qotasar
+329 - vassal: c_koteke - Holder 1008974 - Primary title: c_koteke has lost the title: c_koteke
+329 - vassal: c_koteke - Title given to 1008974 - Primary title: k_qotasar
+329 - vassal: c_lamomo - Holder 1008974 - Primary title: c_lamomo has lost the title: c_lamomo
+329 - vassal: c_lamomo - Title given to 1008974 - Primary title: k_qotasar
+329 - vassal: c_ninasar - Holder 1008974 - Primary title: c_ninasar has lost the title: c_ninasar
+329 - vassal: c_ninasar - Title given to 1008974 - Primary title: k_qotasar
+329 - vassal: c_tajesse - Holder 1008974 - Primary title: c_tajesse has lost the title: c_tajesse
+329 - vass

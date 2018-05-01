@@ -1,0 +1,94 @@
+200 - Title given to 1001100
+200 - vassal: c_qalesar - Holder 1001100 - Primary title: c_qalesar has lost the title: c_qalesar
+200 - sub vassal: c_qalesar - Holder 1001100 - Primary title: c_qalesar has lost the title: c_qalesar
+200 - vassal: c_qalesar - Title given to 1001100 - Primary title: d_reetail
+200 - sub vassal: c_qalesar - Title given to 1001100 - Primary title: d_reetail
+200 - Holder (1001100) has gained c_qalesar
+200 - vassal: c_kodesar - Holder 1001100 - Primary title: c_kodesar has lost the title: c_kodesar
+200 - sub vassal: c_kodesar - Holder 1001100 - Primary title: c_kodesar has lost the title: c_kodesar
+200 - vassal: c_kodesar - Title given to 1001100 - Primary title: d_reetail
+200 - sub vassal: c_kodesar - Title given to 1001100 - Primary title: d_reetail
+200 - Holder (1001100) has gained c_kodesar
+200 - Holder 1001576 - Primary title: d_reetail has lost the title: d_reetail
+200 - Title given to 1001576 - Primary title: k_evishp
+203 - Gained vassal: c_nebuka
+203 - Holder 1002555 - Primary title: d_reetail has lost the title: d_reetail
+203 - Title given to 1002555 - Primary title: k_evishp
+203 - vassal: c_nebuka - Holder 1002555 - Primary title: c_nebuka has lost the title: c_nebuka
+203 - vassal: c_nebuka - Title given to 1002555 - Primary title: k_evishp
+257 - Holder 1004415 - Primary title: d_reetail has lost the title: d_reetail
+257 - Title given to 1004415 - Primary title: k_evishp
+257 - vassal: c_nebuka - Holder 1004415 - Primary title: c_nebuka has lost the title: c_nebuka
+257 - vassal: c_nebuka - Title given to 1004415 - Primary title: k_evishp
+278 - Holder 1007444 - Primary title: d_reetail has lost the title: d_reetail
+278 - Title given to 1007444 - Primary title: k_evishp
+278 - vassal: c_nebuka - Setting to vassal of d_runail in Validate Realm
+278 - Lost vassal: c_nebuka
+286 - vassal: c_kodesar - Given to 1005399 in HandleTitles - Too many duke titles
+286 - vassal: c_qalesar - Holder 1005399 - Primary title: c_qalesar has lost the title: c_kodesar
+286 - vassal: c_kodesar - Title given to 1005399
+286 - Title given to 1005399 - Primary title: c_kodesar
+286 - vassal: c_kodesar - Holder (1005399) has gained d_reetail
+286 - Too many dukes, given to dejure: k_evishp
+290 - Holder 1009662 - Primary title: d_reetail has lost the title: d_reetail
+290 - Title given to 1009662
+290 - vassal: c_kodesar - Holder 1009662 - Primary title: c_kodesar has lost the title: c_kodesar
+290 - vassal: c_kodesar - Title given to 1009662 - Primary title: d_reetail
+290 - Holder (1009662) has gained c_kodesar
+296 - Holder 1009837 - Primary title: d_reetail has lost the title: d_reetail
+296 - Title given to 1009837 - Primary title: d_runail
+296 - vassal: c_kodesar - Holder 1009837 - Primary title: c_kodesar has lost the title: c_kodesar
+296 - vassal: c_kodesar - Title given to 1009837 - Primary title: d_runail
+296 - Holder (1009837) has gained k_evishp
+297 - vassal: c_kodesar - Given to 1010529 in HandleTitles - Too many duke titles
+297 - vassal: c_kodesar - Title given to 1010529
+297 - Title given to 1010529 - Primary title: c_kodesar
+297 - vassal: c_kodesar - Holder (1010529) has gained d_reetail
+297 - Too many dukes, given to dejure: k_evishp
+300 - vassal: c_qalesar - Holder 1010529 - Primary title: c_qalesar has lost the title: c_qalesar
+300 - vassal: c_qalesar - Title given to 1010529 - Primary title: d_reetail
+300 - Holder (1010529) has gained c_qalesar
+334 - Holder 1011316 - Primary title: d_reetail has lost the title: d_reetail
+334 - Title given to 1011316
+334 - vassal: c_kodesar - Holder 1011316 - Primary title: c_kodesar has lost the title: c_kodesar
+334 - vassal: c_kodesar - Title given to 1011316 - Primary title: d_reetail
+334 - Holder (1011316) has gained c_kodesar
+334 - vassal: c_qalesar - Holder 1011316 - Primary title: c_qalesar has lost the title: c_qalesar
+334 - vassal: c_qalesar - Title given to 1011316 - Primary title: d_reetail
+334 - Holder (1011316) has gained c_qalesar
+363 - Holder 1014458 - Primary title: d_reetail has lost the title: d_reetail
+363 - Title given to 1014458
+363 - vassal: c_kodesar - Holder 1014458 - Primary title: c_kodesar has lost the title: c_kodesar
+363 - vassal: c_kodesar - Title given to 1014458 - Primary title: d_reetail
+363 - Holder (1014458) has gained c_kodesar
+363 - vassal: c_qalesar - Holder 1014458 - Primary title: c_qalesar has lost the title: c_qalesar
+363 - vassal: c_qalesar - Title given to 1014458 - Primary title: d_reetail
+363 - Holder (1014458) has gained c_qalesar
+373 - Holder 1015882 - Primary title: d_reetail has lost the title: d_reetail
+373 - Title given to 1015882
+373 - vassal: c_kodesar - Holder 1015882 - Primary title: c_kodesar has lost the title: c_kodesar
+373 - vassal: c_kodesar - Title given to 1015882 - Primary title: d_reetail
+373 - Holder (1015882) has gained c_kodesar
+373 - vassal: c_qalesar - Holder 1015882 - Primary title: c_qalesar has lost the title: c_qalesar
+373 - vassal: c_qalesar - Title given to 1015882 - Primary title: d_reetail
+373 - Holder (1015882) has gained c_qalesar
+375 - Holder (1015882) has gained k_evishp
+376 - vassal: c_qalesar - Title given to 1016419
+376 - vassal: c_kodesar - Title given to 1016420
+384 - Gained vassal: c_laraya
+384 - Gained vassal: c_niacdes
+384 - Gained vassal: c_nebuka
+384 - Gained vassal: c_dengaka
+384 - Gained vassal: c_kora
+384 - Holder 1014893 - Primary title: d_reetail has lost the title: d_reetail
+384 - Title given to 1014893 - Primary title: k_evishp
+384 - vassal: c_kora - Holder 1014893 - Primary title: c_kora has lost the title: c_kora
+384 - vassal: c_kora - Title given to 1014893 - Primary title: k_evishp
+384 - vassal: c_dengaka - Holder 1014893 - Primary title: c_dengaka has lost the title: c_dengaka
+384 - vassal: c_dengaka - Title given to 1014893 - Primary title: k_evishp
+384 - vassal: c_nebuka - Holder 1014893 - Primary title: c_nebuka has lost the title: c_nebuka
+384 - vassal: c_nebuka - Title given to 1014893 - Primary title: k_evishp
+384 - vassal: c_niacdes - Holder 1014893 - Primary title: c_niacdes has lost the title: c_niacdes
+384 - vassal: c_niacdes - Title given to 1014893 - Primary title: k_evishp
+384 - vassal: c_laraya - Holder 1014893 - Primary title: c_laraya has lost the title: c_laraya
+384 - vassal: c_laraya - Title given to 1014893 - Primary title: k_evishp

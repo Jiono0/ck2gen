@@ -1,0 +1,85 @@
+200 - Title given to 1000306
+200 - vassal: c_kaninan - Holder 1000306 - Primary title: c_kaninan has lost the title: c_kaninan
+200 - sub vassal: c_kaninan - Holder 1000306 - Primary title: c_kaninan has lost the title: c_kaninan
+200 - vassal: c_kaninan - Title given to 1000306 - Primary title: d_qanare
+200 - sub vassal: c_kaninan - Title given to 1000306 - Primary title: d_qanare
+200 - Holder (1000306) has gained c_kaninan
+200 - vassal: c_dugumru - Holder 1000306 - Primary title: c_dugumru has lost the title: c_dugumru
+200 - sub vassal: c_dugumru - Holder 1000306 - Primary title: c_dugumru has lost the title: c_dugumru
+200 - vassal: c_dugumru - Title given to 1000306 - Primary title: d_qanare
+200 - sub vassal: c_dugumru - Title given to 1000306 - Primary title: d_qanare
+200 - Holder (1000306) has gained c_dugumru
+200 - Holder 1001544 - Primary title: d_qanare has lost the title: d_qanare
+200 - Title given to 1001544 - Primary title: k_ralinan
+200 - vassal: c_kaninan - Holder 1001544 - Primary title: c_kaninan has lost the title: c_kaninan
+200 - vassal: c_kaninan - Title given to 1001544 - Primary title: k_ralinan
+201 - vassal: c_kaninan - Given to 1002261 in HandleTitles - Too many duke titles
+201 - vassal: c_kaninan - Title given to 1002261
+201 - Title given to 1002261 - Primary title: c_kaninan
+201 - vassal: c_kaninan - Holder (1002261) has gained d_qanare
+201 - Too many dukes, given to dejure: k_ralinan
+223 - Holder (1002261) has gained d_tafumru
+223 - Holder (1002261) has gained c_edelumru
+241 - Gained vassal: c_edelumru
+241 - Holder 1002479 - Primary title: d_qanare has lost the title: d_qanare
+241 - Title given to 1002479 - Primary title: d_tafumru
+241 - vassal: c_edelumru - Holder 1002479 - Primary title: c_edelumru has lost the title: c_edelumru
+241 - vassal: c_edelumru - Title given to 1002479 - Primary title: d_tafumru
+241 - vassal: c_kaninan - Holder 1002479 - Primary title: c_kaninan has lost the title: c_kaninan
+241 - vassal: c_kaninan - Title given to 1002479 - Primary title: d_tafumru
+248 - Gained vassal: c_nugumru
+248 - Holder 1002184 - Primary title: d_qanare has lost the title: d_qanare
+248 - Title given to 1002184 - Primary title: d_qanumru
+248 - vassal: c_edelumru - Holder 1002184 - Primary title: c_edelumru has lost the title: c_edelumru
+248 - vassal: c_edelumru - Title given to 1002184 - Primary title: d_qanumru
+248 - vassal: c_kaninan - Holder 1002184 - Primary title: c_kaninan has lost the title: c_kaninan
+248 - vassal: c_kaninan - Title given to 1002184 - Primary title: d_qanumru
+248 - vassal: c_nugumru - Holder 1002184 - Primary title: c_nugumru has lost the title: c_nugumru
+248 - vassal: c_nugumru - Title given to 1002184 - Primary title: d_qanumru
+249 - vassal: c_kaninan - Given to 1006454 in HandleTitles - Too many duke titles
+249 - vassal: c_kaninan - Title given to 1006454
+249 - Title given to 1004635 - Primary title: k_ralinan
+249 - vassal: c_edelumru - Setting to vassal of d_qanumru in Validate Realm
+249 - Lost vassal: c_edelumru
+249 - vassal: c_nugumru - Setting to vassal of d_qanumru in Validate Realm
+249 - Lost vassal: c_nugumru
+249 - Too many dukes, made direct title into vassal of k_ralinan
+249 - Title given to 1006455
+290 - Holder 1007219 - Primary title: d_qanare has lost the title: d_qanare
+290 - Title given to 1007219
+300 - vassal: c_dugumru - Holder 1007219 - Primary title: c_dugumru has lost the title: c_dugumru
+300 - vassal: c_dugumru - Title given to 1007219 - Primary title: d_qanare
+300 - Holder (1007219) has gained c_dugumru
+306 - Holder 1010493 - Primary title: d_qanare has lost the title: d_qanare
+306 - Title given to 1010493
+306 - vassal: c_dugumru - Holder 1010493 - Primary title: c_dugumru has lost the title: c_dugumru
+306 - vassal: c_dugumru - Title given to 1010493 - Primary title: d_qanare
+306 - Holder (1010493) has gained c_dugumru
+343 - Holder 1013926 - Primary title: d_qanare has lost the title: d_qanare
+343 - Title given to 1013926
+343 - vassal: c_dugumru - Holder 1013926 - Primary title: c_dugumru has lost the title: c_dugumru
+343 - vassal: c_dugumru - Title given to 1013926 - Primary title: d_qanare
+343 - Holder (1013926) has gained c_dugumru
+352 - Holder 1012691 - Primary title: d_qanare has lost the title: d_qanare
+352 - Title given to 1012691 - Primary title: k_ralinan
+352 - vassal: c_dugumru - Holder 1012691 - Primary title: c_dugumru has lost the title: c_dugumru
+352 - vassal: c_dugumru - Title given to 1012691 - Primary title: k_ralinan
+352 - vassal: c_dugumru - Title given to 1014765
+361 - vassal: c_kaninan - Given to 1015388 in HandleTitles - Too many duke titles
+361 - vassal: c_kaninan - Holder 1015388 - Primary title: c_kaninan has lost the title: c_kaninan
+361 - vassal: c_kaninan - Title given to 1015388
+361 - Title given to 1015388 - Primary title: c_kaninan
+361 - vassal: c_kaninan - Holder (1015388) has gained d_qanare
+361 - Too many dukes, given to dejure: k_ralinan
+389 - Holder (1015388) has gained d_tungula
+389 - Holder (1015388) has gained c_areetha
+396 - Title given to 1016323
+396 - vassal: c_kaninan - Setting to vassal of d_tungula in Validate Realm
+396 - Lost vassal: c_kaninan
+396 - Holder (1016323) has gained c_kaninan
+396 - Gained vassal: c_kaninan
+396 - Holder (1016323) has gained d_tungula
+396 - Holder (1016323) has gained c_areetha
+400 - Gained vassal: c_sarinan
+400 - Holder (1016323) has gained c_sopare
+400 - Gained vassal: c_sopare

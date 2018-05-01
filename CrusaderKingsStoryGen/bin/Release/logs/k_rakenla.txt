@@ -1,0 +1,1127 @@
+200 - Title given to 1001586
+200 - vassal: d_tebaufr - Holder 1001586 - Primary title: d_tebaufr has lost the title: d_tebaufr
+200 - sub vassal: d_tebaufr - Holder 1001586 - Primary title: d_tebaufr has lost the title: d_tebaufr
+200 - vassal: d_tebaufr - Title given to 1001586 - Primary title: k_rakenla
+200 - sub vassal: d_tebaufr - Title given to 1001586 - Primary title: k_rakenla
+200 - Holder (1001586) has gained d_tebaufr
+200 - sub vassal: c_tarew - Holder 1001586 - Primary title: c_tarew has lost the title: c_tarew
+200 - sub vassal: c_tarew - Title given to 1001586 - Primary title: k_rakenla
+200 - Holder (1001586) has gained c_tarew
+200 - vassal: d_lafisto - Holder 1001332 - Primary title: d_lafisto has lost the title: d_lafisto
+200 - sub vassal: d_lafisto - Holder 1001332 - Primary title: d_lafisto has lost the title: d_lafisto
+200 - vassal: d_lafisto - Title given to 1001332 - Primary title: d_rarin
+200 - sub vassal: d_lafisto - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: d_rarin - Holder (1001332) has gained d_lafisto
+200 - sub vassal: d_rarin - Holder (1001332) has gained d_lafisto
+200 - sub vassal: c_robohn - Holder 1001332 - Primary title: c_robohn has lost the title: c_robohn
+200 - sub vassal: c_robohn - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: d_rarin - Holder (1001332) has gained c_robohn
+200 - sub vassal: d_rarin - Holder (1001332) has gained c_robohn
+200 - sub vassal: c_esopaapa - Holder 1001332 - Primary title: c_esopaapa has lost the title: c_esopaapa
+200 - sub vassal: c_esopaapa - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: d_rarin - Holder (1001332) has gained c_esopaapa
+200 - sub vassal: d_rarin - Holder (1001332) has gained c_esopaapa
+200 - sub vassal: c_byne - Holder 1001332 - Primary title: c_byne has lost the title: c_byne
+200 - sub vassal: c_byne - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: d_rarin - Holder (1001332) has gained c_byne
+200 - sub vassal: d_rarin - Holder (1001332) has gained c_byne
+200 - sub vassal: c_sebezda - Holder 1001332 - Primary title: c_sebezda has lost the title: c_sebezda
+200 - sub vassal: c_sebezda - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: d_rarin - Holder (1001332) has gained c_sebezda
+200 - sub vassal: d_rarin - Holder (1001332) has gained c_sebezda
+201 - vassal: d_lafisto - Holder 1002247 - Primary title: d_lafisto has lost the title: c_alotoza
+201 - sub vassal: d_lafisto - Holder 1002247 - Primary title: d_lafisto has lost the title: c_alotoza
+201 - sub vassal: c_alotoza - Title given to 1002247
+201 - vassal: d_lafisto - Holder 1002248 - Primary title: d_lafisto has lost the title: c_salaapa
+201 - sub vassal: d_lafisto - Holder 1002248 - Primary title: d_lafisto has lost the title: c_salaapa
+201 - sub vassal: c_salaapa - Title given to 1002248
+201 - vassal: d_lafisto - Holder 1002249 - Primary title: d_lafisto has lost the title: c_nopew
+201 - sub vassal: d_lafisto - Holder 1002249 - Primary title: d_lafisto has lost the title: c_nopew
+201 - sub vassal: c_nopew - Title given to 1002249
+225 - vassal: d_lasarz - Holder 1003891 - Primary title: d_lasarz has lost the title: d_lasarz
+225 - sub vassal: d_lasarz - Holder 1003891 - Primary title: d_lasarz has lost the title: d_lasarz
+225 - vassal: d_lasarz - Title given to 1003891
+225 - sub vassal: d_lasarz - Title given to 1003891
+225 - sub vassal: c_rebaufr - Holder 1003891 - Primary title: c_rebaufr has lost the title: c_rebaufr
+225 - sub vassal: c_rebaufr - Title given to 1003891 - Primary title: d_lasarz
+225 - vassal: d_lasarz - Holder (1003891) has gained c_rebaufr
+225 - sub vassal: d_lasarz - Holder (1003891) has gained c_rebaufr
+225 - sub vassal: c_rasoila - Holder 1003891 - Primary title: c_rasoila has lost the title: c_rasoila
+225 - sub vassal: c_rasoila - Title given to 1003891 - Primary title: d_lasarz
+225 - vassal: d_lasarz - Holder (1003891) has gained c_rasoila
+225 - sub vassal: d_lasarz - Holder (1003891) has gained c_rasoila
+225 - sub vassal: c_qotaufr - Holder 1003891 - Primary title: c_qotaufr has lost the title: c_qotaufr
+225 - sub vassal: c_qotaufr - Title given to 1003891 - Primary title: d_lasarz
+225 - vassal: d_lasarz - Holder (1003891) has gained c_qotaufr
+225 - sub vassal: d_lasarz - Holder (1003891) has gained c_qotaufr
+226 - vassal: d_lafisto - Holder 1002774 - Primary title: d_lafisto has lost the title: d_lafisto
+226 - sub vassal: d_lafisto - Holder 1002774 - Primary title: d_lafisto has lost the title: d_lafisto
+226 - vassal: d_lafisto - Title given to 1002774
+226 - sub vassal: d_lafisto - Title given to 1002774
+226 - sub vassal: c_sebezda - Setting to vassal of d_rarin in Validate Realm
+226 - vassal: d_lafisto - Lost vassal: c_sebezda
+226 - sub vassal: d_lafisto - Lost vassal: c_sebezda
+226 - sub vassal: c_byne - Setting to vassal of d_rarin in Validate Realm
+226 - vassal: d_lafisto - Lost vassal: c_byne
+226 - sub vassal: d_lafisto - Lost vassal: c_byne
+226 - sub vassal: c_esopaapa - Setting to vassal of d_rarin in Validate Realm
+226 - vassal: d_lafisto - Lost vassal: c_esopaapa
+226 - sub vassal: d_lafisto - Lost vassal: c_esopaapa
+226 - sub vassal: c_robohn - Setting to vassal of d_rarin in Validate Realm
+226 - vassal: d_lafisto - Lost vassal: c_robohn
+226 - sub vassal: d_lafisto - Lost vassal: c_robohn
+226 - vassal: d_rarin - Gained vassal: c_robohn
+226 - sub vassal: d_rarin - Gained vassal: c_robohn
+226 - vassal: d_rarin - Gained vassal: c_esopaapa
+226 - sub vassal: d_rarin - Gained vassal: c_esopaapa
+226 - vassal: d_rarin - Gained vassal: c_byne
+226 - sub vassal: d_rarin - Gained vassal: c_byne
+226 - vassal: d_rarin - Gained vassal: c_sebezda
+226 - sub vassal: d_rarin - Gained vassal: c_sebezda
+226 - vassal: d_rarin - Holder 1002774 - Primary title: d_rarin has lost the title: d_rarin
+226 - sub vassal: d_rarin - Holder 1002774 - Primary title: d_rarin has lost the title: d_rarin
+226 - vassal: d_rarin - Title given to 1002774 - Primary title: d_lafisto
+226 - sub vassal: d_rarin - Title given to 1002774 - Primary title: d_lafisto
+226 - vassal: d_lafisto - Holder (1002774) has gained d_rarin
+226 - sub vassal: d_lafisto - Holder (1002774) has gained d_rarin
+226 - sub vassal: c_sebezda - Holder 1002774 - Primary title: c_sebezda has lost the title: c_sebezda
+226 - sub vassal: c_sebezda - Title given to 1002774 - Primary title: d_lafisto
+226 - vassal: d_lafisto - Holder (1002774) has gained c_sebezda
+226 - sub vassal: d_lafisto - Holder (1002774) has gained c_sebezda
+226 - sub vassal: c_byne - Holder 1002774 - Primary title: c_byne has lost the title: c_byne
+226 - sub vassal: c_byne - Title given to 1002774 - Primary title: d_lafisto
+226 - vassal: d_lafisto - Holder (1002774) has gained c_byne
+226 - sub vassal: d_lafisto - Holder (1002774) has gained c_byne
+226 - sub vassal: c_esopaapa - Holder 1002774 - Primary title: c_esopaapa has lost the title: c_esopaapa
+226 - sub vassal: c_esopaapa - Title given to 1002774 - Primary title: d_lafisto
+226 - vassal: d_lafisto - Holder (1002774) has gained c_esopaapa
+226 - sub vassal: d_lafisto - Holder (1002774) has gained c_esopaapa
+226 - sub vassal: c_robohn - Holder 1002774 - Primary title: c_robohn has lost the title: c_robohn
+226 - sub vassal: c_robohn - Title given to 1002774 - Primary title: d_lafisto
+226 - vassal: d_lafisto - Holder (1002774) has gained c_robohn
+226 - sub vassal: d_lafisto - Holder (1002774) has gained c_robohn
+226 - sub vassal: c_basaufr - Holder 1002774 - Primary title: c_basaufr has lost the title: c_basaufr
+226 - sub vassal: c_basaufr - Title given to 1002774 - Primary title: d_lafisto
+226 - vassal: d_lafisto - Holder (1002774) has gained c_basaufr
+226 - sub vassal: d_lafisto - Holder (1002774) has gained c_basaufr
+227 - vassal: d_lafisto - Destroyed due to flagged problem
+227 - sub vassal: d_lafisto - Destroyed due to flagged problem
+227 - vassal: d_lafisto - Made independent
+227 - sub vassal: d_lafisto - Made independent
+231 - vassal: d_rarin - Holder (1002774) has gained d_lafisto
+231 - sub vassal: d_rarin - Holder (1002774) has gained d_lafisto
+231 - Gained vassal: d_lafisto
+231 - vassal: d_lafisto - Made independent for title creation d_lafisto for d_rarin
+231 - sub vassal: d_lafisto - Made independent for title creation d_lafisto for d_rarin
+231 - vassal: d_lafisto - Made independent
+231 - sub vassal: d_lafisto - Made independent
+231 - sub vassal: c_sebezda - Set liege on title creation d_lafisto
+231 - vassal: d_rarin - Lost vassal: c_sebezda
+231 - sub vassal: d_rarin - Lost vassal: c_sebezda
+231 - sub vassal: c_byne - Set liege on title creation d_lafisto
+231 - vassal: d_rarin - Lost vassal: c_byne
+231 - sub vassal: d_rarin - Lost vassal: c_byne
+231 - sub vassal: c_esopaapa - Set liege on title creation d_lafisto
+231 - vassal: d_rarin - Lost vassal: c_esopaapa
+231 - sub vassal: d_rarin - Lost vassal: c_esopaapa
+231 - sub vassal: c_robohn - Set liege on title creation d_lafisto
+231 - vassal: d_rarin - Lost vassal: c_robohn
+231 - sub vassal: d_rarin - Lost vassal: c_robohn
+231 - sub vassal: c_basaufr - Set liege on title creation d_lafisto
+231 - vassal: d_rarin - Lost vassal: c_basaufr
+231 - sub vassal: d_rarin - Lost vassal: c_basaufr
+235 - vassal: d_safisto - Holder 1002774 - Primary title: d_safisto has lost the title: d_safisto
+235 - sub vassal: d_safisto - Holder 1002774 - Primary title: d_safisto has lost the title: d_safisto
+235 - vassal: d_safisto - Title given to 1002774 - Primary title: d_rarin
+235 - sub vassal: d_safisto - Title given to 1002774 - Primary title: d_rarin
+235 - vassal: d_rarin - Holder (1002774) has gained d_safisto
+235 - sub vassal: d_rarin - Holder (1002774) has gained d_safisto
+235 - sub vassal: c_kodenla - Holder 1002774 - Primary title: c_kodenla has lost the title: c_kodenla
+235 - sub vassal: c_kodenla - Title given to 1002774 - Primary title: d_rarin
+235 - vassal: d_rarin - Holder (1002774) has gained c_kodenla
+235 - sub vassal: d_rarin - Holder (1002774) has gained c_kodenla
+235 - sub vassal: c_sebenla - Holder 1002774 - Primary title: c_sebenla has lost the title: c_sebenla
+235 - sub vassal: c_sebenla - Title given to 1002774 - Primary title: d_rarin
+235 - vassal: d_rarin - Holder (1002774) has gained c_sebenla
+235 - sub vassal: d_rarin - Holder (1002774) has gained c_sebenla
+235 - sub vassal: c_dayasew - Holder 1002774 - Primary title: c_dayasew has lost the title: c_dayasew
+235 - sub vassal: c_dayasew - Title given to 1002774 - Primary title: d_rarin
+235 - vassal: d_rarin - Holder (1002774) has gained c_dayasew
+235 - sub vassal: d_rarin - Holder (1002774) has gained c_dayasew
+235 - sub vassal: c_timelsan - Holder 1002774 - Primary title: c_timelsan has lost the title: c_timelsan
+235 - sub vassal: c_timelsan - Title given to 1002774 - Primary title: d_rarin
+235 - vassal: d_rarin - Holder (1002774) has gained c_timelsan
+235 - sub vassal: d_rarin - Holder (1002774) has gained c_timelsan
+235 - Holder 1003218 - Primary title: k_rakenla has lost the title: k_rakenla
+235 - Title given to 1003218
+235 - vassal: d_tebaufr - Holder 1003218 - Primary title: d_tebaufr has lost the title: d_tebaufr
+235 - sub vassal: d_tebaufr - Holder 1003218 - Primary title: d_tebaufr has lost the title: d_tebaufr
+235 - vassal: d_tebaufr - Title given to 1003218 - Primary title: k_rakenla
+235 - sub vassal: d_tebaufr - Title given to 1003218 - Primary title: k_rakenla
+235 - Holder (1003218) has gained d_tebaufr
+235 - sub vassal: c_tarew - Holder 1003218 - Primary title: c_tarew has lost the title: c_tarew
+235 - sub vassal: c_tarew - Title given to 1003218 - Primary title: k_rakenla
+235 - Holder (1003218) has gained c_tarew
+236 - sub vassal: c_byne - Given to 1005380 in HandleTitles - Too many duke titles
+236 - vassal: d_safisto - Holder 1005380 - Primary title: d_safisto has lost the title: c_byne
+236 - sub vassal: d_safisto - Holder 1005380 - Primary title: d_safisto has lost the title: c_byne
+236 - sub vassal: c_byne - Title given to 1005380
+236 - vassal: d_safisto - Holder 1003218 - Primary title: d_safisto has lost the title: d_lafisto
+236 - sub vassal: d_safisto - Holder 1003218 - Primary title: d_safisto has lost the title: d_lafisto
+236 - Holder (1003218) has gained d_lafisto
+236 - sub vassal: c_sebezda - Setting to vassal of d_safisto in Validate Realm
+236 - sub vassal: c_esopaapa - Setting to vassal of d_safisto in Validate Realm
+236 - sub vassal: c_robohn - Setting to vassal of d_safisto in Validate Realm
+236 - sub vassal: c_basaufr - Setting to vassal of d_safisto in Validate Realm
+236 - vassal: d_safisto - Gained vassal: c_basaufr
+236 - sub vassal: d_safisto - Gained vassal: c_basaufr
+236 - vassal: d_safisto - Gained vassal: c_robohn
+236 - sub vassal: d_safisto - Gained vassal: c_robohn
+236 - vassal: d_safisto - Gained vassal: c_esopaapa
+236 - sub vassal: d_safisto - Gained vassal: c_esopaapa
+236 - vassal: d_safisto - Gained vassal: c_sebezda
+236 - sub vassal: d_safisto - Gained vassal: c_sebezda
+236 - Gained vassal: d_lafisto
+236 - Holder 1005381 - Primary title: k_rakenla has lost the title: d_lafisto
+236 - vassal: d_lafisto - Title given to 1005381
+236 - sub vassal: d_lafisto - Title given to 1005381
+236 - vassal: d_safisto - Holder 1005382 - Primary title: d_safisto has lost the title: c_timelsan
+236 - sub vassal: d_safisto - Holder 1005382 - Primary title: d_safisto has lost the title: c_timelsan
+236 - sub vassal: c_timelsan - Title given to 1005382
+236 - vassal: d_safisto - Holder 1005383 - Primary title: d_safisto has lost the title: c_sebezda
+236 - sub vassal: d_safisto - Holder 1005383 - Primary title: d_safisto has lost the title: c_sebezda
+236 - sub vassal: c_sebezda - Title given to 1005383
+236 - vassal: d_safisto - Holder 1005384 - Primary title: d_safisto has lost the title: c_dayasew
+236 - sub vassal: d_safisto - Holder 1005384 - Primary title: d_safisto has lost the title: c_dayasew
+236 - sub vassal: c_dayasew - Title given to 1005384
+239 - vassal: d_webaufr - Holder 1002895 - Primary title: d_webaufr has lost the title: d_webaufr
+239 - sub vassal: d_webaufr - Holder 1002895 - Primary title: d_webaufr has lost the title: d_webaufr
+239 - vassal: d_webaufr - Title given to 1002895
+239 - sub vassal: d_webaufr - Title given to 1002895
+239 - sub vassal: c_akalarin - Holder 1002895 - Primary title: c_akalarin has lost the title: c_akalarin
+239 - sub vassal: c_akalarin - Title given to 1002895 - Primary title: d_webaufr
+239 - vassal: d_webaufr - Holder (1002895) has gained c_akalarin
+239 - sub vassal: d_webaufr - Holder (1002895) has gained c_akalarin
+239 - sub vassal: c_kimoila - Holder 1002895 - Primary title: c_kimoila has lost the title: c_kimoila
+239 - sub vassal: c_kimoila - Title given to 1002895 - Primary title: d_webaufr
+239 - vassal: d_webaufr - Holder (1002895) has gained c_kimoila
+239 - sub vassal: d_webaufr - Holder (1002895) has gained c_kimoila
+242 - vassal: d_lasarz - Holder 1005192 - Primary title: d_lasarz has lost the title: d_lasarz
+242 - sub vassal: d_lasarz - Holder 1005192 - Primary title: d_lasarz has lost the title: d_lasarz
+242 - vassal: d_lasarz - Title given to 1005192
+242 - sub vassal: d_lasarz - Title given to 1005192
+242 - sub vassal: c_qotaufr - Holder 1005192 - Primary title: c_qotaufr has lost the title: c_qotaufr
+242 - sub vassal: c_qotaufr - Title given to 1005192 - Primary title: d_lasarz
+242 - vassal: d_lasarz - Holder (1005192) has gained c_qotaufr
+242 - sub vassal: d_lasarz - Holder (1005192) has gained c_qotaufr
+242 - sub vassal: c_rasoila - Holder 1005192 - Primary title: c_rasoila has lost the title: c_rasoila
+242 - sub vassal: c_rasoila - Title given to 1005192 - Primary title: d_lasarz
+242 - vassal: d_lasarz - Holder (1005192) has gained c_rasoila
+242 - sub vassal: d_lasarz - Holder (1005192) has gained c_rasoila
+242 - sub vassal: c_rebaufr - Holder 1005192 - Primary title: c_rebaufr has lost the title: c_rebaufr
+242 - sub vassal: c_rebaufr - Title given to 1005192 - Primary title: d_lasarz
+242 - vassal: d_lasarz - Holder (1005192) has gained c_rebaufr
+242 - sub vassal: d_lasarz - Holder (1005192) has gained c_rebaufr
+245 - Holder 1005401 - Primary title: k_rakenla has lost the title: k_rakenla
+245 - Title given to 1005401
+245 - vassal: d_tebaufr - Holder 1005401 - Primary title: d_tebaufr has lost the title: d_tebaufr
+245 - sub vassal: d_tebaufr - Holder 1005401 - Primary title: d_tebaufr has lost the title: d_tebaufr
+245 - vassal: d_tebaufr - Title given to 1005401 - Primary title: k_rakenla
+245 - sub vassal: d_tebaufr - Title given to 1005401 - Primary title: k_rakenla
+245 - Holder (1005401) has gained d_tebaufr
+245 - sub vassal: c_tarew - Holder 1005401 - Primary title: c_tarew has lost the title: c_tarew
+245 - sub vassal: c_tarew - Title given to 1005401 - Primary title: k_rakenla
+245 - Holder (1005401) has gained c_tarew
+251 - vassal: d_lafisto - Holder 1005647 - Primary title: d_lafisto has lost the title: d_lafisto
+251 - sub vassal: d_lafisto - Holder 1005647 - Primary title: d_lafisto has lost the title: d_lafisto
+251 - vassal: d_lafisto - Title given to 1005647
+251 - sub vassal: d_lafisto - Title given to 1005647
+259 - vassal: d_safisto - Holder 1006395 - Primary title: d_safisto has lost the title: d_safisto
+259 - sub vassal: d_safisto - Holder 1006395 - Primary title: d_safisto has lost the title: d_safisto
+259 - vassal: d_safisto - Title given to 1006395
+259 - sub vassal: d_safisto - Title given to 1006395
+259 - sub vassal: c_sebenla - Setting to vassal of d_rarin in Validate Realm
+259 - vassal: d_safisto - Lost vassal: c_sebenla
+259 - sub vassal: d_safisto - Lost vassal: c_sebenla
+259 - sub vassal: c_kodenla - Setting to vassal of d_rarin in Validate Realm
+259 - vassal: d_safisto - Lost vassal: c_kodenla
+259 - sub vassal: d_safisto - Lost vassal: c_kodenla
+259 - sub vassal: c_basaufr - Setting to vassal of d_rarin in Validate Realm
+259 - vassal: d_safisto - Lost vassal: c_basaufr
+259 - sub vassal: d_safisto - Lost vassal: c_basaufr
+259 - sub vassal: c_robohn - Setting to vassal of d_rarin in Validate Realm
+259 - vassal: d_safisto - Lost vassal: c_robohn
+259 - sub vassal: d_safisto - Lost vassal: c_robohn
+259 - sub vassal: c_esopaapa - Setting to vassal of d_rarin in Validate Realm
+259 - vassal: d_safisto - Lost vassal: c_esopaapa
+259 - sub vassal: d_safisto - Lost vassal: c_esopaapa
+259 - vassal: d_rarin - Gained vassal: c_esopaapa
+259 - sub vassal: d_rarin - Gained vassal: c_esopaapa
+259 - vassal: d_rarin - Gained vassal: c_robohn
+259 - sub vassal: d_rarin - Gained vassal: c_robohn
+259 - vassal: d_rarin - Gained vassal: c_basaufr
+259 - sub vassal: d_rarin - Gained vassal: c_basaufr
+259 - vassal: d_rarin - Gained vassal: c_kodenla
+259 - sub vassal: d_rarin - Gained vassal: c_kodenla
+259 - vassal: d_rarin - Gained vassal: c_sebenla
+259 - sub vassal: d_rarin - Gained vassal: c_sebenla
+259 - vassal: d_rarin - Holder 1006395 - Primary title: d_rarin has lost the title: d_rarin
+259 - sub vassal: d_rarin - Holder 1006395 - Primary title: d_rarin has lost the title: d_rarin
+259 - vassal: d_rarin - Title given to 1006395 - Primary title: d_safisto
+259 - sub vassal: d_rarin - Title given to 1006395 - Primary title: d_safisto
+259 - vassal: d_safisto - Holder (1006395) has gained d_rarin
+259 - sub vassal: d_safisto - Holder (1006395) has gained d_rarin
+259 - sub vassal: c_sebenla - Holder 1006395 - Primary title: c_sebenla has lost the title: c_sebenla
+259 - sub vassal: c_sebenla - Title given to 1006395 - Primary title: d_safisto
+259 - vassal: d_safisto - Holder (1006395) has gained c_sebenla
+259 - sub vassal: d_safisto - Holder (1006395) has gained c_sebenla
+259 - sub vassal: c_kodenla - Holder 1006395 - Primary title: c_kodenla has lost the title: c_kodenla
+259 - sub vassal: c_kodenla - Title given to 1006395 - Primary title: d_safisto
+259 - vassal: d_safisto - Holder (1006395) has gained c_kodenla
+259 - sub vassal: d_safisto - Holder (1006395) has gained c_kodenla
+259 - sub vassal: c_basaufr - Holder 1006395 - Primary title: c_basaufr has lost the title: c_basaufr
+259 - sub vassal: c_basaufr - Title given to 1006395 - Primary title: d_safisto
+259 - vassal: d_safisto - Holder (1006395) has gained c_basaufr
+259 - sub vassal: d_safisto - Holder (1006395) has gained c_basaufr
+259 - sub vassal: c_robohn - Holder 1006395 - Primary title: c_robohn has lost the title: c_robohn
+259 - sub vassal: c_robohn - Title given to 1006395 - Primary title: d_safisto
+259 - vassal: d_safisto - Holder (1006395) has gained c_robohn
+259 - sub vassal: d_safisto - Holder (1006395) has gained c_robohn
+259 - sub vassal: c_esopaapa - Holder 1006395 - Primary title: c_esopaapa has lost the title: c_esopaapa
+259 - sub vassal: c_esopaapa - Title given to 1006395 - Primary title: d_safisto
+259 - vassal: d_safisto - Holder (1006395) has gained c_esopaapa
+259 - sub vassal: d_safisto - Holder (1006395) has gained c_esopaapa
+260 - sub vassal: c_sebezda - Holder 1006395 - Primary title: c_sebezda has lost the title: c_sebezda
+260 - sub vassal: c_sebezda - Title given to 1006395 - Primary title: d_safisto
+260 - vassal: d_safisto - Holder (1006395) has gained c_sebezda
+260 - sub vassal: d_safisto - Holder (1006395) has gained c_sebezda
+260 - vassal: d_rarin - Holder 1007426 - Primary title: d_rarin has lost the title: c_sebezda
+260 - sub vassal: d_rarin - Holder 1007426 - Primary title: d_rarin has lost the title: c_sebezda
+260 - sub vassal: c_sebezda - Title given to 1007426
+266 - vassal: d_rarin - Holder 1005401 - Primary title: d_rarin has lost the title: d_rarin
+266 - sub vassal: d_rarin - Holder 1005401 - Primary title: d_rarin has lost the title: d_rarin
+266 - vassal: d_rarin - Title given to 1005401 - Primary title: k_rakenla
+266 - sub vassal: d_rarin - Title given to 1005401 - Primary title: k_rakenla
+266 - Holder (1005401) has gained d_rarin
+266 - sub vassal: c_esopaapa - Setting to vassal of d_safisto in Validate Realm
+266 - vassal: d_rarin - Lost vassal: c_esopaapa
+266 - sub vassal: d_rarin - Lost vassal: c_esopaapa
+266 - sub vassal: c_robohn - Setting to vassal of d_safisto in Validate Realm
+266 - vassal: d_rarin - Lost vassal: c_robohn
+266 - sub vassal: d_rarin - Lost vassal: c_robohn
+266 - sub vassal: c_basaufr - Setting to vassal of d_safisto in Validate Realm
+266 - vassal: d_rarin - Lost vassal: c_basaufr
+266 - sub vassal: d_rarin - Lost vassal: c_basaufr
+266 - sub vassal: c_kodenla - Setting to vassal of d_safisto in Validate Realm
+266 - vassal: d_rarin - Lost vassal: c_kodenla
+266 - sub vassal: d_rarin - Lost vassal: c_kodenla
+266 - sub vassal: c_sebenla - Setting to vassal of d_safisto in Validate Realm
+266 - vassal: d_rarin - Lost vassal: c_sebenla
+266 - sub vassal: d_rarin - Lost vassal: c_sebenla
+266 - vassal: d_safisto - Gained vassal: c_sebenla
+266 - sub vassal: d_safisto - Gained vassal: c_sebenla
+266 - vassal: d_safisto - Gained vassal: c_kodenla
+266 - sub vassal: d_safisto - Gained vassal: c_kodenla
+266 - vassal: d_safisto - Gained vassal: c_basaufr
+266 - sub vassal: d_safisto - Gained vassal: c_basaufr
+266 - vassal: d_safisto - Gained vassal: c_robohn
+266 - sub vassal: d_safisto - Gained vassal: c_robohn
+266 - vassal: d_safisto - Gained vassal: c_esopaapa
+266 - sub vassal: d_safisto - Gained vassal: c_esopaapa
+266 - vassal: d_safisto - Holder 1005401 - Primary title: d_safisto has lost the title: d_safisto
+266 - sub vassal: d_safisto - Holder 1005401 - Primary title: d_safisto has lost the title: d_safisto
+266 - vassal: d_safisto - Title given to 1005401 - Primary title: k_rakenla
+266 - sub vassal: d_safisto - Title given to 1005401 - Primary title: k_rakenla
+266 - Holder (1005401) has gained d_safisto
+266 - sub vassal: c_esopaapa - Holder 1005401 - Primary title: c_esopaapa has lost the title: c_esopaapa
+266 - sub vassal: c_esopaapa - Title given to 1005401 - Primary title: k_rakenla
+266 - Holder (1005401) has gained c_esopaapa
+266 - sub vassal: c_robohn - Holder 1005401 - Primary title: c_robohn has lost the title: c_robohn
+266 - sub vassal: c_robohn - Title given to 1005401 - Primary title: k_rakenla
+266 - Holder (1005401) has gained c_robohn
+266 - sub vassal: c_basaufr - Holder 1005401 - Primary title: c_basaufr has lost the title: c_basaufr
+266 - sub vassal: c_basaufr - Title given to 1005401 - Primary title: k_rakenla
+266 - Holder (1005401) has gained c_basaufr
+266 - sub vassal: c_kodenla - Holder 1005401 - Primary title: c_kodenla has lost the title: c_kodenla
+266 - sub vassal: c_kodenla - Title given to 1005401 - Primary title: k_rakenla
+266 - Holder (1005401) has gained c_kodenla
+266 - sub vassal: c_sebenla - Holder 1005401 - Primary title: c_sebenla has lost the title: c_sebenla
+266 - sub vassal: c_sebenla - Title given to 1005401 - Primary title: k_rakenla
+266 - Holder (1005401) has gained c_sebenla
+266 - sub vassal: c_sebezda - Given to 1007972 in HandleTitles - Too many duke titles
+266 - sub vassal: c_sebezda - Holder 1007972 - Primary title: c_sebezda has lost the title: c_sebezda
+266 - sub vassal: c_sebezda - Title given to 1007972
+266 - Holder 1007972 - Primary title: k_rakenla has lost the title: d_safisto
+266 - vassal: d_safisto - Title given to 1007972 - Primary title: c_sebezda
+266 - sub vassal: d_safisto - Title given to 1007972 - Primary title: c_sebezda
+266 - sub vassal: c_sebezda - Holder (1007972) has gained d_safisto
+266 - sub vassal: c_esopaapa - Setting to vassal of k_rakenla in Validate Realm
+266 - vassal: d_safisto - Lost vassal: c_esopaapa
+266 - sub vassal: d_safisto - Lost vassal: c_esopaapa
+266 - sub vassal: c_robohn - Setting to vassal of k_rakenla in Validate Realm
+266 - vassal: d_safisto - Lost vassal: c_robohn
+266 - sub vassal: d_safisto - Lost vassal: c_robohn
+266 - sub vassal: c_basaufr - Setting to vassal of k_rakenla in Validate Realm
+266 - vassal: d_safisto - Lost vassal: c_basaufr
+266 - sub vassal: d_safisto - Lost vassal: c_basaufr
+266 - sub vassal: c_kodenla - Setting to vassal of k_rakenla in Validate Realm
+266 - vassal: d_safisto - Lost vassal: c_kodenla
+266 - sub vassal: d_safisto - Lost vassal: c_kodenla
+266 - sub vassal: c_sebenla - Setting to vassal of k_rakenla in Validate Realm
+266 - vassal: d_safisto - Lost vassal: c_sebenla
+266 - sub vassal: d_safisto - Lost vassal: c_sebenla
+266 - Gained vassal: c_sebenla
+266 - Gained vassal: c_kodenla
+266 - Gained vassal: c_basaufr
+266 - Gained vassal: c_robohn
+266 - Gained vassal: c_esopaapa
+266 - vassal: d_safisto - Too many dukes, given to dejure: k_rakenla
+266 - sub vassal: d_safisto - Too many dukes, given to dejure: k_rakenla
+266 - Holder 1007974 - Primary title: k_rakenla has lost the title: c_kodenla
+266 - vassal: c_kodenla - Title given to 1007974
+266 - sub vassal: c_kodenla - Title given to 1007974
+273 - Holder 1005647 - Primary title: k_rakenla has lost the title: k_rakenla
+273 - Title given to 1005647 - Primary title: d_lafisto
+273 - vassal: d_lafisto - Holder (1005647) has gained k_rakenla
+273 - sub vassal: d_lafisto - Holder (1005647) has gained k_rakenla
+273 - vassal: c_esopaapa - Setting to vassal of d_tebaufr in Validate Realm
+273 - sub vassal: c_esopaapa - Setting to vassal of d_tebaufr in Validate Realm
+273 - Lost vassal: c_esopaapa
+273 - vassal: c_robohn - Setting to vassal of d_tebaufr in Validate Realm
+273 - sub vassal: c_robohn - Setting to vassal of d_tebaufr in Validate Realm
+273 - Lost vassal: c_robohn
+273 - vassal: c_basaufr - Setting to vassal of d_tebaufr in Validate Realm
+273 - sub vassal: c_basaufr - Setting to vassal of d_tebaufr in Validate Realm
+273 - Lost vassal: c_basaufr
+273 - vassal: c_sebenla - Setting to vassal of d_tebaufr in Validate Realm
+273 - sub vassal: c_sebenla - Setting to vassal of d_tebaufr in Validate Realm
+273 - Lost vassal: c_sebenla
+273 - vassal: d_tebaufr - Gained vassal: c_sebenla
+273 - sub vassal: d_tebaufr - Gained vassal: c_sebenla
+273 - vassal: d_tebaufr - Gained vassal: c_basaufr
+273 - sub vassal: d_tebaufr - Gained vassal: c_basaufr
+273 - vassal: d_tebaufr - Gained vassal: c_robohn
+273 - sub vassal: d_tebaufr - Gained vassal: c_robohn
+273 - vassal: d_tebaufr - Gained vassal: c_esopaapa
+273 - sub vassal: d_tebaufr - Gained vassal: c_esopaapa
+273 - vassal: d_tebaufr - Holder 1005647 - Primary title: d_tebaufr has lost the title: d_tebaufr
+273 - sub vassal: d_tebaufr - Holder 1005647 - Primary title: d_tebaufr has lost the title: d_tebaufr
+273 - vassal: d_tebaufr - Title given to 1005647 - Primary title: k_rakenla
+273 - sub vassal: d_tebaufr - Title given to 1005647 - Primary title: k_rakenla
+273 - Holder (1005647) has gained d_tebaufr
+273 - sub vassal: c_tarew - Setting to vassal of d_rarin in Validate Realm
+273 - vassal: d_tebaufr - Lost vassal: c_tarew
+273 - sub vassal: d_tebaufr - Lost vassal: c_tarew
+273 - sub vassal: c_esopaapa - Setting to vassal of d_rarin in Validate Realm
+273 - vassal: d_tebaufr - Lost vassal: c_esopaapa
+273 - sub vassal: d_tebaufr - Lost vassal: c_esopaapa
+273 - sub vassal: c_robohn - Setting to vassal of d_rarin in Validate Realm
+273 - vassal: d_tebaufr - Lost vassal: c_robohn
+273 - sub vassal: d_tebaufr - Lost vassal: c_robohn
+273 - sub vassal: c_basaufr - Setting to vassal of d_rarin in Validate Realm
+273 - vassal: d_tebaufr - Lost vassal: c_basaufr
+273 - sub vassal: d_tebaufr - Lost vassal: c_basaufr
+273 - sub vassal: c_sebenla - Setting to vassal of d_rarin in Validate Realm
+273 - vassal: d_tebaufr - Lost vassal: c_sebenla
+273 - sub vassal: d_tebaufr - Lost vassal: c_sebenla
+273 - vassal: d_rarin - Gained vassal: c_sebenla
+273 - sub vassal: d_rarin - Gained vassal: c_sebenla
+273 - vassal: d_rarin - Gained vassal: c_basaufr
+273 - sub vassal: d_rarin - Gained vassal: c_basaufr
+273 - vassal: d_rarin - Gained vassal: c_robohn
+273 - sub vassal: d_rarin - Gained vassal: c_robohn
+273 - vassal: d_rarin - Gained vassal: c_esopaapa
+273 - sub vassal: d_rarin - Gained vassal: c_esopaapa
+273 - vassal: d_rarin - Gained vassal: c_tarew
+273 - sub vassal: d_rarin - Gained vassal: c_tarew
+273 - vassal: d_rarin - Holder 1005647 - Primary title: d_rarin has lost the title: c_tarew
+273 - sub vassal: d_rarin - Holder 1005647 - Primary title: d_rarin has lost the title: c_tarew
+273 - sub vassal: c_tarew - Title given to 1005647 - Primary title: k_rakenla
+273 - Holder (1005647) has gained c_tarew
+273 - sub vassal: c_tarew - Setting to vassal of k_rakenla in Validate Realm
+273 - vassal: d_rarin - Lost vassal: c_tarew
+273 - sub vassal: d_rarin - Lost vassal: c_tarew
+273 - Gained vassal: c_tarew
+273 - vassal: d_rarin - Holder 1005647 - Primary title: d_rarin has lost the title: d_rarin
+273 - sub vassal: d_rarin - Holder 1005647 - Primary title: d_rarin has lost the title: d_rarin
+273 - vassal: d_rarin - Title given to 1005647 - Primary title: k_rakenla
+273 - sub vassal: d_rarin - Title given to 1005647 - Primary title: k_rakenla
+273 - Holder (1005647) has gained d_rarin
+273 - sub vassal: c_esopaapa - Holder 1005647 - Primary title: c_esopaapa has lost the title: c_esopaapa
+273 - sub vassal: c_esopaapa - Title given to 1005647 - Primary title: k_rakenla
+273 - Holder (1005647) has gained c_esopaapa
+273 - sub vassal: c_robohn - Holder 1005647 - Primary title: c_robohn has lost the title: c_robohn
+273 - sub vassal: c_robohn - Title given to 1005647 - Primary title: k_rakenla
+273 - Holder (1005647) has gained c_robohn
+273 - sub vassal: c_basaufr - Holder 1005647 - Primary title: c_basaufr has lost the title: c_basaufr
+273 - sub vassal: c_basaufr - Title given to 1005647 - Primary title: k_rakenla
+273 - Holder (1005647) has gained c_basaufr
+273 - sub vassal: c_sebenla - Holder 1005647 - Primary title: c_sebenla has lost the title: c_sebenla
+273 - sub vassal: c_sebenla - Title given to 1005647 - Primary title: k_rakenla
+273 - Holder (1005647) has gained c_sebenla
+274 - vassal: d_webaufr - Holder 1006313 - Primary title: d_webaufr has lost the title: d_webaufr
+274 - sub vassal: d_webaufr - Holder 1006313 - Primary title: d_webaufr has lost the title: d_webaufr
+274 - vassal: d_webaufr - Title given to 1006313
+274 - sub vassal: d_webaufr - Title given to 1006313
+274 - sub vassal: c_akalarin - Holder 1006313 - Primary title: c_akalarin has lost the title: c_akalarin
+274 - sub vassal: c_akalarin - Title given to 1006313 - Primary title: d_webaufr
+274 - vassal: d_webaufr - Holder (1006313) has gained c_akalarin
+274 - sub vassal: d_webaufr - Holder (1006313) has gained c_akalarin
+274 - sub vassal: c_kimoila - Holder 1006313 - Primary title: c_kimoila has lost the title: c_kimoila
+274 - sub vassal: c_kimoila - Title given to 1006313 - Primary title: d_webaufr
+274 - vassal: d_webaufr - Holder (1006313) has gained c_kimoila
+274 - sub vassal: d_webaufr - Holder (1006313) has gained c_kimoila
+274 - sub vassal: c_nebetta - Holder 1005647 - Primary title: c_nebetta has lost the title: c_nebetta
+274 - sub vassal: c_nebetta - Title given to 1005647 - Primary title: k_rakenla
+274 - Holder (1005647) has gained c_nebetta
+274 - sub vassal: c_nebetta - Given to 1008626 in HandleTitles - Too many duke titles
+274 - Holder 1008626 - Primary title: k_rakenla has lost the title: c_nebetta
+274 - sub vassal: c_nebetta - Title given to 1008626
+274 - Holder 1008626 - Primary title: k_rakenla has lost the title: d_tebaufr
+274 - vassal: d_tebaufr - Title given to 1008626 - Primary title: c_nebetta
+274 - sub vassal: d_tebaufr - Title given to 1008626 - Primary title: c_nebetta
+274 - sub vassal: c_nebetta - Holder (1008626) has gained d_tebaufr
+274 - vassal: d_tebaufr - Too many dukes, given to dejure: k_rakenla
+274 - sub vassal: d_tebaufr - Too many dukes, given to dejure: k_rakenla
+280 - vassal: d_safisto - Holder 1008455 - Primary title: d_safisto has lost the title: d_safisto
+280 - sub vassal: d_safisto - Holder 1008455 - Primary title: d_safisto has lost the title: d_safisto
+280 - vassal: d_safisto - Title given to 1008455
+280 - sub vassal: d_safisto - Title given to 1008455
+280 - sub vassal: c_sebezda - Holder 1008455 - Primary title: c_sebezda has lost the title: c_sebezda
+280 - sub vassal: c_sebezda - Title given to 1008455 - Primary title: d_safisto
+280 - vassal: d_safisto - Holder (1008455) has gained c_sebezda
+280 - sub vassal: d_safisto - Holder (1008455) has gained c_sebezda
+282 - vassal: d_webaufr - Holder 1007974 - Primary title: d_webaufr has lost the title: d_webaufr
+282 - sub vassal: d_webaufr - Holder 1007974 - Primary title: d_webaufr has lost the title: d_webaufr
+282 - vassal: d_webaufr - Title given to 1007974 - Primary title: c_kodenla
+282 - sub vassal: d_webaufr - Title given to 1007974 - Primary title: c_kodenla
+282 - vassal: c_kodenla - Holder (1007974) has gained d_webaufr
+282 - sub vassal: c_kodenla - Holder (1007974) has gained d_webaufr
+282 - vassal: c_kodenla - Setting to vassal of d_webaufr in Validate Realm
+282 - sub vassal: c_kodenla - Setting to vassal of d_webaufr in Validate Realm
+282 - Lost vassal: c_kodenla
+282 - vassal: d_webaufr - Gained vassal: c_kodenla
+282 - sub vassal: d_webaufr - Gained vassal: c_kodenla
+282 - sub vassal: c_kimoila - Holder 1007974 - Primary title: c_kimoila has lost the title: c_kimoila
+282 - sub vassal: c_kimoila - Title given to 1007974 - Primary title: d_webaufr
+282 - vassal: d_webaufr - Holder (1007974) has gained c_kimoila
+282 - sub vassal: d_webaufr - Holder (1007974) has gained c_kimoila
+282 - sub vassal: c_akalarin - Holder 1007974 - Primary title: c_akalarin has lost the title: c_akalarin
+282 - sub vassal: c_akalarin - Title given to 1007974 - Primary title: d_webaufr
+282 - vassal: d_webaufr - Holder (1007974) has gained c_akalarin
+282 - sub vassal: d_webaufr - Holder (1007974) has gained c_akalarin
+290 - vassal: d_webaufr - Holder 1009903 - Primary title: d_webaufr has lost the title: d_webaufr
+290 - sub vassal: d_webaufr - Holder 1009903 - Primary title: d_webaufr has lost the title: d_webaufr
+290 - vassal: d_webaufr - Title given to 1009903
+290 - sub vassal: d_webaufr - Title given to 1009903
+290 - sub vassal: c_kodenla - Holder 1009903 - Primary title: c_kodenla has lost the title: c_kodenla
+290 - sub vassal: c_kodenla - Title given to 1009903 - Primary title: d_webaufr
+290 - vassal: d_webaufr - Holder (1009903) has gained c_kodenla
+290 - sub vassal: d_webaufr - Holder (1009903) has gained c_kodenla
+290 - sub vassal: c_kimoila - Holder 1009903 - Primary title: c_kimoila has lost the title: c_kimoila
+290 - sub vassal: c_kimoila - Title given to 1009903 - Primary title: d_webaufr
+290 - vassal: d_webaufr - Holder (1009903) has gained c_kimoila
+290 - sub vassal: d_webaufr - Holder (1009903) has gained c_kimoila
+290 - sub vassal: c_akalarin - Holder 1009903 - Primary title: c_akalarin has lost the title: c_akalarin
+290 - sub vassal: c_akalarin - Title given to 1009903 - Primary title: d_webaufr
+290 - vassal: d_webaufr - Holder (1009903) has gained c_akalarin
+290 - sub vassal: d_webaufr - Holder (1009903) has gained c_akalarin
+292 - vassal: d_tebaufr - Holder 1008874 - Primary title: d_tebaufr has lost the title: d_tebaufr
+292 - sub vassal: d_tebaufr - Holder 1008874 - Primary title: d_tebaufr has lost the title: d_tebaufr
+292 - vassal: d_tebaufr - Title given to 1008874
+292 - sub vassal: d_tebaufr - Title given to 1008874
+292 - sub vassal: c_nebetta - Holder 1008874 - Primary title: c_nebetta has lost the title: c_nebetta
+292 - sub vassal: c_nebetta - Title given to 1008874 - Primary title: d_tebaufr
+292 - vassal: d_tebaufr - Holder (1008874) has gained c_nebetta
+292 - sub vassal: d_tebaufr - Holder (1008874) has gained c_nebetta
+292 - vassal: d_safisto - Holder 1009905 - Primary title: d_safisto has lost the title: d_safisto
+292 - sub vassal: d_safisto - Holder 1009905 - Primary title: d_safisto has lost the title: d_safisto
+292 - vassal: d_safisto - Title given to 1009905
+292 - sub vassal: d_safisto - Title given to 1009905
+292 - sub vassal: c_sebezda - Holder 1009905 - Primary title: c_sebezda has lost the title: c_sebezda
+292 - sub vassal: c_sebezda - Title given to 1009905 - Primary title: d_safisto
+292 - vassal: d_safisto - Holder (1009905) has gained c_sebezda
+292 - sub vassal: d_safisto - Holder (1009905) has gained c_sebezda
+293 - vassal: d_lasarz - Holder 1006562 - Primary title: d_lasarz has lost the title: d_lasarz
+293 - sub vassal: d_lasarz - Holder 1006562 - Primary title: d_lasarz has lost the title: d_lasarz
+293 - vassal: d_lasarz - Title given to 1006562
+293 - sub vassal: d_lasarz - Title given to 1006562
+293 - sub vassal: c_qotaufr - Holder 1006562 - Primary title: c_qotaufr has lost the title: c_qotaufr
+293 - sub vassal: c_qotaufr - Title given to 1006562 - Primary title: d_lasarz
+293 - vassal: d_lasarz - Holder (1006562) has gained c_qotaufr
+293 - sub vassal: d_lasarz - Holder (1006562) has gained c_qotaufr
+293 - sub vassal: c_rasoila - Holder 1006562 - Primary title: c_rasoila has lost the title: c_rasoila
+293 - sub vassal: c_rasoila - Title given to 1006562 - Primary title: d_lasarz
+293 - vassal: d_lasarz - Holder (1006562) has gained c_rasoila
+293 - sub vassal: d_lasarz - Holder (1006562) has gained c_rasoila
+293 - sub vassal: c_rebaufr - Holder 1006562 - Primary title: c_rebaufr has lost the title: c_rebaufr
+293 - sub vassal: c_rebaufr - Title given to 1006562 - Primary title: d_lasarz
+293 - vassal: d_lasarz - Holder (1006562) has gained c_rebaufr
+293 - sub vassal: d_lasarz - Holder (1006562) has gained c_rebaufr
+300 - sub vassal: c_alotoza - Holder 1005647 - Primary title: c_alotoza has lost the title: c_alotoza
+300 - sub vassal: c_alotoza - Title given to 1005647 - Primary title: k_rakenla
+300 - Holder (1005647) has gained c_alotoza
+300 - sub vassal: c_salaapa - Holder 1005647 - Primary title: c_salaapa has lost the title: c_salaapa
+300 - sub vassal: c_salaapa - Title given to 1005647 - Primary title: k_rakenla
+300 - Holder (1005647) has gained c_salaapa
+300 - sub vassal: c_nopew - Holder 1005647 - Primary title: c_nopew has lost the title: c_nopew
+300 - sub vassal: c_nopew - Title given to 1005647 - Primary title: k_rakenla
+300 - Holder (1005647) has gained c_nopew
+300 - Holder 1010834 - Primary title: k_rakenla has lost the title: c_tarew
+300 - vassal: c_tarew - Title given to 1010834
+300 - sub vassal: c_tarew - Title given to 1010834
+300 - Holder 1010835 - Primary title: k_rakenla has lost the title: c_alotoza
+300 - sub vassal: c_alotoza - Title given to 1010835
+300 - Holder 1010836 - Primary title: k_rakenla has lost the title: c_esopaapa
+300 - sub vassal: c_esopaapa - Title given to 1010836
+301 - vassal: d_webaufr - Holder 1008874 - Primary title: d_webaufr has lost the title: d_webaufr
+301 - sub vassal: d_webaufr - Holder 1008874 - Primary title: d_webaufr has lost the title: d_webaufr
+301 - vassal: d_webaufr - Title given to 1008874 - Primary title: d_tebaufr
+301 - sub vassal: d_webaufr - Title given to 1008874 - Primary title: d_tebaufr
+301 - vassal: d_tebaufr - Holder (1008874) has gained d_webaufr
+301 - sub vassal: d_tebaufr - Holder (1008874) has gained d_webaufr
+301 - sub vassal: c_akalarin - Holder 1008874 - Primary title: c_akalarin has lost the title: c_akalarin
+301 - sub vassal: c_akalarin - Title given to 1008874 - Primary title: d_tebaufr
+301 - vassal: d_tebaufr - Holder (1008874) has gained c_akalarin
+301 - sub vassal: d_tebaufr - Holder (1008874) has gained c_akalarin
+301 - sub vassal: c_kimoila - Holder 1008874 - Primary title: c_kimoila has lost the title: c_kimoila
+301 - sub vassal: c_kimoila - Title given to 1008874 - Primary title: d_tebaufr
+301 - vassal: d_tebaufr - Holder (1008874) has gained c_kimoila
+301 - sub vassal: d_tebaufr - Holder (1008874) has gained c_kimoila
+301 - sub vassal: c_kodenla - Holder 1008874 - Primary title: c_kodenla has lost the title: c_kodenla
+301 - sub vassal: c_kodenla - Title given to 1008874 - Primary title: d_tebaufr
+301 - vassal: d_tebaufr - Holder (1008874) has gained c_kodenla
+301 - sub vassal: d_tebaufr - Holder (1008874) has gained c_kodenla
+303 - vassal: d_lasarz - Holder 1009905 - Primary title: d_lasarz has lost the title: d_lasarz
+303 - sub vassal: d_lasarz - Holder 1009905 - Primary title: d_lasarz has lost the title: d_lasarz
+303 - vassal: d_lasarz - Title given to 1009905 - Primary title: d_safisto
+303 - sub vassal: d_lasarz - Title given to 1009905 - Primary title: d_safisto
+303 - vassal: d_safisto - Holder (1009905) has gained d_lasarz
+303 - sub vassal: d_safisto - Holder (1009905) has gained d_lasarz
+303 - sub vassal: c_rebaufr - Holder 1009905 - Primary title: c_rebaufr has lost the title: c_rebaufr
+303 - sub vassal: c_rebaufr - Title given to 1009905 - Primary title: d_safisto
+303 - vassal: d_safisto - Holder (1009905) has gained c_rebaufr
+303 - sub vassal: d_safisto - Holder (1009905) has gained c_rebaufr
+303 - sub vassal: c_rasoila - Holder 1009905 - Primary title: c_rasoila has lost the title: c_rasoila
+303 - sub vassal: c_rasoila - Title given to 1009905 - Primary title: d_safisto
+303 - vassal: d_safisto - Holder (1009905) has gained c_rasoila
+303 - sub vassal: d_safisto - Holder (1009905) has gained c_rasoila
+303 - sub vassal: c_qotaufr - Holder 1009905 - Primary title: c_qotaufr has lost the title: c_qotaufr
+303 - sub vassal: c_qotaufr - Title given to 1009905 - Primary title: d_safisto
+303 - vassal: d_safisto - Holder (1009905) has gained c_qotaufr
+303 - sub vassal: d_safisto - Holder (1009905) has gained c_qotaufr
+306 - Holder 1007427 - Primary title: k_rakenla has lost the title: k_rakenla
+306 - Title given to 1007427
+306 - vassal: d_lafisto - Holder 1007427 - Primary title: d_lafisto has lost the title: d_lafisto
+306 - sub vassal: d_lafisto - Holder 1007427 - Primary title: d_lafisto has lost the title: d_lafisto
+306 - vassal: d_lafisto - Title given to 1007427 - Primary title: k_rakenla
+306 - sub vassal: d_lafisto - Title given to 1007427 - Primary title: k_rakenla
+306 - Holder (1007427) has gained d_lafisto
+306 - vassal: d_rarin - Holder 1007427 - Primary title: d_rarin has lost the title: d_rarin
+306 - sub vassal: d_rarin - Holder 1007427 - Primary title: d_rarin has lost the title: d_rarin
+306 - vassal: d_rarin - Title given to 1007427 - Primary title: k_rakenla
+306 - sub vassal: d_rarin - Title given to 1007427 - Primary title: k_rakenla
+306 - Holder (1007427) has gained d_rarin
+306 - sub vassal: c_nopew - Holder 1007427 - Primary title: c_nopew has lost the title: c_nopew
+306 - sub vassal: c_nopew - Title given to 1007427 - Primary title: k_rakenla
+306 - Holder (1007427) has gained c_nopew
+306 - sub vassal: c_salaapa - Holder 1007427 - Primary title: c_salaapa has lost the title: c_salaapa
+306 - sub vassal: c_salaapa - Title given to 1007427 - Primary title: k_rakenla
+306 - Holder (1007427) has gained c_salaapa
+306 - sub vassal: c_robohn - Holder 1007427 - Primary title: c_robohn has lost the title: c_robohn
+306 - sub vassal: c_robohn - Title given to 1007427 - Primary title: k_rakenla
+306 - Holder (1007427) has gained c_robohn
+306 - sub vassal: c_basaufr - Holder 1007427 - Primary title: c_basaufr has lost the title: c_basaufr
+306 - sub vassal: c_basaufr - Title given to 1007427 - Primary title: k_rakenla
+306 - Holder (1007427) has gained c_basaufr
+306 - sub vassal: c_sebenla - Holder 1007427 - Primary title: c_sebenla has lost the title: c_sebenla
+306 - sub vassal: c_sebenla - Title given to 1007427 - Primary title: k_rakenla
+306 - Holder (1007427) has gained c_sebenla
+326 - Holder 1010834 - Primary title: k_rakenla has lost the title: k_rakenla
+326 - Title given to 1010834 - Primary title: c_tarew
+326 - vassal: c_tarew - Holder (1010834) has gained k_rakenla
+326 - sub vassal: c_tarew - Holder (1010834) has gained k_rakenla
+326 - vassal: d_rarin - Holder 1010834 - Primary title: d_rarin has lost the title: d_rarin
+326 - sub vassal: d_rarin - Holder 1010834 - Primary title: d_rarin has lost the title: d_rarin
+326 - vassal: d_rarin - Title given to 1010834 - Primary title: k_rakenla
+326 - sub vassal: d_rarin - Title given to 1010834 - Primary title: k_rakenla
+326 - Holder (1010834) has gained d_rarin
+326 - sub vassal: c_sebenla - Setting to vassal of d_lafisto in Validate Realm
+326 - vassal: d_rarin - Lost vassal: c_sebenla
+326 - sub vassal: d_rarin - Lost vassal: c_sebenla
+326 - sub vassal: c_basaufr - Setting to vassal of d_lafisto in Validate Realm
+326 - vassal: d_rarin - Lost vassal: c_basaufr
+326 - sub vassal: d_rarin - Lost vassal: c_basaufr
+326 - sub vassal: c_robohn - Setting to vassal of d_lafisto in Validate Realm
+326 - vassal: d_rarin - Lost vassal: c_robohn
+326 - sub vassal: d_rarin - Lost vassal: c_robohn
+326 - sub vassal: c_salaapa - Setting to vassal of d_lafisto in Validate Realm
+326 - vassal: d_rarin - Lost vassal: c_salaapa
+326 - sub vassal: d_rarin - Lost vassal: c_salaapa
+326 - sub vassal: c_nopew - Setting to vassal of d_lafisto in Validate Realm
+326 - vassal: d_rarin - Lost vassal: c_nopew
+326 - sub vassal: d_rarin - Lost vassal: c_nopew
+326 - vassal: d_lafisto - Gained vassal: c_nopew
+326 - sub vassal: d_lafisto - Gained vassal: c_nopew
+326 - vassal: d_lafisto - Gained vassal: c_salaapa
+326 - sub vassal: d_lafisto - Gained vassal: c_salaapa
+326 - vassal: d_lafisto - Gained vassal: c_robohn
+326 - sub vassal: d_lafisto - Gained vassal: c_robohn
+326 - vassal: d_lafisto - Gained vassal: c_basaufr
+326 - sub vassal: d_lafisto - Gained vassal: c_basaufr
+326 - vassal: d_lafisto - Gained vassal: c_sebenla
+326 - sub vassal: d_lafisto - Gained vassal: c_sebenla
+326 - vassal: d_lafisto - Holder 1010834 - Primary title: d_lafisto has lost the title: d_lafisto
+326 - sub vassal: d_lafisto - Holder 1010834 - Primary title: d_lafisto has lost the title: d_lafisto
+326 - vassal: d_lafisto - Title given to 1010834 - Primary title: k_rakenla
+326 - sub vassal: d_lafisto - Title given to 1010834 - Primary title: k_rakenla
+326 - Holder (1010834) has gained d_lafisto
+326 - sub vassal: c_sebenla - Holder 1010834 - Primary title: c_sebenla has lost the title: c_sebenla
+326 - sub vassal: c_sebenla - Title given to 1010834 - Primary title: k_rakenla
+326 - Holder (1010834) has gained c_sebenla
+326 - sub vassal: c_basaufr - Holder 1010834 - Primary title: c_basaufr has lost the title: c_basaufr
+326 - sub vassal: c_basaufr - Title given to 1010834 - Primary title: k_rakenla
+326 - Holder (1010834) has gained c_basaufr
+326 - sub vassal: c_robohn - Holder 1010834 - Primary title: c_robohn has lost the title: c_robohn
+326 - sub vassal: c_robohn - Title given to 1010834 - Primary title: k_rakenla
+326 - Holder (1010834) has gained c_robohn
+326 - sub vassal: c_salaapa - Holder 1010834 - Primary title: c_salaapa has lost the title: c_salaapa
+326 - sub vassal: c_salaapa - Title given to 1010834 - Primary title: k_rakenla
+326 - Holder (1010834) has gained c_salaapa
+326 - sub vassal: c_nopew - Holder 1010834 - Primary title: c_nopew has lost the title: c_nopew
+326 - sub vassal: c_nopew - Title given to 1010834 - Primary title: k_rakenla
+326 - Holder (1010834) has gained c_nopew
+327 - Holder 1012918 - Primary title: k_rakenla has lost the title: c_tarew
+327 - vassal: c_tarew - Title given to 1012918
+327 - sub vassal: c_tarew - Title given to 1012918
+338 - vassal: d_safisto - Holder 1012549 - Primary title: d_safisto has lost the title: d_safisto
+338 - sub vassal: d_safisto - Holder 1012549 - Primary title: d_safisto has lost the title: d_safisto
+338 - vassal: d_safisto - Title given to 1012549
+338 - sub vassal: d_safisto - Title given to 1012549
+338 - sub vassal: c_sebezda - Setting to vassal of d_lasarz in Validate Realm
+338 - vassal: d_safisto - Lost vassal: c_sebezda
+338 - sub vassal: d_safisto - Lost vassal: c_sebezda
+338 - vassal: d_lasarz - Gained vassal: c_sebezda
+338 - sub vassal: d_lasarz - Gained vassal: c_sebezda
+338 - vassal: d_lasarz - Holder 1012549 - Primary title: d_lasarz has lost the title: d_lasarz
+338 - sub vassal: d_lasarz - Holder 1012549 - Primary title: d_lasarz has lost the title: d_lasarz
+338 - vassal: d_lasarz - Title given to 1012549 - Primary title: d_safisto
+338 - sub vassal: d_lasarz - Title given to 1012549 - Primary title: d_safisto
+338 - vassal: d_safisto - Holder (1012549) has gained d_lasarz
+338 - sub vassal: d_safisto - Holder (1012549) has gained d_lasarz
+338 - sub vassal: c_qotaufr - Holder 1012549 - Primary title: c_qotaufr has lost the title: c_qotaufr
+338 - sub vassal: c_qotaufr - Title given to 1012549 - Primary title: d_safisto
+338 - vassal: d_safisto - Holder (1012549) has gained c_qotaufr
+338 - sub vassal: d_safisto - Holder (1012549) has gained c_qotaufr
+338 - sub vassal: c_rasoila - Holder 1012549 - Primary title: c_rasoila has lost the title: c_rasoila
+338 - sub vassal: c_rasoila - Title given to 1012549 - Primary title: d_safisto
+338 - vassal: d_safisto - Holder (1012549) has gained c_rasoila
+338 - sub vassal: d_safisto - Holder (1012549) has gained c_rasoila
+338 - sub vassal: c_rebaufr - Holder 1012549 - Primary title: c_rebaufr has lost the title: c_rebaufr
+338 - sub vassal: c_rebaufr - Title given to 1012549 - Primary title: d_safisto
+338 - vassal: d_safisto - Holder (1012549) has gained c_rebaufr
+338 - sub vassal: d_safisto - Holder (1012549) has gained c_rebaufr
+338 - sub vassal: c_sebezda - Holder 1012549 - Primary title: c_sebezda has lost the title: c_sebezda
+338 - sub vassal: c_sebezda - Title given to 1012549 - Primary title: d_safisto
+338 - vassal: d_safisto - Holder (1012549) has gained c_sebezda
+338 - sub vassal: d_safisto - Holder (1012549) has gained c_sebezda
+338 - sub vassal: c_timelsan - Holder 1012549 - Primary title: c_timelsan has lost the title: c_timelsan
+338 - sub vassal: c_timelsan - Title given to 1012549 - Primary title: d_safisto
+338 - vassal: d_safisto - Holder (1012549) has gained c_timelsan
+338 - sub vassal: d_safisto - Holder (1012549) has gained c_timelsan
+343 - vassal: d_webaufr - Holder 1012548 - Primary title: d_webaufr has lost the title: d_webaufr
+343 - sub vassal: d_webaufr - Holder 1012548 - Primary title: d_webaufr has lost the title: d_webaufr
+343 - vassal: d_webaufr - Title given to 1012548
+343 - sub vassal: d_webaufr - Title given to 1012548
+343 - sub vassal: c_kodenla - Setting to vassal of d_tebaufr in Validate Realm
+343 - vassal: d_webaufr - Lost vassal: c_kodenla
+343 - sub vassal: d_webaufr - Lost vassal: c_kodenla
+343 - sub vassal: c_kimoila - Setting to vassal of d_tebaufr in Validate Realm
+343 - vassal: d_webaufr - Lost vassal: c_kimoila
+343 - sub vassal: d_webaufr - Lost vassal: c_kimoila
+343 - sub vassal: c_akalarin - Setting to vassal of d_tebaufr in Validate Realm
+343 - vassal: d_webaufr - Lost vassal: c_akalarin
+343 - sub vassal: d_webaufr - Lost vassal: c_akalarin
+343 - vassal: d_tebaufr - Gained vassal: c_akalarin
+343 - sub vassal: d_tebaufr - Gained vassal: c_akalarin
+343 - vassal: d_tebaufr - Gained vassal: c_kimoila
+343 - sub vassal: d_tebaufr - Gained vassal: c_kimoila
+343 - vassal: d_tebaufr - Gained vassal: c_kodenla
+343 - sub vassal: d_tebaufr - Gained vassal: c_kodenla
+343 - vassal: d_tebaufr - Holder 1012548 - Primary title: d_tebaufr has lost the title: d_tebaufr
+343 - sub vassal: d_tebaufr - Holder 1012548 - Primary title: d_tebaufr has lost the title: d_tebaufr
+343 - vassal: d_tebaufr - Title given to 1012548 - Primary title: d_webaufr
+343 - sub vassal: d_tebaufr - Title given to 1012548 - Primary title: d_webaufr
+343 - vassal: d_webaufr - Holder (1012548) has gained d_tebaufr
+343 - sub vassal: d_webaufr - Holder (1012548) has gained d_tebaufr
+343 - sub vassal: c_kodenla - Holder 1012548 - Primary title: c_kodenla has lost the title: c_kodenla
+343 - sub vassal: c_kodenla - Title given to 1012548 - Primary title: d_webaufr
+343 - vassal: d_webaufr - Holder (1012548) has gained c_kodenla
+343 - sub vassal: d_webaufr - Holder (1012548) has gained c_kodenla
+343 - sub vassal: c_kimoila - Holder 1012548 - Primary title: c_kimoila has lost the title: c_kimoila
+343 - sub vassal: c_kimoila - Title given to 1012548 - Primary title: d_webaufr
+343 - vassal: d_webaufr - Holder (1012548) has gained c_kimoila
+343 - sub vassal: d_webaufr - Holder (1012548) has gained c_kimoila
+343 - sub vassal: c_akalarin - Holder 1012548 - Primary title: c_akalarin has lost the title: c_akalarin
+343 - sub vassal: c_akalarin - Title given to 1012548 - Primary title: d_webaufr
+343 - vassal: d_webaufr - Holder (1012548) has gained c_akalarin
+343 - sub vassal: d_webaufr - Holder (1012548) has gained c_akalarin
+343 - sub vassal: c_nebetta - Holder 1012548 - Primary title: c_nebetta has lost the title: c_nebetta
+343 - sub vassal: c_nebetta - Title given to 1012548 - Primary title: d_webaufr
+343 - vassal: d_webaufr - Holder (1012548) has gained c_nebetta
+343 - sub vassal: d_webaufr - Holder (1012548) has gained c_nebetta
+344 - vassal: d_webaufr - Destroyed due to flagged problem
+344 - sub vassal: d_webaufr - Destroyed due to flagged problem
+344 - vassal: d_webaufr - Made independent
+344 - sub vassal: d_webaufr - Made independent
+345 - Holder 1012988 - Primary title: k_rakenla has lost the title: k_rakenla
+345 - Title given to 1012988
+345 - vassal: d_lafisto - Holder 1012988 - Primary title: d_lafisto has lost the title: d_lafisto
+345 - sub vassal: d_lafisto - Holder 1012988 - Primary title: d_lafisto has lost the title: d_lafisto
+345 - vassal: d_lafisto - Title given to 1012988 - Primary title: k_rakenla
+345 - sub vassal: d_lafisto - Title given to 1012988 - Primary title: k_rakenla
+345 - Holder (1012988) has gained d_lafisto
+345 - sub vassal: c_nopew - Setting to vassal of d_rarin in Validate Realm
+345 - vassal: d_lafisto - Lost vassal: c_nopew
+345 - sub vassal: d_lafisto - Lost vassal: c_nopew
+345 - sub vassal: c_salaapa - Setting to vassal of d_rarin in Validate Realm
+345 - vassal: d_lafisto - Lost vassal: c_salaapa
+345 - sub vassal: d_lafisto - Lost vassal: c_salaapa
+345 - sub vassal: c_robohn - Setting to vassal of d_rarin in Validate Realm
+345 - vassal: d_lafisto - Lost vassal: c_robohn
+345 - sub vassal: d_lafisto - Lost vassal: c_robohn
+345 - sub vassal: c_basaufr - Setting to vassal of d_rarin in Validate Realm
+345 - vassal: d_lafisto - Lost vassal: c_basaufr
+345 - sub vassal: d_lafisto - Lost vassal: c_basaufr
+345 - sub vassal: c_sebenla - Setting to vassal of d_rarin in Validate Realm
+345 - vassal: d_lafisto - Lost vassal: c_sebenla
+345 - sub vassal: d_lafisto - Lost vassal: c_sebenla
+345 - vassal: d_rarin - Gained vassal: c_sebenla
+345 - sub vassal: d_rarin - Gained vassal: c_sebenla
+345 - vassal: d_rarin - Gained vassal: c_basaufr
+345 - sub vassal: d_rarin - Gained vassal: c_basaufr
+345 - vassal: d_rarin - Gained vassal: c_robohn
+345 - sub vassal: d_rarin - Gained vassal: c_robohn
+345 - vassal: d_rarin - Gained vassal: c_salaapa
+345 - sub vassal: d_rarin - Gained vassal: c_salaapa
+345 - vassal: d_rarin - Gained vassal: c_nopew
+345 - sub vassal: d_rarin - Gained vassal: c_nopew
+345 - vassal: d_rarin - Holder 1012988 - Primary title: d_rarin has lost the title: d_rarin
+345 - sub vassal: d_rarin - Holder 1012988 - Primary title: d_rarin has lost the title: d_rarin
+345 - vassal: d_rarin - Title given to 1012988 - Primary title: k_rakenla
+345 - sub vassal: d_rarin - Title given to 1012988 - Primary title: k_rakenla
+345 - Holder (1012988) has gained d_rarin
+345 - sub vassal: c_nopew - Holder 1012988 - Primary title: c_nopew has lost the title: c_nopew
+345 - sub vassal: c_nopew - Title given to 1012988 - Primary title: k_rakenla
+345 - Holder (1012988) has gained c_nopew
+345 - sub vassal: c_salaapa - Holder 1012988 - Primary title: c_salaapa has lost the title: c_salaapa
+345 - sub vassal: c_salaapa - Title given to 1012988 - Primary title: k_rakenla
+345 - Holder (1012988) has gained c_salaapa
+345 - sub vassal: c_robohn - Holder 1012988 - Primary title: c_robohn has lost the title: c_robohn
+345 - sub vassal: c_robohn - Title given to 1012988 - Primary title: k_rakenla
+345 - Holder (1012988) has gained c_robohn
+345 - sub vassal: c_basaufr - Holder 1012988 - Primary title: c_basaufr has lost the title: c_basaufr
+345 - sub vassal: c_basaufr - Title given to 1012988 - Primary title: k_rakenla
+345 - Holder (1012988) has gained c_basaufr
+345 - sub vassal: c_sebenla - Holder 1012988 - Primary title: c_sebenla has lost the title: c_sebenla
+345 - sub vassal: c_sebenla - Title given to 1012988 - Primary title: k_rakenla
+345 - Holder (1012988) has gained c_sebenla
+348 - vassal: d_safisto - Holder 1013866 - Primary title: d_safisto has lost the title: d_safisto
+348 - sub vassal: d_safisto - Holder 1013866 - Primary title: d_safisto has lost the title: d_safisto
+348 - vassal: d_safisto - Title given to 1013866
+348 - sub vassal: d_safisto - Title given to 1013866
+348 - sub vassal: c_timelsan - Setting to vassal of d_lasarz in Validate Realm
+348 - vassal: d_safisto - Lost vassal: c_timelsan
+348 - sub vassal: d_safisto - Lost vassal: c_timelsan
+348 - vassal: d_lasarz - Gained vassal: c_timelsan
+348 - sub vassal: d_lasarz - Gained vassal: c_timelsan
+348 - vassal: d_lasarz - Holder 1013866 - Primary title: d_lasarz has lost the title: d_lasarz
+348 - sub vassal: d_lasarz - Holder 1013866 - Primary title: d_lasarz has lost the title: d_lasarz
+348 - vassal: d_lasarz - Title given to 1013866 - Primary title: d_safisto
+348 - sub vassal: d_lasarz - Title given to 1013866 - Primary title: d_safisto
+348 - vassal: d_safisto - Holder (1013866) has gained d_lasarz
+348 - sub vassal: d_safisto - Holder (1013866) has gained d_lasarz
+348 - sub vassal: c_timelsan - Holder 1013866 - Primary title: c_timelsan has lost the title: c_timelsan
+348 - sub vassal: c_timelsan - Title given to 1013866 - Primary title: d_safisto
+348 - vassal: d_safisto - Holder (1013866) has gained c_timelsan
+348 - sub vassal: d_safisto - Holder (1013866) has gained c_timelsan
+348 - sub vassal: c_sebezda - Holder 1013866 - Primary title: c_sebezda has lost the title: c_sebezda
+348 - sub vassal: c_sebezda - Title given to 1013866 - Primary title: d_safisto
+348 - vassal: d_safisto - Holder (1013866) has gained c_sebezda
+348 - sub vassal: d_safisto - Holder (1013866) has gained c_sebezda
+348 - sub vassal: c_rebaufr - Holder 1013866 - Primary title: c_rebaufr has lost the title: c_rebaufr
+348 - sub vassal: c_rebaufr - Title given to 1013866 - Primary title: d_safisto
+348 - vassal: d_safisto - Holder (1013866) has gained c_rebaufr
+348 - sub vassal: d_safisto - Holder (1013866) has gained c_rebaufr
+348 - sub vassal: c_rasoila - Holder 1013866 - Primary title: c_rasoila has lost the title: c_rasoila
+348 - sub vassal: c_rasoila - Title given to 1013866 - Primary title: d_safisto
+348 - vassal: d_safisto - Holder (1013866) has gained c_rasoila
+348 - sub vassal: d_safisto - Holder (1013866) has gained c_rasoila
+348 - sub vassal: c_qotaufr - Holder 1013866 - Primary title: c_qotaufr has lost the title: c_qotaufr
+348 - sub vassal: c_qotaufr - Title given to 1013866 - Primary title: d_safisto
+348 - vassal: d_safisto - Holder (1013866) has gained c_qotaufr
+348 - sub vassal: d_safisto - Holder (1013866) has gained c_qotaufr
+348 - sub vassal: c_dayasew - Holder 1013866 - Primary title: c_dayasew has lost the title: c_dayasew
+348 - sub vassal: c_dayasew - Title given to 1013866 - Primary title: d_safisto
+348 - vassal: d_safisto - Holder (1013866) has gained c_dayasew
+348 - sub vassal: d_safisto - Holder (1013866) has gained c_dayasew
+349 - vassal: d_safisto - Holder 1014543 - Primary title: d_safisto has lost the title: c_sebezda
+349 - sub vassal: d_safisto - Holder 1014543 - Primary title: d_safisto has lost the title: c_sebezda
+349 - sub vassal: c_sebezda - Title given to 1014543
+352 - vassal: d_safisto - Holder 1012988 - Primary title: d_safisto has lost the title: d_safisto
+352 - sub vassal: d_safisto - Holder 1012988 - Primary title: d_safisto has lost the title: d_safisto
+352 - vassal: d_safisto - Title given to 1012988 - Primary title: k_rakenla
+352 - sub vassal: d_safisto - Title given to 1012988 - Primary title: k_rakenla
+352 - Holder (1012988) has gained d_safisto
+352 - sub vassal: c_dayasew - Setting to vassal of d_lasarz in Validate Realm
+352 - vassal: d_safisto - Lost vassal: c_dayasew
+352 - sub vassal: d_safisto - Lost vassal: c_dayasew
+352 - vassal: d_lasarz - Gained vassal: c_dayasew
+352 - sub vassal: d_lasarz - Gained vassal: c_dayasew
+352 - vassal: d_lasarz - Holder 1012988 - Primary title: d_lasarz has lost the title: d_lasarz
+352 - sub vassal: d_lasarz - Holder 1012988 - Primary title: d_lasarz has lost the title: d_lasarz
+352 - vassal: d_lasarz - Title given to 1012988 - Primary title: k_rakenla
+352 - sub vassal: d_lasarz - Title given to 1012988 - Primary title: k_rakenla
+352 - Holder (1012988) has gained d_lasarz
+352 - sub vassal: c_timelsan - Holder 1012988 - Primary title: c_timelsan has lost the title: c_timelsan
+352 - sub vassal: c_timelsan - Title given to 1012988 - Primary title: k_rakenla
+352 - Holder (1012988) has gained c_timelsan
+352 - sub vassal: c_rebaufr - Holder 1012988 - Primary title: c_rebaufr has lost the title: c_rebaufr
+352 - sub vassal: c_rebaufr - Title given to 1012988 - Primary title: k_rakenla
+352 - Holder (1012988) has gained c_rebaufr
+352 - sub vassal: c_rasoila - Holder 1012988 - Primary title: c_rasoila has lost the title: c_rasoila
+352 - sub vassal: c_rasoila - Title given to 1012988 - Primary title: k_rakenla
+352 - Holder (1012988) has gained c_rasoila
+352 - sub vassal: c_qotaufr - Holder 1012988 - Primary title: c_qotaufr has lost the title: c_qotaufr
+352 - sub vassal: c_qotaufr - Title given to 1012988 - Primary title: k_rakenla
+352 - Holder (1012988) has gained c_qotaufr
+352 - sub vassal: c_dayasew - Holder 1012988 - Primary title: c_dayasew has lost the title: c_dayasew
+352 - sub vassal: c_dayasew - Title given to 1012988 - Primary title: k_rakenla
+352 - Holder (1012988) has gained c_dayasew
+352 - sub vassal: c_rebaufr - Given to 1014774 in HandleTitles - Too many duke titles
+352 - Holder 1014774 - Primary title: k_rakenla has lost the title: c_rebaufr
+352 - sub vassal: c_rebaufr - Title given to 1014774
+352 - Holder 1014774 - Primary title: k_rakenla has lost the title: d_lasarz
+352 - vassal: d_lasarz - Title given to 1014774 - Primary title: c_rebaufr
+352 - sub vassal: d_lasarz - Title given to 1014774 - Primary title: c_rebaufr
+352 - sub vassal: c_rebaufr - Holder (1014774) has gained d_lasarz
+352 - sub vassal: c_timelsan - Setting to vassal of k_rakenla in Validate Realm
+352 - vassal: d_lasarz - Lost vassal: c_timelsan
+352 - sub vassal: d_lasarz - Lost vassal: c_timelsan
+352 - sub vassal: c_rasoila - Setting to vassal of k_rakenla in Validate Realm
+352 - vassal: d_lasarz - Lost vassal: c_rasoila
+352 - sub vassal: d_lasarz - Lost vassal: c_rasoila
+352 - sub vassal: c_qotaufr - Setting to vassal of k_rakenla in Validate Realm
+352 - vassal: d_lasarz - Lost vassal: c_qotaufr
+352 - sub vassal: d_lasarz - Lost vassal: c_qotaufr
+352 - sub vassal: c_dayasew - Setting to vassal of k_rakenla in Validate Realm
+352 - vassal: d_lasarz - Lost vassal: c_dayasew
+352 - sub vassal: d_lasarz - Lost vassal: c_dayasew
+352 - Gained vassal: c_dayasew
+352 - Gained vassal: c_qotaufr
+352 - Gained vassal: c_rasoila
+352 - Gained vassal: c_timelsan
+352 - vassal: d_lasarz - Too many dukes, given to dejure: k_rakenla
+352 - sub vassal: d_lasarz - Too many dukes, given to dejure: k_rakenla
+352 - vassal: d_safisto - Destroyed due to flagged problem
+352 - sub vassal: d_safisto - Destroyed due to flagged problem
+352 - vassal: d_safisto - Made independent
+352 - sub vassal: d_safisto - Made independent
+352 - Holder 1014776 - Primary title: k_rakenla has lost the title: c_dayasew
+352 - vassal: c_dayasew - Title given to 1014776
+352 - sub vassal: c_dayasew - Title given to 1014776
+352 - Holder 1009904 - Primary title: k_rakenla has lost the title: c_timelsan
+352 - vassal: c_timelsan - Title given to 1009904
+352 - sub vassal: c_timelsan - Title given to 1009904
+352 - Holder 1014777 - Primary title: k_rakenla has lost the title: c_qotaufr
+352 - vassal: c_qotaufr - Title given to 1014777
+352 - sub vassal: c_qotaufr - Title given to 1014777
+352 - Holder 1014778 - Primary title: k_rakenla has lost the title: c_rasoila
+352 - vassal: c_rasoila - Title given to 1014778
+352 - sub vassal: c_rasoila - Title given to 1014778
+355 - vassal: d_lasarz - Holder 1014961 - Primary title: d_lasarz has lost the title: d_lasarz
+355 - sub vassal: d_lasarz - Holder 1014961 - Primary title: d_lasarz has lost the title: d_lasarz
+355 - vassal: d_lasarz - Title given to 1014961
+355 - sub vassal: d_lasarz - Title given to 1014961
+355 - sub vassal: c_rebaufr - Holder 1014961 - Primary title: c_rebaufr has lost the title: c_rebaufr
+355 - sub vassal: c_rebaufr - Title given to 1014961 - Primary title: d_lasarz
+355 - vassal: d_lasarz - Holder (1014961) has gained c_rebaufr
+355 - sub vassal: d_lasarz - Holder (1014961) has gained c_rebaufr
+360 - vassal: d_lasarz - Holder 1012548 - Primary title: d_lasarz has lost the title: d_lasarz
+360 - sub vassal: d_lasarz - Holder 1012548 - Primary title: d_lasarz has lost the title: d_lasarz
+360 - vassal: d_lasarz - Title given to 1012548 - Primary title: d_tebaufr
+360 - sub vassal: d_lasarz - Title given to 1012548 - Primary title: d_tebaufr
+360 - vassal: d_tebaufr - Holder (1012548) has gained d_lasarz
+360 - sub vassal: d_tebaufr - Holder (1012548) has gained d_lasarz
+360 - sub vassal: c_rebaufr - Holder 1012548 - Primary title: c_rebaufr has lost the title: c_rebaufr
+360 - sub vassal: c_rebaufr - Title given to 1012548 - Primary title: d_tebaufr
+360 - vassal: d_tebaufr - Holder (1012548) has gained c_rebaufr
+360 - sub vassal: d_tebaufr - Holder (1012548) has gained c_rebaufr
+376 - vassal: d_lasarz - Holder (1012548) has gained d_webaufr
+376 - sub vassal: d_lasarz - Holder (1012548) has gained d_webaufr
+376 - Gained vassal: d_webaufr
+376 - vassal: d_webaufr - Made independent for title creation d_webaufr for d_tebaufr
+376 - sub vassal: d_webaufr - Made independent for title creation d_webaufr for d_tebaufr
+376 - vassal: d_webaufr - Made independent
+376 - sub vassal: d_webaufr - Made independent
+376 - sub vassal: c_nebetta - Set liege on title creation d_webaufr
+376 - vassal: d_tebaufr - Lost vassal: c_nebetta
+376 - sub vassal: d_tebaufr - Lost vassal: c_nebetta
+376 - sub vassal: c_akalarin - Set liege on title creation d_webaufr
+376 - vassal: d_tebaufr - Lost vassal: c_akalarin
+376 - sub vassal: d_tebaufr - Lost vassal: c_akalarin
+376 - sub vassal: c_kimoila - Set liege on title creation d_webaufr
+376 - vassal: d_tebaufr - Lost vassal: c_kimoila
+376 - sub vassal: d_tebaufr - Lost vassal: c_kimoila
+376 - sub vassal: c_kodenla - Set liege on title creation d_webaufr
+376 - vassal: d_tebaufr - Lost vassal: c_kodenla
+376 - sub vassal: d_tebaufr - Lost vassal: c_kodenla
+376 - sub vassal: c_rebaufr - Set liege on title creation d_webaufr
+376 - vassal: d_lasarz - Lost vassal: c_rebaufr
+376 - sub vassal: d_lasarz - Lost vassal: c_rebaufr
+376 - sub vassal: c_nebetta - Setting independent due to liege destruction
+376 - sub vassal: c_nebetta - Made independent
+376 - sub vassal: c_akalarin - Setting independent due to liege destruction
+376 - sub vassal: c_akalarin - Made independent
+376 - sub vassal: c_kimoila - Setting independent due to liege destruction
+376 - sub vassal: c_kimoila - Made independent
+376 - sub vassal: c_kodenla - Setting independent due to liege destruction
+376 - sub vassal: c_kodenla - Made independent
+376 - sub vassal: c_rebaufr - Setting independent due to liege destruction
+376 - sub vassal: c_rebaufr - Made independent
+377 - vassal: d_tebaufr - Destroyed due to flagged problem
+377 - sub vassal: d_tebaufr - Destroyed due to flagged problem
+377 - vassal: d_tebaufr - Made independent
+377 - sub vassal: d_tebaufr - Made independent
+377 - sub vassal: c_sebezda - Holder 1012548 - Primary title: c_sebezda has lost the title: c_sebezda
+377 - sub vassal: c_sebezda - Title given to 1012548 - Primary title: d_lasarz
+377 - vassal: d_lasarz - Holder (1012548) has gained c_sebezda
+377 - sub vassal: d_lasarz - Holder (1012548) has gained c_sebezda
+377 - vassal: d_lasarz - Holder 1016490 - Primary title: d_lasarz has lost the title: c_kimoila
+377 - sub vassal: d_lasarz - Holder 1016490 - Primary title: d_lasarz has lost the title: c_kimoila
+377 - vassal: d_lasarz - Gained vassal: c_kimoila
+377 - sub vassal: d_lasarz - Gained vassal: c_kimoila
+387 - vassal: d_lasarz - Holder 1014542 - Primary title: d_lasarz has lost the title: d_lasarz
+387 - sub vassal: d_lasarz - Holder 1014542 - Primary title: d_lasarz has lost the title: d_lasarz
+387 - vassal: d_lasarz - Title given to 1014542
+387 - sub vassal: d_lasarz - Title given to 1014542
+387 - sub vassal: c_sebezda - Holder 1014542 - Primary title: c_sebezda has lost the title: c_sebezda
+387 - sub vassal: c_sebezda - Title given to 1014542 - Primary title: d_lasarz
+387 - vassal: d_lasarz - Holder (1014542) has gained c_sebezda
+387 - sub vassal: d_lasarz - Holder (1014542) has gained c_sebezda
+387 - vassal: d_lasarz - Holder (1014542) has gained c_rebaufr
+387 - sub vassal: d_lasarz - Holder (1014542) has gained c_rebaufr
+387 - vassal: d_lasarz - Holder (1014542) has gained c_kodenla
+387 - sub vassal: d_lasarz - Holder (1014542) has gained c_kodenla
+387 - vassal: d_lasarz - Holder (1014542) has gained c_akalarin
+387 - sub vassal: d_lasarz - Holder (1014542) has gained c_akalarin
+387 - vassal: d_lasarz - Holder (1014542) has gained c_nebetta
+387 - sub vassal: d_lasarz - Holder (1014542) has gained c_nebetta
+390 - vassal: d_lasarz - Holder 1009904 - Primary title: d_lasarz has lost the title: d_lasarz
+390 - sub vassal: d_lasarz - Holder 1009904 - Primary title: d_lasarz has lost the title: d_lasarz
+390 - vassal: d_lasarz - Title given to 1009904 - Primary title: c_timelsan
+390 - sub vassal: d_lasarz - Title given to 1009904 - Primary title: c_timelsan
+390 - vassal: c_timelsan - Holder (1009904) has gained d_lasarz
+390 - sub vassal: c_timelsan - Holder (1009904) has gained d_lasarz
+390 - vassal: c_timelsan - Setting to vassal of d_lasarz in Validate Realm
+390 - sub vassal: c_timelsan - Setting to vassal of d_lasarz in Validate Realm
+390 - Lost vassal: c_timelsan
+390 - vassal: d_lasarz - Gained vassal: c_timelsan
+390 - sub vassal: d_lasarz - Gained vassal: c_timelsan
+390 - sub vassal: c_sebezda - Holder 1009904 - Primary title: c_sebezda has lost the title: c_sebezda
+390 - sub vassal: c_sebezda - Title given to 1009904 - Primary title: d_lasarz
+390 - vassal: d_lasarz - Holder (1009904) has gained c_sebezda
+390 - sub vassal: d_lasarz - Holder (1009904) has gained c_sebezda
+390 - vassal: d_lasarz - Holder (1009904) has gained c_rebaufr
+390 - sub vassal: d_lasarz - Holder (1009904) has gained c_rebaufr
+390 - vassal: d_lasarz - Holder (1009904) has gained c_kodenla
+390 - sub vassal: d_lasarz - Holder (1009904) has gained c_kodenla
+390 - vassal: d_lasarz - Holder (1009904) has gained c_akalarin
+390 - sub vassal: d_lasarz - Holder (1009904) has gained c_akalarin
+390 - vassal: d_lasarz - Holder (1009904) has gained c_nebetta
+390 - sub vassal: d_lasarz - Holder (1009904) has gained c_nebetta
+391 - vassal: d_lasarz - Holder 1017486 - Primary title: d_lasarz has lost the title: c_rebaufr
+391 - sub vassal: d_lasarz - Holder 1017486 - Primary title: d_lasarz has lost the title: c_rebaufr
+391 - vassal: d_lasarz - Gained vassal: c_rebaufr
+391 - sub vassal: d_lasarz - Gained vassal: c_rebaufr
+391 - Holder 1016022 - Primary title: k_rakenla has lost the title: k_rakenla
+391 - Title given to 1016022
+391 - vassal: d_lafisto - Holder 1016022 - Primary title: d_lafisto has lost the title: d_lafisto
+391 - sub vassal: d_lafisto - Holder 1016022 - Primary title: d_lafisto has lost the title: d_lafisto
+391 - vassal: d_lafisto - Title given to 1016022 - Primary title: k_rakenla
+391 - sub vassal: d_lafisto - Title given to 1016022 - Primary title: k_rakenla
+391 - Holder (1016022) has gained d_lafisto
+391 - vassal: d_rarin - Holder 1016022 - Primary title: d_rarin has lost the title: d_rarin
+391 - sub vassal: d_rarin - Holder 1016022 - Primary title: d_rarin has lost the title: d_rarin
+391 - vassal: d_rarin - Title given to 1016022 - Primary title: k_rakenla
+391 - sub vassal: d_rarin - Title given to 1016022 - Primary title: k_rakenla
+391 - Holder (1016022) has gained d_rarin
+391 - sub vassal: c_nopew - Holder 1016022 - Primary title: c_nopew has lost the title: c_nopew
+391 - sub vassal: c_nopew - Title given to 1016022 - Primary title: k_rakenla
+391 - Holder (1016022) has gained c_nopew
+391 - sub vassal: c_salaapa - Holder 1016022 - Primary title: c_salaapa has lost the title: c_salaapa
+391 - sub vassal: c_salaapa - Title given to 1016022 - Primary title: k_rakenla
+391 - Holder (1016022) has gained c_salaapa
+391 - sub vassal: c_robohn - Holder 1016022 - Primary title: c_robohn has lost the title: c_robohn
+391 - sub vassal: c_robohn - Title given to 1016022 - Primary title: k_rakenla
+391 - Holder (1016022) has gained c_robohn
+391 - sub vassal: c_basaufr - Holder 1016022 - Primary title: c_basaufr has lost the title: c_basaufr
+391 - sub vassal: c_basaufr - Title given to 1016022 - Primary title: k_rakenla
+391 - Holder (1016022) has gained c_basaufr
+391 - sub vassal: c_sebenla - Holder 1016022 - Primary title: c_sebenla has lost the title: c_sebenla
+391 - sub vassal: c_sebenla - Title given to 1016022 - Primary title: k_rakenla
+391 - Holder (1016022) has gained c_sebenla
+393 - Holder 1017653 - Primary title: k_rakenla has lost the title: k_rakenla
+393 - Title given to 1017653
+393 - vassal: d_lafisto - Holder 1017653 - Primary title: d_lafisto has lost the title: d_lafisto
+393 - sub vassal: d_lafisto - Holder 1017653 - Primary title: d_lafisto has lost the title: d_lafisto
+393 - vassal: d_lafisto - Title given to 1017653 - Primary title: k_rakenla
+393 - sub vassal: d_lafisto - Title given to 1017653 - Primary title: k_rakenla
+393 - Holder (1017653) has gained d_lafisto
+393 - vassal: d_rarin - Holder 1017653 - Primary title: d_rarin has lost the title: d_rarin
+393 - sub vassal: d_rarin - Holder 1017653 - Primary title: d_rarin has lost the title: d_rarin
+393 - vassal: d_rarin - Title given to 1017653 - Primary title: k_rakenla
+393 - sub vassal: d_rarin - Title given to 1017653 - Primary title: k_rakenla
+393 - Holder (1017653) has gained d_rarin
+393 - sub vassal: c_nopew - Holder 1017653 - Primary title: c_nopew has lost the title: c_nopew
+393 - sub vassal: c_nopew - Title given to 1017653 - Primary title: k_rakenla
+393 - Holder (1017653) has gained c_nopew
+393 - sub vassal: c_salaapa - Holder 1017653 - Primary title: c_salaapa has lost the title: c_salaapa
+393 - sub vassal: c_salaapa - Title given to 1017653 - Primary title: k_rakenla
+393 - Holder (1017653) has gained c_salaapa
+393 - sub vassal: c_robohn - Holder 1017653 - Primary title: c_robohn has lost the title: c_robohn
+393 - sub vassal: c_robohn - Title given to 1017653 - Primary title: k_rakenla
+393 - Holder (1017653) has gained c_robohn
+393 - sub vassal: c_basaufr - Holder 1017653 - Primary title: c_basaufr has lost the title: c_basaufr
+393 - sub vassal: c_basaufr - Title given to 1017653 - Primary title: k_rakenla
+393 - Holder (1017653) has gained c_basaufr
+393 - sub vassal: c_sebenla - Holder 1017653 - Primary title: c_sebenla has lost the title: c_sebenla
+393 - sub vassal: c_sebenla - Title given to 1017653 - Primary title: k_rakenla
+393 - Holder (1017653) has gained c_sebenla
+394 - vassal: d_lasarz - Holder 1017488 - Primary title: d_lasarz has lost the title: d_lasarz
+394 - sub vassal: d_lasarz - Holder 1017488 - Primary title: d_lasarz has lost the title: d_lasarz
+394 - vassal: d_lasarz - Title given to 1017488
+394 - sub vassal: d_lasarz - Title given to 1017488
+394 - sub vassal: c_timelsan - Holder 1017488 - Primary title: c_timelsan has lost the title: c_timelsan
+394 - sub vassal: c_timelsan - Title given to 1017488 - Primary title: d_lasarz
+394 - vassal: d_lasarz - Holder (1017488) has gained c_timelsan
+394 - sub vassal: d_lasarz - Holder (1017488) has gained c_timelsan
+394 - sub vassal: c_sebezda - Holder 1017488 - Primary title: c_sebezda has lost the title: c_sebezda
+394 - sub vassal: c_sebezda - Title given to 1017488 - Primary title: d_lasarz
+394 - vassal: d_lasarz - Holder (1017488) has gained c_sebezda
+394 - sub vassal: d_lasarz - Holder (1017488) has gained c_sebezda
+394 - vassal: d_lasarz - Holder (1017488) has gained c_kodenla
+394 - sub vassal: d_lasarz - Holder (1017488) has gained c_kodenla
+394 - vassal: d_lasarz - Holder (1017488) has gained c_akalarin
+394 - sub vassal: d_lasarz - Holder (1017488) has gained c_akalarin
+394 - vassal: d_lasarz - Holder (1017488) has gained c_nebetta
+394 - sub vassal: d_lasarz - Holder (1017488) has gained c_nebetta
+400 - sub vassal: c_byne - Holder 1017653 - Primary title: c_byne has lost the title: c_byne
+400 - sub vassal: c_byne - Title given to 1017653 - Primary title: k_rakenla
+400 - Holder (1017653) has gained c_byne
+400 - sub vassal: c_alotoza - Holder 1017653 - Primary title: c_alotoza has lost the title: c_alotoza
+400 - sub vassal: c_alotoza - Title given to 1017653 - Primary title: k_rakenla
+400 - Holder (1017653) has gained c_alotoza
+400 - sub vassal: c_esopaapa - Holder 1017653 - Primary title: c_esopaapa has lost the title: c_esopaapa
+400 - sub vassal: c_esopaapa - Title given to 1017653 - Primary title: k_rakenla
+400 - Holder (1017653) has gained c_esopaapa

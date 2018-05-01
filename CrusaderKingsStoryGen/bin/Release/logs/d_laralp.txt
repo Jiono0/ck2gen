@@ -1,0 +1,217 @@
+200 - Title given to 1001042
+200 - vassal: c_asozalil - Given to 1001046 via AddCharacterForTitle
+200 - sub vassal: c_asozalil - Given to 1001046 via AddCharacterForTitle
+200 - vassal: c_asozalil - Holder 1001046 - Primary title: c_asozalil has lost the title: c_asozalil
+200 - sub vassal: c_asozalil - Holder 1001046 - Primary title: c_asozalil has lost the title: c_asozalil
+200 - vassal: c_asozalil - Title given to 1001046
+200 - sub vassal: c_asozalil - Title given to 1001046
+200 - vassal: c_wasoppi - Holder 1001042 - Primary title: c_wasoppi has lost the title: c_wasoppi
+200 - sub vassal: c_wasoppi - Holder 1001042 - Primary title: c_wasoppi has lost the title: c_wasoppi
+200 - vassal: c_wasoppi - Title given to 1001042 - Primary title: d_laralp
+200 - sub vassal: c_wasoppi - Title given to 1001042 - Primary title: d_laralp
+200 - Holder (1001042) has gained c_wasoppi
+200 - vassal: c_denona - Holder 1001042 - Primary title: c_denona has lost the title: c_denona
+200 - sub vassal: c_denona - Holder 1001042 - Primary title: c_denona has lost the title: c_denona
+200 - vassal: c_denona - Title given to 1001042 - Primary title: d_laralp
+200 - sub vassal: c_denona - Title given to 1001042 - Primary title: d_laralp
+200 - Holder (1001042) has gained c_denona
+200 - vassal: c_asozalil - Holder 1001042 - Primary title: c_asozalil has lost the title: c_asozalil
+200 - sub vassal: c_asozalil - Holder 1001042 - Primary title: c_asozalil has lost the title: c_asozalil
+200 - vassal: c_asozalil - Title given to 1001042 - Primary title: d_laralp
+200 - sub vassal: c_asozalil - Title given to 1001042 - Primary title: d_laralp
+200 - Holder (1001042) has gained c_asozalil
+218 - Holder (1001042) has gained d_ralilip
+218 - Holder (1001042) has gained c_ronaya
+218 - Holder (1001042) has gained c_kenamon
+227 - Holder 1001941 - Primary title: d_laralp has lost the title: d_laralp
+227 - Title given to 1001941
+227 - vassal: c_wasoppi - Setting to vassal of d_ralilip in Validate Realm
+227 - Lost vassal: c_wasoppi
+227 - vassal: c_denona - Setting to vassal of d_ralilip in Validate Realm
+227 - Lost vassal: c_denona
+227 - vassal: c_asozalil - Setting to vassal of d_ralilip in Validate Realm
+227 - Lost vassal: c_asozalil
+227 - Holder (1001941) has gained d_ralilip
+227 - Holder (1001941) has gained c_kenamon
+227 - Holder (1001941) has gained c_ronaya
+227 - Holder (1001941) has gained c_wasoppi
+227 - Holder (1001941) has gained c_denona
+227 - Holder (1001941) has gained c_asozalil
+228 - Destroyed due to flagged problem
+228 - Made independent
+228 - Title destroyed
+231 - Given to 1001941 in TestCreateEmpire
+231 - Title given to 1001941 - Primary title: d_ralilip
+231 - Made independent for title creation d_laralp for d_ralilip
+231 - Made independent
+231 - Gained vassal: c_kenamon
+231 - Gained vassal: c_ronaya
+231 - Gained vassal: c_wasoppi
+231 - Gained vassal: c_denona
+231 - Gained vassal: c_asozalil
+231 - Destroyed due to no capital's obtainable
+231 - Title destroyed
+231 - vassal: c_wasoppi - Setting independent due to liege destruction
+231 - vassal: c_wasoppi - Made independent
+231 - vassal: c_ronaya - Setting independent due to liege destruction
+231 - vassal: c_ronaya - Made independent
+231 - vassal: c_kenamon - Setting independent due to liege destruction
+231 - vassal: c_kenamon - Made independent
+231 - vassal: c_denona - Setting independent due to liege destruction
+231 - vassal: c_denona - Made independent
+231 - vassal: c_asozalil - Setting independent due to liege destruction
+231 - vassal: c_asozalil - Made independent
+234 - Given to 1001941 in TestCreateEmpire
+234 - Title given to 1001941 - Primary title: c_kenamon
+234 - Gained vassal: c_kenamon
+234 - Made independent for title creation d_laralp for d_laralp
+234 - vassal: c_kenamon - Set liege on title creation d_laralp
+234 - sub vassal: c_kenamon - Set liege on title creation d_laralp
+234 - Gained vassal: c_ronaya
+234 - Gained vassal: c_wasoppi
+234 - Gained vassal: c_denona
+234 - Gained vassal: c_asozalil
+234 - Destroyed due to no capital's obtainable
+234 - Title destroyed
+234 - vassal: c_asozalil - Setting independent due to liege destruction
+234 - vassal: c_asozalil - Made independent
+234 - vassal: c_denona - Setting independent due to liege destruction
+234 - vassal: c_denona - Made independent
+234 - vassal: c_wasoppi - Setting independent due to liege destruction
+234 - vassal: c_wasoppi - Made independent
+234 - vassal: c_ronaya - Setting independent due to liege destruction
+234 - vassal: c_ronaya - Made independent
+234 - vassal: c_kenamon - Setting independent due to liege destruction
+234 - vassal: c_kenamon - Made independent
+235 - Given to 1001941 in TestCreateEmpire
+235 - Title given to 1001941 - Primary title: c_kenamon
+235 - Gained vassal: c_kenamon
+235 - Made independent for title creation d_laralp for d_laralp
+235 - vassal: c_kenamon - Set liege on title creation d_laralp
+235 - sub vassal: c_kenamon - Set liege on title creation d_laralp
+235 - Gained vassal: c_ronaya
+235 - Gained vassal: c_wasoppi
+235 - Gained vassal: c_denona
+235 - Gained vassal: c_asozalil
+235 - Destroyed due to no capital's obtainable
+235 - Title destroyed
+235 - vassal: c_asozalil - Setting independent due to liege destruction
+235 - vassal: c_asozalil - Made independent
+235 - vassal: c_denona - Setting independent due to liege destruction
+235 - vassal: c_denona - Made independent
+235 - vassal: c_wasoppi - Setting independent due to liege destruction
+235 - vassal: c_wasoppi - Made independent
+235 - vassal: c_ronaya - Setting independent due to liege destruction
+235 - vassal: c_ronaya - Made independent
+235 - vassal: c_kenamon - Setting independent due to liege destruction
+235 - vassal: c_kenamon - Made independent
+247 - Given to 1001941 in TestCreateEmpire
+247 - Title given to 1001941 - Primary title: c_asozalil
+247 - Gained vassal: c_asozalil
+247 - Made independent for title creation d_laralp for d_laralp
+247 - vassal: c_asozalil - Set liege on title creation d_laralp
+247 - sub vassal: c_asozalil - Set liege on title creation d_laralp
+247 - Gained vassal: c_denona
+247 - Gained vassal: c_wasoppi
+247 - Gained vassal: c_ronaya
+247 - Gained vassal: c_kenamon
+247 - Destroyed due to no capital's obtainable
+247 - Title destroyed
+247 - vassal: c_kenamon - Setting independent due to liege destruction
+247 - vassal: c_kenamon - Made independent
+247 - vassal: c_ronaya - Setting independent due to liege destruction
+247 - vassal: c_ronaya - Made independent
+247 - vassal: c_wasoppi - Setting independent due to liege destruction
+247 - vassal: c_wasoppi - Made independent
+247 - vassal: c_denona - Setting independent due to liege destruction
+247 - vassal: c_denona - Made independent
+247 - vassal: c_asozalil - Setting independent due to liege destruction
+247 - vassal: c_asozalil - Made independent
+248 - Given to 1001941 in TestCreateEmpire
+248 - Title given to 1001941 - Primary title: c_asozalil
+248 - Gained vassal: c_asozalil
+248 - Made independent for title creation d_laralp for d_laralp
+248 - vassal: c_asozalil - Set liege on title creation d_laralp
+248 - sub vassal: c_asozalil - Set liege on title creation d_laralp
+248 - Gained vassal: c_denona
+248 - Gained vassal: c_wasoppi
+248 - Gained vassal: c_ronaya
+248 - Gained vassal: c_kenamon
+248 - Destroyed due to no capital's obtainable
+248 - Title destroyed
+248 - vassal: c_kenamon - Setting independent due to liege destruction
+248 - vassal: c_kenamon - Made independent
+248 - vassal: c_ronaya - Setting independent due to liege destruction
+248 - vassal: c_ronaya - Made independent
+248 - vassal: c_wasoppi - Setting independent due to liege destruction
+248 - vassal: c_wasoppi - Made independent
+248 - vassal: c_denona - Setting independent due to liege destruction
+248 - vassal: c_denona - Made independent
+248 - vassal: c_asozalil - Setting independent due to liege destruction
+248 - vassal: c_asozalil - Made independent
+285 - Given to 1007393 in TestCreateEmpire
+285 - Title given to 1007393 - Primary title: c_asozalil
+285 - Gained vassal: c_asozalil
+285 - Made independent for title creation d_laralp for d_laralp
+285 - vassal: c_asozalil - Set liege on title creation d_laralp
+285 - sub vassal: c_asozalil - Set liege on title creation d_laralp
+285 - Gained vassal: c_denona
+285 - Gained vassal: c_wasoppi
+285 - Gained vassal: c_ronaya
+285 - Gained vassal: c_kenamon
+285 - Destroyed due to no capital's obtainable
+285 - Title destroyed
+285 - vassal: c_kenamon - Setting independent due to liege destruction
+285 - vassal: c_kenamon - Made independent
+285 - vassal: c_ronaya - Setting independent due to liege destruction
+285 - vassal: c_ronaya - Made independent
+285 - vassal: c_wasoppi - Setting independent due to liege destruction
+285 - vassal: c_wasoppi - Made independent
+285 - vassal: c_denona - Setting independent due to liege destruction
+285 - vassal: c_denona - Made independent
+285 - vassal: c_asozalil - Setting independent due to liege destruction
+285 - vassal: c_asozalil - Made independent
+288 - Given to 1007393 in TestCreateEmpire
+288 - Title given to 1007393 - Primary title: c_asozalil
+288 - Gained vassal: c_asozalil
+288 - Made independent for title creation d_laralp for d_laralp
+288 - vassal: c_asozalil - Set liege on title creation d_laralp
+288 - sub vassal: c_asozalil - Set liege on title creation d_laralp
+288 - Gained vassal: c_denona
+288 - Gained vassal: c_wasoppi
+288 - Gained vassal: c_ronaya
+288 - Gained vassal: c_kenamon
+288 - Destroyed due to no capital's obtainable
+288 - Title destroyed
+288 - vassal: c_kenamon - Setting independent due to liege destruction
+288 - vassal: c_kenamon - Made independent
+288 - vassal: c_ronaya - Setting independent due to liege destruction
+288 - vassal: c_ronaya - Made independent
+288 - vassal: c_wasoppi - Setting independent due to liege destruction
+288 - vassal: c_wasoppi - Made independent
+288 - vassal: c_denona - Setting independent due to liege destruction
+288 - vassal: c_denona - Made independent
+288 - vassal: c_asozalil - Setting independent due to liege destruction
+288 - vassal: c_asozalil - Made independent
+301 - Given to 1010576 in TestCreateEmpire
+301 - Title given to 1010576 - Primary title: c_asozalil
+301 - Gained vassal: c_asozalil
+301 - Made independent for title creation d_laralp for d_laralp
+301 - vassal: c_asozalil - Set liege on title creation d_laralp
+301 - sub vassal: c_asozalil - Set liege on title creation d_laralp
+301 - Gained vassal: c_denona
+301 - Gained vassal: c_wasoppi
+301 - Gained vassal: c_ronaya
+301 - Gained vassal: c_kenamon
+301 - Destroyed due to no capital's obtainable
+301 - Title destroyed
+301 - vassal: c_kenamon - Setting independent due to liege destruction
+301 - vassal: c_kenamon - Made independent
+301 - vassal: c_ronaya - Setting independent due to liege destruction
+301 - vassal: c_ronaya - Made independent
+301 - vassal: c_wasoppi - Setting independent due to liege destruction
+301 - vassal: c_wasoppi - Made independent
+301 - vassal: c_denona - Setting independent due to liege destruction
+301 - vassal: c_denona - Made independent
+301 - vassal: c_asozalil - Setting independent due to liege destruction
+301 - vassal: c_asozalil - Made independent

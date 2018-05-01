@@ -1,0 +1,152 @@
+200 - Title given to 1000791
+200 - vassal: c_tind - Holder 1000791 - Primary title: c_tind has lost the title: c_tind
+200 - sub vassal: c_tind - Holder 1000791 - Primary title: c_tind has lost the title: c_tind
+200 - vassal: c_tind - Title given to 1000791 - Primary title: d_kadina
+200 - sub vassal: c_tind - Title given to 1000791 - Primary title: d_kadina
+200 - Holder (1000791) has gained c_tind
+200 - vassal: c_banatha - Holder 1000791 - Primary title: c_banatha has lost the title: c_banatha
+200 - sub vassal: c_banatha - Holder 1000791 - Primary title: c_banatha has lost the title: c_banatha
+200 - vassal: c_banatha - Title given to 1000791 - Primary title: d_kadina
+200 - sub vassal: c_banatha - Title given to 1000791 - Primary title: d_kadina
+200 - Holder (1000791) has gained c_banatha
+200 - vassal: c_kosiu - Holder 1000791 - Primary title: c_kosiu has lost the title: c_kosiu
+200 - sub vassal: c_kosiu - Holder 1000791 - Primary title: c_kosiu has lost the title: c_kosiu
+200 - vassal: c_kosiu - Title given to 1000791 - Primary title: d_kadina
+200 - sub vassal: c_kosiu - Title given to 1000791 - Primary title: d_kadina
+200 - Holder (1000791) has gained c_kosiu
+245 - Holder 1002219 - Primary title: d_kadina has lost the title: d_kadina
+245 - Title given to 1002219 - Primary title: d_beryana
+245 - vassal: c_kosiu - Holder 1002219 - Primary title: c_kosiu has lost the title: c_kosiu
+245 - vassal: c_kosiu - Title given to 1002219 - Primary title: d_beryana
+245 - vassal: c_banatha - Holder 1002219 - Primary title: c_banatha has lost the title: c_banatha
+245 - vassal: c_banatha - Title given to 1002219 - Primary title: d_beryana
+245 - vassal: c_tind - Holder 1002219 - Primary title: c_tind has lost the title: c_tind
+245 - vassal: c_tind - Title given to 1002219 - Primary title: d_beryana
+246 - Holder 1006217 - Primary title: d_kadina has lost the title: c_ladatha
+262 - Holder 1004808 - Primary title: d_kadina has lost the title: d_kadina
+262 - Title given to 1004808
+262 - vassal: c_tind - Setting to vassal of d_beryana in Validate Realm
+262 - Lost vassal: c_tind
+262 - vassal: c_banatha - Setting to vassal of d_beryana in Validate Realm
+262 - Lost vassal: c_banatha
+262 - vassal: c_kosiu - Setting to vassal of d_beryana in Validate Realm
+262 - Lost vassal: c_kosiu
+262 - Holder (1004808) has gained d_beryana
+262 - Holder (1004808) has gained c_tind
+262 - Holder (1004808) has gained c_banatha
+262 - Holder (1004808) has gained c_kosiu
+262 - Holder (1004808) has gained c_luyind
+262 - Holder (1004808) has gained c_qazina
+263 - Destroyed due to flagged problem
+263 - Made independent
+263 - Title destroyed
+263 - Given to 1004808 in TestCreateEmpire
+263 - Title given to 1004808 - Primary title: d_beryana
+263 - Made independent for title creation d_kadina for d_beryana
+263 - Made independent
+263 - Gained vassal: c_tind
+263 - Gained vassal: c_banatha
+263 - Gained vassal: c_kosiu
+263 - Gained vassal: c_luyind
+263 - Gained vassal: c_qazina
+264 - vassal: c_luyind - Title given to 1007764
+266 - vassal: c_qazina - Title given to 1007965
+266 - vassal: c_tind - Title given to 1007966
+266 - vassal: c_banatha - Title given to 1007967
+266 - vassal: c_kosiu - Title given to 1007968
+283 - sub vassal: c_kavule - Setting to vassal of d_kadina in Validate Realm
+283 - sub vassal: c_eskail - Setting to vassal of d_kadina in Validate Realm
+283 - sub vassal: c_sarule - Setting to vassal of d_kadina in Validate Realm
+283 - sub vassal: c_bazimir - Setting to vassal of d_kadina in Validate Realm
+283 - sub vassal: c_sosiu - Setting to vassal of d_kadina in Validate Realm
+283 - Gained vassal: c_sosiu
+283 - Gained vassal: c_bazimir
+283 - Gained vassal: c_sarule
+283 - Gained vassal: c_eskail
+283 - Gained vassal: c_kavule
+283 - Holder 1007687 - Primary title: d_kadina has lost the title: d_kadina
+283 - Title given to 1007687 - Primary title: k_aguyinia
+283 - vassal: c_kavule - Holder 1007687 - Primary title: c_kavule has lost the title: c_kavule
+283 - vassal: c_kavule - Title given to 1007687 - Primary title: k_aguyinia
+283 - vassal: c_eskail - Holder 1007687 - Primary title: c_eskail has lost the title: c_eskail
+283 - vassal: c_eskail - Title given to 1007687 - Primary title: k_aguyinia
+283 - vassal: c_sarule - Holder 1007687 - Primary title: c_sarule has lost the title: c_sarule
+283 - vassal: c_sarule - Title given to 1007687 - Primary title: k_aguyinia
+283 - vassal: c_bazimir - Holder 1007687 - Primary title: c_bazimir has lost the title: c_bazimir
+283 - vassal: c_bazimir - Title given to 1007687 - Primary title: k_aguyinia
+283 - vassal: c_sosiu - Holder 1007687 - Primary title: c_sosiu has lost the title: c_sosiu
+283 - vassal: c_sosiu - Title given to 1007687 - Primary title: k_aguyinia
+284 - vassal: c_bazimir - Title given to 1009448
+300 - vassal: c_sarule - Title given to 1010816
+300 - vassal: c_eskail - Title given to 1010817
+306 - Holder 1010092 - Primary title: d_kadina has lost the title: d_kadina
+306 - Title given to 1010092 - Primary title: k_aguyinia
+306 - vassal: c_sosiu - Setting independent in Validate Realm
+306 - vassal: c_sosiu - Made independent
+306 - vassal: c_kavule - Setting independent in Validate Realm
+306 - vassal: c_kavule - Made independent
+327 - sub vassal: c_qojyi - Setting to vassal of d_kadina in Validate Realm
+327 - sub vassal: c_qika - Setting to vassal of d_kadina in Validate Realm
+327 - Gained vassal: c_qika
+327 - Gained vassal: c_qojyi
+327 - Holder 1008847 - Primary title: d_kadina has lost the title: d_kadina
+327 - Title given to 1008847 - Primary title: k_aguyinia
+327 - vassal: c_qojyi - Holder 1008847 - Primary title: c_qojyi has lost the title: c_qojyi
+327 - vassal: c_qojyi - Title given to 1008847 - Primary title: k_aguyinia
+327 - vassal: c_qika - Holder 1008847 - Primary title: c_qika has lost the title: c_qika
+327 - vassal: c_qika - Title given to 1008847 - Primary title: k_aguyinia
+328 - vassal: c_qojyi - Title given to 1012983
+344 - sub vassal: c_reryana - Setting to vassal of d_kadina in Validate Realm
+344 - sub vassal: c_bujena - Setting to vassal of d_kadina in Validate Realm
+344 - Gained vassal: c_bujena
+344 - Gained vassal: c_reryana
+344 - Holder 1012985 - Primary title: d_kadina has lost the title: d_kadina
+344 - Title given to 1012985 - Primary title: k_aguyinia
+344 - vassal: c_qika - Holder 1012985 - Primary title: c_qika has lost the title: c_qika
+344 - vassal: c_qika - Title given to 1012985 - Primary title: k_aguyinia
+344 - vassal: c_reryana - Holder 1012985 - Primary title: c_reryana has lost the title: c_reryana
+344 - vassal: c_reryana - Title given to 1012985 - Primary title: k_aguyinia
+344 - vassal: c_bujena - Holder 1012985 - Primary title: c_bujena has lost the title: c_bujena
+344 - vassal: c_bujena - Title given to 1012985 - Primary title: k_aguyinia
+345 - vassal: c_reryana - Title given to 1014253
+346 - sub vassal: c_qasena - Setting to vassal of d_kadina in Validate Realm
+346 - Gained vassal: c_qasena
+346 - Holder 1013878 - Primary title: d_kadina has lost the title: d_kadina
+346 - Title given to 1013878 - Primary title: k_aguyinia
+346 - vassal: c_qasena - Holder 1013878 - Primary title: c_qasena has lost the title: c_suyyana
+346 - vassal: c_qasena - Holder 1013878 - Primary title: c_qasena has lost the title: c_wyahena
+346 - vassal: c_qasena - Holder 1013878 - Primary title: c_qasena has lost the title: c_qika
+346 - vassal: c_qika - Title given to 1013878 - Primary title: k_aguyinia
+346 - vassal: c_qasena - Holder 1013878 - Primary title: c_qasena has lost the title: c_bujena
+346 - vassal: c_bujena - Title given to 1013878 - Primary title: k_aguyinia
+364 - vassal: c_qasena - Holder 1007764 - Primary title: c_qasena has lost the title: c_qasena
+364 - vassal: c_qasena - Title given to 1007764 - Primary title: c_luyind
+364 - vassal: c_luyind - Holder (1007764) has gained c_qasena
+376 - Holder 1014400 - Primary title: d_kadina has lost the title: d_kadina
+376 - Title given to 1014400 - Primary title: k_aguyinia
+376 - vassal: c_bujena - Holder 1014400 - Primary title: c_bujena has lost the title: c_bujena
+376 - vassal: c_bujena - Title given to 1014400 - Primary title: k_aguyinia
+376 - vassal: c_qika - Holder 1014400 - Primary title: c_qika has lost the title: c_qika
+376 - vassal: c_qika - Title given to 1014400 - Primary title: k_aguyinia
+400 - vassal: c_qazina - Holder 1014400 - Primary title: c_qazina has lost the title: c_qazina
+400 - vassal: c_qazina - Title given to 1014400 - Primary title: k_aguyinia
+400 - vassal: c_tind - Holder 1012983 - Primary title: c_tind has lost the title: c_tind
+400 - vassal: c_tind - Title given to 1012983 - Primary title: c_qojyi
+400 - vassal: c_qojyi - Holder (1012983) has gained c_tind
+400 - vassal: c_banatha - Holder 1007968 - Primary title: c_banatha has lost the title: c_banatha
+400 - vassal: c_banatha - Title given to 1007968 - Primary title: c_kosiu
+400 - vassal: c_kosiu - Holder (1007968) has gained c_banatha
+400 - vassal: c_banatha - Holder 1012983 - Primary title: c_banatha has lost the title: c_kosiu
+400 - vassal: c_kosiu - Title given to 1012983 - Primary title: c_tind
+400 - vassal: c_tind - Holder (1012983) has gained c_kosiu
+400 - vassal: c_banatha - Holder 1012983 - Primary title: c_banatha has lost the title: c_banatha
+400 - vassal: c_banatha - Title given to 1012983 - Primary title: c_qojyi
+400 - vassal: c_qojyi - Holder (1012983) has gained c_banatha
+400 - vassal: c_bazimir - Holder 1012983 - Primary title: c_bazimir has lost the title: c_bazimir
+400 - vassal: c_bazimir - Title given to 1012983 - Primary title: c_banatha
+400 - vassal: c_banatha - Holder (1012983) has gained c_bazimir
+400 - vassal: c_sarule - Holder 1014400 - Primary title: c_sarule has lost the title: c_sarule
+400 - vassal: c_sarule - Title given to 1014400 - Primary title: k_aguyinia
+400 - vassal: c_eskail - Holder 1012983 - Primary title: c_eskail has lost the title: c_eskail
+400 - vassal: c_eskail - Title given to 1012983 - Primary title: c_bazimir
+400 - vassal: c_bazimir - Holder (1012983) has gained c_eskail

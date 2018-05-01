@@ -1,0 +1,56 @@
+200 - Title given to 1000595
+200 - vassal: c_bavosha - Given to 1000598 via AddCharacterForTitle
+200 - sub vassal: c_bavosha - Given to 1000598 via AddCharacterForTitle
+200 - vassal: c_bavosha - Holder 1000598 - Primary title: c_bavosha has lost the title: c_bavosha
+200 - sub vassal: c_bavosha - Holder 1000598 - Primary title: c_bavosha has lost the title: c_bavosha
+200 - vassal: c_bavosha - Title given to 1000598
+200 - sub vassal: c_bavosha - Title given to 1000598
+200 - vassal: c_wurud - Given to 1000600 via AddCharacterForTitle
+200 - sub vassal: c_wurud - Given to 1000600 via AddCharacterForTitle
+200 - vassal: c_wurud - Holder 1000600 - Primary title: c_wurud has lost the title: c_wurud
+200 - sub vassal: c_wurud - Holder 1000600 - Primary title: c_wurud has lost the title: c_wurud
+200 - vassal: c_wurud - Title given to 1000600
+200 - sub vassal: c_wurud - Title given to 1000600
+200 - vassal: c_qeonud - Holder 1000595 - Primary title: c_qeonud has lost the title: c_qeonud
+200 - sub vassal: c_qeonud - Holder 1000595 - Primary title: c_qeonud has lost the title: c_qeonud
+200 - vassal: c_qeonud - Title given to 1000595 - Primary title: d_kaheke
+200 - sub vassal: c_qeonud - Title given to 1000595 - Primary title: d_kaheke
+200 - Holder (1000595) has gained c_qeonud
+200 - vassal: c_bavosha - Holder 1000595 - Primary title: c_bavosha has lost the title: c_bavosha
+200 - sub vassal: c_bavosha - Holder 1000595 - Primary title: c_bavosha has lost the title: c_bavosha
+200 - vassal: c_bavosha - Title given to 1000595 - Primary title: d_kaheke
+200 - sub vassal: c_bavosha - Title given to 1000595 - Primary title: d_kaheke
+200 - Holder (1000595) has gained c_bavosha
+200 - vassal: c_wurud - Holder 1000595 - Primary title: c_wurud has lost the title: c_wurud
+200 - sub vassal: c_wurud - Holder 1000595 - Primary title: c_wurud has lost the title: c_wurud
+200 - vassal: c_wurud - Title given to 1000595 - Primary title: d_kaheke
+200 - sub vassal: c_wurud - Title given to 1000595 - Primary title: d_kaheke
+200 - Holder (1000595) has gained c_wurud
+200 - Holder 1000566 - Primary title: d_kaheke has lost the title: d_kaheke
+200 - Title given to 1000566 - Primary title: d_lavan
+200 - vassal: c_wurud - Holder 1000566 - Primary title: c_wurud has lost the title: c_wurud
+200 - vassal: c_wurud - Title given to 1000566 - Primary title: d_lavan
+200 - vassal: c_bavosha - Holder 1000566 - Primary title: c_bavosha has lost the title: c_bavosha
+200 - vassal: c_bavosha - Title given to 1000566 - Primary title: d_lavan
+200 - vassal: c_qeonud - Holder 1000566 - Primary title: c_qeonud has lost the title: c_qeonud
+200 - vassal: c_qeonud - Title given to 1000566 - Primary title: d_lavan
+202 - Holder 1000574 - Primary title: d_kaheke has lost the title: d_lavan
+202 - Gained vassal: c_qaular
+202 - Gained vassal: c_raheke
+202 - Holder 1000574 - Primary title: d_kaheke has lost the title: c_raheke
+202 - vassal: c_raheke - Title given to 1000574 - Primary title: d_evajilet
+202 - vassal: c_raheke - Setting to vassal of d_evajilet in Validate Realm
+202 - Lost vassal: c_raheke
+202 - Holder 1000574 - Primary title: d_kaheke has lost the title: c_qaular
+202 - vassal: c_qaular - Title given to 1000574 - Primary title: d_evajilet
+202 - vassal: c_qaular - Setting to vassal of d_evajilet in Validate Realm
+202 - Lost vassal: c_qaular
+202 - Holder 1000574 - Primary title: d_kaheke has lost the title: d_kaheke
+202 - Title given to 1000574 - Primary title: d_evajilet
+202 - vassal: c_wurud - Holder 1000574 - Primary title: c_wurud has lost the title: c_wurud
+202 - vassal: c_wurud - Title given to 1000574 - Primary title: d_evajilet
+202 - vassal: c_bavosha - Holder 1000574 - Primary title: c_bavosha has lost the title: c_bavosha
+202 - vassal: c_bavosha - Title given to 1000574 - Primary title: d_evajilet
+202 - vassal: c_qeonud - Holder 1000574 - Primary title: c_qeonud has lost the title: c_qeonud
+202 - vassal: c_qeonud - Title given to 1000574 - Primary title: d_evajilet
+203 - Holder 1002337 - Primary title: d_kaheke has lost 

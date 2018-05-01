@@ -1,0 +1,84 @@
+200 - Title given to 1001108
+200 - vassal: c_kora - Holder 1001108 - Primary title: c_kora has lost the title: c_kora
+200 - sub vassal: c_kora - Holder 1001108 - Primary title: c_kora has lost the title: c_kora
+200 - vassal: c_kora - Title given to 1001108 - Primary title: d_aromuel
+200 - sub vassal: c_kora - Title given to 1001108 - Primary title: d_aromuel
+200 - Holder (1001108) has gained c_kora
+200 - vassal: c_diranie - Holder 1001108 - Primary title: c_diranie has lost the title: c_diranie
+200 - sub vassal: c_diranie - Holder 1001108 - Primary title: c_diranie has lost the title: c_diranie
+200 - vassal: c_diranie - Title given to 1001108 - Primary title: d_aromuel
+200 - sub vassal: c_diranie - Title given to 1001108 - Primary title: d_aromuel
+200 - Holder (1001108) has gained c_diranie
+200 - vassal: c_karulai - Holder 1001108 - Primary title: c_karulai has lost the title: c_karulai
+200 - sub vassal: c_karulai - Holder 1001108 - Primary title: c_karulai has lost the title: c_karulai
+200 - vassal: c_karulai - Title given to 1001108 - Primary title: d_aromuel
+200 - sub vassal: c_karulai - Title given to 1001108 - Primary title: d_aromuel
+200 - Holder (1001108) has gained c_karulai
+215 - Holder 1002384 - Primary title: d_aromuel has lost the title: d_aromuel
+215 - Title given to 1002384
+215 - vassal: c_karulai - Holder 1002384 - Primary title: c_karulai has lost the title: c_karulai
+215 - vassal: c_karulai - Title given to 1002384 - Primary title: d_aromuel
+215 - Holder (1002384) has gained c_karulai
+215 - vassal: c_diranie - Holder 1002384 - Primary title: c_diranie has lost the title: c_diranie
+215 - vassal: c_diranie - Title given to 1002384 - Primary title: d_aromuel
+215 - Holder (1002384) has gained c_diranie
+215 - vassal: c_kora - Holder 1002384 - Primary title: c_kora has lost the title: c_kora
+215 - vassal: c_kora - Title given to 1002384 - Primary title: d_aromuel
+215 - Holder (1002384) has gained c_kora
+252 - Holder 1005109 - Primary title: d_aromuel has lost the title: d_aromuel
+252 - Title given to 1005109
+252 - vassal: c_karulai - Holder 1005109 - Primary title: c_karulai has lost the title: c_karulai
+252 - vassal: c_karulai - Title given to 1005109 - Primary title: d_aromuel
+252 - Holder (1005109) has gained c_karulai
+252 - vassal: c_diranie - Holder 1005109 - Primary title: c_diranie has lost the title: c_diranie
+252 - vassal: c_diranie - Title given to 1005109 - Primary title: d_aromuel
+252 - Holder (1005109) has gained c_diranie
+252 - vassal: c_kora - Holder 1005109 - Primary title: c_kora has lost the title: c_kora
+252 - vassal: c_kora - Title given to 1005109 - Primary title: d_aromuel
+252 - Holder (1005109) has gained c_kora
+253 - Holder 1002426 - Primary title: d_aromuel has lost the title: d_aromuel
+253 - Title given to 1002426 - Primary title: k_kiwuel
+253 - vassal: c_karulai - Holder 1002426 - Primary title: c_karulai has lost the title: c_karulai
+253 - vassal: c_karulai - Title given to 1002426 - Primary title: k_kiwuel
+253 - vassal: c_diranie - Holder 1002426 - Primary title: c_diranie has lost the title: c_diranie
+253 - vassal: c_diranie - Title given to 1002426 - Primary title: k_kiwuel
+253 - vassal: c_kora - Holder 1002426 - Primary title: c_kora has lost the title: c_kora
+253 - vassal: c_kora - Title given to 1002426 - Primary title: k_kiwuel
+258 - Gained vassal: c_ruduka
+258 - Gained vassal: c_rambona
+258 - Holder 1006402 - Primary title: d_aromuel has lost the title: c_rambona
+258 - vassal: c_rambona - Title given to 1006402 - Primary title: k_kiwuel
+258 - vassal: c_rambona - Setting to vassal of k_kiwuel in Validate Realm
+258 - Lost vassal: c_rambona
+258 - Holder 1006402 - Primary title: d_aromuel has lost the title: c_ruduka
+258 - vassal: c_ruduka - Title given to 1006402 - Primary title: k_kiwuel
+258 - vassal: c_ruduka - Setting to vassal of k_kiwuel in Validate Realm
+258 - Lost vassal: c_ruduka
+258 - Holder 1006402 - Primary title: d_aromuel has lost the title: d_aromuel
+258 - Title given to 1006402 - Primary title: k_kiwuel
+258 - vassal: c_karulai - Holder 1006402 - Primary title: c_karulai has lost the title: c_karulai
+258 - vassal: c_karulai - Title given to 1006402 - Primary title: k_kiwuel
+258 - vassal: c_diranie - Holder 1006402 - Primary title: c_diranie has lost the title: c_diranie
+258 - vassal: c_diranie - Title given to 1006402 - Primary title: k_kiwuel
+258 - vassal: c_kora - Holder 1006402 - Primary title: c_kora has lost the title: c_kora
+258 - vassal: c_kora - Title given to 1006402 - Primary title: k_kiwuel
+285 - vassal: c_karulai - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - vassal: c_karulai - Given to neighbour holder of k_evishp
+285 - vassal: c_kora - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - vassal: c_kora - Given to neighbour holder of k_evishp
+285 - vassal: c_diranie - Made vassal of neighbour (k_evishp) due to being a seperate island
+285 - vassal: c_diranie - Given to neighbour holder of k_evishp
+286 - vassal: c_karulai - Title given to 1009604
+286 - vassal: c_diranie - Title given to 1009606
+286 - vassal: c_diranie - Made vassal of neighbour (d_kaicha) due to being a seperate island
+286 - Lost vassal: c_diranie
+286 - vassal: c_kora - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - vassal: c_kora - Given to neighbour holder of k_evishp
+286 - vassal: c_karulai - Made vassal of neighbour (k_evishp) due to being a seperate island
+286 - Lost vassal: c_karulai
+287 - vassal: c_kora - Title given to 1009689
+287 - vassal: c_kora - Made vassal of neighbour (k_evishp) due to being a seperate island
+287 - Lost vassal: c_kora
+288 - Destroyed due to flagged problem
+288 - Made independent
+288 - Title destroyed

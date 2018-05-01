@@ -1,0 +1,126 @@
+200 - Title given to 1000085
+200 - vassal: c_badike - Holder 1000085 - Primary title: c_badike has lost the title: c_badike
+200 - sub vassal: c_badike - Holder 1000085 - Primary title: c_badike has lost the title: c_badike
+200 - vassal: c_badike - Title given to 1000085 - Primary title: d_atetle
+200 - sub vassal: c_badike - Title given to 1000085 - Primary title: d_atetle
+200 - Holder (1000085) has gained c_badike
+200 - vassal: c_ekamike - Holder 1000085 - Primary title: c_ekamike has lost the title: c_ekamike
+200 - sub vassal: c_ekamike - Holder 1000085 - Primary title: c_ekamike has lost the title: c_ekamike
+200 - vassal: c_ekamike - Title given to 1000085 - Primary title: d_atetle
+200 - sub vassal: c_ekamike - Title given to 1000085 - Primary title: d_atetle
+200 - Holder (1000085) has gained c_ekamike
+216 - Holder 1002200 - Primary title: d_atetle has lost the title: d_atetle
+216 - Title given to 1002200
+216 - vassal: c_ekamike - Holder 1002200 - Primary title: c_ekamike has lost the title: c_ekamike
+216 - vassal: c_ekamike - Title given to 1002200 - Primary title: d_atetle
+216 - Holder (1002200) has gained c_ekamike
+216 - vassal: c_badike - Holder 1002200 - Primary title: c_badike has lost the title: c_badike
+216 - vassal: c_badike - Title given to 1002200 - Primary title: d_atetle
+216 - Holder (1002200) has gained c_badike
+221 - Holder 1000072 - Primary title: d_atetle has lost the title: d_atetle
+221 - Title given to 1000072 - Primary title: d_agrelgil
+221 - vassal: c_badike - Holder 1000072 - Primary title: c_badike has lost the title: c_badike
+221 - vassal: c_badike - Title given to 1000072 - Primary title: d_agrelgil
+221 - vassal: c_ekamike - Holder 1000072 - Primary title: c_ekamike has lost the title: c_ekamike
+221 - vassal: c_ekamike - Title given to 1000072 - Primary title: d_agrelgil
+226 - Holder 1002199 - Primary title: d_atetle has lost the title: d_agrelgil
+226 - Gained vassal: c_kavugel
+226 - Gained vassal: c_davike
+226 - Gained vassal: c_tetlu
+226 - Holder 1002199 - Primary title: d_atetle has lost the title: c_tetlu
+226 - vassal: c_tetlu - Title given to 1002199 - Primary title: d_agrelgil
+226 - vassal: c_tetlu - Setting to vassal of d_agrelgil in Validate Realm
+226 - Lost vassal: c_tetlu
+226 - Holder 1002199 - Primary title: d_atetle has lost the title: c_davike
+226 - vassal: c_davike - Title given to 1002199 - Primary title: d_agrelgil
+226 - vassal: c_davike - Setting to vassal of d_agrelgil in Validate Realm
+226 - Lost vassal: c_davike
+226 - Holder 1002199 - Primary title: d_atetle has lost the title: c_kavugel
+226 - vassal: c_kavugel - Title given to 1002199 - Primary title: d_agrelgil
+226 - vassal: c_kavugel - Setting to vassal of d_agrelgil in Validate Realm
+226 - Lost vassal: c_kavugel
+226 - Holder 1002199 - Primary title: d_atetle has lost the title: d_atetle
+226 - Title given to 1002199 - Primary title: d_agrelgil
+226 - vassal: c_badike - Holder 1002199 - Primary title: c_badike has lost the title: c_badike
+226 - vassal: c_badike - Title given to 1002199 - Primary title: d_agrelgil
+226 - vassal: c_ekamike - Holder 1002199 - Primary title: c_ekamike has lost the title: c_ekamike
+226 - vassal: c_ekamike - Title given to 1002199 - Primary title: d_agrelgil
+245 - Gained vassal: c_tetlu
+245 - Gained vassal: c_davike
+245 - Gained vassal: c_kavugel
+245 - Holder 1000058 - Primary title: d_atetle has lost the title: d_atetle
+245 - Title given to 1000058 - Primary title: d_qereij
+245 - vassal: c_ekamike - Holder 1000058 - Primary title: c_ekamike has lost the title: c_ekamike
+245 - vassal: c_ekamike - Title given to 1000058 - Primary title: d_qereij
+245 - vassal: c_badike - Holder 1000058 - Primary title: c_badike has lost the title: c_badike
+245 - vassal: c_badike - Title given to 1000058 - Primary title: d_qereij
+245 - vassal: c_kavugel - Holder 1000058 - Primary title: c_kavugel has lost the title: c_kavugel
+245 - vassal: c_kavugel - Title given to 1000058 - Primary title: d_qereij
+245 - vassal: c_davike - Holder 1000058 - Primary title: c_davike has lost the title: c_davike
+245 - vassal: c_davike - Title given to 1000058 - Primary title: d_qereij
+245 - vassal: c_tetlu - Holder 1000058 - Primary title: c_tetlu has lost the title: c_tetlu
+245 - vassal: c_tetlu - Title given to 1000058 - Primary title: d_qereij
+246 - vassal: c_davike - Title given to 1005721
+246 - vassal: c_tetlu - Title given to 1005722
+246 - vassal: c_badike - Title given to 1005723
+246 - vassal: c_ekamike - Title given to 1005724
+247 - Gained vassal: c_rolaya
+247 - Gained vassal: c_bamugel
+247 - Gained vassal: c_qavenmi
+247 - Gained vassal: c_woliazis
+247 - Holder 1001460 - Primary title: d_atetle has lost the title: c_woliazis
+247 - vassal: c_woliazis - Title given to 1001460 - Primary title: k_wereij
+247 - vassal: c_woliazis - Setting to vassal of k_wereij in Validate Realm
+247 - Lost vassal: c_woliazis
+247 - Holder 1001460 - Primary title: d_atetle has lost the title: c_qavenmi
+247 - vassal: c_qavenmi - Title given to 1001460 - Primary title: k_wereij
+247 - vassal: c_qavenmi - Setting to vassal of k_wereij in Validate Realm
+247 - Lost vassal: c_qavenmi
+247 - Holder 1001460 - Primary title: d_atetle has lost the title: c_bamugel
+247 - vassal: c_bamugel - Title given to 1001460 - Primary title: k_wereij
+247 - vassal: c_bamugel - Setting to vassal of k_wereij in Validate Realm
+247 - Lost vassal: c_bamugel
+247 - Holder 1001460 - Primary title: d_atetle has lost the title: c_rolaya
+247 - vassal: c_rolaya - Title given to 1001460 - Primary title: k_wereij
+247 - vassal: c_rolaya - Setting to vassal of k_wereij in Validate Realm
+247 - Lost vassal: c_rolaya
+247 - Holder 1001460 - Primary title: d_atetle has lost the title: d_atetle
+247 - Title given to 1001460 - Primary title: k_wereij
+247 - vassal: c_kavugel - Holder 1001460 - Primary title: c_kavugel has lost the title: c_kavugel
+247 - vassal: c_kavugel - Title given to 1001460 - Primary title: k_wereij
+250 - Gained vassal: c_rolaya
+250 - Gained vassal: c_bamugel
+250 - Gained vassal: c_qavenmi
+250 - Gained vassal: c_woliazis
+250 - Holder 1002201 - Primary title: d_atetle has lost the title: c_woliazis
+250 - vassal: c_woliazis - Title given to 1002201 - Primary title: k_wereij
+250 - vassal: c_woliazis - Setting to vassal of k_wereij in Validate Realm
+250 - Lost vassal: c_woliazis
+250 - Holder 1002201 - Primary title: d_atetle has lost the title: c_qavenmi
+250 - vassal: c_qavenmi - Title given to 1002201 - Primary title: k_wereij
+250 - vassal: c_qavenmi - Setting to vassal of k_wereij in Validate Realm
+250 - Lost vassal: c_qavenmi
+250 - Holder 1002201 - Primary title: d_atetle has lost the title: c_bamugel
+250 - vassal: c_bamugel - Title given to 1002201 - Primary title: k_wereij
+250 - vassal: c_bamugel - Setting to vassal of k_wereij in Validate Realm
+250 - Lost vassal: c_bamugel
+250 - Holder 1002201 - Primary title: d_atetle has lost the title: c_rolaya
+250 - vassal: c_rolaya - Title given to 1002201 - Primary title: k_wereij
+250 - vassal: c_rolaya - Setting to vassal of k_wereij in Validate Realm
+250 - Lost vassal: c_rolaya
+250 - Holder 1002201 - Primary title: d_atetle has lost the title: d_atetle
+250 - Title given to 1002201 - Primary title: k_wereij
+250 - vassal: c_kavugel - Holder 1002201 - Primary title: c_kavugel has lost the title: c_kavugel
+250 - vassal: c_kavugel - Title given to 1002201 - Primary title: k_wereij
+252 - vassal: c_kavugel - Title given to 1006220
+254 - Holder 1006347 - Primary title: d_atetle has lost the title: c_woliazis
+254 - Gained vassal: c_rolaya
+254 - Gained vassal: c_bamugel
+254 - Gained vassal: c_qavenmi
+254 - Holder 1006347 - Primary title: d_atetle has lost the title: c_qavenmi
+254 - vassal: c_qavenmi - Title given to 1006347 - Primary title: k_wereij
+254 - vassal: c_qavenmi - Setting to vassal of k_wereij in Validate Realm
+254 - Lost vassal: c_qavenmi
+254 - Holder 1006347 - Primary title: d_atetle has lost the title: c_bamugel
+254 - vassal: c_bamugel - Title given to 1006347 - Primary title: k_wereij
+254 - vassal: c_bamugel - Setting to vassa

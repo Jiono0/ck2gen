@@ -1,0 +1,130 @@
+200 - Title given to 1001091
+200 - vassal: c_weredrik - Holder 1001079 - Primary title: c_weredrik has lost the title: c_dalaka
+200 - sub vassal: c_weredrik - Holder 1001079 - Primary title: c_weredrik has lost the title: c_dalaka
+200 - sub vassal: c_dalaka - Title given to 1001079 - Primary title: d_tebona
+200 - vassal: c_egobanie - Holder 1001091 - Primary title: c_egobanie has lost the title: c_egobanie
+200 - sub vassal: c_egobanie - Holder 1001091 - Primary title: c_egobanie has lost the title: c_egobanie
+200 - vassal: c_egobanie - Title given to 1001091 - Primary title: d_runail
+200 - sub vassal: c_egobanie - Title given to 1001091 - Primary title: d_runail
+200 - Holder (1001091) has gained c_egobanie
+200 - vassal: c_kenetta - Holder 1001091 - Primary title: c_kenetta has lost the title: c_kenetta
+200 - sub vassal: c_kenetta - Holder 1001091 - Primary title: c_kenetta has lost the title: c_kenetta
+200 - vassal: c_kenetta - Title given to 1001091 - Primary title: d_runail
+200 - sub vassal: c_kenetta - Title given to 1001091 - Primary title: d_runail
+200 - Holder (1001091) has gained c_kenetta
+200 - vassal: c_kayaninn - Holder 1001091 - Primary title: c_kayaninn has lost the title: c_kayaninn
+200 - sub vassal: c_kayaninn - Holder 1001091 - Primary title: c_kayaninn has lost the title: c_kayaninn
+200 - vassal: c_kayaninn - Title given to 1001091 - Primary title: d_runail
+200 - sub vassal: c_kayaninn - Title given to 1001091 - Primary title: d_runail
+200 - Holder (1001091) has gained c_kayaninn
+200 - vassal: c_weredrik - Holder 1001091 - Primary title: c_weredrik has lost the title: c_weredrik
+200 - sub vassal: c_weredrik - Holder 1001091 - Primary title: c_weredrik has lost the title: c_weredrik
+200 - vassal: c_weredrik - Title given to 1001091 - Primary title: d_runail
+200 - sub vassal: c_weredrik - Title given to 1001091 - Primary title: d_runail
+200 - Holder (1001091) has gained c_weredrik
+209 - Holder 1002648 - Primary title: d_runail has lost the title: d_runail
+209 - Title given to 1002648
+209 - vassal: c_weredrik - Holder 1002648 - Primary title: c_weredrik has lost the title: c_weredrik
+209 - vassal: c_weredrik - Title given to 1002648 - Primary title: d_runail
+209 - Holder (1002648) has gained c_weredrik
+209 - vassal: c_kayaninn - Holder 1002648 - Primary title: c_kayaninn has lost the title: c_kayaninn
+209 - vassal: c_kayaninn - Title given to 1002648 - Primary title: d_runail
+209 - Holder (1002648) has gained c_kayaninn
+209 - vassal: c_kenetta - Holder 1002648 - Primary title: c_kenetta has lost the title: c_kenetta
+209 - vassal: c_kenetta - Title given to 1002648 - Primary title: d_runail
+209 - Holder (1002648) has gained c_kenetta
+209 - vassal: c_egobanie - Holder 1002648 - Primary title: c_egobanie has lost the title: c_egobanie
+209 - vassal: c_egobanie - Title given to 1002648 - Primary title: d_runail
+209 - Holder (1002648) has gained c_egobanie
+261 - Holder 1006142 - Primary title: d_runail has lost the title: d_runail
+261 - Title given to 1006142
+261 - vassal: c_egobanie - Holder 1006142 - Primary title: c_egobanie has lost the title: c_egobanie
+261 - vassal: c_egobanie - Title given to 1006142 - Primary title: d_runail
+261 - Holder (1006142) has gained c_egobanie
+261 - vassal: c_kenetta - Holder 1006142 - Primary title: c_kenetta has lost the title: c_kenetta
+261 - vassal: c_kenetta - Title given to 1006142 - Primary title: d_runail
+261 - Holder (1006142) has gained c_kenetta
+261 - vassal: c_kayaninn - Holder 1006142 - Primary title: c_kayaninn has lost the title: c_kayaninn
+261 - vassal: c_kayaninn - Title given to 1006142 - Primary title: d_runail
+261 - Holder (1006142) has gained c_kayaninn
+261 - vassal: c_weredrik - Holder 1006142 - Primary title: c_weredrik has lost the title: c_weredrik
+261 - vassal: c_weredrik - Title given to 1006142 - Primary title: d_runail
+261 - Holder (1006142) has gained c_weredrik
+264 - Made vassal of neighbour (k_evishp) due to being a seperate island
+264 - Given to neighbour holder of k_evishp
+264 - Holder 1004415 - Primary title: d_runail has lost the title: d_runail
+264 - Title given to 1004415 - Primary title: k_evishp
+278 - Gained vassal: c_ebarona
+278 - Gained vassal: c_taramon
+278 - Gained vassal: c_rodoppi
+278 - Gained vassal: c_nebuka
+278 - Holder 1007444 - Primary title: d_runail has lost the title: c_nebuka
+278 - vassal: c_nebuka - Title given to 1007444 - Primary title: k_evishp
+278 - vassal: c_nebuka - Setting to vassal of k_evishp in Validate Realm
+278 - Lost vassal: c_nebuka
+278 - Holder 1007444 - Primary title: d_runail has lost the title: c_rodoppi
+278 - vassal: c_rodoppi - Title given to 1007444 - Primary title: k_evishp
+278 - vassal: c_rodoppi - Setting to vassal of k_evishp in Validate Realm
+278 - Lost vassal: c_rodoppi
+278 - Holder 1007444 - Primary title: d_runail has lost the title: c_taramon
+278 - vassal: c_taramon - Title given to 1007444 - Primary title: k_evishp
+278 - vassal: c_taramon - Setting to vassal of k_evishp in Validate Realm
+278 - Lost vassal: c_taramon
+278 - Holder 1007444 - Primary title: d_runail has lost the title: d_runail
+278 - Title given to 1007444 - Primary title: k_evishp
+278 - vassal: c_ebarona - Holder 1007444 - Primary title: c_ebarona has lost the title: c_ebarona
+278 - vassal: c_ebarona - Title given to 1007444 - Primary title: k_evishp
+286 - vassal: c_ebarona - Title given to 1009602
+289 - vassal: c_egobanie - Given to 1009837 in HandleTitles - Too many duke titles
+289 - vassal: c_egobanie - Holder 1009837 - Primary title: c_egobanie has lost the title: c_egobanie
+289 - vassal: c_egobanie - Title given to 1009837
+289 - Title given to 1009837 - Primary title: c_egobanie
+289 - vassal: c_egobanie - Holder (1009837) has gained d_runail
+289 - Too many dukes, made direct title into vassal of k_evishp
+296 - Holder (1009837) has gained d_reetail
+296 - Holder (1009837) has gained c_kodesar
+297 - vassal: c_egobanie - Given to 1010530 in HandleTitles - Too many duke titles
+297 - vassal: c_egobanie - Title given to 1010530
+297 - Title given to 1010530 - Primary title: c_egobanie
+297 - vassal: c_egobanie - Holder (1010530) has gained d_runail
+297 - Too many dukes, made direct title into vassal of k_evishp
+299 - Holder 1009603 - Primary title: d_runail has lost the title: d_runail
+299 - Title given to 1009603 - Primary title: c_taramon
+299 - Gained vassal: c_taramon
+299 - vassal: c_egobanie - Holder 1009603 - Primary title: c_egobanie has lost the title: c_egobanie
+299 - vassal: c_egobanie - Title given to 1009603 - Primary title: d_runail
+299 - Holder (1009603) has gained c_egobanie
+339 - Holder 1013796 - Primary title: d_runail has lost the title: d_runail
+339 - Title given to 1013796
+339 - vassal: c_taramon - Holder 1013796 - Primary title: c_taramon has lost the title: c_taramon
+339 - vassal: c_taramon - Title given to 1013796 - Primary title: d_runail
+339 - Holder (1013796) has gained c_taramon
+339 - vassal: c_egobanie - Holder 1013796 - Primary title: c_egobanie has lost the title: c_egobanie
+339 - vassal: c_egobanie - Title given to 1013796 - Primary title: d_runail
+339 - Holder (1013796) has gained c_egobanie
+339 - Holder (1013796) has gained k_evishp
+340 - vassal: c_egobanie - Given to 1013883 in HandleTitles - Too many duke titles
+340 - vassal: c_egobanie - Title given to 1013883
+340 - Title given to 1013883 - Primary title: c_egobanie
+340 - vassal: c_egobanie - Holder (1013883) has gained d_runail
+340 - vassal: c_taramon - Setting to vassal of k_evishp in Validate Realm
+340 - Lost vassal: c_taramon
+340 - Too many dukes, made direct title into vassal of k_evishp
+375 - Holder 1014241 - Primary title: d_runail has lost the title: d_runail
+375 - Title given to 1014241
+375 - vassal: c_egobanie - Holder 1014241 - Primary title: c_egobanie has lost the title: c_egobanie
+375 - vassal: c_egobanie - Title given to 1014241 - Primary title: d_runail
+375 - Holder (1014241) has gained c_egobanie
+387 - Holder 1014893 - Primary title: d_runail has lost the title: d_runail
+387 - Title given to 1014893 - Primary title: k_evishp
+387 - vassal: c_egobanie - Holder 1014893 - Primary title: c_egobanie has lost the title: c_egobanie
+387 - vassal: c_egobanie - Title given to 1014893 - Primary title: k_evishp
+387 - vassal: c_egobanie - Title given to 1017212
+400 - vassal: c_kenetta - Holder 1014893 - Primary title: c_kenetta has lost the title: c_kenetta
+400 - vassal: c_kenetta - Title given to 1014893 - Primary title: k_evishp
+400 - vassal: c_kayaninn - Holder 1014893 - Primary title: c_kayaninn has lost the title: c_kayaninn
+400 - vassal: c_kayaninn - Title given to 1014893 - Primary title: k_evishp
+400 - vassal: c_weredrik - Holder 1014893 - Primary title: c_weredrik has lost the title: c_weredrik
+400 - vassal: c_weredrik - Title given to 1014893 - Primary title: k_evishp
+400 - vassal: c_ebarona - Holder 1014893 - Primary title: c_ebarona has lost the title: c_ebarona
+400 - vassal: c_ebarona - Title given to 1014893 - Primary title: k_evishp

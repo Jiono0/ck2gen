@@ -1,0 +1,697 @@
+200 - Title given to 1001482
+200 - vassal: d_sasaro - Holder 1001482 - Primary title: d_sasaro has lost the title: c_keze
+200 - sub vassal: d_sasaro - Holder 1001482 - Primary title: d_sasaro has lost the title: c_keze
+200 - sub vassal: c_keze - Title given to 1001482 - Primary title: k_qavelin
+200 - Holder (1001482) has gained c_keze
+200 - vassal: d_tuleter - Holder 1001482 - Primary title: d_tuleter has lost the title: d_tuleter
+200 - sub vassal: d_tuleter - Holder 1001482 - Primary title: d_tuleter has lost the title: d_tuleter
+200 - vassal: d_tuleter - Title given to 1001482 - Primary title: k_qavelin
+200 - sub vassal: d_tuleter - Title given to 1001482 - Primary title: k_qavelin
+200 - Holder (1001482) has gained d_tuleter
+200 - vassal: d_tarevna - Holder 1001482 - Primary title: d_tarevna has lost the title: d_tarevna
+200 - sub vassal: d_tarevna - Holder 1001482 - Primary title: d_tarevna has lost the title: d_tarevna
+200 - vassal: d_tarevna - Title given to 1001482 - Primary title: k_qavelin
+200 - sub vassal: d_tarevna - Title given to 1001482 - Primary title: k_qavelin
+200 - Holder (1001482) has gained d_tarevna
+200 - vassal: d_relka - Holder 1001482 - Primary title: d_relka has lost the title: d_relka
+200 - sub vassal: d_relka - Holder 1001482 - Primary title: d_relka has lost the title: d_relka
+200 - vassal: d_relka - Title given to 1001482 - Primary title: k_qavelin
+200 - sub vassal: d_relka - Title given to 1001482 - Primary title: k_qavelin
+200 - Holder (1001482) has gained d_relka
+200 - sub vassal: c_riam - Given to 1001979 in HandleTitles - Too many duke titles
+200 - sub vassal: c_riam - Holder 1001979 - Primary title: c_riam has lost the title: c_riam
+200 - sub vassal: c_riam - Title given to 1001979
+200 - sub vassal: c_keze - Setting to vassal of k_qavelin in Validate Realm
+200 - vassal: d_sasaro - Lost vassal: c_keze
+200 - sub vassal: d_sasaro - Lost vassal: c_keze
+200 - Gained vassal: c_keze
+200 - Holder 1001979 - Primary title: k_qavelin has lost the title: d_tuleter
+200 - vassal: d_tuleter - Title given to 1001979 - Primary title: c_riam
+200 - sub vassal: d_tuleter - Title given to 1001979 - Primary title: c_riam
+200 - sub vassal: c_riam - Holder (1001979) has gained d_tuleter
+200 - vassal: d_tuleter - Too many dukes, given to dejure: k_qavelin
+200 - sub vassal: d_tuleter - Too many dukes, given to dejure: k_qavelin
+200 - sub vassal: c_diate - Made independent due to being a seperate island
+200 - sub vassal: c_diate - Made independent
+200 - Holder (1001482) has gained c_wena
+201 - vassal: d_relka - Destroyed due to flagged problem
+201 - sub vassal: d_relka - Destroyed due to flagged problem
+201 - vassal: d_relka - Made independent
+201 - sub vassal: d_relka - Made independent
+201 - vassal: d_rabir - Holder 1000738 - Primary title: d_rabir has lost the title: d_rabir
+201 - sub vassal: d_rabir - Holder 1000738 - Primary title: d_rabir has lost the title: d_rabir
+201 - vassal: d_rabir - Title given to 1000738 - Primary title: d_sasaro
+201 - sub vassal: d_rabir - Title given to 1000738 - Primary title: d_sasaro
+201 - vassal: d_sasaro - Holder (1000738) has gained d_rabir
+201 - sub vassal: d_sasaro - Holder (1000738) has gained d_rabir
+201 - sub vassal: c_tehenis - Holder 1000738 - Primary title: c_tehenis has lost the title: c_tehenis
+201 - sub vassal: c_tehenis - Title given to 1000738 - Primary title: d_sasaro
+201 - vassal: d_sasaro - Holder (1000738) has gained c_tehenis
+201 - sub vassal: d_sasaro - Holder (1000738) has gained c_tehenis
+201 - sub vassal: c_seriens - Holder 1000738 - Primary title: c_seriens has lost the title: c_seriens
+201 - sub vassal: c_seriens - Title given to 1000738 - Primary title: d_sasaro
+201 - vassal: d_sasaro - Holder (1000738) has gained c_seriens
+201 - sub vassal: d_sasaro - Holder (1000738) has gained c_seriens
+201 - sub vassal: c_kabdunis - Holder 1000738 - Primary title: c_kabdunis has lost the title: c_kabdunis
+201 - sub vassal: c_kabdunis - Title given to 1000738 - Primary title: d_sasaro
+201 - vassal: d_sasaro - Holder (1000738) has gained c_kabdunis
+201 - sub vassal: d_sasaro - Holder (1000738) has gained c_kabdunis
+201 - sub vassal: c_basara - Holder 1000738 - Primary title: c_basara has lost the title: c_basara
+201 - sub vassal: c_basara - Title given to 1000738 - Primary title: d_sasaro
+201 - vassal: d_sasaro - Holder (1000738) has gained c_basara
+201 - sub vassal: d_sasaro - Holder (1000738) has gained c_basara
+201 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_wena
+201 - Holder (1001482) has gained c_wena
+202 - vassal: d_rabir - Holder 1002235 - Primary title: d_rabir has lost the title: c_qirdas
+202 - sub vassal: d_rabir - Holder 1002235 - Primary title: d_rabir has lost the title: c_qirdas
+202 - sub vassal: c_qirdas - Title given to 1002235
+202 - vassal: d_rabir - Holder 1002236 - Primary title: d_rabir has lost the title: c_ermadan
+202 - sub vassal: d_rabir - Holder 1002236 - Primary title: d_rabir has lost the title: c_ermadan
+202 - sub vassal: c_ermadan - Title given to 1002236
+202 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_wena
+202 - Holder (1001482) has gained c_bakearl
+203 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+203 - Holder 1002386 - Primary title: k_qavelin has lost the title: k_qavelin
+203 - Title given to 1002386
+203 - vassal: d_tarevna - Holder 1002386 - Primary title: d_tarevna has lost the title: d_tarevna
+203 - sub vassal: d_tarevna - Holder 1002386 - Primary title: d_tarevna has lost the title: d_tarevna
+203 - vassal: d_tarevna - Title given to 1002386 - Primary title: k_qavelin
+203 - sub vassal: d_tarevna - Title given to 1002386 - Primary title: k_qavelin
+203 - Holder (1002386) has gained d_tarevna
+203 - vassal: c_keze - Holder 1002386 - Primary title: c_keze has lost the title: c_keze
+203 - sub vassal: c_keze - Holder 1002386 - Primary title: c_keze has lost the title: c_keze
+203 - vassal: c_keze - Title given to 1002386 - Primary title: k_qavelin
+203 - sub vassal: c_keze - Title given to 1002386 - Primary title: k_qavelin
+203 - Holder (1002386) has gained c_keze
+203 - Holder (1002386) has gained c_bakearl
+204 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+204 - Holder (1002386) has gained c_bakearl
+205 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+205 - Holder (1002386) has gained c_bakearl
+206 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+206 - Holder (1002386) has gained c_bakearl
+207 - vassal: d_rabir - Holder 1002461 - Primary title: d_rabir has lost the title: d_sasaro
+207 - sub vassal: d_rabir - Holder 1002461 - Primary title: d_rabir has lost the title: d_sasaro
+207 - vassal: d_sasaro - Title given to 1002461
+207 - sub vassal: d_sasaro - Title given to 1002461
+207 - sub vassal: c_rasevna - Setting to vassal of d_rabir in Validate Realm
+207 - vassal: d_sasaro - Lost vassal: c_rasevna
+207 - sub vassal: d_sasaro - Lost vassal: c_rasevna
+207 - vassal: d_rabir - Gained vassal: c_rasevna
+207 - sub vassal: d_rabir - Gained vassal: c_rasevna
+207 - vassal: d_rabir - Holder 1002461 - Primary title: d_rabir has lost the title: c_rasevna
+207 - sub vassal: d_rabir - Holder 1002461 - Primary title: d_rabir has lost the title: c_rasevna
+207 - sub vassal: c_rasevna - Title given to 1002461 - Primary title: d_sasaro
+207 - vassal: d_sasaro - Holder (1002461) has gained c_rasevna
+207 - sub vassal: d_sasaro - Holder (1002461) has gained c_rasevna
+207 - sub vassal: c_rasevna - Setting to vassal of d_sasaro in Validate Realm
+207 - vassal: d_rabir - Lost vassal: c_rasevna
+207 - sub vassal: d_rabir - Lost vassal: c_rasevna
+207 - vassal: d_sasaro - Gained vassal: c_rasevna
+207 - sub vassal: d_sasaro - Gained vassal: c_rasevna
+207 - vassal: d_rabir - Holder 1002461 - Primary title: d_rabir has lost the title: d_rabir
+207 - sub vassal: d_rabir - Holder 1002461 - Primary title: d_rabir has lost the title: d_rabir
+207 - vassal: d_rabir - Title given to 1002461 - Primary title: d_sasaro
+207 - sub vassal: d_rabir - Title given to 1002461 - Primary title: d_sasaro
+207 - vassal: d_sasaro - Holder (1002461) has gained d_rabir
+207 - sub vassal: d_sasaro - Holder (1002461) has gained d_rabir
+207 - sub vassal: c_tehenis - Holder 1002461 - Primary title: c_tehenis has lost the title: c_tehenis
+207 - sub vassal: c_tehenis - Title given to 1002461 - Primary title: d_sasaro
+207 - vassal: d_sasaro - Holder (1002461) has gained c_tehenis
+207 - sub vassal: d_sasaro - Holder (1002461) has gained c_tehenis
+207 - sub vassal: c_seriens - Holder 1002461 - Primary title: c_seriens has lost the title: c_seriens
+207 - sub vassal: c_seriens - Title given to 1002461 - Primary title: d_sasaro
+207 - vassal: d_sasaro - Holder (1002461) has gained c_seriens
+207 - sub vassal: d_sasaro - Holder (1002461) has gained c_seriens
+207 - sub vassal: c_kabdunis - Holder 1002461 - Primary title: c_kabdunis has lost the title: c_kabdunis
+207 - sub vassal: c_kabdunis - Title given to 1002461 - Primary title: d_sasaro
+207 - vassal: d_sasaro - Holder (1002461) has gained c_kabdunis
+207 - sub vassal: d_sasaro - Holder (1002461) has gained c_kabdunis
+207 - sub vassal: c_basara - Holder 1002461 - Primary title: c_basara has lost the title: c_basara
+207 - sub vassal: c_basara - Title given to 1002461 - Primary title: d_sasaro
+207 - vassal: d_sasaro - Holder (1002461) has gained c_basara
+207 - sub vassal: d_sasaro - Holder (1002461) has gained c_basara
+207 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+207 - Holder (1002386) has gained c_bakearl
+208 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+208 - Holder (1002386) has gained c_bakearl
+209 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+209 - Holder (1002386) has gained c_bakearl
+210 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+210 - Holder (1002386) has gained c_bakearl
+211 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+211 - Holder (1002386) has gained c_bakearl
+212 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+212 - Holder (1002386) has gained c_bakearl
+213 - vassal: d_sabir - Holder 1003102 - Primary title: d_sabir has lost the title: d_sabir
+213 - sub vassal: d_sabir - Holder 1003102 - Primary title: d_sabir has lost the title: d_sabir
+213 - vassal: d_sabir - Title given to 1003102
+213 - sub vassal: d_sabir - Title given to 1003102
+213 - sub vassal: c_nantas - Holder 1003102 - Primary title: c_nantas has lost the title: c_nantas
+213 - sub vassal: c_nantas - Title given to 1003102 - Primary title: d_sabir
+213 - vassal: d_sabir - Holder (1003102) has gained c_nantas
+213 - sub vassal: d_sabir - Holder (1003102) has gained c_nantas
+213 - sub vassal: c_kuliant - Holder 1003102 - Primary title: c_kuliant has lost the title: c_kuliant
+213 - sub vassal: c_kuliant - Title given to 1003102 - Primary title: d_sabir
+213 - vassal: d_sabir - Holder (1003102) has gained c_kuliant
+213 - sub vassal: d_sabir - Holder (1003102) has gained c_kuliant
+213 - sub vassal: c_reter - Holder 1003102 - Primary title: c_reter has lost the title: c_reter
+213 - sub vassal: c_reter - Title given to 1003102 - Primary title: d_sabir
+213 - vassal: d_sabir - Holder (1003102) has gained c_reter
+213 - sub vassal: d_sabir - Holder (1003102) has gained c_reter
+213 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+213 - Holder (1002386) has gained c_bakearl
+214 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+214 - Holder 1002784 - Primary title: k_qavelin has lost the title: k_qavelin
+214 - Title given to 1002784
+214 - vassal: d_tarevna - Holder 1002784 - Primary title: d_tarevna has lost the title: d_tarevna
+214 - sub vassal: d_tarevna - Holder 1002784 - Primary title: d_tarevna has lost the title: d_tarevna
+214 - vassal: d_tarevna - Title given to 1002784 - Primary title: k_qavelin
+214 - sub vassal: d_tarevna - Title given to 1002784 - Primary title: k_qavelin
+214 - Holder (1002784) has gained d_tarevna
+214 - vassal: c_keze - Holder 1002784 - Primary title: c_keze has lost the title: c_keze
+214 - sub vassal: c_keze - Holder 1002784 - Primary title: c_keze has lost the title: c_keze
+214 - vassal: c_keze - Title given to 1002784 - Primary title: k_qavelin
+214 - sub vassal: c_keze - Title given to 1002784 - Primary title: k_qavelin
+214 - Holder (1002784) has gained c_keze
+214 - Holder (1002784) has gained c_bakearl
+215 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+215 - Holder (1002784) has gained c_bakearl
+216 - vassal: d_berevna - Holder 1003251 - Primary title: d_berevna has lost the title: d_berevna
+216 - sub vassal: d_berevna - Holder 1003251 - Primary title: d_berevna has lost the title: d_berevna
+216 - vassal: d_berevna - Title given to 1003251
+216 - sub vassal: d_berevna - Title given to 1003251
+216 - sub vassal: c_byawiant - Holder 1003251 - Primary title: c_byawiant has lost the title: c_byawiant
+216 - sub vassal: c_byawiant - Title given to 1003251 - Primary title: d_berevna
+216 - vassal: d_berevna - Holder (1003251) has gained c_byawiant
+216 - sub vassal: d_berevna - Holder (1003251) has gained c_byawiant
+216 - sub vassal: c_kane - Holder 1003251 - Primary title: c_kane has lost the title: c_kane
+216 - sub vassal: c_kane - Title given to 1003251 - Primary title: d_berevna
+216 - vassal: d_berevna - Holder (1003251) has gained c_kane
+216 - sub vassal: d_berevna - Holder (1003251) has gained c_kane
+216 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+216 - Holder (1002784) has gained c_bakearl
+217 - vassal: d_sabir - Holder 1001979 - Primary title: d_sabir has lost the title: d_sabir
+217 - sub vassal: d_sabir - Holder 1001979 - Primary title: d_sabir has lost the title: d_sabir
+217 - vassal: d_sabir - Title given to 1001979 - Primary title: d_tuleter
+217 - sub vassal: d_sabir - Title given to 1001979 - Primary title: d_tuleter
+217 - vassal: d_tuleter - Holder (1001979) has gained d_sabir
+217 - sub vassal: d_tuleter - Holder (1001979) has gained d_sabir
+217 - sub vassal: c_nantas - Holder 1001979 - Primary title: c_nantas has lost the title: c_nantas
+217 - sub vassal: c_nantas - Title given to 1001979 - Primary title: d_tuleter
+217 - vassal: d_tuleter - Holder (1001979) has gained c_nantas
+217 - sub vassal: d_tuleter - Holder (1001979) has gained c_nantas
+217 - sub vassal: c_kuliant - Holder 1001979 - Primary title: c_kuliant has lost the title: c_kuliant
+217 - sub vassal: c_kuliant - Title given to 1001979 - Primary title: d_tuleter
+217 - vassal: d_tuleter - Holder (1001979) has gained c_kuliant
+217 - sub vassal: d_tuleter - Holder (1001979) has gained c_kuliant
+217 - sub vassal: c_reter - Holder 1001979 - Primary title: c_reter has lost the title: c_reter
+217 - sub vassal: c_reter - Title given to 1001979 - Primary title: d_tuleter
+217 - vassal: d_tuleter - Holder (1001979) has gained c_reter
+217 - sub vassal: d_tuleter - Holder (1001979) has gained c_reter
+217 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+217 - Holder (1002784) has gained c_bakearl
+218 - Holder 1001490 - Primary title: k_qavelin has lost the title: c_bakearl
+229 - vassal: d_sabir - Holder 1002750 - Primary title: d_sabir has lost the title: d_sabir
+229 - sub vassal: d_sabir - Holder 1002750 - Primary title: d_sabir has lost the title: d_sabir
+229 - vassal: d_sabir - Title given to 1002750
+229 - sub vassal: d_sabir - Title given to 1002750
+229 - sub vassal: c_reter - Setting to vassal of d_tuleter in Validate Realm
+229 - vassal: d_sabir - Lost vassal: c_reter
+229 - sub vassal: d_sabir - Lost vassal: c_reter
+229 - sub vassal: c_kuliant - Setting to vassal of d_tuleter in Validate Realm
+229 - vassal: d_sabir - Lost vassal: c_kuliant
+229 - sub vassal: d_sabir - Lost vassal: c_kuliant
+229 - sub vassal: c_nantas - Setting to vassal of d_tuleter in Validate Realm
+229 - vassal: d_sabir - Lost vassal: c_nantas
+229 - sub vassal: d_sabir - Lost vassal: c_nantas
+229 - vassal: d_tuleter - Gained vassal: c_nantas
+229 - sub vassal: d_tuleter - Gained vassal: c_nantas
+229 - vassal: d_tuleter - Gained vassal: c_kuliant
+229 - sub vassal: d_tuleter - Gained vassal: c_kuliant
+229 - vassal: d_tuleter - Gained vassal: c_reter
+229 - sub vassal: d_tuleter - Gained vassal: c_reter
+229 - vassal: d_tuleter - Holder 1002750 - Primary title: d_tuleter has lost the title: d_tuleter
+229 - sub vassal: d_tuleter - Holder 1002750 - Primary title: d_tuleter has lost the title: d_tuleter
+229 - vassal: d_tuleter - Title given to 1002750 - Primary title: d_sabir
+229 - sub vassal: d_tuleter - Title given to 1002750 - Primary title: d_sabir
+229 - vassal: d_sabir - Holder (1002750) has gained d_tuleter
+229 - sub vassal: d_sabir - Holder (1002750) has gained d_tuleter
+229 - sub vassal: c_reter - Holder 1002750 - Primary title: c_reter has lost the title: c_reter
+229 - sub vassal: c_reter - Title given to 1002750 - Primary title: d_sabir
+229 - vassal: d_sabir - Holder (1002750) has gained c_reter
+229 - sub vassal: d_sabir - Holder (1002750) has gained c_reter
+229 - sub vassal: c_kuliant - Holder 1002750 - Primary title: c_kuliant has lost the title: c_kuliant
+229 - sub vassal: c_kuliant - Title given to 1002750 - Primary title: d_sabir
+229 - vassal: d_sabir - Holder (1002750) has gained c_kuliant
+229 - sub vassal: d_sabir - Holder (1002750) has gained c_kuliant
+229 - sub vassal: c_nantas - Holder 1002750 - Primary title: c_nantas has lost the title: c_nantas
+229 - sub vassal: c_nantas - Title given to 1002750 - Primary title: d_sabir
+229 - vassal: d_sabir - Holder (1002750) has gained c_nantas
+229 - sub vassal: d_sabir - Holder (1002750) has gained c_nantas
+229 - sub vassal: c_riam - Holder 1002750 - Primary title: c_riam has lost the title: c_riam
+229 - sub vassal: c_riam - Title given to 1002750 - Primary title: d_sabir
+229 - vassal: d_sabir - Holder (1002750) has gained c_riam
+229 - sub vassal: d_sabir - Holder (1002750) has gained c_riam
+230 - vassal: d_sabir - Destroyed due to flagged problem
+230 - sub vassal: d_sabir - Destroyed due to flagged problem
+230 - vassal: d_sabir - Made independent
+230 - sub vassal: d_sabir - Made independent
+230 - vassal: d_berevna - Holder 1002784 - Primary title: d_berevna has lost the title: d_berevna
+230 - sub vassal: d_berevna - Holder 1002784 - Primary title: d_berevna has lost the title: d_berevna
+230 - vassal: d_berevna - Title given to 1002784 - Primary title: k_qavelin
+230 - sub vassal: d_berevna - Title given to 1002784 - Primary title: k_qavelin
+230 - Holder (1002784) has gained d_berevna
+230 - sub vassal: c_kane - Holder 1002784 - Primary title: c_kane has lost the title: c_kane
+230 - sub vassal: c_kane - Title given to 1002784 - Primary title: k_qavelin
+230 - Holder (1002784) has gained c_kane
+230 - sub vassal: c_byawiant - Holder 1002784 - Primary title: c_byawiant has lost the title: c_byawiant
+230 - sub vassal: c_byawiant - Title given to 1002784 - Primary title: k_qavelin
+230 - Holder (1002784) has gained c_byawiant
+231 - vassal: d_rabir - Holder 1003893 - Primary title: d_rabir has lost the title: d_rabir
+231 - sub vassal: d_rabir - Holder 1003893 - Primary title: d_rabir has lost the title: d_rabir
+231 - vassal: d_rabir - Title given to 1003893
+231 - sub vassal: d_rabir - Title given to 1003893
+231 - sub vassal: c_basara - Setting to vassal of d_sasaro in Validate Realm
+231 - vassal: d_rabir - Lost vassal: c_basara
+231 - sub vassal: d_rabir - Lost vassal: c_basara
+231 - sub vassal: c_kabdunis - Setting to vassal of d_sasaro in Validate Realm
+231 - vassal: d_rabir - Lost vassal: c_kabdunis
+231 - sub vassal: d_rabir - Lost vassal: c_kabdunis
+231 - sub vassal: c_seriens - Setting to vassal of d_sasaro in Validate Realm
+231 - vassal: d_rabir - Lost vassal: c_seriens
+231 - sub vassal: d_rabir - Lost vassal: c_seriens
+231 - sub vassal: c_tehenis - Setting to vassal of d_sasaro in Validate Realm
+231 - vassal: d_rabir - Lost vassal: c_tehenis
+231 - sub vassal: d_rabir - Lost vassal: c_tehenis
+231 - vassal: d_sasaro - Gained vassal: c_tehenis
+231 - sub vassal: d_sasaro - Gained vassal: c_tehenis
+231 - vassal: d_sasaro - Gained vassal: c_seriens
+231 - sub vassal: d_sasaro - Gained vassal: c_seriens
+231 - vassal: d_sasaro - Gained vassal: c_kabdunis
+231 - sub vassal: d_sasaro - Gained vassal: c_kabdunis
+231 - vassal: d_sasaro - Gained vassal: c_basara
+231 - sub vassal: d_sasaro - Gained vassal: c_basara
+231 - vassal: d_sasaro - Holder 1003893 - Primary title: d_sasaro has lost the title: d_sasaro
+231 - sub vassal: d_sasaro - Holder 1003893 - Primary title: d_sasaro has lost the title: d_sasaro
+231 - vassal: d_sasaro - Title given to 1003893 - Primary title: d_rabir
+231 - sub vassal: d_sasaro - Title given to 1003893 - Primary title: d_rabir
+231 - vassal: d_rabir - Holder (1003893) has gained d_sasaro
+231 - sub vassal: d_rabir - Holder (1003893) has gained d_sasaro
+231 - sub vassal: c_basara - Holder 1003893 - Primary title: c_basara has lost the title: c_basara
+231 - sub vassal: c_basara - Title given to 1003893 - Primary title: d_rabir
+231 - vassal: d_rabir - Holder (1003893) has gained c_basara
+231 - sub vassal: d_rabir - Holder (1003893) has gained c_basara
+231 - sub vassal: c_kabdunis - Holder 1003893 - Primary title: c_kabdunis has lost the title: c_kabdunis
+231 - sub vassal: c_kabdunis - Title given to 1003893 - Primary title: d_rabir
+231 - vassal: d_rabir - Holder (1003893) has gained c_kabdunis
+231 - sub vassal: d_rabir - Holder (1003893) has gained c_kabdunis
+231 - sub vassal: c_seriens - Holder 1003893 - Primary title: c_seriens has lost the title: c_seriens
+231 - sub vassal: c_seriens - Title given to 1003893 - Primary title: d_rabir
+231 - vassal: d_rabir - Holder (1003893) has gained c_seriens
+231 - sub vassal: d_rabir - Holder (1003893) has gained c_seriens
+231 - sub vassal: c_tehenis - Holder 1003893 - Primary title: c_tehenis has lost the title: c_tehenis
+231 - sub vassal: c_tehenis - Title given to 1003893 - Primary title: d_rabir
+231 - vassal: d_rabir - Holder (1003893) has gained c_tehenis
+231 - sub vassal: d_rabir - Holder (1003893) has gained c_tehenis
+231 - sub vassal: c_rasevna - Holder 1003893 - Primary title: c_rasevna has lost the title: c_rasevna
+231 - sub vassal: c_rasevna - Title given to 1003893 - Primary title: d_rabir
+231 - vassal: d_rabir - Holder (1003893) has gained c_rasevna
+231 - sub vassal: d_rabir - Holder (1003893) has gained c_rasevna
+232 - vassal: d_rabir - Destroyed due to flagged problem
+232 - sub vassal: d_rabir - Destroyed due to flagged problem
+232 - vassal: d_rabir - Made independent
+232 - sub vassal: d_rabir - Made independent
+235 - vassal: d_tuleter - Holder (1002750) has gained d_sabir
+235 - sub vassal: d_tuleter - Holder (1002750) has gained d_sabir
+235 - Gained vassal: d_sabir
+235 - vassal: d_sabir - Made independent for title creation d_sabir for d_tuleter
+235 - sub vassal: d_sabir - Made independent for title creation d_sabir for d_tuleter
+235 - vassal: d_sabir - Made independent
+235 - sub vassal: d_sabir - Made independent
+235 - sub vassal: c_reter - Set liege on title creation d_sabir
+235 - vassal: d_tuleter - Lost vassal: c_reter
+235 - sub vassal: d_tuleter - Lost vassal: c_reter
+235 - sub vassal: c_kuliant - Set liege on title creation d_sabir
+235 - vassal: d_tuleter - Lost vassal: c_kuliant
+235 - sub vassal: d_tuleter - Lost vassal: c_kuliant
+235 - sub vassal: c_nantas - Set liege on title creation d_sabir
+235 - vassal: d_tuleter - Lost vassal: c_nantas
+235 - sub vassal: d_tuleter - Lost vassal: c_nantas
+235 - sub vassal: c_riam - Set liege on title creation d_sabir
+235 - vassal: d_tuleter - Lost vassal: c_riam
+235 - sub vassal: d_tuleter - Lost vassal: c_riam
+235 - sub vassal: c_nantas - Setting independent due to liege destruction
+235 - sub vassal: c_nantas - Made independent
+235 - sub vassal: c_kuliant - Setting independent due to liege destruction
+235 - sub vassal: c_kuliant - Made independent
+235 - sub vassal: c_reter - Setting independent due to liege destruction
+235 - sub vassal: c_reter - Made independent
+235 - sub vassal: c_riam - Setting independent due to liege destruction
+235 - sub vassal: c_riam - Made independent
+235 - sub vassal: c_luladan - Holder 1002750 - Primary title: c_luladan has lost the title: c_naddin
+235 - sub vassal: c_naddin - Title given to 1002750 - Primary title: d_tuleter
+235 - vassal: d_tuleter - Holder (1002750) has gained c_naddin
+235 - sub vassal: d_tuleter - Holder (1002750) has gained c_naddin
+239 - vassal: d_tuleter - Holder 1004642 - Primary title: d_tuleter has lost the title: d_tuleter
+239 - sub vassal: d_tuleter - Holder 1004642 - Primary title: d_tuleter has lost the title: d_tuleter
+239 - vassal: d_tuleter - Title given to 1004642
+239 - sub vassal: d_tuleter - Title given to 1004642
+239 - vassal: d_tuleter - Holder (1004642) has gained c_reter
+239 - sub vassal: d_tuleter - Holder (1004642) has gained c_reter
+239 - vassal: d_tuleter - Holder (1004642) has gained c_kuliant
+239 - sub vassal: d_tuleter - Holder (1004642) has gained c_kuliant
+239 - vassal: d_tuleter - Holder (1004642) has gained c_nantas
+239 - sub vassal: d_tuleter - Holder (1004642) has gained c_nantas
+239 - vassal: d_tuleter - Holder (1004642) has gained c_riam
+239 - sub vassal: d_tuleter - Holder (1004642) has gained c_riam
+239 - vassal: d_tuleter - Holder (1004642) has gained c_naddin
+239 - sub vassal: d_tuleter - Holder (1004642) has gained c_naddin
+240 - sub vassal: c_luladan - Holder 1004642 - Primary title: c_luladan has lost the title: c_luladan
+240 - sub vassal: c_luladan - Title given to 1004642 - Primary title: d_tuleter
+240 - vassal: d_tuleter - Holder (1004642) has gained c_luladan
+240 - sub vassal: d_tuleter - Holder (1004642) has gained c_luladan
+240 - vassal: d_tuleter - Holder 1005277 - Primary title: d_tuleter has lost the title: c_reter
+240 - sub vassal: d_tuleter - Holder 1005277 - Primary title: d_tuleter has lost the title: c_reter
+240 - vassal: d_tuleter - Gained vassal: c_reter
+240 - sub vassal: d_tuleter - Gained vassal: c_reter
+241 - vassal: d_tuleter - Holder 1003893 - Primary title: d_tuleter has lost the title: d_tuleter
+241 - sub vassal: d_tuleter - Holder 1003893 - Primary title: d_tuleter has lost the title: d_tuleter
+241 - vassal: d_tuleter - Title given to 1003893 - Primary title: d_sasaro
+241 - sub vassal: d_tuleter - Title given to 1003893 - Primary title: d_sasaro
+241 - vassal: d_sasaro - Holder (1003893) has gained d_tuleter
+241 - sub vassal: d_sasaro - Holder (1003893) has gained d_tuleter
+241 - sub vassal: c_luladan - Holder 1003893 - Primary title: c_luladan has lost the title: c_luladan
+241 - sub vassal: c_luladan - Title given to 1003893 - Primary title: d_sasaro
+241 - vassal: d_sasaro - Holder (1003893) has gained c_luladan
+241 - sub vassal: d_sasaro - Holder (1003893) has gained c_luladan
+241 - vassal: d_sasaro - Holder (1003893) has gained c_naddin
+241 - sub vassal: d_sasaro - Holder (1003893) has gained c_naddin
+241 - vassal: d_sasaro - Holder (1003893) has gained c_riam
+241 - sub vassal: d_sasaro - Holder (1003893) has gained c_riam
+241 - vassal: d_sasaro - Holder (1003893) has gained c_nantas
+241 - sub vassal: d_sasaro - Holder (1003893) has gained c_nantas
+241 - vassal: d_sasaro - Holder (1003893) has gained c_kuliant
+241 - sub vassal: d_sasaro - Holder (1003893) has gained c_kuliant
+242 - vassal: d_tuleter - Holder 1005423 - Primary title: d_tuleter has lost the title: c_riam
+242 - sub vassal: d_tuleter - Holder 1005423 - Primary title: d_tuleter has lost the title: c_riam
+242 - vassal: d_tuleter - Gained vassal: c_riam
+242 - sub vassal: d_tuleter - Gained vassal: c_riam
+242 - vassal: d_tuleter - Holder 1005424 - Primary title: d_tuleter has lost the title: c_tehenis
+242 - sub vassal: d_tuleter - Holder 1005424 - Primary title: d_tuleter has lost the title: c_tehenis
+242 - sub vassal: c_tehenis - Title given to 1005424
+242 - vassal: d_tuleter - Holder 1005425 - Primary title: d_tuleter has lost the title: c_rasevna
+242 - sub vassal: d_tuleter - Holder 1005425 - Primary title: d_tuleter has lost the title: c_rasevna
+242 - sub vassal: c_rasevna - Title given to 1005425
+242 - vassal: d_tuleter - Holder 1005426 - Primary title: d_tuleter has lost the title: c_basara
+242 - sub vassal: d_tuleter - Holder 1005426 - Primary title: d_tuleter has lost the title: c_basara
+242 - sub vassal: c_basara - Title given to 1005426
+242 - vassal: d_tuleter - Holder 1005427 - Primary title: d_tuleter has lost the title: c_seriens
+242 - sub vassal: d_tuleter - Holder 1005427 - Primary title: d_tuleter has lost the title: c_seriens
+242 - sub vassal: c_seriens - Title given to 1005427
+256 - Holder (1002784) has gained c_neheter
+256 - Holder (1002784) has gained c_eberiens
+256 - Holder (1002784) has gained c_nehadan
+256 - Holder 1006506 - Primary title: k_qavelin has lost the title: c_kane
+256 - sub vassal: c_kane - Title given to 1006506
+258 - Holder 1003994 - Primary title: k_qavelin has lost the title: k_qavelin
+258 - Title given to 1003994
+258 - vassal: d_tarevna - Holder 1003994 - Primary title: d_tarevna has lost the title: d_tarevna
+258 - sub vassal: d_tarevna - Holder 1003994 - Primary title: d_tarevna has lost the title: d_tarevna
+258 - vassal: d_tarevna - Title given to 1003994 - Primary title: k_qavelin
+258 - sub vassal: d_tarevna - Title given to 1003994 - Primary title: k_qavelin
+258 - Holder (1003994) has gained d_tarevna
+258 - vassal: c_keze - Setting to vassal of d_berevna in Validate Realm
+258 - sub vassal: c_keze - Setting to vassal of d_berevna in Validate Realm
+258 - Lost vassal: c_keze
+258 - vassal: d_berevna - Gained vassal: c_keze
+258 - sub vassal: d_berevna - Gained vassal: c_keze
+258 - vassal: d_berevna - Holder 1003994 - Primary title: d_berevna has lost the title: d_berevna
+258 - sub vassal: d_berevna - Holder 1003994 - Primary title: d_berevna has lost the title: d_berevna
+258 - vassal: d_berevna - Title given to 1003994 - Primary title: k_qavelin
+258 - sub vassal: d_berevna - Title given to 1003994 - Primary title: k_qavelin
+258 - Holder (1003994) has gained d_berevna
+258 - sub vassal: c_byawiant - Holder 1003994 - Primary title: c_byawiant has lost the title: c_byawiant
+258 - sub vassal: c_byawiant - Title given to 1003994 - Primary title: k_qavelin
+258 - Holder (1003994) has gained c_byawiant
+258 - sub vassal: c_keze - Holder 1003994 - Primary title: c_keze has lost the title: c_keze
+258 - sub vassal: c_keze - Title given to 1003994 - Primary title: k_qavelin
+258 - Holder (1003994) has gained c_keze
+258 - Holder (1003994) has gained c_neheter
+258 - Holder (1003994) has gained c_eberiens
+258 - Holder (1003994) has gained c_nehadan
+270 - vassal: d_sasaro - Holder 1005428 - Primary title: d_sasaro has lost the title: d_sasaro
+270 - sub vassal: d_sasaro - Holder 1005428 - Primary title: d_sasaro has lost the title: d_sasaro
+270 - vassal: d_sasaro - Title given to 1005428
+270 - sub vassal: d_sasaro - Title given to 1005428
+270 - sub vassal: c_kabdunis - Setting to vassal of d_tuleter in Validate Realm
+270 - vassal: d_sasaro - Lost vassal: c_kabdunis
+270 - sub vassal: d_sasaro - Lost vassal: c_kabdunis
+270 - vassal: d_tuleter - Gained vassal: c_kabdunis
+270 - sub vassal: d_tuleter - Gained vassal: c_kabdunis
+270 - vassal: d_tuleter - Holder 1005428 - Primary title: d_tuleter has lost the title: d_tuleter
+270 - sub vassal: d_tuleter - Holder 1005428 - Primary title: d_tuleter has lost the title: d_tuleter
+270 - vassal: d_tuleter - Title given to 1005428 - Primary title: d_sasaro
+270 - sub vassal: d_tuleter - Title given to 1005428 - Primary title: d_sasaro
+270 - vassal: d_sasaro - Holder (1005428) has gained d_tuleter
+270 - sub vassal: d_sasaro - Holder (1005428) has gained d_tuleter
+270 - vassal: d_sasaro - Holder (1005428) has gained c_kuliant
+270 - sub vassal: d_sasaro - Holder (1005428) has gained c_kuliant
+270 - vassal: d_sasaro - Holder (1005428) has gained c_nantas
+270 - sub vassal: d_sasaro - Holder (1005428) has gained c_nantas
+270 - vassal: d_sasaro - Holder (1005428) has gained c_naddin
+270 - sub vassal: d_sasaro - Holder (1005428) has gained c_naddin
+270 - vassal: d_sasaro - Holder (1005428) has gained c_luladan
+270 - sub vassal: d_sasaro - Holder (1005428) has gained c_luladan
+270 - vassal: d_sasaro - Holder (1005428) has gained c_kabdunis
+270 - sub vassal: d_sasaro - Holder (1005428) has gained c_kabdunis
+273 - Holder 1007472 - Primary title: k_qavelin has lost the title: k_qavelin
+273 - Title given to 1007472
+273 - vassal: d_tarevna - Holder 1007472 - Primary title: d_tarevna has lost the title: d_tarevna
+273 - sub vassal: d_tarevna - Holder 1007472 - Primary title: d_tarevna has lost the title: d_tarevna
+273 - vassal: d_tarevna - Title given to 1007472 - Primary title: k_qavelin
+273 - sub vassal: d_tarevna - Title given to 1007472 - Primary title: k_qavelin
+273 - Holder (1007472) has gained d_tarevna
+273 - vassal: d_berevna - Holder 1007472 - Primary title: d_berevna has lost the title: d_berevna
+273 - sub vassal: d_berevna - Holder 1007472 - Primary title: d_berevna has lost the title: d_berevna
+273 - vassal: d_berevna - Title given to 1007472 - Primary title: k_qavelin
+273 - sub vassal: d_berevna - Title given to 1007472 - Primary title: k_qavelin
+273 - Holder (1007472) has gained d_berevna
+273 - Holder (1007472) has gained c_nehadan
+273 - Holder (1007472) has gained c_eberiens
+273 - Holder (1007472) has gained c_neheter
+273 - Holder (1007472) has gained c_keze
+273 - Holder (1007472) has gained c_byawiant
+274 - sub vassal: c_lisabir - Holder 1007472 - Primary title: c_lisabir has lost the title: c_sigadir
+274 - sub vassal: c_sigadir - Title given to 1007472 - Primary title: k_qavelin
+274 - Holder (1007472) has gained c_sigadir
+274 - Holder 1007927 - Primary title: k_qavelin has lost the title: c_byawiant
+274 - Gained vassal: c_byawiant
+285 - Holder 1008721 - Primary title: k_qavelin has lost the title: k_qavelin
+285 - Title given to 1008721
+285 - vassal: d_tarevna - Holder 1008721 - Primary title: d_tarevna has lost the title: d_tarevna
+285 - sub vassal: d_tarevna - Holder 1008721 - Primary title: d_tarevna has lost the title: d_tarevna
+285 - vassal: d_tarevna - Title given to 1008721 - Primary title: k_qavelin
+285 - sub vassal: d_tarevna - Title given to 1008721 - Primary title: k_qavelin
+285 - Holder (1008721) has gained d_tarevna
+285 - sub vassal: c_sigadir - Setting to vassal of d_berevna in Validate Realm
+285 - vassal: d_tarevna - Lost vassal: c_sigadir
+285 - sub vassal: d_tarevna - Lost vassal: c_sigadir
+285 - vassal: d_berevna - Gained vassal: c_sigadir
+285 - sub vassal: d_berevna - Gained vassal: c_sigadir
+285 - vassal: d_berevna - Holder 1008721 - Primary title: d_berevna has lost the title: d_berevna
+285 - sub vassal: d_berevna - Holder 1008721 - Primary title: d_berevna has lost the title: d_berevna
+285 - vassal: d_berevna - Title given to 1008721 - Primary title: k_qavelin
+285 - sub vassal: d_berevna - Title given to 1008721 - Primary title: k_qavelin
+285 - Holder (1008721) has gained d_berevna
+285 - sub vassal: c_sigadir - Holder 1008721 - Primary title: c_sigadir has lost the title: c_sigadir
+285 - sub vassal: c_sigadir - Title given to 1008721 - Primary title: k_qavelin
+285 - Holder (1008721) has gained c_sigadir
+285 - Holder (1008721) has gained c_keze
+285 - Holder (1008721) has gained c_neheter
+285 - Holder (1008721) has gained c_eberiens
+285 - Holder (1008721) has gained c_nehadan
+294 - vassal: d_sasaro - Holder (1005428) has gained d_rabir
+294 - sub vassal: d_sasaro - Holder (1005428) has gained d_rabir
+294 - Gained vassal: d_rabir
+294 - vassal: d_rabir - Made independent for title creation d_rabir for d_sasaro
+294 - sub vassal: d_rabir - Made independent for title creation d_rabir for d_sasaro
+294 - vassal: d_rabir - Made independent
+294 - sub vassal: d_rabir - Made independent
+294 - sub vassal: c_kabdunis - Given to 1006893 in HandleTitles - Too many duke titles
+294 - vassal: d_sasaro - Holder 1006893 - Primary title: d_sasaro has lost the title: c_kabdunis
+294 - sub vassal: d_sasaro - Holder 1006893 - Primary title: d_sasaro has lost the title: c_kabdunis
+294 - sub vassal: c_kabdunis - Title given to 1006893
+294 - vassal: d_sasaro - Holder 1008721 - Primary title: d_sasaro has lost the title: d_rabir
+294 - sub vassal: d_sasaro - Holder 1008721 - Primary title: d_sasaro has lost the title: d_rabir
+294 - Holder (1008721) has gained d_rabir
+294 - sub vassal: c_luladan - Setting to vassal of d_sasaro in Validate Realm
+294 - sub vassal: c_naddin - Setting to vassal of d_sasaro in Validate Realm
+294 - sub vassal: c_nantas - Setting to vassal of d_sasaro in Validate Realm
+294 - sub vassal: c_kuliant - Setting to vassal of d_sasaro in Validate Realm
+294 - vassal: d_sasaro - Gained vassal: c_kuliant
+294 - sub vassal: d_sasaro - Gained vassal: c_kuliant
+294 - vassal: d_sasaro - Gained vassal: c_nantas
+294 - sub vassal: d_sasaro - Gained vassal: c_nantas
+294 - vassal: d_sasaro - Gained vassal: c_naddin
+294 - sub vassal: d_sasaro - Gained vassal: c_naddin
+294 - vassal: d_sasaro - Gained vassal: c_luladan
+294 - sub vassal: d_sasaro - Gained vassal: c_luladan
+294 - Gained vassal: d_rabir
+294 - Holder 1009292 - Primary title: k_qavelin has lost the title: d_rabir
+294 - vassal: d_rabir - Title given to 1009292
+294 - sub vassal: d_rabir - Title given to 1009292
+295 - vassal: d_sasaro - Holder 1007899 - Primary title: d_sasaro has lost the title: d_sasaro
+295 - sub vassal: d_sasaro - Holder 1007899 - Primary title: d_sasaro has lost the title: d_sasaro
+295 - vassal: d_sasaro - Title given to 1007899
+295 - sub vassal: d_sasaro - Title given to 1007899
+295 - sub vassal: c_luladan - Setting to vassal of d_tuleter in Validate Realm
+295 - vassal: d_sasaro - Lost vassal: c_luladan
+295 - sub vassal: d_sasaro - Lost vassal: c_luladan
+295 - sub vassal: c_naddin - Setting to vassal of d_tuleter in Validate Realm
+295 - vassal: d_sasaro - Lost vassal: c_naddin
+295 - sub vassal: d_sasaro - Lost vassal: c_naddin
+295 - sub vassal: c_nantas - Setting to vassal of d_tuleter in Validate Realm
+295 - vassal: d_sasaro - Lost vassal: c_nantas
+295 - sub vassal: d_sasaro - Lost vassal: c_nantas
+295 - sub vassal: c_kuliant - Setting to vassal of d_tuleter in Validate Realm
+295 - vassal: d_sasaro - Lost vassal: c_kuliant
+295 - sub vassal: d_sasaro - Lost vassal: c_kuliant
+295 - vassal: d_tuleter - Gained vassal: c_kuliant
+295 - sub vassal: d_tuleter - Gained vassal: c_kuliant
+295 - vassal: d_tuleter - Gained vassal: c_nantas
+295 - sub vassal: d_tuleter - Gained vassal: c_nantas
+295 - vassal: d_tuleter - Gained vassal: c_naddin
+295 - sub vassal: d_tuleter - Gained vassal: c_naddin
+295 - vassal: d_tuleter - Gained vassal: c_luladan
+295 - sub vassal: d_tuleter - Gained vassal: c_luladan
+295 - vassal: d_tuleter - Holder 1007899 - Primary title: d_tuleter has lost the title: d_tuleter
+295 - sub vassal: d_tuleter - Holder 1007899 - Primary title: d_tuleter has lost the title: d_tuleter
+295 - vassal: d_tuleter - Title given to 1007899 - Primary title: d_sasaro
+295 - sub vassal: d_tuleter - Title given to 1007899 - Primary title: d_sasaro
+295 - vassal: d_sasaro - Holder (1007899) has gained d_tuleter
+295 - sub vassal: d_sasaro - Holder (1007899) has gained d_tuleter
+295 - sub vassal: c_luladan - Holder 1007899 - Primary title: c_luladan has lost the title: c_luladan
+295 - sub vassal: c_luladan - Title given to 1007899 - Primary title: d_sasaro
+295 - vassal: d_sasaro - Holder (1007899) has gained c_luladan
+295 - sub vassal: d_sasaro - Holder (1007899) has gained c_luladan
+295 - sub vassal: c_naddin - Holder 1007899 - Primary title: c_naddin has lost the title: c_naddin
+295 - sub vassal: c_naddin - Title given to 1007899 - Primary title: d_sasaro
+295 - vassal: d_sasaro - Holder (1007899) has gained c_naddin
+295 - sub vassal: d_sasaro - Holder (1007899) has gained c_naddin
+295 - sub vassal: c_nantas - Holder 1007899 - Primary title: c_nantas has lost the title: c_nantas
+295 - sub vassal: c_nantas - Title given to 1007899 - Primary title: d_sasaro
+295 - vassal: d_sasaro - Holder (1007899) has gained c_nantas
+295 - sub vassal: d_sasaro - Holder (1007899) has gained c_nantas
+295 - sub vassal: c_kuliant - Holder 1007899 - Primary title: c_kuliant has lost the title: c_kuliant
+295 - sub vassal: c_kuliant - Title given to 1007899 - Primary title: d_sasaro
+295 - vassal: d_sasaro - Holder (1007899) has gained c_kuliant
+295 - sub vassal: d_sasaro - Holder (1007899) has gained c_kuliant
+300 - sub vassal: c_lisabir - Holder 1008721 - Primary title: c_lisabir has lost the title: c_lisabir
+300 - sub vassal: c_lisabir - Title given to 1008721 - Primary title: k_qavelin
+300 - Holder (1008721) has gained c_lisabir
+300 - sub vassal: c_samiin - Holder 1008721 - Primary title: c_samiin has lost the title: c_samiin
+300 - sub vassal: c_samiin - Title given to 1008721 - Primary title: k_qavelin
+300 - Holder (1008721) has gained c_samiin
+300 - sub vassal: c_qirdas - Holder 1007899 - Primary title: c_qirdas has lost the title: c_qirdas
+300 - sub vassal: c_qirdas - Title given to 1007899 - Primary title: d_sasaro
+300 - vassal: d_sasaro - Holder (1007899) has gained c_qirdas
+300 - sub vassal: d_sasaro - Holder (1007899) has gained c_qirdas
+300 - sub vassal: c_ermadan - Holder 1007899 - Primary title: c_ermadan has lost the title: c_ermadan
+300 - sub vassal: c_ermadan - Title given to 1007899 - Primary title: d_sasaro
+300 - vassal: d_sasaro - Holder (1007899) has gained c_ermadan
+300 - sub vassal: d_sasaro - Holder (1007899) has gained c_ermadan
+300 - vassal: d_sasaro - Holder 1009703 - Primary title: d_sasaro has lost the title: c_naddin
+300 - sub vassal: d_sasaro - Holder 1009703 - Primary title: d_sasaro has lost the title: c_naddin
+300 - sub vassal: c_naddin - Title given to 1009703
+300 - Holder 1009743 - Primary title: k_qavelin has lost the title: c_eberiens
+300 - Gained vassal: c_eberiens
+300 - Holder 1009744 - Primary title: k_qavelin has lost the title: c_neheter
+300 - Gained vassal: c_neheter
+328 - vassal: d_sasaro - Holder 1009485 - Primary title: d_sasaro has lost the title: d_sasaro
+328 - sub vassal: d_sasaro - Holder 1009485 - Primary title: d_sasaro has lost the title: d_sasaro
+328 - vassal: d_sasaro - Title given to 1009485
+328 - sub vassal: d_sasaro - Title given to 1009485
+328 - sub vassal: c_qirdas - Setting to vassal of d_tuleter in Validate Realm
+328 - vassal: d_sasaro - Lost vassal: c_qirdas
+328 - sub vassal: d_sasaro - Lost vassal: c_qirdas
+328 - sub vassal: c_ermadan - Setting to vassal of d_tuleter in Validate Realm
+328 - vassal: d_sasaro - Lost vassal: c_ermadan
+328 - sub vassal: d_sasaro - Lost vassal: c_ermadan
+328 - vassal: d_tuleter - Gained vassal: c_ermadan
+328 - sub vassal: d_tuleter - Gained vassal: c_ermadan
+328 - vassal: d_tuleter - Gained vassal: c_qirdas
+328 - sub vassal: d_tuleter - Gained vassal: c_qirdas
+328 - vassal: d_tuleter - Holder 1009485 - Primary title: d_tuleter has lost the title: d_tuleter
+328 - sub vassal: d_tuleter - Holder 1009485 - Primary title: d_tuleter has lost the title: d_tuleter
+328 - vassal: d_tuleter - Title given to 1009485 - Primary title: d_sasaro
+328 - sub vassal: d_tuleter - Title given to 1009485 - Primary title: d_sasaro
+328 - vassal: d_sasaro - Holder (1009485) has gained d_tuleter
+328 - sub vassal: d_sasaro - Holder (1009485) has gained d_tuleter
+328 - sub vassal: c_luladan - Holder 1009485 - Primary title: c_luladan has lost the title: c_luladan
+328 - sub vassal: c_luladan - Title given to 1009485 - Primary title: d_sasaro
+328 - vassal: d_sasaro - Holder (1009485) has gained c_luladan
+328 - sub vassal: d_sasaro - Holder (1009485) has gained c_luladan
+328 - sub vassal: c_nantas - Holder 1009485 - Primary title: c_nantas has lost the title: c_nantas
+328 - sub vassal: c_nantas - Title given to 1009485 - Primary title: d_sasaro
+328 - vassal: d_sasaro - Holder (1009485) has gained c_nantas
+328 - sub vassal: d_sasaro - Holder (1009485) has gained c_nantas
+328 - sub vassal: c_kuliant - Holder 1009485 - Primary title: c_kuliant has lost the title: c_kuliant
+328 - sub vassal: c_kuliant - Title given to 1009485 - Primary title: d_sasaro
+328 - vassal: d_sasaro - Holder (1009485) has gained c_kuliant
+328 - sub vassal: d_sasaro - Holder (1009485) has gained c_kuliant
+328 - sub vassal: c_qirdas - Holder 1009485 - Primary title: c_qirdas has lost the title: c_qirdas
+328 - sub vassal: c_qirdas - Title given to 1009485 - Primary title: d_sasaro
+328 - vassal: d_sasaro - Holder (1009485) has gained c_qirdas
+328 - sub vassal: d_sasaro - Holder (1009485) has gained c_qirdas
+328 - sub vassal: c_ermadan - Holder 1009485 - Primary title: c_ermadan has lost the title: c_ermadan
+328 - sub vassal: c_ermadan - Title given to 1009485 - Primary title: d_sasaro
+328 - vassal: d_sasaro - Holder (1009485) has gained c_ermadan
+328 - sub vassal: d_sasaro - Holder (1009485) has gained c_ermadan
+333 - vassal: d_sasaro - Holder 1008721 - Primary title: d_sasaro has lost the title: d_sasaro
+333 - sub vassal: d_sasaro - Holder 1008721 - Primary title: d_sasaro has lost the title: d_sasaro
+333 - vassal: d_sasaro - Title given to 1008721 - Primary title: k_qavelin
+333 - sub vassal: d_sasaro - Title given to 1008721 - Primary title: k_qavelin
+333 - Holder (1008721) has gained d_sasaro
+333 - vassal: d_tuleter - Holder 1008721 - Primary title: d_tuleter has lost the title: d_tuleter
+333 - sub vassal: d_tuleter - Holder 1008721 - Primary title: d_tuleter has lost the title: d_tuleter
+333 - vassal: d_tuleter - Title given to 1008721 - Primary title: k_qavelin
+333 - sub vassal: d_tuleter - Title given to 1008721 - Primary title: k_qavelin
+333 - Holder (1008721) has gained d_tuleter
+333 - sub vassal: c_luladan - Holder 1008721 - Primary title: c_luladan has lost the title: c_luladan
+333 - sub vassal: c_luladan - Title given to 1008721 - Primary title: k_qavelin
+333 - Holder (1008721) has gained c_luladan
+333 - sub vassal: c_nantas - Holder 1008721 - Primary title: c_nantas has lost the title: c_nantas
+333 - sub vassal: c_nantas - Title given to 1008721 - Primary title: k_qavelin
+333 - Holder (1008721) has gained c_nantas
+333 - sub vassal: c_kuliant - Holder 1008721 - Primary title: c_kuliant has lost the title: c_kuliant
+333 - sub vassal: c_kuliant - Title given to 1008721 - Primary title: k_qavelin
+333 - Holder (1008721) has gained c_kuliant
+333 - sub vassal: c_qirdas - Holder 1008721 - Primary title: c_qirdas has lost the title: c_qirdas
+333 - sub vassal: c_qirdas - Title given to 1008721 - Primary title: k_qavelin
+333 - Holder (1008721) has gained c_qirdas
+333 - sub vassal: c_ermadan - Holder 1008721 - Primary title: c_ermadan has lost the title: c_ermadan
+333 - sub vassal: c_ermadan - Title given to 1008721 - Primary title: k_qavelin
+333 - Holder (1008721) has gained c_ermadan
+333 - sub vassal: c_rasevna - Given to 1012036 in HandleTitles - Too many duke titles
+333 - sub vassal: c_rasevna - Holder 1012036 - Primary title: c_rasevna has lost the title: c_rasevna
+333 - sub vassal: c_rasevna - Title given to 1012036
+333 - Holder 1012036 - Primary title: k_qavelin has lost the title: d_sasaro
+333 - vassal: d_sasaro - Title given to 1012036 - Primary title: c_rasevna
+333 - sub vassal: d_sasaro - Title given to 1012036 - Primary title: c_rasevna
+333 - sub vassal: c_rasevna - Holder (1012036) has gained d_sasaro
+333 - vassal: d_sasaro - Too many dukes, given to dejure: k_qavelin
+333 - sub vassal: d_sasaro - Too many dukes, given to dejure: k_qavelin
+333 - sub vassal: c_lisabir - Given to 1012037 in HandleTitles - Too many duke titles
+333 - Holder 1012037 - Primary title: k_qavelin has lost the title: c_lisabir
+333 - sub vassal: c_lisabir - Title given to 1012037
+333 - Holder 1012037 - Primary title: k_qavelin has lost the title: d_tarevna
+333 - vassal: d_tarevna - Title given to 1012037 - Primary title: c_lisabir
+333 - sub vassal: d_tarevna - Title given to 1012037 - Primary title: c_lisabir
+333 - sub vassal: c_lisabir - Holder (1012037) has gained d_tarevna
+333 - sub vassal: c_samiin - Setting to vassal of k_qavelin in Validate Realm
+333 - vassal: d_tarevna - Lost vassal: c_samiin
+333 - sub vassal: d_tarevna - Lost vassal: c_samiin
+333 - Gained vassal: c_samiin
+333 - vassal: d_tarevna - Too many dukes, given to dejure: k_qavelin
+333 - sub vassal: d_tarevna - Too many d

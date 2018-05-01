@@ -1,0 +1,121 @@
+200 - Title given to 1001296
+200 - vassal: c_reyanas - Given to 1001299 via AddCharacterForTitle
+200 - sub vassal: c_reyanas - Given to 1001299 via AddCharacterForTitle
+200 - vassal: c_reyanas - Holder 1001299 - Primary title: c_reyanas has lost the title: c_reyanas
+200 - sub vassal: c_reyanas - Holder 1001299 - Primary title: c_reyanas has lost the title: c_reyanas
+200 - vassal: c_reyanas - Title given to 1001299
+200 - sub vassal: c_reyanas - Title given to 1001299
+200 - vassal: c_eracas - Given to 1001301 via AddCharacterForTitle
+200 - sub vassal: c_eracas - Given to 1001301 via AddCharacterForTitle
+200 - vassal: c_eracas - Holder 1001301 - Primary title: c_eracas has lost the title: c_eracas
+200 - sub vassal: c_eracas - Holder 1001301 - Primary title: c_eracas has lost the title: c_eracas
+200 - vassal: c_eracas - Title given to 1001301
+200 - sub vassal: c_eracas - Title given to 1001301
+200 - vassal: c_litanu - Holder 1001296 - Primary title: c_litanu has lost the title: c_litanu
+200 - sub vassal: c_litanu - Holder 1001296 - Primary title: c_litanu has lost the title: c_litanu
+200 - vassal: c_litanu - Title given to 1001296 - Primary title: d_etedas
+200 - sub vassal: c_litanu - Title given to 1001296 - Primary title: d_etedas
+200 - Holder (1001296) has gained c_litanu
+200 - vassal: c_reyanas - Holder 1001296 - Primary title: c_reyanas has lost the title: c_reyanas
+200 - sub vassal: c_reyanas - Holder 1001296 - Primary title: c_reyanas has lost the title: c_reyanas
+200 - vassal: c_reyanas - Title given to 1001296 - Primary title: d_etedas
+200 - sub vassal: c_reyanas - Title given to 1001296 - Primary title: d_etedas
+200 - Holder (1001296) has gained c_reyanas
+200 - vassal: c_terindo - Title given to 1001296 - Primary title: d_etedas
+200 - Holder (1001296) has gained c_terindo
+200 - Holder 1001582 - Primary title: d_etedas has lost the title: d_etedas
+200 - Title given to 1001582 - Primary title: k_kyutila
+214 - Gained vassal: c_qavitis
+214 - Gained vassal: c_rinozel
+214 - Gained vassal: c_qavurd
+214 - Holder 1002789 - Primary title: d_etedas has lost the title: d_etedas
+214 - Title given to 1002789 - Primary title: k_kyutila
+214 - vassal: c_qavurd - Holder 1002789 - Primary title: c_qavurd has lost the title: c_qavurd
+214 - vassal: c_qavurd - Title given to 1002789 - Primary title: k_kyutila
+214 - vassal: c_rinozel - Holder 1002789 - Primary title: c_rinozel has lost the title: c_rinozel
+214 - vassal: c_rinozel - Title given to 1002789 - Primary title: k_kyutila
+214 - vassal: c_qavitis - Holder 1002789 - Primary title: c_qavitis has lost the title: c_qavitis
+214 - vassal: c_qavitis - Title given to 1002789 - Primary title: k_kyutila
+234 - Holder 1004840 - Primary title: d_etedas has lost the title: d_etedas
+234 - Title given to 1004840 - Primary title: k_kyutila
+234 - vassal: c_qavitis - Holder 1004840 - Primary title: c_qavitis has lost the title: c_qavitis
+234 - vassal: c_qavitis - Title given to 1004840 - Primary title: k_kyutila
+234 - vassal: c_rinozel - Holder 1004840 - Primary title: c_rinozel has lost the title: c_rinozel
+234 - vassal: c_rinozel - Title given to 1004840 - Primary title: k_kyutila
+234 - vassal: c_qavurd - Holder 1004840 - Primary title: c_qavurd has lost the title: c_qavurd
+234 - vassal: c_qavurd - Title given to 1004840 - Primary title: k_kyutila
+258 - Holder 1003216 - Primary title: d_etedas has lost the title: d_etedas
+258 - Title given to 1003216 - Primary title: k_kyutila
+258 - vassal: c_qavurd - Setting to vassal of d_asmarana in Validate Realm
+258 - Lost vassal: c_qavurd
+258 - vassal: c_rinozel - Setting to vassal of d_asmarana in Validate Realm
+258 - Lost vassal: c_rinozel
+258 - vassal: c_qavitis - Setting to vassal of d_asmarana in Validate Realm
+258 - Lost vassal: c_qavitis
+264 - Gained vassal: c_qavurd
+264 - Gained vassal: c_rinozel
+264 - Gained vassal: c_qavitis
+264 - Holder 1002655 - Primary title: d_etedas has lost the title: d_etedas
+264 - Title given to 1002655 - Primary title: k_kyutila
+264 - vassal: c_qavitis - Setting independent in Validate Realm
+264 - vassal: c_qavitis - Made independent
+264 - vassal: c_rinozel - Setting independent in Validate Realm
+264 - vassal: c_rinozel - Made independent
+264 - vassal: c_qavurd - Setting independent in Validate Realm
+264 - vassal: c_qavurd - Made independent
+272 - Gained vassal: c_evanurd
+272 - Holder 1006310 - Primary title: d_etedas has lost the title: d_etedas
+272 - Title given to 1006310 - Primary title: k_kyutila
+272 - vassal: c_evanurd - Setting independent in Validate Realm
+272 - vassal: c_evanurd - Made independent
+273 - vassal: c_litanu - Holder 1006310 - Primary title: c_litanu has lost the title: c_terindo
+273 - vassal: c_terindo - Title given to 1006310 - Primary title: k_kyutila
+280 - Holder 1007887 - Primary title: d_etedas has lost the title: d_etedas
+280 - Title given to 1007887 - Primary title: k_kyutila
+280 - vassal: c_terindo - Holder 1007887 - Primary title: c_terindo has lost the title: c_terindo
+280 - vassal: c_terindo - Title given to 1007887 - Primary title: k_kyutila
+293 - Holder 1007703 - Primary title: d_etedas has lost the title: d_etedas
+293 - Title given to 1007703 - Primary title: k_kyutila
+293 - vassal: c_terindo - Holder 1007703 - Primary title: c_terindo has lost the title: c_terindo
+293 - vassal: c_terindo - Title given to 1007703 - Primary title: k_kyutila
+300 - vassal: c_litanu - Holder 1007703 - Primary title: c_litanu has lost the title: c_litanu
+300 - vassal: c_litanu - Title given to 1007703 - Primary title: k_kyutila
+300 - vassal: c_reyanas - Holder 1007703 - Primary title: c_reyanas has lost the title: c_reyanas
+300 - vassal: c_reyanas - Title given to 1007703 - Primary title: k_kyutila
+303 - Gained vassal: c_ninozel
+303 - Gained vassal: c_qanune
+303 - Holder 1010268 - Primary title: d_etedas has lost the title: c_qanune
+303 - vassal: c_qanune - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_qanune - Setting to vassal of k_ditedas in Validate Realm
+303 - Lost vassal: c_qanune
+303 - Holder 1010268 - Primary title: d_etedas has lost the title: c_ninozel
+303 - vassal: c_ninozel - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_ninozel - Setting to vassal of k_ditedas in Validate Realm
+303 - Lost vassal: c_ninozel
+303 - Holder 1010268 - Primary title: d_etedas has lost the title: d_etedas
+303 - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_reyanas - Holder 1010268 - Primary title: c_reyanas has lost the title: c_litanu
+303 - vassal: c_litanu - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_reyanas - Holder 1010268 - Primary title: c_reyanas has lost the title: c_reyanas
+303 - vassal: c_reyanas - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_terindo - Holder 1010268 - Primary title: c_terindo has lost the title: c_terindo
+303 - vassal: c_terindo - Title given to 1010268 - Primary title: k_ditedas
+304 - vassal: c_reyanas - Given to 1011165 in HandleTitles - Too many duke titles
+304 - vassal: c_reyanas - Title given to 1011165
+304 - Title given to 1011165 - Primary title: c_reyanas
+304 - vassal: c_reyanas - Holder (1011165) has gained d_etedas
+304 - vassal: c_litanu - Setting to vassal of k_ditedas in Validate Realm
+304 - Lost vassal: c_litanu
+304 - vassal: c_terindo - Setting to vassal of k_ditedas in Validate Realm
+304 - Lost vassal: c_terindo
+304 - Too many dukes, given to dejure: k_kyutila
+344 - Holder 1011458 - Primary title: d_etedas has lost the title: d_etedas
+344 - Title given to 1011458
+344 - vassal: c_reyanas - Holder 1011458 - Primary title: c_reyanas has lost the title: c_reyanas
+344 - vassal: c_reyanas - Title given to 1011458 - Primary title: d_etedas
+344 - Holder (1011458) has gained c_reyanas
+366 - Holder 1014245 - Primary title: d_etedas has lost the title: d_etedas
+366 - Title given to 1014245
+366 - vassal: c_reyanas - Holder 1014245 - Primary title: c_reyanas has lost the title: c_reyanas
+366 - vassal: c_reyanas - Title given to 1014245 - Primary title: d_etedas
+366 - Holder (1014245) has gained c_reyanas

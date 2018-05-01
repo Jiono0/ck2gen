@@ -1,0 +1,60 @@
+200 - Title given to 1000264
+200 - vassal: c_tyawirma - Given to 1000267 via AddCharacterForTitle
+200 - sub vassal: c_tyawirma - Given to 1000267 via AddCharacterForTitle
+200 - vassal: c_tyawirma - Holder 1000267 - Primary title: c_tyawirma has lost the title: c_tyawirma
+200 - sub vassal: c_tyawirma - Holder 1000267 - Primary title: c_tyawirma has lost the title: c_tyawirma
+200 - vassal: c_tyawirma - Title given to 1000267
+200 - sub vassal: c_tyawirma - Title given to 1000267
+200 - vassal: c_dorge - Holder 1000264 - Primary title: c_dorge has lost the title: c_dorge
+200 - sub vassal: c_dorge - Holder 1000264 - Primary title: c_dorge has lost the title: c_dorge
+200 - vassal: c_dorge - Title given to 1000264 - Primary title: d_anirarma
+200 - sub vassal: c_dorge - Title given to 1000264 - Primary title: d_anirarma
+200 - Holder (1000264) has gained c_dorge
+200 - vassal: c_tyawirma - Holder 1000264 - Primary title: c_tyawirma has lost the title: c_tyawirma
+200 - sub vassal: c_tyawirma - Holder 1000264 - Primary title: c_tyawirma has lost the title: c_tyawirma
+200 - vassal: c_tyawirma - Title given to 1000264 - Primary title: d_anirarma
+200 - sub vassal: c_tyawirma - Title given to 1000264 - Primary title: d_anirarma
+200 - Holder (1000264) has gained c_tyawirma
+200 - Holder 1000254 - Primary title: d_anirarma has lost the title: d_anirarma
+200 - Title given to 1000254 - Primary title: d_eniraul
+200 - vassal: c_tyawirma - Holder 1000254 - Primary title: c_tyawirma has lost the title: c_tyawirma
+200 - vassal: c_tyawirma - Title given to 1000254 - Primary title: d_eniraul
+200 - vassal: c_dorge - Holder 1000254 - Primary title: c_dorge has lost the title: c_dorge
+200 - vassal: c_dorge - Title given to 1000254 - Primary title: d_eniraul
+215 - Holder (1000254) has gained k_nuel
+216 - vassal: c_dorge - Given to 1003462 in HandleTitles - Too many duke titles
+216 - vassal: c_dorge - Title given to 1003462
+216 - Title given to 1003462 - Primary title: c_dorge
+216 - vassal: c_dorge - Holder (1003462) has gained d_anirarma
+216 - vassal: c_tyawirma - Setting to vassal of k_nuel in Validate Realm
+216 - Lost vassal: c_tyawirma
+216 - Too many dukes, given to dejure: k_nuel
+226 - Holder 1003584 - Primary title: d_anirarma has lost the title: d_anirarma
+226 - Title given to 1003584
+226 - vassal: c_dorge - Holder 1003584 - Primary title: c_dorge has lost the title: c_dorge
+226 - vassal: c_dorge - Title given to 1003584 - Primary title: d_anirarma
+226 - Holder (1003584) has gained c_dorge
+229 - Holder 1003912 - Primary title: d_anirarma has lost the title: d_anirarma
+229 - Title given to 1003912 - Primary title: c_tyawirma
+229 - Gained vassal: c_tyawirma
+229 - vassal: c_dorge - Holder 1003912 - Primary title: c_dorge has lost the title: c_dorge
+229 - vassal: c_dorge - Title given to 1003912 - Primary title: d_anirarma
+229 - Holder (1003912) has gained c_dorge
+249 - Holder (1003912) has gained d_rara
+249 - Holder (1003912) has gained c_kired
+249 - Holder (1003912) has gained c_nemili
+249 - Holder (1003912) has gained c_qienili
+267 - Gained vassal: c_kired
+267 - Gained vassal: c_nemili
+267 - Gained vassal: c_qienili
+267 - Holder 1005071 - Primary title: d_anirarma has lost the title: d_anirarma
+267 - Title given to 1005071 - Primary title: d_rara
+267 - vassal: c_qienili - Holder 1005071 - Primary title: c_qienili has lost the title: c_qienili
+267 - vassal: c_qienili - Title given to 1005071 - Primary title: d_rara
+267 - vassal: c_nemili - Holder 1005071 - Primary title: c_nemili has lost the title: c_nemili
+267 - vassal: c_nemili - Title given to 1005071 - Primary title: d_rara
+267 - vassal: c_kired - Holder 1005071 - Primary title: c_kired has lost the title: c_kired
+267 - vassal: c_kired - Title given to 1005071 - Primary title: d_rara
+267 - vassal: c_tyawirma - Holder 1005071 - Primary title: c_tyawirma has lost the title: c_tyawirma
+267 - vassal: c_tyawirma - Title given to 1005071 - Primary title: d_rara
+267 - vassal: c_dorge - Holder 1005071 - Primary title: c_dorge has lost the title

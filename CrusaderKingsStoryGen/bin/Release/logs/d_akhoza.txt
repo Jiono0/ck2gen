@@ -1,0 +1,82 @@
+200 - Title given to 1001171
+200 - vassal: c_tyoa - Holder 1001171 - Primary title: c_tyoa has lost the title: c_tyoa
+200 - sub vassal: c_tyoa - Holder 1001171 - Primary title: c_tyoa has lost the title: c_tyoa
+200 - vassal: c_tyoa - Title given to 1001171 - Primary title: d_akhoza
+200 - sub vassal: c_tyoa - Title given to 1001171 - Primary title: d_akhoza
+200 - Holder (1001171) has gained c_tyoa
+200 - vassal: c_epiom - Holder 1001171 - Primary title: c_epiom has lost the title: c_epiom
+200 - sub vassal: c_epiom - Holder 1001171 - Primary title: c_epiom has lost the title: c_epiom
+200 - vassal: c_epiom - Title given to 1001171 - Primary title: d_akhoza
+200 - sub vassal: c_epiom - Title given to 1001171 - Primary title: d_akhoza
+200 - Holder (1001171) has gained c_epiom
+253 - Holder 1001969 - Primary title: d_akhoza has lost the title: d_akhoza
+253 - Title given to 1001969
+253 - vassal: c_epiom - Holder 1001969 - Primary title: c_epiom has lost the title: c_epiom
+253 - vassal: c_epiom - Title given to 1001969 - Primary title: d_akhoza
+253 - Holder (1001969) has gained c_epiom
+253 - vassal: c_tyoa - Holder 1001969 - Primary title: c_tyoa has lost the title: c_tyoa
+253 - vassal: c_tyoa - Title given to 1001969 - Primary title: d_akhoza
+253 - Holder (1001969) has gained c_tyoa
+258 - Holder 1006909 - Primary title: d_akhoza has lost the title: d_akhoza
+258 - Title given to 1006909
+258 - vassal: c_epiom - Holder 1006909 - Primary title: c_epiom has lost the title: c_epiom
+258 - vassal: c_epiom - Title given to 1006909 - Primary title: d_akhoza
+258 - Holder (1006909) has gained c_epiom
+258 - vassal: c_tyoa - Holder 1006909 - Primary title: c_tyoa has lost the title: c_tyoa
+258 - vassal: c_tyoa - Title given to 1006909 - Primary title: d_akhoza
+258 - Holder (1006909) has gained c_tyoa
+261 - Holder 1002534 - Primary title: d_akhoza has lost the title: d_akhoza
+261 - Title given to 1002534 - Primary title: d_lyaloza
+261 - vassal: c_tyoa - Holder 1002534 - Primary title: c_tyoa has lost the title: c_tyoa
+261 - vassal: c_tyoa - Title given to 1002534 - Primary title: d_lyaloza
+261 - vassal: c_epiom - Holder 1002534 - Primary title: c_epiom has lost the title: c_epiom
+261 - vassal: c_epiom - Title given to 1002534 - Primary title: d_lyaloza
+267 - Holder 1007424 - Primary title: d_akhoza has lost the title: d_lyaloza
+267 - Gained vassal: c_denatu
+267 - Gained vassal: c_koza
+267 - Holder 1007424 - Primary title: d_akhoza has lost the title: c_koza
+267 - vassal: c_koza - Title given to 1007424 - Primary title: d_lyaloza
+267 - vassal: c_koza - Setting to vassal of d_lyaloza in Validate Realm
+267 - Lost vassal: c_koza
+267 - Holder 1007424 - Primary title: d_akhoza has lost the title: c_denatu
+267 - vassal: c_denatu - Title given to 1007424 - Primary title: d_lyaloza
+267 - vassal: c_denatu - Setting to vassal of d_lyaloza in Validate Realm
+267 - Lost vassal: c_denatu
+267 - Holder 1007424 - Primary title: d_akhoza has lost the title: d_akhoza
+267 - Title given to 1007424 - Primary title: d_lyaloza
+267 - vassal: c_tyoa - Holder 1007424 - Primary title: c_tyoa has lost the title: c_tyoa
+267 - vassal: c_tyoa - Title given to 1007424 - Primary title: d_lyaloza
+267 - vassal: c_epiom - Holder 1007424 - Primary title: c_epiom has lost the title: c_epiom
+267 - vassal: c_epiom - Title given to 1007424 - Primary title: d_lyaloza
+303 - Holder 1008782 - Primary title: d_akhoza has lost the title: d_akhoza
+303 - Title given to 1008782
+303 - vassal: c_epiom - Setting to vassal of d_lyaloza in Validate Realm
+303 - Lost vassal: c_epiom
+303 - vassal: c_tyoa - Setting to vassal of d_lyaloza in Validate Realm
+303 - Lost vassal: c_tyoa
+303 - Holder (1008782) has gained d_lyaloza
+303 - Holder (1008782) has gained c_epiom
+303 - Holder (1008782) has gained c_tyoa
+303 - Holder (1008782) has gained c_denatu
+303 - Holder (1008782) has gained c_koza
+304 - Destroyed due to flagged problem
+304 - Made independent
+304 - Title destroyed
+307 - Given to 1008782 in TestCreateEmpire
+307 - Title given to 1008782 - Primary title: d_lyaloza
+307 - Made independent for title creation d_akhoza for d_lyaloza
+307 - Made independent
+307 - Gained vassal: c_epiom
+307 - Gained vassal: c_tyoa
+307 - Gained vassal: c_denatu
+307 - Gained vassal: c_koza
+307 - Destroyed due to no capital's obtainable
+307 - Title destroyed
+307 - vassal: c_epiom - Setting independent due to liege destruction
+307 - vassal: c_epiom - Made independent
+307 - vassal: c_tyoa - Setting independent due to liege destruction
+307 - vassal: c_tyoa - Made independent
+307 - vassal: c_koza - Setting independent due to liege destruction
+307 - vassal: c_koza - Made independent
+307 - vassal: c_denatu - Setting independent due to liege destruction
+307 - vassal: c_denatu - Made independent

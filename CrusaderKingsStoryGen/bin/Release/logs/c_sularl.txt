@@ -1,0 +1,28 @@
+200 - Title given to 1000022 - Primary title: c_doriu
+200 - Given to 1000796 via AddCharacterForTitle
+200 - Title given to 1000796
+200 - Given to 1000797 via AddCharacterForTitle
+200 - Holder 1000797 - Primary title: c_sularl has lost the title: c_sularl
+200 - Title given to 1000797
+200 - Holder 1000794 - Primary title: c_sularl has lost the title: c_sularl
+200 - Title given to 1000794 - Primary title: d_dumarl
+230 - Given to 1004909 in HandleTitles - Too many duke titles
+230 - Title given to 1004909
+230 - Holder (1004909) has gained d_dumarl
+233 - Holder 1005103 - Primary title: c_sularl has lost the title: c_sularl
+233 - Title given to 1005103 - Primary title: d_dumarl
+260 - Holder 1007229 - Primary title: c_sularl has lost the title: c_sularl
+260 - Title given to 1007229 - Primary title: d_dumarl
+264 - Holder 1006155 - Primary title: c_sularl has lost the title: c_sularl
+264 - Title given to 1006155 - Primary title: k_tazina
+264 - Title given to 1003535
+340 - Made vassal of neighbour (k_tojyana) due to being a seperate island
+340 - Given to neighbour holder of k_tojyana
+340 - Holder 1010513 - Primary title: c_sularl has lost the title: c_sularl
+340 - Title given to 1010513 - Primary title: k_tojyana
+354 - Setting to vassal of d_kelina in Validate Realm
+354 - Title given to 1013304 - Primary title: k_tojyana
+354 - Setting to vassal of k_tojyana in Validate Realm
+389 - Setting to vassal of d_wuler in Validate Realm
+389 - Holder 1014981 - Primary title: c_sularl has lost the title: c_sularl
+389 - Title given to 1014981 - Primary title: k_tojyana

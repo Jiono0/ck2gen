@@ -1,0 +1,1391 @@
+200 - Title given to 1001475
+200 - vassal: d_bomas - Holder 1001475 - Primary title: d_bomas has lost the title: d_bomas
+200 - sub vassal: d_bomas - Holder 1001475 - Primary title: d_bomas has lost the title: d_bomas
+200 - vassal: d_bomas - Title given to 1001475 - Primary title: k_rava
+200 - sub vassal: d_bomas - Title given to 1001475 - Primary title: k_rava
+200 - Holder (1001475) has gained d_bomas
+200 - vassal: d_nanina - Holder 1001475 - Primary title: d_nanina has lost the title: d_nanina
+200 - sub vassal: d_nanina - Holder 1001475 - Primary title: d_nanina has lost the title: d_nanina
+200 - vassal: d_nanina - Title given to 1001475 - Primary title: k_rava
+200 - sub vassal: d_nanina - Title given to 1001475 - Primary title: k_rava
+200 - Holder (1001475) has gained d_nanina
+200 - vassal: d_tisaha - Holder 1001475 - Primary title: d_tisaha has lost the title: d_tisaha
+200 - sub vassal: d_tisaha - Holder 1001475 - Primary title: d_tisaha has lost the title: d_tisaha
+200 - vassal: d_tisaha - Title given to 1001475 - Primary title: k_rava
+200 - sub vassal: d_tisaha - Title given to 1001475 - Primary title: k_rava
+200 - Holder (1001475) has gained d_tisaha
+200 - vassal: d_ryitald - Holder 1001475 - Primary title: d_ryitald has lost the title: d_ryitald
+200 - sub vassal: d_ryitald - Holder 1001475 - Primary title: d_ryitald has lost the title: d_ryitald
+200 - vassal: d_ryitald - Title given to 1001475 - Primary title: k_rava
+200 - sub vassal: d_ryitald - Title given to 1001475 - Primary title: k_rava
+200 - Holder (1001475) has gained d_ryitald
+200 - vassal: d_liluil - Holder 1001475 - Primary title: d_liluil has lost the title: d_liluil
+200 - sub vassal: d_liluil - Holder 1001475 - Primary title: d_liluil has lost the title: d_liluil
+200 - vassal: d_liluil - Title given to 1001475 - Primary title: k_rava
+200 - sub vassal: d_liluil - Title given to 1001475 - Primary title: k_rava
+200 - Holder (1001475) has gained d_liluil
+200 - sub vassal: c_sisatha - Holder 1001475 - Primary title: c_sisatha has lost the title: c_sisatha
+200 - sub vassal: c_sisatha - Title given to 1001475 - Primary title: k_rava
+200 - Holder (1001475) has gained c_sisatha
+200 - sub vassal: c_amajayor - Given to 1001965 in HandleTitles - Too many duke titles
+200 - sub vassal: c_ruil - Holder 1001965 - Primary title: c_ruil has lost the title: c_amajayor
+200 - sub vassal: c_amajayor - Title given to 1001965
+200 - Holder 1001965 - Primary title: k_rava has lost the title: d_liluil
+200 - vassal: d_liluil - Title given to 1001965 - Primary title: c_amajayor
+200 - sub vassal: d_liluil - Title given to 1001965 - Primary title: c_amajayor
+200 - sub vassal: c_amajayor - Holder (1001965) has gained d_liluil
+200 - vassal: d_liluil - Too many dukes, given to dejure: k_rava
+200 - sub vassal: d_liluil - Too many dukes, given to dejure: k_rava
+200 - sub vassal: c_dyolelen - Given to 1001966 in HandleTitles - Too many duke titles
+200 - sub vassal: c_nanatha - Holder 1001966 - Primary title: c_nanatha has lost the title: c_dyolelen
+200 - sub vassal: c_dyolelen - Title given to 1001966
+200 - Holder 1001966 - Primary title: k_rava has lost the title: d_ryitald
+200 - vassal: d_ryitald - Title given to 1001966 - Primary title: c_dyolelen
+200 - sub vassal: d_ryitald - Title given to 1001966 - Primary title: c_dyolelen
+200 - sub vassal: c_dyolelen - Holder (1001966) has gained d_ryitald
+200 - vassal: d_ryitald - Too many dukes, given to dejure: k_rava
+200 - sub vassal: d_ryitald - Too many dukes, given to dejure: k_rava
+200 - sub vassal: c_sisatha - Given to 1001968 in HandleTitles - Too many duke titles
+200 - Holder 1001968 - Primary title: k_rava has lost the title: c_sisatha
+200 - sub vassal: c_sisatha - Title given to 1001968
+200 - Holder 1001968 - Primary title: k_rava has lost the title: d_bomas
+200 - vassal: d_bomas - Title given to 1001968 - Primary title: c_sisatha
+200 - sub vassal: d_bomas - Title given to 1001968 - Primary title: c_sisatha
+200 - sub vassal: c_sisatha - Holder (1001968) has gained d_bomas
+200 - vassal: d_bomas - Too many dukes, given to dejure: k_rava
+200 - sub vassal: d_bomas - Too many dukes, given to dejure: k_rava
+200 - Holder 1000460 - Primary title: k_rava has lost the title: k_rava
+200 - Title given to 1000460 - Primary title: d_lib
+200 - vassal: d_lib - Holder (1000460) has gained k_rava
+200 - sub vassal: d_lib - Holder (1000460) has gained k_rava
+200 - vassal: d_nanina - Holder 1000460 - Primary title: d_nanina has lost the title: d_nanina
+200 - sub vassal: d_nanina - Holder 1000460 - Primary title: d_nanina has lost the title: d_nanina
+200 - vassal: d_nanina - Title given to 1000460 - Primary title: k_rava
+200 - sub vassal: d_nanina - Title given to 1000460 - Primary title: k_rava
+200 - Holder (1000460) has gained d_nanina
+200 - vassal: d_tisaha - Holder 1000460 - Primary title: d_tisaha has lost the title: d_tisaha
+200 - sub vassal: d_tisaha - Holder 1000460 - Primary title: d_tisaha has lost the title: d_tisaha
+200 - vassal: d_tisaha - Title given to 1000460 - Primary title: k_rava
+200 - sub vassal: d_tisaha - Title given to 1000460 - Primary title: k_rava
+200 - Holder (1000460) has gained d_tisaha
+201 - Holder (1000460) has gained c_suisib
+201 - sub vassal: c_radar - Given to 1002152 in HandleTitles - Too many duke titles
+201 - Holder 1002152 - Primary title: k_rava has lost the title: c_radar
+201 - sub vassal: c_radar - Title given to 1002152
+201 - Holder 1002152 - Primary title: k_rava has lost the title: d_lib
+201 - vassal: d_lib - Title given to 1002152 - Primary title: c_radar
+201 - sub vassal: d_lib - Title given to 1002152 - Primary title: c_radar
+201 - sub vassal: c_radar - Holder (1002152) has gained d_lib
+201 - sub vassal: c_kisille - Setting to vassal of k_rava in Validate Realm
+201 - vassal: d_lib - Lost vassal: c_kisille
+201 - sub vassal: d_lib - Lost vassal: c_kisille
+201 - sub vassal: c_qille - Setting to vassal of k_rava in Validate Realm
+201 - vassal: d_lib - Lost vassal: c_qille
+201 - sub vassal: d_lib - Lost vassal: c_qille
+201 - Gained vassal: c_qille
+201 - Gained vassal: c_kisille
+201 - vassal: d_lib - Too many dukes, given to dejure: k_rava
+201 - sub vassal: d_lib - Too many dukes, given to dejure: k_rava
+201 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+202 - Holder (1000460) has gained c_tyoe
+202 - Holder (1000460) has gained c_suisib
+202 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+202 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+203 - vassal: d_badomas - Holder 1000345 - Primary title: d_badomas has lost the title: d_badomas
+203 - sub vassal: d_badomas - Holder 1000345 - Primary title: d_badomas has lost the title: d_badomas
+203 - vassal: d_badomas - Title given to 1000345 - Primary title: d_tyoa
+203 - sub vassal: d_badomas - Title given to 1000345 - Primary title: d_tyoa
+203 - vassal: d_tyoa - Holder (1000345) has gained d_badomas
+203 - sub vassal: d_tyoa - Holder (1000345) has gained d_badomas
+203 - sub vassal: c_kophia - Holder 1000345 - Primary title: c_kophia has lost the title: c_kophia
+203 - sub vassal: c_kophia - Title given to 1000345 - Primary title: d_tyoa
+203 - vassal: d_tyoa - Holder (1000345) has gained c_kophia
+203 - sub vassal: d_tyoa - Holder (1000345) has gained c_kophia
+203 - sub vassal: c_duban - Holder 1000345 - Primary title: c_duban has lost the title: c_duban
+203 - sub vassal: c_duban - Title given to 1000345 - Primary title: d_tyoa
+203 - vassal: d_tyoa - Holder (1000345) has gained c_duban
+203 - sub vassal: d_tyoa - Holder (1000345) has gained c_duban
+203 - Holder (1000460) has gained c_tyoe
+203 - Holder (1000460) has gained c_suisib
+203 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+203 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+204 - vassal: d_ruisre - Holder 1000330 - Primary title: d_ruisre has lost the title: d_ruisre
+204 - sub vassal: d_ruisre - Holder 1000330 - Primary title: d_ruisre has lost the title: d_ruisre
+204 - vassal: d_ruisre - Title given to 1000330 - Primary title: d_kipal
+204 - sub vassal: d_ruisre - Title given to 1000330 - Primary title: d_kipal
+204 - vassal: d_kipal - Holder (1000330) has gained d_ruisre
+204 - sub vassal: d_kipal - Holder (1000330) has gained d_ruisre
+204 - sub vassal: c_qisofni - Holder 1000330 - Primary title: c_qisofni has lost the title: c_qisofni
+204 - sub vassal: c_qisofni - Title given to 1000330 - Primary title: d_kipal
+204 - vassal: d_kipal - Holder (1000330) has gained c_qisofni
+204 - sub vassal: d_kipal - Holder (1000330) has gained c_qisofni
+204 - sub vassal: c_sadurg - Holder 1000330 - Primary title: c_sadurg has lost the title: c_sadurg
+204 - sub vassal: c_sadurg - Title given to 1000330 - Primary title: d_kipal
+204 - vassal: d_kipal - Holder (1000330) has gained c_sadurg
+204 - sub vassal: d_kipal - Holder (1000330) has gained c_sadurg
+204 - Holder (1000460) has gained c_tyoe
+204 - Holder (1000460) has gained c_suisib
+204 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+204 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+205 - Holder (1000460) has gained c_tyoe
+205 - Holder (1000460) has gained c_suisib
+205 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+205 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+206 - Holder (1000460) has gained c_tyoe
+206 - Holder (1000460) has gained c_suisib
+206 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+206 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+207 - Holder (1000460) has gained c_tyoe
+207 - Holder (1000460) has gained c_suisib
+207 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+207 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+208 - Holder (1000460) has gained c_tyoe
+208 - Holder (1000460) has gained c_suisib
+208 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+208 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+209 - vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: d_kipal
+209 - sub vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: d_kipal
+209 - vassal: d_kipal - Title given to 1002734
+209 - sub vassal: d_kipal - Title given to 1002734
+209 - sub vassal: c_agnophia - Setting to vassal of d_ruisre in Validate Realm
+209 - vassal: d_kipal - Lost vassal: c_agnophia
+209 - sub vassal: d_kipal - Lost vassal: c_agnophia
+209 - sub vassal: c_tard - Setting to vassal of d_ruisre in Validate Realm
+209 - vassal: d_kipal - Lost vassal: c_tard
+209 - sub vassal: d_kipal - Lost vassal: c_tard
+209 - sub vassal: c_lyolomas - Setting to vassal of d_ruisre in Validate Realm
+209 - vassal: d_kipal - Lost vassal: c_lyolomas
+209 - sub vassal: d_kipal - Lost vassal: c_lyolomas
+209 - vassal: d_ruisre - Gained vassal: c_lyolomas
+209 - sub vassal: d_ruisre - Gained vassal: c_lyolomas
+209 - vassal: d_ruisre - Gained vassal: c_tard
+209 - sub vassal: d_ruisre - Gained vassal: c_tard
+209 - vassal: d_ruisre - Gained vassal: c_agnophia
+209 - sub vassal: d_ruisre - Gained vassal: c_agnophia
+209 - vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: c_agnophia
+209 - sub vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: c_agnophia
+209 - sub vassal: c_agnophia - Title given to 1002734 - Primary title: d_kipal
+209 - vassal: d_kipal - Holder (1002734) has gained c_agnophia
+209 - sub vassal: d_kipal - Holder (1002734) has gained c_agnophia
+209 - sub vassal: c_agnophia - Setting to vassal of d_kipal in Validate Realm
+209 - vassal: d_ruisre - Lost vassal: c_agnophia
+209 - sub vassal: d_ruisre - Lost vassal: c_agnophia
+209 - vassal: d_kipal - Gained vassal: c_agnophia
+209 - sub vassal: d_kipal - Gained vassal: c_agnophia
+209 - vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: c_tard
+209 - sub vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: c_tard
+209 - sub vassal: c_tard - Title given to 1002734 - Primary title: d_kipal
+209 - vassal: d_kipal - Holder (1002734) has gained c_tard
+209 - sub vassal: d_kipal - Holder (1002734) has gained c_tard
+209 - sub vassal: c_tard - Setting to vassal of d_kipal in Validate Realm
+209 - vassal: d_ruisre - Lost vassal: c_tard
+209 - sub vassal: d_ruisre - Lost vassal: c_tard
+209 - vassal: d_kipal - Gained vassal: c_tard
+209 - sub vassal: d_kipal - Gained vassal: c_tard
+209 - vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: c_lyolomas
+209 - sub vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: c_lyolomas
+209 - sub vassal: c_lyolomas - Title given to 1002734 - Primary title: d_kipal
+209 - vassal: d_kipal - Holder (1002734) has gained c_lyolomas
+209 - sub vassal: d_kipal - Holder (1002734) has gained c_lyolomas
+209 - sub vassal: c_lyolomas - Setting to vassal of d_kipal in Validate Realm
+209 - vassal: d_ruisre - Lost vassal: c_lyolomas
+209 - sub vassal: d_ruisre - Lost vassal: c_lyolomas
+209 - vassal: d_kipal - Gained vassal: c_lyolomas
+209 - sub vassal: d_kipal - Gained vassal: c_lyolomas
+209 - vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: d_ruisre
+209 - sub vassal: d_ruisre - Holder 1002734 - Primary title: d_ruisre has lost the title: d_ruisre
+209 - vassal: d_ruisre - Title given to 1002734 - Primary title: d_kipal
+209 - sub vassal: d_ruisre - Title given to 1002734 - Primary title: d_kipal
+209 - vassal: d_kipal - Holder (1002734) has gained d_ruisre
+209 - sub vassal: d_kipal - Holder (1002734) has gained d_ruisre
+209 - sub vassal: c_qisofni - Holder 1002734 - Primary title: c_qisofni has lost the title: c_qisofni
+209 - sub vassal: c_qisofni - Title given to 1002734 - Primary title: d_kipal
+209 - vassal: d_kipal - Holder (1002734) has gained c_qisofni
+209 - sub vassal: d_kipal - Holder (1002734) has gained c_qisofni
+209 - sub vassal: c_sadurg - Holder 1002734 - Primary title: c_sadurg has lost the title: c_sadurg
+209 - sub vassal: c_sadurg - Title given to 1002734 - Primary title: d_kipal
+209 - vassal: d_kipal - Holder (1002734) has gained c_sadurg
+209 - sub vassal: d_kipal - Holder (1002734) has gained c_sadurg
+209 - Holder (1000460) has gained c_tyoe
+209 - Holder (1000460) has gained c_suisib
+209 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+209 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+210 - Holder (1000460) has gained c_tyoe
+210 - Holder (1000460) has gained c_suisib
+210 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+210 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+211 - vassal: d_lib - Holder 1002442 - Primary title: d_lib has lost the title: d_lib
+211 - sub vassal: d_lib - Holder 1002442 - Primary title: d_lib has lost the title: d_lib
+211 - vassal: d_lib - Title given to 1002442
+211 - sub vassal: d_lib - Title given to 1002442
+211 - sub vassal: c_radar - Holder 1002442 - Primary title: c_radar has lost the title: c_radar
+211 - sub vassal: c_radar - Title given to 1002442 - Primary title: d_lib
+211 - vassal: d_lib - Holder (1002442) has gained c_radar
+211 - sub vassal: d_lib - Holder (1002442) has gained c_radar
+211 - Holder (1000460) has gained c_tyoe
+211 - Holder (1000460) has gained c_suisib
+211 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+211 - Holder 1001472 - Primary title: k_rava has lost the title: c_suisib
+212 - vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: d_kipal
+212 - sub vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: d_kipal
+212 - vassal: d_kipal - Title given to 1002442 - Primary title: d_lib
+212 - sub vassal: d_kipal - Title given to 1002442 - Primary title: d_lib
+212 - vassal: d_lib - Holder (1002442) has gained d_kipal
+212 - sub vassal: d_lib - Holder (1002442) has gained d_kipal
+212 - sub vassal: c_agnophia - Setting to vassal of d_ruisre in Validate Realm
+212 - vassal: d_kipal - Lost vassal: c_agnophia
+212 - sub vassal: d_kipal - Lost vassal: c_agnophia
+212 - sub vassal: c_tard - Setting to vassal of d_ruisre in Validate Realm
+212 - vassal: d_kipal - Lost vassal: c_tard
+212 - sub vassal: d_kipal - Lost vassal: c_tard
+212 - sub vassal: c_lyolomas - Setting to vassal of d_ruisre in Validate Realm
+212 - vassal: d_kipal - Lost vassal: c_lyolomas
+212 - sub vassal: d_kipal - Lost vassal: c_lyolomas
+212 - vassal: d_ruisre - Gained vassal: c_lyolomas
+212 - sub vassal: d_ruisre - Gained vassal: c_lyolomas
+212 - vassal: d_ruisre - Gained vassal: c_tard
+212 - sub vassal: d_ruisre - Gained vassal: c_tard
+212 - vassal: d_ruisre - Gained vassal: c_agnophia
+212 - sub vassal: d_ruisre - Gained vassal: c_agnophia
+212 - vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: c_agnophia
+212 - sub vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: c_agnophia
+212 - sub vassal: c_agnophia - Title given to 1002442 - Primary title: d_lib
+212 - vassal: d_lib - Holder (1002442) has gained c_agnophia
+212 - sub vassal: d_lib - Holder (1002442) has gained c_agnophia
+212 - sub vassal: c_agnophia - Setting to vassal of d_lib in Validate Realm
+212 - vassal: d_ruisre - Lost vassal: c_agnophia
+212 - sub vassal: d_ruisre - Lost vassal: c_agnophia
+212 - vassal: d_lib - Gained vassal: c_agnophia
+212 - sub vassal: d_lib - Gained vassal: c_agnophia
+212 - vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: c_tard
+212 - sub vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: c_tard
+212 - sub vassal: c_tard - Title given to 1002442 - Primary title: d_lib
+212 - vassal: d_lib - Holder (1002442) has gained c_tard
+212 - sub vassal: d_lib - Holder (1002442) has gained c_tard
+212 - sub vassal: c_tard - Setting to vassal of d_lib in Validate Realm
+212 - vassal: d_ruisre - Lost vassal: c_tard
+212 - sub vassal: d_ruisre - Lost vassal: c_tard
+212 - vassal: d_lib - Gained vassal: c_tard
+212 - sub vassal: d_lib - Gained vassal: c_tard
+212 - vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: c_lyolomas
+212 - sub vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: c_lyolomas
+212 - sub vassal: c_lyolomas - Title given to 1002442 - Primary title: d_lib
+212 - vassal: d_lib - Holder (1002442) has gained c_lyolomas
+212 - sub vassal: d_lib - Holder (1002442) has gained c_lyolomas
+212 - sub vassal: c_lyolomas - Setting to vassal of d_lib in Validate Realm
+212 - vassal: d_ruisre - Lost vassal: c_lyolomas
+212 - sub vassal: d_ruisre - Lost vassal: c_lyolomas
+212 - vassal: d_lib - Gained vassal: c_lyolomas
+212 - sub vassal: d_lib - Gained vassal: c_lyolomas
+212 - vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: d_ruisre
+212 - sub vassal: d_ruisre - Holder 1002442 - Primary title: d_ruisre has lost the title: d_ruisre
+212 - vassal: d_ruisre - Title given to 1002442 - Primary title: d_lib
+212 - sub vassal: d_ruisre - Title given to 1002442 - Primary title: d_lib
+212 - vassal: d_lib - Holder (1002442) has gained d_ruisre
+212 - sub vassal: d_lib - Holder (1002442) has gained d_ruisre
+212 - sub vassal: c_qisofni - Holder 1002442 - Primary title: c_qisofni has lost the title: c_qisofni
+212 - sub vassal: c_qisofni - Title given to 1002442 - Primary title: d_lib
+212 - vassal: d_lib - Holder (1002442) has gained c_qisofni
+212 - sub vassal: d_lib - Holder (1002442) has gained c_qisofni
+212 - sub vassal: c_sadurg - Holder 1002442 - Primary title: c_sadurg has lost the title: c_sadurg
+212 - sub vassal: c_sadurg - Title given to 1002442 - Primary title: d_lib
+212 - vassal: d_lib - Holder (1002442) has gained c_sadurg
+212 - sub vassal: d_lib - Holder (1002442) has gained c_sadurg
+212 - vassal: d_liluil - Holder 1002653 - Primary title: d_liluil has lost the title: d_liluil
+212 - sub vassal: d_liluil - Holder 1002653 - Primary title: d_liluil has lost the title: d_liluil
+212 - vassal: d_liluil - Title given to 1002653
+212 - sub vassal: d_liluil - Title given to 1002653
+212 - sub vassal: c_amajayor - Holder 1002653 - Primary title: c_amajayor has lost the title: c_amajayor
+212 - sub vassal: c_amajayor - Title given to 1002653 - Primary title: d_liluil
+212 - vassal: d_liluil - Holder (1002653) has gained c_amajayor
+212 - sub vassal: d_liluil - Holder (1002653) has gained c_amajayor
+212 - Holder (1000460) has gained c_tyoe
+212 - Holder (1000460) has gained c_sihazsi
+212 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+212 - Holder 1001472 - Primary title: k_rava has lost the title: c_sihazsi
+213 - vassal: d_kipal - Destroyed due to flagged problem
+213 - sub vassal: d_kipal - Destroyed due to flagged problem
+213 - vassal: d_kipal - Made independent
+213 - sub vassal: d_kipal - Made independent
+213 - vassal: d_ruisre - Holder 1003244 - Primary title: d_ruisre has lost the title: c_radar
+213 - sub vassal: d_ruisre - Holder 1003244 - Primary title: d_ruisre has lost the title: c_radar
+213 - sub vassal: c_radar - Title given to 1003244
+213 - Holder (1000460) has gained c_tyoe
+213 - Holder (1000460) has gained c_sihazsi
+213 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+213 - Holder 1001472 - Primary title: k_rava has lost the title: c_sihazsi
+214 - Holder (1000460) has gained c_tyoe
+214 - Holder (1000460) has gained c_sihazsi
+214 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+214 - Holder 1001472 - Primary title: k_rava has lost the title: c_sihazsi
+215 - Holder (1000460) has gained c_tyoe
+215 - Holder (1000460) has gained c_sihazsi
+215 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+215 - Holder 1001472 - Primary title: k_rava has lost the title: c_sihazsi
+216 - Holder (1000460) has gained c_tyoe
+216 - Holder (1000460) has gained c_sihazsi
+216 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+216 - Holder 1001472 - Primary title: k_rava has lost the title: c_sihazsi
+217 - vassal: d_ruisre - Holder (1002442) has gained d_kipal
+217 - sub vassal: d_ruisre - Holder (1002442) has gained d_kipal
+217 - Gained vassal: d_kipal
+217 - vassal: d_kipal - Made independent for title creation d_kipal for d_lib
+217 - sub vassal: d_kipal - Made independent for title creation d_kipal for d_lib
+217 - vassal: d_kipal - Made independent
+217 - sub vassal: d_kipal - Made independent
+217 - sub vassal: c_agnophia - Set liege on title creation d_kipal
+217 - vassal: d_lib - Lost vassal: c_agnophia
+217 - sub vassal: d_lib - Lost vassal: c_agnophia
+217 - sub vassal: c_tard - Set liege on title creation d_kipal
+217 - vassal: d_lib - Lost vassal: c_tard
+217 - sub vassal: d_lib - Lost vassal: c_tard
+217 - sub vassal: c_lyolomas - Set liege on title creation d_kipal
+217 - vassal: d_lib - Lost vassal: c_lyolomas
+217 - sub vassal: d_lib - Lost vassal: c_lyolomas
+217 - sub vassal: c_qisofni - Set liege on title creation d_kipal
+217 - vassal: d_ruisre - Lost vassal: c_qisofni
+217 - sub vassal: d_ruisre - Lost vassal: c_qisofni
+217 - sub vassal: c_sadurg - Set liege on title creation d_kipal
+217 - vassal: d_ruisre - Lost vassal: c_sadurg
+217 - sub vassal: d_ruisre - Lost vassal: c_sadurg
+217 - sub vassal: c_sadurg - Given to 1003511 in HandleTitles - Too many duke titles
+217 - vassal: d_lib - Holder 1003511 - Primary title: d_lib has lost the title: c_sadurg
+217 - sub vassal: d_lib - Holder 1003511 - Primary title: d_lib has lost the title: c_sadurg
+217 - sub vassal: c_sadurg - Title given to 1003511
+217 - vassal: d_lib - Holder 1000460 - Primary title: d_lib has lost the title: d_ruisre
+217 - sub vassal: d_lib - Holder 1000460 - Primary title: d_lib has lost the title: d_ruisre
+217 - vassal: d_ruisre - Title given to 1000460 - Primary title: k_rava
+217 - sub vassal: d_ruisre - Title given to 1000460 - Primary title: k_rava
+217 - Holder (1000460) has gained d_ruisre
+217 - vassal: d_ruisre - Too many dukes, made direct title into vassal of k_rava
+217 - sub vassal: d_ruisre - Too many dukes, made direct title into vassal of k_rava
+217 - Holder 1003513 - Primary title: k_rava has lost the title: d_ruisre
+217 - vassal: d_ruisre - Title given to 1003513
+217 - sub vassal: d_ruisre - Title given to 1003513
+217 - vassal: d_lib - Holder 1001966 - Primary title: d_lib has lost the title: d_lib
+217 - sub vassal: d_lib - Holder 1001966 - Primary title: d_lib has lost the title: d_lib
+217 - vassal: d_lib - Title given to 1001966 - Primary title: d_ryitald
+217 - sub vassal: d_lib - Title given to 1001966 - Primary title: d_ryitald
+217 - vassal: d_ryitald - Holder (1001966) has gained d_lib
+217 - sub vassal: d_ryitald - Holder (1001966) has gained d_lib
+217 - vassal: d_ryitald - Holder (1001966) has gained d_kipal
+217 - sub vassal: d_ryitald - Holder (1001966) has gained d_kipal
+217 - Holder (1000460) has gained c_tyoe
+217 - Holder (1000460) has gained c_sihazsi
+217 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+217 - Holder 1001472 - Primary title: k_rava has lost the title: c_sihazsi
+218 - vassal: d_ruisre - Destroyed due to flagged problem
+218 - sub vassal: d_ruisre - Destroyed due to flagged problem
+218 - vassal: d_ruisre - Made independent
+218 - sub vassal: d_ruisre - Made independent
+218 - sub vassal: c_agnophia - Given to 1003586 in HandleTitles - Too many duke titles
+218 - sub vassal: c_agnophia - Holder 1003586 - Primary title: c_agnophia has lost the title: c_agnophia
+218 - sub vassal: c_agnophia - Title given to 1003586
+218 - vassal: d_lib - Holder 1000460 - Primary title: d_lib has lost the title: d_kipal
+218 - sub vassal: d_lib - Holder 1000460 - Primary title: d_lib has lost the title: d_kipal
+218 - Holder (1000460) has gained d_kipal
+218 - Gained vassal: d_kipal
+218 - Holder 1003587 - Primary title: k_rava has lost the title: d_kipal
+218 - vassal: d_kipal - Title given to 1003587
+218 - sub vassal: d_kipal - Title given to 1003587
+218 - Holder (1000460) has gained c_tyoe
+218 - Holder (1000460) has gained c_sihazsi
+218 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+218 - Holder 1001472 - Primary title: k_rava has lost the title: c_sihazsi
+219 - Holder (1000460) has gained c_tyoe
+219 - Holder (1000460) has gained c_sihazsi
+219 - Holder 1001472 - Primary title: k_rava has lost the title: c_tyoe
+219 - Holder 1001472 - Primary title: k_rava has lost the title: c_sihazsi
+219 - Holder 1003705 - Primary title: k_rava has lost the title: k_rava
+219 - Title given to 1003705
+219 - vassal: d_nanina - Holder 1003705 - Primary title: d_nanina has lost the title: c_kisille
+219 - sub vassal: d_nanina - Holder 1003705 - Primary title: d_nanina has lost the title: c_kisille
+219 - vassal: c_kisille - Title given to 1003705 - Primary title: k_rava
+219 - sub vassal: c_kisille - Title given to 1003705 - Primary title: k_rava
+219 - Holder (1003705) has gained c_kisille
+219 - vassal: c_qille - Setting to vassal of d_nanina in Validate Realm
+219 - sub vassal: c_qille - Setting to vassal of d_nanina in Validate Realm
+219 - Lost vassal: c_qille
+219 - vassal: d_nanina - Gained vassal: c_qille
+219 - sub vassal: d_nanina - Gained vassal: c_qille
+219 - vassal: d_nanina - Holder 1003705 - Primary title: d_nanina has lost the title: c_qille
+219 - sub vassal: d_nanina - Holder 1003705 - Primary title: d_nanina has lost the title: c_qille
+219 - sub vassal: c_qille - Title given to 1003705 - Primary title: k_rava
+219 - Holder (1003705) has gained c_qille
+219 - sub vassal: c_qille - Setting to vassal of k_rava in Validate Realm
+219 - vassal: d_nanina - Lost vassal: c_qille
+219 - sub vassal: d_nanina - Lost vassal: c_qille
+219 - Gained vassal: c_qille
+219 - vassal: d_nanina - Holder 1003705 - Primary title: d_nanina has lost the title: d_nanina
+219 - sub vassal: d_nanina - Holder 1003705 - Primary title: d_nanina has lost the title: d_nanina
+219 - vassal: d_nanina - Title given to 1003705 - Primary title: k_rava
+219 - sub vassal: d_nanina - Title given to 1003705 - Primary title: k_rava
+219 - Holder (1003705) has gained d_nanina
+219 - vassal: d_tisaha - Holder 1003705 - Primary title: d_tisaha has lost the title: d_tisaha
+219 - sub vassal: d_tisaha - Holder 1003705 - Primary title: d_tisaha has lost the title: d_tisaha
+219 - vassal: d_tisaha - Title given to 1003705 - Primary title: k_rava
+219 - sub vassal: d_tisaha - Title given to 1003705 - Primary title: k_rava
+219 - Holder (1003705) has gained d_tisaha
+220 - vassal: d_liluil - Holder 1001966 - Primary title: d_liluil has lost the title: d_liluil
+220 - sub vassal: d_liluil - Holder 1001966 - Primary title: d_liluil has lost the title: d_liluil
+220 - vassal: d_liluil - Title given to 1001966 - Primary title: d_lib
+220 - sub vassal: d_liluil - Title given to 1001966 - Primary title: d_lib
+220 - vassal: d_lib - Holder (1001966) has gained d_liluil
+220 - sub vassal: d_lib - Holder (1001966) has gained d_liluil
+220 - sub vassal: c_amajayor - Holder 1001966 - Primary title: c_amajayor has lost the title: c_amajayor
+220 - sub vassal: c_amajayor - Title given to 1001966 - Primary title: d_lib
+220 - vassal: d_lib - Holder (1001966) has gained c_amajayor
+220 - sub vassal: d_lib - Holder (1001966) has gained c_amajayor
+221 - sub vassal: c_dyolelen - Given to 1003819 in HandleTitles - Too many duke titles
+221 - vassal: d_liluil - Holder 1003819 - Primary title: d_liluil has lost the title: c_dyolelen
+221 - sub vassal: d_liluil - Holder 1003819 - Primary title: d_liluil has lost the title: c_dyolelen
+221 - sub vassal: c_dyolelen - Title given to 1003819
+221 - vassal: d_liluil - Holder 1003705 - Primary title: d_liluil has lost the title: d_ryitald
+221 - sub vassal: d_liluil - Holder 1003705 - Primary title: d_liluil has lost the title: d_ryitald
+221 - vassal: d_ryitald - Title given to 1003705 - Primary title: k_rava
+221 - sub vassal: d_ryitald - Title given to 1003705 - Primary title: k_rava
+221 - Holder (1003705) has gained d_ryitald
+221 - vassal: d_ryitald - Too many dukes, made direct title into vassal of k_rava
+221 - sub vassal: d_ryitald - Too many dukes, made direct title into vassal of k_rava
+221 - Holder 1003820 - Primary title: k_rava has lost the title: d_ryitald
+221 - vassal: d_ryitald - Title given to 1003820
+221 - sub vassal: d_ryitald - Title given to 1003820
+222 - vassal: d_bomas - Holder 1002215 - Primary title: d_bomas has lost the title: d_bomas
+222 - sub vassal: d_bomas - Holder 1002215 - Primary title: d_bomas has lost the title: d_bomas
+222 - vassal: d_bomas - Title given to 1002215
+222 - sub vassal: d_bomas - Title given to 1002215
+222 - sub vassal: c_sisatha - Holder 1002215 - Primary title: c_sisatha has lost the title: c_sisatha
+222 - sub vassal: c_sisatha - Title given to 1002215 - Primary title: d_bomas
+222 - vassal: d_bomas - Holder (1002215) has gained c_sisatha
+222 - sub vassal: d_bomas - Holder (1002215) has gained c_sisatha
+223 - sub vassal: c_tard - Holder 1003587 - Primary title: c_tard has lost the title: c_tard
+223 - sub vassal: c_tard - Title given to 1003587 - Primary title: d_kipal
+223 - vassal: d_kipal - Holder (1003587) has gained c_tard
+223 - sub vassal: d_kipal - Holder (1003587) has gained c_tard
+223 - sub vassal: c_lyolomas - Holder 1003587 - Primary title: c_lyolomas has lost the title: c_lyolomas
+223 - sub vassal: c_lyolomas - Title given to 1003587 - Primary title: d_kipal
+223 - vassal: d_kipal - Holder (1003587) has gained c_lyolomas
+223 - sub vassal: d_kipal - Holder (1003587) has gained c_lyolomas
+223 - sub vassal: c_qisofni - Holder 1003587 - Primary title: c_qisofni has lost the title: c_qisofni
+223 - sub vassal: c_qisofni - Title given to 1003587 - Primary title: d_kipal
+223 - vassal: d_kipal - Holder (1003587) has gained c_qisofni
+223 - sub vassal: d_kipal - Holder (1003587) has gained c_qisofni
+223 - vassal: d_kanans - Holder 1001966 - Primary title: d_kanans has lost the title: d_kanans
+223 - sub vassal: d_kanans - Holder 1001966 - Primary title: d_kanans has lost the title: d_kanans
+223 - vassal: d_kanans - Title given to 1001966 - Primary title: d_liluil
+223 - sub vassal: d_kanans - Title given to 1001966 - Primary title: d_liluil
+223 - vassal: d_liluil - Holder (1001966) has gained d_kanans
+223 - sub vassal: d_liluil - Holder (1001966) has gained d_kanans
+223 - sub vassal: c_lisurg - Holder 1001966 - Primary title: c_lisurg has lost the title: c_lisurg
+223 - sub vassal: c_lisurg - Title given to 1001966 - Primary title: d_lib
+223 - vassal: d_lib - Holder (1001966) has gained c_lisurg
+223 - sub vassal: d_lib - Holder (1001966) has gained c_lisurg
+223 - sub vassal: c_biruvva - Holder 1001966 - Primary title: c_biruvva has lost the title: c_biruvva
+223 - sub vassal: c_biruvva - Title given to 1001966 - Primary title: d_lib
+223 - vassal: d_lib - Holder (1001966) has gained c_biruvva
+223 - sub vassal: d_lib - Holder (1001966) has gained c_biruvva
+223 - sub vassal: c_qya - Holder 1001966 - Primary title: c_qya has lost the title: c_qya
+223 - sub vassal: c_qya - Title given to 1001966 - Primary title: d_lib
+223 - vassal: d_lib - Holder (1001966) has gained c_qya
+223 - sub vassal: d_lib - Holder (1001966) has gained c_qya
+224 - sub vassal: c_radar - Given to 1004031 in HandleTitles - Too many duke titles
+224 - sub vassal: c_radar - Holder 1004031 - Primary title: c_radar has lost the title: c_radar
+224 - sub vassal: c_radar - Title given to 1004031
+224 - vassal: d_kanans - Holder 1003705 - Primary title: d_kanans has lost the title: d_lib
+224 - sub vassal: d_kanans - Holder 1003705 - Primary title: d_kanans has lost the title: d_lib
+224 - vassal: d_lib - Title given to 1003705 - Primary title: k_rava
+224 - sub vassal: d_lib - Title given to 1003705 - Primary title: k_rava
+224 - Holder (1003705) has gained d_lib
+224 - vassal: d_lib - Too many dukes, made direct title into vassal of k_rava
+224 - sub vassal: d_lib - Too many dukes, made direct title into vassal of k_rava
+224 - Holder 1004032 - Primary title: k_rava has lost the title: d_lib
+224 - vassal: d_lib - Title given to 1004032
+224 - sub vassal: d_lib - Title given to 1004032
+225 - vassal: d_kanans - Holder 1000345 - Primary title: d_kanans has lost the title: d_liluil
+225 - sub vassal: d_kanans - Holder 1000345 - Primary title: d_kanans has lost the title: d_liluil
+225 - vassal: d_liluil - Title given to 1000345 - Primary title: d_tyoa
+225 - sub vassal: d_liluil - Title given to 1000345 - Primary title: d_tyoa
+225 - vassal: d_tyoa - Holder (1000345) has gained d_liluil
+225 - sub vassal: d_tyoa - Holder (1000345) has gained d_liluil
+225 - sub vassal: c_amajayor - Setting to vassal of d_kanans in Validate Realm
+225 - vassal: d_liluil - Lost vassal: c_amajayor
+225 - sub vassal: d_liluil - Lost vassal: c_amajayor
+225 - vassal: d_kanans - Gained vassal: c_amajayor
+225 - sub vassal: d_kanans - Gained vassal: c_amajayor
+225 - vassal: d_kanans - Holder 1000345 - Primary title: d_kanans has lost the title: c_amajayor
+225 - sub vassal: d_kanans - Holder 1000345 - Primary title: d_kanans has lost the title: c_amajayor
+225 - sub vassal: c_amajayor - Title given to 1000345 - Primary title: d_tyoa
+225 - vassal: d_tyoa - Holder (1000345) has gained c_amajayor
+225 - sub vassal: d_tyoa - Holder (1000345) has gained c_amajayor
+225 - sub vassal: c_amajayor - Setting to vassal of d_tyoa in Validate Realm
+225 - vassal: d_kanans - Lost vassal: c_amajayor
+225 - sub vassal: d_kanans - Lost vassal: c_amajayor
+225 - vassal: d_tyoa - Gained vassal: c_amajayor
+225 - sub vassal: d_tyoa - Gained vassal: c_amajayor
+225 - vassal: d_kanans - Holder 1000345 - Primary title: d_kanans has lost the title: d_kanans
+225 - sub vassal: d_kanans - Holder 1000345 - Primary title: d_kanans has lost the title: d_kanans
+225 - vassal: d_kanans - Title given to 1000345 - Primary title: d_tyoa
+225 - sub vassal: d_kanans - Title given to 1000345 - Primary title: d_tyoa
+225 - vassal: d_tyoa - Holder (1000345) has gained d_kanans
+225 - sub vassal: d_tyoa - Holder (1000345) has gained d_kanans
+225 - sub vassal: c_lisurg - Holder 1000345 - Primary title: c_lisurg has lost the title: c_lisurg
+225 - sub vassal: c_lisurg - Title given to 1000345 - Primary title: d_tyoa
+225 - vassal: d_tyoa - Holder (1000345) has gained c_lisurg
+225 - sub vassal: d_tyoa - Holder (1000345) has gained c_lisurg
+225 - sub vassal: c_biruvva - Holder 1000345 - Primary title: c_biruvva has lost the title: c_biruvva
+225 - sub vassal: c_biruvva - Title given to 1000345 - Primary title: d_tyoa
+225 - vassal: d_tyoa - Holder (1000345) has gained c_biruvva
+225 - sub vassal: d_tyoa - Holder (1000345) has gained c_biruvva
+225 - sub vassal: c_qya - Holder 1000345 - Primary title: c_qya has lost the title: c_qya
+225 - sub vassal: c_qya - Title given to 1000345 - Primary title: d_tyoa
+225 - vassal: d_tyoa - Holder (1000345) has gained c_qya
+225 - sub vassal: d_tyoa - Holder (1000345) has gained c_qya
+226 - sub vassal: c_kophia - Given to 1004175 in HandleTitles - Too many duke titles
+226 - vassal: d_kanans - Holder 1004175 - Primary title: d_kanans has lost the title: c_kophia
+226 - sub vassal: d_kanans - Holder 1004175 - Primary title: d_kanans has lost the title: c_kophia
+226 - sub vassal: c_kophia - Title given to 1004175
+226 - vassal: d_kanans - Holder 1003705 - Primary title: d_kanans has lost the title: d_badomas
+226 - sub vassal: d_kanans - Holder 1003705 - Primary title: d_kanans has lost the title: d_badomas
+226 - vassal: d_badomas - Title given to 1003705 - Primary title: k_rava
+226 - sub vassal: d_badomas - Title given to 1003705 - Primary title: k_rava
+226 - Holder (1003705) has gained d_badomas
+226 - sub vassal: c_duban - Setting to vassal of d_kanans in Validate Realm
+226 - vassal: d_badomas - Lost vassal: c_duban
+226 - sub vassal: d_badomas - Lost vassal: c_duban
+226 - vassal: d_kanans - Gained vassal: c_duban
+226 - sub vassal: d_kanans - Gained vassal: c_duban
+226 - vassal: d_badomas - Too many dukes, made direct title into vassal of k_rava
+226 - sub vassal: d_badomas - Too many dukes, made direct title into vassal of k_rava
+226 - Holder 1004176 - Primary title: k_rava has lost the title: d_badomas
+226 - vassal: d_badomas - Title given to 1004176
+226 - sub vassal: d_badomas - Title given to 1004176
+226 - sub vassal: c_wurg - Given to 1004178 in HandleTitles - Too many duke titles
+226 - vassal: d_kanans - Holder 1004178 - Primary title: d_kanans has lost the title: c_wurg
+226 - sub vassal: d_kanans - Holder 1004178 - Primary title: d_kanans has lost the title: c_wurg
+226 - sub vassal: c_wurg - Title given to 1004178
+226 - vassal: d_kanans - Holder 1003705 - Primary title: d_kanans has lost the title: d_tyoa
+226 - sub vassal: d_kanans - Holder 1003705 - Primary title: d_kanans has lost the title: d_tyoa
+226 - vassal: d_tyoa - Title given to 1003705 - Primary title: k_rava
+226 - sub vassal: d_tyoa - Title given to 1003705 - Primary title: k_rava
+226 - Holder (1003705) has gained d_tyoa
+226 - sub vassal: c_sonpal - Setting to vassal of d_kanans in Validate Realm
+226 - vassal: d_tyoa - Lost vassal: c_sonpal
+226 - sub vassal: d_tyoa - Lost vassal: c_sonpal
+226 - sub vassal: c_nonpal - Setting to vassal of d_kanans in Validate Realm
+226 - vassal: d_tyoa - Lost vassal: c_nonpal
+226 - sub vassal: d_tyoa - Lost vassal: c_nonpal
+226 - sub vassal: c_amajayor - Setting to vassal of d_kanans in Validate Realm
+226 - vassal: d_tyoa - Lost vassal: c_amajayor
+226 - sub vassal: d_tyoa - Lost vassal: c_amajayor
+226 - vassal: d_kanans - Gained vassal: c_amajayor
+226 - sub vassal: d_kanans - Gained vassal: c_amajayor
+226 - vassal: d_kanans - Gained vassal: c_nonpal
+226 - sub vassal: d_kanans - Gained vassal: c_nonpal
+226 - vassal: d_kanans - Gained vassal: c_sonpal
+226 - sub vassal: d_kanans - Gained vassal: c_sonpal
+226 - vassal: d_tyoa - Too many dukes, made direct title into vassal of k_rava
+226 - sub vassal: d_tyoa - Too many dukes, made direct title into vassal of k_rava
+226 - Holder 1004179 - Primary title: k_rava has lost the title: d_tyoa
+226 - vassal: d_tyoa - Title given to 1004179
+226 - sub vassal: d_tyoa - Title given to 1004179
+226 - vassal: d_kanans - Holder 1004180 - Primary title: d_kanans has lost the title: c_amajayor
+226 - sub vassal: d_kanans - Holder 1004180 - Primary title: d_kanans has lost the title: c_amajayor
+226 - sub vassal: c_amajayor - Title given to 1004180
+226 - vassal: d_kanans - Holder 1004181 - Primary title: d_kanans has lost the title: c_nonpal
+226 - sub vassal: d_kanans - Holder 1004181 - Primary title: d_kanans has lost the title: c_nonpal
+226 - sub vassal: c_nonpal - Title given to 1004181
+228 - vassal: d_kipal - Holder 1003809 - Primary title: d_kipal has lost the title: d_kipal
+228 - sub vassal: d_kipal - Holder 1003809 - Primary title: d_kipal has lost the title: d_kipal
+228 - vassal: d_kipal - Title given to 1003809
+228 - sub vassal: d_kipal - Title given to 1003809
+228 - sub vassal: c_tard - Holder 1003809 - Primary title: c_tard has lost the title: c_tard
+228 - sub vassal: c_tard - Title given to 1003809 - Primary title: d_kipal
+228 - vassal: d_kipal - Holder (1003809) has gained c_tard
+228 - sub vassal: d_kipal - Holder (1003809) has gained c_tard
+228 - sub vassal: c_lyolomas - Holder 1003809 - Primary title: c_lyolomas has lost the title: c_lyolomas
+228 - sub vassal: c_lyolomas - Title given to 1003809 - Primary title: d_kipal
+228 - vassal: d_kipal - Holder (1003809) has gained c_lyolomas
+228 - sub vassal: d_kipal - Holder (1003809) has gained c_lyolomas
+228 - sub vassal: c_qisofni - Holder 1003809 - Primary title: c_qisofni has lost the title: c_qisofni
+228 - sub vassal: c_qisofni - Title given to 1003809 - Primary title: d_kipal
+228 - vassal: d_kipal - Holder (1003809) has gained c_qisofni
+228 - sub vassal: d_kipal - Holder (1003809) has gained c_qisofni
+229 - Holder 1003763 - Primary title: k_rava has lost the title: k_rava
+229 - Title given to 1003763
+229 - vassal: d_nanina - Holder 1003763 - Primary title: d_nanina has lost the title: d_nanina
+229 - sub vassal: d_nanina - Holder 1003763 - Primary title: d_nanina has lost the title: d_nanina
+229 - vassal: d_nanina - Title given to 1003763 - Primary title: k_rava
+229 - sub vassal: d_nanina - Title given to 1003763 - Primary title: k_rava
+229 - Holder (1003763) has gained d_nanina
+229 - vassal: c_qille - Setting to vassal of d_tisaha in Validate Realm
+229 - sub vassal: c_qille - Setting to vassal of d_tisaha in Validate Realm
+229 - Lost vassal: c_qille
+229 - vassal: c_kisille - Setting to vassal of d_tisaha in Validate Realm
+229 - sub vassal: c_kisille - Setting to vassal of d_tisaha in Validate Realm
+229 - Lost vassal: c_kisille
+229 - vassal: d_tisaha - Gained vassal: c_kisille
+229 - sub vassal: d_tisaha - Gained vassal: c_kisille
+229 - vassal: d_tisaha - Gained vassal: c_qille
+229 - sub vassal: d_tisaha - Gained vassal: c_qille
+229 - vassal: d_tisaha - Holder 1003763 - Primary title: d_tisaha has lost the title: d_tisaha
+229 - sub vassal: d_tisaha - Holder 1003763 - Primary title: d_tisaha has lost the title: d_tisaha
+229 - vassal: d_tisaha - Title given to 1003763 - Primary title: k_rava
+229 - sub vassal: d_tisaha - Title given to 1003763 - Primary title: k_rava
+229 - Holder (1003763) has gained d_tisaha
+229 - sub vassal: c_qille - Holder 1003763 - Primary title: c_qille has lost the title: c_qille
+229 - sub vassal: c_qille - Title given to 1003763 - Primary title: k_rava
+229 - Holder (1003763) has gained c_qille
+229 - sub vassal: c_kisille - Holder 1003763 - Primary title: c_kisille has lost the title: c_kisille
+229 - sub vassal: c_kisille - Title given to 1003763 - Primary title: k_rava
+229 - Holder (1003763) has gained c_kisille
+231 - vassal: d_kanans - Holder 1003763 - Primary title: d_kanans has lost the title: c_duban
+231 - sub vassal: d_kanans - Holder 1003763 - Primary title: d_kanans has lost the title: c_duban
+231 - sub vassal: c_duban - Title given to 1003763 - Primary title: k_rava
+231 - Holder (1003763) has gained c_duban
+231 - sub vassal: c_duban - Setting to vassal of k_rava in Validate Realm
+231 - vassal: d_kanans - Lost vassal: c_duban
+231 - sub vassal: d_kanans - Lost vassal: c_duban
+231 - Gained vassal: c_duban
+231 - vassal: d_kanans - Holder 1003763 - Primary title: d_kanans has lost the title: c_sonpal
+231 - sub vassal: d_kanans - Holder 1003763 - Primary title: d_kanans has lost the title: c_sonpal
+231 - sub vassal: c_sonpal - Title given to 1003763 - Primary title: k_rava
+231 - Holder (1003763) has gained c_sonpal
+231 - sub vassal: c_sonpal - Setting to vassal of k_rava in Validate Realm
+231 - vassal: d_kanans - Lost vassal: c_sonpal
+231 - sub vassal: d_kanans - Lost vassal: c_sonpal
+231 - Gained vassal: c_sonpal
+231 - vassal: d_kanans - Holder 1003763 - Primary title: d_kanans has lost the title: d_liluil
+231 - sub vassal: d_kanans - Holder 1003763 - Primary title: d_kanans has lost the title: d_liluil
+231 - vassal: d_liluil - Title given to 1003763 - Primary title: k_rava
+231 - sub vassal: d_liluil - Title given to 1003763 - Primary title: k_rava
+231 - Holder (1003763) has gained d_liluil
+231 - vassal: d_kanans - Holder 1003763 - Primary title: d_kanans has lost the title: d_kanans
+231 - sub vassal: d_kanans - Holder 1003763 - Primary title: d_kanans has lost the title: d_kanans
+231 - vassal: d_kanans - Title given to 1003763 - Primary title: k_rava
+231 - sub vassal: d_kanans - Title given to 1003763 - Primary title: k_rava
+231 - Holder (1003763) has gained d_kanans
+231 - sub vassal: c_lisurg - Holder 1003763 - Primary title: c_lisurg has lost the title: c_lisurg
+231 - sub vassal: c_lisurg - Title given to 1003763 - Primary title: k_rava
+231 - Holder (1003763) has gained c_lisurg
+231 - sub vassal: c_biruvva - Holder 1003763 - Primary title: c_biruvva has lost the title: c_biruvva
+231 - sub vassal: c_biruvva - Title given to 1003763 - Primary title: k_rava
+231 - Holder (1003763) has gained c_biruvva
+231 - sub vassal: c_qya - Holder 1003763 - Primary title: c_qya has lost the title: c_qya
+231 - sub vassal: c_qya - Title given to 1003763 - Primary title: k_rava
+231 - Holder (1003763) has gained c_qya
+231 - sub vassal: c_qya - Given to 1004585 in HandleTitles - Too many duke titles
+231 - Holder 1004585 - Primary title: k_rava has lost the title: c_qya
+231 - sub vassal: c_qya - Title given to 1004585
+231 - Holder 1004585 - Primary title: k_rava has lost the title: d_kanans
+231 - vassal: d_kanans - Title given to 1004585 - Primary title: c_qya
+231 - sub vassal: d_kanans - Title given to 1004585 - Primary title: c_qya
+231 - sub vassal: c_qya - Holder (1004585) has gained d_kanans
+231 - sub vassal: c_lisurg - Setting to vassal of k_rava in Validate Realm
+231 - vassal: d_kanans - Lost vassal: c_lisurg
+231 - sub vassal: d_kanans - Lost vassal: c_lisurg
+231 - sub vassal: c_biruvva - Setting to vassal of k_rava in Validate Realm
+231 - vassal: d_kanans - Lost vassal: c_biruvva
+231 - sub vassal: d_kanans - Lost vassal: c_biruvva
+231 - Gained vassal: c_biruvva
+231 - Gained vassal: c_lisurg
+231 - vassal: d_kanans - Too many dukes, given to dejure: k_rava
+231 - sub vassal: d_kanans - Too many dukes, given to dejure: k_rava
+231 - sub vassal: c_akaneas - Given to 1004586 in HandleTitles - Too many duke titles
+231 - sub vassal: c_achald - Holder 1004586 - Primary title: c_achald has lost the title: c_akaneas
+231 - sub vassal: c_akaneas - Title given to 1004586
+231 - Holder 1004586 - Primary title: k_rava has lost the title: d_nanina
+231 - vassal: d_nanina - Title given to 1004586 - Primary title: c_akaneas
+231 - sub vassal: d_nanina - Title given to 1004586 - Primary title: c_akaneas
+231 - sub vassal: c_akaneas - Holder (1004586) has gained d_nanina
+231 - vassal: d_nanina - Too many dukes, given to dejure: k_rava
+231 - sub vassal: d_nanina - Too many dukes, given to dejure: k_rava
+231 - Holder 1004587 - Primary title: k_rava has lost the title: c_lisurg
+231 - vassal: c_lisurg - Title given to 1004587
+231 - sub vassal: c_lisurg - Title given to 1004587
+232 - vassal: d_tyoa - Holder 1003763 - Primary title: d_tyoa has lost the title: d_tyoa
+232 - sub vassal: d_tyoa - Holder 1003763 - Primary title: d_tyoa has lost the title: d_tyoa
+232 - vassal: d_tyoa - Title given to 1003763 - Primary title: k_rava
+232 - sub vassal: d_tyoa - Title given to 1003763 - Primary title: k_rava
+232 - Holder (1003763) has gained d_tyoa
+232 - sub vassal: c_ruil - Holder 1003763 - Primary title: c_ruil has lost the title: c_demabel
+232 - sub vassal: c_demabel - Title given to 1003763 - Primary title: k_rava
+232 - Holder (1003763) has gained c_demabel
+232 - sub vassal: c_demabel - Given to 1004656 in HandleTitles - Too many duke titles
+232 - Holder 1004656 - Primary title: k_rava has lost the title: c_demabel
+232 - sub vassal: c_demabel - Title given to 1004656
+232 - Holder 1004656 - Primary title: k_rava has lost the title: d_liluil
+232 - vassal: d_liluil - Title given to 1004656 - Primary title: c_demabel
+232 - sub vassal: d_liluil - Title given to 1004656 - Primary title: c_demabel
+232 - sub vassal: c_demabel - Holder (1004656) has gained d_liluil
+232 - vassal: d_liluil - Too many dukes, given to dejure: k_rava
+232 - sub vassal: d_liluil - Too many dukes, given to dejure: k_rava
+238 - vassal: d_liluil - Holder 1003763 - Primary title: d_liluil has lost the title: d_liluil
+238 - sub vassal: d_liluil - Holder 1003763 - Primary title: d_liluil has lost the title: d_liluil
+238 - vassal: d_liluil - Title given to 1003763 - Primary title: k_rava
+238 - sub vassal: d_liluil - Title given to 1003763 - Primary title: k_rava
+238 - Holder (1003763) has gained d_liluil
+238 - sub vassal: c_demabel - Holder 1003763 - Primary title: c_demabel has lost the title: c_demabel
+238 - sub vassal: c_demabel - Title given to 1003763 - Primary title: k_rava
+238 - Holder (1003763) has gained c_demabel
+238 - sub vassal: c_demabel - Given to 1005110 in HandleTitles - Too many duke titles
+238 - Holder 1005110 - Primary title: k_rava has lost the title: c_demabel
+238 - sub vassal: c_demabel - Title given to 1005110
+238 - Holder 1005110 - Primary title: k_rava has lost the title: d_liluil
+238 - vassal: d_liluil - Title given to 1005110 - Primary title: c_demabel
+238 - sub vassal: d_liluil - Title given to 1005110 - Primary title: c_demabel
+238 - sub vassal: c_demabel - Holder (1005110) has gained d_liluil
+238 - vassal: d_liluil - Too many dukes, given to dejure: k_rava
+238 - sub vassal: d_liluil - Too many dukes, given to dejure: k_rava
+240 - vassal: d_nanina - Holder 1004176 - Primary title: d_nanina has lost the title: d_nanina
+240 - sub vassal: d_nanina - Holder 1004176 - Primary title: d_nanina has lost the title: d_nanina
+240 - vassal: d_nanina - Title given to 1004176 - Primary title: d_badomas
+240 - sub vassal: d_nanina - Title given to 1004176 - Primary title: d_badomas
+240 - vassal: d_badomas - Holder (1004176) has gained d_nanina
+240 - sub vassal: d_badomas - Holder (1004176) has gained d_nanina
+240 - sub vassal: c_akaneas - Holder 1004176 - Primary title: c_akaneas has lost the title: c_akaneas
+240 - sub vassal: c_akaneas - Title given to 1004176 - Primary title: d_badomas
+240 - vassal: d_badomas - Holder (1004176) has gained c_akaneas
+240 - sub vassal: d_badomas - Holder (1004176) has gained c_akaneas
+241 - vassal: d_bomas - Holder 1004558 - Primary title: d_bomas has lost the title: d_bomas
+241 - sub vassal: d_bomas - Holder 1004558 - Primary title: d_bomas has lost the title: d_bomas
+241 - vassal: d_bomas - Title given to 1004558
+241 - sub vassal: d_bomas - Title given to 1004558
+241 - sub vassal: c_sisatha - Holder 1004558 - Primary title: c_sisatha has lost the title: c_sisatha
+241 - sub vassal: c_sisatha - Title given to 1004558 - Primary title: d_bomas
+241 - vassal: d_bomas - Holder (1004558) has gained c_sisatha
+241 - sub vassal: d_bomas - Holder (1004558) has gained c_sisatha
+243 - vassal: d_lib - Holder 1004096 - Primary title: d_lib has lost the title: d_lib
+243 - sub vassal: d_lib - Holder 1004096 - Primary title: d_lib has lost the title: d_lib
+243 - vassal: d_lib - Title given to 1004096
+243 - sub vassal: d_lib - Title given to 1004096
+246 - vassal: d_kipal - Captured byk_tibilen in minor war
+246 - sub vassal: d_kipal - Captured byk_tibilen in minor war
+246 - Lost vassal: d_kipal
+247 - Gained vassal: c_agnophia
+247 - vassal: c_agnophia - Given to neighbour holder of k_rava
+247 - sub vassal: c_agnophia - Given to neighbour holder of k_rava
+247 - vassal: c_agnophia - Holder 1003763 - Primary title: c_agnophia has lost the title: c_agnophia
+247 - sub vassal: c_agnophia - Holder 1003763 - Primary title: c_agnophia has lost the title: c_agnophia
+247 - vassal: c_agnophia - Title given to 1003763 - Primary title: k_rava
+247 - sub vassal: c_agnophia - Title given to 1003763 - Primary title: k_rava
+247 - Holder (1003763) has gained c_agnophia
+247 - Holder 1005833 - Primary title: k_rava has lost the title: c_biruvva
+247 - vassal: c_biruvva - Title given to 1005833
+247 - sub vassal: c_biruvva - Title given to 1005833
+249 - vassal: d_liluil - Holder 1004096 - Primary title: d_liluil has lost the title: d_liluil
+249 - sub vassal: d_liluil - Holder 1004096 - Primary title: d_liluil has lost the title: d_liluil
+249 - vassal: d_liluil - Title given to 1004096 - Primary title: d_lib
+249 - sub vassal: d_liluil - Title given to 1004096 - Primary title: d_lib
+249 - vassal: d_lib - Holder (1004096) has gained d_liluil
+249 - sub vassal: d_lib - Holder (1004096) has gained d_liluil
+249 - sub vassal: c_demabel - Holder 1004096 - Primary title: c_demabel has lost the title: c_demabel
+249 - sub vassal: c_demabel - Title given to 1004096 - Primary title: d_lib
+249 - vassal: d_lib - Holder (1004096) has gained c_demabel
+249 - sub vassal: d_lib - Holder (1004096) has gained c_demabel
+255 - vassal: d_nanina - Holder 1004780 - Primary title: d_nanina has lost the title: d_badomas
+255 - sub vassal: d_nanina - Holder 1004780 - Primary title: d_nanina has lost the title: d_badomas
+255 - vassal: d_badomas - Title given to 1004780
+255 - sub vassal: d_badomas - Title given to 1004780
+255 - vassal: d_nanina - Holder 1004780 - Primary title: d_nanina has lost the title: d_nanina
+255 - sub vassal: d_nanina - Holder 1004780 - Primary title: d_nanina has lost the title: d_nanina
+255 - vassal: d_nanina - Title given to 1004780 - Primary title: d_badomas
+255 - sub vassal: d_nanina - Title given to 1004780 - Primary title: d_badomas
+255 - vassal: d_badomas - Holder (1004780) has gained d_nanina
+255 - sub vassal: d_badomas - Holder (1004780) has gained d_nanina
+255 - sub vassal: c_akaneas - Holder 1004780 - Primary title: c_akaneas has lost the title: c_akaneas
+255 - sub vassal: c_akaneas - Title given to 1004780 - Primary title: d_badomas
+255 - vassal: d_badomas - Holder (1004780) has gained c_akaneas
+255 - sub vassal: d_badomas - Holder (1004780) has gained c_akaneas
+257 - vassal: d_liluil - Holder 1006408 - Primary title: d_liluil has lost the title: d_lib
+257 - sub vassal: d_liluil - Holder 1006408 - Primary title: d_liluil has lost the title: d_lib
+257 - vassal: d_lib - Title given to 1006408
+257 - sub vassal: d_lib - Title given to 1006408
+257 - vassal: d_liluil - Holder 1006408 - Primary title: d_liluil has lost the title: d_liluil
+257 - sub vassal: d_liluil - Holder 1006408 - Primary title: d_liluil has lost the title: d_liluil
+257 - vassal: d_liluil - Title given to 1006408 - Primary title: d_lib
+257 - sub vassal: d_liluil - Title given to 1006408 - Primary title: d_lib
+257 - vassal: d_lib - Holder (1006408) has gained d_liluil
+257 - sub vassal: d_lib - Holder (1006408) has gained d_liluil
+257 - sub vassal: c_demabel - Holder 1006408 - Primary title: c_demabel has lost the title: c_demabel
+257 - sub vassal: c_demabel - Title given to 1006408 - Primary title: d_lib
+257 - vassal: d_lib - Holder (1006408) has gained c_demabel
+257 - sub vassal: d_lib - Holder (1006408) has gained c_demabel
+259 - Gained vassal: c_lyolomas
+259 - vassal: d_nanina - Holder 1006408 - Primary title: d_nanina has lost the title: d_badomas
+259 - sub vassal: d_nanina - Holder 1006408 - Primary title: d_nanina has lost the title: d_badomas
+259 - vassal: d_badomas - Title given to 1006408 - Primary title: d_liluil
+259 - sub vassal: d_badomas - Title given to 1006408 - Primary title: d_liluil
+259 - vassal: d_liluil - Holder (1006408) has gained d_badomas
+259 - sub vassal: d_liluil - Holder (1006408) has gained d_badomas
+259 - vassal: d_nanina - Holder 1006408 - Primary title: d_nanina has lost the title: d_nanina
+259 - sub vassal: d_nanina - Holder 1006408 - Primary title: d_nanina has lost the title: d_nanina
+259 - vassal: d_nanina - Title given to 1006408 - Primary title: d_lib
+259 - sub vassal: d_nanina - Title given to 1006408 - Primary title: d_lib
+259 - vassal: d_lib - Holder (1006408) has gained d_nanina
+259 - sub vassal: d_lib - Holder (1006408) has gained d_nanina
+259 - sub vassal: c_akaneas - Holder 1006408 - Primary title: c_akaneas has lost the title: c_akaneas
+259 - sub vassal: c_akaneas - Title given to 1006408 - Primary title: d_lib
+259 - vassal: d_lib - Holder (1006408) has gained c_akaneas
+259 - sub vassal: d_lib - Holder (1006408) has gained c_akaneas
+260 - sub vassal: c_radar - Given to 1003739 in HandleTitles - Too many duke titles
+260 - sub vassal: c_radar - Holder 1003739 - Primary title: c_radar has lost the title: c_radar
+260 - sub vassal: c_radar - Title given to 1003739
+260 - vassal: d_nanina - Holder 1003763 - Primary title: d_nanina has lost the title: d_lib
+260 - sub vassal: d_nanina - Holder 1003763 - Primary title: d_nanina has lost the title: d_lib
+260 - vassal: d_lib - Title given to 1003763 - Primary title: k_rava
+260 - sub vassal: d_lib - Title given to 1003763 - Primary title: k_rava
+260 - Holder (1003763) has gained d_lib
+260 - vassal: d_lib - Too many dukes, made direct title into vassal of k_rava
+260 - sub vassal: d_lib - Too many dukes, made direct title into vassal of k_rava
+260 - Holder 1006799 - Primary title: k_rava has lost the title: d_lib
+260 - vassal: d_lib - Title given to 1006799
+260 - sub vassal: d_lib - Title given to 1006799
+260 - sub vassal: c_kophia - Given to 1006800 in HandleTitles - Too many duke titles
+260 - sub vassal: c_kophia - Holder 1006800 - Primary title: c_kophia has lost the title: c_kophia
+260 - sub vassal: c_kophia - Title given to 1006800
+260 - vassal: d_nanina - Holder 1003763 - Primary title: d_nanina has lost the title: d_badomas
+260 - sub vassal: d_nanina - Holder 1003763 - Primary title: d_nanina has lost the title: d_badomas
+260 - vassal: d_badomas - Title given to 1003763 - Primary title: k_rava
+260 - sub vassal: d_badomas - Title given to 1003763 - Primary title: k_rava
+260 - Holder (1003763) has gained d_badomas
+260 - vassal: d_badomas - Too many dukes, made direct title into vassal of k_rava
+260 - sub vassal: d_badomas - Too many dukes, made direct title into vassal of k_rava
+260 - Holder 1006802 - Primary title: k_rava has lost the title: d_badomas
+260 - vassal: d_badomas - Title given to 1006802
+260 - sub vassal: d_badomas - Title given to 1006802
+267 - vassal: d_kanans - Holder 1006722 - Primary title: d_kanans has lost the title: d_kanans
+267 - sub vassal: d_kanans - Holder 1006722 - Primary title: d_kanans has lost the title: d_kanans
+267 - vassal: d_kanans - Title given to 1006722
+267 - sub vassal: d_kanans - Title given to 1006722
+267 - sub vassal: c_qya - Holder 1006722 - Primary title: c_qya has lost the title: c_qya
+267 - sub vassal: c_qya - Title given to 1006722 - Primary title: d_kanans
+267 - vassal: d_kanans - Holder (1006722) has gained c_qya
+267 - sub vassal: d_kanans - Holder (1006722) has gained c_qya
+267 - Holder 1004587 - Primary title: k_rava has lost the title: k_rava
+267 - Title given to 1004587 - Primary title: c_lisurg
+267 - vassal: c_lisurg - Holder (1004587) has gained k_rava
+267 - sub vassal: c_lisurg - Holder (1004587) has gained k_rava
+267 - vassal: c_agnophia - Setting to vassal of d_tyoa in Validate Realm
+267 - sub vassal: c_agnophia - Setting to vassal of d_tyoa in Validate Realm
+267 - Lost vassal: c_agnophia
+267 - vassal: c_duban - Setting to vassal of d_tyoa in Validate Realm
+267 - sub vassal: c_duban - Setting to vassal of d_tyoa in Validate Realm
+267 - Lost vassal: c_duban
+267 - vassal: c_sonpal - Setting to vassal of d_tyoa in Validate Realm
+267 - sub vassal: c_sonpal - Setting to vassal of d_tyoa in Validate Realm
+267 - Lost vassal: c_sonpal
+267 - vassal: d_tyoa - Gained vassal: c_sonpal
+267 - sub vassal: d_tyoa - Gained vassal: c_sonpal
+267 - vassal: d_tyoa - Gained vassal: c_duban
+267 - sub vassal: d_tyoa - Gained vassal: c_duban
+267 - vassal: d_tyoa - Gained vassal: c_agnophia
+267 - sub vassal: d_tyoa - Gained vassal: c_agnophia
+267 - vassal: d_tyoa - Holder 1004587 - Primary title: d_tyoa has lost the title: d_tyoa
+267 - sub vassal: d_tyoa - Holder 1004587 - Primary title: d_tyoa has lost the title: d_tyoa
+267 - vassal: d_tyoa - Title given to 1004587 - Primary title: k_rava
+267 - sub vassal: d_tyoa - Title given to 1004587 - Primary title: k_rava
+267 - Holder (1004587) has gained d_tyoa
+267 - sub vassal: c_agnophia - Setting to vassal of d_tisaha in Validate Realm
+267 - vassal: d_tyoa - Lost vassal: c_agnophia
+267 - sub vassal: d_tyoa - Lost vassal: c_agnophia
+267 - sub vassal: c_duban - Setting to vassal of d_tisaha in Validate Realm
+267 - vassal: d_tyoa - Lost vassal: c_duban
+267 - sub vassal: d_tyoa - Lost vassal: c_duban
+267 - sub vassal: c_sonpal - Setting to vassal of d_tisaha in Validate Realm
+267 - vassal: d_tyoa - Lost vassal: c_sonpal
+267 - sub vassal: d_tyoa - Lost vassal: c_sonpal
+267 - vassal: d_tisaha - Gained vassal: c_sonpal
+267 - sub vassal: d_tisaha - Gained vassal: c_sonpal
+267 - vassal: d_tisaha - Gained vassal: c_duban
+267 - sub vassal: d_tisaha - Gained vassal: c_duban
+267 - vassal: d_tisaha - Gained vassal: c_agnophia
+267 - sub vassal: d_tisaha - Gained vassal: c_agnophia
+267 - vassal: d_tisaha - Holder 1004587 - Primary title: d_tisaha has lost the title: d_tisaha
+267 - sub vassal: d_tisaha - Holder 1004587 - Primary title: d_tisaha has lost the title: d_tisaha
+267 - vassal: d_tisaha - Title given to 1004587 - Primary title: k_rava
+267 - sub vassal: d_tisaha - Title given to 1004587 - Primary title: k_rava
+267 - Holder (1004587) has gained d_tisaha
+267 - sub vassal: c_agnophia - Holder 1004587 - Primary title: c_agnophia has lost the title: c_agnophia
+267 - sub vassal: c_agnophia - Title given to 1004587 - Primary title: k_rava
+267 - Holder (1004587) has gained c_agnophia
+267 - sub vassal: c_qille - Holder 1004587 - Primary title: c_qille has lost the title: c_qille
+267 - sub vassal: c_qille - Title given to 1004587 - Primary title: k_rava
+267 - Holder (1004587) has gained c_qille
+267 - sub vassal: c_kisille - Holder 1004587 - Primary title: c_kisille has lost the title: c_kisille
+267 - sub vassal: c_kisille - Title given to 1004587 - Primary title: k_rava
+267 - Holder (1004587) has gained c_kisille
+267 - sub vassal: c_duban - Holder 1004587 - Primary title: c_duban has lost the title: c_duban
+267 - sub vassal: c_duban - Title given to 1004587 - Primary title: k_rava
+267 - Holder (1004587) has gained c_duban
+267 - sub vassal: c_sonpal - Holder 1004587 - Primary title: c_sonpal has lost the title: c_sonpal
+267 - sub vassal: c_sonpal - Title given to 1004587 - Primary title: k_rava
+267 - Holder (1004587) has gained c_sonpal
+268 - vassal: d_kanans - Holder 1004587 - Primary title: d_kanans has lost the title: d_kanans
+268 - sub vassal: d_kanans - Holder 1004587 - Primary title: d_kanans has lost the title: d_kanans
+268 - vassal: d_kanans - Title given to 1004587 - Primary title: k_rava
+268 - sub vassal: d_kanans - Title given to 1004587 - Primary title: k_rava
+268 - Holder (1004587) has gained d_kanans
+268 - sub vassal: c_qya - Holder 1004587 - Primary title: c_qya has lost the title: c_qya
+268 - sub vassal: c_qya - Title given to 1004587 - Primary title: k_rava
+268 - Holder (1004587) has gained c_qya
+268 - sub vassal: c_qya - Given to 1007469 in HandleTitles - Too many duke titles
+268 - Holder 1007469 - Primary title: k_rava has lost the title: c_qya
+268 - sub vassal: c_qya - Title given to 1007469
+268 - Holder 1007469 - Primary title: k_rava has lost the title: d_kanans
+268 - vassal: d_kanans - Title given to 1007469 - Primary title: c_qya
+268 - sub vassal: d_kanans - Title given to 1007469 - Primary title: c_qya
+268 - sub vassal: c_qya - Holder (1007469) has gained d_kanans
+268 - vassal: d_kanans - Too many dukes, given to dejure: k_rava
+268 - sub vassal: d_kanans - Too many dukes, given to dejure: k_rava
+268 - Holder 1007470 - Primary title: k_rava has lost the title: c_lisurg
+268 - vassal: c_lisurg - Title given to 1007470
+268 - sub vassal: c_lisurg - Title given to 1007470
+269 - Gained vassal: c_tard
+271 - Holder 1007699 - Primary title: k_rava has lost the title: k_rava
+271 - Title given to 1007699
+271 - vassal: d_tyoa - Holder 1007699 - Primary title: d_tyoa has lost the title: d_tyoa
+271 - sub vassal: d_tyoa - Holder 1007699 - Primary title: d_tyoa has lost the title: d_tyoa
+271 - vassal: d_tyoa - Title given to 1007699 - Primary title: k_rava
+271 - sub vassal: d_tyoa - Title given to 1007699 - Primary title: k_rava
+271 - Holder (1007699) has gained d_tyoa
+271 - vassal: d_tisaha - Holder 1007699 - Primary title: d_tisaha has lost the title: d_tisaha
+271 - sub vassal: d_tisaha - Holder 1007699 - Primary title: d_tisaha has lost the title: d_tisaha
+271 - vassal: d_tisaha - Title given to 1007699 - Primary title: k_rava
+271 - sub vassal: d_tisaha - Title given to 1007699 - Primary title: k_rava
+271 - Holder (1007699) has gained d_tisaha
+271 - sub vassal: c_agnophia - Holder 1007699 - Primary title: c_agnophia has lost the title: c_agnophia
+271 - sub vassal: c_agnophia - Title given to 1007699 - Primary title: k_rava
+271 - Holder (1007699) has gained c_agnophia
+271 - sub vassal: c_qille - Holder 1007699 - Primary title: c_qille has lost the title: c_qille
+271 - sub vassal: c_qille - Title given to 1007699 - Primary title: k_rava
+271 - Holder (1007699) has gained c_qille
+271 - sub vassal: c_kisille - Holder 1007699 - Primary title: c_kisille has lost the title: c_kisille
+271 - sub vassal: c_kisille - Title given to 1007699 - Primary title: k_rava
+271 - Holder (1007699) has gained c_kisille
+271 - sub vassal: c_duban - Holder 1007699 - Primary title: c_duban has lost the title: c_duban
+271 - sub vassal: c_duban - Title given to 1007699 - Primary title: k_rava
+271 - Holder (1007699) has gained c_duban
+271 - sub vassal: c_sonpal - Holder 1007699 - Primary title: c_sonpal has lost the title: c_sonpal
+271 - sub vassal: c_sonpal - Title given to 1007699 - Primary title: k_rava
+271 - Holder (1007699) has gained c_sonpal
+272 - vassal: d_kanans - Holder 1007749 - Primary title: d_kanans has lost the title: d_kanans
+272 - sub vassal: d_kanans - Holder 1007749 - Primary title: d_kanans has lost the title: d_kanans
+272 - vassal: d_kanans - Title given to 1007749
+272 - sub vassal: d_kanans - Title given to 1007749
+272 - sub vassal: c_qya - Holder 1007749 - Primary title: c_qya has lost the title: c_qya
+272 - sub vassal: c_qya - Title given to 1007749 - Primary title: d_kanans
+272 - vassal: d_kanans - Holder (1007749) has gained c_qya
+272 - sub vassal: d_kanans - Holder (1007749) has gained c_qya
+275 - vassal: d_ryitald - Holder 1004033 - Primary title: d_ryitald has lost the title: d_ryitald
+275 - sub vassal: d_ryitald - Holder 1004033 - Primary title: d_ryitald has lost the title: d_ryitald
+275 - vassal: d_ryitald - Title given to 1004033
+275 - sub vassal: d_ryitald - Title given to 1004033
+279 - vassal: d_ryitald - Holder 1007470 - Primary title: d_ryitald has lost the title: d_ryitald
+279 - sub vassal: d_ryitald - Holder 1007470 - Primary title: d_ryitald has lost the title: d_ryitald
+279 - vassal: d_ryitald - Title given to 1007470 - Primary title: c_lisurg
+279 - sub vassal: d_ryitald - Title given to 1007470 - Primary title: c_lisurg
+279 - vassal: c_lisurg - Holder (1007470) has gained d_ryitald
+279 - sub vassal: c_lisurg - Holder (1007470) has gained d_ryitald
+279 - vassal: c_lisurg - Setting to vassal of d_ryitald in Validate Realm
+279 - sub vassal: c_lisurg - Setting to vassal of d_ryitald in Validate Realm
+279 - Lost vassal: c_lisurg
+279 - vassal: d_ryitald - Gained vassal: c_lisurg
+279 - sub vassal: d_ryitald - Gained vassal: c_lisurg
+286 - vassal: d_lib - Holder 1007057 - Primary title: d_lib has lost the title: d_lib
+286 - sub vassal: d_lib - Holder 1007057 - Primary title: d_lib has lost the title: d_lib
+286 - vassal: d_lib - Title given to 1007057
+286 - sub vassal: d_lib - Title given to 1007057
+298 - vassal: d_badomas - Holder 1006408 - Primary title: d_badomas has lost the title: d_badomas
+298 - sub vassal: d_badomas - Holder 1006408 - Primary title: d_badomas has lost the title: d_badomas
+298 - vassal: d_badomas - Title given to 1006408 - Primary title: d_nanina
+298 - sub vassal: d_badomas - Title given to 1006408 - Primary title: d_nanina
+298 - vassal: d_nanina - Holder (1006408) has gained d_badomas
+298 - sub vassal: d_nanina - Holder (1006408) has gained d_badomas
+299 - sub vassal: c_akaneas - Given to 1009622 in HandleTitles - Too many duke titles
+299 - vassal: d_badomas - Holder 1009622 - Primary title: d_badomas has lost the title: c_akaneas
+299 - sub vassal: d_badomas - Holder 1009622 - Primary title: d_badomas has lost the title: c_akaneas
+299 - sub vassal: c_akaneas - Title given to 1009622
+299 - vassal: d_badomas - Holder 1007699 - Primary title: d_badomas has lost the title: d_nanina
+299 - sub vassal: d_badomas - Holder 1007699 - Primary title: d_badomas has lost the title: d_nanina
+299 - vassal: d_nanina - Title given to 1007699 - Primary title: k_rava
+299 - sub vassal: d_nanina - Title given to 1007699 - Primary title: k_rava
+299 - Holder (1007699) has gained d_nanina
+299 - vassal: d_nanina - Too many dukes, made direct title into vassal of k_rava
+299 - sub vassal: d_nanina - Too many dukes, made direct title into vassal of k_rava
+299 - Holder 1009623 - Primary title: k_rava has lost the title: d_nanina
+299 - vassal: d_nanina - Title given to 1009623
+299 - sub vassal: d_nanina - Title given to 1009623
+300 - sub vassal: c_egnatay - Holder 1004558 - Primary title: c_egnatay has lost the title: c_egnatay
+300 - sub vassal: c_egnatay - Title given to 1004558 - Primary title: d_bomas
+300 - vassal: d_bomas - Holder (1004558) has gained c_egnatay
+300 - sub vassal: d_bomas - Holder (1004558) has gained c_egnatay
+300 - sub vassal: c_nanatha - Holder 1007470 - Primary title: c_nanatha has lost the title: c_nanatha
+300 - sub vassal: c_nanatha - Title given to 1007470 - Primary title: d_ryitald
+300 - vassal: d_ryitald - Holder (1007470) has gained c_nanatha
+300 - sub vassal: d_ryitald - Holder (1007470) has gained c_nanatha
+300 - sub vassal: c_roval - Holder 1007470 - Primary title: c_roval has lost the title: c_roval
+300 - sub vassal: c_roval - Title given to 1007470 - Primary title: d_ryitald
+300 - vassal: d_ryitald - Holder (1007470) has gained c_roval
+300 - sub vassal: d_ryitald - Holder (1007470) has gained c_roval
+300 - sub vassal: c_ruil - Holder 1006408 - Primary title: c_ruil has lost the title: c_ruil
+300 - sub vassal: c_ruil - Title given to 1006408 - Primary title: d_badomas
+300 - vassal: d_badomas - Holder (1006408) has gained c_ruil
+300 - sub vassal: d_badomas - Holder (1006408) has gained c_ruil
+300 - sub vassal: c_suisre - Holder 1006408 - Primary title: c_suisre has lost the title: c_suisre
+300 - sub vassal: c_suisre - Title given to 1006408 - Primary title: d_liluil
+300 - vassal: d_liluil - Holder (1006408) has gained c_suisre
+300 - sub vassal: d_liluil - Holder (1006408) has gained c_suisre
+300 - sub vassal: c_achald - Holder 1009623 - Primary title: c_achald has lost the title: c_achald
+300 - sub vassal: c_achald - Title given to 1009623 - Primary title: d_nanina
+300 - vassal: d_nanina - Holder (1009623) has gained c_achald
+300 - sub vassal: d_nanina - Holder (1009623) has gained c_achald
+300 - sub vassal: c_kyolomas - Holder 1009623 - Primary title: c_kyolomas has lost the title: c_kyolomas
+300 - sub vassal: c_kyolomas - Title given to 1009623 - Primary title: d_nanina
+300 - vassal: d_nanina - Holder (1009623) has gained c_kyolomas
+300 - sub vassal: d_nanina - Holder (1009623) has gained c_kyolomas
+300 - sub vassal: c_duisina - Holder 1009623 - Primary title: c_duisina has lost the title: c_duisina
+300 - sub vassal: c_duisina - Title given to 1009623 - Primary title: d_nanina
+300 - vassal: d_nanina - Holder (1009623) has gained c_duisina
+300 - sub vassal: d_nanina - Holder (1009623) has gained c_duisina
+301 - vassal: d_lib - Holder 1009093 - Primary title: d_lib has lost the title: d_lib
+301 - sub vassal: d_lib - Holder 1009093 - Primary title: d_lib has lost the title: d_lib
+301 - vassal: d_lib - Title given to 1009093
+301 - sub vassal: d_lib - Title given to 1009093
+303 - sub vassal: c_banans - Holder 1007699 - Primary title: c_banans has lost the title: c_banans
+303 - sub vassal: c_banans - Title given to 1007699 - Primary title: k_rava
+303 - Holder (1007699) has gained c_banans
+303 - sub vassal: c_komas - Holder 1007699 - Primary title: c_komas has lost the title: c_komas
+303 - sub vassal: c_komas - Title given to 1007699 - Primary title: k_rava
+303 - Holder (1007699) has gained c_komas
+303 - vassal: d_bomas - Holder 1005800 - Primary title: d_bomas has lost the title: d_bomas
+303 - sub vassal: d_bomas - Holder 1005800 - Primary title: d_bomas has lost the title: d_bomas
+303 - vassal: d_bomas - Title given to 1005800
+303 - sub vassal: d_bomas - Title given to 1005800
+303 - sub vassal: c_egnatay - Holder 1005800 - Primary title: c_egnatay has lost the title: c_egnatay
+303 - sub vassal: c_egnatay - Title given to 1005800 - Primary title: d_bomas
+303 - vassal: d_bomas - Holder (1005800) has gained c_egnatay
+303 - sub vassal: d_bomas - Holder (1005800) has gained c_egnatay
+303 - sub vassal: c_sisatha - Holder 1005800 - Primary title: c_sisatha has lost the title: c_sisatha
+303 - sub vassal: c_sisatha - Title given to 1005800 - Primary title: d_bomas
+303 - vassal: d_bomas - Holder (1005800) has gained c_sisatha
+303 - sub vassal: d_bomas - Holder (1005800) has gained c_sisatha
+303 - Holder 1009990 - Primary title: k_rava has lost the title: c_agnophia
+303 - sub vassal: c_agnophia - Title given to 1009990
+303 - Holder 1009991 - Primary title: k_rava has lost the title: c_qille
+303 - sub vassal: c_qille - Title given to 1009991
+304 - vassal: d_bomas - Holder 1007699 - Primary title: d_bomas has lost the title: d_bomas
+304 - sub vassal: d_bomas - Holder 1007699 - Primary title: d_bomas has lost the title: d_bomas
+304 - vassal: d_bomas - Title given to 1007699 - Primary title: k_rava
+304 - sub vassal: d_bomas - Title given to 1007699 - Primary title: k_rava
+304 - Holder (1007699) has gained d_bomas
+304 - sub vassal: c_egnatay - Holder 1007699 - Primary title: c_egnatay has lost the title: c_egnatay
+304 - sub vassal: c_egnatay - Title given to 1007699 - Primary title: k_rava
+304 - Holder (1007699) has gained c_egnatay
+304 - sub vassal: c_sisatha - Holder 1007699 - Primary title: c_sisatha has lost the title: c_sisatha
+304 - sub vassal: c_sisatha - Title given to 1007699 - Primary title: k_rava
+304 - Holder (1007699) has gained c_sisatha
+304 - vassal: d_liluil - Holder 1007893 - Primary title: d_liluil has lost the title: d_liluil
+304 - sub vassal: d_liluil - Holder 1007893 - Primary title: d_liluil has lost the title: d_liluil
+304 - vassal: d_liluil - Title given to 1007893
+304 - sub vassal: d_liluil - Title given to 1007893
+304 - sub vassal: c_suisre - Setting to vassal of d_badomas in Validate Realm
+304 - vassal: d_liluil - Lost vassal: c_suisre
+304 - sub vassal: d_liluil - Lost vassal: c_suisre
+304 - sub vassal: c_ruil - Setting to vassal of d_badomas in Validate Realm
+304 - vassal: d_liluil - Lost vassal: c_ruil
+304 - sub vassal: d_liluil - Lost vassal: c_ruil
+304 - sub vassal: c_demabel - Setting to vassal of d_badomas in Validate Realm
+304 - vassal: d_liluil - Lost vassal: c_demabel
+304 - sub vassal: d_liluil - Lost vassal: c_demabel
+304 - vassal: d_badomas - Gained vassal: c_demabel
+304 - sub vassal: d_badomas - Gained vassal: c_demabel
+304 - vassal: d_badomas - Gained vassal: c_ruil
+304 - sub vassal: d_badomas - Gained vassal: c_ruil
+304 - vassal: d_badomas - Gained vassal: c_suisre
+304 - sub vassal: d_badomas - Gained vassal: c_suisre
+304 - vassal: d_badomas - Holder 1007893 - Primary title: d_badomas has lost the title: d_badomas
+304 - sub vassal: d_badomas - Holder 1007893 - Primary title: d_badomas has lost the title: d_badomas
+304 - vassal: d_badomas - Title given to 1007893 - Primary title: d_liluil
+304 - sub vassal: d_badomas - Title given to 1007893 - Primary title: d_liluil
+304 - vassal: d_liluil - Holder (1007893) has gained d_badomas
+304 - sub vassal: d_liluil - Holder (1007893) has gained d_badomas
+304 - sub vassal: c_suisre - Holder 1007893 - Primary title: c_suisre has lost the title: c_suisre
+304 - sub vassal: c_suisre - Title given to 1007893 - Primary title: d_liluil
+304 - vassal: d_liluil - Holder (1007893) has gained c_suisre
+304 - sub vassal: d_liluil - Holder (1007893) has gained c_suisre
+304 - sub vassal: c_ruil - Holder 1007893 - Primary title: c_ruil has lost the title: c_ruil
+304 - sub vassal: c_ruil - Title given to 1007893 - Primary title: d_liluil
+304 - vassal: d_liluil - Holder (1007893) has gained c_ruil
+304 - sub vassal: d_liluil - Holder (1007893) has gained c_ruil
+304 - sub vassal: c_demabel - Holder 1007893 - Primary title: c_demabel has lost the title: c_demabel
+304 - sub vassal: c_demabel - Title given to 1007893 - Primary title: d_liluil
+304 - vassal: d_liluil - Holder (1007893) has gained c_demabel
+304 - sub vassal: d_liluil - Holder (1007893) has gained c_demabel
+304 - sub vassal: c_sisatha - Given to 1010062 in HandleTitles - Too many duke titles
+304 - Holder 1010062 - Primary title: k_rava has lost the title: c_sisatha
+304 - sub vassal: c_sisatha - Title given to 1010062
+304 - Holder 1010062 - Primary title: k_rava has lost the title: d_bomas
+304 - vassal: d_bomas - Title given to 1010062 - Primary title: c_sisatha
+304 - sub vassal: d_bomas - Title given to 1010062 - Primary title: c_sisatha
+304 - sub vassal: c_sisatha - Holder (1010062) has gained d_bomas
+304 - sub vassal: c_egnatay - Setting to vassal of k_rava in Validate Realm
+304 - vassal: d_bomas - Lost vassal: c_egnatay
+304 - sub vassal: d_bomas - Lost vassal: c_egnatay
+304 - Gained vassal: c_egnatay
+304 - vassal: d_bomas - Too many dukes, given to dejure: k_rava
+304 - sub vassal: d_bomas - Too many dukes, given to dejure: k_rava
+304 - Holder 1010063 - Primary title: k_rava has lost the title: c_egnatay
+304 - vassal: c_egnatay - Title given to 1010063
+304 - sub vassal: c_egnatay - Title given to 1010063
+305 - vassal: d_liluil - Destroyed due to flagged problem
+305 - sub vassal: d_liluil - Destroyed due to flagged problem
+305 - vassal: d_liluil - Made independent
+305 - sub vassal: d_liluil - Made independent
+305 - vassal: d_badomas - Holder (1007893) has gained d_liluil
+305 - sub vassal: d_badomas - Holder (1007893) has gained d_liluil
+305 - Gained vassal: d_liluil
+305 - vassal: d_liluil - Made independent for title creation d_liluil for d_badomas
+305 - sub vassal: d_liluil - Made independent for title creation d_liluil for d_badomas
+305 - vassal: d_liluil - Made independent
+305 - sub vassal: d_liluil - Made independent
+305 - sub vassal: c_suisre - Set liege on title creation d_liluil
+305 - vassal: d_badomas - Lost vassal: c_suisre
+305 - sub vassal: d_badomas - Lost vassal: c_suisre
+305 - sub vassal: c_ruil - Set liege on title creation d_liluil
+305 - vassal: d_badomas - Lost vassal: c_ruil
+305 - sub vassal: d_badomas - Lost vassal: c_ruil
+305 - sub vassal: c_demabel - Set liege on title creation d_liluil
+305 - vassal: d_badomas - Lost vassal: c_demabel
+305 - sub vassal: d_badomas - Lost vassal: c_demabel
+314 - vassal: d_kanans - Holder 1008115 - Primary title: d_kanans has lost the title: d_kanans
+314 - sub vassal: d_kanans - Holder 1008115 - Primary title: d_kanans has lost the title: d_kanans
+314 - vassal: d_kanans - Title given to 1008115
+314 - sub vassal: d_kanans - Title given to 1008115
+314 - sub vassal: c_qya - Holder 1008115 - Primary title: c_qya has lost the title: c_qya
+314 - sub vassal: c_qya - Title given to 1008115 - Primary title: d_kanans
+314 - vassal: d_kanans - Holder (1008115) has gained c_qya
+314 - sub vassal: d_kanans - Holder (1008115) has gained c_qya
+316 - vassal: d_ryitald - Holder 1008692 - Primary title: d_ryitald has lost the title: d_ryitald
+316 - sub vassal: d_ryitald - Holder 1008692 - Primary title: d_ryitald has lost the title: d_ryitald
+316 - vassal: d_ryitald - Title given to 1008692
+316 - sub vassal: d_ryitald - Title given to 1008692
+316 - sub vassal: c_roval - Holder 1008692 - Primary title: c_roval has lost the title: c_roval
+316 - sub vassal: c_roval - Title given to 1008692 - Primary title: d_ryitald
+316 - vassal: d_ryitald - Holder (1008692) has gained c_roval
+316 - sub vassal: d_ryitald - Holder (1008692) has gained c_roval
+316 - sub vassal: c_nanatha - Holder 1008692 - Primary title: c_nanatha has lost the title: c_nanatha
+316 - sub vassal: c_nanatha - Title given to 1008692 - Primary title: d_ryitald
+316 - vassal: d_ryitald - Holder (1008692) has gained c_nanatha
+316 - sub vassal: d_ryitald - Holder (1008692) has gained c_nanatha
+316 - sub vassal: c_lisurg - Holder 1008692 - Primary title: c_lisurg has lost the title: c_lisurg
+316 - sub vassal: c_lisurg - Title given to 1008692 - Primary title: d_ryitald
+316 - vassal: d_ryitald - Holder (1008692) has gained c_lisurg
+316 - sub vassal: d_ryitald - Holder (1008692) has gained c_lisurg
+327 - vassal: d_badomas - Holder 1010777 - Primary title: d_badomas has lost the title: d_liluil
+327 - sub vassal: d_badomas - Holder 1010777 - Primary title: d_badomas has lost the title: d_liluil
+332 - vassal: d_ryitald - Holder 1010933 - Primary title: d_ryitald has lost the title: d_ryitald
+332 - sub vassal: d_ryitald - Holder 1010933 - Primary title: d_ryitald has lost the title: d_ryitald
+332 - vassal: d_ryitald - Title given to 1010933
+332 - sub vassal: d_ryitald - Title given to 1010933
+332 - sub vassal: c_demabel - Setting to vassal of d_badomas in Validate Realm
+332 - sub vassal: c_ruil - Setting to vassal of d_badomas in Validate Realm
+332 - sub vassal: c_suisre - Setting to vassal of d_badomas in Validate Realm
+332 - vassal: d_badomas - Gained vassal: c_suisre
+332 - sub vassal: d_badomas - Gained vassal: c_suisre
+332 - vassal: d_badomas - Gained vassal: c_ruil
+332 - sub vassal: d_badomas - Gained vassal: c_ruil
+332 - vassal: d_badomas - Gained vassal: c_demabel
+332 - sub vassal: d_badomas - Gained vassal: c_demabel
+332 - sub vassal: c_lisurg - Holder 1010933 - Primary title: c_lisurg has lost the title: c_lisurg
+332 - sub vassal: c_lisurg - Title given to 1010933 - Primary title: d_ryitald
+332 - vassal: d_ryitald - Holder (1010933) has gained c_lisurg
+332 - sub vassal: d_ryitald - Holder (1010933) has gained c_lisurg
+332 - sub vassal: c_nanatha - Holder 1010933 - Primary title: c_nanatha has lost the title: c_nanatha
+332 - sub vassal: c_nanatha - Title given to 1010933 - Primary title: d_ryitald
+332 - vassal: d_ryitald - Holder (1010933) has gained c_nanatha
+332 - sub vassal: d_ryitald - Holder (1010933) has gained c_nanatha
+332 - sub vassal: c_roval - Holder 1010933 - Primary title: c_roval has lost the title: c_roval
+332 - sub vassal: c_roval - Title given to 1010933 - Primary title: d_ryitald
+332 - vassal: d_ryitald - Holder (1010933) has gained c_roval
+332 - sub vassal: d_ryitald - Holder (1010933) has gained c_roval
+333 - vassal: d_kanans - Holder 1011062 - Primary title: d_kanans has lost the title: d_kanans
+333 - sub vassal: d_kanans - Holder 1011062 - Primary title: d_kanans has lost the title: d_kanans
+333 - vassal: d_kanans - Title given to 1011062
+333 - sub vassal: d_kanans - Title given to 1011062
+333 - sub vassal: c_qya - Holder 1011062 - Primary title: c_qya has lost the title: c_qya
+333 - sub vassal: c_qya - Title given to 1011062 - Primary title: d_kanans
+333 - vassal: d_kanans - Holder (1011062) has gained c_qya
+333 - sub vassal: d_kanans - Holder (1011062) has gained c_qya
+333 - vassal: d_lib - Holder 1011430 - Primary title: d_lib has lost the title: d_lib
+333 - sub vassal: d_lib - Holder 1011430 - Primary title: d_lib has lost the title: d_lib
+333 - vassal: d_lib - Title given to 1011430
+333 - sub vassal: d_lib - Title given to 1011430
+334 - vassal: d_badomas - Holder 1010777 - Primary title: d_badomas has lost the title: d_badomas
+334 - sub vassal: d_badomas - Holder 1010777 - Primary title: d_badomas has lost the title: d_badomas
+334 - vassal: d_badomas - Title given to 1010777
+334 - sub vassal: d_badomas - Title given to 1010777
+334 - sub vassal: c_demabel - Holder 1010777 - Primary title: c_demabel has lost the title: c_demabel
+334 - sub vassal: c_demabel - Title given to 1010777 - Primary title: d_badomas
+334 - vassal: d_badomas - Holder (1010777) has gained c_demabel
+334 - sub vassal: d_badomas - Holder (1010777) has gained c_demabel
+334 - sub vassal: c_ruil - Holder 1010777 - Primary title: c_ruil has lost the title: c_ruil
+334 - sub vassal: c_ruil - Title given to 1010777 - Primary title: d_badomas
+334 - vassal: d_badomas - Holder (1010777) has gained c_ruil
+334 - sub vassal: d_badomas - Holder (1010777) has gained c_ruil
+334 - sub vassal: c_suisre - Holder 1010777 - Primary title: c_suisre has lost the title: c_suisre
+334 - sub vassal: c_suisre - Title given to 1010777 - Primary title: d_badomas
+334 - vassal: d_badomas - Holder (1010777) has gained c_suisre
+334 - sub vassal: d_badomas - Holder (1010777) has gained c_suisre
+334 - vassal: d_nanina - Holder 1010364 - Primary title: d_nanina has lost the title: d_nanina
+334 - sub vassal: d_nanina - Holder 1010364 - Primary title: d_nanina has lost the title: d_nanina
+334 - vassal: d_nanina - Title given to 1010364
+334 - sub vassal: d_nanina - Title given to 1010364
+334 - sub vassal: c_achald - Holder 1010364 - Primary title: c_achald has lost the title: c_achald
+334 - sub vassal: c_achald - Title given to 1010364 - Primary title: d_nanina
+334 - vassal: d_nanina - Holder (1010364) has gained c_achald
+334 - sub vassal: d_nanina - Holder (1010364) has gained c_achald
+334 - sub vassal: c_kyolomas - Holder 1010364 - Primary title: c_kyolomas has lost the title: c_kyolomas
+334 - sub vassal: c_kyolomas - Title given to 1010364 - Primary title: d_nanina
+334 - vassal: d_nanina - Holder (1010364) has gained c_kyolomas
+334 - sub vassal: d_nanina - Holder (1010364) has gained c_kyolomas
+334 - sub vassal: c_duisina - Holder 1010364 - Primary title: c_duisina has lost the title: c_duisina
+334 - sub vassal: c_duisina - Title given to 1010364 - Primary title: d_nanina
+334 - vassal: d_nanina - Holder (1010364) has gained c_duisina
+334 - sub vassal: d_nanina - Holder (1010364) has gained c_duisina
+334 - Holder 1010461 - Primary title: k_rava has lost the title: k_rava
+334 - Title given to 1010461
+334 - vassal: d_tyoa - Holder 1010461 - Primary title: d_tyoa has lost the title: d_tyoa
+334 - sub vassal: d_tyoa - Holder 1010461 - Primary title: d_tyoa has lost the title: d_tyoa
+334 - vassal: d_tyoa - Title given to 1010461 - Primary title: k_rava
+334 - sub vassal: d_tyoa - Title given to 1010461 - Primary title: k_rava
+334 - Holder (1010461) has gained d_tyoa
+334 - vassal: d_tisaha - Holder 1010461 - Primary title: d_tisaha has lost the title: d_tisaha
+334 - sub vassal: d_tisaha - Holder 1010461 - Primary title: d_tisaha has lost the title: d_tisaha
+334 - vassal: d_tisaha - Title given to 1010461 - Primary title: k_rava
+334 - sub vassal: d_tisaha - Title given to 1010461 - Primary title: k_rava
+334 - Holder (1010461) has gained d_tisaha
+334 - sub vassal: c_komas - Holder 1010461 - Primary title: c_komas has lost the title: c_komas
+334 - sub vassal: c_komas - Title given to 1010461 - Primary title: k_rava
+334 - Holder (1010461) has gained c_komas
+334 - sub vassal: c_banans - Holder 1010461 - Primary title: c_banans has lost the title: c_banans
+334 - sub vassal: c_banans - Title given to 1010461 - Primary title: k_rava
+334 - Holder (1010461) has gained c_banans
+334 - sub vassal: c_sonpal - Holder 1010461 - Primary title: c_sonpal has lost the title: c_sonpal
+334 - sub vassal: c_sonpal - Title given to 1010461 - Primary title: k_rava
+334 - Holder (1010461) has gained c_sonpal
+334 - sub vassal: c_duban - Holder 1010461 - Primary title: c_duban has lost the title: c_duban
+334 - sub vassal: c_duban - Title given to 1010461 - Primary title: k_rava
+334 - Holder (1010461) has gained c_duban
+334 - sub vassal: c_kisille - Holder 1010461 - Primary title: c_kisille has lost the title: c_kisille
+334 - sub vassal: c_kisille - Title given to 1010461 - Primary title: k_rava
+334 - Holder (1010461) has gained c_kisille
+335 - vassal: d_kanans - Holder 1012141 - Primary title: d_kanans has lost the title: d_kanans
+335 - sub vassal: d_kanans - Holder 1012141 - Primary title: d_kanans has lost the title: d_kanans
+335 - vassal: d_kanans - Title given to 1012141
+335 - sub vassal: d_kanans - Title given to 1012141
+335 - sub vassal: c_qya - Holder 1012141 - Primary title: c_qya has lost the title: c_qya
+335 - sub vassal: c_qya - Title given to 1012141 - Primary title: d_kanans
+335 - vassal: d_kanans - Holder (1012141) has gained c_qya
+335 - sub vassal: d_kanans - Holder (1012141) has gained c_qya
+340 - vassal: d_badomas - Holder (1010777) has gained d_liluil
+340 - sub vassal: d_badomas - Holder (1010777) has gained d_liluil
+340 - Gained vassal: d_liluil
+340 - vassal: d_liluil - Made independent for title creation d_liluil for d_badomas
+340 - sub vassal: d_liluil - Made independent for title creation d_liluil for d_badomas
+340 - vassal: d_liluil - Made independent
+340 - sub vassal: d_liluil - Made independent
+340 - sub vassal: c_suisre - Set liege on title creation d_liluil
+340 - vassal: d_badomas - Lost vassal: c_suisre
+340 - sub vassal: d_badomas - Lost vassal: c_suisre
+340 - sub vassal: c_ruil - Set liege on title creation d_liluil
+340 - vassal: d_badomas - Lost vassal: c_ruil
+340 - sub vassal: d_badomas - Lost vassal: c_ruil
+340 - sub vassal: c_demabel - Set liege on title creation d_liluil
+340 - vassal: d_badomas - Lost vassal: c_demabel
+340 - sub vassal: d_badomas - Lost vassal: c_demabel
+340 - Holder 1012347 - Primary title: k_rava has lost the title: k_rava
+340 - Title given to 1012347
+340 - vassal: d_tyoa - Holder 1012347 - Primary title: d_tyoa has lost the title: d_tyoa
+340 - sub vassal: d_tyoa - Holder 1012347 - Primary title: d_tyoa has lost the title: d_tyoa
+340 - vassal: d_tyoa - Title given to 1012347 - Primary title: k_rava
+340 - sub vassal: d_tyoa - Title given to 1012347 - Primary title: k_rava
+340 - Holder (1012347) has gained d_tyoa
+340 - vassal: d_tisaha - Holder 1012347 - Primary title: d_tisaha has lost the title: d_tisaha
+340 - sub vassal: d_tisaha - Holder 1012347 - Primary title: d_tisaha has lost the title: d_tisaha
+340 - vassal: d_tisaha - Title given to 1012347 - Primary title: k_rava
+340 - sub vassal: d_tisaha - Title given to 1012347 - Primary title: k_rava
+340 - Holder (1012347) has gained d_tisaha
+340 - sub vassal: c_kisille - Holder 1012347 - Primary title: c_kisille has lost the title: c_kisille
+340 - sub vassal: c_kisille - Title given to 1012347 - Primary title: k_rava
+340 - Holder (1012347) has gained c_kisille
+340 - sub vassal: c_duban - Holder 1012347 - Primary title: c_duban has lost the title: c_duban
+340 - sub vassal: c_duban - Title given to 1012347 - Primary title: k_rava
+340 - Holder (1012347) has gained c_duban
+340 - sub vassal: c_sonpal - Holder 1012347 - Primary title: c_sonpal has lost the title: c_sonpal
+340 - sub vassal: c_sonpal - Title given to 1012347 - Primary title: k_rava
+340 - Holder (1012347) has gained c_sonpal
+340 - sub vassal: c_banans - Holder 1012347 - Primary title: c_banans has lost the title: c_banans
+340 - sub vassal: c_banans - Title given to 1012347 - Primary title: k_rava
+340 - Holder (1012347) has gained c_banans
+340 - sub vassal: c_komas - Holder 1012347 - Primary title: c_komas has lost the title: c_komas
+340 - sub vassal: c_komas - Title given to 1012347 - Primary title: k_rava
+340 - Holder (1012347) has gained c_komas
+341 - vassal: d_bomas - Holder 1010706 - Primary title: d_bomas has lost the title: d_bomas
+341 - sub vassal: d_bomas - Holder 1010706 - Primary title: d_bomas has lost the title: d_bomas
+341 - vassal: d_bomas - Title given to 1010706
+341 - sub vassal: d_bomas - Title given to 1010706
+341 - sub vassal: c_sisatha - Holder 1010706 - Primary title: c_sisatha has lost the title: c_sisatha
+341 - sub vassal: c_sisatha - Title given to 1010706 - Primary title: d_bomas
+341 - vassal: d_bomas - Holder (1010706) has gained c_sisatha
+341 - sub vassal: d_bomas - Holder (1010706) has gained c_sisatha
+344 - vassal: d_kanans - Holder 1012347 - Primary title: d_kanans has lost the title: d_kanans
+344 - sub vassal: d_kanans - Holder 1012347 - Primary title: d_kanans has lost the title: d_kanans
+344 - vassal: d_kanans - Title given to 1012347 - Primary title: k_rava
+344 - sub vassal: d_kanans - Title given to 1012347 - Primary title: k_rava
+344 - Holder (1012347) has gained d_kanans
+344 - sub vassal: c_qya - Holder 1012347 - Primary title: c_qya has lost the title: c_qya
+344 - sub vassal: c_qya - Title given to 1012347 - Primary title: k_rava
+344 - Holder (1012347) has gained c_qya
+344 - sub vassal: c_qya - Given to 1012711 in HandleTitles - Too many duke titles
+344 - Holder 1012711 - Primary title: k_rava has lost the title: c_qya
+344 - sub vassal: c_qya - Title given to 1012711
+344 - Holder 1012711 - Primary title: k_rava has lost the title: d_kanans
+344 - vassal: d_kanans - Title given to 1012711 - Primary title: c_qya
+344 - sub vassal: d_kanans - Title given to 1012711 - Primary title: c_qya
+344 - sub vassal: c_qya - Holder (1012711) has gained d_kanans
+344 - vassal: d_kanans - Too many dukes, given to dejure: k_rava
+344 - sub vassal: d_kanans - Too many dukes, given to dejure: k_rava
+349 - vassal: c_tard - Holder 1005833 - Primary title: c_tard has lost the title: c_tard
+349 - sub vassal: c_tard - Holder 1005833 - Primary title: c_tard has lost the title: c_tard
+349 - vassal: c_tard - Title given to 1005833 - Primary title: c_biruvva
+349 - sub vassal: c_tard - Title given to 1005833 - Primary title: c_biruvva
+349 - vassal: c_biruvva - Holder (1005833) has gained c_tard
+349 - sub vassal: c_biruvva - Holder (1005833) has gained c_tard
+349 - sub vassal: c_radar - Holder 1011430 - Primary title: c_radar has lost the title: c_radar
+349 - sub vassal: c_radar - Title given to 1011430 - Primary title: d_lib
+349 - vassal: d_lib - Holder (1011430) has gained c_radar
+349 - sub vassal: d_lib - Holder (1011430) has gained c_radar
+349 - sub vassal: c_dyolelen - Holder 1010933 - Primary title: c_dyolelen has lost the title: c_dyolelen
+349 - sub vassal: c_dyolelen - Title given to 1010933 - Primary title: d_ryitald
+349 - vassal: d_ryitald - Holder (1010933) has gained c_dyolelen
+349 - sub vassal: d_ryitald - Holder (1010933) has gained c_dyolelen
+349 - sub vassal: c_wurg - Holder 1012347 - Primary title: c_wurg has lost the title: c_wurg
+349 - sub vassal: c_wurg - Title given to 1012347 - Primary title: k_rava
+349 - Holder (1012347) has gained c_wurg
+349 - sub vassal: c_amajayor - Holder 1012711 - Primary title: c_amajayor has lost the title: c_amajayor
+349 - sub vassal: c_amajayor - Title given to 1012711 - Primary title: d_kanans
+349 - vassal: d_kanans - Holder (1012711) has gained c_amajayor
+349 - sub vassal: d_kanans - Holder (1012711) has gained c_amajayor
+349 - sub vassal: c_nonpal - Holder 1012711 - Primary title: c_nonpal has lost the title: c_nonpal
+349 - sub vassal: c_nonpal - Title given to 1012711 - Primary title: d_kanans
+349 - vassal: d_kanans - Holder (1012711) has gained c_nonpal
+349 - sub vassal: d_kanans - Holder (1012711) has gained c_nonpal
+349 - vassal: c_tard - Holder 1010063 - Primary title: c_tard has lost the title: c_biruvva
+349 - sub vassal: c_tard - Holder 1010063 - Primary title: c_tard has lost the title: c_biruvva
+349 - vassal: c_biruvva - Title given to 1010063 - Primary title: c_egnatay
+349 - sub vassal: c_biruvva - Title given to 1010063 - Primary title: c_egnatay
+349 - vassal: c_egnatay - Holder (1010063) has gained c_biruvva
+349 - sub vassal: c_egnatay - Holder (1010063) has gained c_biruvva
+349 - vassal: c_tard - Holder 1010063 - Primary title: c_tard has lost the title: c_tard
+349 - sub vassal: c_tard - Holder 1010063 - Primary title: c_tard has lost the title: c_tard
+349 - vassal: c_tard - Title give

@@ -1,0 +1,35 @@
+200 - Title given to 1000009 - Primary title: c_qepisco
+200 - Given to 1000340 via AddCharacterForTitle
+200 - Title given to 1000340
+200 - Given to 1000341 via AddCharacterForTitle
+200 - Holder 1000341 - Primary title: c_sopare has lost the title: c_sopare
+200 - Title given to 1000341
+200 - Holder 1000338 - Primary title: c_sopare has lost the title: c_sopare
+200 - Title given to 1000338 - Primary title: d_adadura
+221 - Holder 1000290 - Primary title: c_sopare has lost the title: c_sopare
+221 - Title given to 1000290 - Primary title: k_ralinan
+232 - Holder 1004575 - Primary title: c_sopare has lost the title: c_sopare
+232 - Title given to 1004575 - Primary title: k_ralinan
+239 - Holder 1003214 - Primary title: c_sopare has lost the title: c_sopare
+239 - Title given to 1003214 - Primary title: k_ralinan
+240 - Given to 1005747 in HandleTitles - Too many duke titles
+240 - Title given to 1005747
+240 - Holder (1005747) has gained d_adadura
+246 - Holder 1002963 - Primary title: c_sopare has lost the title: c_sopare
+246 - Title given to 1002963 - Primary title: d_adadura
+271 - Holder 1004474 - Primary title: c_sopare has lost the title: c_sopare
+271 - Title given to 1004474 - Primary title: d_tafumru
+272 - Set liege on title creation d_delike
+272 - Setting independent due to liege destruction
+272 - Made independent
+273 - Set liege on title creation d_delike
+273 - Setting independent due to liege destruction
+273 - Made independent
+285 - Set liege on title creation d_qanumru
+294 - Holder 1009001 - Primary title: c_sopare has lost the title: c_sopare
+294 - Title given to 1009001 - Primary title: d_tafumru
+308 - Setting to vassal of k_ralinan in Validate Realm
+308 - Title given to 1011468
+400 - Holder 1016323 - Primary title: c_sopare has lost the title: c_sopare
+400 - Title given to 1016323 - Primary title: d_qanare
+400 - Setting to vassal of d_qanare in Validate Realm

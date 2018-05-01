@@ -1,0 +1,60 @@
+200 - Title given to 1000625
+200 - vassal: c_linane - Holder 1000625 - Primary title: c_linane has lost the title: c_linane
+200 - sub vassal: c_linane - Holder 1000625 - Primary title: c_linane has lost the title: c_linane
+200 - vassal: c_linane - Title given to 1000625 - Primary title: d_katara
+200 - sub vassal: c_linane - Title given to 1000625 - Primary title: d_katara
+200 - Holder (1000625) has gained c_linane
+200 - vassal: c_kifils - Holder 1000625 - Primary title: c_kifils has lost the title: c_kifils
+200 - sub vassal: c_kifils - Holder 1000625 - Primary title: c_kifils has lost the title: c_kifils
+200 - vassal: c_kifils - Title given to 1000625 - Primary title: d_katara
+200 - sub vassal: c_kifils - Title given to 1000625 - Primary title: d_katara
+200 - Holder (1000625) has gained c_kifils
+200 - vassal: c_bisiire - Holder 1000625 - Primary title: c_bisiire has lost the title: c_bisiire
+200 - sub vassal: c_bisiire - Holder 1000625 - Primary title: c_bisiire has lost the title: c_bisiire
+200 - vassal: c_bisiire - Title given to 1000625 - Primary title: d_katara
+200 - sub vassal: c_bisiire - Title given to 1000625 - Primary title: d_katara
+200 - Holder (1000625) has gained c_bisiire
+200 - Holder 1001464 - Primary title: d_katara has lost the title: d_katara
+200 - Title given to 1001464 - Primary title: k_socenmi
+200 - vassal: c_linane - Made independent due to being a seperate island
+200 - vassal: c_linane - Made independent
+201 - vassal: c_bisiire - Made independent due to being a seperate island
+201 - vassal: c_kifils - Holder 1002148 - Primary title: c_kifils has lost the title: c_bisiire
+201 - vassal: c_bisiire - Title given to 1002148
+201 - vassal: c_bisiire - Made independent
+201 - vassal: c_kifils - Made independent due to being a seperate island prior to giving to neighbour
+201 - vassal: c_kifils - Made independent
+202 - Destroyed due to flagged problem
+202 - Made independent
+202 - Title destroyed
+222 - Given to 1002624 in TestCreateEmpire
+222 - Title given to 1002624 - Primary title: c_bisiire
+222 - Gained vassal: c_bisiire
+222 - Made independent for title creation d_katara for d_katara
+222 - vassal: c_bisiire - Set liege on title creation d_katara
+222 - sub vassal: c_bisiire - Set liege on title creation d_katara
+222 - Gained vassal: c_kifils
+243 - Gained vassal: c_linane
+259 - Holder 1004412 - Primary title: d_katara has lost the title: d_katara
+259 - Title given to 1004412
+259 - vassal: c_kifils - Holder 1004412 - Primary title: c_kifils has lost the title: c_kifils
+259 - sub vassal: c_kifils - Holder 1004412 - Primary title: c_kifils has lost the title: c_kifils
+259 - vassal: c_kifils - Title given to 1004412 - Primary title: d_katara
+259 - sub vassal: c_kifils - Title given to 1004412 - Primary title: d_katara
+259 - Holder (1004412) has gained c_kifils
+259 - vassal: c_bisiire - Holder 1004412 - Primary title: c_bisiire has lost the title: c_bisiire
+259 - sub vassal: c_bisiire - Holder 1004412 - Primary title: c_bisiire has lost the title: c_bisiire
+259 - vassal: c_bisiire - Title given to 1004412 - Primary title: d_katara
+259 - sub vassal: c_bisiire - Title given to 1004412 - Primary title: d_katara
+259 - Holder (1004412) has gained c_bisiire
+268 - Holder 1006978 - Primary title: d_katara has lost the title: d_katara
+268 - Title given to 1006978
+268 - vassal: c_bisiire - Holder 1006978 - Primary title: c_bisiire has lost the title: c_bisiire
+268 - sub vassal: c_bisiire - Holder 1006978 - Primary title: c_bisiire has lost the title: c_bisiire
+268 - vassal: c_bisiire - Title given to 1006978 - Primary title: d_katara
+268 - sub vassal: c_bisiire - Title given to 1006978 - Primary title: d_katara
+268 - Holder (1006978) has gained c_bisiire
+268 - vassal: c_kifils - Holder 1006978 - Primary title: c_kifils has lost the title: c_kifils
+268 - sub vassal: c_kifils - Holder 1006978 - Primary title: c_kifils has lost the title: c_kifils
+268 - vassal: c_kifils - Title given to 1006978 - Primary title: d_katara
+268 - sub vassal: c_kifils - Title given to 1006

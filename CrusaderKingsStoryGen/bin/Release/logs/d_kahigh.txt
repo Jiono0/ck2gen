@@ -1,0 +1,138 @@
+200 - Title given to 1000423
+200 - vassal: c_qivrd - Holder 1000423 - Primary title: c_qivrd has lost the title: c_qivrd
+200 - sub vassal: c_qivrd - Holder 1000423 - Primary title: c_qivrd has lost the title: c_qivrd
+200 - vassal: c_qivrd - Title given to 1000423 - Primary title: d_kahigh
+200 - sub vassal: c_qivrd - Title given to 1000423 - Primary title: d_kahigh
+200 - Holder (1000423) has gained c_qivrd
+200 - vassal: c_kalibel - Holder 1000423 - Primary title: c_kalibel has lost the title: c_kalibel
+200 - sub vassal: c_kalibel - Holder 1000423 - Primary title: c_kalibel has lost the title: c_kalibel
+200 - vassal: c_kalibel - Title given to 1000423 - Primary title: d_kahigh
+200 - sub vassal: c_kalibel - Title given to 1000423 - Primary title: d_kahigh
+200 - Holder (1000423) has gained c_kalibel
+200 - vassal: c_tanura - Holder 1000423 - Primary title: c_tanura has lost the title: c_tanura
+200 - sub vassal: c_tanura - Holder 1000423 - Primary title: c_tanura has lost the title: c_tanura
+200 - vassal: c_tanura - Title given to 1000423 - Primary title: d_kahigh
+200 - sub vassal: c_tanura - Title given to 1000423 - Primary title: d_kahigh
+200 - Holder (1000423) has gained c_tanura
+246 - Holder 1002190 - Primary title: d_kahigh has lost the title: d_kahigh
+246 - Title given to 1002190
+246 - vassal: c_tanura - Holder 1002190 - Primary title: c_tanura has lost the title: c_tanura
+246 - vassal: c_tanura - Title given to 1002190 - Primary title: d_kahigh
+246 - Holder (1002190) has gained c_tanura
+246 - vassal: c_kalibel - Holder 1002190 - Primary title: c_kalibel has lost the title: c_kalibel
+246 - vassal: c_kalibel - Title given to 1002190 - Primary title: d_kahigh
+246 - Holder (1002190) has gained c_kalibel
+246 - vassal: c_qivrd - Holder 1002190 - Primary title: c_qivrd has lost the title: c_qivrd
+246 - vassal: c_qivrd - Title given to 1002190 - Primary title: d_kahigh
+246 - Holder (1002190) has gained c_qivrd
+255 - Holder 1001762 - Primary title: d_kahigh has lost the title: d_kahigh
+255 - Title given to 1001762 - Primary title: d_domilek
+255 - vassal: c_tanura - Holder 1001762 - Primary title: c_tanura has lost the title: c_tanura
+255 - vassal: c_tanura - Title given to 1001762 - Primary title: d_baidas
+255 - vassal: c_kalibel - Holder 1001762 - Primary title: c_kalibel has lost the title: c_kalibel
+255 - vassal: c_kalibel - Title given to 1001762 - Primary title: d_baidas
+255 - vassal: c_qivrd - Holder 1001762 - Primary title: c_qivrd has lost the title: c_qivrd
+255 - vassal: c_qivrd - Title given to 1001762 - Primary title: d_baidas
+256 - Holder 1002666 - Primary title: d_kahigh has lost the title: d_baidas
+256 - Holder 1007055 - Primary title: d_kahigh has lost the title: c_komula
+256 - Holder 1007056 - Primary title: d_kahigh has lost the title: c_arannah
+256 - Holder 1007057 - Primary title: d_kahigh has lost the title: c_wafike
+261 - Gained vassal: c_tareetha
+261 - Gained vassal: c_karare
+261 - Holder 1003870 - Primary title: d_kahigh has lost the title: d_kahigh
+261 - Title given to 1003870 - Primary title: d_domilek
+261 - vassal: c_qivrd - Holder 1003870 - Primary title: c_qivrd has lost the title: c_qivrd
+261 - vassal: c_qivrd - Title given to 1003870 - Primary title: d_domilek
+261 - vassal: c_kalibel - Holder 1003870 - Primary title: c_kalibel has lost the title: c_kalibel
+261 - vassal: c_kalibel - Title given to 1003870 - Primary title: d_domilek
+261 - vassal: c_tanura - Holder 1003870 - Primary title: c_tanura has lost the title: c_tanura
+261 - vassal: c_tanura - Title given to 1003870 - Primary title: d_domilek
+261 - vassal: c_karare - Holder 1003870 - Primary title: c_karare has lost the title: c_karare
+261 - vassal: c_karare - Title given to 1003870 - Primary title: d_domilek
+261 - vassal: c_tareetha - Holder 1003870 - Primary title: c_tareetha has lost the title: c_tareetha
+261 - vassal: c_tareetha - Title given to 1003870 - Primary title: d_domilek
+263 - vassal: c_karare - Title given to 1007670
+263 - vassal: c_qivrd - Title given to 1007671
+263 - vassal: c_kalibel - Title given to 1007672
+263 - vassal: c_tanura - Title given to 1007673
+269 - Title given to 1008020
+269 - vassal: c_tareetha - Setting to vassal of d_etraidas in Validate Realm
+269 - Lost vassal: c_tareetha
+269 - Holder (1008020) has gained c_tareetha
+269 - Gained vassal: c_tareetha
+269 - Holder (1008020) has gained d_etraidas
+269 - Holder (1008020) has gained c_wareetha
+269 - Holder (1008020) has gained c_kahura
+269 - Holder (1008020) has gained c_luilare
+269 - Holder (1008020) has gained c_quibel
+272 - Title given to 1003873 - Primary title: d_dareetha
+272 - vassal: c_tareetha - Setting to vassal of d_etraidas in Validate Realm
+272 - Lost vassal: c_tareetha
+273 - vassal: c_qivrd - Given to 1008520 in HandleTitles - Too many duke titles
+273 - vassal: c_qivrd - Holder 1008520 - Primary title: c_qivrd has lost the title: c_qivrd
+273 - vassal: c_qivrd - Title given to 1008520
+273 - Title given to 1005655 - Primary title: k_lelike
+273 - Too many dukes, made direct title into vassal of k_lelike
+273 - Title given to 1008521
+294 - Holder (1008521) has gained d_etraidas
+294 - Holder (1008521) has gained c_quibel
+294 - Gained vassal: c_quibel
+294 - Holder (1008521) has gained c_luilare
+294 - Gained vassal: c_luilare
+294 - Holder (1008521) has gained c_wareetha
+294 - Gained vassal: c_wareetha
+294 - Holder (1008521) has gained c_ralike
+294 - Gained vassal: c_ralike
+294 - Holder (1008521) has gained c_tareetha
+294 - Gained vassal: c_tareetha
+294 - Holder (1008521) has gained d_somigh
+295 - Holder 1009113 - Primary title: d_kahigh has lost the title: d_somigh
+295 - Holder 1010331 - Primary title: d_kahigh has lost the title: c_lugibel
+295 - Holder 1010335 - Primary title: d_kahigh has lost the title: d_kahigh
+295 - Title given to 1010335
+295 - vassal: c_quibel - Setting to vassal of d_etraidas in Validate Realm
+295 - Lost vassal: c_quibel
+295 - vassal: c_luilare - Setting to vassal of d_etraidas in Validate Realm
+295 - Lost vassal: c_luilare
+295 - vassal: c_wareetha - Setting to vassal of d_etraidas in Validate Realm
+295 - Lost vassal: c_wareetha
+295 - vassal: c_ralike - Setting to vassal of d_etraidas in Validate Realm
+295 - Lost vassal: c_ralike
+295 - vassal: c_tareetha - Setting to vassal of d_etraidas in Validate Realm
+295 - Lost vassal: c_tareetha
+295 - Holder (1010335) has gained d_etraidas
+295 - Holder (1010335) has gained c_quibel
+295 - Holder (1010335) has gained c_luilare
+295 - Holder (1010335) has gained c_wareetha
+295 - Holder (1010335) has gained c_ralike
+295 - Holder (1010335) has gained c_tareetha
+309 - vassal: c_qivrd - Given to 1011532 in HandleTitles - Too many duke titles
+309 - vassal: c_qivrd - Holder 1011532 - Primary title: c_qivrd has lost the title: c_qivrd
+309 - vassal: c_qivrd - Title given to 1011532
+309 - Title given to 1009113 - Primary title: k_lelike
+309 - Too many dukes, made direct title into vassal of k_lelike
+309 - Title given to 1011533
+313 - Holder 1011861 - Primary title: d_kahigh has lost the title: d_kahigh
+313 - Title given to 1011861
+322 - Holder 1012025 - Primary title: d_kahigh has lost the title: d_kahigh
+322 - Title given to 1012025
+335 - Holder (1012025) has gained d_wacigh
+348 - Holder 1014376 - Primary title: d_kahigh has lost the title: d_kahigh
+348 - Title given to 1014376 - Primary title: d_wacigh
+363 - Holder 1012442 - Primary title: d_kahigh has lost the title: d_kahigh
+363 - Title given to 1012442 - Primary title: d_lomilek
+364 - vassal: c_qivrd - Given to 1015587 in HandleTitles - Too many duke titles
+364 - vassal: c_qivrd - Holder 1015587 - Primary title: c_qivrd has lost the title: c_qivrd
+364 - vassal: c_qivrd - Title given to 1015587
+364 - Title given to 1012108 - Primary title: k_lelike
+364 - Too many dukes, made direct title into vassal of k_lelike
+364 - Title given to 1015588
+400 - vassal: c_karare - Holder 1015588 - Primary title: c_karare has lost the title: c_karare
+400 - vassal: c_karare - Title given to 1015588 - Primary title: d_kahigh
+400 - Holder (1015588) has gained c_karare
+400 - vassal: c_kalibel - Holder 1015588 - Primary title: c_kalibel has lost the title: c_kalibel
+400 - vassal: c_kalibel - Title given to 1015588 - Primary title: d_kahigh
+400 - Holder (1015588) has gained c_kalibel
+400 - vassal: c_tanura - Holder 1015587 - Primary title: c_tanura has lost the title: c_tanura
+400 - vassal: c_tanura - Title given to 1015587 - Primary title: c_qivrd
+400 - vassal: c_qivrd - Holder (1015587) has gained c_tanura

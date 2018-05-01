@@ -1,0 +1,115 @@
+200 - Title given to 1001492
+200 - vassal: c_solik - Given to 1001495 via AddCharacterForTitle
+200 - sub vassal: c_solik - Given to 1001495 via AddCharacterForTitle
+200 - vassal: c_solik - Holder 1001495 - Primary title: c_solik has lost the title: c_solik
+200 - sub vassal: c_solik - Holder 1001495 - Primary title: c_solik has lost the title: c_solik
+200 - vassal: c_solik - Title given to 1001495
+200 - sub vassal: c_solik - Title given to 1001495
+200 - vassal: c_kelin - Holder 1001492 - Primary title: c_kelin has lost the title: c_kelin
+200 - sub vassal: c_kelin - Holder 1001492 - Primary title: c_kelin has lost the title: c_kelin
+200 - vassal: c_kelin - Title given to 1001492 - Primary title: d_qasolik
+200 - sub vassal: c_kelin - Title given to 1001492 - Primary title: d_qasolik
+200 - Holder (1001492) has gained c_kelin
+200 - vassal: c_solik - Holder 1001492 - Primary title: c_solik has lost the title: c_solik
+200 - sub vassal: c_solik - Holder 1001492 - Primary title: c_solik has lost the title: c_solik
+200 - vassal: c_solik - Title given to 1001492 - Primary title: d_qasolik
+200 - sub vassal: c_solik - Title given to 1001492 - Primary title: d_qasolik
+200 - Holder (1001492) has gained c_solik
+232 - Holder 1002664 - Primary title: d_qasolik has lost the title: d_qasolik
+232 - Title given to 1002664
+232 - vassal: c_kelin - Holder 1002664 - Primary title: c_kelin has lost the title: c_kelin
+232 - vassal: c_kelin - Title given to 1002664 - Primary title: d_qasolik
+232 - Holder (1002664) has gained c_kelin
+232 - vassal: c_solik - Holder 1002664 - Primary title: c_solik has lost the title: c_solik
+232 - vassal: c_solik - Title given to 1002664 - Primary title: d_qasolik
+232 - Holder (1002664) has gained c_solik
+234 - Holder 1001593 - Primary title: d_qasolik has lost the title: d_qasolik
+234 - Title given to 1001593 - Primary title: k_byasilar
+234 - vassal: c_kelin - Holder 1001593 - Primary title: c_kelin has lost the title: c_kelin
+234 - vassal: c_kelin - Title given to 1001593 - Primary title: k_byasilar
+234 - vassal: c_solik - Holder 1001593 - Primary title: c_solik has lost the title: c_solik
+234 - vassal: c_solik - Title given to 1001593 - Primary title: k_byasilar
+239 - Gained vassal: c_tarl
+239 - Gained vassal: c_asarl
+239 - Gained vassal: c_amugelsa
+239 - Holder 1002288 - Primary title: d_qasolik has lost the title: c_amugelsa
+239 - vassal: c_amugelsa - Title given to 1002288 - Primary title: k_byasilar
+239 - vassal: c_amugelsa - Setting to vassal of k_byasilar in Validate Realm
+239 - Lost vassal: c_amugelsa
+239 - Holder 1002288 - Primary title: d_qasolik has lost the title: c_asarl
+239 - vassal: c_asarl - Title given to 1002288 - Primary title: k_byasilar
+239 - vassal: c_asarl - Setting to vassal of k_byasilar in Validate Realm
+239 - Lost vassal: c_asarl
+239 - Holder 1002288 - Primary title: d_qasolik has lost the title: c_tarl
+239 - vassal: c_tarl - Title given to 1002288 - Primary title: k_byasilar
+239 - vassal: c_tarl - Setting to vassal of k_byasilar in Validate Realm
+239 - Lost vassal: c_tarl
+239 - Holder 1002288 - Primary title: d_qasolik has lost the title: d_qasolik
+239 - Title given to 1002288 - Primary title: k_byasilar
+239 - vassal: c_kelin - Holder 1002288 - Primary title: c_kelin has lost the title: c_kelin
+239 - vassal: c_kelin - Title given to 1002288 - Primary title: k_byasilar
+239 - vassal: c_solik - Holder 1002288 - Primary title: c_solik has lost the title: c_solik
+239 - vassal: c_solik - Title given to 1002288 - Primary title: k_byasilar
+260 - Gained vassal: c_tarl
+260 - Gained vassal: c_asarl
+260 - Gained vassal: c_amugelsa
+260 - Holder 1006496 - Primary title: d_qasolik has lost the title: d_qasolik
+260 - Title given to 1006496 - Primary title: k_byasilar
+260 - vassal: c_amugelsa - Holder 1006496 - Primary title: c_amugelsa has lost the title: c_amugelsa
+260 - vassal: c_amugelsa - Title given to 1006496 - Primary title: k_byasilar
+260 - vassal: c_asarl - Holder 1006496 - Primary title: c_asarl has lost the title: c_asarl
+260 - vassal: c_asarl - Title given to 1006496 - Primary title: k_byasilar
+260 - vassal: c_tarl - Holder 1006496 - Primary title: c_tarl has lost the title: c_tarl
+260 - vassal: c_tarl - Title given to 1006496 - Primary title: k_byasilar
+260 - vassal: c_kelin - Holder 1006496 - Primary title: c_kelin has lost the title: c_kelin
+260 - vassal: c_kelin - Title given to 1006496 - Primary title: k_byasilar
+260 - vassal: c_solik - Holder 1006496 - Primary title: c_solik has lost the title: c_solik
+260 - vassal: c_solik - Title given to 1006496 - Primary title: k_byasilar
+281 - Holder 1009203 - Primary title: d_qasolik has lost the title: d_qasolik
+281 - Title given to 1009203 - Primary title: k_byasilar
+281 - vassal: c_solik - Holder 1009203 - Primary title: c_solik has lost the title: c_solik
+281 - vassal: c_solik - Title given to 1009203 - Primary title: k_byasilar
+281 - vassal: c_kelin - Holder 1009203 - Primary title: c_kelin has lost the title: c_kelin
+281 - vassal: c_kelin - Title given to 1009203 - Primary title: k_byasilar
+281 - vassal: c_tarl - Holder 1009203 - Primary title: c_tarl has lost the title: c_tarl
+281 - vassal: c_tarl - Title given to 1009203 - Primary title: k_byasilar
+281 - vassal: c_asarl - Holder 1009203 - Primary title: c_asarl has lost the title: c_asarl
+281 - vassal: c_asarl - Title given to 1009203 - Primary title: k_byasilar
+281 - vassal: c_amugelsa - Holder 1009203 - Primary title: c_amugelsa has lost the title: c_amugelsa
+281 - vassal: c_amugelsa - Title given to 1009203 - Primary title: k_byasilar
+300 - vassal: c_tarl - Title given to 1010845
+300 - vassal: c_asarl - Title given to 1010846
+300 - vassal: c_amugelsa - Title given to 1010847
+300 - vassal: c_solik - Title given to 1010848
+310 - vassal: c_solik - Given to 1011624 in HandleTitles - Too many duke titles
+310 - vassal: c_solik - Holder 1011624 - Primary title: c_solik has lost the title: c_solik
+310 - vassal: c_solik - Title given to 1011624
+310 - Title given to 1011624 - Primary title: c_solik
+310 - vassal: c_solik - Holder (1011624) has gained d_qasolik
+310 - vassal: c_kelin - Setting to vassal of k_byasilar in Validate Realm
+310 - Lost vassal: c_kelin
+310 - Too many dukes, given to dejure: k_byasilar
+356 - Holder 1012385 - Primary title: d_qasolik has lost the title: d_qasolik
+356 - Title given to 1012385
+356 - vassal: c_solik - Holder 1012385 - Primary title: c_solik has lost the title: c_solik
+356 - vassal: c_solik - Title given to 1012385 - Primary title: d_qasolik
+356 - Holder (1012385) has gained c_solik
+381 - Holder 1015886 - Primary title: d_qasolik has lost the title: d_qasolik
+381 - Title given to 1015886
+381 - vassal: c_solik - Holder 1015886 - Primary title: c_solik has lost the title: c_solik
+381 - vassal: c_solik - Title given to 1015886 - Primary title: d_qasolik
+381 - Holder (1015886) has gained c_solik
+392 - Holder 1017066 - Primary title: d_qasolik has lost the title: d_qasolik
+392 - Title given to 1017066
+392 - vassal: c_solik - Holder 1017066 - Primary title: c_solik has lost the title: c_solik
+392 - vassal: c_solik - Title given to 1017066 - Primary title: d_qasolik
+392 - Holder (1017066) has gained c_solik
+400 - vassal: c_tarl - Holder 1017066 - Primary title: c_tarl has lost the title: c_tarl
+400 - vassal: c_tarl - Title given to 1017066 - Primary title: d_qasolik
+400 - Holder (1017066) has gained c_tarl
+400 - vassal: c_asarl - Holder 1017066 - Primary title: c_asarl has lost the title: c_asarl
+400 - vassal: c_asarl - Title given to 1017066 - Primary title: d_qasolik
+400 - Holder (1017066) has gained c_asarl
+400 - vassal: c_amugelsa - Holder 1017066 - Primary title: c_amugelsa has lost the title: c_amugelsa
+400 - vassal: c_amugelsa - Title given to 1017066 - Primary title: d_qasolik
+400 - Holder (1017066) has gained c_amugelsa

@@ -1,0 +1,89 @@
+200 - Title given to 1001363
+200 - vassal: c_arodenla - Given to 1001366 via AddCharacterForTitle
+200 - sub vassal: c_arodenla - Given to 1001366 via AddCharacterForTitle
+200 - vassal: c_arodenla - Holder 1001366 - Primary title: c_arodenla has lost the title: c_arodenla
+200 - sub vassal: c_arodenla - Holder 1001366 - Primary title: c_arodenla has lost the title: c_arodenla
+200 - vassal: c_arodenla - Title given to 1001366
+200 - sub vassal: c_arodenla - Title given to 1001366
+200 - vassal: c_ranohn - Given to 1001368 via AddCharacterForTitle
+200 - sub vassal: c_ranohn - Given to 1001368 via AddCharacterForTitle
+200 - vassal: c_ranohn - Holder 1001368 - Primary title: c_ranohn has lost the title: c_ranohn
+200 - sub vassal: c_ranohn - Holder 1001368 - Primary title: c_ranohn has lost the title: c_ranohn
+200 - vassal: c_ranohn - Title given to 1001368
+200 - sub vassal: c_ranohn - Title given to 1001368
+200 - vassal: c_ranarz - Holder 1001363 - Primary title: c_ranarz has lost the title: c_ranarz
+200 - sub vassal: c_ranarz - Holder 1001363 - Primary title: c_ranarz has lost the title: c_ranarz
+200 - vassal: c_ranarz - Title given to 1001363 - Primary title: d_lanarz
+200 - sub vassal: c_ranarz - Title given to 1001363 - Primary title: d_lanarz
+200 - Holder (1001363) has gained c_ranarz
+200 - vassal: c_arodenla - Holder 1001363 - Primary title: c_arodenla has lost the title: c_arodenla
+200 - sub vassal: c_arodenla - Holder 1001363 - Primary title: c_arodenla has lost the title: c_arodenla
+200 - vassal: c_arodenla - Title given to 1001363 - Primary title: d_lanarz
+200 - sub vassal: c_arodenla - Title given to 1001363 - Primary title: d_lanarz
+200 - Holder (1001363) has gained c_arodenla
+200 - vassal: c_ranohn - Holder 1001363 - Primary title: c_ranohn has lost the title: c_ranohn
+200 - sub vassal: c_ranohn - Holder 1001363 - Primary title: c_ranohn has lost the title: c_ranohn
+200 - vassal: c_ranohn - Title given to 1001363 - Primary title: d_lanarz
+200 - sub vassal: c_ranohn - Title given to 1001363 - Primary title: d_lanarz
+200 - Holder (1001363) has gained c_ranohn
+200 - vassal: c_nedt - Holder 1001363 - Primary title: c_nedt has lost the title: c_nedt
+200 - sub vassal: c_nedt - Holder 1001363 - Primary title: c_nedt has lost the title: c_nedt
+200 - vassal: c_nedt - Title given to 1001363 - Primary title: d_lanarz
+200 - sub vassal: c_nedt - Title given to 1001363 - Primary title: d_lanarz
+200 - Holder (1001363) has gained c_nedt
+200 - vassal: c_segimir - Holder 1001363 - Primary title: c_segimir has lost the title: c_segimir
+200 - sub vassal: c_segimir - Holder 1001363 - Primary title: c_segimir has lost the title: c_segimir
+200 - vassal: c_segimir - Title given to 1001363 - Primary title: d_lanarz
+200 - sub vassal: c_segimir - Title given to 1001363 - Primary title: d_lanarz
+200 - Holder (1001363) has gained c_segimir
+204 - Holder 1001587 - Primary title: d_lanarz has lost the title: d_lanarz
+204 - Title given to 1001587 - Primary title: k_debedt
+204 - vassal: c_segimir - Holder 1001587 - Primary title: c_segimir has lost the title: c_segimir
+204 - vassal: c_segimir - Title given to 1001587 - Primary title: k_debedt
+204 - vassal: c_nedt - Holder 1001587 - Primary title: c_nedt has lost the title: c_nedt
+204 - vassal: c_nedt - Title given to 1001587 - Primary title: k_debedt
+204 - vassal: c_ranohn - Holder 1001587 - Primary title: c_ranohn has lost the title: c_ranohn
+204 - vassal: c_ranohn - Title given to 1001587 - Primary title: k_debedt
+204 - vassal: c_arodenla - Holder 1001587 - Primary title: c_arodenla has lost the title: c_arodenla
+204 - vassal: c_arodenla - Title given to 1001587 - Primary title: k_debedt
+204 - vassal: c_ranarz - Holder 1001587 - Primary title: c_ranarz has lost the title: c_ranarz
+204 - vassal: c_ranarz - Title given to 1001587 - Primary title: k_debedt
+204 - vassal: c_ranohn - Given to 1002678 in HandleTitles - Too many duke titles
+204 - vassal: c_ranohn - Title given to 1002678
+204 - Title given to 1002678 - Primary title: c_ranohn
+204 - vassal: c_ranohn - Holder (1002678) has gained d_lanarz
+204 - vassal: c_segimir - Setting to vassal of k_debedt in Validate Realm
+204 - Lost vassal: c_segimir
+204 - vassal: c_nedt - Setting to vassal of k_debedt in Validate Realm
+204 - Lost vassal: c_nedt
+204 - vassal: c_arodenla - Setting to vassal of k_debedt in Validate Realm
+204 - Lost vassal: c_arodenla
+204 - vassal: c_ranarz - Setting to vassal of k_debedt in Validate Realm
+204 - Lost vassal: c_ranarz
+204 - Too many dukes, given to dejure: k_debedt
+227 - Holder 1001587 - Primary title: d_lanarz has lost the title: d_lanarz
+227 - Title given to 1001587 - Primary title: k_debedt
+227 - vassal: c_ranohn - Holder 1001587 - Primary title: c_ranohn has lost the title: c_ranohn
+227 - vassal: c_ranohn - Title given to 1001587 - Primary title: k_debedt
+227 - vassal: c_ranohn - Given to 1004677 in HandleTitles - Too many duke titles
+227 - vassal: c_ranohn - Title given to 1004677
+227 - Title given to 1004677 - Primary title: c_ranohn
+227 - vassal: c_ranohn - Holder (1004677) has gained d_lanarz
+227 - Too many dukes, given to dejure: k_debedt
+272 - Holder 1004746 - Primary title: d_lanarz has lost the title: d_lanarz
+272 - Title given to 1004746
+272 - vassal: c_ranohn - Holder 1004746 - Primary title: c_ranohn has lost the title: c_ranohn
+272 - vassal: c_ranohn - Title given to 1004746 - Primary title: d_lanarz
+272 - Holder (1004746) has gained c_ranohn
+272 - Holder (1004746) has gained k_debedt
+273 - vassal: c_ranohn - Title given to 1008563
+300 - Holder 1009202 - Primary title: d_lanarz has lost the title: d_lanarz
+300 - Title given to 1009202 - Primary title: k_debedt
+324 - Holder 1011978 - Primary title: d_lanarz has lost the title: d_lanarz
+324 - Title given to 1011978 - Primary title: k_debedt
+375 - Holder 1013147 - Primary title: d_lanarz has lost the title: d_lanarz
+375 - Title given to 1013147 - Primary title: k_debedt
+392 - Holder 1016521 - Primary title: d_lanarz has lost the title: d_lanarz
+392 - Title given to 1016521 - Primary title: k_debedt
+400 - vassal: c_ranohn - Holder 1016521 - Primary title: c_ranohn has lost the title: c_ranohn
+400 - vassal: c_ranohn - Title given to 1016521 - Primary title: k_debedt

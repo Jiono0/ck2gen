@@ -1,0 +1,240 @@
+200 - Title given to 1001249
+200 - vassal: c_komugh - Given to 1001252 via AddCharacterForTitle
+200 - sub vassal: c_komugh - Given to 1001252 via AddCharacterForTitle
+200 - vassal: c_komugh - Holder 1001252 - Primary title: c_komugh has lost the title: c_komugh
+200 - sub vassal: c_komugh - Holder 1001252 - Primary title: c_komugh has lost the title: c_komugh
+200 - vassal: c_komugh - Title given to 1001252
+200 - sub vassal: c_komugh - Title given to 1001252
+200 - vassal: c_lomilvi - Holder 1001249 - Primary title: c_lomilvi has lost the title: c_lomilvi
+200 - sub vassal: c_lomilvi - Holder 1001249 - Primary title: c_lomilvi has lost the title: c_lomilvi
+200 - vassal: c_lomilvi - Title given to 1001249 - Primary title: d_rehiu
+200 - sub vassal: c_lomilvi - Title given to 1001249 - Primary title: d_rehiu
+200 - Holder (1001249) has gained c_lomilvi
+200 - vassal: c_komugh - Holder 1001249 - Primary title: c_komugh has lost the title: c_komugh
+200 - sub vassal: c_komugh - Holder 1001249 - Primary title: c_komugh has lost the title: c_komugh
+200 - vassal: c_komugh - Title given to 1001249 - Primary title: d_rehiu
+200 - sub vassal: c_komugh - Title given to 1001249 - Primary title: d_rehiu
+200 - Holder (1001249) has gained c_komugh
+200 - vassal: c_khozel - Holder 1001249 - Primary title: c_khozel has lost the title: c_khozel
+200 - sub vassal: c_khozel - Holder 1001249 - Primary title: c_khozel has lost the title: c_khozel
+200 - vassal: c_khozel - Title given to 1001249 - Primary title: d_rehiu
+200 - sub vassal: c_khozel - Title given to 1001249 - Primary title: d_rehiu
+200 - Holder (1001249) has gained c_khozel
+200 - Holder 1001584 - Primary title: d_rehiu has lost the title: c_khozel
+200 - vassal: c_khozel - Title given to 1001584 - Primary title: k_alitila
+200 - vassal: c_khozel - Holder 1001236 - Primary title: c_khozel has lost the title: c_khozel
+200 - vassal: c_khozel - Title given to 1001236 - Primary title: k_alitila
+200 - vassal: c_khozel - Setting to vassal of k_alitila in Validate Realm
+200 - Lost vassal: c_khozel
+220 - Holder 1004056 - Primary title: d_rehiu has lost the title: d_rehiu
+220 - Title given to 1004056
+220 - vassal: c_lomilvi - Holder 1004056 - Primary title: c_lomilvi has lost the title: c_lomilvi
+220 - vassal: c_lomilvi - Title given to 1004056 - Primary title: d_rehiu
+220 - Holder (1004056) has gained c_lomilvi
+220 - vassal: c_komugh - Holder 1004056 - Primary title: c_komugh has lost the title: c_komugh
+220 - vassal: c_komugh - Title given to 1004056 - Primary title: d_rehiu
+220 - Holder (1004056) has gained c_komugh
+221 - Holder 1001236 - Primary title: d_rehiu has lost the title: d_rehiu
+221 - Title given to 1001236 - Primary title: k_alitila
+221 - vassal: c_lomilvi - Holder 1001236 - Primary title: c_lomilvi has lost the title: c_lomilvi
+221 - vassal: c_lomilvi - Title given to 1001236 - Primary title: k_alitila
+221 - vassal: c_komugh - Holder 1001236 - Primary title: c_komugh has lost the title: c_komugh
+221 - vassal: c_komugh - Title given to 1001236 - Primary title: k_alitila
+221 - vassal: c_lomilvi - Title given to 1004163
+223 - Gained vassal: c_roe
+223 - Gained vassal: c_tusilip
+223 - Gained vassal: c_qaarsa
+223 - Gained vassal: c_khozel
+223 - Holder 1004336 - Primary title: d_rehiu has lost the title: c_khozel
+223 - vassal: c_khozel - Title given to 1004336 - Primary title: k_alitila
+223 - vassal: c_khozel - Setting to vassal of k_alitila in Validate Realm
+223 - Lost vassal: c_khozel
+223 - Holder 1004336 - Primary title: d_rehiu has lost the title: c_qaarsa
+223 - vassal: c_qaarsa - Title given to 1004336 - Primary title: k_alitila
+223 - vassal: c_qaarsa - Setting to vassal of k_alitila in Validate Realm
+223 - Lost vassal: c_qaarsa
+223 - Holder 1004336 - Primary title: d_rehiu has lost the title: c_tusilip
+223 - vassal: c_tusilip - Title given to 1004336 - Primary title: k_alitila
+223 - vassal: c_tusilip - Setting to vassal of k_alitila in Validate Realm
+223 - Lost vassal: c_tusilip
+223 - Holder 1004336 - Primary title: d_rehiu has lost the title: c_roe
+223 - vassal: c_roe - Title given to 1004336 - Primary title: k_alitila
+223 - vassal: c_roe - Setting to vassal of k_alitila in Validate Realm
+223 - Lost vassal: c_roe
+223 - Holder 1004336 - Primary title: d_rehiu has lost the title: d_rehiu
+223 - Title given to 1004336 - Primary title: k_alitila
+223 - vassal: c_komugh - Holder 1004336 - Primary title: c_komugh has lost the title: c_komugh
+223 - vassal: c_komugh - Title given to 1004336 - Primary title: k_alitila
+260 - vassal: c_komugh - Title given to 1004567
+271 - Gained vassal: c_roe
+271 - Gained vassal: c_tusilip
+271 - Gained vassal: c_qaarsa
+271 - Gained vassal: c_khozel
+271 - Gained vassal: c_wyesiogo
+271 - Holder 1005811 - Primary title: d_rehiu has lost the title: d_rehiu
+271 - Title given to 1005811 - Primary title: k_alitila
+271 - vassal: c_wyesiogo - Holder 1005811 - Primary title: c_wyesiogo has lost the title: c_wyesiogo
+271 - vassal: c_wyesiogo - Title given to 1005811 - Primary title: k_alitila
+271 - vassal: c_khozel - Holder 1005811 - Primary title: c_khozel has lost the title: c_khozel
+271 - vassal: c_khozel - Title given to 1005811 - Primary title: k_alitila
+271 - vassal: c_qaarsa - Holder 1005811 - Primary title: c_qaarsa has lost the title: c_qaarsa
+271 - vassal: c_qaarsa - Title given to 1005811 - Primary title: k_alitila
+271 - vassal: c_tusilip - Holder 1005811 - Primary title: c_tusilip has lost the title: c_tusilip
+271 - vassal: c_tusilip - Title given to 1005811 - Primary title: k_alitila
+271 - vassal: c_roe - Holder 1005811 - Primary title: c_roe has lost the title: c_roe
+271 - vassal: c_roe - Title given to 1005811 - Primary title: k_alitila
+272 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+272 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+273 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+273 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+274 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+274 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+275 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+275 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+276 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+276 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+277 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+277 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+278 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+278 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+279 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+279 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+280 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+280 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+281 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+281 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+282 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+282 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+283 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+283 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+284 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+284 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+285 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+285 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+286 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+286 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+287 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+287 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+288 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+288 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+289 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+289 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+290 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+290 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+291 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+291 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+292 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+292 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+293 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+293 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+294 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+294 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+295 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+295 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+296 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+296 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+297 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+297 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+298 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+298 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+298 - Holder 1007521 - Primary title: d_rehiu has lost the title: d_rehiu
+298 - Title given to 1007521 - Primary title: k_alitila
+298 - vassal: c_roe - Setting to vassal of d_wailaige in Validate Realm
+298 - Lost vassal: c_roe
+298 - vassal: c_tusilip - Setting to vassal of d_wailaige in Validate Realm
+298 - Lost vassal: c_tusilip
+298 - vassal: c_qaarsa - Setting to vassal of d_wailaige in Validate Realm
+298 - Lost vassal: c_qaarsa
+298 - vassal: c_khozel - Setting to vassal of d_wailaige in Validate Realm
+298 - Lost vassal: c_khozel
+298 - vassal: c_wyesiogo - Setting to vassal of d_wailaige in Validate Realm
+298 - Lost vassal: c_wyesiogo
+337 - Holder 1010701 - Primary title: d_rehiu has lost the title: d_rehiu
+337 - Title given to 1010701 - Primary title: k_alitila
+338 - Captured byk_doredas in minor war
+344 - Gained vassal: c_roe
+344 - Gained vassal: c_tusilip
+344 - Gained vassal: c_qaarsa
+344 - Gained vassal: c_khozel
+344 - Gained vassal: c_wyesiogo
+344 - Holder 1014179 - Primary title: d_rehiu has lost the title: d_rehiu
+344 - Title given to 1014179 - Primary title: k_alitila
+344 - vassal: c_wyesiogo - Holder 1014179 - Primary title: c_wyesiogo has lost the title: c_wyesiogo
+344 - vassal: c_wyesiogo - Title given to 1014179 - Primary title: k_alitila
+344 - vassal: c_khozel - Holder 1014179 - Primary title: c_khozel has lost the title: c_khozel
+344 - vassal: c_khozel - Title given to 1014179 - Primary title: k_alitila
+344 - vassal: c_qaarsa - Holder 1014179 - Primary title: c_qaarsa has lost the title: c_qaarsa
+344 - vassal: c_qaarsa - Title given to 1014179 - Primary title: k_alitila
+344 - vassal: c_tusilip - Holder 1014179 - Primary title: c_tusilip has lost the title: c_tusilip
+344 - vassal: c_tusilip - Title given to 1014179 - Primary title: k_alitila
+344 - vassal: c_roe - Holder 1014179 - Primary title: c_roe has lost the title: c_roe
+344 - vassal: c_roe - Title given to 1014179 - Primary title: k_alitila
+345 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+345 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+346 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+346 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+347 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+347 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+348 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+348 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+349 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+349 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+350 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+350 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+351 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+351 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+352 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+352 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+353 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+353 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+354 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+354 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+355 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+355 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+356 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+356 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+357 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+357 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+358 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+358 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+359 - vassal: c_wyesiogo - Made vassal of neighbour (k_doredas) due to being a seperate island
+359 - vassal: c_wyesiogo - Given to neighbour holder of k_doredas
+360 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+360 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+361 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+361 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+362 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+362 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+363 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+363 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+364 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+364 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+365 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+365 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+366 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+366 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+367 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+367 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+368 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+368 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+369 - vassal: c_wyesiogo - Made vassal of neighbour (k_ditedas) due to being a seperate island
+369 - vassal: c_wyesiogo - Given to neighbour holder of k_ditedas
+369 - Holder 1015958 - Primary title: d_rehiu has lost the title: d_rehiu
+369 - Title given to 1015958 - Primary title: k_alitila
+369 - vassal: c_roe - Setting to vassal of d_wailaige in Validate Realm
+369 - Lost vassal: c_roe
+369 - vassal: c_tusilip - Setting to vassal of d_wailaige in Validate Realm
+369 - Lost vassal: c_tusilip
+369 - vassal: c_qaarsa - Setting to vassal of d_wailaige in Validate Realm
+369 - Lost vassal: c_qaarsa
+369 - vassal: c_khozel - Setting to vassal of d_wailaige in Validate Realm
+369 - Lost vassal: c_khozel
+369 - vassal: c_wyesiogo - Setting to vassal of d_wailaige in Validate Realm
+369 - Lost vassal: c_wyesiogo
+400 - vassal: c_lomilvi - Holder 1004567 - Primary title: c_lomilvi has lost the title: c_lomilvi
+400 - vassal: c_lomilvi - Title given to 1004567 - Primary title: c_komugh
+400 - vassal: c_komugh - Holder (1004567) has gained c_lomilvi
+400 - vassal: c_lomilvi - Holder 1015958 - Primary title: c_lomilvi has lost the title: c_komugh
+400 - vassal: c_komugh - Title given to 1015958 - Primary title: k_alitila
+400 - vassal: c_lomilvi - Holder 1015958 - Primary title: c_lomilvi has lost the title: c_lomilvi
+400 - vassal: c_lomilvi - Title given to 1015958 - Primary title: k_alitila

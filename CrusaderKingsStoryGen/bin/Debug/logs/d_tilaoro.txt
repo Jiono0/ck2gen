@@ -1,0 +1,129 @@
+200 - Title given to 1000900
+200 - vassal: c_ebisulah - Given to 1000903 via AddCharacterForTitle
+200 - sub vassal: c_ebisulah - Given to 1000903 via AddCharacterForTitle
+200 - vassal: c_ebisulah - Holder 1000903 - Primary title: c_ebisulah has lost the title: c_ebisulah
+200 - sub vassal: c_ebisulah - Holder 1000903 - Primary title: c_ebisulah has lost the title: c_ebisulah
+200 - vassal: c_ebisulah - Title given to 1000903
+200 - sub vassal: c_ebisulah - Title given to 1000903
+200 - vassal: c_bisafu - Holder 1000885 - Primary title: c_bisafu has lost the title: c_bigulah
+200 - sub vassal: c_bisafu - Holder 1000885 - Primary title: c_bisafu has lost the title: c_bigulah
+200 - sub vassal: c_bigulah - Title given to 1000885 - Primary title: d_nusari
+200 - vassal: c_qisuro - Holder 1000900 - Primary title: c_qisuro has lost the title: c_qisuro
+200 - sub vassal: c_qisuro - Holder 1000900 - Primary title: c_qisuro has lost the title: c_qisuro
+200 - vassal: c_qisuro - Title given to 1000900 - Primary title: d_tilaoro
+200 - sub vassal: c_qisuro - Title given to 1000900 - Primary title: d_tilaoro
+200 - Holder (1000900) has gained c_qisuro
+200 - vassal: c_ebisulah - Holder 1000900 - Primary title: c_ebisulah has lost the title: c_ebisulah
+200 - sub vassal: c_ebisulah - Holder 1000900 - Primary title: c_ebisulah has lost the title: c_ebisulah
+200 - vassal: c_ebisulah - Title given to 1000900 - Primary title: d_tilaoro
+200 - sub vassal: c_ebisulah - Title given to 1000900 - Primary title: d_tilaoro
+200 - Holder (1000900) has gained c_ebisulah
+200 - vassal: c_bisafu - Holder 1000900 - Primary title: c_bisafu has lost the title: c_bisafu
+200 - sub vassal: c_bisafu - Holder 1000900 - Primary title: c_bisafu has lost the title: c_bisafu
+200 - vassal: c_bisafu - Title given to 1000900 - Primary title: d_tilaoro
+200 - sub vassal: c_bisafu - Title given to 1000900 - Primary title: d_tilaoro
+200 - Holder (1000900) has gained c_bisafu
+206 - Holder 1000980 - Primary title: d_tilaoro has lost the title: d_tilaoro
+206 - Title given to 1000980 - Primary title: d_tegudo
+206 - vassal: c_bisafu - Holder 1000980 - Primary title: c_bisafu has lost the title: c_bisafu
+206 - vassal: c_bisafu - Title given to 1000980 - Primary title: d_tegudo
+206 - vassal: c_ebisulah - Holder 1000980 - Primary title: c_ebisulah has lost the title: c_ebisulah
+206 - vassal: c_ebisulah - Title given to 1000980 - Primary title: d_tegudo
+206 - vassal: c_qisuro - Holder 1000980 - Primary title: c_qisuro has lost the title: c_qisuro
+206 - vassal: c_qisuro - Title given to 1000980 - Primary title: d_tegudo
+207 - Holder 1002753 - Primary title: d_tilaoro has lost the title: c_wigaaq
+226 - Holder (1000980) has gained d_adujumo
+226 - Holder (1000980) has gained c_qaoro
+226 - Holder (1000980) has gained c_arianuro
+226 - Holder (1000980) has gained c_razaaq
+227 - vassal: c_qisuro - Title given to 1004262
+227 - vassal: c_bisafu - Title given to 1004263
+240 - Gained vassal: c_asopumo
+240 - Gained vassal: c_qaoro
+240 - Gained vassal: c_arianuro
+240 - Gained vassal: c_razaaq
+240 - Holder 1001833 - Primary title: d_tilaoro has lost the title: d_tilaoro
+240 - Title given to 1001833 - Primary title: d_adujumo
+240 - vassal: c_razaaq - Holder 1001833 - Primary title: c_razaaq has lost the title: c_razaaq
+240 - vassal: c_razaaq - Title given to 1001833 - Primary title: d_adujumo
+240 - vassal: c_arianuro - Holder 1001833 - Primary title: c_arianuro has lost the title: c_arianuro
+240 - vassal: c_arianuro - Title given to 1001833 - Primary title: d_adujumo
+240 - vassal: c_qaoro - Holder 1001833 - Primary title: c_qaoro has lost the title: c_qaoro
+240 - vassal: c_qaoro - Title given to 1001833 - Primary title: d_adujumo
+240 - vassal: c_asopumo - Holder 1001833 - Primary title: c_asopumo has lost the title: c_asopumo
+240 - vassal: c_asopumo - Title given to 1001833 - Primary title: d_adujumo
+240 - vassal: c_ebisulah - Holder 1001833 - Primary title: c_ebisulah has lost the title: c_ebisulah
+240 - vassal: c_ebisulah - Title given to 1001833 - Primary title: d_adujumo
+244 - Holder (1001833) has gained d_adujumo
+244 - vassal: c_razaaq - Set liege on title creation d_adujumo
+244 - Lost vassal: c_razaaq
+244 - vassal: c_arianuro - Set liege on title creation d_adujumo
+244 - Lost vassal: c_arianuro
+244 - vassal: c_qaoro - Set liege on title creation d_adujumo
+244 - Lost vassal: c_qaoro
+244 - vassal: c_asopumo - Set liege on title creation d_adujumo
+244 - Lost vassal: c_asopumo
+244 - vassal: c_ebisulah - Set liege on title creation d_adujumo
+244 - Lost vassal: c_ebisulah
+244 - vassal: c_bisafu - Holder 1001833 - Primary title: c_bisafu has lost the title: c_bisafu
+244 - vassal: c_bisafu - Title given to 1001833 - Primary title: d_tilaoro
+244 - Holder (1001833) has gained c_bisafu
+245 - Holder 1005657 - Primary title: d_tilaoro has lost the title: c_qaoro
+245 - Gained vassal: c_qaoro
+255 - Holder (1001833) has gained d_adujumo
+255 - vassal: c_bisafu - Set liege on title creation d_adujumo
+255 - Lost vassal: c_bisafu
+255 - vassal: c_qaoro - Holder 1001833 - Primary title: c_qaoro has lost the title: c_qaoro
+255 - vassal: c_qaoro - Title given to 1001833 - Primary title: d_tilaoro
+255 - Holder (1001833) has gained c_qaoro
+256 - Holder 1006487 - Primary title: d_tilaoro has lost the title: c_ebisulah
+256 - Gained vassal: c_ebisulah
+258 - Holder (1001833) has gained d_adujumo
+258 - vassal: c_qaoro - Set liege on title creation d_adujumo
+258 - Lost vassal: c_qaoro
+258 - vassal: c_ebisulah - Holder 1001833 - Primary title: c_ebisulah has lost the title: c_ebisulah
+258 - vassal: c_ebisulah - Title given to 1001833 - Primary title: d_tilaoro
+258 - Holder (1001833) has gained c_ebisulah
+259 - Holder 1006729 - Primary title: d_tilaoro has lost the title: c_asopumo
+259 - Gained vassal: c_asopumo
+267 - Holder (1001833) has gained d_adujumo
+267 - vassal: c_ebisulah - Set liege on title creation d_adujumo
+267 - Lost vassal: c_ebisulah
+267 - vassal: c_asopumo - Holder 1001833 - Primary title: c_asopumo has lost the title: c_asopumo
+267 - vassal: c_asopumo - Title given to 1001833 - Primary title: d_tilaoro
+267 - Holder (1001833) has gained c_asopumo
+268 - Holder 1007458 - Primary title: d_tilaoro has lost the title: c_razaaq
+268 - Gained vassal: c_razaaq
+271 - Holder 1005592 - Primary title: d_tilaoro has lost the title: d_tilaoro
+271 - Title given to 1005592
+271 - vassal: c_asopumo - Setting independent in Validate Realm
+271 - vassal: c_asopumo - Made independent
+271 - Holder (1005592) has gained c_ebisulah
+271 - Holder (1005592) has gained c_qaoro
+271 - Holder (1005592) has gained c_bisafu
+271 - Holder (1005592) has gained c_arianuro
+271 - Holder (1005592) has gained c_asopumo
+272 - vassal: c_razaaq - Holder 1005592 - Primary title: c_razaaq has lost the title: c_razaaq
+272 - vassal: c_razaaq - Title given to 1005592 - Primary title: d_tilaoro
+272 - Holder (1005592) has gained c_razaaq
+272 - Holder 1007762 - Primary title: d_tilaoro has lost the title: c_qaoro
+272 - Gained vassal: c_qaoro
+279 - Holder (1005592) has gained d_adujumo
+279 - vassal: c_razaaq - Set liege on title creation d_adujumo
+279 - Lost vassal: c_razaaq
+279 - vassal: c_qaoro - Holder 1005592 - Primary title: c_qaoro has lost the title: c_qaoro
+279 - vassal: c_qaoro - Title given to 1005592 - Primary title: d_tilaoro
+279 - Holder (1005592) has gained c_qaoro
+280 - Holder 1008342 - Primary title: d_tilaoro has lost the title: c_arianuro
+280 - Gained vassal: c_arianuro
+283 - Holder 1008563 - Primary title: d_tilaoro has lost the title: d_tilaoro
+283 - Title given to 1008563
+283 - vassal: c_qaoro - Holder 1008563 - Primary title: c_qaoro has lost the title: c_qaoro
+283 - vassal: c_qaoro - Title given to 1008563 - Primary title: d_tilaoro
+283 - Holder (1008563) has gained c_qaoro
+283 - Holder (1008563) has gained c_razaaq
+283 - Holder (1008563) has gained c_asopumo
+283 - Holder (1008563) has gained c_bisafu
+283 - Holder (1008563) has gained c_ebisulah
+320 - Holder 1009911 - Primary title: d_tilaoro has lost the title: d_tilaoro
+320 - Title given t

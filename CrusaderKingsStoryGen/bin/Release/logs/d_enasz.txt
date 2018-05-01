@@ -1,0 +1,39 @@
+200 - Title given to 1000168
+200 - vassal: c_nenas - Given to 1000171 via AddCharacterForTitle
+200 - sub vassal: c_nenas - Given to 1000171 via AddCharacterForTitle
+200 - vassal: c_nenas - Holder 1000171 - Primary title: c_nenas has lost the title: c_nenas
+200 - sub vassal: c_nenas - Holder 1000171 - Primary title: c_nenas has lost the title: c_nenas
+200 - vassal: c_nenas - Title given to 1000171
+200 - sub vassal: c_nenas - Title given to 1000171
+200 - vassal: c_kegasz - Holder 1000151 - Primary title: c_kegasz has lost the title: c_rocasz
+200 - sub vassal: c_kegasz - Holder 1000151 - Primary title: c_kegasz has lost the title: c_rocasz
+200 - sub vassal: c_rocasz - Title given to 1000151 - Primary title: d_qanalk
+200 - vassal: c_kegasz - Holder 1000155 - Primary title: c_kegasz has lost the title: c_ecaloj
+200 - sub vassal: c_kegasz - Holder 1000155 - Primary title: c_kegasz has lost the title: c_ecaloj
+200 - sub vassal: c_ecaloj - Title given to 1000155 - Primary title: d_kegoj
+200 - vassal: c_epocasz - Holder 1000168 - Primary title: c_epocasz has lost the title: c_epocasz
+200 - sub vassal: c_epocasz - Holder 1000168 - Primary title: c_epocasz has lost the title: c_epocasz
+200 - vassal: c_epocasz - Title given to 1000168 - Primary title: d_enasz
+200 - sub vassal: c_epocasz - Title given to 1000168 - Primary title: d_enasz
+200 - Holder (1000168) has gained c_epocasz
+200 - vassal: c_nenas - Holder 1000168 - Primary title: c_nenas has lost the title: c_nenas
+200 - sub vassal: c_nenas - Holder 1000168 - Primary title: c_nenas has lost the title: c_nenas
+200 - vassal: c_nenas - Title given to 1000168 - Primary title: d_enasz
+200 - sub vassal: c_nenas - Title given to 1000168 - Primary title: d_enasz
+200 - Holder (1000168) has gained c_nenas
+200 - vassal: c_kegasz - Holder 1000168 - Primary title: c_kegasz has lost the title: c_kegasz
+200 - sub vassal: c_kegasz - Holder 1000168 - Primary title: c_kegasz has lost the title: c_kegasz
+200 - vassal: c_kegasz - Title given to 1000168 - Primary title: d_enasz
+200 - sub vassal: c_kegasz - Title given to 1000168 - Primary title: d_enasz
+200 - Holder (1000168) has gained c_kegasz
+200 - Holder 1001534 - Primary title: d_enasz has lost the title: d_enasz
+200 - Title given to 1001534 - Primary title: k_benalme
+200 - vassal: c_epocasz - Made vassal of neighbour (k_apocory) due to being a seperate island
+200 - Lost vassal: c_epocasz
+200 - vassal: c_nenas - Setting independent in Validate Realm
+200 - vassal: c_nenas - Made independent
+200 - vassal: c_kegasz - Setting independent in Validate Realm
+200 - vassal: c_kegasz - Made independent
+201 - Destroyed due to flagged problem
+201 - Made independent
+201 - Title destroyed

@@ -1,0 +1,1576 @@
+200 - Title given to 1001539
+200 - vassal: d_bocada - Holder 1001539 - Primary title: d_bocada has lost the title: d_bocada
+200 - sub vassal: d_bocada - Holder 1001539 - Primary title: d_bocada has lost the title: d_bocada
+200 - vassal: d_bocada - Title given to 1001539 - Primary title: k_apocory
+200 - sub vassal: d_bocada - Title given to 1001539 - Primary title: k_apocory
+200 - Holder (1001539) has gained d_bocada
+200 - vassal: d_tacasz - Holder 1001539 - Primary title: d_tacasz has lost the title: d_tacasz
+200 - sub vassal: d_tacasz - Holder 1001539 - Primary title: d_tacasz has lost the title: d_tacasz
+200 - vassal: d_tacasz - Title given to 1001539 - Primary title: k_apocory
+200 - sub vassal: d_tacasz - Title given to 1001539 - Primary title: k_apocory
+200 - Holder (1001539) has gained d_tacasz
+200 - vassal: d_ralada - Holder 1001539 - Primary title: d_ralada has lost the title: d_ralada
+200 - sub vassal: d_ralada - Holder 1001539 - Primary title: d_ralada has lost the title: d_ralada
+200 - vassal: d_ralada - Title given to 1001539 - Primary title: k_apocory
+200 - sub vassal: d_ralada - Title given to 1001539 - Primary title: k_apocory
+200 - Holder (1001539) has gained d_ralada
+200 - vassal: d_kenerni - Holder 1001539 - Primary title: d_kenerni has lost the title: d_kenerni
+200 - sub vassal: d_kenerni - Holder 1001539 - Primary title: d_kenerni has lost the title: d_kenerni
+200 - vassal: d_kenerni - Title given to 1001539 - Primary title: k_apocory
+200 - sub vassal: d_kenerni - Title given to 1001539 - Primary title: k_apocory
+200 - Holder (1001539) has gained d_kenerni
+200 - sub vassal: c_kegilip - Holder 1001539 - Primary title: c_kegilip has lost the title: c_kegilip
+200 - sub vassal: c_kegilip - Title given to 1001539 - Primary title: k_apocory
+200 - Holder (1001539) has gained c_kegilip
+200 - sub vassal: c_nenas - Setting independent in Validate Realm
+200 - sub vassal: c_nenas - Made independent
+200 - sub vassal: c_kegasz - Setting independent in Validate Realm
+200 - sub vassal: c_kegasz - Made independent
+200 - Gained vassal: c_epocasz
+200 - vassal: c_epocasz - Given to neighbour holder of k_apocory
+200 - sub vassal: c_epocasz - Given to neighbour holder of k_apocory
+200 - vassal: c_epocasz - Holder 1001539 - Primary title: c_epocasz has lost the title: c_epocasz
+200 - sub vassal: c_epocasz - Holder 1001539 - Primary title: c_epocasz has lost the title: c_epocasz
+200 - vassal: c_epocasz - Title given to 1001539 - Primary title: k_apocory
+200 - sub vassal: c_epocasz - Title given to 1001539 - Primary title: k_apocory
+200 - Holder (1001539) has gained c_epocasz
+200 - sub vassal: c_winguaz - Given to 1002051 in HandleTitles - Too many duke titles
+200 - sub vassal: c_wosilip - Holder 1002051 - Primary title: c_wosilip has lost the title: c_winguaz
+200 - sub vassal: c_winguaz - Title given to 1002051
+200 - Holder 1002051 - Primary title: k_apocory has lost the title: d_ralada
+200 - vassal: d_ralada - Title given to 1002051 - Primary title: c_winguaz
+200 - sub vassal: d_ralada - Title given to 1002051 - Primary title: c_winguaz
+200 - sub vassal: c_winguaz - Holder (1002051) has gained d_ralada
+200 - vassal: d_ralada - Too many dukes, given to dejure: k_apocory
+200 - sub vassal: d_ralada - Too many dukes, given to dejure: k_apocory
+200 - sub vassal: c_dosomil - Given to 1002052 in HandleTitles - Too many duke titles
+200 - sub vassal: c_dosomil - Holder 1002052 - Primary title: c_dosomil has lost the title: c_dosomil
+200 - sub vassal: c_dosomil - Title given to 1002052
+200 - Holder 1002052 - Primary title: k_apocory has lost the title: d_bocada
+200 - vassal: d_bocada - Title given to 1002052 - Primary title: c_dosomil
+200 - sub vassal: d_bocada - Title given to 1002052 - Primary title: c_dosomil
+200 - sub vassal: c_dosomil - Holder (1002052) has gained d_bocada
+200 - sub vassal: c_kegilip - Setting to vassal of k_apocory in Validate Realm
+200 - vassal: d_bocada - Lost vassal: c_kegilip
+200 - sub vassal: d_bocada - Lost vassal: c_kegilip
+200 - Gained vassal: c_kegilip
+200 - vassal: d_bocada - Too many dukes, given to dejure: k_apocory
+200 - sub vassal: d_bocada - Too many dukes, given to dejure: k_apocory
+200 - Holder 1000184 - Primary title: k_apocory has lost the title: k_apocory
+200 - Title given to 1000184 - Primary title: d_donalk
+200 - vassal: d_donalk - Holder (1000184) has gained k_apocory
+200 - sub vassal: d_donalk - Holder (1000184) has gained k_apocory
+200 - vassal: c_epocasz - Setting to vassal of d_tacasz in Validate Realm
+200 - sub vassal: c_epocasz - Setting to vassal of d_tacasz in Validate Realm
+200 - Lost vassal: c_epocasz
+200 - vassal: c_kegilip - Setting to vassal of d_tacasz in Validate Realm
+200 - sub vassal: c_kegilip - Setting to vassal of d_tacasz in Validate Realm
+200 - Lost vassal: c_kegilip
+200 - vassal: d_tacasz - Gained vassal: c_kegilip
+200 - sub vassal: d_tacasz - Gained vassal: c_kegilip
+200 - vassal: d_tacasz - Gained vassal: c_epocasz
+200 - sub vassal: d_tacasz - Gained vassal: c_epocasz
+200 - vassal: d_tacasz - Holder 1000184 - Primary title: d_tacasz has lost the title: d_tacasz
+200 - sub vassal: d_tacasz - Holder 1000184 - Primary title: d_tacasz has lost the title: d_tacasz
+200 - vassal: d_tacasz - Title given to 1000184 - Primary title: k_apocory
+200 - sub vassal: d_tacasz - Title given to 1000184 - Primary title: k_apocory
+200 - Holder (1000184) has gained d_tacasz
+200 - sub vassal: c_epocasz - Setting to vassal of d_kenerni in Validate Realm
+200 - vassal: d_tacasz - Lost vassal: c_epocasz
+200 - sub vassal: d_tacasz - Lost vassal: c_epocasz
+200 - sub vassal: c_kegilip - Setting to vassal of d_kenerni in Validate Realm
+200 - vassal: d_tacasz - Lost vassal: c_kegilip
+200 - sub vassal: d_tacasz - Lost vassal: c_kegilip
+200 - vassal: d_kenerni - Gained vassal: c_kegilip
+200 - sub vassal: d_kenerni - Gained vassal: c_kegilip
+200 - vassal: d_kenerni - Gained vassal: c_epocasz
+200 - sub vassal: d_kenerni - Gained vassal: c_epocasz
+200 - vassal: d_kenerni - Holder 1000184 - Primary title: d_kenerni has lost the title: c_epocasz
+200 - sub vassal: d_kenerni - Holder 1000184 - Primary title: d_kenerni has lost the title: c_epocasz
+200 - sub vassal: c_epocasz - Title given to 1000184 - Primary title: k_apocory
+200 - Holder (1000184) has gained c_epocasz
+200 - sub vassal: c_epocasz - Setting to vassal of k_apocory in Validate Realm
+200 - vassal: d_kenerni - Lost vassal: c_epocasz
+200 - sub vassal: d_kenerni - Lost vassal: c_epocasz
+200 - Gained vassal: c_epocasz
+200 - vassal: d_kenerni - Holder 1000184 - Primary title: d_kenerni has lost the title: c_kegilip
+200 - sub vassal: d_kenerni - Holder 1000184 - Primary title: d_kenerni has lost the title: c_kegilip
+200 - sub vassal: c_kegilip - Title given to 1000184 - Primary title: k_apocory
+200 - Holder (1000184) has gained c_kegilip
+200 - sub vassal: c_kegilip - Setting to vassal of k_apocory in Validate Realm
+200 - vassal: d_kenerni - Lost vassal: c_kegilip
+200 - sub vassal: d_kenerni - Lost vassal: c_kegilip
+200 - Gained vassal: c_kegilip
+200 - vassal: d_kenerni - Holder 1000184 - Primary title: d_kenerni has lost the title: d_kenerni
+200 - sub vassal: d_kenerni - Holder 1000184 - Primary title: d_kenerni has lost the title: d_kenerni
+200 - vassal: d_kenerni - Title given to 1000184 - Primary title: k_apocory
+200 - sub vassal: d_kenerni - Title given to 1000184 - Primary title: k_apocory
+200 - Holder (1000184) has gained d_kenerni
+201 - Gained vassal: c_nenas
+201 - sub vassal: c_tanasz - Given to 1002258 in HandleTitles - Too many duke titles
+201 - Holder 1002258 - Primary title: k_apocory has lost the title: c_tanasz
+201 - sub vassal: c_tanasz - Title given to 1002258
+201 - Holder 1002258 - Primary title: k_apocory has lost the title: d_donalk
+201 - vassal: d_donalk - Title given to 1002258 - Primary title: c_tanasz
+201 - sub vassal: d_donalk - Title given to 1002258 - Primary title: c_tanasz
+201 - sub vassal: c_tanasz - Holder (1002258) has gained d_donalk
+201 - sub vassal: c_losilip - Setting to vassal of k_apocory in Validate Realm
+201 - vassal: d_donalk - Lost vassal: c_losilip
+201 - sub vassal: d_donalk - Lost vassal: c_losilip
+201 - sub vassal: c_talomil - Setting to vassal of k_apocory in Validate Realm
+201 - vassal: d_donalk - Lost vassal: c_talomil
+201 - sub vassal: d_donalk - Lost vassal: c_talomil
+201 - Gained vassal: c_talomil
+201 - Gained vassal: c_losilip
+201 - vassal: d_donalk - Too many dukes, given to dejure: k_apocory
+201 - sub vassal: d_donalk - Too many dukes, given to dejure: k_apocory
+210 - vassal: d_agonuaz - Holder 1003167 - Primary title: d_agonuaz has lost the title: d_agonuaz
+210 - sub vassal: d_agonuaz - Holder 1003167 - Primary title: d_agonuaz has lost the title: d_agonuaz
+210 - vassal: d_agonuaz - Title given to 1003167
+210 - sub vassal: d_agonuaz - Title given to 1003167
+210 - sub vassal: c_talory - Holder 1003167 - Primary title: c_talory has lost the title: c_talory
+210 - sub vassal: c_talory - Title given to 1003167 - Primary title: d_agonuaz
+210 - vassal: d_agonuaz - Holder (1003167) has gained c_talory
+210 - sub vassal: d_agonuaz - Holder (1003167) has gained c_talory
+210 - sub vassal: c_qosalk - Holder 1003167 - Primary title: c_qosalk has lost the title: c_qosalk
+210 - sub vassal: c_qosalk - Title given to 1003167 - Primary title: d_agonuaz
+210 - vassal: d_agonuaz - Holder (1003167) has gained c_qosalk
+210 - sub vassal: d_agonuaz - Holder (1003167) has gained c_qosalk
+214 - vassal: d_agonuaz - Holder 1000173 - Primary title: d_agonuaz has lost the title: d_agonuaz
+214 - sub vassal: d_agonuaz - Holder 1000173 - Primary title: d_agonuaz has lost the title: d_agonuaz
+214 - vassal: d_agonuaz - Title given to 1000173 - Primary title: d_kegalk
+214 - sub vassal: d_agonuaz - Title given to 1000173 - Primary title: d_kegalk
+214 - vassal: d_kegalk - Holder (1000173) has gained d_agonuaz
+214 - sub vassal: d_kegalk - Holder (1000173) has gained d_agonuaz
+214 - sub vassal: c_talory - Holder 1000173 - Primary title: c_talory has lost the title: c_talory
+214 - sub vassal: c_talory - Title given to 1000173 - Primary title: d_kegalk
+214 - vassal: d_kegalk - Holder (1000173) has gained c_talory
+214 - sub vassal: d_kegalk - Holder (1000173) has gained c_talory
+214 - sub vassal: c_qosalk - Holder 1000173 - Primary title: c_qosalk has lost the title: c_qosalk
+214 - sub vassal: c_qosalk - Title given to 1000173 - Primary title: d_kegalk
+214 - vassal: d_kegalk - Holder (1000173) has gained c_qosalk
+214 - sub vassal: d_kegalk - Holder (1000173) has gained c_qosalk
+215 - vassal: d_donalk - Holder 1002335 - Primary title: d_donalk has lost the title: d_donalk
+215 - sub vassal: d_donalk - Holder 1002335 - Primary title: d_donalk has lost the title: d_donalk
+215 - vassal: d_donalk - Title given to 1002335
+215 - sub vassal: d_donalk - Title given to 1002335
+215 - sub vassal: c_tanasz - Holder 1002335 - Primary title: c_tanasz has lost the title: c_tanasz
+215 - sub vassal: c_tanasz - Title given to 1002335 - Primary title: d_donalk
+215 - vassal: d_donalk - Holder (1002335) has gained c_tanasz
+215 - sub vassal: d_donalk - Holder (1002335) has gained c_tanasz
+219 - vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: d_kegalk
+219 - sub vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: d_kegalk
+219 - vassal: d_kegalk - Title given to 1003340
+219 - sub vassal: d_kegalk - Title given to 1003340
+219 - sub vassal: c_lacalk - Setting to vassal of d_agonuaz in Validate Realm
+219 - vassal: d_kegalk - Lost vassal: c_lacalk
+219 - sub vassal: d_kegalk - Lost vassal: c_lacalk
+219 - sub vassal: c_rocalk - Setting to vassal of d_agonuaz in Validate Realm
+219 - vassal: d_kegalk - Lost vassal: c_rocalk
+219 - sub vassal: d_kegalk - Lost vassal: c_rocalk
+219 - sub vassal: c_rosyayka - Setting to vassal of d_agonuaz in Validate Realm
+219 - vassal: d_kegalk - Lost vassal: c_rosyayka
+219 - sub vassal: d_kegalk - Lost vassal: c_rosyayka
+219 - vassal: d_agonuaz - Gained vassal: c_rosyayka
+219 - sub vassal: d_agonuaz - Gained vassal: c_rosyayka
+219 - vassal: d_agonuaz - Gained vassal: c_rocalk
+219 - sub vassal: d_agonuaz - Gained vassal: c_rocalk
+219 - vassal: d_agonuaz - Gained vassal: c_lacalk
+219 - sub vassal: d_agonuaz - Gained vassal: c_lacalk
+219 - vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: c_lacalk
+219 - sub vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: c_lacalk
+219 - sub vassal: c_lacalk - Title given to 1003340 - Primary title: d_kegalk
+219 - vassal: d_kegalk - Holder (1003340) has gained c_lacalk
+219 - sub vassal: d_kegalk - Holder (1003340) has gained c_lacalk
+219 - sub vassal: c_lacalk - Setting to vassal of d_kegalk in Validate Realm
+219 - vassal: d_agonuaz - Lost vassal: c_lacalk
+219 - sub vassal: d_agonuaz - Lost vassal: c_lacalk
+219 - vassal: d_kegalk - Gained vassal: c_lacalk
+219 - sub vassal: d_kegalk - Gained vassal: c_lacalk
+219 - vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: c_rocalk
+219 - sub vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: c_rocalk
+219 - sub vassal: c_rocalk - Title given to 1003340 - Primary title: d_kegalk
+219 - vassal: d_kegalk - Holder (1003340) has gained c_rocalk
+219 - sub vassal: d_kegalk - Holder (1003340) has gained c_rocalk
+219 - sub vassal: c_rocalk - Setting to vassal of d_kegalk in Validate Realm
+219 - vassal: d_agonuaz - Lost vassal: c_rocalk
+219 - sub vassal: d_agonuaz - Lost vassal: c_rocalk
+219 - vassal: d_kegalk - Gained vassal: c_rocalk
+219 - sub vassal: d_kegalk - Gained vassal: c_rocalk
+219 - vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: c_rosyayka
+219 - sub vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: c_rosyayka
+219 - sub vassal: c_rosyayka - Title given to 1003340 - Primary title: d_kegalk
+219 - vassal: d_kegalk - Holder (1003340) has gained c_rosyayka
+219 - sub vassal: d_kegalk - Holder (1003340) has gained c_rosyayka
+219 - sub vassal: c_rosyayka - Setting to vassal of d_kegalk in Validate Realm
+219 - vassal: d_agonuaz - Lost vassal: c_rosyayka
+219 - sub vassal: d_agonuaz - Lost vassal: c_rosyayka
+219 - vassal: d_kegalk - Gained vassal: c_rosyayka
+219 - sub vassal: d_kegalk - Gained vassal: c_rosyayka
+219 - vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: d_agonuaz
+219 - sub vassal: d_agonuaz - Holder 1003340 - Primary title: d_agonuaz has lost the title: d_agonuaz
+219 - vassal: d_agonuaz - Title given to 1003340 - Primary title: d_kegalk
+219 - sub vassal: d_agonuaz - Title given to 1003340 - Primary title: d_kegalk
+219 - vassal: d_kegalk - Holder (1003340) has gained d_agonuaz
+219 - sub vassal: d_kegalk - Holder (1003340) has gained d_agonuaz
+219 - sub vassal: c_talory - Holder 1003340 - Primary title: c_talory has lost the title: c_talory
+219 - sub vassal: c_talory - Title given to 1003340 - Primary title: d_kegalk
+219 - vassal: d_kegalk - Holder (1003340) has gained c_talory
+219 - sub vassal: d_kegalk - Holder (1003340) has gained c_talory
+219 - sub vassal: c_qosalk - Holder 1003340 - Primary title: c_qosalk has lost the title: c_qosalk
+219 - sub vassal: c_qosalk - Title given to 1003340 - Primary title: d_kegalk
+219 - vassal: d_kegalk - Holder (1003340) has gained c_qosalk
+219 - sub vassal: d_kegalk - Holder (1003340) has gained c_qosalk
+224 - vassal: d_qanalk - Holder 1001733 - Primary title: d_qanalk has lost the title: d_qanalk
+224 - sub vassal: d_qanalk - Holder 1001733 - Primary title: d_qanalk has lost the title: d_qanalk
+224 - vassal: d_qanalk - Title given to 1001733
+224 - sub vassal: d_qanalk - Title given to 1001733
+224 - sub vassal: c_tosalk - Holder 1001733 - Primary title: c_tosalk has lost the title: c_tosalk
+224 - sub vassal: c_tosalk - Title given to 1001733 - Primary title: d_qanalk
+224 - vassal: d_qanalk - Holder (1001733) has gained c_tosalk
+224 - sub vassal: d_qanalk - Holder (1001733) has gained c_tosalk
+224 - sub vassal: c_kacasz - Holder 1001733 - Primary title: c_kacasz has lost the title: c_kacasz
+224 - sub vassal: c_kacasz - Title given to 1001733 - Primary title: d_qanalk
+224 - vassal: d_qanalk - Holder (1001733) has gained c_kacasz
+224 - sub vassal: d_qanalk - Holder (1001733) has gained c_kacasz
+224 - sub vassal: c_rocasz - Holder 1001733 - Primary title: c_rocasz has lost the title: c_rocasz
+224 - sub vassal: c_rocasz - Title given to 1001733 - Primary title: d_qanalk
+224 - vassal: d_qanalk - Holder (1001733) has gained c_rocasz
+224 - sub vassal: d_qanalk - Holder (1001733) has gained c_rocasz
+235 - vassal: d_kegoj - Holder 1001735 - Primary title: d_kegoj has lost the title: d_kegoj
+235 - sub vassal: d_kegoj - Holder 1001735 - Primary title: d_kegoj has lost the title: d_kegoj
+235 - vassal: d_kegoj - Title given to 1001735
+235 - sub vassal: d_kegoj - Title given to 1001735
+235 - sub vassal: c_nonomil - Holder 1001735 - Primary title: c_nonomil has lost the title: c_nonomil
+235 - sub vassal: c_nonomil - Title given to 1001735 - Primary title: d_kegoj
+235 - vassal: d_kegoj - Holder (1001735) has gained c_nonomil
+235 - sub vassal: d_kegoj - Holder (1001735) has gained c_nonomil
+235 - sub vassal: c_etegada - Holder 1001735 - Primary title: c_etegada has lost the title: c_etegada
+235 - sub vassal: c_etegada - Title given to 1001735 - Primary title: d_kegoj
+235 - vassal: d_kegoj - Holder (1001735) has gained c_etegada
+235 - sub vassal: d_kegoj - Holder (1001735) has gained c_etegada
+235 - sub vassal: c_ecaloj - Holder 1001735 - Primary title: c_ecaloj has lost the title: c_ecaloj
+235 - sub vassal: c_ecaloj - Title given to 1001735 - Primary title: d_kegoj
+235 - vassal: d_kegoj - Holder (1001735) has gained c_ecaloj
+235 - sub vassal: d_kegoj - Holder (1001735) has gained c_ecaloj
+235 - vassal: d_ralada - Holder 1002606 - Primary title: d_ralada has lost the title: d_ralada
+235 - sub vassal: d_ralada - Holder 1002606 - Primary title: d_ralada has lost the title: d_ralada
+235 - vassal: d_ralada - Title given to 1002606
+235 - sub vassal: d_ralada - Title given to 1002606
+235 - sub vassal: c_winguaz - Holder 1002606 - Primary title: c_winguaz has lost the title: c_winguaz
+235 - sub vassal: c_winguaz - Title given to 1002606 - Primary title: d_ralada
+235 - vassal: d_ralada - Holder (1002606) has gained c_winguaz
+235 - sub vassal: d_ralada - Holder (1002606) has gained c_winguaz
+238 - vassal: d_kegoj - Holder 1001733 - Primary title: d_kegoj has lost the title: d_kegoj
+238 - sub vassal: d_kegoj - Holder 1001733 - Primary title: d_kegoj has lost the title: d_kegoj
+238 - vassal: d_kegoj - Title given to 1001733 - Primary title: d_qanalk
+238 - sub vassal: d_kegoj - Title given to 1001733 - Primary title: d_qanalk
+238 - vassal: d_qanalk - Holder (1001733) has gained d_kegoj
+238 - sub vassal: d_qanalk - Holder (1001733) has gained d_kegoj
+238 - sub vassal: c_nonomil - Holder 1001733 - Primary title: c_nonomil has lost the title: c_nonomil
+238 - sub vassal: c_nonomil - Title given to 1001733 - Primary title: d_qanalk
+238 - vassal: d_qanalk - Holder (1001733) has gained c_nonomil
+238 - sub vassal: d_qanalk - Holder (1001733) has gained c_nonomil
+238 - sub vassal: c_etegada - Holder 1001733 - Primary title: c_etegada has lost the title: c_etegada
+238 - sub vassal: c_etegada - Title given to 1001733 - Primary title: d_qanalk
+238 - vassal: d_qanalk - Holder (1001733) has gained c_etegada
+238 - sub vassal: d_qanalk - Holder (1001733) has gained c_etegada
+238 - sub vassal: c_ecaloj - Holder 1001733 - Primary title: c_ecaloj has lost the title: c_ecaloj
+238 - sub vassal: c_ecaloj - Title given to 1001733 - Primary title: d_qanalk
+238 - vassal: d_qanalk - Holder (1001733) has gained c_ecaloj
+238 - sub vassal: d_qanalk - Holder (1001733) has gained c_ecaloj
+239 - vassal: d_kegoj - Holder 1005615 - Primary title: d_kegoj has lost the title: c_rocasz
+239 - sub vassal: d_kegoj - Holder 1005615 - Primary title: d_kegoj has lost the title: c_rocasz
+239 - sub vassal: c_rocasz - Title given to 1005615
+239 - vassal: d_kegalk - Holder 1000184 - Primary title: d_kegalk has lost the title: d_kegalk
+239 - sub vassal: d_kegalk - Holder 1000184 - Primary title: d_kegalk has lost the title: d_kegalk
+239 - vassal: d_kegalk - Title given to 1000184 - Primary title: k_apocory
+239 - sub vassal: d_kegalk - Title given to 1000184 - Primary title: k_apocory
+239 - Holder (1000184) has gained d_kegalk
+239 - sub vassal: c_lacalk - Setting to vassal of d_agonuaz in Validate Realm
+239 - vassal: d_kegalk - Lost vassal: c_lacalk
+239 - sub vassal: d_kegalk - Lost vassal: c_lacalk
+239 - sub vassal: c_rocalk - Setting to vassal of d_agonuaz in Validate Realm
+239 - vassal: d_kegalk - Lost vassal: c_rocalk
+239 - sub vassal: d_kegalk - Lost vassal: c_rocalk
+239 - sub vassal: c_rosyayka - Setting to vassal of d_agonuaz in Validate Realm
+239 - vassal: d_kegalk - Lost vassal: c_rosyayka
+239 - sub vassal: d_kegalk - Lost vassal: c_rosyayka
+239 - vassal: d_agonuaz - Gained vassal: c_rosyayka
+239 - sub vassal: d_agonuaz - Gained vassal: c_rosyayka
+239 - vassal: d_agonuaz - Gained vassal: c_rocalk
+239 - sub vassal: d_agonuaz - Gained vassal: c_rocalk
+239 - vassal: d_agonuaz - Gained vassal: c_lacalk
+239 - sub vassal: d_agonuaz - Gained vassal: c_lacalk
+239 - vassal: d_agonuaz - Holder 1000184 - Primary title: d_agonuaz has lost the title: d_agonuaz
+239 - sub vassal: d_agonuaz - Holder 1000184 - Primary title: d_agonuaz has lost the title: d_agonuaz
+239 - vassal: d_agonuaz - Title given to 1000184 - Primary title: k_apocory
+239 - sub vassal: d_agonuaz - Title given to 1000184 - Primary title: k_apocory
+239 - Holder (1000184) has gained d_agonuaz
+239 - sub vassal: c_lacalk - Holder 1000184 - Primary title: c_lacalk has lost the title: c_lacalk
+239 - sub vassal: c_lacalk - Title given to 1000184 - Primary title: k_apocory
+239 - Holder (1000184) has gained c_lacalk
+239 - sub vassal: c_rocalk - Holder 1000184 - Primary title: c_rocalk has lost the title: c_rocalk
+239 - sub vassal: c_rocalk - Title given to 1000184 - Primary title: k_apocory
+239 - Holder (1000184) has gained c_rocalk
+239 - sub vassal: c_rosyayka - Holder 1000184 - Primary title: c_rosyayka has lost the title: c_rosyayka
+239 - sub vassal: c_rosyayka - Title given to 1000184 - Primary title: k_apocory
+239 - Holder (1000184) has gained c_rosyayka
+239 - sub vassal: c_talory - Holder 1000184 - Primary title: c_talory has lost the title: c_talory
+239 - sub vassal: c_talory - Title given to 1000184 - Primary title: k_apocory
+239 - Holder (1000184) has gained c_talory
+239 - sub vassal: c_qosalk - Holder 1000184 - Primary title: c_qosalk has lost the title: c_qosalk
+239 - sub vassal: c_qosalk - Title given to 1000184 - Primary title: k_apocory
+239 - Holder (1000184) has gained c_qosalk
+239 - vassal: d_kenerni - Destroyed due to flagged problem
+239 - sub vassal: d_kenerni - Destroyed due to flagged problem
+239 - vassal: d_kenerni - Made independent
+239 - sub vassal: d_kenerni - Made independent
+239 - Gained vassal: c_balme
+239 - sub vassal: c_talory - Given to 1005650 in HandleTitles - Too many duke titles
+239 - Holder 1005650 - Primary title: k_apocory has lost the title: c_talory
+239 - sub vassal: c_talory - Title given to 1005650
+239 - Holder 1005650 - Primary title: k_apocory has lost the title: d_agonuaz
+239 - vassal: d_agonuaz - Title given to 1005650 - Primary title: c_talory
+239 - sub vassal: d_agonuaz - Title given to 1005650 - Primary title: c_talory
+239 - sub vassal: c_talory - Holder (1005650) has gained d_agonuaz
+239 - sub vassal: c_lacalk - Setting to vassal of k_apocory in Validate Realm
+239 - vassal: d_agonuaz - Lost vassal: c_lacalk
+239 - sub vassal: d_agonuaz - Lost vassal: c_lacalk
+239 - sub vassal: c_rocalk - Setting to vassal of k_apocory in Validate Realm
+239 - vassal: d_agonuaz - Lost vassal: c_rocalk
+239 - sub vassal: d_agonuaz - Lost vassal: c_rocalk
+239 - sub vassal: c_rosyayka - Setting to vassal of k_apocory in Validate Realm
+239 - vassal: d_agonuaz - Lost vassal: c_rosyayka
+239 - sub vassal: d_agonuaz - Lost vassal: c_rosyayka
+239 - sub vassal: c_qosalk - Setting to vassal of k_apocory in Validate Realm
+239 - vassal: d_agonuaz - Lost vassal: c_qosalk
+239 - sub vassal: d_agonuaz - Lost vassal: c_qosalk
+239 - Gained vassal: c_qosalk
+239 - Gained vassal: c_rosyayka
+239 - Gained vassal: c_rocalk
+239 - Gained vassal: c_lacalk
+239 - vassal: d_agonuaz - Too many dukes, given to dejure: k_apocory
+239 - sub vassal: d_agonuaz - Too many dukes, given to dejure: k_apocory
+239 - Holder 1005651 - Primary title: k_apocory has lost the title: c_qosalk
+239 - vassal: c_qosalk - Title given to 1005651
+239 - sub vassal: c_qosalk - Title given to 1005651
+239 - Holder 1005652 - Primary title: k_apocory has lost the title: c_lacalk
+239 - vassal: c_lacalk - Title given to 1005652
+239 - sub vassal: c_lacalk - Title given to 1005652
+239 - Holder 1005653 - Primary title: k_apocory has lost the title: c_losilip
+239 - vassal: c_losilip - Title given to 1005653
+239 - sub vassal: c_losilip - Title given to 1005653
+239 - vassal: c_balme - Made independent due to being a seperate island
+239 - sub vassal: c_balme - Made independent due to being a seperate island
+239 - vassal: c_balme - Made independent
+239 - sub vassal: c_balme - Made independent
+240 - vassal: d_kegalk - Destroyed due to flagged problem
+240 - sub vassal: d_kegalk - Destroyed due to flagged problem
+240 - vassal: d_kegalk - Made independent
+240 - sub vassal: d_kegalk - Made independent
+245 - Holder 1003211 - Primary title: k_apocory has lost the title: k_apocory
+245 - Title given to 1003211
+245 - vassal: d_tacasz - Holder 1003211 - Primary title: d_tacasz has lost the title: d_tacasz
+245 - sub vassal: d_tacasz - Holder 1003211 - Primary title: d_tacasz has lost the title: d_tacasz
+245 - vassal: d_tacasz - Title given to 1003211 - Primary title: k_apocory
+245 - sub vassal: d_tacasz - Title given to 1003211 - Primary title: k_apocory
+245 - Holder (1003211) has gained d_tacasz
+245 - vassal: c_rosyayka - Holder 1003211 - Primary title: c_rosyayka has lost the title: c_rosyayka
+245 - sub vassal: c_rosyayka - Holder 1003211 - Primary title: c_rosyayka has lost the title: c_rosyayka
+245 - vassal: c_rosyayka - Title given to 1003211 - Primary title: k_apocory
+245 - sub vassal: c_rosyayka - Title given to 1003211 - Primary title: k_apocory
+245 - Holder (1003211) has gained c_rosyayka
+245 - vassal: c_rocalk - Holder 1003211 - Primary title: c_rocalk has lost the title: c_rocalk
+245 - sub vassal: c_rocalk - Holder 1003211 - Primary title: c_rocalk has lost the title: c_rocalk
+245 - vassal: c_rocalk - Title given to 1003211 - Primary title: k_apocory
+245 - sub vassal: c_rocalk - Title given to 1003211 - Primary title: k_apocory
+245 - Holder (1003211) has gained c_rocalk
+245 - vassal: c_talomil - Holder 1003211 - Primary title: c_talomil has lost the title: c_talomil
+245 - sub vassal: c_talomil - Holder 1003211 - Primary title: c_talomil has lost the title: c_talomil
+245 - vassal: c_talomil - Title given to 1003211 - Primary title: k_apocory
+245 - sub vassal: c_talomil - Title given to 1003211 - Primary title: k_apocory
+245 - Holder (1003211) has gained c_talomil
+245 - vassal: c_epocasz - Holder 1003211 - Primary title: c_epocasz has lost the title: c_epocasz
+245 - sub vassal: c_epocasz - Holder 1003211 - Primary title: c_epocasz has lost the title: c_epocasz
+245 - vassal: c_epocasz - Title given to 1003211 - Primary title: k_apocory
+245 - sub vassal: c_epocasz - Title given to 1003211 - Primary title: k_apocory
+245 - Holder (1003211) has gained c_epocasz
+245 - vassal: c_kegilip - Holder 1003211 - Primary title: c_kegilip has lost the title: c_kegilip
+245 - sub vassal: c_kegilip - Holder 1003211 - Primary title: c_kegilip has lost the title: c_kegilip
+245 - vassal: c_kegilip - Title given to 1003211 - Primary title: k_apocory
+245 - sub vassal: c_kegilip - Title given to 1003211 - Primary title: k_apocory
+245 - Holder (1003211) has gained c_kegilip
+249 - vassal: d_bocada - Holder 1002470 - Primary title: d_bocada has lost the title: d_bocada
+249 - sub vassal: d_bocada - Holder 1002470 - Primary title: d_bocada has lost the title: d_bocada
+249 - vassal: d_bocada - Title given to 1002470
+249 - sub vassal: d_bocada - Title given to 1002470
+249 - sub vassal: c_dosomil - Holder 1002470 - Primary title: c_dosomil has lost the title: c_dosomil
+249 - sub vassal: c_dosomil - Title given to 1002470 - Primary title: d_bocada
+249 - vassal: d_bocada - Holder (1002470) has gained c_dosomil
+249 - sub vassal: d_bocada - Holder (1002470) has gained c_dosomil
+251 - vassal: d_bocada - Holder 1001733 - Primary title: d_bocada has lost the title: d_bocada
+251 - sub vassal: d_bocada - Holder 1001733 - Primary title: d_bocada has lost the title: d_bocada
+251 - vassal: d_bocada - Title given to 1001733 - Primary title: d_kegoj
+251 - sub vassal: d_bocada - Title given to 1001733 - Primary title: d_kegoj
+251 - vassal: d_kegoj - Holder (1001733) has gained d_bocada
+251 - sub vassal: d_kegoj - Holder (1001733) has gained d_bocada
+251 - sub vassal: c_dosomil - Holder 1001733 - Primary title: c_dosomil has lost the title: c_dosomil
+251 - sub vassal: c_dosomil - Title given to 1001733 - Primary title: d_kegoj
+251 - vassal: d_kegoj - Holder (1001733) has gained c_dosomil
+251 - sub vassal: d_kegoj - Holder (1001733) has gained c_dosomil
+252 - sub vassal: c_nonomil - Given to 1006714 in HandleTitles - Too many duke titles
+252 - vassal: d_bocada - Holder 1006714 - Primary title: d_bocada has lost the title: c_nonomil
+252 - sub vassal: d_bocada - Holder 1006714 - Primary title: d_bocada has lost the title: c_nonomil
+252 - sub vassal: c_nonomil - Title given to 1006714
+252 - vassal: d_bocada - Holder 1003211 - Primary title: d_bocada has lost the title: d_kegoj
+252 - sub vassal: d_bocada - Holder 1003211 - Primary title: d_bocada has lost the title: d_kegoj
+252 - vassal: d_kegoj - Title given to 1003211 - Primary title: k_apocory
+252 - sub vassal: d_kegoj - Title given to 1003211 - Primary title: k_apocory
+252 - Holder (1003211) has gained d_kegoj
+252 - sub vassal: c_ecaloj - Setting to vassal of d_bocada in Validate Realm
+252 - vassal: d_kegoj - Lost vassal: c_ecaloj
+252 - sub vassal: d_kegoj - Lost vassal: c_ecaloj
+252 - sub vassal: c_etegada - Setting to vassal of d_bocada in Validate Realm
+252 - vassal: d_kegoj - Lost vassal: c_etegada
+252 - sub vassal: d_kegoj - Lost vassal: c_etegada
+252 - vassal: d_bocada - Gained vassal: c_etegada
+252 - sub vassal: d_bocada - Gained vassal: c_etegada
+252 - vassal: d_bocada - Gained vassal: c_ecaloj
+252 - sub vassal: d_bocada - Gained vassal: c_ecaloj
+252 - vassal: d_kegoj - Too many dukes, made direct title into vassal of k_apocory
+252 - sub vassal: d_kegoj - Too many dukes, made direct title into vassal of k_apocory
+252 - Holder 1006716 - Primary title: k_apocory has lost the title: d_kegoj
+252 - vassal: d_kegoj - Title given to 1006716
+252 - sub vassal: d_kegoj - Title given to 1006716
+253 - vassal: d_donalk - Holder 1003939 - Primary title: d_donalk has lost the title: d_donalk
+253 - sub vassal: d_donalk - Holder 1003939 - Primary title: d_donalk has lost the title: d_donalk
+253 - vassal: d_donalk - Title given to 1003939
+253 - sub vassal: d_donalk - Title given to 1003939
+253 - sub vassal: c_tanasz - Holder 1003939 - Primary title: c_tanasz has lost the title: c_tanasz
+253 - sub vassal: c_tanasz - Title given to 1003939 - Primary title: d_donalk
+253 - vassal: d_donalk - Holder (1003939) has gained c_tanasz
+253 - sub vassal: d_donalk - Holder (1003939) has gained c_tanasz
+254 - vassal: d_ralada - Holder 1005345 - Primary title: d_ralada has lost the title: d_ralada
+254 - sub vassal: d_ralada - Holder 1005345 - Primary title: d_ralada has lost the title: d_ralada
+254 - vassal: d_ralada - Title given to 1005345
+254 - sub vassal: d_ralada - Title given to 1005345
+254 - sub vassal: c_winguaz - Holder 1005345 - Primary title: c_winguaz has lost the title: c_winguaz
+254 - sub vassal: c_winguaz - Title given to 1005345 - Primary title: d_ralada
+254 - vassal: d_ralada - Holder (1005345) has gained c_winguaz
+254 - sub vassal: d_ralada - Holder (1005345) has gained c_winguaz
+260 - Holder 1006233 - Primary title: k_apocory has lost the title: k_apocory
+260 - Title given to 1006233
+260 - vassal: d_tacasz - Holder 1006233 - Primary title: d_tacasz has lost the title: d_tacasz
+260 - sub vassal: d_tacasz - Holder 1006233 - Primary title: d_tacasz has lost the title: d_tacasz
+260 - vassal: d_tacasz - Title given to 1006233 - Primary title: k_apocory
+260 - sub vassal: d_tacasz - Title given to 1006233 - Primary title: k_apocory
+260 - Holder (1006233) has gained d_tacasz
+260 - vassal: c_kegilip - Holder 1006233 - Primary title: c_kegilip has lost the title: c_kegilip
+260 - sub vassal: c_kegilip - Holder 1006233 - Primary title: c_kegilip has lost the title: c_kegilip
+260 - vassal: c_kegilip - Title given to 1006233 - Primary title: k_apocory
+260 - sub vassal: c_kegilip - Title given to 1006233 - Primary title: k_apocory
+260 - Holder (1006233) has gained c_kegilip
+260 - vassal: c_epocasz - Holder 1006233 - Primary title: c_epocasz has lost the title: c_epocasz
+260 - sub vassal: c_epocasz - Holder 1006233 - Primary title: c_epocasz has lost the title: c_epocasz
+260 - vassal: c_epocasz - Title given to 1006233 - Primary title: k_apocory
+260 - sub vassal: c_epocasz - Title given to 1006233 - Primary title: k_apocory
+260 - Holder (1006233) has gained c_epocasz
+260 - vassal: c_talomil - Holder 1006233 - Primary title: c_talomil has lost the title: c_talomil
+260 - sub vassal: c_talomil - Holder 1006233 - Primary title: c_talomil has lost the title: c_talomil
+260 - vassal: c_talomil - Title given to 1006233 - Primary title: k_apocory
+260 - sub vassal: c_talomil - Title given to 1006233 - Primary title: k_apocory
+260 - Holder (1006233) has gained c_talomil
+260 - vassal: c_rocalk - Holder 1006233 - Primary title: c_rocalk has lost the title: c_rocalk
+260 - sub vassal: c_rocalk - Holder 1006233 - Primary title: c_rocalk has lost the title: c_rocalk
+260 - vassal: c_rocalk - Title given to 1006233 - Primary title: k_apocory
+260 - sub vassal: c_rocalk - Title given to 1006233 - Primary title: k_apocory
+260 - Holder (1006233) has gained c_rocalk
+260 - vassal: c_rosyayka - Holder 1006233 - Primary title: c_rosyayka has lost the title: c_rosyayka
+260 - sub vassal: c_rosyayka - Holder 1006233 - Primary title: c_rosyayka has lost the title: c_rosyayka
+260 - vassal: c_rosyayka - Title given to 1006233 - Primary title: k_apocory
+260 - sub vassal: c_rosyayka - Title given to 1006233 - Primary title: k_apocory
+260 - Holder (1006233) has gained c_rosyayka
+261 - Holder 1006716 - Primary title: k_apocory has lost the title: k_apocory
+261 - Title given to 1006716 - Primary title: d_kegoj
+261 - vassal: d_kegoj - Holder (1006716) has gained k_apocory
+261 - sub vassal: d_kegoj - Holder (1006716) has gained k_apocory
+261 - vassal: c_kegilip - Setting to vassal of d_tacasz in Validate Realm
+261 - sub vassal: c_kegilip - Setting to vassal of d_tacasz in Validate Realm
+261 - Lost vassal: c_kegilip
+261 - vassal: c_epocasz - Setting to vassal of d_tacasz in Validate Realm
+261 - sub vassal: c_epocasz - Setting to vassal of d_tacasz in Validate Realm
+261 - Lost vassal: c_epocasz
+261 - vassal: c_talomil - Setting to vassal of d_tacasz in Validate Realm
+261 - sub vassal: c_talomil - Setting to vassal of d_tacasz in Validate Realm
+261 - Lost vassal: c_talomil
+261 - vassal: c_rocalk - Setting to vassal of d_tacasz in Validate Realm
+261 - sub vassal: c_rocalk - Setting to vassal of d_tacasz in Validate Realm
+261 - Lost vassal: c_rocalk
+261 - vassal: c_rosyayka - Setting to vassal of d_tacasz in Validate Realm
+261 - sub vassal: c_rosyayka - Setting to vassal of d_tacasz in Validate Realm
+261 - Lost vassal: c_rosyayka
+261 - vassal: d_tacasz - Gained vassal: c_rosyayka
+261 - sub vassal: d_tacasz - Gained vassal: c_rosyayka
+261 - vassal: d_tacasz - Gained vassal: c_rocalk
+261 - sub vassal: d_tacasz - Gained vassal: c_rocalk
+261 - vassal: d_tacasz - Gained vassal: c_talomil
+261 - sub vassal: d_tacasz - Gained vassal: c_talomil
+261 - vassal: d_tacasz - Gained vassal: c_epocasz
+261 - sub vassal: d_tacasz - Gained vassal: c_epocasz
+261 - vassal: d_tacasz - Gained vassal: c_kegilip
+261 - sub vassal: d_tacasz - Gained vassal: c_kegilip
+261 - vassal: d_tacasz - Holder 1006716 - Primary title: d_tacasz has lost the title: d_tacasz
+261 - sub vassal: d_tacasz - Holder 1006716 - Primary title: d_tacasz has lost the title: d_tacasz
+261 - vassal: d_tacasz - Title given to 1006716 - Primary title: k_apocory
+261 - sub vassal: d_tacasz - Title given to 1006716 - Primary title: k_apocory
+261 - Holder (1006716) has gained d_tacasz
+261 - sub vassal: c_kegilip - Holder 1006716 - Primary title: c_kegilip has lost the title: c_kegilip
+261 - sub vassal: c_kegilip - Title given to 1006716 - Primary title: k_apocory
+261 - Holder (1006716) has gained c_kegilip
+261 - sub vassal: c_epocasz - Holder 1006716 - Primary title: c_epocasz has lost the title: c_epocasz
+261 - sub vassal: c_epocasz - Title given to 1006716 - Primary title: k_apocory
+261 - Holder (1006716) has gained c_epocasz
+261 - sub vassal: c_talomil - Holder 1006716 - Primary title: c_talomil has lost the title: c_talomil
+261 - sub vassal: c_talomil - Title given to 1006716 - Primary title: k_apocory
+261 - Holder (1006716) has gained c_talomil
+261 - sub vassal: c_rocalk - Holder 1006716 - Primary title: c_rocalk has lost the title: c_rocalk
+261 - sub vassal: c_rocalk - Title given to 1006716 - Primary title: k_apocory
+261 - Holder (1006716) has gained c_rocalk
+261 - sub vassal: c_rosyayka - Holder 1006716 - Primary title: c_rosyayka has lost the title: c_rosyayka
+261 - sub vassal: c_rosyayka - Title given to 1006716 - Primary title: k_apocory
+261 - Holder (1006716) has gained c_rosyayka
+265 - Holder 1007307 - Primary title: k_apocory has lost the title: k_apocory
+265 - Title given to 1007307
+265 - vassal: d_kegoj - Holder 1007307 - Primary title: d_kegoj has lost the title: d_kegoj
+265 - sub vassal: d_kegoj - Holder 1007307 - Primary title: d_kegoj has lost the title: d_kegoj
+265 - vassal: d_kegoj - Title given to 1007307 - Primary title: k_apocory
+265 - sub vassal: d_kegoj - Title given to 1007307 - Primary title: k_apocory
+265 - Holder (1007307) has gained d_kegoj
+265 - vassal: d_tacasz - Holder 1007307 - Primary title: d_tacasz has lost the title: d_tacasz
+265 - sub vassal: d_tacasz - Holder 1007307 - Primary title: d_tacasz has lost the title: d_tacasz
+265 - vassal: d_tacasz - Title given to 1007307 - Primary title: k_apocory
+265 - sub vassal: d_tacasz - Title given to 1007307 - Primary title: k_apocory
+265 - Holder (1007307) has gained d_tacasz
+265 - sub vassal: c_kegilip - Holder 1007307 - Primary title: c_kegilip has lost the title: c_kegilip
+265 - sub vassal: c_kegilip - Title given to 1007307 - Primary title: k_apocory
+265 - Holder (1007307) has gained c_kegilip
+265 - sub vassal: c_epocasz - Holder 1007307 - Primary title: c_epocasz has lost the title: c_epocasz
+265 - sub vassal: c_epocasz - Title given to 1007307 - Primary title: k_apocory
+265 - Holder (1007307) has gained c_epocasz
+265 - sub vassal: c_talomil - Holder 1007307 - Primary title: c_talomil has lost the title: c_talomil
+265 - sub vassal: c_talomil - Title given to 1007307 - Primary title: k_apocory
+265 - Holder (1007307) has gained c_talomil
+265 - sub vassal: c_rocalk - Holder 1007307 - Primary title: c_rocalk has lost the title: c_rocalk
+265 - sub vassal: c_rocalk - Title given to 1007307 - Primary title: k_apocory
+265 - Holder (1007307) has gained c_rocalk
+265 - sub vassal: c_rosyayka - Holder 1007307 - Primary title: c_rosyayka has lost the title: c_rosyayka
+265 - sub vassal: c_rosyayka - Title given to 1007307 - Primary title: k_apocory
+265 - Holder (1007307) has gained c_rosyayka
+268 - vassal: d_donalk - Holder 1007122 - Primary title: d_donalk has lost the title: d_donalk
+268 - sub vassal: d_donalk - Holder 1007122 - Primary title: d_donalk has lost the title: d_donalk
+268 - vassal: d_donalk - Title given to 1007122
+268 - sub vassal: d_donalk - Title given to 1007122
+268 - sub vassal: c_tanasz - Holder 1007122 - Primary title: c_tanasz has lost the title: c_tanasz
+268 - sub vassal: c_tanasz - Title given to 1007122 - Primary title: d_donalk
+268 - vassal: d_donalk - Holder (1007122) has gained c_tanasz
+268 - sub vassal: d_donalk - Holder (1007122) has gained c_tanasz
+270 - vassal: d_agonuaz - Holder 1007217 - Primary title: d_agonuaz has lost the title: d_agonuaz
+270 - sub vassal: d_agonuaz - Holder 1007217 - Primary title: d_agonuaz has lost the title: d_agonuaz
+270 - vassal: d_agonuaz - Title given to 1007217
+270 - sub vassal: d_agonuaz - Title given to 1007217
+270 - sub vassal: c_talory - Holder 1007217 - Primary title: c_talory has lost the title: c_talory
+270 - sub vassal: c_talory - Title given to 1007217 - Primary title: d_agonuaz
+270 - vassal: d_agonuaz - Holder (1007217) has gained c_talory
+270 - sub vassal: d_agonuaz - Holder (1007217) has gained c_talory
+270 - vassal: d_donalk - Holder 1007217 - Primary title: d_donalk has lost the title: d_donalk
+270 - sub vassal: d_donalk - Holder 1007217 - Primary title: d_donalk has lost the title: d_donalk
+270 - vassal: d_donalk - Title given to 1007217 - Primary title: d_agonuaz
+270 - sub vassal: d_donalk - Title given to 1007217 - Primary title: d_agonuaz
+270 - vassal: d_agonuaz - Holder (1007217) has gained d_donalk
+270 - sub vassal: d_agonuaz - Holder (1007217) has gained d_donalk
+270 - sub vassal: c_tanasz - Holder 1007217 - Primary title: c_tanasz has lost the title: c_tanasz
+270 - sub vassal: c_tanasz - Title given to 1007217 - Primary title: d_agonuaz
+270 - vassal: d_agonuaz - Holder (1007217) has gained c_tanasz
+270 - sub vassal: d_agonuaz - Holder (1007217) has gained c_tanasz
+271 - vassal: d_ralada - Holder 1007121 - Primary title: d_ralada has lost the title: d_ralada
+271 - sub vassal: d_ralada - Holder 1007121 - Primary title: d_ralada has lost the title: d_ralada
+271 - vassal: d_ralada - Title given to 1007121
+271 - sub vassal: d_ralada - Title given to 1007121
+271 - sub vassal: c_winguaz - Holder 1007121 - Primary title: c_winguaz has lost the title: c_winguaz
+271 - sub vassal: c_winguaz - Title given to 1007121 - Primary title: d_ralada
+271 - vassal: d_ralada - Holder (1007121) has gained c_winguaz
+271 - sub vassal: d_ralada - Holder (1007121) has gained c_winguaz
+283 - Holder 1000168 - Primary title: k_apocory has lost the title: k_apocory
+283 - Title given to 1000168 - Primary title: c_nenas
+283 - vassal: c_nenas - Holder (1000168) has gained k_apocory
+283 - sub vassal: c_nenas - Holder (1000168) has gained k_apocory
+283 - vassal: d_kegoj - Holder 1000168 - Primary title: d_kegoj has lost the title: d_kegoj
+283 - sub vassal: d_kegoj - Holder 1000168 - Primary title: d_kegoj has lost the title: d_kegoj
+283 - vassal: d_kegoj - Title given to 1000168 - Primary title: k_apocory
+283 - sub vassal: d_kegoj - Title given to 1000168 - Primary title: k_apocory
+283 - Holder (1000168) has gained d_kegoj
+283 - vassal: d_tacasz - Holder 1000168 - Primary title: d_tacasz has lost the title: d_tacasz
+283 - sub vassal: d_tacasz - Holder 1000168 - Primary title: d_tacasz has lost the title: d_tacasz
+283 - vassal: d_tacasz - Title given to 1000168 - Primary title: k_apocory
+283 - sub vassal: d_tacasz - Title given to 1000168 - Primary title: k_apocory
+283 - Holder (1000168) has gained d_tacasz
+283 - sub vassal: c_rosyayka - Holder 1000168 - Primary title: c_rosyayka has lost the title: c_rosyayka
+283 - sub vassal: c_rosyayka - Title given to 1000168 - Primary title: k_apocory
+283 - Holder (1000168) has gained c_rosyayka
+283 - sub vassal: c_rocalk - Holder 1000168 - Primary title: c_rocalk has lost the title: c_rocalk
+283 - sub vassal: c_rocalk - Title given to 1000168 - Primary title: k_apocory
+283 - Holder (1000168) has gained c_rocalk
+283 - sub vassal: c_talomil - Holder 1000168 - Primary title: c_talomil has lost the title: c_talomil
+283 - sub vassal: c_talomil - Title given to 1000168 - Primary title: k_apocory
+283 - Holder (1000168) has gained c_talomil
+283 - sub vassal: c_epocasz - Holder 1000168 - Primary title: c_epocasz has lost the title: c_epocasz
+283 - sub vassal: c_epocasz - Title given to 1000168 - Primary title: k_apocory
+283 - Holder (1000168) has gained c_epocasz
+283 - sub vassal: c_kegilip - Holder 1000168 - Primary title: c_kegilip has lost the title: c_kegilip
+283 - sub vassal: c_kegilip - Title given to 1000168 - Primary title: k_apocory
+283 - Holder (1000168) has gained c_kegilip
+284 - Holder 1009441 - Primary title: k_apocory has lost the title: c_kegasz
+284 - Gained vassal: c_kegasz
+284 - Holder 1009442 - Primary title: k_apocory has lost the title: c_kegilip
+284 - sub vassal: c_kegilip - Title given to 1009442
+284 - Holder 1007217 - Primary title: k_apocory has lost the title: k_apocory
+284 - Title given to 1007217 - Primary title: d_donalk
+284 - vassal: d_donalk - Holder (1007217) has gained k_apocory
+284 - sub vassal: d_donalk - Holder (1007217) has gained k_apocory
+284 - vassal: c_nenas - Setting to vassal of d_kegoj in Validate Realm
+284 - sub vassal: c_nenas - Setting to vassal of d_kegoj in Validate Realm
+284 - Lost vassal: c_nenas
+284 - vassal: d_kegoj - Gained vassal: c_nenas
+284 - sub vassal: d_kegoj - Gained vassal: c_nenas
+284 - vassal: d_kegoj - Holder 1007217 - Primary title: d_kegoj has lost the title: c_nenas
+284 - sub vassal: d_kegoj - Holder 1007217 - Primary title: d_kegoj has lost the title: c_nenas
+284 - sub vassal: c_nenas - Title given to 1007217 - Primary title: k_apocory
+284 - Holder (1007217) has gained c_nenas
+284 - sub vassal: c_nenas - Setting to vassal of k_apocory in Validate Realm
+284 - vassal: d_kegoj - Lost vassal: c_nenas
+284 - sub vassal: d_kegoj - Lost vassal: c_nenas
+284 - Gained vassal: c_nenas
+284 - vassal: d_kegoj - Holder 1007217 - Primary title: d_kegoj has lost the title: d_kegoj
+284 - sub vassal: d_kegoj - Holder 1007217 - Primary title: d_kegoj has lost the title: d_kegoj
+284 - vassal: d_kegoj - Title given to 1007217 - Primary title: k_apocory
+284 - sub vassal: d_kegoj - Title given to 1007217 - Primary title: k_apocory
+284 - Holder (1007217) has gained d_kegoj
+284 - vassal: d_tacasz - Holder 1007217 - Primary title: d_tacasz has lost the title: d_tacasz
+284 - sub vassal: d_tacasz - Holder 1007217 - Primary title: d_tacasz has lost the title: d_tacasz
+284 - vassal: d_tacasz - Title given to 1007217 - Primary title: k_apocory
+284 - sub vassal: d_tacasz - Title given to 1007217 - Primary title: k_apocory
+284 - Holder (1007217) has gained d_tacasz
+284 - sub vassal: c_rosyayka - Holder 1007217 - Primary title: c_rosyayka has lost the title: c_rosyayka
+284 - sub vassal: c_rosyayka - Title given to 1007217 - Primary title: k_apocory
+284 - Holder (1007217) has gained c_rosyayka
+284 - sub vassal: c_rocalk - Holder 1007217 - Primary title: c_rocalk has lost the title: c_rocalk
+284 - sub vassal: c_rocalk - Title given to 1007217 - Primary title: k_apocory
+284 - Holder (1007217) has gained c_rocalk
+284 - sub vassal: c_talomil - Holder 1007217 - Primary title: c_talomil has lost the title: c_talomil
+284 - sub vassal: c_talomil - Title given to 1007217 - Primary title: k_apocory
+284 - Holder (1007217) has gained c_talomil
+284 - sub vassal: c_epocasz - Holder 1007217 - Primary title: c_epocasz has lost the title: c_epocasz
+284 - sub vassal: c_epocasz - Title given to 1007217 - Primary title: k_apocory
+284 - Holder (1007217) has gained c_epocasz
+285 - vassal: d_qanalk - Holder 1007308 - Primary title: d_qanalk has lost the title: d_qanalk
+285 - sub vassal: d_qanalk - Holder 1007308 - Primary title: d_qanalk has lost the title: d_qanalk
+285 - vassal: d_qanalk - Title given to 1007308
+285 - sub vassal: d_qanalk - Title given to 1007308
+285 - sub vassal: c_kacasz - Setting to vassal of d_bocada in Validate Realm
+285 - vassal: d_qanalk - Lost vassal: c_kacasz
+285 - sub vassal: d_qanalk - Lost vassal: c_kacasz
+285 - sub vassal: c_tosalk - Setting to vassal of d_bocada in Validate Realm
+285 - vassal: d_qanalk - Lost vassal: c_tosalk
+285 - sub vassal: d_qanalk - Lost vassal: c_tosalk
+285 - vassal: d_bocada - Gained vassal: c_tosalk
+285 - sub vassal: d_bocada - Gained vassal: c_tosalk
+285 - vassal: d_bocada - Gained vassal: c_kacasz
+285 - sub vassal: d_bocada - Gained vassal: c_kacasz
+285 - vassal: d_bocada - Holder 1007308 - Primary title: d_bocada has lost the title: d_bocada
+285 - sub vassal: d_bocada - Holder 1007308 - Primary title: d_bocada has lost the title: d_bocada
+285 - vassal: d_bocada - Title given to 1007308 - Primary title: d_qanalk
+285 - sub vassal: d_bocada - Title given to 1007308 - Primary title: d_qanalk
+285 - vassal: d_qanalk - Holder (1007308) has gained d_bocada
+285 - sub vassal: d_qanalk - Holder (1007308) has gained d_bocada
+285 - sub vassal: c_ecaloj - Holder 1007308 - Primary title: c_ecaloj has lost the title: c_ecaloj
+285 - sub vassal: c_ecaloj - Title given to 1007308 - Primary title: d_qanalk
+285 - vassal: d_qanalk - Holder (1007308) has gained c_ecaloj
+285 - sub vassal: d_qanalk - Holder (1007308) has gained c_ecaloj
+285 - sub vassal: c_etegada - Holder 1007308 - Primary title: c_etegada has lost the title: c_etegada
+285 - sub vassal: c_etegada - Title given to 1007308 - Primary title: d_qanalk
+285 - vassal: d_qanalk - Holder (1007308) has gained c_etegada
+285 - sub vassal: d_qanalk - Holder (1007308) has gained c_etegada
+285 - sub vassal: c_kacasz - Holder 1007308 - Primary title: c_kacasz has lost the title: c_kacasz
+285 - sub vassal: c_kacasz - Title given to 1007308 - Primary title: d_qanalk
+285 - vassal: d_qanalk - Holder (1007308) has gained c_kacasz
+285 - sub vassal: d_qanalk - Holder (1007308) has gained c_kacasz
+285 - sub vassal: c_tosalk - Holder 1007308 - Primary title: c_tosalk has lost the title: c_tosalk
+285 - sub vassal: c_tosalk - Title given to 1007308 - Primary title: d_qanalk
+285 - vassal: d_qanalk - Holder (1007308) has gained c_tosalk
+285 - sub vassal: d_qanalk - Holder (1007308) has gained c_tosalk
+285 - sub vassal: c_dosomil - Holder 1007308 - Primary title: c_dosomil has lost the title: c_dosomil
+285 - sub vassal: c_dosomil - Title given to 1007308 - Primary title: d_qanalk
+285 - vassal: d_qanalk - Holder (1007308) has gained c_dosomil
+285 - sub vassal: d_qanalk - Holder (1007308) has gained c_dosomil
+285 - sub vassal: c_rocasz - Holder 1007308 - Primary title: c_rocasz has lost the title: c_rocasz
+285 - sub vassal: c_rocasz - Title given to 1007308 - Primary title: d_qanalk
+285 - vassal: d_qanalk - Holder (1007308) has gained c_rocasz
+285 - sub vassal: d_qanalk - Holder (1007308) has gained c_rocasz
+285 - sub vassal: c_talory - Given to 1009509 in HandleTitles - Too many duke titles
+285 - Holder 1009509 - Primary title: k_apocory has lost the title: c_talory
+285 - sub vassal: c_talory - Title given to 1009509
+285 - Holder 1009509 - Primary title: k_apocory has lost the title: d_agonuaz
+285 - vassal: d_agonuaz - Title given to 1009509 - Primary title: c_talory
+285 - sub vassal: d_agonuaz - Title given to 1009509 - Primary title: c_talory
+285 - sub vassal: c_talory - Holder (1009509) has gained d_agonuaz
+285 - vassal: d_agonuaz - Too many dukes, given to dejure: k_apocory
+285 - sub vassal: d_agonuaz - Too many dukes, given to dejure: k_apocory
+285 - sub vassal: c_bosory - Given to 1009510 in HandleTitles - Too many duke titles
+285 - sub vassal: c_nanada - Holder 1009510 - Primary title: c_nanada has lost the title: c_bosory
+285 - sub vassal: c_bosory - Title given to 1009510
+285 - Holder 1009510 - Primary title: k_apocory has lost the title: d_tacasz
+285 - vassal: d_tacasz - Title given to 1009510 - Primary title: c_bosory
+285 - sub vassal: d_tacasz - Title given to 1009510 - Primary title: c_bosory
+285 - sub vassal: c_bosory - Holder (1009510) has gained d_tacasz
+285 - sub vassal: c_rosyayka - Setting to vassal of k_apocory in Validate Realm
+285 - vassal: d_tacasz - Lost vassal: c_rosyayka
+285 - sub vassal: d_tacasz - Lost vassal: c_rosyayka
+285 - sub vassal: c_rocalk - Setting to vassal of k_apocory in Validate Realm
+285 - vassal: d_tacasz - Lost vassal: c_rocalk
+285 - sub vassal: d_tacasz - Lost vassal: c_rocalk
+285 - sub vassal: c_talomil - Setting to vassal of k_apocory in Validate Realm
+285 - vassal: d_tacasz - Lost vassal: c_talomil
+285 - sub vassal: d_tacasz - Lost vassal: c_talomil
+285 - sub vassal: c_epocasz - Setting to vassal of k_apocory in Validate Realm
+285 - vassal: d_tacasz - Lost vassal: c_epocasz
+285 - sub vassal: d_tacasz - Lost vassal: c_epocasz
+285 - Gained vassal: c_epocasz
+285 - Gained vassal: c_talomil
+285 - Gained vassal: c_rocalk
+285 - Gained vassal: c_rosyayka
+285 - vassal: d_tacasz - Too many dukes, given to dejure: k_apocory
+285 - sub vassal: d_tacasz - Too many dukes, given to dejure: k_apocory
+285 - Holder 1009511 - Primary title: k_apocory has lost the title: c_rocalk
+285 - vassal: c_rocalk - Title given to 1009511
+285 - sub vassal: c_rocalk - Title given to 1009511
+286 - vassal: d_qanalk - Holder 1009561 - Primary title: d_qanalk has lost the title: c_kacasz
+286 - sub vassal: d_qanalk - Holder 1009561 - Primary title: d_qanalk has lost the title: c_kacasz
+286 - sub vassal: c_kacasz - Title given to 1009561
+293 - Holder 1007308 - Primary title: k_apocory has lost the title: k_apocory
+293 - Title given to 1007308 - Primary title: d_qanalk
+293 - vassal: d_qanalk - Holder (1007308) has gained k_apocory
+293 - sub vassal: d_qanalk - Holder (1007308) has gained k_apocory
+293 - vassal: c_nenas - Setting to vassal of d_donalk in Validate Realm
+293 - sub vassal: c_nenas - Setting to vassal of d_donalk in Validate Realm
+293 - Lost vassal: c_nenas
+293 - vassal: c_rosyayka - Setting to vassal of d_donalk in Validate Realm
+293 - sub vassal: c_rosyayka - Setting to vassal of d_donalk in Validate Realm
+293 - Lost vassal: c_rosyayka
+293 - vassal: c_talomil - Setting to vassal of d_donalk in Validate Realm
+293 - sub vassal: c_talomil - Setting to vassal of d_donalk in Validate Realm
+293 - Lost vassal: c_talomil
+293 - vassal: c_epocasz - Setting to vassal of d_donalk in Validate Realm
+293 - sub vassal: c_epocasz - Setting to vassal of d_donalk in Validate Realm
+293 - Lost vassal: c_epocasz
+293 - vassal: d_donalk - Gained vassal: c_epocasz
+293 - sub vassal: d_donalk - Gained vassal: c_epocasz
+293 - vassal: d_donalk - Gained vassal: c_talomil
+293 - sub vassal: d_donalk - Gained vassal: c_talomil
+293 - vassal: d_donalk - Gained vassal: c_rosyayka
+293 - sub vassal: d_donalk - Gained vassal: c_rosyayka
+293 - vassal: d_donalk - Gained vassal: c_nenas
+293 - sub vassal: d_donalk - Gained vassal: c_nenas
+293 - vassal: d_donalk - Holder 1007308 - Primary title: d_donalk has lost the title: d_donalk
+293 - sub vassal: d_donalk - Holder 1007308 - Primary title: d_donalk has lost the title: d_donalk
+293 - vassal: d_donalk - Title given to 1007308 - Primary title: k_apocory
+293 - sub vassal: d_donalk - Title given to 1007308 - Primary title: k_apocory
+293 - Holder (1007308) has gained d_donalk
+293 - sub vassal: c_tanasz - Setting to vassal of d_kegoj in Validate Realm
+293 - vassal: d_donalk - Lost vassal: c_tanasz
+293 - sub vassal: d_donalk - Lost vassal: c_tanasz
+293 - sub vassal: c_nenas - Setting to vassal of d_kegoj in Validate Realm
+293 - vassal: d_donalk - Lost vassal: c_nenas
+293 - sub vassal: d_donalk - Lost vassal: c_nenas
+293 - sub vassal: c_rosyayka - Setting to vassal of d_kegoj in Validate Realm
+293 - vassal: d_donalk - Lost vassal: c_rosyayka
+293 - sub vassal: d_donalk - Lost vassal: c_rosyayka
+293 - sub vassal: c_talomil - Setting to vassal of d_kegoj in Validate Realm
+293 - vassal: d_donalk - Lost vassal: c_talomil
+293 - sub vassal: d_donalk - Lost vassal: c_talomil
+293 - sub vassal: c_epocasz - Setting to vassal of d_kegoj in Validate Realm
+293 - vassal: d_donalk - Lost vassal: c_epocasz
+293 - sub vassal: d_donalk - Lost vassal: c_epocasz
+293 - vassal: d_kegoj - Gained vassal: c_epocasz
+293 - sub vassal: d_kegoj - Gained vassal: c_epocasz
+293 - vassal: d_kegoj - Gained vassal: c_talomil
+293 - sub vassal: d_kegoj - Gained vassal: c_talomil
+293 - vassal: d_kegoj - Gained vassal: c_rosyayka
+293 - sub vassal: d_kegoj - Gained vassal: c_rosyayka
+293 - vassal: d_kegoj - Gained vassal: c_nenas
+293 - sub vassal: d_kegoj - Gained vassal: c_nenas
+293 - vassal: d_kegoj - Gained vassal: c_tanasz
+293 - sub vassal: d_kegoj - Gained vassal: c_tanasz
+293 - vassal: d_kegoj - Holder 1007308 - Primary title: d_kegoj has lost the title: c_tanasz
+293 - sub vassal: d_kegoj - Holder 1007308 - Primary title: d_kegoj has lost the title: c_tanasz
+293 - sub vassal: c_tanasz - Title given to 1007308 - Primary title: k_apocory
+293 - Holder (1007308) has gained c_tanasz
+293 - sub vassal: c_tanasz - Setting to vassal of k_apocory in Validate Realm
+293 - vassal: d_kegoj - Lost vassal: c_tanasz
+293 - sub vassal: d_kegoj - Lost vassal: c_tanasz
+293 - Gained vassal: c_tanasz
+293 - vassal: d_kegoj - Holder 1007308 - Primary title: d_kegoj has lost the title: c_nenas
+293 - sub vassal: d_kegoj - Holder 1007308 - Primary title: d_kegoj has lost the title: c_nenas
+293 - sub vassal: c_nenas - Title given to 1007308 - Primary title: k_apocory
+293 - Holder (1007308) has gained c_nenas
+293 - sub vassal: c_nenas - Setting to vassal of k_apocory in Validate Realm
+293 - vassal: d_kegoj - Lost vassal: c_nenas
+293 - sub vassal: d_kegoj - Lost vassal: c_nenas
+293 - Gained vassal: c_nenas
+293 - vassal: d_kegoj - Holder 1007308 - Primary title: d_kegoj has lost the title: d_kegoj
+293 - sub vassal: d_kegoj - Holder 1007308 - Primary title: d_kegoj has lost the title: d_kegoj
+293 - vassal: d_kegoj - Title given to 1007308 - Primary title: k_apocory
+293 - sub vassal: d_kegoj - Title given to 1007308 - Primary title: k_apocory
+293 - Holder (1007308) has gained d_kegoj
+293 - sub vassal: c_rosyayka - Holder 1007308 - Primary title: c_rosyayka has lost the title: c_rosyayka
+293 - sub vassal: c_rosyayka - Title given to 1007308 - Primary title: k_apocory
+293 - Holder (1007308) has gained c_rosyayka
+293 - sub vassal: c_talomil - Holder 1007308 - Primary title: c_talomil has lost the title: c_talomil
+293 - sub vassal: c_talomil - Title given to 1007308 - Primary title: k_apocory
+293 - Holder (1007308) has gained c_talomil
+293 - sub vassal: c_epocasz - Holder 1007308 - Primary title: c_epocasz has lost the title: c_epocasz
+293 - sub vassal: c_epocasz - Title given to 1007308 - Primary title: k_apocory
+293 - Holder (1007308) has gained c_epocasz
+294 - vassal: d_donalk - Destroyed due to flagged problem
+294 - sub vassal: d_donalk - Destroyed due to flagged problem
+294 - vassal: d_donalk - Made independent
+294 - sub vassal: d_donalk - Made independent
+294 - sub vassal: c_rocasz - Given to 1010238 in HandleTitles - Too many duke titles
+294 - Holder 1010238 - Primary title: k_apocory has lost the title: c_rocasz
+294 - sub vassal: c_rocasz - Title given to 1010238
+294 - Holder 1010238 - Primary title: k_apocory has lost the title: d_qanalk
+294 - vassal: d_qanalk - Title given to 1010238 - Primary title: c_rocasz
+294 - sub vassal: d_qanalk - Title given to 1010238 - Primary title: c_rocasz
+294 - sub vassal: c_rocasz - Holder (1010238) has gained d_qanalk
+294 - vassal: d_qanalk - Too many dukes, given to dejure: k_apocory
+294 - sub vassal: d_qanalk - Too many dukes, given to dejure: k_apocory
+294 - Holder 1010239 - Primary title: k_apocory has lost the title: c_nenas
+294 - vassal: c_nenas - Title given to 1010239
+294 - sub vassal: c_nenas - Title given to 1010239
+294 - Holder 1010240 - Primary title: k_apocory has lost the title: c_talomil
+294 - sub vassal: c_talomil - Title given to 1010240
+294 - Holder 1010241 - Primary title: k_apocory has lost the title: c_epocasz
+294 - sub vassal: c_epocasz - Title given to 1010241
+294 - Holder 1010242 - Primary title: k_apocory has lost the title: c_tanasz
+294 - vassal: c_tanasz - Title given to 1010242
+294 - sub vassal: c_tanasz - Title given to 1010242
+296 - vassal: d_agonuaz - Holder 1009971 - Primary title: d_agonuaz has lost the title: d_agonuaz
+296 - sub vassal: d_agonuaz - Holder 1009971 - Primary title: d_agonuaz has lost the title: d_agonuaz
+296 - vassal: d_agonuaz - Title given to 1009971
+296 - sub vassal: d_agonuaz - Title given to 1009971
+296 - sub vassal: c_talory - Holder 1009971 - Primary title: c_talory has lost the title: c_talory
+296 - sub vassal: c_talory - Title given to 1009971 - Primary title: d_agonuaz
+296 - vassal: d_agonuaz - Holder (1009971) has gained c_talory
+296 - sub vassal: d_agonuaz - Holder (1009971) has gained c_talory
+298 - vassal: d_qanalk - Holder 1007308 - Primary title: d_qanalk has lost the title: d_qanalk
+298 - sub vassal: d_qanalk - Holder 1007308 - Primary title: d_qanalk has lost the title: d_qanalk
+298 - vassal: d_qanalk - Title given to 1007308 - Primary title: k_apocory
+298 - sub vassal: d_qanalk - Title given to 1007308 - Primary title: k_apocory
+298 - Holder (1007308) has gained d_qanalk
+298 - sub vassal: c_rocasz - Holder 1007308 - Primary title: c_rocasz has lost the title: c_rocasz
+298 - sub vassal: c_rocasz - Title given to 1007308 - Primary title: k_apocory
+298 - Holder (1007308) has gained c_rocasz
+298 - sub vassal: c_rocasz - Given to 1010613 in HandleTitles - Too many duke titles
+298 - Holder 1010613 - Primary title: k_apocory has lost the title: c_rocasz
+298 - sub vassal: c_rocasz - Title given to 1010613
+298 - Holder 1010613 - Primary title: k_apocory has lost the title: d_qanalk
+298 - vassal: d_qanalk - Title given to 1010613 - Primary title: c_rocasz
+298 - sub vassal: d_qanalk - Title given to 1010613 - Primary title: c_rocasz
+298 - sub vassal: c_rocasz - Holder (1010613) has gained d_qanalk
+298 - vassal: d_qanalk - Too many dukes, given to dejure: k_apocory
+298 - sub vassal: d_qanalk - Too many dukes, given to dejure: k_apocory
+300 - sub vassal: c_wyutomil - Holder 1009561 - Primary title: c_wyutomil has lost the title: c_wyutomil
+300 - sub vassal: c_wyutomil - Title given to 1009561 - Primary title: c_kacasz
+300 - sub vassal: c_kacasz - Holder (1009561) has gained c_wyutomil
+300 - sub vassal: c_nanada - Holder 1009510 - Primary title: c_nanada has lost the title: c_nanada
+300 - sub vassal: c_nanada - Title given to 1009510 - Primary title: d_tacasz
+300 - vassal: d_tacasz - Holder (1009510) has gained c_nanada
+300 - sub vassal: d_tacasz - Holder (1009510) has gained c_nanada
+300 - sub vassal: c_wosilip - Holder 1007121 - Primary title: c_wosilip has lost the title: c_wosilip
+300 - sub vassal: c_wosilip - Title given to 1007121 - Primary title: d_ralada
+300 - vassal: d_ralada - Holder (1007121) has gained c_wosilip
+300 - sub vassal: d_ralada - Holder (1007121) has gained c_wosilip
+300 - sub vassal: c_esyayka - Holder 1007121 - Primary title: c_esyayka has lost the title: c_esyayka
+300 - sub vassal: c_esyayka - Title given to 1007121 - Primary title: d_ralada
+300 - vassal: d_ralada - Holder (1007121) has gained c_esyayka
+300 - sub vassal: d_ralada - Holder (1007121) has gained c_esyayka
+310 - Holder 1010613 - Primary title: k_apocory has lost the title: k_apocory
+310 - Title given to 1010613 - Primary title: d_qanalk
+310 - vassal: d_qanalk - Holder (1010613) has gained k_apocory
+310 - sub vassal: d_qanalk - Holder (1010613) has gained k_apocory
+310 - vassal: d_kegoj - Holder 1010613 - Primary title: d_kegoj has lost the title: d_kegoj
+310 - sub vassal: d_kegoj - Holder 1010613 - Primary title: d_kegoj has lost the title: d_kegoj
+310 - vassal: d_kegoj - Title given to 1010613 - Primary title: k_apocory
+310 - sub vassal: d_kegoj - Title given to 1010613 - Primary title: k_apocory
+310 - Holder (1010613) has gained d_kegoj
+310 - sub vassal: c_rosyayka - Setting to vassal of d_bocada in Validate Realm
+310 - vassal: d_kegoj - Lost vassal: c_rosyayka
+310 - sub vassal: d_kegoj - Lost vassal: c_rosyayka
+310 - vassal: d_bocada - Gained vassal: c_rosyayka
+310 - sub vassal: d_bocada - Gained vassal: c_rosyayka
+310 - vassal: d_bocada - Holder 1010613 - Primary title: d_bocada has lost the title: d_bocada
+310 - sub vassal: d_bocada - Holder 1010613 - Primary title: d_bocada has lost the title: d_bocada
+310 - vassal: d_bocada - Title given to 1010613 - Primary title: k_apocory
+310 - sub vassal: d_bocada - Title given to 1010613 - Primary title: k_apocory
+310 - Holder (1010613) has gained d_bocada
+310 - sub vassal: c_rosyayka - Holder 1010613 - Primary title: c_rosyayka has lost the title: c_rosyayka
+310 - sub vassal: c_rosyayka - Title given to 1010613 - Primary title: k_apocory
+310 - Holder (1010613) has gained c_rosyayka
+310 - sub vassal: c_dosomil - Holder 1010613 - Primary title: c_dosomil has lost the title: c_dosomil
+310 - sub vassal: c_dosomil - Title given to 1010613 - Primary title: k_apocory
+310 - Holder (1010613) has gained c_dosomil
+310 - sub vassal: c_tosalk - Holder 1010613 - Primary title: c_tosalk has lost the title: c_tosalk
+310 - sub vassal: c_tosalk - Title given to 1010613 - Primary title: k_apocory
+310 - Holder (1010613) has gained c_tosalk
+310 - sub vassal: c_etegada - Holder 1010613 - Primary title: c_etegada has lost the title: c_etegada
+310 - sub vassal: c_etegada - Title given to 1010613 - Primary title: k_apocory
+310 - Holder (1010613) has gained c_etegada
+310 - sub vassal: c_ecaloj - Holder 1010613 - Primary title: c_ecaloj has lost the title: c_ecaloj
+310 - sub vassal: c_ecaloj - Title given to 1010613 - Primary title: k_apocory
+310 - Holder (1010613) has gained c_ecaloj
+311 - sub vassal: c_rocasz - Given to 1011695 in HandleTitles - Too many duke titles
+311 - Holder 1011695 - Primary title: k_apocory has lost the title: c_rocasz
+311 - sub vassal: c_rocasz - Title given to 1011695
+311 - Holder 1011695 - Primary title: k_apocory has lost the title: d_qanalk
+311 - vassal: d_qanalk - Title given to 1011695 - Primary title: c_rocasz
+311 - sub vassal: d_qanalk - Title given to 1011695 - Primary title: c_rocasz
+311 - sub vassal: c_rocasz - Holder (1011695) has gained d_qanalk
+311 - vassal: d_qanalk - Too many dukes, given to dejure: k_apocory
+311 - sub vassal: d_qanalk - Too many dukes, given to dejure: k_apocory
+317 - vassal: d_ralada - Holder 1009245 - Primary title: d_ralada has lost the title: d_ralada
+317 - sub vassal: d_ralada - Holder 1009245 - Primary title: d_ralada has lost the title: d_ralada
+317 - vassal: d_ralada - Title given to 1009245
+317 - sub vassal: d_ralada - Title given to 1009245
+317 - sub vassal: c_esyayka - Holder 1009245 - Primary title: c_esyayka has lost the title: c_esyayka
+317 - sub vassal: c_esyayka - Title given to 1009245 - Primary title: d_ralada
+317 - vassal: d_ralada - Holder (1009245) has gained c_esyayka
+317 - sub vassal: d_ralada - Holder (1009245) has gained c_esyayka
+317 - sub vassal: c_wosilip - Holder 1009245 - Primary title: c_wosilip has lost the title: c_wosilip
+317 - sub vassal: c_wosilip - Title given to 1009245 - Primary title: d_ralada
+317 - vassal: d_ralada - Holder (1009245) has gained c_wosilip
+317 - sub vassal: d_ralada - Holder (1009245) has gained c_wosilip
+317 - sub vassal: c_winguaz - Holder 1009245 - Primary title: c_winguaz has lost the title: c_winguaz
+317 - sub vassal: c_winguaz - Title given to 1009245 - Primary title: d_ralada
+317 - vassal: d_ralada - Holder (1009245) has gained c_winguaz
+317 - sub vassal: d_ralada - Holder (1009245) has gained c_winguaz
+325 - vassal: d_agonuaz - Holder 1012156 - Primary title: d_agonuaz has lost the title: d_agonuaz
+325 - sub vassal: d_agonuaz - Holder 1012156 - Primary title: d_agonuaz has lost the title: d_agonuaz
+325 - vassal: d_agonuaz - Title given to 1012156
+325 - sub vassal: d_agonuaz - Title given to 1012156
+325 - sub vassal: c_talory - Holder 1012156 - Primary title: c_talory has lost the title: c_talory
+325 - sub vassal: c_talory - Title given to 1012156 - Primary title: d_agonuaz
+325 - vassal: d_agonuaz - Holder (1012156) has gained c_talory
+325 - sub vassal: d_agonuaz - Holder (1012156) has gained c_talory
+327 - Holder 1012156 - Primary title: k_apocory has lost the title: k_apocory
+327 - Title given to 1012156 - Primary title: d_agonuaz
+327 - vassal: d_agonuaz - Holder (1012156) has gained k_apocory
+327 - sub vassal: d_agonuaz - Holder (1012156) has gained k_apocory
+327 - vassal: d_bocada - Holder 1012156 - Primary title: d_bocada has lost the title: d_bocada
+327 - sub vassal: d_bocada - Holder 1012156 - Primary title: d_bocada has lost the title: d_bocada
+327 - vassal: d_bocada - Title given to 1012156 - Primary title: k_apocory
+327 - sub vassal: d_bocada - Title given to 1012156 - Primary title: k_apocory
+327 - Holder (1012156) has gained d_bocada
+327 - sub vassal: c_ecaloj - Setting to vassal of d_kegoj in Validate Realm
+327 - vassal: d_bocada - Lost vassal: c_ecaloj
+327 - sub vassal: d_bocada - Lost vassal: c_ecaloj
+327 - sub vassal: c_etegada - Setting to vassal of d_kegoj in Validate Realm
+327 - vassal: d_bocada - Lost vassal: c_etegada
+327 - sub vassal: d_bocada - Lost vassal: c_etegada
+327 - sub vassal: c_tosalk - Setting to vassal of d_kegoj in Validate Realm
+327 - vassal: d_bocada - Lost vassal: c_tosalk
+327 - sub vassal: d_bocada - Lost vassal: c_tosalk
+327 - sub vassal: c_dosomil - Setting to vassal of d_kegoj in Validate Realm
+327 - vassal: d_bocada - Lost vassal: c_dosomil
+327 - sub vassal: d_bocada - Lost vassal: c_dosomil
+327 - sub vassal: c_rosyayka - Setting to vassal of d_kegoj in Validate Realm
+327 - vassal: d_bocada - Lost vassal: c_rosyayka
+327 - sub vassal: d_bocada - Lost vassal: c_rosyayka
+327 - vassal: d_kegoj - Gained vassal: c_rosyayka
+327 - sub vassal: d_kegoj - Gained vassal: c_rosyayka
+327 - vassal: d_kegoj - Gained vassal: c_dosomil
+327 - sub vassal: d_kegoj - Gained vassal: c_dosomil
+327 - vassal: d_kegoj - Gained vassal: c_tosalk
+327 - sub vassal: d_kegoj - Gained vassal: c_tosalk
+327 - vassal: d_kegoj - Gained vassal: c_etegada
+327 - sub vassal: d_kegoj - Gained vassal: c_etegada
+327 - vassal: d_kegoj - Gained vassal: c_ecaloj
+327 - sub vassal: d_kegoj - Gained vassal: c_ecaloj
+327 - vassal: d_kegoj - Holder 1012156 - Primary title: d_kegoj has lost the title: d_kegoj
+327 - sub vassal: d_kegoj - Holder 1012156 - Primary title: d_kegoj has lost the title: d_kegoj
+327 - vassal: d_kegoj - Title given to 1012156 - Primary title: k_apocory
+327 - sub vassal: d_kegoj - Title given to 1012156 - Primary title: k_apocory
+327 - Holder (1012156) has gained d_kegoj
+327 - sub vassal: c_ecaloj - Holder 1012156 - Primary title: c_ecaloj has lost the title: c_ecaloj
+327 - sub vassal: c_ecaloj - Title given to 1012156 - Primary title: k_apocory
+327 - Holder (1012156) has gained c_ecaloj
+327 - sub vassal: c_etegada - Holder 1012156 - Primary title: c_etegada has lost the title: c_etegada
+327 - sub vassal: c_etegada - Title given to 1012156 - Primary title: k_apocory
+327 - Holder (1012156) has gained c_etegada
+327 - sub vassal: c_tosalk - Holder 1012156 - Primary title: c_tosalk has lost the title: c_tosalk
+327 - sub vassal: c_tosalk - Title given to 1012156 - Primary title: k_apocory
+327 - Holder (1012156) has gained c_tosalk
+327 - sub vassal: c_dosomil - Holder 1012156 - Primary title: c_dosomil has lost the title: c_dosomil
+327 - sub vassal: c_dosomil - Title given to 1012156 - Primary title: k_apocory
+327 - Holder (1012156) has gained c_dosomil
+327 - sub vassal: c_rosyayka - Holder 1012156 - Primary title: c_rosyayka has lost the title: c_rosyayka
+327 - sub vassal: c_rosyayka - Title given to 1012156 - Primary title: k_apocory
+327 - Holder (1012156) has gained c_rosyayka
+328 - sub vassal: c_nonomil - Given to 1012979 in HandleTitles - Too many duke titles
+328 - sub vassal: c_nonomil - Holder 1012979 - Primary title: c_nonomil has lost the title: c_nonomil
+328 - sub vassal: c_nonomil - Title given to 1012979
+328 - Holder 1012979 - Primary title: k_apocory has lost the title: d_kegoj
+328 - vassal: d_kegoj - Title given to 1012979 - Primary title: c_nonomil
+328 - sub vassal: d_kegoj - Title given to 1012979 - Primary title: c_nonomil
+328 - sub vassal: c_nonomil - Holder (1012979) has gained d_kegoj
+328 - sub vassal: c_ecaloj - Setting to vassal of k_apocory in Validate Realm
+328 - vassal: d_kegoj - Lost vassal: c_ecaloj
+328 - sub vassal: d_kegoj - Lost vassal: c_ecaloj
+328 - sub vassal: c_etegada - Setting to vassal of k_apocory in Validate Realm
+328 - vassal: d_kegoj - Lost vassal: c_etegada
+328 - sub vassal: d_kegoj - Lost vassal: c_etegada
+328 - sub vassal: c_tosalk - Setting to vassal of k_apocory in Validate Realm
+328 - vassal: d_kegoj - Lost vassal: c_tosalk
+328 - sub vassal: d_kegoj - Lost vassal: c_tosalk
+328 - sub vassal: c_dosomil - Setting to vassal of k_apocory in Validate Realm
+328 - vassal: d_kegoj - Lost vassal: c_dosomil
+328 - sub vassal: d_kegoj - Lost vassal: c_dosomil
+328 - sub vassal: c_rosyayka - Setting to vassal of k_apocory in Validate Realm
+328 - vassal: d_kegoj - Lost vassal: c_rosyayka
+328 - sub vassal: d_kegoj - Lost vassal: c_rosyayka
+328 - Gained vassal: c_rosyayka
+328 - Gained vassal: c_dosomil
+328 - Gained vassal: c_tosalk
+328 - Gained vassal: c_etegada
+328 - Gained vassal: c_ecaloj
+328 - vassal: d_kegoj - Too many dukes, given to dejure: k_apocory
+328 - sub vassal: d_kegoj - Too many dukes, given to dejure: k_apocory
+328 - Holder 1012980 - Primary title: k_apocory has lost the title: c_talory
+328 - sub vassal: c_talory - Title given to 1012980
+329 - Holder 1009245 - Primary title: k_apocory has lost the title: k_apocory
+329 - Title given to 1009245 - Primary title: d_ralada
+329 - vassal: d_ralada - Holder (1009245) has gained k_apocory
+329 - sub vassal: d_ralada - Holder (1009245) has gained k_apocory
+329 - vassal: c_ecaloj - Setting to vassal of d_agonuaz in Validate Realm
+329 - sub vassal: c_ecaloj - Setting to vassal of d_agonuaz in Validate Realm
+329 - Lost vassal: c_ecaloj
+329 - vassal: c_etegada - Setting to vassal of d_agonuaz in Validate Realm
+329 - sub vassal: c_etegada - Setting to vassal of d_agonuaz in Validate Realm
+329 - Lost vassal: c_etegada
+329 - vassal: c_tosalk - Setting to vassal of d_agonuaz in Validate Realm
+329 - sub vassal: c_tosalk - Setting to vassal of d_agonuaz in Validate Realm
+329 - Lost vassal: c_tosalk
+329 - vassal: c_dosomil - Setting to vassal of d_agonuaz in Validate Realm
+329 - sub vassal: c_dosomil - Setting to vassal of d_agonuaz in Validate Realm
+329 - Lost vassal: c_dosomil
+329 - vassal: c_rosyayka - Setting to vassal of d_agonuaz in Validate Realm
+329 - sub vassal: c_rosyayka - Setting to vassal of d_agonuaz in Validate Realm
+329 - Lost vassal: c_rosyayka
+329 - vassal: d_agonuaz - Gained vassal: c_rosyayka
+329 - sub vassal: d_agonuaz - Gained vassal: c_rosyayka
+329 - vassal: d_agonuaz - Gained vassal: c_dosomil
+329 - sub vassal: d_agonuaz - Gained vassal: c_dosomil
+329 - vassal: d_agonuaz - Gained vassal: c_tosalk
+329 - sub vassal: d_agonuaz - Gained vassal: c_tosalk
+329 - vassal: d_agonuaz - Gained vassal: c_etegada
+329 - sub vassal: d_agonuaz - Gained vassal: c_etegada
+329 - vassal: d_agonuaz - Gained vassal: c_ecaloj
+329 - sub vassal: d_agonuaz - Gained vassal: c_ecaloj
+329 - vassal: d_agonuaz - Holder 1009245 - Primary title: d_agonuaz has lost the title: d_agonuaz
+329 - sub vassal: d_agonuaz - Holder 1009245 - Primary title: d_agonuaz has lost the title: d_agonuaz
+329 - vassal: d_agonuaz - Title given to 1009245 - Primary title: k_apocory
+329 - sub vassal: d_agonuaz - Title given to 1009245 - Primary title: k_apocory
+329 - Holder (1009245) has gained d_agonuaz
+329 - sub vassal: c_ecaloj - Setting to vassal of d_bocada in Validate Realm
+329 - vassal: d_agonuaz - Lost vassal: c_ecaloj
+329 - sub vassal: d_agonuaz - Lost vassal: c_ecaloj
+329 - sub vassal: c_etegada - Setting to vassal of d_bocada in Validate Realm
+329 - vassal: d_agonuaz - Lost vassal: c_etegada
+329 - sub vassal: d_agonuaz - Lost vassal: c_etegada
+329 - sub vassal: c_tosalk - Setting to vassal of d_bocada in Validate Realm
+329 - vassal: d_agonuaz - Lost vassal: c_tosalk
+329 - sub vassal: d_agonuaz - Lost vassal: c_tosalk
+329 - sub vassal: c_dosomil - Setting to vassal of d_bocada in Validate Realm
+329 - vassal: d_agonuaz - Lost vassal: c_dosomil
+329 - sub vassal: d_agonuaz - Lost vassal: c_dosomil
+329 - sub vassal: c_rosyayka - Setting to vassal of d_bocada in Validate Realm
+329 - vassal: d_agonuaz - Lost vassal: c_rosyayka
+329 - sub vassal: d_agonuaz - Lost vassal: c_rosyayka
+329 - vassal: d_bocada - Gained vassal: c_rosyayka
+329 - sub vassal: d_bocada - Gained vassal: c_rosyayka
+329 - vassal: d_bocada - Gained vassal: c_dosomil
+329 - sub vassal: d_bocada - Gained vassal: c_dosomil
+329 - vassal: d_bocada - Gained vassal: c_tosalk
+329 - sub vassal: d_bocada - Gained vassal: c_tosalk
+329 - vassal: d_bocada - Gained vassal: c_etegada
+329 - sub vassal: d_bocada - Gained vassal: c_etegada
+329 - vassal: d_bocada - Gained vassal: c_ecaloj
+329 - sub vassal: d_bocada - Gained vassal: c_ecaloj
+329 - vassal: d_bocada - Holder 1009245 - Primary title: d_bocada has lost the title: d_bocada
+329 - sub vassal: d_bocada - Holder 1009245 - Primary title: d_bocada has lost the title: d_bocada
+329 - vassal: d_bocada - Title given to 1009245 - Primary title: k_apocory
+329 - sub vassal: d_bocada - Title given to 1009245 - Primary title: k_apocory
+329 - Holder (1009245) has gained d_bocada
+329 - sub vassal: c_ecaloj - Holder 1009245 - Primary title: c_ecaloj has lost the title: c_ecaloj
+329 - sub vassal: c_ecaloj - Title given to 1009245 - Primary title: k_apocory
+329 - Holder (1009245) has gained c_ecaloj
+329 - sub vassal: c_etegada - Holder 1009245 - Primary title: c_etegada has lost the title: c_etegada
+329 - sub vassal: c_etegada - Title given to 1009245 - Primary title: k_apocory
+329 - Holder (1009245) has gained c_etegada
+329 - sub vassal: c_tosalk - Holder 1009245 - Primary title: c_tosalk has lost the title: c_tosalk
+329 - sub vassal: c_tosalk - Title given to 1009245 - Primary title: k_apocory
+329 - Holder (1009245) has gained c_tosalk
+329 - sub vassal: c_dosomil - Holder 1009245 - Primary title: c_dosomil has lost the title: c_dosomil
+329 - sub vassal: c_dosomil - Title given to 1009245 - Primary title: k_apocory
+329 - Holder (1009245) has gained c_dosomil
+329 - sub vassal: c_rosyayka - Holder 1009245 - Primary title: c_rosyayka has lost the title: c_rosyayka
+329 - sub vassal: c_rosyayka - Title given to 1009245 - Primary title: k_apocory
+329 - Holder (1009245) has gained c_rosyayka
+330 - vassal: d_qanalk - Holder 1012223 - Primary title: d_qanalk has lost the title: d_qanalk
+330 - sub vassal: d_qanalk - Holder 1012223 - Primary title: d_qanalk has lost the title: d_qanalk
+330 - vassal: d_qanalk - Title given to 1012223
+330 - sub vassal: d_qanalk - Title given to 1012223
+330 - sub vassal: c_rocasz - Holder 1012223 - Primary title: c_rocasz has lost the title: c_rocasz
+330 - sub vassal: c_rocasz - Title given to 1012223 - Primary title: d_qanalk
+330 - vassal: d_qanalk - Holder (1012223) has gained c_rocasz
+330 - sub vassal: d_qanalk - Holder (1012223) has gained c_rocasz
+330 - sub vassal: c_winguaz - Given to 1007706 in HandleTitles - Too many duke titles
+330 - Holder 1007706 - Primary title: k_apocory has lost the title: c_winguaz
+330 - sub vassal: c_winguaz - Title given to 1007706
+330 - Holder 1007706 - Primary title: k_apocory has lost the title: d_ralada
+330 - vassal: d_ralada - Title given to 1007706 - Primary title: c_winguaz
+330 - sub vassal: d_ralada - Title given to 1007706 - Primary title: c_winguaz
+330 - sub vassal: c_winguaz - Holder (1007706) has gained d_ralada
+330 - sub vassal: c_wosilip - Setting to vassal of k_apocory in Validate Realm
+330 - vassal: d_ralada - Lost vassal: c_wosilip
+330 - sub vassal: d_ralada - Lost vassal: c_wosilip
+330 - sub vassal: c_esyayka - Setting to vassal of k_apocory in Validate Realm
+330 - vassal: d_ralada - Lost vassal: c_esyayka
+330 - sub vassal: d_ralada - Lost vassal: c_esyayka
+330 - Gained vassal: c_esyayka
+330 - Gained vassal: c_wosilip
+330 - vassal: d_ralada - Too many dukes, given to dejure: k_apocory
+330 - sub vassal: d_ralada - Too many dukes, given to dejure: k_apocory
+330 - Holder 1013131 - Primary title: k_apocory has lost the title: c_wosilip
+330 - vassal: c_wosilip - Title given to 1013131
+330 - sub vassal: c_wosilip - Title given to 1013131
+330 - Holder 1013132 - Primary title: k_apocory has lost the title: c_esyayka
+330 - vassal: c_esyayka - Title given to 1013132
+330 - sub vassal: c_esyayka - Title given to 1013132
+331 - vassal: d_ralada - Holder 1012223 - Primary title: d_ralada has lost the title: d_ralada
+331 - sub vassal: d_ralada - Holder 1012223 - Primary title: d_ralada has lost the title: d_ralada
+331 - vassal: d_ralada - Title given to 1012223 - Primary title: d_qanalk
+331 - sub vassal: d_ralada - Title given to 1012223 - Primary title: d_qanalk
+331 - vassal: d_qanalk - Holder (1012223) has gained d_ralada
+331 - sub vassal: d_qanalk - Holder (1012223) has gained d_ralada
+331 - sub vassal: c_winguaz - Holder 1012223 - Primary title: c_winguaz has lost the title: c_winguaz
+331 - sub vassal: c_winguaz - Title given to 1012223 - Primary title: d_qanalk
+331 - vassal: d_qanalk - Holder (1012223) has gained c_winguaz
+331 - sub vassal: d_qanalk - Holder (1012223) has gained c_winguaz
+335 - vassal: d_tacasz - Holder 1009565 - Primary title: d_tacasz has lost the title: d_tacasz
+335 - sub vassal: d_tacasz - Holder 1009565 - Primary title: d_tacasz has lost the title: d_tacasz
+335 - vassal: d_tacasz - Title given to 1009565
+335 - sub vassal: d_tacasz - Title given to 1009565
+335 - sub vassal: c_bosory - Holder 1009565 - Primary title: c_bosory has lost the title: c_bosory
+335 - sub vassal: c_bosory - Title given to 1009565 - Primary title: d_tacasz
+335 - vassal: d_tacasz - Holder (1009565) has gained c_bosory
+335 - sub vassal: d_tacasz - Holder (1009565) has gained c_bosory
+335 - sub vassal: c_nanada - Holder 1009565 - Primary title: c_nanada has lost the title: c_nanada
+335 - sub vassal: c_nanada - Title given to 1009565 - Primary title: d_tacasz
+335 - vassal: d_tacasz - Holder (1009565) has gained c_nanada
+335 - sub vassal: d_tacasz - Holder (1009565) has gained c_nanada
+335 - vassal: d_ralada - Holder 1013132 - Primary title: d_ralada has lost the title: d_qanalk
+335 - sub vassal: d_ralada - Holder 1013132 - Primary title: d_ralada has lost the title: d_qanalk
+335 - vassal: d_qanalk - Title given to 1013132 - Primary title: c_esyayka
+335 - sub vassal: d_qanalk - Title given to 1013132 - Primary title: c_esyayka
+335 - vassal: c_esyayka - Holder (1013132) has gained d_qanalk
+335 - sub vassal: c_esyayka - Holder (1013132) has gained d_qanalk
+335 - vassal: c_esyayka - Setting to vassal of d_qanalk in Validate Realm
+335 - sub vassal: c_esyayka - Setting to vassal of d_qanalk in Validate Realm
+335 - Lost vassal: c_esyayka
+335 - sub vassal: c_rocasz - Setting to vassal of d_ralada in Validate Realm
+335 - vassal: d_qanalk - Lost vassal: c_rocasz
+335 - sub vassal: d_qanalk - Lost vassal: c_rocasz
+335 - vassal: d_ralada - Gained vassal: c_rocasz
+335 - sub vassal: d_ralada - Gained vassal: c_rocasz
+335 - vassal: d_qanalk - Gained vassal: c_esyayka
+335 - sub vassal: d_qanalk - Gained vassal: c_esyayka
+335 - vassal: d_ralada - Holder 1013132 - Primary title: d_ralada has lost the title: c_rocasz
+335 - sub vassal: d_ralada - Holder 1013132 - Primary title: d_ralada has lost the title: c_rocasz
+335 - sub vassal: c_rocasz - Title given to 1013132 - Primary title: d_qanalk
+335 - vassal: d_qanalk - Holder (1013132) has gained c_rocasz
+335 - sub vassal: d_qanalk - Holder (1013132) has gained c_rocasz
+335 - sub vassal: c_rocasz - Setting to vassal of d_qanalk in Validate Realm
+335 - vassal: d_ralada - Lost vassal: c_rocasz
+335 - sub vassal: d_ralada - Lost vassal: c_rocasz
+335 - vassal: d_qanalk - Gained vassal: c_rocasz
+335 - sub vassal: d_qanalk - Gained vassal: c_rocasz
+335 - vassal: d_ralada - Holder 1013132 - Primary title: d_ralada has lost the title: d_ralada
+335 - sub vassal: d_ralada - Holder 1013132 - Primary title: d_ralada has lost the title: d_ralada
+335 - vassal: d_ralada - Title given to 1013132 - Primary title: d_qanalk
+335 - sub vassal: d_ralada - Title given to 1013132 - Primary title: d_qanalk
+335 - vassal: d_qanalk - Holder (1013132) has gained d_ralada
+335 - sub vassal: d_qanalk - Holder (1013132) has gained d_ralada
+335 - sub vassal: c_winguaz - Holder 1013132 - Primary title: c_winguaz has lost the title: c_winguaz
+335 - sub vassal: c_winguaz - Title given to 1013132 - Primary title: d_qanalk
+335 - vassal: d_qanalk - Holder (1013132) has gained c_winguaz
+335 - sub vassal: d_qanalk - Holder (1013132) has gained c_winguaz
+336 - vassal: d_kegoj - Holder 1013350 - Primary title: d_kegoj has lost the title: d_kegoj
+336 - sub vassal: d_kegoj - Holder 1013350 - Primary title: d_kegoj has lost the title: d_kegoj
+336 - vassal: d_kegoj - Title given to 1013350
+336 - sub vassal: d_kegoj - Title given to 1013350
+336 - sub vassal: c_nonomil - Holder 1013350 - Primary title: c_nonomil has lost the title: c_nonomil
+336 - sub vassal: c_nonomil - Title given to 1013350 - Primary title: d_kegoj
+336 - vassal: d_kegoj - Holder (1013350) has gained c_nonomil
+336 - sub vassal: d_kegoj - Holder (1013350) has gained c_nonomil
+343 - vassal: d_ralada - Holder 1009245 - Primary title: d_ralada has lost the title: d_ralada
+343 - sub vassal: d_ralada - Holder 1009245 - Primary title: d_ralada has lost the title: d_ralada
+343 - vassal: d_ralada - Title given to 1009245 - Primary title: k_apocory
+343 - sub vassal: d_ralada - Title given to 1009245 - Primary title: k_apocory
+343 - Holder (1009245) has gained d_ralada
+343 - sub vassal: c_winguaz - Setting to vassal of d_qanalk in Validate Realm
+343 - vassal: d_ralada - Lost vassal: c_winguaz
+343 - sub vassal: d_ralada - Lost vassal: c_winguaz
+343 - vassal: d_qanalk - Gained vassal: c_winguaz
+343 - sub vassal: d_qanalk - Gained vassal: c_winguaz
+343 - vassal: d_qanalk - Holder 1009245 - Primary title: d_qanalk has lost the title: d_qanalk
+343 - sub vassal: d_qanalk - Holder 1009245 - Primary title: d_qanalk has lost the title: d_qanalk
+343 - vassal: d_qanalk - Title given to 1009245 - Primary title: k_apocory
+343 - sub vassal: d_qanalk - Title given to 1009245 - Primary title: k_apocory
+343 - Holder (1009245) has gained d_qanalk
+343 - sub vassal: c_winguaz - Holder 1009245 - Primary title: c_winguaz has lost the title: c_winguaz
+343 - sub vassal: c_winguaz - Title given to 1009245 - Primary title: k_apocory
+343 - Holder (1009245) has gained c_winguaz
+343 - sub vassal: c_rocasz - Holder 1009245 - Primary title: c_rocasz has lost the title: c_rocasz
+343 - sub vassal: c_rocasz - Title given to 1009245 - Primary title: k_apocory
+343 - Holder (1009245) has gained c_rocasz
+343 - sub vassal: c_esyayka - Holder 1009245 - Primary title: c_esyayka has lost the title: c_esyayka
+343 - sub vassal: c_esyayka - Title given to 1009245 - Primary title: k_apocory
+343 - Holder (1009245) has gained c_esyayka
+343 - sub vassal: c_rocasz - Given to 1014088 in HandleTitles - Too many duke titles
+343 - Holder 1014088 - Primary title: k_apocory has lost the title: c_rocasz
+343 - sub vassal: c_rocasz - Title given to 1014088
+343 - Holder 1014088 - Primary title: k_apocory has lost the title: d_qanalk
+343 - vassal: d_qanalk - Title given to 1014088 - Primary title: c_rocasz
+343 - sub vassal: d_qanalk - Title given to 1014088 - Primary title: c_rocasz
+343 - sub vassal: c_rocasz - Holder (1014088) has gained d_qanalk
+343 - sub vassal: c_winguaz - Setting to vassal of k_apocory in Validate Realm
+343 - vassal: d_qanalk - Lost vassal: c_winguaz
+343 - sub vassal: d_qanalk - Lost vassal: c_winguaz
+343 - sub vassal: c_esyayka - Setting to vassal of k_apocory in Validate Realm
+343 - vassal: d_qanalk - Lost vassal: c_esyayka
+343 - sub vassal: d_qanalk - Lost vassal: c_esyayka
+343 - Gained vassal: c_esyayka
+343 - Gained vassal: c_winguaz
+343 - vassal: d_qanalk - Too many dukes, given to dejure: k_apocory
+343 - sub vassal: d_qanalk - Too many dukes, given to dejure: k_apocory
+343 - sub vassal: c_talory - Given to 1014089 in HandleTitles - Too many duke titles
+343 - sub vassal: c_talory - Holder 1014089 - Primary title: c_talory has lost the title: c_talory
+343 - sub vassal: c_talory - Title given to 1014089
+343 - Holder 1014089 - Primary title: k_apocory has lost the title: d_agonuaz
+343 - vassal: d_agonuaz - Title given to 1014089 - Primary title: c_talory
+343 - sub vassal: d_agonuaz - Title given to 1014089 - Primary title: c_talory
+343 - sub vassal: c_talory - Holder (1014089) has gained d_agonuaz
+343 - vassal: d_agonuaz - Too many dukes, given to dejure: k_apocory
+343 - sub vassal: d_agonuaz - Too many dukes, given to dejure: k_apocory
+343 - Holder 1014090 - Primary title: k_apocory has lost the title: c_esyayka
+343 - vassal: c_esyayka - Title given to 1014090
+343 - sub vassal: c_esyayka - Title given to 1014090
+343 - Holder 1014091 - Primary title: k_apocory has lost the title: c_winguaz
+343 - vassal: c_winguaz - Title given to 1014091
+343 - sub vassal: c_winguaz - Title given to 1014091
+344 - vassal: d_ralada - Destroyed due to flagged problem
+344 - sub vassal: d_ralada - Destroyed due to flagged problem
+344 - vassal: d_ralada - Made independent
+344 - sub vassal: d_ralada - Made independent
+345 - vassal: d_tacasz - Holder 1014091 - Primary title: d_tacasz has lost the title: d_tacasz
+345 - sub vassal: d_tacasz - Holder 1014091 - Primary title: d_tacasz has lost the title: d_tacasz
+345 - vassal: d_tacasz - Title given to 1014091 - Primary title: c_winguaz
+345 - sub vassal: d_tacasz - Title given to 1014091 - Primary title: c_winguaz
+345 - vassal: c_winguaz - Holder (1014091) has gained d_tacasz
+345 - sub vassal: c_winguaz - Holder (1014091) has gained d_tacasz
+345 - vassal: c_winguaz - Setting to vassal of d_tacasz in Validate Realm
+345 - sub vassal: c_winguaz - Setting to vassal of d_tacasz in Validate Realm
+345 - Lost vassal: c_winguaz
+345 - vassal: d_tacasz - Gained vassal: c_winguaz
+345 - sub vassal: d_tacasz - Gained vassal: c_winguaz
+345 - sub vassal: c_nanada - Holder 1014091 - Primary title: c_nanada has lost the title: c_nanada
+345 - sub vassal: c_nanada - Title given to 1014091 - Primary title: d_tacasz
+345 - vassal: d_tacasz - Holder (1014091) has gained c_nanada
+345 - sub vassal: d_tacasz - Holder (1014091) has gained c_nanada
+345 - sub vassal: c_bosory - Holder 1014091 - Primary title: c_bosory has lost the title: c_bosory
+345 - sub vassal: c_bosory - Title given to 1014091 - Primary title: d_tacasz
+345 - vassal: d_tacasz - Holder (1014091) has gained c_bosory
+345 - sub vassal: d_tacasz - Holder (1014091) has gained c_bosory
+346 - Holder 1014088 - Primary title: k_apocory has lost the title: k_apocory
+346 - Title given to 1014088 - Primary title: d_qanalk
+346 - vassal: d_qanalk - Holder (1014088) has gained k_apocory
+346 - sub vassal: d_qanalk - Holder (1014088) has gained k_apocory
+346 - vassal: d_bocada - Holder 1014088 - Primary title: d_bocada has lost the title: d_bocada
+346 - sub vassal: d_bocada - Holder 1014088 - Primary title: d_bocada has lost the title: d_bocada
+346 - vassal: d_bocada - Title given to 1014088 - Primary title: k_apocory
+346 - sub vassal: d_bocada - Title given to 1014088 - Primary title: k_apocory
+346 - Holder (1014088) has gained d_bocada
+346 - sub vassal: c_rosyayka - Holder 1014088 - Primary title: c_rosyayka has lost the title: c_rosyayka
+346 - sub vassal: c_rosyayka - Title given to 1014088 - Primary title: k_apocory
+346 - Holder (1014088) has gained c_rosyayka
+346 - sub vassal: c_dosomil - Holder 1014088 - Primary title: c_dosomil has lost the title: c_dosomil
+346 - sub vassal: c_dosomil - Title given to 1014088 - Primary title: k_apocory
+346 - Holder (1014088) has gained c_dosomil
+346 - sub vassal: c_tosalk - Holder 1014088 - Primary title: c_tosalk has lost the title: c_tosalk
+346 - sub vassal: c_tosalk - Title given to 1014088 - Primary title: k_apocory
+346 - Holder (1014088) has gained c_tosalk
+346 - sub vassal: c_etegada - Holder 1014088 - Primary title: c_etegada has lost the title: c_etegada
+346 - sub vassal: c_etegada - Title given to 1014088 - Primary title: k_apocory
+346 - Holder (1014088) has gained c_etegada
+346 - sub vassal: c_ecaloj - Holder 1014088 - Primary title: c_ecaloj has lost the title: c_ecaloj
+346 - sub vassal: c_ecaloj - Title given to 1014088 - Primary title: k_apocory
+346 - Holder (1014088) has gained c_ecaloj
+347 - Holder 1014394 - Primary title: k_apocory has lost the title: c_rocasz
+347 - sub vassal: c_rocasz - Title given to 1014394
+365 - vassal: d_agonuaz - Holder 1014297 - Primary title: d_agonuaz has lost the title: d_agonuaz
+365 - sub vassal: d_agonuaz - Holder 1014297 - Primary title: d_agonuaz has lost the title: d_agonuaz
+365 - vassal: d_agonuaz - Title given to 1014297
+365 - sub vassal: d_agonuaz - Title given to 1014297
+365 - sub vassal: c_talory - Holder 1014297 - Primary title: c_talory has lost the title: c_talory
+365 - sub vassal: c_talory - Title given to 1014297 - Primary title: d_agonuaz
+365 - vassal: d_agonuaz - Holder (1014297) has gained c_talory
+365 - sub vassal: d_agonuaz - Holder (1014297) has gained c_talory
+366 - vassal: d_agonuaz - Holder 1014091 - Primary title: d_agonuaz has lost the title: d_agonuaz
+366 - sub vassal: d_agonuaz - Holder 1014091 - Primary title: d_agonuaz has lost the title: d_agonuaz
+366 - vassal: d_agonuaz - Title given to 1014091 - Primary title: d_tacasz
+366 - sub vassal: d_agonuaz - Title given to 1014091 - Primary title: d_tacasz
+366 - vassal: d_tacasz - Holder (1014091) has gained d_agonuaz
+366 - sub vassal: d_tacasz - Holder (1014091) has gained d_agonuaz
+366 - sub vassal: c_talory - Holder 1014091 - Primary title: c_talory has lost the title: c_talory
+366 - sub vassal: c_talory - Title given to 1014091 - Primary title: d_tacasz
+366 - vassal: d_tacasz - Holder (1014091) has gained c_talory
+366 - sub vassal: d_tacasz - Holder (1014091) has gained c_talory
+382 - Holder 1015048 - Primary title: k_apocory has lost the title: k_apocory
+382 - Title given to 1015048
+382 - vassal: d_qanalk - Holder 1015048 - Primary title: d_qanalk has lost the title: d_qanalk
+382 - sub vassal: d_qanalk - Holder 1015048 - Primary title: d_qanalk has lost the title: d_qanalk
+382 - vassal: d_qanalk - Title given to 1015048 - Primary title: k_apocory
+382 - sub vassal: d_qanalk - Title given to 1015048 - Primary title: k_apocory
+382 - Holder (1015048) has gained d_qanalk
+382 - vassal: d_bocada - Holder 1015048 - Primary title: d_bocada has lost the title: d_bocada
+382 - sub vassal: d_bocada - Holder 1015048 - Primary title: d_bocada has lost the title: d_bocada
+382 - vassal: d_bocada - Title given to 1015048 - Primary title: k_apocory
+382 - sub vassal: d_bocada - Title given to 1015048 - Primary title: k_apocory
+382 - Holder (1015048) has gained d_bocada
+382 - sub vassal: c_rosyayka - Holder 1015048 - Primary title: c_rosyayka has lost the title: c_rosyayka
+382 - sub vassal: c_rosyayka - Title given to 1015048 - Primary title: k_apocory
+382 - Holder (1015048) has gained c_rosyayka
+382 - sub vassal: c_dosomil - Holder 1015048 - Primary title: c_dosomil has lost the title: c_dosomil
+382 - sub vassal: c_dosomil - Title given to 1015048 - Primary title: k_apocory
+382 - Holder (1015048) has gained c_dosomil
+382 - sub vassal: c_tosalk - Holder 1015048 - Primary title: c_tosalk has lost the title: c_tosalk
+382 - sub vassal: c_tosalk - Title given to 1015048 - Primary title: k_apocory
+382 - Holder (1015048) has gained c_tosalk
+382 - sub vassal: c_etegada - Holder 1015048 - Primary title: c_etegada has lost the title: c_etegada
+382 - sub vassal: c_etegada - Title given to 1015048 - Primary title: k_apocory
+382 - Holder (1015048) has gained c_etegada
+382 - sub vassal: c_ecaloj - Holder 1015048 - Primary title: c_ecaloj has lost the title: c_ecaloj
+382 - sub vassal: c_ecaloj - Title given to 1015048 - Primary title: k_apocory
+382 - Holder (1015048) has gained c_ecaloj
+385 - Holder 1009511 - Primary title: k_apocory has lost the title: k_apocory
+385 - Title given to 1009511 - Primary title: c_rocalk
+385 - vassal: c_rocalk - Holder (1009511) has gained k_apocory
+385 - sub vassal: c_rocalk - Holder (1009511) has gained k_apocory
+385 - vassal: d_qanalk - Holder 1009511 - Primary title: d_qanalk has lost the title: d_qanalk
+385 - sub vassal: d_qanalk - Holder 1009511 - Primary title: d_qanalk has lost the title: d_qanalk
+385 - vassal: d_qanalk - Title given to 1009511 - Primary title: k_apocory
+385 - sub vassal: d_qanalk - Title given to 1009511 - Primary title: k_apocory
+385 - Holder (1009511) has gained d_qanalk
+385 - vassal: d_bocada - Holder 1009511 - Primary title: d_bocada has lost the title: d_bocada
+385 - sub vassal: d_bocada - Holder 1009511 - Primary title: d_bocada has lost the title: d_bocada
+385 - vassal: d_bocada - Title given to 1009511 - Primary title: k_apocory
+385 - sub vassal: d_bocada - Title given to 1009511 - Primary title: k_apocory
+385 - Holder (1009511) has gained d_bocada
+385 - sub vassal: c_rosyayka - Holder 1009511 - Primary title: c_rosyayka has lost the title: c_rosyayka
+385 - sub vassal: c_rosyayka - Title given to 1009511 - Primary title: k_apocory
+385 - Holder (1009511) has gained c_rosyayka
+385 - sub vassal: c_dosomil - Holder 1009511 - Primary title: c_dosomil has lost the title: c_dosomil
+385 - sub vassal: c_dosomil - Title given to 1009511 - Primary title: k_apocory
+385 - Holder (1009511) has gained c_dosomil
+385 - sub vassal: c_tosalk - Holder 1009511 - Primary title: c_tosalk has lost the title: c_tosalk
+385 - sub vassal: c_tosalk - Title given to 1009511 - Primary title: k_apocory
+385 - Holder (1009511) has gained c_tosalk
+385 - sub vassal: c_etegada - Holder 1009511 - Primary title: c_etegada has lost the title: c_etegada
+385 - sub vassal: c_etegada - Title given to 1009511 - Primary title: k_apocory
+385 - Holder (1009511) has gained c_etegada
+385 - sub vassal: c_ecaloj - Holder 1009511 - Primary title: c_ecaloj has lost the title: c_ecaloj
+385 - sub vassal: c_ecaloj - Title given to 1009511 - Primary title: k_apocory
+385 - Holder (1009511) has gained c_ecaloj
+386 - Holder 1017142 - Primary title: k_apocory has lost the title: c_rocalk
+386 - vassal: c_rocalk - Title given to 1017142
+386 - sub vassal: c_rocalk - Title given to 1017142
+387 - vassal: d_kegoj - Holder 1014601 - Primary title: d_kegoj has lost the title: d_kegoj
+387 - sub vassal: d_kegoj - Holder 1014601 - Primary title: d_kegoj has lost the title: d_kegoj
+387 - vassal: d_kegoj - Title given to 1014601
+387 - sub vassal: d_kegoj - Title given to 1014601
+387 - sub vassal: c_nonomil - Holder 1014601 - Primary title: c_nonomil has lost the title: c_nonomil
+387 - sub vassal: c_nonomil - Title given to 1014601 - Primary title: d_kegoj
+387 - vassal: d_kegoj - Holder (1014601) has gained c_nonomil
+387 - sub vassal: d_kegoj - Holder (1014601) has gained c_nonomil
+390 - Holder 1017203 - Primary title: k_apocory has lost the title: k_apocory
+390 - Title given to 1017203
+390 - vassal: d_qanalk - Holder 1017203 - Primary title: d_qanalk has lost the title: d_qanalk
+390 - sub vassal: d_qanalk - Holder 1017203 - Primary title: d_qanalk has lost the title: d_qanalk
+390 - vassal: d_qanalk - Title given to 1017203 - Primary title: k_apocory
+390 - sub vassal: d_qanalk - Title given to 1017203 - Primary title: k_apocory
+390 - Holder (1017203) has gained d_qanalk
+390 - vassal: d_bocada - Holder 1017203 - Primary title: d_bocada has lost the title: d_bocada
+390 - sub vassal: d_bocada - Holder 1017203 - Primary title: d_bocada has lost the title: d_bocada
+390 - vassal: d_bocada - Title given to 1017203 - Primary title: k_apocory
+390 - sub vassal: d_bocada - Title given to 1017203 - Primary title: k_apocory
+390 - Holder (1017203) has gained d_bocada
+390 - sub vassal: c_rosyayka - Holder 1017203 - Primary title: c_rosyayka has lost the title: c_rosyayka
+390 - sub vassal: c_rosyayka - Title given to 1017203 - Primary title: k_apocory
+390 - Holder (1017203) has gained c_rosyayka
+390 - sub vassal: c_dosomil - Holder 1017203 - Primary title: c_dosomil has lost the title: c_dosomil
+390 - sub vassal: c_dosomil - Title given to 1017203 - Primary title: k_apocory
+390 - Holder (1017203) has gained c_dosomil
+390 - sub vassal: c_tosalk - Holder 1017203 - Primary title: c_tosalk has lost the title: c_tosalk
+390 - sub vassal: c_tosalk - Title given to 1017203 - Primary title: k_apocory
+390 - Holder (1017203) has gained c_tosalk
+390 - sub vassal: c_etegada - Holder 1017203 - Primary title: c_etegada has lost the title: c_etegada
+390 - sub vassal: c_etegada - Title given to 1017203 - Primary title: k_apocory
+390 - Holder (1017203) has gained c_etegada
+390 - sub vassal: c_ecaloj - Holder 1017203 - Primary title: c_ecaloj has lost the title: c_ecaloj
+390 - sub vassal: c_ecaloj - Title given to 1017203 - Primary title: k_apocory
+390 - Holder (1017203) has gained c_ecaloj
+393 - vassal: d_agonuaz - Holder 1014522 - Primary title: d_agonuaz has lost the title: d_agonuaz
+393 - sub vassal: d_agonuaz - Holder 1014522 - Primary title: d_agonuaz has lost the title: d_agonuaz
+393 - vassal: d_agonuaz - Title given to 1014522
+393 - sub vassal: d_agonuaz - Title given to 1014522
+393 - sub vassal: c_talory - Setting to vassal of d_tacasz in Validate Realm
+393 - vassal: d_agonuaz - Lost vassal: c_talory
+393 - sub vassal: d_agonuaz - Lost vassal: c_talory
+393 - vassal: d_tacasz - Gained vassal: c_talory
+393 - sub vassal: d_tacasz - Gained vassal: c_talory
+393 - vassal: d_tacasz - Holder 1014522 - Primary title: d_tacasz has lost the title: d_tacasz
+393 - sub vassal: d_tacasz - Holder 1014522 - Primary title: d_tacasz has lost the title: d_tacasz
+393 - vassal: d_tacasz - Title given to 1014522 - Primary title: d_agonuaz
+393 - sub vassal: d_tacasz - Title given to 1014522 - Primary title: d_agonuaz
+393 - vassal: d_agonuaz - Holder (1014522) has gained d_tacasz
+393 - sub vassal: d_agonuaz - Holder (1014522) has gained d_tacasz
+393 - sub vassal: c_talory - Holder 1014522 - Primary title: c_talory has lost the title: c_talory
+393 - sub vassal: c_talory - Title given to 1014522 - Primary title: d_agonuaz
+393 - vassal: d_agonuaz - Holder (1014522) has gained c_talory
+393 - sub vassal: d_agonuaz - Holder (1014522) has gained c_talory
+393 - sub vassal: c_winguaz - Holder 1014522 - Primary title: c_winguaz has lost the title: c_winguaz
+393 - sub vassal: c_winguaz - Title given to 1014522 - Primary title: d_agonuaz
+393 - vassal: d_agonuaz - Holder (1014522) has gained c_winguaz
+393 - sub vassal: d_agonuaz - Holder (1014522) has gained c_winguaz
+393 - sub vassal: c_nanada - Holder 1014522 - Primary title: c_nanada has lost the title: c_nanada
+393 - sub vassal: c_nanada - Title given to 1014522 - Primary title: d_agonuaz
+393 - vassal: d_agonuaz - Holder (1014522) has gained c_nanada
+393 - sub vassal: d_agonuaz - Holder (1014522) has gained c_nanada
+393 - sub vassal: c_bosory - Holder 1014522 - Primary title: c_bosory has lost the title: c_bosory
+393 - sub vassal: c_bosory - Title given to 1014522 - Primary title: d_agonuaz
+393 - vassal: d_agonuaz - Holder (1014522) has gained c_bosory
+393 - sub vassal: d_agonuaz - Holder (1014522) has gained c_bosory
+394 - vassal: d_agonuaz - Destroyed due to flagged problem
+394 - sub vassal: d_agonuaz - Destroyed due to flagged problem
+394 - vassal: d_agonuaz - Made independent
+394 - sub vassal: d_agonuaz - Made independent
+400 - vassal: c_qosalk - Holder 1010242 - Primary title: c_qosalk has lost the title: c_qosalk
+400 - sub vassal: c_qosalk - Holder 1010242 - Primary title: c_qosalk has lost the title: c_qosalk
+400 - vassal: c_qosalk - Title given to 1010242 - Primary title: c_tanasz
+400 - sub vassal: c_qosalk - Title given to 1010242 - Primary title: c_tanasz
+400 - vassal: c_tanasz - Holder (1010242) has gained c_qosalk
+400 - sub vassal: c_tanasz - Holder (1010242) has gained c_qosalk
+400 - vassal: c_lacalk - Holder 1010242 - Primary title: c_lacalk has lost the title: c_lacalk
+400 - sub vassal: c_lacalk - Holder 1010242 - Primary title: c_lacalk has lost the title: c_lacalk
+400 - vassal: c_lacalk - Title given to 1010242 - Primary title: c_qosalk
+400 - sub vassal: c_lacalk - Title given to 1010242 - Primary title: c_qosalk
+400 - vassal: c_qosalk - Holder (1010242) has gained c_lacalk
+400 - sub vassal: c_qosalk - Holder (1010242) has gained c_lacalk
+400 - vassal: c_losilip - Holder 1010242 - Primary title: c_losilip has lost the title: c_losilip
+400 - sub vassal: c_losilip - Holder 1010242 - Primary title: c_losilip has lost the title: c_losilip
+400 - vassal: c_losilip - Title given to 1010242 - Primary title: c_lacalk
+400 - sub vassal: c_losilip - Title given to 1010242 - Primary title: c_lacalk
+400 - vassal: c_lacalk - Holder (1010242) has gained c_losilip
+400 - sub vassal: c_lacalk - Holder (1010242) has gained c_losilip
+400 - vassal: c_kegasz - Holder 1017203 - Primary title: c_kegasz has lost the title: c_kegasz
+400 - sub vassal: c_kegasz - Holder 1017203 - Primary title: c_kegasz has lost the title: c_kegasz
+400 - vassal: c_kegasz - Title given to 1017203 - Primary title: k_apocory
+400 - sub vassal: c_kegasz - Title given to 1017203 - Primary title: k_apocory
+400 - Holder (1017203) has gained c_kegasz
+400 - sub vassal: c_kegilip - Holder 1014522 - Primary title: c_kegilip has lost the title: c_kegilip
+400 - sub vassal: c_kegilip - Title given to 1014522 - Primary title: d_tacasz
+400 - vassal: d_tacasz - Holder (1014522) has gained c_kegilip
+400 - sub vassal: d_tacasz - Holder (1014522) has gained c_kegilip
+400 - sub vassal: c_wyutomil - Holder 1017203 - Primary title: c_wyutomil has lost the title: c_kacasz
+400 - sub vassal: c_kacasz - Title given to 1017203 - Primary title: k_apocory
+400 - Holder (1017203) has gained c_kacasz
+400 - sub vassal: c_wyutomil - Holder 1017203 - Primary title: c_wyutomil has lost the title: c_wyutomil
+400 - sub vassal: c_wyutomil - Title given to 1017203 - Primary title: k_apocory
+400 - Holder (1017203) has gained c_wyutomil
+400 - vassal: c_nenas - Holder 1017203 - Primary title: c_nenas has lost the title: c_nenas
+400 - sub vassal: c_nenas - Holder 1017203 - Primary title: c_nenas has lost the title: c_nenas
+400 - vassal: c_nenas - Title given to 1017203 - Primary title: k_apocory
+400 - sub vassal: c_nenas - Title given to 1017203 - Primary title: k_apocory
+400 - Holder (1017203) has gained c_nenas
+400 - sub vassal: c_talomil - Holder 1014601 - Primary title: c_talomil has lost the title: c_talomil
+400 - sub vassal: c_talomil - Title given to 1014601 - Primary title: d_kegoj
+400 - vassal: d_kegoj - Holder (1014601) has gained c_talomil
+400 - sub vassal: d_kegoj - Holder (1014601) has gained c_talomil
+400 - sub vassal: c_epocasz - Holder 1014601 - Primary title: c_epocasz has lost the title: c_epocasz
+400 - sub vassal: c_epocasz - Title given to 1014601 - Primary title: d_kegoj
+400 - vassal: d_kegoj - Holder (1014601) has gained c_epocasz
+400 - sub vassal: d_kegoj - Holder (1014601) has gained c_epocasz
+400 - vassal: c_losilip - Holder 1014522 - Primary title: c_losilip has lost the title: c_tanasz
+400 - sub vassal: c_losilip - Holder 1014522 - Primary title: c_losilip has lost the title: c_tanasz
+400 - vassal: c_tanasz - Title given to 1014522 - Primary title: d_tacasz
+400 - sub vassal: c_tanasz - Title given to 1014522 - Primary title: d_tacasz
+400 - vassal: d_tacasz - Holder (1014522) has gained c_tanasz
+400 - sub vassal: d_tacasz - Holder (1014522) has gained c_tanasz
+400 - vassal: c_tanasz - Setting to vassal of d_tacasz in Validate Realm
+400 - sub vassal: c_tanasz - Setting to vassal of d_tacasz in Validate Realm
+400 - Lost vassal: c_tanasz
+400 - vassal: d_tacasz - Gained vassal: c_tanasz
+400 - sub vassal: d_tacasz - Gained vassal: c_tanasz
+400 - vassal: c_losilip - Holder 1014522 - Primary title: c_losilip has lost the title: c_qosalk
+400 - sub vassal: c_losilip - Holder 1014522 - Primary title: c_losilip has lost the title: c_qosalk
+400 - vassal: c_qosalk - Title given to 1014522 - Primary title: d_tacasz
+400 - sub vassal: c_qosalk - Title given to 1014522 - Primary title: d_tacasz
+400 - vassal: d_tacasz - Holder (1014522) has gained c_qosalk
+400 - sub vassal: d_tacasz - Holder (1014522) has gained c_qosalk
+400 - vassal: c_qosalk - Setting to vassal of d_tacasz in Validate Realm
+400 - sub vassal: c_qosalk - Setting to vassal of d_tacasz in Validate Realm
+400 - Lost vassal: c_qosalk
+400 - vassal: d_tacasz - Gained vassal: c_qosalk
+400 - sub vassal: d_tacasz - Gained vassal: c_qosalk
+400 - vassal: c_losilip - Holder 1014522 - Primary title: c_losilip has lost the title: c_lacalk
+400 - sub vassal: c_losilip - Holder 1014522 - Primary title: c_losilip has lost the title: c_lacalk
+400 - vassal: c_lacalk - Title given to 1014522 - Primary title: d_tacasz
+400 - sub vassal: c_lacalk - Title given to 1014522 - Primary title: d_tacasz
+400 - vassal: d_tacasz - Holder (1014522) has gained c_lacalk
+400 - sub vassal: d_tacasz - Holder (1014522) has gained c_lacalk
+400 - vassal: c_lacalk - Setting to vassal of d_tacasz in Validate Realm
+400 - sub vassal: c_lacalk - Setting to vassal of d_tacasz in Validate Realm
+400 - Lost vassal: c_lacalk
+400 - vassal: d_tacasz - Gained vassal: c_lacalk
+400 - sub vassal: d_tacasz - Gained vassal: c_lacalk
+400 - vassal: c_losilip - Holder 1014522 - Primary title: c_losilip has lost the title: c_losilip
+400 - sub vassal: c_losilip - Holder 1014522 - Primary title: c_losilip has lost the title: c_losilip
+400 - vassal: c_losilip - Title given to 1014522 - Primary title: d_tacasz
+400 - sub vassal: c_losilip - Title given to 1014522 - Primary title: d_tacasz
+400 - vassal: d_tacasz - Holder (1014522) has gained c_losilip
+400 - sub vassal: d_tacasz - Holder (1014522) has gained c_losilip
+400 - vassal: c_losilip - Setting to vassal of d_tacasz in Validate Realm
+400 - sub vassal: c_losilip - Setting to vassal of d_tacasz in Validate Realm
+400 - Lost vassal: c_losilip
+400 - vassal: d_tacasz - Gained vassal: c_losilip
+400 - sub vassal: d_tacasz - Gained vassal: c_losilip

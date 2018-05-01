@@ -1,0 +1,323 @@
+200 - Title given to 1001088
+200 - vassal: c_wary - Given to 1001091 via AddCharacterForTitle
+200 - sub vassal: c_wary - Given to 1001091 via AddCharacterForTitle
+200 - vassal: c_wary - Holder 1001091 - Primary title: c_wary has lost the title: c_wary
+200 - sub vassal: c_wary - Holder 1001091 - Primary title: c_wary has lost the title: c_wary
+200 - vassal: c_wary - Title given to 1001091
+200 - sub vassal: c_wary - Title given to 1001091
+200 - vassal: c_qicona - Given to 1001093 via AddCharacterForTitle
+200 - sub vassal: c_qicona - Given to 1001093 via AddCharacterForTitle
+200 - vassal: c_qicona - Holder 1001093 - Primary title: c_qicona has lost the title: c_qicona
+200 - sub vassal: c_qicona - Holder 1001093 - Primary title: c_qicona has lost the title: c_qicona
+200 - vassal: c_qicona - Title given to 1001093
+200 - sub vassal: c_qicona - Title given to 1001093
+200 - vassal: c_kare - Holder 1001088 - Primary title: c_kare has lost the title: c_kare
+200 - sub vassal: c_kare - Holder 1001088 - Primary title: c_kare has lost the title: c_kare
+200 - vassal: c_kare - Title given to 1001088 - Primary title: d_navault
+200 - sub vassal: c_kare - Title given to 1001088 - Primary title: d_navault
+200 - Holder (1001088) has gained c_kare
+200 - vassal: c_wary - Holder 1001088 - Primary title: c_wary has lost the title: c_wary
+200 - sub vassal: c_wary - Holder 1001088 - Primary title: c_wary has lost the title: c_wary
+200 - vassal: c_wary - Title given to 1001088 - Primary title: d_navault
+200 - sub vassal: c_wary - Title given to 1001088 - Primary title: d_navault
+200 - Holder (1001088) has gained c_wary
+200 - vassal: c_qicona - Holder 1001088 - Primary title: c_qicona has lost the title: c_qicona
+200 - sub vassal: c_qicona - Holder 1001088 - Primary title: c_qicona has lost the title: c_qicona
+200 - vassal: c_qicona - Title given to 1001088 - Primary title: d_navault
+200 - sub vassal: c_qicona - Title given to 1001088 - Primary title: d_navault
+200 - Holder (1001088) has gained c_qicona
+210 - Holder 1001859 - Primary title: d_navault has lost the title: d_navault
+210 - Title given to 1001859
+210 - vassal: c_qicona - Holder 1001859 - Primary title: c_qicona has lost the title: c_qicona
+210 - vassal: c_qicona - Title given to 1001859 - Primary title: d_navault
+210 - Holder (1001859) has gained c_qicona
+210 - vassal: c_wary - Holder 1001859 - Primary title: c_wary has lost the title: c_wary
+210 - vassal: c_wary - Title given to 1001859 - Primary title: d_navault
+210 - Holder (1001859) has gained c_wary
+210 - vassal: c_kare - Holder 1001859 - Primary title: c_kare has lost the title: c_kare
+210 - vassal: c_kare - Title given to 1001859 - Primary title: d_navault
+210 - Holder (1001859) has gained c_kare
+217 - Holder 1003530 - Primary title: d_navault has lost the title: d_navault
+217 - Title given to 1003530
+217 - vassal: c_qicona - Holder 1003530 - Primary title: c_qicona has lost the title: c_qicona
+217 - vassal: c_qicona - Title given to 1003530 - Primary title: d_navault
+217 - Holder (1003530) has gained c_qicona
+217 - vassal: c_wary - Holder 1003530 - Primary title: c_wary has lost the title: c_wary
+217 - vassal: c_wary - Title given to 1003530 - Primary title: d_navault
+217 - Holder (1003530) has gained c_wary
+217 - vassal: c_kare - Holder 1003530 - Primary title: c_kare has lost the title: c_kare
+217 - vassal: c_kare - Title given to 1003530 - Primary title: d_navault
+217 - Holder (1003530) has gained c_kare
+229 - Captured byd_nisesi in minor war
+229 - Made independent
+229 - Given to 1002355 in minor war along with lower
+229 - Holder 1002355 - Primary title: d_navault has lost the title: d_navault
+229 - Title given to 1002355 - Primary title: d_nisesi
+229 - vassal: c_kare - Holder 1002355 - Primary title: c_kare has lost the title: c_kare
+229 - vassal: c_kare - Title given to 1002355 - Primary title: d_nisesi
+229 - vassal: c_wary - Holder 1002355 - Primary title: c_wary has lost the title: c_wary
+229 - vassal: c_wary - Title given to 1002355 - Primary title: d_nisesi
+229 - vassal: c_qicona - Holder 1002355 - Primary title: c_qicona has lost the title: c_qicona
+229 - vassal: c_qicona - Title given to 1002355 - Primary title: d_nisesi
+230 - vassal: c_kare - Title given to 1004511
+230 - vassal: c_qicona - Title given to 1004512
+230 - vassal: c_wary - Title given to 1004513
+240 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+240 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+240 - Gained vassal: c_tevna
+240 - Gained vassal: c_tevna
+240 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+240 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+240 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+240 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+240 - Gained vassal: c_lisamin
+240 - Gained vassal: c_lisamin
+240 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+240 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+241 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+241 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+241 - Lost vassal: c_tevna
+241 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+241 - Gained vassal: c_tevna
+241 - Gained vassal: c_tevna
+241 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+241 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+241 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+241 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+241 - Lost vassal: c_lisamin
+241 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+241 - Gained vassal: c_lisamin
+241 - Gained vassal: c_lisamin
+241 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+241 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+242 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+242 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+242 - Lost vassal: c_tevna
+242 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+242 - Gained vassal: c_tevna
+242 - Gained vassal: c_tevna
+242 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+242 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+242 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+242 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+242 - Lost vassal: c_lisamin
+242 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+242 - Gained vassal: c_lisamin
+242 - Gained vassal: c_lisamin
+242 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+242 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+243 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+243 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+243 - Lost vassal: c_tevna
+243 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+243 - Gained vassal: c_tevna
+243 - Gained vassal: c_tevna
+243 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+243 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+243 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+243 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+243 - Lost vassal: c_lisamin
+243 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+243 - Gained vassal: c_lisamin
+243 - Gained vassal: c_lisamin
+243 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+243 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+244 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+244 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+244 - Lost vassal: c_tevna
+244 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+244 - Gained vassal: c_tevna
+244 - Gained vassal: c_tevna
+244 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+244 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+244 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+244 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+244 - Lost vassal: c_lisamin
+244 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+244 - Gained vassal: c_lisamin
+244 - Gained vassal: c_lisamin
+244 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+244 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+245 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+245 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+245 - Lost vassal: c_tevna
+245 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+245 - Gained vassal: c_tevna
+245 - Gained vassal: c_tevna
+245 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+245 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+245 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+245 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+245 - Lost vassal: c_lisamin
+245 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+245 - Gained vassal: c_lisamin
+245 - Gained vassal: c_lisamin
+245 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+245 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+246 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+246 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+246 - Lost vassal: c_tevna
+246 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+246 - Gained vassal: c_tevna
+246 - Gained vassal: c_tevna
+246 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+246 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+246 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+246 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+246 - Lost vassal: c_lisamin
+246 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+246 - Gained vassal: c_lisamin
+246 - Gained vassal: c_lisamin
+246 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+246 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+247 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+247 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+247 - Lost vassal: c_tevna
+247 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+247 - Gained vassal: c_tevna
+247 - Gained vassal: c_tevna
+247 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+247 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+247 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+247 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+247 - Lost vassal: c_lisamin
+247 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+247 - Gained vassal: c_lisamin
+247 - Gained vassal: c_lisamin
+247 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+247 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+247 - Holder 1004512 - Primary title: d_navault has lost the title: d_navault
+247 - Title given to 1004512 - Primary title: c_qicona
+247 - vassal: c_qicona - Holder (1004512) has gained d_navault
+247 - sub vassal: c_qicona - Holder (1004512) has gained d_navault
+247 - vassal: c_tevna - Setting to vassal of d_nisesi in Validate Realm
+247 - Lost vassal: c_tevna
+247 - vassal: c_lisamin - Setting to vassal of d_nisesi in Validate Realm
+247 - Lost vassal: c_lisamin
+247 - Holder (1004512) has gained d_nisesi
+247 - sub vassal: c_tevna - Holder 1004512 - Primary title: c_tevna has lost the title: c_tevna
+247 - sub vassal: c_tevna - Title given to 1004512 - Primary title: d_navault
+247 - Holder (1004512) has gained c_tevna
+247 - sub vassal: c_lisamin - Holder 1004512 - Primary title: c_lisamin has lost the title: c_lisamin
+247 - sub vassal: c_lisamin - Title given to 1004512 - Primary title: d_navault
+247 - Holder (1004512) has gained c_lisamin
+247 - sub vassal: c_kiadwi - Holder 1004512 - Primary title: c_kiadwi has lost the title: c_kiadwi
+247 - sub vassal: c_kiadwi - Title given to 1004512 - Primary title: d_navault
+247 - Holder (1004512) has gained c_kiadwi
+247 - sub vassal: c_dimevna - Holder 1004512 - Primary title: c_dimevna has lost the title: c_dimevna
+247 - sub vassal: c_dimevna - Title given to 1004512 - Primary title: d_navault
+247 - Holder (1004512) has gained c_dimevna
+247 - sub vassal: c_tary - Holder 1004512 - Primary title: c_tary has lost the title: c_tary
+247 - sub vassal: c_tary - Title given to 1004512 - Primary title: d_navault
+247 - Holder (1004512) has gained c_tary
+248 - Holder 1005901 - Primary title: d_navault has lost the title: c_dimevna
+248 - sub vassal: c_dimevna - Title given to 1005901
+248 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+248 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+248 - Gained vassal: c_tevna
+248 - Gained vassal: c_tevna
+248 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+248 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+248 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+248 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+248 - Gained vassal: c_lisamin
+248 - Gained vassal: c_lisamin
+248 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+248 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+249 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+249 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+249 - Lost vassal: c_tevna
+249 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+249 - Gained vassal: c_tevna
+249 - Gained vassal: c_tevna
+249 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+249 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+249 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+249 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+249 - Lost vassal: c_lisamin
+249 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+249 - Gained vassal: c_lisamin
+249 - Gained vassal: c_lisamin
+249 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+249 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+250 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+250 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+250 - Lost vassal: c_tevna
+250 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+250 - Gained vassal: c_tevna
+250 - Gained vassal: c_tevna
+250 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+250 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+250 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+250 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+250 - Lost vassal: c_lisamin
+250 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+250 - Gained vassal: c_lisamin
+250 - Gained vassal: c_lisamin
+250 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+250 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+251 - vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+251 - sub vassal: c_tevna - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+251 - Lost vassal: c_tevna
+251 - sub vassal: c_tevna - Setting to vassal of d_navault in Validate Realm
+251 - Gained vassal: c_tevna
+251 - Gained vassal: c_tevna
+251 - vassal: c_tevna - Given to neighbour holder of k_nuqopti
+251 - sub vassal: c_tevna - Given to neighbour holder of k_nuqopti
+251 - vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+251 - sub vassal: c_lisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+251 - Lost vassal: c_lisamin
+251 - sub vassal: c_lisamin - Setting to vassal of d_navault in Validate Realm
+251 - Gained vassal: c_lisamin
+251 - Gained vassal: c_lisamin
+251 - vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+251 - sub vassal: c_lisamin - Given to neighbour holder of k_nuqopti
+252 - Holder (1004512) has gained d_kurare
+252 - vassal: c_qicona - Set liege on title creation d_kurare
+252 - sub vassal: c_qicona - Set liege on title creation d_kurare
+252 - Lost vassal: c_qicona
+252 - vassal: c_tevna - Set liege on title creation d_kurare
+252 - sub vassal: c_tevna - Set liege on title creation d_kurare
+252 - Lost vassal: c_tevna
+252 - vassal: c_lisamin - Set liege on title creation d_kurare
+252 - sub vassal: c_lisamin - Set liege on title creation d_kurare
+252 - Lost vassal: c_lisamin
+252 - sub vassal: c_kiadwi - Set liege on title creation d_kurare
+252 - sub vassal: c_tary - Set liege on title creation d_kurare
+252 - sub vassal: c_tevna - Setting independent due to liege destruction
+252 - sub vassal: c_tevna - Made independent
+252 - sub vassal: c_qicona - Setting independent due to liege destruction
+252 - sub vassal: c_qicona - Made independent
+252 - sub vassal: c_tary - Setting independent due to liege destruction
+252 - sub vassal: c_tary - Made independent
+252 - sub vassal: c_kiadwi - Setting independent due to liege destruction
+252 - sub vassal: c_kiadwi - Made independent
+252 - sub vassal: c_lisamin - Setting independent due to liege destruction
+252 - sub vassal: c_lisamin - Made independent
+252 - Holder 1001502 - Primary title: d_navault has lost the title: c_tevna
+252 - Holder 1001502 - Primary title: d_navault has lost the title: c_lisamin
+267 - Holder 1006490 - Primary title: d_navault has lost the title: d_navault
+267 - Title given to 1006490
+267 - Holder (1006490) has gained d_nisesi
+267 - sub vassal: c_dimevna - Holder 1006490 - Primary title: c_dimevna has lost the title: c_dimevna
+267 - sub vassal: c_dimevna - Title given to 1006490 - Primary title: d_navault
+267 - Holder (1006490) has gained c_dimevna
+267 - Holder (1006490) has gained c_qicona
+267 - Holder (1006490) has gained c_kiadwi
+267 - Holder (1006490) has gained c_tary
+276 - Holder 1007540 - Primary title: d_navault has lost the title: d_nisesi
+277 - sub vassal: c_dimevna - Assigned in handle titles: d_navault
+277 - Gained vassal: c_dimevna
+317 - Holder 1008198 - Primary title: d_navault has lost the title: d_navault
+317 - Title given to 1008198
+317 - vassal: c_dimevna - Holder 1008198 - Primary title: c_dimevna has lost the title: c_dimevna
+317 - sub vassal: c_dimevna - Holder 1008198 - Primary title: c_dimevna has lost the title: c_dimevna
+317 - vassal: c_dimevna - Title given to 1008198 - Primary title: d_navault
+317 - sub vassal: c_dimevna - Title given to 1008198 - Primary title: d_navault
+317 - Holder (1008198) has gained c_dimevna
+317 - Holder (1008198) has gained c_qicona
+317 - Holder (1008198) has gained c_kiadwi
+317 - Holder (1008198) has gained c_tary
+324 - Holder (1008198) has gained d_nisesi
+324 - vassal: c_dimevna - Set liege on title creation d_nisesi
+324 - sub vassal: c_dimevna - Set liege o

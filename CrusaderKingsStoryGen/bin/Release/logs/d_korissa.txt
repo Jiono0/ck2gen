@@ -1,0 +1,118 @@
+200 - Title given to 1000891
+200 - vassal: c_korar - Given to 1000894 via AddCharacterForTitle
+200 - sub vassal: c_korar - Given to 1000894 via AddCharacterForTitle
+200 - vassal: c_korar - Holder 1000894 - Primary title: c_korar has lost the title: c_korar
+200 - sub vassal: c_korar - Holder 1000894 - Primary title: c_korar has lost the title: c_korar
+200 - vassal: c_korar - Title given to 1000894
+200 - sub vassal: c_korar - Title given to 1000894
+200 - vassal: c_qeinumer - Holder 1000891 - Primary title: c_qeinumer has lost the title: c_qeinumer
+200 - sub vassal: c_qeinumer - Holder 1000891 - Primary title: c_qeinumer has lost the title: c_qeinumer
+200 - vassal: c_qeinumer - Title given to 1000891 - Primary title: d_korissa
+200 - sub vassal: c_qeinumer - Title given to 1000891 - Primary title: d_korissa
+200 - Holder (1000891) has gained c_qeinumer
+200 - vassal: c_korar - Holder 1000891 - Primary title: c_korar has lost the title: c_korar
+200 - sub vassal: c_korar - Holder 1000891 - Primary title: c_korar has lost the title: c_korar
+200 - vassal: c_korar - Title given to 1000891 - Primary title: d_korissa
+200 - sub vassal: c_korar - Title given to 1000891 - Primary title: d_korissa
+200 - Holder (1000891) has gained c_korar
+221 - Holder 1002372 - Primary title: d_korissa has lost the title: d_korissa
+221 - Title given to 1002372
+221 - vassal: c_qeinumer - Holder 1002372 - Primary title: c_qeinumer has lost the title: c_qeinumer
+221 - vassal: c_qeinumer - Title given to 1002372 - Primary title: d_korissa
+221 - Holder (1002372) has gained c_qeinumer
+221 - vassal: c_korar - Holder 1002372 - Primary title: c_korar has lost the title: c_korar
+221 - vassal: c_korar - Title given to 1002372 - Primary title: d_korissa
+221 - Holder (1002372) has gained c_korar
+237 - Holder 1004313 - Primary title: d_korissa has lost the title: d_korissa
+237 - Title given to 1004313
+237 - vassal: c_qeinumer - Holder 1004313 - Primary title: c_qeinumer has lost the title: c_qeinumer
+237 - vassal: c_qeinumer - Title given to 1004313 - Primary title: d_korissa
+237 - Holder (1004313) has gained c_qeinumer
+237 - vassal: c_korar - Holder 1004313 - Primary title: c_korar has lost the title: c_korar
+237 - vassal: c_korar - Title given to 1004313 - Primary title: d_korissa
+237 - Holder (1004313) has gained c_korar
+244 - Holder 1005876 - Primary title: d_korissa has lost the title: d_korissa
+244 - Title given to 1005876
+244 - vassal: c_korar - Holder 1005876 - Primary title: c_korar has lost the title: c_korar
+244 - vassal: c_korar - Title given to 1005876 - Primary title: d_korissa
+244 - Holder (1005876) has gained c_korar
+244 - vassal: c_qeinumer - Holder 1005876 - Primary title: c_qeinumer has lost the title: c_qeinumer
+244 - vassal: c_qeinumer - Title given to 1005876 - Primary title: d_korissa
+244 - Holder (1005876) has gained c_qeinumer
+279 - Holder 1007234 - Primary title: d_korissa has lost the title: d_korissa
+279 - Title given to 1007234
+279 - vassal: c_qeinumer - Holder 1007234 - Primary title: c_qeinumer has lost the title: c_qeinumer
+279 - vassal: c_qeinumer - Title given to 1007234 - Primary title: d_korissa
+279 - Holder (1007234) has gained c_qeinumer
+279 - vassal: c_korar - Holder 1007234 - Primary title: c_korar has lost the title: c_korar
+279 - vassal: c_korar - Title given to 1007234 - Primary title: d_korissa
+279 - Holder (1007234) has gained c_korar
+310 - Holder 1011607 - Primary title: d_korissa has lost the title: d_korissa
+310 - Title given to 1011607
+310 - vassal: c_qeinumer - Holder 1011607 - Primary title: c_qeinumer has lost the title: c_qeinumer
+310 - vassal: c_qeinumer - Title given to 1011607 - Primary title: d_korissa
+310 - Holder (1011607) has gained c_qeinumer
+310 - vassal: c_korar - Holder 1011607 - Primary title: c_korar has lost the title: c_korar
+310 - vassal: c_korar - Title given to 1011607 - Primary title: d_korissa
+310 - Holder (1011607) has gained c_korar
+313 - Holder 1011074 - Primary title: d_korissa has lost the title: d_korissa
+313 - Title given to 1011074 - Primary title: k_nacaba
+313 - vassal: c_qeinumer - Holder 1011074 - Primary title: c_qeinumer has lost the title: c_qeinumer
+313 - vassal: c_qeinumer - Title given to 1011074 - Primary title: k_nacaba
+313 - vassal: c_korar - Holder 1011074 - Primary title: c_korar has lost the title: c_korar
+313 - vassal: c_korar - Title given to 1011074 - Primary title: k_nacaba
+313 - vassal: c_qeinumer - Title given to 1011899
+313 - vassal: c_korar - Title given to 1009173
+323 - Holder 1011259 - Primary title: d_korissa has lost the title: d_korissa
+323 - Title given to 1011259 - Primary title: k_nacaba
+335 - vassal: c_qeinumer - Given to 1013533 in HandleTitles - Too many duke titles
+335 - vassal: c_qeinumer - Holder 1013533 - Primary title: c_qeinumer has lost the title: c_qeinumer
+335 - vassal: c_qeinumer - Title given to 1013533
+335 - Title given to 1013533 - Primary title: c_qeinumer
+335 - vassal: c_qeinumer - Holder (1013533) has gained d_korissa
+335 - Too many dukes, given to dejure: k_nacaba
+351 - Holder 1013589 - Primary title: d_korissa has lost the title: d_korissa
+351 - Title given to 1013589
+351 - vassal: c_qeinumer - Holder 1013589 - Primary title: c_qeinumer has lost the title: c_qeinumer
+351 - vassal: c_qeinumer - Title given to 1013589 - Primary title: d_korissa
+351 - Holder (1013589) has gained c_qeinumer
+356 - Holder 1015034 - Primary title: d_korissa has lost the title: d_korissa
+356 - Title given to 1015034
+356 - vassal: c_qeinumer - Holder 1015034 - Primary title: c_qeinumer has lost the title: c_qeinumer
+356 - vassal: c_qeinumer - Title given to 1015034 - Primary title: d_korissa
+356 - Holder (1015034) has gained c_qeinumer
+364 - Holder 1013683 - Primary title: d_korissa has lost the title: d_korissa
+364 - Title given to 1013683 - Primary title: k_nacaba
+364 - vassal: c_qeinumer - Holder 1013683 - Primary title: c_qeinumer has lost the title: c_qeinumer
+364 - vassal: c_qeinumer - Title given to 1013683 - Primary title: k_nacaba
+364 - vassal: c_qeinumer - Given to 1015606 in HandleTitles - Too many duke titles
+364 - vassal: c_qeinumer - Title given to 1015606
+364 - Title given to 1015606 - Primary title: c_qeinumer
+364 - vassal: c_qeinumer - Holder (1015606) has gained d_korissa
+364 - Too many dukes, given to dejure: k_nacaba
+367 - Holder 1013683 - Primary title: d_korissa has lost the title: d_korissa
+367 - Title given to 1013683 - Primary title: k_nacaba
+367 - vassal: c_qeinumer - Holder 1013683 - Primary title: c_qeinumer has lost the title: c_qeinumer
+367 - vassal: c_qeinumer - Title given to 1013683 - Primary title: k_nacaba
+367 - vassal: c_qeinumer - Given to 1011480 in HandleTitles - Too many duke titles
+367 - vassal: c_qeinumer - Title given to 1011480
+367 - Title given to 1011480 - Primary title: c_qeinumer
+367 - vassal: c_qeinumer - Holder (1011480) has gained d_korissa
+367 - Too many dukes, given to dejure: k_nacaba
+377 - Holder 1015943 - Primary title: d_korissa has lost the title: d_korissa
+377 - Title given to 1015943
+377 - vassal: c_qeinumer - Holder 1015943 - Primary title: c_qeinumer has lost the title: c_qeinumer
+377 - vassal: c_qeinumer - Title given to 1015943 - Primary title: d_korissa
+377 - Holder (1015943) has gained c_qeinumer
+378 - Holder 1013683 - Primary title: d_korissa has lost the title: d_korissa
+378 - Title given to 1013683 - Primary title: k_nacaba
+378 - vassal: c_qeinumer - Holder 1013683 - Primary title: c_qeinumer has lost the title: c_qeinumer
+378 - vassal: c_qeinumer - Title given to 1013683 - Primary title: k_nacaba
+378 - vassal: c_qeinumer - Given to 1016596 in HandleTitles - Too many duke titles
+378 - vassal: c_qeinumer - Title given to 1016596
+378 - Title given to 1016596 - Primary title: c_qeinumer
+378 - vassal: c_qeinumer - Holder (1016596) has gained d_korissa
+378 - Too many dukes, given to dejure: k_nacaba
+400 - vassal: c_korar - Holder 1016596 - Primary title: c_korar has lost the title: c_korar
+400 - vassal: c_korar - Title given to 1016596 - Primary title: d_korissa
+400 - Holder (1016596) has gained c_korar

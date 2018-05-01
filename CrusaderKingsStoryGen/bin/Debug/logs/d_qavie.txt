@@ -1,0 +1,57 @@
+200 - Title given to 1000108
+200 - vassal: c_lazemia - Given to 1000111 via AddCharacterForTitle
+200 - sub vassal: c_lazemia - Given to 1000111 via AddCharacterForTitle
+200 - vassal: c_lazemia - Holder 1000111 - Primary title: c_lazemia has lost the title: c_lazemia
+200 - sub vassal: c_lazemia - Holder 1000111 - Primary title: c_lazemia has lost the title: c_lazemia
+200 - vassal: c_lazemia - Title given to 1000111
+200 - sub vassal: c_lazemia - Title given to 1000111
+200 - vassal: c_namie - Holder 1000108 - Primary title: c_namie has lost the title: c_namie
+200 - sub vassal: c_namie - Holder 1000108 - Primary title: c_namie has lost the title: c_namie
+200 - vassal: c_namie - Title given to 1000108 - Primary title: d_qavie
+200 - sub vassal: c_namie - Title given to 1000108 - Primary title: d_qavie
+200 - Holder (1000108) has gained c_namie
+200 - vassal: c_lazemia - Holder 1000108 - Primary title: c_lazemia has lost the title: c_lazemia
+200 - sub vassal: c_lazemia - Holder 1000108 - Primary title: c_lazemia has lost the title: c_lazemia
+200 - vassal: c_lazemia - Title given to 1000108 - Primary title: d_qavie
+200 - sub vassal: c_lazemia - Title given to 1000108 - Primary title: d_qavie
+200 - Holder (1000108) has gained c_lazemia
+200 - vassal: c_rameij - Holder 1000108 - Primary title: c_rameij has lost the title: c_rameij
+200 - sub vassal: c_rameij - Holder 1000108 - Primary title: c_rameij has lost the title: c_rameij
+200 - vassal: c_rameij - Title given to 1000108 - Primary title: d_qavie
+200 - sub vassal: c_rameij - Title given to 1000108 - Primary title: d_qavie
+200 - Holder (1000108) has gained c_rameij
+228 - Made vassal of neighbour (k_qihike) due to being a seperate island
+228 - Given to neighbour holder of k_qihike
+228 - Holder 1003037 - Primary title: d_qavie has lost the title: d_qavie
+228 - Title given to 1003037 - Primary title: k_qihike
+252 - Gained vassal: c_taya
+252 - Gained vassal: c_locugel
+252 - Gained vassal: c_qeraya
+252 - Gained vassal: c_navenmi
+252 - Holder 1003120 - Primary title: d_qavie has lost the title: d_qavie
+252 - Title given to 1003120 - Primary title: k_qihike
+252 - vassal: c_navenmi - Holder 1003120 - Primary title: c_navenmi has lost the title: c_navenmi
+252 - vassal: c_navenmi - Title given to 1003120 - Primary title: k_qihike
+252 - vassal: c_qeraya - Holder 1003120 - Primary title: c_qeraya has lost the title: c_qeraya
+252 - vassal: c_qeraya - Title given to 1003120 - Primary title: k_qihike
+252 - vassal: c_locugel - Holder 1003120 - Primary title: c_locugel has lost the title: c_locugel
+252 - vassal: c_locugel - Title given to 1003120 - Primary title: k_qihike
+252 - vassal: c_taya - Holder 1003120 - Primary title: c_taya has lost the title: c_taya
+252 - vassal: c_taya - Title given to 1003120 - Primary title: k_qihike
+258 - Holder 1006500 - Primary title: d_qavie has lost the title: d_qavie
+258 - Title given to 1006500 - Primary title: k_qihike
+258 - vassal: c_navenmi - Holder 1006500 - Primary title: c_navenmi has lost the title: c_navenmi
+258 - vassal: c_navenmi - Title given to 1006500 - Primary title: k_qihike
+258 - vassal: c_qeraya - Holder 1006500 - Primary title: c_qeraya has lost the title: c_qeraya
+258 - vassal: c_qeraya - Title given to 1006500 - Primary title: k_qihike
+258 - vassal: c_locugel - Holder 1006500 - Primary title: c_locugel has lost the title: c_locugel
+258 - vassal: c_locugel - Title given to 1006500 - Primary title: k_qihike
+258 - vassal: c_taya - Holder 1006500 - Primary title: c_taya has lost the title: c_taya
+258 - vassal: c_taya - Title given to 1006500 - Primary title: k_qihike
+290 - vassal: c_rameij - Given to 1009034 in HandleTitles - Too many duke titles
+290 - vassal: c_namie - Holder 1009034 - Primary title: c_namie has lost the title: c_rameij
+290 - vassal: c_rameij - Title given to 1009034
+290 - Title given to 1009034 - Primary title: c_rameij
+290 - vassal: c_rameij - Holder (1009034) has gained d_qavie
+290 - vassal: c_navenmi - Setting to vassal of k_qihike in Validate Realm
+290 - Lost vassal: c

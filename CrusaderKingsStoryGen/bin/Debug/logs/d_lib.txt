@@ -1,0 +1,70 @@
+200 - Title given to 1000460
+200 - vassal: c_radar - Given to 1000463 via AddCharacterForTitle
+200 - sub vassal: c_radar - Given to 1000463 via AddCharacterForTitle
+200 - vassal: c_radar - Holder 1000463 - Primary title: c_radar has lost the title: c_radar
+200 - sub vassal: c_radar - Holder 1000463 - Primary title: c_radar has lost the title: c_radar
+200 - vassal: c_radar - Title given to 1000463
+200 - sub vassal: c_radar - Title given to 1000463
+200 - vassal: c_qille - Holder 1000460 - Primary title: c_qille has lost the title: c_qille
+200 - sub vassal: c_qille - Holder 1000460 - Primary title: c_qille has lost the title: c_qille
+200 - vassal: c_qille - Title given to 1000460 - Primary title: d_lib
+200 - sub vassal: c_qille - Title given to 1000460 - Primary title: d_lib
+200 - Holder (1000460) has gained c_qille
+200 - vassal: c_radar - Holder 1000460 - Primary title: c_radar has lost the title: c_radar
+200 - sub vassal: c_radar - Holder 1000460 - Primary title: c_radar has lost the title: c_radar
+200 - vassal: c_radar - Title given to 1000460 - Primary title: d_lib
+200 - sub vassal: c_radar - Title given to 1000460 - Primary title: d_lib
+200 - Holder (1000460) has gained c_radar
+200 - vassal: c_kisille - Holder 1000460 - Primary title: c_kisille has lost the title: c_kisille
+200 - sub vassal: c_kisille - Holder 1000460 - Primary title: c_kisille has lost the title: c_kisille
+200 - vassal: c_kisille - Title given to 1000460 - Primary title: d_lib
+200 - sub vassal: c_kisille - Title given to 1000460 - Primary title: d_lib
+200 - Holder (1000460) has gained c_kisille
+200 - Holder (1000460) has gained k_rava
+201 - vassal: c_radar - Given to 1002152 in HandleTitles - Too many duke titles
+201 - vassal: c_radar - Title given to 1002152
+201 - Title given to 1002152 - Primary title: c_radar
+201 - vassal: c_radar - Holder (1002152) has gained d_lib
+201 - vassal: c_kisille - Setting to vassal of k_rava in Validate Realm
+201 - Lost vassal: c_kisille
+201 - vassal: c_qille - Setting to vassal of k_rava in Validate Realm
+201 - Lost vassal: c_qille
+201 - Too many dukes, given to dejure: k_rava
+211 - Holder 1002442 - Primary title: d_lib has lost the title: d_lib
+211 - Title given to 1002442
+211 - vassal: c_radar - Holder 1002442 - Primary title: c_radar has lost the title: c_radar
+211 - vassal: c_radar - Title given to 1002442 - Primary title: d_lib
+211 - Holder (1002442) has gained c_radar
+212 - Holder (1002442) has gained d_kipal
+212 - Holder (1002442) has gained c_agnophia
+212 - Gained vassal: c_agnophia
+212 - Holder (1002442) has gained c_tard
+212 - Gained vassal: c_tard
+212 - Holder (1002442) has gained c_lyolomas
+212 - Gained vassal: c_lyolomas
+212 - Holder (1002442) has gained d_ruisre
+212 - Holder (1002442) has gained c_qisofni
+212 - Holder (1002442) has gained c_sadurg
+213 - vassal: c_radar - Title given to 1003244
+217 - vassal: c_agnophia - Set liege on title creation d_kipal
+217 - Lost vassal: c_agnophia
+217 - vassal: c_tard - Set liege on title creation d_kipal
+217 - Lost vassal: c_tard
+217 - vassal: c_lyolomas - Set liege on title creation d_kipal
+217 - Lost vassal: c_lyolomas
+217 - Holder 1003511 - Primary title: d_lib has lost the title: c_sadurg
+217 - Holder 1000460 - Primary title: d_lib has lost the title: d_ruisre
+217 - Holder 1001966 - Primary title: d_lib has lost the title: d_lib
+217 - Title given to 1001966 - Primary title: d_ryitald
+218 - Holder 1000460 - Primary title: d_lib has lost the title: d_kipal
+220 - Holder (1001966) has gained d_liluil
+220 - Holder (1001966) has gained c_amajayor
+223 - Holder (1001966) has gained c_lisurg
+223 - Holder (1001966) has gained c_biruvva
+223 - Holder (1001966) has gained c_qya
+224 - vassal: c_radar - Given to 1004031 in HandleTitles - Too many duke titles
+224 - vassal: c_radar - Holder 1004031 - Primary title: c_radar has lost the title: c_radar
+224 - vassal: c_radar - Title given to 1004031
+224 - Title given to 1003705 - Primary title: k_rava
+224 - Too many dukes, made direct title into vassal of k_rava
+224

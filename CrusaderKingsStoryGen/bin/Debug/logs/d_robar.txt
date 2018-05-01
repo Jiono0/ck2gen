@@ -1,0 +1,58 @@
+200 - Title given to 1000589
+200 - vassal: c_wayalet - Holder 1000589 - Primary title: c_wayalet has lost the title: c_wayalet
+200 - sub vassal: c_wayalet - Holder 1000589 - Primary title: c_wayalet has lost the title: c_wayalet
+200 - vassal: c_wayalet - Title given to 1000589 - Primary title: d_robar
+200 - sub vassal: c_wayalet - Title given to 1000589 - Primary title: d_robar
+200 - Holder (1000589) has gained c_wayalet
+200 - vassal: c_nelet - Holder 1000589 - Primary title: c_nelet has lost the title: c_nelet
+200 - sub vassal: c_nelet - Holder 1000589 - Primary title: c_nelet has lost the title: c_nelet
+200 - vassal: c_nelet - Title given to 1000589 - Primary title: d_robar
+200 - sub vassal: c_nelet - Title given to 1000589 - Primary title: d_robar
+200 - Holder (1000589) has gained c_nelet
+200 - vassal: c_tatuvdi - Title given to 1000589 - Primary title: d_robar
+200 - Holder (1000589) has gained c_tatuvdi
+219 - Holder 1002549 - Primary title: d_robar has lost the title: d_robar
+219 - Title given to 1002549
+219 - vassal: c_tatuvdi - Holder 1002549 - Primary title: c_tatuvdi has lost the title: c_tatuvdi
+219 - vassal: c_tatuvdi - Title given to 1002549 - Primary title: d_robar
+219 - Holder (1002549) has gained c_tatuvdi
+219 - vassal: c_nelet - Holder 1002549 - Primary title: c_nelet has lost the title: c_nelet
+219 - vassal: c_nelet - Title given to 1002549 - Primary title: d_robar
+219 - Holder (1002549) has gained c_nelet
+219 - vassal: c_wayalet - Holder 1002549 - Primary title: c_wayalet has lost the title: c_wayalet
+219 - vassal: c_wayalet - Title given to 1002549 - Primary title: d_robar
+219 - Holder (1002549) has gained c_wayalet
+268 - Holder 1004187 - Primary title: d_robar has lost the title: d_robar
+268 - Title given to 1004187
+268 - vassal: c_wayalet - Holder 1004187 - Primary title: c_wayalet has lost the title: c_wayalet
+268 - vassal: c_wayalet - Title given to 1004187 - Primary title: d_robar
+268 - Holder (1004187) has gained c_wayalet
+268 - vassal: c_nelet - Holder 1004187 - Primary title: c_nelet has lost the title: c_nelet
+268 - vassal: c_nelet - Title given to 1004187 - Primary title: d_robar
+268 - Holder (1004187) has gained c_nelet
+268 - vassal: c_tatuvdi - Holder 1004187 - Primary title: c_tatuvdi has lost the title: c_tatuvdi
+268 - vassal: c_tatuvdi - Title given to 1004187 - Primary title: d_robar
+268 - Holder (1004187) has gained c_tatuvdi
+282 - Holder 1008337 - Primary title: d_robar has lost the title: d_robar
+282 - Title given to 1008337
+282 - vassal: c_tatuvdi - Holder 1008337 - Primary title: c_tatuvdi has lost the title: c_tatuvdi
+282 - vassal: c_tatuvdi - Title given to 1008337 - Primary title: d_robar
+282 - Holder (1008337) has gained c_tatuvdi
+282 - vassal: c_nelet - Holder 1008337 - Primary title: c_nelet has lost the title: c_nelet
+282 - vassal: c_nelet - Title given to 1008337 - Primary title: d_robar
+282 - Holder (1008337) has gained c_nelet
+282 - vassal: c_wayalet - Holder 1008337 - Primary title: c_wayalet has lost the title: c_wayalet
+282 - vassal: c_wayalet - Title given to 1008337 - Primary title: d_robar
+282 - Holder (1008337) has gained c_wayalet
+286 - Holder 1004337 - Primary title: d_robar has lost the title: d_robar
+286 - Title given to 1004337 - Primary title: d_sodess
+286 - vassal: c_tatuvdi - Holder 1004337 - Primary title: c_tatuvdi has lost the title: c_tatuvdi
+286 - vassal: c_tatuvdi - Title given to 1004337 - Primary title: d_sodess
+286 - vassal: c_nelet - Holder 1004337 - Primary title: c_nelet has lost the title: c_nelet
+286 - vassal: c_nelet - Title given to 1004337 - Primary title: d_sodess
+286 - vassal: c_wayalet - Holder 1004337 - Primary title: c_wayalet has lost the title: c_wayalet
+286 - vassal: c_wayalet - Title given to 1004337 - Primary title: d_sodess
+294 - Holder 1007532 - Primary title: d_robar has lost the title: d_sodess
+294 - Gained vassal: c_doveke
+294 - Holder 1007532 - Primary title: d_robar has lost the title: c_doveke
+294 - vassal: c_doveke - Title given to 1007532 - Primary title: d_sodess

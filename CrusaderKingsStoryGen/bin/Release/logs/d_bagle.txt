@@ -1,0 +1,116 @@
+200 - Title given to 1000643
+200 - vassal: c_walara - Given to 1000646 via AddCharacterForTitle
+200 - sub vassal: c_walara - Given to 1000646 via AddCharacterForTitle
+200 - vassal: c_walara - Holder 1000646 - Primary title: c_walara has lost the title: c_walara
+200 - sub vassal: c_walara - Holder 1000646 - Primary title: c_walara has lost the title: c_walara
+200 - vassal: c_walara - Title given to 1000646
+200 - sub vassal: c_walara - Title given to 1000646
+200 - vassal: c_nagara - Holder 1000643 - Primary title: c_nagara has lost the title: c_nagara
+200 - sub vassal: c_nagara - Holder 1000643 - Primary title: c_nagara has lost the title: c_nagara
+200 - vassal: c_nagara - Title given to 1000643 - Primary title: d_bagle
+200 - sub vassal: c_nagara - Title given to 1000643 - Primary title: d_bagle
+200 - Holder (1000643) has gained c_nagara
+200 - vassal: c_walara - Holder 1000643 - Primary title: c_walara has lost the title: c_walara
+200 - sub vassal: c_walara - Holder 1000643 - Primary title: c_walara has lost the title: c_walara
+200 - vassal: c_walara - Title given to 1000643 - Primary title: d_bagle
+200 - sub vassal: c_walara - Title given to 1000643 - Primary title: d_bagle
+200 - Holder (1000643) has gained c_walara
+200 - vassal: c_beupala - Holder 1000643 - Primary title: c_beupala has lost the title: c_beupala
+200 - sub vassal: c_beupala - Holder 1000643 - Primary title: c_beupala has lost the title: c_beupala
+200 - vassal: c_beupala - Title given to 1000643 - Primary title: d_bagle
+200 - sub vassal: c_beupala - Title given to 1000643 - Primary title: d_bagle
+200 - Holder (1000643) has gained c_beupala
+200 - vassal: c_qozagle - Holder 1000643 - Primary title: c_qozagle has lost the title: c_qozagle
+200 - sub vassal: c_qozagle - Holder 1000643 - Primary title: c_qozagle has lost the title: c_qozagle
+200 - vassal: c_qozagle - Title given to 1000643 - Primary title: d_bagle
+200 - sub vassal: c_qozagle - Title given to 1000643 - Primary title: d_bagle
+200 - Holder (1000643) has gained c_qozagle
+204 - Holder 1000676 - Primary title: d_bagle has lost the title: d_bagle
+204 - Title given to 1000676 - Primary title: d_donine
+204 - vassal: c_qozagle - Holder 1000676 - Primary title: c_qozagle has lost the title: c_qozagle
+204 - vassal: c_qozagle - Title given to 1000676 - Primary title: d_donine
+204 - vassal: c_beupala - Holder 1000676 - Primary title: c_beupala has lost the title: c_beupala
+204 - vassal: c_beupala - Title given to 1000676 - Primary title: d_donine
+204 - vassal: c_walara - Holder 1000676 - Primary title: c_walara has lost the title: c_walara
+204 - vassal: c_walara - Title given to 1000676 - Primary title: d_donine
+204 - vassal: c_nagara - Holder 1000676 - Primary title: c_nagara has lost the title: c_nagara
+204 - vassal: c_nagara - Title given to 1000676 - Primary title: d_donine
+205 - Holder 1002744 - Primary title: d_bagle has lost the title: c_talab
+205 - Holder 1002746 - Primary title: d_bagle has lost the title: c_askab
+218 - Holder (1000676) has gained d_kala
+219 - vassal: c_walara - Given to 1003954 in HandleTitles - Too many duke titles
+219 - vassal: c_walara - Title given to 1003954
+219 - Title given to 1002272 - Primary title: k_dogine
+219 - vassal: c_qozagle - Setting to vassal of d_karair in Validate Realm
+219 - Lost vassal: c_qozagle
+219 - vassal: c_beupala - Setting to vassal of d_karair in Validate Realm
+219 - Lost vassal: c_beupala
+219 - vassal: c_nagara - Setting to vassal of d_karair in Validate Realm
+219 - Lost vassal: c_nagara
+219 - Too many dukes, made direct title into vassal of k_dogine
+219 - Title given to 1003955
+246 - Holder 1005031 - Primary title: d_bagle has lost the title: d_bagle
+246 - Title given to 1005031
+267 - Holder 1005551 - Primary title: d_bagle has lost the title: d_bagle
+267 - Title given to 1005551 - Primary title: d_karair
+268 - Holder 1005199 - Primary title: d_bagle has lost the title: d_karair
+273 - Holder 1007413 - Primary title: d_bagle has lost the title: d_konian
+273 - Gained vassal: c_tegandi
+273 - Gained vassal: c_atatagle
+273 - Holder 1007413 - Primary title: d_bagle has lost the title: c_atatagle
+273 - vassal: c_atatagle - Title given to 1007413 - Primary title: d_konian
+273 - vassal: c_atatagle - Setting to vassal of d_konian in Validate Realm
+273 - Lost vassal: c_atatagle
+273 - Holder 1007413 - Primary title: d_bagle has lost the title: c_tegandi
+273 - vassal: c_tegandi - Title given to 1007413 - Primary title: d_konian
+273 - vassal: c_tegandi - Setting to vassal of d_konian in Validate Realm
+273 - Lost vassal: c_tegandi
+273 - Holder 1007413 - Primary title: d_bagle has lost the title: d_bagle
+273 - Title given to 1007413 - Primary title: d_konian
+283 - Holder 1008941 - Primary title: d_bagle has lost the title: d_bagle
+283 - Title given to 1008941
+283 - Holder (1008941) has gained d_konian
+283 - Holder (1008941) has gained c_tegandi
+283 - Holder (1008941) has gained c_atatagle
+308 - Holder 1011307 - Primary title: d_bagle has lost the title: d_bagle
+308 - Title given to 1011307
+308 - Holder (1011307) has gained d_konian
+308 - Holder (1011307) has gained c_atatagle
+308 - Holder (1011307) has gained c_tegandi
+356 - Holder 1012610 - Primary title: d_bagle has lost the title: d_bagle
+356 - Title given to 1012610
+356 - Holder (1012610) has gained d_konian
+356 - Holder (1012610) has gained c_atatagle
+356 - Holder (1012610) has gained c_tegandi
+358 - Holder (1012610) has gained d_togaid
+358 - Holder (1012610) has gained c_deliza
+359 - vassal: c_walara - Given to 1015237 in HandleTitles - Too many duke titles
+359 - vassal: c_walara - Holder 1015237 - Primary title: c_walara has lost the title: c_walara
+359 - vassal: c_walara - Title given to 1015237
+359 - Title given to 1013804 - Primary title: k_dogine
+359 - Too many dukes, made direct title into vassal of k_dogine
+359 - Title given to 1012895
+360 - Holder (1012895) has gained d_togaid
+360 - Holder (1012895) has gained d_konian
+360 - Holder (1012895) has gained c_deliza
+360 - Holder (1012895) has gained c_tegandi
+360 - Holder (1012895) has gained c_atatagle
+361 - Holder 1015375 - Primary title: d_bagle has lost the title: c_nagara
+361 - Holder 1013804 - Primary title: d_bagle has lost the title: d_togaid
+378 - Holder 1015377 - Primary title: d_bagle has lost the title: d_bagle
+378 - Title given to 1015377
+378 - Holder (1015377) has gained d_konian
+378 - Holder (1015377) has gained c_deliza
+378 - Holder (1015377) has gained c_tegandi
+378 - Holder (1015377) has gained c_atatagle
+387 - Holder 1016647 - Primary title: d_bagle has lost the title: d_bagle
+387 - Title given to 1016647
+387 - Holder (1016647) has gained d_konian
+387 - Holder (1016647) has gained c_atatagle
+387 - Holder (1016647) has gained c_tegandi
+387 - Holder (1016647) has gained c_deliza
+389 - Holder (1016647) has gained d_karair
+400 - Holder (1016647) has gained c_wulunet
+400 - Holder (1016647) has gained c_kagian
+400 - Holder (1016647) has gained c_kogaid
+400 - Gained vassal: c_kogaid

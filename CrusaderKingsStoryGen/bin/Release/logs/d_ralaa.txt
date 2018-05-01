@@ -1,0 +1,78 @@
+200 - Title given to 1000934
+200 - vassal: c_qeinar - Given to 1000937 via AddCharacterForTitle
+200 - sub vassal: c_qeinar - Given to 1000937 via AddCharacterForTitle
+200 - vassal: c_qeinar - Holder 1000937 - Primary title: c_qeinar has lost the title: c_qeinar
+200 - sub vassal: c_qeinar - Holder 1000937 - Primary title: c_qeinar has lost the title: c_qeinar
+200 - vassal: c_qeinar - Title given to 1000937
+200 - sub vassal: c_qeinar - Title given to 1000937
+200 - vassal: c_eratti - Holder 1000934 - Primary title: c_eratti has lost the title: c_eratti
+200 - sub vassal: c_eratti - Holder 1000934 - Primary title: c_eratti has lost the title: c_eratti
+200 - vassal: c_eratti - Title given to 1000934 - Primary title: d_ralaa
+200 - sub vassal: c_eratti - Title given to 1000934 - Primary title: d_ralaa
+200 - Holder (1000934) has gained c_eratti
+200 - vassal: c_qeinar - Holder 1000934 - Primary title: c_qeinar has lost the title: c_qeinar
+200 - sub vassal: c_qeinar - Holder 1000934 - Primary title: c_qeinar has lost the title: c_qeinar
+200 - vassal: c_qeinar - Title given to 1000934 - Primary title: d_ralaa
+200 - sub vassal: c_qeinar - Title given to 1000934 - Primary title: d_ralaa
+200 - Holder (1000934) has gained c_qeinar
+200 - vassal: c_weinimir - Holder 1000934 - Primary title: c_weinimir has lost the title: c_weinimir
+200 - sub vassal: c_weinimir - Holder 1000934 - Primary title: c_weinimir has lost the title: c_weinimir
+200 - vassal: c_weinimir - Title given to 1000934 - Primary title: d_ralaa
+200 - sub vassal: c_weinimir - Title given to 1000934 - Primary title: d_ralaa
+200 - Holder (1000934) has gained c_weinimir
+207 - Holder 1002374 - Primary title: d_ralaa has lost the title: d_ralaa
+207 - Title given to 1002374
+207 - vassal: c_weinimir - Holder 1002374 - Primary title: c_weinimir has lost the title: c_weinimir
+207 - vassal: c_weinimir - Title given to 1002374 - Primary title: d_ralaa
+207 - Holder (1002374) has gained c_weinimir
+207 - vassal: c_qeinar - Holder 1002374 - Primary title: c_qeinar has lost the title: c_qeinar
+207 - vassal: c_qeinar - Title given to 1002374 - Primary title: d_ralaa
+207 - Holder (1002374) has gained c_qeinar
+207 - vassal: c_eratti - Holder 1002374 - Primary title: c_eratti has lost the title: c_eratti
+207 - vassal: c_eratti - Title given to 1002374 - Primary title: d_ralaa
+207 - Holder (1002374) has gained c_eratti
+256 - Holder (1002374) has gained k_reinatti
+257 - vassal: c_weinimir - Title given to 1003444
+257 - vassal: c_qeinar - Title given to 1007168
+282 - Holder 1003970 - Primary title: d_ralaa has lost the title: d_ralaa
+282 - Title given to 1003970 - Primary title: k_reinatti
+282 - vassal: c_eratti - Setting to vassal of d_rarafr in Validate Realm
+282 - Lost vassal: c_eratti
+286 - Holder 1009372 - Primary title: d_ralaa has lost the title: d_ralaa
+286 - Title given to 1009372 - Primary title: k_reinatti
+297 - Holder 1010526 - Primary title: d_ralaa has lost the title: d_ralaa
+297 - Title given to 1010526 - Primary title: k_reinatti
+299 - vassal: c_qeinar - Given to 1010696 in HandleTitles - Too many duke titles
+299 - vassal: c_qeinar - Holder 1010696 - Primary title: c_qeinar has lost the title: c_qeinar
+299 - vassal: c_qeinar - Title given to 1010696
+299 - Title given to 1010696 - Primary title: c_qeinar
+299 - vassal: c_qeinar - Holder (1010696) has gained d_ralaa
+299 - Too many dukes, given to dejure: k_reinatti
+311 - Holder 1010526 - Primary title: d_ralaa has lost the title: d_ralaa
+311 - Title given to 1010526 - Primary title: k_reinatti
+311 - vassal: c_qeinar - Holder 1010526 - Primary title: c_qeinar has lost the title: c_qeinar
+311 - vassal: c_qeinar - Title given to 1010526 - Primary title: k_reinatti
+311 - vassal: c_qeinar - Title given to 1011702
+325 - Holder 1010620 - Primary title: d_ralaa has lost the title: d_ralaa
+325 - Title given to 1010620 - Primary title: k_reinatti
+342 - vassal: c_qeinar - Given to 1014031 in HandleTitles - Too many duke titles
+342 - vassal: c_qeinar - Holder 1014031 - Primary title: c_qeinar has lost the title: c_qeinar
+342 - vassal: c_qeinar - Title given to 1014031
+342 - Title given to 1014031 - Primary title: c_qeinar
+342 - vassal: c_qeinar - Holder (1014031) has gained d_ralaa
+342 - Too many dukes, given to dejure: k_reinatti
+344 - Holder 1014079 - Primary title: d_ralaa has lost the title: d_ralaa
+344 - Title given to 1014079
+344 - vassal: c_qeinar - Holder 1014079 - Primary title: c_qeinar has lost the title: c_qeinar
+344 - vassal: c_qeinar - Title given to 1014079 - Primary title: d_ralaa
+344 - Holder (1014079) has gained c_qeinar
+367 - Holder 1012843 - Primary title: d_ralaa has lost the title: d_ralaa
+367 - Title given to 1012843 - Primary title: k_reinatti
+367 - vassal: c_qeinar - Holder 1012843 - Primary title: c_qeinar has lost the title: c_qeinar
+367 - vassal: c_qeinar - Title given to 1012843 - Primary title: k_reinatti
+380 - Holder 1014836 - Primary title: d_ralaa has lost the title: d_ralaa
+380 - Title given to 1014836 - Primary title: k_reinatti
+380 - vassal: c_qeinar - Setting to vassal of d_rarafr in Validate Realm
+380 - Lost vassal: c_qeinar
+400 - vassal: c_weinimir - Holder 1014836 - Primary title: c_weinimir has lost the title: c_weinimir
+400 - vassal: c_weinimir - Title given to 1014836 - Primary title: k_reinatti

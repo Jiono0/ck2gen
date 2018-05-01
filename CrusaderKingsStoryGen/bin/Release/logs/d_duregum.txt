@@ -1,0 +1,103 @@
+200 - Title given to 1000541
+200 - vassal: c_bonegum - Given to 1000544 via AddCharacterForTitle
+200 - sub vassal: c_bonegum - Given to 1000544 via AddCharacterForTitle
+200 - vassal: c_bonegum - Holder 1000544 - Primary title: c_bonegum has lost the title: c_bonegum
+200 - sub vassal: c_bonegum - Holder 1000544 - Primary title: c_bonegum has lost the title: c_bonegum
+200 - vassal: c_bonegum - Title given to 1000544
+200 - sub vassal: c_bonegum - Title given to 1000544
+200 - vassal: c_nuregum - Holder 1000541 - Primary title: c_nuregum has lost the title: c_nuregum
+200 - sub vassal: c_nuregum - Holder 1000541 - Primary title: c_nuregum has lost the title: c_nuregum
+200 - vassal: c_nuregum - Title given to 1000541 - Primary title: d_duregum
+200 - sub vassal: c_nuregum - Title given to 1000541 - Primary title: d_duregum
+200 - Holder (1000541) has gained c_nuregum
+200 - vassal: c_bonegum - Holder 1000541 - Primary title: c_bonegum has lost the title: c_bonegum
+200 - sub vassal: c_bonegum - Holder 1000541 - Primary title: c_bonegum has lost the title: c_bonegum
+200 - vassal: c_bonegum - Title given to 1000541 - Primary title: d_duregum
+200 - sub vassal: c_bonegum - Title given to 1000541 - Primary title: d_duregum
+200 - Holder (1000541) has gained c_bonegum
+200 - Holder 1000600 - Primary title: d_duregum has lost the title: d_duregum
+200 - Title given to 1000600 - Primary title: d_lelita
+200 - vassal: c_bonegum - Holder 1000600 - Primary title: c_bonegum has lost the title: c_bonegum
+200 - vassal: c_bonegum - Title given to 1000600 - Primary title: d_selema
+200 - vassal: c_nuregum - Holder 1000600 - Primary title: c_nuregum has lost the title: c_nuregum
+200 - vassal: c_nuregum - Title given to 1000600 - Primary title: d_selema
+201 - Holder 1002203 - Primary title: d_duregum has lost the title: c_qaland
+201 - Holder 1001555 - Primary title: d_duregum has lost the title: d_selema
+201 - Gained vassal: c_nalara
+201 - Gained vassal: c_ruregum
+201 - Holder 1002205 - Primary title: d_duregum has lost the title: c_nelogli
+203 - Holder (1000600) has gained d_keolam
+204 - vassal: c_bonegum - Given to 1002629 in HandleTitles - Too many duke titles
+204 - vassal: c_bonegum - Title given to 1002629
+204 - Title given to 1001555 - Primary title: k_lona
+204 - vassal: c_ruregum - Setting to vassal of d_keolam in Validate Realm
+204 - Lost vassal: c_ruregum
+204 - vassal: c_nalara - Setting to vassal of d_keolam in Validate Realm
+204 - Lost vassal: c_nalara
+204 - vassal: c_nuregum - Setting to vassal of d_keolam in Validate Realm
+204 - Lost vassal: c_nuregum
+204 - Too many dukes, made direct title into vassal of k_lona
+204 - Title given to 1002630
+214 - Holder (1002630) has gained k_lona
+243 - Holder 1002974 - Primary title: d_duregum has lost the title: d_duregum
+243 - Title given to 1002974 - Primary title: k_lona
+252 - Holder 1002739 - Primary title: d_duregum has lost the title: d_duregum
+252 - Title given to 1002739 - Primary title: k_lona
+253 - vassal: c_bonegum - Given to 1006838 in HandleTitles - Too many duke titles
+253 - vassal: c_bonegum - Holder 1006838 - Primary title: c_bonegum has lost the title: c_bonegum
+253 - vassal: c_bonegum - Title given to 1006838
+253 - Title given to 1006838 - Primary title: c_bonegum
+253 - vassal: c_bonegum - Holder (1006838) has gained d_duregum
+253 - Too many dukes, given to dejure: k_lona
+257 - Holder (1006838) has gained d_selema
+270 - vassal: c_bonegum - Title given to 1008292
+289 - vassal: c_bonegum - Given to 1009830 in HandleTitles - Too many duke titles
+289 - vassal: c_bonegum - Holder 1009830 - Primary title: c_bonegum has lost the title: c_bonegum
+289 - vassal: c_bonegum - Title given to 1009830
+289 - Title given to 1009830 - Primary title: c_bonegum
+289 - vassal: c_bonegum - Holder (1009830) has gained d_duregum
+289 - Too many dukes, given to dejure: k_lona
+324 - Holder 1011128 - Primary title: d_duregum has lost the title: d_duregum
+324 - Title given to 1011128
+324 - vassal: c_bonegum - Holder 1011128 - Primary title: c_bonegum has lost the title: c_bonegum
+324 - vassal: c_bonegum - Title given to 1011128 - Primary title: d_duregum
+324 - Holder (1011128) has gained c_bonegum
+333 - Holder (1011128) has gained k_lona
+334 - vassal: c_bonegum - Title given to 1013462
+336 - Holder 1013036 - Primary title: d_duregum has lost the title: d_duregum
+336 - Title given to 1013036 - Primary title: k_lona
+360 - Holder 1015320 - Primary title: d_duregum has lost the title: d_duregum
+360 - Title given to 1015320 - Primary title: k_lona
+387 - Gained vassal: c_nalara
+387 - Gained vassal: c_nuregum
+387 - Gained vassal: c_ratyayka
+387 - Gained vassal: c_nelogli
+387 - Gained vassal: c_awalita
+387 - Holder 1016868 - Primary title: d_duregum has lost the title: d_duregum
+387 - Title given to 1016868 - Primary title: k_lona
+387 - vassal: c_awalita - Holder 1016868 - Primary title: c_awalita has lost the title: c_awalita
+387 - vassal: c_awalita - Title given to 1016868 - Primary title: k_lona
+387 - vassal: c_nelogli - Holder 1016868 - Primary title: c_nelogli has lost the title: c_nelogli
+387 - vassal: c_nelogli - Title given to 1016868 - Primary title: k_lona
+387 - vassal: c_ratyayka - Holder 1016868 - Primary title: c_ratyayka has lost the title: c_ratyayka
+387 - vassal: c_ratyayka - Title given to 1016868 - Primary title: k_lona
+387 - vassal: c_nuregum - Holder 1016868 - Primary title: c_nuregum has lost the title: c_nuregum
+387 - vassal: c_nuregum - Title given to 1016868 - Primary title: k_lona
+387 - vassal: c_nalara - Holder 1016868 - Primary title: c_nalara has lost the title: c_nalara
+387 - vassal: c_nalara - Title given to 1016868 - Primary title: k_lona
+392 - vassal: c_ratyayka - Made vassal of neighbour (k_sediu) due to being a seperate island
+392 - vassal: c_ratyayka - Given to neighbour holder of k_sediu
+393 - vassal: c_ratyayka - Made vassal of neighbour (k_nelyayka) due to being a seperate island
+393 - vassal: c_ratyayka - Given to neighbour holder of k_nelyayka
+394 - vassal: c_ratyayka - Made vassal of neighbour (k_nelyayka) due to being a seperate island
+394 - vassal: c_ratyayka - Given to neighbour holder of k_nelyayka
+395 - vassal: c_ratyayka - Made vassal of neighbour (k_nelyayka) due to being a seperate island
+395 - vassal: c_ratyayka - Given to neighbour holder of k_nelyayka
+396 - vassal: c_ratyayka - Made vassal of neighbour (k_nelyayka) due to being a seperate island
+396 - vassal: c_ratyayka - Given to neighbour holder of k_nelyayka
+397 - vassal: c_ratyayka - Made vassal of neighbour (k_nelyayka) due to being a seperate island
+397 - vassal: c_ratyayka - Given to neighbour holder of k_nelyayka
+398 - vassal: c_ratyayka - Made vassal of neighbour (k_nelyayka) due to being a seperate island
+398 - vassal: c_ratyayka - Given to neighbour holder of k_nelyayka
+399 - vassal: c_ratyayka - Made vassal of neighbour (k_nelyayka) due to being a seperate island
+399 - vassal: c_ratyayka - Given to neighbour holder of k_nelyayka

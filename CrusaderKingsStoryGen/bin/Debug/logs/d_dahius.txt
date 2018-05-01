@@ -1,0 +1,59 @@
+200 - Title given to 1001222
+200 - vassal: c_kiktor - Holder 1001222 - Primary title: c_kiktor has lost the title: c_kiktor
+200 - sub vassal: c_kiktor - Holder 1001222 - Primary title: c_kiktor has lost the title: c_kiktor
+200 - vassal: c_kiktor - Title given to 1001222 - Primary title: d_dahius
+200 - sub vassal: c_kiktor - Title given to 1001222 - Primary title: d_dahius
+200 - Holder (1001222) has gained c_kiktor
+200 - vassal: c_asanulei - Holder 1001222 - Primary title: c_asanulei has lost the title: c_asanulei
+200 - sub vassal: c_asanulei - Holder 1001222 - Primary title: c_asanulei has lost the title: c_asanulei
+200 - vassal: c_asanulei - Title given to 1001222 - Primary title: d_dahius
+200 - sub vassal: c_asanulei - Title given to 1001222 - Primary title: d_dahius
+200 - Holder (1001222) has gained c_asanulei
+218 - Holder 1002259 - Primary title: d_dahius has lost the title: d_dahius
+218 - Title given to 1002259
+218 - vassal: c_asanulei - Holder 1002259 - Primary title: c_asanulei has lost the title: c_asanulei
+218 - vassal: c_asanulei - Title given to 1002259 - Primary title: d_dahius
+218 - Holder (1002259) has gained c_asanulei
+218 - vassal: c_kiktor - Holder 1002259 - Primary title: c_kiktor has lost the title: c_kiktor
+218 - vassal: c_kiktor - Title given to 1002259 - Primary title: d_dahius
+218 - Holder (1002259) has gained c_kiktor
+259 - Holder 1004572 - Primary title: d_dahius has lost the title: d_dahius
+259 - Title given to 1004572
+259 - vassal: c_asanulei - Holder 1004572 - Primary title: c_asanulei has lost the title: c_asanulei
+259 - vassal: c_asanulei - Title given to 1004572 - Primary title: d_dahius
+259 - Holder (1004572) has gained c_asanulei
+259 - vassal: c_kiktor - Holder 1004572 - Primary title: c_kiktor has lost the title: c_kiktor
+259 - vassal: c_kiktor - Title given to 1004572 - Primary title: d_dahius
+259 - Holder (1004572) has gained c_kiktor
+260 - Holder 1003707 - Primary title: d_dahius has lost the title: d_dahius
+260 - Title given to 1003707 - Primary title: k_danatpal
+260 - vassal: c_kiktor - Holder 1003707 - Primary title: c_kiktor has lost the title: c_kiktor
+260 - vassal: c_kiktor - Title given to 1003707 - Primary title: k_danatpal
+260 - vassal: c_asanulei - Holder 1003707 - Primary title: c_asanulei has lost the title: c_asanulei
+260 - vassal: c_asanulei - Title given to 1003707 - Primary title: k_danatpal
+265 - Gained vassal: c_kabela
+265 - Gained vassal: c_ledenna
+265 - Holder 1006510 - Primary title: d_dahius has lost the title: d_dahius
+265 - Title given to 1006510 - Primary title: k_danatpal
+265 - vassal: c_asanulei - Holder 1006510 - Primary title: c_asanulei has lost the title: c_asanulei
+265 - vassal: c_asanulei - Title given to 1006510 - Primary title: k_danatpal
+265 - vassal: c_kiktor - Holder 1006510 - Primary title: c_kiktor has lost the title: c_kiktor
+265 - vassal: c_kiktor - Title given to 1006510 - Primary title: k_danatpal
+265 - vassal: c_ledenna - Holder 1006510 - Primary title: c_ledenna has lost the title: c_ledenna
+265 - vassal: c_ledenna - Title given to 1006510 - Primary title: k_danatpal
+265 - vassal: c_kabela - Holder 1006510 - Primary title: c_kabela has lost the title: c_kabela
+265 - vassal: c_kabela - Title given to 1006510 - Primary title: k_danatpal
+269 - vassal: c_kiktor - Given to 1007561 in HandleTitles - Too many duke titles
+269 - vassal: c_kiktor - Title given to 1007561
+269 - Title given to 1007561 - Primary title: c_kiktor
+269 - vassal: c_kiktor - Holder (1007561) has gained d_dahius
+269 - vassal: c_asanulei - Setting to vassal of k_danatpal in Validate Realm
+269 - Lost vassal: c_asanulei
+269 - vassal: c_ledenna - Setting to vassal of k_danatpal in Validate Realm
+269 - Lost vassal: c_ledenna
+269 - vassal: c_kabela - Setting to vassal of k_danatpal in Validate Realm
+269 - Lost vassal: c_kabela
+269 - Too many dukes, given to dejure: k_danatpal
+318 - Holder 1008892 - Primary title: d_dahius has lost the title: d_dahius
+318 - Title given to 1008892
+318 - vassal: c_kiktor - Holder 1008892 - Prim

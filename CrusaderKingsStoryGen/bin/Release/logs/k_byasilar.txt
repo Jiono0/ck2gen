@@ -1,0 +1,409 @@
+200 - Title given to 1001593
+200 - vassal: d_selsa - Holder 1001593 - Primary title: d_selsa has lost the title: d_selsa
+200 - sub vassal: d_selsa - Holder 1001593 - Primary title: d_selsa has lost the title: d_selsa
+200 - vassal: d_selsa - Title given to 1001593 - Primary title: k_byasilar
+200 - sub vassal: d_selsa - Title given to 1001593 - Primary title: k_byasilar
+200 - Holder (1001593) has gained d_selsa
+200 - sub vassal: c_amugelsa - Holder 1001593 - Primary title: c_amugelsa has lost the title: c_amugelsa
+200 - sub vassal: c_amugelsa - Title given to 1001593 - Primary title: k_byasilar
+200 - Holder (1001593) has gained c_amugelsa
+200 - vassal: d_taselric - Holder 1001593 - Primary title: d_taselric has lost the title: d_taselric
+200 - sub vassal: d_taselric - Holder 1001593 - Primary title: d_taselric has lost the title: d_taselric
+200 - vassal: d_taselric - Title given to 1001593 - Primary title: k_byasilar
+200 - sub vassal: d_taselric - Title given to 1001593 - Primary title: k_byasilar
+200 - Holder (1001593) has gained d_taselric
+200 - sub vassal: c_asarl - Holder 1001593 - Primary title: c_asarl has lost the title: c_asarl
+200 - sub vassal: c_asarl - Title given to 1001593 - Primary title: k_byasilar
+200 - Holder (1001593) has gained c_asarl
+200 - sub vassal: c_tarl - Holder 1001593 - Primary title: c_tarl has lost the title: c_tarl
+200 - sub vassal: c_tarl - Title given to 1001593 - Primary title: k_byasilar
+200 - Holder (1001593) has gained c_tarl
+200 - sub vassal: c_tibelsa - Holder 1001593 - Primary title: c_tibelsa has lost the title: c_tibelsa
+200 - sub vassal: c_tibelsa - Title given to 1001593 - Primary title: k_byasilar
+200 - Holder (1001593) has gained c_tibelsa
+232 - vassal: d_qasolik - Holder 1002664 - Primary title: d_qasolik has lost the title: d_qasolik
+232 - sub vassal: d_qasolik - Holder 1002664 - Primary title: d_qasolik has lost the title: d_qasolik
+232 - vassal: d_qasolik - Title given to 1002664
+232 - sub vassal: d_qasolik - Title given to 1002664
+232 - sub vassal: c_kelin - Holder 1002664 - Primary title: c_kelin has lost the title: c_kelin
+232 - sub vassal: c_kelin - Title given to 1002664 - Primary title: d_qasolik
+232 - vassal: d_qasolik - Holder (1002664) has gained c_kelin
+232 - sub vassal: d_qasolik - Holder (1002664) has gained c_kelin
+232 - sub vassal: c_solik - Holder 1002664 - Primary title: c_solik has lost the title: c_solik
+232 - sub vassal: c_solik - Title given to 1002664 - Primary title: d_qasolik
+232 - vassal: d_qasolik - Holder (1002664) has gained c_solik
+232 - sub vassal: d_qasolik - Holder (1002664) has gained c_solik
+234 - vassal: d_qasolik - Holder 1001593 - Primary title: d_qasolik has lost the title: d_qasolik
+234 - sub vassal: d_qasolik - Holder 1001593 - Primary title: d_qasolik has lost the title: d_qasolik
+234 - vassal: d_qasolik - Title given to 1001593 - Primary title: k_byasilar
+234 - sub vassal: d_qasolik - Title given to 1001593 - Primary title: k_byasilar
+234 - Holder (1001593) has gained d_qasolik
+234 - sub vassal: c_kelin - Holder 1001593 - Primary title: c_kelin has lost the title: c_kelin
+234 - sub vassal: c_kelin - Title given to 1001593 - Primary title: k_byasilar
+234 - Holder (1001593) has gained c_kelin
+234 - sub vassal: c_solik - Holder 1001593 - Primary title: c_solik has lost the title: c_solik
+234 - sub vassal: c_solik - Title given to 1001593 - Primary title: k_byasilar
+234 - Holder (1001593) has gained c_solik
+234 - sub vassal: c_tibelsa - Given to 1005207 in HandleTitles - Too many duke titles
+234 - Holder 1005207 - Primary title: k_byasilar has lost the title: c_tibelsa
+234 - sub vassal: c_tibelsa - Title given to 1005207
+234 - Holder 1005207 - Primary title: k_byasilar has lost the title: d_taselric
+234 - vassal: d_taselric - Title given to 1005207 - Primary title: c_tibelsa
+234 - sub vassal: d_taselric - Title given to 1005207 - Primary title: c_tibelsa
+234 - sub vassal: c_tibelsa - Holder (1005207) has gained d_taselric
+234 - sub vassal: c_asarl - Setting to vassal of k_byasilar in Validate Realm
+234 - vassal: d_taselric - Lost vassal: c_asarl
+234 - sub vassal: d_taselric - Lost vassal: c_asarl
+234 - sub vassal: c_tarl - Setting to vassal of k_byasilar in Validate Realm
+234 - vassal: d_taselric - Lost vassal: c_tarl
+234 - sub vassal: d_taselric - Lost vassal: c_tarl
+234 - Gained vassal: c_tarl
+234 - Gained vassal: c_asarl
+234 - vassal: d_taselric - Too many dukes, given to dejure: k_byasilar
+234 - sub vassal: d_taselric - Too many dukes, given to dejure: k_byasilar
+239 - Holder 1002288 - Primary title: k_byasilar has lost the title: k_byasilar
+239 - Title given to 1002288
+239 - vassal: d_selsa - Holder 1002288 - Primary title: d_selsa has lost the title: d_selsa
+239 - sub vassal: d_selsa - Holder 1002288 - Primary title: d_selsa has lost the title: d_selsa
+239 - vassal: d_selsa - Title given to 1002288 - Primary title: k_byasilar
+239 - sub vassal: d_selsa - Title given to 1002288 - Primary title: k_byasilar
+239 - Holder (1002288) has gained d_selsa
+239 - sub vassal: c_amugelsa - Setting to vassal of d_qasolik in Validate Realm
+239 - vassal: d_selsa - Lost vassal: c_amugelsa
+239 - sub vassal: d_selsa - Lost vassal: c_amugelsa
+239 - vassal: c_asarl - Setting to vassal of d_qasolik in Validate Realm
+239 - sub vassal: c_asarl - Setting to vassal of d_qasolik in Validate Realm
+239 - Lost vassal: c_asarl
+239 - vassal: c_tarl - Setting to vassal of d_qasolik in Validate Realm
+239 - sub vassal: c_tarl - Setting to vassal of d_qasolik in Validate Realm
+239 - Lost vassal: c_tarl
+239 - vassal: d_qasolik - Gained vassal: c_tarl
+239 - sub vassal: d_qasolik - Gained vassal: c_tarl
+239 - vassal: d_qasolik - Gained vassal: c_asarl
+239 - sub vassal: d_qasolik - Gained vassal: c_asarl
+239 - vassal: d_qasolik - Gained vassal: c_amugelsa
+239 - sub vassal: d_qasolik - Gained vassal: c_amugelsa
+239 - vassal: d_qasolik - Holder 1002288 - Primary title: d_qasolik has lost the title: c_amugelsa
+239 - sub vassal: d_qasolik - Holder 1002288 - Primary title: d_qasolik has lost the title: c_amugelsa
+239 - sub vassal: c_amugelsa - Title given to 1002288 - Primary title: k_byasilar
+239 - Holder (1002288) has gained c_amugelsa
+239 - sub vassal: c_amugelsa - Setting to vassal of k_byasilar in Validate Realm
+239 - vassal: d_qasolik - Lost vassal: c_amugelsa
+239 - sub vassal: d_qasolik - Lost vassal: c_amugelsa
+239 - Gained vassal: c_amugelsa
+239 - vassal: d_qasolik - Holder 1002288 - Primary title: d_qasolik has lost the title: c_asarl
+239 - sub vassal: d_qasolik - Holder 1002288 - Primary title: d_qasolik has lost the title: c_asarl
+239 - sub vassal: c_asarl - Title given to 1002288 - Primary title: k_byasilar
+239 - Holder (1002288) has gained c_asarl
+239 - sub vassal: c_asarl - Setting to vassal of k_byasilar in Validate Realm
+239 - vassal: d_qasolik - Lost vassal: c_asarl
+239 - sub vassal: d_qasolik - Lost vassal: c_asarl
+239 - Gained vassal: c_asarl
+239 - vassal: d_qasolik - Holder 1002288 - Primary title: d_qasolik has lost the title: c_tarl
+239 - sub vassal: d_qasolik - Holder 1002288 - Primary title: d_qasolik has lost the title: c_tarl
+239 - sub vassal: c_tarl - Title given to 1002288 - Primary title: k_byasilar
+239 - Holder (1002288) has gained c_tarl
+239 - sub vassal: c_tarl - Setting to vassal of k_byasilar in Validate Realm
+239 - vassal: d_qasolik - Lost vassal: c_tarl
+239 - sub vassal: d_qasolik - Lost vassal: c_tarl
+239 - Gained vassal: c_tarl
+239 - vassal: d_qasolik - Holder 1002288 - Primary title: d_qasolik has lost the title: d_qasolik
+239 - sub vassal: d_qasolik - Holder 1002288 - Primary title: d_qasolik has lost the title: d_qasolik
+239 - vassal: d_qasolik - Title given to 1002288 - Primary title: k_byasilar
+239 - sub vassal: d_qasolik - Title given to 1002288 - Primary title: k_byasilar
+239 - Holder (1002288) has gained d_qasolik
+239 - sub vassal: c_kelin - Holder 1002288 - Primary title: c_kelin has lost the title: c_kelin
+239 - sub vassal: c_kelin - Title given to 1002288 - Primary title: k_byasilar
+239 - Holder (1002288) has gained c_kelin
+239 - sub vassal: c_solik - Holder 1002288 - Primary title: c_solik has lost the title: c_solik
+239 - sub vassal: c_solik - Title given to 1002288 - Primary title: k_byasilar
+239 - Holder (1002288) has gained c_solik
+253 - vassal: d_taselric - Holder 1005813 - Primary title: d_taselric has lost the title: d_taselric
+253 - sub vassal: d_taselric - Holder 1005813 - Primary title: d_taselric has lost the title: d_taselric
+253 - vassal: d_taselric - Title given to 1005813
+253 - sub vassal: d_taselric - Title given to 1005813
+253 - sub vassal: c_tibelsa - Holder 1005813 - Primary title: c_tibelsa has lost the title: c_tibelsa
+253 - sub vassal: c_tibelsa - Title given to 1005813 - Primary title: d_taselric
+253 - vassal: d_taselric - Holder (1005813) has gained c_tibelsa
+253 - sub vassal: d_taselric - Holder (1005813) has gained c_tibelsa
+260 - Holder 1006496 - Primary title: k_byasilar has lost the title: k_byasilar
+260 - Title given to 1006496
+260 - vassal: d_selsa - Holder 1006496 - Primary title: d_selsa has lost the title: d_selsa
+260 - sub vassal: d_selsa - Holder 1006496 - Primary title: d_selsa has lost the title: d_selsa
+260 - vassal: d_selsa - Title given to 1006496 - Primary title: k_byasilar
+260 - sub vassal: d_selsa - Title given to 1006496 - Primary title: k_byasilar
+260 - Holder (1006496) has gained d_selsa
+260 - vassal: c_amugelsa - Setting to vassal of d_qasolik in Validate Realm
+260 - sub vassal: c_amugelsa - Setting to vassal of d_qasolik in Validate Realm
+260 - Lost vassal: c_amugelsa
+260 - vassal: c_asarl - Setting to vassal of d_qasolik in Validate Realm
+260 - sub vassal: c_asarl - Setting to vassal of d_qasolik in Validate Realm
+260 - Lost vassal: c_asarl
+260 - vassal: c_tarl - Setting to vassal of d_qasolik in Validate Realm
+260 - sub vassal: c_tarl - Setting to vassal of d_qasolik in Validate Realm
+260 - Lost vassal: c_tarl
+260 - vassal: d_qasolik - Gained vassal: c_tarl
+260 - sub vassal: d_qasolik - Gained vassal: c_tarl
+260 - vassal: d_qasolik - Gained vassal: c_asarl
+260 - sub vassal: d_qasolik - Gained vassal: c_asarl
+260 - vassal: d_qasolik - Gained vassal: c_amugelsa
+260 - sub vassal: d_qasolik - Gained vassal: c_amugelsa
+260 - vassal: d_qasolik - Holder 1006496 - Primary title: d_qasolik has lost the title: d_qasolik
+260 - sub vassal: d_qasolik - Holder 1006496 - Primary title: d_qasolik has lost the title: d_qasolik
+260 - vassal: d_qasolik - Title given to 1006496 - Primary title: k_byasilar
+260 - sub vassal: d_qasolik - Title given to 1006496 - Primary title: k_byasilar
+260 - Holder (1006496) has gained d_qasolik
+260 - sub vassal: c_amugelsa - Holder 1006496 - Primary title: c_amugelsa has lost the title: c_amugelsa
+260 - sub vassal: c_amugelsa - Title given to 1006496 - Primary title: k_byasilar
+260 - Holder (1006496) has gained c_amugelsa
+260 - sub vassal: c_asarl - Holder 1006496 - Primary title: c_asarl has lost the title: c_asarl
+260 - sub vassal: c_asarl - Title given to 1006496 - Primary title: k_byasilar
+260 - Holder (1006496) has gained c_asarl
+260 - sub vassal: c_tarl - Holder 1006496 - Primary title: c_tarl has lost the title: c_tarl
+260 - sub vassal: c_tarl - Title given to 1006496 - Primary title: k_byasilar
+260 - Holder (1006496) has gained c_tarl
+260 - sub vassal: c_kelin - Holder 1006496 - Primary title: c_kelin has lost the title: c_kelin
+260 - sub vassal: c_kelin - Title given to 1006496 - Primary title: k_byasilar
+260 - Holder (1006496) has gained c_kelin
+260 - sub vassal: c_solik - Holder 1006496 - Primary title: c_solik has lost the title: c_solik
+260 - sub vassal: c_solik - Title given to 1006496 - Primary title: k_byasilar
+260 - Holder (1006496) has gained c_solik
+263 - vassal: d_taselric - Holder 1007432 - Primary title: d_taselric has lost the title: d_taselric
+263 - sub vassal: d_taselric - Holder 1007432 - Primary title: d_taselric has lost the title: d_taselric
+263 - vassal: d_taselric - Title given to 1007432
+263 - sub vassal: d_taselric - Title given to 1007432
+263 - sub vassal: c_tibelsa - Holder 1007432 - Primary title: c_tibelsa has lost the title: c_tibelsa
+263 - sub vassal: c_tibelsa - Title given to 1007432 - Primary title: d_taselric
+263 - vassal: d_taselric - Holder (1007432) has gained c_tibelsa
+263 - sub vassal: d_taselric - Holder (1007432) has gained c_tibelsa
+281 - Holder 1009203 - Primary title: k_byasilar has lost the title: k_byasilar
+281 - Title given to 1009203
+281 - vassal: d_selsa - Holder 1009203 - Primary title: d_selsa has lost the title: d_selsa
+281 - sub vassal: d_selsa - Holder 1009203 - Primary title: d_selsa has lost the title: d_selsa
+281 - vassal: d_selsa - Title given to 1009203 - Primary title: k_byasilar
+281 - sub vassal: d_selsa - Title given to 1009203 - Primary title: k_byasilar
+281 - Holder (1009203) has gained d_selsa
+281 - vassal: d_qasolik - Holder 1009203 - Primary title: d_qasolik has lost the title: d_qasolik
+281 - sub vassal: d_qasolik - Holder 1009203 - Primary title: d_qasolik has lost the title: d_qasolik
+281 - vassal: d_qasolik - Title given to 1009203 - Primary title: k_byasilar
+281 - sub vassal: d_qasolik - Title given to 1009203 - Primary title: k_byasilar
+281 - Holder (1009203) has gained d_qasolik
+281 - sub vassal: c_solik - Holder 1009203 - Primary title: c_solik has lost the title: c_solik
+281 - sub vassal: c_solik - Title given to 1009203 - Primary title: k_byasilar
+281 - Holder (1009203) has gained c_solik
+281 - sub vassal: c_kelin - Holder 1009203 - Primary title: c_kelin has lost the title: c_kelin
+281 - sub vassal: c_kelin - Title given to 1009203 - Primary title: k_byasilar
+281 - Holder (1009203) has gained c_kelin
+281 - sub vassal: c_tarl - Holder 1009203 - Primary title: c_tarl has lost the title: c_tarl
+281 - sub vassal: c_tarl - Title given to 1009203 - Primary title: k_byasilar
+281 - Holder (1009203) has gained c_tarl
+281 - sub vassal: c_asarl - Holder 1009203 - Primary title: c_asarl has lost the title: c_asarl
+281 - sub vassal: c_asarl - Title given to 1009203 - Primary title: k_byasilar
+281 - Holder (1009203) has gained c_asarl
+281 - sub vassal: c_amugelsa - Holder 1009203 - Primary title: c_amugelsa has lost the title: c_amugelsa
+281 - sub vassal: c_amugelsa - Title given to 1009203 - Primary title: k_byasilar
+281 - Holder (1009203) has gained c_amugelsa
+300 - sub vassal: c_ekenilar - Holder 1009203 - Primary title: c_ekenilar has lost the title: c_ekenilar
+300 - sub vassal: c_ekenilar - Title given to 1009203 - Primary title: k_byasilar
+300 - Holder (1009203) has gained c_ekenilar
+300 - sub vassal: c_ewude - Holder 1009203 - Primary title: c_ewude has lost the title: c_ewude
+300 - sub vassal: c_ewude - Title given to 1009203 - Primary title: k_byasilar
+300 - Holder (1009203) has gained c_ewude
+300 - sub vassal: c_tenilar - Holder 1009203 - Primary title: c_tenilar has lost the title: c_tenilar
+300 - sub vassal: c_tenilar - Title given to 1009203 - Primary title: k_byasilar
+300 - Holder (1009203) has gained c_tenilar
+300 - sub vassal: c_desude - Holder 1009203 - Primary title: c_desude has lost the title: c_desude
+300 - sub vassal: c_desude - Title given to 1009203 - Primary title: k_byasilar
+300 - Holder (1009203) has gained c_desude
+300 - Holder 1010845 - Primary title: k_byasilar has lost the title: c_tarl
+300 - sub vassal: c_tarl - Title given to 1010845
+300 - Holder 1010846 - Primary title: k_byasilar has lost the title: c_asarl
+300 - sub vassal: c_asarl - Title given to 1010846
+300 - Holder 1010847 - Primary title: k_byasilar has lost the title: c_amugelsa
+300 - sub vassal: c_amugelsa - Title given to 1010847
+300 - Holder 1010848 - Primary title: k_byasilar has lost the title: c_solik
+300 - sub vassal: c_solik - Title given to 1010848
+310 - vassal: d_taselric - Holder 1009203 - Primary title: d_taselric has lost the title: d_taselric
+310 - sub vassal: d_taselric - Holder 1009203 - Primary title: d_taselric has lost the title: d_taselric
+310 - vassal: d_taselric - Title given to 1009203 - Primary title: k_byasilar
+310 - sub vassal: d_taselric - Title given to 1009203 - Primary title: k_byasilar
+310 - Holder (1009203) has gained d_taselric
+310 - sub vassal: c_tibelsa - Holder 1009203 - Primary title: c_tibelsa has lost the title: c_tibelsa
+310 - sub vassal: c_tibelsa - Title given to 1009203 - Primary title: k_byasilar
+310 - Holder (1009203) has gained c_tibelsa
+310 - sub vassal: c_solik - Given to 1011624 in HandleTitles - Too many duke titles
+310 - sub vassal: c_solik - Holder 1011624 - Primary title: c_solik has lost the title: c_solik
+310 - sub vassal: c_solik - Title given to 1011624
+310 - Holder 1011624 - Primary title: k_byasilar has lost the title: d_qasolik
+310 - vassal: d_qasolik - Title given to 1011624 - Primary title: c_solik
+310 - sub vassal: d_qasolik - Title given to 1011624 - Primary title: c_solik
+310 - sub vassal: c_solik - Holder (1011624) has gained d_qasolik
+310 - sub vassal: c_kelin - Setting to vassal of k_byasilar in Validate Realm
+310 - vassal: d_qasolik - Lost vassal: c_kelin
+310 - sub vassal: d_qasolik - Lost vassal: c_kelin
+310 - Gained vassal: c_kelin
+310 - vassal: d_qasolik - Too many dukes, given to dejure: k_byasilar
+310 - sub vassal: d_qasolik - Too many dukes, given to dejure: k_byasilar
+310 - Holder 1011626 - Primary title: k_byasilar has lost the title: c_tibelsa
+310 - sub vassal: c_tibelsa - Title given to 1011626
+320 - Holder 1012395 - Primary title: k_byasilar has lost the title: k_byasilar
+320 - Title given to 1012395
+320 - vassal: d_selsa - Holder 1012395 - Primary title: d_selsa has lost the title: d_selsa
+320 - sub vassal: d_selsa - Holder 1012395 - Primary title: d_selsa has lost the title: d_selsa
+320 - vassal: d_selsa - Title given to 1012395 - Primary title: k_byasilar
+320 - sub vassal: d_selsa - Title given to 1012395 - Primary title: k_byasilar
+320 - Holder (1012395) has gained d_selsa
+320 - vassal: c_kelin - Setting to vassal of d_taselric in Validate Realm
+320 - sub vassal: c_kelin - Setting to vassal of d_taselric in Validate Realm
+320 - Lost vassal: c_kelin
+320 - sub vassal: c_ekenilar - Setting to vassal of d_taselric in Validate Realm
+320 - vassal: d_selsa - Lost vassal: c_ekenilar
+320 - sub vassal: d_selsa - Lost vassal: c_ekenilar
+320 - sub vassal: c_ewude - Setting to vassal of d_taselric in Validate Realm
+320 - vassal: d_selsa - Lost vassal: c_ewude
+320 - sub vassal: d_selsa - Lost vassal: c_ewude
+320 - sub vassal: c_tenilar - Setting to vassal of d_taselric in Validate Realm
+320 - vassal: d_selsa - Lost vassal: c_tenilar
+320 - sub vassal: d_selsa - Lost vassal: c_tenilar
+320 - sub vassal: c_desude - Setting to vassal of d_taselric in Validate Realm
+320 - vassal: d_selsa - Lost vassal: c_desude
+320 - sub vassal: d_selsa - Lost vassal: c_desude
+320 - vassal: d_taselric - Gained vassal: c_desude
+320 - sub vassal: d_taselric - Gained vassal: c_desude
+320 - vassal: d_taselric - Gained vassal: c_tenilar
+320 - sub vassal: d_taselric - Gained vassal: c_tenilar
+320 - vassal: d_taselric - Gained vassal: c_ewude
+320 - sub vassal: d_taselric - Gained vassal: c_ewude
+320 - vassal: d_taselric - Gained vassal: c_ekenilar
+320 - sub vassal: d_taselric - Gained vassal: c_ekenilar
+320 - vassal: d_taselric - Gained vassal: c_kelin
+320 - sub vassal: d_taselric - Gained vassal: c_kelin
+320 - vassal: d_taselric - Holder 1012395 - Primary title: d_taselric has lost the title: d_taselric
+320 - sub vassal: d_taselric - Holder 1012395 - Primary title: d_taselric has lost the title: d_taselric
+320 - vassal: d_taselric - Title given to 1012395 - Primary title: k_byasilar
+320 - sub vassal: d_taselric - Title given to 1012395 - Primary title: k_byasilar
+320 - Holder (1012395) has gained d_taselric
+320 - sub vassal: c_kelin - Holder 1012395 - Primary title: c_kelin has lost the title: c_kelin
+320 - sub vassal: c_kelin - Title given to 1012395 - Primary title: k_byasilar
+320 - Holder (1012395) has gained c_kelin
+320 - sub vassal: c_ekenilar - Holder 1012395 - Primary title: c_ekenilar has lost the title: c_ekenilar
+320 - sub vassal: c_ekenilar - Title given to 1012395 - Primary title: k_byasilar
+320 - Holder (1012395) has gained c_ekenilar
+320 - sub vassal: c_ewude - Holder 1012395 - Primary title: c_ewude has lost the title: c_ewude
+320 - sub vassal: c_ewude - Title given to 1012395 - Primary title: k_byasilar
+320 - Holder (1012395) has gained c_ewude
+320 - sub vassal: c_tenilar - Holder 1012395 - Primary title: c_tenilar has lost the title: c_tenilar
+320 - sub vassal: c_tenilar - Title given to 1012395 - Primary title: k_byasilar
+320 - Holder (1012395) has gained c_tenilar
+320 - sub vassal: c_desude - Holder 1012395 - Primary title: c_desude has lost the title: c_desude
+320 - sub vassal: c_desude - Title given to 1012395 - Primary title: k_byasilar
+320 - Holder (1012395) has gained c_desude
+321 - vassal: d_selsa - Destroyed due to flagged problem
+321 - sub vassal: d_selsa - Destroyed due to flagged problem
+321 - vassal: d_selsa - Made independent
+321 - sub vassal: d_selsa - Made independent
+325 - Holder 1012777 - Primary title: k_byasilar has lost the title: k_byasilar
+325 - Title given to 1012777
+325 - vassal: d_taselric - Holder 1012777 - Primary title: d_taselric has lost the title: d_taselric
+325 - sub vassal: d_taselric - Holder 1012777 - Primary title: d_taselric has lost the title: d_taselric
+325 - vassal: d_taselric - Title given to 1012777 - Primary title: k_byasilar
+325 - sub vassal: d_taselric - Title given to 1012777 - Primary title: k_byasilar
+325 - Holder (1012777) has gained d_taselric
+325 - sub vassal: c_kelin - Holder 1012777 - Primary title: c_kelin has lost the title: c_kelin
+325 - sub vassal: c_kelin - Title given to 1012777 - Primary title: k_byasilar
+325 - Holder (1012777) has gained c_kelin
+325 - sub vassal: c_ekenilar - Holder 1012777 - Primary title: c_ekenilar has lost the title: c_ekenilar
+325 - sub vassal: c_ekenilar - Title given to 1012777 - Primary title: k_byasilar
+325 - Holder (1012777) has gained c_ekenilar
+325 - sub vassal: c_ewude - Holder 1012777 - Primary title: c_ewude has lost the title: c_ewude
+325 - sub vassal: c_ewude - Title given to 1012777 - Primary title: k_byasilar
+325 - Holder (1012777) has gained c_ewude
+325 - sub vassal: c_tenilar - Holder 1012777 - Primary title: c_tenilar has lost the title: c_tenilar
+325 - sub vassal: c_tenilar - Title given to 1012777 - Primary title: k_byasilar
+325 - Holder (1012777) has gained c_tenilar
+325 - sub vassal: c_desude - Holder 1012777 - Primary title: c_desude has lost the title: c_desude
+325 - sub vassal: c_desude - Title given to 1012777 - Primary title: k_byasilar
+325 - Holder (1012777) has gained c_desude
+356 - vassal: d_qasolik - Holder 1012385 - Primary title: d_qasolik has lost the title: d_qasolik
+356 - sub vassal: d_qasolik - Holder 1012385 - Primary title: d_qasolik has lost the title: d_qasolik
+356 - vassal: d_qasolik - Title given to 1012385
+356 - sub vassal: d_qasolik - Title given to 1012385
+356 - sub vassal: c_solik - Holder 1012385 - Primary title: c_solik has lost the title: c_solik
+356 - sub vassal: c_solik - Title given to 1012385 - Primary title: d_qasolik
+356 - vassal: d_qasolik - Holder (1012385) has gained c_solik
+356 - sub vassal: d_qasolik - Holder (1012385) has gained c_solik
+357 - Holder 1013748 - Primary title: k_byasilar has lost the title: k_byasilar
+357 - Title given to 1013748
+357 - vassal: d_taselric - Holder 1013748 - Primary title: d_taselric has lost the title: d_taselric
+357 - sub vassal: d_taselric - Holder 1013748 - Primary title: d_taselric has lost the title: d_taselric
+357 - vassal: d_taselric - Title given to 1013748 - Primary title: k_byasilar
+357 - sub vassal: d_taselric - Title given to 1013748 - Primary title: k_byasilar
+357 - Holder (1013748) has gained d_taselric
+357 - sub vassal: c_desude - Holder 1013748 - Primary title: c_desude has lost the title: c_desude
+357 - sub vassal: c_desude - Title given to 1013748 - Primary title: k_byasilar
+357 - Holder (1013748) has gained c_desude
+357 - sub vassal: c_tenilar - Holder 1013748 - Primary title: c_tenilar has lost the title: c_tenilar
+357 - sub vassal: c_tenilar - Title given to 1013748 - Primary title: k_byasilar
+357 - Holder (1013748) has gained c_tenilar
+357 - sub vassal: c_ewude - Holder 1013748 - Primary title: c_ewude has lost the title: c_ewude
+357 - sub vassal: c_ewude - Title given to 1013748 - Primary title: k_byasilar
+357 - Holder (1013748) has gained c_ewude
+357 - sub vassal: c_ekenilar - Holder 1013748 - Primary title: c_ekenilar has lost the title: c_ekenilar
+357 - sub vassal: c_ekenilar - Title given to 1013748 - Primary title: k_byasilar
+357 - Holder (1013748) has gained c_ekenilar
+357 - sub vassal: c_kelin - Holder 1013748 - Primary title: c_kelin has lost the title: c_kelin
+357 - sub vassal: c_kelin - Title given to 1013748 - Primary title: k_byasilar
+357 - Holder (1013748) has gained c_kelin
+375 - Holder 1015330 - Primary title: k_byasilar has lost the title: k_byasilar
+375 - Title given to 1015330
+375 - vassal: d_taselric - Holder 1015330 - Primary title: d_taselric has lost the title: d_taselric
+375 - sub vassal: d_taselric - Holder 1015330 - Primary title: d_taselric has lost the title: d_taselric
+375 - vassal: d_taselric - Title given to 1015330 - Primary title: k_byasilar
+375 - sub vassal: d_taselric - Title given to 1015330 - Primary title: k_byasilar
+375 - Holder (1015330) has gained d_taselric
+375 - sub vassal: c_kelin - Holder 1015330 - Primary title: c_kelin has lost the title: c_kelin
+375 - sub vassal: c_kelin - Title given to 1015330 - Primary title: k_byasilar
+375 - Holder (1015330) has gained c_kelin
+375 - sub vassal: c_ekenilar - Holder 1015330 - Primary title: c_ekenilar has lost the title: c_ekenilar
+375 - sub vassal: c_ekenilar - Title given to 1015330 - Primary title: k_byasilar
+375 - Holder (1015330) has gained c_ekenilar
+375 - sub vassal: c_ewude - Holder 1015330 - Primary title: c_ewude has lost the title: c_ewude
+375 - sub vassal: c_ewude - Title given to 1015330 - Primary title: k_byasilar
+375 - Holder (1015330) has gained c_ewude
+375 - sub vassal: c_tenilar - Holder 1015330 - Primary title: c_tenilar has lost the title: c_tenilar
+375 - sub vassal: c_tenilar - Title given to 1015330 - Primary title: k_byasilar
+375 - Holder (1015330) has gained c_tenilar
+375 - sub vassal: c_desude - Holder 1015330 - Primary title: c_desude has lost the title: c_desude
+375 - sub vassal: c_desude - Title given to 1015330 - Primary title: k_byasilar
+375 - Holder (1015330) has gained c_desude
+381 - vassal: d_qasolik - Holder 1015886 - Primary title: d_qasolik has lost the title: d_qasolik
+381 - sub vassal: d_qasolik - Holder 1015886 - Primary title: d_qasolik has lost the title: d_qasolik
+381 - vassal: d_qasolik - Title given to 1015886
+381 - sub vassal: d_qasolik - Title given to 1015886
+381 - sub vassal: c_solik - Holder 1015886 - Primary title: c_solik has lost the title: c_solik
+381 - sub vassal: c_solik - Title given to 1015886 - Primary title: d_qasolik
+381 - vassal: d_qasolik - Holder (1015886) has gained c_solik
+381 - sub vassal: d_qasolik - Holder (1015886) has gained c_solik
+392 - vassal: d_qasolik - Holder 1017066 - Primary title: d_qasolik has lost the title: d_qasolik
+392 - sub vassal: d_qasolik - Holder 1017066 - Primary title: d_qasolik has lost the title: d_qasolik
+392 - vassal: d_qasolik - Title given to 1017066
+392 - sub vassal: d_qasolik - Title given to 1017066
+392 - sub vassal: c_solik - Holder 1017066 - Primary title: c_solik has lost the title: c_solik
+392 - sub vassal: c_solik - Title given to 1017066 - Primary title: d_qasolik
+392 - vassal: d_qasolik - Holder (1017066) has gained c_solik
+392 - sub vassal: d_qasolik - Holder (1017066) has gained c_solik
+400 - sub vassal: c_tarl - Holder 1017066 - Primary title: c_tarl has lost the title: c_tarl
+400 - sub vassal: c_tarl - Title given to 1017066 - Primary title: d_qasolik
+400 - vassal: d_qasolik - Holder (1017066) has gained c_tarl
+400 - sub vassal: d_qasolik - Holder (1017066) has gained c_tarl
+400 - sub vassal: c_asarl - Holder 1017066 - Primary title: c_asarl has lost the title: c_asarl
+400 - sub vassal: c_asarl - Title given to 1017066 - Primary title: d_qasolik
+400 - vassal: d_qasolik - Holder (1017066) has gained c_asarl
+400 - sub vassal: d_qasolik - Holder (1017066) has gained c_asarl
+400 - sub vassal: c_amugelsa - Holder 1017066 - Primary title: c_amugelsa has lost the title: c_amugelsa
+400 - sub vassal: c_amugelsa - Title given to 1017066 - Primary title: d_qasolik
+400 - vassal: d_qasolik - Holder (1017066) has gained c_amugelsa
+400 - sub vassal: d_qasolik - Holder (1017066) has gained c_amugelsa
+400 - sub vassal: c_tibelsa - Holder 1015330 - Primary title: c_tibelsa has lost the title: c_tibelsa
+400 - sub vassal: c_tibelsa - Title given to 1015330 - Primary title: k_byasilar
+400 - Holder (1015330) has gained c_tibelsa

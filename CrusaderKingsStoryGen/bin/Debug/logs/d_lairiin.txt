@@ -1,0 +1,62 @@
+200 - Title given to 1000777
+200 - vassal: c_nayyuter - Holder 1000777 - Primary title: c_nayyuter has lost the title: c_nayyuter
+200 - sub vassal: c_nayyuter - Holder 1000777 - Primary title: c_nayyuter has lost the title: c_nayyuter
+200 - vassal: c_nayyuter - Title given to 1000777 - Primary title: d_lairiin
+200 - sub vassal: c_nayyuter - Title given to 1000777 - Primary title: d_lairiin
+200 - Holder (1000777) has gained c_nayyuter
+200 - vassal: c_waruro - Holder 1000777 - Primary title: c_waruro has lost the title: c_waruro
+200 - sub vassal: c_waruro - Holder 1000777 - Primary title: c_waruro has lost the title: c_waruro
+200 - vassal: c_waruro - Title given to 1000777 - Primary title: d_lairiin
+200 - sub vassal: c_waruro - Title given to 1000777 - Primary title: d_lairiin
+200 - Holder (1000777) has gained c_waruro
+200 - vassal: c_rerabir - Holder 1000777 - Primary title: c_rerabir has lost the title: c_rerabir
+200 - sub vassal: c_rerabir - Holder 1000777 - Primary title: c_rerabir has lost the title: c_rerabir
+200 - vassal: c_rerabir - Title given to 1000777 - Primary title: d_lairiin
+200 - sub vassal: c_rerabir - Title given to 1000777 - Primary title: d_lairiin
+200 - Holder (1000777) has gained c_rerabir
+202 - Holder 1001490 - Primary title: d_lairiin has lost the title: d_lairiin
+202 - Title given to 1001490 - Primary title: k_wenab
+202 - vassal: c_rerabir - Holder 1001490 - Primary title: c_rerabir has lost the title: c_rerabir
+202 - vassal: c_rerabir - Title given to 1001490 - Primary title: k_wenab
+202 - vassal: c_waruro - Holder 1001490 - Primary title: c_waruro has lost the title: c_waruro
+202 - vassal: c_waruro - Title given to 1001490 - Primary title: k_wenab
+202 - vassal: c_nayyuter - Holder 1001490 - Primary title: c_nayyuter has lost the title: c_nayyuter
+202 - vassal: c_nayyuter - Title given to 1001490 - Primary title: k_wenab
+228 - vassal: c_nayyuter - Given to 1004356 in HandleTitles - Too many duke titles
+228 - vassal: c_nayyuter - Title given to 1004356
+228 - Title given to 1004356 - Primary title: c_nayyuter
+228 - vassal: c_nayyuter - Holder (1004356) has gained d_lairiin
+228 - vassal: c_waruro - Setting to vassal of k_wenab in Validate Realm
+228 - Lost vassal: c_waruro
+228 - vassal: c_rerabir - Setting to vassal of k_wenab in Validate Realm
+228 - Lost vassal: c_rerabir
+228 - Too many dukes, given to dejure: k_wenab
+239 - Holder (1004356) has gained k_wenab
+257 - Gained vassal: c_waruro
+257 - Gained vassal: c_lulaaq
+257 - Gained vassal: c_tulenis
+257 - Gained vassal: c_qasadir
+257 - Holder 1004857 - Primary title: d_lairiin has lost the title: d_lairiin
+257 - Title given to 1004857 - Primary title: k_wenab
+257 - vassal: c_qasadir - Holder 1004857 - Primary title: c_qasadir has lost the title: c_qasadir
+257 - vassal: c_qasadir - Title given to 1004857 - Primary title: k_wenab
+257 - vassal: c_tulenis - Holder 1004857 - Primary title: c_tulenis has lost the title: c_tulenis
+257 - vassal: c_tulenis - Title given to 1004857 - Primary title: k_wenab
+257 - vassal: c_lulaaq - Holder 1004857 - Primary title: c_lulaaq has lost the title: c_lulaaq
+257 - vassal: c_lulaaq - Title given to 1004857 - Primary title: k_wenab
+257 - vassal: c_waruro - Holder 1004857 - Primary title: c_waruro has lost the title: c_waruro
+257 - vassal: c_waruro - Title given to 1004857 - Primary title: k_wenab
+257 - vassal: c_nayyuter - Holder 1004857 - Primary title: c_nayyuter has lost the title: c_nayyuter
+257 - vassal: c_nayyuter - Title given to 1004857 - Primary title: k_wenab
+268 - vassal: c_nayyuter - Title given to 1007474
+268 - vassal: c_waruro - Title given to 1007475
+268 - vassal: c_lulaaq - Title given to 1007476
+268 - vassal: c_tulenis - Title given to 1007477
+268 - vassal: c_qasadir - Title given to 1007479
+276 - Holder 1007399 - Primary title: d_lairiin has lost the title: d_lairiin
+276 - Title given to 1007399 - Primary title: k_wenab
+292 - Gained vassal: c_tantas
+292 - Gained vassal: c_rulenis
+292 - Gained vassal: c_bigiam
+292 - Gained vassal: c_qerabir
+292 

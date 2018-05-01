@@ -1,0 +1,60 @@
+200 - Title given to 1000479
+200 - vassal: c_dajnal - Given to 1000482 via AddCharacterForTitle
+200 - sub vassal: c_dajnal - Given to 1000482 via AddCharacterForTitle
+200 - vassal: c_dajnal - Holder 1000482 - Primary title: c_dajnal has lost the title: c_dajnal
+200 - sub vassal: c_dajnal - Holder 1000482 - Primary title: c_dajnal has lost the title: c_dajnal
+200 - vassal: c_dajnal - Title given to 1000482
+200 - sub vassal: c_dajnal - Title given to 1000482
+200 - vassal: c_tono - Holder 1000479 - Primary title: c_tono has lost the title: c_tono
+200 - sub vassal: c_tono - Holder 1000479 - Primary title: c_tono has lost the title: c_tono
+200 - vassal: c_tono - Title given to 1000479 - Primary title: d_relia
+200 - sub vassal: c_tono - Title given to 1000479 - Primary title: d_relia
+200 - Holder (1000479) has gained c_tono
+200 - vassal: c_dajnal - Holder 1000479 - Primary title: c_dajnal has lost the title: c_dajnal
+200 - sub vassal: c_dajnal - Holder 1000479 - Primary title: c_dajnal has lost the title: c_dajnal
+200 - vassal: c_dajnal - Title given to 1000479 - Primary title: d_relia
+200 - sub vassal: c_dajnal - Title given to 1000479 - Primary title: d_relia
+200 - Holder (1000479) has gained c_dajnal
+200 - vassal: c_watolir - Title given to 1000479 - Primary title: d_relia
+200 - Holder (1000479) has gained c_watolir
+227 - Holder 1002222 - Primary title: d_relia has lost the title: d_relia
+227 - Title given to 1002222
+227 - vassal: c_tono - Holder 1002222 - Primary title: c_tono has lost the title: c_tono
+227 - vassal: c_tono - Title given to 1002222 - Primary title: d_relia
+227 - Holder (1002222) has gained c_tono
+227 - vassal: c_dajnal - Holder 1002222 - Primary title: c_dajnal has lost the title: c_dajnal
+227 - vassal: c_dajnal - Title given to 1002222 - Primary title: d_relia
+227 - Holder (1002222) has gained c_dajnal
+227 - vassal: c_watolir - Holder 1002222 - Primary title: c_watolir has lost the title: c_watolir
+227 - vassal: c_watolir - Title given to 1002222 - Primary title: d_relia
+227 - Holder (1002222) has gained c_watolir
+254 - Holder 1004407 - Primary title: d_relia has lost the title: d_relia
+254 - Title given to 1004407
+254 - vassal: c_watolir - Holder 1004407 - Primary title: c_watolir has lost the title: c_watolir
+254 - vassal: c_watolir - Title given to 1004407 - Primary title: d_relia
+254 - Holder (1004407) has gained c_watolir
+254 - vassal: c_dajnal - Holder 1004407 - Primary title: c_dajnal has lost the title: c_dajnal
+254 - vassal: c_dajnal - Title given to 1004407 - Primary title: d_relia
+254 - Holder (1004407) has gained c_dajnal
+254 - vassal: c_tono - Holder 1004407 - Primary title: c_tono has lost the title: c_tono
+254 - vassal: c_tono - Title given to 1004407 - Primary title: d_relia
+254 - Holder (1004407) has gained c_tono
+266 - Made vassal of neighbour (k_evalloth) due to being a seperate island
+266 - Given to neighbour holder of k_evalloth
+266 - Holder 1006287 - Primary title: d_relia has lost the title: d_relia
+266 - Title given to 1006287 - Primary title: k_evalloth
+313 - Holder 1008283 - Primary title: d_relia has lost the title: d_relia
+313 - Title given to 1008283 - Primary title: k_evalloth
+314 - Holder 1008053 - Primary title: d_relia has lost the title: d_relia
+314 - Title given to 1008053 - Primary title: k_evalloth
+315 - vassal: c_tono - Given to 1010812 in HandleTitles - Too many duke titles
+315 - vassal: c_tono - Holder 1010812 - Primary title: c_tono has lost the title: c_tono
+315 - vassal: c_tono - Title given to 1010812
+315 - Title given to 1010812 - Primary title: c_tono
+315 - vassal: c_tono - Holder (1010812) has gained d_relia
+315 - Too many dukes, made direct title into vassal of k_evalloth
+330 - Holder 1008053 - Primary title: d_relia has lost the title: d_relia
+330 - Title given to 1008053 - Primary title: k_evalloth
+330 - vassal: c_tono - Holder 1008053 - Primary title: c_tono has lost the title: c_tono
+330 - vassal: c_tono - Title given to 1008053 - Primary title: k_evalloth
+330 - vassal: c_tono - Given to 1011848 

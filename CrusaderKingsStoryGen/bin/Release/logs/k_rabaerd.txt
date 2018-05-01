@@ -1,0 +1,707 @@
+200 - Title given to 1001543
+200 - vassal: d_qareo - Holder 1001543 - Primary title: d_qareo has lost the title: c_kusikke
+200 - sub vassal: d_qareo - Holder 1001543 - Primary title: d_qareo has lost the title: c_kusikke
+200 - sub vassal: c_kusikke - Title given to 1001543 - Primary title: k_rabaerd
+200 - Holder (1001543) has gained c_kusikke
+200 - vassal: d_tevindis - Holder 1001543 - Primary title: d_tevindis has lost the title: d_tevindis
+200 - sub vassal: d_tevindis - Holder 1001543 - Primary title: d_tevindis has lost the title: d_tevindis
+200 - vassal: d_tevindis - Title given to 1001543 - Primary title: k_rabaerd
+200 - sub vassal: d_tevindis - Title given to 1001543 - Primary title: k_rabaerd
+200 - Holder (1001543) has gained d_tevindis
+200 - vassal: d_kaht - Holder 1001543 - Primary title: d_kaht has lost the title: d_kaht
+200 - sub vassal: d_kaht - Holder 1001543 - Primary title: d_kaht has lost the title: d_kaht
+200 - vassal: d_kaht - Title given to 1001543 - Primary title: k_rabaerd
+200 - sub vassal: d_kaht - Title given to 1001543 - Primary title: k_rabaerd
+200 - Holder (1001543) has gained d_kaht
+203 - vassal: d_bigaerd - Holder 1001543 - Primary title: d_bigaerd has lost the title: d_bigaerd
+203 - sub vassal: d_bigaerd - Holder 1001543 - Primary title: d_bigaerd has lost the title: d_bigaerd
+203 - vassal: d_bigaerd - Title given to 1001543 - Primary title: k_rabaerd
+203 - sub vassal: d_bigaerd - Title given to 1001543 - Primary title: k_rabaerd
+203 - Holder (1001543) has gained d_bigaerd
+203 - sub vassal: c_kusikke - Setting to vassal of k_rabaerd in Validate Realm
+203 - vassal: d_qareo - Lost vassal: c_kusikke
+203 - sub vassal: d_qareo - Lost vassal: c_kusikke
+203 - Gained vassal: c_kusikke
+203 - sub vassal: c_wopal - Holder 1001543 - Primary title: c_wopal has lost the title: c_wopal
+203 - sub vassal: c_wopal - Title given to 1001543 - Primary title: k_rabaerd
+203 - Holder (1001543) has gained c_wopal
+203 - sub vassal: c_abaren - Holder 1001543 - Primary title: c_abaren has lost the title: c_abaren
+203 - sub vassal: c_abaren - Title given to 1001543 - Primary title: k_rabaerd
+203 - Holder (1001543) has gained c_abaren
+203 - vassal: d_kalaerd - Holder 1000255 - Primary title: d_kalaerd has lost the title: d_kalaerd
+203 - sub vassal: d_kalaerd - Holder 1000255 - Primary title: d_kalaerd has lost the title: d_kalaerd
+203 - vassal: d_kalaerd - Title given to 1000255 - Primary title: d_qareo
+203 - sub vassal: d_kalaerd - Title given to 1000255 - Primary title: d_qareo
+203 - vassal: d_qareo - Holder (1000255) has gained d_kalaerd
+203 - sub vassal: d_qareo - Holder (1000255) has gained d_kalaerd
+203 - sub vassal: c_tobubil - Holder 1000255 - Primary title: c_tobubil has lost the title: c_tobubil
+203 - sub vassal: c_tobubil - Title given to 1000255 - Primary title: d_qareo
+203 - vassal: d_qareo - Holder (1000255) has gained c_tobubil
+203 - sub vassal: d_qareo - Holder (1000255) has gained c_tobubil
+203 - sub vassal: c_balasco - Holder 1000255 - Primary title: c_balasco has lost the title: c_balasco
+203 - sub vassal: c_balasco - Title given to 1000255 - Primary title: d_qareo
+203 - vassal: d_qareo - Holder (1000255) has gained c_balasco
+203 - sub vassal: d_qareo - Holder (1000255) has gained c_balasco
+203 - sub vassal: c_apubil - Holder 1000255 - Primary title: c_apubil has lost the title: c_apubil
+203 - sub vassal: c_apubil - Title given to 1000255 - Primary title: d_qareo
+203 - vassal: d_qareo - Holder (1000255) has gained c_apubil
+203 - sub vassal: d_qareo - Holder (1000255) has gained c_apubil
+203 - sub vassal: c_wopal - Given to 1002545 in HandleTitles - Too many duke titles
+203 - Holder 1002545 - Primary title: k_rabaerd has lost the title: c_wopal
+203 - sub vassal: c_wopal - Title given to 1002545
+203 - Holder 1002545 - Primary title: k_rabaerd has lost the title: d_bigaerd
+203 - vassal: d_bigaerd - Title given to 1002545 - Primary title: c_wopal
+203 - sub vassal: d_bigaerd - Title given to 1002545 - Primary title: c_wopal
+203 - sub vassal: c_wopal - Holder (1002545) has gained d_bigaerd
+203 - sub vassal: c_abaren - Setting to vassal of k_rabaerd in Validate Realm
+203 - vassal: d_bigaerd - Lost vassal: c_abaren
+203 - sub vassal: d_bigaerd - Lost vassal: c_abaren
+203 - Gained vassal: c_abaren
+203 - vassal: d_bigaerd - Too many dukes, given to dejure: k_rabaerd
+203 - sub vassal: d_bigaerd - Too many dukes, given to dejure: k_rabaerd
+204 - vassal: d_kalaerd - Holder 1002611 - Primary title: d_kalaerd has lost the title: c_babaren
+204 - sub vassal: d_kalaerd - Holder 1002611 - Primary title: d_kalaerd has lost the title: c_babaren
+204 - sub vassal: c_babaren - Title given to 1002611
+205 - vassal: d_kalaerd - Holder 1002545 - Primary title: d_kalaerd has lost the title: d_qareo
+205 - sub vassal: d_kalaerd - Holder 1002545 - Primary title: d_kalaerd has lost the title: d_qareo
+205 - vassal: d_qareo - Title given to 1002545 - Primary title: d_bigaerd
+205 - sub vassal: d_qareo - Title given to 1002545 - Primary title: d_bigaerd
+205 - vassal: d_bigaerd - Holder (1002545) has gained d_qareo
+205 - sub vassal: d_bigaerd - Holder (1002545) has gained d_qareo
+205 - sub vassal: c_borald - Setting to vassal of d_kalaerd in Validate Realm
+205 - vassal: d_qareo - Lost vassal: c_borald
+205 - sub vassal: d_qareo - Lost vassal: c_borald
+205 - sub vassal: c_robeo - Setting to vassal of d_kalaerd in Validate Realm
+205 - vassal: d_qareo - Lost vassal: c_robeo
+205 - sub vassal: d_qareo - Lost vassal: c_robeo
+205 - vassal: d_kalaerd - Gained vassal: c_robeo
+205 - sub vassal: d_kalaerd - Gained vassal: c_robeo
+205 - vassal: d_kalaerd - Gained vassal: c_borald
+205 - sub vassal: d_kalaerd - Gained vassal: c_borald
+205 - vassal: d_kalaerd - Holder 1002545 - Primary title: d_kalaerd has lost the title: c_borald
+205 - sub vassal: d_kalaerd - Holder 1002545 - Primary title: d_kalaerd has lost the title: c_borald
+205 - sub vassal: c_borald - Title given to 1002545 - Primary title: d_bigaerd
+205 - vassal: d_bigaerd - Holder (1002545) has gained c_borald
+205 - sub vassal: d_bigaerd - Holder (1002545) has gained c_borald
+205 - sub vassal: c_borald - Setting to vassal of d_bigaerd in Validate Realm
+205 - vassal: d_kalaerd - Lost vassal: c_borald
+205 - sub vassal: d_kalaerd - Lost vassal: c_borald
+205 - vassal: d_bigaerd - Gained vassal: c_borald
+205 - sub vassal: d_bigaerd - Gained vassal: c_borald
+205 - vassal: d_kalaerd - Holder 1002545 - Primary title: d_kalaerd has lost the title: c_robeo
+205 - sub vassal: d_kalaerd - Holder 1002545 - Primary title: d_kalaerd has lost the title: c_robeo
+205 - sub vassal: c_robeo - Title given to 1002545 - Primary title: d_bigaerd
+205 - vassal: d_bigaerd - Holder (1002545) has gained c_robeo
+205 - sub vassal: d_bigaerd - Holder (1002545) has gained c_robeo
+205 - sub vassal: c_robeo - Setting to vassal of d_bigaerd in Validate Realm
+205 - vassal: d_kalaerd - Lost vassal: c_robeo
+205 - sub vassal: d_kalaerd - Lost vassal: c_robeo
+205 - vassal: d_bigaerd - Gained vassal: c_robeo
+205 - sub vassal: d_bigaerd - Gained vassal: c_robeo
+205 - vassal: d_kalaerd - Holder 1002545 - Primary title: d_kalaerd has lost the title: d_kalaerd
+205 - sub vassal: d_kalaerd - Holder 1002545 - Primary title: d_kalaerd has lost the title: d_kalaerd
+205 - vassal: d_kalaerd - Title given to 1002545 - Primary title: d_bigaerd
+205 - sub vassal: d_kalaerd - Title given to 1002545 - Primary title: d_bigaerd
+205 - vassal: d_bigaerd - Holder (1002545) has gained d_kalaerd
+205 - sub vassal: d_bigaerd - Holder (1002545) has gained d_kalaerd
+205 - sub vassal: c_tobubil - Holder 1002545 - Primary title: c_tobubil has lost the title: c_tobubil
+205 - sub vassal: c_tobubil - Title given to 1002545 - Primary title: d_bigaerd
+205 - vassal: d_bigaerd - Holder (1002545) has gained c_tobubil
+205 - sub vassal: d_bigaerd - Holder (1002545) has gained c_tobubil
+205 - sub vassal: c_balasco - Holder 1002545 - Primary title: c_balasco has lost the title: c_balasco
+205 - sub vassal: c_balasco - Title given to 1002545 - Primary title: d_bigaerd
+205 - vassal: d_bigaerd - Holder (1002545) has gained c_balasco
+205 - sub vassal: d_bigaerd - Holder (1002545) has gained c_balasco
+205 - sub vassal: c_apubil - Holder 1002545 - Primary title: c_apubil has lost the title: c_apubil
+205 - sub vassal: c_apubil - Title given to 1002545 - Primary title: d_bigaerd
+205 - vassal: d_bigaerd - Holder (1002545) has gained c_apubil
+205 - sub vassal: d_bigaerd - Holder (1002545) has gained c_apubil
+206 - sub vassal: c_babaren - Given to 1002843 in HandleTitles - Too many duke titles
+206 - sub vassal: c_babaren - Holder 1002843 - Primary title: c_babaren has lost the title: c_babaren
+206 - sub vassal: c_babaren - Title given to 1002843
+206 - vassal: d_kalaerd - Holder 1001543 - Primary title: d_kalaerd has lost the title: d_qareo
+206 - sub vassal: d_kalaerd - Holder 1001543 - Primary title: d_kalaerd has lost the title: d_qareo
+206 - vassal: d_qareo - Title given to 1001543 - Primary title: k_rabaerd
+206 - sub vassal: d_qareo - Title given to 1001543 - Primary title: k_rabaerd
+206 - Holder (1001543) has gained d_qareo
+206 - vassal: d_qareo - Too many dukes, made direct title into vassal of k_rabaerd
+206 - sub vassal: d_qareo - Too many dukes, made direct title into vassal of k_rabaerd
+206 - Holder 1002844 - Primary title: k_rabaerd has lost the title: d_qareo
+206 - vassal: d_qareo - Title given to 1002844
+206 - sub vassal: d_qareo - Title given to 1002844
+206 - vassal: d_kalaerd - Holder 1002845 - Primary title: d_kalaerd has lost the title: c_borald
+206 - sub vassal: d_kalaerd - Holder 1002845 - Primary title: d_kalaerd has lost the title: c_borald
+206 - sub vassal: c_borald - Title given to 1002845
+236 - vassal: d_qareo - Holder 1003702 - Primary title: d_qareo has lost the title: d_qareo
+236 - sub vassal: d_qareo - Holder 1003702 - Primary title: d_qareo has lost the title: d_qareo
+236 - vassal: d_qareo - Title given to 1003702
+236 - sub vassal: d_qareo - Title given to 1003702
+238 - Holder 1003018 - Primary title: k_rabaerd has lost the title: k_rabaerd
+238 - Title given to 1003018
+238 - vassal: d_kaht - Holder 1003018 - Primary title: d_kaht has lost the title: d_kaht
+238 - sub vassal: d_kaht - Holder 1003018 - Primary title: d_kaht has lost the title: d_kaht
+238 - vassal: d_kaht - Title given to 1003018 - Primary title: k_rabaerd
+238 - sub vassal: d_kaht - Title given to 1003018 - Primary title: k_rabaerd
+238 - Holder (1003018) has gained d_kaht
+238 - vassal: c_abaren - Setting to vassal of d_tevindis in Validate Realm
+238 - sub vassal: c_abaren - Setting to vassal of d_tevindis in Validate Realm
+238 - Lost vassal: c_abaren
+238 - vassal: c_kusikke - Setting to vassal of d_tevindis in Validate Realm
+238 - sub vassal: c_kusikke - Setting to vassal of d_tevindis in Validate Realm
+238 - Lost vassal: c_kusikke
+238 - vassal: d_tevindis - Gained vassal: c_kusikke
+238 - sub vassal: d_tevindis - Gained vassal: c_kusikke
+238 - vassal: d_tevindis - Gained vassal: c_abaren
+238 - sub vassal: d_tevindis - Gained vassal: c_abaren
+238 - vassal: d_tevindis - Holder 1003018 - Primary title: d_tevindis has lost the title: d_tevindis
+238 - sub vassal: d_tevindis - Holder 1003018 - Primary title: d_tevindis has lost the title: d_tevindis
+238 - vassal: d_tevindis - Title given to 1003018 - Primary title: k_rabaerd
+238 - sub vassal: d_tevindis - Title given to 1003018 - Primary title: k_rabaerd
+238 - Holder (1003018) has gained d_tevindis
+238 - sub vassal: c_abaren - Holder 1003018 - Primary title: c_abaren has lost the title: c_abaren
+238 - sub vassal: c_abaren - Title given to 1003018 - Primary title: k_rabaerd
+238 - Holder (1003018) has gained c_abaren
+238 - sub vassal: c_kusikke - Holder 1003018 - Primary title: c_kusikke has lost the title: c_kusikke
+238 - sub vassal: c_kusikke - Title given to 1003018 - Primary title: k_rabaerd
+238 - Holder (1003018) has gained c_kusikke
+239 - vassal: d_kalaerd - Holder 1002610 - Primary title: d_kalaerd has lost the title: d_kalaerd
+239 - sub vassal: d_kalaerd - Holder 1002610 - Primary title: d_kalaerd has lost the title: d_kalaerd
+239 - vassal: d_kalaerd - Title given to 1002610
+239 - sub vassal: d_kalaerd - Title given to 1002610
+239 - sub vassal: c_apubil - Setting to vassal of d_bigaerd in Validate Realm
+239 - vassal: d_kalaerd - Lost vassal: c_apubil
+239 - sub vassal: d_kalaerd - Lost vassal: c_apubil
+239 - sub vassal: c_balasco - Setting to vassal of d_bigaerd in Validate Realm
+239 - vassal: d_kalaerd - Lost vassal: c_balasco
+239 - sub vassal: d_kalaerd - Lost vassal: c_balasco
+239 - sub vassal: c_tobubil - Setting to vassal of d_bigaerd in Validate Realm
+239 - vassal: d_kalaerd - Lost vassal: c_tobubil
+239 - sub vassal: d_kalaerd - Lost vassal: c_tobubil
+239 - vassal: d_bigaerd - Gained vassal: c_tobubil
+239 - sub vassal: d_bigaerd - Gained vassal: c_tobubil
+239 - vassal: d_bigaerd - Gained vassal: c_balasco
+239 - sub vassal: d_bigaerd - Gained vassal: c_balasco
+239 - vassal: d_bigaerd - Gained vassal: c_apubil
+239 - sub vassal: d_bigaerd - Gained vassal: c_apubil
+239 - vassal: d_bigaerd - Holder 1002610 - Primary title: d_bigaerd has lost the title: d_bigaerd
+239 - sub vassal: d_bigaerd - Holder 1002610 - Primary title: d_bigaerd has lost the title: d_bigaerd
+239 - vassal: d_bigaerd - Title given to 1002610 - Primary title: d_kalaerd
+239 - sub vassal: d_bigaerd - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: d_kalaerd - Holder (1002610) has gained d_bigaerd
+239 - sub vassal: d_kalaerd - Holder (1002610) has gained d_bigaerd
+239 - sub vassal: c_apubil - Holder 1002610 - Primary title: c_apubil has lost the title: c_apubil
+239 - sub vassal: c_apubil - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: d_kalaerd - Holder (1002610) has gained c_apubil
+239 - sub vassal: d_kalaerd - Holder (1002610) has gained c_apubil
+239 - sub vassal: c_balasco - Holder 1002610 - Primary title: c_balasco has lost the title: c_balasco
+239 - sub vassal: c_balasco - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: d_kalaerd - Holder (1002610) has gained c_balasco
+239 - sub vassal: d_kalaerd - Holder (1002610) has gained c_balasco
+239 - sub vassal: c_tobubil - Holder 1002610 - Primary title: c_tobubil has lost the title: c_tobubil
+239 - sub vassal: c_tobubil - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: d_kalaerd - Holder (1002610) has gained c_tobubil
+239 - sub vassal: d_kalaerd - Holder (1002610) has gained c_tobubil
+239 - sub vassal: c_robeo - Holder 1002610 - Primary title: c_robeo has lost the title: c_robeo
+239 - sub vassal: c_robeo - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: d_kalaerd - Holder (1002610) has gained c_robeo
+239 - sub vassal: d_kalaerd - Holder (1002610) has gained c_robeo
+239 - sub vassal: c_wopal - Holder 1002610 - Primary title: c_wopal has lost the title: c_wopal
+239 - sub vassal: c_wopal - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: d_kalaerd - Holder (1002610) has gained c_wopal
+239 - sub vassal: d_kalaerd - Holder (1002610) has gained c_wopal
+240 - vassal: d_kalaerd - Destroyed due to flagged problem
+240 - sub vassal: d_kalaerd - Destroyed due to flagged problem
+240 - vassal: d_kalaerd - Made independent
+240 - sub vassal: d_kalaerd - Made independent
+244 - vassal: d_bigaerd - Holder (1002610) has gained d_kalaerd
+244 - sub vassal: d_bigaerd - Holder (1002610) has gained d_kalaerd
+244 - Gained vassal: d_kalaerd
+244 - vassal: d_kalaerd - Made independent for title creation d_kalaerd for d_bigaerd
+244 - sub vassal: d_kalaerd - Made independent for title creation d_kalaerd for d_bigaerd
+244 - vassal: d_kalaerd - Made independent
+244 - sub vassal: d_kalaerd - Made independent
+244 - sub vassal: c_wopal - Set liege on title creation d_kalaerd
+244 - vassal: d_bigaerd - Lost vassal: c_wopal
+244 - sub vassal: d_bigaerd - Lost vassal: c_wopal
+244 - sub vassal: c_robeo - Set liege on title creation d_kalaerd
+244 - vassal: d_bigaerd - Lost vassal: c_robeo
+244 - sub vassal: d_bigaerd - Lost vassal: c_robeo
+244 - sub vassal: c_tobubil - Set liege on title creation d_kalaerd
+244 - vassal: d_bigaerd - Lost vassal: c_tobubil
+244 - sub vassal: d_bigaerd - Lost vassal: c_tobubil
+244 - sub vassal: c_balasco - Set liege on title creation d_kalaerd
+244 - vassal: d_bigaerd - Lost vassal: c_balasco
+244 - sub vassal: d_bigaerd - Lost vassal: c_balasco
+244 - sub vassal: c_apubil - Set liege on title creation d_kalaerd
+244 - vassal: d_bigaerd - Lost vassal: c_apubil
+244 - sub vassal: d_bigaerd - Lost vassal: c_apubil
+244 - sub vassal: c_borald - Holder 1002610 - Primary title: c_borald has lost the title: c_borald
+244 - sub vassal: c_borald - Title given to 1002610 - Primary title: d_bigaerd
+244 - vassal: d_bigaerd - Holder (1002610) has gained c_borald
+244 - sub vassal: d_bigaerd - Holder (1002610) has gained c_borald
+245 - vassal: d_bigaerd - Holder 1006123 - Primary title: d_bigaerd has lost the title: c_balasco
+245 - sub vassal: d_bigaerd - Holder 1006123 - Primary title: d_bigaerd has lost the title: c_balasco
+245 - sub vassal: c_balasco - Title given to 1006123
+249 - vassal: d_qareo - Holder 1002610 - Primary title: d_qareo has lost the title: d_qareo
+249 - sub vassal: d_qareo - Holder 1002610 - Primary title: d_qareo has lost the title: d_qareo
+249 - vassal: d_qareo - Title given to 1002610 - Primary title: d_bigaerd
+249 - sub vassal: d_qareo - Title given to 1002610 - Primary title: d_bigaerd
+249 - vassal: d_bigaerd - Holder (1002610) has gained d_qareo
+249 - sub vassal: d_bigaerd - Holder (1002610) has gained d_qareo
+250 - sub vassal: c_apubil - Given to 1006543 in HandleTitles - Too many duke titles
+250 - vassal: d_qareo - Holder 1006543 - Primary title: d_qareo has lost the title: c_apubil
+250 - sub vassal: d_qareo - Holder 1006543 - Primary title: d_qareo has lost the title: c_apubil
+250 - sub vassal: c_apubil - Title given to 1006543
+250 - vassal: d_qareo - Holder 1003018 - Primary title: d_qareo has lost the title: d_kalaerd
+250 - sub vassal: d_qareo - Holder 1003018 - Primary title: d_qareo has lost the title: d_kalaerd
+250 - Holder (1003018) has gained d_kalaerd
+250 - sub vassal: c_wopal - Setting to vassal of d_qareo in Validate Realm
+250 - sub vassal: c_robeo - Setting to vassal of d_qareo in Validate Realm
+250 - sub vassal: c_tobubil - Setting to vassal of d_qareo in Validate Realm
+250 - vassal: d_qareo - Gained vassal: c_tobubil
+250 - sub vassal: d_qareo - Gained vassal: c_tobubil
+250 - vassal: d_qareo - Gained vassal: c_robeo
+250 - sub vassal: d_qareo - Gained vassal: c_robeo
+250 - vassal: d_qareo - Gained vassal: c_wopal
+250 - sub vassal: d_qareo - Gained vassal: c_wopal
+250 - Gained vassal: d_kalaerd
+250 - Holder 1006544 - Primary title: k_rabaerd has lost the title: d_kalaerd
+250 - vassal: d_kalaerd - Title given to 1006544
+250 - sub vassal: d_kalaerd - Title given to 1006544
+261 - vassal: d_qareo - Holder 1006638 - Primary title: d_qareo has lost the title: d_qareo
+261 - sub vassal: d_qareo - Holder 1006638 - Primary title: d_qareo has lost the title: d_qareo
+261 - vassal: d_qareo - Title given to 1006638
+261 - sub vassal: d_qareo - Title given to 1006638
+261 - sub vassal: c_tobubil - Setting to vassal of d_bigaerd in Validate Realm
+261 - vassal: d_qareo - Lost vassal: c_tobubil
+261 - sub vassal: d_qareo - Lost vassal: c_tobubil
+261 - sub vassal: c_robeo - Setting to vassal of d_bigaerd in Validate Realm
+261 - vassal: d_qareo - Lost vassal: c_robeo
+261 - sub vassal: d_qareo - Lost vassal: c_robeo
+261 - sub vassal: c_wopal - Setting to vassal of d_bigaerd in Validate Realm
+261 - vassal: d_qareo - Lost vassal: c_wopal
+261 - sub vassal: d_qareo - Lost vassal: c_wopal
+261 - vassal: d_bigaerd - Gained vassal: c_wopal
+261 - sub vassal: d_bigaerd - Gained vassal: c_wopal
+261 - vassal: d_bigaerd - Gained vassal: c_robeo
+261 - sub vassal: d_bigaerd - Gained vassal: c_robeo
+261 - vassal: d_bigaerd - Gained vassal: c_tobubil
+261 - sub vassal: d_bigaerd - Gained vassal: c_tobubil
+261 - vassal: d_bigaerd - Holder 1006638 - Primary title: d_bigaerd has lost the title: d_bigaerd
+261 - sub vassal: d_bigaerd - Holder 1006638 - Primary title: d_bigaerd has lost the title: d_bigaerd
+261 - vassal: d_bigaerd - Title given to 1006638 - Primary title: d_qareo
+261 - sub vassal: d_bigaerd - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: d_qareo - Holder (1006638) has gained d_bigaerd
+261 - sub vassal: d_qareo - Holder (1006638) has gained d_bigaerd
+261 - sub vassal: c_borald - Holder 1006638 - Primary title: c_borald has lost the title: c_borald
+261 - sub vassal: c_borald - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: d_qareo - Holder (1006638) has gained c_borald
+261 - sub vassal: d_qareo - Holder (1006638) has gained c_borald
+261 - sub vassal: c_tobubil - Holder 1006638 - Primary title: c_tobubil has lost the title: c_tobubil
+261 - sub vassal: c_tobubil - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: d_qareo - Holder (1006638) has gained c_tobubil
+261 - sub vassal: d_qareo - Holder (1006638) has gained c_tobubil
+261 - sub vassal: c_robeo - Holder 1006638 - Primary title: c_robeo has lost the title: c_robeo
+261 - sub vassal: c_robeo - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: d_qareo - Holder (1006638) has gained c_robeo
+261 - sub vassal: d_qareo - Holder (1006638) has gained c_robeo
+261 - sub vassal: c_wopal - Holder 1006638 - Primary title: c_wopal has lost the title: c_wopal
+261 - sub vassal: c_wopal - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: d_qareo - Holder (1006638) has gained c_wopal
+261 - sub vassal: d_qareo - Holder (1006638) has gained c_wopal
+276 - vassal: d_kalaerd - Holder 1008095 - Primary title: d_kalaerd has lost the title: d_kalaerd
+276 - sub vassal: d_kalaerd - Holder 1008095 - Primary title: d_kalaerd has lost the title: d_kalaerd
+276 - vassal: d_kalaerd - Title given to 1008095
+276 - sub vassal: d_kalaerd - Title given to 1008095
+278 - Holder 1006320 - Primary title: k_rabaerd has lost the title: k_rabaerd
+278 - Title given to 1006320
+278 - vassal: d_kaht - Holder 1006320 - Primary title: d_kaht has lost the title: d_kaht
+278 - sub vassal: d_kaht - Holder 1006320 - Primary title: d_kaht has lost the title: d_kaht
+278 - vassal: d_kaht - Title given to 1006320 - Primary title: k_rabaerd
+278 - sub vassal: d_kaht - Title given to 1006320 - Primary title: k_rabaerd
+278 - Holder (1006320) has gained d_kaht
+278 - vassal: d_tevindis - Holder 1006320 - Primary title: d_tevindis has lost the title: d_tevindis
+278 - sub vassal: d_tevindis - Holder 1006320 - Primary title: d_tevindis has lost the title: d_tevindis
+278 - vassal: d_tevindis - Title given to 1006320 - Primary title: k_rabaerd
+278 - sub vassal: d_tevindis - Title given to 1006320 - Primary title: k_rabaerd
+278 - Holder (1006320) has gained d_tevindis
+278 - sub vassal: c_abaren - Holder 1006320 - Primary title: c_abaren has lost the title: c_abaren
+278 - sub vassal: c_abaren - Title given to 1006320 - Primary title: k_rabaerd
+278 - Holder (1006320) has gained c_abaren
+278 - sub vassal: c_kusikke - Holder 1006320 - Primary title: c_kusikke has lost the title: c_kusikke
+278 - sub vassal: c_kusikke - Title given to 1006320 - Primary title: k_rabaerd
+278 - Holder (1006320) has gained c_kusikke
+293 - vassal: d_qareo - Holder 1008258 - Primary title: d_qareo has lost the title: d_qareo
+293 - sub vassal: d_qareo - Holder 1008258 - Primary title: d_qareo has lost the title: d_qareo
+293 - vassal: d_qareo - Title given to 1008258
+293 - sub vassal: d_qareo - Title given to 1008258
+293 - vassal: d_bigaerd - Holder 1008258 - Primary title: d_bigaerd has lost the title: d_bigaerd
+293 - sub vassal: d_bigaerd - Holder 1008258 - Primary title: d_bigaerd has lost the title: d_bigaerd
+293 - vassal: d_bigaerd - Title given to 1008258 - Primary title: d_qareo
+293 - sub vassal: d_bigaerd - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: d_qareo - Holder (1008258) has gained d_bigaerd
+293 - sub vassal: d_qareo - Holder (1008258) has gained d_bigaerd
+293 - sub vassal: c_wopal - Holder 1008258 - Primary title: c_wopal has lost the title: c_wopal
+293 - sub vassal: c_wopal - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: d_qareo - Holder (1008258) has gained c_wopal
+293 - sub vassal: d_qareo - Holder (1008258) has gained c_wopal
+293 - sub vassal: c_robeo - Holder 1008258 - Primary title: c_robeo has lost the title: c_robeo
+293 - sub vassal: c_robeo - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: d_qareo - Holder (1008258) has gained c_robeo
+293 - sub vassal: d_qareo - Holder (1008258) has gained c_robeo
+293 - sub vassal: c_tobubil - Holder 1008258 - Primary title: c_tobubil has lost the title: c_tobubil
+293 - sub vassal: c_tobubil - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: d_qareo - Holder (1008258) has gained c_tobubil
+293 - sub vassal: d_qareo - Holder (1008258) has gained c_tobubil
+293 - sub vassal: c_borald - Holder 1008258 - Primary title: c_borald has lost the title: c_borald
+293 - sub vassal: c_borald - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: d_qareo - Holder (1008258) has gained c_borald
+293 - sub vassal: d_qareo - Holder (1008258) has gained c_borald
+295 - Holder 1010084 - Primary title: k_rabaerd has lost the title: k_rabaerd
+295 - Title given to 1010084
+295 - vassal: d_kaht - Holder 1010084 - Primary title: d_kaht has lost the title: d_kaht
+295 - sub vassal: d_kaht - Holder 1010084 - Primary title: d_kaht has lost the title: d_kaht
+295 - vassal: d_kaht - Title given to 1010084 - Primary title: k_rabaerd
+295 - sub vassal: d_kaht - Title given to 1010084 - Primary title: k_rabaerd
+295 - Holder (1010084) has gained d_kaht
+295 - vassal: d_tevindis - Holder 1010084 - Primary title: d_tevindis has lost the title: d_tevindis
+295 - sub vassal: d_tevindis - Holder 1010084 - Primary title: d_tevindis has lost the title: d_tevindis
+295 - vassal: d_tevindis - Title given to 1010084 - Primary title: k_rabaerd
+295 - sub vassal: d_tevindis - Title given to 1010084 - Primary title: k_rabaerd
+295 - Holder (1010084) has gained d_tevindis
+295 - sub vassal: c_kusikke - Holder 1010084 - Primary title: c_kusikke has lost the title: c_kusikke
+295 - sub vassal: c_kusikke - Title given to 1010084 - Primary title: k_rabaerd
+295 - Holder (1010084) has gained c_kusikke
+295 - sub vassal: c_abaren - Holder 1010084 - Primary title: c_abaren has lost the title: c_abaren
+295 - sub vassal: c_abaren - Title given to 1010084 - Primary title: k_rabaerd
+295 - Holder (1010084) has gained c_abaren
+300 - sub vassal: c_wusaerd - Holder 1010084 - Primary title: c_wusaerd has lost the title: c_wusaerd
+300 - sub vassal: c_wusaerd - Title given to 1010084 - Primary title: k_rabaerd
+300 - Holder (1010084) has gained c_wusaerd
+300 - sub vassal: c_tigaren - Holder 1010084 - Primary title: c_tigaren has lost the title: c_tigaren
+300 - sub vassal: c_tigaren - Title given to 1010084 - Primary title: k_rabaerd
+300 - Holder (1010084) has gained c_tigaren
+300 - sub vassal: c_tobaerd - Holder 1010084 - Primary title: c_tobaerd has lost the title: c_tobaerd
+300 - sub vassal: c_tobaerd - Title given to 1010084 - Primary title: k_rabaerd
+300 - Holder (1010084) has gained c_tobaerd
+300 - sub vassal: c_babaren - Holder 1008258 - Primary title: c_babaren has lost the title: c_babaren
+300 - sub vassal: c_babaren - Title given to 1008258 - Primary title: d_qareo
+300 - vassal: d_qareo - Holder (1008258) has gained c_babaren
+300 - sub vassal: d_qareo - Holder (1008258) has gained c_babaren
+304 - vassal: d_qareo - Holder 1011121 - Primary title: d_qareo has lost the title: d_qareo
+304 - sub vassal: d_qareo - Holder 1011121 - Primary title: d_qareo has lost the title: d_qareo
+304 - vassal: d_qareo - Title given to 1011121
+304 - sub vassal: d_qareo - Title given to 1011121
+304 - sub vassal: c_babaren - Setting to vassal of d_bigaerd in Validate Realm
+304 - vassal: d_qareo - Lost vassal: c_babaren
+304 - sub vassal: d_qareo - Lost vassal: c_babaren
+304 - vassal: d_bigaerd - Gained vassal: c_babaren
+304 - sub vassal: d_bigaerd - Gained vassal: c_babaren
+304 - vassal: d_bigaerd - Holder 1011121 - Primary title: d_bigaerd has lost the title: d_bigaerd
+304 - sub vassal: d_bigaerd - Holder 1011121 - Primary title: d_bigaerd has lost the title: d_bigaerd
+304 - vassal: d_bigaerd - Title given to 1011121 - Primary title: d_qareo
+304 - sub vassal: d_bigaerd - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: d_qareo - Holder (1011121) has gained d_bigaerd
+304 - sub vassal: d_qareo - Holder (1011121) has gained d_bigaerd
+304 - sub vassal: c_babaren - Holder 1011121 - Primary title: c_babaren has lost the title: c_babaren
+304 - sub vassal: c_babaren - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: d_qareo - Holder (1011121) has gained c_babaren
+304 - sub vassal: d_qareo - Holder (1011121) has gained c_babaren
+304 - sub vassal: c_borald - Holder 1011121 - Primary title: c_borald has lost the title: c_borald
+304 - sub vassal: c_borald - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: d_qareo - Holder (1011121) has gained c_borald
+304 - sub vassal: d_qareo - Holder (1011121) has gained c_borald
+304 - sub vassal: c_tobubil - Holder 1011121 - Primary title: c_tobubil has lost the title: c_tobubil
+304 - sub vassal: c_tobubil - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: d_qareo - Holder (1011121) has gained c_tobubil
+304 - sub vassal: d_qareo - Holder (1011121) has gained c_tobubil
+304 - sub vassal: c_robeo - Holder 1011121 - Primary title: c_robeo has lost the title: c_robeo
+304 - sub vassal: c_robeo - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: d_qareo - Holder (1011121) has gained c_robeo
+304 - sub vassal: d_qareo - Holder (1011121) has gained c_robeo
+304 - sub vassal: c_wopal - Holder 1011121 - Primary title: c_wopal has lost the title: c_wopal
+304 - sub vassal: c_wopal - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: d_qareo - Holder (1011121) has gained c_wopal
+304 - sub vassal: d_qareo - Holder (1011121) has gained c_wopal
+305 - vassal: d_qareo - Destroyed due to flagged problem
+305 - sub vassal: d_qareo - Destroyed due to flagged problem
+305 - vassal: d_qareo - Made independent
+305 - sub vassal: d_qareo - Made independent
+305 - sub vassal: c_rararen - Holder 1010084 - Primary title: c_rararen has lost the title: c_rararen
+305 - sub vassal: c_rararen - Title given to 1010084 - Primary title: k_rabaerd
+305 - Holder (1010084) has gained c_rararen
+305 - sub vassal: c_beupeo - Holder 1010084 - Primary title: c_beupeo has lost the title: c_beupeo
+305 - sub vassal: c_beupeo - Title given to 1010084 - Primary title: k_rabaerd
+305 - Holder (1010084) has gained c_beupeo
+305 - Holder 1011253 - Primary title: k_rabaerd has lost the title: c_tigaren
+305 - sub vassal: c_tigaren - Title given to 1011253
+305 - Holder 1011254 - Primary title: k_rabaerd has lost the title: c_wusaerd
+305 - sub vassal: c_wusaerd - Title given to 1011254
+308 - vassal: d_kalaerd - Holder 1009412 - Primary title: d_kalaerd has lost the title: d_kalaerd
+308 - sub vassal: d_kalaerd - Holder 1009412 - Primary title: d_kalaerd has lost the title: d_kalaerd
+308 - vassal: d_kalaerd - Title given to 1009412
+308 - sub vassal: d_kalaerd - Title given to 1009412
+313 - vassal: d_bigaerd - Holder (1011121) has gained d_qareo
+313 - sub vassal: d_bigaerd - Holder (1011121) has gained d_qareo
+313 - Gained vassal: d_qareo
+313 - vassal: d_qareo - Made independent for title creation d_qareo for d_bigaerd
+313 - sub vassal: d_qareo - Made independent for title creation d_qareo for d_bigaerd
+313 - vassal: d_qareo - Made independent
+313 - sub vassal: d_qareo - Made independent
+313 - sub vassal: c_babaren - Set liege on title creation d_qareo
+313 - vassal: d_bigaerd - Lost vassal: c_babaren
+313 - sub vassal: d_bigaerd - Lost vassal: c_babaren
+313 - sub vassal: c_borald - Set liege on title creation d_qareo
+313 - vassal: d_bigaerd - Lost vassal: c_borald
+313 - sub vassal: d_bigaerd - Lost vassal: c_borald
+313 - sub vassal: c_tobubil - Set liege on title creation d_qareo
+313 - vassal: d_bigaerd - Lost vassal: c_tobubil
+313 - sub vassal: d_bigaerd - Lost vassal: c_tobubil
+313 - sub vassal: c_robeo - Set liege on title creation d_qareo
+313 - vassal: d_bigaerd - Lost vassal: c_robeo
+313 - sub vassal: d_bigaerd - Lost vassal: c_robeo
+313 - sub vassal: c_wopal - Set liege on title creation d_qareo
+313 - vassal: d_bigaerd - Lost vassal: c_wopal
+313 - sub vassal: d_bigaerd - Lost vassal: c_wopal
+314 - vassal: d_bigaerd - Destroyed due to flagged problem
+314 - sub vassal: d_bigaerd - Destroyed due to flagged problem
+314 - vassal: d_bigaerd - Made independent
+314 - sub vassal: d_bigaerd - Made independent
+314 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+314 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+315 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+315 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+316 - vassal: d_kaht - Captured byd_qareo in minor war
+316 - sub vassal: d_kaht - Captured byd_qareo in minor war
+316 - vassal: d_kaht - Made independent
+316 - sub vassal: d_kaht - Made independent
+316 - Holder 1011121 - Primary title: k_rabaerd has lost the title: d_kaht
+316 - sub vassal: c_tobaerd - Setting to vassal of k_rabaerd in Validate Realm
+316 - Gained vassal: c_tobaerd
+316 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+316 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+317 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+317 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+318 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+318 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+319 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+319 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+320 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+320 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+321 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+321 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+322 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+322 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+323 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+323 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+324 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+324 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+325 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+325 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+326 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+326 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+327 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+327 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+328 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+328 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+329 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+329 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+330 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+330 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+331 - vassal: d_kalaerd - Holder 1011750 - Primary title: d_kalaerd has lost the title: d_kalaerd
+331 - sub vassal: d_kalaerd - Holder 1011750 - Primary title: d_kalaerd has lost the title: d_kalaerd
+331 - vassal: d_kalaerd - Title given to 1011750
+331 - sub vassal: d_kalaerd - Title given to 1011750
+331 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+331 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+332 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+332 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+333 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+333 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+334 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+334 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+335 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+335 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+336 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+336 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+337 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+337 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+338 - vassal: d_kalaerd - Holder 1013508 - Primary title: d_kalaerd has lost the title: d_kalaerd
+338 - sub vassal: d_kalaerd - Holder 1013508 - Primary title: d_kalaerd has lost the title: d_kalaerd
+338 - vassal: d_kalaerd - Title given to 1013508
+338 - sub vassal: d_kalaerd - Title given to 1013508
+338 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+338 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+339 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+339 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+340 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+340 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+341 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+341 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+342 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+342 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+343 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+343 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+344 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+344 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+345 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+345 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+346 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+346 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+347 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+347 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+348 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+348 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+349 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+349 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+350 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+350 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+351 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+351 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+352 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+352 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+353 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+353 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+354 - sub vassal: c_abaren - Made vassal of neighbour (k_dalald) due to being a seperate island
+354 - sub vassal: c_abaren - Given to neighbour holder of k_dalald
+354 - Holder 1014895 - Primary title: k_rabaerd has lost the title: k_rabaerd
+354 - Title given to 1014895
+354 - vassal: d_tevindis - Holder 1014895 - Primary title: d_tevindis has lost the title: d_tevindis
+354 - sub vassal: d_tevindis - Holder 1014895 - Primary title: d_tevindis has lost the title: d_tevindis
+354 - vassal: d_tevindis - Title given to 1014895 - Primary title: k_rabaerd
+354 - sub vassal: d_tevindis - Title given to 1014895 - Primary title: k_rabaerd
+354 - Holder (1014895) has gained d_tevindis
+354 - sub vassal: c_abaren - Setting independent in Validate Realm
+354 - sub vassal: c_abaren - Made independent
+354 - sub vassal: c_kusikke - Setting independent in Validate Realm
+354 - sub vassal: c_kusikke - Made independent
+354 - sub vassal: c_rararen - Setting independent in Validate Realm
+354 - sub vassal: c_rararen - Made independent
+354 - sub vassal: c_beupeo - Setting independent in Validate Realm
+354 - sub vassal: c_beupeo - Made independent
+354 - vassal: c_tobaerd - Holder 1014895 - Primary title: c_tobaerd has lost the title: c_tobaerd
+354 - sub vassal: c_tobaerd - Holder 1014895 - Primary title: c_tobaerd has lost the title: c_tobaerd
+354 - vassal: c_tobaerd - Title given to 1014895 - Primary title: k_rabaerd
+354 - sub vassal: c_tobaerd - Title given to 1014895 - Primary title: k_rabaerd
+354 - Holder (1014895) has gained c_tobaerd
+354 - Holder (1014895) has gained c_abaren
+354 - Holder (1014895) has gained c_kusikke
+354 - Holder (1014895) has gained c_rararen
+354 - Holder (1014895) has gained c_beupeo
+355 - vassal: d_tevindis - Destroyed due to flagged problem
+355 - sub vassal: d_tevindis - Destroyed due to flagged problem
+355 - vassal: d_tevindis - Made independent
+355 - sub vassal: d_tevindis - Made independent
+355 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+355 - Holder 1014969 - Primary title: k_rabaerd has lost the title: k_rabaerd
+355 - Title given to 1014969
+355 - vassal: c_tobaerd - Holder 1014969 - Primary title: c_tobaerd has lost the title: c_tobaerd
+355 - sub vassal: c_tobaerd - Holder 1014969 - Primary title: c_tobaerd has lost the title: c_tobaerd
+355 - vassal: c_tobaerd - Title given to 1014969 - Primary title: k_rabaerd
+355 - sub vassal: c_tobaerd - Title given to 1014969 - Primary title: k_rabaerd
+355 - Holder (1014969) has gained c_tobaerd
+355 - Holder (1014969) has gained c_kusikke
+355 - Holder (1014969) has gained c_rararen
+355 - Holder (1014969) has gained c_beupeo
+356 - Holder (1014969) has gained c_abaren
+356 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+357 - Holder (1014969) has gained c_abaren
+357 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+358 - Holder (1014969) has gained c_abaren
+358 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+359 - Holder (1014969) has gained c_abaren
+359 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+360 - Holder (1014969) has gained c_abaren
+360 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+361 - Holder (1014969) has gained c_abaren
+361 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+362 - Holder (1014969) has gained c_abaren
+362 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+363 - Holder (1014969) has gained c_abaren
+363 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+364 - vassal: d_kalaerd - Holder 1015106 - Primary title: d_kalaerd has lost the title: d_kalaerd
+364 - sub vassal: d_kalaerd - Holder 1015106 - Primary title: d_kalaerd has lost the title: d_kalaerd
+364 - vassal: d_kalaerd - Title given to 1015106
+364 - sub vassal: d_kalaerd - Title given to 1015106
+364 - Holder (1014969) has gained c_abaren
+364 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+365 - Holder (1014969) has gained c_abaren
+365 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+366 - Holder (1014969) has gained c_abaren
+366 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+367 - Holder (1014969) has gained c_abaren
+367 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+368 - Holder (1014969) has gained c_abaren
+368 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+369 - vassal: d_kalaerd - Holder 1014969 - Primary title: d_kalaerd has lost the title: d_kalaerd
+369 - sub vassal: d_kalaerd - Holder 1014969 - Primary title: d_kalaerd has lost the title: d_kalaerd
+369 - vassal: d_kalaerd - Title given to 1014969 - Primary title: k_rabaerd
+369 - sub vassal: d_kalaerd - Title given to 1014969 - Primary title: k_rabaerd
+369 - Holder (1014969) has gained d_kalaerd
+369 - Holder (1014969) has gained c_abaren
+369 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+370 - Holder (1014969) has gained c_abaren
+370 - Holder 1013135 - Primary title: k_rabaerd has lost the title: c_abaren
+371 - vassal: d_kalaerd - Captured byd_qareo in minor war
+371 - sub vassal: d_kalaerd - Captured byd_qareo in minor war
+371 - vassal: d_kalaerd - Made independent
+371 - sub vassal: d_kalaerd - Made independent
+371 - Holder 1013922 - Primary title: k_rabaerd has lost the title: d_kalaerd
+372 - Captured byd_qareo in minor war
+372 - Given to 1013922 in minor war along with lower
+372 - Holder 1013922 - Primary title: k_rabaerd has lost the title: k_rabaerd
+372 - Title given to 1013922 - Primary title: d_qareo
+372 - vassal: c_tobaerd - Setting independent in Validate Realm
+372 - vassal: c_tobaerd - Made independent
+372 - Gained vassal: c_abaren
+372 - vassal: c_abaren - Given to neighbour holder of k_rabaerd
+372 - sub vassal: c_abaren - Given to neighbour holder of k_rabaerd
+372 - vassal: c_abaren - Holder 1013922 - Primary title: c_abaren has lost the title: c_abaren
+372 - sub vassal: c_abaren - Holder 1013922 - Primary title: c_abaren has lost the title: c_abaren
+372 - vassal: c_abaren - Title given to 1013922 - Primary title: k_rabaerd
+372 - sub vassal: c_abaren - Title given to 1013922 - Primary title: k_rabaerd
+372 - Holder (1013922) has gained c_abaren
+372 - sub vassal: c_apubil - Given to 1016148 in HandleTitles - Too many duke titles
+372 - sub vassal: c_apubil - Holder 1016148 - Primary title: c_apubil has lost the title: c_apubil
+372 - sub vassal: c_apubil - Title given to 1016148
+372 - Holder 1016148 - Primary title: k_rabaerd has lost the title: d_kalaerd
+372 - sub vassal: c_apubil - Holder (1016148) has gained d_kalaerd
+372 - Gained vassal: d_kalaerd
+372 - Holder 1016149 - Primary title: k_rabaerd has lost the title: c_robeo
+372 - sub vassal: c_robeo - Title given to 1016149
+376 - Gained vassal: c_beupeo
+392 - Holder 1016148 - Primary title: k_rabaerd has lost the title: k_rabaerd
+392 - Title given to 1016148 - Primary title: d_kalaerd
+392 - vassal: d_kalaerd - Holder (1016148) has gained k_rabaerd
+392 - sub vassal: d_kalaerd - Holder (1016148) has gained k_rabaerd
+392 - vassal: c_abaren - Setting to vassal of d_qareo in Validate Realm
+392 - Lost vassal: c_abaren
+392 - Holder (1016148) has gained d_qareo
+392 - Holder (1016148) has gained d_kaht
+392 - sub vassal: c_abaren - Holder 1016148 - Primary title: c_abaren has lost the title: c_abaren
+392 - sub vassal: c_abaren - Title given to 1016148 - Primary title: k_rabaerd
+392 - Holder (1016148) has gained c_abaren
+392 - sub vassal: c_babaren - Holder 1016148 - Primary title: c_babaren has lost the title: c_babaren
+392 - sub vassal: c_babaren - Title given to 1016148 - Primary title: k_rabaerd
+392 - Holder (1016148) has gained c_babaren
+392 - sub vassal: c_borald - Holder 1016148 - Primary title: c_borald has lost the title: c_borald
+392 - sub vassal: c_borald - Title given to 1016148 - Primary title: k_rabaerd
+392 - Holder (1016148) has gained c_borald
+392 - sub vassal: c_tobubil - Holder 1016148 - Primary title: c_tobubil has lost the title: c_tobubil
+392 - sub vassal: c_tobubil - Title given to 1016148 - Primary title: k_rabaerd
+392 - Holder (1016148) has gained c_tobubil
+392 - sub vassal: c_wopal - Holder 1016148 - Primary title: c_wopal has lost the title: c_wopal
+392 - sub vassal: c_wopal - Title given to 1016148 - Primary title: k_rabaerd
+392 - Holder (1016148) has gained c_wopal
+393 - sub vassal: c_wusaerd - Given to 1017632 in HandleTitles - Too many duke titles
+393 - sub vassal: c_wusaerd - Holder 1017632 - Primary title: c_wusaerd has lost the title: c_wusaerd
+393 - sub vassal: c_wusaerd - Title given to 1017632
+393 - Holder 1017632 - Primary title: k_rabaerd has lost the title: d_kaht
+393 - sub vassal: c_wusaerd - Holder (1017632) has gained d_kaht
+393 - Gained vassal: d_kaht
+393 - Holder 1017633 - Primary title: k_rabaerd has lost the title: c_tobubil
+393 - sub vassal: c_tobubil - Title given to 1017633
+400 - sub vassal: c_tigaren - Holder 1017632 - Primary title: c_tigaren has lost the title: c_tigaren
+400 - sub vassal: c_tigaren - Title given to 1017632 - Primary title: d_kaht
+400 - vassal: d_kaht - Holder (1017632) has gained c_tigaren
+400 - sub vassal: d_kaht - Holder (1017632) has gained c_tigaren

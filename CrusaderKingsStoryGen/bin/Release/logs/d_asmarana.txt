@@ -1,0 +1,126 @@
+200 - Title given to 1001271
+200 - vassal: c_rugas - Given to 1001274 via AddCharacterForTitle
+200 - sub vassal: c_rugas - Given to 1001274 via AddCharacterForTitle
+200 - vassal: c_rugas - Holder 1001274 - Primary title: c_rugas has lost the title: c_rugas
+200 - sub vassal: c_rugas - Holder 1001274 - Primary title: c_rugas has lost the title: c_rugas
+200 - vassal: c_rugas - Title given to 1001274
+200 - sub vassal: c_rugas - Title given to 1001274
+200 - vassal: c_tugedas - Holder 1001271 - Primary title: c_tugedas has lost the title: c_tugedas
+200 - sub vassal: c_tugedas - Holder 1001271 - Primary title: c_tugedas has lost the title: c_tugedas
+200 - vassal: c_tugedas - Title given to 1001271 - Primary title: d_asmarana
+200 - sub vassal: c_tugedas - Title given to 1001271 - Primary title: d_asmarana
+200 - Holder (1001271) has gained c_tugedas
+200 - vassal: c_rugas - Holder 1001271 - Primary title: c_rugas has lost the title: c_rugas
+200 - sub vassal: c_rugas - Holder 1001271 - Primary title: c_rugas has lost the title: c_rugas
+200 - vassal: c_rugas - Title given to 1001271 - Primary title: d_asmarana
+200 - sub vassal: c_rugas - Title given to 1001271 - Primary title: d_asmarana
+200 - Holder (1001271) has gained c_rugas
+200 - vassal: c_berana - Holder 1001271 - Primary title: c_berana has lost the title: c_berana
+200 - sub vassal: c_berana - Holder 1001271 - Primary title: c_berana has lost the title: c_berana
+200 - vassal: c_berana - Title given to 1001271 - Primary title: d_asmarana
+200 - sub vassal: c_berana - Title given to 1001271 - Primary title: d_asmarana
+200 - Holder (1001271) has gained c_berana
+200 - vassal: c_eracas - Holder 1001271 - Primary title: c_eracas has lost the title: c_eracas
+200 - sub vassal: c_eracas - Holder 1001271 - Primary title: c_eracas has lost the title: c_eracas
+200 - vassal: c_eracas - Title given to 1001271 - Primary title: d_asmarana
+200 - sub vassal: c_eracas - Title given to 1001271 - Primary title: d_asmarana
+200 - Holder (1001271) has gained c_eracas
+242 - Holder 1001996 - Primary title: d_asmarana has lost the title: d_asmarana
+242 - Title given to 1001996
+242 - vassal: c_eracas - Holder 1001996 - Primary title: c_eracas has lost the title: c_eracas
+242 - vassal: c_eracas - Title given to 1001996 - Primary title: d_asmarana
+242 - Holder (1001996) has gained c_eracas
+242 - vassal: c_berana - Holder 1001996 - Primary title: c_berana has lost the title: c_berana
+242 - vassal: c_berana - Title given to 1001996 - Primary title: d_asmarana
+242 - Holder (1001996) has gained c_berana
+242 - vassal: c_rugas - Holder 1001996 - Primary title: c_rugas has lost the title: c_rugas
+242 - vassal: c_rugas - Title given to 1001996 - Primary title: d_asmarana
+242 - Holder (1001996) has gained c_rugas
+242 - vassal: c_tugedas - Holder 1001996 - Primary title: c_tugedas has lost the title: c_tugedas
+242 - vassal: c_tugedas - Title given to 1001996 - Primary title: d_asmarana
+242 - Holder (1001996) has gained c_tugedas
+243 - Holder 1004840 - Primary title: d_asmarana has lost the title: d_asmarana
+243 - Title given to 1004840 - Primary title: k_kyutila
+243 - vassal: c_eracas - Holder 1004840 - Primary title: c_eracas has lost the title: c_eracas
+243 - vassal: c_eracas - Title given to 1004840 - Primary title: k_kyutila
+243 - vassal: c_berana - Holder 1004840 - Primary title: c_berana has lost the title: c_berana
+243 - vassal: c_berana - Title given to 1004840 - Primary title: k_kyutila
+243 - vassal: c_rugas - Holder 1004840 - Primary title: c_rugas has lost the title: c_rugas
+243 - vassal: c_rugas - Title given to 1004840 - Primary title: k_kyutila
+243 - vassal: c_tugedas - Holder 1004840 - Primary title: c_tugedas has lost the title: c_tugedas
+243 - vassal: c_tugedas - Title given to 1004840 - Primary title: k_kyutila
+243 - vassal: c_eracas - Title given to 1005996
+243 - vassal: c_tugedas - Title given to 1005997
+245 - vassal: c_berana - Title given to 1006158
+248 - vassal: c_rugas - Title given to 1006408
+258 - Gained vassal: c_qavitis
+258 - Gained vassal: c_rinozel
+258 - Gained vassal: c_qavurd
+258 - Holder 1003216 - Primary title: d_asmarana has lost the title: c_qavurd
+258 - vassal: c_qavurd - Title given to 1003216 - Primary title: k_kyutila
+258 - vassal: c_qavurd - Setting to vassal of k_kyutila in Validate Realm
+258 - Lost vassal: c_qavurd
+258 - Holder 1003216 - Primary title: d_asmarana has lost the title: c_rinozel
+258 - vassal: c_rinozel - Title given to 1003216 - Primary title: k_kyutila
+258 - vassal: c_rinozel - Setting to vassal of k_kyutila in Validate Realm
+258 - Lost vassal: c_rinozel
+258 - Holder 1003216 - Primary title: d_asmarana has lost the title: c_qavitis
+258 - vassal: c_qavitis - Title given to 1003216 - Primary title: k_kyutila
+258 - vassal: c_qavitis - Setting to vassal of k_kyutila in Validate Realm
+258 - Lost vassal: c_qavitis
+258 - Holder 1003216 - Primary title: d_asmarana has lost the title: d_asmarana
+258 - Title given to 1003216 - Primary title: k_kyutila
+264 - Gained vassal: c_qavurd
+264 - Gained vassal: c_rinozel
+264 - Gained vassal: c_qavitis
+264 - Holder 1002655 - Primary title: d_asmarana has lost the title: d_asmarana
+264 - Title given to 1002655 - Primary title: k_kyutila
+264 - vassal: c_qavitis - Setting to vassal of d_etedas in Validate Realm
+264 - Lost vassal: c_qavitis
+264 - vassal: c_rinozel - Setting to vassal of d_etedas in Validate Realm
+264 - Lost vassal: c_rinozel
+264 - vassal: c_qavurd - Setting to vassal of d_etedas in Validate Realm
+264 - Lost vassal: c_qavurd
+272 - Holder 1006310 - Primary title: d_asmarana has lost the title: d_asmarana
+272 - Title given to 1006310 - Primary title: k_kyutila
+280 - Holder 1007887 - Primary title: d_asmarana has lost the title: d_asmarana
+280 - Title given to 1007887 - Primary title: k_kyutila
+293 - Gained vassal: c_qanune
+293 - Holder 1007703 - Primary title: d_asmarana has lost the title: c_qanune
+293 - vassal: c_qanune - Title given to 1007703 - Primary title: k_kyutila
+293 - vassal: c_qanune - Setting to vassal of k_kyutila in Validate Realm
+293 - Lost vassal: c_qanune
+293 - Holder 1007703 - Primary title: d_asmarana has lost the title: d_asmarana
+293 - Title given to 1007703 - Primary title: k_kyutila
+303 - Gained vassal: c_ninozel
+303 - Gained vassal: c_qanune
+303 - Holder 1010268 - Primary title: d_asmarana has lost the title: d_asmarana
+303 - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_tugedas - Holder 1010268 - Primary title: c_tugedas has lost the title: c_tugedas
+303 - vassal: c_tugedas - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_qanune - Setting to vassal of d_etedas in Validate Realm
+303 - Lost vassal: c_qanune
+303 - vassal: c_ninozel - Setting to vassal of d_etedas in Validate Realm
+303 - Lost vassal: c_ninozel
+303 - vassal: c_rugas - Holder 1010268 - Primary title: c_rugas has lost the title: c_rugas
+303 - vassal: c_rugas - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_berana - Holder 1010268 - Primary title: c_berana has lost the title: c_berana
+303 - vassal: c_berana - Title given to 1010268 - Primary title: k_ditedas
+303 - vassal: c_eracas - Holder 1010268 - Primary title: c_eracas has lost the title: c_eracas
+303 - vassal: c_eracas - Title given to 1010268 - Primary title: k_ditedas
+304 - vassal: c_tugedas - Title given to 1011170
+304 - vassal: c_berana - Title given to 1011174
+317 - Holder 1010658 - Primary title: d_asmarana has lost the title: d_asmarana
+317 - Title given to 1010658 - Primary title: k_kyutila
+317 - vassal: c_rugas - Setting to vassal of d_nuroman in Validate Realm
+317 - Lost vassal: c_rugas
+317 - vassal: c_eracas - Setting to vassal of d_nuroman in Validate Realm
+317 - Lost vassal: c_eracas
+355 - Holder 1012917 - Primary title: d_asmarana has lost the title: d_asmarana
+355 - Title given to 1012917 - Primary title: k_kyutila
+392 - Holder 1015408 - Primary title: d_asmarana has lost the title: d_asmarana
+392 - Title given to 1015408 - Primary title: k_kyutila
+400 - vassal: c_tugedas - Holder 1015408 - Primary title: c_tugedas has lost the title: c_tugedas
+400 - vassal: c_tugedas - Title given to 1015408 - Primary title: k_kyutila
+400 - vassal: c_berana - Holder 1015408 - Primary title: c_berana has lost the title: c_berana
+400 - vassal: c_berana - Title given to 1015408 - Primary title: k_kyutila

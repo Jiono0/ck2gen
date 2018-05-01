@@ -1,0 +1,116 @@
+200 - Title given to 1000076
+200 - vassal: c_ranaarel - Holder 1000076 - Primary title: c_ranaarel has lost the title: c_ranaarel
+200 - sub vassal: c_ranaarel - Holder 1000076 - Primary title: c_ranaarel has lost the title: c_ranaarel
+200 - vassal: c_ranaarel - Title given to 1000076 - Primary title: d_kaytaric
+200 - sub vassal: c_ranaarel - Title given to 1000076 - Primary title: d_kaytaric
+200 - Holder (1000076) has gained c_ranaarel
+200 - vassal: c_woninia - Holder 1000076 - Primary title: c_woninia has lost the title: c_woninia
+200 - sub vassal: c_woninia - Holder 1000076 - Primary title: c_woninia has lost the title: c_woninia
+200 - vassal: c_woninia - Title given to 1000076 - Primary title: d_kaytaric
+200 - sub vassal: c_woninia - Title given to 1000076 - Primary title: d_kaytaric
+200 - Holder (1000076) has gained c_woninia
+200 - vassal: c_kavum - Holder 1000076 - Primary title: c_kavum has lost the title: c_kavum
+200 - sub vassal: c_kavum - Holder 1000076 - Primary title: c_kavum has lost the title: c_kavum
+200 - vassal: c_kavum - Title given to 1000076 - Primary title: d_kaytaric
+200 - sub vassal: c_kavum - Title given to 1000076 - Primary title: d_kaytaric
+200 - Holder (1000076) has gained c_kavum
+200 - vassal: c_nonelgi - Holder 1000076 - Primary title: c_nonelgi has lost the title: c_nonelgi
+200 - sub vassal: c_nonelgi - Holder 1000076 - Primary title: c_nonelgi has lost the title: c_nonelgi
+200 - vassal: c_nonelgi - Title given to 1000076 - Primary title: d_kaytaric
+200 - sub vassal: c_nonelgi - Title given to 1000076 - Primary title: d_kaytaric
+200 - Holder (1000076) has gained c_nonelgi
+235 - Holder 1003637 - Primary title: d_kaytaric has lost the title: d_kaytaric
+235 - Title given to 1003637
+235 - vassal: c_ranaarel - Holder 1003637 - Primary title: c_ranaarel has lost the title: c_ranaarel
+235 - vassal: c_ranaarel - Title given to 1003637 - Primary title: d_kaytaric
+235 - Holder (1003637) has gained c_ranaarel
+235 - vassal: c_woninia - Holder 1003637 - Primary title: c_woninia has lost the title: c_woninia
+235 - vassal: c_woninia - Title given to 1003637 - Primary title: d_kaytaric
+235 - Holder (1003637) has gained c_woninia
+235 - vassal: c_kavum - Holder 1003637 - Primary title: c_kavum has lost the title: c_kavum
+235 - vassal: c_kavum - Title given to 1003637 - Primary title: d_kaytaric
+235 - Holder (1003637) has gained c_kavum
+235 - vassal: c_nonelgi - Holder 1003637 - Primary title: c_nonelgi has lost the title: c_nonelgi
+235 - vassal: c_nonelgi - Title given to 1003637 - Primary title: d_kaytaric
+235 - Holder (1003637) has gained c_nonelgi
+261 - Holder 1007047 - Primary title: d_kaytaric has lost the title: d_kaytaric
+261 - Title given to 1007047
+261 - vassal: c_ranaarel - Holder 1007047 - Primary title: c_ranaarel has lost the title: c_ranaarel
+261 - vassal: c_ranaarel - Title given to 1007047 - Primary title: d_kaytaric
+261 - Holder (1007047) has gained c_ranaarel
+261 - vassal: c_woninia - Holder 1007047 - Primary title: c_woninia has lost the title: c_woninia
+261 - vassal: c_woninia - Title given to 1007047 - Primary title: d_kaytaric
+261 - Holder (1007047) has gained c_woninia
+261 - vassal: c_kavum - Holder 1007047 - Primary title: c_kavum has lost the title: c_kavum
+261 - vassal: c_kavum - Title given to 1007047 - Primary title: d_kaytaric
+261 - Holder (1007047) has gained c_kavum
+261 - vassal: c_nonelgi - Holder 1007047 - Primary title: c_nonelgi has lost the title: c_nonelgi
+261 - vassal: c_nonelgi - Title given to 1007047 - Primary title: d_kaytaric
+261 - Holder (1007047) has gained c_nonelgi
+270 - Holder 1007157 - Primary title: d_kaytaric has lost the title: d_kaytaric
+270 - Title given to 1007157 - Primary title: d_qindo
+270 - vassal: c_ranaarel - Holder 1007157 - Primary title: c_ranaarel has lost the title: c_ranaarel
+270 - vassal: c_ranaarel - Title given to 1007157 - Primary title: d_qisco
+270 - vassal: c_woninia - Holder 1007157 - Primary title: c_woninia has lost the title: c_woninia
+270 - vassal: c_woninia - Title given to 1007157 - Primary title: d_qisco
+270 - vassal: c_kavum - Holder 1007157 - Primary title: c_kavum has lost the title: c_kavum
+270 - vassal: c_kavum - Title given to 1007157 - Primary title: d_qisco
+270 - vassal: c_nonelgi - Holder 1007157 - Primary title: c_nonelgi has lost the title: c_nonelgi
+270 - vassal: c_nonelgi - Title given to 1007157 - Primary title: d_qisco
+271 - Holder 1006447 - Primary title: d_kaytaric has lost the title: d_qindo
+271 - Holder 1007398 - Primary title: d_kaytaric has lost the title: d_qisco
+271 - Gained vassal: c_tor
+271 - Holder 1007398 - Primary title: d_kaytaric has lost the title: c_tor
+271 - vassal: c_tor - Title given to 1007398 - Primary title: d_qisco
+271 - vassal: c_tor - Setting to vassal of d_qisco in Validate Realm
+271 - Lost vassal: c_tor
+271 - Holder 1007398 - Primary title: d_kaytaric has lost the title: d_kaytaric
+271 - Title given to 1007398 - Primary title: d_qisco
+271 - vassal: c_ranaarel - Holder 1007398 - Primary title: c_ranaarel has lost the title: c_ranaarel
+271 - vassal: c_ranaarel - Title given to 1007398 - Primary title: d_qisco
+271 - vassal: c_woninia - Holder 1007398 - Primary title: c_woninia has lost the title: c_woninia
+271 - vassal: c_woninia - Title given to 1007398 - Primary title: d_qisco
+271 - vassal: c_kavum - Holder 1007398 - Primary title: c_kavum has lost the title: c_kavum
+271 - vassal: c_kavum - Title given to 1007398 - Primary title: d_qisco
+271 - vassal: c_nonelgi - Holder 1007398 - Primary title: c_nonelgi has lost the title: c_nonelgi
+271 - vassal: c_nonelgi - Title given to 1007398 - Primary title: d_qisco
+290 - Holder 1009086 - Primary title: d_kaytaric has lost the title: d_kaytaric
+290 - Title given to 1009086
+290 - vassal: c_nonelgi - Setting to vassal of d_qisco in Validate Realm
+290 - Lost vassal: c_nonelgi
+290 - vassal: c_kavum - Setting to vassal of d_qisco in Validate Realm
+290 - Lost vassal: c_kavum
+290 - vassal: c_woninia - Setting to vassal of d_qisco in Validate Realm
+290 - Lost vassal: c_woninia
+290 - vassal: c_ranaarel - Setting to vassal of d_qisco in Validate Realm
+290 - Lost vassal: c_ranaarel
+290 - Holder (1009086) has gained d_qisco
+290 - Holder (1009086) has gained c_nonelgi
+290 - Holder (1009086) has gained c_kavum
+290 - Holder (1009086) has gained c_woninia
+290 - Holder (1009086) has gained c_ranaarel
+290 - Holder (1009086) has gained c_tor
+291 - Destroyed due to flagged problem
+291 - Made independent
+291 - Title destroyed
+293 - Given to 1009086 in TestCreateEmpire
+293 - Title given to 1009086 - Primary title: d_qisco
+293 - Made independent for title creation d_kaytaric for d_qisco
+293 - Made independent
+293 - Gained vassal: c_nonelgi
+293 - Gained vassal: c_kavum
+293 - Gained vassal: c_woninia
+293 - Gained vassal: c_ranaarel
+293 - Gained vassal: c_tor
+293 - Destroyed due to no capital's obtainable
+293 - Title destroyed
+293 - vassal: c_nonelgi - Setting independent due to liege destruction
+293 - vassal: c_nonelgi - Made independent
+293 - vassal: c_kavum - Setting independent due to liege destruction
+293 - vassal: c_kavum - Made independent
+293 - vassal: c_woninia - Setting independent due to liege destruction
+293 - vassal: c_woninia - Made independent
+293 - vassal: c_ranaarel - Setting independent due to liege destruction
+293 - vassal: c_ranaarel - Made independent
+293 - vassal: c_tor - Setting independent due to liege destruction
+293 - vassal: c_tor - Made independent

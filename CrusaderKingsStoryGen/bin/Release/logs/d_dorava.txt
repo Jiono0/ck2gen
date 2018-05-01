@@ -1,0 +1,46 @@
+200 - Title given to 1001111
+200 - vassal: c_kovora - Holder 1001111 - Primary title: c_kovora has lost the title: c_kovora
+200 - sub vassal: c_kovora - Holder 1001111 - Primary title: c_kovora has lost the title: c_kovora
+200 - vassal: c_kovora - Title given to 1001111 - Primary title: d_dorava
+200 - sub vassal: c_kovora - Title given to 1001111 - Primary title: d_dorava
+200 - Holder (1001111) has gained c_kovora
+200 - vassal: c_nayanail - Holder 1001111 - Primary title: c_nayanail has lost the title: c_nayanail
+200 - sub vassal: c_nayanail - Holder 1001111 - Primary title: c_nayanail has lost the title: c_nayanail
+200 - vassal: c_nayanail - Title given to 1001111 - Primary title: d_dorava
+200 - sub vassal: c_nayanail - Title given to 1001111 - Primary title: d_dorava
+200 - Holder (1001111) has gained c_nayanail
+200 - vassal: c_ranesar - Title given to 1001111 - Primary title: d_dorava
+200 - Holder (1001111) has gained c_ranesar
+200 - Holder 1001578 - Primary title: d_dorava has lost the title: d_dorava
+200 - Title given to 1001578 - Primary title: k_eguvona
+200 - vassal: c_kovora - Holder 1001578 - Primary title: c_kovora has lost the title: c_kovora
+200 - vassal: c_kovora - Title given to 1001578 - Primary title: k_eguvona
+236 - Holder 1003461 - Primary title: d_dorava has lost the title: d_dorava
+236 - Title given to 1003461 - Primary title: k_eguvona
+236 - vassal: c_kovora - Holder 1003461 - Primary title: c_kovora has lost the title: c_kovora
+236 - vassal: c_kovora - Title given to 1003461 - Primary title: k_eguvona
+246 - Holder 1005820 - Primary title: d_dorava has lost the title: d_dorava
+246 - Title given to 1005820 - Primary title: k_eguvona
+246 - vassal: c_kovora - Holder 1005820 - Primary title: c_kovora has lost the title: c_kovora
+246 - vassal: c_kovora - Title given to 1005820 - Primary title: k_eguvona
+261 - Holder 1007539 - Primary title: d_dorava has lost the title: d_dorava
+261 - Title given to 1007539 - Primary title: k_eguvona
+261 - vassal: c_kovora - Setting to vassal of d_tambe in Validate Realm
+261 - Lost vassal: c_kovora
+285 - Holder 1007713 - Primary title: d_dorava has lost the title: d_dorava
+285 - Title given to 1007713 - Primary title: k_eguvona
+295 - Holder 1009106 - Primary title: d_dorava has lost the title: d_dorava
+295 - Title given to 1009106 - Primary title: k_eguvona
+300 - vassal: c_nayanail - Holder 1009106 - Primary title: c_nayanail has lost the title: c_nayanail
+300 - vassal: c_nayanail - Title given to 1009106 - Primary title: k_eguvona
+300 - vassal: c_ranesar - Holder 1009106 - Primary title: c_ranesar has lost the title: c_ranesar
+300 - vassal: c_ranesar - Title given to 1009106 - Primary title: k_eguvona
+326 - Holder 1011777 - Primary title: d_dorava has lost the title: d_dorava
+326 - Title given to 1011777 - Primary title: k_eguvona
+326 - vassal: c_nayanail - Setting to vassal of d_tambe in Validate Realm
+326 - Lost vassal: c_nayanail
+326 - vassal: c_ranesar - Setting to vassal of d_tambe in Validate Realm
+326 - Lost vassal: c_ranesar
+327 - Destroyed due to flagged problem
+327 - Made independent
+327 - Title destroyed

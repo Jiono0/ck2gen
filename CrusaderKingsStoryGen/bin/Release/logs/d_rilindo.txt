@@ -1,0 +1,44 @@
+200 - Title given to 1001302
+200 - vassal: c_karana - Holder 1001201 - Primary title: c_karana has lost the title: c_rartin
+200 - sub vassal: c_karana - Holder 1001201 - Primary title: c_karana has lost the title: c_rartin
+200 - sub vassal: c_rartin - Title given to 1001201 - Primary title: d_kiviogo
+200 - vassal: c_karana - Holder 1001267 - Primary title: c_karana has lost the title: c_kyesale
+200 - sub vassal: c_karana - Holder 1001267 - Primary title: c_karana has lost the title: c_kyesale
+200 - sub vassal: c_kyesale - Title given to 1001267 - Primary title: d_rugedas
+200 - vassal: c_karana - Holder 1001296 - Primary title: c_karana has lost the title: c_terindo
+200 - sub vassal: c_karana - Holder 1001296 - Primary title: c_karana has lost the title: c_terindo
+200 - sub vassal: c_terindo - Title given to 1001296 - Primary title: d_etedas
+200 - vassal: c_kalila - Holder 1001302 - Primary title: c_kalila has lost the title: c_kalila
+200 - sub vassal: c_kalila - Holder 1001302 - Primary title: c_kalila has lost the title: c_kalila
+200 - vassal: c_kalila - Title given to 1001302 - Primary title: d_rilindo
+200 - sub vassal: c_kalila - Title given to 1001302 - Primary title: d_rilindo
+200 - Holder (1001302) has gained c_kalila
+200 - vassal: c_kacedas - Holder 1001302 - Primary title: c_kacedas has lost the title: c_kacedas
+200 - sub vassal: c_kacedas - Holder 1001302 - Primary title: c_kacedas has lost the title: c_kacedas
+200 - vassal: c_kacedas - Title given to 1001302 - Primary title: d_rilindo
+200 - sub vassal: c_kacedas - Title given to 1001302 - Primary title: d_rilindo
+200 - Holder (1001302) has gained c_kacedas
+200 - vassal: c_sazanu - Holder 1001302 - Primary title: c_sazanu has lost the title: c_sazanu
+200 - sub vassal: c_sazanu - Holder 1001302 - Primary title: c_sazanu has lost the title: c_sazanu
+200 - vassal: c_sazanu - Title given to 1001302 - Primary title: d_rilindo
+200 - sub vassal: c_sazanu - Title given to 1001302 - Primary title: d_rilindo
+200 - Holder (1001302) has gained c_sazanu
+200 - vassal: c_karana - Holder 1001302 - Primary title: c_karana has lost the title: c_karana
+200 - sub vassal: c_karana - Holder 1001302 - Primary title: c_karana has lost the title: c_karana
+200 - vassal: c_karana - Title given to 1001302 - Primary title: d_rilindo
+200 - sub vassal: c_karana - Title given to 1001302 - Primary title: d_rilindo
+200 - Holder (1001302) has gained c_karana
+200 - Holder (1001302) has gained k_rugoman
+218 - Holder 1002558 - Primary title: d_rilindo has lost the title: d_rilindo
+218 - Title given to 1002558 - Primary title: k_rugoman
+218 - vassal: c_karana - Setting to vassal of d_rorila in Validate Realm
+218 - Lost vassal: c_karana
+218 - vassal: c_sazanu - Setting to vassal of d_rorila in Validate Realm
+218 - Lost vassal: c_sazanu
+218 - vassal: c_kacedas - Setting to vassal of d_rorila in Validate Realm
+218 - Lost vassal: c_kacedas
+218 - vassal: c_kalila - Setting to vassal of d_rorila in Validate Realm
+218 - Lost vassal: c_kalila
+219 - Destroyed due to flagged problem
+219 - Made independent
+219 - Title destroyed

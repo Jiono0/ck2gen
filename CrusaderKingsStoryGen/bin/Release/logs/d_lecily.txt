@@ -1,0 +1,75 @@
+200 - Title given to 1000818
+200 - vassal: c_edalsis - Given to 1000821 via AddCharacterForTitle
+200 - sub vassal: c_edalsis - Given to 1000821 via AddCharacterForTitle
+200 - vassal: c_edalsis - Holder 1000821 - Primary title: c_edalsis has lost the title: c_edalsis
+200 - sub vassal: c_edalsis - Holder 1000821 - Primary title: c_edalsis has lost the title: c_edalsis
+200 - vassal: c_edalsis - Title given to 1000821
+200 - sub vassal: c_edalsis - Title given to 1000821
+200 - vassal: c_tanyana - Given to 1000823 via AddCharacterForTitle
+200 - sub vassal: c_tanyana - Given to 1000823 via AddCharacterForTitle
+200 - vassal: c_tanyana - Holder 1000823 - Primary title: c_tanyana has lost the title: c_tanyana
+200 - sub vassal: c_tanyana - Holder 1000823 - Primary title: c_tanyana has lost the title: c_tanyana
+200 - vassal: c_tanyana - Title given to 1000823
+200 - sub vassal: c_tanyana - Title given to 1000823
+200 - vassal: c_tujimir - Holder 1000818 - Primary title: c_tujimir has lost the title: c_tujimir
+200 - sub vassal: c_tujimir - Holder 1000818 - Primary title: c_tujimir has lost the title: c_tujimir
+200 - vassal: c_tujimir - Title given to 1000818 - Primary title: d_lecily
+200 - sub vassal: c_tujimir - Title given to 1000818 - Primary title: d_lecily
+200 - Holder (1000818) has gained c_tujimir
+200 - vassal: c_edalsis - Holder 1000818 - Primary title: c_edalsis has lost the title: c_edalsis
+200 - sub vassal: c_edalsis - Holder 1000818 - Primary title: c_edalsis has lost the title: c_edalsis
+200 - vassal: c_edalsis - Title given to 1000818 - Primary title: d_lecily
+200 - sub vassal: c_edalsis - Title given to 1000818 - Primary title: d_lecily
+200 - Holder (1000818) has gained c_edalsis
+203 - Holder 1001565 - Primary title: d_lecily has lost the title: d_lecily
+203 - Title given to 1001565 - Primary title: k_wurebia
+203 - vassal: c_edalsis - Holder 1001565 - Primary title: c_edalsis has lost the title: c_edalsis
+203 - vassal: c_edalsis - Title given to 1001565 - Primary title: k_wurebia
+203 - vassal: c_tujimir - Holder 1001565 - Primary title: c_tujimir has lost the title: c_tujimir
+203 - vassal: c_tujimir - Title given to 1001565 - Primary title: k_wurebia
+224 - Holder 1002094 - Primary title: d_lecily has lost the title: d_lecily
+224 - Title given to 1002094 - Primary title: k_wurebia
+224 - vassal: c_tujimir - Holder 1002094 - Primary title: c_tujimir has lost the title: c_tujimir
+224 - vassal: c_tujimir - Title given to 1002094 - Primary title: k_wurebia
+224 - vassal: c_edalsis - Holder 1002094 - Primary title: c_edalsis has lost the title: c_edalsis
+224 - vassal: c_edalsis - Title given to 1002094 - Primary title: k_wurebia
+262 - Gained vassal: c_qanimir
+262 - Gained vassal: c_syahind
+262 - Holder 1004749 - Primary title: d_lecily has lost the title: d_lecily
+262 - Title given to 1004749 - Primary title: k_wurebia
+262 - vassal: c_syahind - Holder 1004749 - Primary title: c_syahind has lost the title: c_syahind
+262 - vassal: c_syahind - Title given to 1004749 - Primary title: k_wurebia
+262 - vassal: c_qanimir - Holder 1004749 - Primary title: c_qanimir has lost the title: c_qanimir
+262 - vassal: c_qanimir - Title given to 1004749 - Primary title: k_wurebia
+262 - vassal: c_tujimir - Holder 1004749 - Primary title: c_tujimir has lost the title: c_tujimir
+262 - vassal: c_tujimir - Title given to 1004749 - Primary title: k_wurebia
+262 - vassal: c_edalsis - Holder 1004749 - Primary title: c_edalsis has lost the title: c_edalsis
+262 - vassal: c_edalsis - Title given to 1004749 - Primary title: k_wurebia
+286 - Gained vassal: c_erasimir
+286 - Holder 1008381 - Primary title: d_lecily has lost the title: d_lecily
+286 - Title given to 1008381 - Primary title: k_wurebia
+286 - vassal: c_erasimir - Holder 1008381 - Primary title: c_erasimir has lost the title: c_erasimir
+286 - vassal: c_erasimir - Title given to 1008381 - Primary title: k_wurebia
+286 - vassal: c_edalsis - Holder 1008381 - Primary title: c_edalsis has lost the title: c_edalsis
+286 - vassal: c_edalsis - Title given to 1008381 - Primary title: k_wurebia
+286 - vassal: c_tujimir - Holder 1008381 - Primary title: c_tujimir has lost the title: c_tujimir
+286 - vassal: c_tujimir - Title given to 1008381 - Primary title: k_wurebia
+286 - vassal: c_qanimir - Holder 1008381 - Primary title: c_qanimir has lost the title: c_qanimir
+286 - vassal: c_qanimir - Title given to 1008381 - Primary title: k_wurebia
+286 - vassal: c_syahind - Holder 1008381 - Primary title: c_syahind has lost the title: c_syahind
+286 - vassal: c_syahind - Title given to 1008381 - Primary title: k_wurebia
+319 - Holder 1009685 - Primary title: d_lecily has lost the title: d_lecily
+319 - Title given to 1009685 - Primary title: k_wurebia
+319 - vassal: c_syahind - Setting to vassal of d_kyae in Validate Realm
+319 - Lost vassal: c_syahind
+319 - vassal: c_qanimir - Setting to vassal of d_kyae in Validate Realm
+319 - Lost vassal: c_qanimir
+319 - vassal: c_tujimir - Setting to vassal of d_kyae in Validate Realm
+319 - Lost vassal: c_tujimir
+319 - vassal: c_edalsis - Setting to vassal of d_kyae in Validate Realm
+319 - Lost vassal: c_edalsis
+319 - vassal: c_erasimir - Setting to vassal of d_kyae in Validate Realm
+319 - Lost vassal: c_erasimir
+320 - Destroyed due to flagged problem
+320 - Made independent
+320 - Title destroyed

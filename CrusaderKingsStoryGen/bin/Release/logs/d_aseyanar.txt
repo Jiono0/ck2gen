@@ -1,0 +1,34 @@
+200 - Title given to 1000225
+200 - vassal: c_agosasco - Given to 1000228 via AddCharacterForTitle
+200 - sub vassal: c_agosasco - Given to 1000228 via AddCharacterForTitle
+200 - vassal: c_agosasco - Holder 1000228 - Primary title: c_agosasco has lost the title: c_agosasco
+200 - sub vassal: c_agosasco - Holder 1000228 - Primary title: c_agosasco has lost the title: c_agosasco
+200 - vassal: c_agosasco - Title given to 1000228
+200 - sub vassal: c_agosasco - Title given to 1000228
+200 - vassal: c_tirinar - Holder 1000225 - Primary title: c_tirinar has lost the title: c_tirinar
+200 - sub vassal: c_tirinar - Holder 1000225 - Primary title: c_tirinar has lost the title: c_tirinar
+200 - vassal: c_tirinar - Title given to 1000225 - Primary title: d_aseyanar
+200 - sub vassal: c_tirinar - Title given to 1000225 - Primary title: d_aseyanar
+200 - Holder (1000225) has gained c_tirinar
+200 - vassal: c_agosasco - Holder 1000225 - Primary title: c_agosasco has lost the title: c_agosasco
+200 - sub vassal: c_agosasco - Holder 1000225 - Primary title: c_agosasco has lost the title: c_agosasco
+200 - vassal: c_agosasco - Title given to 1000225 - Primary title: d_aseyanar
+200 - sub vassal: c_agosasco - Title given to 1000225 - Primary title: d_aseyanar
+200 - Holder (1000225) has gained c_agosasco
+200 - Holder 1001540 - Primary title: d_aseyanar has lost the title: d_aseyanar
+200 - Title given to 1001540 - Primary title: k_dalaerd
+200 - vassal: c_tirinar - Holder 1001540 - Primary title: c_tirinar has lost the title: c_tirinar
+200 - vassal: c_tirinar - Title given to 1001540 - Primary title: k_dalaerd
+237 - Holder 1003168 - Primary title: d_aseyanar has lost the title: d_aseyanar
+237 - Title given to 1003168 - Primary title: k_dalaerd
+237 - vassal: c_tirinar - Holder 1003168 - Primary title: c_tirinar has lost the title: c_tirinar
+237 - vassal: c_tirinar - Title given to 1003168 - Primary title: k_dalaerd
+253 - Holder 1004952 - Primary title: d_aseyanar has lost the title: d_aseyanar
+253 - Title given to 1004952 - Primary title: k_dalaerd
+253 - vassal: c_tirinar - Setting to vassal of d_ryenayor in Validate Realm
+253 - Lost vassal: c_tirinar
+268 - vassal: c_agosasco - Made independent due to being a seperate island prior to giving to neighbour
+268 - vassal: c_agosasco - Made independent
+269 - Destroyed due to flagged problem
+269 - Made independent
+269 - Title destroyed

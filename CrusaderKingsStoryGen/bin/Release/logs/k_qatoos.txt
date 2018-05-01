@@ -1,0 +1,324 @@
+200 - Title given to 1001588
+200 - vassal: d_qyasude - Holder 1001588 - Primary title: d_qyasude has lost the title: c_wyaai
+200 - sub vassal: d_qyasude - Holder 1001588 - Primary title: d_qyasude has lost the title: c_wyaai
+200 - sub vassal: c_wyaai - Title given to 1001588 - Primary title: k_qatoos
+200 - Holder (1001588) has gained c_wyaai
+222 - Holder 1002918 - Primary title: k_qatoos has lost the title: k_qatoos
+222 - Title given to 1002918
+222 - sub vassal: c_wyaai - Holder 1002918 - Primary title: c_wyaai has lost the title: c_wyaai
+222 - sub vassal: c_wyaai - Title given to 1002918 - Primary title: k_qatoos
+222 - Holder (1002918) has gained c_wyaai
+222 - sub vassal: c_wyaai - Setting to vassal of k_qatoos in Validate Realm
+222 - vassal: d_qyasude - Lost vassal: c_wyaai
+222 - sub vassal: d_qyasude - Lost vassal: c_wyaai
+222 - Gained vassal: c_wyaai
+234 - vassal: d_natorz - Holder 1001380 - Primary title: d_natorz has lost the title: d_natorz
+234 - sub vassal: d_natorz - Holder 1001380 - Primary title: d_natorz has lost the title: d_natorz
+234 - vassal: d_natorz - Title given to 1001380 - Primary title: d_dadadata
+234 - sub vassal: d_natorz - Title given to 1001380 - Primary title: d_dadadata
+234 - vassal: d_dadadata - Holder (1001380) has gained d_natorz
+234 - sub vassal: d_dadadata - Holder (1001380) has gained d_natorz
+234 - sub vassal: c_ladashad - Holder 1001380 - Primary title: c_ladashad has lost the title: c_ladashad
+234 - sub vassal: c_ladashad - Title given to 1001380 - Primary title: d_dadadata
+234 - vassal: d_dadadata - Holder (1001380) has gained c_ladashad
+234 - sub vassal: d_dadadata - Holder (1001380) has gained c_ladashad
+234 - sub vassal: c_sabavati - Holder 1001380 - Primary title: c_sabavati has lost the title: c_sabavati
+234 - sub vassal: c_sabavati - Title given to 1001380 - Primary title: d_dadadata
+234 - vassal: d_dadadata - Holder (1001380) has gained c_sabavati
+234 - sub vassal: d_dadadata - Holder (1001380) has gained c_sabavati
+234 - sub vassal: c_kadebia - Holder 1001380 - Primary title: c_kadebia has lost the title: c_kadebia
+234 - sub vassal: c_kadebia - Title given to 1001380 - Primary title: d_dadadata
+234 - vassal: d_dadadata - Holder (1001380) has gained c_kadebia
+234 - sub vassal: d_dadadata - Holder (1001380) has gained c_kadebia
+235 - vassal: d_natorz - Holder 1005274 - Primary title: d_natorz has lost the title: c_lyoelaba
+235 - sub vassal: d_natorz - Holder 1005274 - Primary title: d_natorz has lost the title: c_lyoelaba
+235 - sub vassal: c_lyoelaba - Title given to 1005274
+239 - Holder 1001380 - Primary title: k_qatoos has lost the title: k_qatoos
+239 - Title given to 1001380 - Primary title: d_natorz
+239 - vassal: d_natorz - Holder (1001380) has gained k_qatoos
+239 - sub vassal: d_natorz - Holder (1001380) has gained k_qatoos
+239 - vassal: c_wyaai - Holder 1001380 - Primary title: c_wyaai has lost the title: c_wyaai
+239 - sub vassal: c_wyaai - Holder 1001380 - Primary title: c_wyaai has lost the title: c_wyaai
+239 - vassal: c_wyaai - Title given to 1001380 - Primary title: k_qatoos
+239 - sub vassal: c_wyaai - Title given to 1001380 - Primary title: k_qatoos
+239 - Holder (1001380) has gained c_wyaai
+240 - Holder 1005754 - Primary title: k_qatoos has lost the title: c_nuroos
+240 - sub vassal: c_nuroos - Title given to 1005754
+242 - Holder 1002251 - Primary title: k_qatoos has lost the title: k_qatoos
+242 - Title given to 1002251
+242 - vassal: d_natorz - Holder 1002251 - Primary title: d_natorz has lost the title: d_natorz
+242 - sub vassal: d_natorz - Holder 1002251 - Primary title: d_natorz has lost the title: d_natorz
+242 - vassal: d_natorz - Title given to 1002251 - Primary title: k_qatoos
+242 - sub vassal: d_natorz - Title given to 1002251 - Primary title: k_qatoos
+242 - Holder (1002251) has gained d_natorz
+242 - vassal: c_wyaai - Setting to vassal of d_dadadata in Validate Realm
+242 - sub vassal: c_wyaai - Setting to vassal of d_dadadata in Validate Realm
+242 - Lost vassal: c_wyaai
+242 - sub vassal: c_kadebia - Setting to vassal of d_dadadata in Validate Realm
+242 - vassal: d_natorz - Lost vassal: c_kadebia
+242 - sub vassal: d_natorz - Lost vassal: c_kadebia
+242 - sub vassal: c_sabavati - Setting to vassal of d_dadadata in Validate Realm
+242 - vassal: d_natorz - Lost vassal: c_sabavati
+242 - sub vassal: d_natorz - Lost vassal: c_sabavati
+242 - sub vassal: c_ladashad - Setting to vassal of d_dadadata in Validate Realm
+242 - vassal: d_natorz - Lost vassal: c_ladashad
+242 - sub vassal: d_natorz - Lost vassal: c_ladashad
+242 - vassal: d_dadadata - Gained vassal: c_ladashad
+242 - sub vassal: d_dadadata - Gained vassal: c_ladashad
+242 - vassal: d_dadadata - Gained vassal: c_sabavati
+242 - sub vassal: d_dadadata - Gained vassal: c_sabavati
+242 - vassal: d_dadadata - Gained vassal: c_kadebia
+242 - sub vassal: d_dadadata - Gained vassal: c_kadebia
+242 - vassal: d_dadadata - Gained vassal: c_wyaai
+242 - sub vassal: d_dadadata - Gained vassal: c_wyaai
+242 - vassal: d_dadadata - Holder 1002251 - Primary title: d_dadadata has lost the title: d_dadadata
+242 - sub vassal: d_dadadata - Holder 1002251 - Primary title: d_dadadata has lost the title: d_dadadata
+242 - vassal: d_dadadata - Title given to 1002251 - Primary title: k_qatoos
+242 - sub vassal: d_dadadata - Title given to 1002251 - Primary title: k_qatoos
+242 - Holder (1002251) has gained d_dadadata
+242 - sub vassal: c_wyaai - Holder 1002251 - Primary title: c_wyaai has lost the title: c_wyaai
+242 - sub vassal: c_wyaai - Title given to 1002251 - Primary title: k_qatoos
+242 - Holder (1002251) has gained c_wyaai
+242 - sub vassal: c_kadebia - Holder 1002251 - Primary title: c_kadebia has lost the title: c_kadebia
+242 - sub vassal: c_kadebia - Title given to 1002251 - Primary title: k_qatoos
+242 - Holder (1002251) has gained c_kadebia
+242 - sub vassal: c_sabavati - Holder 1002251 - Primary title: c_sabavati has lost the title: c_sabavati
+242 - sub vassal: c_sabavati - Title given to 1002251 - Primary title: k_qatoos
+242 - Holder (1002251) has gained c_sabavati
+242 - sub vassal: c_ladashad - Holder 1002251 - Primary title: c_ladashad has lost the title: c_ladashad
+242 - sub vassal: c_ladashad - Title given to 1002251 - Primary title: k_qatoos
+242 - Holder (1002251) has gained c_ladashad
+242 - sub vassal: c_latoos - Holder 1002251 - Primary title: c_latoos has lost the title: c_latoos
+242 - sub vassal: c_latoos - Title given to 1002251 - Primary title: k_qatoos
+242 - Holder (1002251) has gained c_latoos
+243 - vassal: d_natorz - Destroyed due to flagged problem
+243 - sub vassal: d_natorz - Destroyed due to flagged problem
+243 - vassal: d_natorz - Made independent
+243 - sub vassal: d_natorz - Made independent
+252 - vassal: d_qyasude - Holder 1002539 - Primary title: d_qyasude has lost the title: d_qyasude
+252 - sub vassal: d_qyasude - Holder 1002539 - Primary title: d_qyasude has lost the title: d_qyasude
+252 - vassal: d_qyasude - Title given to 1002539
+252 - sub vassal: d_qyasude - Title given to 1002539
+252 - sub vassal: c_qaroos - Holder 1002539 - Primary title: c_qaroos has lost the title: c_qaroos
+252 - sub vassal: c_qaroos - Title given to 1002539 - Primary title: d_qyasude
+252 - vassal: d_qyasude - Holder (1002539) has gained c_qaroos
+252 - sub vassal: d_qyasude - Holder (1002539) has gained c_qaroos
+252 - sub vassal: c_kerashad - Holder 1002539 - Primary title: c_kerashad has lost the title: c_kerashad
+252 - sub vassal: c_kerashad - Title given to 1002539 - Primary title: d_qyasude
+252 - vassal: d_qyasude - Holder (1002539) has gained c_kerashad
+252 - sub vassal: d_qyasude - Holder (1002539) has gained c_kerashad
+255 - vassal: d_qyasude - Holder 1002251 - Primary title: d_qyasude has lost the title: d_qyasude
+255 - sub vassal: d_qyasude - Holder 1002251 - Primary title: d_qyasude has lost the title: d_qyasude
+255 - vassal: d_qyasude - Title given to 1002251 - Primary title: k_qatoos
+255 - sub vassal: d_qyasude - Title given to 1002251 - Primary title: k_qatoos
+255 - Holder (1002251) has gained d_qyasude
+255 - sub vassal: c_qaroos - Holder 1002251 - Primary title: c_qaroos has lost the title: c_qaroos
+255 - sub vassal: c_qaroos - Title given to 1002251 - Primary title: k_qatoos
+255 - Holder (1002251) has gained c_qaroos
+255 - sub vassal: c_kerashad - Holder 1002251 - Primary title: c_kerashad has lost the title: c_kerashad
+255 - sub vassal: c_kerashad - Title given to 1002251 - Primary title: k_qatoos
+255 - Holder (1002251) has gained c_kerashad
+255 - Holder 1007007 - Primary title: k_qatoos has lost the title: c_qaroos
+255 - sub vassal: c_qaroos - Title given to 1007007
+255 - Holder 1007008 - Primary title: k_qatoos has lost the title: c_kerashad
+255 - sub vassal: c_kerashad - Title given to 1007008
+267 - Holder 1007801 - Primary title: k_qatoos has lost the title: k_qatoos
+267 - Title given to 1007801
+267 - vassal: d_qyasude - Holder 1007801 - Primary title: d_qyasude has lost the title: d_qyasude
+267 - sub vassal: d_qyasude - Holder 1007801 - Primary title: d_qyasude has lost the title: d_qyasude
+267 - vassal: d_qyasude - Title given to 1007801 - Primary title: k_qatoos
+267 - sub vassal: d_qyasude - Title given to 1007801 - Primary title: k_qatoos
+267 - Holder (1007801) has gained d_qyasude
+267 - vassal: d_dadadata - Holder 1007801 - Primary title: d_dadadata has lost the title: d_dadadata
+267 - sub vassal: d_dadadata - Holder 1007801 - Primary title: d_dadadata has lost the title: d_dadadata
+267 - vassal: d_dadadata - Title given to 1007801 - Primary title: k_qatoos
+267 - sub vassal: d_dadadata - Title given to 1007801 - Primary title: k_qatoos
+267 - Holder (1007801) has gained d_dadadata
+267 - sub vassal: c_latoos - Holder 1007801 - Primary title: c_latoos has lost the title: c_latoos
+267 - sub vassal: c_latoos - Title given to 1007801 - Primary title: k_qatoos
+267 - Holder (1007801) has gained c_latoos
+267 - sub vassal: c_ladashad - Holder 1007801 - Primary title: c_ladashad has lost the title: c_ladashad
+267 - sub vassal: c_ladashad - Title given to 1007801 - Primary title: k_qatoos
+267 - Holder (1007801) has gained c_ladashad
+267 - sub vassal: c_sabavati - Holder 1007801 - Primary title: c_sabavati has lost the title: c_sabavati
+267 - sub vassal: c_sabavati - Title given to 1007801 - Primary title: k_qatoos
+267 - Holder (1007801) has gained c_sabavati
+267 - sub vassal: c_kadebia - Holder 1007801 - Primary title: c_kadebia has lost the title: c_kadebia
+267 - sub vassal: c_kadebia - Title given to 1007801 - Primary title: k_qatoos
+267 - Holder (1007801) has gained c_kadebia
+267 - sub vassal: c_wyaai - Holder 1007801 - Primary title: c_wyaai has lost the title: c_wyaai
+267 - sub vassal: c_wyaai - Title given to 1007801 - Primary title: k_qatoos
+267 - Holder (1007801) has gained c_wyaai
+291 - Holder 1010020 - Primary title: k_qatoos has lost the title: k_qatoos
+291 - Title given to 1010020
+291 - vassal: d_dadadata - Holder 1010020 - Primary title: d_dadadata has lost the title: d_dadadata
+291 - sub vassal: d_dadadata - Holder 1010020 - Primary title: d_dadadata has lost the title: d_dadadata
+291 - vassal: d_dadadata - Title given to 1010020 - Primary title: k_qatoos
+291 - sub vassal: d_dadadata - Title given to 1010020 - Primary title: k_qatoos
+291 - Holder (1010020) has gained d_dadadata
+291 - sub vassal: c_wyaai - Setting to vassal of d_qyasude in Validate Realm
+291 - vassal: d_dadadata - Lost vassal: c_wyaai
+291 - sub vassal: d_dadadata - Lost vassal: c_wyaai
+291 - sub vassal: c_kadebia - Setting to vassal of d_qyasude in Validate Realm
+291 - vassal: d_dadadata - Lost vassal: c_kadebia
+291 - sub vassal: d_dadadata - Lost vassal: c_kadebia
+291 - sub vassal: c_sabavati - Setting to vassal of d_qyasude in Validate Realm
+291 - vassal: d_dadadata - Lost vassal: c_sabavati
+291 - sub vassal: d_dadadata - Lost vassal: c_sabavati
+291 - sub vassal: c_ladashad - Setting to vassal of d_qyasude in Validate Realm
+291 - vassal: d_dadadata - Lost vassal: c_ladashad
+291 - sub vassal: d_dadadata - Lost vassal: c_ladashad
+291 - sub vassal: c_latoos - Setting to vassal of d_qyasude in Validate Realm
+291 - vassal: d_dadadata - Lost vassal: c_latoos
+291 - sub vassal: d_dadadata - Lost vassal: c_latoos
+291 - vassal: d_qyasude - Gained vassal: c_latoos
+291 - sub vassal: d_qyasude - Gained vassal: c_latoos
+291 - vassal: d_qyasude - Gained vassal: c_ladashad
+291 - sub vassal: d_qyasude - Gained vassal: c_ladashad
+291 - vassal: d_qyasude - Gained vassal: c_sabavati
+291 - sub vassal: d_qyasude - Gained vassal: c_sabavati
+291 - vassal: d_qyasude - Gained vassal: c_kadebia
+291 - sub vassal: d_qyasude - Gained vassal: c_kadebia
+291 - vassal: d_qyasude - Gained vassal: c_wyaai
+291 - sub vassal: d_qyasude - Gained vassal: c_wyaai
+291 - vassal: d_qyasude - Holder 1010020 - Primary title: d_qyasude has lost the title: d_qyasude
+291 - sub vassal: d_qyasude - Holder 1010020 - Primary title: d_qyasude has lost the title: d_qyasude
+291 - vassal: d_qyasude - Title given to 1010020 - Primary title: k_qatoos
+291 - sub vassal: d_qyasude - Title given to 1010020 - Primary title: k_qatoos
+291 - Holder (1010020) has gained d_qyasude
+291 - sub vassal: c_wyaai - Holder 1010020 - Primary title: c_wyaai has lost the title: c_wyaai
+291 - sub vassal: c_wyaai - Title given to 1010020 - Primary title: k_qatoos
+291 - Holder (1010020) has gained c_wyaai
+291 - sub vassal: c_kadebia - Holder 1010020 - Primary title: c_kadebia has lost the title: c_kadebia
+291 - sub vassal: c_kadebia - Title given to 1010020 - Primary title: k_qatoos
+291 - Holder (1010020) has gained c_kadebia
+291 - sub vassal: c_sabavati - Holder 1010020 - Primary title: c_sabavati has lost the title: c_sabavati
+291 - sub vassal: c_sabavati - Title given to 1010020 - Primary title: k_qatoos
+291 - Holder (1010020) has gained c_sabavati
+291 - sub vassal: c_ladashad - Holder 1010020 - Primary title: c_ladashad has lost the title: c_ladashad
+291 - sub vassal: c_ladashad - Title given to 1010020 - Primary title: k_qatoos
+291 - Holder (1010020) has gained c_ladashad
+291 - sub vassal: c_latoos - Holder 1010020 - Primary title: c_latoos has lost the title: c_latoos
+291 - sub vassal: c_latoos - Title given to 1010020 - Primary title: k_qatoos
+291 - Holder (1010020) has gained c_latoos
+330 - Holder 1010368 - Primary title: k_qatoos has lost the title: k_qatoos
+330 - Title given to 1010368
+330 - vassal: d_dadadata - Holder 1010368 - Primary title: d_dadadata has lost the title: d_dadadata
+330 - sub vassal: d_dadadata - Holder 1010368 - Primary title: d_dadadata has lost the title: d_dadadata
+330 - vassal: d_dadadata - Title given to 1010368 - Primary title: k_qatoos
+330 - sub vassal: d_dadadata - Title given to 1010368 - Primary title: k_qatoos
+330 - Holder (1010368) has gained d_dadadata
+330 - vassal: d_qyasude - Holder 1010368 - Primary title: d_qyasude has lost the title: d_qyasude
+330 - sub vassal: d_qyasude - Holder 1010368 - Primary title: d_qyasude has lost the title: d_qyasude
+330 - vassal: d_qyasude - Title given to 1010368 - Primary title: k_qatoos
+330 - sub vassal: d_qyasude - Title given to 1010368 - Primary title: k_qatoos
+330 - Holder (1010368) has gained d_qyasude
+330 - sub vassal: c_wyaai - Holder 1010368 - Primary title: c_wyaai has lost the title: c_wyaai
+330 - sub vassal: c_wyaai - Title given to 1010368 - Primary title: k_qatoos
+330 - Holder (1010368) has gained c_wyaai
+330 - sub vassal: c_kadebia - Holder 1010368 - Primary title: c_kadebia has lost the title: c_kadebia
+330 - sub vassal: c_kadebia - Title given to 1010368 - Primary title: k_qatoos
+330 - Holder (1010368) has gained c_kadebia
+330 - sub vassal: c_sabavati - Holder 1010368 - Primary title: c_sabavati has lost the title: c_sabavati
+330 - sub vassal: c_sabavati - Title given to 1010368 - Primary title: k_qatoos
+330 - Holder (1010368) has gained c_sabavati
+330 - sub vassal: c_ladashad - Holder 1010368 - Primary title: c_ladashad has lost the title: c_ladashad
+330 - sub vassal: c_ladashad - Title given to 1010368 - Primary title: k_qatoos
+330 - Holder (1010368) has gained c_ladashad
+330 - sub vassal: c_latoos - Holder 1010368 - Primary title: c_latoos has lost the title: c_latoos
+330 - sub vassal: c_latoos - Title given to 1010368 - Primary title: k_qatoos
+330 - Holder (1010368) has gained c_latoos
+334 - Holder 1013469 - Primary title: k_qatoos has lost the title: k_qatoos
+334 - Title given to 1013469
+334 - vassal: d_dadadata - Holder 1013469 - Primary title: d_dadadata has lost the title: d_dadadata
+334 - sub vassal: d_dadadata - Holder 1013469 - Primary title: d_dadadata has lost the title: d_dadadata
+334 - vassal: d_dadadata - Title given to 1013469 - Primary title: k_qatoos
+334 - sub vassal: d_dadadata - Title given to 1013469 - Primary title: k_qatoos
+334 - Holder (1013469) has gained d_dadadata
+334 - vassal: d_qyasude - Holder 1013469 - Primary title: d_qyasude has lost the title: d_qyasude
+334 - sub vassal: d_qyasude - Holder 1013469 - Primary title: d_qyasude has lost the title: d_qyasude
+334 - vassal: d_qyasude - Title given to 1013469 - Primary title: k_qatoos
+334 - sub vassal: d_qyasude - Title given to 1013469 - Primary title: k_qatoos
+334 - Holder (1013469) has gained d_qyasude
+334 - sub vassal: c_wyaai - Holder 1013469 - Primary title: c_wyaai has lost the title: c_wyaai
+334 - sub vassal: c_wyaai - Title given to 1013469 - Primary title: k_qatoos
+334 - Holder (1013469) has gained c_wyaai
+334 - sub vassal: c_kadebia - Holder 1013469 - Primary title: c_kadebia has lost the title: c_kadebia
+334 - sub vassal: c_kadebia - Title given to 1013469 - Primary title: k_qatoos
+334 - Holder (1013469) has gained c_kadebia
+334 - sub vassal: c_sabavati - Holder 1013469 - Primary title: c_sabavati has lost the title: c_sabavati
+334 - sub vassal: c_sabavati - Title given to 1013469 - Primary title: k_qatoos
+334 - Holder (1013469) has gained c_sabavati
+334 - sub vassal: c_ladashad - Holder 1013469 - Primary title: c_ladashad has lost the title: c_ladashad
+334 - sub vassal: c_ladashad - Title given to 1013469 - Primary title: k_qatoos
+334 - Holder (1013469) has gained c_ladashad
+334 - sub vassal: c_latoos - Holder 1013469 - Primary title: c_latoos has lost the title: c_latoos
+334 - sub vassal: c_latoos - Title given to 1013469 - Primary title: k_qatoos
+334 - Holder (1013469) has gained c_latoos
+355 - Holder 1014257 - Primary title: k_qatoos has lost the title: k_qatoos
+355 - Title given to 1014257
+355 - vassal: d_qyasude - Holder 1014257 - Primary title: d_qyasude has lost the title: d_qyasude
+355 - sub vassal: d_qyasude - Holder 1014257 - Primary title: d_qyasude has lost the title: d_qyasude
+355 - vassal: d_qyasude - Title given to 1014257 - Primary title: k_qatoos
+355 - sub vassal: d_qyasude - Title given to 1014257 - Primary title: k_qatoos
+355 - Holder (1014257) has gained d_qyasude
+355 - sub vassal: c_latoos - Setting to vassal of d_dadadata in Validate Realm
+355 - vassal: d_qyasude - Lost vassal: c_latoos
+355 - sub vassal: d_qyasude - Lost vassal: c_latoos
+355 - sub vassal: c_ladashad - Setting to vassal of d_dadadata in Validate Realm
+355 - vassal: d_qyasude - Lost vassal: c_ladashad
+355 - sub vassal: d_qyasude - Lost vassal: c_ladashad
+355 - sub vassal: c_sabavati - Setting to vassal of d_dadadata in Validate Realm
+355 - vassal: d_qyasude - Lost vassal: c_sabavati
+355 - sub vassal: d_qyasude - Lost vassal: c_sabavati
+355 - sub vassal: c_kadebia - Setting to vassal of d_dadadata in Validate Realm
+355 - vassal: d_qyasude - Lost vassal: c_kadebia
+355 - sub vassal: d_qyasude - Lost vassal: c_kadebia
+355 - sub vassal: c_wyaai - Setting to vassal of d_dadadata in Validate Realm
+355 - vassal: d_qyasude - Lost vassal: c_wyaai
+355 - sub vassal: d_qyasude - Lost vassal: c_wyaai
+355 - vassal: d_dadadata - Gained vassal: c_wyaai
+355 - sub vassal: d_dadadata - Gained vassal: c_wyaai
+355 - vassal: d_dadadata - Gained vassal: c_kadebia
+355 - sub vassal: d_dadadata - Gained vassal: c_kadebia
+355 - vassal: d_dadadata - Gained vassal: c_sabavati
+355 - sub vassal: d_dadadata - Gained vassal: c_sabavati
+355 - vassal: d_dadadata - Gained vassal: c_ladashad
+355 - sub vassal: d_dadadata - Gained vassal: c_ladashad
+355 - vassal: d_dadadata - Gained vassal: c_latoos
+355 - sub vassal: d_dadadata - Gained vassal: c_latoos
+355 - vassal: d_dadadata - Holder 1014257 - Primary title: d_dadadata has lost the title: d_dadadata
+355 - sub vassal: d_dadadata - Holder 1014257 - Primary title: d_dadadata has lost the title: d_dadadata
+355 - vassal: d_dadadata - Title given to 1014257 - Primary title: k_qatoos
+355 - sub vassal: d_dadadata - Title given to 1014257 - Primary title: k_qatoos
+355 - Holder (1014257) has gained d_dadadata
+355 - sub vassal: c_latoos - Holder 1014257 - Primary title: c_latoos has lost the title: c_latoos
+355 - sub vassal: c_latoos - Title given to 1014257 - Primary title: k_qatoos
+355 - Holder (1014257) has gained c_latoos
+355 - sub vassal: c_ladashad - Holder 1014257 - Primary title: c_ladashad has lost the title: c_ladashad
+355 - sub vassal: c_ladashad - Title given to 1014257 - Primary title: k_qatoos
+355 - Holder (1014257) has gained c_ladashad
+355 - sub vassal: c_sabavati - Holder 1014257 - Primary title: c_sabavati has lost the title: c_sabavati
+355 - sub vassal: c_sabavati - Title given to 1014257 - Primary title: k_qatoos
+355 - Holder (1014257) has gained c_sabavati
+355 - sub vassal: c_kadebia - Holder 1014257 - Primary title: c_kadebia has lost the title: c_kadebia
+355 - sub vassal: c_kadebia - Title given to 1014257 - Primary title: k_qatoos
+355 - Holder (1014257) has gained c_kadebia
+355 - sub vassal: c_wyaai - Holder 1014257 - Primary title: c_wyaai has lost the title: c_wyaai
+355 - sub vassal: c_wyaai - Title given to 1014257 - Primary title: k_qatoos
+355 - Holder (1014257) has gained c_wyaai
+400 - sub vassal: c_lyoelaba - Holder 1014257 - Primary title: c_lyoelaba has lost the title: c_lyoelaba
+400 - sub vassal: c_lyoelaba - Title given to 1014257 - Primary title: k_qatoos
+400 - Holder (1014257) has gained c_lyoelaba
+400 - sub vassal: c_nuroos - Holder 1014257 - Primary title: c_nuroos has lost the title: c_nuroos
+400 - sub vassal: c_nuroos - Title given to 1014257 - Primary title: k_qatoos
+400 - Holder (1014257) has gained c_nuroos
+400 - sub vassal: c_qaroos - Holder 1007008 - Primary title: c_qaroos has lost the title: c_qaroos
+400 - sub vassal: c_qaroos - Title given to 1007008 - Primary title: c_kerashad
+400 - sub vassal: c_kerashad - Holder (1007008) has gained c_qaroos
+400 - sub vassal: c_qaroos - Holder 1014257 - Primary title: c_qaroos has lost the title: c_kerashad
+400 - sub vassal: c_kerashad - Title given to 1014257 - Primary title: k_qatoos
+400 - Holder (1014257) has gained c_kerashad
+400 - sub vassal: c_qaroos - Holder 1014257 - Primary title: c_qaroos has lost the title: c_qaroos
+400 - sub vassal: c_qaroos - Title given to 1014257 - Primary title: k_qatoos
+400 - Holder (1014257) has gained c_qaroos

@@ -1,0 +1,2596 @@
+200 - Title given to 1001583
+200 - vassal: d_qorana - Holder 1001583 - Primary title: d_qorana has lost the title: d_qorana
+200 - sub vassal: d_qorana - Holder 1001583 - Primary title: d_qorana has lost the title: d_qorana
+200 - vassal: d_qorana - Title given to 1001583 - Primary title: k_rugoman
+200 - sub vassal: d_qorana - Title given to 1001583 - Primary title: k_rugoman
+200 - Holder (1001583) has gained d_qorana
+200 - sub vassal: c_tazana - Holder 1001583 - Primary title: c_tazana has lost the title: c_tazana
+200 - sub vassal: c_tazana - Title given to 1001583 - Primary title: k_rugoman
+200 - Holder (1001583) has gained c_tazana
+200 - Gained vassal: d_rorila
+200 - vassal: d_rorila - Given to neighbour holder of k_rugoman
+200 - sub vassal: d_rorila - Given to neighbour holder of k_rugoman
+200 - vassal: d_rorila - Holder 1001583 - Primary title: d_rorila has lost the title: d_rorila
+200 - sub vassal: d_rorila - Holder 1001583 - Primary title: d_rorila has lost the title: d_rorila
+200 - vassal: d_rorila - Title given to 1001583 - Primary title: k_rugoman
+200 - sub vassal: d_rorila - Title given to 1001583 - Primary title: k_rugoman
+200 - Holder (1001583) has gained d_rorila
+200 - Holder 1001302 - Primary title: k_rugoman has lost the title: k_rugoman
+200 - Title given to 1001302 - Primary title: d_rilindo
+200 - vassal: d_rilindo - Holder (1001302) has gained k_rugoman
+200 - sub vassal: d_rilindo - Holder (1001302) has gained k_rugoman
+200 - vassal: d_rorila - Holder 1001302 - Primary title: d_rorila has lost the title: d_rorila
+200 - sub vassal: d_rorila - Holder 1001302 - Primary title: d_rorila has lost the title: d_rorila
+200 - vassal: d_rorila - Title given to 1001302 - Primary title: k_rugoman
+200 - sub vassal: d_rorila - Title given to 1001302 - Primary title: k_rugoman
+200 - Holder (1001302) has gained d_rorila
+200 - vassal: d_qorana - Holder 1001302 - Primary title: d_qorana has lost the title: d_qorana
+200 - sub vassal: d_qorana - Holder 1001302 - Primary title: d_qorana has lost the title: d_qorana
+200 - vassal: d_qorana - Title given to 1001302 - Primary title: k_rugoman
+200 - sub vassal: d_qorana - Title given to 1001302 - Primary title: k_rugoman
+200 - Holder (1001302) has gained d_qorana
+200 - sub vassal: c_tazana - Holder 1001302 - Primary title: c_tazana has lost the title: c_tazana
+200 - sub vassal: c_tazana - Title given to 1001302 - Primary title: k_rugoman
+200 - Holder (1001302) has gained c_tazana
+200 - Setting independent due to liege destruction
+201 - sub vassal: c_bugila - Given to 1002284 in HandleTitles - Too many duke titles
+201 - sub vassal: c_bugila - Holder 1002284 - Primary title: c_bugila has lost the title: c_bugila
+201 - sub vassal: c_bugila - Title given to 1002284
+201 - Holder 1002284 - Primary title: k_rugoman has lost the title: d_qorana
+201 - vassal: d_qorana - Title given to 1002284 - Primary title: c_bugila
+201 - sub vassal: d_qorana - Title given to 1002284 - Primary title: c_bugila
+201 - sub vassal: c_bugila - Holder (1002284) has gained d_qorana
+201 - sub vassal: c_tazana - Setting to vassal of k_rugoman in Validate Realm
+201 - vassal: d_qorana - Lost vassal: c_tazana
+201 - sub vassal: d_qorana - Lost vassal: c_tazana
+201 - Gained vassal: c_tazana
+201 - vassal: d_qorana - Too many dukes, given to dejure: k_rugoman
+201 - sub vassal: d_qorana - Too many dukes, given to dejure: k_rugoman
+215 - vassal: d_lamemme - Holder 1002243 - Primary title: d_lamemme has lost the title: d_lamemme
+215 - sub vassal: d_lamemme - Holder 1002243 - Primary title: d_lamemme has lost the title: d_lamemme
+215 - vassal: d_lamemme - Title given to 1002243
+215 - sub vassal: d_lamemme - Title given to 1002243
+215 - sub vassal: c_dadeser - Holder 1002243 - Primary title: c_dadeser has lost the title: c_dadeser
+215 - sub vassal: c_dadeser - Title given to 1002243 - Primary title: d_lamemme
+215 - vassal: d_lamemme - Holder (1002243) has gained c_dadeser
+215 - sub vassal: d_lamemme - Holder (1002243) has gained c_dadeser
+215 - sub vassal: c_wozel - Holder 1002243 - Primary title: c_wozel has lost the title: c_wozel
+215 - sub vassal: c_wozel - Title given to 1002243 - Primary title: d_lamemme
+215 - vassal: d_lamemme - Holder (1002243) has gained c_wozel
+215 - sub vassal: d_lamemme - Holder (1002243) has gained c_wozel
+215 - sub vassal: c_nameike - Holder 1002243 - Primary title: c_nameike has lost the title: c_nameike
+215 - sub vassal: c_nameike - Title given to 1002243 - Primary title: d_lamemme
+215 - vassal: d_lamemme - Holder (1002243) has gained c_nameike
+215 - sub vassal: d_lamemme - Holder (1002243) has gained c_nameike
+218 - Holder 1002558 - Primary title: k_rugoman has lost the title: k_rugoman
+218 - Title given to 1002558
+218 - vassal: d_rilindo - Holder 1002558 - Primary title: d_rilindo has lost the title: d_rilindo
+218 - sub vassal: d_rilindo - Holder 1002558 - Primary title: d_rilindo has lost the title: d_rilindo
+218 - vassal: d_rilindo - Title given to 1002558 - Primary title: k_rugoman
+218 - sub vassal: d_rilindo - Title given to 1002558 - Primary title: k_rugoman
+218 - Holder (1002558) has gained d_rilindo
+218 - sub vassal: c_karana - Setting to vassal of d_rorila in Validate Realm
+218 - vassal: d_rilindo - Lost vassal: c_karana
+218 - sub vassal: d_rilindo - Lost vassal: c_karana
+218 - sub vassal: c_sazanu - Setting to vassal of d_rorila in Validate Realm
+218 - vassal: d_rilindo - Lost vassal: c_sazanu
+218 - sub vassal: d_rilindo - Lost vassal: c_sazanu
+218 - sub vassal: c_kacedas - Setting to vassal of d_rorila in Validate Realm
+218 - vassal: d_rilindo - Lost vassal: c_kacedas
+218 - sub vassal: d_rilindo - Lost vassal: c_kacedas
+218 - sub vassal: c_kalila - Setting to vassal of d_rorila in Validate Realm
+218 - vassal: d_rilindo - Lost vassal: c_kalila
+218 - sub vassal: d_rilindo - Lost vassal: c_kalila
+218 - vassal: c_tazana - Setting to vassal of d_rorila in Validate Realm
+218 - sub vassal: c_tazana - Setting to vassal of d_rorila in Validate Realm
+218 - Lost vassal: c_tazana
+218 - vassal: d_rorila - Gained vassal: c_tazana
+218 - sub vassal: d_rorila - Gained vassal: c_tazana
+218 - vassal: d_rorila - Gained vassal: c_kalila
+218 - sub vassal: d_rorila - Gained vassal: c_kalila
+218 - vassal: d_rorila - Gained vassal: c_kacedas
+218 - sub vassal: d_rorila - Gained vassal: c_kacedas
+218 - vassal: d_rorila - Gained vassal: c_sazanu
+218 - sub vassal: d_rorila - Gained vassal: c_sazanu
+218 - vassal: d_rorila - Gained vassal: c_karana
+218 - sub vassal: d_rorila - Gained vassal: c_karana
+218 - vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: c_karana
+218 - sub vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: c_karana
+218 - sub vassal: c_karana - Title given to 1002558 - Primary title: k_rugoman
+218 - Holder (1002558) has gained c_karana
+218 - sub vassal: c_karana - Setting to vassal of k_rugoman in Validate Realm
+218 - vassal: d_rorila - Lost vassal: c_karana
+218 - sub vassal: d_rorila - Lost vassal: c_karana
+218 - Gained vassal: c_karana
+218 - vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: c_sazanu
+218 - sub vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: c_sazanu
+218 - sub vassal: c_sazanu - Title given to 1002558 - Primary title: k_rugoman
+218 - Holder (1002558) has gained c_sazanu
+218 - sub vassal: c_sazanu - Setting to vassal of k_rugoman in Validate Realm
+218 - vassal: d_rorila - Lost vassal: c_sazanu
+218 - sub vassal: d_rorila - Lost vassal: c_sazanu
+218 - Gained vassal: c_sazanu
+218 - vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: c_kacedas
+218 - sub vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: c_kacedas
+218 - sub vassal: c_kacedas - Title given to 1002558 - Primary title: k_rugoman
+218 - Holder (1002558) has gained c_kacedas
+218 - sub vassal: c_kacedas - Setting to vassal of k_rugoman in Validate Realm
+218 - vassal: d_rorila - Lost vassal: c_kacedas
+218 - sub vassal: d_rorila - Lost vassal: c_kacedas
+218 - Gained vassal: c_kacedas
+218 - vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: c_kalila
+218 - sub vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: c_kalila
+218 - sub vassal: c_kalila - Title given to 1002558 - Primary title: k_rugoman
+218 - Holder (1002558) has gained c_kalila
+218 - sub vassal: c_kalila - Setting to vassal of k_rugoman in Validate Realm
+218 - vassal: d_rorila - Lost vassal: c_kalila
+218 - sub vassal: d_rorila - Lost vassal: c_kalila
+218 - Gained vassal: c_kalila
+218 - vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: d_rorila
+218 - sub vassal: d_rorila - Holder 1002558 - Primary title: d_rorila has lost the title: d_rorila
+218 - vassal: d_rorila - Title given to 1002558 - Primary title: k_rugoman
+218 - sub vassal: d_rorila - Title given to 1002558 - Primary title: k_rugoman
+218 - Holder (1002558) has gained d_rorila
+218 - sub vassal: c_tazana - Holder 1002558 - Primary title: c_tazana has lost the title: c_tazana
+218 - sub vassal: c_tazana - Title given to 1002558 - Primary title: k_rugoman
+218 - Holder (1002558) has gained c_tazana
+219 - vassal: d_rilindo - Destroyed due to flagged problem
+219 - sub vassal: d_rilindo - Destroyed due to flagged problem
+219 - vassal: d_rilindo - Made independent
+219 - sub vassal: d_rilindo - Made independent
+221 - vassal: d_lamemme - Holder 1002284 - Primary title: d_lamemme has lost the title: d_lamemme
+221 - sub vassal: d_lamemme - Holder 1002284 - Primary title: d_lamemme has lost the title: d_lamemme
+221 - vassal: d_lamemme - Title given to 1002284 - Primary title: d_qorana
+221 - sub vassal: d_lamemme - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: d_qorana - Holder (1002284) has gained d_lamemme
+221 - sub vassal: d_qorana - Holder (1002284) has gained d_lamemme
+221 - sub vassal: c_nameike - Holder 1002284 - Primary title: c_nameike has lost the title: c_nameike
+221 - sub vassal: c_nameike - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: d_qorana - Holder (1002284) has gained c_nameike
+221 - sub vassal: d_qorana - Holder (1002284) has gained c_nameike
+221 - sub vassal: c_wozel - Holder 1002284 - Primary title: c_wozel has lost the title: c_wozel
+221 - sub vassal: c_wozel - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: d_qorana - Holder (1002284) has gained c_wozel
+221 - sub vassal: d_qorana - Holder (1002284) has gained c_wozel
+221 - sub vassal: c_dadeser - Holder 1002284 - Primary title: c_dadeser has lost the title: c_dadeser
+221 - sub vassal: c_dadeser - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: d_qorana - Holder (1002284) has gained c_dadeser
+221 - sub vassal: d_qorana - Holder (1002284) has gained c_dadeser
+221 - vassal: d_ruroman - Holder 1002284 - Primary title: d_ruroman has lost the title: d_ruroman
+221 - sub vassal: d_ruroman - Holder 1002284 - Primary title: d_ruroman has lost the title: d_ruroman
+221 - vassal: d_ruroman - Title given to 1002284 - Primary title: d_lamemme
+221 - sub vassal: d_ruroman - Title given to 1002284 - Primary title: d_lamemme
+221 - vassal: d_lamemme - Holder (1002284) has gained d_ruroman
+221 - sub vassal: d_lamemme - Holder (1002284) has gained d_ruroman
+221 - sub vassal: c_evanows - Holder 1002284 - Primary title: c_evanows has lost the title: c_evanows
+221 - sub vassal: c_evanows - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: d_qorana - Holder (1002284) has gained c_evanows
+221 - sub vassal: d_qorana - Holder (1002284) has gained c_evanows
+221 - sub vassal: c_tiolvi - Holder 1002284 - Primary title: c_tiolvi has lost the title: c_tiolvi
+221 - sub vassal: c_tiolvi - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: d_qorana - Holder (1002284) has gained c_tiolvi
+221 - sub vassal: d_qorana - Holder (1002284) has gained c_tiolvi
+221 - sub vassal: c_rorandi - Holder 1002284 - Primary title: c_rorandi has lost the title: c_rorandi
+221 - sub vassal: c_rorandi - Title given to 1002284 - Primary title: d_qorana
+221 - vassal: d_qorana - Holder (1002284) has gained c_rorandi
+221 - sub vassal: d_qorana - Holder (1002284) has gained c_rorandi
+222 - sub vassal: c_bugila - Given to 1004240 in HandleTitles - Too many duke titles
+222 - vassal: d_ruroman - Holder 1004240 - Primary title: d_ruroman has lost the title: c_bugila
+222 - sub vassal: d_ruroman - Holder 1004240 - Primary title: d_ruroman has lost the title: c_bugila
+222 - sub vassal: c_bugila - Title given to 1004240
+222 - vassal: d_ruroman - Holder 1002558 - Primary title: d_ruroman has lost the title: d_qorana
+222 - sub vassal: d_ruroman - Holder 1002558 - Primary title: d_ruroman has lost the title: d_qorana
+222 - vassal: d_qorana - Title given to 1002558 - Primary title: k_rugoman
+222 - sub vassal: d_qorana - Title given to 1002558 - Primary title: k_rugoman
+222 - Holder (1002558) has gained d_qorana
+222 - vassal: d_qorana - Too many dukes, made direct title into vassal of k_rugoman
+222 - sub vassal: d_qorana - Too many dukes, made direct title into vassal of k_rugoman
+222 - Holder 1004241 - Primary title: k_rugoman has lost the title: d_qorana
+222 - vassal: d_qorana - Title given to 1004241
+222 - sub vassal: d_qorana - Title given to 1004241
+222 - vassal: d_ruroman - Holder 1004242 - Primary title: d_ruroman has lost the title: c_dadeser
+222 - sub vassal: d_ruroman - Holder 1004242 - Primary title: d_ruroman has lost the title: c_dadeser
+222 - sub vassal: c_dadeser - Title given to 1004242
+222 - Gained vassal: d_warandi
+223 - vassal: d_qorana - Holder 1002284 - Primary title: d_qorana has lost the title: d_qorana
+223 - sub vassal: d_qorana - Holder 1002284 - Primary title: d_qorana has lost the title: d_qorana
+223 - vassal: d_qorana - Title given to 1002284 - Primary title: d_ruroman
+223 - sub vassal: d_qorana - Title given to 1002284 - Primary title: d_ruroman
+223 - vassal: d_ruroman - Holder (1002284) has gained d_qorana
+223 - sub vassal: d_ruroman - Holder (1002284) has gained d_qorana
+223 - vassal: d_tegilip - Setting independent in Validate Realm
+223 - vassal: d_tegilip - Made independent
+224 - sub vassal: c_rorandi - Given to 1004404 in HandleTitles - Too many duke titles
+224 - vassal: d_qorana - Holder 1004404 - Primary title: d_qorana has lost the title: c_rorandi
+224 - sub vassal: d_qorana - Holder 1004404 - Primary title: d_qorana has lost the title: c_rorandi
+224 - sub vassal: c_rorandi - Title given to 1004404
+224 - vassal: d_qorana - Holder 1002558 - Primary title: d_qorana has lost the title: d_ruroman
+224 - sub vassal: d_qorana - Holder 1002558 - Primary title: d_qorana has lost the title: d_ruroman
+224 - vassal: d_ruroman - Title given to 1002558 - Primary title: k_rugoman
+224 - sub vassal: d_ruroman - Title given to 1002558 - Primary title: k_rugoman
+224 - Holder (1002558) has gained d_ruroman
+224 - sub vassal: c_evanows - Setting to vassal of d_qorana in Validate Realm
+224 - vassal: d_ruroman - Lost vassal: c_evanows
+224 - sub vassal: d_ruroman - Lost vassal: c_evanows
+224 - sub vassal: c_tiolvi - Setting to vassal of d_qorana in Validate Realm
+224 - vassal: d_ruroman - Lost vassal: c_tiolvi
+224 - sub vassal: d_ruroman - Lost vassal: c_tiolvi
+224 - vassal: d_qorana - Gained vassal: c_tiolvi
+224 - sub vassal: d_qorana - Gained vassal: c_tiolvi
+224 - vassal: d_qorana - Gained vassal: c_evanows
+224 - sub vassal: d_qorana - Gained vassal: c_evanows
+224 - vassal: d_ruroman - Too many dukes, made direct title into vassal of k_rugoman
+224 - sub vassal: d_ruroman - Too many dukes, made direct title into vassal of k_rugoman
+224 - Holder 1004405 - Primary title: k_rugoman has lost the title: d_ruroman
+224 - vassal: d_ruroman - Title given to 1004405
+224 - sub vassal: d_ruroman - Title given to 1004405
+224 - vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: d_lamemme
+224 - sub vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: d_lamemme
+224 - vassal: d_lamemme - Title given to 1003730
+224 - sub vassal: d_lamemme - Title given to 1003730
+224 - sub vassal: c_nameike - Setting to vassal of d_qorana in Validate Realm
+224 - vassal: d_lamemme - Lost vassal: c_nameike
+224 - sub vassal: d_lamemme - Lost vassal: c_nameike
+224 - sub vassal: c_wozel - Setting to vassal of d_qorana in Validate Realm
+224 - vassal: d_lamemme - Lost vassal: c_wozel
+224 - sub vassal: d_lamemme - Lost vassal: c_wozel
+224 - vassal: d_qorana - Gained vassal: c_wozel
+224 - sub vassal: d_qorana - Gained vassal: c_wozel
+224 - vassal: d_qorana - Gained vassal: c_nameike
+224 - sub vassal: d_qorana - Gained vassal: c_nameike
+224 - vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: c_nameike
+224 - sub vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: c_nameike
+224 - sub vassal: c_nameike - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: d_lamemme - Holder (1003730) has gained c_nameike
+224 - sub vassal: d_lamemme - Holder (1003730) has gained c_nameike
+224 - sub vassal: c_nameike - Setting to vassal of d_lamemme in Validate Realm
+224 - vassal: d_qorana - Lost vassal: c_nameike
+224 - sub vassal: d_qorana - Lost vassal: c_nameike
+224 - vassal: d_lamemme - Gained vassal: c_nameike
+224 - sub vassal: d_lamemme - Gained vassal: c_nameike
+224 - vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: c_wozel
+224 - sub vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: c_wozel
+224 - sub vassal: c_wozel - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: d_lamemme - Holder (1003730) has gained c_wozel
+224 - sub vassal: d_lamemme - Holder (1003730) has gained c_wozel
+224 - sub vassal: c_wozel - Setting to vassal of d_lamemme in Validate Realm
+224 - vassal: d_qorana - Lost vassal: c_wozel
+224 - sub vassal: d_qorana - Lost vassal: c_wozel
+224 - vassal: d_lamemme - Gained vassal: c_wozel
+224 - sub vassal: d_lamemme - Gained vassal: c_wozel
+224 - vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: c_evanows
+224 - sub vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: c_evanows
+224 - sub vassal: c_evanows - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: d_lamemme - Holder (1003730) has gained c_evanows
+224 - sub vassal: d_lamemme - Holder (1003730) has gained c_evanows
+224 - sub vassal: c_evanows - Setting to vassal of d_lamemme in Validate Realm
+224 - vassal: d_qorana - Lost vassal: c_evanows
+224 - sub vassal: d_qorana - Lost vassal: c_evanows
+224 - vassal: d_lamemme - Gained vassal: c_evanows
+224 - sub vassal: d_lamemme - Gained vassal: c_evanows
+224 - vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: c_tiolvi
+224 - sub vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: c_tiolvi
+224 - sub vassal: c_tiolvi - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: d_lamemme - Holder (1003730) has gained c_tiolvi
+224 - sub vassal: d_lamemme - Holder (1003730) has gained c_tiolvi
+224 - sub vassal: c_tiolvi - Setting to vassal of d_lamemme in Validate Realm
+224 - vassal: d_qorana - Lost vassal: c_tiolvi
+224 - sub vassal: d_qorana - Lost vassal: c_tiolvi
+224 - vassal: d_lamemme - Gained vassal: c_tiolvi
+224 - sub vassal: d_lamemme - Gained vassal: c_tiolvi
+224 - vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: d_qorana
+224 - sub vassal: d_qorana - Holder 1003730 - Primary title: d_qorana has lost the title: d_qorana
+224 - vassal: d_qorana - Title given to 1003730 - Primary title: d_lamemme
+224 - sub vassal: d_qorana - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: d_lamemme - Holder (1003730) has gained d_qorana
+224 - sub vassal: d_lamemme - Holder (1003730) has gained d_qorana
+225 - vassal: d_ruroman - Holder 1003730 - Primary title: d_ruroman has lost the title: d_ruroman
+225 - sub vassal: d_ruroman - Holder 1003730 - Primary title: d_ruroman has lost the title: d_ruroman
+225 - vassal: d_ruroman - Title given to 1003730 - Primary title: d_qorana
+225 - sub vassal: d_ruroman - Title given to 1003730 - Primary title: d_qorana
+225 - vassal: d_qorana - Holder (1003730) has gained d_ruroman
+225 - sub vassal: d_qorana - Holder (1003730) has gained d_ruroman
+226 - sub vassal: c_wozel - Given to 1004570 in HandleTitles - Too many duke titles
+226 - vassal: d_ruroman - Holder 1004570 - Primary title: d_ruroman has lost the title: c_wozel
+226 - sub vassal: d_ruroman - Holder 1004570 - Primary title: d_ruroman has lost the title: c_wozel
+226 - sub vassal: c_wozel - Title given to 1004570
+226 - vassal: d_ruroman - Holder 1002558 - Primary title: d_ruroman has lost the title: d_lamemme
+226 - sub vassal: d_ruroman - Holder 1002558 - Primary title: d_ruroman has lost the title: d_lamemme
+226 - vassal: d_lamemme - Title given to 1002558 - Primary title: k_rugoman
+226 - sub vassal: d_lamemme - Title given to 1002558 - Primary title: k_rugoman
+226 - Holder (1002558) has gained d_lamemme
+226 - sub vassal: c_nameike - Setting to vassal of d_ruroman in Validate Realm
+226 - vassal: d_lamemme - Lost vassal: c_nameike
+226 - sub vassal: d_lamemme - Lost vassal: c_nameike
+226 - sub vassal: c_evanows - Setting to vassal of d_ruroman in Validate Realm
+226 - vassal: d_lamemme - Lost vassal: c_evanows
+226 - sub vassal: d_lamemme - Lost vassal: c_evanows
+226 - sub vassal: c_tiolvi - Setting to vassal of d_ruroman in Validate Realm
+226 - vassal: d_lamemme - Lost vassal: c_tiolvi
+226 - sub vassal: d_lamemme - Lost vassal: c_tiolvi
+226 - vassal: d_ruroman - Gained vassal: c_tiolvi
+226 - sub vassal: d_ruroman - Gained vassal: c_tiolvi
+226 - vassal: d_ruroman - Gained vassal: c_evanows
+226 - sub vassal: d_ruroman - Gained vassal: c_evanows
+226 - vassal: d_ruroman - Gained vassal: c_nameike
+226 - sub vassal: d_ruroman - Gained vassal: c_nameike
+226 - vassal: d_lamemme - Too many dukes, made direct title into vassal of k_rugoman
+226 - sub vassal: d_lamemme - Too many dukes, made direct title into vassal of k_rugoman
+226 - Holder 1004571 - Primary title: k_rugoman has lost the title: d_lamemme
+226 - vassal: d_lamemme - Title given to 1004571
+226 - sub vassal: d_lamemme - Title given to 1004571
+227 - sub vassal: d_lerila - Setting independent in Validate Realm
+227 - sub vassal: d_lerila - Made independent
+227 - Gained vassal: d_naradas
+227 - sub vassal: c_lacoman - Made vassal of neighbour (k_ditedas) due to being a seperate island
+227 - sub vassal: c_radila - Made vassal of neighbour (k_kyutila) due to being a seperate island
+227 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+227 - vassal: d_naradas - Gained vassal: c_radila
+227 - sub vassal: d_naradas - Gained vassal: c_radila
+227 - vassal: d_naradas - Gained vassal: c_radila
+227 - sub vassal: d_naradas - Gained vassal: c_radila
+227 - sub vassal: c_radila - Given to neighbour holder of k_kyutila
+227 - sub vassal: c_weranu - Made vassal of neighbour (k_kyutila) due to being a seperate island
+227 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+227 - vassal: d_naradas - Gained vassal: c_weranu
+227 - sub vassal: d_naradas - Gained vassal: c_weranu
+227 - vassal: d_naradas - Gained vassal: c_weranu
+227 - sub vassal: d_naradas - Gained vassal: c_weranu
+227 - sub vassal: c_weranu - Given to neighbour holder of k_kyutila
+227 - sub vassal: c_wanozel - Made vassal of neighbour (k_kyutila) due to being a seperate island
+227 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+227 - vassal: d_naradas - Gained vassal: c_wanozel
+227 - sub vassal: d_naradas - Gained vassal: c_wanozel
+227 - vassal: d_naradas - Gained vassal: c_wanozel
+227 - sub vassal: d_naradas - Gained vassal: c_wanozel
+227 - sub vassal: c_wanozel - Given to neighbour holder of k_kyutila
+228 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+228 - vassal: d_naradas - Lost vassal: c_weranu
+228 - sub vassal: d_naradas - Lost vassal: c_weranu
+228 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+228 - vassal: d_naradas - Gained vassal: c_weranu
+228 - sub vassal: d_naradas - Gained vassal: c_weranu
+228 - vassal: d_naradas - Gained vassal: c_weranu
+228 - sub vassal: d_naradas - Gained vassal: c_weranu
+228 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+228 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+228 - vassal: d_naradas - Lost vassal: c_radila
+228 - sub vassal: d_naradas - Lost vassal: c_radila
+228 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+228 - vassal: d_naradas - Gained vassal: c_radila
+228 - sub vassal: d_naradas - Gained vassal: c_radila
+228 - vassal: d_naradas - Gained vassal: c_radila
+228 - sub vassal: d_naradas - Gained vassal: c_radila
+228 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+228 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+228 - vassal: d_naradas - Lost vassal: c_wanozel
+228 - sub vassal: d_naradas - Lost vassal: c_wanozel
+228 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+228 - vassal: d_naradas - Gained vassal: c_wanozel
+228 - sub vassal: d_naradas - Gained vassal: c_wanozel
+228 - vassal: d_naradas - Gained vassal: c_wanozel
+228 - sub vassal: d_naradas - Gained vassal: c_wanozel
+228 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+229 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+229 - vassal: d_naradas - Lost vassal: c_weranu
+229 - sub vassal: d_naradas - Lost vassal: c_weranu
+229 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+229 - vassal: d_naradas - Gained vassal: c_weranu
+229 - sub vassal: d_naradas - Gained vassal: c_weranu
+229 - vassal: d_naradas - Gained vassal: c_weranu
+229 - sub vassal: d_naradas - Gained vassal: c_weranu
+229 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+229 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+229 - vassal: d_naradas - Lost vassal: c_radila
+229 - sub vassal: d_naradas - Lost vassal: c_radila
+229 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+229 - vassal: d_naradas - Gained vassal: c_radila
+229 - sub vassal: d_naradas - Gained vassal: c_radila
+229 - vassal: d_naradas - Gained vassal: c_radila
+229 - sub vassal: d_naradas - Gained vassal: c_radila
+229 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+229 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+229 - vassal: d_naradas - Lost vassal: c_wanozel
+229 - sub vassal: d_naradas - Lost vassal: c_wanozel
+229 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+229 - vassal: d_naradas - Gained vassal: c_wanozel
+229 - sub vassal: d_naradas - Gained vassal: c_wanozel
+229 - vassal: d_naradas - Gained vassal: c_wanozel
+229 - sub vassal: d_naradas - Gained vassal: c_wanozel
+229 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+230 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+230 - vassal: d_naradas - Lost vassal: c_weranu
+230 - sub vassal: d_naradas - Lost vassal: c_weranu
+230 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+230 - vassal: d_naradas - Gained vassal: c_weranu
+230 - sub vassal: d_naradas - Gained vassal: c_weranu
+230 - vassal: d_naradas - Gained vassal: c_weranu
+230 - sub vassal: d_naradas - Gained vassal: c_weranu
+230 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+230 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+230 - vassal: d_naradas - Lost vassal: c_radila
+230 - sub vassal: d_naradas - Lost vassal: c_radila
+230 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+230 - vassal: d_naradas - Gained vassal: c_radila
+230 - sub vassal: d_naradas - Gained vassal: c_radila
+230 - vassal: d_naradas - Gained vassal: c_radila
+230 - sub vassal: d_naradas - Gained vassal: c_radila
+230 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+230 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+230 - vassal: d_naradas - Lost vassal: c_wanozel
+230 - sub vassal: d_naradas - Lost vassal: c_wanozel
+230 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+230 - vassal: d_naradas - Gained vassal: c_wanozel
+230 - sub vassal: d_naradas - Gained vassal: c_wanozel
+230 - vassal: d_naradas - Gained vassal: c_wanozel
+230 - sub vassal: d_naradas - Gained vassal: c_wanozel
+230 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+231 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+231 - vassal: d_naradas - Lost vassal: c_weranu
+231 - sub vassal: d_naradas - Lost vassal: c_weranu
+231 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+231 - vassal: d_naradas - Gained vassal: c_weranu
+231 - sub vassal: d_naradas - Gained vassal: c_weranu
+231 - vassal: d_naradas - Gained vassal: c_weranu
+231 - sub vassal: d_naradas - Gained vassal: c_weranu
+231 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+231 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+231 - vassal: d_naradas - Lost vassal: c_radila
+231 - sub vassal: d_naradas - Lost vassal: c_radila
+231 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+231 - vassal: d_naradas - Gained vassal: c_radila
+231 - sub vassal: d_naradas - Gained vassal: c_radila
+231 - vassal: d_naradas - Gained vassal: c_radila
+231 - sub vassal: d_naradas - Gained vassal: c_radila
+231 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+231 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+231 - vassal: d_naradas - Lost vassal: c_wanozel
+231 - sub vassal: d_naradas - Lost vassal: c_wanozel
+231 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+231 - vassal: d_naradas - Gained vassal: c_wanozel
+231 - sub vassal: d_naradas - Gained vassal: c_wanozel
+231 - vassal: d_naradas - Gained vassal: c_wanozel
+231 - sub vassal: d_naradas - Gained vassal: c_wanozel
+231 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+232 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+232 - vassal: d_naradas - Lost vassal: c_weranu
+232 - sub vassal: d_naradas - Lost vassal: c_weranu
+232 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+232 - vassal: d_naradas - Gained vassal: c_weranu
+232 - sub vassal: d_naradas - Gained vassal: c_weranu
+232 - vassal: d_naradas - Gained vassal: c_weranu
+232 - sub vassal: d_naradas - Gained vassal: c_weranu
+232 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+232 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+232 - vassal: d_naradas - Lost vassal: c_radila
+232 - sub vassal: d_naradas - Lost vassal: c_radila
+232 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+232 - vassal: d_naradas - Gained vassal: c_radila
+232 - sub vassal: d_naradas - Gained vassal: c_radila
+232 - vassal: d_naradas - Gained vassal: c_radila
+232 - sub vassal: d_naradas - Gained vassal: c_radila
+232 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+232 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+232 - vassal: d_naradas - Lost vassal: c_wanozel
+232 - sub vassal: d_naradas - Lost vassal: c_wanozel
+232 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+232 - vassal: d_naradas - Gained vassal: c_wanozel
+232 - sub vassal: d_naradas - Gained vassal: c_wanozel
+232 - vassal: d_naradas - Gained vassal: c_wanozel
+232 - sub vassal: d_naradas - Gained vassal: c_wanozel
+232 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+233 - vassal: d_warandi - Holder 1002000 - Primary title: d_warandi has lost the title: d_warandi
+233 - sub vassal: d_warandi - Holder 1002000 - Primary title: d_warandi has lost the title: d_warandi
+233 - vassal: d_warandi - Title given to 1002000
+233 - sub vassal: d_warandi - Title given to 1002000
+233 - sub vassal: c_atomiu - Holder 1002000 - Primary title: c_atomiu has lost the title: c_atomiu
+233 - sub vassal: c_atomiu - Title given to 1002000 - Primary title: d_warandi
+233 - vassal: d_warandi - Holder (1002000) has gained c_atomiu
+233 - sub vassal: d_warandi - Holder (1002000) has gained c_atomiu
+233 - sub vassal: c_nugedas - Holder 1002000 - Primary title: c_nugedas has lost the title: c_nugedas
+233 - sub vassal: c_nugedas - Title given to 1002000 - Primary title: d_warandi
+233 - vassal: d_warandi - Holder (1002000) has gained c_nugedas
+233 - sub vassal: d_warandi - Holder (1002000) has gained c_nugedas
+233 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+233 - vassal: d_naradas - Lost vassal: c_weranu
+233 - sub vassal: d_naradas - Lost vassal: c_weranu
+233 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+233 - vassal: d_naradas - Gained vassal: c_weranu
+233 - sub vassal: d_naradas - Gained vassal: c_weranu
+233 - vassal: d_naradas - Gained vassal: c_weranu
+233 - sub vassal: d_naradas - Gained vassal: c_weranu
+233 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+233 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+233 - vassal: d_naradas - Lost vassal: c_radila
+233 - sub vassal: d_naradas - Lost vassal: c_radila
+233 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+233 - vassal: d_naradas - Gained vassal: c_radila
+233 - sub vassal: d_naradas - Gained vassal: c_radila
+233 - vassal: d_naradas - Gained vassal: c_radila
+233 - sub vassal: d_naradas - Gained vassal: c_radila
+233 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+233 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+233 - vassal: d_naradas - Lost vassal: c_wanozel
+233 - sub vassal: d_naradas - Lost vassal: c_wanozel
+233 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+233 - vassal: d_naradas - Gained vassal: c_wanozel
+233 - sub vassal: d_naradas - Gained vassal: c_wanozel
+233 - vassal: d_naradas - Gained vassal: c_wanozel
+233 - sub vassal: d_naradas - Gained vassal: c_wanozel
+233 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+234 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+234 - vassal: d_naradas - Lost vassal: c_weranu
+234 - sub vassal: d_naradas - Lost vassal: c_weranu
+234 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+234 - vassal: d_naradas - Gained vassal: c_weranu
+234 - sub vassal: d_naradas - Gained vassal: c_weranu
+234 - vassal: d_naradas - Gained vassal: c_weranu
+234 - sub vassal: d_naradas - Gained vassal: c_weranu
+234 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+234 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+234 - vassal: d_naradas - Lost vassal: c_radila
+234 - sub vassal: d_naradas - Lost vassal: c_radila
+234 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+234 - vassal: d_naradas - Gained vassal: c_radila
+234 - sub vassal: d_naradas - Gained vassal: c_radila
+234 - vassal: d_naradas - Gained vassal: c_radila
+234 - sub vassal: d_naradas - Gained vassal: c_radila
+234 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+234 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+234 - vassal: d_naradas - Lost vassal: c_wanozel
+234 - sub vassal: d_naradas - Lost vassal: c_wanozel
+234 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+234 - vassal: d_naradas - Gained vassal: c_wanozel
+234 - sub vassal: d_naradas - Gained vassal: c_wanozel
+234 - vassal: d_naradas - Gained vassal: c_wanozel
+234 - sub vassal: d_naradas - Gained vassal: c_wanozel
+234 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+235 - vassal: d_winune - Holder 1002558 - Primary title: d_winune has lost the title: d_winune
+235 - sub vassal: d_winune - Holder 1002558 - Primary title: d_winune has lost the title: d_winune
+235 - vassal: d_winune - Title given to 1002558 - Primary title: k_rugoman
+235 - sub vassal: d_winune - Title given to 1002558 - Primary title: k_rugoman
+235 - Holder (1002558) has gained d_winune
+235 - sub vassal: c_rosila - Holder 1002558 - Primary title: c_rosila has lost the title: c_rosila
+235 - sub vassal: c_rosila - Title given to 1002558 - Primary title: k_rugoman
+235 - Holder (1002558) has gained c_rosila
+235 - sub vassal: c_lazows - Holder 1002558 - Primary title: c_lazows has lost the title: c_lazows
+235 - sub vassal: c_lazows - Title given to 1002558 - Primary title: k_rugoman
+235 - Holder (1002558) has gained c_lazows
+235 - sub vassal: c_tasero - Holder 1002558 - Primary title: c_tasero has lost the title: c_tasero
+235 - sub vassal: c_tasero - Title given to 1002558 - Primary title: k_rugoman
+235 - Holder (1002558) has gained c_tasero
+235 - Holder 1005296 - Primary title: k_rugoman has lost the title: c_lazows
+235 - sub vassal: c_lazows - Title given to 1005296
+235 - Holder 1005297 - Primary title: k_rugoman has lost the title: c_sazanu
+235 - vassal: c_sazanu - Title given to 1005297
+235 - sub vassal: c_sazanu - Title given to 1005297
+235 - Holder 1005299 - Primary title: k_rugoman has lost the title: c_karana
+235 - vassal: c_karana - Title given to 1005299
+235 - sub vassal: c_karana - Title given to 1005299
+235 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+235 - vassal: d_naradas - Lost vassal: c_weranu
+235 - sub vassal: d_naradas - Lost vassal: c_weranu
+235 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+235 - vassal: d_naradas - Gained vassal: c_weranu
+235 - sub vassal: d_naradas - Gained vassal: c_weranu
+235 - vassal: d_naradas - Gained vassal: c_weranu
+235 - sub vassal: d_naradas - Gained vassal: c_weranu
+235 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+235 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+235 - vassal: d_naradas - Lost vassal: c_radila
+235 - sub vassal: d_naradas - Lost vassal: c_radila
+235 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+235 - vassal: d_naradas - Gained vassal: c_radila
+235 - sub vassal: d_naradas - Gained vassal: c_radila
+235 - vassal: d_naradas - Gained vassal: c_radila
+235 - sub vassal: d_naradas - Gained vassal: c_radila
+235 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+235 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+235 - vassal: d_naradas - Lost vassal: c_wanozel
+235 - sub vassal: d_naradas - Lost vassal: c_wanozel
+235 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+235 - vassal: d_naradas - Gained vassal: c_wanozel
+235 - sub vassal: d_naradas - Gained vassal: c_wanozel
+235 - vassal: d_naradas - Gained vassal: c_wanozel
+235 - sub vassal: d_naradas - Gained vassal: c_wanozel
+235 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+235 - Holder 1004335 - Primary title: k_rugoman has lost the title: k_rugoman
+235 - Title given to 1004335
+235 - vassal: d_rorila - Holder 1004335 - Primary title: d_rorila has lost the title: d_rorila
+235 - sub vassal: d_rorila - Holder 1004335 - Primary title: d_rorila has lost the title: d_rorila
+235 - vassal: d_rorila - Title given to 1004335 - Primary title: k_rugoman
+235 - sub vassal: d_rorila - Title given to 1004335 - Primary title: k_rugoman
+235 - Holder (1004335) has gained d_rorila
+235 - sub vassal: c_tazana - Setting to vassal of d_winune in Validate Realm
+235 - vassal: d_rorila - Lost vassal: c_tazana
+235 - sub vassal: d_rorila - Lost vassal: c_tazana
+235 - vassal: c_kalila - Setting to vassal of d_winune in Validate Realm
+235 - sub vassal: c_kalila - Setting to vassal of d_winune in Validate Realm
+235 - Lost vassal: c_kalila
+235 - vassal: c_kacedas - Setting to vassal of d_winune in Validate Realm
+235 - sub vassal: c_kacedas - Setting to vassal of d_winune in Validate Realm
+235 - Lost vassal: c_kacedas
+235 - vassal: d_winune - Gained vassal: c_kacedas
+235 - sub vassal: d_winune - Gained vassal: c_kacedas
+235 - vassal: d_winune - Gained vassal: c_kalila
+235 - sub vassal: d_winune - Gained vassal: c_kalila
+235 - vassal: d_winune - Gained vassal: c_tazana
+235 - sub vassal: d_winune - Gained vassal: c_tazana
+235 - vassal: d_winune - Holder 1004335 - Primary title: d_winune has lost the title: c_tazana
+235 - sub vassal: d_winune - Holder 1004335 - Primary title: d_winune has lost the title: c_tazana
+235 - sub vassal: c_tazana - Title given to 1004335 - Primary title: k_rugoman
+235 - Holder (1004335) has gained c_tazana
+235 - sub vassal: c_tazana - Setting to vassal of k_rugoman in Validate Realm
+235 - vassal: d_winune - Lost vassal: c_tazana
+235 - sub vassal: d_winune - Lost vassal: c_tazana
+235 - Gained vassal: c_tazana
+235 - vassal: d_winune - Holder 1004335 - Primary title: d_winune has lost the title: c_kalila
+235 - sub vassal: d_winune - Holder 1004335 - Primary title: d_winune has lost the title: c_kalila
+235 - sub vassal: c_kalila - Title given to 1004335 - Primary title: k_rugoman
+235 - Holder (1004335) has gained c_kalila
+235 - sub vassal: c_kalila - Setting to vassal of k_rugoman in Validate Realm
+235 - vassal: d_winune - Lost vassal: c_kalila
+235 - sub vassal: d_winune - Lost vassal: c_kalila
+235 - Gained vassal: c_kalila
+235 - vassal: d_winune - Holder 1004335 - Primary title: d_winune has lost the title: c_kacedas
+235 - sub vassal: d_winune - Holder 1004335 - Primary title: d_winune has lost the title: c_kacedas
+235 - sub vassal: c_kacedas - Title given to 1004335 - Primary title: k_rugoman
+235 - Holder (1004335) has gained c_kacedas
+235 - sub vassal: c_kacedas - Setting to vassal of k_rugoman in Validate Realm
+235 - vassal: d_winune - Lost vassal: c_kacedas
+235 - sub vassal: d_winune - Lost vassal: c_kacedas
+235 - Gained vassal: c_kacedas
+235 - vassal: d_winune - Holder 1004335 - Primary title: d_winune has lost the title: d_winune
+235 - sub vassal: d_winune - Holder 1004335 - Primary title: d_winune has lost the title: d_winune
+235 - vassal: d_winune - Title given to 1004335 - Primary title: k_rugoman
+235 - sub vassal: d_winune - Title given to 1004335 - Primary title: k_rugoman
+235 - Holder (1004335) has gained d_winune
+235 - sub vassal: c_rosila - Holder 1004335 - Primary title: c_rosila has lost the title: c_rosila
+235 - sub vassal: c_rosila - Title given to 1004335 - Primary title: k_rugoman
+235 - Holder (1004335) has gained c_rosila
+235 - sub vassal: c_tasero - Holder 1004335 - Primary title: c_tasero has lost the title: c_tasero
+235 - sub vassal: c_tasero - Title given to 1004335 - Primary title: k_rugoman
+235 - Holder (1004335) has gained c_tasero
+236 - vassal: d_kanune - Holder 1003367 - Primary title: d_kanune has lost the title: d_kanune
+236 - sub vassal: d_kanune - Holder 1003367 - Primary title: d_kanune has lost the title: d_kanune
+236 - vassal: d_kanune - Title given to 1003367
+236 - sub vassal: d_kanune - Title given to 1003367
+236 - sub vassal: c_sanows - Holder 1003367 - Primary title: c_sanows has lost the title: c_sanows
+236 - sub vassal: c_sanows - Title given to 1003367 - Primary title: d_kanune
+236 - vassal: d_kanune - Holder (1003367) has gained c_sanows
+236 - sub vassal: d_kanune - Holder (1003367) has gained c_sanows
+236 - sub vassal: c_noseser - Holder 1003367 - Primary title: c_noseser has lost the title: c_noseser
+236 - sub vassal: c_noseser - Title given to 1003367 - Primary title: d_kanune
+236 - vassal: d_kanune - Holder (1003367) has gained c_noseser
+236 - sub vassal: d_kanune - Holder (1003367) has gained c_noseser
+236 - vassal: d_naradas - Holder 1003729 - Primary title: d_naradas has lost the title: c_weranu
+236 - sub vassal: d_naradas - Holder 1003729 - Primary title: d_naradas has lost the title: c_weranu
+236 - sub vassal: c_weranu - Title given to 1003729
+236 - vassal: d_naradas - Holder 1003729 - Primary title: d_naradas has lost the title: c_wanozel
+236 - sub vassal: d_naradas - Holder 1003729 - Primary title: d_naradas has lost the title: c_wanozel
+236 - sub vassal: c_wanozel - Title given to 1003729 - Primary title: c_weranu
+236 - sub vassal: c_weranu - Holder (1003729) has gained c_wanozel
+236 - vassal: d_naradas - Holder 1003729 - Primary title: d_naradas has lost the title: c_radila
+236 - sub vassal: d_naradas - Holder 1003729 - Primary title: d_naradas has lost the title: c_radila
+236 - sub vassal: c_radila - Title given to 1003729 - Primary title: c_weranu
+236 - sub vassal: c_weranu - Holder (1003729) has gained c_radila
+236 - vassal: d_naradas - Holder 1003729 - Primary title: d_naradas has lost the title: d_naradas
+236 - sub vassal: d_naradas - Holder 1003729 - Primary title: d_naradas has lost the title: d_naradas
+236 - vassal: d_naradas - Title given to 1003729 - Primary title: c_weranu
+236 - sub vassal: d_naradas - Title given to 1003729 - Primary title: c_weranu
+236 - sub vassal: c_weranu - Holder (1003729) has gained d_naradas
+236 - sub vassal: c_kawurd - Holder 1003729 - Primary title: c_kawurd has lost the title: c_kawurd
+236 - sub vassal: c_kawurd - Title given to 1003729 - Primary title: d_naradas
+236 - vassal: d_naradas - Holder (1003729) has gained c_kawurd
+236 - sub vassal: d_naradas - Holder (1003729) has gained c_kawurd
+236 - sub vassal: c_etameike - Holder 1003729 - Primary title: c_etameike has lost the title: c_etameike
+236 - sub vassal: c_etameike - Title given to 1003729 - Primary title: d_naradas
+236 - vassal: d_naradas - Holder (1003729) has gained c_etameike
+236 - sub vassal: d_naradas - Holder (1003729) has gained c_etameike
+236 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+236 - vassal: d_naradas - Lost vassal: c_weranu
+236 - sub vassal: d_naradas - Lost vassal: c_weranu
+236 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+236 - vassal: d_naradas - Gained vassal: c_weranu
+236 - sub vassal: d_naradas - Gained vassal: c_weranu
+236 - vassal: d_naradas - Gained vassal: c_weranu
+236 - sub vassal: d_naradas - Gained vassal: c_weranu
+236 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+236 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+236 - vassal: d_naradas - Lost vassal: c_radila
+236 - sub vassal: d_naradas - Lost vassal: c_radila
+236 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+236 - vassal: d_naradas - Gained vassal: c_radila
+236 - sub vassal: d_naradas - Gained vassal: c_radila
+236 - vassal: d_naradas - Gained vassal: c_radila
+236 - sub vassal: d_naradas - Gained vassal: c_radila
+236 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+236 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+236 - vassal: d_naradas - Lost vassal: c_wanozel
+236 - sub vassal: d_naradas - Lost vassal: c_wanozel
+236 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+236 - vassal: d_naradas - Gained vassal: c_wanozel
+236 - sub vassal: d_naradas - Gained vassal: c_wanozel
+236 - vassal: d_naradas - Gained vassal: c_wanozel
+236 - sub vassal: d_naradas - Gained vassal: c_wanozel
+236 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+237 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+237 - vassal: d_naradas - Lost vassal: c_weranu
+237 - sub vassal: d_naradas - Lost vassal: c_weranu
+237 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+237 - vassal: d_naradas - Gained vassal: c_weranu
+237 - sub vassal: d_naradas - Gained vassal: c_weranu
+237 - vassal: d_naradas - Gained vassal: c_weranu
+237 - sub vassal: d_naradas - Gained vassal: c_weranu
+237 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+237 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+237 - vassal: d_naradas - Lost vassal: c_radila
+237 - sub vassal: d_naradas - Lost vassal: c_radila
+237 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+237 - vassal: d_naradas - Gained vassal: c_radila
+237 - sub vassal: d_naradas - Gained vassal: c_radila
+237 - vassal: d_naradas - Gained vassal: c_radila
+237 - sub vassal: d_naradas - Gained vassal: c_radila
+237 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+237 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+237 - vassal: d_naradas - Lost vassal: c_wanozel
+237 - sub vassal: d_naradas - Lost vassal: c_wanozel
+237 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+237 - vassal: d_naradas - Gained vassal: c_wanozel
+237 - sub vassal: d_naradas - Gained vassal: c_wanozel
+237 - vassal: d_naradas - Gained vassal: c_wanozel
+237 - sub vassal: d_naradas - Gained vassal: c_wanozel
+237 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+238 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+238 - vassal: d_naradas - Lost vassal: c_weranu
+238 - sub vassal: d_naradas - Lost vassal: c_weranu
+238 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+238 - vassal: d_naradas - Gained vassal: c_weranu
+238 - sub vassal: d_naradas - Gained vassal: c_weranu
+238 - vassal: d_naradas - Gained vassal: c_weranu
+238 - sub vassal: d_naradas - Gained vassal: c_weranu
+238 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+238 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+238 - vassal: d_naradas - Lost vassal: c_radila
+238 - sub vassal: d_naradas - Lost vassal: c_radila
+238 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+238 - vassal: d_naradas - Gained vassal: c_radila
+238 - sub vassal: d_naradas - Gained vassal: c_radila
+238 - vassal: d_naradas - Gained vassal: c_radila
+238 - sub vassal: d_naradas - Gained vassal: c_radila
+238 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+238 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+238 - vassal: d_naradas - Lost vassal: c_wanozel
+238 - sub vassal: d_naradas - Lost vassal: c_wanozel
+238 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+238 - vassal: d_naradas - Gained vassal: c_wanozel
+238 - sub vassal: d_naradas - Gained vassal: c_wanozel
+238 - vassal: d_naradas - Gained vassal: c_wanozel
+238 - sub vassal: d_naradas - Gained vassal: c_wanozel
+238 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+239 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+239 - vassal: d_naradas - Lost vassal: c_weranu
+239 - sub vassal: d_naradas - Lost vassal: c_weranu
+239 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+239 - vassal: d_naradas - Gained vassal: c_weranu
+239 - sub vassal: d_naradas - Gained vassal: c_weranu
+239 - vassal: d_naradas - Gained vassal: c_weranu
+239 - sub vassal: d_naradas - Gained vassal: c_weranu
+239 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+239 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+239 - vassal: d_naradas - Lost vassal: c_radila
+239 - sub vassal: d_naradas - Lost vassal: c_radila
+239 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+239 - vassal: d_naradas - Gained vassal: c_radila
+239 - sub vassal: d_naradas - Gained vassal: c_radila
+239 - vassal: d_naradas - Gained vassal: c_radila
+239 - sub vassal: d_naradas - Gained vassal: c_radila
+239 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+239 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+239 - vassal: d_naradas - Lost vassal: c_wanozel
+239 - sub vassal: d_naradas - Lost vassal: c_wanozel
+239 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+239 - vassal: d_naradas - Gained vassal: c_wanozel
+239 - sub vassal: d_naradas - Gained vassal: c_wanozel
+239 - vassal: d_naradas - Gained vassal: c_wanozel
+239 - sub vassal: d_naradas - Gained vassal: c_wanozel
+239 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+240 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+240 - vassal: d_naradas - Lost vassal: c_radila
+240 - sub vassal: d_naradas - Lost vassal: c_radila
+240 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+240 - vassal: d_naradas - Gained vassal: c_radila
+240 - sub vassal: d_naradas - Gained vassal: c_radila
+240 - vassal: d_naradas - Gained vassal: c_radila
+240 - sub vassal: d_naradas - Gained vassal: c_radila
+240 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+240 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+240 - vassal: d_naradas - Lost vassal: c_weranu
+240 - sub vassal: d_naradas - Lost vassal: c_weranu
+240 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+240 - vassal: d_naradas - Gained vassal: c_weranu
+240 - sub vassal: d_naradas - Gained vassal: c_weranu
+240 - vassal: d_naradas - Gained vassal: c_weranu
+240 - sub vassal: d_naradas - Gained vassal: c_weranu
+240 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+240 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+240 - vassal: d_naradas - Lost vassal: c_wanozel
+240 - sub vassal: d_naradas - Lost vassal: c_wanozel
+240 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+240 - vassal: d_naradas - Gained vassal: c_wanozel
+240 - sub vassal: d_naradas - Gained vassal: c_wanozel
+240 - vassal: d_naradas - Gained vassal: c_wanozel
+240 - sub vassal: d_naradas - Gained vassal: c_wanozel
+240 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+240 - Holder 1005297 - Primary title: k_rugoman has lost the title: k_rugoman
+240 - Title given to 1005297 - Primary title: c_sazanu
+240 - vassal: c_sazanu - Holder (1005297) has gained k_rugoman
+240 - sub vassal: c_sazanu - Holder (1005297) has gained k_rugoman
+240 - vassal: c_kacedas - Setting to vassal of d_winune in Validate Realm
+240 - sub vassal: c_kacedas - Setting to vassal of d_winune in Validate Realm
+240 - Lost vassal: c_kacedas
+240 - vassal: c_kalila - Setting to vassal of d_winune in Validate Realm
+240 - sub vassal: c_kalila - Setting to vassal of d_winune in Validate Realm
+240 - Lost vassal: c_kalila
+240 - vassal: c_tazana - Setting to vassal of d_winune in Validate Realm
+240 - sub vassal: c_tazana - Setting to vassal of d_winune in Validate Realm
+240 - Lost vassal: c_tazana
+240 - vassal: d_winune - Gained vassal: c_tazana
+240 - sub vassal: d_winune - Gained vassal: c_tazana
+240 - vassal: d_winune - Gained vassal: c_kalila
+240 - sub vassal: d_winune - Gained vassal: c_kalila
+240 - vassal: d_winune - Gained vassal: c_kacedas
+240 - sub vassal: d_winune - Gained vassal: c_kacedas
+240 - vassal: d_winune - Holder 1005297 - Primary title: d_winune has lost the title: d_winune
+240 - sub vassal: d_winune - Holder 1005297 - Primary title: d_winune has lost the title: d_winune
+240 - vassal: d_winune - Title given to 1005297 - Primary title: k_rugoman
+240 - sub vassal: d_winune - Title given to 1005297 - Primary title: k_rugoman
+240 - Holder (1005297) has gained d_winune
+240 - sub vassal: c_tasero - Setting to vassal of d_rorila in Validate Realm
+240 - vassal: d_winune - Lost vassal: c_tasero
+240 - sub vassal: d_winune - Lost vassal: c_tasero
+240 - sub vassal: c_rosila - Setting to vassal of d_rorila in Validate Realm
+240 - vassal: d_winune - Lost vassal: c_rosila
+240 - sub vassal: d_winune - Lost vassal: c_rosila
+240 - sub vassal: c_kacedas - Setting to vassal of d_rorila in Validate Realm
+240 - vassal: d_winune - Lost vassal: c_kacedas
+240 - sub vassal: d_winune - Lost vassal: c_kacedas
+240 - sub vassal: c_kalila - Setting to vassal of d_rorila in Validate Realm
+240 - vassal: d_winune - Lost vassal: c_kalila
+240 - sub vassal: d_winune - Lost vassal: c_kalila
+240 - sub vassal: c_tazana - Setting to vassal of d_rorila in Validate Realm
+240 - vassal: d_winune - Lost vassal: c_tazana
+240 - sub vassal: d_winune - Lost vassal: c_tazana
+240 - vassal: d_rorila - Gained vassal: c_tazana
+240 - sub vassal: d_rorila - Gained vassal: c_tazana
+240 - vassal: d_rorila - Gained vassal: c_kalila
+240 - sub vassal: d_rorila - Gained vassal: c_kalila
+240 - vassal: d_rorila - Gained vassal: c_kacedas
+240 - sub vassal: d_rorila - Gained vassal: c_kacedas
+240 - vassal: d_rorila - Gained vassal: c_rosila
+240 - sub vassal: d_rorila - Gained vassal: c_rosila
+240 - vassal: d_rorila - Gained vassal: c_tasero
+240 - sub vassal: d_rorila - Gained vassal: c_tasero
+240 - vassal: d_rorila - Holder 1005297 - Primary title: d_rorila has lost the title: d_rorila
+240 - sub vassal: d_rorila - Holder 1005297 - Primary title: d_rorila has lost the title: d_rorila
+240 - vassal: d_rorila - Title given to 1005297 - Primary title: k_rugoman
+240 - sub vassal: d_rorila - Title given to 1005297 - Primary title: k_rugoman
+240 - Holder (1005297) has gained d_rorila
+240 - sub vassal: c_tasero - Holder 1005297 - Primary title: c_tasero has lost the title: c_tasero
+240 - sub vassal: c_tasero - Title given to 1005297 - Primary title: k_rugoman
+240 - Holder (1005297) has gained c_tasero
+240 - sub vassal: c_rosila - Holder 1005297 - Primary title: c_rosila has lost the title: c_rosila
+240 - sub vassal: c_rosila - Title given to 1005297 - Primary title: k_rugoman
+240 - Holder (1005297) has gained c_rosila
+240 - sub vassal: c_kacedas - Holder 1005297 - Primary title: c_kacedas has lost the title: c_kacedas
+240 - sub vassal: c_kacedas - Title given to 1005297 - Primary title: k_rugoman
+240 - Holder (1005297) has gained c_kacedas
+240 - sub vassal: c_kalila - Holder 1005297 - Primary title: c_kalila has lost the title: c_kalila
+240 - sub vassal: c_kalila - Title given to 1005297 - Primary title: k_rugoman
+240 - Holder (1005297) has gained c_kalila
+240 - sub vassal: c_tazana - Holder 1005297 - Primary title: c_tazana has lost the title: c_tazana
+240 - sub vassal: c_tazana - Title given to 1005297 - Primary title: k_rugoman
+240 - Holder (1005297) has gained c_tazana
+241 - Holder 1005822 - Primary title: k_rugoman has lost the title: c_rosila
+241 - sub vassal: c_rosila - Title given to 1005822
+241 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+241 - vassal: d_naradas - Lost vassal: c_radila
+241 - sub vassal: d_naradas - Lost vassal: c_radila
+241 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+241 - vassal: d_naradas - Gained vassal: c_radila
+241 - sub vassal: d_naradas - Gained vassal: c_radila
+241 - vassal: d_naradas - Gained vassal: c_radila
+241 - sub vassal: d_naradas - Gained vassal: c_radila
+241 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+241 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+241 - vassal: d_naradas - Lost vassal: c_weranu
+241 - sub vassal: d_naradas - Lost vassal: c_weranu
+241 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+241 - vassal: d_naradas - Gained vassal: c_weranu
+241 - sub vassal: d_naradas - Gained vassal: c_weranu
+241 - vassal: d_naradas - Gained vassal: c_weranu
+241 - sub vassal: d_naradas - Gained vassal: c_weranu
+241 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+241 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+241 - vassal: d_naradas - Lost vassal: c_wanozel
+241 - sub vassal: d_naradas - Lost vassal: c_wanozel
+241 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+241 - vassal: d_naradas - Gained vassal: c_wanozel
+241 - sub vassal: d_naradas - Gained vassal: c_wanozel
+241 - vassal: d_naradas - Gained vassal: c_wanozel
+241 - sub vassal: d_naradas - Gained vassal: c_wanozel
+241 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+241 - Holder 1005824 - Primary title: k_rugoman has lost the title: k_rugoman
+241 - Title given to 1005824
+241 - vassal: d_winune - Holder 1005824 - Primary title: d_winune has lost the title: c_sazanu
+241 - sub vassal: d_winune - Holder 1005824 - Primary title: d_winune has lost the title: c_sazanu
+241 - vassal: c_sazanu - Title given to 1005824 - Primary title: k_rugoman
+241 - sub vassal: c_sazanu - Title given to 1005824 - Primary title: k_rugoman
+241 - Holder (1005824) has gained c_sazanu
+241 - vassal: d_winune - Holder 1005824 - Primary title: d_winune has lost the title: d_winune
+241 - sub vassal: d_winune - Holder 1005824 - Primary title: d_winune has lost the title: d_winune
+241 - vassal: d_winune - Title given to 1005824 - Primary title: k_rugoman
+241 - sub vassal: d_winune - Title given to 1005824 - Primary title: k_rugoman
+241 - Holder (1005824) has gained d_winune
+241 - vassal: d_rorila - Holder 1005824 - Primary title: d_rorila has lost the title: d_rorila
+241 - sub vassal: d_rorila - Holder 1005824 - Primary title: d_rorila has lost the title: d_rorila
+241 - vassal: d_rorila - Title given to 1005824 - Primary title: k_rugoman
+241 - sub vassal: d_rorila - Title given to 1005824 - Primary title: k_rugoman
+241 - Holder (1005824) has gained d_rorila
+241 - sub vassal: c_tasero - Holder 1005824 - Primary title: c_tasero has lost the title: c_tasero
+241 - sub vassal: c_tasero - Title given to 1005824 - Primary title: k_rugoman
+241 - Holder (1005824) has gained c_tasero
+241 - sub vassal: c_kacedas - Holder 1005824 - Primary title: c_kacedas has lost the title: c_kacedas
+241 - sub vassal: c_kacedas - Title given to 1005824 - Primary title: k_rugoman
+241 - Holder (1005824) has gained c_kacedas
+241 - sub vassal: c_kalila - Holder 1005824 - Primary title: c_kalila has lost the title: c_kalila
+241 - sub vassal: c_kalila - Title given to 1005824 - Primary title: k_rugoman
+241 - Holder (1005824) has gained c_kalila
+241 - sub vassal: c_tazana - Holder 1005824 - Primary title: c_tazana has lost the title: c_tazana
+241 - sub vassal: c_tazana - Title given to 1005824 - Primary title: k_rugoman
+241 - Holder (1005824) has gained c_tazana
+242 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+242 - vassal: d_naradas - Lost vassal: c_radila
+242 - sub vassal: d_naradas - Lost vassal: c_radila
+242 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+242 - vassal: d_naradas - Gained vassal: c_radila
+242 - sub vassal: d_naradas - Gained vassal: c_radila
+242 - vassal: d_naradas - Gained vassal: c_radila
+242 - sub vassal: d_naradas - Gained vassal: c_radila
+242 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+242 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+242 - vassal: d_naradas - Lost vassal: c_weranu
+242 - sub vassal: d_naradas - Lost vassal: c_weranu
+242 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+242 - vassal: d_naradas - Gained vassal: c_weranu
+242 - sub vassal: d_naradas - Gained vassal: c_weranu
+242 - vassal: d_naradas - Gained vassal: c_weranu
+242 - sub vassal: d_naradas - Gained vassal: c_weranu
+242 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+242 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+242 - vassal: d_naradas - Lost vassal: c_wanozel
+242 - sub vassal: d_naradas - Lost vassal: c_wanozel
+242 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+242 - vassal: d_naradas - Gained vassal: c_wanozel
+242 - sub vassal: d_naradas - Gained vassal: c_wanozel
+242 - vassal: d_naradas - Gained vassal: c_wanozel
+242 - sub vassal: d_naradas - Gained vassal: c_wanozel
+242 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+243 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+243 - vassal: d_naradas - Lost vassal: c_radila
+243 - sub vassal: d_naradas - Lost vassal: c_radila
+243 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+243 - vassal: d_naradas - Gained vassal: c_radila
+243 - sub vassal: d_naradas - Gained vassal: c_radila
+243 - vassal: d_naradas - Gained vassal: c_radila
+243 - sub vassal: d_naradas - Gained vassal: c_radila
+243 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+243 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+243 - vassal: d_naradas - Lost vassal: c_weranu
+243 - sub vassal: d_naradas - Lost vassal: c_weranu
+243 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+243 - vassal: d_naradas - Gained vassal: c_weranu
+243 - sub vassal: d_naradas - Gained vassal: c_weranu
+243 - vassal: d_naradas - Gained vassal: c_weranu
+243 - sub vassal: d_naradas - Gained vassal: c_weranu
+243 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+243 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+243 - vassal: d_naradas - Lost vassal: c_wanozel
+243 - sub vassal: d_naradas - Lost vassal: c_wanozel
+243 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+243 - vassal: d_naradas - Gained vassal: c_wanozel
+243 - sub vassal: d_naradas - Gained vassal: c_wanozel
+243 - vassal: d_naradas - Gained vassal: c_wanozel
+243 - sub vassal: d_naradas - Gained vassal: c_wanozel
+243 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+244 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+244 - Lost vassal: c_kapala
+244 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+244 - Lost vassal: c_bamayor
+244 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+244 - Lost vassal: c_wyesiogo
+244 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+244 - Lost vassal: c_seilne
+244 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+244 - Lost vassal: c_rusartin
+244 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+244 - vassal: d_naradas - Lost vassal: c_radila
+244 - sub vassal: d_naradas - Lost vassal: c_radila
+244 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+244 - vassal: d_naradas - Gained vassal: c_radila
+244 - sub vassal: d_naradas - Gained vassal: c_radila
+244 - vassal: d_naradas - Gained vassal: c_radila
+244 - sub vassal: d_naradas - Gained vassal: c_radila
+244 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+244 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+244 - vassal: d_naradas - Lost vassal: c_weranu
+244 - sub vassal: d_naradas - Lost vassal: c_weranu
+244 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+244 - vassal: d_naradas - Gained vassal: c_weranu
+244 - sub vassal: d_naradas - Gained vassal: c_weranu
+244 - vassal: d_naradas - Gained vassal: c_weranu
+244 - sub vassal: d_naradas - Gained vassal: c_weranu
+244 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+244 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+244 - vassal: d_naradas - Lost vassal: c_wanozel
+244 - sub vassal: d_naradas - Lost vassal: c_wanozel
+244 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+244 - vassal: d_naradas - Gained vassal: c_wanozel
+244 - sub vassal: d_naradas - Gained vassal: c_wanozel
+244 - vassal: d_naradas - Gained vassal: c_wanozel
+244 - sub vassal: d_naradas - Gained vassal: c_wanozel
+244 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+245 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+245 - Lost vassal: c_kapala
+245 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+245 - Lost vassal: c_bamayor
+245 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+245 - Lost vassal: c_wyesiogo
+245 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+245 - Lost vassal: c_seilne
+245 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+245 - Lost vassal: c_rusartin
+245 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+245 - vassal: d_naradas - Lost vassal: c_radila
+245 - sub vassal: d_naradas - Lost vassal: c_radila
+245 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+245 - vassal: d_naradas - Gained vassal: c_radila
+245 - sub vassal: d_naradas - Gained vassal: c_radila
+245 - vassal: d_naradas - Gained vassal: c_radila
+245 - sub vassal: d_naradas - Gained vassal: c_radila
+245 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+245 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+245 - vassal: d_naradas - Lost vassal: c_weranu
+245 - sub vassal: d_naradas - Lost vassal: c_weranu
+245 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+245 - vassal: d_naradas - Gained vassal: c_weranu
+245 - sub vassal: d_naradas - Gained vassal: c_weranu
+245 - vassal: d_naradas - Gained vassal: c_weranu
+245 - sub vassal: d_naradas - Gained vassal: c_weranu
+245 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+245 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+245 - vassal: d_naradas - Lost vassal: c_wanozel
+245 - sub vassal: d_naradas - Lost vassal: c_wanozel
+245 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+245 - vassal: d_naradas - Gained vassal: c_wanozel
+245 - sub vassal: d_naradas - Gained vassal: c_wanozel
+245 - vassal: d_naradas - Gained vassal: c_wanozel
+245 - sub vassal: d_naradas - Gained vassal: c_wanozel
+245 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+246 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+246 - Lost vassal: c_kapala
+246 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+246 - Lost vassal: c_bamayor
+246 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+246 - Lost vassal: c_wyesiogo
+246 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+246 - Lost vassal: c_seilne
+246 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+246 - Lost vassal: c_rusartin
+246 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+246 - vassal: d_naradas - Lost vassal: c_radila
+246 - sub vassal: d_naradas - Lost vassal: c_radila
+246 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+246 - vassal: d_naradas - Gained vassal: c_radila
+246 - sub vassal: d_naradas - Gained vassal: c_radila
+246 - vassal: d_naradas - Gained vassal: c_radila
+246 - sub vassal: d_naradas - Gained vassal: c_radila
+246 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+246 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+246 - vassal: d_naradas - Lost vassal: c_weranu
+246 - sub vassal: d_naradas - Lost vassal: c_weranu
+246 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+246 - vassal: d_naradas - Gained vassal: c_weranu
+246 - sub vassal: d_naradas - Gained vassal: c_weranu
+246 - vassal: d_naradas - Gained vassal: c_weranu
+246 - sub vassal: d_naradas - Gained vassal: c_weranu
+246 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+246 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+246 - vassal: d_naradas - Lost vassal: c_wanozel
+246 - sub vassal: d_naradas - Lost vassal: c_wanozel
+246 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+246 - vassal: d_naradas - Gained vassal: c_wanozel
+246 - sub vassal: d_naradas - Gained vassal: c_wanozel
+246 - vassal: d_naradas - Gained vassal: c_wanozel
+246 - sub vassal: d_naradas - Gained vassal: c_wanozel
+246 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+247 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+247 - Lost vassal: c_kapala
+247 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+247 - Lost vassal: c_bamayor
+247 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+247 - Lost vassal: c_wyesiogo
+247 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+247 - Lost vassal: c_seilne
+247 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+247 - Lost vassal: c_rusartin
+247 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+247 - vassal: d_naradas - Lost vassal: c_radila
+247 - sub vassal: d_naradas - Lost vassal: c_radila
+247 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+247 - vassal: d_naradas - Gained vassal: c_radila
+247 - sub vassal: d_naradas - Gained vassal: c_radila
+247 - vassal: d_naradas - Gained vassal: c_radila
+247 - sub vassal: d_naradas - Gained vassal: c_radila
+247 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+247 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+247 - vassal: d_naradas - Lost vassal: c_weranu
+247 - sub vassal: d_naradas - Lost vassal: c_weranu
+247 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+247 - vassal: d_naradas - Gained vassal: c_weranu
+247 - sub vassal: d_naradas - Gained vassal: c_weranu
+247 - vassal: d_naradas - Gained vassal: c_weranu
+247 - sub vassal: d_naradas - Gained vassal: c_weranu
+247 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+247 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+247 - vassal: d_naradas - Lost vassal: c_wanozel
+247 - sub vassal: d_naradas - Lost vassal: c_wanozel
+247 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+247 - vassal: d_naradas - Gained vassal: c_wanozel
+247 - sub vassal: d_naradas - Gained vassal: c_wanozel
+247 - vassal: d_naradas - Gained vassal: c_wanozel
+247 - sub vassal: d_naradas - Gained vassal: c_wanozel
+247 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+248 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+248 - Lost vassal: c_kapala
+248 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+248 - Lost vassal: c_bamayor
+248 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+248 - Lost vassal: c_wyesiogo
+248 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+248 - Lost vassal: c_seilne
+248 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+248 - Lost vassal: c_rusartin
+248 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+248 - vassal: d_naradas - Lost vassal: c_radila
+248 - sub vassal: d_naradas - Lost vassal: c_radila
+248 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+248 - vassal: d_naradas - Gained vassal: c_radila
+248 - sub vassal: d_naradas - Gained vassal: c_radila
+248 - vassal: d_naradas - Gained vassal: c_radila
+248 - sub vassal: d_naradas - Gained vassal: c_radila
+248 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+248 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+248 - vassal: d_naradas - Lost vassal: c_weranu
+248 - sub vassal: d_naradas - Lost vassal: c_weranu
+248 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+248 - vassal: d_naradas - Gained vassal: c_weranu
+248 - sub vassal: d_naradas - Gained vassal: c_weranu
+248 - vassal: d_naradas - Gained vassal: c_weranu
+248 - sub vassal: d_naradas - Gained vassal: c_weranu
+248 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+248 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+248 - vassal: d_naradas - Lost vassal: c_wanozel
+248 - sub vassal: d_naradas - Lost vassal: c_wanozel
+248 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+248 - vassal: d_naradas - Gained vassal: c_wanozel
+248 - sub vassal: d_naradas - Gained vassal: c_wanozel
+248 - vassal: d_naradas - Gained vassal: c_wanozel
+248 - sub vassal: d_naradas - Gained vassal: c_wanozel
+248 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+249 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+249 - Lost vassal: c_kapala
+249 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+249 - Lost vassal: c_bamayor
+249 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+249 - Lost vassal: c_wyesiogo
+249 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+249 - Lost vassal: c_seilne
+249 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+249 - Lost vassal: c_rusartin
+249 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+249 - vassal: d_naradas - Lost vassal: c_radila
+249 - sub vassal: d_naradas - Lost vassal: c_radila
+249 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+249 - vassal: d_naradas - Gained vassal: c_radila
+249 - sub vassal: d_naradas - Gained vassal: c_radila
+249 - vassal: d_naradas - Gained vassal: c_radila
+249 - sub vassal: d_naradas - Gained vassal: c_radila
+249 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+249 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+249 - vassal: d_naradas - Lost vassal: c_weranu
+249 - sub vassal: d_naradas - Lost vassal: c_weranu
+249 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+249 - vassal: d_naradas - Gained vassal: c_weranu
+249 - sub vassal: d_naradas - Gained vassal: c_weranu
+249 - vassal: d_naradas - Gained vassal: c_weranu
+249 - sub vassal: d_naradas - Gained vassal: c_weranu
+249 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+249 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+249 - vassal: d_naradas - Lost vassal: c_wanozel
+249 - sub vassal: d_naradas - Lost vassal: c_wanozel
+249 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+249 - vassal: d_naradas - Gained vassal: c_wanozel
+249 - sub vassal: d_naradas - Gained vassal: c_wanozel
+249 - vassal: d_naradas - Gained vassal: c_wanozel
+249 - sub vassal: d_naradas - Gained vassal: c_wanozel
+249 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+250 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+250 - Lost vassal: c_kapala
+250 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+250 - Lost vassal: c_bamayor
+250 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+250 - Lost vassal: c_wyesiogo
+250 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+250 - Lost vassal: c_seilne
+250 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+250 - Lost vassal: c_rusartin
+250 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+250 - vassal: d_naradas - Lost vassal: c_radila
+250 - sub vassal: d_naradas - Lost vassal: c_radila
+250 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+250 - vassal: d_naradas - Gained vassal: c_radila
+250 - sub vassal: d_naradas - Gained vassal: c_radila
+250 - vassal: d_naradas - Gained vassal: c_radila
+250 - sub vassal: d_naradas - Gained vassal: c_radila
+250 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+250 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+250 - vassal: d_naradas - Lost vassal: c_weranu
+250 - sub vassal: d_naradas - Lost vassal: c_weranu
+250 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+250 - vassal: d_naradas - Gained vassal: c_weranu
+250 - sub vassal: d_naradas - Gained vassal: c_weranu
+250 - vassal: d_naradas - Gained vassal: c_weranu
+250 - sub vassal: d_naradas - Gained vassal: c_weranu
+250 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+250 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+250 - vassal: d_naradas - Lost vassal: c_wanozel
+250 - sub vassal: d_naradas - Lost vassal: c_wanozel
+250 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+250 - vassal: d_naradas - Gained vassal: c_wanozel
+250 - sub vassal: d_naradas - Gained vassal: c_wanozel
+250 - vassal: d_naradas - Gained vassal: c_wanozel
+250 - sub vassal: d_naradas - Gained vassal: c_wanozel
+250 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+251 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+251 - Lost vassal: c_kapala
+251 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+251 - Lost vassal: c_bamayor
+251 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+251 - Lost vassal: c_wyesiogo
+251 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+251 - Lost vassal: c_seilne
+251 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+251 - Lost vassal: c_rusartin
+251 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+251 - vassal: d_naradas - Lost vassal: c_radila
+251 - sub vassal: d_naradas - Lost vassal: c_radila
+251 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+251 - vassal: d_naradas - Gained vassal: c_radila
+251 - sub vassal: d_naradas - Gained vassal: c_radila
+251 - vassal: d_naradas - Gained vassal: c_radila
+251 - sub vassal: d_naradas - Gained vassal: c_radila
+251 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+251 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+251 - vassal: d_naradas - Lost vassal: c_weranu
+251 - sub vassal: d_naradas - Lost vassal: c_weranu
+251 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+251 - vassal: d_naradas - Gained vassal: c_weranu
+251 - sub vassal: d_naradas - Gained vassal: c_weranu
+251 - vassal: d_naradas - Gained vassal: c_weranu
+251 - sub vassal: d_naradas - Gained vassal: c_weranu
+251 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+251 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+251 - vassal: d_naradas - Lost vassal: c_wanozel
+251 - sub vassal: d_naradas - Lost vassal: c_wanozel
+251 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+251 - vassal: d_naradas - Gained vassal: c_wanozel
+251 - sub vassal: d_naradas - Gained vassal: c_wanozel
+251 - vassal: d_naradas - Gained vassal: c_wanozel
+251 - sub vassal: d_naradas - Gained vassal: c_wanozel
+251 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+252 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+252 - Lost vassal: c_kapala
+252 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+252 - Lost vassal: c_bamayor
+252 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+252 - Lost vassal: c_wyesiogo
+252 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+252 - Lost vassal: c_seilne
+252 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+252 - Lost vassal: c_rusartin
+252 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+252 - vassal: d_naradas - Lost vassal: c_radila
+252 - sub vassal: d_naradas - Lost vassal: c_radila
+252 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+252 - vassal: d_naradas - Gained vassal: c_radila
+252 - sub vassal: d_naradas - Gained vassal: c_radila
+252 - vassal: d_naradas - Gained vassal: c_radila
+252 - sub vassal: d_naradas - Gained vassal: c_radila
+252 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+252 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+252 - vassal: d_naradas - Lost vassal: c_weranu
+252 - sub vassal: d_naradas - Lost vassal: c_weranu
+252 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+252 - vassal: d_naradas - Gained vassal: c_weranu
+252 - sub vassal: d_naradas - Gained vassal: c_weranu
+252 - vassal: d_naradas - Gained vassal: c_weranu
+252 - sub vassal: d_naradas - Gained vassal: c_weranu
+252 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+252 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+252 - vassal: d_naradas - Lost vassal: c_wanozel
+252 - sub vassal: d_naradas - Lost vassal: c_wanozel
+252 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+252 - vassal: d_naradas - Gained vassal: c_wanozel
+252 - sub vassal: d_naradas - Gained vassal: c_wanozel
+252 - vassal: d_naradas - Gained vassal: c_wanozel
+252 - sub vassal: d_naradas - Gained vassal: c_wanozel
+252 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+253 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+253 - Lost vassal: c_kapala
+253 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+253 - Lost vassal: c_bamayor
+253 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+253 - Lost vassal: c_wyesiogo
+253 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+253 - Lost vassal: c_seilne
+253 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+253 - Lost vassal: c_rusartin
+253 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+253 - vassal: d_naradas - Lost vassal: c_radila
+253 - sub vassal: d_naradas - Lost vassal: c_radila
+253 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+253 - vassal: d_naradas - Gained vassal: c_radila
+253 - sub vassal: d_naradas - Gained vassal: c_radila
+253 - vassal: d_naradas - Gained vassal: c_radila
+253 - sub vassal: d_naradas - Gained vassal: c_radila
+253 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+253 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+253 - vassal: d_naradas - Lost vassal: c_weranu
+253 - sub vassal: d_naradas - Lost vassal: c_weranu
+253 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+253 - vassal: d_naradas - Gained vassal: c_weranu
+253 - sub vassal: d_naradas - Gained vassal: c_weranu
+253 - vassal: d_naradas - Gained vassal: c_weranu
+253 - sub vassal: d_naradas - Gained vassal: c_weranu
+253 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+253 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+253 - vassal: d_naradas - Lost vassal: c_wanozel
+253 - sub vassal: d_naradas - Lost vassal: c_wanozel
+253 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+253 - vassal: d_naradas - Gained vassal: c_wanozel
+253 - sub vassal: d_naradas - Gained vassal: c_wanozel
+253 - vassal: d_naradas - Gained vassal: c_wanozel
+253 - sub vassal: d_naradas - Gained vassal: c_wanozel
+253 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+254 - vassal: d_lamemme - Holder 1004902 - Primary title: d_lamemme has lost the title: d_lamemme
+254 - sub vassal: d_lamemme - Holder 1004902 - Primary title: d_lamemme has lost the title: d_lamemme
+254 - vassal: d_lamemme - Title given to 1004902
+254 - sub vassal: d_lamemme - Title given to 1004902
+254 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+254 - Lost vassal: c_kapala
+254 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+254 - Lost vassal: c_bamayor
+254 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+254 - Lost vassal: c_wyesiogo
+254 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+254 - Lost vassal: c_seilne
+254 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+254 - Lost vassal: c_rusartin
+254 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+254 - vassal: d_naradas - Lost vassal: c_radila
+254 - sub vassal: d_naradas - Lost vassal: c_radila
+254 - sub vassal: c_radila - Setting to vassal of d_naradas in Validate Realm
+254 - vassal: d_naradas - Gained vassal: c_radila
+254 - sub vassal: d_naradas - Gained vassal: c_radila
+254 - vassal: d_naradas - Gained vassal: c_radila
+254 - sub vassal: d_naradas - Gained vassal: c_radila
+254 - sub vassal: c_radila - Given to neighbour holder of k_ditedas
+254 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+254 - vassal: d_naradas - Lost vassal: c_weranu
+254 - sub vassal: d_naradas - Lost vassal: c_weranu
+254 - sub vassal: c_weranu - Setting to vassal of d_naradas in Validate Realm
+254 - vassal: d_naradas - Gained vassal: c_weranu
+254 - sub vassal: d_naradas - Gained vassal: c_weranu
+254 - vassal: d_naradas - Gained vassal: c_weranu
+254 - sub vassal: d_naradas - Gained vassal: c_weranu
+254 - sub vassal: c_weranu - Given to neighbour holder of k_ditedas
+254 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+254 - vassal: d_naradas - Lost vassal: c_wanozel
+254 - sub vassal: d_naradas - Lost vassal: c_wanozel
+254 - sub vassal: c_wanozel - Setting to vassal of d_naradas in Validate Realm
+254 - vassal: d_naradas - Gained vassal: c_wanozel
+254 - sub vassal: d_naradas - Gained vassal: c_wanozel
+254 - vassal: d_naradas - Gained vassal: c_wanozel
+254 - sub vassal: d_naradas - Gained vassal: c_wanozel
+254 - sub vassal: c_wanozel - Given to neighbour holder of k_ditedas
+255 - vassal: d_naradas - Holder (1003729) has gained d_lerila
+255 - sub vassal: d_naradas - Holder (1003729) has gained d_lerila
+255 - Gained vassal: d_lerila
+255 - vassal: d_lerila - Made independent for title creation d_lerila for d_naradas
+255 - sub vassal: d_lerila - Made independent for title creation d_lerila for d_naradas
+255 - vassal: d_lerila - Made independent
+255 - sub vassal: d_lerila - Made independent
+255 - sub vassal: c_etameike - Set liege on title creation d_lerila
+255 - vassal: d_naradas - Lost vassal: c_etameike
+255 - sub vassal: d_naradas - Lost vassal: c_etameike
+255 - sub vassal: c_kawurd - Set liege on title creation d_lerila
+255 - vassal: d_naradas - Lost vassal: c_kawurd
+255 - sub vassal: d_naradas - Lost vassal: c_kawurd
+255 - sub vassal: c_radila - Set liege on title creation d_lerila
+255 - vassal: d_naradas - Lost vassal: c_radila
+255 - sub vassal: d_naradas - Lost vassal: c_radila
+255 - sub vassal: c_wanozel - Set liege on title creation d_lerila
+255 - vassal: d_naradas - Lost vassal: c_wanozel
+255 - sub vassal: d_naradas - Lost vassal: c_wanozel
+255 - sub vassal: c_weranu - Set liege on title creation d_lerila
+255 - vassal: d_naradas - Lost vassal: c_weranu
+255 - sub vassal: d_naradas - Lost vassal: c_weranu
+255 - vassal: d_naradas - Holder 1004902 - Primary title: d_naradas has lost the title: d_naradas
+255 - sub vassal: d_naradas - Holder 1004902 - Primary title: d_naradas has lost the title: d_naradas
+255 - vassal: d_naradas - Title given to 1004902 - Primary title: d_lamemme
+255 - sub vassal: d_naradas - Title given to 1004902 - Primary title: d_lamemme
+255 - vassal: d_lamemme - Holder (1004902) has gained d_naradas
+255 - sub vassal: d_lamemme - Holder (1004902) has gained d_naradas
+255 - vassal: d_lamemme - Holder (1004902) has gained d_lerila
+255 - sub vassal: d_lamemme - Holder (1004902) has gained d_lerila
+255 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+255 - Lost vassal: c_kapala
+255 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+255 - Lost vassal: c_bamayor
+255 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+255 - Lost vassal: c_wyesiogo
+255 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+255 - Lost vassal: c_seilne
+255 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+255 - Lost vassal: c_rusartin
+255 - sub vassal: c_radila - Made vassal of neighbour (k_ditedas) due to being a seperate island
+255 - sub vassal: c_radila - Setting independent in Validate Realm
+255 - sub vassal: c_radila - Made independent
+255 - sub vassal: c_etameike - Holder 1002916 - Primary title: c_etameike has lost the title: c_radila
+255 - sub vassal: c_weranu - Made vassal of neighbour (k_ditedas) due to being a seperate island
+255 - sub vassal: c_weranu - Setting independent in Validate Realm
+255 - sub vassal: c_weranu - Made independent
+255 - sub vassal: c_etameike - Holder 1002916 - Primary title: c_etameike has lost the title: c_weranu
+255 - sub vassal: c_wanozel - Made vassal of neighbour (k_ditedas) due to being a seperate island
+255 - sub vassal: c_wanozel - Setting independent in Validate Realm
+255 - sub vassal: c_wanozel - Made independent
+255 - sub vassal: c_etameike - Holder 1002916 - Primary title: c_etameike has lost the title: c_wanozel
+256 - vassal: d_naradas - Destroyed due to flagged problem
+256 - sub vassal: d_naradas - Destroyed due to flagged problem
+256 - vassal: d_naradas - Made independent
+256 - sub vassal: d_naradas - Made independent
+256 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+256 - Lost vassal: c_kapala
+256 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+256 - Lost vassal: c_bamayor
+256 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+256 - Lost vassal: c_wyesiogo
+256 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+256 - Lost vassal: c_seilne
+256 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+256 - Lost vassal: c_rusartin
+257 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+257 - Lost vassal: c_kapala
+257 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+257 - Lost vassal: c_bamayor
+257 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+257 - Lost vassal: c_wyesiogo
+257 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+257 - Lost vassal: c_seilne
+257 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+257 - Lost vassal: c_rusartin
+258 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+258 - Lost vassal: c_kapala
+258 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+258 - Lost vassal: c_bamayor
+258 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+258 - Lost vassal: c_wyesiogo
+258 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+258 - Lost vassal: c_seilne
+258 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+258 - Lost vassal: c_rusartin
+259 - vassal: c_kapala - Setting to vassal of d_ranila in Validate Realm
+259 - Lost vassal: c_kapala
+259 - vassal: c_bamayor - Setting to vassal of d_ranila in Validate Realm
+259 - Lost vassal: c_bamayor
+259 - vassal: c_wyesiogo - Setting to vassal of d_ranila in Validate Realm
+259 - Lost vassal: c_wyesiogo
+259 - vassal: c_seilne - Setting to vassal of d_ranila in Validate Realm
+259 - Lost vassal: c_seilne
+259 - vassal: c_rusartin - Setting to vassal of d_ranila in Validate Realm
+259 - Lost vassal: c_rusartin
+260 - sub vassal: c_etameike - Holder 1004902 - Primary title: c_etameike has lost the title: c_etameike
+260 - sub vassal: c_etameike - Title given to 1004902 - Primary title: d_lamemme
+260 - vassal: d_lamemme - Holder (1004902) has gained c_etameike
+260 - sub vassal: d_lamemme - Holder (1004902) has gained c_etameike
+260 - sub vassal: c_kawurd - Holder 1004902 - Primary title: c_kawurd has lost the title: c_kawurd
+260 - sub vassal: c_kawurd - Title given to 1004902 - Primary title: d_lamemme
+260 - vassal: d_lamemme - Holder (1004902) has gained c_kawurd
+260 - sub vassal: d_lamemme - Holder (1004902) has gained c_kawurd
+260 - Holder (1005824) has gained c_seilne
+260 - Holder (1005824) has gained c_rusartin
+260 - Holder (1005824) has gained c_bamayor
+260 - Holder (1005824) has gained c_wyesiogo
+260 - Holder (1005824) has gained c_kapala
+260 - Holder 1007447 - Primary title: k_rugoman has lost the title: c_tasero
+260 - sub vassal: c_tasero - Title given to 1007447
+260 - Holder 1007448 - Primary title: k_rugoman has lost the title: c_kalila
+260 - sub vassal: c_kalila - Title given to 1007448
+260 - Holder 1002769 - Primary title: k_rugoman has lost the title: c_wyesiogo
+260 - Gained vassal: c_wyesiogo
+260 - Holder 1007449 - Primary title: k_rugoman has lost the title: c_rusartin
+260 - Gained vassal: c_rusartin
+260 - Holder 1007450 - Primary title: k_rugoman has lost the title: c_tazana
+260 - sub vassal: c_tazana - Title given to 1007450
+260 - vassal: c_rusartin - Made vassal of neighbour (k_ditedas) due to being a seperate island
+260 - sub vassal: c_rusartin - Made vassal of neighbour (k_ditedas) due to being a seperate island
+260 - Lost vassal: c_rusartin
+260 - Holder 1004336 - Primary title: k_rugoman has lost the title: c_seilne
+260 - Holder 1004336 - Primary title: k_rugoman has lost the title: c_bamayor
+260 - vassal: c_wyesiogo - Made vassal of neighbour (k_alitila) due to being a seperate island
+260 - sub vassal: c_wyesiogo - Made vassal of neighbour (k_alitila) due to being a seperate island
+260 - Lost vassal: c_wyesiogo
+260 - Holder 1004336 - Primary title: k_rugoman has lost the title: c_kapala
+261 - vassal: d_warandi - Holder 1005188 - Primary title: d_warandi has lost the title: d_warandi
+261 - sub vassal: d_warandi - Holder 1005188 - Primary title: d_warandi has lost the title: d_warandi
+261 - vassal: d_warandi - Title given to 1005188
+261 - sub vassal: d_warandi - Title given to 1005188
+261 - sub vassal: c_atomiu - Holder 1005188 - Primary title: c_atomiu has lost the title: c_atomiu
+261 - sub vassal: c_atomiu - Title given to 1005188 - Primary title: d_warandi
+261 - vassal: d_warandi - Holder (1005188) has gained c_atomiu
+261 - sub vassal: d_warandi - Holder (1005188) has gained c_atomiu
+261 - sub vassal: c_nugedas - Holder 1005188 - Primary title: c_nugedas has lost the title: c_nugedas
+261 - sub vassal: c_nugedas - Title given to 1005188 - Primary title: d_warandi
+261 - vassal: d_warandi - Holder (1005188) has gained c_nugedas
+261 - sub vassal: d_warandi - Holder (1005188) has gained c_nugedas
+275 - vassal: d_lamemme - Holder 1008692 - Primary title: d_lamemme has lost the title: d_lerila
+275 - sub vassal: d_lamemme - Holder 1008692 - Primary title: d_lamemme has lost the title: d_lerila
+275 - vassal: d_kanune - Holder 1005464 - Primary title: d_kanune has lost the title: d_kanune
+275 - sub vassal: d_kanune - Holder 1005464 - Primary title: d_kanune has lost the title: d_kanune
+275 - vassal: d_kanune - Title given to 1005464
+275 - sub vassal: d_kanune - Title given to 1005464
+275 - sub vassal: c_kawurd - Setting to vassal of d_lamemme in Validate Realm
+275 - sub vassal: c_etameike - Setting to vassal of d_lamemme in Validate Realm
+275 - vassal: d_lamemme - Gained vassal: c_etameike
+275 - sub vassal: d_lamemme - Gained vassal: c_etameike
+275 - vassal: d_lamemme - Gained vassal: c_kawurd
+275 - sub vassal: d_lamemme - Gained vassal: c_kawurd
+275 - sub vassal: c_sanows - Holder 1005464 - Primary title: c_sanows has lost the title: c_sanows
+275 - sub vassal: c_sanows - Title given to 1005464 - Primary title: d_kanune
+275 - vassal: d_kanune - Holder (1005464) has gained c_sanows
+275 - sub vassal: d_kanune - Holder (1005464) has gained c_sanows
+275 - sub vassal: c_noseser - Holder 1005464 - Primary title: c_noseser has lost the title: c_noseser
+275 - sub vassal: c_noseser - Title given to 1005464 - Primary title: d_kanune
+275 - vassal: d_kanune - Holder (1005464) has gained c_noseser
+275 - sub vassal: d_kanune - Holder (1005464) has gained c_noseser
+277 - vassal: d_lamemme - Holder 1008692 - Primary title: d_lamemme has lost the title: d_lamemme
+277 - sub vassal: d_lamemme - Holder 1008692 - Primary title: d_lamemme has lost the title: d_lamemme
+277 - vassal: d_lamemme - Title given to 1008692
+277 - sub vassal: d_lamemme - Title given to 1008692
+277 - sub vassal: c_kawurd - Holder 1008692 - Primary title: c_kawurd has lost the title: c_kawurd
+277 - sub vassal: c_kawurd - Title given to 1008692 - Primary title: d_lamemme
+277 - vassal: d_lamemme - Holder (1008692) has gained c_kawurd
+277 - sub vassal: d_lamemme - Holder (1008692) has gained c_kawurd
+277 - sub vassal: c_etameike - Holder 1008692 - Primary title: c_etameike has lost the title: c_etameike
+277 - sub vassal: c_etameike - Title given to 1008692 - Primary title: d_lamemme
+277 - vassal: d_lamemme - Holder (1008692) has gained c_etameike
+277 - sub vassal: d_lamemme - Holder (1008692) has gained c_etameike
+277 - vassal: d_kanune - Holder 1008692 - Primary title: d_kanune has lost the title: d_kanune
+277 - sub vassal: d_kanune - Holder 1008692 - Primary title: d_kanune has lost the title: d_kanune
+277 - vassal: d_kanune - Title given to 1008692 - Primary title: d_lamemme
+277 - sub vassal: d_kanune - Title given to 1008692 - Primary title: d_lamemme
+277 - vassal: d_lamemme - Holder (1008692) has gained d_kanune
+277 - sub vassal: d_lamemme - Holder (1008692) has gained d_kanune
+277 - sub vassal: c_sanows - Holder 1008692 - Primary title: c_sanows has lost the title: c_sanows
+277 - sub vassal: c_sanows - Title given to 1008692 - Primary title: d_lamemme
+277 - vassal: d_lamemme - Holder (1008692) has gained c_sanows
+277 - sub vassal: d_lamemme - Holder (1008692) has gained c_sanows
+277 - sub vassal: c_noseser - Holder 1008692 - Primary title: c_noseser has lost the title: c_noseser
+277 - sub vassal: c_noseser - Title given to 1008692 - Primary title: d_lamemme
+277 - vassal: d_lamemme - Holder (1008692) has gained c_noseser
+277 - sub vassal: d_lamemme - Holder (1008692) has gained c_noseser
+280 - vassal: d_lamemme - Holder (1008692) has gained d_naradas
+280 - sub vassal: d_lamemme - Holder (1008692) has gained d_naradas
+280 - Gained vassal: d_naradas
+280 - vassal: d_naradas - Made independent for title creation d_naradas for d_lamemme
+280 - sub vassal: d_naradas - Made independent for title creation d_naradas for d_lamemme
+280 - vassal: d_naradas - Made independent
+280 - sub vassal: d_naradas - Made independent
+280 - sub vassal: c_noseser - Set liege on title creation d_naradas
+280 - vassal: d_kanune - Lost vassal: c_noseser
+280 - sub vassal: d_kanune - Lost vassal: c_noseser
+280 - sub vassal: c_sanows - Set liege on title creation d_naradas
+280 - vassal: d_kanune - Lost vassal: c_sanows
+280 - sub vassal: d_kanune - Lost vassal: c_sanows
+280 - sub vassal: c_etameike - Set liege on title creation d_naradas
+280 - vassal: d_lamemme - Lost vassal: c_etameike
+280 - sub vassal: d_lamemme - Lost vassal: c_etameike
+280 - sub vassal: c_kawurd - Set liege on title creation d_naradas
+280 - vassal: d_lamemme - Lost vassal: c_kawurd
+280 - sub vassal: d_lamemme - Lost vassal: c_kawurd
+280 - sub vassal: c_kawurd - Setting independent due to liege destruction
+280 - sub vassal: c_kawurd - Made independent
+280 - sub vassal: c_etameike - Setting independent due to liege destruction
+280 - sub vassal: c_etameike - Made independent
+280 - sub vassal: c_noseser - Setting independent due to liege destruction
+280 - sub vassal: c_noseser - Made independent
+280 - sub vassal: c_sanows - Setting independent due to liege destruction
+280 - sub vassal: c_sanows - Made independent
+281 - vassal: d_kanune - Destroyed due to flagged problem
+281 - sub vassal: d_kanune - Destroyed due to flagged problem
+281 - vassal: d_kanune - Made independent
+281 - sub vassal: d_kanune - Made independent
+281 - vassal: d_warandi - Holder 1005824 - Primary title: d_warandi has lost the title: d_warandi
+281 - sub vassal: d_warandi - Holder 1005824 - Primary title: d_warandi has lost the title: d_warandi
+281 - vassal: d_warandi - Title given to 1005824 - Primary title: k_rugoman
+281 - sub vassal: d_warandi - Title given to 1005824 - Primary title: k_rugoman
+281 - Holder (1005824) has gained d_warandi
+281 - sub vassal: c_nugedas - Holder 1005824 - Primary title: c_nugedas has lost the title: c_nugedas
+281 - sub vassal: c_nugedas - Title given to 1005824 - Primary title: k_rugoman
+281 - Holder (1005824) has gained c_nugedas
+281 - sub vassal: c_atomiu - Holder 1005824 - Primary title: c_atomiu has lost the title: c_atomiu
+281 - sub vassal: c_atomiu - Title given to 1005824 - Primary title: k_rugoman
+281 - Holder (1005824) has gained c_atomiu
+281 - sub vassal: c_nugedas - Given to 1009200 in HandleTitles - Too many duke titles
+281 - Holder 1009200 - Primary title: k_rugoman has lost the title: c_nugedas
+281 - sub vassal: c_nugedas - Title given to 1009200
+281 - Holder 1009200 - Primary title: k_rugoman has lost the title: d_warandi
+281 - vassal: d_warandi - Title given to 1009200 - Primary title: c_nugedas
+281 - sub vassal: d_warandi - Title given to 1009200 - Primary title: c_nugedas
+281 - sub vassal: c_nugedas - Holder (1009200) has gained d_warandi
+281 - sub vassal: c_atomiu - Setting to vassal of k_rugoman in Validate Realm
+281 - vassal: d_warandi - Lost vassal: c_atomiu
+281 - sub vassal: d_warandi - Lost vassal: c_atomiu
+281 - Gained vassal: c_atomiu
+281 - vassal: d_warandi - Too many dukes, made direct title into vassal of k_rugoman
+281 - sub vassal: d_warandi - Too many dukes, made direct title into vassal of k_rugoman
+283 - vassal: d_ruroman - Holder 1005189 - Primary title: d_ruroman has lost the title: d_ruroman
+283 - sub vassal: d_ruroman - Holder 1005189 - Primary title: d_ruroman has lost the title: d_ruroman
+283 - vassal: d_ruroman - Title given to 1005189
+283 - sub vassal: d_ruroman - Title given to 1005189
+283 - sub vassal: c_tiolvi - Setting to vassal of d_qorana in Validate Realm
+283 - vassal: d_ruroman - Lost vassal: c_tiolvi
+283 - sub vassal: d_ruroman - Lost vassal: c_tiolvi
+283 - sub vassal: c_evanows - Setting to vassal of d_qorana in Validate Realm
+283 - vassal: d_ruroman - Lost vassal: c_evanows
+283 - sub vassal: d_ruroman - Lost vassal: c_evanows
+283 - sub vassal: c_nameike - Setting to vassal of d_qorana in Validate Realm
+283 - vassal: d_ruroman - Lost vassal: c_nameike
+283 - sub vassal: d_ruroman - Lost vassal: c_nameike
+283 - vassal: d_qorana - Gained vassal: c_nameike
+283 - sub vassal: d_qorana - Gained vassal: c_nameike
+283 - vassal: d_qorana - Gained vassal: c_evanows
+283 - sub vassal: d_qorana - Gained vassal: c_evanows
+283 - vassal: d_qorana - Gained vassal: c_tiolvi
+283 - sub vassal: d_qorana - Gained vassal: c_tiolvi
+283 - vassal: d_qorana - Holder 1005189 - Primary title: d_qorana has lost the title: d_qorana
+283 - sub vassal: d_qorana - Holder 1005189 - Primary title: d_qorana has lost the title: d_qorana
+283 - vassal: d_qorana - Title given to 1005189 - Primary title: d_ruroman
+283 - sub vassal: d_qorana - Title given to 1005189 - Primary title: d_ruroman
+283 - vassal: d_ruroman - Holder (1005189) has gained d_qorana
+283 - sub vassal: d_ruroman - Holder (1005189) has gained d_qorana
+283 - sub vassal: c_tiolvi - Holder 1005189 - Primary title: c_tiolvi has lost the title: c_tiolvi
+283 - sub vassal: c_tiolvi - Title given to 1005189 - Primary title: d_ruroman
+283 - vassal: d_ruroman - Holder (1005189) has gained c_tiolvi
+283 - sub vassal: d_ruroman - Holder (1005189) has gained c_tiolvi
+283 - sub vassal: c_evanows - Holder 1005189 - Primary title: c_evanows has lost the title: c_evanows
+283 - sub vassal: c_evanows - Title given to 1005189 - Primary title: d_ruroman
+283 - vassal: d_ruroman - Holder (1005189) has gained c_evanows
+283 - sub vassal: d_ruroman - Holder (1005189) has gained c_evanows
+283 - sub vassal: c_nameike - Holder 1005189 - Primary title: c_nameike has lost the title: c_nameike
+283 - sub vassal: c_nameike - Title given to 1005189 - Primary title: d_ruroman
+283 - vassal: d_ruroman - Holder (1005189) has gained c_nameike
+283 - sub vassal: d_ruroman - Holder (1005189) has gained c_nameike
+285 - Holder 1005909 - Primary title: k_rugoman has lost the title: k_rugoman
+285 - Title given to 1005909
+285 - vassal: d_winune - Holder 1005909 - Primary title: d_winune has lost the title: d_winune
+285 - sub vassal: d_winune - Holder 1005909 - Primary title: d_winune has lost the title: d_winune
+285 - vassal: d_winune - Title given to 1005909 - Primary title: k_rugoman
+285 - sub vassal: d_winune - Title given to 1005909 - Primary title: k_rugoman
+285 - Holder (1005909) has gained d_winune
+285 - vassal: c_sazanu - Setting to vassal of d_rorila in Validate Realm
+285 - sub vassal: c_sazanu - Setting to vassal of d_rorila in Validate Realm
+285 - Lost vassal: c_sazanu
+285 - vassal: c_atomiu - Setting to vassal of d_rorila in Validate Realm
+285 - sub vassal: c_atomiu - Setting to vassal of d_rorila in Validate Realm
+285 - Lost vassal: c_atomiu
+285 - vassal: d_rorila - Gained vassal: c_atomiu
+285 - sub vassal: d_rorila - Gained vassal: c_atomiu
+285 - vassal: d_rorila - Gained vassal: c_sazanu
+285 - sub vassal: d_rorila - Gained vassal: c_sazanu
+285 - vassal: d_rorila - Holder 1005909 - Primary title: d_rorila has lost the title: d_rorila
+285 - sub vassal: d_rorila - Holder 1005909 - Primary title: d_rorila has lost the title: d_rorila
+285 - vassal: d_rorila - Title given to 1005909 - Primary title: k_rugoman
+285 - sub vassal: d_rorila - Title given to 1005909 - Primary title: k_rugoman
+285 - Holder (1005909) has gained d_rorila
+285 - sub vassal: c_sazanu - Holder 1005909 - Primary title: c_sazanu has lost the title: c_sazanu
+285 - sub vassal: c_sazanu - Title given to 1005909 - Primary title: k_rugoman
+285 - Holder (1005909) has gained c_sazanu
+285 - sub vassal: c_kacedas - Holder 1005909 - Primary title: c_kacedas has lost the title: c_kacedas
+285 - sub vassal: c_kacedas - Title given to 1005909 - Primary title: k_rugoman
+285 - Holder (1005909) has gained c_kacedas
+285 - sub vassal: c_atomiu - Holder 1005909 - Primary title: c_atomiu has lost the title: c_atomiu
+285 - sub vassal: c_atomiu - Title given to 1005909 - Primary title: k_rugoman
+285 - Holder (1005909) has gained c_atomiu
+293 - Holder 1010017 - Primary title: k_rugoman has lost the title: k_rugoman
+293 - Title given to 1010017
+293 - vassal: d_winune - Holder 1010017 - Primary title: d_winune has lost the title: d_winune
+293 - sub vassal: d_winune - Holder 1010017 - Primary title: d_winune has lost the title: d_winune
+293 - vassal: d_winune - Title given to 1010017 - Primary title: k_rugoman
+293 - sub vassal: d_winune - Title given to 1010017 - Primary title: k_rugoman
+293 - Holder (1010017) has gained d_winune
+293 - vassal: d_rorila - Holder 1010017 - Primary title: d_rorila has lost the title: d_rorila
+293 - sub vassal: d_rorila - Holder 1010017 - Primary title: d_rorila has lost the title: d_rorila
+293 - vassal: d_rorila - Title given to 1010017 - Primary title: k_rugoman
+293 - sub vassal: d_rorila - Title given to 1010017 - Primary title: k_rugoman
+293 - Holder (1010017) has gained d_rorila
+293 - sub vassal: c_sazanu - Holder 1010017 - Primary title: c_sazanu has lost the title: c_sazanu
+293 - sub vassal: c_sazanu - Title given to 1010017 - Primary title: k_rugoman
+293 - Holder (1010017) has gained c_sazanu
+293 - sub vassal: c_kacedas - Holder 1010017 - Primary title: c_kacedas has lost the title: c_kacedas
+293 - sub vassal: c_kacedas - Title given to 1010017 - Primary title: k_rugoman
+293 - Holder (1010017) has gained c_kacedas
+293 - sub vassal: c_atomiu - Holder 1010017 - Primary title: c_atomiu has lost the title: c_atomiu
+293 - sub vassal: c_atomiu - Title given to 1010017 - Primary title: k_rugoman
+293 - Holder (1010017) has gained c_atomiu
+299 - vassal: d_lamemme - Holder 1005189 - Primary title: d_lamemme has lost the title: d_lamemme
+299 - sub vassal: d_lamemme - Holder 1005189 - Primary title: d_lamemme has lost the title: d_lamemme
+299 - vassal: d_lamemme - Title given to 1005189 - Primary title: d_ruroman
+299 - sub vassal: d_lamemme - Title given to 1005189 - Primary title: d_ruroman
+299 - vassal: d_ruroman - Holder (1005189) has gained d_lamemme
+299 - sub vassal: d_ruroman - Holder (1005189) has gained d_lamemme
+299 - vassal: d_ruroman - Holder (1005189) has gained c_noseser
+299 - sub vassal: d_ruroman - Holder (1005189) has gained c_noseser
+299 - vassal: d_ruroman - Holder (1005189) has gained c_sanows
+299 - sub vassal: d_ruroman - Holder (1005189) has gained c_sanows
+299 - vassal: d_ruroman - Holder (1005189) has gained c_etameike
+299 - sub vassal: d_ruroman - Holder (1005189) has gained c_etameike
+299 - vassal: d_ruroman - Holder (1005189) has gained c_kawurd
+299 - sub vassal: d_ruroman - Holder (1005189) has gained c_kawurd
+300 - sub vassal: c_lyutandi - Holder 1005822 - Primary title: c_lyutandi has lost the title: c_lyutandi
+300 - sub vassal: c_lyutandi - Title given to 1005822 - Primary title: c_rosila
+300 - sub vassal: c_rosila - Holder (1005822) has gained c_lyutandi
+300 - sub vassal: c_keras - Holder 1007447 - Primary title: c_keras has lost the title: c_keras
+300 - sub vassal: c_keras - Title given to 1007447 - Primary title: c_tasero
+300 - sub vassal: c_tasero - Holder (1007447) has gained c_keras
+300 - sub vassal: c_rorandi - Given to 1006476 in HandleTitles - Too many duke titles
+300 - sub vassal: c_rorandi - Holder 1006476 - Primary title: c_rorandi has lost the title: c_rorandi
+300 - sub vassal: c_rorandi - Title given to 1006476
+300 - vassal: d_lamemme - Holder 1010017 - Primary title: d_lamemme has lost the title: d_ruroman
+300 - sub vassal: d_lamemme - Holder 1010017 - Primary title: d_lamemme has lost the title: d_ruroman
+300 - vassal: d_ruroman - Title given to 1010017 - Primary title: k_rugoman
+300 - sub vassal: d_ruroman - Title given to 1010017 - Primary title: k_rugoman
+300 - Holder (1010017) has gained d_ruroman
+300 - vassal: d_ruroman - Too many dukes, made direct title into vassal of k_rugoman
+300 - sub vassal: d_ruroman - Too many dukes, made direct title into vassal of k_rugoman
+300 - Holder 1010770 - Primary title: k_rugoman has lost the title: d_ruroman
+300 - vassal: d_ruroman - Title given to 1010770
+300 - sub vassal: d_ruroman - Title given to 1010770
+300 - vassal: d_lamemme - Holder 1010771 - Primary title: d_lamemme has lost the title: c_noseser
+300 - sub vassal: d_lamemme - Holder 1010771 - Primary title: d_lamemme has lost the title: c_noseser
+300 - vassal: d_lamemme - Gained vassal: c_noseser
+300 - sub vassal: d_lamemme - Gained vassal: c_noseser
+300 - vassal: d_lamemme - Holder 1010772 - Primary title: d_lamemme has lost the title: c_nameike
+300 - sub vassal: d_lamemme - Holder 1010772 - Primary title: d_lamemme has lost the title: c_nameike
+300 - sub vassal: c_nameike - Title given to 1010772
+301 - vassal: d_lamemme - Holder 1009436 - Primary title: d_lamemme has lost the title: d_lamemme
+301 - sub vassal: d_lamemme - Holder 1009436 - Primary title: d_lamemme has lost the title: d_lamemme
+301 - vassal: d_lamemme - Title given to 1009436
+301 - sub vassal: d_lamemme - Title given to 1009436
+301 - vassal: d_qorana - Holder 1009436 - Primary title: d_qorana has lost the title: d_qorana
+301 - sub vassal: d_qorana - Holder 1009436 - Primary title: d_qorana has lost the title: d_qorana
+301 - vassal: d_qorana - Title given to 1009436 - Primary title: d_lamemme
+301 - sub vassal: d_qorana - Title given to 1009436 - Primary title: d_lamemme
+301 - vassal: d_lamemme - Holder (1009436) has gained d_qorana
+301 - sub vassal: d_lamemme - Holder (1009436) has gained d_qorana
+301 - vassal: d_lamemme - Holder (1009436) has gained c_kawurd
+301 - sub vassal: d_lamemme - Holder (1009436) has gained c_kawurd
+301 - vassal: d_lamemme - Holder (1009436) has gained c_etameike
+301 - sub vassal: d_lamemme - Holder (1009436) has gained c_etameike
+301 - vassal: d_lamemme - Holder (1009436) has gained c_sanows
+301 - sub vassal: d_lamemme - Holder (1009436) has gained c_sanows
+301 - vassal: d_lamemme - Holder (1009436) has gained c_evanows
+301 - sub vassal: d_lamemme - Holder (1009436) has gained c_evanows
+301 - vassal: d_lamemme - Holder (1009436) has gained c_tiolvi
+301 - sub vassal: d_lamemme - Holder (1009436) has gained c_tiolvi
+301 - vassal: d_rorila - Captured byd_tegilip in minor war
+301 - sub vassal: d_rorila - Captured byd_tegilip in minor war
+301 - vassal: d_rorila - Made independent
+301 - sub vassal: d_rorila - Made independent
+301 - Holder 1009584 - Primary title: k_rugoman has lost the title: d_rorila
+301 - sub vassal: c_atomiu - Setting to vassal of k_rugoman in Validate Realm
+301 - sub vassal: c_kacedas - Setting to vassal of k_rugoman in Validate Realm
+301 - sub vassal: c_sazanu - Setting to vassal of k_rugoman in Validate Realm
+301 - Gained vassal: c_sazanu
+301 - Gained vassal: c_kacedas
+301 - Gained vassal: c_atomiu
+301 - sub vassal: c_bugila - Made vassal of neighbour (k_doredas) due to being a seperate island
+301 - vassal: d_qorana - Lost vassal: c_bugila
+301 - sub vassal: d_qorana - Lost vassal: c_bugila
+301 - vassal: d_warandi - Made vassal of neighbour (k_doredas) due to being a seperate island
+301 - sub vassal: d_warandi - Made vassal of neighbour (k_doredas) due to being a seperate island
+301 - Lost vassal: d_warandi
+301 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+301 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+301 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+301 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+301 - sub vassal: c_lazows - Made vassal of neighbour (d_tegilip) due to being a seperate island
+301 - vassal: d_winune - Lost vassal: c_lazows
+301 - sub vassal: d_winune - Lost vassal: c_lazows
+302 - vassal: d_winune - Destroyed due to flagged problem
+302 - sub vassal: d_winune - Destroyed due to flagged problem
+302 - vassal: d_winune - Made independent
+302 - sub vassal: d_winune - Made independent
+302 - Gained vassal: c_tazana
+302 - vassal: c_tazana - Given to neighbour holder of k_rugoman
+302 - sub vassal: c_tazana - Given to neighbour holder of k_rugoman
+302 - vassal: c_tazana - Holder 1010017 - Primary title: c_tazana has lost the title: c_tazana
+302 - sub vassal: c_tazana - Holder 1010017 - Primary title: c_tazana has lost the title: c_tazana
+302 - vassal: c_tazana - Title given to 1010017 - Primary title: k_rugoman
+302 - sub vassal: c_tazana - Title given to 1010017 - Primary title: k_rugoman
+302 - Holder (1010017) has gained c_tazana
+302 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+302 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+302 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+302 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+303 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+303 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+303 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+303 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+304 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+304 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+304 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+304 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+305 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+305 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+305 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+305 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+306 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+306 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+306 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+306 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+307 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+307 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+307 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+307 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+308 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+308 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+308 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+308 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+309 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+309 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+309 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+309 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+310 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+310 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+310 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+310 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+311 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+311 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+311 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+311 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+312 - Gained vassal: c_ninozel
+312 - vassal: c_ninozel - Given to neighbour holder of k_rugoman
+312 - sub vassal: c_ninozel - Given to neighbour holder of k_rugoman
+312 - vassal: c_ninozel - Holder 1010017 - Primary title: c_ninozel has lost the title: c_ninozel
+312 - sub vassal: c_ninozel - Holder 1010017 - Primary title: c_ninozel has lost the title: c_ninozel
+312 - vassal: c_ninozel - Title given to 1010017 - Primary title: k_rugoman
+312 - sub vassal: c_ninozel - Title given to 1010017 - Primary title: k_rugoman
+312 - Holder (1010017) has gained c_ninozel
+312 - Gained vassal: c_kalila
+312 - vassal: c_kalila - Given to neighbour holder of k_rugoman
+312 - sub vassal: c_kalila - Given to neighbour holder of k_rugoman
+312 - vassal: c_kalila - Holder 1010017 - Primary title: c_kalila has lost the title: c_kalila
+312 - sub vassal: c_kalila - Holder 1010017 - Primary title: c_kalila has lost the title: c_kalila
+312 - vassal: c_kalila - Title given to 1010017 - Primary title: k_rugoman
+312 - sub vassal: c_kalila - Title given to 1010017 - Primary title: k_rugoman
+312 - Holder (1010017) has gained c_kalila
+312 - Holder 1011809 - Primary title: k_rugoman has lost the title: c_tazana
+312 - vassal: c_tazana - Title given to 1011809
+312 - sub vassal: c_tazana - Title given to 1011809
+312 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+312 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+312 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+312 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+313 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+313 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+313 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+313 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+314 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+314 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+314 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+314 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+315 - vassal: d_lamemme - Holder (1009436) has gained d_kanune
+315 - sub vassal: d_lamemme - Holder (1009436) has gained d_kanune
+315 - Gained vassal: d_kanune
+315 - vassal: d_kanune - Made independent for title creation d_kanune for d_lamemme
+315 - sub vassal: d_kanune - Made independent for title creation d_kanune for d_lamemme
+315 - vassal: d_kanune - Made independent
+315 - sub vassal: d_kanune - Made independent
+315 - sub vassal: c_sanows - Given to 1012036 in HandleTitles - Too many duke titles
+315 - vassal: d_lamemme - Holder 1012036 - Primary title: d_lamemme has lost the title: c_sanows
+315 - sub vassal: d_lamemme - Holder 1012036 - Primary title: d_lamemme has lost the title: c_sanows
+315 - sub vassal: c_sanows - Title given to 1012036
+315 - vassal: d_lamemme - Holder 1010017 - Primary title: d_lamemme has lost the title: d_kanune
+315 - sub vassal: d_lamemme - Holder 1010017 - Primary title: d_lamemme has lost the title: d_kanune
+315 - Holder (1010017) has gained d_kanune
+315 - sub vassal: c_kawurd - Setting to vassal of d_lamemme in Validate Realm
+315 - sub vassal: c_etameike - Setting to vassal of d_lamemme in Validate Realm
+315 - sub vassal: c_evanows - Setting to vassal of d_lamemme in Validate Realm
+315 - sub vassal: c_tiolvi - Setting to vassal of d_lamemme in Validate Realm
+315 - vassal: d_lamemme - Gained vassal: c_tiolvi
+315 - sub vassal: d_lamemme - Gained vassal: c_tiolvi
+315 - vassal: d_lamemme - Gained vassal: c_evanows
+315 - sub vassal: d_lamemme - Gained vassal: c_evanows
+315 - vassal: d_lamemme - Gained vassal: c_etameike
+315 - sub vassal: d_lamemme - Gained vassal: c_etameike
+315 - vassal: d_lamemme - Gained vassal: c_kawurd
+315 - sub vassal: d_lamemme - Gained vassal: c_kawurd
+315 - Gained vassal: d_kanune
+315 - Holder 1012037 - Primary title: k_rugoman has lost the title: d_kanune
+315 - vassal: d_kanune - Title given to 1012037
+315 - sub vassal: d_kanune - Title given to 1012037
+315 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+315 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+315 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+315 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+316 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+316 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+316 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+316 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+317 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+317 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+317 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+317 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+318 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+318 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+318 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+318 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+319 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+319 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+319 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+319 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+320 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+320 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+320 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+320 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+321 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+321 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+321 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+321 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+322 - vassal: d_lamemme - Holder 1011145 - Primary title: d_lamemme has lost the title: d_lamemme
+322 - sub vassal: d_lamemme - Holder 1011145 - Primary title: d_lamemme has lost the title: d_lamemme
+322 - vassal: d_lamemme - Title given to 1011145
+322 - sub vassal: d_lamemme - Title given to 1011145
+322 - sub vassal: c_tiolvi - Setting to vassal of d_qorana in Validate Realm
+322 - vassal: d_lamemme - Lost vassal: c_tiolvi
+322 - sub vassal: d_lamemme - Lost vassal: c_tiolvi
+322 - sub vassal: c_evanows - Setting to vassal of d_qorana in Validate Realm
+322 - vassal: d_lamemme - Lost vassal: c_evanows
+322 - sub vassal: d_lamemme - Lost vassal: c_evanows
+322 - sub vassal: c_etameike - Setting to vassal of d_qorana in Validate Realm
+322 - vassal: d_lamemme - Lost vassal: c_etameike
+322 - sub vassal: d_lamemme - Lost vassal: c_etameike
+322 - sub vassal: c_kawurd - Setting to vassal of d_qorana in Validate Realm
+322 - vassal: d_lamemme - Lost vassal: c_kawurd
+322 - sub vassal: d_lamemme - Lost vassal: c_kawurd
+322 - vassal: d_qorana - Gained vassal: c_kawurd
+322 - sub vassal: d_qorana - Gained vassal: c_kawurd
+322 - vassal: d_qorana - Gained vassal: c_etameike
+322 - sub vassal: d_qorana - Gained vassal: c_etameike
+322 - vassal: d_qorana - Gained vassal: c_evanows
+322 - sub vassal: d_qorana - Gained vassal: c_evanows
+322 - vassal: d_qorana - Gained vassal: c_tiolvi
+322 - sub vassal: d_qorana - Gained vassal: c_tiolvi
+322 - vassal: d_qorana - Holder 1011145 - Primary title: d_qorana has lost the title: d_qorana
+322 - sub vassal: d_qorana - Holder 1011145 - Primary title: d_qorana has lost the title: d_qorana
+322 - vassal: d_qorana - Title given to 1011145 - Primary title: d_lamemme
+322 - sub vassal: d_qorana - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: d_lamemme - Holder (1011145) has gained d_qorana
+322 - sub vassal: d_lamemme - Holder (1011145) has gained d_qorana
+322 - sub vassal: c_tiolvi - Holder 1011145 - Primary title: c_tiolvi has lost the title: c_tiolvi
+322 - sub vassal: c_tiolvi - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: d_lamemme - Holder (1011145) has gained c_tiolvi
+322 - sub vassal: d_lamemme - Holder (1011145) has gained c_tiolvi
+322 - sub vassal: c_evanows - Holder 1011145 - Primary title: c_evanows has lost the title: c_evanows
+322 - sub vassal: c_evanows - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: d_lamemme - Holder (1011145) has gained c_evanows
+322 - sub vassal: d_lamemme - Holder (1011145) has gained c_evanows
+322 - sub vassal: c_etameike - Holder 1011145 - Primary title: c_etameike has lost the title: c_etameike
+322 - sub vassal: c_etameike - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: d_lamemme - Holder (1011145) has gained c_etameike
+322 - sub vassal: d_lamemme - Holder (1011145) has gained c_etameike
+322 - sub vassal: c_kawurd - Holder 1011145 - Primary title: c_kawurd has lost the title: c_kawurd
+322 - sub vassal: c_kawurd - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: d_lamemme - Holder (1011145) has gained c_kawurd
+322 - sub vassal: d_lamemme - Holder (1011145) has gained c_kawurd
+322 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+322 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+322 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+322 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+323 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+323 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+323 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+323 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+324 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+324 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+324 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+324 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+325 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+325 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+325 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+325 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+326 - vassal: d_ruroman - Holder 1010776 - Primary title: d_ruroman has lost the title: d_ruroman
+326 - sub vassal: d_ruroman - Holder 1010776 - Primary title: d_ruroman has lost the title: d_ruroman
+326 - vassal: d_ruroman - Title given to 1010776
+326 - sub vassal: d_ruroman - Title given to 1010776
+326 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+326 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+326 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+326 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+327 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+327 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+327 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+327 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+328 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+328 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+328 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+328 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+329 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+329 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+329 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+329 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+330 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+330 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+330 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+330 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+331 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+331 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+331 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+331 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+332 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+332 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+332 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+332 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+333 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+333 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+333 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+333 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+334 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+334 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+334 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+334 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+335 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+335 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+335 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+335 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+336 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+336 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+336 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+336 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+337 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+337 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+337 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+337 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+338 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+338 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+338 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+338 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+339 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+339 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+339 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+339 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+340 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+340 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+340 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+340 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+341 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+341 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+341 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+341 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+342 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+342 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+342 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+342 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+343 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+343 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+343 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+343 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+344 - vassal: d_ruroman - Holder 1013666 - Primary title: d_ruroman has lost the title: d_ruroman
+344 - sub vassal: d_ruroman - Holder 1013666 - Primary title: d_ruroman has lost the title: d_ruroman
+344 - vassal: d_ruroman - Title given to 1013666
+344 - sub vassal: d_ruroman - Title given to 1013666
+344 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+344 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+344 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+344 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+345 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+345 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+345 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+345 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+346 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+346 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+346 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+346 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+347 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+347 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+347 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+347 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+348 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+348 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+348 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+348 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+349 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+349 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+349 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+349 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+350 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+350 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+350 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+350 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+351 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+351 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+351 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+351 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+352 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+352 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+352 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+352 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+353 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+353 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+353 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+353 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+354 - vassal: d_ruroman - Holder 1012037 - Primary title: d_ruroman has lost the title: d_ruroman
+354 - sub vassal: d_ruroman - Holder 1012037 - Primary title: d_ruroman has lost the title: d_ruroman
+354 - vassal: d_ruroman - Title given to 1012037 - Primary title: d_kanune
+354 - sub vassal: d_ruroman - Title given to 1012037 - Primary title: d_kanune
+354 - vassal: d_kanune - Holder (1012037) has gained d_ruroman
+354 - sub vassal: d_kanune - Holder (1012037) has gained d_ruroman
+354 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+354 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+354 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+354 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+355 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+355 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+355 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+355 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+356 - vassal: d_lamemme - Holder 1012822 - Primary title: d_lamemme has lost the title: d_lamemme
+356 - sub vassal: d_lamemme - Holder 1012822 - Primary title: d_lamemme has lost the title: d_lamemme
+356 - vassal: d_lamemme - Title given to 1012822
+356 - sub vassal: d_lamemme - Title given to 1012822
+356 - vassal: d_qorana - Holder 1012822 - Primary title: d_qorana has lost the title: d_qorana
+356 - sub vassal: d_qorana - Holder 1012822 - Primary title: d_qorana has lost the title: d_qorana
+356 - vassal: d_qorana - Title given to 1012822 - Primary title: d_lamemme
+356 - sub vassal: d_qorana - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: d_lamemme - Holder (1012822) has gained d_qorana
+356 - sub vassal: d_lamemme - Holder (1012822) has gained d_qorana
+356 - sub vassal: c_kawurd - Holder 1012822 - Primary title: c_kawurd has lost the title: c_kawurd
+356 - sub vassal: c_kawurd - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: d_lamemme - Holder (1012822) has gained c_kawurd
+356 - sub vassal: d_lamemme - Holder (1012822) has gained c_kawurd
+356 - sub vassal: c_etameike - Holder 1012822 - Primary title: c_etameike has lost the title: c_etameike
+356 - sub vassal: c_etameike - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: d_lamemme - Holder (1012822) has gained c_etameike
+356 - sub vassal: d_lamemme - Holder (1012822) has gained c_etameike
+356 - sub vassal: c_evanows - Holder 1012822 - Primary title: c_evanows has lost the title: c_evanows
+356 - sub vassal: c_evanows - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: d_lamemme - Holder (1012822) has gained c_evanows
+356 - sub vassal: d_lamemme - Holder (1012822) has gained c_evanows
+356 - sub vassal: c_tiolvi - Holder 1012822 - Primary title: c_tiolvi has lost the title: c_tiolvi
+356 - sub vassal: c_tiolvi - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: d_lamemme - Holder (1012822) has gained c_tiolvi
+356 - sub vassal: d_lamemme - Holder (1012822) has gained c_tiolvi
+356 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+356 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+356 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+356 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+357 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+357 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+357 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+357 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+357 - Holder 1010095 - Primary title: k_rugoman has lost the title: k_rugoman
+357 - Title given to 1010095
+357 - vassal: c_atomiu - Holder 1010095 - Primary title: c_atomiu has lost the title: c_atomiu
+357 - sub vassal: c_atomiu - Holder 1010095 - Primary title: c_atomiu has lost the title: c_atomiu
+357 - vassal: c_atomiu - Title given to 1010095 - Primary title: k_rugoman
+357 - sub vassal: c_atomiu - Title given to 1010095 - Primary title: k_rugoman
+357 - Holder (1010095) has gained c_atomiu
+357 - vassal: c_kacedas - Holder 1010095 - Primary title: c_kacedas has lost the title: c_kacedas
+357 - sub vassal: c_kacedas - Holder 1010095 - Primary title: c_kacedas has lost the title: c_kacedas
+357 - vassal: c_kacedas - Title given to 1010095 - Primary title: k_rugoman
+357 - sub vassal: c_kacedas - Title given to 1010095 - Primary title: k_rugoman
+357 - Holder (1010095) has gained c_kacedas
+357 - vassal: c_sazanu - Holder 1010095 - Primary title: c_sazanu has lost the title: c_sazanu
+357 - sub vassal: c_sazanu - Holder 1010095 - Primary title: c_sazanu has lost the title: c_sazanu
+357 - vassal: c_sazanu - Title given to 1010095 - Primary title: k_rugoman
+357 - sub vassal: c_sazanu - Title given to 1010095 - Primary title: k_rugoman
+357 - Holder (1010095) has gained c_sazanu
+357 - vassal: c_ninozel - Holder 1010095 - Primary title: c_ninozel has lost the title: c_ninozel
+357 - sub vassal: c_ninozel - Holder 1010095 - Primary title: c_ninozel has lost the title: c_ninozel
+357 - vassal: c_ninozel - Title given to 1010095 - Primary title: k_rugoman
+357 - sub vassal: c_ninozel - Title given to 1010095 - Primary title: k_rugoman
+357 - Holder (1010095) has gained c_ninozel
+357 - vassal: c_kalila - Holder 1010095 - Primary title: c_kalila has lost the title: c_kalila
+357 - sub vassal: c_kalila - Holder 1010095 - Primary title: c_kalila has lost the title: c_kalila
+357 - vassal: c_kalila - Title given to 1010095 - Primary title: k_rugoman
+357 - sub vassal: c_kalila - Title given to 1010095 - Primary title: k_rugoman
+357 - Holder (1010095) has gained c_kalila
+358 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+358 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+358 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+358 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+359 - vassal: d_ruroman - Holder 1012455 - Primary title: d_ruroman has lost the title: d_kanune
+359 - sub vassal: d_ruroman - Holder 1012455 - Primary title: d_ruroman has lost the title: d_kanune
+359 - vassal: d_kanune - Title given to 1012455
+359 - sub vassal: d_kanune - Title given to 1012455
+359 - vassal: d_ruroman - Holder 1012455 - Primary title: d_ruroman has lost the title: d_ruroman
+359 - sub vassal: d_ruroman - Holder 1012455 - Primary title: d_ruroman has lost the title: d_ruroman
+359 - vassal: d_ruroman - Title given to 1012455 - Primary title: d_kanune
+359 - sub vassal: d_ruroman - Title given to 1012455 - Primary title: d_kanune
+359 - vassal: d_kanune - Holder (1012455) has gained d_ruroman
+359 - sub vassal: d_kanune - Holder (1012455) has gained d_ruroman
+359 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+359 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+359 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+359 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+360 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+360 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+360 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+360 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+361 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+361 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+361 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+361 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+362 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+362 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+362 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+362 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+362 - Holder 1015254 - Primary title: k_rugoman has lost the title: k_rugoman
+362 - Title given to 1015254
+362 - vassal: c_kalila - Holder 1015254 - Primary title: c_kalila has lost the title: c_kalila
+362 - sub vassal: c_kalila - Holder 1015254 - Primary title: c_kalila has lost the title: c_kalila
+362 - vassal: c_kalila - Title given to 1015254 - Primary title: k_rugoman
+362 - sub vassal: c_kalila - Title given to 1015254 - Primary title: k_rugoman
+362 - Holder (1015254) has gained c_kalila
+362 - vassal: c_ninozel - Holder 1015254 - Primary title: c_ninozel has lost the title: c_ninozel
+362 - sub vassal: c_ninozel - Holder 1015254 - Primary title: c_ninozel has lost the title: c_ninozel
+362 - vassal: c_ninozel - Title given to 1015254 - Primary title: k_rugoman
+362 - sub vassal: c_ninozel - Title given to 1015254 - Primary title: k_rugoman
+362 - Holder (1015254) has gained c_ninozel
+362 - vassal: c_sazanu - Holder 1015254 - Primary title: c_sazanu has lost the title: c_sazanu
+362 - sub vassal: c_sazanu - Holder 1015254 - Primary title: c_sazanu has lost the title: c_sazanu
+362 - vassal: c_sazanu - Title given to 1015254 - Primary title: k_rugoman
+362 - sub vassal: c_sazanu - Title given to 1015254 - Primary title: k_rugoman
+362 - Holder (1015254) has gained c_sazanu
+362 - vassal: c_kacedas - Holder 1015254 - Primary title: c_kacedas has lost the title: c_kacedas
+362 - sub vassal: c_kacedas - Holder 1015254 - Primary title: c_kacedas has lost the title: c_kacedas
+362 - vassal: c_kacedas - Title given to 1015254 - Primary title: k_rugoman
+362 - sub vassal: c_kacedas - Title given to 1015254 - Primary title: k_rugoman
+362 - Holder (1015254) has gained c_kacedas
+362 - vassal: c_atomiu - Holder 1015254 - Primary title: c_atomiu has lost the title: c_atomiu
+362 - sub vassal: c_atomiu - Holder 1015254 - Primary title: c_atomiu has lost the title: c_atomiu
+362 - vassal: c_atomiu - Title given to 1015254 - Primary title: k_rugoman
+362 - sub vassal: c_atomiu - Title given to 1015254 - Primary title: k_rugoman
+362 - Holder (1015254) has gained c_atomiu
+363 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+363 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+363 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+363 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+363 - Holder 1015543 - Primary title: k_rugoman has lost the title: k_rugoman
+363 - Title given to 1015543
+363 - vassal: c_kalila - Holder 1015543 - Primary title: c_kalila has lost the title: c_kalila
+363 - sub vassal: c_kalila - Holder 1015543 - Primary title: c_kalila has lost the title: c_kalila
+363 - vassal: c_kalila - Title given to 1015543 - Primary title: k_rugoman
+363 - sub vassal: c_kalila - Title given to 1015543 - Primary title: k_rugoman
+363 - Holder (1015543) has gained c_kalila
+363 - vassal: c_ninozel - Holder 1015543 - Primary title: c_ninozel has lost the title: c_ninozel
+363 - sub vassal: c_ninozel - Holder 1015543 - Primary title: c_ninozel has lost the title: c_ninozel
+363 - vassal: c_ninozel - Title given to 1015543 - Primary title: k_rugoman
+363 - sub vassal: c_ninozel - Title given to 1015543 - Primary title: k_rugoman
+363 - Holder (1015543) has gained c_ninozel
+363 - vassal: c_sazanu - Holder 1015543 - Primary title: c_sazanu has lost the title: c_sazanu
+363 - sub vassal: c_sazanu - Holder 1015543 - Primary title: c_sazanu has lost the title: c_sazanu
+363 - vassal: c_sazanu - Title given to 1015543 - Primary title: k_rugoman
+363 - sub vassal: c_sazanu - Title given to 1015543 - Primary title: k_rugoman
+363 - Holder (1015543) has gained c_sazanu
+363 - vassal: c_kacedas - Holder 1015543 - Primary title: c_kacedas has lost the title: c_kacedas
+363 - sub vassal: c_kacedas - Holder 1015543 - Primary title: c_kacedas has lost the title: c_kacedas
+363 - vassal: c_kacedas - Title given to 1015543 - Primary title: k_rugoman
+363 - sub vassal: c_kacedas - Title given to 1015543 - Primary title: k_rugoman
+363 - Holder (1015543) has gained c_kacedas
+363 - vassal: c_atomiu - Holder 1015543 - Primary title: c_atomiu has lost the title: c_atomiu
+363 - sub vassal: c_atomiu - Holder 1015543 - Primary title: c_atomiu has lost the title: c_atomiu
+363 - vassal: c_atomiu - Title given to 1015543 - Primary title: k_rugoman
+363 - sub vassal: c_atomiu - Title given to 1015543 - Primary title: k_rugoman
+363 - Holder (1015543) has gained c_atomiu
+364 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+364 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+364 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+364 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+365 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+365 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+365 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+365 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+366 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+366 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+366 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+366 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+367 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+367 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+367 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+367 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+368 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+368 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+368 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+368 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+369 - Gained vassal: c_relienke
+369 - vassal: c_relienke - Given to neighbour holder of k_rugoman
+369 - sub vassal: c_relienke - Given to neighbour holder of k_rugoman
+369 - vassal: c_relienke - Holder 1015543 - Primary title: c_relienke has lost the title: c_relienke
+369 - sub vassal: c_relienke - Holder 1015543 - Primary title: c_relienke has lost the title: c_relienke
+369 - vassal: c_relienke - Title given to 1015543 - Primary title: k_rugoman
+369 - sub vassal: c_relienke - Title given to 1015543 - Primary title: k_rugoman
+369 - Holder (1015543) has gained c_relienke
+369 - Holder 1011611 - Primary title: k_rugoman has lost the title: c_ninozel
+369 - vassal: c_ninozel - Title given to 1011611
+369 - sub vassal: c_ninozel - Title given to 1011611
+369 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+369 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+369 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+369 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+370 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+370 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+370 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+370 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+371 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+371 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+371 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+371 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+372 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+372 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+372 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+372 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+373 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+373 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+373 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+373 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+374 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+374 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+374 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+374 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+375 - vassal: d_lamemme - Holder (1012822) has gained d_naradas
+375 - sub vassal: d_lamemme - Holder (1012822) has gained d_naradas
+375 - Gained vassal: d_naradas
+375 - vassal: d_naradas - Made independent for title creation d_naradas for d_lamemme
+375 - sub vassal: d_naradas - Made independent for title creation d_naradas for d_lamemme
+375 - vassal: d_naradas - Made independent
+375 - sub vassal: d_naradas - Made independent
+375 - sub vassal: c_tiolvi - Set liege on title creation d_naradas
+375 - vassal: d_qorana - Lost vassal: c_tiolvi
+375 - sub vassal: d_qorana - Lost vassal: c_tiolvi
+375 - sub vassal: c_evanows - Set liege on title creation d_naradas
+375 - vassal: d_qorana - Lost vassal: c_evanows
+375 - sub vassal: d_qorana - Lost vassal: c_evanows
+375 - sub vassal: c_etameike - Set liege on title creation d_naradas
+375 - vassal: d_qorana - Lost vassal: c_etameike
+375 - sub vassal: d_qorana - Lost vassal: c_etameike
+375 - sub vassal: c_kawurd - Set liege on title creation d_naradas
+375 - vassal: d_qorana - Lost vassal: c_kawurd
+375 - sub vassal: d_qorana - Lost vassal: c_kawurd
+375 - sub vassal: c_kawurd - Setting independent due to liege destruction
+375 - sub vassal: c_kawurd - Made independent
+375 - sub vassal: c_etameike - Setting independent due to liege destruction
+375 - sub vassal: c_etameike - Made independent
+375 - sub vassal: c_evanows - Setting independent due to liege destruction
+375 - sub vassal: c_evanows - Made independent
+375 - sub vassal: c_tiolvi - Setting independent due to liege destruction
+375 - sub vassal: c_tiolvi - Made independent
+375 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+375 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+375 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+375 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+376 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+376 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+376 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+376 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+377 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+377 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+377 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+377 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+378 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+378 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+378 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+378 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+379 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+379 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+379 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+379 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+380 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+380 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+380 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+380 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+381 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+381 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+381 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+381 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+382 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+382 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+382 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+382 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+382 - Holder 1015683 - Primary title: k_rugoman has lost the title: k_rugoman
+382 - Title given to 1015683
+382 - vassal: c_relienke - Holder 1015683 - Primary title: c_relienke has lost the title: c_relienke
+382 - sub vassal: c_relienke - Holder 1015683 - Primary title: c_relienke has lost the title: c_relienke
+382 - vassal: c_relienke - Title given to 1015683 - Primary title: k_rugoman
+382 - sub vassal: c_relienke - Title given to 1015683 - Primary title: k_rugoman
+382 - Holder (1015683) has gained c_relienke
+382 - vassal: c_atomiu - Holder 1015683 - Primary title: c_atomiu has lost the title: c_atomiu
+382 - sub vassal: c_atomiu - Holder 1015683 - Primary title: c_atomiu has lost the title: c_atomiu
+382 - vassal: c_atomiu - Title given to 1015683 - Primary title: k_rugoman
+382 - sub vassal: c_atomiu - Title given to 1015683 - Primary title: k_rugoman
+382 - Holder (1015683) has gained c_atomiu
+382 - vassal: c_kacedas - Holder 1015683 - Primary title: c_kacedas has lost the title: c_kacedas
+382 - sub vassal: c_kacedas - Holder 1015683 - Primary title: c_kacedas has lost the title: c_kacedas
+382 - vassal: c_kacedas - Title given to 1015683 - Primary title: k_rugoman
+382 - sub vassal: c_kacedas - Title given to 1015683 - Primary title: k_rugoman
+382 - Holder (1015683) has gained c_kacedas
+382 - vassal: c_sazanu - Holder 1015683 - Primary title: c_sazanu has lost the title: c_sazanu
+382 - sub vassal: c_sazanu - Holder 1015683 - Primary title: c_sazanu has lost the title: c_sazanu
+382 - vassal: c_sazanu - Title given to 1015683 - Primary title: k_rugoman
+382 - sub vassal: c_sazanu - Title given to 1015683 - Primary title: k_rugoman
+382 - Holder (1015683) has gained c_sazanu
+382 - vassal: c_kalila - Holder 1015683 - Primary title: c_kalila has lost the title: c_kalila
+382 - sub vassal: c_kalila - Holder 1015683 - Primary title: c_kalila has lost the title: c_kalila
+382 - vassal: c_kalila - Title given to 1015683 - Primary title: k_rugoman
+382 - sub vassal: c_kalila - Title given to 1015683 - Primary title: k_rugoman
+382 - Holder (1015683) has gained c_kalila
+383 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+383 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+383 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+383 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+384 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+384 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+384 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+384 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+385 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+385 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+385 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+385 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+386 - vassal: d_lamemme - Holder 1016141 - Primary title: d_lamemme has lost the title: d_lamemme
+386 - sub vassal: d_lamemme - Holder 1016141 - Primary title: d_lamemme has lost the title: d_lamemme
+386 - vassal: d_lamemme - Title given to 1016141
+386 - sub vassal: d_lamemme - Title given to 1016141
+386 - vassal: d_qorana - Holder 1016141 - Primary title: d_qorana has lost the title: d_qorana
+386 - sub vassal: d_qorana - Holder 1016141 - Primary title: d_qorana has lost the title: d_qorana
+386 - vassal: d_qorana - Title given to 1016141 - Primary title: d_lamemme
+386 - sub vassal: d_qorana - Title given to 1016141 - Primary title: d_lamemme
+386 - vassal: d_lamemme - Holder (1016141) has gained d_qorana
+386 - sub vassal: d_lamemme - Holder (1016141) has gained d_qorana
+386 - vassal: d_lamemme - Holder (1016141) has gained c_kawurd
+386 - sub vassal: d_lamemme - Holder (1016141) has gained c_kawurd
+386 - vassal: d_lamemme - Holder (1016141) has gained c_etameike
+386 - sub vassal: d_lamemme - Holder (1016141) has gained c_etameike
+386 - vassal: d_lamemme - Holder (1016141) has gained c_evanows
+386 - sub vassal: d_lamemme - Holder (1016141) has gained c_evanows
+386 - vassal: d_lamemme - Holder (1016141) has gained c_tiolvi
+386 - sub vassal: d_lamemme - Holder (1016141) has gained c_tiolvi
+386 - vassal: d_ruroman - Holder 1015810 - Primary title: d_ruroman has lost the title: d_ruroman
+386 - sub vassal: d_ruroman - Holder 1015810 - Primary title: d_ruroman has lost the title: d_ruroman
+386 - vassal: d_ruroman - Title given to 1015810
+386 - sub vassal: d_ruroman - Title given to 1015810
+386 - vassal: d_kanune - Holder 1015810 - Primary title: d_kanune has lost the title: d_kanune
+386 - sub vassal: d_kanune - Holder 1015810 - Primary title: d_kanune has lost the title: d_kanune
+386 - vassal: d_kanune - Title given to 1015810 - Primary title: d_ruroman
+386 - sub vassal: d_kanune - Title given to 1015810 - Primary title: d_ruroman
+386 - vassal: d_ruroman - Holder (1015810) has gained d_kanune
+386 - sub vassal: d_ruroman - Holder (1015810) has gained d_kanune
+386 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+386 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+386 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+386 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+387 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+387 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+387 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+387 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+388 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+388 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+388 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+388 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+389 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+389 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+389 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+389 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+390 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+390 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+390 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+390 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+391 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+391 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+391 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+391 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+392 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+392 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+392 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+392 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+393 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+393 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+393 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+393 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+394 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+394 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+394 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+394 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+395 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+395 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+395 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+395 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+396 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+396 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+396 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+396 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+397 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+397 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+397 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+397 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+398 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+398 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+398 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+398 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+399 - vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+399 - sub vassal: c_atomiu - Made vassal of neighbour (k_doredas) due to being a seperate island
+399 - vassal: c_atomiu - Given to neighbour holder of k_doredas
+399 - sub vassal: c_atomiu - Given to neighbour holder of k_doredas
+400 - sub vassal: c_dadeser - Holder 1010771 - Primary title: c_dadeser has lost the title: c_dadeser
+400 - sub vassal: c_dadeser - Title given to 1010771 - Primary title: c_noseser
+400 - sub vassal: c_noseser - Holder (1010771) has gained c_dadeser
+400 - sub vassal: c_wozel - Holder 1016141 - Primary title: c_wozel has lost the title: c_wozel
+400 - sub vassal: c_wozel - Title given to 1016141 - Primary title: d_lamemme
+400 - vassal: d_lamemme - Holder (1016141) has gained c_wozel
+400 - sub vassal: d_lamemme - Holder (1016141) has gained c_wozel
+400 - vassal: c_karana - Holder 1016141 - Primary title: c_karana has lost the title: c_karana
+400 - sub vassal: c_karana - Holder 1016141 - Primary title: c_karana has lost the title: c_karana
+400 - vassal: c_karana - Title given to 1016141 - Primary title: d_lamemme
+400 - sub vassal: c_karana - Title given to 1016141 - Primary title: d_lamemme
+400 - vassal: d_lamemme - Holder (1016141) has gained c_karana
+400 - sub vassal: d_lamemme - Holder (1016141) has gained c_karana
+400 - vassal: c_karana - Setting to vassal of d_lamemme in Validate Realm
+400 - sub vassal: c_karana - Setting to vassal of d_lamemme in Validate Realm
+400 - Lost vassal: c_karana
+400 - vassal: d_lamemme - Gained vassal: c_karana
+400 - sub vassal: d_lamemme - Gained vassal: c_karana
+400 - sub vassal: c_rorandi - Holder 1015810 - Primary title: c_rorandi has lost the title: c_rorandi
+400 - sub vassal: c_rorandi - Title given to 1015810 - Primary title: d_ruroman
+400 - vassal: d_ruroman - Holder (1015810) has gained c_rorandi
+400 - sub vassal: d_ruroman - Holder (1015810) has gained c_rorandi
+400 - sub vassal: c_dadeser - Holder 1016141 - Primary title: c_dadeser has lost the title: c_noseser
+400 - sub vassal: c_noseser - Title given to 1016141 - Primary title: d_lamemme
+400 - vassal: d_lamemme - Holder (1016141) has gained c_noseser
+400 - sub vassal: d_lamemme - Holder (1016141) has gained c_noseser
+400 - sub vassal: c_dadeser - Holder 1016141 - Primary title: c_dadeser has lost the title: c_dadeser
+400 - sub vassal: c_dadeser - Title given to 1016141 - Primary title: d_lamemme
+400 - vassal: d_lamemme - Holder (1016141) has gained c_dadeser
+400 - sub vassal: d_lamemme - Holder (1016141) has gained c_dadeser
+400 - sub vassal: c_nameike - Holder 1016141 - Primary title: c_nameike has lost the title: c_nameike
+400 - sub vassal: c_nameike - Title given to 1016141 - Primary title: d_lamemme
+400 - vassal: d_lamemme - Holder (1016141) has gained c_nameike
+400 - sub vassal: d_lamemme - Holder (1016141) has gained c_nameike
+400 - vassal: c_tazana - Holder 1015683 - Primary title: c_tazana has lost the title: c_tazana
+400 - sub vassal: c_tazana - Holder 1015683 - Primary title: c_tazana has lost the title: c_tazana
+400 - vassal: c_tazana - Title given to 1015683 - Primary title: k_rugoman
+400 - sub vassal: c_tazana - Title given to 1015683 - Primary title: k_rugoman
+400 - Holder (1015683) has gained c_tazana
+400 - sub vassal: c_sanows - Holder 1015810 - Primary title: c_sanows has lost the title: c_sanows
+400 - sub vassal: c_sanows - Title given to 1015810 - Primary title: d_ruroman
+400 - vassal: d_ruroman - Holder (1015810) has gained c_sanows
+400 - sub vassal: d_ruroman - Holder (1015810) has gained c_sanows

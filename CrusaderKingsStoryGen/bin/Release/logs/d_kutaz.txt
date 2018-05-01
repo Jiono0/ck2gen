@@ -1,0 +1,123 @@
+200 - Title given to 1001144
+200 - vassal: c_nonalter - Given to 1001147 via AddCharacterForTitle
+200 - sub vassal: c_nonalter - Given to 1001147 via AddCharacterForTitle
+200 - vassal: c_nonalter - Holder 1001147 - Primary title: c_nonalter has lost the title: c_nonalter
+200 - sub vassal: c_nonalter - Holder 1001147 - Primary title: c_nonalter has lost the title: c_nonalter
+200 - vassal: c_nonalter - Title given to 1001147
+200 - sub vassal: c_nonalter - Title given to 1001147
+200 - vassal: c_ebarona - Holder 1001144 - Primary title: c_ebarona has lost the title: c_ebarona
+200 - sub vassal: c_ebarona - Holder 1001144 - Primary title: c_ebarona has lost the title: c_ebarona
+200 - vassal: c_ebarona - Title given to 1001144 - Primary title: d_kutaz
+200 - sub vassal: c_ebarona - Title given to 1001144 - Primary title: d_kutaz
+200 - Holder (1001144) has gained c_ebarona
+200 - vassal: c_nonalter - Holder 1001144 - Primary title: c_nonalter has lost the title: c_nonalter
+200 - sub vassal: c_nonalter - Holder 1001144 - Primary title: c_nonalter has lost the title: c_nonalter
+200 - vassal: c_nonalter - Title given to 1001144 - Primary title: d_kutaz
+200 - sub vassal: c_nonalter - Title given to 1001144 - Primary title: d_kutaz
+200 - Holder (1001144) has gained c_nonalter
+200 - vassal: c_asozoppi - Holder 1001144 - Primary title: c_asozoppi has lost the title: c_asozoppi
+200 - sub vassal: c_asozoppi - Holder 1001144 - Primary title: c_asozoppi has lost the title: c_asozoppi
+200 - vassal: c_asozoppi - Title given to 1001144 - Primary title: d_kutaz
+200 - sub vassal: c_asozoppi - Title given to 1001144 - Primary title: d_kutaz
+200 - Holder (1001144) has gained c_asozoppi
+207 - Holder 1002388 - Primary title: d_kutaz has lost the title: d_kutaz
+207 - Title given to 1002388
+207 - vassal: c_asozoppi - Holder 1002388 - Primary title: c_asozoppi has lost the title: c_asozoppi
+207 - vassal: c_asozoppi - Title given to 1002388 - Primary title: d_kutaz
+207 - Holder (1002388) has gained c_asozoppi
+207 - vassal: c_nonalter - Holder 1002388 - Primary title: c_nonalter has lost the title: c_nonalter
+207 - vassal: c_nonalter - Title given to 1002388 - Primary title: d_kutaz
+207 - Holder (1002388) has gained c_nonalter
+207 - vassal: c_ebarona - Holder 1002388 - Primary title: c_ebarona has lost the title: c_ebarona
+207 - vassal: c_ebarona - Title given to 1002388 - Primary title: d_kutaz
+207 - Holder (1002388) has gained c_ebarona
+215 - Holder 1001026 - Primary title: d_kutaz has lost the title: d_kutaz
+215 - Title given to 1001026 - Primary title: d_wenamon
+215 - vassal: c_asozoppi - Holder 1001026 - Primary title: c_asozoppi has lost the title: c_asozoppi
+215 - vassal: c_asozoppi - Title given to 1001026 - Primary title: d_wenamon
+215 - vassal: c_nonalter - Holder 1001026 - Primary title: c_nonalter has lost the title: c_nonalter
+215 - vassal: c_nonalter - Title given to 1001026 - Primary title: d_wenamon
+215 - vassal: c_ebarona - Holder 1001026 - Primary title: c_ebarona has lost the title: c_ebarona
+215 - vassal: c_ebarona - Title given to 1001026 - Primary title: d_wenamon
+216 - Holder 1003725 - Primary title: d_kutaz has lost the title: c_kenona
+216 - Holder 1003726 - Primary title: d_kutaz has lost the title: c_nonalp
+226 - Gained vassal: c_ruyakum
+226 - Gained vassal: c_lengo
+226 - Holder 1001014 - Primary title: d_kutaz has lost the title: d_kutaz
+226 - Title given to 1001014 - Primary title: k_bodalp
+226 - vassal: c_ebarona - Holder 1001014 - Primary title: c_ebarona has lost the title: c_ebarona
+226 - vassal: c_ebarona - Title given to 1001014 - Primary title: k_bodalp
+226 - vassal: c_nonalter - Holder 1001014 - Primary title: c_nonalter has lost the title: c_nonalter
+226 - vassal: c_nonalter - Title given to 1001014 - Primary title: k_bodalp
+226 - vassal: c_asozoppi - Holder 1001014 - Primary title: c_asozoppi has lost the title: c_asozoppi
+226 - vassal: c_asozoppi - Title given to 1001014 - Primary title: k_bodalp
+226 - vassal: c_lengo - Holder 1001014 - Primary title: c_lengo has lost the title: c_lengo
+226 - vassal: c_lengo - Title given to 1001014 - Primary title: k_bodalp
+226 - vassal: c_ruyakum - Holder 1001014 - Primary title: c_ruyakum has lost the title: c_ruyakum
+226 - vassal: c_ruyakum - Title given to 1001014 - Primary title: k_bodalp
+226 - vassal: c_nonalter - Given to 1004581 in HandleTitles - Too many duke titles
+226 - vassal: c_nonalter - Title given to 1004581
+226 - Title given to 1004581 - Primary title: c_nonalter
+226 - vassal: c_nonalter - Holder (1004581) has gained d_kutaz
+226 - vassal: c_ebarona - Setting to vassal of k_bodalp in Validate Realm
+226 - Lost vassal: c_ebarona
+226 - vassal: c_asozoppi - Setting to vassal of k_bodalp in Validate Realm
+226 - Lost vassal: c_asozoppi
+226 - vassal: c_lengo - Setting to vassal of k_bodalp in Validate Realm
+226 - Lost vassal: c_lengo
+226 - vassal: c_ruyakum - Setting to vassal of k_bodalp in Validate Realm
+226 - Lost vassal: c_ruyakum
+226 - Too many dukes, given to dejure: k_bodalp
+232 - Holder 1001038 - Primary title: d_kutaz has lost the title: d_kutaz
+232 - Title given to 1001038 - Primary title: d_lonona
+232 - vassal: c_nonalter - Holder 1001038 - Primary title: c_nonalter has lost the title: c_nonalter
+232 - vassal: c_nonalter - Title given to 1001038 - Primary title: d_lonona
+238 - Holder 1002377 - Primary title: d_kutaz has lost the title: d_lonona
+238 - Gained vassal: c_lagalp
+238 - Gained vassal: c_wodoppi
+238 - Holder 1002377 - Primary title: d_kutaz has lost the title: c_wodoppi
+238 - vassal: c_wodoppi - Title given to 1002377 - Primary title: d_lonona
+238 - vassal: c_wodoppi - Setting to vassal of d_lonona in Validate Realm
+238 - Lost vassal: c_wodoppi
+238 - Holder 1002377 - Primary title: d_kutaz has lost the title: c_lagalp
+238 - vassal: c_lagalp - Title given to 1002377 - Primary title: d_lonona
+238 - vassal: c_lagalp - Setting to vassal of d_lonona in Validate Realm
+238 - Lost vassal: c_lagalp
+238 - Holder 1002377 - Primary title: d_kutaz has lost the title: d_kutaz
+238 - Title given to 1002377 - Primary title: d_lonona
+238 - vassal: c_nonalter - Holder 1002377 - Primary title: c_nonalter has lost the title: c_nonalter
+238 - vassal: c_nonalter - Title given to 1002377 - Primary title: d_lonona
+252 - Holder (1002377) has gained d_qozona
+252 - Holder (1002377) has gained c_bagamon
+252 - Holder (1002377) has gained c_karoen
+252 - Holder (1002377) has gained c_todoen
+261 - Gained vassal: c_wodoppi
+261 - Gained vassal: c_bagamon
+261 - Gained vassal: c_karoen
+261 - Gained vassal: c_todoen
+261 - Holder 1005884 - Primary title: d_kutaz has lost the title: d_kutaz
+261 - Title given to 1005884 - Primary title: d_qozona
+261 - vassal: c_todoen - Holder 1005884 - Primary title: c_todoen has lost the title: c_todoen
+261 - vassal: c_todoen - Title given to 1005884 - Primary title: d_qozona
+261 - vassal: c_karoen - Holder 1005884 - Primary title: c_karoen has lost the title: c_karoen
+261 - vassal: c_karoen - Title given to 1005884 - Primary title: d_qozona
+261 - vassal: c_bagamon - Holder 1005884 - Primary title: c_bagamon has lost the title: c_bagamon
+261 - vassal: c_bagamon - Title given to 1005884 - Primary title: d_qozona
+261 - vassal: c_wodoppi - Holder 1005884 - Primary title: c_wodoppi has lost the title: c_wodoppi
+261 - vassal: c_wodoppi - Title given to 1005884 - Primary title: d_qozona
+261 - vassal: c_nonalter - Holder 1005884 - Primary title: c_nonalter has lost the title: c_nonalter
+261 - vassal: c_nonalter - Title given to 1005884 - Primary title: d_qozona
+263 - Holder (1005884) has gained d_qozona
+263 - vassal: c_todoen - Set liege on title creation d_qozona
+263 - Lost vassal: c_todoen
+263 - vassal: c_karoen - Set liege on title creation d_qozona
+263 - Lost vassal: c_karoen
+263 - vassal: c_bagamon - Set liege on title creation d_qozona
+263 - Lost vassal: c_bagamon
+263 - vassal: c_wodoppi - Set liege on title creation d_qozona
+263 - Lost vassal: c_wodoppi
+263 - vassal: c_nonalter - Set liege on title creation d_qozona
+263 - Lost vassal: c_nonalter
+264 - Destroyed due to flagged problem
+264 - Made independent
+264 - Title destroyed

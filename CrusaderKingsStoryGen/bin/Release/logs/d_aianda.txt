@@ -1,0 +1,63 @@
+200 - Title given to 1000984
+200 - vassal: c_derila - Given to 1000987 via AddCharacterForTitle
+200 - sub vassal: c_derila - Given to 1000987 via AddCharacterForTitle
+200 - vassal: c_derila - Holder 1000987 - Primary title: c_derila has lost the title: c_derila
+200 - sub vassal: c_derila - Holder 1000987 - Primary title: c_derila has lost the title: c_derila
+200 - vassal: c_derila - Title given to 1000987
+200 - sub vassal: c_derila - Title given to 1000987
+200 - vassal: c_lilila - Holder 1000984 - Primary title: c_lilila has lost the title: c_lilila
+200 - sub vassal: c_lilila - Holder 1000984 - Primary title: c_lilila has lost the title: c_lilila
+200 - vassal: c_lilila - Title given to 1000984 - Primary title: d_aianda
+200 - sub vassal: c_lilila - Title given to 1000984 - Primary title: d_aianda
+200 - Holder (1000984) has gained c_lilila
+200 - vassal: c_derila - Holder 1000984 - Primary title: c_derila has lost the title: c_derila
+200 - sub vassal: c_derila - Holder 1000984 - Primary title: c_derila has lost the title: c_derila
+200 - vassal: c_derila - Title given to 1000984 - Primary title: d_aianda
+200 - sub vassal: c_derila - Title given to 1000984 - Primary title: d_aianda
+200 - Holder (1000984) has gained c_derila
+200 - vassal: c_bugha - Holder 1000984 - Primary title: c_bugha has lost the title: c_bugha
+200 - sub vassal: c_bugha - Holder 1000984 - Primary title: c_bugha has lost the title: c_bugha
+200 - vassal: c_bugha - Title given to 1000984 - Primary title: d_aianda
+200 - sub vassal: c_bugha - Title given to 1000984 - Primary title: d_aianda
+200 - Holder (1000984) has gained c_bugha
+200 - vassal: c_rugha - Title given to 1000984 - Primary title: d_aianda
+200 - Holder (1000984) has gained c_rugha
+202 - Captured byk_solagnar in minor war
+203 - Holder 1001597 - Primary title: d_aianda has lost the title: d_aianda
+203 - Title given to 1001597 - Primary title: k_solagnar
+203 - vassal: c_rugha - Holder 1001597 - Primary title: c_rugha has lost the title: c_rugha
+203 - vassal: c_rugha - Title given to 1001597 - Primary title: k_solagnar
+203 - vassal: c_bugha - Holder 1001597 - Primary title: c_bugha has lost the title: c_bugha
+203 - vassal: c_bugha - Title given to 1001597 - Primary title: k_solagnar
+203 - vassal: c_derila - Holder 1001597 - Primary title: c_derila has lost the title: c_derila
+203 - vassal: c_derila - Title given to 1001597 - Primary title: k_solagnar
+203 - vassal: c_lilila - Holder 1001597 - Primary title: c_lilila has lost the title: c_lilila
+203 - vassal: c_lilila - Title given to 1001597 - Primary title: k_solagnar
+203 - Gained vassal: c_waulika
+203 - Holder 1002564 - Primary title: d_aianda has lost the title: c_waulika
+203 - vassal: c_waulika - Title given to 1002564 - Primary title: k_solagnar
+203 - vassal: c_waulika - Setting to vassal of k_solagnar in Validate Realm
+203 - Lost vassal: c_waulika
+203 - Holder 1002564 - Primary title: d_aianda has lost the title: d_aianda
+203 - Title given to 1002564 - Primary title: k_solagnar
+203 - vassal: c_rugha - Holder 1002564 - Primary title: c_rugha has lost the title: c_rugha
+203 - vassal: c_rugha - Title given to 1002564 - Primary title: k_solagnar
+203 - vassal: c_bugha - Holder 1002564 - Primary title: c_bugha has lost the title: c_bugha
+203 - vassal: c_bugha - Title given to 1002564 - Primary title: k_solagnar
+203 - vassal: c_derila - Holder 1002564 - Primary title: c_derila has lost the title: c_derila
+203 - vassal: c_derila - Title given to 1002564 - Primary title: k_solagnar
+203 - vassal: c_lilila - Holder 1002564 - Primary title: c_lilila has lost the title: c_lilila
+203 - vassal: c_lilila - Title given to 1002564 - Primary title: k_solagnar
+248 - Holder 1003127 - Primary title: d_aianda has lost the title: d_aianda
+248 - Title given to 1003127 - Primary title: k_solagnar
+248 - vassal: c_rugha - Setting to vassal of d_nerelen in Validate Realm
+248 - Lost vassal: c_rugha
+248 - vassal: c_bugha - Setting to vassal of d_nerelen in Validate Realm
+248 - Lost vassal: c_bugha
+248 - vassal: c_derila - Setting to vassal of d_nerelen in Validate Realm
+248 - Lost vassal: c_derila
+248 - vassal: c_lilila - Setting to vassal of d_nerelen in Validate Realm
+248 - Lost vassal: c_lilila
+249 - Destroyed due to flagged problem
+249 - Made independent
+249 - Title destroyed

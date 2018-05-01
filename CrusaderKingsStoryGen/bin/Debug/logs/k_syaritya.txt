@@ -1,0 +1,747 @@
+200 - Title given to 1001499
+200 - vassal: d_elanatha - Holder 1001499 - Primary title: d_elanatha has lost the title: d_elanatha
+200 - sub vassal: d_elanatha - Holder 1001499 - Primary title: d_elanatha has lost the title: d_elanatha
+200 - vassal: d_elanatha - Title given to 1001499 - Primary title: k_syaritya
+200 - sub vassal: d_elanatha - Title given to 1001499 - Primary title: k_syaritya
+200 - Holder (1001499) has gained d_elanatha
+200 - vassal: d_esuraja - Holder 1001499 - Primary title: d_esuraja has lost the title: d_esuraja
+200 - sub vassal: d_esuraja - Holder 1001499 - Primary title: d_esuraja has lost the title: d_esuraja
+200 - vassal: d_esuraja - Title given to 1001499 - Primary title: k_syaritya
+200 - sub vassal: d_esuraja - Title given to 1001499 - Primary title: k_syaritya
+200 - Holder (1001499) has gained d_esuraja
+200 - sub vassal: c_disara - Holder 1001499 - Primary title: c_disara has lost the title: c_disara
+200 - sub vassal: c_disara - Title given to 1001499 - Primary title: k_syaritya
+200 - Holder (1001499) has gained c_disara
+200 - sub vassal: c_rulayah - Made vassal of neighbour (k_bedakti) due to being a seperate island
+200 - vassal: d_esuraja - Lost vassal: c_rulayah
+200 - sub vassal: d_esuraja - Lost vassal: c_rulayah
+201 - vassal: d_esuraja - Destroyed due to flagged problem
+201 - sub vassal: d_esuraja - Destroyed due to flagged problem
+201 - vassal: d_esuraja - Made independent
+201 - sub vassal: d_esuraja - Made independent
+203 - vassal: d_nisesi - Holder 1001006 - Primary title: d_nisesi has lost the title: d_nisesi
+203 - sub vassal: d_nisesi - Holder 1001006 - Primary title: d_nisesi has lost the title: d_nisesi
+203 - vassal: d_nisesi - Title given to 1001006 - Primary title: d_kurare
+203 - sub vassal: d_nisesi - Title given to 1001006 - Primary title: d_kurare
+203 - vassal: d_kurare - Holder (1001006) has gained d_nisesi
+203 - sub vassal: d_kurare - Holder (1001006) has gained d_nisesi
+203 - sub vassal: c_kiadwi - Holder 1001006 - Primary title: c_kiadwi has lost the title: c_kiadwi
+203 - sub vassal: c_kiadwi - Title given to 1001006 - Primary title: d_kurare
+203 - vassal: d_kurare - Holder (1001006) has gained c_kiadwi
+203 - sub vassal: d_kurare - Holder (1001006) has gained c_kiadwi
+203 - sub vassal: c_dimevna - Holder 1001006 - Primary title: c_dimevna has lost the title: c_dimevna
+203 - sub vassal: c_dimevna - Title given to 1001006 - Primary title: d_kurare
+203 - vassal: d_kurare - Holder (1001006) has gained c_dimevna
+203 - sub vassal: d_kurare - Holder (1001006) has gained c_dimevna
+203 - sub vassal: c_tary - Holder 1001006 - Primary title: c_tary has lost the title: c_tary
+203 - sub vassal: c_tary - Title given to 1001006 - Primary title: d_kurare
+203 - vassal: d_kurare - Holder (1001006) has gained c_tary
+203 - sub vassal: d_kurare - Holder (1001006) has gained c_tary
+206 - Holder 1001094 - Primary title: k_syaritya has lost the title: k_syaritya
+206 - Title given to 1001094 - Primary title: d_risala
+206 - vassal: d_risala - Holder (1001094) has gained k_syaritya
+206 - sub vassal: d_risala - Holder (1001094) has gained k_syaritya
+206 - vassal: d_elanatha - Holder 1001094 - Primary title: d_elanatha has lost the title: d_elanatha
+206 - sub vassal: d_elanatha - Holder 1001094 - Primary title: d_elanatha has lost the title: d_elanatha
+206 - vassal: d_elanatha - Title given to 1001094 - Primary title: k_syaritya
+206 - sub vassal: d_elanatha - Title given to 1001094 - Primary title: k_syaritya
+206 - Holder (1001094) has gained d_elanatha
+206 - sub vassal: c_disara - Holder 1001094 - Primary title: c_disara has lost the title: c_disara
+206 - sub vassal: c_disara - Title given to 1001094 - Primary title: k_syaritya
+206 - Holder (1001094) has gained c_disara
+208 - vassal: d_lavault - Holder 1002568 - Primary title: d_lavault has lost the title: d_lavault
+208 - sub vassal: d_lavault - Holder 1002568 - Primary title: d_lavault has lost the title: d_lavault
+208 - vassal: d_lavault - Title given to 1002568
+208 - sub vassal: d_lavault - Title given to 1002568
+208 - sub vassal: c_lare - Holder 1002568 - Primary title: c_lare has lost the title: c_lare
+208 - sub vassal: c_lare - Title given to 1002568 - Primary title: d_lavault
+208 - vassal: d_lavault - Holder (1002568) has gained c_lare
+208 - sub vassal: d_lavault - Holder (1002568) has gained c_lare
+208 - sub vassal: c_netlna - Holder 1002568 - Primary title: c_netlna has lost the title: c_netlna
+208 - sub vassal: c_netlna - Title given to 1002568 - Primary title: d_lavault
+208 - vassal: d_lavault - Holder (1002568) has gained c_netlna
+208 - sub vassal: d_lavault - Holder (1002568) has gained c_netlna
+208 - sub vassal: c_kurunas - Holder 1002568 - Primary title: c_kurunas has lost the title: c_kurunas
+208 - sub vassal: c_kurunas - Title given to 1002568 - Primary title: d_lavault
+208 - vassal: d_lavault - Holder (1002568) has gained c_kurunas
+208 - sub vassal: d_lavault - Holder (1002568) has gained c_kurunas
+209 - vassal: d_lavault - Holder 1001042 - Primary title: d_lavault has lost the title: d_lavault
+209 - sub vassal: d_lavault - Holder 1001042 - Primary title: d_lavault has lost the title: d_lavault
+209 - vassal: d_lavault - Title given to 1001042 - Primary title: d_tavabah
+209 - sub vassal: d_lavault - Title given to 1001042 - Primary title: d_tavabah
+209 - vassal: d_tavabah - Holder (1001042) has gained d_lavault
+209 - sub vassal: d_tavabah - Holder (1001042) has gained d_lavault
+209 - sub vassal: c_lare - Holder 1001042 - Primary title: c_lare has lost the title: c_lare
+209 - sub vassal: c_lare - Title given to 1001042 - Primary title: d_tavabah
+209 - vassal: d_tavabah - Holder (1001042) has gained c_lare
+209 - sub vassal: d_tavabah - Holder (1001042) has gained c_lare
+209 - sub vassal: c_netlna - Holder 1001042 - Primary title: c_netlna has lost the title: c_netlna
+209 - sub vassal: c_netlna - Title given to 1001042 - Primary title: d_tavabah
+209 - vassal: d_tavabah - Holder (1001042) has gained c_netlna
+209 - sub vassal: d_tavabah - Holder (1001042) has gained c_netlna
+209 - sub vassal: c_kurunas - Holder 1001042 - Primary title: c_kurunas has lost the title: c_kurunas
+209 - sub vassal: c_kurunas - Title given to 1001042 - Primary title: d_tavabah
+209 - vassal: d_tavabah - Holder (1001042) has gained c_kurunas
+209 - sub vassal: d_tavabah - Holder (1001042) has gained c_kurunas
+223 - vassal: d_nisesi - Holder 1002355 - Primary title: d_nisesi has lost the title: d_nisesi
+223 - sub vassal: d_nisesi - Holder 1002355 - Primary title: d_nisesi has lost the title: d_nisesi
+223 - vassal: d_nisesi - Title given to 1002355
+223 - sub vassal: d_nisesi - Title given to 1002355
+223 - sub vassal: c_tary - Setting to vassal of d_kurare in Validate Realm
+223 - vassal: d_nisesi - Lost vassal: c_tary
+223 - sub vassal: d_nisesi - Lost vassal: c_tary
+223 - sub vassal: c_dimevna - Setting to vassal of d_kurare in Validate Realm
+223 - vassal: d_nisesi - Lost vassal: c_dimevna
+223 - sub vassal: d_nisesi - Lost vassal: c_dimevna
+223 - sub vassal: c_kiadwi - Setting to vassal of d_kurare in Validate Realm
+223 - vassal: d_nisesi - Lost vassal: c_kiadwi
+223 - sub vassal: d_nisesi - Lost vassal: c_kiadwi
+223 - vassal: d_kurare - Gained vassal: c_kiadwi
+223 - sub vassal: d_kurare - Gained vassal: c_kiadwi
+223 - vassal: d_kurare - Gained vassal: c_dimevna
+223 - sub vassal: d_kurare - Gained vassal: c_dimevna
+223 - vassal: d_kurare - Gained vassal: c_tary
+223 - sub vassal: d_kurare - Gained vassal: c_tary
+223 - vassal: d_kurare - Holder 1002355 - Primary title: d_kurare has lost the title: d_kurare
+223 - sub vassal: d_kurare - Holder 1002355 - Primary title: d_kurare has lost the title: d_kurare
+223 - vassal: d_kurare - Title given to 1002355 - Primary title: d_nisesi
+223 - sub vassal: d_kurare - Title given to 1002355 - Primary title: d_nisesi
+223 - vassal: d_nisesi - Holder (1002355) has gained d_kurare
+223 - sub vassal: d_nisesi - Holder (1002355) has gained d_kurare
+223 - sub vassal: c_tary - Holder 1002355 - Primary title: c_tary has lost the title: c_tary
+223 - sub vassal: c_tary - Title given to 1002355 - Primary title: d_nisesi
+223 - vassal: d_nisesi - Holder (1002355) has gained c_tary
+223 - sub vassal: d_nisesi - Holder (1002355) has gained c_tary
+223 - sub vassal: c_dimevna - Holder 1002355 - Primary title: c_dimevna has lost the title: c_dimevna
+223 - sub vassal: c_dimevna - Title given to 1002355 - Primary title: d_nisesi
+223 - vassal: d_nisesi - Holder (1002355) has gained c_dimevna
+223 - sub vassal: d_nisesi - Holder (1002355) has gained c_dimevna
+223 - sub vassal: c_kiadwi - Holder 1002355 - Primary title: c_kiadwi has lost the title: c_kiadwi
+223 - sub vassal: c_kiadwi - Title given to 1002355 - Primary title: d_nisesi
+223 - vassal: d_nisesi - Holder (1002355) has gained c_kiadwi
+223 - sub vassal: d_nisesi - Holder (1002355) has gained c_kiadwi
+223 - sub vassal: c_lisamin - Holder 1002355 - Primary title: c_lisamin has lost the title: c_lisamin
+223 - sub vassal: c_lisamin - Title given to 1002355 - Primary title: d_nisesi
+223 - vassal: d_nisesi - Holder (1002355) has gained c_lisamin
+223 - sub vassal: d_nisesi - Holder (1002355) has gained c_lisamin
+223 - sub vassal: c_tevna - Holder 1002355 - Primary title: c_tevna has lost the title: c_tevna
+223 - sub vassal: c_tevna - Title given to 1002355 - Primary title: d_nisesi
+223 - vassal: d_nisesi - Holder (1002355) has gained c_tevna
+223 - sub vassal: d_nisesi - Holder (1002355) has gained c_tevna
+224 - vassal: d_nisesi - Destroyed due to flagged problem
+224 - sub vassal: d_nisesi - Destroyed due to flagged problem
+224 - vassal: d_nisesi - Made independent
+224 - sub vassal: d_nisesi - Made independent
+225 - vassal: d_kurare - Holder (1002355) has gained d_nisesi
+225 - sub vassal: d_kurare - Holder (1002355) has gained d_nisesi
+225 - Gained vassal: d_nisesi
+225 - vassal: d_nisesi - Made independent for title creation d_nisesi for d_kurare
+225 - sub vassal: d_nisesi - Made independent for title creation d_nisesi for d_kurare
+225 - vassal: d_nisesi - Made independent
+225 - sub vassal: d_nisesi - Made independent
+225 - sub vassal: c_tary - Set liege on title creation d_nisesi
+225 - vassal: d_kurare - Lost vassal: c_tary
+225 - sub vassal: d_kurare - Lost vassal: c_tary
+225 - sub vassal: c_dimevna - Set liege on title creation d_nisesi
+225 - vassal: d_kurare - Lost vassal: c_dimevna
+225 - sub vassal: d_kurare - Lost vassal: c_dimevna
+225 - sub vassal: c_kiadwi - Set liege on title creation d_nisesi
+225 - vassal: d_kurare - Lost vassal: c_kiadwi
+225 - sub vassal: d_kurare - Lost vassal: c_kiadwi
+225 - sub vassal: c_lisamin - Set liege on title creation d_nisesi
+225 - vassal: d_kurare - Lost vassal: c_lisamin
+225 - sub vassal: d_kurare - Lost vassal: c_lisamin
+225 - sub vassal: c_tevna - Set liege on title creation d_nisesi
+225 - vassal: d_kurare - Lost vassal: c_tevna
+225 - sub vassal: d_kurare - Lost vassal: c_tevna
+225 - vassal: d_wisamin - Holder 1002759 - Primary title: d_wisamin has lost the title: d_wisamin
+225 - sub vassal: d_wisamin - Holder 1002759 - Primary title: d_wisamin has lost the title: d_wisamin
+225 - vassal: d_wisamin - Title given to 1002759
+225 - sub vassal: d_wisamin - Title given to 1002759
+225 - sub vassal: c_kenare - Holder 1002759 - Primary title: c_kenare has lost the title: c_kenare
+225 - sub vassal: c_kenare - Title given to 1002759 - Primary title: d_wisamin
+225 - vassal: d_wisamin - Holder (1002759) has gained c_kenare
+225 - sub vassal: d_wisamin - Holder (1002759) has gained c_kenare
+225 - sub vassal: c_tahare - Holder 1002759 - Primary title: c_tahare has lost the title: c_tahare
+225 - sub vassal: c_tahare - Title given to 1002759 - Primary title: d_wisamin
+225 - vassal: d_wisamin - Holder (1002759) has gained c_tahare
+225 - sub vassal: d_wisamin - Holder (1002759) has gained c_tahare
+225 - sub vassal: c_raheph - Holder 1002759 - Primary title: c_raheph has lost the title: c_raheph
+225 - sub vassal: c_raheph - Title given to 1002759 - Primary title: d_wisamin
+225 - vassal: d_wisamin - Holder (1002759) has gained c_raheph
+225 - sub vassal: d_wisamin - Holder (1002759) has gained c_raheph
+226 - vassal: d_kurare - Destroyed due to flagged problem
+226 - sub vassal: d_kurare - Destroyed due to flagged problem
+226 - vassal: d_kurare - Made independent
+226 - sub vassal: d_kurare - Made independent
+235 - vassal: d_kuheph - Holder 1001846 - Primary title: d_kuheph has lost the title: d_kuheph
+235 - sub vassal: d_kuheph - Holder 1001846 - Primary title: d_kuheph has lost the title: d_kuheph
+235 - vassal: d_kuheph - Title given to 1001846
+235 - sub vassal: d_kuheph - Title given to 1001846
+235 - sub vassal: c_tare - Holder 1001846 - Primary title: c_tare has lost the title: c_tare
+235 - sub vassal: c_tare - Title given to 1001846 - Primary title: d_kuheph
+235 - vassal: d_kuheph - Holder (1001846) has gained c_tare
+235 - sub vassal: d_kuheph - Holder (1001846) has gained c_tare
+235 - sub vassal: c_esimatha - Holder 1001846 - Primary title: c_esimatha has lost the title: c_esimatha
+235 - sub vassal: c_esimatha - Title given to 1001846 - Primary title: d_kuheph
+235 - vassal: d_kuheph - Holder (1001846) has gained c_esimatha
+235 - sub vassal: d_kuheph - Holder (1001846) has gained c_esimatha
+235 - sub vassal: c_tinevna - Holder 1001846 - Primary title: c_tinevna has lost the title: c_tinevna
+235 - sub vassal: c_tinevna - Title given to 1001846 - Primary title: d_kuheph
+235 - vassal: d_kuheph - Holder (1001846) has gained c_tinevna
+235 - sub vassal: d_kuheph - Holder (1001846) has gained c_tinevna
+235 - sub vassal: c_abrary - Holder 1001846 - Primary title: c_abrary has lost the title: c_abrary
+235 - sub vassal: c_abrary - Title given to 1001846 - Primary title: d_kuheph
+235 - vassal: d_kuheph - Holder (1001846) has gained c_abrary
+235 - sub vassal: d_kuheph - Holder (1001846) has gained c_abrary
+242 - vassal: d_qaud - Holder 1002932 - Primary title: d_qaud has lost the title: d_qaud
+242 - sub vassal: d_qaud - Holder 1002932 - Primary title: d_qaud has lost the title: d_qaud
+242 - vassal: d_qaud - Title given to 1002932
+242 - sub vassal: d_qaud - Title given to 1002932
+242 - sub vassal: c_dicunas - Holder 1002932 - Primary title: c_dicunas has lost the title: c_dicunas
+242 - sub vassal: c_dicunas - Title given to 1002932 - Primary title: d_qaud
+242 - vassal: d_qaud - Holder (1002932) has gained c_dicunas
+242 - sub vassal: d_qaud - Holder (1002932) has gained c_dicunas
+242 - sub vassal: c_dien - Holder 1002932 - Primary title: c_dien has lost the title: c_dien
+242 - sub vassal: c_dien - Title given to 1002932 - Primary title: d_qaud
+242 - vassal: d_qaud - Holder (1002932) has gained c_dien
+242 - sub vassal: d_qaud - Holder (1002932) has gained c_dien
+242 - Holder 1003271 - Primary title: k_syaritya has lost the title: k_syaritya
+242 - Title given to 1003271
+242 - vassal: d_risala - Holder 1003271 - Primary title: d_risala has lost the title: d_risala
+242 - sub vassal: d_risala - Holder 1003271 - Primary title: d_risala has lost the title: d_risala
+242 - vassal: d_risala - Title given to 1003271 - Primary title: k_syaritya
+242 - sub vassal: d_risala - Title given to 1003271 - Primary title: k_syaritya
+242 - Holder (1003271) has gained d_risala
+242 - sub vassal: c_qodamin - Setting to vassal of d_elanatha in Validate Realm
+242 - vassal: d_risala - Lost vassal: c_qodamin
+242 - sub vassal: d_risala - Lost vassal: c_qodamin
+242 - sub vassal: c_tavary - Setting to vassal of d_elanatha in Validate Realm
+242 - vassal: d_risala - Lost vassal: c_tavary
+242 - sub vassal: d_risala - Lost vassal: c_tavary
+242 - sub vassal: c_kelara - Setting to vassal of d_elanatha in Validate Realm
+242 - vassal: d_risala - Lost vassal: c_kelara
+242 - sub vassal: d_risala - Lost vassal: c_kelara
+242 - vassal: d_elanatha - Gained vassal: c_kelara
+242 - sub vassal: d_elanatha - Gained vassal: c_kelara
+242 - vassal: d_elanatha - Gained vassal: c_tavary
+242 - sub vassal: d_elanatha - Gained vassal: c_tavary
+242 - vassal: d_elanatha - Gained vassal: c_qodamin
+242 - sub vassal: d_elanatha - Gained vassal: c_qodamin
+242 - vassal: d_elanatha - Holder 1003271 - Primary title: d_elanatha has lost the title: d_elanatha
+242 - sub vassal: d_elanatha - Holder 1003271 - Primary title: d_elanatha has lost the title: d_elanatha
+242 - vassal: d_elanatha - Title given to 1003271 - Primary title: k_syaritya
+242 - sub vassal: d_elanatha - Title given to 1003271 - Primary title: k_syaritya
+242 - Holder (1003271) has gained d_elanatha
+242 - sub vassal: c_qodamin - Holder 1003271 - Primary title: c_qodamin has lost the title: c_qodamin
+242 - sub vassal: c_qodamin - Title given to 1003271 - Primary title: k_syaritya
+242 - Holder (1003271) has gained c_qodamin
+242 - sub vassal: c_tavary - Holder 1003271 - Primary title: c_tavary has lost the title: c_tavary
+242 - sub vassal: c_tavary - Title given to 1003271 - Primary title: k_syaritya
+242 - Holder (1003271) has gained c_tavary
+242 - sub vassal: c_kelara - Holder 1003271 - Primary title: c_kelara has lost the title: c_kelara
+242 - sub vassal: c_kelara - Title given to 1003271 - Primary title: k_syaritya
+242 - Holder (1003271) has gained c_kelara
+242 - sub vassal: c_disara - Holder 1003271 - Primary title: c_disara has lost the title: c_disara
+242 - sub vassal: c_disara - Title given to 1003271 - Primary title: k_syaritya
+242 - Holder (1003271) has gained c_disara
+243 - vassal: d_risala - Destroyed due to flagged problem
+243 - sub vassal: d_risala - Destroyed due to flagged problem
+243 - vassal: d_risala - Made independent
+243 - sub vassal: d_risala - Made independent
+243 - vassal: d_kuheph - Holder 1005438 - Primary title: d_kuheph has lost the title: d_kuheph
+243 - sub vassal: d_kuheph - Holder 1005438 - Primary title: d_kuheph has lost the title: d_kuheph
+243 - vassal: d_kuheph - Title given to 1005438
+243 - sub vassal: d_kuheph - Title given to 1005438
+243 - sub vassal: c_abrary - Holder 1005438 - Primary title: c_abrary has lost the title: c_abrary
+243 - sub vassal: c_abrary - Title given to 1005438 - Primary title: d_kuheph
+243 - vassal: d_kuheph - Holder (1005438) has gained c_abrary
+243 - sub vassal: d_kuheph - Holder (1005438) has gained c_abrary
+243 - sub vassal: c_tinevna - Holder 1005438 - Primary title: c_tinevna has lost the title: c_tinevna
+243 - sub vassal: c_tinevna - Title given to 1005438 - Primary title: d_kuheph
+243 - vassal: d_kuheph - Holder (1005438) has gained c_tinevna
+243 - sub vassal: d_kuheph - Holder (1005438) has gained c_tinevna
+243 - sub vassal: c_esimatha - Holder 1005438 - Primary title: c_esimatha has lost the title: c_esimatha
+243 - sub vassal: c_esimatha - Title given to 1005438 - Primary title: d_kuheph
+243 - vassal: d_kuheph - Holder (1005438) has gained c_esimatha
+243 - sub vassal: d_kuheph - Holder (1005438) has gained c_esimatha
+243 - sub vassal: c_tare - Holder 1005438 - Primary title: c_tare has lost the title: c_tare
+243 - sub vassal: c_tare - Title given to 1005438 - Primary title: d_kuheph
+243 - vassal: d_kuheph - Holder (1005438) has gained c_tare
+243 - sub vassal: d_kuheph - Holder (1005438) has gained c_tare
+243 - vassal: d_lavault - Holder 1000998 - Primary title: d_lavault has lost the title: d_lavault
+243 - sub vassal: d_lavault - Holder 1000998 - Primary title: d_lavault has lost the title: d_lavault
+243 - vassal: d_lavault - Title given to 1000998 - Primary title: d_banary
+243 - sub vassal: d_lavault - Title given to 1000998 - Primary title: d_banary
+243 - vassal: d_banary - Holder (1000998) has gained d_lavault
+243 - sub vassal: d_banary - Holder (1000998) has gained d_lavault
+243 - sub vassal: c_lare - Setting to vassal of d_tavabah in Validate Realm
+243 - vassal: d_lavault - Lost vassal: c_lare
+243 - sub vassal: d_lavault - Lost vassal: c_lare
+243 - sub vassal: c_netlna - Setting to vassal of d_tavabah in Validate Realm
+243 - vassal: d_lavault - Lost vassal: c_netlna
+243 - sub vassal: d_lavault - Lost vassal: c_netlna
+243 - sub vassal: c_kurunas - Setting to vassal of d_tavabah in Validate Realm
+243 - vassal: d_lavault - Lost vassal: c_kurunas
+243 - sub vassal: d_lavault - Lost vassal: c_kurunas
+243 - vassal: d_tavabah - Gained vassal: c_kurunas
+243 - sub vassal: d_tavabah - Gained vassal: c_kurunas
+243 - vassal: d_tavabah - Gained vassal: c_netlna
+243 - sub vassal: d_tavabah - Gained vassal: c_netlna
+243 - vassal: d_tavabah - Gained vassal: c_lare
+243 - sub vassal: d_tavabah - Gained vassal: c_lare
+243 - vassal: d_tavabah - Holder 1000998 - Primary title: d_tavabah has lost the title: d_tavabah
+243 - sub vassal: d_tavabah - Holder 1000998 - Primary title: d_tavabah has lost the title: d_tavabah
+243 - vassal: d_tavabah - Title given to 1000998 - Primary title: d_banary
+243 - sub vassal: d_tavabah - Title given to 1000998 - Primary title: d_banary
+243 - vassal: d_banary - Holder (1000998) has gained d_tavabah
+243 - sub vassal: d_banary - Holder (1000998) has gained d_tavabah
+243 - sub vassal: c_kenary - Holder 1000998 - Primary title: c_kenary has lost the title: c_kenary
+243 - sub vassal: c_kenary - Title given to 1000998 - Primary title: d_banary
+243 - vassal: d_banary - Holder (1000998) has gained c_kenary
+243 - sub vassal: d_banary - Holder (1000998) has gained c_kenary
+243 - sub vassal: c_tisevna - Holder 1000998 - Primary title: c_tisevna has lost the title: c_tisevna
+243 - sub vassal: c_tisevna - Title given to 1000998 - Primary title: d_banary
+243 - vassal: d_banary - Holder (1000998) has gained c_tisevna
+243 - sub vassal: d_banary - Holder (1000998) has gained c_tisevna
+243 - sub vassal: c_lare - Holder 1000998 - Primary title: c_lare has lost the title: c_lare
+243 - sub vassal: c_lare - Title given to 1000998 - Primary title: d_banary
+243 - vassal: d_banary - Holder (1000998) has gained c_lare
+243 - sub vassal: d_banary - Holder (1000998) has gained c_lare
+243 - sub vassal: c_netlna - Holder 1000998 - Primary title: c_netlna has lost the title: c_netlna
+243 - sub vassal: c_netlna - Title given to 1000998 - Primary title: d_banary
+243 - vassal: d_banary - Holder (1000998) has gained c_netlna
+243 - sub vassal: d_banary - Holder (1000998) has gained c_netlna
+243 - sub vassal: c_kurunas - Holder 1000998 - Primary title: c_kurunas has lost the title: c_kurunas
+243 - sub vassal: c_kurunas - Title given to 1000998 - Primary title: d_banary
+243 - vassal: d_banary - Holder (1000998) has gained c_kurunas
+243 - sub vassal: d_banary - Holder (1000998) has gained c_kurunas
+244 - vassal: d_lavault - Destroyed due to flagged problem
+244 - sub vassal: d_lavault - Destroyed due to flagged problem
+244 - vassal: d_lavault - Made independent
+244 - sub vassal: d_lavault - Made independent
+244 - vassal: d_banary - Holder 1005596 - Primary title: d_banary has lost the title: c_tisevna
+244 - sub vassal: d_banary - Holder 1005596 - Primary title: d_banary has lost the title: c_tisevna
+244 - sub vassal: c_tisevna - Title given to 1005596
+244 - vassal: d_banary - Holder 1005597 - Primary title: d_banary has lost the title: c_kenary
+244 - sub vassal: d_banary - Holder 1005597 - Primary title: d_banary has lost the title: c_kenary
+244 - sub vassal: c_kenary - Title given to 1005597
+244 - vassal: d_banary - Holder 1005598 - Primary title: d_banary has lost the title: c_netlna
+244 - sub vassal: d_banary - Holder 1005598 - Primary title: d_banary has lost the title: c_netlna
+244 - sub vassal: c_netlna - Title given to 1005598
+245 - vassal: d_banary - Holder 1002474 - Primary title: d_banary has lost the title: d_banary
+245 - sub vassal: d_banary - Holder 1002474 - Primary title: d_banary has lost the title: d_banary
+245 - vassal: d_banary - Title given to 1002474
+245 - sub vassal: d_banary - Title given to 1002474
+245 - sub vassal: c_rabah - Setting to vassal of d_tavabah in Validate Realm
+245 - vassal: d_banary - Lost vassal: c_rabah
+245 - sub vassal: d_banary - Lost vassal: c_rabah
+245 - sub vassal: c_athatha - Setting to vassal of d_tavabah in Validate Realm
+245 - vassal: d_banary - Lost vassal: c_athatha
+245 - sub vassal: d_banary - Lost vassal: c_athatha
+245 - sub vassal: c_tanamin - Setting to vassal of d_tavabah in Validate Realm
+245 - vassal: d_banary - Lost vassal: c_tanamin
+245 - sub vassal: d_banary - Lost vassal: c_tanamin
+245 - vassal: d_tavabah - Gained vassal: c_tanamin
+245 - sub vassal: d_tavabah - Gained vassal: c_tanamin
+245 - vassal: d_tavabah - Gained vassal: c_athatha
+245 - sub vassal: d_tavabah - Gained vassal: c_athatha
+245 - vassal: d_tavabah - Gained vassal: c_rabah
+245 - sub vassal: d_tavabah - Gained vassal: c_rabah
+245 - vassal: d_tavabah - Holder 1002474 - Primary title: d_tavabah has lost the title: c_rabah
+245 - sub vassal: d_tavabah - Holder 1002474 - Primary title: d_tavabah has lost the title: c_rabah
+245 - sub vassal: c_rabah - Title given to 1002474 - Primary title: d_banary
+245 - vassal: d_banary - Holder (1002474) has gained c_rabah
+245 - sub vassal: d_banary - Holder (1002474) has gained c_rabah
+245 - sub vassal: c_rabah - Setting to vassal of d_banary in Validate Realm
+245 - vassal: d_tavabah - Lost vassal: c_rabah
+245 - sub vassal: d_tavabah - Lost vassal: c_rabah
+245 - vassal: d_banary - Gained vassal: c_rabah
+245 - sub vassal: d_banary - Gained vassal: c_rabah
+245 - vassal: d_tavabah - Holder 1002474 - Primary title: d_tavabah has lost the title: c_athatha
+245 - sub vassal: d_tavabah - Holder 1002474 - Primary title: d_tavabah has lost the title: c_athatha
+245 - sub vassal: c_athatha - Title given to 1002474 - Primary title: d_banary
+245 - vassal: d_banary - Holder (1002474) has gained c_athatha
+245 - sub vassal: d_banary - Holder (1002474) has gained c_athatha
+245 - sub vassal: c_athatha - Setting to vassal of d_banary in Validate Realm
+245 - vassal: d_tavabah - Lost vassal: c_athatha
+245 - sub vassal: d_tavabah - Lost vassal: c_athatha
+245 - vassal: d_banary - Gained vassal: c_athatha
+245 - sub vassal: d_banary - Gained vassal: c_athatha
+245 - vassal: d_tavabah - Holder 1002474 - Primary title: d_tavabah has lost the title: c_tanamin
+245 - sub vassal: d_tavabah - Holder 1002474 - Primary title: d_tavabah has lost the title: c_tanamin
+245 - sub vassal: c_tanamin - Title given to 1002474 - Primary title: d_banary
+245 - vassal: d_banary - Holder (1002474) has gained c_tanamin
+245 - sub vassal: d_banary - Holder (1002474) has gained c_tanamin
+245 - sub vassal: c_tanamin - Setting to vassal of d_banary in Validate Realm
+245 - vassal: d_tavabah - Lost vassal: c_tanamin
+245 - sub vassal: d_tavabah - Lost vassal: c_tanamin
+245 - vassal: d_banary - Gained vassal: c_tanamin
+245 - sub vassal: d_banary - Gained vassal: c_tanamin
+245 - vassal: d_tavabah - Holder 1002474 - Primary title: d_tavabah has lost the title: d_tavabah
+245 - sub vassal: d_tavabah - Holder 1002474 - Primary title: d_tavabah has lost the title: d_tavabah
+245 - vassal: d_tavabah - Title given to 1002474 - Primary title: d_banary
+245 - sub vassal: d_tavabah - Title given to 1002474 - Primary title: d_banary
+245 - vassal: d_banary - Holder (1002474) has gained d_tavabah
+245 - sub vassal: d_banary - Holder (1002474) has gained d_tavabah
+245 - sub vassal: c_lare - Holder 1002474 - Primary title: c_lare has lost the title: c_lare
+245 - sub vassal: c_lare - Title given to 1002474 - Primary title: d_banary
+245 - vassal: d_banary - Holder (1002474) has gained c_lare
+245 - sub vassal: d_banary - Holder (1002474) has gained c_lare
+245 - sub vassal: c_kurunas - Holder 1002474 - Primary title: c_kurunas has lost the title: c_kurunas
+245 - sub vassal: c_kurunas - Title given to 1002474 - Primary title: d_banary
+245 - vassal: d_banary - Holder (1002474) has gained c_kurunas
+245 - sub vassal: d_banary - Holder (1002474) has gained c_kurunas
+248 - vassal: d_banary - Holder (1002474) has gained d_lavault
+248 - sub vassal: d_banary - Holder (1002474) has gained d_lavault
+248 - Gained vassal: d_lavault
+248 - vassal: d_lavault - Made independent for title creation d_lavault for d_banary
+248 - sub vassal: d_lavault - Made independent for title creation d_lavault for d_banary
+248 - vassal: d_lavault - Made independent
+248 - sub vassal: d_lavault - Made independent
+248 - sub vassal: c_rabah - Set liege on title creation d_lavault
+248 - vassal: d_banary - Lost vassal: c_rabah
+248 - sub vassal: d_banary - Lost vassal: c_rabah
+248 - sub vassal: c_athatha - Set liege on title creation d_lavault
+248 - vassal: d_banary - Lost vassal: c_athatha
+248 - sub vassal: d_banary - Lost vassal: c_athatha
+248 - sub vassal: c_tanamin - Set liege on title creation d_lavault
+248 - vassal: d_banary - Lost vassal: c_tanamin
+248 - sub vassal: d_banary - Lost vassal: c_tanamin
+248 - sub vassal: c_lare - Set liege on title creation d_lavault
+248 - vassal: d_tavabah - Lost vassal: c_lare
+248 - sub vassal: d_tavabah - Lost vassal: c_lare
+248 - sub vassal: c_kurunas - Set liege on title creation d_lavault
+248 - vassal: d_tavabah - Lost vassal: c_kurunas
+248 - sub vassal: d_tavabah - Lost vassal: c_kurunas
+248 - sub vassal: c_athatha - Given to 1005898 in HandleTitles - Too many duke titles
+248 - vassal: d_banary - Holder 1005898 - Primary title: d_banary has lost the title: c_athatha
+248 - sub vassal: d_banary - Holder 1005898 - Primary title: d_banary has lost the title: c_athatha
+248 - sub vassal: c_athatha - Title given to 1005898
+248 - vassal: d_banary - Holder 1003271 - Primary title: d_banary has lost the title: d_banary
+248 - sub vassal: d_banary - Holder 1003271 - Primary title: d_banary has lost the title: d_banary
+248 - vassal: d_banary - Title given to 1003271 - Primary title: k_syaritya
+248 - sub vassal: d_banary - Title given to 1003271 - Primary title: k_syaritya
+248 - Holder (1003271) has gained d_banary
+248 - vassal: d_banary - Too many dukes, made direct title into vassal of k_syaritya
+248 - sub vassal: d_banary - Too many dukes, made direct title into vassal of k_syaritya
+248 - Holder 1005899 - Primary title: k_syaritya has lost the title: d_banary
+248 - vassal: d_banary - Title given to 1005899
+248 - sub vassal: d_banary - Title given to 1005899
+249 - vassal: d_banary - Destroyed due to flagged problem
+249 - sub vassal: d_banary - Destroyed due to flagged problem
+249 - vassal: d_banary - Made independent
+249 - sub vassal: d_banary - Made independent
+252 - Holder (1003271) has gained c_tevna
+252 - Holder (1003271) has gained c_lisamin
+253 - Holder 1003184 - Primary title: k_syaritya has lost the title: c_tevna
+253 - Gained vassal: c_tevna
+256 - vassal: d_qaud - Holder 1005742 - Primary title: d_qaud has lost the title: d_qaud
+256 - sub vassal: d_qaud - Holder 1005742 - Primary title: d_qaud has lost the title: d_qaud
+256 - vassal: d_qaud - Title given to 1005742
+256 - sub vassal: d_qaud - Title given to 1005742
+256 - sub vassal: c_dicunas - Holder 1005742 - Primary title: c_dicunas has lost the title: c_dicunas
+256 - sub vassal: c_dicunas - Title given to 1005742 - Primary title: d_qaud
+256 - vassal: d_qaud - Holder (1005742) has gained c_dicunas
+256 - sub vassal: d_qaud - Holder (1005742) has gained c_dicunas
+256 - sub vassal: c_dien - Holder 1005742 - Primary title: c_dien has lost the title: c_dien
+256 - sub vassal: c_dien - Title given to 1005742 - Primary title: d_qaud
+256 - vassal: d_qaud - Holder (1005742) has gained c_dien
+256 - sub vassal: d_qaud - Holder (1005742) has gained c_dien
+265 - vassal: d_tavabah - Holder (1002474) has gained d_banary
+265 - sub vassal: d_tavabah - Holder (1002474) has gained d_banary
+265 - vassal: d_tavabah - Setting independent in Validate Realm
+265 - vassal: d_tavabah - Made independent
+265 - vassal: c_tevna - Made vassal of neighbour (d_lavault) due to being a seperate island
+265 - sub vassal: c_tevna - Made vassal of neighbour (d_lavault) due to being a seperate island
+265 - Lost vassal: c_tevna
+265 - Holder 1006688 - Primary title: k_syaritya has lost the title: c_lisamin
+265 - vassal: d_wisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+265 - sub vassal: d_wisamin - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+265 - Lost vassal: d_wisamin
+265 - vassal: d_kuheph - Made vassal of neighbour (k_ralirma) due to being a seperate island
+265 - sub vassal: d_kuheph - Made vassal of neighbour (k_ralirma) due to being a seperate island
+265 - Lost vassal: d_kuheph
+265 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+265 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+265 - sub vassal: c_rureph - Made vassal of neighbour (k_lilare) due to being a seperate island
+265 - vassal: d_elanatha - Lost vassal: c_rureph
+265 - sub vassal: d_elanatha - Lost vassal: c_rureph
+265 - vassal: d_qaud - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+265 - sub vassal: d_qaud - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+265 - Lost vassal: d_qaud
+266 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+266 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+267 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+267 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+268 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+268 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+269 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+269 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+270 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+270 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+270 - Holder 1006162 - Primary title: k_syaritya has lost the title: k_syaritya
+270 - Title given to 1006162
+270 - vassal: d_elanatha - Holder 1006162 - Primary title: d_elanatha has lost the title: d_elanatha
+270 - sub vassal: d_elanatha - Holder 1006162 - Primary title: d_elanatha has lost the title: d_elanatha
+270 - vassal: d_elanatha - Title given to 1006162 - Primary title: k_syaritya
+270 - sub vassal: d_elanatha - Title given to 1006162 - Primary title: k_syaritya
+270 - Holder (1006162) has gained d_elanatha
+270 - sub vassal: c_disara - Holder 1006162 - Primary title: c_disara has lost the title: c_disara
+270 - sub vassal: c_disara - Title given to 1006162 - Primary title: k_syaritya
+270 - Holder (1006162) has gained c_disara
+270 - sub vassal: c_kelara - Holder 1006162 - Primary title: c_kelara has lost the title: c_kelara
+270 - sub vassal: c_kelara - Title given to 1006162 - Primary title: k_syaritya
+270 - Holder (1006162) has gained c_kelara
+270 - sub vassal: c_tavary - Holder 1006162 - Primary title: c_tavary has lost the title: c_tavary
+270 - sub vassal: c_tavary - Title given to 1006162 - Primary title: k_syaritya
+270 - Holder (1006162) has gained c_tavary
+270 - sub vassal: c_qodamin - Holder 1006162 - Primary title: c_qodamin has lost the title: c_qodamin
+270 - sub vassal: c_qodamin - Title given to 1006162 - Primary title: k_syaritya
+270 - Holder (1006162) has gained c_qodamin
+271 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+271 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+272 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+272 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+273 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+273 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+274 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+274 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+275 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+275 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+276 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+276 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+277 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+277 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+278 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+278 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+279 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+279 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+280 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+280 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+281 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+281 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+282 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+282 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+283 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+283 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+284 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+284 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+285 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+285 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+286 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+286 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+287 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+287 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+288 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+288 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+288 - Holder 1007859 - Primary title: k_syaritya has lost the title: k_syaritya
+288 - Title given to 1007859
+288 - vassal: d_elanatha - Holder 1007859 - Primary title: d_elanatha has lost the title: d_elanatha
+288 - sub vassal: d_elanatha - Holder 1007859 - Primary title: d_elanatha has lost the title: d_elanatha
+288 - vassal: d_elanatha - Title given to 1007859 - Primary title: k_syaritya
+288 - sub vassal: d_elanatha - Title given to 1007859 - Primary title: k_syaritya
+288 - Holder (1007859) has gained d_elanatha
+288 - sub vassal: c_qodamin - Holder 1007859 - Primary title: c_qodamin has lost the title: c_qodamin
+288 - sub vassal: c_qodamin - Title given to 1007859 - Primary title: k_syaritya
+288 - Holder (1007859) has gained c_qodamin
+288 - sub vassal: c_tavary - Holder 1007859 - Primary title: c_tavary has lost the title: c_tavary
+288 - sub vassal: c_tavary - Title given to 1007859 - Primary title: k_syaritya
+288 - Holder (1007859) has gained c_tavary
+288 - sub vassal: c_kelara - Holder 1007859 - Primary title: c_kelara has lost the title: c_kelara
+288 - sub vassal: c_kelara - Title given to 1007859 - Primary title: k_syaritya
+288 - Holder (1007859) has gained c_kelara
+288 - sub vassal: c_disara - Holder 1007859 - Primary title: c_disara has lost the title: c_disara
+288 - sub vassal: c_disara - Title given to 1007859 - Primary title: k_syaritya
+288 - Holder (1007859) has gained c_disara
+289 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+289 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+290 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+290 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+291 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+291 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+292 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+292 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+293 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+293 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+294 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+294 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+295 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+295 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+296 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+296 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+297 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+297 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+298 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+298 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+299 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+299 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+300 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+300 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+301 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+301 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+302 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+302 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+303 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+303 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+304 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+304 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+305 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+305 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+306 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+306 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+307 - Gained vassal: c_kamin
+307 - vassal: c_kamin - Given to neighbour holder of k_syaritya
+307 - sub vassal: c_kamin - Given to neighbour holder of k_syaritya
+307 - vassal: c_kamin - Holder 1007859 - Primary title: c_kamin has lost the title: c_kamin
+307 - sub vassal: c_kamin - Holder 1007859 - Primary title: c_kamin has lost the title: c_kamin
+307 - vassal: c_kamin - Title given to 1007859 - Primary title: k_syaritya
+307 - sub vassal: c_kamin - Title given to 1007859 - Primary title: k_syaritya
+307 - Holder (1007859) has gained c_kamin
+307 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+307 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+308 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+308 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+309 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+309 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+310 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+310 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+310 - Holder 1010464 - Primary title: k_syaritya has lost the title: k_syaritya
+310 - Title given to 1010464
+310 - vassal: d_elanatha - Holder 1010464 - Primary title: d_elanatha has lost the title: d_elanatha
+310 - sub vassal: d_elanatha - Holder 1010464 - Primary title: d_elanatha has lost the title: d_elanatha
+310 - vassal: d_elanatha - Title given to 1010464 - Primary title: k_syaritya
+310 - sub vassal: d_elanatha - Title given to 1010464 - Primary title: k_syaritya
+310 - Holder (1010464) has gained d_elanatha
+310 - vassal: c_kamin - Setting independent in Validate Realm
+310 - sub vassal: c_kamin - Setting independent in Validate Realm
+310 - vassal: c_kamin - Made independent
+310 - sub vassal: c_kamin - Made independent
+310 - sub vassal: c_disara - Holder 1010464 - Primary title: c_disara has lost the title: c_disara
+310 - sub vassal: c_disara - Title given to 1010464 - Primary title: k_syaritya
+310 - Holder (1010464) has gained c_disara
+310 - sub vassal: c_kelara - Holder 1010464 - Primary title: c_kelara has lost the title: c_kelara
+310 - sub vassal: c_kelara - Title given to 1010464 - Primary title: k_syaritya
+310 - Holder (1010464) has gained c_kelara
+310 - sub vassal: c_tavary - Holder 1010464 - Primary title: c_tavary has lost the title: c_tavary
+310 - sub vassal: c_tavary - Title given to 1010464 - Primary title: k_syaritya
+310 - Holder (1010464) has gained c_tavary
+310 - sub vassal: c_qodamin - Holder 1010464 - Primary title: c_qodamin has lost the title: c_qodamin
+310 - sub vassal: c_qodamin - Title given to 1010464 - Primary title: k_syaritya
+310 - Holder (1010464) has gained c_qodamin
+310 - Holder (1010464) has gained c_kamin
+311 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+311 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+312 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+312 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+313 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+313 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+314 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+314 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+315 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+315 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+316 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+316 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+317 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+317 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+318 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+318 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+319 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+319 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+320 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+320 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+321 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+321 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+322 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+322 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+323 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+323 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+324 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+324 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+325 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+325 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+326 - sub vassal: c_disara - Made vassal of neighbour (k_lilare) due to being a seperate island
+326 - sub vassal: c_disara - Given to neighbour holder of k_lilare
+326 - Holder 1010663 - Primary title: k_syaritya has lost the title: k_syaritya
+326 - Title given to 1010663
+326 - vassal: d_elanatha - Holder 1010663 - Primary title: d_elanatha has lost the title: d_elanatha
+326 - sub vassal: d_elanatha - Holder 1010663 - Primary title: d_elanatha has lost the title: d_elanatha
+326 - vassal: d_elanatha - Title given to 1010663 - Primary title: k_syaritya
+326 - sub vassal: d_elanatha - Title given to 1010663 - Primary title: k_syaritya
+326 - Holder (1010663) has gained d_elanatha
+326 - Holder (1010663) has gained c_kamin
+326 - Holder (1010663) has gained c_qodamin
+326 - Holder (1010663) has gained c_tavary
+326 - Holder (1010663) has gained c_kelara
+326 - Holder (1010663) has gained c_disara
+327 - vassal: d_elanatha - Destroyed due to flagged problem
+327 - sub vassal: d_elanatha - Destroyed due to flagged problem
+327 - vassal: d_elanatha - Made independent
+327 - sub vassal: d_elanatha - Made independent
+327 - Destroyed due to flagged problem
+327 - Title destroyed
+329 - Given to 1008706 in TestCreateEmpire
+329 - Title given to 1008706 - Primary title: d_lavault
+329 - Gained vassal: d_lavault
+329 - Made independent for title creation k_syaritya for k_syaritya
+329 - vassal: d_lavault - Set liege on title creation k_syaritya
+329 - sub vassal: d_lavault - Set liege on title creation k_syaritya
+329 - Gained vassal: d_tavabah
+329 - Gained vassal: c_tevna
+329 - Gained vassal: c_tanamin
+329 - Gained vassal: d_wisamin
+329 - sub vassal: c_tahare - Set liege on title creation k_syaritya
+329 - vassal: d_wisamin - Lost vassal: c_tahare
+329 - sub vassal: d_wisamin - Lost vassal: c_tahare
+329 - Gained vassal: c_tahare
+329 - sub vassal: c_lare - Set liege on title creation k_syaritya
+329 - vassal: d_lavault - Lost vassal: c_lare
+329 - sub vassal: d_lavault - Lost vassal: c_lare
+329 - Gained vassal: c_lare
+329 - Gained vassal: c_dien
+329 - vassal: d_wisamin - Destroyed due to flagged problem
+329 - sub vassal: d_wisamin - Destroyed due to flagged problem
+329 - vassal: d_wisamin - Made independent
+329 - sub vassal: d_wisamin - Made independent
+330 - Gained vassal: c_kamin
+334 - Gained vassal: c_lisamin
+347 - Holder 1011852 - Primary title: k_syaritya has lost the title: k_syaritya
+347 - Title given to 1011852
+347 - vassal: d_lavault - Holder 1011852 - Primary title: d_lavault has lost the title: d_lavault
+347 - sub vassal: d_lavault - Holder 1011852 - Primary title: d_lavault has lost the title: d_lavault
+347 - vassal: d_lavault - Title given to 1011852 - Primary title: k_syaritya
+347 - sub vassal: d_lavault - Title given to 1011852 - Primary title: k_syaritya
+347 - Holder (1011852) has gained d_lavault
+347 - vassal: c_dien - Setting to vassal of d_tavabah in Validate Realm
+347 - sub vassal: c_dien - Setting to vassal of d_tavabah in Validate Realm
+347 - Lost vassal: c_dien
+347 - vassal: c_lare - Setting to vassal of d_tavabah in Validate Realm
+347 - sub vassal: c_lare - Setting to vassal of d_tavabah in Validate Realm
+347 - Lost vassal: c_lare
+347 - vassal: c_tahare - Setting to vassal of d_tavabah in Validate Realm
+347 - sub vassal: c_tahare - Setting to vassal of d_tavabah in Validate Realm
+347 - Lost vassal: c_tahare
+347 - vassal: c_tanamin - Setting to vassal of d_tavabah in Validate Realm
+347 - sub vassal: c_tanamin - Setting to vassal of d_tavabah in Validate Realm
+347 - Lost vassal: c_tanamin
+347 - vassal: c_tevna - Setting to vassal of d_tavabah in Validate Realm
+347 - sub vassal: c_tevna - Setting to vassal of d_tavabah in Validate Realm
+347 - Lost vassal: c_tevna
+347 - vassal: d_tavabah - Gained vassal: c_tevna
+347 - sub vassal: d_tavabah - Gained vassal: c_tevna
+347 - vassal: d_tavabah - Gained vassal: c_tanamin
+347 - sub vassal: d_tavabah - Gained vassal: c_tanamin
+347 - vassal: d_tavabah - Gained vassal: c_tahare
+347 - sub vassal: d_tavabah - Gained vassal: c_tahare
+347 - vassal: d_tavabah - Gained vassal: c_lare
+347 - sub vassal: d_tavabah - Gained vassal: c_lare
+347 - vassal: d_tavabah - Gained vassal: c_dien
+347 - sub vassal: d_tavabah - Gained vassal: c_dien
+347 - vassal: d_tavabah - Holder 1011852 - Primary title: d_tavabah has lost the title: d_tavabah
+347 - sub vassal: d_tavabah - Holder 1011852 - Primary title: d_tavabah has lost the title: d_tavabah
+347 - vassal: d_tavabah - Title given to 1011852 - Primary title: k_syaritya
+347 - sub vassal: d_tavabah - Title given to 1011852 - Primary title: k_syaritya
+347 - Holder (1011852) has gained d_tavabah
+347 - sub vassal: c_dien - Holder 1011852 - Primary title: c_dien has lost the title: c_dien
+347 - sub vassal: c_dien - Title given to 1011852 - Primary title: k_syaritya
+347 - Hold

@@ -1,0 +1,58 @@
+200 - Title given to 1000917
+200 - vassal: c_edilaaq - Given to 1000920 via AddCharacterForTitle
+200 - sub vassal: c_edilaaq - Given to 1000920 via AddCharacterForTitle
+200 - vassal: c_edilaaq - Holder 1000920 - Primary title: c_edilaaq has lost the title: c_edilaaq
+200 - sub vassal: c_edilaaq - Holder 1000920 - Primary title: c_edilaaq has lost the title: c_edilaaq
+200 - vassal: c_edilaaq - Title given to 1000920
+200 - sub vassal: c_edilaaq - Title given to 1000920
+200 - vassal: c_lisulah - Given to 1000922 via AddCharacterForTitle
+200 - sub vassal: c_lisulah - Given to 1000922 via AddCharacterForTitle
+200 - vassal: c_lisulah - Holder 1000922 - Primary title: c_lisulah has lost the title: c_lisulah
+200 - sub vassal: c_lisulah - Holder 1000922 - Primary title: c_lisulah has lost the title: c_lisulah
+200 - vassal: c_lisulah - Title given to 1000922
+200 - sub vassal: c_lisulah - Title given to 1000922
+200 - vassal: c_bigumo - Holder 1000917 - Primary title: c_bigumo has lost the title: c_bigumo
+200 - sub vassal: c_bigumo - Holder 1000917 - Primary title: c_bigumo has lost the title: c_bigumo
+200 - vassal: c_bigumo - Title given to 1000917 - Primary title: d_tidabir
+200 - sub vassal: c_bigumo - Title given to 1000917 - Primary title: d_tidabir
+200 - Holder (1000917) has gained c_bigumo
+200 - vassal: c_edilaaq - Holder 1000917 - Primary title: c_edilaaq has lost the title: c_edilaaq
+200 - sub vassal: c_edilaaq - Holder 1000917 - Primary title: c_edilaaq has lost the title: c_edilaaq
+200 - vassal: c_edilaaq - Title given to 1000917 - Primary title: d_tidabir
+200 - sub vassal: c_edilaaq - Title given to 1000917 - Primary title: d_tidabir
+200 - Holder (1000917) has gained c_edilaaq
+200 - vassal: c_lisulah - Holder 1000917 - Primary title: c_lisulah has lost the title: c_lisulah
+200 - sub vassal: c_lisulah - Holder 1000917 - Primary title: c_lisulah has lost the title: c_lisulah
+200 - vassal: c_lisulah - Title given to 1000917 - Primary title: d_tidabir
+200 - sub vassal: c_lisulah - Title given to 1000917 - Primary title: d_tidabir
+200 - Holder (1000917) has gained c_lisulah
+215 - Holder 1002350 - Primary title: d_tidabir has lost the title: d_tidabir
+215 - Title given to 1002350
+215 - vassal: c_lisulah - Holder 1002350 - Primary title: c_lisulah has lost the title: c_lisulah
+215 - vassal: c_lisulah - Title given to 1002350 - Primary title: d_tidabir
+215 - Holder (1002350) has gained c_lisulah
+215 - vassal: c_edilaaq - Holder 1002350 - Primary title: c_edilaaq has lost the title: c_edilaaq
+215 - vassal: c_edilaaq - Title given to 1002350 - Primary title: d_tidabir
+215 - Holder (1002350) has gained c_edilaaq
+215 - vassal: c_bigumo - Holder 1002350 - Primary title: c_bigumo has lost the title: c_bigumo
+215 - vassal: c_bigumo - Title given to 1002350 - Primary title: d_tidabir
+215 - Holder (1002350) has gained c_bigumo
+216 - Holder 1002862 - Primary title: d_tidabir has lost the title: d_tidabir
+216 - Title given to 1002862 - Primary title: k_kusumo
+216 - vassal: c_lisulah - Holder 1002862 - Primary title: c_lisulah has lost the title: c_lisulah
+216 - vassal: c_lisulah - Title given to 1002862 - Primary title: k_kusumo
+216 - vassal: c_edilaaq - Holder 1002862 - Primary title: c_edilaaq has lost the title: c_edilaaq
+216 - vassal: c_edilaaq - Title given to 1002862 - Primary title: k_kusumo
+216 - vassal: c_bigumo - Holder 1002862 - Primary title: c_bigumo has lost the title: c_bigumo
+216 - vassal: c_bigumo - Title given to 1002862 - Primary title: k_kusumo
+216 - vassal: c_lisulah - Title given to 1003470
+220 - Gained vassal: c_kisine
+220 - Gained vassal: c_rigafu
+220 - Holder 1000923 - Primary title: d_tidabir has lost the title: d_tidabir
+220 - Title given to 1000923 - Primary title: k_kusumo
+220 - vassal: c_bigumo - Setting to vassal of d_tisiin in Validate Realm
+220 - Lost vassal: c_bigumo
+220 - vassal: c_edilaaq - Setting to vassal of d_tisiin in Validate Realm
+220 - Lost vassal: c_edilaaq
+220 - vassal: c_rigafu - Setting to vassal of d_tisiin in Validate Realm
+220 - Lost v

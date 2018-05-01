@@ -1,0 +1,52 @@
+200 - Title given to 1000173
+200 - vassal: c_rocalk - Given to 1000176 via AddCharacterForTitle
+200 - sub vassal: c_rocalk - Given to 1000176 via AddCharacterForTitle
+200 - vassal: c_rocalk - Holder 1000176 - Primary title: c_rocalk has lost the title: c_rocalk
+200 - sub vassal: c_rocalk - Holder 1000176 - Primary title: c_rocalk has lost the title: c_rocalk
+200 - vassal: c_rocalk - Title given to 1000176
+200 - sub vassal: c_rocalk - Title given to 1000176
+200 - vassal: c_rosyayka - Holder 1000173 - Primary title: c_rosyayka has lost the title: c_rosyayka
+200 - sub vassal: c_rosyayka - Holder 1000173 - Primary title: c_rosyayka has lost the title: c_rosyayka
+200 - vassal: c_rosyayka - Title given to 1000173 - Primary title: d_kegalk
+200 - sub vassal: c_rosyayka - Title given to 1000173 - Primary title: d_kegalk
+200 - Holder (1000173) has gained c_rosyayka
+200 - vassal: c_rocalk - Holder 1000173 - Primary title: c_rocalk has lost the title: c_rocalk
+200 - sub vassal: c_rocalk - Holder 1000173 - Primary title: c_rocalk has lost the title: c_rocalk
+200 - vassal: c_rocalk - Title given to 1000173 - Primary title: d_kegalk
+200 - sub vassal: c_rocalk - Title given to 1000173 - Primary title: d_kegalk
+200 - Holder (1000173) has gained c_rocalk
+200 - vassal: c_lacalk - Holder 1000173 - Primary title: c_lacalk has lost the title: c_lacalk
+200 - sub vassal: c_lacalk - Holder 1000173 - Primary title: c_lacalk has lost the title: c_lacalk
+200 - vassal: c_lacalk - Title given to 1000173 - Primary title: d_kegalk
+200 - sub vassal: c_lacalk - Title given to 1000173 - Primary title: d_kegalk
+200 - Holder (1000173) has gained c_lacalk
+214 - Holder (1000173) has gained d_agonuaz
+214 - Holder (1000173) has gained c_talory
+214 - Holder (1000173) has gained c_qosalk
+219 - Title given to 1003340
+219 - vassal: c_lacalk - Setting to vassal of d_agonuaz in Validate Realm
+219 - Lost vassal: c_lacalk
+219 - vassal: c_rocalk - Setting to vassal of d_agonuaz in Validate Realm
+219 - Lost vassal: c_rocalk
+219 - vassal: c_rosyayka - Setting to vassal of d_agonuaz in Validate Realm
+219 - Lost vassal: c_rosyayka
+219 - Holder (1003340) has gained c_lacalk
+219 - Gained vassal: c_lacalk
+219 - Holder (1003340) has gained c_rocalk
+219 - Gained vassal: c_rocalk
+219 - Holder (1003340) has gained c_rosyayka
+219 - Gained vassal: c_rosyayka
+219 - Holder (1003340) has gained d_agonuaz
+219 - Holder (1003340) has gained c_talory
+219 - Holder (1003340) has gained c_qosalk
+239 - Holder 1000184 - Primary title: d_kegalk has lost the title: d_kegalk
+239 - Title given to 1000184 - Primary title: k_apocory
+239 - vassal: c_lacalk - Setting to vassal of d_agonuaz in Validate Realm
+239 - Lost vassal: c_lacalk
+239 - vassal: c_rocalk - Setting to vassal of d_agonuaz in Validate Realm
+239 - Lost vassal: c_rocalk
+239 - vassal: c_rosyayka - Setting to vassal of d_agonuaz in Validate Realm
+239 - Lost vassal: c_rosyayka
+240 - Destroyed due to flagged problem
+240 - Made independent
+240 - Title destroyed

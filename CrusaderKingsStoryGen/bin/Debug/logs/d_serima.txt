@@ -1,0 +1,58 @@
+200 - Title given to 1001162
+200 - vassal: c_eraiji - Holder 1001162 - Primary title: c_eraiji has lost the title: c_eraiji
+200 - sub vassal: c_eraiji - Holder 1001162 - Primary title: c_eraiji has lost the title: c_eraiji
+200 - vassal: c_eraiji - Title given to 1001162 - Primary title: d_serima
+200 - sub vassal: c_eraiji - Title given to 1001162 - Primary title: d_serima
+200 - Holder (1001162) has gained c_eraiji
+200 - vassal: c_teregh - Holder 1001162 - Primary title: c_teregh has lost the title: c_teregh
+200 - sub vassal: c_teregh - Holder 1001162 - Primary title: c_teregh has lost the title: c_teregh
+200 - vassal: c_teregh - Title given to 1001162 - Primary title: d_serima
+200 - sub vassal: c_teregh - Title given to 1001162 - Primary title: d_serima
+200 - Holder (1001162) has gained c_teregh
+200 - vassal: c_dutegh - Holder 1001162 - Primary title: c_dutegh has lost the title: c_dutegh
+200 - sub vassal: c_dutegh - Holder 1001162 - Primary title: c_dutegh has lost the title: c_dutegh
+200 - vassal: c_dutegh - Title given to 1001162 - Primary title: d_serima
+200 - sub vassal: c_dutegh - Title given to 1001162 - Primary title: d_serima
+200 - Holder (1001162) has gained c_dutegh
+200 - vassal: c_sueran - Holder 1001162 - Primary title: c_sueran has lost the title: c_sueran
+200 - sub vassal: c_sueran - Holder 1001162 - Primary title: c_sueran has lost the title: c_sueran
+200 - vassal: c_sueran - Title given to 1001162 - Primary title: d_serima
+200 - sub vassal: c_sueran - Title given to 1001162 - Primary title: d_serima
+200 - Holder (1001162) has gained c_sueran
+200 - Holder 1001503 - Primary title: d_serima has lost the title: d_serima
+200 - Title given to 1001503 - Primary title: k_butidn
+211 - Holder 1001108 - Primary title: d_serima has lost the title: d_serima
+211 - Title given to 1001108 - Primary title: k_butidn
+231 - Holder 1002126 - Primary title: d_serima has lost the title: d_serima
+231 - Title given to 1002126 - Primary title: k_butidn
+237 - Holder 1004132 - Primary title: d_serima has lost the title: d_serima
+237 - Title given to 1004132 - Primary title: k_butidn
+238 - vassal: c_teregh - Given to 1005118 in HandleTitles - Too many duke titles
+238 - vassal: c_eraiji - Holder 1005118 - Primary title: c_eraiji has lost the title: c_teregh
+238 - vassal: c_teregh - Title given to 1005118
+238 - Title given to 1005118 - Primary title: c_teregh
+238 - vassal: c_teregh - Holder (1005118) has gained d_serima
+238 - Too many dukes, given to dejure: k_butidn
+258 - Holder 1005192 - Primary title: d_serima has lost the title: d_serima
+258 - Title given to 1005192
+258 - vassal: c_teregh - Holder 1005192 - Primary title: c_teregh has lost the title: c_teregh
+258 - vassal: c_teregh - Title given to 1005192 - Primary title: d_serima
+258 - Holder (1005192) has gained c_teregh
+271 - Holder 1006738 - Primary title: d_serima has lost the title: d_serima
+271 - Title given to 1006738
+271 - vassal: c_teregh - Holder 1006738 - Primary title: c_teregh has lost the title: c_teregh
+271 - vassal: c_teregh - Title given to 1006738 - Primary title: d_serima
+271 - Holder (1006738) has gained c_teregh
+298 - Holder 1008638 - Primary title: d_serima has lost the title: d_serima
+298 - Title given to 1008638
+298 - vassal: c_teregh - Holder 1008638 - Primary title: c_teregh has lost the title: c_teregh
+298 - vassal: c_teregh - Title given to 1008638 - Primary title: d_serima
+298 - Holder (1008638) has gained c_teregh
+300 - vassal: c_eraiji - Holder 1008638 - Primary title: c_eraiji has lost the title: c_eraiji
+300 - vassal: c_eraiji - Title given to 1008638 - Primary title: d_serima
+300 - Holder (1008638) has gained c_eraiji
+300 - vassal: c_dutegh - Holder 1008638 - Primary title: c_dutegh has lost the title: c_dutegh
+300 - vassal: c_dutegh - Title given to 1008638 - Primary title: d_serima
+300 - Holder (1008638) has gained c_dutegh
+300 - vassal: c_sueran - Holder 1008638 - Primary title: c_sueran has lost the title: c_sueran
+300 - vassal: c_sueran - Title given to 1008638 - Primary title: d_seri

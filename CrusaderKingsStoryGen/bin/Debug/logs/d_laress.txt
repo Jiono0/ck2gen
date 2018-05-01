@@ -1,0 +1,121 @@
+200 - Title given to 1000695
+200 - vassal: c_rasubu - Holder 1000695 - Primary title: c_rasubu has lost the title: c_rasubu
+200 - sub vassal: c_rasubu - Holder 1000695 - Primary title: c_rasubu has lost the title: c_rasubu
+200 - vassal: c_rasubu - Title given to 1000695 - Primary title: d_laress
+200 - sub vassal: c_rasubu - Title given to 1000695 - Primary title: d_laress
+200 - Holder (1000695) has gained c_rasubu
+200 - vassal: c_waytougu - Holder 1000695 - Primary title: c_waytougu has lost the title: c_waytougu
+200 - sub vassal: c_waytougu - Holder 1000695 - Primary title: c_waytougu has lost the title: c_waytougu
+200 - vassal: c_waytougu - Title given to 1000695 - Primary title: d_laress
+200 - sub vassal: c_waytougu - Title given to 1000695 - Primary title: d_laress
+200 - Holder (1000695) has gained c_waytougu
+200 - Holder 1001487 - Primary title: d_laress has lost the title: d_laress
+200 - Title given to 1001487 - Primary title: k_kanaud
+200 - vassal: c_rasubu - Holder 1001487 - Primary title: c_rasubu has lost the title: c_rasubu
+200 - vassal: c_rasubu - Title given to 1001487 - Primary title: k_kanaud
+200 - vassal: c_waytougu - Given to 1001986 in HandleTitles - Too many duke titles
+200 - vassal: c_waytougu - Holder 1001986 - Primary title: c_waytougu has lost the title: c_waytougu
+200 - vassal: c_waytougu - Title given to 1001986
+200 - Title given to 1001986 - Primary title: c_waytougu
+200 - vassal: c_waytougu - Holder (1001986) has gained d_laress
+200 - vassal: c_rasubu - Setting to vassal of k_kanaud in Validate Realm
+200 - Lost vassal: c_rasubu
+200 - Too many dukes, given to dejure: k_kanaud
+210 - Holder 1002232 - Primary title: d_laress has lost the title: d_laress
+210 - Title given to 1002232
+210 - vassal: c_waytougu - Holder 1002232 - Primary title: c_waytougu has lost the title: c_waytougu
+210 - vassal: c_waytougu - Title given to 1002232 - Primary title: d_laress
+210 - Holder (1002232) has gained c_waytougu
+212 - Holder 1000629 - Primary title: d_laress has lost the title: d_laress
+212 - Title given to 1000629 - Primary title: d_kescund
+212 - vassal: c_waytougu - Holder 1000629 - Primary title: c_waytougu has lost the title: c_waytougu
+212 - vassal: c_waytougu - Title given to 1000629 - Primary title: d_kescund
+231 - vassal: c_waytougu - Made independent due to being a seperate island
+231 - Holder 1004590 - Primary title: d_laress has lost the title: c_waytougu
+231 - vassal: c_waytougu - Title given to 1004590
+231 - vassal: c_waytougu - Made independent
+232 - Destroyed due to flagged problem
+232 - Made independent
+232 - Title destroyed
+254 - Given to 1004590 in TestCreateEmpire
+254 - Title given to 1004590 - Primary title: c_waytougu
+254 - Gained vassal: c_waytougu
+254 - Made independent for title creation d_laress for d_laress
+254 - vassal: c_waytougu - Set liege on title creation d_laress
+254 - sub vassal: c_waytougu - Set liege on title creation d_laress
+254 - Gained vassal: c_rasubu
+265 - Holder (1004590) has gained k_kanaud
+265 - vassal: c_waytougu - Title given to 1007225
+265 - vassal: c_rasubu - Title given to 1007226
+302 - sub vassal: c_satabha - Setting to vassal of d_laress in Validate Realm
+302 - sub vassal: c_raygg - Setting to vassal of d_laress in Validate Realm
+302 - sub vassal: c_sanoul - Setting to vassal of d_laress in Validate Realm
+302 - sub vassal: c_wuned - Setting to vassal of d_laress in Validate Realm
+302 - sub vassal: c_nadabha - Setting to vassal of d_laress in Validate Realm
+302 - Gained vassal: c_nadabha
+302 - Gained vassal: c_wuned
+302 - Gained vassal: c_sanoul
+302 - Gained vassal: c_raygg
+302 - Gained vassal: c_satabha
+302 - Holder 1007605 - Primary title: d_laress has lost the title: d_laress
+302 - Title given to 1007605 - Primary title: k_kanaud
+302 - vassal: c_satabha - Holder 1007605 - Primary title: c_satabha has lost the title: c_satabha
+302 - vassal: c_satabha - Title given to 1007605 - Primary title: k_kanaud
+302 - vassal: c_raygg - Holder 1007605 - Primary title: c_raygg has lost the title: c_raygg
+302 - vassal: c_raygg - Title given to 1007605 - Primary title: k_kanaud
+302 - vassal: c_sanoul - Holder 1007605 - Primary title: c_sanoul has lost the title: c_sanoul
+302 - vassal: c_sanoul - Title given to 1007605 - Primary title: k_kanaud
+302 - vassal: c_wuned - Holder 1007605 - Primary title: c_wuned has lost the title: c_wuned
+302 - vassal: c_wuned - Title given to 1007605 - Primary title: k_kanaud
+302 - vassal: c_nadabha - Holder 1007605 - Primary title: c_nadabha has lost the title: c_nadabha
+302 - vassal: c_nadabha - Title given to 1007605 - Primary title: k_kanaud
+303 - vassal: c_satabha - Title given to 1009997
+318 - vassal: c_nadabha - Title given to 1011021
+318 - vassal: c_sanoul - Title given to 1011022
+318 - vassal: c_wuned - Title given to 1011023
+320 - sub vassal: c_wuced - Setting to vassal of d_laress in Validate Realm
+320 - sub vassal: c_ladabha - Setting to vassal of d_laress in Validate Realm
+320 - sub vassal: c_rahile - Setting to vassal of d_laress in Validate Realm
+320 - sub vassal: c_rescugel - Setting to vassal of d_laress in Validate Realm
+320 - Gained vassal: c_rescugel
+320 - Gained vassal: c_rahile
+320 - Gained vassal: c_ladabha
+320 - Gained vassal: c_wuced
+320 - Holder 1009996 - Primary title: d_laress has lost the title: d_laress
+320 - Title given to 1009996 - Primary title: k_kanaud
+320 - vassal: c_wuced - Holder 1009996 - Primary title: c_wuced has lost the title: c_wuced
+320 - vassal: c_wuced - Title given to 1009996 - Primary title: k_kanaud
+320 - vassal: c_ladabha - Holder 1009996 - Primary title: c_ladabha has lost the title: c_ladabha
+320 - vassal: c_ladabha - Title given to 1009996 - Primary title: k_kanaud
+320 - vassal: c_rahile - Holder 1009996 - Primary title: c_rahile has lost the title: c_rahile
+320 - vassal: c_rahile - Title given to 1009996 - Primary title: k_kanaud
+320 - vassal: c_rescugel - Holder 1009996 - Primary title: c_rescugel has lost the title: c_rescugel
+320 - vassal: c_rescugel - Title given to 1009996 - Primary title: k_kanaud
+320 - vassal: c_raygg - Holder 1009996 - Primary title: c_raygg has lost the title: c_raygg
+320 - vassal: c_raygg - Title given to 1009996 - Primary title: k_kanaud
+321 - vassal: c_rescugel - Title given to 1011231
+332 - sub vassal: c_anugel - Setting to vassal of d_laress in Validate Realm
+332 - Gained vassal: c_anugel
+332 - Holder 1010301 - Primary title: d_laress has lost the title: d_laress
+332 - Title given to 1010301 - Primary title: k_kanaud
+332 - vassal: c_anugel - Holder 1010301 - Primary title: c_anugel has lost the title: c_wuced
+332 - vassal: c_wuced - Title given to 1010301 - Primary title: k_kanaud
+332 - vassal: c_anugel - Holder 1010301 - Primary title: c_anugel has lost the title: c_ladabha
+332 - vassal: c_ladabha - Title given to 1010301 - Primary title: k_kanaud
+332 - vassal: c_anugel - Holder 1010301 - Primary title: c_anugel has lost the title: c_rahile
+332 - vassal: c_rahile - Title given to 1010301 - Primary title: k_kanaud
+332 - vassal: c_anugel - Holder 1010301 - Primary title: c_anugel has lost the title: c_raygg
+332 - vassal: c_raygg - Title given to 1010301 - Primary title: k_kanaud
+340 - vassal: c_anugel - Holder 1010301 - Primary title: c_anugel has lost the title: c_anugel
+340 - vassal: c_anugel - Title given to 1010301 - Primary title: k_kanaud
+340 - vassal: c_rahile - Title given to 1012475
+346 - sub vassal: c_tolamba - Setting to vassal of d_laress in Validate Realm
+346 - Gained vassal: c_tolamba
+346 - Holder 1012333 - Primary title: d_laress has lost the title: d_laress
+346 - Title given to 1012333 - Primary title: k_kanaud
+346 - vassal: c_anugel - Holder 1012333 - Primary title: c_anugel has lost the title: c_anugel
+346 - vassal: c_anugel - Title given to 1012333 - Primary title: k_kanaud
+346 - vassal: c_tolamba - Holder 1012333 - Primary title: c_tolamba has lost the title: c_tolamba
+346 - vassal: c_tolamba - Title given to 1012333 - Primary title: k_kanaud
+346 - vassal: c_raygg - Holder 1012333 - Primary title: c_raygg has lost the title: c_raygg
+346 - v

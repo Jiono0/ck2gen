@@ -1,0 +1,49 @@
+200 - Title given to 1000680
+200 - vassal: c_erosika - Given to 1000684 via AddCharacterForTitle
+200 - sub vassal: c_erosika - Given to 1000684 via AddCharacterForTitle
+200 - vassal: c_erosika - Holder 1000684 - Primary title: c_erosika has lost the title: c_erosika
+200 - sub vassal: c_erosika - Holder 1000684 - Primary title: c_erosika has lost the title: c_erosika
+200 - vassal: c_erosika - Title given to 1000684
+200 - sub vassal: c_erosika - Title given to 1000684
+200 - vassal: c_korule - Holder 1000680 - Primary title: c_korule has lost the title: c_korule
+200 - sub vassal: c_korule - Holder 1000680 - Primary title: c_korule has lost the title: c_korule
+200 - vassal: c_korule - Title given to 1000680 - Primary title: d_nirika
+200 - sub vassal: c_korule - Title given to 1000680 - Primary title: d_nirika
+200 - Holder (1000680) has gained c_korule
+200 - vassal: c_nika - Holder 1000680 - Primary title: c_nika has lost the title: c_nika
+200 - sub vassal: c_nika - Holder 1000680 - Primary title: c_nika has lost the title: c_nika
+200 - vassal: c_nika - Title given to 1000680 - Primary title: d_nirika
+200 - sub vassal: c_nika - Title given to 1000680 - Primary title: d_nirika
+200 - Holder (1000680) has gained c_nika
+200 - vassal: c_datika - Title given to 1000680 - Primary title: d_nirika
+200 - Holder (1000680) has gained c_datika
+217 - Holder 1002863 - Primary title: d_nirika has lost the title: d_nirika
+217 - Title given to 1002863
+217 - vassal: c_datika - Holder 1002863 - Primary title: c_datika has lost the title: c_datika
+217 - vassal: c_datika - Title given to 1002863 - Primary title: d_nirika
+217 - Holder (1002863) has gained c_datika
+217 - vassal: c_nika - Holder 1002863 - Primary title: c_nika has lost the title: c_nika
+217 - vassal: c_nika - Title given to 1002863 - Primary title: d_nirika
+217 - Holder (1002863) has gained c_nika
+217 - vassal: c_korule - Holder 1002863 - Primary title: c_korule has lost the title: c_korule
+217 - vassal: c_korule - Title given to 1002863 - Primary title: d_nirika
+217 - Holder (1002863) has gained c_korule
+229 - Holder 1001562 - Primary title: d_nirika has lost the title: d_nirika
+229 - Title given to 1001562 - Primary title: k_noryana
+229 - vassal: c_korule - Holder 1001562 - Primary title: c_korule has lost the title: c_korule
+229 - vassal: c_korule - Title given to 1001562 - Primary title: k_noryana
+229 - vassal: c_nika - Holder 1001562 - Primary title: c_nika has lost the title: c_nika
+229 - vassal: c_nika - Title given to 1001562 - Primary title: k_noryana
+229 - vassal: c_datika - Holder 1001562 - Primary title: c_datika has lost the title: c_datika
+229 - vassal: c_datika - Title given to 1001562 - Primary title: k_noryana
+248 - Holder 1004726 - Primary title: d_nirika has lost the title: d_nirika
+248 - Title given to 1004726 - Primary title: k_noryana
+248 - vassal: c_datika - Setting to vassal of d_ragika in Validate Realm
+248 - Lost vassal: c_datika
+248 - vassal: c_nika - Setting to vassal of d_ragika in Validate Realm
+248 - Lost vassal: c_nika
+248 - vassal: c_korule - Setting to vassal of d_ragika in Validate Realm
+248 - Lost vassal: c_korule
+249 - Destroyed due to flagged problem
+249 - Made independent
+249 - Title destroyed

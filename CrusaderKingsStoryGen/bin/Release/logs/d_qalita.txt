@@ -1,0 +1,89 @@
+200 - Title given to 1000536
+200 - vassal: c_lohold - Given to 1000539 via AddCharacterForTitle
+200 - sub vassal: c_lohold - Given to 1000539 via AddCharacterForTitle
+200 - vassal: c_lohold - Holder 1000539 - Primary title: c_lohold has lost the title: c_lohold
+200 - sub vassal: c_lohold - Holder 1000539 - Primary title: c_lohold has lost the title: c_lohold
+200 - vassal: c_lohold - Title given to 1000539
+200 - sub vassal: c_lohold - Title given to 1000539
+200 - vassal: c_esyamita - Holder 1000536 - Primary title: c_esyamita has lost the title: c_esyamita
+200 - sub vassal: c_esyamita - Holder 1000536 - Primary title: c_esyamita has lost the title: c_esyamita
+200 - vassal: c_esyamita - Title given to 1000536 - Primary title: d_qalita
+200 - sub vassal: c_esyamita - Title given to 1000536 - Primary title: d_qalita
+200 - Holder (1000536) has gained c_esyamita
+200 - vassal: c_lohold - Holder 1000536 - Primary title: c_lohold has lost the title: c_lohold
+200 - sub vassal: c_lohold - Holder 1000536 - Primary title: c_lohold has lost the title: c_lohold
+200 - vassal: c_lohold - Title given to 1000536 - Primary title: d_qalita
+200 - sub vassal: c_lohold - Title given to 1000536 - Primary title: d_qalita
+200 - Holder (1000536) has gained c_lohold
+221 - Holder (1000536) has gained d_lutegum
+221 - Holder (1000536) has gained c_rerand
+221 - Holder (1000536) has gained c_awalara
+221 - Holder (1000536) has gained c_reirara
+232 - Title given to 1003432
+232 - vassal: c_esyamita - Setting to vassal of d_lutegum in Validate Realm
+232 - Lost vassal: c_esyamita
+232 - vassal: c_lohold - Setting to vassal of d_lutegum in Validate Realm
+232 - Lost vassal: c_lohold
+232 - Holder (1003432) has gained c_esyamita
+232 - Gained vassal: c_esyamita
+232 - Holder (1003432) has gained c_lohold
+232 - Gained vassal: c_lohold
+232 - Holder (1003432) has gained d_lutegum
+232 - Holder (1003432) has gained c_rerand
+232 - Holder (1003432) has gained c_awalara
+232 - Holder (1003432) has gained c_reirara
+269 - Gained vassal: c_reirara
+269 - Gained vassal: c_awalara
+269 - Gained vassal: c_rerand
+269 - Holder 1005261 - Primary title: d_qalita has lost the title: d_qalita
+269 - Title given to 1005261 - Primary title: d_lutegum
+269 - vassal: c_esyamita - Holder 1005261 - Primary title: c_esyamita has lost the title: c_esyamita
+269 - vassal: c_esyamita - Title given to 1005261 - Primary title: d_lutegum
+269 - vassal: c_lohold - Holder 1005261 - Primary title: c_lohold has lost the title: c_lohold
+269 - vassal: c_lohold - Title given to 1005261 - Primary title: d_lutegum
+269 - vassal: c_rerand - Holder 1005261 - Primary title: c_rerand has lost the title: c_rerand
+269 - vassal: c_rerand - Title given to 1005261 - Primary title: d_lutegum
+269 - vassal: c_awalara - Holder 1005261 - Primary title: c_awalara has lost the title: c_awalara
+269 - vassal: c_awalara - Title given to 1005261 - Primary title: d_lutegum
+269 - vassal: c_reirara - Holder 1005261 - Primary title: c_reirara has lost the title: c_reirara
+269 - vassal: c_reirara - Title given to 1005261 - Primary title: d_lutegum
+270 - Holder 1005961 - Primary title: d_qalita has lost the title: d_qalita
+270 - Title given to 1005961 - Primary title: d_lavba
+270 - vassal: c_esyamita - Holder 1005961 - Primary title: c_esyamita has lost the title: c_esyamita
+270 - vassal: c_esyamita - Title given to 1005961 - Primary title: d_lavba
+270 - vassal: c_lohold - Holder 1005961 - Primary title: c_lohold has lost the title: c_lohold
+270 - vassal: c_lohold - Title given to 1005961 - Primary title: d_lavba
+270 - vassal: c_rerand - Holder 1005961 - Primary title: c_rerand has lost the title: c_rerand
+270 - vassal: c_rerand - Title given to 1005961 - Primary title: d_lavba
+270 - vassal: c_awalara - Holder 1005961 - Primary title: c_awalara has lost the title: c_awalara
+270 - vassal: c_awalara - Title given to 1005961 - Primary title: d_lavba
+270 - vassal: c_reirara - Holder 1005961 - Primary title: c_reirara has lost the title: c_reirara
+270 - vassal: c_reirara - Title given to 1005961 - Primary title: d_lavba
+271 - Holder 1008347 - Primary title: d_qalita has lost the title: c_dalabel
+271 - Holder 1008348 - Primary title: d_qalita has lost the title: c_sohaja
+277 - Holder (1005961) has gained d_surogli
+278 - vassal: c_lohold - Given to 1008932 in HandleTitles - Too many duke titles
+278 - vassal: c_lohold - Title given to 1008932
+278 - Title given to 1006663 - Primary title: k_barair
+278 - vassal: c_esyamita - Setting to vassal of d_surogli in Validate Realm
+278 - Lost vassal: c_esyamita
+278 - vassal: c_rerand - Setting to vassal of d_surogli in Validate Realm
+278 - Lost vassal: c_rerand
+278 - vassal: c_awalara - Setting to vassal of d_surogli in Validate Realm
+278 - Lost vassal: c_awalara
+278 - vassal: c_reirara - Setting to vassal of d_surogli in Validate Realm
+278 - Lost vassal: c_reirara
+278 - Too many dukes, made direct title into vassal of k_barair
+278 - Title given to 1002972
+283 - Holder 1009258 - Primary title: d_qalita has lost the title: d_qalita
+283 - Title given to 1009258
+320 - Holder 1010667 - Primary title: d_qalita has lost the title: d_qalita
+320 - Title given to 1010667
+343 - Holder 1012607 - Primary title: d_qalita has lost the title: d_qalita
+343 - Title given to 1012607
+379 - Holder 1015395 - Primary title: d_qalita has lost the title: d_qalita
+379 - Title given to 1015395 - Primary title: d_lavba
+400 - Holder (1015395) has gained c_sohaja
+400 - vassal: c_lohold - Holder 1015395 - Primary title: c_lohold has lost the title: c_lohold
+400 - vassal: c_lohold - Title given to 1015395 - Primary title: d_qalita
+400 - Holder (1015395) has gained c_lohold

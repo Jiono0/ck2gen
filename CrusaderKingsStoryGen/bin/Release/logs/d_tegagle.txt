@@ -1,0 +1,94 @@
+200 - Title given to 1000629
+200 - vassal: c_welunet - Given to 1000633 via AddCharacterForTitle
+200 - sub vassal: c_welunet - Given to 1000633 via AddCharacterForTitle
+200 - vassal: c_welunet - Holder 1000633 - Primary title: c_welunet has lost the title: c_welunet
+200 - sub vassal: c_welunet - Holder 1000633 - Primary title: c_welunet has lost the title: c_welunet
+200 - vassal: c_welunet - Title given to 1000633
+200 - sub vassal: c_welunet - Title given to 1000633
+200 - vassal: c_rargum - Holder 1000629 - Primary title: c_rargum has lost the title: c_rargum
+200 - sub vassal: c_rargum - Holder 1000629 - Primary title: c_rargum has lost the title: c_rargum
+200 - vassal: c_rargum - Title given to 1000629 - Primary title: d_tegagle
+200 - sub vassal: c_rargum - Title given to 1000629 - Primary title: d_tegagle
+200 - Holder (1000629) has gained c_rargum
+200 - vassal: c_warni - Holder 1000629 - Primary title: c_warni has lost the title: c_warni
+200 - sub vassal: c_warni - Holder 1000629 - Primary title: c_warni has lost the title: c_warni
+200 - vassal: c_warni - Title given to 1000629 - Primary title: d_tegagle
+200 - sub vassal: c_warni - Title given to 1000629 - Primary title: d_tegagle
+200 - Holder (1000629) has gained c_warni
+200 - vassal: c_welunet - Holder 1000629 - Primary title: c_welunet has lost the title: c_welunet
+200 - sub vassal: c_welunet - Holder 1000629 - Primary title: c_welunet has lost the title: c_welunet
+200 - vassal: c_welunet - Title given to 1000629 - Primary title: d_tegagle
+200 - sub vassal: c_welunet - Title given to 1000629 - Primary title: d_tegagle
+200 - Holder (1000629) has gained c_welunet
+241 - Holder 1002979 - Primary title: d_tegagle has lost the title: d_tegagle
+241 - Title given to 1002979
+241 - vassal: c_welunet - Holder 1002979 - Primary title: c_welunet has lost the title: c_welunet
+241 - vassal: c_welunet - Title given to 1002979 - Primary title: d_tegagle
+241 - Holder (1002979) has gained c_welunet
+241 - vassal: c_warni - Holder 1002979 - Primary title: c_warni has lost the title: c_warni
+241 - vassal: c_warni - Title given to 1002979 - Primary title: d_tegagle
+241 - Holder (1002979) has gained c_warni
+241 - vassal: c_rargum - Holder 1002979 - Primary title: c_rargum has lost the title: c_rargum
+241 - vassal: c_rargum - Title given to 1002979 - Primary title: d_tegagle
+241 - Holder (1002979) has gained c_rargum
+251 - Holder 1002077 - Primary title: d_tegagle has lost the title: d_tegagle
+251 - Title given to 1002077 - Primary title: k_sediu
+251 - vassal: c_welunet - Holder 1002077 - Primary title: c_welunet has lost the title: c_welunet
+251 - vassal: c_welunet - Title given to 1002077 - Primary title: k_sediu
+251 - vassal: c_warni - Holder 1002077 - Primary title: c_warni has lost the title: c_warni
+251 - vassal: c_warni - Title given to 1002077 - Primary title: k_sediu
+251 - vassal: c_rargum - Holder 1002077 - Primary title: c_rargum has lost the title: c_rargum
+251 - vassal: c_rargum - Title given to 1002077 - Primary title: k_sediu
+251 - vassal: c_rargum - Given to 1003877 in HandleTitles - Too many duke titles
+251 - vassal: c_rargum - Title given to 1003877
+251 - Title given to 1003877 - Primary title: c_rargum
+251 - vassal: c_rargum - Holder (1003877) has gained d_tegagle
+251 - vassal: c_welunet - Setting to vassal of k_sediu in Validate Realm
+251 - Lost vassal: c_welunet
+251 - vassal: c_warni - Setting to vassal of k_sediu in Validate Realm
+251 - Lost vassal: c_warni
+251 - Too many dukes, given to dejure: k_sediu
+253 - Holder 1002077 - Primary title: d_tegagle has lost the title: d_tegagle
+253 - Title given to 1002077 - Primary title: k_sediu
+253 - vassal: c_rargum - Holder 1002077 - Primary title: c_rargum has lost the title: c_rargum
+253 - vassal: c_rargum - Title given to 1002077 - Primary title: k_sediu
+253 - vassal: c_rargum - Given to 1006837 in HandleTitles - Too many duke titles
+253 - vassal: c_rargum - Title given to 1006837
+253 - Title given to 1006837 - Primary title: c_rargum
+253 - vassal: c_rargum - Holder (1006837) has gained d_tegagle
+253 - Too many dukes, given to dejure: k_sediu
+258 - Holder 1006901 - Primary title: d_tegagle has lost the title: d_tegagle
+258 - Title given to 1006901
+258 - vassal: c_rargum - Holder 1006901 - Primary title: c_rargum has lost the title: c_rargum
+258 - vassal: c_rargum - Title given to 1006901 - Primary title: d_tegagle
+258 - Holder (1006901) has gained c_rargum
+291 - Holder 1008538 - Primary title: d_tegagle has lost the title: d_tegagle
+291 - Title given to 1008538
+291 - vassal: c_rargum - Holder 1008538 - Primary title: c_rargum has lost the title: c_rargum
+291 - vassal: c_rargum - Title given to 1008538 - Primary title: d_tegagle
+291 - Holder (1008538) has gained c_rargum
+299 - Holder 1010420 - Primary title: d_tegagle has lost the title: d_tegagle
+299 - Title given to 1010420
+299 - vassal: c_rargum - Holder 1010420 - Primary title: c_rargum has lost the title: c_rargum
+299 - vassal: c_rargum - Title given to 1010420 - Primary title: d_tegagle
+299 - Holder (1010420) has gained c_rargum
+311 - Holder 1003736 - Primary title: d_tegagle has lost the title: d_tegagle
+311 - Title given to 1003736 - Primary title: c_warni
+311 - Gained vassal: c_warni
+311 - vassal: c_rargum - Holder 1003736 - Primary title: c_rargum has lost the title: c_rargum
+311 - vassal: c_rargum - Title given to 1003736 - Primary title: d_tegagle
+311 - Holder (1003736) has gained c_rargum
+318 - Holder 1009515 - Primary title: d_tegagle has lost the title: d_tegagle
+318 - Title given to 1009515 - Primary title: k_sediu
+318 - vassal: c_warni - Holder 1009515 - Primary title: c_warni has lost the title: c_warni
+318 - vassal: c_warni - Title given to 1009515 - Primary title: k_sediu
+318 - vassal: c_rargum - Holder 1009515 - Primary title: c_rargum has lost the title: c_rargum
+318 - vassal: c_rargum - Title given to 1009515 - Primary title: k_sediu
+318 - vassal: c_warni - Title given to 1012245
+318 - vassal: c_rargum - Title given to 1012246
+332 - Holder 1009758 - Primary title: d_tegagle has lost the title: d_tegagle
+332 - Title given to 1009758 - Primary title: k_sediu
+341 - Holder 1013460 - Primary title: d_tegagle has lost the title: d_tegagle
+341 - Title given to 1013460 - Primary title: k_sediu
+386 - Holder 1014973 - Primary title: d_tegagle has lost the title: d_tegagle
+386 - Title given to 1014973 - Primary title: k_sediu

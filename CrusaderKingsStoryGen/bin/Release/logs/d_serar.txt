@@ -1,0 +1,169 @@
+200 - Title given to 1000916
+200 - vassal: c_tenaa - Given to 1000919 via AddCharacterForTitle
+200 - sub vassal: c_tenaa - Given to 1000919 via AddCharacterForTitle
+200 - vassal: c_tenaa - Holder 1000919 - Primary title: c_tenaa has lost the title: c_tenaa
+200 - sub vassal: c_tenaa - Holder 1000919 - Primary title: c_tenaa has lost the title: c_tenaa
+200 - vassal: c_tenaa - Title given to 1000919
+200 - sub vassal: c_tenaa - Title given to 1000919
+200 - vassal: c_layanaa - Holder 1000916 - Primary title: c_layanaa has lost the title: c_layanaa
+200 - sub vassal: c_layanaa - Holder 1000916 - Primary title: c_layanaa has lost the title: c_layanaa
+200 - vassal: c_layanaa - Title given to 1000916 - Primary title: d_serar
+200 - sub vassal: c_layanaa - Title given to 1000916 - Primary title: d_serar
+200 - Holder (1000916) has gained c_layanaa
+200 - vassal: c_tenaa - Holder 1000916 - Primary title: c_tenaa has lost the title: c_tenaa
+200 - sub vassal: c_tenaa - Holder 1000916 - Primary title: c_tenaa has lost the title: c_tenaa
+200 - vassal: c_tenaa - Title given to 1000916 - Primary title: d_serar
+200 - sub vassal: c_tenaa - Title given to 1000916 - Primary title: d_serar
+200 - Holder (1000916) has gained c_tenaa
+209 - Holder 1002519 - Primary title: d_serar has lost the title: d_serar
+209 - Title given to 1002519
+209 - vassal: c_tenaa - Holder 1002519 - Primary title: c_tenaa has lost the title: c_tenaa
+209 - vassal: c_tenaa - Title given to 1002519 - Primary title: d_serar
+209 - Holder (1002519) has gained c_tenaa
+209 - vassal: c_layanaa - Holder 1002519 - Primary title: c_layanaa has lost the title: c_layanaa
+209 - vassal: c_layanaa - Title given to 1002519 - Primary title: d_serar
+209 - Holder (1002519) has gained c_layanaa
+260 - Holder 1004138 - Primary title: d_serar has lost the title: d_serar
+260 - Title given to 1004138
+260 - vassal: c_layanaa - Holder 1004138 - Primary title: c_layanaa has lost the title: c_layanaa
+260 - vassal: c_layanaa - Title given to 1004138 - Primary title: d_serar
+260 - Holder (1004138) has gained c_layanaa
+260 - vassal: c_tenaa - Holder 1004138 - Primary title: c_tenaa has lost the title: c_tenaa
+260 - vassal: c_tenaa - Title given to 1004138 - Primary title: d_serar
+260 - Holder (1004138) has gained c_tenaa
+264 - Holder (1004138) has gained d_kutar
+264 - Holder (1004138) has gained c_rurar
+264 - Holder (1004138) has gained c_ryati
+264 - Holder (1004138) has gained c_rutisey
+284 - Gained vassal: c_rurar
+284 - Gained vassal: c_ryati
+284 - Gained vassal: c_rutisey
+284 - Holder 1008356 - Primary title: d_serar has lost the title: d_serar
+284 - Title given to 1008356 - Primary title: d_kutar
+284 - vassal: c_rutisey - Holder 1008356 - Primary title: c_rutisey has lost the title: c_rutisey
+284 - vassal: c_rutisey - Title given to 1008356 - Primary title: d_kutar
+284 - vassal: c_ryati - Holder 1008356 - Primary title: c_ryati has lost the title: c_ryati
+284 - vassal: c_ryati - Title given to 1008356 - Primary title: d_kutar
+284 - vassal: c_rurar - Holder 1008356 - Primary title: c_rurar has lost the title: c_rurar
+284 - vassal: c_rurar - Title given to 1008356 - Primary title: d_kutar
+284 - vassal: c_tenaa - Holder 1008356 - Primary title: c_tenaa has lost the title: c_tenaa
+284 - vassal: c_tenaa - Title given to 1008356 - Primary title: d_kutar
+284 - vassal: c_layanaa - Holder 1008356 - Primary title: c_layanaa has lost the title: c_layanaa
+284 - vassal: c_layanaa - Title given to 1008356 - Primary title: d_kutar
+285 - Holder 1005457 - Primary title: d_serar has lost the title: d_serar
+285 - Title given to 1005457 - Primary title: d_turirek
+285 - vassal: c_rutisey - Holder 1005457 - Primary title: c_rutisey has lost the title: c_rutisey
+285 - vassal: c_rutisey - Title given to 1005457 - Primary title: d_turirek
+285 - vassal: c_ryati - Holder 1005457 - Primary title: c_ryati has lost the title: c_ryati
+285 - vassal: c_ryati - Title given to 1005457 - Primary title: d_turirek
+285 - vassal: c_rurar - Holder 1005457 - Primary title: c_rurar has lost the title: c_rurar
+285 - vassal: c_rurar - Title given to 1005457 - Primary title: d_turirek
+285 - vassal: c_tenaa - Holder 1005457 - Primary title: c_tenaa has lost the title: c_tenaa
+285 - vassal: c_tenaa - Title given to 1005457 - Primary title: d_turirek
+285 - vassal: c_layanaa - Holder 1005457 - Primary title: c_layanaa has lost the title: c_layanaa
+285 - vassal: c_layanaa - Title given to 1005457 - Primary title: d_turirek
+286 - Holder 1009576 - Primary title: d_serar has lost the title: c_natimir
+286 - Holder 1009577 - Primary title: d_serar has lost the title: c_lurirek
+286 - Holder 1009578 - Primary title: d_serar has lost the title: c_ryii
+289 - Holder (1005457) has gained d_kutar
+289 - vassal: c_rutisey - Set liege on title creation d_kutar
+289 - Lost vassal: c_rutisey
+289 - vassal: c_ryati - Set liege on title creation d_kutar
+289 - Lost vassal: c_ryati
+289 - vassal: c_rurar - Set liege on title creation d_kutar
+289 - Lost vassal: c_rurar
+289 - vassal: c_tenaa - Set liege on title creation d_kutar
+289 - Lost vassal: c_tenaa
+289 - vassal: c_layanaa - Set liege on title creation d_kutar
+289 - Lost vassal: c_layanaa
+290 - Destroyed due to flagged problem
+290 - Made independent
+290 - Title destroyed
+326 - Given to 1007511 in TestCreateEmpire
+326 - Title given to 1007511 - Primary title: d_turirek
+326 - Made independent for title creation d_serar for d_turirek
+326 - Made independent
+326 - Gained vassal: c_rutisey
+326 - Gained vassal: c_ryati
+326 - Gained vassal: c_rurar
+326 - Gained vassal: c_tenaa
+326 - Gained vassal: c_layanaa
+327 - Holder 1011259 - Primary title: d_serar has lost the title: d_serar
+327 - Title given to 1011259 - Primary title: k_nacaba
+327 - vassal: c_layanaa - Given to 1009427 in HandleTitles - Too many duke titles
+327 - vassal: c_rutisey - Holder 1009427 - Primary title: c_rutisey has lost the title: c_layanaa
+327 - vassal: c_layanaa - Title given to 1009427
+327 - Title given to 1009427 - Primary title: c_layanaa
+327 - vassal: c_layanaa - Holder (1009427) has gained d_serar
+327 - Too many dukes, given to dejure: k_nacaba
+334 - vassal: c_rutisey - Holder 1009427 - Primary title: c_rutisey has lost the title: c_rutisey
+334 - vassal: c_rutisey - Title given to 1009427 - Primary title: d_serar
+334 - Holder (1009427) has gained c_rutisey
+334 - vassal: c_ryati - Holder 1009427 - Primary title: c_ryati has lost the title: c_ryati
+334 - vassal: c_ryati - Title given to 1009427 - Primary title: d_serar
+334 - Holder (1009427) has gained c_ryati
+334 - vassal: c_rurar - Holder 1009427 - Primary title: c_rurar has lost the title: c_rurar
+334 - vassal: c_rurar - Title given to 1009427 - Primary title: d_serar
+334 - Holder (1009427) has gained c_rurar
+334 - vassal: c_tenaa - Holder 1009427 - Primary title: c_tenaa has lost the title: c_tenaa
+334 - vassal: c_tenaa - Title given to 1009427 - Primary title: d_serar
+334 - Holder (1009427) has gained c_tenaa
+343 - Holder 1013039 - Primary title: d_serar has lost the title: d_serar
+343 - Title given to 1013039
+343 - vassal: c_tenaa - Holder 1013039 - Primary title: c_tenaa has lost the title: c_tenaa
+343 - vassal: c_tenaa - Title given to 1013039 - Primary title: d_serar
+343 - Holder (1013039) has gained c_tenaa
+343 - vassal: c_rurar - Holder 1013039 - Primary title: c_rurar has lost the title: c_rurar
+343 - vassal: c_rurar - Title given to 1013039 - Primary title: d_serar
+343 - Holder (1013039) has gained c_rurar
+343 - vassal: c_ryati - Holder 1013039 - Primary title: c_ryati has lost the title: c_ryati
+343 - vassal: c_ryati - Title given to 1013039 - Primary title: d_serar
+343 - Holder (1013039) has gained c_ryati
+343 - vassal: c_rutisey - Holder 1013039 - Primary title: c_rutisey has lost the title: c_rutisey
+343 - vassal: c_rutisey - Title given to 1013039 - Primary title: d_serar
+343 - Holder (1013039) has gained c_rutisey
+343 - vassal: c_layanaa - Holder 1013039 - Primary title: c_layanaa has lost the title: c_layanaa
+343 - vassal: c_layanaa - Title given to 1013039 - Primary title: d_serar
+343 - Holder (1013039) has gained c_layanaa
+348 - Holder 1014236 - Primary title: d_serar has lost the title: d_serar
+348 - Title given to 1014236
+348 - vassal: c_tenaa - Holder 1014236 - Primary title: c_tenaa has lost the title: c_tenaa
+348 - vassal: c_tenaa - Title given to 1014236 - Primary title: d_serar
+348 - Holder (1014236) has gained c_tenaa
+348 - vassal: c_rurar - Holder 1014236 - Primary title: c_rurar has lost the title: c_rurar
+348 - vassal: c_rurar - Title given to 1014236 - Primary title: d_serar
+348 - Holder (1014236) has gained c_rurar
+348 - vassal: c_ryati - Holder 1014236 - Primary title: c_ryati has lost the title: c_ryati
+348 - vassal: c_ryati - Title given to 1014236 - Primary title: d_serar
+348 - Holder (1014236) has gained c_ryati
+348 - vassal: c_rutisey - Holder 1014236 - Primary title: c_rutisey has lost the title: c_rutisey
+348 - vassal: c_rutisey - Title given to 1014236 - Primary title: d_serar
+348 - Holder (1014236) has gained c_rutisey
+348 - vassal: c_layanaa - Holder 1014236 - Primary title: c_layanaa has lost the title: c_layanaa
+348 - vassal: c_layanaa - Title given to 1014236 - Primary title: d_serar
+348 - Holder (1014236) has gained c_layanaa
+351 - Holder 1011259 - Primary title: d_serar has lost the title: d_serar
+351 - Title given to 1011259 - Primary title: k_nacaba
+351 - vassal: c_tenaa - Holder 1011259 - Primary title: c_tenaa has lost the title: c_tenaa
+351 - vassal: c_tenaa - Title given to 1011259 - Primary title: k_nacaba
+351 - vassal: c_rurar - Holder 1011259 - Primary title: c_rurar has lost the title: c_rurar
+351 - vassal: c_rurar - Title given to 1011259 - Primary title: k_nacaba
+351 - vassal: c_ryati - Holder 1011259 - Primary title: c_ryati has lost the title: c_ryati
+351 - vassal: c_ryati - Title given to 1011259 - Primary title: k_nacaba
+351 - vassal: c_rutisey - Holder 1011259 - Primary title: c_rutisey has lost the title: c_rutisey
+351 - vassal: c_rutisey - Title given to 1011259 - Primary title: k_nacaba
+351 - vassal: c_layanaa - Holder 1011259 - Primary title: c_layanaa has lost the title: c_layanaa
+351 - vassal: c_layanaa - Title given to 1011259 - Primary title: k_nacaba
+351 - vassal: c_rurar - Title given to 1014699
+351 - vassal: c_rutisey - Title given to 1014700
+351 - vassal: c_tenaa - Title given to 1014701
+351 - vassal: c_ryati - Title given to 1014702
+351 - vassal: c_layanaa - Title given to 1014703
+362 - Holder 1013683 - Primary title: d_serar has lost the title: d_serar
+362 - Title given to 1013683 - Primary title: k_nacaba
+374 - vassal: c_layanaa - Given to 1016276 in HandleTitles - Too many duke titles
+374 - vassal: c_layanaa - Holder 1016276 - Primary title: c_layanaa has lost the title: c_layanaa
+374 - vassal: c_layanaa - Title given to 1016276
+374 - Title given to 1016276 - Primary title: c_layanaa
+374 - vassal: c_layanaa - Holder (1016276) has gained d_serar
+374 - Too many dukes, given to dejure: k_nacaba

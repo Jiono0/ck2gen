@@ -1,0 +1,170 @@
+200 - Title given to 1001325
+200 - vassal: c_nanimia - Holder 1001314 - Primary title: c_nanimia has lost the title: c_sosush
+200 - sub vassal: c_nanimia - Holder 1001314 - Primary title: c_nanimia has lost the title: c_sosush
+200 - sub vassal: c_sosush - Title given to 1001314 - Primary title: d_wuler
+200 - vassal: c_bephen - Holder 1001325 - Primary title: c_bephen has lost the title: c_bephen
+200 - sub vassal: c_bephen - Holder 1001325 - Primary title: c_bephen has lost the title: c_bephen
+200 - vassal: c_bephen - Title given to 1001325 - Primary title: d_suryo
+200 - sub vassal: c_bephen - Title given to 1001325 - Primary title: d_suryo
+200 - Holder (1001325) has gained c_bephen
+200 - vassal: c_bulyo - Holder 1001325 - Primary title: c_bulyo has lost the title: c_bulyo
+200 - sub vassal: c_bulyo - Holder 1001325 - Primary title: c_bulyo has lost the title: c_bulyo
+200 - vassal: c_bulyo - Title given to 1001325 - Primary title: d_suryo
+200 - sub vassal: c_bulyo - Title given to 1001325 - Primary title: d_suryo
+200 - Holder (1001325) has gained c_bulyo
+200 - vassal: c_nanimia - Holder 1001325 - Primary title: c_nanimia has lost the title: c_nanimia
+200 - sub vassal: c_nanimia - Holder 1001325 - Primary title: c_nanimia has lost the title: c_nanimia
+200 - vassal: c_nanimia - Title given to 1001325 - Primary title: d_suryo
+200 - sub vassal: c_nanimia - Title given to 1001325 - Primary title: d_suryo
+200 - Holder (1001325) has gained c_nanimia
+228 - Holder 1003810 - Primary title: d_suryo has lost the title: d_suryo
+228 - Title given to 1003810
+228 - vassal: c_bephen - Holder 1003810 - Primary title: c_bephen has lost the title: c_bephen
+228 - vassal: c_bephen - Title given to 1003810 - Primary title: d_suryo
+228 - Holder (1003810) has gained c_bephen
+228 - vassal: c_bulyo - Holder 1003810 - Primary title: c_bulyo has lost the title: c_bulyo
+228 - vassal: c_bulyo - Title given to 1003810 - Primary title: d_suryo
+228 - Holder (1003810) has gained c_bulyo
+228 - vassal: c_nanimia - Holder 1003810 - Primary title: c_nanimia has lost the title: c_nanimia
+228 - vassal: c_nanimia - Title given to 1003810 - Primary title: d_suryo
+228 - Holder (1003810) has gained c_nanimia
+232 - Holder 1001328 - Primary title: d_suryo has lost the title: d_suryo
+232 - Title given to 1001328 - Primary title: d_wuler
+232 - vassal: c_bephen - Holder 1001328 - Primary title: c_bephen has lost the title: c_bephen
+232 - vassal: c_bephen - Title given to 1001328 - Primary title: d_turyo
+232 - vassal: c_bulyo - Holder 1001328 - Primary title: c_bulyo has lost the title: c_bulyo
+232 - vassal: c_bulyo - Title given to 1001328 - Primary title: d_turyo
+232 - vassal: c_nanimia - Holder 1001328 - Primary title: c_nanimia has lost the title: c_nanimia
+232 - vassal: c_nanimia - Title given to 1001328 - Primary title: d_turyo
+233 - Holder 1005117 - Primary title: d_suryo has lost the title: c_sosush
+233 - Holder 1002274 - Primary title: d_suryo has lost the title: d_wuler
+233 - Gained vassal: c_waryo
+233 - Gained vassal: c_tuder
+233 - Holder 1005119 - Primary title: d_suryo has lost the title: c_sorena
+233 - Holder 1005121 - Primary title: d_suryo has lost the title: c_sujyana
+243 - Holder 1002773 - Primary title: d_suryo has lost the title: d_suryo
+243 - Title given to 1002773
+243 - vassal: c_nanimia - Setting to vassal of d_turyo in Validate Realm
+243 - Lost vassal: c_nanimia
+243 - vassal: c_bulyo - Setting to vassal of d_turyo in Validate Realm
+243 - Lost vassal: c_bulyo
+243 - vassal: c_bephen - Setting to vassal of d_turyo in Validate Realm
+243 - Lost vassal: c_bephen
+243 - vassal: c_waryo - Setting to vassal of d_turyo in Validate Realm
+243 - Lost vassal: c_waryo
+243 - vassal: c_tuder - Setting to vassal of d_turyo in Validate Realm
+243 - Lost vassal: c_tuder
+243 - Holder (1002773) has gained d_turyo
+243 - Holder (1002773) has gained c_nanimia
+243 - Holder (1002773) has gained c_bulyo
+243 - Holder (1002773) has gained c_bephen
+243 - Holder (1002773) has gained c_waryo
+243 - Holder (1002773) has gained c_tuder
+244 - Destroyed due to flagged problem
+244 - Made independent
+244 - Title destroyed
+248 - Given to 1002773 in TestCreateEmpire
+248 - Title given to 1002773 - Primary title: d_turyo
+248 - Made independent for title creation d_suryo for d_turyo
+248 - Made independent
+248 - Gained vassal: c_nanimia
+248 - Gained vassal: c_bulyo
+248 - Gained vassal: c_bephen
+248 - Gained vassal: c_waryo
+248 - Gained vassal: c_tuder
+248 - Destroyed due to no capital's obtainable
+248 - Title destroyed
+248 - vassal: c_bephen - Setting independent due to liege destruction
+248 - vassal: c_bephen - Made independent
+248 - vassal: c_waryo - Setting independent due to liege destruction
+248 - vassal: c_waryo - Made independent
+248 - vassal: c_tuder - Setting independent due to liege destruction
+248 - vassal: c_tuder - Made independent
+248 - vassal: c_nanimia - Setting independent due to liege destruction
+248 - vassal: c_nanimia - Made independent
+248 - vassal: c_bulyo - Setting independent due to liege destruction
+248 - vassal: c_bulyo - Made independent
+256 - Given to 1006740 in TestCreateEmpire
+256 - Title given to 1006740 - Primary title: d_turyo
+256 - Made independent for title creation d_suryo for d_turyo
+256 - Made independent
+256 - Gained vassal: c_nanimia
+256 - Gained vassal: c_bulyo
+256 - Gained vassal: c_bephen
+256 - Gained vassal: c_waryo
+256 - Gained vassal: c_tuder
+256 - Destroyed due to no capital's obtainable
+256 - Title destroyed
+256 - vassal: c_tuder - Setting independent due to liege destruction
+256 - vassal: c_tuder - Made independent
+256 - vassal: c_waryo - Setting independent due to liege destruction
+256 - vassal: c_waryo - Made independent
+256 - vassal: c_bephen - Setting independent due to liege destruction
+256 - vassal: c_bephen - Made independent
+256 - vassal: c_bulyo - Setting independent due to liege destruction
+256 - vassal: c_bulyo - Made independent
+256 - vassal: c_nanimia - Setting independent due to liege destruction
+256 - vassal: c_nanimia - Made independent
+280 - Given to 1006740 in TestCreateEmpire
+280 - Title given to 1006740 - Primary title: d_turyo
+280 - Made independent for title creation d_suryo for d_turyo
+280 - Made independent
+280 - Gained vassal: c_nanimia
+280 - Gained vassal: c_bulyo
+280 - Gained vassal: c_bephen
+280 - Gained vassal: c_waryo
+280 - Gained vassal: c_tuder
+280 - Destroyed due to no capital's obtainable
+280 - Title destroyed
+280 - vassal: c_tuder - Setting independent due to liege destruction
+280 - vassal: c_tuder - Made independent
+280 - vassal: c_waryo - Setting independent due to liege destruction
+280 - vassal: c_waryo - Made independent
+280 - vassal: c_bephen - Setting independent due to liege destruction
+280 - vassal: c_bephen - Made independent
+280 - vassal: c_bulyo - Setting independent due to liege destruction
+280 - vassal: c_bulyo - Made independent
+280 - vassal: c_nanimia - Setting independent due to liege destruction
+280 - vassal: c_nanimia - Made independent
+286 - Given to 1006740 in TestCreateEmpire
+286 - Title given to 1006740 - Primary title: d_turyo
+286 - Made independent for title creation d_suryo for d_turyo
+286 - Made independent
+286 - Gained vassal: c_nanimia
+286 - Gained vassal: c_bulyo
+286 - Gained vassal: c_bephen
+286 - Gained vassal: c_waryo
+286 - Gained vassal: c_tuder
+286 - Destroyed due to no capital's obtainable
+286 - Title destroyed
+286 - vassal: c_tuder - Setting independent due to liege destruction
+286 - vassal: c_tuder - Made independent
+286 - vassal: c_waryo - Setting independent due to liege destruction
+286 - vassal: c_waryo - Made independent
+286 - vassal: c_bephen - Setting independent due to liege destruction
+286 - vassal: c_bephen - Made independent
+286 - vassal: c_bulyo - Setting independent due to liege destruction
+286 - vassal: c_bulyo - Made independent
+286 - vassal: c_nanimia - Setting independent due to liege destruction
+286 - vassal: c_nanimia - Made independent
+295 - Given to 1006740 in TestCreateEmpire
+295 - Title given to 1006740 - Primary title: d_turyo
+295 - Made independent for title creation d_suryo for d_turyo
+295 - Made independent
+295 - Gained vassal: c_nanimia
+295 - Gained vassal: c_bulyo
+295 - Gained vassal: c_bephen
+295 - Gained vassal: c_waryo
+295 - Gained vassal: c_tuder
+295 - Destroyed due to no capital's obtainable
+295 - Title destroyed
+295 - vassal: c_tuder - Setting independent due to liege destruction
+295 - vassal: c_tuder - Made independent
+295 - vassal: c_waryo - Setting independent due to liege destruction
+295 - vassal: c_waryo - Made independent
+295 - vassal: c_bephen - Setting independent due to liege destruction
+295 - vassal: c_bephen - Made independent
+295 - vassal: c_bulyo - Setting independent due to liege destruction
+295 - vassal: c_bulyo - Made independent
+295 - vassal: c_nanimia - Setting independent due to liege destruction
+295 - vassal: c_nanimia - Made independent

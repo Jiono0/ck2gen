@@ -1,0 +1,480 @@
+200 - Title given to 1001547
+200 - vassal: d_rivrd - Holder 1001547 - Primary title: d_rivrd has lost the title: c_qakhulf
+200 - sub vassal: d_rivrd - Holder 1001547 - Primary title: d_rivrd has lost the title: c_qakhulf
+200 - sub vassal: c_qakhulf - Title given to 1001547 - Primary title: k_lanibel
+200 - Holder (1001547) has gained c_qakhulf
+200 - vassal: d_qahomeus - Holder 1001547 - Primary title: d_qahomeus has lost the title: d_qahomeus
+200 - sub vassal: d_qahomeus - Holder 1001547 - Primary title: d_qahomeus has lost the title: d_qahomeus
+200 - vassal: d_qahomeus - Title given to 1001547 - Primary title: k_lanibel
+200 - sub vassal: d_qahomeus - Title given to 1001547 - Primary title: k_lanibel
+200 - Holder (1001547) has gained d_qahomeus
+216 - vassal: d_lacew - Holder 1002482 - Primary title: d_lacew has lost the title: d_lacew
+216 - sub vassal: d_lacew - Holder 1002482 - Primary title: d_lacew has lost the title: d_lacew
+216 - vassal: d_lacew - Title given to 1002482
+216 - sub vassal: d_lacew - Title given to 1002482
+216 - sub vassal: c_qakhulf - Setting to vassal of k_lanibel in Validate Realm
+216 - vassal: d_rivrd - Lost vassal: c_qakhulf
+216 - sub vassal: d_rivrd - Lost vassal: c_qakhulf
+216 - Gained vassal: c_qakhulf
+216 - sub vassal: c_kafinan - Holder 1002482 - Primary title: c_kafinan has lost the title: c_kafinan
+216 - sub vassal: c_kafinan - Title given to 1002482 - Primary title: d_lacew
+216 - vassal: d_lacew - Holder (1002482) has gained c_kafinan
+216 - sub vassal: d_lacew - Holder (1002482) has gained c_kafinan
+216 - sub vassal: c_dakhe - Holder 1002482 - Primary title: c_dakhe has lost the title: c_dakhe
+216 - sub vassal: c_dakhe - Title given to 1002482 - Primary title: d_lacew
+216 - vassal: d_lacew - Holder (1002482) has gained c_dakhe
+216 - sub vassal: d_lacew - Holder (1002482) has gained c_dakhe
+222 - vassal: d_lacew - Holder 1003945 - Primary title: d_lacew has lost the title: d_lacew
+222 - sub vassal: d_lacew - Holder 1003945 - Primary title: d_lacew has lost the title: d_lacew
+222 - vassal: d_lacew - Title given to 1003945
+222 - sub vassal: d_lacew - Title given to 1003945
+222 - sub vassal: c_dakhe - Holder 1003945 - Primary title: c_dakhe has lost the title: c_dakhe
+222 - sub vassal: c_dakhe - Title given to 1003945 - Primary title: d_lacew
+222 - vassal: d_lacew - Holder (1003945) has gained c_dakhe
+222 - sub vassal: d_lacew - Holder (1003945) has gained c_dakhe
+222 - sub vassal: c_kafinan - Holder 1003945 - Primary title: c_kafinan has lost the title: c_kafinan
+222 - sub vassal: c_kafinan - Title given to 1003945 - Primary title: d_lacew
+222 - vassal: d_lacew - Holder (1003945) has gained c_kafinan
+222 - sub vassal: d_lacew - Holder (1003945) has gained c_kafinan
+229 - vassal: d_raulina - Holder 1001547 - Primary title: d_raulina has lost the title: d_raulina
+229 - sub vassal: d_raulina - Holder 1001547 - Primary title: d_raulina has lost the title: d_raulina
+229 - vassal: d_raulina - Title given to 1001547 - Primary title: k_lanibel
+229 - sub vassal: d_raulina - Title given to 1001547 - Primary title: k_lanibel
+229 - Holder (1001547) has gained d_raulina
+229 - sub vassal: c_kacina - Holder 1001547 - Primary title: c_kacina has lost the title: c_kacina
+229 - sub vassal: c_kacina - Title given to 1001547 - Primary title: k_lanibel
+229 - Holder (1001547) has gained c_kacina
+229 - sub vassal: c_walutan - Holder 1001547 - Primary title: c_walutan has lost the title: c_walutan
+229 - sub vassal: c_walutan - Title given to 1001547 - Primary title: k_lanibel
+229 - Holder (1001547) has gained c_walutan
+229 - sub vassal: c_aprahike - Holder 1001547 - Primary title: c_aprahike has lost the title: c_aprahike
+229 - sub vassal: c_aprahike - Title given to 1001547 - Primary title: k_lanibel
+229 - Holder (1001547) has gained c_aprahike
+235 - Holder 1002667 - Primary title: k_lanibel has lost the title: k_lanibel
+235 - Title given to 1002667
+235 - vassal: d_qahomeus - Holder 1002667 - Primary title: d_qahomeus has lost the title: d_qahomeus
+235 - sub vassal: d_qahomeus - Holder 1002667 - Primary title: d_qahomeus has lost the title: d_qahomeus
+235 - vassal: d_qahomeus - Title given to 1002667 - Primary title: k_lanibel
+235 - sub vassal: d_qahomeus - Title given to 1002667 - Primary title: k_lanibel
+235 - Holder (1002667) has gained d_qahomeus
+235 - vassal: c_qakhulf - Setting to vassal of d_raulina in Validate Realm
+235 - sub vassal: c_qakhulf - Setting to vassal of d_raulina in Validate Realm
+235 - Lost vassal: c_qakhulf
+235 - vassal: d_raulina - Gained vassal: c_qakhulf
+235 - sub vassal: d_raulina - Gained vassal: c_qakhulf
+235 - vassal: d_raulina - Holder 1002667 - Primary title: d_raulina has lost the title: c_qakhulf
+235 - sub vassal: d_raulina - Holder 1002667 - Primary title: d_raulina has lost the title: c_qakhulf
+235 - sub vassal: c_qakhulf - Title given to 1002667 - Primary title: k_lanibel
+235 - Holder (1002667) has gained c_qakhulf
+235 - sub vassal: c_qakhulf - Setting to vassal of k_lanibel in Validate Realm
+235 - vassal: d_raulina - Lost vassal: c_qakhulf
+235 - sub vassal: d_raulina - Lost vassal: c_qakhulf
+235 - Gained vassal: c_qakhulf
+235 - vassal: d_raulina - Holder 1002667 - Primary title: d_raulina has lost the title: d_raulina
+235 - sub vassal: d_raulina - Holder 1002667 - Primary title: d_raulina has lost the title: d_raulina
+235 - vassal: d_raulina - Title given to 1002667 - Primary title: k_lanibel
+235 - sub vassal: d_raulina - Title given to 1002667 - Primary title: k_lanibel
+235 - Holder (1002667) has gained d_raulina
+235 - sub vassal: c_kacina - Holder 1002667 - Primary title: c_kacina has lost the title: c_kacina
+235 - sub vassal: c_kacina - Title given to 1002667 - Primary title: k_lanibel
+235 - Holder (1002667) has gained c_kacina
+235 - sub vassal: c_walutan - Holder 1002667 - Primary title: c_walutan has lost the title: c_walutan
+235 - sub vassal: c_walutan - Title given to 1002667 - Primary title: k_lanibel
+235 - Holder (1002667) has gained c_walutan
+235 - sub vassal: c_aprahike - Holder 1002667 - Primary title: c_aprahike has lost the title: c_aprahike
+235 - sub vassal: c_aprahike - Title given to 1002667 - Primary title: k_lanibel
+235 - Holder (1002667) has gained c_aprahike
+242 - vassal: d_rivrd - Holder 1003075 - Primary title: d_rivrd has lost the title: d_rivrd
+242 - sub vassal: d_rivrd - Holder 1003075 - Primary title: d_rivrd has lost the title: d_rivrd
+242 - vassal: d_rivrd - Title given to 1003075
+242 - sub vassal: d_rivrd - Title given to 1003075
+242 - sub vassal: c_rahegluk - Holder 1003075 - Primary title: c_rahegluk has lost the title: c_rahegluk
+242 - sub vassal: c_rahegluk - Title given to 1003075 - Primary title: d_rivrd
+242 - vassal: d_rivrd - Holder (1003075) has gained c_rahegluk
+242 - sub vassal: d_rivrd - Holder (1003075) has gained c_rahegluk
+242 - sub vassal: c_kungati - Holder 1003075 - Primary title: c_kungati has lost the title: c_kungati
+242 - sub vassal: c_kungati - Title given to 1003075 - Primary title: d_rivrd
+242 - vassal: d_rivrd - Holder (1003075) has gained c_kungati
+242 - sub vassal: d_rivrd - Holder (1003075) has gained c_kungati
+244 - Holder 1005396 - Primary title: k_lanibel has lost the title: k_lanibel
+244 - Title given to 1005396
+244 - vassal: d_raulina - Holder 1005396 - Primary title: d_raulina has lost the title: d_raulina
+244 - sub vassal: d_raulina - Holder 1005396 - Primary title: d_raulina has lost the title: d_raulina
+244 - vassal: d_raulina - Title given to 1005396 - Primary title: k_lanibel
+244 - sub vassal: d_raulina - Title given to 1005396 - Primary title: k_lanibel
+244 - Holder (1005396) has gained d_raulina
+244 - sub vassal: c_aprahike - Setting to vassal of d_qahomeus in Validate Realm
+244 - vassal: d_raulina - Lost vassal: c_aprahike
+244 - sub vassal: d_raulina - Lost vassal: c_aprahike
+244 - sub vassal: c_walutan - Setting to vassal of d_qahomeus in Validate Realm
+244 - vassal: d_raulina - Lost vassal: c_walutan
+244 - sub vassal: d_raulina - Lost vassal: c_walutan
+244 - sub vassal: c_kacina - Setting to vassal of d_qahomeus in Validate Realm
+244 - vassal: d_raulina - Lost vassal: c_kacina
+244 - sub vassal: d_raulina - Lost vassal: c_kacina
+244 - vassal: c_qakhulf - Setting to vassal of d_qahomeus in Validate Realm
+244 - sub vassal: c_qakhulf - Setting to vassal of d_qahomeus in Validate Realm
+244 - Lost vassal: c_qakhulf
+244 - vassal: d_qahomeus - Gained vassal: c_qakhulf
+244 - sub vassal: d_qahomeus - Gained vassal: c_qakhulf
+244 - vassal: d_qahomeus - Gained vassal: c_kacina
+244 - sub vassal: d_qahomeus - Gained vassal: c_kacina
+244 - vassal: d_qahomeus - Gained vassal: c_walutan
+244 - sub vassal: d_qahomeus - Gained vassal: c_walutan
+244 - vassal: d_qahomeus - Gained vassal: c_aprahike
+244 - sub vassal: d_qahomeus - Gained vassal: c_aprahike
+244 - vassal: d_qahomeus - Holder 1005396 - Primary title: d_qahomeus has lost the title: d_qahomeus
+244 - sub vassal: d_qahomeus - Holder 1005396 - Primary title: d_qahomeus has lost the title: d_qahomeus
+244 - vassal: d_qahomeus - Title given to 1005396 - Primary title: k_lanibel
+244 - sub vassal: d_qahomeus - Title given to 1005396 - Primary title: k_lanibel
+244 - Holder (1005396) has gained d_qahomeus
+244 - sub vassal: c_aprahike - Holder 1005396 - Primary title: c_aprahike has lost the title: c_aprahike
+244 - sub vassal: c_aprahike - Title given to 1005396 - Primary title: k_lanibel
+244 - Holder (1005396) has gained c_aprahike
+244 - sub vassal: c_walutan - Holder 1005396 - Primary title: c_walutan has lost the title: c_walutan
+244 - sub vassal: c_walutan - Title given to 1005396 - Primary title: k_lanibel
+244 - Holder (1005396) has gained c_walutan
+244 - sub vassal: c_kacina - Holder 1005396 - Primary title: c_kacina has lost the title: c_kacina
+244 - sub vassal: c_kacina - Title given to 1005396 - Primary title: k_lanibel
+244 - Holder (1005396) has gained c_kacina
+244 - sub vassal: c_qakhulf - Holder 1005396 - Primary title: c_qakhulf has lost the title: c_qakhulf
+244 - sub vassal: c_qakhulf - Title given to 1005396 - Primary title: k_lanibel
+244 - Holder (1005396) has gained c_qakhulf
+245 - vassal: d_raulina - Destroyed due to flagged problem
+245 - sub vassal: d_raulina - Destroyed due to flagged problem
+245 - vassal: d_raulina - Made independent
+245 - sub vassal: d_raulina - Made independent
+259 - vassal: d_rivrd - Holder 1006125 - Primary title: d_rivrd has lost the title: d_rivrd
+259 - sub vassal: d_rivrd - Holder 1006125 - Primary title: d_rivrd has lost the title: d_rivrd
+259 - vassal: d_rivrd - Title given to 1006125
+259 - sub vassal: d_rivrd - Title given to 1006125
+259 - sub vassal: c_rahegluk - Holder 1006125 - Primary title: c_rahegluk has lost the title: c_rahegluk
+259 - sub vassal: c_rahegluk - Title given to 1006125 - Primary title: d_rivrd
+259 - vassal: d_rivrd - Holder (1006125) has gained c_rahegluk
+259 - sub vassal: d_rivrd - Holder (1006125) has gained c_rahegluk
+259 - sub vassal: c_kungati - Holder 1006125 - Primary title: c_kungati has lost the title: c_kungati
+259 - sub vassal: c_kungati - Title given to 1006125 - Primary title: d_rivrd
+259 - vassal: d_rivrd - Holder (1006125) has gained c_kungati
+259 - sub vassal: d_rivrd - Holder (1006125) has gained c_kungati
+273 - vassal: d_lacew - Holder 1005396 - Primary title: d_lacew has lost the title: d_lacew
+273 - sub vassal: d_lacew - Holder 1005396 - Primary title: d_lacew has lost the title: d_lacew
+273 - vassal: d_lacew - Title given to 1005396 - Primary title: k_lanibel
+273 - sub vassal: d_lacew - Title given to 1005396 - Primary title: k_lanibel
+273 - Holder (1005396) has gained d_lacew
+273 - sub vassal: c_dakhe - Holder 1005396 - Primary title: c_dakhe has lost the title: c_dakhe
+273 - sub vassal: c_dakhe - Title given to 1005396 - Primary title: k_lanibel
+273 - Holder (1005396) has gained c_dakhe
+273 - sub vassal: c_kafinan - Holder 1005396 - Primary title: c_kafinan has lost the title: c_kafinan
+273 - sub vassal: c_kafinan - Title given to 1005396 - Primary title: k_lanibel
+273 - Holder (1005396) has gained c_kafinan
+273 - Holder 1008555 - Primary title: k_lanibel has lost the title: c_dakhe
+273 - sub vassal: c_dakhe - Title given to 1008555
+279 - vassal: d_rivrd - Holder 1005396 - Primary title: d_rivrd has lost the title: d_rivrd
+279 - sub vassal: d_rivrd - Holder 1005396 - Primary title: d_rivrd has lost the title: d_rivrd
+279 - vassal: d_rivrd - Title given to 1005396 - Primary title: k_lanibel
+279 - sub vassal: d_rivrd - Title given to 1005396 - Primary title: k_lanibel
+279 - Holder (1005396) has gained d_rivrd
+279 - sub vassal: c_kungati - Holder 1005396 - Primary title: c_kungati has lost the title: c_kungati
+279 - sub vassal: c_kungati - Title given to 1005396 - Primary title: k_lanibel
+279 - Holder (1005396) has gained c_kungati
+279 - sub vassal: c_rahegluk - Holder 1005396 - Primary title: c_rahegluk has lost the title: c_rahegluk
+279 - sub vassal: c_rahegluk - Title given to 1005396 - Primary title: k_lanibel
+279 - Holder (1005396) has gained c_rahegluk
+279 - sub vassal: c_kafinan - Given to 1009029 in HandleTitles - Too many duke titles
+279 - Holder 1009029 - Primary title: k_lanibel has lost the title: c_kafinan
+279 - sub vassal: c_kafinan - Title given to 1009029
+279 - Holder 1009029 - Primary title: k_lanibel has lost the title: d_lacew
+279 - vassal: d_lacew - Title given to 1009029 - Primary title: c_kafinan
+279 - sub vassal: d_lacew - Title given to 1009029 - Primary title: c_kafinan
+279 - sub vassal: c_kafinan - Holder (1009029) has gained d_lacew
+279 - vassal: d_lacew - Too many dukes, given to dejure: k_lanibel
+279 - sub vassal: d_lacew - Too many dukes, given to dejure: k_lanibel
+279 - Holder 1009030 - Primary title: k_lanibel has lost the title: c_rahegluk
+279 - sub vassal: c_rahegluk - Title given to 1009030
+285 - Holder 1009512 - Primary title: k_lanibel has lost the title: k_lanibel
+285 - Title given to 1009512
+285 - vassal: d_rivrd - Holder 1009512 - Primary title: d_rivrd has lost the title: d_rivrd
+285 - sub vassal: d_rivrd - Holder 1009512 - Primary title: d_rivrd has lost the title: d_rivrd
+285 - vassal: d_rivrd - Title given to 1009512 - Primary title: k_lanibel
+285 - sub vassal: d_rivrd - Title given to 1009512 - Primary title: k_lanibel
+285 - Holder (1009512) has gained d_rivrd
+285 - sub vassal: c_kungati - Setting to vassal of d_qahomeus in Validate Realm
+285 - vassal: d_rivrd - Lost vassal: c_kungati
+285 - sub vassal: d_rivrd - Lost vassal: c_kungati
+285 - vassal: d_qahomeus - Gained vassal: c_kungati
+285 - sub vassal: d_qahomeus - Gained vassal: c_kungati
+285 - vassal: d_qahomeus - Holder 1009512 - Primary title: d_qahomeus has lost the title: d_qahomeus
+285 - sub vassal: d_qahomeus - Holder 1009512 - Primary title: d_qahomeus has lost the title: d_qahomeus
+285 - vassal: d_qahomeus - Title given to 1009512 - Primary title: k_lanibel
+285 - sub vassal: d_qahomeus - Title given to 1009512 - Primary title: k_lanibel
+285 - Holder (1009512) has gained d_qahomeus
+285 - sub vassal: c_kungati - Holder 1009512 - Primary title: c_kungati has lost the title: c_kungati
+285 - sub vassal: c_kungati - Title given to 1009512 - Primary title: k_lanibel
+285 - Holder (1009512) has gained c_kungati
+285 - sub vassal: c_aprahike - Holder 1009512 - Primary title: c_aprahike has lost the title: c_aprahike
+285 - sub vassal: c_aprahike - Title given to 1009512 - Primary title: k_lanibel
+285 - Holder (1009512) has gained c_aprahike
+285 - sub vassal: c_walutan - Holder 1009512 - Primary title: c_walutan has lost the title: c_walutan
+285 - sub vassal: c_walutan - Title given to 1009512 - Primary title: k_lanibel
+285 - Holder (1009512) has gained c_walutan
+285 - sub vassal: c_kacina - Holder 1009512 - Primary title: c_kacina has lost the title: c_kacina
+285 - sub vassal: c_kacina - Title given to 1009512 - Primary title: k_lanibel
+285 - Holder (1009512) has gained c_kacina
+285 - sub vassal: c_qakhulf - Holder 1009512 - Primary title: c_qakhulf has lost the title: c_qakhulf
+285 - sub vassal: c_qakhulf - Title given to 1009512 - Primary title: k_lanibel
+285 - Holder (1009512) has gained c_qakhulf
+298 - vassal: d_lacew - Holder 1009734 - Primary title: d_lacew has lost the title: d_lacew
+298 - sub vassal: d_lacew - Holder 1009734 - Primary title: d_lacew has lost the title: d_lacew
+298 - vassal: d_lacew - Title given to 1009734
+298 - sub vassal: d_lacew - Title given to 1009734
+298 - sub vassal: c_kafinan - Holder 1009734 - Primary title: c_kafinan has lost the title: c_kafinan
+298 - sub vassal: c_kafinan - Title given to 1009734 - Primary title: d_lacew
+298 - vassal: d_lacew - Holder (1009734) has gained c_kafinan
+298 - sub vassal: d_lacew - Holder (1009734) has gained c_kafinan
+300 - sub vassal: c_sacew - Holder 1009512 - Primary title: c_sacew has lost the title: c_sacew
+300 - sub vassal: c_sacew - Title given to 1009512 - Primary title: k_lanibel
+300 - Holder (1009512) has gained c_sacew
+300 - sub vassal: c_retutan - Holder 1009512 - Primary title: c_retutan has lost the title: c_retutan
+300 - sub vassal: c_retutan - Title given to 1009512 - Primary title: k_lanibel
+300 - Holder (1009512) has gained c_retutan
+300 - sub vassal: c_someus - Holder 1009512 - Primary title: c_someus has lost the title: c_someus
+300 - sub vassal: c_someus - Title given to 1009512 - Primary title: k_lanibel
+300 - Holder (1009512) has gained c_someus
+300 - Holder 1010785 - Primary title: k_lanibel has lost the title: c_kacina
+300 - sub vassal: c_kacina - Title given to 1010785
+300 - Holder 1010786 - Primary title: k_lanibel has lost the title: c_sacew
+300 - sub vassal: c_sacew - Title given to 1010786
+300 - Holder 1010787 - Primary title: k_lanibel has lost the title: c_kungati
+300 - sub vassal: c_kungati - Title given to 1010787
+308 - Holder 1011472 - Primary title: k_lanibel has lost the title: k_lanibel
+308 - Title given to 1011472
+308 - vassal: d_qahomeus - Holder 1011472 - Primary title: d_qahomeus has lost the title: d_qahomeus
+308 - sub vassal: d_qahomeus - Holder 1011472 - Primary title: d_qahomeus has lost the title: d_qahomeus
+308 - vassal: d_qahomeus - Title given to 1011472 - Primary title: k_lanibel
+308 - sub vassal: d_qahomeus - Title given to 1011472 - Primary title: k_lanibel
+308 - Holder (1011472) has gained d_qahomeus
+308 - sub vassal: c_someus - Setting to vassal of d_rivrd in Validate Realm
+308 - vassal: d_qahomeus - Lost vassal: c_someus
+308 - sub vassal: d_qahomeus - Lost vassal: c_someus
+308 - sub vassal: c_retutan - Setting to vassal of d_rivrd in Validate Realm
+308 - vassal: d_qahomeus - Lost vassal: c_retutan
+308 - sub vassal: d_qahomeus - Lost vassal: c_retutan
+308 - sub vassal: c_qakhulf - Setting to vassal of d_rivrd in Validate Realm
+308 - vassal: d_qahomeus - Lost vassal: c_qakhulf
+308 - sub vassal: d_qahomeus - Lost vassal: c_qakhulf
+308 - sub vassal: c_walutan - Setting to vassal of d_rivrd in Validate Realm
+308 - vassal: d_qahomeus - Lost vassal: c_walutan
+308 - sub vassal: d_qahomeus - Lost vassal: c_walutan
+308 - sub vassal: c_aprahike - Setting to vassal of d_rivrd in Validate Realm
+308 - vassal: d_qahomeus - Lost vassal: c_aprahike
+308 - sub vassal: d_qahomeus - Lost vassal: c_aprahike
+308 - vassal: d_rivrd - Gained vassal: c_aprahike
+308 - sub vassal: d_rivrd - Gained vassal: c_aprahike
+308 - vassal: d_rivrd - Gained vassal: c_walutan
+308 - sub vassal: d_rivrd - Gained vassal: c_walutan
+308 - vassal: d_rivrd - Gained vassal: c_qakhulf
+308 - sub vassal: d_rivrd - Gained vassal: c_qakhulf
+308 - vassal: d_rivrd - Gained vassal: c_retutan
+308 - sub vassal: d_rivrd - Gained vassal: c_retutan
+308 - vassal: d_rivrd - Gained vassal: c_someus
+308 - sub vassal: d_rivrd - Gained vassal: c_someus
+308 - vassal: d_rivrd - Holder 1011472 - Primary title: d_rivrd has lost the title: d_rivrd
+308 - sub vassal: d_rivrd - Holder 1011472 - Primary title: d_rivrd has lost the title: d_rivrd
+308 - vassal: d_rivrd - Title given to 1011472 - Primary title: k_lanibel
+308 - sub vassal: d_rivrd - Title given to 1011472 - Primary title: k_lanibel
+308 - Holder (1011472) has gained d_rivrd
+308 - sub vassal: c_someus - Holder 1011472 - Primary title: c_someus has lost the title: c_someus
+308 - sub vassal: c_someus - Title given to 1011472 - Primary title: k_lanibel
+308 - Holder (1011472) has gained c_someus
+308 - sub vassal: c_retutan - Holder 1011472 - Primary title: c_retutan has lost the title: c_retutan
+308 - sub vassal: c_retutan - Title given to 1011472 - Primary title: k_lanibel
+308 - Holder (1011472) has gained c_retutan
+308 - sub vassal: c_qakhulf - Holder 1011472 - Primary title: c_qakhulf has lost the title: c_qakhulf
+308 - sub vassal: c_qakhulf - Title given to 1011472 - Primary title: k_lanibel
+308 - Holder (1011472) has gained c_qakhulf
+308 - sub vassal: c_walutan - Holder 1011472 - Primary title: c_walutan has lost the title: c_walutan
+308 - sub vassal: c_walutan - Title given to 1011472 - Primary title: k_lanibel
+308 - Holder (1011472) has gained c_walutan
+308 - sub vassal: c_aprahike - Holder 1011472 - Primary title: c_aprahike has lost the title: c_aprahike
+308 - sub vassal: c_aprahike - Title given to 1011472 - Primary title: k_lanibel
+308 - Holder (1011472) has gained c_aprahike
+335 - vassal: d_rivrd - Captured byd_egopibel in minor war
+335 - sub vassal: d_rivrd - Captured byd_egopibel in minor war
+335 - vassal: d_rivrd - Made independent
+335 - sub vassal: d_rivrd - Made independent
+335 - Holder 1010147 - Primary title: k_lanibel has lost the title: d_rivrd
+335 - sub vassal: c_aprahike - Setting to vassal of k_lanibel in Validate Realm
+335 - sub vassal: c_walutan - Setting to vassal of k_lanibel in Validate Realm
+335 - sub vassal: c_qakhulf - Setting to vassal of k_lanibel in Validate Realm
+335 - sub vassal: c_retutan - Setting to vassal of k_lanibel in Validate Realm
+335 - sub vassal: c_someus - Setting to vassal of k_lanibel in Validate Realm
+335 - Gained vassal: c_someus
+335 - Gained vassal: c_retutan
+335 - Gained vassal: c_qakhulf
+335 - Gained vassal: c_walutan
+335 - Gained vassal: c_aprahike
+335 - sub vassal: c_kungati - Made vassal of neighbour (k_lelike) due to being a seperate island
+335 - vassal: d_qahomeus - Lost vassal: c_kungati
+335 - sub vassal: d_qahomeus - Lost vassal: c_kungati
+336 - vassal: c_rahegluk - Setting to vassal of d_egopibel in Validate Realm
+336 - Lost vassal: c_rahegluk
+337 - vassal: c_rahegluk - Setting to vassal of d_egopibel in Validate Realm
+337 - Lost vassal: c_rahegluk
+338 - vassal: c_rahegluk - Setting to vassal of d_egopibel in Validate Realm
+338 - Lost vassal: c_rahegluk
+339 - vassal: c_rahegluk - Setting to vassal of d_egopibel in Validate Realm
+339 - Lost vassal: c_rahegluk
+344 - vassal: d_lacew - Holder 1011228 - Primary title: d_lacew has lost the title: d_lacew
+344 - sub vassal: d_lacew - Holder 1011228 - Primary title: d_lacew has lost the title: d_lacew
+344 - vassal: d_lacew - Title given to 1011228
+344 - sub vassal: d_lacew - Title given to 1011228
+344 - sub vassal: c_kafinan - Holder 1011228 - Primary title: c_kafinan has lost the title: c_kafinan
+344 - sub vassal: c_kafinan - Title given to 1011228 - Primary title: d_lacew
+344 - vassal: d_lacew - Holder (1011228) has gained c_kafinan
+344 - sub vassal: d_lacew - Holder (1011228) has gained c_kafinan
+344 - Holder 1011617 - Primary title: k_lanibel has lost the title: k_lanibel
+344 - Title given to 1011617
+344 - vassal: d_qahomeus - Holder 1011617 - Primary title: d_qahomeus has lost the title: d_qahomeus
+344 - sub vassal: d_qahomeus - Holder 1011617 - Primary title: d_qahomeus has lost the title: d_qahomeus
+344 - vassal: d_qahomeus - Title given to 1011617 - Primary title: k_lanibel
+344 - sub vassal: d_qahomeus - Title given to 1011617 - Primary title: k_lanibel
+344 - Holder (1011617) has gained d_qahomeus
+344 - vassal: c_someus - Holder 1011617 - Primary title: c_someus has lost the title: c_someus
+344 - sub vassal: c_someus - Holder 1011617 - Primary title: c_someus has lost the title: c_someus
+344 - vassal: c_someus - Title given to 1011617 - Primary title: k_lanibel
+344 - sub vassal: c_someus - Title given to 1011617 - Primary title: k_lanibel
+344 - Holder (1011617) has gained c_someus
+344 - vassal: c_retutan - Holder 1011617 - Primary title: c_retutan has lost the title: c_retutan
+344 - sub vassal: c_retutan - Holder 1011617 - Primary title: c_retutan has lost the title: c_retutan
+344 - vassal: c_retutan - Title given to 1011617 - Primary title: k_lanibel
+344 - sub vassal: c_retutan - Title given to 1011617 - Primary title: k_lanibel
+344 - Holder (1011617) has gained c_retutan
+344 - vassal: c_qakhulf - Holder 1011617 - Primary title: c_qakhulf has lost the title: c_qakhulf
+344 - sub vassal: c_qakhulf - Holder 1011617 - Primary title: c_qakhulf has lost the title: c_qakhulf
+344 - vassal: c_qakhulf - Title given to 1011617 - Primary title: k_lanibel
+344 - sub vassal: c_qakhulf - Title given to 1011617 - Primary title: k_lanibel
+344 - Holder (1011617) has gained c_qakhulf
+344 - vassal: c_walutan - Holder 1011617 - Primary title: c_walutan has lost the title: c_walutan
+344 - sub vassal: c_walutan - Holder 1011617 - Primary title: c_walutan has lost the title: c_walutan
+344 - vassal: c_walutan - Title given to 1011617 - Primary title: k_lanibel
+344 - sub vassal: c_walutan - Title given to 1011617 - Primary title: k_lanibel
+344 - Holder (1011617) has gained c_walutan
+344 - vassal: c_aprahike - Holder 1011617 - Primary title: c_aprahike has lost the title: c_aprahike
+344 - sub vassal: c_aprahike - Holder 1011617 - Primary title: c_aprahike has lost the title: c_aprahike
+344 - vassal: c_aprahike - Title given to 1011617 - Primary title: k_lanibel
+344 - sub vassal: c_aprahike - Title given to 1011617 - Primary title: k_lanibel
+344 - Holder (1011617) has gained c_aprahike
+356 - Holder 1014834 - Primary title: k_lanibel has lost the title: k_lanibel
+356 - Title given to 1014834
+356 - vassal: d_qahomeus - Holder 1014834 - Primary title: d_qahomeus has lost the title: d_qahomeus
+356 - sub vassal: d_qahomeus - Holder 1014834 - Primary title: d_qahomeus has lost the title: d_qahomeus
+356 - vassal: d_qahomeus - Title given to 1014834 - Primary title: k_lanibel
+356 - sub vassal: d_qahomeus - Title given to 1014834 - Primary title: k_lanibel
+356 - Holder (1014834) has gained d_qahomeus
+356 - vassal: c_someus - Holder 1014834 - Primary title: c_someus has lost the title: c_someus
+356 - sub vassal: c_someus - Holder 1014834 - Primary title: c_someus has lost the title: c_someus
+356 - vassal: c_someus - Title given to 1014834 - Primary title: k_lanibel
+356 - sub vassal: c_someus - Title given to 1014834 - Primary title: k_lanibel
+356 - Holder (1014834) has gained c_someus
+356 - vassal: c_retutan - Holder 1014834 - Primary title: c_retutan has lost the title: c_retutan
+356 - sub vassal: c_retutan - Holder 1014834 - Primary title: c_retutan has lost the title: c_retutan
+356 - vassal: c_retutan - Title given to 1014834 - Primary title: k_lanibel
+356 - sub vassal: c_retutan - Title given to 1014834 - Primary title: k_lanibel
+356 - Holder (1014834) has gained c_retutan
+356 - vassal: c_qakhulf - Holder 1014834 - Primary title: c_qakhulf has lost the title: c_qakhulf
+356 - sub vassal: c_qakhulf - Holder 1014834 - Primary title: c_qakhulf has lost the title: c_qakhulf
+356 - vassal: c_qakhulf - Title given to 1014834 - Primary title: k_lanibel
+356 - sub vassal: c_qakhulf - Title given to 1014834 - Primary title: k_lanibel
+356 - Holder (1014834) has gained c_qakhulf
+356 - vassal: c_walutan - Holder 1014834 - Primary title: c_walutan has lost the title: c_walutan
+356 - sub vassal: c_walutan - Holder 1014834 - Primary title: c_walutan has lost the title: c_walutan
+356 - vassal: c_walutan - Title given to 1014834 - Primary title: k_lanibel
+356 - sub vassal: c_walutan - Title given to 1014834 - Primary title: k_lanibel
+356 - Holder (1014834) has gained c_walutan
+356 - vassal: c_aprahike - Holder 1014834 - Primary title: c_aprahike has lost the title: c_aprahike
+356 - sub vassal: c_aprahike - Holder 1014834 - Primary title: c_aprahike has lost the title: c_aprahike
+356 - vassal: c_aprahike - Title given to 1014834 - Primary title: k_lanibel
+356 - sub vassal: c_aprahike - Title given to 1014834 - Primary title: k_lanibel
+356 - Holder (1014834) has gained c_aprahike
+365 - vassal: d_lacew - Holder 1014450 - Primary title: d_lacew has lost the title: d_lacew
+365 - sub vassal: d_lacew - Holder 1014450 - Primary title: d_lacew has lost the title: d_lacew
+365 - vassal: d_lacew - Title given to 1014450
+365 - sub vassal: d_lacew - Title given to 1014450
+365 - sub vassal: c_kafinan - Holder 1014450 - Primary title: c_kafinan has lost the title: c_kafinan
+365 - sub vassal: c_kafinan - Title given to 1014450 - Primary title: d_lacew
+365 - vassal: d_lacew - Holder (1014450) has gained c_kafinan
+365 - sub vassal: d_lacew - Holder (1014450) has gained c_kafinan
+368 - vassal: d_lacew - Holder 1014834 - Primary title: d_lacew has lost the title: d_lacew
+368 - sub vassal: d_lacew - Holder 1014834 - Primary title: d_lacew has lost the title: d_lacew
+368 - vassal: d_lacew - Title given to 1014834 - Primary title: k_lanibel
+368 - sub vassal: d_lacew - Title given to 1014834 - Primary title: k_lanibel
+368 - Holder (1014834) has gained d_lacew
+368 - sub vassal: c_kafinan - Holder 1014834 - Primary title: c_kafinan has lost the title: c_kafinan
+368 - sub vassal: c_kafinan - Title given to 1014834 - Primary title: k_lanibel
+368 - Holder (1014834) has gained c_kafinan
+368 - Holder 1015889 - Primary title: k_lanibel has lost the title: c_kafinan
+368 - sub vassal: c_kafinan - Title given to 1015889
+383 - Holder 1016794 - Primary title: k_lanibel has lost the title: k_lanibel
+383 - Title given to 1016794
+383 - vassal: d_qahomeus - Holder 1016794 - Primary title: d_qahomeus has lost the title: d_qahomeus
+383 - sub vassal: d_qahomeus - Holder 1016794 - Primary title: d_qahomeus has lost the title: d_qahomeus
+383 - vassal: d_qahomeus - Title given to 1016794 - Primary title: k_lanibel
+383 - sub vassal: d_qahomeus - Title given to 1016794 - Primary title: k_lanibel
+383 - Holder (1016794) has gained d_qahomeus
+383 - vassal: c_someus - Setting to vassal of d_lacew in Validate Realm
+383 - sub vassal: c_someus - Setting to vassal of d_lacew in Validate Realm
+383 - Lost vassal: c_someus
+383 - vassal: c_retutan - Setting to vassal of d_lacew in Validate Realm
+383 - sub vassal: c_retutan - Setting to vassal of d_lacew in Validate Realm
+383 - Lost vassal: c_retutan
+383 - vassal: c_qakhulf - Setting to vassal of d_lacew in Validate Realm
+383 - sub vassal: c_qakhulf - Setting to vassal of d_lacew in Validate Realm
+383 - Lost vassal: c_qakhulf
+383 - vassal: c_walutan - Setting to vassal of d_lacew in Validate Realm
+383 - sub vassal: c_walutan - Setting to vassal of d_lacew in Validate Realm
+383 - Lost vassal: c_walutan
+383 - vassal: c_aprahike - Setting to vassal of d_lacew in Validate Realm
+383 - sub vassal: c_aprahike - Setting to vassal of d_lacew in Validate Realm
+383 - Lost vassal: c_aprahike
+383 - vassal: d_lacew - Gained vassal: c_aprahike
+383 - sub vassal: d_lacew - Gained vassal: c_aprahike
+383 - vassal: d_lacew - Gained vassal: c_walutan
+383 - sub vassal: d_lacew - Gained vassal: c_walutan
+383 - vassal: d_lacew - Gained vassal: c_qakhulf
+383 - sub vassal: d_lacew - Gained vassal: c_qakhulf
+383 - vassal: d_lacew - Gained vassal: c_retutan
+383 - sub vassal: d_lacew - Gained vassal: c_retutan
+383 - vassal: d_lacew - Gained vassal: c_someus
+383 - sub vassal: d_lacew - Gained vassal: c_someus
+383 - vassal: d_lacew - Holder 1016794 - Primary title: d_lacew has lost the title: d_lacew
+383 - sub vassal: d_lacew - Holder 1016794 - Primary title: d_lacew has lost the title: d_lacew
+383 - vassal: d_lacew - Title given to 1016794 - Primary title: k_lanibel
+383 - sub vassal: d_lacew - Title given to 1016794 - Primary title: k_lanibel
+383 - Holder (1016794) has gained d_lacew
+383 - sub vassal: c_someus - Holder 1016794 - Primary title: c_someus has lost the title: c_someus
+383 - sub vassal: c_someus - Title given to 1016794 - Primary title: k_lanibel
+383 - Holder (1016794) has gained c_someus
+383 - sub vassal: c_retutan - Holder 1016794 - Primary title: c_retutan has lost the title: c_retutan
+383 - sub vassal: c_retutan - Title given to 1016794 - Primary title: k_lanibel
+383 - Holder (1016794) has gained c_retutan
+383 - sub vassal: c_qakhulf - Holder 1016794 - Primary title: c_qakhulf has lost the title: c_qakhulf
+383 - sub vassal: c_qakhulf - Title given to 1016794 - Primary title: k_lanibel
+383 - Holder (1016794) has gained c_qakhulf
+383 - sub vassal: c_walutan - Holder 1016794 - Primary title: c_walutan has lost the title: c_walutan
+383 - sub vassal: c_walutan - Title given to 1016794 - Primary title: k_lanibel
+383 - Holder (1016794) has gained c_walutan
+383 - sub vassal: c_aprahike - Holder 1016794 - Primary title: c_aprahike has lost the title: c_aprahike
+383 - sub vassal: c_aprahike - Title given to 1016794 - Primary title: k_lanibel
+383 - Holder (1016794) has gained c_aprahike
+400 - sub vassal: c_dakhe - Holder 1015889 - Primary title: c_dakhe has lost the title: c_dakhe
+400 - sub vassal: c_dakhe - Title given to 1015889 - Primary title: c_kafinan
+400 - sub vassal: c_kafinan - Holder (1015889) has gained c_dakhe
+400 - sub vassal: c_kacina - Holder 1010786 - Primary title: c_kacina has lost the title: c_kacina
+400 - sub vassal: c_kacina - Title given to 1010786 - Primary title: c_sacew
+400 - sub vassal: c_sacew - Holder (1010786) has gained c_kacina
+400 - sub vassal: c_kacina - Holder 1016794 - Primary title: c_kacina has lost the title: c_sacew
+400 - sub vassal: c_sacew - Title given to 1016794 - Primary title: k_lanibel
+400 - Holder (1016794) has gained c_sacew
+400 - sub vassal: c_kacina - Holder 1016794 - Primary title: c_kacina has lost the title: c_kacina
+400 - sub vassal: c_kacina - Title given to 1016794 - Primary title: k_lanibel
+400 - Holder (1016794) has gained c_kacina

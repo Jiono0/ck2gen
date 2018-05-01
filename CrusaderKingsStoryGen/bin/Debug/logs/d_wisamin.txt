@@ -1,0 +1,60 @@
+200 - Title given to 1001050
+200 - vassal: c_tahare - Given to 1001053 via AddCharacterForTitle
+200 - sub vassal: c_tahare - Given to 1001053 via AddCharacterForTitle
+200 - vassal: c_tahare - Holder 1001053 - Primary title: c_tahare has lost the title: c_tahare
+200 - sub vassal: c_tahare - Holder 1001053 - Primary title: c_tahare has lost the title: c_tahare
+200 - vassal: c_tahare - Title given to 1001053
+200 - sub vassal: c_tahare - Title given to 1001053
+200 - vassal: c_kenare - Holder 1001050 - Primary title: c_kenare has lost the title: c_kenare
+200 - sub vassal: c_kenare - Holder 1001050 - Primary title: c_kenare has lost the title: c_kenare
+200 - vassal: c_kenare - Title given to 1001050 - Primary title: d_wisamin
+200 - sub vassal: c_kenare - Title given to 1001050 - Primary title: d_wisamin
+200 - Holder (1001050) has gained c_kenare
+200 - vassal: c_tahare - Holder 1001050 - Primary title: c_tahare has lost the title: c_tahare
+200 - sub vassal: c_tahare - Holder 1001050 - Primary title: c_tahare has lost the title: c_tahare
+200 - vassal: c_tahare - Title given to 1001050 - Primary title: d_wisamin
+200 - sub vassal: c_tahare - Title given to 1001050 - Primary title: d_wisamin
+200 - Holder (1001050) has gained c_tahare
+200 - vassal: c_raheph - Holder 1001050 - Primary title: c_raheph has lost the title: c_raheph
+200 - sub vassal: c_raheph - Holder 1001050 - Primary title: c_raheph has lost the title: c_raheph
+200 - vassal: c_raheph - Title given to 1001050 - Primary title: d_wisamin
+200 - sub vassal: c_raheph - Title given to 1001050 - Primary title: d_wisamin
+200 - Holder (1001050) has gained c_raheph
+225 - Holder 1002759 - Primary title: d_wisamin has lost the title: d_wisamin
+225 - Title given to 1002759
+225 - vassal: c_kenare - Holder 1002759 - Primary title: c_kenare has lost the title: c_kenare
+225 - vassal: c_kenare - Title given to 1002759 - Primary title: d_wisamin
+225 - Holder (1002759) has gained c_kenare
+225 - vassal: c_tahare - Holder 1002759 - Primary title: c_tahare has lost the title: c_tahare
+225 - vassal: c_tahare - Title given to 1002759 - Primary title: d_wisamin
+225 - Holder (1002759) has gained c_tahare
+225 - vassal: c_raheph - Holder 1002759 - Primary title: c_raheph has lost the title: c_raheph
+225 - vassal: c_raheph - Title given to 1002759 - Primary title: d_wisamin
+225 - Holder (1002759) has gained c_raheph
+265 - Made vassal of neighbour (k_nuqopti) due to being a seperate island
+265 - Given to neighbour holder of k_nuqopti
+265 - Holder 1006688 - Primary title: d_wisamin has lost the title: d_wisamin
+265 - Title given to 1006688 - Primary title: k_nuqopti
+265 - vassal: c_kenare - Given to 1007244 in HandleTitles - Too many duke titles
+265 - vassal: c_kenare - Holder 1007244 - Primary title: c_kenare has lost the title: c_kenare
+265 - vassal: c_kenare - Title given to 1007244
+265 - Title given to 1007244 - Primary title: c_kenare
+265 - vassal: c_kenare - Holder (1007244) has gained d_wisamin
+265 - Too many dukes, made direct title into vassal of k_nuqopti
+265 - Made vassal of neighbour (k_ralirma) due to being a seperate island
+265 - Given to neighbour holder of k_ralirma
+265 - Holder 1006842 - Primary title: d_wisamin has lost the title: d_wisamin
+265 - Title given to 1006842 - Primary title: k_ralirma
+266 - vassal: c_kenare - Given to 1007325 in HandleTitles - Too many duke titles
+266 - vassal: c_kenare - Holder 1007325 - Primary title: c_kenare has lost the title: c_kenare
+266 - vassal: c_kenare - Title given to 1007325
+266 - Title given to 1007325 - Primary title: c_kenare
+266 - vassal: c_kenare - Holder (1007325) has gained d_wisamin
+266 - Too many dukes, made direct title into vassal of k_ralirma
+307 - Setting independent due to liege destruction
+307 - sub vassal: d_wisamin - Setting independent due to liege destruction
+307 - Made independent
+307 - sub vassal: d_wisamin - Made independent
+307 - Holder (1007325) has gained c_lisamin
+315 - Holder 1010797 - Primary title: d_wisamin has lost the title: d_wisamin
+315 - Title given t

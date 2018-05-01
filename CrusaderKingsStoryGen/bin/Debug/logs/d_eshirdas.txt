@@ -1,0 +1,63 @@
+200 - Title given to 1001035
+200 - vassal: c_betlha - Given to 1001038 via AddCharacterForTitle
+200 - sub vassal: c_betlha - Given to 1001038 via AddCharacterForTitle
+200 - vassal: c_betlha - Holder 1001038 - Primary title: c_betlha has lost the title: c_betlha
+200 - sub vassal: c_betlha - Holder 1001038 - Primary title: c_betlha has lost the title: c_betlha
+200 - vassal: c_betlha - Title given to 1001038
+200 - sub vassal: c_betlha - Title given to 1001038
+200 - vassal: c_aevna - Holder 1001035 - Primary title: c_aevna has lost the title: c_aevna
+200 - sub vassal: c_aevna - Holder 1001035 - Primary title: c_aevna has lost the title: c_aevna
+200 - vassal: c_aevna - Title given to 1001035 - Primary title: d_eshirdas
+200 - sub vassal: c_aevna - Title given to 1001035 - Primary title: d_eshirdas
+200 - Holder (1001035) has gained c_aevna
+200 - vassal: c_betlha - Holder 1001035 - Primary title: c_betlha has lost the title: c_betlha
+200 - sub vassal: c_betlha - Holder 1001035 - Primary title: c_betlha has lost the title: c_betlha
+200 - vassal: c_betlha - Title given to 1001035 - Primary title: d_eshirdas
+200 - sub vassal: c_betlha - Title given to 1001035 - Primary title: d_eshirdas
+200 - Holder (1001035) has gained c_betlha
+213 - Holder 1001848 - Primary title: d_eshirdas has lost the title: d_eshirdas
+213 - Title given to 1001848
+213 - vassal: c_betlha - Holder 1001848 - Primary title: c_betlha has lost the title: c_betlha
+213 - vassal: c_betlha - Title given to 1001848 - Primary title: d_eshirdas
+213 - Holder (1001848) has gained c_betlha
+213 - vassal: c_aevna - Holder 1001848 - Primary title: c_aevna has lost the title: c_aevna
+213 - vassal: c_aevna - Title given to 1001848 - Primary title: d_eshirdas
+213 - Holder (1001848) has gained c_aevna
+244 - Holder (1001848) has gained d_bare
+244 - Holder (1001848) has gained c_atiran
+253 - Holder (1001848) has gained c_rartas
+253 - Holder (1001848) has gained c_rinabah
+253 - Holder (1001848) has gained c_kunas
+254 - vassal: c_betlha - Given to 1006337 in HandleTitles - Too many duke titles
+254 - vassal: c_betlha - Title given to 1006337
+254 - Title given to 1002007 - Primary title: k_ralirma
+254 - vassal: c_aevna - Setting to vassal of d_wuramin in Validate Realm
+254 - Lost vassal: c_aevna
+254 - Too many dukes, made direct title into vassal of k_ralirma
+254 - Title given to 1006338
+265 - Holder 1004732 - Primary title: d_eshirdas has lost the title: d_eshirdas
+265 - Title given to 1004732 - Primary title: d_tamin
+285 - vassal: c_betlha - Given to 1008708 in HandleTitles - Too many duke titles
+285 - vassal: c_betlha - Holder 1008708 - Primary title: c_betlha has lost the title: c_betlha
+285 - vassal: c_betlha - Title given to 1008708
+285 - Title given to 1006842 - Primary title: k_ralirma
+285 - Too many dukes, made direct title into vassal of k_ralirma
+285 - Title given to 1008709
+291 - Holder 1006842 - Primary title: d_eshirdas has lost the title: d_eshirdas
+291 - Title given to 1006842 - Primary title: k_ralirma
+307 - Setting independent due to liege destruction
+307 - Made independent
+307 - sub vassal: c_ralitya - Setting to vassal of d_eshirdas in Validate Realm
+307 - sub vassal: c_dyadibel - Setting to vassal of d_eshirdas in Validate Realm
+307 - sub vassal: c_rameph - Setting to vassal of d_eshirdas in Validate Realm
+307 - Gained vassal: c_rameph
+307 - Gained vassal: c_dyadibel
+307 - Gained vassal: c_ralitya
+307 - Holder 1010004 - Primary title: d_eshirdas has lost the title: d_eshirdas
+307 - Title given to 1010004 - Primary title: d_buqebar
+307 - vassal: c_ralitya - Holder 1010004 - Primary title: c_ralitya has lost the title: c_ralitya
+307 - vassal: c_ralitya - Title given to 1010004 - Primary title: d_buqebar
+307 - vassal: c_dyadibel - Holder 1010004 - Primary title: c_dyadibel has lost the title: c_dyadibel
+307 - vassal: c_dyadibel - Title given to 1010004 - Primary title: d_buqebar
+307 - vassal: c_rameph - Holder 1010004 - Primary title: c_rameph has lost the title: c_rameph
+307 - vassal: c_rameph - Title given t

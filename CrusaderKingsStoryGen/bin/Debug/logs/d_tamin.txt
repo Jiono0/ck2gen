@@ -1,0 +1,70 @@
+200 - Title given to 1001045
+200 - vassal: c_qonona - Given to 1001048 via AddCharacterForTitle
+200 - sub vassal: c_qonona - Given to 1001048 via AddCharacterForTitle
+200 - vassal: c_qonona - Holder 1001048 - Primary title: c_qonona has lost the title: c_qonona
+200 - sub vassal: c_qonona - Holder 1001048 - Primary title: c_qonona has lost the title: c_qonona
+200 - vassal: c_qonona - Title given to 1001048
+200 - sub vassal: c_qonona - Title given to 1001048
+200 - vassal: c_katha - Holder 1001045 - Primary title: c_katha has lost the title: c_katha
+200 - sub vassal: c_katha - Holder 1001045 - Primary title: c_katha has lost the title: c_katha
+200 - vassal: c_katha - Title given to 1001045 - Primary title: d_tamin
+200 - sub vassal: c_katha - Title given to 1001045 - Primary title: d_tamin
+200 - Holder (1001045) has gained c_katha
+200 - vassal: c_qonona - Holder 1001045 - Primary title: c_qonona has lost the title: c_qonona
+200 - sub vassal: c_qonona - Holder 1001045 - Primary title: c_qonona has lost the title: c_qonona
+200 - vassal: c_qonona - Title given to 1001045 - Primary title: d_tamin
+200 - sub vassal: c_qonona - Title given to 1001045 - Primary title: d_tamin
+200 - Holder (1001045) has gained c_qonona
+200 - vassal: c_tenunas - Holder 1001045 - Primary title: c_tenunas has lost the title: c_tenunas
+200 - sub vassal: c_tenunas - Holder 1001045 - Primary title: c_tenunas has lost the title: c_tenunas
+200 - vassal: c_tenunas - Title given to 1001045 - Primary title: d_tamin
+200 - sub vassal: c_tenunas - Title given to 1001045 - Primary title: d_tamin
+200 - Holder (1001045) has gained c_tenunas
+257 - Holder 1004732 - Primary title: d_tamin has lost the title: d_tamin
+257 - Title given to 1004732
+257 - vassal: c_tenunas - Holder 1004732 - Primary title: c_tenunas has lost the title: c_tenunas
+257 - vassal: c_tenunas - Title given to 1004732 - Primary title: d_tamin
+257 - Holder (1004732) has gained c_tenunas
+257 - vassal: c_qonona - Holder 1004732 - Primary title: c_qonona has lost the title: c_qonona
+257 - vassal: c_qonona - Title given to 1004732 - Primary title: d_tamin
+257 - Holder (1004732) has gained c_qonona
+257 - vassal: c_katha - Holder 1004732 - Primary title: c_katha has lost the title: c_katha
+257 - vassal: c_katha - Title given to 1004732 - Primary title: d_tamin
+257 - Holder (1004732) has gained c_katha
+265 - Holder (1004732) has gained d_eshirdas
+284 - Holder (1004732) has gained d_bare
+284 - Holder (1004732) has gained c_aevna
+284 - Holder (1004732) has gained c_atiran
+284 - Holder (1004732) has gained c_rartas
+284 - Holder (1004732) has gained c_rinabah
+284 - Holder (1004732) has gained c_kunas
+285 - vassal: c_qonona - Title given to 1008710
+285 - vassal: c_katha - Title given to 1008711
+285 - vassal: c_tenunas - Title given to 1008712
+290 - Title given to 1006657
+290 - Holder (1006657) has gained d_bare
+290 - Holder (1006657) has gained c_aevna
+290 - Holder (1006657) has gained c_atiran
+290 - Holder (1006657) has gained c_rartas
+290 - Holder (1006657) has gained c_rinabah
+290 - Holder (1006657) has gained c_kunas
+294 - Title given to 1009110
+294 - Holder (1009110) has gained d_bare
+294 - Holder (1009110) has gained c_aevna
+294 - Holder (1009110) has gained c_atiran
+294 - Holder (1009110) has gained c_rartas
+294 - Holder (1009110) has gained c_rinabah
+294 - Holder (1009110) has gained c_kunas
+298 - Holder (1009110) has gained d_wuramin
+300 - Holder (1009110) has gained c_kalulay
+300 - Holder (1009110) has gained d_wuramin
+300 - Holder 1009713 - Primary title: d_tamin has lost the title: c_kalulay
+300 - Gained vassal: c_kalulay
+306 - Holder (1009110) has gained d_wuramin
+307 - Setting independent due to liege destruction
+307 - sub vassal: d_tamin - Setting independent due to liege destruction
+307 - Made independent
+307 - sub vassal: d_tamin - Made independent
+307 - vassal: c_kalulay - Made independent due to being a seperate island
+307 - sub vassal: c_kalulay - Made independent due to being a seperate island
+307 - vassal: c_kalulay - Made

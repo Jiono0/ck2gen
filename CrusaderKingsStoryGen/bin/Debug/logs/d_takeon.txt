@@ -1,0 +1,119 @@
+200 - Title given to 1000720
+200 - vassal: c_tenab - Given to 1000723 via AddCharacterForTitle
+200 - sub vassal: c_tenab - Given to 1000723 via AddCharacterForTitle
+200 - vassal: c_tenab - Holder 1000723 - Primary title: c_tenab has lost the title: c_tenab
+200 - sub vassal: c_tenab - Holder 1000723 - Primary title: c_tenab has lost the title: c_tenab
+200 - vassal: c_tenab - Title given to 1000723
+200 - sub vassal: c_tenab - Title given to 1000723
+200 - vassal: c_tatara - Holder 1000720 - Primary title: c_tatara has lost the title: c_tatara
+200 - sub vassal: c_tatara - Holder 1000720 - Primary title: c_tatara has lost the title: c_tatara
+200 - vassal: c_tatara - Title given to 1000720 - Primary title: d_takeon
+200 - sub vassal: c_tatara - Title given to 1000720 - Primary title: d_takeon
+200 - Holder (1000720) has gained c_tatara
+200 - vassal: c_tenab - Holder 1000720 - Primary title: c_tenab has lost the title: c_tenab
+200 - sub vassal: c_tenab - Holder 1000720 - Primary title: c_tenab has lost the title: c_tenab
+200 - vassal: c_tenab - Title given to 1000720 - Primary title: d_takeon
+200 - sub vassal: c_tenab - Title given to 1000720 - Primary title: d_takeon
+200 - Holder (1000720) has gained c_tenab
+200 - Holder 1001478 - Primary title: d_takeon has lost the title: d_takeon
+200 - Title given to 1001478 - Primary title: k_karyake
+208 - vassal: c_tenab - Given to 1002859 in HandleTitles - Too many duke titles
+208 - vassal: c_tatara - Holder 1002859 - Primary title: c_tatara has lost the title: c_tenab
+208 - vassal: c_tenab - Title given to 1002859
+208 - Title given to 1002859 - Primary title: c_tenab
+208 - vassal: c_tenab - Holder (1002859) has gained d_takeon
+208 - Too many dukes, given to dejure: k_karyake
+209 - Holder 1001478 - Primary title: d_takeon has lost the title: d_takeon
+209 - Title given to 1001478 - Primary title: k_karyake
+209 - vassal: c_tenab - Holder 1001478 - Primary title: c_tenab has lost the title: c_tenab
+209 - vassal: c_tenab - Title given to 1001478 - Primary title: k_karyake
+217 - Gained vassal: c_rair
+217 - Gained vassal: c_qib
+217 - Gained vassal: c_sisara
+217 - Holder 1000418 - Primary title: d_takeon has lost the title: c_sisara
+217 - vassal: c_sisara - Title given to 1000418 - Primary title: k_karyake
+217 - vassal: c_sisara - Setting to vassal of k_karyake in Validate Realm
+217 - Lost vassal: c_sisara
+217 - Holder 1000418 - Primary title: d_takeon has lost the title: c_qib
+217 - vassal: c_qib - Title given to 1000418 - Primary title: k_karyake
+217 - vassal: c_qib - Setting to vassal of k_karyake in Validate Realm
+217 - Lost vassal: c_qib
+217 - Holder 1000418 - Primary title: d_takeon has lost the title: d_takeon
+217 - Title given to 1000418 - Primary title: k_karyake
+217 - vassal: c_tenab - Holder 1000418 - Primary title: c_tenab has lost the title: c_tenab
+217 - vassal: c_tenab - Title given to 1000418 - Primary title: k_karyake
+217 - vassal: c_rair - Holder 1000418 - Primary title: c_rair has lost the title: c_rair
+217 - vassal: c_rair - Title given to 1000418 - Primary title: k_karyake
+218 - vassal: c_rair - Title given to 1003623
+237 - vassal: c_tenab - Title given to 1005025
+237 - Gained vassal: c_kisoke
+237 - Gained vassal: c_alilawid
+237 - Gained vassal: c_sisara
+237 - Gained vassal: c_qib
+237 - Holder 1002219 - Primary title: d_takeon has lost the title: d_takeon
+237 - Title given to 1002219 - Primary title: k_karyake
+237 - vassal: c_qib - Setting to vassal of d_daha in Validate Realm
+237 - Lost vassal: c_qib
+237 - vassal: c_sisara - Setting to vassal of d_daha in Validate Realm
+237 - Lost vassal: c_sisara
+237 - vassal: c_alilawid - Setting to vassal of d_daha in Validate Realm
+237 - Lost vassal: c_alilawid
+237 - vassal: c_kisoke - Setting to vassal of d_daha in Validate Realm
+237 - Lost vassal: c_kisoke
+254 - Gained vassal: c_boke
+254 - Gained vassal: c_qib
+254 - Gained vassal: c_sisara
+254 - Gained vassal: c_alilawid
+254 - Gained vassal: c_kisoke
+254 - Holder 1005452 - Primary title: d_takeon has lost the title: d_takeon
+254 - Title given to 1005452 - Primary title: k_karyake
+254 - vassal: c_kisoke - Holder 1005452 - Primary title: c_kisoke has lost the title: c_kisoke
+254 - vassal: c_kisoke - Title given to 1005452 - Primary title: k_karyake
+254 - vassal: c_alilawid - Holder 1005452 - Primary title: c_alilawid has lost the title: c_alilawid
+254 - vassal: c_alilawid - Title given to 1005452 - Primary title: k_karyake
+254 - vassal: c_sisara - Holder 1005452 - Primary title: c_sisara has lost the title: c_sisara
+254 - vassal: c_sisara - Title given to 1005452 - Primary title: k_karyake
+254 - vassal: c_qib - Holder 1005452 - Primary title: c_qib has lost the title: c_qib
+254 - vassal: c_qib - Title given to 1005452 - Primary title: k_karyake
+254 - vassal: c_boke - Holder 1005452 - Primary title: c_boke has lost the title: c_boke
+254 - vassal: c_boke - Title given to 1005452 - Primary title: k_karyake
+275 - Holder 1005418 - Primary title: d_takeon has lost the title: d_takeon
+275 - Title given to 1005418 - Primary title: k_karyake
+275 - vassal: c_boke - Holder 1005418 - Primary title: c_boke has lost the title: c_boke
+275 - vassal: c_boke - Title given to 1005418 - Primary title: k_karyake
+275 - vassal: c_qib - Holder 1005418 - Primary title: c_qib has lost the title: c_qib
+275 - vassal: c_qib - Title given to 1005418 - Primary title: k_karyake
+275 - vassal: c_sisara - Holder 1005418 - Primary title: c_sisara has lost the title: c_sisara
+275 - vassal: c_sisara - Title given to 1005418 - Primary title: k_karyake
+275 - vassal: c_alilawid - Holder 1005418 - Primary title: c_alilawid has lost the title: c_alilawid
+275 - vassal: c_alilawid - Title given to 1005418 - Primary title: k_karyake
+275 - vassal: c_kisoke - Holder 1005418 - Primary title: c_kisoke has lost the title: c_kisoke
+275 - vassal: c_kisoke - Title given to 1005418 - Primary title: k_karyake
+300 - vassal: c_tatara - Holder 1005418 - Primary title: c_tatara has lost the title: c_tatara
+300 - vassal: c_tatara - Title given to 1005418 - Primary title: k_karyake
+300 - vassal: c_tatara - Title given to 1009741
+302 - Holder 1007525 - Primary title: d_takeon has lost the title: d_takeon
+302 - Title given to 1007525 - Primary title: k_karyake
+302 - vassal: c_boke - Holder 1007525 - Primary title: c_boke has lost the title: c_boke
+302 - vassal: c_boke - Title given to 1007525 - Primary title: k_karyake
+302 - vassal: c_qib - Holder 1007525 - Primary title: c_qib has lost the title: c_qib
+302 - vassal: c_qib - Title given to 1007525 - Primary title: k_karyake
+302 - vassal: c_sisara - Holder 1007525 - Primary title: c_sisara has lost the title: c_sisara
+302 - vassal: c_sisara - Title given to 1007525 - Primary title: k_karyake
+302 - vassal: c_alilawid - Holder 1007525 - Primary title: c_alilawid has lost the title: c_alilawid
+302 - vassal: c_alilawid - Title given to 1007525 - Primary title: k_karyake
+302 - vassal: c_kisoke - Holder 1007525 - Primary title: c_kisoke has lost the title: c_kisoke
+302 - vassal: c_kisoke - Title given to 1007525 - Primary title: k_karyake
+305 - Holder 1008068 - Primary title: d_takeon has lost the title: d_takeon
+305 - Title given to 1008068 - Primary title: k_karyake
+305 - vassal: c_boke - Holder 1008068 - Primary title: c_boke has lost the title: c_boke
+305 - vassal: c_boke - Title given to 1008068 - Primary title: k_karyake
+305 - vassal: c_qib - Holder 1008068 - Primary title: c_qib has lost the title: c_qib
+305 - vassal: c_qib - Title given to 1008068 - Primary title: k_karyake
+305 - vassal: c_sisara - Holder 1008068 - Primary title: c_sisara has lost the title: c_sisara
+305 - vassal: c_sisara - Title given to 1008068 - Primary title: k_karyake
+305 - vassal: c_alilawid - Holder 1008068 - Primary title: c_alilawid has lost the title: c_alilawid
+305 - vassal: c_alilawid - Title given to 1008068 - Primary title: k_karyake
+305 - vassal: c_kisoke - Holder 1008068 - Primary title: c_kisoke has lost the title: c_kisoke
+305 - vassal: c_kisoke - Title given to 1008068 - Primary title: k_karyake
+320 - Holder 1009

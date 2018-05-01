@@ -1,0 +1,66 @@
+200 - Title given to 1000549
+200 - vassal: c_negalam - Holder 1000549 - Primary title: c_negalam has lost the title: c_negalam
+200 - sub vassal: c_negalam - Holder 1000549 - Primary title: c_negalam has lost the title: c_negalam
+200 - vassal: c_negalam - Title given to 1000549 - Primary title: d_atema
+200 - sub vassal: c_negalam - Title given to 1000549 - Primary title: d_atema
+200 - Holder (1000549) has gained c_negalam
+200 - vassal: c_naradeva - Holder 1000549 - Primary title: c_naradeva has lost the title: c_naradeva
+200 - sub vassal: c_naradeva - Holder 1000549 - Primary title: c_naradeva has lost the title: c_naradeva
+200 - vassal: c_naradeva - Title given to 1000549 - Primary title: d_atema
+200 - sub vassal: c_naradeva - Title given to 1000549 - Primary title: d_atema
+200 - Holder (1000549) has gained c_naradeva
+200 - vassal: c_tetema - Holder 1000549 - Primary title: c_tetema has lost the title: c_tetema
+200 - sub vassal: c_tetema - Holder 1000549 - Primary title: c_tetema has lost the title: c_tetema
+200 - vassal: c_tetema - Title given to 1000549 - Primary title: d_atema
+200 - sub vassal: c_tetema - Title given to 1000549 - Primary title: d_atema
+200 - Holder (1000549) has gained c_tetema
+200 - Holder 1001557 - Primary title: d_atema has lost the title: d_atema
+200 - Title given to 1001557 - Primary title: k_tarathi
+200 - vassal: c_negalam - Holder 1001557 - Primary title: c_negalam has lost the title: c_negalam
+200 - vassal: c_negalam - Title given to 1001557 - Primary title: k_tarathi
+221 - Holder 1002081 - Primary title: d_atema has lost the title: d_atema
+221 - Title given to 1002081 - Primary title: k_tarathi
+221 - vassal: c_negalam - Holder 1002081 - Primary title: c_negalam has lost the title: c_negalam
+221 - vassal: c_negalam - Title given to 1002081 - Primary title: k_tarathi
+243 - Holder 1004577 - Primary title: d_atema has lost the title: d_atema
+243 - Title given to 1004577 - Primary title: k_tarathi
+243 - vassal: c_negalam - Setting to vassal of d_tema in Validate Realm
+243 - Lost vassal: c_negalam
+282 - vassal: c_naradeva - Holder 1004577 - Primary title: c_naradeva has lost the title: c_tetema
+282 - vassal: c_tetema - Title given to 1004577 - Primary title: k_tarathi
+282 - vassal: c_tetema - Given to 1009280 in HandleTitles - Too many duke titles
+282 - vassal: c_tetema - Title given to 1009280
+282 - Title given to 1009280 - Primary title: c_tetema
+282 - vassal: c_tetema - Holder (1009280) has gained d_atema
+282 - Too many dukes, given to dejure: k_tarathi
+300 - vassal: c_naradeva - Holder 1009280 - Primary title: c_naradeva has lost the title: c_naradeva
+300 - vassal: c_naradeva - Title given to 1009280 - Primary title: d_atema
+300 - Holder (1009280) has gained c_naradeva
+318 - Holder 1009340 - Primary title: d_atema has lost the title: d_atema
+318 - Title given to 1009340
+318 - vassal: c_naradeva - Holder 1009340 - Primary title: c_naradeva has lost the title: c_naradeva
+318 - vassal: c_naradeva - Title given to 1009340 - Primary title: d_atema
+318 - Holder (1009340) has gained c_naradeva
+318 - vassal: c_tetema - Holder 1009340 - Primary title: c_tetema has lost the title: c_tetema
+318 - vassal: c_tetema - Title given to 1009340 - Primary title: d_atema
+318 - Holder (1009340) has gained c_tetema
+342 - Holder 1012374 - Primary title: d_atema has lost the title: d_atema
+342 - Title given to 1012374
+342 - vassal: c_naradeva - Holder 1012374 - Primary title: c_naradeva has lost the title: c_naradeva
+342 - vassal: c_naradeva - Title given to 1012374 - Primary title: d_atema
+342 - Holder (1012374) has gained c_naradeva
+342 - vassal: c_tetema - Holder 1012374 - Primary title: c_tetema has lost the title: c_tetema
+342 - vassal: c_tetema - Title given to 1012374 - Primary title: d_atema
+342 - Holder (1012374) has gained c_tetema
+355 - Holder 1012249 - Primary title: d_atema has lost the title: d_atema
+355 - Title given to 1012249 - Primary title: k_tarathi
+355 - vassal: c_naradeva - Holder 1012249 - Primary title: c_naradeva has lost the title: c_naradeva
+355 - vassal: c_naradeva - Title given to 1012249 - Primary title: k_tarathi
+355 - vassal: c_tetema - Holder 1012249 - Primary title: c_tetema has lost the title: c_tetema
+355 - vassal: c_tetema - Title given to 1012249 - Primary title: k_tarathi
+355 - vassal: c_naradeva - Title given to 1014975
+355 - vassal: c_tetema - Title given to 1014976
+360 - Holder 1015322 - Primary title: d_atema has lost the title: d_atema
+360 - Title given to 1015322 - Primary title: k_tarathi
+387 - Holder 1015402 - Primary title: d_atema has lost the title: d_atema
+387 - Title given to 1015402 - Primary title: k_tarathi

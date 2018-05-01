@@ -1,0 +1,46 @@
+200 - Title given to 1000205
+200 - vassal: c_weyanar - Given to 1000208 via AddCharacterForTitle
+200 - sub vassal: c_weyanar - Given to 1000208 via AddCharacterForTitle
+200 - vassal: c_weyanar - Holder 1000208 - Primary title: c_weyanar has lost the title: c_weyanar
+200 - sub vassal: c_weyanar - Holder 1000208 - Primary title: c_weyanar has lost the title: c_weyanar
+200 - vassal: c_weyanar - Title given to 1000208
+200 - sub vassal: c_weyanar - Title given to 1000208
+200 - vassal: c_katopal - Holder 1000205 - Primary title: c_katopal has lost the title: c_katopal
+200 - sub vassal: c_katopal - Holder 1000205 - Primary title: c_katopal has lost the title: c_katopal
+200 - vassal: c_katopal - Title given to 1000205 - Primary title: d_ekirinar
+200 - sub vassal: c_katopal - Title given to 1000205 - Primary title: d_ekirinar
+200 - Holder (1000205) has gained c_katopal
+200 - vassal: c_weyanar - Holder 1000205 - Primary title: c_weyanar has lost the title: c_weyanar
+200 - sub vassal: c_weyanar - Holder 1000205 - Primary title: c_weyanar has lost the title: c_weyanar
+200 - vassal: c_weyanar - Title given to 1000205 - Primary title: d_ekirinar
+200 - sub vassal: c_weyanar - Title given to 1000205 - Primary title: d_ekirinar
+200 - Holder (1000205) has gained c_weyanar
+205 - Holder 1002723 - Primary title: d_ekirinar has lost the title: d_ekirinar
+205 - Title given to 1002723
+205 - vassal: c_weyanar - Holder 1002723 - Primary title: c_weyanar has lost the title: c_weyanar
+205 - vassal: c_weyanar - Title given to 1002723 - Primary title: d_ekirinar
+205 - Holder (1002723) has gained c_weyanar
+205 - vassal: c_katopal - Holder 1002723 - Primary title: c_katopal has lost the title: c_katopal
+205 - vassal: c_katopal - Title given to 1002723 - Primary title: d_ekirinar
+205 - Holder (1002723) has gained c_katopal
+208 - Holder 1001542 - Primary title: d_ekirinar has lost the title: d_ekirinar
+208 - Title given to 1001542 - Primary title: k_dalald
+208 - vassal: c_weyanar - Holder 1001542 - Primary title: c_weyanar has lost the title: c_weyanar
+208 - vassal: c_weyanar - Title given to 1001542 - Primary title: k_dalald
+208 - vassal: c_katopal - Holder 1001542 - Primary title: c_katopal has lost the title: c_katopal
+208 - vassal: c_katopal - Title given to 1001542 - Primary title: k_dalald
+236 - Holder 1002259 - Primary title: d_ekirinar has lost the title: d_ekirinar
+236 - Title given to 1002259 - Primary title: k_dalald
+236 - vassal: c_katopal - Holder 1002259 - Primary title: c_katopal has lost the title: c_katopal
+236 - vassal: c_katopal - Title given to 1002259 - Primary title: k_dalald
+236 - vassal: c_weyanar - Holder 1002259 - Primary title: c_weyanar has lost the title: c_weyanar
+236 - vassal: c_weyanar - Title given to 1002259 - Primary title: k_dalald
+243 - Holder 1005993 - Primary title: d_ekirinar has lost the title: d_ekirinar
+243 - Title given to 1005993 - Primary title: k_dalald
+243 - vassal: c_weyanar - Setting independent in Validate Realm
+243 - vassal: c_weyanar - Made independent
+243 - vassal: c_katopal - Setting independent in Validate Realm
+243 - vassal: c_katopal - Made independent
+244 - Destroyed due to flagged problem
+244 - Made independent
+244 - Title destroyed

@@ -1,0 +1,114 @@
+200 - Title given to 1000715
+200 - vassal: c_roraid - Given to 1000718 via AddCharacterForTitle
+200 - sub vassal: c_roraid - Given to 1000718 via AddCharacterForTitle
+200 - vassal: c_roraid - Holder 1000718 - Primary title: c_roraid has lost the title: c_roraid
+200 - sub vassal: c_roraid - Holder 1000718 - Primary title: c_roraid has lost the title: c_roraid
+200 - vassal: c_roraid - Title given to 1000718
+200 - sub vassal: c_roraid - Title given to 1000718
+200 - vassal: c_ralair - Holder 1000715 - Primary title: c_ralair has lost the title: c_ralair
+200 - sub vassal: c_ralair - Holder 1000715 - Primary title: c_ralair has lost the title: c_ralair
+200 - vassal: c_ralair - Title given to 1000715 - Primary title: d_kagohn
+200 - sub vassal: c_ralair - Title given to 1000715 - Primary title: d_kagohn
+200 - Holder (1000715) has gained c_ralair
+200 - vassal: c_roraid - Holder 1000715 - Primary title: c_roraid has lost the title: c_roraid
+200 - sub vassal: c_roraid - Holder 1000715 - Primary title: c_roraid has lost the title: c_roraid
+200 - vassal: c_roraid - Title given to 1000715 - Primary title: d_kagohn
+200 - sub vassal: c_roraid - Title given to 1000715 - Primary title: d_kagohn
+200 - Holder (1000715) has gained c_roraid
+200 - vassal: c_telct - Holder 1000715 - Primary title: c_telct has lost the title: c_telct
+200 - sub vassal: c_telct - Holder 1000715 - Primary title: c_telct has lost the title: c_telct
+200 - vassal: c_telct - Title given to 1000715 - Primary title: d_kagohn
+200 - sub vassal: c_telct - Title given to 1000715 - Primary title: d_kagohn
+200 - Holder (1000715) has gained c_telct
+221 - Holder 1002217 - Primary title: d_kagohn has lost the title: d_kagohn
+221 - Title given to 1002217
+221 - vassal: c_ralair - Holder 1002217 - Primary title: c_ralair has lost the title: c_ralair
+221 - vassal: c_ralair - Title given to 1002217 - Primary title: d_kagohn
+221 - Holder (1002217) has gained c_ralair
+221 - vassal: c_roraid - Holder 1002217 - Primary title: c_roraid has lost the title: c_roraid
+221 - vassal: c_roraid - Title given to 1002217 - Primary title: d_kagohn
+221 - Holder (1002217) has gained c_roraid
+221 - vassal: c_telct - Holder 1002217 - Primary title: c_telct has lost the title: c_telct
+221 - vassal: c_telct - Title given to 1002217 - Primary title: d_kagohn
+221 - Holder (1002217) has gained c_telct
+258 - Holder 1004221 - Primary title: d_kagohn has lost the title: d_kagohn
+258 - Title given to 1004221
+258 - vassal: c_telct - Holder 1004221 - Primary title: c_telct has lost the title: c_telct
+258 - vassal: c_telct - Title given to 1004221 - Primary title: d_kagohn
+258 - Holder (1004221) has gained c_telct
+258 - vassal: c_roraid - Holder 1004221 - Primary title: c_roraid has lost the title: c_roraid
+258 - vassal: c_roraid - Title given to 1004221 - Primary title: d_kagohn
+258 - Holder (1004221) has gained c_roraid
+258 - vassal: c_ralair - Holder 1004221 - Primary title: c_ralair has lost the title: c_ralair
+258 - vassal: c_ralair - Title given to 1004221 - Primary title: d_kagohn
+258 - Holder (1004221) has gained c_ralair
+280 - Holder 1008109 - Primary title: d_kagohn has lost the title: d_kagohn
+280 - Title given to 1008109
+280 - vassal: c_telct - Holder 1008109 - Primary title: c_telct has lost the title: c_telct
+280 - vassal: c_telct - Title given to 1008109 - Primary title: d_kagohn
+280 - Holder (1008109) has gained c_telct
+280 - vassal: c_roraid - Holder 1008109 - Primary title: c_roraid has lost the title: c_roraid
+280 - vassal: c_roraid - Title given to 1008109 - Primary title: d_kagohn
+280 - Holder (1008109) has gained c_roraid
+280 - vassal: c_ralair - Holder 1008109 - Primary title: c_ralair has lost the title: c_ralair
+280 - vassal: c_ralair - Title given to 1008109 - Primary title: d_kagohn
+280 - Holder (1008109) has gained c_ralair
+288 - Holder 1008374 - Primary title: d_kagohn has lost the title: d_kagohn
+288 - Title given to 1008374 - Primary title: k_esemia
+288 - vassal: c_telct - Holder 1008374 - Primary title: c_telct has lost the title: c_telct
+288 - vassal: c_telct - Title given to 1008374 - Primary title: k_esemia
+288 - vassal: c_roraid - Holder 1008374 - Primary title: c_roraid has lost the title: c_roraid
+288 - vassal: c_roraid - Title given to 1008374 - Primary title: k_esemia
+288 - vassal: c_ralair - Holder 1008374 - Primary title: c_ralair has lost the title: c_ralair
+288 - vassal: c_ralair - Title given to 1008374 - Primary title: k_esemia
+288 - vassal: c_ralair - Given to 1009761 in HandleTitles - Too many duke titles
+288 - vassal: c_ralair - Title given to 1009761
+288 - Title given to 1009761 - Primary title: c_ralair
+288 - vassal: c_ralair - Holder (1009761) has gained d_kagohn
+288 - vassal: c_telct - Setting to vassal of k_esemia in Validate Realm
+288 - Lost vassal: c_telct
+288 - vassal: c_roraid - Setting to vassal of k_esemia in Validate Realm
+288 - Lost vassal: c_roraid
+288 - Too many dukes, given to dejure: k_esemia
+289 - Holder 1008374 - Primary title: d_kagohn has lost the title: d_kagohn
+289 - Title given to 1008374 - Primary title: k_esemia
+289 - vassal: c_ralair - Holder 1008374 - Primary title: c_ralair has lost the title: c_ralair
+289 - vassal: c_ralair - Title given to 1008374 - Primary title: k_esemia
+289 - vassal: c_ralair - Title given to 1009834
+296 - Gained vassal: c_warika
+296 - Gained vassal: c_ekariu
+296 - Gained vassal: c_nivaerd
+296 - Gained vassal: c_narab
+296 - Gained vassal: c_tariu
+296 - Holder 1005965 - Primary title: d_kagohn has lost the title: c_tariu
+296 - vassal: c_tariu - Title given to 1005965 - Primary title: k_esemia
+296 - vassal: c_tariu - Setting to vassal of k_esemia in Validate Realm
+296 - Lost vassal: c_tariu
+296 - Holder 1005965 - Primary title: d_kagohn has lost the title: c_narab
+296 - vassal: c_narab - Title given to 1005965 - Primary title: k_esemia
+296 - vassal: c_narab - Setting to vassal of k_esemia in Validate Realm
+296 - Lost vassal: c_narab
+296 - Holder 1005965 - Primary title: d_kagohn has lost the title: c_nivaerd
+296 - vassal: c_nivaerd - Title given to 1005965 - Primary title: k_esemia
+296 - vassal: c_nivaerd - Setting to vassal of k_esemia in Validate Realm
+296 - Lost vassal: c_nivaerd
+296 - Holder 1005965 - Primary title: d_kagohn has lost the title: c_ekariu
+296 - vassal: c_ekariu - Title given to 1005965 - Primary title: k_esemia
+296 - vassal: c_ekariu - Setting to vassal of k_esemia in Validate Realm
+296 - Lost vassal: c_ekariu
+296 - Holder 1005965 - Primary title: d_kagohn has lost the title: c_warika
+296 - vassal: c_warika - Title given to 1005965 - Primary title: k_esemia
+296 - vassal: c_warika - Setting to vassal of k_esemia in Validate Realm
+296 - Lost vassal: c_warika
+296 - Holder 1005965 - Primary title: d_kagohn has lost the title: d_kagohn
+296 - Title given to 1005965 - Primary title: k_esemia
+305 - Holder 1009898 - Primary title: d_kagohn has lost the title: d_kagohn
+305 - Title given to 1009898 - Primary title: k_esemia
+310 - Holder 1010524 - Primary title: d_kagohn has lost the title: d_kagohn
+310 - Title given to 1010524 - Primary title: k_esemia
+342 - Holder 1009763 - Primary title: d_kagohn has lost the title: d_kagohn
+342 - Title given to 1009763 - Primary title: k_esemia
+368 - Holder 1015484 - Primary title: d_kagohn has lost the title: d_kagohn
+368 - Title given to 1015484 - Primary title: k_esemia
+400 - vassal: c_ralair - Holder 1015484 - Primary title: c_ralair has lost the title: c_ralair
+400 - vassal: c_ralair - Title given to 1015484 - Primary title: k_esemia

@@ -1,0 +1,67 @@
+200 - Title given to 1000418
+200 - vassal: c_senab - Given to 1000421 via AddCharacterForTitle
+200 - sub vassal: c_senab - Given to 1000421 via AddCharacterForTitle
+200 - vassal: c_senab - Holder 1000421 - Primary title: c_senab has lost the title: c_senab
+200 - sub vassal: c_senab - Holder 1000421 - Primary title: c_senab has lost the title: c_senab
+200 - vassal: c_senab - Title given to 1000421
+200 - sub vassal: c_senab - Title given to 1000421
+200 - vassal: c_tair - Holder 1000418 - Primary title: c_tair has lost the title: c_tair
+200 - sub vassal: c_tair - Holder 1000418 - Primary title: c_tair has lost the title: c_tair
+200 - vassal: c_tair - Title given to 1000418 - Primary title: d_daha
+200 - sub vassal: c_tair - Title given to 1000418 - Primary title: d_daha
+200 - Holder (1000418) has gained c_tair
+200 - vassal: c_senab - Holder 1000418 - Primary title: c_senab has lost the title: c_senab
+200 - sub vassal: c_senab - Holder 1000418 - Primary title: c_senab has lost the title: c_senab
+200 - vassal: c_senab - Title given to 1000418 - Primary title: d_daha
+200 - sub vassal: c_senab - Title given to 1000418 - Primary title: d_daha
+200 - Holder (1000418) has gained c_senab
+200 - vassal: c_kisoke - Title given to 1000418 - Primary title: d_daha
+200 - Holder (1000418) has gained c_kisoke
+216 - Holder (1000418) has gained d_lisumo
+216 - Holder (1000418) has gained c_satono
+216 - Holder (1000418) has gained c_tyoukh
+216 - Holder (1000418) has gained c_tuisal
+216 - Holder (1000418) has gained c_boke
+217 - vassal: c_senab - Title given to 1003521
+217 - vassal: c_tair - Title given to 1003522
+218 - vassal: c_tair - Given to 1003618 in HandleTitles - Too many duke titles
+218 - vassal: c_tair - Holder 1003618 - Primary title: c_tair has lost the title: c_tair
+218 - vassal: c_tair - Title given to 1003618
+218 - Title given to 1003618 - Primary title: c_tair
+218 - vassal: c_tair - Holder (1003618) has gained d_daha
+218 - vassal: c_kisoke - Setting to vassal of k_karyake in Validate Realm
+218 - Lost vassal: c_kisoke
+218 - Too many dukes, given to dejure: k_karyake
+236 - Holder 1003673 - Primary title: d_daha has lost the title: d_daha
+236 - Title given to 1003673
+236 - vassal: c_tair - Holder 1003673 - Primary title: c_tair has lost the title: c_tair
+236 - vassal: c_tair - Title given to 1003673 - Primary title: d_daha
+236 - Holder (1003673) has gained c_tair
+237 - Holder 1000418 - Primary title: d_daha has lost the title: d_daha
+237 - Title given to 1000418 - Primary title: k_karyake
+237 - vassal: c_tair - Holder 1000418 - Primary title: c_tair has lost the title: c_tair
+237 - vassal: c_tair - Title given to 1000418 - Primary title: k_karyake
+237 - Gained vassal: c_kisoke
+237 - Gained vassal: c_alilawid
+237 - Gained vassal: c_sisara
+237 - Gained vassal: c_qib
+237 - Holder 1002219 - Primary title: d_daha has lost the title: c_qib
+237 - vassal: c_qib - Title given to 1002219 - Primary title: k_karyake
+237 - vassal: c_qib - Setting to vassal of k_karyake in Validate Realm
+237 - Lost vassal: c_qib
+237 - Holder 1002219 - Primary title: d_daha has lost the title: c_sisara
+237 - vassal: c_sisara - Title given to 1002219 - Primary title: k_karyake
+237 - vassal: c_sisara - Setting to vassal of k_karyake in Validate Realm
+237 - Lost vassal: c_sisara
+237 - Holder 1002219 - Primary title: d_daha has lost the title: c_alilawid
+237 - vassal: c_alilawid - Title given to 1002219 - Primary title: k_karyake
+237 - vassal: c_alilawid - Setting to vassal of k_karyake in Validate Realm
+237 - Lost vassal: c_alilawid
+237 - Holder 1002219 - Primary title: d_daha has lost the title: c_kisoke
+237 - vassal: c_kisoke - Title given to 1002219 - Primary title: k_karyake
+237 - vassal: c_kisoke - Setting to vassal of k_karyake in Validate Realm
+237 - Lost vassal: c_kisoke
+237 - Holder 1002219 - Primary title: d_daha has lost the title: d_daha
+237 - Title given to 1002219 - Primary title: k_karyake
+237 - vassal: c_tair - Holder 1002219 - Primary title: c_tair has lost the title: c_tair
+237 - vassal

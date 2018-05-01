@@ -1,0 +1,141 @@
+200 - Title given to 1000435
+200 - vassal: c_disina - Holder 1000435 - Primary title: c_disina has lost the title: c_disina
+200 - sub vassal: c_disina - Holder 1000435 - Primary title: c_disina has lost the title: c_disina
+200 - vassal: c_disina - Title given to 1000435 - Primary title: d_tatara
+200 - sub vassal: c_disina - Title given to 1000435 - Primary title: d_tatara
+200 - Holder (1000435) has gained c_disina
+200 - vassal: c_satara - Holder 1000435 - Primary title: c_satara has lost the title: c_satara
+200 - sub vassal: c_satara - Holder 1000435 - Primary title: c_satara has lost the title: c_satara
+200 - vassal: c_satara - Title given to 1000435 - Primary title: d_tatara
+200 - sub vassal: c_satara - Title given to 1000435 - Primary title: d_tatara
+200 - Holder (1000435) has gained c_satara
+200 - vassal: c_rair - Title given to 1000435 - Primary title: d_tatara
+200 - Holder (1000435) has gained c_rair
+202 - Holder (1000435) has gained d_baepul
+202 - Holder (1000435) has gained c_amisib
+202 - Holder (1000435) has gained c_tanaha
+202 - Holder (1000435) has gained c_sovald
+203 - vassal: c_rair - Title given to 1002332
+210 - Setting independent in Validate Realm
+210 - Made independent
+210 - vassal: c_rair - Made vassal of neighbour (k_karyake) due to being a seperate island
+210 - Lost vassal: c_rair
+210 - vassal: c_satara - Made vassal of neighbour (k_sabiske) due to being a seperate island
+210 - Lost vassal: c_satara
+210 - vassal: c_disina - Made vassal of neighbour (k_sabiske) due to being a seperate island
+210 - Lost vassal: c_disina
+211 - Destroyed due to flagged problem
+211 - Title destroyed
+213 - Given to 1000435 in TestCreateEmpire
+213 - Title given to 1000435 - Primary title: d_baepul
+213 - Made independent for title creation d_tatara for d_baepul
+213 - Made independent
+213 - Gained vassal: c_satara
+213 - Gained vassal: c_disina
+213 - Gained vassal: c_amisib
+213 - Gained vassal: c_tanaha
+213 - Gained vassal: c_sovald
+213 - vassal: c_satara - Made vassal of neighbour (k_sabiske) due to being a seperate island
+213 - Lost vassal: c_satara
+213 - vassal: c_disina - Made vassal of neighbour (k_sabiske) due to being a seperate island
+213 - Lost vassal: c_disina
+214 - sub vassal: c_satara - Setting liege to this liege in SoftDestroy
+214 - sub vassal: c_satara - Setting to vassal of d_tatara in Validate Realm
+214 - sub vassal: c_disina - Setting to vassal of d_tatara in Validate Realm
+214 - Gained vassal: c_disina
+214 - Gained vassal: c_satara
+214 - Gained vassal: c_satara
+214 - vassal: c_disina - Setting liege to this liege in SoftDestroy
+214 - sub vassal: c_disina - Setting liege to this liege in SoftDestroy
+214 - Lost vassal: c_disina
+214 - sub vassal: c_disina - Setting to vassal of d_tatara in Validate Realm
+214 - Gained vassal: c_disina
+214 - Gained vassal: c_disina
+214 - vassal: c_amisib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+214 - sub vassal: c_amisib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+214 - Lost vassal: c_amisib
+214 - sub vassal: c_amisib - Setting to vassal of d_tatara in Validate Realm
+214 - Gained vassal: c_amisib
+214 - Gained vassal: c_amisib
+214 - vassal: c_amisib - Given to neighbour holder of k_tyawille
+214 - sub vassal: c_amisib - Given to neighbour holder of k_tyawille
+214 - vassal: c_sovald - Made vassal of neighbour (k_tyawille) due to being a seperate island
+214 - sub vassal: c_sovald - Made vassal of neighbour (k_tyawille) due to being a seperate island
+214 - Lost vassal: c_sovald
+214 - sub vassal: c_sovald - Setting to vassal of d_tatara in Validate Realm
+214 - Gained vassal: c_sovald
+214 - Gained vassal: c_sovald
+214 - vassal: c_sovald - Given to neighbour holder of k_tyawille
+214 - sub vassal: c_sovald - Given to neighbour holder of k_tyawille
+214 - vassal: c_tanaha - Made vassal of neighbour (k_tyawille) due to being a seperate island
+214 - sub vassal: c_tanaha - Made vassal of neighbour (k_tyawille) due to being a seperate island
+214 - Lost vassal: c_tanaha
+214 - sub vassal: c_tanaha - Setting to vassal of d_tatara in Validate Realm
+214 - Gained vassal: c_tanaha
+214 - Gained vassal: c_tanaha
+214 - vassal: c_tanaha - Given to neighbour holder of k_tyawille
+214 - sub vassal: c_tanaha - Given to neighbour holder of k_tyawille
+215 - vassal: c_amisib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+215 - sub vassal: c_amisib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+215 - Lost vassal: c_amisib
+215 - sub vassal: c_amisib - Setting to vassal of d_tatara in Validate Realm
+215 - Gained vassal: c_amisib
+215 - Gained vassal: c_amisib
+215 - vassal: c_amisib - Given to neighbour holder of k_tyawille
+215 - sub vassal: c_amisib - Given to neighbour holder of k_tyawille
+215 - vassal: c_sovald - Made vassal of neighbour (k_tyawille) due to being a seperate island
+215 - sub vassal: c_sovald - Made vassal of neighbour (k_tyawille) due to being a seperate island
+215 - Lost vassal: c_sovald
+215 - sub vassal: c_sovald - Setting to vassal of d_tatara in Validate Realm
+215 - Gained vassal: c_sovald
+215 - Gained vassal: c_sovald
+215 - vassal: c_sovald - Given to neighbour holder of k_tyawille
+215 - sub vassal: c_sovald - Given to neighbour holder of k_tyawille
+215 - vassal: c_tanaha - Made vassal of neighbour (k_tyawille) due to being a seperate island
+215 - sub vassal: c_tanaha - Made vassal of neighbour (k_tyawille) due to being a seperate island
+215 - Lost vassal: c_tanaha
+215 - sub vassal: c_tanaha - Setting to vassal of d_tatara in Validate Realm
+215 - Gained vassal: c_tanaha
+215 - Gained vassal: c_tanaha
+215 - vassal: c_tanaha - Given to neighbour holder of k_tyawille
+215 - sub vassal: c_tanaha - Given to neighbour holder of k_tyawille
+216 - vassal: c_amisib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+216 - sub vassal: c_amisib - Made vassal of neighbour (k_tyawille) due to being a seperate island
+216 - Lost vassal: c_amisib
+216 - sub vassal: c_amisib - Setting to vassal of d_tatara in Validate Realm
+216 - Gained vassal: c_amisib
+216 - Gained vassal: c_amisib
+216 - vassal: c_amisib - Given to neighbour holder of k_tyawille
+216 - sub vassal: c_amisib - Given to neighbour holder of k_tyawille
+216 - vassal: c_sovald - Made vassal of neighbour (k_tyawille) due to being a seperate island
+216 - sub vassal: c_sovald - Made vassal of neighbour (k_tyawille) due to being a seperate island
+216 - Lost vassal: c_sovald
+216 - sub vassal: c_sovald - Setting to vassal of d_tatara in Validate Realm
+216 - Gained vassal: c_sovald
+216 - Gained vassal: c_sovald
+216 - vassal: c_sovald - Given to neighbour holder of k_tyawille
+216 - sub vassal: c_sovald - Given to neighbour holder of k_tyawille
+216 - vassal: c_tanaha - Made vassal of neighbour (k_tyawille) due to being a seperate island
+216 - sub vassal: c_tanaha - Made vassal of neighbour (k_tyawille) due to being a seperate island
+216 - Lost vassal: c_tanaha
+216 - sub vassal: c_tanaha - Setting to vassal of d_tatara in Validate Realm
+216 - Gained vassal: c_tanaha
+216 - Gained vassal: c_tanaha
+216 - vassal: c_tanaha - Given to neighbour holder of k_tyawille
+216 - sub vassal: c_tanaha - Given to neighbour holder of k_tyawille
+217 - Holder (1000435) has gained d_baepul
+217 - vassal: c_satara - Set liege on title creation d_baepul
+217 - sub vassal: c_satara - Set liege on title creation d_baepul
+217 - Lost vassal: c_satara
+217 - vassal: c_disina - Set liege on title creation d_baepul
+217 - sub vassal: c_disina - Set liege on title creation d_baepul
+217 - Lost vassal: c_disina
+217 - vassal: c_amisib - Set liege on title creation d_baepul
+217 - sub vassal: c_amisib - Set liege on title creation d_baepul
+217 - Lost vassal: c_amisib
+217 - vassal: c_tanaha - Set liege on title creation d_baepul
+217 - sub vassal: c_tanaha - Set liege on title creation d_baepul
+217 - Lost vassal: c_tanaha
+217 - vassal: c_sovald - Set liege on title creation d_baepul
+217 - sub vassal: c_sovald - Set liege on title creation d_baepul
+217 - Lost vass

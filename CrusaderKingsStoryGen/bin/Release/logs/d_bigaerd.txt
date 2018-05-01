@@ -1,0 +1,115 @@
+200 - Title given to 1000235
+200 - vassal: c_abaren - Holder 1000235 - Primary title: c_abaren has lost the title: c_abaren
+200 - sub vassal: c_abaren - Holder 1000235 - Primary title: c_abaren has lost the title: c_abaren
+200 - vassal: c_abaren - Title given to 1000235 - Primary title: d_bigaerd
+200 - sub vassal: c_abaren - Title given to 1000235 - Primary title: d_bigaerd
+200 - Holder (1000235) has gained c_abaren
+200 - vassal: c_wopal - Holder 1000235 - Primary title: c_wopal has lost the title: c_wopal
+200 - sub vassal: c_wopal - Holder 1000235 - Primary title: c_wopal has lost the title: c_wopal
+200 - vassal: c_wopal - Title given to 1000235 - Primary title: d_bigaerd
+200 - sub vassal: c_wopal - Title given to 1000235 - Primary title: d_bigaerd
+200 - Holder (1000235) has gained c_wopal
+203 - Holder 1001543 - Primary title: d_bigaerd has lost the title: d_bigaerd
+203 - Title given to 1001543 - Primary title: k_rabaerd
+203 - vassal: c_wopal - Holder 1001543 - Primary title: c_wopal has lost the title: c_wopal
+203 - vassal: c_wopal - Title given to 1001543 - Primary title: k_rabaerd
+203 - vassal: c_abaren - Holder 1001543 - Primary title: c_abaren has lost the title: c_abaren
+203 - vassal: c_abaren - Title given to 1001543 - Primary title: k_rabaerd
+203 - vassal: c_wopal - Given to 1002545 in HandleTitles - Too many duke titles
+203 - vassal: c_wopal - Title given to 1002545
+203 - Title given to 1002545 - Primary title: c_wopal
+203 - vassal: c_wopal - Holder (1002545) has gained d_bigaerd
+203 - vassal: c_abaren - Setting to vassal of k_rabaerd in Validate Realm
+203 - Lost vassal: c_abaren
+203 - Too many dukes, given to dejure: k_rabaerd
+205 - Holder (1002545) has gained d_qareo
+205 - Holder (1002545) has gained c_borald
+205 - Gained vassal: c_borald
+205 - Holder (1002545) has gained c_robeo
+205 - Gained vassal: c_robeo
+205 - Holder (1002545) has gained d_kalaerd
+205 - Holder (1002545) has gained c_tobubil
+205 - Holder (1002545) has gained c_balasco
+205 - Holder (1002545) has gained c_apubil
+206 - vassal: c_borald - Title given to 1002845
+239 - Gained vassal: c_tobubil
+239 - Gained vassal: c_balasco
+239 - Gained vassal: c_apubil
+239 - Holder 1002610 - Primary title: d_bigaerd has lost the title: d_bigaerd
+239 - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: c_apubil - Holder 1002610 - Primary title: c_apubil has lost the title: c_apubil
+239 - vassal: c_apubil - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: c_balasco - Holder 1002610 - Primary title: c_balasco has lost the title: c_balasco
+239 - vassal: c_balasco - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: c_tobubil - Holder 1002610 - Primary title: c_tobubil has lost the title: c_tobubil
+239 - vassal: c_tobubil - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: c_robeo - Holder 1002610 - Primary title: c_robeo has lost the title: c_robeo
+239 - vassal: c_robeo - Title given to 1002610 - Primary title: d_kalaerd
+239 - vassal: c_wopal - Holder 1002610 - Primary title: c_wopal has lost the title: c_wopal
+239 - vassal: c_wopal - Title given to 1002610 - Primary title: d_kalaerd
+244 - Holder (1002610) has gained d_kalaerd
+244 - vassal: c_wopal - Set liege on title creation d_kalaerd
+244 - Lost vassal: c_wopal
+244 - vassal: c_robeo - Set liege on title creation d_kalaerd
+244 - Lost vassal: c_robeo
+244 - vassal: c_tobubil - Set liege on title creation d_kalaerd
+244 - Lost vassal: c_tobubil
+244 - vassal: c_balasco - Set liege on title creation d_kalaerd
+244 - Lost vassal: c_balasco
+244 - vassal: c_apubil - Set liege on title creation d_kalaerd
+244 - Lost vassal: c_apubil
+244 - vassal: c_borald - Holder 1002610 - Primary title: c_borald has lost the title: c_borald
+244 - vassal: c_borald - Title given to 1002610 - Primary title: d_bigaerd
+244 - Holder (1002610) has gained c_borald
+245 - Holder 1006123 - Primary title: d_bigaerd has lost the title: c_balasco
+249 - Holder (1002610) has gained d_qareo
+261 - Gained vassal: c_wopal
+261 - Gained vassal: c_robeo
+261 - Gained vassal: c_tobubil
+261 - Holder 1006638 - Primary title: d_bigaerd has lost the title: d_bigaerd
+261 - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: c_borald - Holder 1006638 - Primary title: c_borald has lost the title: c_borald
+261 - vassal: c_borald - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: c_tobubil - Holder 1006638 - Primary title: c_tobubil has lost the title: c_tobubil
+261 - vassal: c_tobubil - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: c_robeo - Holder 1006638 - Primary title: c_robeo has lost the title: c_robeo
+261 - vassal: c_robeo - Title given to 1006638 - Primary title: d_qareo
+261 - vassal: c_wopal - Holder 1006638 - Primary title: c_wopal has lost the title: c_wopal
+261 - vassal: c_wopal - Title given to 1006638 - Primary title: d_qareo
+293 - Holder 1008258 - Primary title: d_bigaerd has lost the title: d_bigaerd
+293 - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: c_wopal - Holder 1008258 - Primary title: c_wopal has lost the title: c_wopal
+293 - vassal: c_wopal - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: c_robeo - Holder 1008258 - Primary title: c_robeo has lost the title: c_robeo
+293 - vassal: c_robeo - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: c_tobubil - Holder 1008258 - Primary title: c_tobubil has lost the title: c_tobubil
+293 - vassal: c_tobubil - Title given to 1008258 - Primary title: d_qareo
+293 - vassal: c_borald - Holder 1008258 - Primary title: c_borald has lost the title: c_borald
+293 - vassal: c_borald - Title given to 1008258 - Primary title: d_qareo
+304 - Gained vassal: c_babaren
+304 - Holder 1011121 - Primary title: d_bigaerd has lost the title: d_bigaerd
+304 - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: c_babaren - Holder 1011121 - Primary title: c_babaren has lost the title: c_babaren
+304 - vassal: c_babaren - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: c_borald - Holder 1011121 - Primary title: c_borald has lost the title: c_borald
+304 - vassal: c_borald - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: c_tobubil - Holder 1011121 - Primary title: c_tobubil has lost the title: c_tobubil
+304 - vassal: c_tobubil - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: c_robeo - Holder 1011121 - Primary title: c_robeo has lost the title: c_robeo
+304 - vassal: c_robeo - Title given to 1011121 - Primary title: d_qareo
+304 - vassal: c_wopal - Holder 1011121 - Primary title: c_wopal has lost the title: c_wopal
+304 - vassal: c_wopal - Title given to 1011121 - Primary title: d_qareo
+313 - Holder (1011121) has gained d_qareo
+313 - vassal: c_babaren - Set liege on title creation d_qareo
+313 - Lost vassal: c_babaren
+313 - vassal: c_borald - Set liege on title creation d_qareo
+313 - Lost vassal: c_borald
+313 - vassal: c_tobubil - Set liege on title creation d_qareo
+313 - Lost vassal: c_tobubil
+313 - vassal: c_robeo - Set liege on title creation d_qareo
+313 - Lost vassal: c_robeo
+313 - vassal: c_wopal - Set liege on title creation d_qareo
+313 - Lost vassal: c_wopal
+314 - Destroyed due to flagged problem
+314 - Made independent
+314 - Title destroyed

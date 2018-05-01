@@ -1,0 +1,65 @@
+200 - Title given to 1001364
+200 - vassal: c_keinurg - Given to 1001367 via AddCharacterForTitle
+200 - sub vassal: c_keinurg - Given to 1001367 via AddCharacterForTitle
+200 - vassal: c_keinurg - Holder 1001367 - Primary title: c_keinurg has lost the title: c_keinurg
+200 - sub vassal: c_keinurg - Holder 1001367 - Primary title: c_keinurg has lost the title: c_keinurg
+200 - vassal: c_keinurg - Title given to 1001367
+200 - sub vassal: c_keinurg - Title given to 1001367
+200 - vassal: c_wyen - Holder 1001364 - Primary title: c_wyen has lost the title: c_wyen
+200 - sub vassal: c_wyen - Holder 1001364 - Primary title: c_wyen has lost the title: c_wyen
+200 - vassal: c_wyen - Title given to 1001364 - Primary title: d_ronesiy
+200 - sub vassal: c_wyen - Title given to 1001364 - Primary title: d_ronesiy
+200 - Holder (1001364) has gained c_wyen
+200 - vassal: c_keinurg - Holder 1001364 - Primary title: c_keinurg has lost the title: c_keinurg
+200 - sub vassal: c_keinurg - Holder 1001364 - Primary title: c_keinurg has lost the title: c_keinurg
+200 - vassal: c_keinurg - Title given to 1001364 - Primary title: d_ronesiy
+200 - sub vassal: c_keinurg - Title given to 1001364 - Primary title: d_ronesiy
+200 - Holder (1001364) has gained c_keinurg
+200 - vassal: c_sedyut - Holder 1001364 - Primary title: c_sedyut has lost the title: c_sedyut
+200 - sub vassal: c_sedyut - Holder 1001364 - Primary title: c_sedyut has lost the title: c_sedyut
+200 - vassal: c_sedyut - Title given to 1001364 - Primary title: d_ronesiy
+200 - sub vassal: c_sedyut - Title given to 1001364 - Primary title: d_ronesiy
+200 - Holder (1001364) has gained c_sedyut
+240 - Holder 1002945 - Primary title: d_ronesiy has lost the title: d_ronesiy
+240 - Title given to 1002945
+240 - vassal: c_sedyut - Holder 1002945 - Primary title: c_sedyut has lost the title: c_sedyut
+240 - vassal: c_sedyut - Title given to 1002945 - Primary title: d_ronesiy
+240 - Holder (1002945) has gained c_sedyut
+240 - vassal: c_keinurg - Holder 1002945 - Primary title: c_keinurg has lost the title: c_keinurg
+240 - vassal: c_keinurg - Title given to 1002945 - Primary title: d_ronesiy
+240 - Holder (1002945) has gained c_keinurg
+240 - vassal: c_wyen - Holder 1002945 - Primary title: c_wyen has lost the title: c_wyen
+240 - vassal: c_wyen - Title given to 1002945 - Primary title: d_ronesiy
+240 - Holder (1002945) has gained c_wyen
+259 - Holder 1005366 - Primary title: d_ronesiy has lost the title: d_ronesiy
+259 - Title given to 1005366
+259 - vassal: c_sedyut - Holder 1005366 - Primary title: c_sedyut has lost the title: c_sedyut
+259 - vassal: c_sedyut - Title given to 1005366 - Primary title: d_ronesiy
+259 - Holder (1005366) has gained c_sedyut
+259 - vassal: c_keinurg - Holder 1005366 - Primary title: c_keinurg has lost the title: c_keinurg
+259 - vassal: c_keinurg - Title given to 1005366 - Primary title: d_ronesiy
+259 - Holder (1005366) has gained c_keinurg
+259 - vassal: c_wyen - Holder 1005366 - Primary title: c_wyen has lost the title: c_wyen
+259 - vassal: c_wyen - Title given to 1005366 - Primary title: d_ronesiy
+259 - Holder (1005366) has gained c_wyen
+272 - Holder (1005366) has gained d_dagurg
+286 - Holder 1006920 - Primary title: d_ronesiy has lost the title: d_ronesiy
+286 - Title given to 1006920
+286 - vassal: c_wyen - Setting to vassal of d_dagurg in Validate Realm
+286 - Lost vassal: c_wyen
+286 - vassal: c_keinurg - Setting to vassal of d_dagurg in Validate Realm
+286 - Lost vassal: c_keinurg
+286 - vassal: c_sedyut - Setting to vassal of d_dagurg in Validate Realm
+286 - Lost vassal: c_sedyut
+286 - Holder (1006920) has gained d_dagurg
+286 - Holder (1006920) has gained c_wyen
+286 - Holder (1006920) has gained c_keinurg
+286 - Holder (1006920) has gained c_sedyut
+287 - Destroyed due to flagged problem
+287 - Made independent
+287 - Title destroyed
+294 - Given to 1008833 in TestCreateEmpire
+294 - Title given to 1008833 - Primary title: d_dagurg
+294 - Made independent for title creation d_ronesiy for d_dagurg
+294 - Made independent
+294 - Gained vassal: c_

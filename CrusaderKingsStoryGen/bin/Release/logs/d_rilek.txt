@@ -1,0 +1,136 @@
+200 - Title given to 1000956
+200 - vassal: c_retesi - Holder 1000956 - Primary title: c_retesi has lost the title: c_retesi
+200 - sub vassal: c_retesi - Holder 1000956 - Primary title: c_retesi has lost the title: c_retesi
+200 - vassal: c_retesi - Title given to 1000956 - Primary title: d_rilek
+200 - sub vassal: c_retesi - Title given to 1000956 - Primary title: d_rilek
+200 - Holder (1000956) has gained c_retesi
+200 - vassal: c_kageke - Holder 1000956 - Primary title: c_kageke has lost the title: c_kageke
+200 - sub vassal: c_kageke - Holder 1000956 - Primary title: c_kageke has lost the title: c_kageke
+200 - vassal: c_kageke - Title given to 1000956 - Primary title: d_rilek
+200 - sub vassal: c_kageke - Title given to 1000956 - Primary title: d_rilek
+200 - Holder (1000956) has gained c_kageke
+258 - Holder 1004050 - Primary title: d_rilek has lost the title: d_rilek
+258 - Title given to 1004050
+258 - vassal: c_kageke - Holder 1004050 - Primary title: c_kageke has lost the title: c_kageke
+258 - vassal: c_kageke - Title given to 1004050 - Primary title: d_rilek
+258 - Holder (1004050) has gained c_kageke
+258 - vassal: c_retesi - Holder 1004050 - Primary title: c_retesi has lost the title: c_retesi
+258 - vassal: c_retesi - Title given to 1004050 - Primary title: d_rilek
+258 - Holder (1004050) has gained c_retesi
+261 - Holder 1007328 - Primary title: d_rilek has lost the title: d_rilek
+261 - Title given to 1007328
+261 - vassal: c_retesi - Holder 1007328 - Primary title: c_retesi has lost the title: c_retesi
+261 - vassal: c_retesi - Title given to 1007328 - Primary title: d_rilek
+261 - Holder (1007328) has gained c_retesi
+261 - vassal: c_kageke - Holder 1007328 - Primary title: c_kageke has lost the title: c_kageke
+261 - vassal: c_kageke - Title given to 1007328 - Primary title: d_rilek
+261 - Holder (1007328) has gained c_kageke
+290 - Holder 1009015 - Primary title: d_rilek has lost the title: d_rilek
+290 - Title given to 1009015
+290 - vassal: c_kageke - Holder 1009015 - Primary title: c_kageke has lost the title: c_kageke
+290 - vassal: c_kageke - Title given to 1009015 - Primary title: d_rilek
+290 - Holder (1009015) has gained c_kageke
+290 - vassal: c_retesi - Holder 1009015 - Primary title: c_retesi has lost the title: c_retesi
+290 - vassal: c_retesi - Title given to 1009015 - Primary title: d_rilek
+290 - Holder (1009015) has gained c_retesi
+296 - Holder 1009598 - Primary title: d_rilek has lost the title: d_rilek
+296 - Title given to 1009598 - Primary title: k_tegema
+296 - vassal: c_kageke - Holder 1009598 - Primary title: c_kageke has lost the title: c_kageke
+296 - vassal: c_kageke - Title given to 1009598 - Primary title: k_tegema
+296 - vassal: c_retesi - Holder 1009598 - Primary title: c_retesi has lost the title: c_retesi
+296 - vassal: c_retesi - Title given to 1009598 - Primary title: k_tegema
+296 - vassal: c_retesi - Title given to 1005661
+296 - vassal: c_kageke - Title given to 1010444
+297 - Gained vassal: c_wetema
+297 - Gained vassal: c_rillesi
+297 - Gained vassal: c_rinabel
+297 - Gained vassal: c_allesi
+297 - Gained vassal: c_netilek
+297 - Holder 1010527 - Primary title: d_rilek has lost the title: c_netilek
+297 - vassal: c_netilek - Title given to 1010527 - Primary title: k_tegema
+297 - vassal: c_netilek - Setting to vassal of k_tegema in Validate Realm
+297 - Lost vassal: c_netilek
+297 - Holder 1010527 - Primary title: d_rilek has lost the title: c_allesi
+297 - vassal: c_allesi - Title given to 1010527 - Primary title: k_tegema
+297 - vassal: c_allesi - Setting to vassal of k_tegema in Validate Realm
+297 - Lost vassal: c_allesi
+297 - Holder 1010527 - Primary title: d_rilek has lost the title: c_rinabel
+297 - vassal: c_rinabel - Title given to 1010527 - Primary title: k_tegema
+297 - vassal: c_rinabel - Setting to vassal of k_tegema in Validate Realm
+297 - Lost vassal: c_rinabel
+297 - Holder 1010527 - Primary title: d_rilek has lost the title: c_rillesi
+297 - vassal: c_rillesi - Title given to 1010527 - Primary title: k_tegema
+297 - vassal: c_rillesi - Setting to vassal of k_tegema in Validate Realm
+297 - Lost vassal: c_rillesi
+297 - Holder 1010527 - Primary title: d_rilek has lost the title: c_wetema
+297 - vassal: c_wetema - Title given to 1010527 - Primary title: k_tegema
+297 - vassal: c_wetema - Setting to vassal of k_tegema in Validate Realm
+297 - Lost vassal: c_wetema
+297 - Holder 1010527 - Primary title: d_rilek has lost the title: d_rilek
+297 - Title given to 1010527 - Primary title: k_tegema
+320 - Gained vassal: c_wetema
+320 - Gained vassal: c_rillesi
+320 - Gained vassal: c_rinabel
+320 - Gained vassal: c_allesi
+320 - Gained vassal: c_netilek
+320 - Holder 1011260 - Primary title: d_rilek has lost the title: d_rilek
+320 - Title given to 1011260 - Primary title: k_tegema
+320 - vassal: c_netilek - Holder 1011260 - Primary title: c_netilek has lost the title: c_netilek
+320 - vassal: c_netilek - Title given to 1011260 - Primary title: k_tegema
+320 - vassal: c_allesi - Holder 1011260 - Primary title: c_allesi has lost the title: c_allesi
+320 - vassal: c_allesi - Title given to 1011260 - Primary title: k_tegema
+320 - vassal: c_rinabel - Holder 1011260 - Primary title: c_rinabel has lost the title: c_rinabel
+320 - vassal: c_rinabel - Title given to 1011260 - Primary title: k_tegema
+320 - vassal: c_rillesi - Holder 1011260 - Primary title: c_rillesi has lost the title: c_rillesi
+320 - vassal: c_rillesi - Title given to 1011260 - Primary title: k_tegema
+320 - vassal: c_wetema - Holder 1011260 - Primary title: c_wetema has lost the title: c_wetema
+320 - vassal: c_wetema - Title given to 1011260 - Primary title: k_tegema
+323 - Holder 1010442 - Primary title: d_rilek has lost the title: d_rilek
+323 - Title given to 1010442 - Primary title: k_tegema
+323 - vassal: c_netilek - Holder 1010442 - Primary title: c_netilek has lost the title: c_netilek
+323 - vassal: c_netilek - Title given to 1010442 - Primary title: k_tegema
+323 - vassal: c_allesi - Holder 1010442 - Primary title: c_allesi has lost the title: c_allesi
+323 - vassal: c_allesi - Title given to 1010442 - Primary title: k_tegema
+323 - vassal: c_rinabel - Holder 1010442 - Primary title: c_rinabel has lost the title: c_rinabel
+323 - vassal: c_rinabel - Title given to 1010442 - Primary title: k_tegema
+323 - vassal: c_rillesi - Holder 1010442 - Primary title: c_rillesi has lost the title: c_rillesi
+323 - vassal: c_rillesi - Title given to 1010442 - Primary title: k_tegema
+323 - vassal: c_wetema - Holder 1010442 - Primary title: c_wetema has lost the title: c_wetema
+323 - vassal: c_wetema - Title given to 1010442 - Primary title: k_tegema
+328 - Holder 1011455 - Primary title: d_rilek has lost the title: d_rilek
+328 - Title given to 1011455 - Primary title: k_tegema
+328 - vassal: c_netilek - Holder 1011455 - Primary title: c_netilek has lost the title: c_netilek
+328 - vassal: c_netilek - Title given to 1011455 - Primary title: k_tegema
+328 - vassal: c_allesi - Holder 1011455 - Primary title: c_allesi has lost the title: c_allesi
+328 - vassal: c_allesi - Title given to 1011455 - Primary title: k_tegema
+328 - vassal: c_rinabel - Holder 1011455 - Primary title: c_rinabel has lost the title: c_rinabel
+328 - vassal: c_rinabel - Title given to 1011455 - Primary title: k_tegema
+328 - vassal: c_rillesi - Holder 1011455 - Primary title: c_rillesi has lost the title: c_rillesi
+328 - vassal: c_rillesi - Title given to 1011455 - Primary title: k_tegema
+328 - vassal: c_wetema - Holder 1011455 - Primary title: c_wetema has lost the title: c_wetema
+328 - vassal: c_wetema - Title given to 1011455 - Primary title: k_tegema
+354 - Holder 1014321 - Primary title: d_rilek has lost the title: d_rilek
+354 - Title given to 1014321 - Primary title: k_tegema
+354 - vassal: c_wetema - Setting to vassal of d_racabel in Validate Realm
+354 - Lost vassal: c_wetema
+354 - vassal: c_rillesi - Setting to vassal of d_racabel in Validate Realm
+354 - Lost vassal: c_rillesi
+354 - vassal: c_rinabel - Setting to vassal of d_racabel in Validate Realm
+354 - Lost vassal: c_rinabel
+354 - vassal: c_allesi - Setting to vassal of d_racabel in Validate Realm
+354 - Lost vassal: c_allesi
+354 - vassal: c_netilek - Setting to vassal of d_racabel in Validate Realm
+354 - Lost vassal: c_netilek
+383 - Holder 1016020 - Primary title: d_rilek has lost the title: d_rilek
+383 - Title given to 1016020 - Primary title: k_tegema
+387 - Holder 1016413 - Primary title: d_rilek has lost the title: d_rilek
+387 - Title given to 1016413 - Primary title: k_tegema
+388 - vassal: c_kageke - Given to 1017289 in HandleTitles - Too many duke titles
+388 - vassal: c_kageke - Holder 1017289 - Primary title: c_kageke has lost the title: c_kageke
+388 - vassal: c_kageke - Title given to 1017289
+388 - Title given to 1017289 - Primary title: c_kageke
+388 - vassal: c_kageke - Holder (1017289) has gained d_rilek
+388 - Too many dukes, given to dejure: k_tegema
+400 - vassal: c_retesi - Holder 1017289 - Primary title: c_retesi has lost the title: c_retesi
+400 - vassal: c_retesi - Title given to 1017289 - Primary title: d_rilek
+400 - Holder (1017289) has gained c_retesi

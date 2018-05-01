@@ -1,0 +1,109 @@
+200 - Title given to 1000213
+200 - vassal: c_taginar - Holder 1000213 - Primary title: c_taginar has lost the title: c_taginar
+200 - sub vassal: c_taginar - Holder 1000213 - Primary title: c_taginar has lost the title: c_taginar
+200 - vassal: c_taginar - Title given to 1000213 - Primary title: d_naniogo
+200 - sub vassal: c_taginar - Title given to 1000213 - Primary title: d_naniogo
+200 - Holder (1000213) has gained c_taginar
+200 - vassal: c_kacopal - Holder 1000213 - Primary title: c_kacopal has lost the title: c_kacopal
+200 - sub vassal: c_kacopal - Holder 1000213 - Primary title: c_kacopal has lost the title: c_kacopal
+200 - vassal: c_kacopal - Title given to 1000213 - Primary title: d_naniogo
+200 - sub vassal: c_kacopal - Title given to 1000213 - Primary title: d_naniogo
+200 - Holder (1000213) has gained c_kacopal
+200 - vassal: c_bosayor - Holder 1000213 - Primary title: c_bosayor has lost the title: c_bosayor
+200 - sub vassal: c_bosayor - Holder 1000213 - Primary title: c_bosayor has lost the title: c_bosayor
+200 - vassal: c_bosayor - Title given to 1000213 - Primary title: d_naniogo
+200 - sub vassal: c_bosayor - Title given to 1000213 - Primary title: d_naniogo
+200 - Holder (1000213) has gained c_bosayor
+200 - Holder 1000209 - Primary title: d_naniogo has lost the title: d_naniogo
+200 - Title given to 1000209 - Primary title: d_keyasco
+200 - vassal: c_bosayor - Holder 1000209 - Primary title: c_bosayor has lost the title: c_bosayor
+200 - vassal: c_bosayor - Title given to 1000209 - Primary title: d_keyasco
+200 - vassal: c_kacopal - Holder 1000209 - Primary title: c_kacopal has lost the title: c_kacopal
+200 - vassal: c_kacopal - Title given to 1000209 - Primary title: d_keyasco
+200 - vassal: c_taginar - Holder 1000209 - Primary title: c_taginar has lost the title: c_taginar
+200 - vassal: c_taginar - Title given to 1000209 - Primary title: d_keyasco
+201 - Holder 1002178 - Primary title: d_naniogo has lost the title: c_kiogo
+240 - Gained vassal: c_ebuliaco
+240 - Gained vassal: c_tocinar
+240 - Holder 1001747 - Primary title: d_naniogo has lost the title: d_naniogo
+240 - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: c_tocinar - Holder 1001747 - Primary title: c_tocinar has lost the title: c_tocinar
+240 - vassal: c_tocinar - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: c_ebuliaco - Holder 1001747 - Primary title: c_ebuliaco has lost the title: c_ebuliaco
+240 - vassal: c_ebuliaco - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: c_bosayor - Holder 1001747 - Primary title: c_bosayor has lost the title: c_bosayor
+240 - vassal: c_bosayor - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: c_kacopal - Holder 1001747 - Primary title: c_kacopal has lost the title: c_kacopal
+240 - vassal: c_kacopal - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: c_taginar - Holder 1001747 - Primary title: c_taginar has lost the title: c_taginar
+240 - vassal: c_taginar - Title given to 1001747 - Primary title: d_keyasco
+241 - vassal: c_taginar - Title given to 1005792
+262 - Gained vassal: c_kiogo
+262 - Holder 1006796 - Primary title: d_naniogo has lost the title: d_naniogo
+262 - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: c_tocinar - Holder 1006796 - Primary title: c_tocinar has lost the title: c_tocinar
+262 - vassal: c_tocinar - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: c_ebuliaco - Holder 1006796 - Primary title: c_ebuliaco has lost the title: c_ebuliaco
+262 - vassal: c_ebuliaco - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: c_bosayor - Holder 1006796 - Primary title: c_bosayor has lost the title: c_bosayor
+262 - vassal: c_bosayor - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: c_kacopal - Holder 1006796 - Primary title: c_kacopal has lost the title: c_kacopal
+262 - vassal: c_kacopal - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: c_kiogo - Holder 1006796 - Primary title: c_kiogo has lost the title: c_kiogo
+262 - vassal: c_kiogo - Title given to 1006796 - Primary title: d_keyasco
+266 - Holder (1006796) has gained d_keyasco
+266 - vassal: c_tocinar - Set liege on title creation d_keyasco
+266 - Lost vassal: c_tocinar
+266 - vassal: c_ebuliaco - Set liege on title creation d_keyasco
+266 - Lost vassal: c_ebuliaco
+266 - vassal: c_bosayor - Set liege on title creation d_keyasco
+266 - Lost vassal: c_bosayor
+266 - vassal: c_kacopal - Set liege on title creation d_keyasco
+266 - Lost vassal: c_kacopal
+266 - vassal: c_kiogo - Set liege on title creation d_keyasco
+266 - Lost vassal: c_kiogo
+266 - vassal: c_taginar - Holder 1006796 - Primary title: c_taginar has lost the title: c_taginar
+266 - vassal: c_taginar - Title given to 1006796 - Primary title: d_naniogo
+266 - Holder (1006796) has gained c_taginar
+267 - Holder (1006796) has gained d_keyasco
+267 - vassal: c_taginar - Set liege on title creation d_keyasco
+267 - Lost vassal: c_taginar
+267 - Holder 1008018 - Primary title: d_naniogo has lost the title: c_taginar
+267 - Gained vassal: c_taginar
+268 - Destroyed due to no capital's obtainable
+268 - Made independent
+268 - Title destroyed
+268 - vassal: c_taginar - Setting liege to this liege in SoftDestroy
+268 - Lost vassal: c_taginar
+288 - Given to 1008923 in TestCreateEmpire
+288 - Title given to 1008923 - Primary title: c_tocinar
+288 - Gained vassal: c_tocinar
+288 - Made independent for title creation d_naniogo for d_naniogo
+288 - vassal: c_tocinar - Set liege on title creation d_naniogo
+288 - sub vassal: c_tocinar - Set liege on title creation d_naniogo
+288 - Gained vassal: c_ebuliaco
+288 - Gained vassal: c_bosayor
+288 - Gained vassal: c_kacopal
+288 - Gained vassal: c_kiogo
+288 - Gained vassal: c_agosasco
+288 - Holder (1008923) has gained d_keyasco
+288 - vassal: c_tocinar - Set liege on title creation d_keyasco
+288 - sub vassal: c_tocinar - Set liege on title creation d_keyasco
+288 - Lost vassal: c_tocinar
+288 - vassal: c_ebuliaco - Set liege on title creation d_keyasco
+288 - sub vassal: c_ebuliaco - Set liege on title creation d_keyasco
+288 - Lost vassal: c_ebuliaco
+288 - vassal: c_bosayor - Set liege on title creation d_keyasco
+288 - sub vassal: c_bosayor - Set liege on title creation d_keyasco
+288 - Lost vassal: c_bosayor
+288 - vassal: c_kacopal - Set liege on title creation d_keyasco
+288 - sub vassal: c_kacopal - Set liege on title creation d_keyasco
+288 - Lost vassal: c_kacopal
+288 - vassal: c_kiogo - Set liege on title creation d_keyasco
+288 - sub vassal: c_kiogo - Set liege on title creation d_keyasco
+288 - Lost vassal: c_kiogo
+288 - vassal: c_agosasco - Set liege on title creation d_keyasco
+288 - sub vassal: c_agosasco - Set liege on title creation d_keyasco
+288 - Lost vassal: c_agosasco
+288 - Destroyed due to no capital's obtainable
+288 - Title destroyed

@@ -1,0 +1,109 @@
+200 - Title given to 1000904
+200 - vassal: c_lianari - Given to 1000908 via AddCharacterForTitle
+200 - sub vassal: c_lianari - Given to 1000908 via AddCharacterForTitle
+200 - vassal: c_lianari - Holder 1000908 - Primary title: c_lianari has lost the title: c_lianari
+200 - sub vassal: c_lianari - Holder 1000908 - Primary title: c_lianari has lost the title: c_lianari
+200 - vassal: c_lianari - Title given to 1000908
+200 - sub vassal: c_lianari - Title given to 1000908
+200 - vassal: c_dopina - Holder 1000904 - Primary title: c_dopina has lost the title: c_dopina
+200 - sub vassal: c_dopina - Holder 1000904 - Primary title: c_dopina has lost the title: c_dopina
+200 - vassal: c_dopina - Title given to 1000904 - Primary title: d_lusari
+200 - sub vassal: c_dopina - Title given to 1000904 - Primary title: d_lusari
+200 - Holder (1000904) has gained c_dopina
+200 - vassal: c_riline - Holder 1000904 - Primary title: c_riline has lost the title: c_riline
+200 - sub vassal: c_riline - Holder 1000904 - Primary title: c_riline has lost the title: c_riline
+200 - vassal: c_riline - Title given to 1000904 - Primary title: d_lusari
+200 - sub vassal: c_riline - Title given to 1000904 - Primary title: d_lusari
+200 - Holder (1000904) has gained c_riline
+200 - Holder 1001494 - Primary title: d_lusari has lost the title: d_lusari
+200 - Title given to 1001494 - Primary title: k_diliam
+200 - vassal: c_riline - Holder 1001494 - Primary title: c_riline has lost the title: c_riline
+200 - vassal: c_riline - Title given to 1001494 - Primary title: k_diliam
+200 - vassal: c_dopina - Holder 1001494 - Primary title: c_dopina has lost the title: c_dopina
+200 - vassal: c_dopina - Title given to 1001494 - Primary title: k_diliam
+213 - vassal: c_riline - Given to 1003269 in HandleTitles - Too many duke titles
+213 - vassal: c_riline - Title given to 1003269
+213 - Title given to 1003269 - Primary title: c_riline
+213 - vassal: c_riline - Holder (1003269) has gained d_lusari
+213 - vassal: c_dopina - Setting to vassal of k_diliam in Validate Realm
+213 - Lost vassal: c_dopina
+213 - Too many dukes, given to dejure: k_diliam
+214 - Holder 1000866 - Primary title: d_lusari has lost the title: d_lusari
+214 - Title given to 1000866 - Primary title: d_rujib
+214 - vassal: c_riline - Holder 1000866 - Primary title: c_riline has lost the title: c_riline
+214 - vassal: c_riline - Title given to 1000866 - Primary title: d_nusine
+215 - Holder 1003379 - Primary title: d_lusari has lost the title: c_ropari
+215 - Holder 1001494 - Primary title: d_lusari has lost the title: d_rujib
+215 - Gained vassal: c_nisafu
+215 - Gained vassal: c_rusari
+233 - Gained vassal: c_sisabir
+233 - Gained vassal: c_lianiam
+233 - Holder 1002656 - Primary title: d_lusari has lost the title: d_lusari
+233 - Title given to 1002656 - Primary title: d_nusine
+233 - vassal: c_riline - Holder 1002656 - Primary title: c_riline has lost the title: c_riline
+233 - vassal: c_riline - Title given to 1002656 - Primary title: d_nusine
+233 - vassal: c_nisafu - Holder 1002656 - Primary title: c_nisafu has lost the title: c_nisafu
+233 - vassal: c_nisafu - Title given to 1002656 - Primary title: d_nusine
+233 - vassal: c_rusari - Holder 1002656 - Primary title: c_rusari has lost the title: c_rusari
+233 - vassal: c_rusari - Title given to 1002656 - Primary title: d_nusine
+233 - vassal: c_lianiam - Holder 1002656 - Primary title: c_lianiam has lost the title: c_lianiam
+233 - vassal: c_lianiam - Title given to 1002656 - Primary title: d_nusine
+233 - vassal: c_sisabir - Holder 1002656 - Primary title: c_sisabir has lost the title: c_sisabir
+233 - vassal: c_sisabir - Title given to 1002656 - Primary title: d_nusine
+237 - Holder 1004794 - Primary title: d_lusari has lost the title: d_lusari
+237 - Title given to 1004794 - Primary title: d_nusine
+237 - vassal: c_riline - Holder 1004794 - Primary title: c_riline has lost the title: c_riline
+237 - vassal: c_riline - Title given to 1004794 - Primary title: d_nusine
+237 - vassal: c_nisafu - Holder 1004794 - Primary title: c_nisafu has lost the title: c_nisafu
+237 - vassal: c_nisafu - Title given to 1004794 - Primary title: d_nusine
+237 - vassal: c_rusari - Holder 1004794 - Primary title: c_rusari has lost the title: c_rusari
+237 - vassal: c_rusari - Title given to 1004794 - Primary title: d_nusine
+237 - vassal: c_lianiam - Holder 1004794 - Primary title: c_lianiam has lost the title: c_lianiam
+237 - vassal: c_lianiam - Title given to 1004794 - Primary title: d_nusine
+237 - vassal: c_sisabir - Holder 1004794 - Primary title: c_sisabir has lost the title: c_sisabir
+237 - vassal: c_sisabir - Title given to 1004794 - Primary title: d_nusine
+291 - Holder 1006561 - Primary title: d_lusari has lost the title: d_lusari
+291 - Title given to 1006561 - Primary title: d_nusine
+291 - vassal: c_sisabir - Holder 1006561 - Primary title: c_sisabir has lost the title: c_sisabir
+291 - vassal: c_sisabir - Title given to 1006561 - Primary title: d_nusine
+291 - vassal: c_lianiam - Holder 1006561 - Primary title: c_lianiam has lost the title: c_lianiam
+291 - vassal: c_lianiam - Title given to 1006561 - Primary title: d_nusine
+291 - vassal: c_rusari - Holder 1006561 - Primary title: c_rusari has lost the title: c_rusari
+291 - vassal: c_rusari - Title given to 1006561 - Primary title: d_nusine
+291 - vassal: c_nisafu - Holder 1006561 - Primary title: c_nisafu has lost the title: c_nisafu
+291 - vassal: c_nisafu - Title given to 1006561 - Primary title: d_nusine
+291 - vassal: c_riline - Holder 1006561 - Primary title: c_riline has lost the title: c_riline
+291 - vassal: c_riline - Title given to 1006561 - Primary title: d_nusine
+300 - vassal: c_rusari - Title given to 1009707
+300 - vassal: c_nisafu - Title given to 1009708
+305 - Gained vassal: c_arigaaq
+305 - Gained vassal: c_dadulah
+305 - Holder 1010116 - Primary title: d_lusari has lost the title: d_lusari
+305 - Title given to 1010116 - Primary title: d_nusine
+305 - vassal: c_dadulah - Holder 1010116 - Primary title: c_dadulah has lost the title: c_dadulah
+305 - vassal: c_dadulah - Title given to 1010116 - Primary title: d_nusine
+305 - vassal: c_arigaaq - Holder 1010116 - Primary title: c_arigaaq has lost the title: c_arigaaq
+305 - vassal: c_arigaaq - Title given to 1010116 - Primary title: d_nusine
+305 - vassal: c_riline - Holder 1010116 - Primary title: c_riline has lost the title: c_riline
+305 - vassal: c_riline - Title given to 1010116 - Primary title: d_nusine
+305 - vassal: c_lianiam - Holder 1010116 - Primary title: c_lianiam has lost the title: c_lianiam
+305 - vassal: c_lianiam - Title given to 1010116 - Primary title: d_nusine
+305 - vassal: c_sisabir - Holder 1010116 - Primary title: c_sisabir has lost the title: c_sisabir
+305 - vassal: c_sisabir - Title given to 1010116 - Primary title: d_nusine
+309 - Holder 1007127 - Primary title: d_lusari has lost the title: d_lusari
+309 - Title given to 1007127 - Primary title: d_rujib
+309 - vassal: c_dadulah - Holder 1007127 - Primary title: c_dadulah has lost the title: c_dadulah
+309 - vassal: c_dadulah - Title given to 1007127 - Primary title: d_rujib
+309 - vassal: c_arigaaq - Holder 1007127 - Primary title: c_arigaaq has lost the title: c_arigaaq
+309 - vassal: c_arigaaq - Title given to 1007127 - Primary title: d_rujib
+309 - vassal: c_riline - Holder 1007127 - Primary title: c_riline has lost the title: c_riline
+309 - vassal: c_riline - Title given to 1007127 - Primary title: d_rujib
+309 - vassal: c_lianiam - Holder 1007127 - Primary title: c_lianiam has lost the title: c_lianiam
+309 - vassal: c_lianiam - Title given to 1007127 - Primary title: d_rujib
+309 - vassal: c_sisabir - Holder 1007127 - Primary title: c_sisabir has lost the title: c_sisabir
+309 - vassal: c_sisabir - Title given to 1007127 - Primary title: d_rujib
+310 - Holder 1010439 - Primary title: d_lusari has lost the title: c_apusari
+310 - Holder 1007630 - Primary title: d_lusari has lost the title: d_bigib
+310 - Gained vassal: c_bujaaq
+310 - Holder 1010442 - Primary title: d_lusari has lost the title: c_ropari
+310 - Holder 1005682 - Primary title: d_lusari has lo

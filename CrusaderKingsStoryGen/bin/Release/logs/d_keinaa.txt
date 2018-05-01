@@ -1,0 +1,89 @@
+200 - Title given to 1000920
+200 - vassal: c_ramond - Given to 1000923 via AddCharacterForTitle
+200 - sub vassal: c_ramond - Given to 1000923 via AddCharacterForTitle
+200 - vassal: c_ramond - Holder 1000923 - Primary title: c_ramond has lost the title: c_ramond
+200 - sub vassal: c_ramond - Holder 1000923 - Primary title: c_ramond has lost the title: c_ramond
+200 - vassal: c_ramond - Title given to 1000923
+200 - sub vassal: c_ramond - Title given to 1000923
+200 - vassal: c_denily - Holder 1000920 - Primary title: c_denily has lost the title: c_denily
+200 - sub vassal: c_denily - Holder 1000920 - Primary title: c_denily has lost the title: c_denily
+200 - vassal: c_denily - Title given to 1000920 - Primary title: d_keinaa
+200 - sub vassal: c_denily - Title given to 1000920 - Primary title: d_keinaa
+200 - Holder (1000920) has gained c_denily
+200 - vassal: c_ramond - Holder 1000920 - Primary title: c_ramond has lost the title: c_ramond
+200 - sub vassal: c_ramond - Holder 1000920 - Primary title: c_ramond has lost the title: c_ramond
+200 - vassal: c_ramond - Title given to 1000920 - Primary title: d_keinaa
+200 - sub vassal: c_ramond - Title given to 1000920 - Primary title: d_keinaa
+200 - Holder (1000920) has gained c_ramond
+200 - Holder 1001565 - Primary title: d_keinaa has lost the title: c_ramond
+200 - vassal: c_ramond - Title given to 1001565 - Primary title: k_wurebia
+203 - vassal: c_ramond - Setting to vassal of k_wurebia in Validate Realm
+203 - Lost vassal: c_ramond
+218 - Holder 1002753 - Primary title: d_keinaa has lost the title: d_keinaa
+218 - Title given to 1002753
+218 - vassal: c_denily - Holder 1002753 - Primary title: c_denily has lost the title: c_denily
+218 - vassal: c_denily - Title given to 1002753 - Primary title: d_keinaa
+218 - Holder (1002753) has gained c_denily
+246 - Holder 1004140 - Primary title: d_keinaa has lost the title: d_keinaa
+246 - Title given to 1004140
+246 - vassal: c_denily - Holder 1004140 - Primary title: c_denily has lost the title: c_denily
+246 - vassal: c_denily - Title given to 1004140 - Primary title: d_keinaa
+246 - Holder (1004140) has gained c_denily
+248 - Holder 1002094 - Primary title: d_keinaa has lost the title: d_keinaa
+248 - Title given to 1002094 - Primary title: k_wurebia
+248 - vassal: c_denily - Holder 1002094 - Primary title: c_denily has lost the title: c_denily
+248 - vassal: c_denily - Title given to 1002094 - Primary title: k_wurebia
+251 - vassal: c_denily - Given to 1006671 in HandleTitles - Too many duke titles
+251 - vassal: c_denily - Title given to 1006671
+251 - Title given to 1006671 - Primary title: c_denily
+251 - vassal: c_denily - Holder (1006671) has gained d_keinaa
+251 - Too many dukes, given to dejure: k_wurebia
+277 - Holder 1006812 - Primary title: d_keinaa has lost the title: d_keinaa
+277 - Title given to 1006812
+277 - vassal: c_denily - Holder 1006812 - Primary title: c_denily has lost the title: c_denily
+277 - vassal: c_denily - Title given to 1006812 - Primary title: d_keinaa
+277 - Holder (1006812) has gained c_denily
+304 - Holder 1009502 - Primary title: d_keinaa has lost the title: d_keinaa
+304 - Title given to 1009502
+304 - vassal: c_denily - Holder 1009502 - Primary title: c_denily has lost the title: c_denily
+304 - vassal: c_denily - Title given to 1009502 - Primary title: d_keinaa
+304 - Holder (1009502) has gained c_denily
+334 - Holder 1011610 - Primary title: d_keinaa has lost the title: d_keinaa
+334 - Title given to 1011610
+334 - vassal: c_denily - Holder 1011610 - Primary title: c_denily has lost the title: c_denily
+334 - vassal: c_denily - Title given to 1011610 - Primary title: d_keinaa
+334 - Holder (1011610) has gained c_denily
+369 - Holder 1008379 - Primary title: d_keinaa has lost the title: d_keinaa
+369 - Title given to 1008379 - Primary title: c_tyee
+369 - Gained vassal: c_tyee
+369 - vassal: c_denily - Holder 1008379 - Primary title: c_denily has lost the title: c_denily
+369 - vassal: c_denily - Title given to 1008379 - Primary title: d_keinaa
+369 - Holder (1008379) has gained c_denily
+379 - Holder 1016650 - Primary title: d_keinaa has lost the title: d_keinaa
+379 - Title given to 1016650
+379 - vassal: c_tyee - Holder 1016650 - Primary title: c_tyee has lost the title: c_tyee
+379 - vassal: c_tyee - Title given to 1016650 - Primary title: d_keinaa
+379 - Holder (1016650) has gained c_tyee
+379 - vassal: c_denily - Holder 1016650 - Primary title: c_denily has lost the title: c_denily
+379 - vassal: c_denily - Title given to 1016650 - Primary title: d_keinaa
+379 - Holder (1016650) has gained c_denily
+381 - Holder 1016512 - Primary title: d_keinaa has lost the title: d_keinaa
+381 - Title given to 1016512 - Primary title: c_tujimir
+381 - Gained vassal: c_tujimir
+381 - vassal: c_denily - Holder 1016512 - Primary title: c_denily has lost the title: c_denily
+381 - vassal: c_denily - Title given to 1016512 - Primary title: d_keinaa
+381 - Holder (1016512) has gained c_denily
+381 - vassal: c_tyee - Holder 1016512 - Primary title: c_tyee has lost the title: c_tyee
+381 - vassal: c_tyee - Title given to 1016512 - Primary title: d_keinaa
+381 - Holder (1016512) has gained c_tyee
+395 - Holder 1017058 - Primary title: d_keinaa has lost the title: d_keinaa
+395 - Title given to 1017058
+395 - vassal: c_tujimir - Holder 1017058 - Primary title: c_tujimir has lost the title: c_tujimir
+395 - vassal: c_tujimir - Title given to 1017058 - Primary title: d_keinaa
+395 - Holder (1017058) has gained c_tujimir
+395 - vassal: c_denily - Holder 1017058 - Primary title: c_denily has lost the title: c_denily
+395 - vassal: c_denily - Title given to 1017058 - Primary title: d_keinaa
+395 - Holder (1017058) has gained c_denily
+395 - vassal: c_tyee - Holder 1017058 - Primary title: c_tyee has lost the title: c_tyee
+395 - vassal: c_tyee - Title given to 1017058 - Primary title: d_keinaa
+395 - Holder (1017058) has gained c_tyee

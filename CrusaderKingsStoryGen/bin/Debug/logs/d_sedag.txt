@@ -1,0 +1,57 @@
+200 - Title given to 1001359
+200 - vassal: c_egeruhan - Given to 1001362 via AddCharacterForTitle
+200 - sub vassal: c_egeruhan - Given to 1001362 via AddCharacterForTitle
+200 - vassal: c_egeruhan - Holder 1001362 - Primary title: c_egeruhan has lost the title: c_egeruhan
+200 - sub vassal: c_egeruhan - Holder 1001362 - Primary title: c_egeruhan has lost the title: c_egeruhan
+200 - vassal: c_egeruhan - Title given to 1001362
+200 - sub vassal: c_egeruhan - Title given to 1001362
+200 - vassal: c_tedalla - Holder 1001359 - Primary title: c_tedalla has lost the title: c_tedalla
+200 - sub vassal: c_tedalla - Holder 1001359 - Primary title: c_tedalla has lost the title: c_tedalla
+200 - vassal: c_tedalla - Title given to 1001359 - Primary title: d_sedag
+200 - sub vassal: c_tedalla - Title given to 1001359 - Primary title: d_sedag
+200 - Holder (1001359) has gained c_tedalla
+200 - vassal: c_egeruhan - Holder 1001359 - Primary title: c_egeruhan has lost the title: c_egeruhan
+200 - sub vassal: c_egeruhan - Holder 1001359 - Primary title: c_egeruhan has lost the title: c_egeruhan
+200 - vassal: c_egeruhan - Title given to 1001359 - Primary title: d_sedag
+200 - sub vassal: c_egeruhan - Title given to 1001359 - Primary title: d_sedag
+200 - Holder (1001359) has gained c_egeruhan
+200 - vassal: c_ehjagay - Holder 1001359 - Primary title: c_ehjagay has lost the title: c_ehjagay
+200 - sub vassal: c_ehjagay - Holder 1001359 - Primary title: c_ehjagay has lost the title: c_ehjagay
+200 - vassal: c_ehjagay - Title given to 1001359 - Primary title: d_sedag
+200 - sub vassal: c_ehjagay - Title given to 1001359 - Primary title: d_sedag
+200 - Holder (1001359) has gained c_ehjagay
+200 - vassal: c_tomon - Holder 1001359 - Primary title: c_tomon has lost the title: c_tomon
+200 - sub vassal: c_tomon - Holder 1001359 - Primary title: c_tomon has lost the title: c_tomon
+200 - vassal: c_tomon - Title given to 1001359 - Primary title: d_sedag
+200 - sub vassal: c_tomon - Title given to 1001359 - Primary title: d_sedag
+200 - Holder (1001359) has gained c_tomon
+200 - Holder 1001511 - Primary title: d_sedag has lost the title: d_sedag
+200 - Title given to 1001511 - Primary title: k_tigurg
+200 - vassal: c_tomon - Holder 1001511 - Primary title: c_tomon has lost the title: c_tomon
+200 - vassal: c_tomon - Title given to 1001511 - Primary title: k_tigurg
+200 - vassal: c_ehjagay - Holder 1001511 - Primary title: c_ehjagay has lost the title: c_ehjagay
+200 - vassal: c_ehjagay - Title given to 1001511 - Primary title: k_tigurg
+200 - vassal: c_egeruhan - Holder 1001511 - Primary title: c_egeruhan has lost the title: c_egeruhan
+200 - vassal: c_egeruhan - Title given to 1001511 - Primary title: k_tigurg
+200 - vassal: c_tedalla - Holder 1001511 - Primary title: c_tedalla has lost the title: c_tedalla
+200 - vassal: c_tedalla - Title given to 1001511 - Primary title: k_tigurg
+201 - vassal: c_tomon - Title given to 1002162
+207 - Holder 1002163 - Primary title: d_sedag has lost the title: d_sedag
+207 - Title given to 1002163 - Primary title: k_tigurg
+207 - vassal: c_tedalla - Setting to vassal of d_kunana in Validate Realm
+207 - Lost vassal: c_tedalla
+207 - vassal: c_egeruhan - Setting to vassal of d_kunana in Validate Realm
+207 - Lost vassal: c_egeruhan
+207 - vassal: c_ehjagay - Setting to vassal of d_kunana in Validate Realm
+207 - Lost vassal: c_ehjagay
+229 - Gained vassal: c_tedalla
+229 - Gained vassal: c_egeruhan
+229 - Gained vassal: c_ehjagay
+229 - Gained vassal: c_tabdalla
+229 - Holder 1003546 - Primary title: d_sedag has lost the title: d_sedag
+229 - Title given to 1003546 - Primary title: k_tigurg
+229 - vassal: c_tabdalla - Holder 1003546 - Primary title: c_tabdalla has lost the title: c_tabdalla
+229 - vassal: c_tabdalla - Title given to 1003546 - Primary title: k_tigurg
+229 - vassal: c_ehjagay - Holder 1003546 - Primary title: c_ehjagay has lost the title: c_ehjagay
+229 - vassal: c_ehjagay - Title given to 1003546 - Primary title: k_tigurg
+229 - vassal: c_egeruhan - Holder 1003546 - Primary title: c_egeruhan has l

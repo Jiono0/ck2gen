@@ -1,0 +1,237 @@
+200 - Title given to 1001480
+200 - vassal: d_baepul - Holder 1001480 - Primary title: d_baepul has lost the title: c_woukh
+200 - sub vassal: d_baepul - Holder 1001480 - Primary title: d_baepul has lost the title: c_woukh
+200 - sub vassal: c_woukh - Title given to 1001480 - Primary title: k_sarilla
+200 - Holder (1001480) has gained c_woukh
+202 - vassal: d_baepul - Holder 1000435 - Primary title: d_baepul has lost the title: d_baepul
+202 - sub vassal: d_baepul - Holder 1000435 - Primary title: d_baepul has lost the title: d_baepul
+202 - vassal: d_baepul - Title given to 1000435 - Primary title: d_tatara
+202 - sub vassal: d_baepul - Title given to 1000435 - Primary title: d_tatara
+202 - vassal: d_tatara - Holder (1000435) has gained d_baepul
+202 - sub vassal: d_tatara - Holder (1000435) has gained d_baepul
+202 - sub vassal: c_woukh - Setting to vassal of k_sarilla in Validate Realm
+202 - vassal: d_baepul - Lost vassal: c_woukh
+202 - sub vassal: d_baepul - Lost vassal: c_woukh
+202 - Gained vassal: c_woukh
+202 - sub vassal: c_amisib - Holder 1000435 - Primary title: c_amisib has lost the title: c_amisib
+202 - sub vassal: c_amisib - Title given to 1000435 - Primary title: d_tatara
+202 - vassal: d_tatara - Holder (1000435) has gained c_amisib
+202 - sub vassal: d_tatara - Holder (1000435) has gained c_amisib
+202 - sub vassal: c_tanaha - Holder 1000435 - Primary title: c_tanaha has lost the title: c_tanaha
+202 - sub vassal: c_tanaha - Title given to 1000435 - Primary title: d_tatara
+202 - vassal: d_tatara - Holder (1000435) has gained c_tanaha
+202 - sub vassal: d_tatara - Holder (1000435) has gained c_tanaha
+202 - sub vassal: c_sovald - Holder 1000435 - Primary title: c_sovald has lost the title: c_sovald
+202 - sub vassal: c_sovald - Title given to 1000435 - Primary title: d_tatara
+202 - vassal: d_tatara - Holder (1000435) has gained c_sovald
+202 - sub vassal: d_tatara - Holder (1000435) has gained c_sovald
+203 - vassal: d_lul - Holder 1001716 - Primary title: d_lul has lost the title: d_lul
+203 - sub vassal: d_lul - Holder 1001716 - Primary title: d_lul has lost the title: d_lul
+203 - vassal: d_lul - Title given to 1001716
+203 - sub vassal: d_lul - Title given to 1001716
+203 - sub vassal: c_rahono - Holder 1001716 - Primary title: c_rahono has lost the title: c_rahono
+203 - sub vassal: c_rahono - Title given to 1001716 - Primary title: d_lul
+203 - vassal: d_lul - Holder (1001716) has gained c_rahono
+203 - sub vassal: d_lul - Holder (1001716) has gained c_rahono
+203 - sub vassal: c_suistou - Holder 1001716 - Primary title: c_suistou has lost the title: c_suistou
+203 - sub vassal: c_suistou - Title given to 1001716 - Primary title: d_lul
+203 - vassal: d_lul - Holder (1001716) has gained c_suistou
+203 - sub vassal: d_lul - Holder (1001716) has gained c_suistou
+203 - sub vassal: c_atina - Holder 1001716 - Primary title: c_atina has lost the title: c_atina
+203 - sub vassal: c_atina - Title given to 1001716 - Primary title: d_lul
+203 - vassal: d_lul - Holder (1001716) has gained c_atina
+203 - sub vassal: d_lul - Holder (1001716) has gained c_atina
+203 - vassal: d_baepul - Holder 1002332 - Primary title: d_baepul has lost the title: c_rair
+203 - sub vassal: d_baepul - Holder 1002332 - Primary title: d_baepul has lost the title: c_rair
+203 - sub vassal: c_rair - Title given to 1002332
+210 - vassal: d_baepul - Captured byk_tyawille in minor war
+210 - sub vassal: d_baepul - Captured byk_tyawille in minor war
+210 - Lost vassal: d_baepul
+210 - vassal: d_tatara - Setting independent in Validate Realm
+210 - vassal: d_tatara - Made independent
+213 - Gained vassal: d_lisib
+226 - Gained vassal: c_disina
+237 - vassal: d_lisib - Holder 1003245 - Primary title: d_lisib has lost the title: d_lisib
+237 - sub vassal: d_lisib - Holder 1003245 - Primary title: d_lisib has lost the title: d_lisib
+237 - vassal: d_lisib - Title given to 1003245
+237 - sub vassal: d_lisib - Title given to 1003245
+237 - sub vassal: c_qovara - Holder 1003245 - Primary title: c_qovara has lost the title: c_qovara
+237 - sub vassal: c_qovara - Title given to 1003245 - Primary title: d_lisib
+237 - vassal: d_lisib - Holder (1003245) has gained c_qovara
+237 - sub vassal: d_lisib - Holder (1003245) has gained c_qovara
+238 - vassal: d_lul - Holder 1003588 - Primary title: d_lul has lost the title: d_lul
+238 - sub vassal: d_lul - Holder 1003588 - Primary title: d_lul has lost the title: d_lul
+238 - vassal: d_lul - Title given to 1003588
+238 - sub vassal: d_lul - Title given to 1003588
+238 - sub vassal: c_atina - Holder 1003588 - Primary title: c_atina has lost the title: c_atina
+238 - sub vassal: c_atina - Title given to 1003588 - Primary title: d_lul
+238 - vassal: d_lul - Holder (1003588) has gained c_atina
+238 - sub vassal: d_lul - Holder (1003588) has gained c_atina
+238 - sub vassal: c_suistou - Holder 1003588 - Primary title: c_suistou has lost the title: c_suistou
+238 - sub vassal: c_suistou - Title given to 1003588 - Primary title: d_lul
+238 - vassal: d_lul - Holder (1003588) has gained c_suistou
+238 - sub vassal: d_lul - Holder (1003588) has gained c_suistou
+238 - sub vassal: c_rahono - Holder 1003588 - Primary title: c_rahono has lost the title: c_rahono
+238 - sub vassal: c_rahono - Title given to 1003588 - Primary title: d_lul
+238 - vassal: d_lul - Holder (1003588) has gained c_rahono
+238 - sub vassal: d_lul - Holder (1003588) has gained c_rahono
+251 - vassal: d_lisib - Holder 1005174 - Primary title: d_lisib has lost the title: d_lisib
+251 - sub vassal: d_lisib - Holder 1005174 - Primary title: d_lisib has lost the title: d_lisib
+251 - vassal: d_lisib - Title given to 1005174
+251 - sub vassal: d_lisib - Title given to 1005174
+251 - sub vassal: c_qovara - Holder 1005174 - Primary title: c_qovara has lost the title: c_qovara
+251 - sub vassal: c_qovara - Title given to 1005174 - Primary title: d_lisib
+251 - vassal: d_lisib - Holder (1005174) has gained c_qovara
+251 - sub vassal: d_lisib - Holder (1005174) has gained c_qovara
+252 - Holder 1001976 - Primary title: k_sarilla has lost the title: k_sarilla
+252 - Title given to 1001976
+252 - vassal: c_woukh - Holder 1001976 - Primary title: c_woukh has lost the title: c_woukh
+252 - sub vassal: c_woukh - Holder 1001976 - Primary title: c_woukh has lost the title: c_woukh
+252 - vassal: c_woukh - Title given to 1001976 - Primary title: k_sarilla
+252 - sub vassal: c_woukh - Title given to 1001976 - Primary title: k_sarilla
+252 - Holder (1001976) has gained c_woukh
+254 - vassal: d_lisib - Holder 1000435 - Primary title: d_lisib has lost the title: d_lisib
+254 - sub vassal: d_lisib - Holder 1000435 - Primary title: d_lisib has lost the title: d_lisib
+254 - vassal: d_lisib - Title given to 1000435 - Primary title: c_disina
+254 - sub vassal: d_lisib - Title given to 1000435 - Primary title: c_disina
+254 - vassal: c_disina - Holder (1000435) has gained d_lisib
+254 - sub vassal: c_disina - Holder (1000435) has gained d_lisib
+254 - vassal: c_disina - Setting to vassal of d_lisib in Validate Realm
+254 - sub vassal: c_disina - Setting to vassal of d_lisib in Validate Realm
+254 - Lost vassal: c_disina
+254 - vassal: d_lisib - Gained vassal: c_disina
+254 - sub vassal: d_lisib - Gained vassal: c_disina
+254 - sub vassal: c_qovara - Holder 1000435 - Primary title: c_qovara has lost the title: c_qovara
+254 - sub vassal: c_qovara - Title given to 1000435 - Primary title: d_lisib
+254 - vassal: d_lisib - Holder (1000435) has gained c_qovara
+254 - sub vassal: d_lisib - Holder (1000435) has gained c_qovara
+255 - vassal: d_lisib - Holder 1002737 - Primary title: d_lisib has lost the title: d_lisib
+255 - sub vassal: d_lisib - Holder 1002737 - Primary title: d_lisib has lost the title: d_lisib
+255 - vassal: d_lisib - Title given to 1002737
+255 - sub vassal: d_lisib - Title given to 1002737
+255 - sub vassal: c_disina - Holder 1002737 - Primary title: c_disina has lost the title: c_disina
+255 - sub vassal: c_disina - Title given to 1002737 - Primary title: d_lisib
+255 - vassal: d_lisib - Holder (1002737) has gained c_disina
+255 - sub vassal: d_lisib - Holder (1002737) has gained c_disina
+255 - vassal: d_lisib - Holder (1002737) has gained c_satara
+255 - sub vassal: d_lisib - Holder (1002737) has gained c_satara
+255 - vassal: d_lisib - Holder (1002737) has gained c_qovara
+255 - sub vassal: d_lisib - Holder (1002737) has gained c_qovara
+256 - vassal: d_lisib - Holder (1002737) has gained d_tatara
+256 - sub vassal: d_lisib - Holder (1002737) has gained d_tatara
+256 - Gained vassal: d_tatara
+256 - vassal: d_tatara - Made independent for title creation d_tatara for d_lisib
+256 - sub vassal: d_tatara - Made independent for title creation d_tatara for d_lisib
+256 - vassal: d_tatara - Made independent
+256 - sub vassal: d_tatara - Made independent
+256 - sub vassal: c_disina - Set liege on title creation d_tatara
+256 - vassal: d_lisib - Lost vassal: c_disina
+256 - sub vassal: d_lisib - Lost vassal: c_disina
+256 - sub vassal: c_qovara - Setting independent due to liege destruction
+256 - sub vassal: c_qovara - Made independent
+256 - sub vassal: c_satara - Setting independent due to liege destruction
+256 - sub vassal: c_satara - Made independent
+256 - sub vassal: c_disina - Setting independent due to liege destruction
+256 - sub vassal: c_disina - Made independent
+256 - sub vassal: c_nyitara - Holder 1002737 - Primary title: c_nyitara has lost the title: c_quisans
+256 - sub vassal: c_quisans - Title given to 1002737 - Primary title: d_lisib
+256 - vassal: d_lisib - Holder (1002737) has gained c_quisans
+256 - sub vassal: d_lisib - Holder (1002737) has gained c_quisans
+260 - Holder 1006503 - Primary title: k_sarilla has lost the title: k_sarilla
+260 - Title given to 1006503
+260 - vassal: c_woukh - Holder 1006503 - Primary title: c_woukh has lost the title: c_woukh
+260 - sub vassal: c_woukh - Holder 1006503 - Primary title: c_woukh has lost the title: c_woukh
+260 - vassal: c_woukh - Title given to 1006503 - Primary title: k_sarilla
+260 - sub vassal: c_woukh - Title given to 1006503 - Primary title: k_sarilla
+260 - Holder (1006503) has gained c_woukh
+270 - vassal: d_lisib - Holder 1006890 - Primary title: d_lisib has lost the title: d_lisib
+270 - sub vassal: d_lisib - Holder 1006890 - Primary title: d_lisib has lost the title: d_lisib
+270 - vassal: d_lisib - Title given to 1006890
+270 - sub vassal: d_lisib - Title given to 1006890
+270 - sub vassal: c_quisans - Holder 1006890 - Primary title: c_quisans has lost the title: c_quisans
+270 - sub vassal: c_quisans - Title given to 1006890 - Primary title: d_lisib
+270 - vassal: d_lisib - Holder (1006890) has gained c_quisans
+270 - sub vassal: d_lisib - Holder (1006890) has gained c_quisans
+270 - vassal: d_lisib - Holder (1006890) has gained c_qovara
+270 - sub vassal: d_lisib - Holder (1006890) has gained c_qovara
+270 - vassal: d_lisib - Holder (1006890) has gained c_satara
+270 - sub vassal: d_lisib - Holder (1006890) has gained c_satara
+270 - vassal: d_lisib - Holder (1006890) has gained c_disina
+270 - sub vassal: d_lisib - Holder (1006890) has gained c_disina
+272 - vassal: d_lul - Holder 1005268 - Primary title: d_lul has lost the title: d_lul
+272 - sub vassal: d_lul - Holder 1005268 - Primary title: d_lul has lost the title: d_lul
+272 - vassal: d_lul - Title given to 1005268
+272 - sub vassal: d_lul - Title given to 1005268
+272 - sub vassal: c_atina - Holder 1005268 - Primary title: c_atina has lost the title: c_atina
+272 - sub vassal: c_atina - Title given to 1005268 - Primary title: d_lul
+272 - vassal: d_lul - Holder (1005268) has gained c_atina
+272 - sub vassal: d_lul - Holder (1005268) has gained c_atina
+272 - sub vassal: c_suistou - Holder 1005268 - Primary title: c_suistou has lost the title: c_suistou
+272 - sub vassal: c_suistou - Title given to 1005268 - Primary title: d_lul
+272 - vassal: d_lul - Holder (1005268) has gained c_suistou
+272 - sub vassal: d_lul - Holder (1005268) has gained c_suistou
+272 - sub vassal: c_rahono - Holder 1005268 - Primary title: c_rahono has lost the title: c_rahono
+272 - sub vassal: c_rahono - Title given to 1005268 - Primary title: d_lul
+272 - vassal: d_lul - Holder (1005268) has gained c_rahono
+272 - sub vassal: d_lul - Holder (1005268) has gained c_rahono
+274 - vassal: d_lisib - Holder 1006503 - Primary title: d_lisib has lost the title: d_lisib
+274 - sub vassal: d_lisib - Holder 1006503 - Primary title: d_lisib has lost the title: d_lisib
+274 - vassal: d_lisib - Title given to 1006503 - Primary title: k_sarilla
+274 - sub vassal: d_lisib - Title given to 1006503 - Primary title: k_sarilla
+274 - Holder (1006503) has gained d_lisib
+274 - sub vassal: c_quisans - Holder 1006503 - Primary title: c_quisans has lost the title: c_quisans
+274 - sub vassal: c_quisans - Title given to 1006503 - Primary title: k_sarilla
+274 - Holder (1006503) has gained c_quisans
+274 - Holder (1006503) has gained c_qovara
+274 - Holder (1006503) has gained c_satara
+274 - Holder (1006503) has gained c_disina
+284 - vassal: d_lul - Holder 1008632 - Primary title: d_lul has lost the title: d_lul
+284 - sub vassal: d_lul - Holder 1008632 - Primary title: d_lul has lost the title: d_lul
+284 - vassal: d_lul - Title given to 1008632
+284 - sub vassal: d_lul - Title given to 1008632
+284 - sub vassal: c_rahono - Holder 1008632 - Primary title: c_rahono has lost the title: c_rahono
+284 - sub vassal: c_rahono - Title given to 1008632 - Primary title: d_lul
+284 - vassal: d_lul - Holder (1008632) has gained c_rahono
+284 - sub vassal: d_lul - Holder (1008632) has gained c_rahono
+284 - sub vassal: c_suistou - Holder 1008632 - Primary title: c_suistou has lost the title: c_suistou
+284 - sub vassal: c_suistou - Title given to 1008632 - Primary title: d_lul
+284 - vassal: d_lul - Holder (1008632) has gained c_suistou
+284 - sub vassal: d_lul - Holder (1008632) has gained c_suistou
+284 - sub vassal: c_atina - Holder 1008632 - Primary title: c_atina has lost the title: c_atina
+284 - sub vassal: c_atina - Title given to 1008632 - Primary title: d_lul
+284 - vassal: d_lul - Holder (1008632) has gained c_atina
+284 - sub vassal: d_lul - Holder (1008632) has gained c_atina
+294 - Holder 1009314 - Primary title: k_sarilla has lost the title: k_sarilla
+294 - Title given to 1009314
+294 - vassal: d_lisib - Holder 1009314 - Primary title: d_lisib has lost the title: d_lisib
+294 - sub vassal: d_lisib - Holder 1009314 - Primary title: d_lisib has lost the title: d_lisib
+294 - vassal: d_lisib - Title given to 1009314 - Primary title: k_sarilla
+294 - sub vassal: d_lisib - Title given to 1009314 - Primary title: k_sarilla
+294 - Holder (1009314) has gained d_lisib
+294 - vassal: c_woukh - Setting independent in Validate Realm
+294 - vassal: c_woukh - Made independent
+294 - Holder (1009314) has gained c_disina
+294 - Holder (1009314) has gained c_satara
+294 - Holder (1009314) has gained c_qovara
+294 - Holder (1009314) has gained c_quisans
+294 - Holder (1009314) has gained c_woukh
+295 - vassal: d_lul - Holder 1009314 - Primary title: d_lul has lost the title: c_rahono
+295 - sub vassal: d_lul - Holder 1009314 - Primary title: d_lul has lost the title: c_rahono
+295 - sub vassal: c_rahono - Title given to 1009314 - Primary title: k_sarilla
+295 - Holder (1009314) has gained c_rahono
+295 - sub vassal: c_rahono - Setting to vassal of k_sarilla in Validate Realm
+295 - vassal: d_lul - Lost vassal: c_rahono
+295 - sub vassal: d_lul - Lost vassal: c_rahono
+295 - Gained vassal: c_rahono
+295 - Holder 1009371 - Primary title: k_sarilla has lost the title: c_woukh
+295 - Gained vassal: c_woukh
+300 - sub vassal: c_nyitara - Holder 1009314 - Primary title: c_nyitara has lost the title: c_nyitara
+300 - sub vassal: c_nyitara - Title given to 1009314 - Primary title: k_sarilla
+300 - Holder (1009314) has gained c_nyitara
+300 - Holder 1009742 - Primary title: k_sarilla has lost the title: c_qovara
+300 - Gained vassal: c_qovara
+314 - vassal: d_lul - Holder 1009229 - Primary title: d_lul has lost the title: d_lul
+314 - sub vassal: d_lul - Holder 1009229 - Primary title: d_lul has lost the title: d_lul
+314 - vassal: d_lul - Title given to 1009229
+314 - sub vassal: d_lul - Title given to 1009229
+314 - sub vassal: c_at

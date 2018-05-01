@@ -1,0 +1,57 @@
+200 - Title given to 1000687
+200 - vassal: c_rurict - Holder 1000687 - Primary title: c_rurict has lost the title: c_rurict
+200 - sub vassal: c_rurict - Holder 1000687 - Primary title: c_rurict has lost the title: c_rurict
+200 - vassal: c_rurict - Title given to 1000687 - Primary title: d_sacing
+200 - sub vassal: c_rurict - Title given to 1000687 - Primary title: d_sacing
+200 - Holder (1000687) has gained c_rurict
+200 - vassal: c_kolamba - Holder 1000687 - Primary title: c_kolamba has lost the title: c_kolamba
+200 - sub vassal: c_kolamba - Holder 1000687 - Primary title: c_kolamba has lost the title: c_kolamba
+200 - vassal: c_kolamba - Title given to 1000687 - Primary title: d_sacing
+200 - sub vassal: c_kolamba - Title given to 1000687 - Primary title: d_sacing
+200 - Holder (1000687) has gained c_kolamba
+200 - vassal: c_dahabha - Holder 1000687 - Primary title: c_dahabha has lost the title: c_dahabha
+200 - sub vassal: c_dahabha - Holder 1000687 - Primary title: c_dahabha has lost the title: c_dahabha
+200 - vassal: c_dahabha - Title given to 1000687 - Primary title: d_sacing
+200 - sub vassal: c_dahabha - Title given to 1000687 - Primary title: d_sacing
+200 - Holder (1000687) has gained c_dahabha
+230 - Holder 1001766 - Primary title: d_sacing has lost the title: d_sacing
+230 - Title given to 1001766
+230 - vassal: c_rurict - Holder 1001766 - Primary title: c_rurict has lost the title: c_rurict
+230 - vassal: c_rurict - Title given to 1001766 - Primary title: d_sacing
+230 - Holder (1001766) has gained c_rurict
+230 - vassal: c_kolamba - Holder 1001766 - Primary title: c_kolamba has lost the title: c_kolamba
+230 - vassal: c_kolamba - Title given to 1001766 - Primary title: d_sacing
+230 - Holder (1001766) has gained c_kolamba
+230 - vassal: c_dahabha - Holder 1001766 - Primary title: c_dahabha has lost the title: c_dahabha
+230 - vassal: c_dahabha - Title given to 1001766 - Primary title: d_sacing
+230 - Holder (1001766) has gained c_dahabha
+249 - Holder 1004920 - Primary title: d_sacing has lost the title: d_sacing
+249 - Title given to 1004920
+249 - vassal: c_dahabha - Holder 1004920 - Primary title: c_dahabha has lost the title: c_dahabha
+249 - vassal: c_dahabha - Title given to 1004920 - Primary title: d_sacing
+249 - Holder (1004920) has gained c_dahabha
+249 - vassal: c_kolamba - Holder 1004920 - Primary title: c_kolamba has lost the title: c_kolamba
+249 - vassal: c_kolamba - Title given to 1004920 - Primary title: d_sacing
+249 - Holder (1004920) has gained c_kolamba
+249 - vassal: c_rurict - Holder 1004920 - Primary title: c_rurict has lost the title: c_rurict
+249 - vassal: c_rurict - Title given to 1004920 - Primary title: d_sacing
+249 - Holder (1004920) has gained c_rurict
+250 - Holder 1005654 - Primary title: d_sacing has lost the title: d_sacing
+250 - Title given to 1005654 - Primary title: d_kescund
+250 - vassal: c_dahabha - Holder 1005654 - Primary title: c_dahabha has lost the title: c_dahabha
+250 - vassal: c_dahabha - Title given to 1005654 - Primary title: d_kescund
+250 - vassal: c_kolamba - Holder 1005654 - Primary title: c_kolamba has lost the title: c_kolamba
+250 - vassal: c_kolamba - Title given to 1005654 - Primary title: d_kescund
+250 - vassal: c_rurict - Holder 1005654 - Primary title: c_rurict has lost the title: c_rurict
+250 - vassal: c_rurict - Title given to 1005654 - Primary title: d_kescund
+251 - Holder 1006131 - Primary title: d_sacing has lost the title: c_raygg
+251 - Holder 1006132 - Primary title: d_sacing has lost the title: c_banati
+251 - Holder 1006133 - Primary title: d_sacing has lost the title: c_anugel
+265 - Holder 1004590 - Primary title: d_sacing has lost the title: d_kescund
+265 - Gained vassal: c_rahile
+265 - Gained vassal: c_satabha
+265 - Holder 1004590 - Primary title: d_sacing has lost the title: c_satabha
+265 - vassal: c_satabha - Title given to 1004590 - Primary title: k_kanaud
+265 - vassal: c_satabha - Setting to vassal of k_kanaud in Validate Realm
+265 - Lost vassal: c_satabha
+265 - Holder 1004590 - Primary title: d_sacing has los

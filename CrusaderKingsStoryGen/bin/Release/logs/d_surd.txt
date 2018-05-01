@@ -1,0 +1,118 @@
+200 - Title given to 1001227
+200 - vassal: c_rienke - Given to 1001230 via AddCharacterForTitle
+200 - sub vassal: c_rienke - Given to 1001230 via AddCharacterForTitle
+200 - vassal: c_rienke - Holder 1001230 - Primary title: c_rienke has lost the title: c_rienke
+200 - sub vassal: c_rienke - Holder 1001230 - Primary title: c_rienke has lost the title: c_rienke
+200 - vassal: c_rienke - Title given to 1001230
+200 - sub vassal: c_rienke - Title given to 1001230
+200 - vassal: c_teniogo - Holder 1001227 - Primary title: c_teniogo has lost the title: c_teniogo
+200 - sub vassal: c_teniogo - Holder 1001227 - Primary title: c_teniogo has lost the title: c_teniogo
+200 - vassal: c_teniogo - Title given to 1001227 - Primary title: d_surd
+200 - sub vassal: c_teniogo - Title given to 1001227 - Primary title: d_surd
+200 - Holder (1001227) has gained c_teniogo
+200 - vassal: c_rienke - Holder 1001227 - Primary title: c_rienke has lost the title: c_rienke
+200 - sub vassal: c_rienke - Holder 1001227 - Primary title: c_rienke has lost the title: c_rienke
+200 - vassal: c_rienke - Title given to 1001227 - Primary title: d_surd
+200 - sub vassal: c_rienke - Title given to 1001227 - Primary title: d_surd
+200 - Holder (1001227) has gained c_rienke
+221 - Holder 1003103 - Primary title: d_surd has lost the title: d_surd
+221 - Title given to 1003103
+221 - vassal: c_teniogo - Holder 1003103 - Primary title: c_teniogo has lost the title: c_teniogo
+221 - vassal: c_teniogo - Title given to 1003103 - Primary title: d_surd
+221 - Holder (1003103) has gained c_teniogo
+221 - vassal: c_rienke - Holder 1003103 - Primary title: c_rienke has lost the title: c_rienke
+221 - vassal: c_rienke - Title given to 1003103 - Primary title: d_surd
+221 - Holder (1003103) has gained c_rienke
+229 - Holder 1002916 - Primary title: d_surd has lost the title: d_surd
+229 - Title given to 1002916 - Primary title: k_ditedas
+229 - vassal: c_teniogo - Holder 1002916 - Primary title: c_teniogo has lost the title: c_teniogo
+229 - vassal: c_teniogo - Title given to 1002916 - Primary title: k_ditedas
+229 - vassal: c_rienke - Holder 1002916 - Primary title: c_rienke has lost the title: c_rienke
+229 - vassal: c_rienke - Title given to 1002916 - Primary title: k_ditedas
+258 - Gained vassal: c_livalk
+258 - Holder 1004752 - Primary title: d_surd has lost the title: d_surd
+258 - Title given to 1004752 - Primary title: k_ditedas
+258 - vassal: c_rienke - Holder 1004752 - Primary title: c_rienke has lost the title: c_rienke
+258 - vassal: c_rienke - Title given to 1004752 - Primary title: k_ditedas
+258 - vassal: c_teniogo - Holder 1004752 - Primary title: c_teniogo has lost the title: c_teniogo
+258 - vassal: c_teniogo - Title given to 1004752 - Primary title: k_ditedas
+258 - vassal: c_livalk - Holder 1004752 - Primary title: c_livalk has lost the title: c_livalk
+258 - vassal: c_livalk - Title given to 1004752 - Primary title: k_ditedas
+260 - vassal: c_rienke - Given to 1007445 in HandleTitles - Too many duke titles
+260 - vassal: c_rienke - Title given to 1007445
+260 - Title given to 1007445 - Primary title: c_rienke
+260 - vassal: c_rienke - Holder (1007445) has gained d_surd
+260 - vassal: c_livalk - Setting to vassal of k_ditedas in Validate Realm
+260 - Lost vassal: c_livalk
+260 - vassal: c_teniogo - Setting to vassal of k_ditedas in Validate Realm
+260 - Lost vassal: c_teniogo
+260 - Too many dukes, given to dejure: k_ditedas
+269 - Holder 1004752 - Primary title: d_surd has lost the title: d_surd
+269 - Title given to 1004752 - Primary title: k_ditedas
+269 - vassal: c_rienke - Holder 1004752 - Primary title: c_rienke has lost the title: c_rienke
+269 - vassal: c_rienke - Title given to 1004752 - Primary title: k_ditedas
+269 - vassal: c_rienke - Title given to 1008206
+275 - vassal: c_rienke - Given to 1008710 in HandleTitles - Too many duke titles
+275 - vassal: c_rienke - Holder 1008710 - Primary title: c_rienke has lost the title: c_rienke
+275 - vassal: c_rienke - Title given to 1008710
+275 - Title given to 1008710 - Primary title: c_rienke
+275 - vassal: c_rienke - Holder (1008710) has gained d_surd
+275 - Too many dukes, given to dejure: k_ditedas
+283 - Holder 1009265 - Primary title: d_surd has lost the title: d_surd
+283 - Title given to 1009265
+283 - vassal: c_rienke - Holder 1009265 - Primary title: c_rienke has lost the title: c_rienke
+283 - vassal: c_rienke - Title given to 1009265 - Primary title: d_surd
+283 - Holder (1009265) has gained c_rienke
+285 - Holder 1005136 - Primary title: d_surd has lost the title: d_surd
+285 - Title given to 1005136 - Primary title: d_rugedas
+285 - vassal: c_rienke - Holder 1005136 - Primary title: c_rienke has lost the title: c_rienke
+285 - vassal: c_rienke - Title given to 1005136 - Primary title: d_rugedas
+294 - Holder 1009823 - Primary title: d_surd has lost the title: d_surd
+294 - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_rienke - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_rienke - Given to 1010252 in HandleTitles - Too many duke titles
+294 - vassal: c_rienke - Title given to 1010252
+294 - Title given to 1010252 - Primary title: c_rienke
+294 - vassal: c_rienke - Holder (1010252) has gained d_surd
+294 - Too many dukes, given to dejure: k_ditedas
+295 - Holder 1010266 - Primary title: d_surd has lost the title: d_surd
+295 - Title given to 1010266 - Primary title: c_rusartin
+295 - Gained vassal: c_rusartin
+295 - vassal: c_rienke - Holder 1010266 - Primary title: c_rienke has lost the title: c_rienke
+295 - vassal: c_rienke - Title given to 1010266 - Primary title: d_surd
+295 - Holder (1010266) has gained c_rienke
+312 - Holder 1011244 - Primary title: d_surd has lost the title: d_surd
+312 - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_rienke - Holder 1011244 - Primary title: c_rienke has lost the title: c_rusartin
+312 - vassal: c_rusartin - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_rienke - Holder 1011244 - Primary title: c_rienke has lost the title: c_rienke
+312 - vassal: c_rienke - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_rienke - Given to 1011778 in HandleTitles - Too many duke titles
+312 - vassal: c_rienke - Title given to 1011778
+312 - Title given to 1011778 - Primary title: c_rienke
+312 - vassal: c_rienke - Holder (1011778) has gained d_surd
+312 - vassal: c_rusartin - Setting to vassal of k_ditedas in Validate Realm
+312 - Lost vassal: c_rusartin
+312 - Too many dukes, given to dejure: k_ditedas
+335 - Holder (1011778) has gained d_rorila
+335 - Holder (1011778) has gained c_tasero
+350 - Gained vassal: c_tasero
+350 - Holder 1012687 - Primary title: d_surd has lost the title: d_surd
+350 - Title given to 1012687 - Primary title: d_rorila
+350 - vassal: c_tasero - Holder 1012687 - Primary title: c_tasero has lost the title: c_tasero
+350 - vassal: c_tasero - Title given to 1012687 - Primary title: d_rorila
+350 - vassal: c_rienke - Holder 1012687 - Primary title: c_rienke has lost the title: c_rienke
+350 - vassal: c_rienke - Title given to 1012687 - Primary title: d_rorila
+364 - Holder 1015382 - Primary title: d_surd has lost the title: d_surd
+364 - Title given to 1015382
+364 - vassal: c_rienke - Setting to vassal of d_rorila in Validate Realm
+364 - Lost vassal: c_rienke
+364 - vassal: c_tasero - Setting to vassal of d_rorila in Validate Realm
+364 - Lost vassal: c_tasero
+364 - Holder (1015382) has gained d_rorila
+364 - Holder (1015382) has gained c_rosila
+364 - Holder (1015382) has gained c_rienke
+364 - Holder (1015382) has gained c_tasero
+365 - Destroyed due to flagged problem
+365 - Made independent
+365 - Title destroyed

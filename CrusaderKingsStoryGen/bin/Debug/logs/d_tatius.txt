@@ -1,0 +1,455 @@
+200 - Title given to 1001271
+200 - vassal: c_terulei - Given to 1001275 via AddCharacterForTitle
+200 - sub vassal: c_terulei - Given to 1001275 via AddCharacterForTitle
+200 - vassal: c_terulei - Holder 1001275 - Primary title: c_terulei has lost the title: c_terulei
+200 - sub vassal: c_terulei - Holder 1001275 - Primary title: c_terulei has lost the title: c_terulei
+200 - vassal: c_terulei - Title given to 1001275
+200 - sub vassal: c_terulei - Title given to 1001275
+200 - vassal: c_kazja - Holder 1001271 - Primary title: c_kazja has lost the title: c_kazja
+200 - sub vassal: c_kazja - Holder 1001271 - Primary title: c_kazja has lost the title: c_kazja
+200 - vassal: c_kazja - Title given to 1001271 - Primary title: d_tatius
+200 - sub vassal: c_kazja - Title given to 1001271 - Primary title: d_tatius
+200 - Holder (1001271) has gained c_kazja
+200 - vassal: c_kamulei - Holder 1001271 - Primary title: c_kamulei has lost the title: c_kamulei
+200 - sub vassal: c_kamulei - Holder 1001271 - Primary title: c_kamulei has lost the title: c_kamulei
+200 - vassal: c_kamulei - Title given to 1001271 - Primary title: d_tatius
+200 - sub vassal: c_kamulei - Title given to 1001271 - Primary title: d_tatius
+200 - Holder (1001271) has gained c_kamulei
+200 - vassal: c_terulei - Holder 1001271 - Primary title: c_terulei has lost the title: c_terulei
+200 - sub vassal: c_terulei - Holder 1001271 - Primary title: c_terulei has lost the title: c_terulei
+200 - vassal: c_terulei - Title given to 1001271 - Primary title: d_tatius
+200 - sub vassal: c_terulei - Title given to 1001271 - Primary title: d_tatius
+200 - Holder (1001271) has gained c_terulei
+242 - Holder 1002374 - Primary title: d_tatius has lost the title: d_tatius
+242 - Title given to 1002374
+242 - vassal: c_terulei - Holder 1002374 - Primary title: c_terulei has lost the title: c_terulei
+242 - vassal: c_terulei - Title given to 1002374 - Primary title: d_tatius
+242 - Holder (1002374) has gained c_terulei
+242 - vassal: c_kamulei - Holder 1002374 - Primary title: c_kamulei has lost the title: c_kamulei
+242 - vassal: c_kamulei - Title given to 1002374 - Primary title: d_tatius
+242 - Holder (1002374) has gained c_kamulei
+242 - vassal: c_kazja - Holder 1002374 - Primary title: c_kazja has lost the title: c_kazja
+242 - vassal: c_kazja - Title given to 1002374 - Primary title: d_tatius
+242 - Holder (1002374) has gained c_kazja
+255 - Holder 1005818 - Primary title: d_tatius has lost the title: d_tatius
+255 - Title given to 1005818
+255 - vassal: c_terulei - Holder 1005818 - Primary title: c_terulei has lost the title: c_terulei
+255 - vassal: c_terulei - Title given to 1005818 - Primary title: d_tatius
+255 - Holder (1005818) has gained c_terulei
+255 - vassal: c_kamulei - Holder 1005818 - Primary title: c_kamulei has lost the title: c_kamulei
+255 - vassal: c_kamulei - Title given to 1005818 - Primary title: d_tatius
+255 - Holder (1005818) has gained c_kamulei
+255 - vassal: c_kazja - Holder 1005818 - Primary title: c_kazja has lost the title: c_kazja
+255 - vassal: c_kazja - Title given to 1005818 - Primary title: d_tatius
+255 - Holder (1005818) has gained c_kazja
+273 - Holder 1007686 - Primary title: d_tatius has lost the title: d_tatius
+273 - Title given to 1007686
+273 - vassal: c_kazja - Holder 1007686 - Primary title: c_kazja has lost the title: c_kazja
+273 - vassal: c_kazja - Title given to 1007686 - Primary title: d_tatius
+273 - Holder (1007686) has gained c_kazja
+273 - vassal: c_kamulei - Holder 1007686 - Primary title: c_kamulei has lost the title: c_kamulei
+273 - vassal: c_kamulei - Title given to 1007686 - Primary title: d_tatius
+273 - Holder (1007686) has gained c_kamulei
+273 - vassal: c_terulei - Holder 1007686 - Primary title: c_terulei has lost the title: c_terulei
+273 - vassal: c_terulei - Title given to 1007686 - Primary title: d_tatius
+273 - Holder (1007686) has gained c_terulei
+280 - Holder 1005295 - Primary title: d_tatius has lost the title: d_tatius
+280 - Title given to 1005295 - Primary title: k_serazja
+280 - vassal: c_terulei - Holder 1005295 - Primary title: c_terulei has lost the title: c_terulei
+280 - vassal: c_terulei - Title given to 1005295 - Primary title: k_serazja
+280 - vassal: c_kamulei - Holder 1005295 - Primary title: c_kamulei has lost the title: c_kamulei
+280 - vassal: c_kamulei - Title given to 1005295 - Primary title: k_serazja
+280 - vassal: c_kazja - Holder 1005295 - Primary title: c_kazja has lost the title: c_kazja
+280 - vassal: c_kazja - Title given to 1005295 - Primary title: k_serazja
+280 - vassal: c_terulei - Given to 1008359 in HandleTitles - Too many duke titles
+280 - vassal: c_terulei - Title given to 1008359
+280 - Title given to 1008359 - Primary title: c_terulei
+280 - vassal: c_terulei - Holder (1008359) has gained d_tatius
+280 - vassal: c_kazja - Setting to vassal of k_serazja in Validate Realm
+280 - Lost vassal: c_kazja
+280 - vassal: c_kamulei - Setting to vassal of k_serazja in Validate Realm
+280 - Lost vassal: c_kamulei
+280 - Too many dukes, given to dejure: k_serazja
+289 - Holder (1008359) has gained d_wanulei
+289 - Holder (1008359) has gained c_averilia
+289 - Holder (1008359) has gained c_ababulei
+289 - Holder (1008359) has gained c_kerula
+289 - Holder (1008359) has gained c_kudikari
+289 - Holder (1008359) has gained c_tanerma
+290 - vassal: c_terulei - Title given to 1009030
+291 - Holder 1005295 - Primary title: d_tatius has lost the title: d_wanulei
+306 - Gained vassal: c_kudikari
+306 - Gained vassal: c_kudikari
+306 - vassal: c_kudikari - Given to neighbour holder of k_danatpal
+306 - Gained vassal: c_tanerma
+306 - Gained vassal: c_tanerma
+306 - vassal: c_tanerma - Given to neighbour holder of k_danatpal
+307 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+307 - Lost vassal: c_tanerma
+307 - Gained vassal: c_tanerma
+307 - Gained vassal: c_tanerma
+307 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+307 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+307 - Lost vassal: c_kudikari
+307 - Gained vassal: c_kudikari
+307 - Gained vassal: c_kudikari
+307 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+308 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+308 - Lost vassal: c_tanerma
+308 - Gained vassal: c_tanerma
+308 - Gained vassal: c_tanerma
+308 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+308 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+308 - Lost vassal: c_kudikari
+308 - Gained vassal: c_kudikari
+308 - Gained vassal: c_kudikari
+308 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+309 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+309 - Lost vassal: c_tanerma
+309 - Gained vassal: c_tanerma
+309 - Gained vassal: c_tanerma
+309 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+309 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+309 - Lost vassal: c_kudikari
+309 - Gained vassal: c_kudikari
+309 - Gained vassal: c_kudikari
+309 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+310 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+310 - Lost vassal: c_tanerma
+310 - Gained vassal: c_tanerma
+310 - Gained vassal: c_tanerma
+310 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+310 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+310 - Lost vassal: c_kudikari
+310 - Gained vassal: c_kudikari
+310 - Gained vassal: c_kudikari
+310 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+311 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+311 - Lost vassal: c_tanerma
+311 - Gained vassal: c_tanerma
+311 - Gained vassal: c_tanerma
+311 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+311 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+311 - Lost vassal: c_kudikari
+311 - Gained vassal: c_kudikari
+311 - Gained vassal: c_kudikari
+311 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+312 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+312 - Lost vassal: c_tanerma
+312 - Gained vassal: c_tanerma
+312 - Gained vassal: c_tanerma
+312 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+312 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+312 - Lost vassal: c_kudikari
+312 - Gained vassal: c_kudikari
+312 - Gained vassal: c_kudikari
+312 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+313 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+313 - Lost vassal: c_tanerma
+313 - Gained vassal: c_tanerma
+313 - Gained vassal: c_tanerma
+313 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+313 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+313 - Lost vassal: c_kudikari
+313 - Gained vassal: c_kudikari
+313 - Gained vassal: c_kudikari
+313 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+314 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+314 - Lost vassal: c_tanerma
+314 - Gained vassal: c_tanerma
+314 - Gained vassal: c_tanerma
+314 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+314 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+314 - Lost vassal: c_kudikari
+314 - Gained vassal: c_kudikari
+314 - Gained vassal: c_kudikari
+314 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+315 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+315 - Lost vassal: c_tanerma
+315 - Gained vassal: c_tanerma
+315 - Gained vassal: c_tanerma
+315 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+315 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+315 - Lost vassal: c_kudikari
+315 - Gained vassal: c_kudikari
+315 - Gained vassal: c_kudikari
+315 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+316 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+316 - Lost vassal: c_tanerma
+316 - Gained vassal: c_tanerma
+316 - Gained vassal: c_tanerma
+316 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+316 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+316 - Lost vassal: c_kudikari
+316 - Gained vassal: c_kudikari
+316 - Gained vassal: c_kudikari
+316 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+317 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+317 - Lost vassal: c_tanerma
+317 - Gained vassal: c_tanerma
+317 - Gained vassal: c_tanerma
+317 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+317 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+317 - Lost vassal: c_kudikari
+317 - Gained vassal: c_kudikari
+317 - Gained vassal: c_kudikari
+317 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+318 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+318 - Lost vassal: c_tanerma
+318 - Gained vassal: c_tanerma
+318 - Gained vassal: c_tanerma
+318 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+318 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+318 - Lost vassal: c_kudikari
+318 - Gained vassal: c_kudikari
+318 - Gained vassal: c_kudikari
+318 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+319 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+319 - Lost vassal: c_tanerma
+319 - Gained vassal: c_tanerma
+319 - Gained vassal: c_tanerma
+319 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+319 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+319 - Lost vassal: c_kudikari
+319 - Gained vassal: c_kudikari
+319 - Gained vassal: c_kudikari
+319 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+320 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+320 - Lost vassal: c_kudikari
+320 - Gained vassal: c_kudikari
+320 - Gained vassal: c_kudikari
+320 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+320 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+320 - Lost vassal: c_tanerma
+320 - Gained vassal: c_tanerma
+320 - Gained vassal: c_tanerma
+320 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+321 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+321 - Lost vassal: c_kudikari
+321 - Gained vassal: c_kudikari
+321 - Gained vassal: c_kudikari
+321 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+321 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+321 - Lost vassal: c_tanerma
+321 - Gained vassal: c_tanerma
+321 - Gained vassal: c_tanerma
+321 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+322 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+322 - Lost vassal: c_kudikari
+322 - Gained vassal: c_kudikari
+322 - Gained vassal: c_kudikari
+322 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+322 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+322 - Lost vassal: c_tanerma
+322 - Gained vassal: c_tanerma
+322 - Gained vassal: c_tanerma
+322 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+323 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+323 - Lost vassal: c_kudikari
+323 - Gained vassal: c_kudikari
+323 - Gained vassal: c_kudikari
+323 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+323 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+323 - Lost vassal: c_tanerma
+323 - Gained vassal: c_tanerma
+323 - Gained vassal: c_tanerma
+323 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+324 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+324 - Lost vassal: c_kudikari
+324 - Gained vassal: c_kudikari
+324 - Gained vassal: c_kudikari
+324 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+324 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+324 - Lost vassal: c_tanerma
+324 - Gained vassal: c_tanerma
+324 - Gained vassal: c_tanerma
+324 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+325 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+325 - Lost vassal: c_kudikari
+325 - Gained vassal: c_kudikari
+325 - Gained vassal: c_kudikari
+325 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+325 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+325 - Lost vassal: c_tanerma
+325 - Gained vassal: c_tanerma
+325 - Gained vassal: c_tanerma
+325 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+326 - Holder 1008643 - Primary title: d_tatius has lost the title: d_tatius
+326 - Title given to 1008643
+326 - vassal: c_kudikari - Setting to vassal of d_kanegh in Validate Realm
+326 - Lost vassal: c_kudikari
+326 - vassal: c_tanerma - Setting to vassal of d_kanegh in Validate Realm
+326 - Lost vassal: c_tanerma
+326 - Holder (1008643) has gained d_kanegh
+326 - Holder (1008643) has gained c_averilia
+326 - Holder (1008643) has gained c_ababulei
+326 - Holder (1008643) has gained c_kerula
+326 - Holder (1008643) has gained c_kudikari
+326 - Holder (1008643) has gained c_tanerma
+326 - Gained vassal: c_kudikari
+326 - Gained vassal: c_kudikari
+326 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+326 - Gained vassal: c_tanerma
+326 - Gained vassal: c_tanerma
+326 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+327 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+327 - Lost vassal: c_kudikari
+327 - Gained vassal: c_kudikari
+327 - Gained vassal: c_kudikari
+327 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+327 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+327 - Lost vassal: c_tanerma
+327 - Gained vassal: c_tanerma
+327 - Gained vassal: c_tanerma
+327 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+328 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+328 - Lost vassal: c_kudikari
+328 - Gained vassal: c_kudikari
+328 - Gained vassal: c_kudikari
+328 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+328 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+328 - Lost vassal: c_tanerma
+328 - Gained vassal: c_tanerma
+328 - Gained vassal: c_tanerma
+328 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+329 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+329 - Lost vassal: c_kudikari
+329 - Gained vassal: c_kudikari
+329 - Gained vassal: c_kudikari
+329 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+329 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+329 - Lost vassal: c_tanerma
+329 - Gained vassal: c_tanerma
+329 - Gained vassal: c_tanerma
+329 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+330 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+330 - Lost vassal: c_kudikari
+330 - Gained vassal: c_kudikari
+330 - Gained vassal: c_kudikari
+330 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+330 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+330 - Lost vassal: c_tanerma
+330 - Gained vassal: c_tanerma
+330 - Gained vassal: c_tanerma
+330 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+331 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+331 - Lost vassal: c_kudikari
+331 - Gained vassal: c_kudikari
+331 - Gained vassal: c_kudikari
+331 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+331 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+331 - Lost vassal: c_tanerma
+331 - Gained vassal: c_tanerma
+331 - Gained vassal: c_tanerma
+331 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+332 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+332 - Lost vassal: c_kudikari
+332 - Gained vassal: c_kudikari
+332 - Gained vassal: c_kudikari
+332 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+332 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+332 - Lost vassal: c_tanerma
+332 - Gained vassal: c_tanerma
+332 - Gained vassal: c_tanerma
+332 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+333 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+333 - Lost vassal: c_kudikari
+333 - Gained vassal: c_kudikari
+333 - Gained vassal: c_kudikari
+333 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+333 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+333 - Lost vassal: c_tanerma
+333 - Gained vassal: c_tanerma
+333 - Gained vassal: c_tanerma
+333 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+334 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+334 - Lost vassal: c_kudikari
+334 - Gained vassal: c_kudikari
+334 - Gained vassal: c_kudikari
+334 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+334 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+334 - Lost vassal: c_tanerma
+334 - Gained vassal: c_tanerma
+334 - Gained vassal: c_tanerma
+334 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+335 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+335 - Lost vassal: c_kudikari
+335 - Gained vassal: c_kudikari
+335 - Gained vassal: c_kudikari
+335 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+335 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+335 - Lost vassal: c_tanerma
+335 - Gained vassal: c_tanerma
+335 - Gained vassal: c_tanerma
+335 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+336 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+336 - Lost vassal: c_kudikari
+336 - Gained vassal: c_kudikari
+336 - Gained vassal: c_kudikari
+336 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+336 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+336 - Lost vassal: c_tanerma
+336 - Gained vassal: c_tanerma
+336 - Gained vassal: c_tanerma
+336 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+337 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+337 - Lost vassal: c_kudikari
+337 - Gained vassal: c_kudikari
+337 - Gained vassal: c_kudikari
+337 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+337 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+337 - Lost vassal: c_tanerma
+337 - Gained vassal: c_tanerma
+337 - Gained vassal: c_tanerma
+337 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+338 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+338 - Lost vassal: c_kudikari
+338 - Gained vassal: c_kudikari
+338 - Gained vassal: c_kudikari
+338 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+338 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+338 - Lost vassal: c_tanerma
+338 - Gained vassal: c_tanerma
+338 - Gained vassal: c_tanerma
+338 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+339 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+339 - Lost vassal: c_kudikari
+339 - Gained vassal: c_kudikari
+339 - Gained vassal: c_kudikari
+339 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+339 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+339 - Lost vassal: c_tanerma
+339 - Gained vassal: c_tanerma
+339 - Gained vassal: c_tanerma
+339 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+340 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+340 - Lost vassal: c_tanerma
+340 - Gained vassal: c_tanerma
+340 - Gained vassal: c_tanerma
+340 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+340 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+340 - Lost vassal: c_kudikari
+340 - Gained vassal: c_kudikari
+340 - Gained vassal: c_kudikari
+340 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+341 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+341 - Lost vassal: c_tanerma
+341 - Gained vassal: c_tanerma
+341 - Gained vassal: c_tanerma
+341 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+341 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+341 - Lost vassal: c_kudikari
+341 - Gained vassal: c_kudikari
+341 - Gained vassal: c_kudikari
+341 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+342 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to being a seperate island
+342 - Lost vassal: c_tanerma
+342 - Gained vassal: c_tanerma
+342 - Gained vassal: c_tanerma
+342 - vassal: c_tanerma - Given to neighbour holder of k_ratpal
+342 - vassal: c_kudikari - Made vassal of neighbour (k_ratpal) due to being a seperate island
+342 - Lost vassal: c_kudikari
+342 - Gained vassal: c_kudikari
+342 - Gained vassal: c_kudikari
+342 - vassal: c_kudikari - Given to neighbour holder of k_ratpal
+343 - vassal: c_tanerma - Made vassal of neighbour (k_ratpal) due to 

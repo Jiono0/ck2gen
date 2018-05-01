@@ -1,0 +1,61 @@
+200 - Title given to 1000457
+200 - vassal: c_kuisils - Holder 1000457 - Primary title: c_kuisils has lost the title: c_kuisils
+200 - sub vassal: c_kuisils - Holder 1000457 - Primary title: c_kuisils has lost the title: c_kuisils
+200 - vassal: c_kuisils - Title given to 1000457 - Primary title: d_ranoke
+200 - sub vassal: c_kuisils - Title given to 1000457 - Primary title: d_ranoke
+200 - Holder (1000457) has gained c_kuisils
+200 - vassal: c_suisaha - Holder 1000457 - Primary title: c_suisaha has lost the title: c_suisaha
+200 - sub vassal: c_suisaha - Holder 1000457 - Primary title: c_suisaha has lost the title: c_suisaha
+200 - vassal: c_suisaha - Title given to 1000457 - Primary title: d_ranoke
+200 - sub vassal: c_suisaha - Title given to 1000457 - Primary title: d_ranoke
+200 - Holder (1000457) has gained c_suisaha
+200 - vassal: c_akirena - Title given to 1000457 - Primary title: d_ranoke
+200 - Holder (1000457) has gained c_akirena
+217 - Made vassal of neighbour (k_nuel) due to being a seperate island
+217 - Given to neighbour holder of k_nuel
+217 - Holder 1000254 - Primary title: d_ranoke has lost the title: d_ranoke
+217 - Title given to 1000254 - Primary title: k_nuel
+218 - vassal: c_suisaha - Given to 1003617 in HandleTitles - Too many duke titles
+218 - vassal: c_akirena - Holder 1003617 - Primary title: c_akirena has lost the title: c_suisaha
+218 - vassal: c_suisaha - Title given to 1003617
+218 - Title given to 1003617 - Primary title: c_suisaha
+218 - vassal: c_suisaha - Holder (1003617) has gained d_ranoke
+218 - Too many dukes, made direct title into vassal of k_nuel
+243 - Holder 1000254 - Primary title: d_ranoke has lost the title: d_ranoke
+243 - Title given to 1000254 - Primary title: k_nuel
+243 - vassal: c_suisaha - Holder 1000254 - Primary title: c_suisaha has lost the title: c_suisaha
+243 - vassal: c_suisaha - Title given to 1000254 - Primary title: k_nuel
+243 - vassal: c_suisaha - Given to 1005525 in HandleTitles - Too many duke titles
+243 - vassal: c_suisaha - Title given to 1005525
+243 - Title given to 1005525 - Primary title: c_suisaha
+243 - vassal: c_suisaha - Holder (1005525) has gained d_ranoke
+243 - Too many dukes, made direct title into vassal of k_nuel
+247 - Made vassal of neighbour (k_woysam) due to being a seperate island
+247 - Given to neighbour holder of k_woysam
+247 - Holder 1000408 - Primary title: d_ranoke has lost the title: d_ranoke
+247 - Title given to 1000408 - Primary title: k_woysam
+247 - vassal: c_suisaha - Given to 1005830 in HandleTitles - Too many duke titles
+247 - vassal: c_suisaha - Holder 1005830 - Primary title: c_suisaha has lost the title: c_suisaha
+247 - vassal: c_suisaha - Title given to 1005830
+247 - Title given to 1005830 - Primary title: c_suisaha
+247 - vassal: c_suisaha - Holder (1005830) has gained d_ranoke
+247 - Too many dukes, made direct title into vassal of k_woysam
+258 - Holder 1006645 - Primary title: d_ranoke has lost the title: d_ranoke
+258 - Title given to 1006645
+258 - vassal: c_suisaha - Holder 1006645 - Primary title: c_suisaha has lost the title: c_suisaha
+258 - vassal: c_suisaha - Title given to 1006645 - Primary title: d_ranoke
+258 - Holder (1006645) has gained c_suisaha
+267 - Holder 1005206 - Primary title: d_ranoke has lost the title: d_ranoke
+267 - Title given to 1005206 - Primary title: d_kerjn
+267 - vassal: c_suisaha - Holder 1005206 - Primary title: c_suisaha has lost the title: c_suisaha
+267 - vassal: c_suisaha - Title given to 1005206 - Primary title: d_kerjn
+268 - Holder 1007448 - Primary title: d_ranoke has lost the title: c_kahoukh
+268 - Holder 1005831 - Primary title: d_ranoke has lost the title: d_etzerjn
+275 - Holder 1005972 - Primary title: d_ranoke has lost the title: d_kerjn
+275 - Gained vassal: c_kyaa
+275 - Gained vassal: c_wisatay
+275 - Gained vassal: c_bintou
+275 - Gained vassal: c_kerjn
+275 - Holder 1005972 - Primary title: d_ranoke has lost the title: c_kerjn
+275 - vassal: c_kerjn - Title given to 1005972 - Primary title: d_kerjn
+275 - vassal: c_kerjn - Setting to vassal of d_ker

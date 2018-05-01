@@ -1,0 +1,532 @@
+200 - Title given to 1001568
+200 - vassal: d_rurar - Holder 1001568 - Primary title: d_rurar has lost the title: c_kyavage
+200 - sub vassal: d_rurar - Holder 1001568 - Primary title: d_rurar has lost the title: c_kyavage
+200 - sub vassal: c_kyavage - Title given to 1001568 - Primary title: k_dyie
+200 - Holder (1001568) has gained c_kyavage
+216 - Holder 1000860 - Primary title: k_dyie has lost the title: k_dyie
+216 - Title given to 1000860 - Primary title: d_rurar
+216 - vassal: d_rurar - Holder (1000860) has gained k_dyie
+216 - sub vassal: d_rurar - Holder (1000860) has gained k_dyie
+216 - sub vassal: c_kyavage - Holder 1000860 - Primary title: c_kyavage has lost the title: c_kyavage
+216 - sub vassal: c_kyavage - Title given to 1000860 - Primary title: k_dyie
+216 - Holder (1000860) has gained c_kyavage
+236 - vassal: d_keinar - Holder 1000860 - Primary title: d_keinar has lost the title: d_keinar
+236 - sub vassal: d_keinar - Holder 1000860 - Primary title: d_keinar has lost the title: d_keinar
+236 - vassal: d_keinar - Title given to 1000860 - Primary title: k_dyie
+236 - sub vassal: d_keinar - Title given to 1000860 - Primary title: k_dyie
+236 - Holder (1000860) has gained d_keinar
+236 - sub vassal: c_anenoo - Holder 1000860 - Primary title: c_anenoo has lost the title: c_anenoo
+236 - sub vassal: c_anenoo - Title given to 1000860 - Primary title: k_dyie
+236 - Holder (1000860) has gained c_anenoo
+236 - sub vassal: c_ecenond - Holder 1000860 - Primary title: c_ecenond has lost the title: c_ecenond
+236 - sub vassal: c_ecenond - Title given to 1000860 - Primary title: k_dyie
+236 - Holder (1000860) has gained c_ecenond
+236 - sub vassal: c_sagage - Holder 1000860 - Primary title: c_sagage has lost the title: c_sagage
+236 - sub vassal: c_sagage - Title given to 1000860 - Primary title: k_dyie
+236 - Holder (1000860) has gained c_sagage
+236 - Holder 1005398 - Primary title: k_dyie has lost the title: c_sagage
+236 - sub vassal: c_sagage - Title given to 1005398
+236 - Holder 1002515 - Primary title: k_dyie has lost the title: k_dyie
+236 - Title given to 1002515 - Primary title: c_dagily
+236 - sub vassal: c_dagily - Setting to vassal of k_dyie in Validate Realm
+236 - Gained vassal: c_dagily
+236 - vassal: d_rurar - Holder 1002515 - Primary title: d_rurar has lost the title: d_rurar
+236 - sub vassal: d_rurar - Holder 1002515 - Primary title: d_rurar has lost the title: d_rurar
+236 - vassal: d_rurar - Title given to 1002515 - Primary title: k_dyie
+236 - sub vassal: d_rurar - Title given to 1002515 - Primary title: k_dyie
+236 - Holder (1002515) has gained d_rurar
+236 - sub vassal: c_kyavage - Setting to vassal of d_keinar in Validate Realm
+236 - vassal: d_rurar - Lost vassal: c_kyavage
+236 - sub vassal: d_rurar - Lost vassal: c_kyavage
+236 - sub vassal: c_etolege - Setting to vassal of d_keinar in Validate Realm
+236 - vassal: d_rurar - Lost vassal: c_etolege
+236 - sub vassal: d_rurar - Lost vassal: c_etolege
+236 - sub vassal: c_kutirek - Setting to vassal of d_keinar in Validate Realm
+236 - vassal: d_rurar - Lost vassal: c_kutirek
+236 - sub vassal: d_rurar - Lost vassal: c_kutirek
+236 - vassal: d_keinar - Gained vassal: c_kutirek
+236 - sub vassal: d_keinar - Gained vassal: c_kutirek
+236 - vassal: d_keinar - Gained vassal: c_etolege
+236 - sub vassal: d_keinar - Gained vassal: c_etolege
+236 - vassal: d_keinar - Gained vassal: c_kyavage
+236 - sub vassal: d_keinar - Gained vassal: c_kyavage
+236 - vassal: d_keinar - Holder 1002515 - Primary title: d_keinar has lost the title: c_kyavage
+236 - sub vassal: d_keinar - Holder 1002515 - Primary title: d_keinar has lost the title: c_kyavage
+236 - sub vassal: c_kyavage - Title given to 1002515 - Primary title: k_dyie
+236 - Holder (1002515) has gained c_kyavage
+236 - sub vassal: c_kyavage - Setting to vassal of k_dyie in Validate Realm
+236 - vassal: d_keinar - Lost vassal: c_kyavage
+236 - sub vassal: d_keinar - Lost vassal: c_kyavage
+236 - Gained vassal: c_kyavage
+236 - vassal: d_keinar - Holder 1002515 - Primary title: d_keinar has lost the title: c_etolege
+236 - sub vassal: d_keinar - Holder 1002515 - Primary title: d_keinar has lost the title: c_etolege
+236 - sub vassal: c_etolege - Title given to 1002515 - Primary title: k_dyie
+236 - Holder (1002515) has gained c_etolege
+236 - sub vassal: c_etolege - Setting to vassal of k_dyie in Validate Realm
+236 - vassal: d_keinar - Lost vassal: c_etolege
+236 - sub vassal: d_keinar - Lost vassal: c_etolege
+236 - Gained vassal: c_etolege
+236 - vassal: d_keinar - Holder 1002515 - Primary title: d_keinar has lost the title: c_kutirek
+236 - sub vassal: d_keinar - Holder 1002515 - Primary title: d_keinar has lost the title: c_kutirek
+236 - sub vassal: c_kutirek - Title given to 1002515 - Primary title: k_dyie
+236 - Holder (1002515) has gained c_kutirek
+236 - sub vassal: c_kutirek - Setting to vassal of k_dyie in Validate Realm
+236 - vassal: d_keinar - Lost vassal: c_kutirek
+236 - sub vassal: d_keinar - Lost vassal: c_kutirek
+236 - Gained vassal: c_kutirek
+236 - vassal: d_keinar - Holder 1002515 - Primary title: d_keinar has lost the title: d_keinar
+236 - sub vassal: d_keinar - Holder 1002515 - Primary title: d_keinar has lost the title: d_keinar
+236 - vassal: d_keinar - Title given to 1002515 - Primary title: k_dyie
+236 - sub vassal: d_keinar - Title given to 1002515 - Primary title: k_dyie
+236 - Holder (1002515) has gained d_keinar
+236 - sub vassal: c_anenoo - Holder 1002515 - Primary title: c_anenoo has lost the title: c_anenoo
+236 - sub vassal: c_anenoo - Title given to 1002515 - Primary title: k_dyie
+236 - Holder (1002515) has gained c_anenoo
+236 - sub vassal: c_ecenond - Holder 1002515 - Primary title: c_ecenond has lost the title: c_ecenond
+236 - sub vassal: c_ecenond - Title given to 1002515 - Primary title: k_dyie
+236 - Holder (1002515) has gained c_ecenond
+237 - vassal: d_rurar - Destroyed due to flagged problem
+237 - sub vassal: d_rurar - Destroyed due to flagged problem
+237 - vassal: d_rurar - Made independent
+237 - sub vassal: d_rurar - Made independent
+237 - Holder 1005480 - Primary title: k_dyie has lost the title: c_ecenond
+237 - sub vassal: c_ecenond - Title given to 1005480
+238 - vassal: d_esamind - Holder 1002868 - Primary title: d_esamind has lost the title: d_esamind
+238 - sub vassal: d_esamind - Holder 1002868 - Primary title: d_esamind has lost the title: d_esamind
+238 - vassal: d_esamind - Title given to 1002868
+238 - sub vassal: d_esamind - Title given to 1002868
+238 - sub vassal: c_syae - Holder 1002868 - Primary title: c_syae has lost the title: c_syae
+238 - sub vassal: c_syae - Title given to 1002868 - Primary title: d_esamind
+238 - vassal: d_esamind - Holder (1002868) has gained c_syae
+238 - sub vassal: d_esamind - Holder (1002868) has gained c_syae
+238 - sub vassal: c_rorage - Holder 1002868 - Primary title: c_rorage has lost the title: c_rorage
+238 - sub vassal: c_rorage - Title given to 1002868 - Primary title: d_esamind
+238 - vassal: d_esamind - Holder (1002868) has gained c_rorage
+238 - sub vassal: d_esamind - Holder (1002868) has gained c_rorage
+238 - sub vassal: c_kagond - Holder 1002868 - Primary title: c_kagond has lost the title: c_kagond
+238 - sub vassal: c_kagond - Title given to 1002868 - Primary title: d_esamind
+238 - vassal: d_esamind - Holder (1002868) has gained c_kagond
+238 - sub vassal: d_esamind - Holder (1002868) has gained c_kagond
+263 - Gained vassal: d_dutisey
+263 - vassal: d_dutisey - Given to neighbour holder of k_dyie
+263 - sub vassal: d_dutisey - Given to neighbour holder of k_dyie
+263 - vassal: d_dutisey - Holder 1002515 - Primary title: d_dutisey has lost the title: d_dutisey
+263 - sub vassal: d_dutisey - Holder 1002515 - Primary title: d_dutisey has lost the title: d_dutisey
+263 - vassal: d_dutisey - Title given to 1002515 - Primary title: k_dyie
+263 - sub vassal: d_dutisey - Title given to 1002515 - Primary title: k_dyie
+263 - Holder (1002515) has gained d_dutisey
+264 - Gained vassal: c_rodind
+264 - vassal: c_rodind - Given to neighbour holder of k_dyie
+264 - sub vassal: c_rodind - Given to neighbour holder of k_dyie
+264 - vassal: c_rodind - Holder 1002515 - Primary title: c_rodind has lost the title: c_rodind
+264 - sub vassal: c_rodind - Holder 1002515 - Primary title: c_rodind has lost the title: c_rodind
+264 - vassal: c_rodind - Title given to 1002515 - Primary title: k_dyie
+264 - sub vassal: c_rodind - Title given to 1002515 - Primary title: k_dyie
+264 - Holder (1002515) has gained c_rodind
+264 - Holder 1007795 - Primary title: k_dyie has lost the title: c_anenoo
+264 - sub vassal: c_anenoo - Title given to 1007795
+264 - Holder 1006920 - Primary title: k_dyie has lost the title: k_dyie
+264 - Title given to 1006920
+264 - vassal: d_keinar - Holder 1006920 - Primary title: d_keinar has lost the title: d_keinar
+264 - sub vassal: d_keinar - Holder 1006920 - Primary title: d_keinar has lost the title: d_keinar
+264 - vassal: d_keinar - Title given to 1006920 - Primary title: k_dyie
+264 - sub vassal: d_keinar - Title given to 1006920 - Primary title: k_dyie
+264 - Holder (1006920) has gained d_keinar
+264 - vassal: c_dagily - Setting to vassal of d_dutisey in Validate Realm
+264 - sub vassal: c_dagily - Setting to vassal of d_dutisey in Validate Realm
+264 - Lost vassal: c_dagily
+264 - vassal: c_kyavage - Setting to vassal of d_dutisey in Validate Realm
+264 - sub vassal: c_kyavage - Setting to vassal of d_dutisey in Validate Realm
+264 - Lost vassal: c_kyavage
+264 - vassal: c_etolege - Setting to vassal of d_dutisey in Validate Realm
+264 - sub vassal: c_etolege - Setting to vassal of d_dutisey in Validate Realm
+264 - Lost vassal: c_etolege
+264 - vassal: c_kutirek - Setting to vassal of d_dutisey in Validate Realm
+264 - sub vassal: c_kutirek - Setting to vassal of d_dutisey in Validate Realm
+264 - Lost vassal: c_kutirek
+264 - vassal: c_rodind - Setting to vassal of d_dutisey in Validate Realm
+264 - sub vassal: c_rodind - Setting to vassal of d_dutisey in Validate Realm
+264 - Lost vassal: c_rodind
+264 - vassal: d_dutisey - Gained vassal: c_rodind
+264 - sub vassal: d_dutisey - Gained vassal: c_rodind
+264 - vassal: d_dutisey - Gained vassal: c_kutirek
+264 - sub vassal: d_dutisey - Gained vassal: c_kutirek
+264 - vassal: d_dutisey - Gained vassal: c_etolege
+264 - sub vassal: d_dutisey - Gained vassal: c_etolege
+264 - vassal: d_dutisey - Gained vassal: c_kyavage
+264 - sub vassal: d_dutisey - Gained vassal: c_kyavage
+264 - vassal: d_dutisey - Gained vassal: c_dagily
+264 - sub vassal: d_dutisey - Gained vassal: c_dagily
+264 - vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: c_dagily
+264 - sub vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: c_dagily
+264 - sub vassal: c_dagily - Title given to 1006920 - Primary title: k_dyie
+264 - Holder (1006920) has gained c_dagily
+264 - sub vassal: c_dagily - Setting to vassal of k_dyie in Validate Realm
+264 - vassal: d_dutisey - Lost vassal: c_dagily
+264 - sub vassal: d_dutisey - Lost vassal: c_dagily
+264 - Gained vassal: c_dagily
+264 - vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: c_kyavage
+264 - sub vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: c_kyavage
+264 - sub vassal: c_kyavage - Title given to 1006920 - Primary title: k_dyie
+264 - Holder (1006920) has gained c_kyavage
+264 - sub vassal: c_kyavage - Setting to vassal of k_dyie in Validate Realm
+264 - vassal: d_dutisey - Lost vassal: c_kyavage
+264 - sub vassal: d_dutisey - Lost vassal: c_kyavage
+264 - Gained vassal: c_kyavage
+264 - vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: c_etolege
+264 - sub vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: c_etolege
+264 - sub vassal: c_etolege - Title given to 1006920 - Primary title: k_dyie
+264 - Holder (1006920) has gained c_etolege
+264 - sub vassal: c_etolege - Setting to vassal of k_dyie in Validate Realm
+264 - vassal: d_dutisey - Lost vassal: c_etolege
+264 - sub vassal: d_dutisey - Lost vassal: c_etolege
+264 - Gained vassal: c_etolege
+264 - vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: c_kutirek
+264 - sub vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: c_kutirek
+264 - sub vassal: c_kutirek - Title given to 1006920 - Primary title: k_dyie
+264 - Holder (1006920) has gained c_kutirek
+264 - sub vassal: c_kutirek - Setting to vassal of k_dyie in Validate Realm
+264 - vassal: d_dutisey - Lost vassal: c_kutirek
+264 - sub vassal: d_dutisey - Lost vassal: c_kutirek
+264 - Gained vassal: c_kutirek
+264 - vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: d_dutisey
+264 - sub vassal: d_dutisey - Holder 1006920 - Primary title: d_dutisey has lost the title: d_dutisey
+264 - vassal: d_dutisey - Title given to 1006920 - Primary title: k_dyie
+264 - sub vassal: d_dutisey - Title given to 1006920 - Primary title: k_dyie
+264 - Holder (1006920) has gained d_dutisey
+264 - sub vassal: c_rodind - Holder 1006920 - Primary title: c_rodind has lost the title: c_rodind
+264 - sub vassal: c_rodind - Title given to 1006920 - Primary title: k_dyie
+264 - Holder (1006920) has gained c_rodind
+276 - vassal: d_esamind - Holder 1005630 - Primary title: d_esamind has lost the title: d_esamind
+276 - sub vassal: d_esamind - Holder 1005630 - Primary title: d_esamind has lost the title: d_esamind
+276 - vassal: d_esamind - Title given to 1005630
+276 - sub vassal: d_esamind - Title given to 1005630
+276 - sub vassal: c_syae - Holder 1005630 - Primary title: c_syae has lost the title: c_syae
+276 - sub vassal: c_syae - Title given to 1005630 - Primary title: d_esamind
+276 - vassal: d_esamind - Holder (1005630) has gained c_syae
+276 - sub vassal: d_esamind - Holder (1005630) has gained c_syae
+276 - sub vassal: c_rorage - Holder 1005630 - Primary title: c_rorage has lost the title: c_rorage
+276 - sub vassal: c_rorage - Title given to 1005630 - Primary title: d_esamind
+276 - vassal: d_esamind - Holder (1005630) has gained c_rorage
+276 - sub vassal: d_esamind - Holder (1005630) has gained c_rorage
+276 - sub vassal: c_kagond - Holder 1005630 - Primary title: c_kagond has lost the title: c_kagond
+276 - sub vassal: c_kagond - Title given to 1005630 - Primary title: d_esamind
+276 - vassal: d_esamind - Holder (1005630) has gained c_kagond
+276 - sub vassal: d_esamind - Holder (1005630) has gained c_kagond
+284 - vassal: d_esamind - Holder 1008946 - Primary title: d_esamind has lost the title: d_esamind
+284 - sub vassal: d_esamind - Holder 1008946 - Primary title: d_esamind has lost the title: d_esamind
+284 - vassal: d_esamind - Title given to 1008946
+284 - sub vassal: d_esamind - Title given to 1008946
+284 - sub vassal: c_kagond - Holder 1008946 - Primary title: c_kagond has lost the title: c_kagond
+284 - sub vassal: c_kagond - Title given to 1008946 - Primary title: d_esamind
+284 - vassal: d_esamind - Holder (1008946) has gained c_kagond
+284 - sub vassal: d_esamind - Holder (1008946) has gained c_kagond
+284 - sub vassal: c_rorage - Holder 1008946 - Primary title: c_rorage has lost the title: c_rorage
+284 - sub vassal: c_rorage - Title given to 1008946 - Primary title: d_esamind
+284 - vassal: d_esamind - Holder (1008946) has gained c_rorage
+284 - sub vassal: d_esamind - Holder (1008946) has gained c_rorage
+284 - sub vassal: c_syae - Holder 1008946 - Primary title: c_syae has lost the title: c_syae
+284 - sub vassal: c_syae - Title given to 1008946 - Primary title: d_esamind
+284 - vassal: d_esamind - Holder (1008946) has gained c_syae
+284 - sub vassal: d_esamind - Holder (1008946) has gained c_syae
+285 - Holder 1008296 - Primary title: k_dyie has lost the title: k_dyie
+285 - Title given to 1008296
+285 - vassal: d_dutisey - Holder 1008296 - Primary title: d_dutisey has lost the title: d_dutisey
+285 - sub vassal: d_dutisey - Holder 1008296 - Primary title: d_dutisey has lost the title: d_dutisey
+285 - vassal: d_dutisey - Title given to 1008296 - Primary title: k_dyie
+285 - sub vassal: d_dutisey - Title given to 1008296 - Primary title: k_dyie
+285 - Holder (1008296) has gained d_dutisey
+285 - sub vassal: c_rodind - Setting to vassal of d_keinar in Validate Realm
+285 - vassal: d_dutisey - Lost vassal: c_rodind
+285 - sub vassal: d_dutisey - Lost vassal: c_rodind
+285 - vassal: c_kutirek - Setting to vassal of d_keinar in Validate Realm
+285 - sub vassal: c_kutirek - Setting to vassal of d_keinar in Validate Realm
+285 - Lost vassal: c_kutirek
+285 - vassal: c_etolege - Setting to vassal of d_keinar in Validate Realm
+285 - sub vassal: c_etolege - Setting to vassal of d_keinar in Validate Realm
+285 - Lost vassal: c_etolege
+285 - vassal: c_kyavage - Setting to vassal of d_keinar in Validate Realm
+285 - sub vassal: c_kyavage - Setting to vassal of d_keinar in Validate Realm
+285 - Lost vassal: c_kyavage
+285 - vassal: c_dagily - Setting to vassal of d_keinar in Validate Realm
+285 - sub vassal: c_dagily - Setting to vassal of d_keinar in Validate Realm
+285 - Lost vassal: c_dagily
+285 - vassal: d_keinar - Gained vassal: c_dagily
+285 - sub vassal: d_keinar - Gained vassal: c_dagily
+285 - vassal: d_keinar - Gained vassal: c_kyavage
+285 - sub vassal: d_keinar - Gained vassal: c_kyavage
+285 - vassal: d_keinar - Gained vassal: c_etolege
+285 - sub vassal: d_keinar - Gained vassal: c_etolege
+285 - vassal: d_keinar - Gained vassal: c_kutirek
+285 - sub vassal: d_keinar - Gained vassal: c_kutirek
+285 - vassal: d_keinar - Gained vassal: c_rodind
+285 - sub vassal: d_keinar - Gained vassal: c_rodind
+285 - vassal: d_keinar - Holder 1008296 - Primary title: d_keinar has lost the title: d_keinar
+285 - sub vassal: d_keinar - Holder 1008296 - Primary title: d_keinar has lost the title: d_keinar
+285 - vassal: d_keinar - Title given to 1008296 - Primary title: k_dyie
+285 - sub vassal: d_keinar - Title given to 1008296 - Primary title: k_dyie
+285 - Holder (1008296) has gained d_keinar
+285 - sub vassal: c_rodind - Holder 1008296 - Primary title: c_rodind has lost the title: c_rodind
+285 - sub vassal: c_rodind - Title given to 1008296 - Primary title: k_dyie
+285 - Holder (1008296) has gained c_rodind
+285 - sub vassal: c_kutirek - Holder 1008296 - Primary title: c_kutirek has lost the title: c_kutirek
+285 - sub vassal: c_kutirek - Title given to 1008296 - Primary title: k_dyie
+285 - Holder (1008296) has gained c_kutirek
+285 - sub vassal: c_etolege - Holder 1008296 - Primary title: c_etolege has lost the title: c_etolege
+285 - sub vassal: c_etolege - Title given to 1008296 - Primary title: k_dyie
+285 - Holder (1008296) has gained c_etolege
+285 - sub vassal: c_kyavage - Holder 1008296 - Primary title: c_kyavage has lost the title: c_kyavage
+285 - sub vassal: c_kyavage - Title given to 1008296 - Primary title: k_dyie
+285 - Holder (1008296) has gained c_kyavage
+285 - sub vassal: c_dagily - Holder 1008296 - Primary title: c_dagily has lost the title: c_dagily
+285 - sub vassal: c_dagily - Title given to 1008296 - Primary title: k_dyie
+285 - Holder (1008296) has gained c_dagily
+291 - vassal: d_esamind - Holder 1008296 - Primary title: d_esamind has lost the title: d_esamind
+291 - sub vassal: d_esamind - Holder 1008296 - Primary title: d_esamind has lost the title: d_esamind
+291 - vassal: d_esamind - Title given to 1008296 - Primary title: k_dyie
+291 - sub vassal: d_esamind - Title given to 1008296 - Primary title: k_dyie
+291 - Holder (1008296) has gained d_esamind
+291 - sub vassal: c_kagond - Holder 1008296 - Primary title: c_kagond has lost the title: c_kagond
+291 - sub vassal: c_kagond - Title given to 1008296 - Primary title: k_dyie
+291 - Holder (1008296) has gained c_kagond
+291 - sub vassal: c_rorage - Holder 1008296 - Primary title: c_rorage has lost the title: c_rorage
+291 - sub vassal: c_rorage - Title given to 1008296 - Primary title: k_dyie
+291 - Holder (1008296) has gained c_rorage
+291 - sub vassal: c_syae - Holder 1008296 - Primary title: c_syae has lost the title: c_syae
+291 - sub vassal: c_syae - Title given to 1008296 - Primary title: k_dyie
+291 - Holder (1008296) has gained c_syae
+291 - sub vassal: c_kagond - Given to 1010010 in HandleTitles - Too many duke titles
+291 - Holder 1010010 - Primary title: k_dyie has lost the title: c_kagond
+291 - sub vassal: c_kagond - Title given to 1010010
+291 - Holder 1010010 - Primary title: k_dyie has lost the title: d_esamind
+291 - vassal: d_esamind - Title given to 1010010 - Primary title: c_kagond
+291 - sub vassal: d_esamind - Title given to 1010010 - Primary title: c_kagond
+291 - sub vassal: c_kagond - Holder (1010010) has gained d_esamind
+291 - sub vassal: c_rorage - Setting to vassal of k_dyie in Validate Realm
+291 - vassal: d_esamind - Lost vassal: c_rorage
+291 - sub vassal: d_esamind - Lost vassal: c_rorage
+291 - sub vassal: c_syae - Setting to vassal of k_dyie in Validate Realm
+291 - vassal: d_esamind - Lost vassal: c_syae
+291 - sub vassal: d_esamind - Lost vassal: c_syae
+291 - Gained vassal: c_syae
+291 - Gained vassal: c_rorage
+291 - vassal: d_esamind - Too many dukes, given to dejure: k_dyie
+291 - sub vassal: d_esamind - Too many dukes, given to dejure: k_dyie
+291 - Holder 1010012 - Primary title: k_dyie has lost the title: c_rorage
+291 - vassal: c_rorage - Title given to 1010012
+291 - sub vassal: c_rorage - Title given to 1010012
+291 - Holder 1010014 - Primary title: k_dyie has lost the title: c_syae
+291 - vassal: c_syae - Title given to 1010014
+291 - sub vassal: c_syae - Title given to 1010014
+324 - Holder 1012695 - Primary title: k_dyie has lost the title: k_dyie
+324 - Title given to 1012695
+324 - vassal: d_dutisey - Holder 1012695 - Primary title: d_dutisey has lost the title: d_dutisey
+324 - sub vassal: d_dutisey - Holder 1012695 - Primary title: d_dutisey has lost the title: d_dutisey
+324 - vassal: d_dutisey - Title given to 1012695 - Primary title: k_dyie
+324 - sub vassal: d_dutisey - Title given to 1012695 - Primary title: k_dyie
+324 - Holder (1012695) has gained d_dutisey
+324 - vassal: d_keinar - Holder 1012695 - Primary title: d_keinar has lost the title: d_keinar
+324 - sub vassal: d_keinar - Holder 1012695 - Primary title: d_keinar has lost the title: d_keinar
+324 - vassal: d_keinar - Title given to 1012695 - Primary title: k_dyie
+324 - sub vassal: d_keinar - Title given to 1012695 - Primary title: k_dyie
+324 - Holder (1012695) has gained d_keinar
+324 - sub vassal: c_rodind - Holder 1012695 - Primary title: c_rodind has lost the title: c_rodind
+324 - sub vassal: c_rodind - Title given to 1012695 - Primary title: k_dyie
+324 - Holder (1012695) has gained c_rodind
+324 - sub vassal: c_kutirek - Holder 1012695 - Primary title: c_kutirek has lost the title: c_kutirek
+324 - sub vassal: c_kutirek - Title given to 1012695 - Primary title: k_dyie
+324 - Holder (1012695) has gained c_kutirek
+324 - sub vassal: c_etolege - Holder 1012695 - Primary title: c_etolege has lost the title: c_etolege
+324 - sub vassal: c_etolege - Title given to 1012695 - Primary title: k_dyie
+324 - Holder (1012695) has gained c_etolege
+324 - sub vassal: c_kyavage - Holder 1012695 - Primary title: c_kyavage has lost the title: c_kyavage
+324 - sub vassal: c_kyavage - Title given to 1012695 - Primary title: k_dyie
+324 - Holder (1012695) has gained c_kyavage
+324 - sub vassal: c_dagily - Holder 1012695 - Primary title: c_dagily has lost the title: c_dagily
+324 - sub vassal: c_dagily - Title given to 1012695 - Primary title: k_dyie
+324 - Holder (1012695) has gained c_dagily
+342 - vassal: d_esamind - Holder 1010218 - Primary title: d_esamind has lost the title: d_esamind
+342 - sub vassal: d_esamind - Holder 1010218 - Primary title: d_esamind has lost the title: d_esamind
+342 - vassal: d_esamind - Title given to 1010218
+342 - sub vassal: d_esamind - Title given to 1010218
+342 - sub vassal: c_kagond - Holder 1010218 - Primary title: c_kagond has lost the title: c_kagond
+342 - sub vassal: c_kagond - Title given to 1010218 - Primary title: d_esamind
+342 - vassal: d_esamind - Holder (1010218) has gained c_kagond
+342 - sub vassal: d_esamind - Holder (1010218) has gained c_kagond
+347 - vassal: d_esamind - Holder 1010012 - Primary title: d_esamind has lost the title: d_esamind
+347 - sub vassal: d_esamind - Holder 1010012 - Primary title: d_esamind has lost the title: d_esamind
+347 - vassal: d_esamind - Title given to 1010012 - Primary title: c_rorage
+347 - sub vassal: d_esamind - Title given to 1010012 - Primary title: c_rorage
+347 - vassal: c_rorage - Holder (1010012) has gained d_esamind
+347 - sub vassal: c_rorage - Holder (1010012) has gained d_esamind
+347 - vassal: c_rorage - Setting to vassal of d_esamind in Validate Realm
+347 - sub vassal: c_rorage - Setting to vassal of d_esamind in Validate Realm
+347 - Lost vassal: c_rorage
+347 - vassal: d_esamind - Gained vassal: c_rorage
+347 - sub vassal: d_esamind - Gained vassal: c_rorage
+347 - sub vassal: c_kagond - Holder 1010012 - Primary title: c_kagond has lost the title: c_kagond
+347 - sub vassal: c_kagond - Title given to 1010012 - Primary title: d_esamind
+347 - vassal: d_esamind - Holder (1010012) has gained c_kagond
+347 - sub vassal: d_esamind - Holder (1010012) has gained c_kagond
+348 - vassal: d_esamind - Holder 1012695 - Primary title: d_esamind has lost the title: d_esamind
+348 - sub vassal: d_esamind - Holder 1012695 - Primary title: d_esamind has lost the title: d_esamind
+348 - vassal: d_esamind - Title given to 1012695 - Primary title: k_dyie
+348 - sub vassal: d_esamind - Title given to 1012695 - Primary title: k_dyie
+348 - Holder (1012695) has gained d_esamind
+348 - sub vassal: c_rorage - Holder 1012695 - Primary title: c_rorage has lost the title: c_rorage
+348 - sub vassal: c_rorage - Title given to 1012695 - Primary title: k_dyie
+348 - Holder (1012695) has gained c_rorage
+348 - sub vassal: c_kagond - Holder 1012695 - Primary title: c_kagond has lost the title: c_kagond
+348 - sub vassal: c_kagond - Title given to 1012695 - Primary title: k_dyie
+348 - Holder (1012695) has gained c_kagond
+348 - sub vassal: c_anatatti - Given to 1011479 in HandleTitles - Too many duke titles
+348 - sub vassal: c_anatatti - Holder 1011479 - Primary title: c_anatatti has lost the title: c_anatatti
+348 - sub vassal: c_anatatti - Title given to 1011479
+348 - Holder 1011479 - Primary title: k_dyie has lost the title: d_dutisey
+348 - vassal: d_dutisey - Title given to 1011479 - Primary title: c_anatatti
+348 - sub vassal: d_dutisey - Title given to 1011479 - Primary title: c_anatatti
+348 - sub vassal: c_anatatti - Holder (1011479) has gained d_dutisey
+348 - vassal: d_dutisey - Too many dukes, made direct title into vassal of k_dyie
+348 - sub vassal: d_dutisey - Too many dukes, made direct title into vassal of k_dyie
+348 - Holder 1014471 - Primary title: k_dyie has lost the title: c_kagond
+348 - sub vassal: c_kagond - Title given to 1014471
+348 - Holder 1014472 - Primary title: k_dyie has lost the title: c_rorage
+348 - sub vassal: c_rorage - Title given to 1014472
+370 - Holder 1013681 - Primary title: k_dyie has lost the title: k_dyie
+370 - Title given to 1013681
+370 - vassal: d_esamind - Holder 1013681 - Primary title: d_esamind has lost the title: d_esamind
+370 - sub vassal: d_esamind - Holder 1013681 - Primary title: d_esamind has lost the title: d_esamind
+370 - vassal: d_esamind - Title given to 1013681 - Primary title: k_dyie
+370 - sub vassal: d_esamind - Title given to 1013681 - Primary title: k_dyie
+370 - Holder (1013681) has gained d_esamind
+370 - vassal: d_keinar - Holder 1013681 - Primary title: d_keinar has lost the title: d_keinar
+370 - sub vassal: d_keinar - Holder 1013681 - Primary title: d_keinar has lost the title: d_keinar
+370 - vassal: d_keinar - Title given to 1013681 - Primary title: k_dyie
+370 - sub vassal: d_keinar - Title given to 1013681 - Primary title: k_dyie
+370 - Holder (1013681) has gained d_keinar
+370 - sub vassal: c_rodind - Holder 1013681 - Primary title: c_rodind has lost the title: c_rodind
+370 - sub vassal: c_rodind - Title given to 1013681 - Primary title: k_dyie
+370 - Holder (1013681) has gained c_rodind
+370 - sub vassal: c_kutirek - Holder 1013681 - Primary title: c_kutirek has lost the title: c_kutirek
+370 - sub vassal: c_kutirek - Title given to 1013681 - Primary title: k_dyie
+370 - Holder (1013681) has gained c_kutirek
+370 - sub vassal: c_etolege - Holder 1013681 - Primary title: c_etolege has lost the title: c_etolege
+370 - sub vassal: c_etolege - Title given to 1013681 - Primary title: k_dyie
+370 - Holder (1013681) has gained c_etolege
+370 - sub vassal: c_kyavage - Holder 1013681 - Primary title: c_kyavage has lost the title: c_kyavage
+370 - sub vassal: c_kyavage - Title given to 1013681 - Primary title: k_dyie
+370 - Holder (1013681) has gained c_kyavage
+370 - sub vassal: c_dagily - Holder 1013681 - Primary title: c_dagily has lost the title: c_dagily
+370 - sub vassal: c_dagily - Title given to 1013681 - Primary title: k_dyie
+370 - Holder (1013681) has gained c_dagily
+374 - vassal: d_dutisey - Holder 1014752 - Primary title: d_dutisey has lost the title: d_dutisey
+374 - sub vassal: d_dutisey - Holder 1014752 - Primary title: d_dutisey has lost the title: d_dutisey
+374 - vassal: d_dutisey - Title given to 1014752
+374 - sub vassal: d_dutisey - Title given to 1014752
+374 - sub vassal: c_anatatti - Holder 1014752 - Primary title: c_anatatti has lost the title: c_anatatti
+374 - sub vassal: c_anatatti - Title given to 1014752 - Primary title: d_dutisey
+374 - vassal: d_dutisey - Holder (1014752) has gained c_anatatti
+374 - sub vassal: d_dutisey - Holder (1014752) has gained c_anatatti
+375 - vassal: d_dutisey - Holder 1010014 - Primary title: d_dutisey has lost the title: d_dutisey
+375 - sub vassal: d_dutisey - Holder 1010014 - Primary title: d_dutisey has lost the title: d_dutisey
+375 - vassal: d_dutisey - Title given to 1010014 - Primary title: c_syae
+375 - sub vassal: d_dutisey - Title given to 1010014 - Primary title: c_syae
+375 - vassal: c_syae - Holder (1010014) has gained d_dutisey
+375 - sub vassal: c_syae - Holder (1010014) has gained d_dutisey
+375 - vassal: c_syae - Setting to vassal of d_dutisey in Validate Realm
+375 - sub vassal: c_syae - Setting to vassal of d_dutisey in Validate Realm
+375 - Lost vassal: c_syae
+375 - vassal: d_dutisey - Gained vassal: c_syae
+375 - sub vassal: d_dutisey - Gained vassal: c_syae
+375 - sub vassal: c_anatatti - Holder 1010014 - Primary title: c_anatatti has lost the title: c_anatatti
+375 - sub vassal: c_anatatti - Title given to 1010014 - Primary title: d_dutisey
+375 - vassal: d_dutisey - Holder (1010014) has gained c_anatatti
+375 - sub vassal: d_dutisey - Holder (1010014) has gained c_anatatti
+378 - Holder 1016084 - Primary title: k_dyie has lost the title: k_dyie
+378 - Title given to 1016084
+378 - vassal: d_esamind - Holder 1016084 - Primary title: d_esamind has lost the title: d_esamind
+378 - sub vassal: d_esamind - Holder 1016084 - Primary title: d_esamind has lost the title: d_esamind
+378 - vassal: d_esamind - Title given to 1016084 - Primary title: k_dyie
+378 - sub vassal: d_esamind - Title given to 1016084 - Primary title: k_dyie
+378 - Holder (1016084) has gained d_esamind
+378 - vassal: d_keinar - Holder 1016084 - Primary title: d_keinar has lost the title: d_keinar
+378 - sub vassal: d_keinar - Holder 1016084 - Primary title: d_keinar has lost the title: d_keinar
+378 - vassal: d_keinar - Title given to 1016084 - Primary title: k_dyie
+378 - sub vassal: d_keinar - Title given to 1016084 - Primary title: k_dyie
+378 - Holder (1016084) has gained d_keinar
+378 - sub vassal: c_rodind - Holder 1016084 - Primary title: c_rodind has lost the title: c_rodind
+378 - sub vassal: c_rodind - Title given to 1016084 - Primary title: k_dyie
+378 - Holder (1016084) has gained c_rodind
+378 - sub vassal: c_kutirek - Holder 1016084 - Primary title: c_kutirek has lost the title: c_kutirek
+378 - sub vassal: c_kutirek - Title given to 1016084 - Primary title: k_dyie
+378 - Holder (1016084) has gained c_kutirek
+378 - sub vassal: c_etolege - Holder 1016084 - Primary title: c_etolege has lost the title: c_etolege
+378 - sub vassal: c_etolege - Title given to 1016084 - Primary title: k_dyie
+378 - Holder (1016084) has gained c_etolege
+378 - sub vassal: c_kyavage - Holder 1016084 - Primary title: c_kyavage has lost the title: c_kyavage
+378 - sub vassal: c_kyavage - Title given to 1016084 - Primary title: k_dyie
+378 - Holder (1016084) has gained c_kyavage
+378 - sub vassal: c_dagily - Holder 1016084 - Primary title: c_dagily has lost the title: c_dagily
+378 - sub vassal: c_dagily - Title given to 1016084 - Primary title: k_dyie
+378 - Holder (1016084) has gained c_dagily
+386 - vassal: d_dutisey - Holder 1017134 - Primary title: d_dutisey has lost the title: d_dutisey
+386 - sub vassal: d_dutisey - Holder 1017134 - Primary title: d_dutisey has lost the title: d_dutisey
+386 - vassal: d_dutisey - Title given to 1017134
+386 - sub vassal: d_dutisey - Title given to 1017134
+386 - sub vassal: c_anatatti - Holder 1017134 - Primary title: c_anatatti has lost the title: c_anatatti
+386 - sub vassal: c_anatatti - Title given to 1017134 - Primary title: d_dutisey
+386 - vassal: d_dutisey - Holder (1017134) has gained c_anatatti
+386 - sub vassal: d_dutisey - Holder (1017134) has gained c_anatatti
+386 - sub vassal: c_syae - Holder 1017134 - Primary title: c_syae has lost the title: c_syae
+386 - sub vassal: c_syae - Title given to 1017134 - Primary title: d_dutisey
+386 - vassal: d_dutisey - Holder (1017134) has gained c_syae
+386 - sub vassal: d_dutisey - Holder (1017134) has gained c_syae
+393 - sub vassal: c_syod - Setting independent in Validate Realm
+393 - sub vassal: c_syod - Made independent
+393 - sub vassal: c_banimon - Setting independent in Validate Realm
+393 - sub vassal: c_banimon - Made independent
+393 - sub vassal: c_qeyyuna - Setting independent in Validate Realm
+393 - sub vassal: c_qeyyuna - Made independent
+393 - sub vassal: c_norond - Setting independent in Validate Realm
+393 - sub vassal: c_norond - Made independent
+393 - Gained vassal: c_enily
+393 - vassal: c_enily - Given to neighbour holder of k_dyie
+393 - sub vassal: c_enily - Given to neighbour holder of k_dyie
+393 - vassal: c_enily - Holder 1016084 - Primary title: c_enily has lost the title: c_enily
+393 - sub vassal: c_enily - Holder 1016084 - Primary title: c_enily has lost the title: c_enily
+393 - vassal: c_enily - Title given to 1016084 - Primary title: k_dyie
+393 - sub vassal: c_enily - Title given to 1016084 - Primary title: k_dyie
+393 - Holder (1016084) has gained c_enily
+393 - Holder 1017647 - Primary title: k_dyie has lost the title: c_enily
+393 - vassal: c_enily - Title given to 1017647
+393 - sub vassal: c_enily - Title given to 1017647
+393 - vassal: c_enily - Made vassal of neighbour (k_kaeloos) due to being a seperate island
+393 - sub vassal: c_enily - Made vassal of neighbour (k_kaeloos) due to being a seperate island
+393 - Lost vassal: c_enily
+394 - Holder (1016084) has gained c_banimon
+394 - Holder (1016084) has gained c_qeyyuna
+394 - Holder (1016084) has gained c_norond
+394 - Holder 1017715 - Primary title: k_dyie has lost the title: c_norond
+394 - Gained vassal: c_norond
+394 - Holder 1017716 - Primary title: k_dyie has lost the title: c_qeyyuna
+394 - Gained vassal: c_qeyyuna
+394 - Holder 1017717 - Primary title: k_dyie has lost the title: c_banimon
+394 - Gained vassal: c_banimon
+394 - vassal: c_banimon - Made vassal of neighbour (k_kaeloos) due to being a seperate island
+394 - sub vassal: c_banimon - Made vassal of neighbour (k_kaeloos) due to being a seperate island
+394 - Lost vassal: c_banimon
+394 - vassal: c_qeyyuna - Made vassal of neighbour (k_kaeloos) due to being a seperate island
+394 - sub vassal: c_qeyyuna - Made vassal of neighbour (k_kaeloos) due to being a seperate island
+394 - Lost vassal: c_qeyyuna
+400 - sub vassal: c_sagage - Holder 1016084 - Primary title: c_sagage has lost the title: c_sagage
+400 - sub vassal: c_sagage - Title given to 1016084 - Primary title: k_dyie
+400 - Holder (1016084) has gained c_sagage
+400 - sub vassal: c_ecenond - Holder 1016084 - Primary title: c_ecenond has lost the title: c_ecenond
+400 - sub vassal: c_ecenond - Title given to 1016084 - Primary title: k_dyie
+400 - Holder (1016084) has gained c_ecenond
+400 - sub vassal: c_anenoo - Holder 1016084 - Primary title: c_anenoo has lost the title: c_anenoo
+400 - sub vassal: c_anenoo - Title given to 1016084 - Primary title: k_dyie
+400 - Holder (1016084) has gained c_anenoo
+400 - sub vassal: c_kagond - Holder 1016084 - Primary title: c_kagond has lost the title: c_kagond
+400 - sub vassal: c_kagond - Title given to 1016084 - Primary title: k_dyie
+400 - Holder (1016084) has gained c_kagond

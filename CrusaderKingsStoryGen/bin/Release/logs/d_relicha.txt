@@ -1,0 +1,108 @@
+200 - Title given to 1000498
+200 - vassal: c_kutisco - Given to 1000501 via AddCharacterForTitle
+200 - sub vassal: c_kutisco - Given to 1000501 via AddCharacterForTitle
+200 - vassal: c_kutisco - Holder 1000501 - Primary title: c_kutisco has lost the title: c_kutisco
+200 - sub vassal: c_kutisco - Holder 1000501 - Primary title: c_kutisco has lost the title: c_kutisco
+200 - vassal: c_kutisco - Title given to 1000501
+200 - sub vassal: c_kutisco - Title given to 1000501
+200 - vassal: c_syalamir - Holder 1000498 - Primary title: c_syalamir has lost the title: c_syalamir
+200 - sub vassal: c_syalamir - Holder 1000498 - Primary title: c_syalamir has lost the title: c_syalamir
+200 - vassal: c_syalamir - Title given to 1000498 - Primary title: d_relicha
+200 - sub vassal: c_syalamir - Title given to 1000498 - Primary title: d_relicha
+200 - Holder (1000498) has gained c_syalamir
+200 - vassal: c_kutisco - Holder 1000498 - Primary title: c_kutisco has lost the title: c_kutisco
+200 - sub vassal: c_kutisco - Holder 1000498 - Primary title: c_kutisco has lost the title: c_kutisco
+200 - vassal: c_kutisco - Title given to 1000498 - Primary title: d_relicha
+200 - sub vassal: c_kutisco - Title given to 1000498 - Primary title: d_relicha
+200 - Holder (1000498) has gained c_kutisco
+200 - vassal: c_sutudia - Holder 1000498 - Primary title: c_sutudia has lost the title: c_sutudia
+200 - sub vassal: c_sutudia - Holder 1000498 - Primary title: c_sutudia has lost the title: c_sutudia
+200 - vassal: c_sutudia - Title given to 1000498 - Primary title: d_relicha
+200 - sub vassal: c_sutudia - Title given to 1000498 - Primary title: d_relicha
+200 - Holder (1000498) has gained c_sutudia
+200 - vassal: c_kisco - Holder 1000498 - Primary title: c_kisco has lost the title: c_kisco
+200 - sub vassal: c_kisco - Holder 1000498 - Primary title: c_kisco has lost the title: c_kisco
+200 - vassal: c_kisco - Title given to 1000498 - Primary title: d_relicha
+200 - sub vassal: c_kisco - Title given to 1000498 - Primary title: d_relicha
+200 - Holder (1000498) has gained c_kisco
+202 - Holder (1000498) has gained d_dacamir
+202 - Holder (1000498) has gained c_sokera
+202 - Holder (1000498) has gained c_avalisco
+202 - Holder (1000498) has gained c_lenisco
+203 - vassal: c_kisco - Title given to 1002491
+203 - vassal: c_kutisco - Title given to 1002492
+216 - Title given to 1002200
+216 - vassal: c_sutudia - Setting to vassal of d_dacamir in Validate Realm
+216 - Lost vassal: c_sutudia
+216 - vassal: c_syalamir - Setting to vassal of d_dacamir in Validate Realm
+216 - Lost vassal: c_syalamir
+216 - Holder (1002200) has gained c_sutudia
+216 - Gained vassal: c_sutudia
+216 - Holder (1002200) has gained c_syalamir
+216 - Gained vassal: c_syalamir
+216 - Holder (1002200) has gained d_dacamir
+216 - Holder (1002200) has gained c_sokera
+216 - Holder (1002200) has gained c_avalisco
+216 - Holder (1002200) has gained c_lenisco
+256 - Holder 1004131 - Primary title: d_relicha has lost the title: d_relicha
+256 - Title given to 1004131
+256 - vassal: c_syalamir - Setting to vassal of d_dacamir in Validate Realm
+256 - Lost vassal: c_syalamir
+256 - vassal: c_sutudia - Setting to vassal of d_dacamir in Validate Realm
+256 - Lost vassal: c_sutudia
+256 - Holder (1004131) has gained d_dacamir
+256 - Holder (1004131) has gained c_lenisco
+256 - Holder (1004131) has gained c_avalisco
+256 - Holder (1004131) has gained c_sokera
+256 - Holder (1004131) has gained c_syalamir
+256 - Holder (1004131) has gained c_sutudia
+257 - vassal: c_kisco - Holder 1004131 - Primary title: c_kisco has lost the title: c_kisco
+257 - vassal: c_kisco - Title given to 1004131 - Primary title: d_relicha
+257 - Holder (1004131) has gained c_kisco
+257 - Holder 1007131 - Primary title: d_relicha has lost the title: c_syalamir
+270 - Holder 1007853 - Primary title: d_relicha has lost the title: d_relicha
+270 - Title given to 1007853
+270 - vassal: c_kisco - Setting to vassal of d_dacamir in Validate Realm
+270 - Lost vassal: c_kisco
+270 - Holder (1007853) has gained d_dacamir
+270 - Holder (1007853) has gained c_kisco
+270 - Holder (1007853) has gained c_sutudia
+270 - Holder (1007853) has gained c_sokera
+270 - Holder (1007853) has gained c_avalisco
+270 - Holder (1007853) has gained c_lenisco
+271 - vassal: c_kutisco - Holder 1007853 - Primary title: c_kutisco has lost the title: c_kutisco
+271 - vassal: c_kutisco - Title given to 1007853 - Primary title: d_relicha
+271 - Holder (1007853) has gained c_kutisco
+271 - Holder 1008346 - Primary title: d_relicha has lost the title: c_avalisco
+272 - Holder (1007853) has gained d_rokudia
+272 - Holder (1007853) has gained c_nalicha
+272 - Holder (1007853) has gained c_wohera
+272 - Holder (1007853) has gained c_dutum
+273 - vassal: c_kutisco - Title given to 1008532
+274 - Holder (1007853) has gained c_nalisco
+274 - Holder (1007853) has gained c_lacihl
+274 - Holder (1007853) has gained c_kulamir
+275 - vassal: c_kutisco - Given to 1008668 in HandleTitles - Too many duke titles
+275 - vassal: c_kutisco - Holder 1008668 - Primary title: c_kutisco has lost the title: c_kutisco
+275 - vassal: c_kutisco - Title given to 1008668
+275 - Title given to 1005657 - Primary title: k_relera
+275 - Too many dukes, made direct title into vassal of k_relera
+275 - Title given to 1008669
+284 - Holder (1008669) has gained k_relera
+285 - vassal: c_kutisco - Given to 1009514 in HandleTitles - Too many duke titles
+285 - vassal: c_kutisco - Holder 1009514 - Primary title: c_kutisco has lost the title: c_kutisco
+285 - vassal: c_kutisco - Title given to 1009514
+285 - Title given to 1009514 - Primary title: c_kutisco
+285 - vassal: c_kutisco - Holder (1009514) has gained d_relicha
+285 - Too many dukes, given to dejure: k_relera
+287 - Holder 1008669 - Primary title: d_relicha has lost the title: d_relicha
+287 - Title given to 1008669 - Primary title: k_relera
+287 - vassal: c_kutisco - Holder 1008669 - Primary title: c_kutisco has lost the title: c_kutisco
+287 - vassal: c_kutisco - Title given to 1008669 - Primary title: k_relera
+304 - Holder 1009005 - Primary title: d_relicha has lost the title: d_relicha
+304 - Title given to 1009005 - Primary title: k_relera
+304 - vassal: c_kutisco - Setting to vassal of d_tezum in Validate Realm
+304 - Lost vassal: c_kutisco
+305 - Destroyed due to flagged problem
+305 - Made independent
+305 - Title destroyed

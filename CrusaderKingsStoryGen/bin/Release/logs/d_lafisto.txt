@@ -1,0 +1,121 @@
+200 - Title given to 1001358
+200 - vassal: c_byne - Given to 1001361 via AddCharacterForTitle
+200 - sub vassal: c_byne - Given to 1001361 via AddCharacterForTitle
+200 - vassal: c_byne - Holder 1001361 - Primary title: c_byne has lost the title: c_byne
+200 - sub vassal: c_byne - Holder 1001361 - Primary title: c_byne has lost the title: c_byne
+200 - vassal: c_byne - Title given to 1001361
+200 - sub vassal: c_byne - Title given to 1001361
+200 - vassal: c_sebezda - Holder 1001358 - Primary title: c_sebezda has lost the title: c_sebezda
+200 - sub vassal: c_sebezda - Holder 1001358 - Primary title: c_sebezda has lost the title: c_sebezda
+200 - vassal: c_sebezda - Title given to 1001358 - Primary title: d_lafisto
+200 - sub vassal: c_sebezda - Title given to 1001358 - Primary title: d_lafisto
+200 - Holder (1001358) has gained c_sebezda
+200 - vassal: c_byne - Holder 1001358 - Primary title: c_byne has lost the title: c_byne
+200 - sub vassal: c_byne - Holder 1001358 - Primary title: c_byne has lost the title: c_byne
+200 - vassal: c_byne - Title given to 1001358 - Primary title: d_lafisto
+200 - sub vassal: c_byne - Title given to 1001358 - Primary title: d_lafisto
+200 - Holder (1001358) has gained c_byne
+200 - vassal: c_esopaapa - Holder 1001358 - Primary title: c_esopaapa has lost the title: c_esopaapa
+200 - sub vassal: c_esopaapa - Holder 1001358 - Primary title: c_esopaapa has lost the title: c_esopaapa
+200 - vassal: c_esopaapa - Title given to 1001358 - Primary title: d_lafisto
+200 - sub vassal: c_esopaapa - Title given to 1001358 - Primary title: d_lafisto
+200 - Holder (1001358) has gained c_esopaapa
+200 - vassal: c_robohn - Holder 1001358 - Primary title: c_robohn has lost the title: c_robohn
+200 - sub vassal: c_robohn - Holder 1001358 - Primary title: c_robohn has lost the title: c_robohn
+200 - vassal: c_robohn - Title given to 1001358 - Primary title: d_lafisto
+200 - sub vassal: c_robohn - Title given to 1001358 - Primary title: d_lafisto
+200 - Holder (1001358) has gained c_robohn
+200 - Holder 1001332 - Primary title: d_lafisto has lost the title: d_lafisto
+200 - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: c_robohn - Holder 1001332 - Primary title: c_robohn has lost the title: c_robohn
+200 - vassal: c_robohn - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: c_esopaapa - Holder 1001332 - Primary title: c_esopaapa has lost the title: c_esopaapa
+200 - vassal: c_esopaapa - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: c_byne - Holder 1001332 - Primary title: c_byne has lost the title: c_byne
+200 - vassal: c_byne - Title given to 1001332 - Primary title: d_rarin
+200 - vassal: c_sebezda - Holder 1001332 - Primary title: c_sebezda has lost the title: c_sebezda
+200 - vassal: c_sebezda - Title given to 1001332 - Primary title: d_rarin
+201 - Holder 1002247 - Primary title: d_lafisto has lost the title: c_alotoza
+201 - Holder 1002248 - Primary title: d_lafisto has lost the title: c_salaapa
+201 - Holder 1002249 - Primary title: d_lafisto has lost the title: c_nopew
+226 - Holder 1002774 - Primary title: d_lafisto has lost the title: d_lafisto
+226 - Title given to 1002774
+226 - vassal: c_sebezda - Setting to vassal of d_rarin in Validate Realm
+226 - Lost vassal: c_sebezda
+226 - vassal: c_byne - Setting to vassal of d_rarin in Validate Realm
+226 - Lost vassal: c_byne
+226 - vassal: c_esopaapa - Setting to vassal of d_rarin in Validate Realm
+226 - Lost vassal: c_esopaapa
+226 - vassal: c_robohn - Setting to vassal of d_rarin in Validate Realm
+226 - Lost vassal: c_robohn
+226 - Holder (1002774) has gained d_rarin
+226 - Holder (1002774) has gained c_sebezda
+226 - Holder (1002774) has gained c_byne
+226 - Holder (1002774) has gained c_esopaapa
+226 - Holder (1002774) has gained c_robohn
+226 - Holder (1002774) has gained c_basaufr
+227 - Destroyed due to flagged problem
+227 - Made independent
+227 - Title destroyed
+231 - Given to 1002774 in TestCreateEmpire
+231 - Title given to 1002774 - Primary title: d_rarin
+231 - Made independent for title creation d_lafisto for d_rarin
+231 - Made independent
+231 - Gained vassal: c_sebezda
+231 - Gained vassal: c_byne
+231 - Gained vassal: c_esopaapa
+231 - Gained vassal: c_robohn
+231 - Gained vassal: c_basaufr
+236 - vassal: c_byne - Given to 1005380 in HandleTitles - Too many duke titles
+236 - vassal: c_byne - Title given to 1005380
+236 - Title given to 1003218 - Primary title: k_rakenla
+236 - vassal: c_sebezda - Setting to vassal of d_safisto in Validate Realm
+236 - Lost vassal: c_sebezda
+236 - vassal: c_esopaapa - Setting to vassal of d_safisto in Validate Realm
+236 - Lost vassal: c_esopaapa
+236 - vassal: c_robohn - Setting to vassal of d_safisto in Validate Realm
+236 - Lost vassal: c_robohn
+236 - vassal: c_basaufr - Setting to vassal of d_safisto in Validate Realm
+236 - Lost vassal: c_basaufr
+236 - Too many dukes, made direct title into vassal of k_rakenla
+236 - Title given to 1005381
+251 - Holder 1005647 - Primary title: d_lafisto has lost the title: d_lafisto
+251 - Title given to 1005647
+273 - Holder (1005647) has gained k_rakenla
+306 - Holder 1007427 - Primary title: d_lafisto has lost the title: d_lafisto
+306 - Title given to 1007427 - Primary title: k_rakenla
+326 - Gained vassal: c_nopew
+326 - Gained vassal: c_salaapa
+326 - Gained vassal: c_robohn
+326 - Gained vassal: c_basaufr
+326 - Gained vassal: c_sebenla
+326 - Holder 1010834 - Primary title: d_lafisto has lost the title: d_lafisto
+326 - Title given to 1010834 - Primary title: k_rakenla
+326 - vassal: c_sebenla - Holder 1010834 - Primary title: c_sebenla has lost the title: c_sebenla
+326 - vassal: c_sebenla - Title given to 1010834 - Primary title: k_rakenla
+326 - vassal: c_basaufr - Holder 1010834 - Primary title: c_basaufr has lost the title: c_basaufr
+326 - vassal: c_basaufr - Title given to 1010834 - Primary title: k_rakenla
+326 - vassal: c_robohn - Holder 1010834 - Primary title: c_robohn has lost the title: c_robohn
+326 - vassal: c_robohn - Title given to 1010834 - Primary title: k_rakenla
+326 - vassal: c_salaapa - Holder 1010834 - Primary title: c_salaapa has lost the title: c_salaapa
+326 - vassal: c_salaapa - Title given to 1010834 - Primary title: k_rakenla
+326 - vassal: c_nopew - Holder 1010834 - Primary title: c_nopew has lost the title: c_nopew
+326 - vassal: c_nopew - Title given to 1010834 - Primary title: k_rakenla
+345 - Holder 1012988 - Primary title: d_lafisto has lost the title: d_lafisto
+345 - Title given to 1012988 - Primary title: k_rakenla
+345 - vassal: c_nopew - Setting to vassal of d_rarin in Validate Realm
+345 - Lost vassal: c_nopew
+345 - vassal: c_salaapa - Setting to vassal of d_rarin in Validate Realm
+345 - Lost vassal: c_salaapa
+345 - vassal: c_robohn - Setting to vassal of d_rarin in Validate Realm
+345 - Lost vassal: c_robohn
+345 - vassal: c_basaufr - Setting to vassal of d_rarin in Validate Realm
+345 - Lost vassal: c_basaufr
+345 - vassal: c_sebenla - Setting to vassal of d_rarin in Validate Realm
+345 - Lost vassal: c_sebenla
+391 - Holder 1016022 - Primary title: d_lafisto has lost the title: d_lafisto
+391 - Title given to 1016022 - Primary title: k_rakenla
+393 - Holder 1017653 - Primary title: d_lafisto has lost the title: d_lafisto
+393 - Title given to 1017653 - Primary title: k_rakenla
+400 - vassal: c_byne - Holder 1017653 - Primary title: c_byne has lost the title: c_byne
+400 - vassal: c_byne - Title given to 1017653 - Primary title: k_rakenla

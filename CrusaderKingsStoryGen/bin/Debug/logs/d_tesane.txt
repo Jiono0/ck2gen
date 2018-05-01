@@ -1,0 +1,58 @@
+200 - Title given to 1000525
+200 - vassal: c_kaepetse - Given to 1000528 via AddCharacterForTitle
+200 - sub vassal: c_kaepetse - Given to 1000528 via AddCharacterForTitle
+200 - vassal: c_kaepetse - Holder 1000528 - Primary title: c_kaepetse has lost the title: c_kaepetse
+200 - sub vassal: c_kaepetse - Holder 1000528 - Primary title: c_kaepetse has lost the title: c_kaepetse
+200 - vassal: c_kaepetse - Title given to 1000528
+200 - sub vassal: c_kaepetse - Title given to 1000528
+200 - vassal: c_dainba - Holder 1000525 - Primary title: c_dainba has lost the title: c_dainba
+200 - sub vassal: c_dainba - Holder 1000525 - Primary title: c_dainba has lost the title: c_dainba
+200 - vassal: c_dainba - Title given to 1000525 - Primary title: d_tesane
+200 - sub vassal: c_dainba - Title given to 1000525 - Primary title: d_tesane
+200 - Holder (1000525) has gained c_dainba
+200 - vassal: c_kaepetse - Holder 1000525 - Primary title: c_kaepetse has lost the title: c_kaepetse
+200 - sub vassal: c_kaepetse - Holder 1000525 - Primary title: c_kaepetse has lost the title: c_kaepetse
+200 - vassal: c_kaepetse - Title given to 1000525 - Primary title: d_tesane
+200 - sub vassal: c_kaepetse - Title given to 1000525 - Primary title: d_tesane
+200 - Holder (1000525) has gained c_kaepetse
+200 - vassal: c_riel - Holder 1000525 - Primary title: c_riel has lost the title: c_riel
+200 - sub vassal: c_riel - Holder 1000525 - Primary title: c_riel has lost the title: c_riel
+200 - vassal: c_riel - Title given to 1000525 - Primary title: d_tesane
+200 - sub vassal: c_riel - Title given to 1000525 - Primary title: d_tesane
+200 - Holder (1000525) has gained c_riel
+200 - vassal: c_baepomir - Holder 1000525 - Primary title: c_baepomir has lost the title: c_baepomir
+200 - sub vassal: c_baepomir - Holder 1000525 - Primary title: c_baepomir has lost the title: c_baepomir
+200 - vassal: c_baepomir - Title given to 1000525 - Primary title: d_tesane
+200 - sub vassal: c_baepomir - Title given to 1000525 - Primary title: d_tesane
+200 - Holder (1000525) has gained c_baepomir
+203 - Holder 1000558 - Primary title: d_tesane has lost the title: d_tesane
+203 - Title given to 1000558 - Primary title: d_kaepazsi
+203 - vassal: c_baepomir - Holder 1000558 - Primary title: c_baepomir has lost the title: c_baepomir
+203 - vassal: c_baepomir - Title given to 1000558 - Primary title: d_nadin
+203 - vassal: c_riel - Holder 1000558 - Primary title: c_riel has lost the title: c_riel
+203 - vassal: c_riel - Title given to 1000558 - Primary title: d_nadin
+203 - vassal: c_kaepetse - Holder 1000558 - Primary title: c_kaepetse has lost the title: c_kaepetse
+203 - vassal: c_kaepetse - Title given to 1000558 - Primary title: d_nadin
+203 - vassal: c_dainba - Holder 1000558 - Primary title: c_dainba has lost the title: c_dainba
+203 - vassal: c_dainba - Title given to 1000558 - Primary title: d_nadin
+204 - Holder 1002446 - Primary title: d_tesane has lost the title: c_byake
+204 - Holder 1001477 - Primary title: d_tesane has lost the title: d_nadin
+204 - Gained vassal: c_dib
+204 - Holder 1002448 - Primary title: d_tesane has lost the title: c_tintou
+204 - Holder 1002450 - Primary title: d_tesane has lost the title: c_rib
+204 - Holder 1002451 - Primary title: d_tesane has lost the title: c_doukh
+221 - Captured byk_evalloth in minor war
+236 - Holder (1000558) has gained d_budelen
+236 - Holder (1000558) has gained c_larazsi
+236 - Holder (1000558) has gained c_rulezs
+236 - Holder (1000558) has gained c_kititar
+237 - vassal: c_kaepetse - Title given to 1004996
+237 - vassal: c_dainba - Title given to 1004997
+237 - vassal: c_dib - Title given to 1004998
+244 - Holder (1000558) has gained k_evalloth
+245 - vassal: c_kaepetse - Given to 1005670 in HandleTitles - Too many duke titles
+245 - vassal: c_kaepetse - Holder 1005670 - Primary title: c_kaepetse has lost the title: c_kaepetse
+245 - vassal: c_kaepetse - Title given to 1005670
+245 - Title given to 1005670 - Primary title: c_kaepetse
+245 - vassal: c_kaepetse - Holder (1005670) has gained d_tesane
+245 - vassa

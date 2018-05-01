@@ -1,0 +1,76 @@
+200 - Title given to 1000883
+200 - vassal: c_rodind - Holder 1000883 - Primary title: c_rodind has lost the title: c_rodind
+200 - sub vassal: c_rodind - Holder 1000883 - Primary title: c_rodind has lost the title: c_rodind
+200 - vassal: c_rodind - Title given to 1000883 - Primary title: d_qutar
+200 - sub vassal: c_rodind - Title given to 1000883 - Primary title: d_qutar
+200 - Holder (1000883) has gained c_rodind
+200 - vassal: c_norond - Holder 1000883 - Primary title: c_norond has lost the title: c_norond
+200 - sub vassal: c_norond - Holder 1000883 - Primary title: c_norond has lost the title: c_norond
+200 - vassal: c_norond - Title given to 1000883 - Primary title: d_qutar
+200 - sub vassal: c_norond - Title given to 1000883 - Primary title: d_qutar
+200 - Holder (1000883) has gained c_norond
+200 - vassal: c_qamoo - Holder 1000883 - Primary title: c_qamoo has lost the title: c_qamoo
+200 - sub vassal: c_qamoo - Holder 1000883 - Primary title: c_qamoo has lost the title: c_qamoo
+200 - vassal: c_qamoo - Title given to 1000883 - Primary title: d_qutar
+200 - sub vassal: c_qamoo - Title given to 1000883 - Primary title: d_qutar
+200 - Holder (1000883) has gained c_qamoo
+200 - Holder 1001567 - Primary title: d_qutar has lost the title: d_qutar
+200 - Title given to 1001567 - Primary title: k_nugona
+200 - vassal: c_norond - Given to 1002096 in HandleTitles - Too many duke titles
+200 - vassal: c_rodind - Holder 1002096 - Primary title: c_rodind has lost the title: c_norond
+200 - vassal: c_norond - Title given to 1002096
+200 - Title given to 1002096 - Primary title: c_norond
+200 - vassal: c_norond - Holder (1002096) has gained d_qutar
+200 - Too many dukes, given to dejure: k_nugona
+223 - Holder 1000832 - Primary title: d_qutar has lost the title: d_qutar
+223 - Title given to 1000832 - Primary title: k_nugona
+223 - vassal: c_norond - Holder 1000832 - Primary title: c_norond has lost the title: c_norond
+223 - vassal: c_norond - Title given to 1000832 - Primary title: k_nugona
+235 - Gained vassal: c_qeyyuna
+235 - Gained vassal: c_banimon
+235 - Gained vassal: c_syod
+235 - Gained vassal: c_enily
+235 - Holder 1005133 - Primary title: d_qutar has lost the title: c_enily
+235 - vassal: c_enily - Title given to 1005133 - Primary title: k_nugona
+235 - vassal: c_enily - Setting to vassal of k_nugona in Validate Realm
+235 - Lost vassal: c_enily
+235 - Holder 1005133 - Primary title: d_qutar has lost the title: c_syod
+235 - vassal: c_syod - Title given to 1005133 - Primary title: k_nugona
+235 - vassal: c_syod - Setting to vassal of k_nugona in Validate Realm
+235 - Lost vassal: c_syod
+235 - Holder 1005133 - Primary title: d_qutar has lost the title: c_banimon
+235 - vassal: c_banimon - Title given to 1005133 - Primary title: k_nugona
+235 - vassal: c_banimon - Setting to vassal of k_nugona in Validate Realm
+235 - Lost vassal: c_banimon
+235 - Holder 1005133 - Primary title: d_qutar has lost the title: c_qeyyuna
+235 - vassal: c_qeyyuna - Title given to 1005133 - Primary title: k_nugona
+235 - vassal: c_qeyyuna - Setting to vassal of k_nugona in Validate Realm
+235 - Lost vassal: c_qeyyuna
+235 - Holder 1005133 - Primary title: d_qutar has lost the title: d_qutar
+235 - Title given to 1005133 - Primary title: k_nugona
+235 - vassal: c_norond - Holder 1005133 - Primary title: c_norond has lost the title: c_norond
+235 - vassal: c_norond - Title given to 1005133 - Primary title: k_nugona
+244 - Gained vassal: c_enily
+244 - Gained vassal: c_syod
+244 - Gained vassal: c_banimon
+244 - Gained vassal: c_qeyyuna
+244 - Holder 1004651 - Primary title: d_qutar has lost the title: d_qutar
+244 - Title given to 1004651 - Primary title: k_nugona
+244 - vassal: c_norond - Setting to vassal of d_namimon in Validate Realm
+244 - Lost vassal: c_norond
+244 - vassal: c_qeyyuna - Setting to vassal of d_namimon in Validate Realm
+244 - Lost vassal: c_qeyyuna
+244 - vassal: c_banimon - Setting to vassal of d_namimon in Validate Realm
+244 - Lost vassal: c_banimon
+244 - vassal: c_syod - Setting to vassal of d_namimon in Validate Realm
+244 - Lost vassal: c_syod
+244 - vassal: c_enily - Setting to vassal of d_namimon in Validate Realm
+244 - Lost vassal: c_enily
+263 - vassal: c_qamoo - Made vassal of neighbour (k_wurebia) due to being a seperate island
+263 - Lost vassal: c_qamoo
+263 - vassal: c_rodind - Holder 1004749 - Primary title: c_rodind has lost the title: c_qamoo
+263 - vassal: c_rodind - Made vassal of neighbour (k_wurebia) due to being a seperate island
+263 - Lost vassal: c_rodind
+264 - Destroyed due to flagged problem
+264 - Made independent
+264 - Title destroyed

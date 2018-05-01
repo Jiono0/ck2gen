@@ -1,0 +1,79 @@
+200 - Title given to 1000812
+200 - vassal: c_tyee - Given to 1000815 via AddCharacterForTitle
+200 - sub vassal: c_tyee - Given to 1000815 via AddCharacterForTitle
+200 - vassal: c_tyee - Holder 1000815 - Primary title: c_tyee has lost the title: c_tyee
+200 - sub vassal: c_tyee - Holder 1000815 - Primary title: c_tyee has lost the title: c_tyee
+200 - vassal: c_tyee - Title given to 1000815
+200 - sub vassal: c_tyee - Title given to 1000815
+200 - vassal: c_tanimir - Given to 1000817 via AddCharacterForTitle
+200 - sub vassal: c_tanimir - Given to 1000817 via AddCharacterForTitle
+200 - vassal: c_tanimir - Holder 1000817 - Primary title: c_tanimir has lost the title: c_tanimir
+200 - sub vassal: c_tanimir - Holder 1000817 - Primary title: c_tanimir has lost the title: c_tanimir
+200 - vassal: c_tanimir - Title given to 1000817
+200 - sub vassal: c_tanimir - Title given to 1000817
+200 - vassal: c_byae - Holder 1000812 - Primary title: c_byae has lost the title: c_byae
+200 - sub vassal: c_byae - Holder 1000812 - Primary title: c_byae has lost the title: c_byae
+200 - vassal: c_byae - Title given to 1000812 - Primary title: d_acecage
+200 - sub vassal: c_byae - Title given to 1000812 - Primary title: d_acecage
+200 - Holder (1000812) has gained c_byae
+200 - vassal: c_tyee - Holder 1000812 - Primary title: c_tyee has lost the title: c_tyee
+200 - sub vassal: c_tyee - Holder 1000812 - Primary title: c_tyee has lost the title: c_tyee
+200 - vassal: c_tyee - Title given to 1000812 - Primary title: d_acecage
+200 - sub vassal: c_tyee - Title given to 1000812 - Primary title: d_acecage
+200 - Holder (1000812) has gained c_tyee
+207 - Holder 1000832 - Primary title: d_acecage has lost the title: d_acecage
+207 - Title given to 1000832 - Primary title: k_nugona
+207 - vassal: c_tyee - Holder 1000832 - Primary title: c_tyee has lost the title: c_tyee
+207 - vassal: c_tyee - Title given to 1000832 - Primary title: k_nugona
+207 - vassal: c_byae - Holder 1000832 - Primary title: c_byae has lost the title: c_byae
+207 - vassal: c_byae - Title given to 1000832 - Primary title: k_nugona
+207 - vassal: c_byae - Given to 1003025 in HandleTitles - Too many duke titles
+207 - vassal: c_byae - Title given to 1003025
+207 - Title given to 1003025 - Primary title: c_byae
+207 - vassal: c_byae - Holder (1003025) has gained d_acecage
+207 - vassal: c_tyee - Setting to vassal of k_nugona in Validate Realm
+207 - Lost vassal: c_tyee
+207 - Too many dukes, given to dejure: k_nugona
+223 - Holder 1003965 - Primary title: d_acecage has lost the title: d_acecage
+223 - Title given to 1003965
+223 - vassal: c_byae - Holder 1003965 - Primary title: c_byae has lost the title: c_byae
+223 - vassal: c_byae - Title given to 1003965 - Primary title: d_acecage
+223 - Holder (1003965) has gained c_byae
+263 - Made vassal of neighbour (k_wurebia) due to being a seperate island
+263 - Given to neighbour holder of k_wurebia
+263 - Holder 1004749 - Primary title: d_acecage has lost the title: d_acecage
+263 - Title given to 1004749 - Primary title: k_wurebia
+273 - Captured byk_dyie in minor war
+286 - Holder 1008381 - Primary title: d_acecage has lost the title: d_acecage
+286 - Title given to 1008381 - Primary title: k_wurebia
+312 - vassal: c_byae - Given to 1011774 in HandleTitles - Too many duke titles
+312 - vassal: c_byae - Holder 1011774 - Primary title: c_byae has lost the title: c_byae
+312 - vassal: c_byae - Title given to 1011774
+312 - Title given to 1011774 - Primary title: c_byae
+312 - vassal: c_byae - Holder (1011774) has gained d_acecage
+312 - Too many dukes, made direct title into vassal of k_wurebia
+331 - Holder 1011050 - Primary title: d_acecage has lost the title: d_acecage
+331 - Title given to 1011050 - Primary title: d_sumind
+331 - vassal: c_byae - Holder 1011050 - Primary title: c_byae has lost the title: c_byae
+331 - vassal: c_byae - Title given to 1011050 - Primary title: d_tanimia
+332 - Holder 1013282 - Primary title: d_acecage has lost the title: c_tularl
+332 - Holder 1009685 - Primary title: d_acecage has lost the title: d_sumind
+332 - Gained vassal: c_taninia
+332 - Gained vassal: c_ehumind
+334 - Holder (1011050) has gained d_sumind
+345 - Holder 1013124 - Primary title: d_acecage has lost the title: d_acecage
+345 - Title given to 1013124 - Primary title: d_sumind
+345 - vassal: c_byae - Holder 1013124 - Primary title: c_byae has lost the title: c_byae
+345 - vassal: c_byae - Title given to 1013124 - Primary title: d_sumind
+345 - vassal: c_taninia - Holder 1013124 - Primary title: c_taninia has lost the title: c_taninia
+345 - vassal: c_taninia - Title given to 1013124 - Primary title: d_sumind
+345 - vassal: c_ehumind - Holder 1013124 - Primary title: c_ehumind has lost the title: c_ehumind
+345 - vassal: c_ehumind - Title given to 1013124 - Primary title: d_sumind
+393 - Holder 1014679 - Primary title: d_acecage has lost the title: d_acecage
+393 - Title given to 1014679 - Primary title: d_sumind
+393 - vassal: c_byae - Holder 1014679 - Primary title: c_byae has lost the title: c_byae
+393 - vassal: c_byae - Title given to 1014679 - Primary title: d_sumind
+393 - vassal: c_taninia - Holder 1014679 - Primary title: c_taninia has lost the title: c_taninia
+393 - vassal: c_taninia - Title given to 1014679 - Primary title: d_sumind
+393 - vassal: c_ehumind - Holder 1014679 - Primary title: c_ehumind has lost the title: c_ehumind
+393 - vassal: c_ehumind - Title given to 1014679 - Primary title: d_sumind

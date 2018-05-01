@@ -1,0 +1,192 @@
+200 - Title given to 1001281
+200 - vassal: c_lyutandi - Holder 1001281 - Primary title: c_lyutandi has lost the title: c_lyutandi
+200 - sub vassal: c_lyutandi - Holder 1001281 - Primary title: c_lyutandi has lost the title: c_lyutandi
+200 - vassal: c_lyutandi - Title given to 1001281 - Primary title: d_rorila
+200 - sub vassal: c_lyutandi - Title given to 1001281 - Primary title: d_rorila
+200 - Holder (1001281) has gained c_lyutandi
+200 - vassal: c_keras - Holder 1001281 - Primary title: c_keras has lost the title: c_keras
+200 - sub vassal: c_keras - Holder 1001281 - Primary title: c_keras has lost the title: c_keras
+200 - vassal: c_keras - Title given to 1001281 - Primary title: d_rorila
+200 - sub vassal: c_keras - Title given to 1001281 - Primary title: d_rorila
+200 - Holder (1001281) has gained c_keras
+200 - Holder 1001582 - Primary title: d_rorila has lost the title: d_rorila
+200 - Title given to 1001582 - Primary title: k_kyutila
+200 - vassal: c_keras - Given to 1002115 in HandleTitles - Too many duke titles
+200 - vassal: c_lyutandi - Holder 1002115 - Primary title: c_lyutandi has lost the title: c_keras
+200 - vassal: c_keras - Title given to 1002115
+200 - Title given to 1002115 - Primary title: c_keras
+200 - vassal: c_keras - Holder (1002115) has gained d_rorila
+200 - Too many dukes, given to dejure: k_kyutila
+200 - Made vassal of neighbour (k_rugoman) due to being a seperate island
+200 - Given to neighbour holder of k_rugoman
+200 - Holder 1001583 - Primary title: d_rorila has lost the title: d_rorila
+200 - Title given to 1001583 - Primary title: k_rugoman
+200 - Holder 1001302 - Primary title: d_rorila has lost the title: d_rorila
+200 - Title given to 1001302 - Primary title: k_rugoman
+218 - Gained vassal: c_tazana
+218 - Gained vassal: c_kalila
+218 - Gained vassal: c_kacedas
+218 - Gained vassal: c_sazanu
+218 - Gained vassal: c_karana
+218 - Holder 1002558 - Primary title: d_rorila has lost the title: c_karana
+218 - vassal: c_karana - Title given to 1002558 - Primary title: k_rugoman
+218 - vassal: c_karana - Setting to vassal of k_rugoman in Validate Realm
+218 - Lost vassal: c_karana
+218 - Holder 1002558 - Primary title: d_rorila has lost the title: c_sazanu
+218 - vassal: c_sazanu - Title given to 1002558 - Primary title: k_rugoman
+218 - vassal: c_sazanu - Setting to vassal of k_rugoman in Validate Realm
+218 - Lost vassal: c_sazanu
+218 - Holder 1002558 - Primary title: d_rorila has lost the title: c_kacedas
+218 - vassal: c_kacedas - Title given to 1002558 - Primary title: k_rugoman
+218 - vassal: c_kacedas - Setting to vassal of k_rugoman in Validate Realm
+218 - Lost vassal: c_kacedas
+218 - Holder 1002558 - Primary title: d_rorila has lost the title: c_kalila
+218 - vassal: c_kalila - Title given to 1002558 - Primary title: k_rugoman
+218 - vassal: c_kalila - Setting to vassal of k_rugoman in Validate Realm
+218 - Lost vassal: c_kalila
+218 - Holder 1002558 - Primary title: d_rorila has lost the title: d_rorila
+218 - Title given to 1002558 - Primary title: k_rugoman
+218 - vassal: c_tazana - Holder 1002558 - Primary title: c_tazana has lost the title: c_tazana
+218 - vassal: c_tazana - Title given to 1002558 - Primary title: k_rugoman
+235 - Holder 1004335 - Primary title: d_rorila has lost the title: d_rorila
+235 - Title given to 1004335 - Primary title: k_rugoman
+235 - vassal: c_tazana - Setting to vassal of d_winune in Validate Realm
+235 - Lost vassal: c_tazana
+240 - Gained vassal: c_tazana
+240 - Gained vassal: c_kalila
+240 - Gained vassal: c_kacedas
+240 - Gained vassal: c_rosila
+240 - Gained vassal: c_tasero
+240 - Holder 1005297 - Primary title: d_rorila has lost the title: d_rorila
+240 - Title given to 1005297 - Primary title: k_rugoman
+240 - vassal: c_tasero - Holder 1005297 - Primary title: c_tasero has lost the title: c_tasero
+240 - vassal: c_tasero - Title given to 1005297 - Primary title: k_rugoman
+240 - vassal: c_rosila - Holder 1005297 - Primary title: c_rosila has lost the title: c_rosila
+240 - vassal: c_rosila - Title given to 1005297 - Primary title: k_rugoman
+240 - vassal: c_kacedas - Holder 1005297 - Primary title: c_kacedas has lost the title: c_kacedas
+240 - vassal: c_kacedas - Title given to 1005297 - Primary title: k_rugoman
+240 - vassal: c_kalila - Holder 1005297 - Primary title: c_kalila has lost the title: c_kalila
+240 - vassal: c_kalila - Title given to 1005297 - Primary title: k_rugoman
+240 - vassal: c_tazana - Holder 1005297 - Primary title: c_tazana has lost the title: c_tazana
+240 - vassal: c_tazana - Title given to 1005297 - Primary title: k_rugoman
+241 - vassal: c_rosila - Title given to 1005822
+241 - Holder 1005824 - Primary title: d_rorila has lost the title: d_rorila
+241 - Title given to 1005824 - Primary title: k_rugoman
+241 - vassal: c_tasero - Holder 1005824 - Primary title: c_tasero has lost the title: c_tasero
+241 - vassal: c_tasero - Title given to 1005824 - Primary title: k_rugoman
+241 - vassal: c_kacedas - Holder 1005824 - Primary title: c_kacedas has lost the title: c_kacedas
+241 - vassal: c_kacedas - Title given to 1005824 - Primary title: k_rugoman
+241 - vassal: c_kalila - Holder 1005824 - Primary title: c_kalila has lost the title: c_kalila
+241 - vassal: c_kalila - Title given to 1005824 - Primary title: k_rugoman
+241 - vassal: c_tazana - Holder 1005824 - Primary title: c_tazana has lost the title: c_tazana
+241 - vassal: c_tazana - Title given to 1005824 - Primary title: k_rugoman
+260 - vassal: c_tasero - Title given to 1007447
+260 - vassal: c_kalila - Title given to 1007448
+260 - vassal: c_tazana - Title given to 1007450
+285 - Gained vassal: c_atomiu
+285 - Gained vassal: c_sazanu
+285 - Holder 1005909 - Primary title: d_rorila has lost the title: d_rorila
+285 - Title given to 1005909 - Primary title: k_rugoman
+285 - vassal: c_sazanu - Holder 1005909 - Primary title: c_sazanu has lost the title: c_sazanu
+285 - vassal: c_sazanu - Title given to 1005909 - Primary title: k_rugoman
+285 - vassal: c_kacedas - Holder 1005909 - Primary title: c_kacedas has lost the title: c_kacedas
+285 - vassal: c_kacedas - Title given to 1005909 - Primary title: k_rugoman
+285 - vassal: c_atomiu - Holder 1005909 - Primary title: c_atomiu has lost the title: c_atomiu
+285 - vassal: c_atomiu - Title given to 1005909 - Primary title: k_rugoman
+293 - Holder 1010017 - Primary title: d_rorila has lost the title: d_rorila
+293 - Title given to 1010017 - Primary title: k_rugoman
+293 - vassal: c_sazanu - Holder 1010017 - Primary title: c_sazanu has lost the title: c_sazanu
+293 - vassal: c_sazanu - Title given to 1010017 - Primary title: k_rugoman
+293 - vassal: c_kacedas - Holder 1010017 - Primary title: c_kacedas has lost the title: c_kacedas
+293 - vassal: c_kacedas - Title given to 1010017 - Primary title: k_rugoman
+293 - vassal: c_atomiu - Holder 1010017 - Primary title: c_atomiu has lost the title: c_atomiu
+293 - vassal: c_atomiu - Title given to 1010017 - Primary title: k_rugoman
+300 - vassal: c_lyutandi - Holder 1005822 - Primary title: c_lyutandi has lost the title: c_lyutandi
+300 - vassal: c_lyutandi - Title given to 1005822 - Primary title: c_rosila
+300 - vassal: c_rosila - Holder (1005822) has gained c_lyutandi
+300 - vassal: c_keras - Holder 1007447 - Primary title: c_keras has lost the title: c_keras
+300 - vassal: c_keras - Title given to 1007447 - Primary title: c_tasero
+300 - vassal: c_tasero - Holder (1007447) has gained c_keras
+301 - Captured byd_tegilip in minor war
+301 - Made independent
+301 - Given to 1009584 in minor war along with lower
+301 - Title given to 1009584 - Primary title: d_tegilip
+301 - vassal: c_lyutandi - Holder 1009584 - Primary title: c_lyutandi has lost the title: c_lyutandi
+301 - vassal: c_lyutandi - Title given to 1009584 - Primary title: d_tegilip
+301 - vassal: c_atomiu - Setting to vassal of k_rugoman in Validate Realm
+301 - Lost vassal: c_atomiu
+301 - vassal: c_kacedas - Setting to vassal of k_rugoman in Validate Realm
+301 - Lost vassal: c_kacedas
+301 - vassal: c_sazanu - Setting to vassal of k_rugoman in Validate Realm
+301 - Lost vassal: c_sazanu
+301 - vassal: c_keras - Holder 1009584 - Primary title: c_keras has lost the title: c_keras
+301 - vassal: c_keras - Title given to 1009584 - Primary title: d_tegilip
+301 - vassal: c_tazana - Holder 1009584 - Primary title: c_tazana has lost the title: c_tazana
+301 - vassal: c_tazana - Title given to 1009584 - Primary title: d_tegilip
+301 - vassal: c_kalila - Holder 1009584 - Primary title: c_kalila has lost the title: c_kalila
+301 - vassal: c_kalila - Title given to 1009584 - Primary title: d_tegilip
+301 - vassal: c_rosila - Holder 1009584 - Primary title: c_rosila has lost the title: c_rosila
+301 - vassal: c_rosila - Title given to 1009584 - Primary title: d_tegilip
+301 - vassal: c_tasero - Holder 1009584 - Primary title: c_tasero has lost the title: c_tasero
+301 - vassal: c_tasero - Title given to 1009584 - Primary title: d_tegilip
+302 - vassal: c_rosila - Title given to 1007955
+302 - vassal: c_lyutandi - Title given to 1010985
+302 - vassal: c_tasero - Title given to 1010986
+302 - vassal: c_keras - Title given to 1008280
+302 - vassal: c_tazana - Title given to 1010988
+302 - vassal: c_lyutandi - Made independent due to being a seperate island
+302 - vassal: c_lyutandi - Made independent
+302 - vassal: c_keras - Made vassal of neighbour (k_doredas) due to being a seperate island
+302 - Lost vassal: c_keras
+302 - vassal: c_tazana - Made vassal of neighbour (k_rugoman) due to being a seperate island
+302 - Lost vassal: c_tazana
+302 - vassal: c_kalila - Made vassal of neighbour (k_kyutila) due to being a seperate island
+302 - Lost vassal: c_kalila
+305 - Holder 1011244 - Primary title: d_rorila has lost the title: d_rorila
+305 - Title given to 1011244 - Primary title: d_tegilip
+312 - vassal: c_tasero - Holder 1011244 - Primary title: c_tasero has lost the title: c_tasero
+312 - vassal: c_tasero - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_tasero - Given to 1008280 in HandleTitles - Too many duke titles
+312 - vassal: c_tasero - Title given to 1008280
+312 - Title given to 1008280 - Primary title: c_tasero
+312 - vassal: c_tasero - Holder (1008280) has gained d_rorila
+312 - Too many dukes, made direct title into vassal of k_ditedas
+331 - Holder 1012173 - Primary title: d_rorila has lost the title: d_rorila
+331 - Title given to 1012173
+331 - vassal: c_tasero - Holder 1012173 - Primary title: c_tasero has lost the title: c_tasero
+331 - vassal: c_tasero - Title given to 1012173 - Primary title: d_rorila
+331 - Holder (1012173) has gained c_tasero
+335 - Holder 1011778 - Primary title: d_rorila has lost the title: d_rorila
+335 - Title given to 1011778 - Primary title: d_surd
+335 - vassal: c_tasero - Holder 1011778 - Primary title: c_tasero has lost the title: c_tasero
+335 - vassal: c_tasero - Title given to 1011778 - Primary title: d_surd
+350 - Holder 1012687 - Primary title: d_rorila has lost the title: d_rorila
+350 - Title given to 1012687
+350 - vassal: c_tasero - Setting to vassal of d_surd in Validate Realm
+350 - Lost vassal: c_tasero
+350 - Holder (1012687) has gained d_surd
+350 - Holder (1012687) has gained c_tasero
+350 - Holder (1012687) has gained c_rienke
+351 - vassal: c_rosila - Holder 1012687 - Primary title: c_rosila has lost the title: c_rosila
+351 - vassal: c_rosila - Title given to 1012687 - Primary title: d_rorila
+351 - Holder (1012687) has gained c_rosila
+364 - Gained vassal: c_tasero
+364 - Gained vassal: c_rienke
+364 - Holder 1015382 - Primary title: d_rorila has lost the title: d_rorila
+364 - Title given to 1015382 - Primary title: d_surd
+364 - vassal: c_rosila - Holder 1015382 - Primary title: c_rosila has lost the title: c_rosila
+364 - vassal: c_rosila - Title given to 1015382 - Primary title: d_surd
+364 - vassal: c_rienke - Holder 1015382 - Primary title: c_rienke has lost the title: c_rienke
+364 - vassal: c_rienke - Title given to 1015382 - Primary title: d_surd
+364 - vassal: c_tasero - Holder 1015382 - Primary title: c_tasero has lost the title: c_tasero
+364 - vassal: c_tasero - Title given to 1015382 - Primary title: d_surd
+368 - Holder (1015382) has gained d_winune
+368 - vassal: c_rosila - Set liege on title creation d_winune
+368 - Lost vassal: c_rosila
+368 - vassal: c_rienke - Set liege on title creation d_winune
+368 - Lost vassal: c_rienke
+368 - vassal: c_tasero - Set liege on title creation d_winune
+368 - Lost vassal: c_tasero
+369 - Destroyed due to flagged problem
+369 - Made independent
+369 - Title destroyed

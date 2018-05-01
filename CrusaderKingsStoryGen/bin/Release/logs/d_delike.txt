@@ -1,0 +1,113 @@
+200 - Title given to 1000271
+200 - vassal: c_erare - Given to 1000274 via AddCharacterForTitle
+200 - sub vassal: c_erare - Given to 1000274 via AddCharacterForTitle
+200 - vassal: c_erare - Holder 1000274 - Primary title: c_erare has lost the title: c_erare
+200 - sub vassal: c_erare - Holder 1000274 - Primary title: c_erare has lost the title: c_erare
+200 - vassal: c_erare - Title given to 1000274
+200 - sub vassal: c_erare - Title given to 1000274
+200 - vassal: c_wugedas - Holder 1000271 - Primary title: c_wugedas has lost the title: c_wugedas
+200 - sub vassal: c_wugedas - Holder 1000271 - Primary title: c_wugedas has lost the title: c_wugedas
+200 - vassal: c_wugedas - Title given to 1000271 - Primary title: d_delike
+200 - sub vassal: c_wugedas - Title given to 1000271 - Primary title: d_delike
+200 - Holder (1000271) has gained c_wugedas
+200 - vassal: c_erare - Holder 1000271 - Primary title: c_erare has lost the title: c_erare
+200 - sub vassal: c_erare - Holder 1000271 - Primary title: c_erare has lost the title: c_erare
+200 - vassal: c_erare - Title given to 1000271 - Primary title: d_delike
+200 - sub vassal: c_erare - Title given to 1000271 - Primary title: d_delike
+200 - Holder (1000271) has gained c_erare
+214 - Holder 1000281 - Primary title: d_delike has lost the title: d_delike
+214 - Title given to 1000281 - Primary title: d_nadedas
+214 - vassal: c_erare - Holder 1000281 - Primary title: c_erare has lost the title: c_erare
+214 - vassal: c_erare - Title given to 1000281 - Primary title: d_nadedas
+214 - vassal: c_wugedas - Holder 1000281 - Primary title: c_wugedas has lost the title: c_wugedas
+214 - vassal: c_wugedas - Title given to 1000281 - Primary title: d_nadedas
+221 - Holder 1002963 - Primary title: d_delike has lost the title: d_delike
+221 - Title given to 1002963
+221 - vassal: c_wugedas - Setting to vassal of d_nadedas in Validate Realm
+221 - Lost vassal: c_wugedas
+221 - vassal: c_erare - Setting to vassal of d_nadedas in Validate Realm
+221 - Lost vassal: c_erare
+221 - Holder (1002963) has gained d_nadedas
+221 - Holder (1002963) has gained c_wugedas
+221 - Holder (1002963) has gained c_erare
+221 - Holder (1002963) has gained c_nalinan
+221 - Holder (1002963) has gained c_avanumru
+222 - Destroyed due to flagged problem
+222 - Made independent
+222 - Title destroyed
+228 - Given to 1002963 in TestCreateEmpire
+228 - Title given to 1002963 - Primary title: d_nadedas
+228 - Made independent for title creation d_delike for d_nadedas
+228 - Made independent
+228 - Gained vassal: c_wugedas
+228 - Gained vassal: c_erare
+228 - Gained vassal: c_nalinan
+228 - Gained vassal: c_avanumru
+228 - Destroyed due to no capital's obtainable
+228 - Title destroyed
+228 - vassal: c_erare - Setting independent due to liege destruction
+228 - vassal: c_erare - Made independent
+228 - vassal: c_wugedas - Setting independent due to liege destruction
+228 - vassal: c_wugedas - Made independent
+228 - vassal: c_nalinan - Setting independent due to liege destruction
+228 - vassal: c_nalinan - Made independent
+228 - vassal: c_avanumru - Setting independent due to liege destruction
+228 - vassal: c_avanumru - Made independent
+231 - Given to 1002963 in TestCreateEmpire
+231 - Title given to 1002963 - Primary title: c_wugedas
+231 - Gained vassal: c_wugedas
+231 - Made independent for title creation d_delike for d_delike
+231 - vassal: c_wugedas - Set liege on title creation d_delike
+231 - sub vassal: c_wugedas - Set liege on title creation d_delike
+231 - Gained vassal: c_erare
+231 - Destroyed due to no capital's obtainable
+231 - Title destroyed
+231 - vassal: c_erare - Setting independent due to liege destruction
+231 - vassal: c_erare - Made independent
+231 - vassal: c_wugedas - Setting independent due to liege destruction
+231 - vassal: c_wugedas - Made independent
+272 - Given to 1004474 in TestCreateEmpire
+272 - Title given to 1004474 - Primary title: d_tafumru
+272 - Made independent for title creation d_delike for d_tafumru
+272 - Made independent
+272 - Gained vassal: c_wugedas
+272 - Gained vassal: c_nugumru
+272 - Gained vassal: c_sarinan
+272 - Gained vassal: c_sodumru
+272 - Gained vassal: c_sopare
+272 - Gained vassal: c_erare
+272 - Destroyed due to no capital's obtainable
+272 - Title destroyed
+272 - vassal: c_sodumru - Setting independent due to liege destruction
+272 - vassal: c_sodumru - Made independent
+272 - vassal: c_sarinan - Setting independent due to liege destruction
+272 - vassal: c_sarinan - Made independent
+272 - vassal: c_nugumru - Setting independent due to liege destruction
+272 - vassal: c_nugumru - Made independent
+272 - vassal: c_wugedas - Setting independent due to liege destruction
+272 - vassal: c_wugedas - Made independent
+272 - vassal: c_sopare - Setting independent due to liege destruction
+272 - vassal: c_sopare - Made independent
+272 - vassal: c_erare - Setting independent due to liege destruction
+272 - vassal: c_erare - Made independent
+273 - Given to 1004474 in TestCreateEmpire
+273 - Title given to 1004474 - Primary title: d_tafumru
+273 - Made independent for title creation d_delike for d_tafumru
+273 - Made independent
+273 - Gained vassal: c_nugumru
+273 - Gained vassal: c_sarinan
+273 - Gained vassal: c_sodumru
+273 - Gained vassal: c_sopare
+273 - Gained vassal: c_erare
+273 - Destroyed due to no capital's obtainable
+273 - Title destroyed
+273 - vassal: c_erare - Setting independent due to liege destruction
+273 - vassal: c_erare - Made independent
+273 - vassal: c_sopare - Setting independent due to liege destruction
+273 - vassal: c_sopare - Made independent
+273 - vassal: c_sodumru - Setting independent due to liege destruction
+273 - vassal: c_sodumru - Made independent
+273 - vassal: c_sarinan - Setting independent due to liege destruction
+273 - vassal: c_sarinan - Made independent
+273 - vassal: c_nugumru - Setting independent due to liege destruction
+273 - vassal: c_nugumru - Made independent

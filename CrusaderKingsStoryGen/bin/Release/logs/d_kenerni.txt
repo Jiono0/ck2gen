@@ -1,0 +1,58 @@
+200 - Title given to 1000031 - Primary title: c_balme
+200 - Holder 1001539 - Primary title: d_kenerni has lost the title: d_kenerni
+200 - Title given to 1001539 - Primary title: k_apocory
+200 - Gained vassal: c_kegilip
+200 - Gained vassal: c_epocasz
+200 - Holder 1000184 - Primary title: d_kenerni has lost the title: c_epocasz
+200 - vassal: c_epocasz - Title given to 1000184 - Primary title: k_apocory
+200 - vassal: c_epocasz - Setting to vassal of k_apocory in Validate Realm
+200 - Lost vassal: c_epocasz
+200 - Holder 1000184 - Primary title: d_kenerni has lost the title: c_kegilip
+200 - vassal: c_kegilip - Title given to 1000184 - Primary title: k_apocory
+200 - vassal: c_kegilip - Setting to vassal of k_apocory in Validate Realm
+200 - Lost vassal: c_kegilip
+200 - Holder 1000184 - Primary title: d_kenerni has lost the title: d_kenerni
+200 - Title given to 1000184 - Primary title: k_apocory
+239 - Destroyed due to flagged problem
+239 - Made independent
+239 - Title destroyed
+240 - Given to 1004111 in TestCreateEmpire
+240 - Title given to 1004111 - Primary title: c_balme
+240 - Gained vassal: c_balme
+240 - Made independent for title creation d_kenerni for d_kenerni
+240 - vassal: c_balme - Set liege on title creation d_kenerni
+240 - sub vassal: c_balme - Set liege on title creation d_kenerni
+240 - Destroyed due to no capital's obtainable
+240 - Title destroyed
+240 - vassal: c_balme - Setting independent due to liege destruction
+240 - vassal: c_balme - Made independent
+257 - Given to 1006365 in TestCreateEmpire
+257 - Title given to 1006365 - Primary title: c_balme
+257 - Gained vassal: c_balme
+257 - Made independent for title creation d_kenerni for d_kenerni
+257 - vassal: c_balme - Set liege on title creation d_kenerni
+257 - sub vassal: c_balme - Set liege on title creation d_kenerni
+257 - Destroyed due to no capital's obtainable
+257 - Title destroyed
+257 - vassal: c_balme - Setting independent due to liege destruction
+257 - vassal: c_balme - Made independent
+288 - Given to 1009647 in TestCreateEmpire
+288 - Title given to 1009647 - Primary title: c_balme
+288 - Gained vassal: c_balme
+288 - Made independent for title creation d_kenerni for d_kenerni
+288 - vassal: c_balme - Set liege on title creation d_kenerni
+288 - sub vassal: c_balme - Set liege on title creation d_kenerni
+288 - Destroyed due to no capital's obtainable
+288 - Title destroyed
+288 - vassal: c_balme - Setting independent due to liege destruction
+288 - vassal: c_balme - Made independent
+366 - Given to 1013850 in TestCreateEmpire
+366 - Title given to 1013850 - Primary title: c_balme
+366 - Gained vassal: c_balme
+366 - Made independent for title creation d_kenerni for d_kenerni
+366 - vassal: c_balme - Set liege on title creation d_kenerni
+366 - sub vassal: c_balme - Set liege on title creation d_kenerni
+366 - Destroyed due to no capital's obtainable
+366 - Title destroyed
+366 - vassal: c_balme - Setting independent due to liege destruction
+366 - vassal: c_balme - Made independent

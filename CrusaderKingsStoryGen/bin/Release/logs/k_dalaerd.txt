@@ -1,0 +1,776 @@
+200 - Title given to 1001540
+200 - vassal: d_aseyanar - Holder 1001540 - Primary title: d_aseyanar has lost the title: d_aseyanar
+200 - sub vassal: d_aseyanar - Holder 1001540 - Primary title: d_aseyanar has lost the title: d_aseyanar
+200 - vassal: d_aseyanar - Title given to 1001540 - Primary title: k_dalaerd
+200 - sub vassal: d_aseyanar - Title given to 1001540 - Primary title: k_dalaerd
+200 - Holder (1001540) has gained d_aseyanar
+200 - sub vassal: c_tirinar - Holder 1001540 - Primary title: c_tirinar has lost the title: c_tirinar
+200 - sub vassal: c_tirinar - Title given to 1001540 - Primary title: k_dalaerd
+200 - Holder (1001540) has gained c_tirinar
+200 - vassal: d_naniogo - Holder 1000209 - Primary title: d_naniogo has lost the title: d_naniogo
+200 - sub vassal: d_naniogo - Holder 1000209 - Primary title: d_naniogo has lost the title: d_naniogo
+200 - vassal: d_naniogo - Title given to 1000209 - Primary title: d_keyasco
+200 - sub vassal: d_naniogo - Title given to 1000209 - Primary title: d_keyasco
+200 - vassal: d_keyasco - Holder (1000209) has gained d_naniogo
+200 - sub vassal: d_keyasco - Holder (1000209) has gained d_naniogo
+200 - sub vassal: c_bosayor - Holder 1000209 - Primary title: c_bosayor has lost the title: c_bosayor
+200 - sub vassal: c_bosayor - Title given to 1000209 - Primary title: d_keyasco
+200 - vassal: d_keyasco - Holder (1000209) has gained c_bosayor
+200 - sub vassal: d_keyasco - Holder (1000209) has gained c_bosayor
+200 - sub vassal: c_kacopal - Holder 1000209 - Primary title: c_kacopal has lost the title: c_kacopal
+200 - sub vassal: c_kacopal - Title given to 1000209 - Primary title: d_keyasco
+200 - vassal: d_keyasco - Holder (1000209) has gained c_kacopal
+200 - sub vassal: d_keyasco - Holder (1000209) has gained c_kacopal
+200 - sub vassal: c_taginar - Holder 1000209 - Primary title: c_taginar has lost the title: c_taginar
+200 - sub vassal: c_taginar - Title given to 1000209 - Primary title: d_keyasco
+200 - vassal: d_keyasco - Holder (1000209) has gained c_taginar
+200 - sub vassal: d_keyasco - Holder (1000209) has gained c_taginar
+201 - vassal: d_naniogo - Holder 1002178 - Primary title: d_naniogo has lost the title: c_kiogo
+201 - sub vassal: d_naniogo - Holder 1002178 - Primary title: d_naniogo has lost the title: c_kiogo
+201 - sub vassal: c_kiogo - Title given to 1002178
+225 - vassal: d_ryenayor - Holder 1003168 - Primary title: d_ryenayor has lost the title: d_ryenayor
+225 - sub vassal: d_ryenayor - Holder 1003168 - Primary title: d_ryenayor has lost the title: d_ryenayor
+225 - vassal: d_ryenayor - Title given to 1003168
+225 - sub vassal: d_ryenayor - Title given to 1003168
+225 - sub vassal: c_saloj - Holder 1003168 - Primary title: c_saloj has lost the title: c_saloj
+225 - sub vassal: c_saloj - Title given to 1003168 - Primary title: d_ryenayor
+225 - vassal: d_ryenayor - Holder (1003168) has gained c_saloj
+225 - sub vassal: d_ryenayor - Holder (1003168) has gained c_saloj
+225 - sub vassal: c_seorory - Holder 1003168 - Primary title: c_seorory has lost the title: c_seorory
+225 - sub vassal: c_seorory - Title given to 1003168 - Primary title: d_ryenayor
+225 - vassal: d_ryenayor - Holder (1003168) has gained c_seorory
+225 - sub vassal: d_ryenayor - Holder (1003168) has gained c_seorory
+237 - Holder 1003168 - Primary title: k_dalaerd has lost the title: k_dalaerd
+237 - Title given to 1003168 - Primary title: d_ryenayor
+237 - vassal: d_ryenayor - Holder (1003168) has gained k_dalaerd
+237 - sub vassal: d_ryenayor - Holder (1003168) has gained k_dalaerd
+237 - vassal: d_aseyanar - Holder 1003168 - Primary title: d_aseyanar has lost the title: d_aseyanar
+237 - sub vassal: d_aseyanar - Holder 1003168 - Primary title: d_aseyanar has lost the title: d_aseyanar
+237 - vassal: d_aseyanar - Title given to 1003168 - Primary title: k_dalaerd
+237 - sub vassal: d_aseyanar - Title given to 1003168 - Primary title: k_dalaerd
+237 - Holder (1003168) has gained d_aseyanar
+237 - sub vassal: c_tirinar - Holder 1003168 - Primary title: c_tirinar has lost the title: c_tirinar
+237 - sub vassal: c_tirinar - Title given to 1003168 - Primary title: k_dalaerd
+237 - Holder (1003168) has gained c_tirinar
+240 - vassal: d_keyasco - Holder 1001747 - Primary title: d_keyasco has lost the title: d_keyasco
+240 - sub vassal: d_keyasco - Holder 1001747 - Primary title: d_keyasco has lost the title: d_keyasco
+240 - vassal: d_keyasco - Title given to 1001747
+240 - sub vassal: d_keyasco - Title given to 1001747
+240 - sub vassal: c_tocinar - Setting to vassal of d_naniogo in Validate Realm
+240 - vassal: d_keyasco - Lost vassal: c_tocinar
+240 - sub vassal: d_keyasco - Lost vassal: c_tocinar
+240 - sub vassal: c_ebuliaco - Setting to vassal of d_naniogo in Validate Realm
+240 - vassal: d_keyasco - Lost vassal: c_ebuliaco
+240 - sub vassal: d_keyasco - Lost vassal: c_ebuliaco
+240 - vassal: d_naniogo - Gained vassal: c_ebuliaco
+240 - sub vassal: d_naniogo - Gained vassal: c_ebuliaco
+240 - vassal: d_naniogo - Gained vassal: c_tocinar
+240 - sub vassal: d_naniogo - Gained vassal: c_tocinar
+240 - vassal: d_naniogo - Holder 1001747 - Primary title: d_naniogo has lost the title: d_naniogo
+240 - sub vassal: d_naniogo - Holder 1001747 - Primary title: d_naniogo has lost the title: d_naniogo
+240 - vassal: d_naniogo - Title given to 1001747 - Primary title: d_keyasco
+240 - sub vassal: d_naniogo - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: d_keyasco - Holder (1001747) has gained d_naniogo
+240 - sub vassal: d_keyasco - Holder (1001747) has gained d_naniogo
+240 - sub vassal: c_tocinar - Holder 1001747 - Primary title: c_tocinar has lost the title: c_tocinar
+240 - sub vassal: c_tocinar - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: d_keyasco - Holder (1001747) has gained c_tocinar
+240 - sub vassal: d_keyasco - Holder (1001747) has gained c_tocinar
+240 - sub vassal: c_ebuliaco - Holder 1001747 - Primary title: c_ebuliaco has lost the title: c_ebuliaco
+240 - sub vassal: c_ebuliaco - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: d_keyasco - Holder (1001747) has gained c_ebuliaco
+240 - sub vassal: d_keyasco - Holder (1001747) has gained c_ebuliaco
+240 - sub vassal: c_bosayor - Holder 1001747 - Primary title: c_bosayor has lost the title: c_bosayor
+240 - sub vassal: c_bosayor - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: d_keyasco - Holder (1001747) has gained c_bosayor
+240 - sub vassal: d_keyasco - Holder (1001747) has gained c_bosayor
+240 - sub vassal: c_kacopal - Holder 1001747 - Primary title: c_kacopal has lost the title: c_kacopal
+240 - sub vassal: c_kacopal - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: d_keyasco - Holder (1001747) has gained c_kacopal
+240 - sub vassal: d_keyasco - Holder (1001747) has gained c_kacopal
+240 - sub vassal: c_taginar - Holder 1001747 - Primary title: c_taginar has lost the title: c_taginar
+240 - sub vassal: c_taginar - Title given to 1001747 - Primary title: d_keyasco
+240 - vassal: d_keyasco - Holder (1001747) has gained c_taginar
+240 - sub vassal: d_keyasco - Holder (1001747) has gained c_taginar
+241 - sub vassal: c_kiogo - Holder 1001747 - Primary title: c_kiogo has lost the title: c_kiogo
+241 - sub vassal: c_kiogo - Title given to 1001747 - Primary title: d_keyasco
+241 - vassal: d_keyasco - Holder (1001747) has gained c_kiogo
+241 - sub vassal: d_keyasco - Holder (1001747) has gained c_kiogo
+241 - vassal: d_keyasco - Holder 1005792 - Primary title: d_keyasco has lost the title: c_taginar
+241 - sub vassal: d_keyasco - Holder 1005792 - Primary title: d_keyasco has lost the title: c_taginar
+241 - sub vassal: c_taginar - Title given to 1005792
+242 - vassal: d_wacopal - Holder 1002471 - Primary title: d_wacopal has lost the title: d_wacopal
+242 - sub vassal: d_wacopal - Holder 1002471 - Primary title: d_wacopal has lost the title: d_wacopal
+242 - vassal: d_wacopal - Title given to 1002471
+242 - sub vassal: d_wacopal - Title given to 1002471
+242 - sub vassal: c_acalory - Holder 1002471 - Primary title: c_acalory has lost the title: c_acalory
+242 - sub vassal: c_acalory - Title given to 1002471 - Primary title: d_wacopal
+242 - vassal: d_wacopal - Holder (1002471) has gained c_acalory
+242 - sub vassal: d_wacopal - Holder (1002471) has gained c_acalory
+242 - sub vassal: c_legasz - Holder 1002471 - Primary title: c_legasz has lost the title: c_legasz
+242 - sub vassal: c_legasz - Title given to 1002471 - Primary title: d_wacopal
+242 - vassal: d_wacopal - Holder (1002471) has gained c_legasz
+242 - sub vassal: d_wacopal - Holder (1002471) has gained c_legasz
+242 - sub vassal: c_ringasz - Holder 1002471 - Primary title: c_ringasz has lost the title: c_ringasz
+242 - sub vassal: c_ringasz - Title given to 1002471 - Primary title: d_wacopal
+242 - vassal: d_wacopal - Holder (1002471) has gained c_ringasz
+242 - sub vassal: d_wacopal - Holder (1002471) has gained c_ringasz
+253 - Holder 1004952 - Primary title: k_dalaerd has lost the title: k_dalaerd
+253 - Title given to 1004952
+253 - vassal: d_aseyanar - Holder 1004952 - Primary title: d_aseyanar has lost the title: d_aseyanar
+253 - sub vassal: d_aseyanar - Holder 1004952 - Primary title: d_aseyanar has lost the title: d_aseyanar
+253 - vassal: d_aseyanar - Title given to 1004952 - Primary title: k_dalaerd
+253 - sub vassal: d_aseyanar - Title given to 1004952 - Primary title: k_dalaerd
+253 - Holder (1004952) has gained d_aseyanar
+253 - sub vassal: c_tirinar - Setting to vassal of d_ryenayor in Validate Realm
+253 - vassal: d_aseyanar - Lost vassal: c_tirinar
+253 - sub vassal: d_aseyanar - Lost vassal: c_tirinar
+253 - vassal: d_ryenayor - Gained vassal: c_tirinar
+253 - sub vassal: d_ryenayor - Gained vassal: c_tirinar
+253 - vassal: d_ryenayor - Holder 1004952 - Primary title: d_ryenayor has lost the title: d_ryenayor
+253 - sub vassal: d_ryenayor - Holder 1004952 - Primary title: d_ryenayor has lost the title: d_ryenayor
+253 - vassal: d_ryenayor - Title given to 1004952 - Primary title: k_dalaerd
+253 - sub vassal: d_ryenayor - Title given to 1004952 - Primary title: k_dalaerd
+253 - Holder (1004952) has gained d_ryenayor
+253 - sub vassal: c_tirinar - Holder 1004952 - Primary title: c_tirinar has lost the title: c_tirinar
+253 - sub vassal: c_tirinar - Title given to 1004952 - Primary title: k_dalaerd
+253 - Holder (1004952) has gained c_tirinar
+253 - sub vassal: c_seorory - Holder 1004952 - Primary title: c_seorory has lost the title: c_seorory
+253 - sub vassal: c_seorory - Title given to 1004952 - Primary title: k_dalaerd
+253 - Holder (1004952) has gained c_seorory
+253 - sub vassal: c_saloj - Holder 1004952 - Primary title: c_saloj has lost the title: c_saloj
+253 - sub vassal: c_saloj - Title given to 1004952 - Primary title: k_dalaerd
+253 - Holder (1004952) has gained c_saloj
+262 - vassal: d_keyasco - Holder 1006796 - Primary title: d_keyasco has lost the title: d_keyasco
+262 - sub vassal: d_keyasco - Holder 1006796 - Primary title: d_keyasco has lost the title: d_keyasco
+262 - vassal: d_keyasco - Title given to 1006796
+262 - sub vassal: d_keyasco - Title given to 1006796
+262 - sub vassal: c_kiogo - Setting to vassal of d_naniogo in Validate Realm
+262 - vassal: d_keyasco - Lost vassal: c_kiogo
+262 - sub vassal: d_keyasco - Lost vassal: c_kiogo
+262 - vassal: d_naniogo - Gained vassal: c_kiogo
+262 - sub vassal: d_naniogo - Gained vassal: c_kiogo
+262 - vassal: d_naniogo - Holder 1006796 - Primary title: d_naniogo has lost the title: d_naniogo
+262 - sub vassal: d_naniogo - Holder 1006796 - Primary title: d_naniogo has lost the title: d_naniogo
+262 - vassal: d_naniogo - Title given to 1006796 - Primary title: d_keyasco
+262 - sub vassal: d_naniogo - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: d_keyasco - Holder (1006796) has gained d_naniogo
+262 - sub vassal: d_keyasco - Holder (1006796) has gained d_naniogo
+262 - sub vassal: c_tocinar - Holder 1006796 - Primary title: c_tocinar has lost the title: c_tocinar
+262 - sub vassal: c_tocinar - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: d_keyasco - Holder (1006796) has gained c_tocinar
+262 - sub vassal: d_keyasco - Holder (1006796) has gained c_tocinar
+262 - sub vassal: c_ebuliaco - Holder 1006796 - Primary title: c_ebuliaco has lost the title: c_ebuliaco
+262 - sub vassal: c_ebuliaco - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: d_keyasco - Holder (1006796) has gained c_ebuliaco
+262 - sub vassal: d_keyasco - Holder (1006796) has gained c_ebuliaco
+262 - sub vassal: c_bosayor - Holder 1006796 - Primary title: c_bosayor has lost the title: c_bosayor
+262 - sub vassal: c_bosayor - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: d_keyasco - Holder (1006796) has gained c_bosayor
+262 - sub vassal: d_keyasco - Holder (1006796) has gained c_bosayor
+262 - sub vassal: c_kacopal - Holder 1006796 - Primary title: c_kacopal has lost the title: c_kacopal
+262 - sub vassal: c_kacopal - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: d_keyasco - Holder (1006796) has gained c_kacopal
+262 - sub vassal: d_keyasco - Holder (1006796) has gained c_kacopal
+262 - sub vassal: c_kiogo - Holder 1006796 - Primary title: c_kiogo has lost the title: c_kiogo
+262 - sub vassal: c_kiogo - Title given to 1006796 - Primary title: d_keyasco
+262 - vassal: d_keyasco - Holder (1006796) has gained c_kiogo
+262 - sub vassal: d_keyasco - Holder (1006796) has gained c_kiogo
+263 - vassal: d_keyasco - Destroyed due to flagged problem
+263 - sub vassal: d_keyasco - Destroyed due to flagged problem
+263 - vassal: d_keyasco - Made independent
+263 - sub vassal: d_keyasco - Made independent
+266 - vassal: d_naniogo - Holder (1006796) has gained d_keyasco
+266 - sub vassal: d_naniogo - Holder (1006796) has gained d_keyasco
+266 - Gained vassal: d_keyasco
+266 - vassal: d_keyasco - Made independent for title creation d_keyasco for d_naniogo
+266 - sub vassal: d_keyasco - Made independent for title creation d_keyasco for d_naniogo
+266 - vassal: d_keyasco - Made independent
+266 - sub vassal: d_keyasco - Made independent
+266 - sub vassal: c_tocinar - Set liege on title creation d_keyasco
+266 - vassal: d_naniogo - Lost vassal: c_tocinar
+266 - sub vassal: d_naniogo - Lost vassal: c_tocinar
+266 - sub vassal: c_ebuliaco - Set liege on title creation d_keyasco
+266 - vassal: d_naniogo - Lost vassal: c_ebuliaco
+266 - sub vassal: d_naniogo - Lost vassal: c_ebuliaco
+266 - sub vassal: c_bosayor - Set liege on title creation d_keyasco
+266 - vassal: d_naniogo - Lost vassal: c_bosayor
+266 - sub vassal: d_naniogo - Lost vassal: c_bosayor
+266 - sub vassal: c_kacopal - Set liege on title creation d_keyasco
+266 - vassal: d_naniogo - Lost vassal: c_kacopal
+266 - sub vassal: d_naniogo - Lost vassal: c_kacopal
+266 - sub vassal: c_kiogo - Set liege on title creation d_keyasco
+266 - vassal: d_naniogo - Lost vassal: c_kiogo
+266 - sub vassal: d_naniogo - Lost vassal: c_kiogo
+266 - sub vassal: c_ebuliaco - Setting independent due to liege destruction
+266 - sub vassal: c_ebuliaco - Made independent
+266 - sub vassal: c_tocinar - Setting independent due to liege destruction
+266 - sub vassal: c_tocinar - Made independent
+266 - sub vassal: c_bosayor - Setting independent due to liege destruction
+266 - sub vassal: c_bosayor - Made independent
+266 - sub vassal: c_kacopal - Setting independent due to liege destruction
+266 - sub vassal: c_kacopal - Made independent
+266 - sub vassal: c_kiogo - Setting independent due to liege destruction
+266 - sub vassal: c_kiogo - Made independent
+266 - sub vassal: c_taginar - Holder 1006796 - Primary title: c_taginar has lost the title: c_taginar
+266 - sub vassal: c_taginar - Title given to 1006796 - Primary title: d_naniogo
+266 - vassal: d_naniogo - Holder (1006796) has gained c_taginar
+266 - sub vassal: d_naniogo - Holder (1006796) has gained c_taginar
+267 - vassal: d_naniogo - Holder (1006796) has gained d_keyasco
+267 - sub vassal: d_naniogo - Holder (1006796) has gained d_keyasco
+267 - Gained vassal: d_keyasco
+267 - vassal: d_keyasco - Made independent for title creation d_keyasco for d_naniogo
+267 - sub vassal: d_keyasco - Made independent for title creation d_keyasco for d_naniogo
+267 - vassal: d_keyasco - Made independent
+267 - sub vassal: d_keyasco - Made independent
+267 - sub vassal: c_taginar - Set liege on title creation d_keyasco
+267 - vassal: d_naniogo - Lost vassal: c_taginar
+267 - sub vassal: d_naniogo - Lost vassal: c_taginar
+267 - sub vassal: c_kiogo - Setting independent due to liege destruction
+267 - sub vassal: c_kiogo - Made independent
+267 - sub vassal: c_kacopal - Setting independent due to liege destruction
+267 - sub vassal: c_kacopal - Made independent
+267 - sub vassal: c_bosayor - Setting independent due to liege destruction
+267 - sub vassal: c_bosayor - Made independent
+267 - sub vassal: c_ebuliaco - Setting independent due to liege destruction
+267 - sub vassal: c_ebuliaco - Made independent
+267 - sub vassal: c_tocinar - Setting independent due to liege destruction
+267 - sub vassal: c_tocinar - Made independent
+267 - sub vassal: c_taginar - Setting independent due to liege destruction
+267 - sub vassal: c_taginar - Made independent
+267 - vassal: d_naniogo - Holder 1008018 - Primary title: d_naniogo has lost the title: c_taginar
+267 - sub vassal: d_naniogo - Holder 1008018 - Primary title: d_naniogo has lost the title: c_taginar
+267 - vassal: d_naniogo - Gained vassal: c_taginar
+267 - sub vassal: d_naniogo - Gained vassal: c_taginar
+268 - vassal: d_wacopal - Holder 1006887 - Primary title: d_wacopal has lost the title: d_wacopal
+268 - sub vassal: d_wacopal - Holder 1006887 - Primary title: d_wacopal has lost the title: d_wacopal
+268 - vassal: d_wacopal - Title given to 1006887
+268 - sub vassal: d_wacopal - Title given to 1006887
+268 - sub vassal: c_ringasz - Holder 1006887 - Primary title: c_ringasz has lost the title: c_ringasz
+268 - sub vassal: c_ringasz - Title given to 1006887 - Primary title: d_wacopal
+268 - vassal: d_wacopal - Holder (1006887) has gained c_ringasz
+268 - sub vassal: d_wacopal - Holder (1006887) has gained c_ringasz
+268 - sub vassal: c_legasz - Holder 1006887 - Primary title: c_legasz has lost the title: c_legasz
+268 - sub vassal: c_legasz - Title given to 1006887 - Primary title: d_wacopal
+268 - vassal: d_wacopal - Holder (1006887) has gained c_legasz
+268 - sub vassal: d_wacopal - Holder (1006887) has gained c_legasz
+268 - sub vassal: c_acalory - Holder 1006887 - Primary title: c_acalory has lost the title: c_acalory
+268 - sub vassal: c_acalory - Title given to 1006887 - Primary title: d_wacopal
+268 - vassal: d_wacopal - Holder (1006887) has gained c_acalory
+268 - sub vassal: d_wacopal - Holder (1006887) has gained c_acalory
+268 - vassal: d_naniogo - Destroyed due to no capital's obtainable
+268 - sub vassal: d_naniogo - Destroyed due to no capital's obtainable
+268 - vassal: d_naniogo - Made independent
+268 - sub vassal: d_naniogo - Made independent
+268 - Gained vassal: c_taginar
+268 - vassal: c_taginar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+268 - sub vassal: c_taginar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+268 - Lost vassal: c_taginar
+268 - sub vassal: c_agosasco - Made independent due to being a seperate island prior to giving to neighbour
+268 - sub vassal: c_agosasco - Made independent
+268 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+268 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+269 - vassal: d_aseyanar - Destroyed due to flagged problem
+269 - sub vassal: d_aseyanar - Destroyed due to flagged problem
+269 - vassal: d_aseyanar - Made independent
+269 - sub vassal: d_aseyanar - Made independent
+269 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+269 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+270 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+270 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+271 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+271 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+272 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+272 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+273 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+273 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+274 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+274 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+275 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+275 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+276 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+276 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+277 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+277 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+278 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+278 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+279 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+279 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+280 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+280 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+281 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+281 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+282 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+282 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+283 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+283 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+284 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+284 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+285 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+285 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+286 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+286 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+287 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+287 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+288 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+288 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+289 - vassal: d_wacopal - Holder 1008754 - Primary title: d_wacopal has lost the title: d_wacopal
+289 - sub vassal: d_wacopal - Holder 1008754 - Primary title: d_wacopal has lost the title: d_wacopal
+289 - vassal: d_wacopal - Title given to 1008754
+289 - sub vassal: d_wacopal - Title given to 1008754
+289 - sub vassal: c_acalory - Holder 1008754 - Primary title: c_acalory has lost the title: c_acalory
+289 - sub vassal: c_acalory - Title given to 1008754 - Primary title: d_wacopal
+289 - vassal: d_wacopal - Holder (1008754) has gained c_acalory
+289 - sub vassal: d_wacopal - Holder (1008754) has gained c_acalory
+289 - sub vassal: c_legasz - Holder 1008754 - Primary title: c_legasz has lost the title: c_legasz
+289 - sub vassal: c_legasz - Title given to 1008754 - Primary title: d_wacopal
+289 - vassal: d_wacopal - Holder (1008754) has gained c_legasz
+289 - sub vassal: d_wacopal - Holder (1008754) has gained c_legasz
+289 - sub vassal: c_ringasz - Holder 1008754 - Primary title: c_ringasz has lost the title: c_ringasz
+289 - sub vassal: c_ringasz - Title given to 1008754 - Primary title: d_wacopal
+289 - vassal: d_wacopal - Holder (1008754) has gained c_ringasz
+289 - sub vassal: d_wacopal - Holder (1008754) has gained c_ringasz
+289 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+289 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+290 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+290 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+291 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+291 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+292 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+292 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+292 - Holder 1007436 - Primary title: k_dalaerd has lost the title: k_dalaerd
+292 - Title given to 1007436
+292 - vassal: d_ryenayor - Holder 1007436 - Primary title: d_ryenayor has lost the title: d_ryenayor
+292 - sub vassal: d_ryenayor - Holder 1007436 - Primary title: d_ryenayor has lost the title: d_ryenayor
+292 - vassal: d_ryenayor - Title given to 1007436 - Primary title: k_dalaerd
+292 - sub vassal: d_ryenayor - Title given to 1007436 - Primary title: k_dalaerd
+292 - Holder (1007436) has gained d_ryenayor
+292 - sub vassal: c_tirinar - Holder 1007436 - Primary title: c_tirinar has lost the title: c_tirinar
+292 - sub vassal: c_tirinar - Title given to 1007436 - Primary title: k_dalaerd
+292 - Holder (1007436) has gained c_tirinar
+292 - sub vassal: c_seorory - Holder 1007436 - Primary title: c_seorory has lost the title: c_seorory
+292 - sub vassal: c_seorory - Title given to 1007436 - Primary title: k_dalaerd
+292 - Holder (1007436) has gained c_seorory
+292 - sub vassal: c_saloj - Holder 1007436 - Primary title: c_saloj has lost the title: c_saloj
+292 - sub vassal: c_saloj - Title given to 1007436 - Primary title: k_dalaerd
+292 - Holder (1007436) has gained c_saloj
+293 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+293 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+294 - vassal: d_wacopal - Holder 1010058 - Primary title: d_wacopal has lost the title: d_wacopal
+294 - sub vassal: d_wacopal - Holder 1010058 - Primary title: d_wacopal has lost the title: d_wacopal
+294 - vassal: d_wacopal - Title given to 1010058
+294 - sub vassal: d_wacopal - Title given to 1010058
+294 - sub vassal: c_acalory - Holder 1010058 - Primary title: c_acalory has lost the title: c_acalory
+294 - sub vassal: c_acalory - Title given to 1010058 - Primary title: d_wacopal
+294 - vassal: d_wacopal - Holder (1010058) has gained c_acalory
+294 - sub vassal: d_wacopal - Holder (1010058) has gained c_acalory
+294 - sub vassal: c_legasz - Holder 1010058 - Primary title: c_legasz has lost the title: c_legasz
+294 - sub vassal: c_legasz - Title given to 1010058 - Primary title: d_wacopal
+294 - vassal: d_wacopal - Holder (1010058) has gained c_legasz
+294 - sub vassal: d_wacopal - Holder (1010058) has gained c_legasz
+294 - sub vassal: c_ringasz - Holder 1010058 - Primary title: c_ringasz has lost the title: c_ringasz
+294 - sub vassal: c_ringasz - Title given to 1010058 - Primary title: d_wacopal
+294 - vassal: d_wacopal - Holder (1010058) has gained c_ringasz
+294 - sub vassal: d_wacopal - Holder (1010058) has gained c_ringasz
+294 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+294 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+295 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+295 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+296 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+296 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+297 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+297 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+298 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+298 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+299 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+299 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+300 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+300 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+300 - Holder 1010684 - Primary title: k_dalaerd has lost the title: k_dalaerd
+300 - Title given to 1010684
+300 - vassal: d_ryenayor - Holder 1010684 - Primary title: d_ryenayor has lost the title: d_ryenayor
+300 - sub vassal: d_ryenayor - Holder 1010684 - Primary title: d_ryenayor has lost the title: d_ryenayor
+300 - vassal: d_ryenayor - Title given to 1010684 - Primary title: k_dalaerd
+300 - sub vassal: d_ryenayor - Title given to 1010684 - Primary title: k_dalaerd
+300 - Holder (1010684) has gained d_ryenayor
+300 - sub vassal: c_saloj - Holder 1010684 - Primary title: c_saloj has lost the title: c_saloj
+300 - sub vassal: c_saloj - Title given to 1010684 - Primary title: k_dalaerd
+300 - Holder (1010684) has gained c_saloj
+300 - sub vassal: c_seorory - Holder 1010684 - Primary title: c_seorory has lost the title: c_seorory
+300 - sub vassal: c_seorory - Title given to 1010684 - Primary title: k_dalaerd
+300 - Holder (1010684) has gained c_seorory
+300 - sub vassal: c_tirinar - Holder 1010684 - Primary title: c_tirinar has lost the title: c_tirinar
+300 - sub vassal: c_tirinar - Title given to 1010684 - Primary title: k_dalaerd
+300 - Holder (1010684) has gained c_tirinar
+301 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+301 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+302 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+302 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+303 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+303 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+304 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+304 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+305 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+305 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+306 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+306 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+307 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+307 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+308 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+308 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+309 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+309 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+310 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+310 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+311 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+311 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+312 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+312 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+313 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+313 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+314 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+314 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+315 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+315 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+316 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+316 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+317 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+317 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+318 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+318 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+319 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+319 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+320 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+320 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+321 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+321 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+322 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+322 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+323 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+323 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+324 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+324 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+325 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+325 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+326 - vassal: d_wacopal - Holder 1011667 - Primary title: d_wacopal has lost the title: d_wacopal
+326 - sub vassal: d_wacopal - Holder 1011667 - Primary title: d_wacopal has lost the title: d_wacopal
+326 - vassal: d_wacopal - Title given to 1011667
+326 - sub vassal: d_wacopal - Title given to 1011667
+326 - sub vassal: c_acalory - Holder 1011667 - Primary title: c_acalory has lost the title: c_acalory
+326 - sub vassal: c_acalory - Title given to 1011667 - Primary title: d_wacopal
+326 - vassal: d_wacopal - Holder (1011667) has gained c_acalory
+326 - sub vassal: d_wacopal - Holder (1011667) has gained c_acalory
+326 - sub vassal: c_legasz - Holder 1011667 - Primary title: c_legasz has lost the title: c_legasz
+326 - sub vassal: c_legasz - Title given to 1011667 - Primary title: d_wacopal
+326 - vassal: d_wacopal - Holder (1011667) has gained c_legasz
+326 - sub vassal: d_wacopal - Holder (1011667) has gained c_legasz
+326 - sub vassal: c_ringasz - Holder 1011667 - Primary title: c_ringasz has lost the title: c_ringasz
+326 - sub vassal: c_ringasz - Title given to 1011667 - Primary title: d_wacopal
+326 - vassal: d_wacopal - Holder (1011667) has gained c_ringasz
+326 - sub vassal: d_wacopal - Holder (1011667) has gained c_ringasz
+326 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+326 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+327 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+327 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+328 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+328 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+329 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+329 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+330 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+330 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+331 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+331 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+332 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+332 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+333 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+333 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+334 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+334 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+335 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+335 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+336 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+336 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+337 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+337 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+338 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+338 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+339 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+339 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+340 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+340 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+341 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+341 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+342 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+342 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+343 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+343 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+344 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+344 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+345 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+345 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+346 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+346 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+347 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+347 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+348 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+348 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+349 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+349 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+350 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+350 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+351 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+351 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+351 - Holder 1012107 - Primary title: k_dalaerd has lost the title: k_dalaerd
+351 - Title given to 1012107
+351 - vassal: d_ryenayor - Holder 1012107 - Primary title: d_ryenayor has lost the title: d_ryenayor
+351 - sub vassal: d_ryenayor - Holder 1012107 - Primary title: d_ryenayor has lost the title: d_ryenayor
+351 - vassal: d_ryenayor - Title given to 1012107 - Primary title: k_dalaerd
+351 - sub vassal: d_ryenayor - Title given to 1012107 - Primary title: k_dalaerd
+351 - Holder (1012107) has gained d_ryenayor
+351 - sub vassal: c_saloj - Holder 1012107 - Primary title: c_saloj has lost the title: c_saloj
+351 - sub vassal: c_saloj - Title given to 1012107 - Primary title: k_dalaerd
+351 - Holder (1012107) has gained c_saloj
+351 - sub vassal: c_seorory - Holder 1012107 - Primary title: c_seorory has lost the title: c_seorory
+351 - sub vassal: c_seorory - Title given to 1012107 - Primary title: k_dalaerd
+351 - Holder (1012107) has gained c_seorory
+351 - sub vassal: c_tirinar - Holder 1012107 - Primary title: c_tirinar has lost the title: c_tirinar
+351 - sub vassal: c_tirinar - Title given to 1012107 - Primary title: k_dalaerd
+351 - Holder (1012107) has gained c_tirinar
+352 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+352 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+353 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+353 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+354 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+354 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+355 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+355 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+356 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+356 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+357 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+357 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+358 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+358 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+359 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+359 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+360 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+360 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+361 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+361 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+362 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+362 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+363 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+363 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+364 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+364 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+365 - vassal: d_wacopal - Holder 1013430 - Primary title: d_wacopal has lost the title: d_wacopal
+365 - sub vassal: d_wacopal - Holder 1013430 - Primary title: d_wacopal has lost the title: d_wacopal
+365 - vassal: d_wacopal - Title given to 1013430
+365 - sub vassal: d_wacopal - Title given to 1013430
+365 - sub vassal: c_acalory - Holder 1013430 - Primary title: c_acalory has lost the title: c_acalory
+365 - sub vassal: c_acalory - Title given to 1013430 - Primary title: d_wacopal
+365 - vassal: d_wacopal - Holder (1013430) has gained c_acalory
+365 - sub vassal: d_wacopal - Holder (1013430) has gained c_acalory
+365 - sub vassal: c_legasz - Holder 1013430 - Primary title: c_legasz has lost the title: c_legasz
+365 - sub vassal: c_legasz - Title given to 1013430 - Primary title: d_wacopal
+365 - vassal: d_wacopal - Holder (1013430) has gained c_legasz
+365 - sub vassal: d_wacopal - Holder (1013430) has gained c_legasz
+365 - sub vassal: c_ringasz - Holder 1013430 - Primary title: c_ringasz has lost the title: c_ringasz
+365 - sub vassal: c_ringasz - Title given to 1013430 - Primary title: d_wacopal
+365 - vassal: d_wacopal - Holder (1013430) has gained c_ringasz
+365 - sub vassal: d_wacopal - Holder (1013430) has gained c_ringasz
+365 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+365 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+366 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+366 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+367 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+367 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+368 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+368 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+369 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+369 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+370 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+370 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+371 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+371 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+372 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+372 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+373 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+373 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+374 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+374 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+375 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+375 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+375 - Holder 1014965 - Primary title: k_dalaerd has lost the title: k_dalaerd
+375 - Title given to 1014965
+375 - vassal: d_ryenayor - Holder 1014965 - Primary title: d_ryenayor has lost the title: d_ryenayor
+375 - sub vassal: d_ryenayor - Holder 1014965 - Primary title: d_ryenayor has lost the title: d_ryenayor
+375 - vassal: d_ryenayor - Title given to 1014965 - Primary title: k_dalaerd
+375 - sub vassal: d_ryenayor - Title given to 1014965 - Primary title: k_dalaerd
+375 - Holder (1014965) has gained d_ryenayor
+375 - sub vassal: c_tirinar - Holder 1014965 - Primary title: c_tirinar has lost the title: c_tirinar
+375 - sub vassal: c_tirinar - Title given to 1014965 - Primary title: k_dalaerd
+375 - Holder (1014965) has gained c_tirinar
+375 - sub vassal: c_seorory - Holder 1014965 - Primary title: c_seorory has lost the title: c_seorory
+375 - sub vassal: c_seorory - Title given to 1014965 - Primary title: k_dalaerd
+375 - Holder (1014965) has gained c_seorory
+375 - sub vassal: c_saloj - Holder 1014965 - Primary title: c_saloj has lost the title: c_saloj
+375 - sub vassal: c_saloj - Title given to 1014965 - Primary title: k_dalaerd
+375 - Holder (1014965) has gained c_saloj
+376 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+376 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+377 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+377 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+378 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+378 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+379 - sub vassal: c_tirinar - Made vassal of neighbour (k_apocory) due to being a seperate island
+379 - sub vassal: c_tirinar - Given to neighbour holder of k_apocory
+379 - Holder 1013430 - Primary title: k_dalaerd has lost the title: k_dalaerd
+379 - Title given to 1013430 - Primary title: d_wacopal
+379 - vassal: d_wacopal - Holder (1013430) has gained k_dalaerd
+379 - sub vassal: d_wacopal - Holder (1013430) has gained k_dalaerd
+379 - vassal: d_ryenayor - Holder 1013430 - Primary title: d_ryenayor has lost the title: d_ryenayor
+379 - sub vassal: d_ryenayor - Holder 1013430 - Primary title: d_ryenayor has lost the title: d_ryenayor
+379 - vassal: d_ryenayor - Title given to 1013430 - Primary title: k_dalaerd
+379 - sub vassal: d_ryenayor - Title given to 1013430 - Primary title: k_dalaerd
+379 - Holder (1013430) has gained d_ryenayor
+379 - sub vassal: c_tirinar - Holder 1013430 - Primary title: c_tirinar has lost the title: c_tirinar
+379 - sub vassal: c_tirinar - Title given to 1013430 - Primary title: k_dalaerd
+379 - Holder (1013430) has gained c_tirinar
+379 - sub vassal: c_seorory - Holder 1013430 - Primary title: c_seorory has lost the title: c_seorory
+379 - sub vassal: c_seorory - Title given to 1013430 - Primary title: k_dalaerd
+379 - Holder (1013430) has gained c_seorory
+379 - sub vassal: c_saloj - Holder 1013430 - Primary title: c_saloj has lost the title: c_saloj
+379 - sub vassal: c_saloj - Title given to 1013430 - Primary title: k_dalaerd
+379 - Holder (1013430) has gained c_saloj
+380 - Holder 1016732 - Primary title: k_dalaerd has lost the title: c_saloj
+380 - sub vassal: c_saloj - Title given to 1016732
+380 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+380 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+381 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+381 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+382 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+382 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+383 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+383 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+383 - Holder 1015796 - Primary title: k_dalaerd has lost the title: k_dalaerd
+383 - Title given to 1015796
+383 - vassal: d_wacopal - Holder 1015796 - Primary title: d_wacopal has lost the title: d_wacopal
+383 - sub vassal: d_wacopal - Holder 1015796 - Primary title: d_wacopal has lost the title: d_wacopal
+383 - vassal: d_wacopal - Title given to 1015796 - Primary title: k_dalaerd
+383 - sub vassal: d_wacopal - Title given to 1015796 - Primary title: k_dalaerd
+383 - Holder (1015796) has gained d_wacopal
+383 - sub vassal: c_ringasz - Setting to vassal of d_ryenayor in Validate Realm
+383 - vassal: d_wacopal - Lost vassal: c_ringasz
+383 - sub vassal: d_wacopal - Lost vassal: c_ringasz
+383 - sub vassal: c_legasz - Setting to vassal of d_ryenayor in Validate Realm
+383 - vassal: d_wacopal - Lost vassal: c_legasz
+383 - sub vassal: d_wacopal - Lost vassal: c_legasz
+383 - sub vassal: c_acalory - Setting to vassal of d_ryenayor in Validate Realm
+383 - vassal: d_wacopal - Lost vassal: c_acalory
+383 - sub vassal: d_wacopal - Lost vassal: c_acalory
+383 - vassal: d_ryenayor - Gained vassal: c_acalory
+383 - sub vassal: d_ryenayor - Gained vassal: c_acalory
+383 - vassal: d_ryenayor - Gained vassal: c_legasz
+383 - sub vassal: d_ryenayor - Gained vassal: c_legasz
+383 - vassal: d_ryenayor - Gained vassal: c_ringasz
+383 - sub vassal: d_ryenayor - Gained vassal: c_ringasz
+383 - vassal: d_ryenayor - Holder 1015796 - Primary title: d_ryenayor has lost the title: d_ryenayor
+383 - sub vassal: d_ryenayor - Holder 1015796 - Primary title: d_ryenayor has lost the title: d_ryenayor
+383 - vassal: d_ryenayor - Title given to 1015796 - Primary title: k_dalaerd
+383 - sub vassal: d_ryenayor - Title given to 1015796 - Primary title: k_dalaerd
+383 - Holder (1015796) has gained d_ryenayor
+383 - sub vassal: c_seorory - Holder 1015796 - Primary title: c_seorory has lost the title: c_seorory
+383 - sub vassal: c_seorory - Title given to 1015796 - Primary title: k_dalaerd
+383 - Holder (1015796) has gained c_seorory
+383 - sub vassal: c_tirinar - Holder 1015796 - Primary title: c_tirinar has lost the title: c_tirinar
+383 - sub vassal: c_tirinar - Title given to 1015796 - Primary title: k_dalaerd
+383 - Holder (1015796) has gained c_tirinar
+383 - sub vassal: c_ringasz - Holder 1015796 - Primary title: c_ringasz has lost the title: c_ringasz
+383 - sub vassal: c_ringasz - Title given to 1015796 - Primary title: k_dalaerd
+383 - Holder (1015796) has gained c_ringasz
+383 - sub vassal: c_legasz - Holder 1015796 - Primary title: c_legasz has lost the title: c_legasz
+383 - sub vassal: c_legasz - Title given to 1015796 - Primary title: k_dalaerd
+383 - Holder (1015796) has gained c_legasz
+383 - sub vassal: c_acalory - Holder 1015796 - Primary title: c_acalory has lost the title: c_acalory
+383 - sub vassal: c_acalory - Title given to 1015796 - Primary title: k_dalaerd
+383 - Holder (1015796) has gained c_acalory
+384 - vassal: d_wacopal - Destroyed due to flagged problem
+384 - sub vassal: d_wacopal - Destroyed due to flagged problem
+384 - vassal: d_wacopal - Made independent
+384 - sub vassal: d_wacopal - Made independent
+384 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+384 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+385 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+385 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+386 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+386 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+387 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+387 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+388 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+388 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+389 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+389 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+390 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+390 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+391 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+391 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+392 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+392 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+393 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+393 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+394 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+394 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+395 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+395 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+395 - Holder 1017144 - Primary title: k_dalaerd has lost the title: k_dalaerd
+395 - Title given to 1017144
+395 - vassal: d_ryenayor - Holder 1017144 - Primary title: d_ryenayor has lost the title: d_ryenayor
+395 - sub vassal: d_ryenayor - Holder 1017144 - Primary title: d_ryenayor has lost the title: d_ryenayor
+395 - vassal: d_ryenayor - Title given to 1017144 - Primary title: k_dalaerd
+395 - sub vassal: d_ryenayor - Title given to 1017144 - Primary title: k_dalaerd
+395 - Holder (1017144) has gained d_ryenayor
+395 - sub vassal: c_seorory - Holder 1017144 - Primary title: c_seorory has lost the title: c_seorory
+395 - sub vassal: c_seorory - Title given to 1017144 - Primary title: k_dalaerd
+395 - Holder (1017144) has gained c_seorory
+395 - sub vassal: c_tirinar - Holder 1017144 - Primary title: c_tirinar has lost the title: c_tirinar
+395 - sub vassal: c_tirinar - Title given to 1017144 - Primary title: k_dalaerd
+395 - Holder (1017144) has gained c_tirinar
+395 - sub vassal: c_ringasz - Holder 1017144 - Primary title: c_ringasz has lost the title: c_ringasz
+395 - sub vassal: c_ringasz - Title given to 1017144 - Primary title: k_dalaerd
+395 - Holder (1017144) has gained c_ringasz
+395 - sub vassal: c_legasz - Holder 1017144 - Primary title: c_legasz has lost the title: c_legasz
+395 - sub vassal: c_legasz - Title given to 1017144 - Primary title: k_dalaerd
+395 - Holder (1017144) has gained c_legasz
+395 - sub vassal: c_acalory - Holder 1017144 - Primary title: c_acalory has lost the title: c_acalory
+395 - sub vassal: c_acalory - Title given to 1017144 - Primary title: k_dalaerd
+395 - Holder (1017144) has gained c_acalory
+396 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+396 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+397 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+397 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+398 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+398 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo
+398 - Holder 1017966 - Primary title: k_dalaerd has lost the title: k_dalaerd
+398 - Title given to 1017966
+398 - vassal: d_ryenayor - Holder 1017966 - Primary title: d_ryenayor has lost the title: d_ryenayor
+398 - sub vassal: d_ryenayor - Holder 1017966 - Primary title: d_ryenayor has lost the title: d_ryenayor
+398 - vassal: d_ryenayor - Title given to 1017966 - Primary title: k_dalaerd
+398 - sub vassal: d_ryenayor - Title given to 1017966 - Primary title: k_dalaerd
+398 - Holder (1017966) has gained d_ryenayor
+398 - sub vassal: c_seorory - Holder 1017966 - Primary title: c_seorory has lost the title: c_seorory
+398 - sub vassal: c_seorory - Title given to 1017966 - Primary title: k_dalaerd
+398 - Holder (1017966) has gained c_seorory
+398 - sub vassal: c_tirinar - Holder 1017966 - Primary title: c_tirinar has lost the title: c_tirinar
+398 - sub vassal: c_tirinar - Title given to 1017966 - Primary title: k_dalaerd
+398 - Holder (1017966) has gained c_tirinar
+398 - sub vassal: c_ringasz - Holder 1017966 - Primary title: c_ringasz has lost the title: c_ringasz
+398 - sub vassal: c_ringasz - Title given to 1017966 - Primary title: k_dalaerd
+398 - Holder (1017966) has gained c_ringasz
+398 - sub vassal: c_legasz - Holder 1017966 - Primary title: c_legasz has lost the title: c_legasz
+398 - sub vassal: c_legasz - Title given to 1017966 - Primary title: k_dalaerd
+398 - Holder (1017966) has gained c_legasz
+398 - sub vassal: c_acalory - Holder 1017966 - Primary title: c_acalory has lost the title: c_acalory
+398 - sub vassal: c_acalory - Title given to 1017966 - Primary title: k_dalaerd
+398 - Holder (1017966) has gained c_acalory
+399 - sub vassal: c_tirinar - Made vassal of neighbour (k_riudeo) due to being a seperate island
+399 - sub vassal: c_tirinar - Given to neighbour holder of k_riudeo

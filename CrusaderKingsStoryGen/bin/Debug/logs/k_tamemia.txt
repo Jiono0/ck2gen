@@ -1,0 +1,411 @@
+200 - Title given to 1001461
+200 - vassal: d_tavike - Holder 1001461 - Primary title: d_tavike has lost the title: d_tavike
+200 - sub vassal: d_tavike - Holder 1001461 - Primary title: d_tavike has lost the title: d_tavike
+200 - vassal: d_tavike - Title given to 1001461 - Primary title: k_tamemia
+200 - sub vassal: d_tavike - Title given to 1001461 - Primary title: k_tamemia
+200 - Holder (1001461) has gained d_tavike
+200 - sub vassal: c_wetla - Holder 1001461 - Primary title: c_wetla has lost the title: c_wetla
+200 - sub vassal: c_wetla - Title given to 1001461 - Primary title: k_tamemia
+200 - Holder (1001461) has gained c_wetla
+200 - vassal: d_ravemia - Holder 1000125 - Primary title: d_ravemia has lost the title: d_ravemia
+200 - sub vassal: d_ravemia - Holder 1000125 - Primary title: d_ravemia has lost the title: d_ravemia
+200 - vassal: d_ravemia - Title given to 1000125 - Primary title: d_eruyan
+200 - sub vassal: d_ravemia - Title given to 1000125 - Primary title: d_eruyan
+200 - vassal: d_eruyan - Holder (1000125) has gained d_ravemia
+200 - sub vassal: d_eruyan - Holder (1000125) has gained d_ravemia
+200 - sub vassal: c_edyu - Holder 1000125 - Primary title: c_edyu has lost the title: c_edyu
+200 - sub vassal: c_edyu - Title given to 1000125 - Primary title: d_eruyan
+200 - vassal: d_eruyan - Holder (1000125) has gained c_edyu
+200 - sub vassal: d_eruyan - Holder (1000125) has gained c_edyu
+200 - sub vassal: c_nadiazis - Holder 1000125 - Primary title: c_nadiazis has lost the title: c_nadiazis
+200 - sub vassal: c_nadiazis - Title given to 1000125 - Primary title: d_eruyan
+200 - vassal: d_eruyan - Holder (1000125) has gained c_nadiazis
+200 - sub vassal: d_eruyan - Holder (1000125) has gained c_nadiazis
+205 - Holder 1000100 - Primary title: k_tamemia has lost the title: k_tamemia
+205 - Title given to 1000100 - Primary title: d_edelgil
+205 - vassal: d_edelgil - Holder (1000100) has gained k_tamemia
+205 - sub vassal: d_edelgil - Holder (1000100) has gained k_tamemia
+205 - vassal: d_tavike - Holder 1000100 - Primary title: d_tavike has lost the title: d_tavike
+205 - sub vassal: d_tavike - Holder 1000100 - Primary title: d_tavike has lost the title: d_tavike
+205 - vassal: d_tavike - Title given to 1000100 - Primary title: k_tamemia
+205 - sub vassal: d_tavike - Title given to 1000100 - Primary title: k_tamemia
+205 - Holder (1000100) has gained d_tavike
+205 - sub vassal: c_wetla - Holder 1000100 - Primary title: c_wetla has lost the title: c_wetla
+205 - sub vassal: c_wetla - Title given to 1000100 - Primary title: k_tamemia
+205 - Holder (1000100) has gained c_wetla
+220 - vassal: d_ravemia - Holder 1002316 - Primary title: d_ravemia has lost the title: d_ravemia
+220 - sub vassal: d_ravemia - Holder 1002316 - Primary title: d_ravemia has lost the title: d_ravemia
+220 - vassal: d_ravemia - Title given to 1002316
+220 - sub vassal: d_ravemia - Title given to 1002316
+220 - sub vassal: c_nadiazis - Setting to vassal of d_eruyan in Validate Realm
+220 - vassal: d_ravemia - Lost vassal: c_nadiazis
+220 - sub vassal: d_ravemia - Lost vassal: c_nadiazis
+220 - sub vassal: c_edyu - Setting to vassal of d_eruyan in Validate Realm
+220 - vassal: d_ravemia - Lost vassal: c_edyu
+220 - sub vassal: d_ravemia - Lost vassal: c_edyu
+220 - vassal: d_eruyan - Gained vassal: c_edyu
+220 - sub vassal: d_eruyan - Gained vassal: c_edyu
+220 - vassal: d_eruyan - Gained vassal: c_nadiazis
+220 - sub vassal: d_eruyan - Gained vassal: c_nadiazis
+220 - vassal: d_eruyan - Holder 1002316 - Primary title: d_eruyan has lost the title: d_eruyan
+220 - sub vassal: d_eruyan - Holder 1002316 - Primary title: d_eruyan has lost the title: d_eruyan
+220 - vassal: d_eruyan - Title given to 1002316 - Primary title: d_ravemia
+220 - sub vassal: d_eruyan - Title given to 1002316 - Primary title: d_ravemia
+220 - vassal: d_ravemia - Holder (1002316) has gained d_eruyan
+220 - sub vassal: d_ravemia - Holder (1002316) has gained d_eruyan
+220 - sub vassal: c_nadiazis - Holder 1002316 - Primary title: c_nadiazis has lost the title: c_nadiazis
+220 - sub vassal: c_nadiazis - Title given to 1002316 - Primary title: d_ravemia
+220 - vassal: d_ravemia - Holder (1002316) has gained c_nadiazis
+220 - sub vassal: d_ravemia - Holder (1002316) has gained c_nadiazis
+220 - sub vassal: c_edyu - Holder 1002316 - Primary title: c_edyu has lost the title: c_edyu
+220 - sub vassal: c_edyu - Title given to 1002316 - Primary title: d_ravemia
+220 - vassal: d_ravemia - Holder (1002316) has gained c_edyu
+220 - sub vassal: d_ravemia - Holder (1002316) has gained c_edyu
+220 - sub vassal: c_tumyu - Holder 1002316 - Primary title: c_tumyu has lost the title: c_tumyu
+220 - sub vassal: c_tumyu - Title given to 1002316 - Primary title: d_ravemia
+220 - vassal: d_ravemia - Holder (1002316) has gained c_tumyu
+220 - sub vassal: d_ravemia - Holder (1002316) has gained c_tumyu
+220 - sub vassal: c_samirkuh - Holder 1002316 - Primary title: c_samirkuh has lost the title: c_samirkuh
+220 - sub vassal: c_samirkuh - Title given to 1002316 - Primary title: d_ravemia
+220 - vassal: d_ravemia - Holder (1002316) has gained c_samirkuh
+220 - sub vassal: d_ravemia - Holder (1002316) has gained c_samirkuh
+221 - vassal: d_ravemia - Destroyed due to flagged problem
+221 - sub vassal: d_ravemia - Destroyed due to flagged problem
+221 - vassal: d_ravemia - Made independent
+221 - sub vassal: d_ravemia - Made independent
+224 - Holder 1002317 - Primary title: k_tamemia has lost the title: k_tamemia
+224 - Title given to 1002317
+224 - vassal: d_tavike - Holder 1002317 - Primary title: d_tavike has lost the title: d_tavike
+224 - sub vassal: d_tavike - Holder 1002317 - Primary title: d_tavike has lost the title: d_tavike
+224 - vassal: d_tavike - Title given to 1002317 - Primary title: k_tamemia
+224 - sub vassal: d_tavike - Title given to 1002317 - Primary title: k_tamemia
+224 - Holder (1002317) has gained d_tavike
+224 - sub vassal: c_wetla - Setting to vassal of d_edelgil in Validate Realm
+224 - vassal: d_tavike - Lost vassal: c_wetla
+224 - sub vassal: d_tavike - Lost vassal: c_wetla
+224 - vassal: d_edelgil - Gained vassal: c_wetla
+224 - sub vassal: d_edelgil - Gained vassal: c_wetla
+224 - vassal: d_edelgil - Holder 1002317 - Primary title: d_edelgil has lost the title: d_edelgil
+224 - sub vassal: d_edelgil - Holder 1002317 - Primary title: d_edelgil has lost the title: d_edelgil
+224 - vassal: d_edelgil - Title given to 1002317 - Primary title: k_tamemia
+224 - sub vassal: d_edelgil - Title given to 1002317 - Primary title: k_tamemia
+224 - Holder (1002317) has gained d_edelgil
+224 - sub vassal: c_wetla - Holder 1002317 - Primary title: c_wetla has lost the title: c_wetla
+224 - sub vassal: c_wetla - Title given to 1002317 - Primary title: k_tamemia
+224 - Holder (1002317) has gained c_wetla
+224 - sub vassal: c_qavao - Holder 1002317 - Primary title: c_qavao has lost the title: c_qavao
+224 - sub vassal: c_qavao - Title given to 1002317 - Primary title: k_tamemia
+224 - Holder (1002317) has gained c_qavao
+224 - sub vassal: c_kocenmi - Holder 1002317 - Primary title: c_kocenmi has lost the title: c_kocenmi
+224 - sub vassal: c_kocenmi - Title given to 1002317 - Primary title: k_tamemia
+224 - Holder (1002317) has gained c_kocenmi
+224 - sub vassal: c_riazis - Holder 1002317 - Primary title: c_riazis has lost the title: c_riazis
+224 - sub vassal: c_riazis - Title given to 1002317 - Primary title: k_tamemia
+224 - Holder (1002317) has gained c_riazis
+227 - vassal: d_eruyan - Holder (1002316) has gained d_ravemia
+227 - sub vassal: d_eruyan - Holder (1002316) has gained d_ravemia
+227 - Gained vassal: d_ravemia
+227 - vassal: d_ravemia - Made independent for title creation d_ravemia for d_eruyan
+227 - sub vassal: d_ravemia - Made independent for title creation d_ravemia for d_eruyan
+227 - vassal: d_ravemia - Made independent
+227 - sub vassal: d_ravemia - Made independent
+227 - sub vassal: c_nadiazis - Set liege on title creation d_ravemia
+227 - vassal: d_eruyan - Lost vassal: c_nadiazis
+227 - sub vassal: d_eruyan - Lost vassal: c_nadiazis
+227 - sub vassal: c_edyu - Set liege on title creation d_ravemia
+227 - vassal: d_eruyan - Lost vassal: c_edyu
+227 - sub vassal: d_eruyan - Lost vassal: c_edyu
+227 - sub vassal: c_tumyu - Set liege on title creation d_ravemia
+227 - vassal: d_eruyan - Lost vassal: c_tumyu
+227 - sub vassal: d_eruyan - Lost vassal: c_tumyu
+227 - sub vassal: c_samirkuh - Set liege on title creation d_ravemia
+227 - vassal: d_eruyan - Lost vassal: c_samirkuh
+227 - sub vassal: d_eruyan - Lost vassal: c_samirkuh
+227 - sub vassal: c_edyu - Setting independent due to liege destruction
+227 - sub vassal: c_edyu - Made independent
+227 - sub vassal: c_nadiazis - Setting independent due to liege destruction
+227 - sub vassal: c_nadiazis - Made independent
+227 - sub vassal: c_tumyu - Setting independent due to liege destruction
+227 - sub vassal: c_tumyu - Made independent
+227 - sub vassal: c_samirkuh - Setting independent due to liege destruction
+227 - sub vassal: c_samirkuh - Made independent
+228 - vassal: d_eruyan - Destroyed due to flagged problem
+228 - sub vassal: d_eruyan - Destroyed due to flagged problem
+228 - vassal: d_eruyan - Made independent
+228 - sub vassal: d_eruyan - Made independent
+228 - vassal: d_qavie - Made vassal of neighbour (k_qihike) due to being a seperate island
+228 - sub vassal: d_qavie - Made vassal of neighbour (k_qihike) due to being a seperate island
+228 - Lost vassal: d_qavie
+228 - Holder (1002317) has gained c_tumyu
+228 - Holder (1002317) has gained c_samirkuh
+229 - Holder 1004438 - Primary title: k_tamemia has lost the title: c_wetla
+229 - sub vassal: c_wetla - Title given to 1004438
+242 - Gained vassal: c_edyu
+256 - vassal: d_lolaydum - Holder 1002317 - Primary title: d_lolaydum has lost the title: d_lolaydum
+256 - sub vassal: d_lolaydum - Holder 1002317 - Primary title: d_lolaydum has lost the title: d_lolaydum
+256 - vassal: d_lolaydum - Title given to 1002317 - Primary title: k_tamemia
+256 - sub vassal: d_lolaydum - Title given to 1002317 - Primary title: k_tamemia
+256 - Holder (1002317) has gained d_lolaydum
+256 - sub vassal: c_kavie - Holder 1002317 - Primary title: c_kavie has lost the title: c_kavie
+256 - sub vassal: c_kavie - Title given to 1002317 - Primary title: k_tamemia
+256 - Holder (1002317) has gained c_kavie
+256 - sub vassal: c_erelgil - Holder 1002317 - Primary title: c_erelgil has lost the title: c_erelgil
+256 - sub vassal: c_erelgil - Title given to 1002317 - Primary title: k_tamemia
+256 - Holder (1002317) has gained c_erelgil
+256 - sub vassal: c_riazis - Given to 1006498 in HandleTitles - Too many duke titles
+256 - Holder 1006498 - Primary title: k_tamemia has lost the title: c_riazis
+256 - sub vassal: c_riazis - Title given to 1006498
+256 - Holder 1006498 - Primary title: k_tamemia has lost the title: d_edelgil
+256 - vassal: d_edelgil - Title given to 1006498 - Primary title: c_riazis
+256 - sub vassal: d_edelgil - Title given to 1006498 - Primary title: c_riazis
+256 - sub vassal: c_riazis - Holder (1006498) has gained d_edelgil
+256 - sub vassal: c_kocenmi - Setting to vassal of k_tamemia in Validate Realm
+256 - vassal: d_edelgil - Lost vassal: c_kocenmi
+256 - sub vassal: d_edelgil - Lost vassal: c_kocenmi
+256 - sub vassal: c_qavao - Setting to vassal of k_tamemia in Validate Realm
+256 - vassal: d_edelgil - Lost vassal: c_qavao
+256 - sub vassal: d_edelgil - Lost vassal: c_qavao
+256 - Gained vassal: c_qavao
+256 - Gained vassal: c_kocenmi
+256 - vassal: d_edelgil - Too many dukes, given to dejure: k_tamemia
+256 - sub vassal: d_edelgil - Too many dukes, given to dejure: k_tamemia
+256 - Holder 1006499 - Primary title: k_tamemia has lost the title: c_samirkuh
+256 - Gained vassal: c_samirkuh
+262 - vassal: d_edelgil - Holder 1006631 - Primary title: d_edelgil has lost the title: d_edelgil
+262 - sub vassal: d_edelgil - Holder 1006631 - Primary title: d_edelgil has lost the title: d_edelgil
+262 - vassal: d_edelgil - Title given to 1006631
+262 - sub vassal: d_edelgil - Title given to 1006631
+262 - sub vassal: c_riazis - Holder 1006631 - Primary title: c_riazis has lost the title: c_riazis
+262 - sub vassal: c_riazis - Title given to 1006631 - Primary title: d_edelgil
+262 - vassal: d_edelgil - Holder (1006631) has gained c_riazis
+262 - sub vassal: d_edelgil - Holder (1006631) has gained c_riazis
+264 - Holder 1004740 - Primary title: k_tamemia has lost the title: k_tamemia
+264 - Title given to 1004740
+264 - vassal: d_tavike - Holder 1004740 - Primary title: d_tavike has lost the title: d_tavike
+264 - sub vassal: d_tavike - Holder 1004740 - Primary title: d_tavike has lost the title: d_tavike
+264 - vassal: d_tavike - Title given to 1004740 - Primary title: k_tamemia
+264 - sub vassal: d_tavike - Title given to 1004740 - Primary title: k_tamemia
+264 - Holder (1004740) has gained d_tavike
+264 - vassal: c_qavao - Setting to vassal of d_lolaydum in Validate Realm
+264 - sub vassal: c_qavao - Setting to vassal of d_lolaydum in Validate Realm
+264 - Lost vassal: c_qavao
+264 - vassal: c_kocenmi - Setting to vassal of d_lolaydum in Validate Realm
+264 - sub vassal: c_kocenmi - Setting to vassal of d_lolaydum in Validate Realm
+264 - Lost vassal: c_kocenmi
+264 - vassal: d_lolaydum - Gained vassal: c_kocenmi
+264 - sub vassal: d_lolaydum - Gained vassal: c_kocenmi
+264 - vassal: d_lolaydum - Gained vassal: c_qavao
+264 - sub vassal: d_lolaydum - Gained vassal: c_qavao
+264 - vassal: d_lolaydum - Holder 1004740 - Primary title: d_lolaydum has lost the title: d_lolaydum
+264 - sub vassal: d_lolaydum - Holder 1004740 - Primary title: d_lolaydum has lost the title: d_lolaydum
+264 - vassal: d_lolaydum - Title given to 1004740 - Primary title: k_tamemia
+264 - sub vassal: d_lolaydum - Title given to 1004740 - Primary title: k_tamemia
+264 - Holder (1004740) has gained d_lolaydum
+264 - sub vassal: c_erelgil - Holder 1004740 - Primary title: c_erelgil has lost the title: c_erelgil
+264 - sub vassal: c_erelgil - Title given to 1004740 - Primary title: k_tamemia
+264 - Holder (1004740) has gained c_erelgil
+264 - sub vassal: c_kavie - Holder 1004740 - Primary title: c_kavie has lost the title: c_kavie
+264 - sub vassal: c_kavie - Title given to 1004740 - Primary title: k_tamemia
+264 - Holder (1004740) has gained c_kavie
+264 - sub vassal: c_qavao - Holder 1004740 - Primary title: c_qavao has lost the title: c_qavao
+264 - sub vassal: c_qavao - Title given to 1004740 - Primary title: k_tamemia
+264 - Holder (1004740) has gained c_qavao
+264 - sub vassal: c_kocenmi - Holder 1004740 - Primary title: c_kocenmi has lost the title: c_kocenmi
+264 - sub vassal: c_kocenmi - Title given to 1004740 - Primary title: k_tamemia
+264 - Holder (1004740) has gained c_kocenmi
+264 - Holder (1004740) has gained c_tumyu
+268 - Holder 1006631 - Primary title: k_tamemia has lost the title: k_tamemia
+268 - Title given to 1006631 - Primary title: d_edelgil
+268 - vassal: d_edelgil - Holder (1006631) has gained k_tamemia
+268 - sub vassal: d_edelgil - Holder (1006631) has gained k_tamemia
+268 - vassal: d_tavike - Holder 1006631 - Primary title: d_tavike has lost the title: d_tavike
+268 - sub vassal: d_tavike - Holder 1006631 - Primary title: d_tavike has lost the title: d_tavike
+268 - vassal: d_tavike - Title given to 1006631 - Primary title: k_tamemia
+268 - sub vassal: d_tavike - Title given to 1006631 - Primary title: k_tamemia
+268 - Holder (1006631) has gained d_tavike
+268 - vassal: d_lolaydum - Holder 1006631 - Primary title: d_lolaydum has lost the title: d_lolaydum
+268 - sub vassal: d_lolaydum - Holder 1006631 - Primary title: d_lolaydum has lost the title: d_lolaydum
+268 - vassal: d_lolaydum - Title given to 1006631 - Primary title: k_tamemia
+268 - sub vassal: d_lolaydum - Title given to 1006631 - Primary title: k_tamemia
+268 - Holder (1006631) has gained d_lolaydum
+268 - sub vassal: c_erelgil - Holder 1006631 - Primary title: c_erelgil has lost the title: c_erelgil
+268 - sub vassal: c_erelgil - Title given to 1006631 - Primary title: k_tamemia
+268 - Holder (1006631) has gained c_erelgil
+268 - sub vassal: c_kavie - Holder 1006631 - Primary title: c_kavie has lost the title: c_kavie
+268 - sub vassal: c_kavie - Title given to 1006631 - Primary title: k_tamemia
+268 - Holder (1006631) has gained c_kavie
+268 - sub vassal: c_qavao - Holder 1006631 - Primary title: c_qavao has lost the title: c_qavao
+268 - sub vassal: c_qavao - Title given to 1006631 - Primary title: k_tamemia
+268 - Holder (1006631) has gained c_qavao
+268 - sub vassal: c_kocenmi - Holder 1006631 - Primary title: c_kocenmi has lost the title: c_kocenmi
+268 - sub vassal: c_kocenmi - Title given to 1006631 - Primary title: k_tamemia
+268 - Holder (1006631) has gained c_kocenmi
+268 - Holder (1006631) has gained c_tumyu
+269 - sub vassal: c_riazis - Given to 1007553 in HandleTitles - Too many duke titles
+269 - Holder 1007553 - Primary title: k_tamemia has lost the title: c_riazis
+269 - sub vassal: c_riazis - Title given to 1007553
+269 - Holder 1007553 - Primary title: k_tamemia has lost the title: d_edelgil
+269 - vassal: d_edelgil - Title given to 1007553 - Primary title: c_riazis
+269 - sub vassal: d_edelgil - Title given to 1007553 - Primary title: c_riazis
+269 - sub vassal: c_riazis - Holder (1007553) has gained d_edelgil
+269 - vassal: d_edelgil - Too many dukes, given to dejure: k_tamemia
+269 - sub vassal: d_edelgil - Too many dukes, given to dejure: k_tamemia
+279 - vassal: d_edelgil - Holder 1007889 - Primary title: d_edelgil has lost the title: d_edelgil
+279 - sub vassal: d_edelgil - Holder 1007889 - Primary title: d_edelgil has lost the title: d_edelgil
+279 - vassal: d_edelgil - Title given to 1007889
+279 - sub vassal: d_edelgil - Title given to 1007889
+279 - sub vassal: c_riazis - Holder 1007889 - Primary title: c_riazis has lost the title: c_riazis
+279 - sub vassal: c_riazis - Title given to 1007889 - Primary title: d_edelgil
+279 - vassal: d_edelgil - Holder (1007889) has gained c_riazis
+279 - sub vassal: d_edelgil - Holder (1007889) has gained c_riazis
+281 - vassal: d_edelgil - Holder 1006631 - Primary title: d_edelgil has lost the title: d_edelgil
+281 - sub vassal: d_edelgil - Holder 1006631 - Primary title: d_edelgil has lost the title: d_edelgil
+281 - vassal: d_edelgil - Title given to 1006631 - Primary title: k_tamemia
+281 - sub vassal: d_edelgil - Title given to 1006631 - Primary title: k_tamemia
+281 - Holder (1006631) has gained d_edelgil
+281 - sub vassal: c_riazis - Holder 1006631 - Primary title: c_riazis has lost the title: c_riazis
+281 - sub vassal: c_riazis - Title given to 1006631 - Primary title: k_tamemia
+281 - Holder (1006631) has gained c_riazis
+281 - sub vassal: c_erelgil - Given to 1008430 in HandleTitles - Too many duke titles
+281 - Holder 1008430 - Primary title: k_tamemia has lost the title: c_erelgil
+281 - sub vassal: c_erelgil - Title given to 1008430
+281 - Holder 1008430 - Primary title: k_tamemia has lost the title: d_lolaydum
+281 - vassal: d_lolaydum - Title given to 1008430 - Primary title: c_erelgil
+281 - sub vassal: d_lolaydum - Title given to 1008430 - Primary title: c_erelgil
+281 - sub vassal: c_erelgil - Holder (1008430) has gained d_lolaydum
+281 - sub vassal: c_kocenmi - Setting to vassal of k_tamemia in Validate Realm
+281 - vassal: d_lolaydum - Lost vassal: c_kocenmi
+281 - sub vassal: d_lolaydum - Lost vassal: c_kocenmi
+281 - sub vassal: c_qavao - Setting to vassal of k_tamemia in Validate Realm
+281 - vassal: d_lolaydum - Lost vassal: c_qavao
+281 - sub vassal: d_lolaydum - Lost vassal: c_qavao
+281 - sub vassal: c_kavie - Setting to vassal of k_tamemia in Validate Realm
+281 - vassal: d_lolaydum - Lost vassal: c_kavie
+281 - sub vassal: d_lolaydum - Lost vassal: c_kavie
+281 - Gained vassal: c_kavie
+281 - Gained vassal: c_qavao
+281 - Gained vassal: c_kocenmi
+281 - vassal: d_lolaydum - Too many dukes, given to dejure: k_tamemia
+281 - sub vassal: d_lolaydum - Too many dukes, given to dejure: k_tamemia
+283 - Holder 1008348 - Primary title: k_tamemia has lost the title: k_tamemia
+283 - Title given to 1008348
+283 - vassal: d_tavike - Holder 1008348 - Primary title: d_tavike has lost the title: d_tavike
+283 - sub vassal: d_tavike - Holder 1008348 - Primary title: d_tavike has lost the title: d_tavike
+283 - vassal: d_tavike - Title given to 1008348 - Primary title: k_tamemia
+283 - sub vassal: d_tavike - Title given to 1008348 - Primary title: k_tamemia
+283 - Holder (1008348) has gained d_tavike
+283 - vassal: c_kocenmi - Setting to vassal of d_edelgil in Validate Realm
+283 - sub vassal: c_kocenmi - Setting to vassal of d_edelgil in Validate Realm
+283 - Lost vassal: c_kocenmi
+283 - vassal: c_qavao - Setting to vassal of d_edelgil in Validate Realm
+283 - sub vassal: c_qavao - Setting to vassal of d_edelgil in Validate Realm
+283 - Lost vassal: c_qavao
+283 - vassal: c_kavie - Setting to vassal of d_edelgil in Validate Realm
+283 - sub vassal: c_kavie - Setting to vassal of d_edelgil in Validate Realm
+283 - Lost vassal: c_kavie
+283 - vassal: d_edelgil - Gained vassal: c_kavie
+283 - sub vassal: d_edelgil - Gained vassal: c_kavie
+283 - vassal: d_edelgil - Gained vassal: c_qavao
+283 - sub vassal: d_edelgil - Gained vassal: c_qavao
+283 - vassal: d_edelgil - Gained vassal: c_kocenmi
+283 - sub vassal: d_edelgil - Gained vassal: c_kocenmi
+283 - vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: c_tumyu
+283 - sub vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: c_tumyu
+283 - Holder (1008348) has gained c_tumyu
+283 - vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: c_kocenmi
+283 - sub vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: c_kocenmi
+283 - sub vassal: c_kocenmi - Title given to 1008348 - Primary title: k_tamemia
+283 - Holder (1008348) has gained c_kocenmi
+283 - sub vassal: c_kocenmi - Setting to vassal of k_tamemia in Validate Realm
+283 - vassal: d_edelgil - Lost vassal: c_kocenmi
+283 - sub vassal: d_edelgil - Lost vassal: c_kocenmi
+283 - Gained vassal: c_kocenmi
+283 - vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: c_qavao
+283 - sub vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: c_qavao
+283 - sub vassal: c_qavao - Title given to 1008348 - Primary title: k_tamemia
+283 - Holder (1008348) has gained c_qavao
+283 - sub vassal: c_qavao - Setting to vassal of k_tamemia in Validate Realm
+283 - vassal: d_edelgil - Lost vassal: c_qavao
+283 - sub vassal: d_edelgil - Lost vassal: c_qavao
+283 - Gained vassal: c_qavao
+283 - vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: c_kavie
+283 - sub vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: c_kavie
+283 - sub vassal: c_kavie - Title given to 1008348 - Primary title: k_tamemia
+283 - Holder (1008348) has gained c_kavie
+283 - sub vassal: c_kavie - Setting to vassal of k_tamemia in Validate Realm
+283 - vassal: d_edelgil - Lost vassal: c_kavie
+283 - sub vassal: d_edelgil - Lost vassal: c_kavie
+283 - Gained vassal: c_kavie
+283 - vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: d_edelgil
+283 - sub vassal: d_edelgil - Holder 1008348 - Primary title: d_edelgil has lost the title: d_edelgil
+283 - vassal: d_edelgil - Title given to 1008348 - Primary title: k_tamemia
+283 - sub vassal: d_edelgil - Title given to 1008348 - Primary title: k_tamemia
+283 - Holder (1008348) has gained d_edelgil
+283 - sub vassal: c_riazis - Holder 1008348 - Primary title: c_riazis has lost the title: c_riazis
+283 - sub vassal: c_riazis - Title given to 1008348 - Primary title: k_tamemia
+283 - Holder (1008348) has gained c_riazis
+305 - sub vassal: c_atocie - Holder 1008348 - Primary title: c_atocie has lost the title: c_atocie
+305 - sub vassal: c_atocie - Title given to 1008348 - Primary title: k_tamemia
+305 - Holder (1008348) has gained c_atocie
+305 - sub vassal: c_tamirkuh - Holder 1008348 - Primary title: c_tamirkuh has lost the title: c_tamirkuh
+305 - sub vassal: c_tamirkuh - Title given to 1008348 - Primary title: k_tamemia
+305 - Holder (1008348) has gained c_tamirkuh
+305 - Holder 1010130 - Primary title: k_tamemia has lost the title: c_kavie
+305 - vassal: c_kavie - Title given to 1010130
+305 - sub vassal: c_kavie - Title given to 1010130
+305 - Holder 1010132 - Primary title: k_tamemia has lost the title: c_riazis
+305 - sub vassal: c_riazis - Title given to 1010132
+306 - Holder 1009916 - Primary title: k_tamemia has lost the title: k_tamemia
+306 - Title given to 1009916
+306 - vassal: d_edelgil - Holder 1009916 - Primary title: d_edelgil has lost the title: d_edelgil
+306 - sub vassal: d_edelgil - Holder 1009916 - Primary title: d_edelgil has lost the title: d_edelgil
+306 - vassal: d_edelgil - Title given to 1009916 - Primary title: k_tamemia
+306 - sub vassal: d_edelgil - Title given to 1009916 - Primary title: k_tamemia
+306 - Holder (1009916) has gained d_edelgil
+306 - vassal: c_qavao - Setting to vassal of d_tavike in Validate Realm
+306 - sub vassal: c_qavao - Setting to vassal of d_tavike in Validate Realm
+306 - Lost vassal: c_qavao
+306 - vassal: c_kocenmi - Setting to vassal of d_tavike in Validate Realm
+306 - sub vassal: c_kocenmi - Setting to vassal of d_tavike in Validate Realm
+306 - Lost vassal: c_kocenmi
+306 - vassal: d_tavike - Gained vassal: c_kocenmi
+306 - sub vassal: d_tavike - Gained vassal: c_kocenmi
+306 - vassal: d_tavike - Gained vassal: c_qavao
+306 - sub vassal: d_tavike - Gained vassal: c_qavao
+306 - vassal: d_tavike - Holder 1009916 - Primary title: d_tavike has lost the title: d_tavike
+306 - sub vassal: d_tavike - Holder 1009916 - Primary title: d_tavike has lost the title: d_tavike
+306 - vassal: d_tavike - Title given to 1009916 - Primary title: k_tamemia
+306 - sub vassal: d_tavike - Title given to 1009916 - Primary title: k_tamemia
+306 - Holder (1009916) has gained d_tavike
+306 - sub vassal: c_qavao - Holder 1009916 - Primary title: c_qavao has lost the title: c_qavao
+306 - sub vassal: c_qavao - Title given to 1009916 - Primary title: k_tamemia
+306 - Holder (1009916) has gained c_qavao
+306 - sub vassal: c_kocenmi - Holder 1009916 - Primary title: c_kocenmi has lost the title: c_kocenmi
+306 - sub vassal: c_kocenmi - Title given to 1009916 - Primary title: k_tamemia
+306 - Holder (1009916) has gained c_kocenmi
+306 - Holder (1009916) has gained c_tumyu
+306 - Holder (1009916) has gained c_atocie
+306 - Holder (1009916) has gained c_tamirkuh
+316 - vassal: d_lolaydum - Holder 1008485 - Primary title: d_lolaydum has lost the title: d_lolaydum
+316 - sub vassal: d_lolaydum - Holder 1008485 - Primary title: d_lolaydum has lost the title: d_lolaydum
+316 - vassal: d_lolaydum - Title given to 1008485
+316 - sub vassal: d_lolaydum - Title given to 1008485
+316 - sub vassal: c_erelgil - Holder 1008485 - Primary title: c_erelgil has lost the title: c_erelgil
+316 - sub vassal: c_erelgil - Title given to 1008485 - Primary title: d_lolaydum
+316 - vassal: d_lolaydum - Holder (1008485) has gained c_erelgil
+316 - sub vassal: d_lolaydum - Holder (1008485) has gained c_erelgil
+336 - vassal: d_lolaydum - Holder 1010983 - Primary title: d_lolaydum has lost the title: d_lolaydum
+336 - sub vassal: d_lolaydum - Holder 1010983 - Primary title: d_lolaydum has lost the title: d_lolaydum
+336 - vassal: d_lolaydum - Title given to 1010983
+336 - sub vassal: d_lolaydum - Title given to 1010983
+336 - sub vassal: c_erelgil - Holder 1010983 - Primary title: c_erelgil has lost the title: c_erelgil
+336 - sub vassal: c_erelgil - Title given to 1010983 - Primary title: d_lolaydum
+336 - vassal: d_lolaydum - Holder (1010983) has gained c_erelgil
+336 - sub vassal: d_lolaydum - Holder (1010983) has gained c_erelgil
+340 - vassal: d_lolaydum - Holder 1012264 - Primary title: d_lolaydum has lost the title: d_lolaydum
+340 - sub vassal: d_lolaydum - Holder 1012264 - Primary title: d_lolaydum has lost the title: d_lolaydum
+340 - vassal: d_lolaydum - Title given to 1012264
+340 - sub vassal: d_lolaydum - Title given to 1012264
+340 - sub vassal: c_erelgil - Holder 1012264 - Primary title: c_erelgil has lost the title: c_erelgil
+340 - sub vassal: c_erelgil - Title given to 1012264 - Primary title: d_lolaydum
+340 - vassal: d_lolaydum - Holder (1012264) has gai

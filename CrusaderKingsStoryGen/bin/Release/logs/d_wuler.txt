@@ -1,0 +1,66 @@
+200 - Title given to 1001314
+200 - vassal: c_lekyo - Given to 1001318 via AddCharacterForTitle
+200 - sub vassal: c_lekyo - Given to 1001318 via AddCharacterForTitle
+200 - vassal: c_lekyo - Holder 1001318 - Primary title: c_lekyo has lost the title: c_lekyo
+200 - sub vassal: c_lekyo - Holder 1001318 - Primary title: c_lekyo has lost the title: c_lekyo
+200 - vassal: c_lekyo - Title given to 1001318
+200 - sub vassal: c_lekyo - Title given to 1001318
+200 - vassal: c_tuder - Holder 1001314 - Primary title: c_tuder has lost the title: c_tuder
+200 - sub vassal: c_tuder - Holder 1001314 - Primary title: c_tuder has lost the title: c_tuder
+200 - vassal: c_tuder - Title given to 1001314 - Primary title: d_wuler
+200 - sub vassal: c_tuder - Title given to 1001314 - Primary title: d_wuler
+200 - Holder (1001314) has gained c_tuder
+200 - vassal: c_waryo - Holder 1001314 - Primary title: c_waryo has lost the title: c_waryo
+200 - sub vassal: c_waryo - Holder 1001314 - Primary title: c_waryo has lost the title: c_waryo
+200 - vassal: c_waryo - Title given to 1001314 - Primary title: d_wuler
+200 - sub vassal: c_waryo - Title given to 1001314 - Primary title: d_wuler
+200 - Holder (1001314) has gained c_waryo
+200 - vassal: c_sosush - Title given to 1001314 - Primary title: d_wuler
+200 - Holder (1001314) has gained c_sosush
+229 - Holder 1001328 - Primary title: d_wuler has lost the title: d_wuler
+229 - Title given to 1001328 - Primary title: d_turyo
+229 - vassal: c_tuder - Holder 1001328 - Primary title: c_tuder has lost the title: c_tuder
+229 - vassal: c_tuder - Title given to 1001328 - Primary title: d_turyo
+229 - vassal: c_waryo - Holder 1001328 - Primary title: c_waryo has lost the title: c_waryo
+229 - vassal: c_waryo - Title given to 1001328 - Primary title: d_turyo
+229 - vassal: c_sosush - Holder 1001328 - Primary title: c_sosush has lost the title: c_sosush
+229 - vassal: c_sosush - Title given to 1001328 - Primary title: d_turyo
+230 - Holder 1004904 - Primary title: d_wuler has lost the title: c_egzush
+232 - Holder (1001328) has gained d_suryo
+233 - vassal: c_sosush - Given to 1005117 in HandleTitles - Too many duke titles
+233 - vassal: c_sosush - Title given to 1005117
+233 - Title given to 1002274 - Primary title: k_tojyana
+233 - vassal: c_tuder - Setting to vassal of d_suryo in Validate Realm
+233 - Lost vassal: c_tuder
+233 - vassal: c_waryo - Setting to vassal of d_suryo in Validate Realm
+233 - Lost vassal: c_waryo
+233 - Too many dukes, made direct title into vassal of k_tojyana
+233 - Title given to 1005118
+252 - Holder 1005646 - Primary title: d_wuler has lost the title: d_wuler
+252 - Title given to 1005646
+293 - Holder 1007245 - Primary title: d_wuler has lost the title: d_wuler
+293 - Title given to 1007245
+309 - Holder 1010513 - Primary title: d_wuler has lost the title: d_wuler
+309 - Title given to 1010513
+319 - Holder (1010513) has gained k_tojyana
+354 - Holder 1013304 - Primary title: d_wuler has lost the title: d_wuler
+354 - Title given to 1013304 - Primary title: k_tojyana
+389 - Gained vassal: c_lekyo
+389 - Gained vassal: c_kojinia
+389 - Gained vassal: c_sulena
+389 - Gained vassal: c_tanarl
+389 - Gained vassal: c_sularl
+389 - Holder 1014981 - Primary title: d_wuler has lost the title: d_wuler
+389 - Title given to 1014981 - Primary title: k_tojyana
+389 - vassal: c_sularl - Holder 1014981 - Primary title: c_sularl has lost the title: c_sularl
+389 - vassal: c_sularl - Title given to 1014981 - Primary title: k_tojyana
+389 - vassal: c_tanarl - Holder 1014981 - Primary title: c_tanarl has lost the title: c_tanarl
+389 - vassal: c_tanarl - Title given to 1014981 - Primary title: k_tojyana
+389 - vassal: c_sulena - Holder 1014981 - Primary title: c_sulena has lost the title: c_sulena
+389 - vassal: c_sulena - Title given to 1014981 - Primary title: k_tojyana
+389 - vassal: c_kojinia - Holder 1014981 - Primary title: c_kojinia has lost the title: c_kojinia
+389 - vassal: c_kojinia - Title given to 1014981 - Primary title: k_tojyana
+389 - vassal: c_lekyo - Holder 1014981 - Primary title: c_lekyo has lost the title: c_lekyo
+389 - vassal: c_lekyo - Title given to 1014981 - Primary title: k_tojyana
+400 - vassal: c_sosush - Holder 1014981 - Primary title: c_sosush has lost the title: c_sosush
+400 - vassal: c_sosush - Title given to 1014981 - Primary title: k_tojyana

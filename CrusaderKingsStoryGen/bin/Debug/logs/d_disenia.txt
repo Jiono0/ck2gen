@@ -1,0 +1,130 @@
+200 - Title given to 1000729
+200 - vassal: c_wyitils - Given to 1000732 via AddCharacterForTitle
+200 - sub vassal: c_wyitils - Given to 1000732 via AddCharacterForTitle
+200 - vassal: c_wyitils - Holder 1000732 - Primary title: c_wyitils has lost the title: c_wyitils
+200 - sub vassal: c_wyitils - Holder 1000732 - Primary title: c_wyitils has lost the title: c_wyitils
+200 - vassal: c_wyitils - Title given to 1000732
+200 - sub vassal: c_wyitils - Title given to 1000732
+200 - vassal: c_ehiatou - Holder 1000418 - Primary title: c_ehiatou has lost the title: c_kisoke
+200 - sub vassal: c_ehiatou - Holder 1000418 - Primary title: c_ehiatou has lost the title: c_kisoke
+200 - sub vassal: c_kisoke - Title given to 1000418 - Primary title: d_daha
+200 - vassal: c_nerans - Holder 1000729 - Primary title: c_nerans has lost the title: c_nerans
+200 - sub vassal: c_nerans - Holder 1000729 - Primary title: c_nerans has lost the title: c_nerans
+200 - vassal: c_nerans - Title given to 1000729 - Primary title: d_disenia
+200 - sub vassal: c_nerans - Title given to 1000729 - Primary title: d_disenia
+200 - Holder (1000729) has gained c_nerans
+200 - vassal: c_wyitils - Holder 1000729 - Primary title: c_wyitils has lost the title: c_wyitils
+200 - sub vassal: c_wyitils - Holder 1000729 - Primary title: c_wyitils has lost the title: c_wyitils
+200 - vassal: c_wyitils - Title given to 1000729 - Primary title: d_disenia
+200 - sub vassal: c_wyitils - Title given to 1000729 - Primary title: d_disenia
+200 - Holder (1000729) has gained c_wyitils
+200 - vassal: c_ehiatou - Holder 1000729 - Primary title: c_ehiatou has lost the title: c_ehiatou
+200 - sub vassal: c_ehiatou - Holder 1000729 - Primary title: c_ehiatou has lost the title: c_ehiatou
+200 - vassal: c_ehiatou - Title given to 1000729 - Primary title: d_disenia
+200 - sub vassal: c_ehiatou - Title given to 1000729 - Primary title: d_disenia
+200 - Holder (1000729) has gained c_ehiatou
+200 - vassal: c_riselge - Holder 1000729 - Primary title: c_riselge has lost the title: c_riselge
+200 - sub vassal: c_riselge - Holder 1000729 - Primary title: c_riselge has lost the title: c_riselge
+200 - vassal: c_riselge - Title given to 1000729 - Primary title: d_disenia
+200 - sub vassal: c_riselge - Title given to 1000729 - Primary title: d_disenia
+200 - Holder (1000729) has gained c_riselge
+241 - Holder 1002234 - Primary title: d_disenia has lost the title: d_disenia
+241 - Title given to 1002234
+241 - vassal: c_riselge - Holder 1002234 - Primary title: c_riselge has lost the title: c_riselge
+241 - vassal: c_riselge - Title given to 1002234 - Primary title: d_disenia
+241 - Holder (1002234) has gained c_riselge
+241 - vassal: c_ehiatou - Holder 1002234 - Primary title: c_ehiatou has lost the title: c_ehiatou
+241 - vassal: c_ehiatou - Title given to 1002234 - Primary title: d_disenia
+241 - Holder (1002234) has gained c_ehiatou
+241 - vassal: c_wyitils - Holder 1002234 - Primary title: c_wyitils has lost the title: c_wyitils
+241 - vassal: c_wyitils - Title given to 1002234 - Primary title: d_disenia
+241 - Holder (1002234) has gained c_wyitils
+241 - vassal: c_nerans - Holder 1002234 - Primary title: c_nerans has lost the title: c_nerans
+241 - vassal: c_nerans - Title given to 1002234 - Primary title: d_disenia
+241 - Holder (1002234) has gained c_nerans
+259 - Holder (1002234) has gained d_karoke
+259 - Holder (1002234) has gained c_raholir
+259 - Holder (1002234) has gained c_dyitald
+259 - Holder (1002234) has gained c_nerina
+260 - Holder 1006803 - Primary title: d_disenia has lost the title: c_dyitald
+260 - Holder 1006804 - Primary title: d_disenia has lost the title: c_raholir
+266 - Holder 1006052 - Primary title: d_disenia has lost the title: d_disenia
+266 - Title given to 1006052
+266 - vassal: c_riselge - Setting to vassal of d_karoke in Validate Realm
+266 - Lost vassal: c_riselge
+266 - vassal: c_ehiatou - Setting to vassal of d_karoke in Validate Realm
+266 - Lost vassal: c_ehiatou
+266 - vassal: c_wyitils - Setting to vassal of d_karoke in Validate Realm
+266 - Lost vassal: c_wyitils
+266 - vassal: c_nerans - Setting to vassal of d_karoke in Validate Realm
+266 - Lost vassal: c_nerans
+266 - Holder (1006052) has gained d_karoke
+266 - Holder (1006052) has gained c_riselge
+266 - Holder (1006052) has gained c_ehiatou
+266 - Holder (1006052) has gained c_wyitils
+266 - Holder (1006052) has gained c_nerans
+266 - Holder (1006052) has gained c_nerina
+267 - Destroyed due to flagged problem
+267 - Made independent
+267 - Title destroyed
+267 - Given to 1006052 in TestCreateEmpire
+267 - Title given to 1006052 - Primary title: d_karoke
+267 - Made independent for title creation d_disenia for d_karoke
+267 - Made independent
+267 - Gained vassal: c_riselge
+267 - Gained vassal: c_ehiatou
+267 - Gained vassal: c_wyitils
+267 - Gained vassal: c_nerans
+267 - Gained vassal: c_nerina
+268 - vassal: c_riselge - Title given to 1007446
+275 - sub vassal: c_raholir - Setting to vassal of d_disenia in Validate Realm
+275 - Gained vassal: c_raholir
+275 - Holder 1007370 - Primary title: d_disenia has lost the title: d_disenia
+275 - Title given to 1007370 - Primary title: d_karoke
+275 - vassal: c_ehiatou - Holder 1007370 - Primary title: c_ehiatou has lost the title: c_raholir
+275 - vassal: c_raholir - Title given to 1007370 - Primary title: d_karoke
+276 - sub vassal: c_dyitald - Setting to vassal of d_disenia in Validate Realm
+276 - Gained vassal: c_dyitald
+276 - Holder 1005418 - Primary title: d_disenia has lost the title: d_disenia
+276 - Title given to 1005418 - Primary title: k_karyake
+276 - vassal: c_raholir - Holder 1005418 - Primary title: c_raholir has lost the title: c_raholir
+276 - vassal: c_raholir - Title given to 1005418 - Primary title: k_karyake
+276 - vassal: c_dyitald - Holder 1005418 - Primary title: c_dyitald has lost the title: c_dyitald
+276 - vassal: c_dyitald - Title given to 1005418 - Primary title: k_karyake
+276 - vassal: c_nerans - Given to 1008069 in HandleTitles - Too many duke titles
+276 - vassal: c_ehiatou - Holder 1008069 - Primary title: c_ehiatou has lost the title: c_nerans
+276 - vassal: c_nerans - Title given to 1008069
+276 - Title given to 1008069 - Primary title: c_nerans
+276 - vassal: c_nerans - Holder (1008069) has gained d_disenia
+276 - vassal: c_raholir - Setting to vassal of k_karyake in Validate Realm
+276 - Lost vassal: c_raholir
+276 - vassal: c_dyitald - Setting to vassal of k_karyake in Validate Realm
+276 - Lost vassal: c_dyitald
+276 - Too many dukes, given to dejure: k_karyake
+283 - vassal: c_ehiatou - Holder 1007522 - Primary title: c_ehiatou has lost the title: c_ehiatou
+283 - vassal: c_ehiatou - Title given to 1007522
+283 - vassal: c_wyitils - Holder 1007522 - Primary title: c_wyitils has lost the title: c_wyitils
+283 - vassal: c_wyitils - Title given to 1007522 - Primary title: c_ehiatou
+283 - vassal: c_ehiatou - Holder (1007522) has gained c_wyitils
+283 - vassal: c_nerina - Holder 1007522 - Primary title: c_nerina has lost the title: c_nerina
+283 - vassal: c_nerina - Title given to 1007522 - Primary title: c_ehiatou
+283 - vassal: c_ehiatou - Holder (1007522) has gained c_nerina
+311 - Holder 1009098 - Primary title: d_disenia has lost the title: d_disenia
+311 - Title given to 1009098
+311 - vassal: c_nerans - Holder 1009098 - Primary title: c_nerans has lost the title: c_nerans
+311 - vassal: c_nerans - Title given to 1009098 - Primary title: d_disenia
+311 - Holder (1009098) has gained c_nerans
+315 - Holder (1009098) has gained d_suisre
+315 - Holder (1009098) has gained c_beorge
+315 - Holder (1009098) has gained c_kuisans
+315 - Holder (1009098) has gained c_tisal
+333 - Holder 1010572 - Primary title: d_disenia has lost the title: d_disenia
+333 - Title given to 1010572
+333 - vassal: c_nerans - Setting to vassal of d_suisre in Validate Realm
+333 - Lost vassal: c_nerans
+333 - Holder (1010572) has gained d_suisre
+333 - Holder (1010572) has gained c_nerans
+333 - Holder (1010572) has gained c_beorge
+333 - Holder (1010572) has gained c_kuisans
+333 - Holder (1010572) has gained c_tisal
+334 - vassal: c_ehiatou - Holde

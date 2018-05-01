@@ -1,0 +1,80 @@
+200 - Title given to 1001074
+200 - vassal: c_seramson - Given to 1001077 via AddCharacterForTitle
+200 - sub vassal: c_seramson - Given to 1001077 via AddCharacterForTitle
+200 - vassal: c_seramson - Holder 1001077 - Primary title: c_seramson has lost the title: c_seramson
+200 - sub vassal: c_seramson - Holder 1001077 - Primary title: c_seramson has lost the title: c_seramson
+200 - vassal: c_seramson - Title given to 1001077
+200 - sub vassal: c_seramson - Title given to 1001077
+200 - vassal: c_dunulai - Holder 1001074 - Primary title: c_dunulai has lost the title: c_dunulai
+200 - sub vassal: c_dunulai - Holder 1001074 - Primary title: c_dunulai has lost the title: c_dunulai
+200 - vassal: c_dunulai - Title given to 1001074 - Primary title: d_sebaka
+200 - sub vassal: c_dunulai - Title given to 1001074 - Primary title: d_sebaka
+200 - Holder (1001074) has gained c_dunulai
+200 - vassal: c_seramson - Holder 1001074 - Primary title: c_seramson has lost the title: c_seramson
+200 - sub vassal: c_seramson - Holder 1001074 - Primary title: c_seramson has lost the title: c_seramson
+200 - vassal: c_seramson - Title given to 1001074 - Primary title: d_sebaka
+200 - sub vassal: c_seramson - Title given to 1001074 - Primary title: d_sebaka
+200 - Holder (1001074) has gained c_seramson
+200 - vassal: c_sataka - Holder 1001074 - Primary title: c_sataka has lost the title: c_sataka
+200 - sub vassal: c_sataka - Holder 1001074 - Primary title: c_sataka has lost the title: c_sataka
+200 - vassal: c_sataka - Title given to 1001074 - Primary title: d_sebaka
+200 - sub vassal: c_sataka - Title given to 1001074 - Primary title: d_sebaka
+200 - Holder (1001074) has gained c_sataka
+200 - Holder 1001576 - Primary title: d_sebaka has lost the title: d_sebaka
+200 - Title given to 1001576 - Primary title: k_evishp
+203 - Holder 1002555 - Primary title: d_sebaka has lost the title: d_sebaka
+203 - Title given to 1002555 - Primary title: k_evishp
+257 - Holder 1004415 - Primary title: d_sebaka has lost the title: d_sebaka
+257 - Title given to 1004415 - Primary title: k_evishp
+262 - vassal: c_dunulai - Given to 1007616 in HandleTitles - Too many duke titles
+262 - vassal: c_dunulai - Holder 1007616 - Primary title: c_dunulai has lost the title: c_dunulai
+262 - vassal: c_dunulai - Title given to 1007616
+262 - Title given to 1007616 - Primary title: c_dunulai
+262 - vassal: c_dunulai - Holder (1007616) has gained d_sebaka
+262 - Too many dukes, given to dejure: k_evishp
+278 - Holder 1007952 - Primary title: d_sebaka has lost the title: d_sebaka
+278 - Title given to 1007952
+278 - vassal: c_dunulai - Holder 1007952 - Primary title: c_dunulai has lost the title: c_dunulai
+278 - vassal: c_dunulai - Title given to 1007952 - Primary title: d_sebaka
+278 - Holder (1007952) has gained c_dunulai
+300 - vassal: c_seramson - Holder 1007952 - Primary title: c_seramson has lost the title: c_seramson
+300 - vassal: c_seramson - Title given to 1007952 - Primary title: d_sebaka
+300 - Holder (1007952) has gained c_seramson
+300 - vassal: c_sataka - Holder 1007952 - Primary title: c_sataka has lost the title: c_sataka
+300 - vassal: c_sataka - Title given to 1007952 - Primary title: d_sebaka
+300 - Holder (1007952) has gained c_sataka
+321 - Holder 1009262 - Primary title: d_sebaka has lost the title: d_sebaka
+321 - Title given to 1009262
+321 - vassal: c_dunulai - Holder 1009262 - Primary title: c_dunulai has lost the title: c_dunulai
+321 - vassal: c_dunulai - Title given to 1009262 - Primary title: d_sebaka
+321 - Holder (1009262) has gained c_dunulai
+321 - vassal: c_seramson - Holder 1009262 - Primary title: c_seramson has lost the title: c_seramson
+321 - vassal: c_seramson - Title given to 1009262 - Primary title: d_sebaka
+321 - Holder (1009262) has gained c_seramson
+321 - vassal: c_sataka - Holder 1009262 - Primary title: c_sataka has lost the title: c_sataka
+321 - vassal: c_sataka - Title given to 1009262 - Primary title: d_sebaka
+321 - Holder (1009262) has gained c_sataka
+338 - Holder 1013044 - Primary title: d_sebaka has lost the title: d_sebaka
+338 - Title given to 1013044
+338 - vassal: c_dunulai - Holder 1013044 - Primary title: c_dunulai has lost the title: c_dunulai
+338 - vassal: c_dunulai - Title given to 1013044 - Primary title: d_sebaka
+338 - Holder (1013044) has gained c_dunulai
+338 - vassal: c_seramson - Holder 1013044 - Primary title: c_seramson has lost the title: c_seramson
+338 - vassal: c_seramson - Title given to 1013044 - Primary title: d_sebaka
+338 - Holder (1013044) has gained c_seramson
+338 - vassal: c_sataka - Holder 1013044 - Primary title: c_sataka has lost the title: c_sataka
+338 - vassal: c_sataka - Title given to 1013044 - Primary title: d_sebaka
+338 - Holder (1013044) has gained c_sataka
+356 - Holder (1013044) has gained d_nenge
+356 - Holder (1013044) has gained c_emebaka
+384 - Gained vassal: c_emebaka
+384 - Holder 1014309 - Primary title: d_sebaka has lost the title: d_sebaka
+384 - Title given to 1014309 - Primary title: d_nenge
+384 - vassal: c_emebaka - Holder 1014309 - Primary title: c_emebaka has lost the title: c_emebaka
+384 - vassal: c_emebaka - Title given to 1014309 - Primary title: d_nenge
+384 - vassal: c_dunulai - Holder 1014309 - Primary title: c_dunulai has lost the title: c_dunulai
+384 - vassal: c_dunulai - Title given to 1014309 - Primary title: d_nenge
+384 - vassal: c_seramson - Holder 1014309 - Primary title: c_seramson has lost the title: c_seramson
+384 - vassal: c_seramson - Title given to 1014309 - Primary title: d_nenge
+384 - vassal: c_sataka - Holder 1014309 - Primary title: c_sataka has lost the title: c_sataka
+384 - vassal: c_sataka - Title given to 1014309 - Primary title: d_nenge

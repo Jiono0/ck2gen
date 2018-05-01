@@ -1,0 +1,58 @@
+200 - Title given to 1000895
+200 - vassal: c_sisafu - Given to 1000899 via AddCharacterForTitle
+200 - sub vassal: c_sisafu - Given to 1000899 via AddCharacterForTitle
+200 - vassal: c_sisafu - Holder 1000899 - Primary title: c_sisafu has lost the title: c_sisafu
+200 - sub vassal: c_sisafu - Holder 1000899 - Primary title: c_sisafu has lost the title: c_sisafu
+200 - vassal: c_sisafu - Title given to 1000899
+200 - sub vassal: c_sisafu - Title given to 1000899
+200 - vassal: c_wagiin - Holder 1000895 - Primary title: c_wagiin has lost the title: c_wagiin
+200 - sub vassal: c_wagiin - Holder 1000895 - Primary title: c_wagiin has lost the title: c_wagiin
+200 - vassal: c_wagiin - Title given to 1000895 - Primary title: d_bisib
+200 - sub vassal: c_wagiin - Title given to 1000895 - Primary title: d_bisib
+200 - Holder (1000895) has gained c_wagiin
+200 - vassal: c_eshutsen - Holder 1000895 - Primary title: c_eshutsen has lost the title: c_eshutsen
+200 - sub vassal: c_eshutsen - Holder 1000895 - Primary title: c_eshutsen has lost the title: c_eshutsen
+200 - vassal: c_eshutsen - Title given to 1000895 - Primary title: d_bisib
+200 - sub vassal: c_eshutsen - Title given to 1000895 - Primary title: d_bisib
+200 - Holder (1000895) has gained c_eshutsen
+200 - vassal: c_sisafu - Holder 1000895 - Primary title: c_sisafu has lost the title: c_sisafu
+200 - sub vassal: c_sisafu - Holder 1000895 - Primary title: c_sisafu has lost the title: c_sisafu
+200 - vassal: c_sisafu - Title given to 1000895 - Primary title: d_bisib
+200 - sub vassal: c_sisafu - Title given to 1000895 - Primary title: d_bisib
+200 - Holder (1000895) has gained c_sisafu
+251 - Holder 1002243 - Primary title: d_bisib has lost the title: d_bisib
+251 - Title given to 1002243 - Primary title: d_sasaaq
+251 - vassal: c_sisafu - Holder 1002243 - Primary title: c_sisafu has lost the title: c_sisafu
+251 - vassal: c_sisafu - Title given to 1002243 - Primary title: d_sasaaq
+251 - vassal: c_eshutsen - Holder 1002243 - Primary title: c_eshutsen has lost the title: c_eshutsen
+251 - vassal: c_eshutsen - Title given to 1002243 - Primary title: d_sasaaq
+251 - vassal: c_wagiin - Holder 1002243 - Primary title: c_wagiin has lost the title: c_wagiin
+251 - vassal: c_wagiin - Title given to 1002243 - Primary title: d_sasaaq
+256 - Holder 1006276 - Primary title: d_bisib has lost the title: d_sasaaq
+256 - Gained vassal: c_kusuro
+256 - Gained vassal: c_kusine
+256 - Holder 1006276 - Primary title: d_bisib has lost the title: c_kusine
+256 - vassal: c_kusine - Title given to 1006276 - Primary title: d_sasaaq
+256 - vassal: c_kusine - Setting to vassal of d_sasaaq in Validate Realm
+256 - Lost vassal: c_kusine
+256 - Holder 1006276 - Primary title: d_bisib has lost the title: c_kusuro
+256 - vassal: c_kusuro - Title given to 1006276 - Primary title: d_sasaaq
+256 - vassal: c_kusuro - Setting to vassal of d_sasaaq in Validate Realm
+256 - Lost vassal: c_kusuro
+256 - Holder 1006276 - Primary title: d_bisib has lost the title: d_bisib
+256 - Title given to 1006276 - Primary title: d_sasaaq
+256 - vassal: c_sisafu - Holder 1006276 - Primary title: c_sisafu has lost the title: c_sisafu
+256 - vassal: c_sisafu - Title given to 1006276 - Primary title: d_sasaaq
+256 - vassal: c_eshutsen - Holder 1006276 - Primary title: c_eshutsen has lost the title: c_eshutsen
+256 - vassal: c_eshutsen - Title given to 1006276 - Primary title: d_sasaaq
+256 - vassal: c_wagiin - Holder 1006276 - Primary title: c_wagiin has lost the title: c_wagiin
+256 - vassal: c_wagiin - Title given to 1006276 - Primary title: d_sasaaq
+257 - Holder 1002663 - Primary title: d_bisib has lost the title: d_sasaaq
+257 - Gained vassal: c_kusuro
+257 - Gained vassal: c_kusine
+257 - Holder 1002663 - Primary title: d_bisib has lost the title: c_kusine
+257 - vassal: c_kusine - Title given to 1002663 - Primary title: k_ashutsen
+257 - vassal: c_kusine - Setting to vassal of k_ashutsen in Validate Realm
+257 - Lost vassal: c_kusine
+257 - Holder 1002663 - Primary title: d_bisib has lost the title: c_kusuro
+257 - vassal

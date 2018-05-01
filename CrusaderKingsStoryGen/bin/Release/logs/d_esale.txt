@@ -1,0 +1,75 @@
+200 - Title given to 1001183
+200 - vassal: c_dukur - Given to 1001186 via AddCharacterForTitle
+200 - sub vassal: c_dukur - Given to 1001186 via AddCharacterForTitle
+200 - vassal: c_dukur - Holder 1001186 - Primary title: c_dukur has lost the title: c_dukur
+200 - sub vassal: c_dukur - Holder 1001186 - Primary title: c_dukur has lost the title: c_dukur
+200 - vassal: c_dukur - Title given to 1001186
+200 - sub vassal: c_dukur - Title given to 1001186
+200 - vassal: c_livalk - Holder 1001183 - Primary title: c_livalk has lost the title: c_livalk
+200 - sub vassal: c_livalk - Holder 1001183 - Primary title: c_livalk has lost the title: c_livalk
+200 - vassal: c_livalk - Title given to 1001183 - Primary title: d_esale
+200 - sub vassal: c_livalk - Title given to 1001183 - Primary title: d_esale
+200 - Holder (1001183) has gained c_livalk
+200 - vassal: c_dukur - Holder 1001183 - Primary title: c_dukur has lost the title: c_dukur
+200 - sub vassal: c_dukur - Holder 1001183 - Primary title: c_dukur has lost the title: c_dukur
+200 - vassal: c_dukur - Title given to 1001183 - Primary title: d_esale
+200 - sub vassal: c_dukur - Title given to 1001183 - Primary title: d_esale
+200 - Holder (1001183) has gained c_dukur
+200 - vassal: c_novigo - Title given to 1001183 - Primary title: d_esale
+200 - Holder (1001183) has gained c_novigo
+200 - Holder 1001662 - Primary title: d_esale has lost the title: d_esale
+200 - Title given to 1001662 - Primary title: e_kilila
+200 - vassal: c_livalk - Holder 1001662 - Primary title: c_livalk has lost the title: c_livalk
+200 - vassal: c_livalk - Title given to 1001662 - Primary title: e_kilila
+217 - Holder 1002916 - Primary title: d_esale has lost the title: d_esale
+217 - Title given to 1002916 - Primary title: k_ditedas
+217 - vassal: c_livalk - Holder 1002916 - Primary title: c_livalk has lost the title: c_livalk
+217 - vassal: c_livalk - Title given to 1002916 - Primary title: k_ditedas
+258 - Holder 1004752 - Primary title: d_esale has lost the title: d_esale
+258 - Title given to 1004752 - Primary title: k_ditedas
+258 - vassal: c_livalk - Setting to vassal of d_surd in Validate Realm
+258 - Lost vassal: c_livalk
+275 - Holder 1007350 - Primary title: d_esale has lost the title: d_esale
+275 - Title given to 1007350 - Primary title: k_ditedas
+294 - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_dukur - Holder 1009823 - Primary title: c_dukur has lost the title: c_dukur
+294 - vassal: c_dukur - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_novigo - Holder 1009823 - Primary title: c_novigo has lost the title: c_novigo
+294 - vassal: c_novigo - Title given to 1009823 - Primary title: k_ditedas
+303 - Gained vassal: c_livalk
+303 - Gained vassal: c_avapala
+303 - Gained vassal: c_kyesale
+312 - Holder 1011244 - Primary title: d_esale has lost the title: d_esale
+312 - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_kyesale - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_dukur - Setting to vassal of d_rugedas in Validate Realm
+312 - Lost vassal: c_dukur
+312 - vassal: c_novigo - Setting to vassal of d_rugedas in Validate Realm
+312 - Lost vassal: c_novigo
+312 - vassal: c_avapala - Setting to vassal of d_rugedas in Validate Realm
+312 - Lost vassal: c_avapala
+312 - vassal: c_livalk - Setting to vassal of d_rugedas in Validate Realm
+312 - Lost vassal: c_livalk
+312 - vassal: c_kyesale - Given to 1011780 in HandleTitles - Too many duke titles
+312 - vassal: c_kyesale - Title given to 1011780
+312 - Title given to 1011780 - Primary title: c_kyesale
+312 - vassal: c_kyesale - Holder (1011780) has gained d_esale
+312 - Too many dukes, given to dejure: k_ditedas
+323 - Holder (1011780) has gained d_abasale
+323 - Holder (1011780) has gained c_walayor
+330 - Title given to 1012035
+330 - vassal: c_kyesale - Setting to vassal of d_abasale in Validate Realm
+330 - Lost vassal: c_kyesale
+330 - Holder (1012035) has gained c_kyesale
+330 - Gained vassal: c_kyesale
+330 - Holder (1012035) has gained d_abasale
+330 - Holder (1012035) has gained c_walayor
+375 - Holder (1012035) has gained d_rugedas
+375 - Holder (1012035) has gained c_divalk
+379 - Title given to 1013594
+379 - vassal: c_kyesale - Setting to vassal of d_rugedas in Validate Realm
+379 - Lost vassal: c_kyesale
+379 - Holder (1013594) has gained c_kyesale
+379 - Gained vassal: c_kyesale
+379 - Holder (1013594) has gained d_rugedas
+379 - Holder (1013594) has gained c_divalk

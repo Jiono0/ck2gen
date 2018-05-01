@@ -1,0 +1,533 @@
+200 - Title given to 1001498
+200 - vassal: d_saytuzh - Holder 1001498 - Primary title: d_saytuzh has lost the title: d_saytuzh
+200 - sub vassal: d_saytuzh - Holder 1001498 - Primary title: d_saytuzh has lost the title: d_saytuzh
+200 - vassal: d_saytuzh - Title given to 1001498 - Primary title: k_loliana
+200 - sub vassal: d_saytuzh - Title given to 1001498 - Primary title: k_loliana
+200 - Holder (1001498) has gained d_saytuzh
+200 - Holder (1001498) has gained c_apanimir
+200 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+201 - vassal: d_teseran - Holder 1000960 - Primary title: d_teseran has lost the title: d_teseran
+201 - sub vassal: d_teseran - Holder 1000960 - Primary title: d_teseran has lost the title: d_teseran
+201 - vassal: d_teseran - Title given to 1000960 - Primary title: d_qazew
+201 - sub vassal: d_teseran - Title given to 1000960 - Primary title: d_qazew
+201 - vassal: d_qazew - Holder (1000960) has gained d_teseran
+201 - sub vassal: d_qazew - Holder (1000960) has gained d_teseran
+201 - sub vassal: c_sag - Holder 1000960 - Primary title: c_sag has lost the title: c_sag
+201 - sub vassal: c_sag - Title given to 1000960 - Primary title: d_qazew
+201 - vassal: d_qazew - Holder (1000960) has gained c_sag
+201 - sub vassal: d_qazew - Holder (1000960) has gained c_sag
+201 - sub vassal: c_salely - Holder 1000960 - Primary title: c_salely has lost the title: c_salely
+201 - sub vassal: c_salely - Title given to 1000960 - Primary title: d_qazew
+201 - vassal: d_qazew - Holder (1000960) has gained c_salely
+201 - sub vassal: d_qazew - Holder (1000960) has gained c_salely
+201 - sub vassal: c_dasagye - Holder 1000960 - Primary title: c_dasagye has lost the title: c_dasagye
+201 - sub vassal: c_dasagye - Title given to 1000960 - Primary title: d_qazew
+201 - vassal: d_qazew - Holder (1000960) has gained c_dasagye
+201 - sub vassal: d_qazew - Holder (1000960) has gained c_dasagye
+201 - sub vassal: c_lanudo - Holder 1000960 - Primary title: c_lanudo has lost the title: c_lanudo
+201 - sub vassal: c_lanudo - Title given to 1000960 - Primary title: d_qazew
+201 - vassal: d_qazew - Holder (1000960) has gained c_lanudo
+201 - sub vassal: d_qazew - Holder (1000960) has gained c_lanudo
+202 - vassal: d_teseran - Holder 1002247 - Primary title: d_teseran has lost the title: c_kolely
+202 - sub vassal: d_teseran - Holder 1002247 - Primary title: d_teseran has lost the title: c_kolely
+202 - sub vassal: c_kolely - Title given to 1002247
+202 - vassal: d_teseran - Holder 1002248 - Primary title: d_teseran has lost the title: c_asilda
+202 - sub vassal: d_teseran - Holder 1002248 - Primary title: d_teseran has lost the title: c_asilda
+202 - sub vassal: c_asilda - Title given to 1002248
+208 - vassal: d_nazorin - Holder 1002471 - Primary title: d_nazorin has lost the title: d_nazorin
+208 - sub vassal: d_nazorin - Holder 1002471 - Primary title: d_nazorin has lost the title: d_nazorin
+208 - vassal: d_nazorin - Title given to 1002471
+208 - sub vassal: d_nazorin - Title given to 1002471
+208 - sub vassal: c_tarilda - Holder 1002471 - Primary title: c_tarilda has lost the title: c_tarilda
+208 - sub vassal: c_tarilda - Title given to 1002471 - Primary title: d_nazorin
+208 - vassal: d_nazorin - Holder (1002471) has gained c_tarilda
+208 - sub vassal: d_nazorin - Holder (1002471) has gained c_tarilda
+208 - sub vassal: c_daneka - Holder 1002471 - Primary title: c_daneka has lost the title: c_daneka
+208 - sub vassal: c_daneka - Title given to 1002471 - Primary title: d_nazorin
+208 - vassal: d_nazorin - Holder (1002471) has gained c_daneka
+208 - sub vassal: d_nazorin - Holder (1002471) has gained c_daneka
+208 - sub vassal: c_nasely - Holder 1002471 - Primary title: c_nasely has lost the title: c_nasely
+208 - sub vassal: c_nasely - Title given to 1002471 - Primary title: d_nazorin
+208 - vassal: d_nazorin - Holder (1002471) has gained c_nasely
+208 - sub vassal: d_nazorin - Holder (1002471) has gained c_nasely
+218 - vassal: d_teseran - Holder 1002757 - Primary title: d_teseran has lost the title: d_qazew
+218 - sub vassal: d_teseran - Holder 1002757 - Primary title: d_teseran has lost the title: d_qazew
+218 - vassal: d_qazew - Title given to 1002757
+218 - sub vassal: d_qazew - Title given to 1002757
+218 - sub vassal: c_alephen - Setting to vassal of d_teseran in Validate Realm
+218 - vassal: d_qazew - Lost vassal: c_alephen
+218 - sub vassal: d_qazew - Lost vassal: c_alephen
+218 - vassal: d_teseran - Gained vassal: c_alephen
+218 - sub vassal: d_teseran - Gained vassal: c_alephen
+218 - vassal: d_teseran - Holder 1002757 - Primary title: d_teseran has lost the title: c_alephen
+218 - sub vassal: d_teseran - Holder 1002757 - Primary title: d_teseran has lost the title: c_alephen
+218 - sub vassal: c_alephen - Title given to 1002757 - Primary title: d_qazew
+218 - vassal: d_qazew - Holder (1002757) has gained c_alephen
+218 - sub vassal: d_qazew - Holder (1002757) has gained c_alephen
+218 - sub vassal: c_alephen - Setting to vassal of d_qazew in Validate Realm
+218 - vassal: d_teseran - Lost vassal: c_alephen
+218 - sub vassal: d_teseran - Lost vassal: c_alephen
+218 - vassal: d_qazew - Gained vassal: c_alephen
+218 - sub vassal: d_qazew - Gained vassal: c_alephen
+218 - vassal: d_teseran - Holder 1002757 - Primary title: d_teseran has lost the title: d_teseran
+218 - sub vassal: d_teseran - Holder 1002757 - Primary title: d_teseran has lost the title: d_teseran
+218 - vassal: d_teseran - Title given to 1002757 - Primary title: d_qazew
+218 - sub vassal: d_teseran - Title given to 1002757 - Primary title: d_qazew
+218 - vassal: d_qazew - Holder (1002757) has gained d_teseran
+218 - sub vassal: d_qazew - Holder (1002757) has gained d_teseran
+218 - sub vassal: c_sag - Holder 1002757 - Primary title: c_sag has lost the title: c_sag
+218 - sub vassal: c_sag - Title given to 1002757 - Primary title: d_qazew
+218 - vassal: d_qazew - Holder (1002757) has gained c_sag
+218 - sub vassal: d_qazew - Holder (1002757) has gained c_sag
+218 - sub vassal: c_salely - Holder 1002757 - Primary title: c_salely has lost the title: c_salely
+218 - sub vassal: c_salely - Title given to 1002757 - Primary title: d_qazew
+218 - vassal: d_qazew - Holder (1002757) has gained c_salely
+218 - sub vassal: d_qazew - Holder (1002757) has gained c_salely
+218 - sub vassal: c_dasagye - Holder 1002757 - Primary title: c_dasagye has lost the title: c_dasagye
+218 - sub vassal: c_dasagye - Title given to 1002757 - Primary title: d_qazew
+218 - vassal: d_qazew - Holder (1002757) has gained c_dasagye
+218 - sub vassal: d_qazew - Holder (1002757) has gained c_dasagye
+218 - sub vassal: c_lanudo - Holder 1002757 - Primary title: c_lanudo has lost the title: c_lanudo
+218 - sub vassal: c_lanudo - Title given to 1002757 - Primary title: d_qazew
+218 - vassal: d_qazew - Holder (1002757) has gained c_lanudo
+218 - sub vassal: d_qazew - Holder (1002757) has gained c_lanudo
+218 - vassal: d_nazorin - Holder 1001498 - Primary title: d_nazorin has lost the title: d_nazorin
+218 - sub vassal: d_nazorin - Holder 1001498 - Primary title: d_nazorin has lost the title: d_nazorin
+218 - vassal: d_nazorin - Title given to 1001498 - Primary title: k_loliana
+218 - sub vassal: d_nazorin - Title given to 1001498 - Primary title: k_loliana
+218 - Holder (1001498) has gained d_nazorin
+218 - sub vassal: c_tarilda - Holder 1001498 - Primary title: c_tarilda has lost the title: c_tarilda
+218 - sub vassal: c_tarilda - Title given to 1001498 - Primary title: k_loliana
+218 - Holder (1001498) has gained c_tarilda
+218 - sub vassal: c_daneka - Holder 1001498 - Primary title: c_daneka has lost the title: c_daneka
+218 - sub vassal: c_daneka - Title given to 1001498 - Primary title: k_loliana
+218 - Holder (1001498) has gained c_daneka
+218 - sub vassal: c_nasely - Holder 1001498 - Primary title: c_nasely has lost the title: c_nasely
+218 - sub vassal: c_nasely - Title given to 1001498 - Primary title: k_loliana
+218 - Holder (1001498) has gained c_nasely
+220 - Holder (1001498) has gained c_apanimir
+220 - Holder (1001498) has gained c_lemimir
+220 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+220 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+221 - Holder (1001498) has gained c_lemimir
+221 - Holder (1001498) has gained c_apanimir
+221 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+221 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+222 - Holder (1001498) has gained c_lemimir
+222 - Holder (1001498) has gained c_apanimir
+222 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+222 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+223 - Holder (1001498) has gained c_lemimir
+223 - Holder (1001498) has gained c_apanimir
+223 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+223 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+224 - Holder (1001498) has gained c_lemimir
+224 - Holder (1001498) has gained c_apanimir
+224 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+224 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+225 - Holder (1001498) has gained c_lemimir
+225 - Holder (1001498) has gained c_apanimir
+225 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+225 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+226 - Holder (1001498) has gained c_lemimir
+226 - Holder (1001498) has gained c_apanimir
+226 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+226 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+227 - Holder (1001498) has gained c_lemimir
+227 - Holder (1001498) has gained c_apanimir
+227 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+227 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+228 - Holder (1001498) has gained c_lemimir
+228 - Holder (1001498) has gained c_apanimir
+228 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+228 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+229 - Holder (1001498) has gained c_lemimir
+229 - Holder (1001498) has gained c_apanimir
+229 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+229 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+230 - Holder (1001498) has gained c_lemimir
+230 - Holder (1001498) has gained c_apanimir
+230 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+230 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+231 - Holder (1001498) has gained c_lemimir
+231 - Holder (1001498) has gained c_apanimir
+231 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+231 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+232 - Holder (1001498) has gained c_lemimir
+232 - Holder (1001498) has gained c_apanimir
+232 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+232 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+233 - Holder (1001498) has gained c_lemimir
+233 - Holder (1001498) has gained c_apanimir
+233 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+233 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+234 - Holder (1001498) has gained c_lemimir
+234 - Holder (1001498) has gained c_apanimir
+234 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+234 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+235 - Holder (1001498) has gained c_lemimir
+235 - Holder (1001498) has gained c_apanimir
+235 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+235 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+236 - Holder (1001498) has gained c_lemimir
+236 - Holder (1001498) has gained c_apanimir
+236 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+236 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+237 - Holder (1001498) has gained c_lemimir
+237 - Holder (1001498) has gained c_apanimir
+237 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+237 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+238 - Holder (1001498) has gained c_lemimir
+238 - Holder (1001498) has gained c_apanimir
+238 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+238 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+239 - Holder (1001498) has gained c_lemimir
+239 - Holder (1001498) has gained c_apanimir
+239 - Holder 1001497 - Primary title: k_loliana has lost the title: c_lemimir
+239 - Holder 1001497 - Primary title: k_loliana has lost the title: c_apanimir
+244 - Holder 1003767 - Primary title: k_loliana has lost the title: k_loliana
+244 - Title given to 1003767
+244 - vassal: d_nazorin - Holder 1003767 - Primary title: d_nazorin has lost the title: d_nazorin
+244 - sub vassal: d_nazorin - Holder 1003767 - Primary title: d_nazorin has lost the title: d_nazorin
+244 - vassal: d_nazorin - Title given to 1003767 - Primary title: k_loliana
+244 - sub vassal: d_nazorin - Title given to 1003767 - Primary title: k_loliana
+244 - Holder (1003767) has gained d_nazorin
+244 - sub vassal: c_tarilda - Setting to vassal of d_saytuzh in Validate Realm
+244 - vassal: d_nazorin - Lost vassal: c_tarilda
+244 - sub vassal: d_nazorin - Lost vassal: c_tarilda
+244 - sub vassal: c_daneka - Setting to vassal of d_saytuzh in Validate Realm
+244 - vassal: d_nazorin - Lost vassal: c_daneka
+244 - sub vassal: d_nazorin - Lost vassal: c_daneka
+244 - sub vassal: c_nasely - Setting to vassal of d_saytuzh in Validate Realm
+244 - vassal: d_nazorin - Lost vassal: c_nasely
+244 - sub vassal: d_nazorin - Lost vassal: c_nasely
+244 - vassal: d_saytuzh - Gained vassal: c_nasely
+244 - sub vassal: d_saytuzh - Gained vassal: c_nasely
+244 - vassal: d_saytuzh - Gained vassal: c_daneka
+244 - sub vassal: d_saytuzh - Gained vassal: c_daneka
+244 - vassal: d_saytuzh - Gained vassal: c_tarilda
+244 - sub vassal: d_saytuzh - Gained vassal: c_tarilda
+244 - vassal: d_saytuzh - Holder 1003767 - Primary title: d_saytuzh has lost the title: d_saytuzh
+244 - sub vassal: d_saytuzh - Holder 1003767 - Primary title: d_saytuzh has lost the title: d_saytuzh
+244 - vassal: d_saytuzh - Title given to 1003767 - Primary title: k_loliana
+244 - sub vassal: d_saytuzh - Title given to 1003767 - Primary title: k_loliana
+244 - Holder (1003767) has gained d_saytuzh
+244 - sub vassal: c_tarilda - Holder 1003767 - Primary title: c_tarilda has lost the title: c_tarilda
+244 - sub vassal: c_tarilda - Title given to 1003767 - Primary title: k_loliana
+244 - Holder (1003767) has gained c_tarilda
+244 - sub vassal: c_daneka - Holder 1003767 - Primary title: c_daneka has lost the title: c_daneka
+244 - sub vassal: c_daneka - Title given to 1003767 - Primary title: k_loliana
+244 - Holder (1003767) has gained c_daneka
+244 - sub vassal: c_nasely - Holder 1003767 - Primary title: c_nasely has lost the title: c_nasely
+244 - sub vassal: c_nasely - Title given to 1003767 - Primary title: k_loliana
+244 - Holder (1003767) has gained c_nasely
+245 - vassal: d_nazorin - Destroyed due to flagged problem
+245 - sub vassal: d_nazorin - Destroyed due to flagged problem
+245 - vassal: d_nazorin - Made independent
+245 - sub vassal: d_nazorin - Made independent
+255 - vassal: d_sorin - Holder 1001831 - Primary title: d_sorin has lost the title: d_sorin
+255 - sub vassal: d_sorin - Holder 1001831 - Primary title: d_sorin has lost the title: d_sorin
+255 - vassal: d_sorin - Title given to 1001831
+255 - sub vassal: d_sorin - Title given to 1001831
+255 - sub vassal: c_wodew - Holder 1001831 - Primary title: c_wodew has lost the title: c_wodew
+255 - sub vassal: c_wodew - Title given to 1001831 - Primary title: d_sorin
+255 - vassal: d_sorin - Holder (1001831) has gained c_wodew
+255 - sub vassal: d_sorin - Holder (1001831) has gained c_wodew
+255 - sub vassal: c_riduo - Holder 1001831 - Primary title: c_riduo has lost the title: c_riduo
+255 - sub vassal: c_riduo - Title given to 1001831 - Primary title: d_sorin
+255 - vassal: d_sorin - Holder (1001831) has gained c_riduo
+255 - sub vassal: d_sorin - Holder (1001831) has gained c_riduo
+255 - sub vassal: c_kavorin - Holder 1001831 - Primary title: c_kavorin has lost the title: c_kavorin
+255 - sub vassal: c_kavorin - Title given to 1001831 - Primary title: d_sorin
+255 - vassal: d_sorin - Holder (1001831) has gained c_kavorin
+255 - sub vassal: d_sorin - Holder (1001831) has gained c_kavorin
+256 - vassal: d_sorin - Holder 1002757 - Primary title: d_sorin has lost the title: d_sorin
+256 - sub vassal: d_sorin - Holder 1002757 - Primary title: d_sorin has lost the title: d_sorin
+256 - vassal: d_sorin - Title given to 1002757 - Primary title: d_teseran
+256 - sub vassal: d_sorin - Title given to 1002757 - Primary title: d_teseran
+256 - vassal: d_teseran - Holder (1002757) has gained d_sorin
+256 - sub vassal: d_teseran - Holder (1002757) has gained d_sorin
+256 - sub vassal: c_wodew - Holder 1002757 - Primary title: c_wodew has lost the title: c_wodew
+256 - sub vassal: c_wodew - Title given to 1002757 - Primary title: d_teseran
+256 - vassal: d_teseran - Holder (1002757) has gained c_wodew
+256 - sub vassal: d_teseran - Holder (1002757) has gained c_wodew
+256 - sub vassal: c_riduo - Holder 1002757 - Primary title: c_riduo has lost the title: c_riduo
+256 - sub vassal: c_riduo - Title given to 1002757 - Primary title: d_teseran
+256 - vassal: d_teseran - Holder (1002757) has gained c_riduo
+256 - sub vassal: d_teseran - Holder (1002757) has gained c_riduo
+256 - sub vassal: c_kavorin - Holder 1002757 - Primary title: c_kavorin has lost the title: c_kavorin
+256 - sub vassal: c_kavorin - Title given to 1002757 - Primary title: d_teseran
+256 - vassal: d_teseran - Holder (1002757) has gained c_kavorin
+256 - sub vassal: d_teseran - Holder (1002757) has gained c_kavorin
+257 - sub vassal: c_lanudo - Given to 1006565 in HandleTitles - Too many duke titles
+257 - vassal: d_sorin - Holder 1006565 - Primary title: d_sorin has lost the title: c_lanudo
+257 - sub vassal: d_sorin - Holder 1006565 - Primary title: d_sorin has lost the title: c_lanudo
+257 - sub vassal: c_lanudo - Title given to 1006565
+257 - vassal: d_sorin - Holder 1003767 - Primary title: d_sorin has lost the title: d_teseran
+257 - sub vassal: d_sorin - Holder 1003767 - Primary title: d_sorin has lost the title: d_teseran
+257 - vassal: d_teseran - Title given to 1003767 - Primary title: k_loliana
+257 - sub vassal: d_teseran - Title given to 1003767 - Primary title: k_loliana
+257 - Holder (1003767) has gained d_teseran
+257 - sub vassal: c_sag - Setting to vassal of d_sorin in Validate Realm
+257 - vassal: d_teseran - Lost vassal: c_sag
+257 - sub vassal: d_teseran - Lost vassal: c_sag
+257 - sub vassal: c_salely - Setting to vassal of d_sorin in Validate Realm
+257 - vassal: d_teseran - Lost vassal: c_salely
+257 - sub vassal: d_teseran - Lost vassal: c_salely
+257 - sub vassal: c_dasagye - Setting to vassal of d_sorin in Validate Realm
+257 - vassal: d_teseran - Lost vassal: c_dasagye
+257 - sub vassal: d_teseran - Lost vassal: c_dasagye
+257 - vassal: d_sorin - Gained vassal: c_dasagye
+257 - sub vassal: d_sorin - Gained vassal: c_dasagye
+257 - vassal: d_sorin - Gained vassal: c_salely
+257 - sub vassal: d_sorin - Gained vassal: c_salely
+257 - vassal: d_sorin - Gained vassal: c_sag
+257 - sub vassal: d_sorin - Gained vassal: c_sag
+257 - vassal: d_teseran - Too many dukes, made direct title into vassal of k_loliana
+257 - sub vassal: d_teseran - Too many dukes, made direct title into vassal of k_loliana
+257 - Holder 1006566 - Primary title: k_loliana has lost the title: d_teseran
+257 - vassal: d_teseran - Title given to 1006566
+257 - sub vassal: d_teseran - Title given to 1006566
+257 - vassal: d_sorin - Holder 1006567 - Primary title: d_sorin has lost the title: c_alephen
+257 - sub vassal: d_sorin - Holder 1006567 - Primary title: d_sorin has lost the title: c_alephen
+257 - sub vassal: c_alephen - Title given to 1006567
+257 - vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: c_sag
+257 - sub vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: c_sag
+257 - sub vassal: c_sag - Title given to 1003982
+259 - vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: d_qazew
+259 - sub vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: d_qazew
+259 - vassal: d_qazew - Title given to 1003982 - Primary title: c_sag
+259 - sub vassal: d_qazew - Title given to 1003982 - Primary title: c_sag
+259 - sub vassal: c_sag - Holder (1003982) has gained d_qazew
+259 - sub vassal: c_sag - Setting to vassal of d_qazew in Validate Realm
+259 - vassal: d_sorin - Lost vassal: c_sag
+259 - sub vassal: d_sorin - Lost vassal: c_sag
+259 - vassal: d_qazew - Gained vassal: c_sag
+259 - sub vassal: d_qazew - Gained vassal: c_sag
+259 - vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: c_salely
+259 - sub vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: c_salely
+259 - sub vassal: c_salely - Title given to 1003982 - Primary title: d_qazew
+259 - vassal: d_qazew - Holder (1003982) has gained c_salely
+259 - sub vassal: d_qazew - Holder (1003982) has gained c_salely
+259 - sub vassal: c_salely - Setting to vassal of d_qazew in Validate Realm
+259 - vassal: d_sorin - Lost vassal: c_salely
+259 - sub vassal: d_sorin - Lost vassal: c_salely
+259 - vassal: d_qazew - Gained vassal: c_salely
+259 - sub vassal: d_qazew - Gained vassal: c_salely
+259 - vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: c_dasagye
+259 - sub vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: c_dasagye
+259 - sub vassal: c_dasagye - Title given to 1003982 - Primary title: d_qazew
+259 - vassal: d_qazew - Holder (1003982) has gained c_dasagye
+259 - sub vassal: d_qazew - Holder (1003982) has gained c_dasagye
+259 - sub vassal: c_dasagye - Setting to vassal of d_qazew in Validate Realm
+259 - vassal: d_sorin - Lost vassal: c_dasagye
+259 - sub vassal: d_sorin - Lost vassal: c_dasagye
+259 - vassal: d_qazew - Gained vassal: c_dasagye
+259 - sub vassal: d_qazew - Gained vassal: c_dasagye
+259 - vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: d_sorin
+259 - sub vassal: d_sorin - Holder 1003982 - Primary title: d_sorin has lost the title: d_sorin
+259 - vassal: d_sorin - Title given to 1003982 - Primary title: d_qazew
+259 - sub vassal: d_sorin - Title given to 1003982 - Primary title: d_qazew
+259 - vassal: d_qazew - Holder (1003982) has gained d_sorin
+259 - sub vassal: d_qazew - Holder (1003982) has gained d_sorin
+259 - sub vassal: c_wodew - Holder 1003982 - Primary title: c_wodew has lost the title: c_wodew
+259 - sub vassal: c_wodew - Title given to 1003982 - Primary title: d_qazew
+259 - vassal: d_qazew - Holder (1003982) has gained c_wodew
+259 - sub vassal: d_qazew - Holder (1003982) has gained c_wodew
+259 - sub vassal: c_riduo - Holder 1003982 - Primary title: c_riduo has lost the title: c_riduo
+259 - sub vassal: c_riduo - Title given to 1003982 - Primary title: d_qazew
+259 - vassal: d_qazew - Holder (1003982) has gained c_riduo
+259 - sub vassal: d_qazew - Holder (1003982) has gained c_riduo
+259 - sub vassal: c_kavorin - Holder 1003982 - Primary title: c_kavorin has lost the title: c_kavorin
+259 - sub vassal: c_kavorin - Title given to 1003982 - Primary title: d_qazew
+259 - vassal: d_qazew - Holder (1003982) has gained c_kavorin
+259 - sub vassal: d_qazew - Holder (1003982) has gained c_kavorin
+260 - vassal: d_sorin - Holder 1006813 - Primary title: d_sorin has lost the title: c_dasagye
+260 - sub vassal: d_sorin - Holder 1006813 - Primary title: d_sorin has lost the title: c_dasagye
+260 - sub vassal: c_dasagye - Title given to 1006813
+263 - vassal: d_teseran - Holder 1007062 - Primary title: d_teseran has lost the title: d_teseran
+263 - sub vassal: d_teseran - Holder 1007062 - Primary title: d_teseran has lost the title: d_teseran
+263 - vassal: d_teseran - Title given to 1007062
+263 - sub vassal: d_teseran - Title given to 1007062
+273 - vassal: d_teseran - Holder 1003767 - Primary title: d_teseran has lost the title: d_teseran
+273 - sub vassal: d_teseran - Holder 1003767 - Primary title: d_teseran has lost the title: d_teseran
+273 - vassal: d_teseran - Title given to 1003767 - Primary title: k_loliana
+273 - sub vassal: d_teseran - Title given to 1003767 - Primary title: k_loliana
+273 - Holder (1003767) has gained d_teseran
+273 - vassal: d_sorin - Holder 1007538 - Primary title: d_sorin has lost the title: d_sorin
+273 - sub vassal: d_sorin - Holder 1007538 - Primary title: d_sorin has lost the title: d_sorin
+273 - vassal: d_sorin - Title given to 1007538
+273 - sub vassal: d_sorin - Title given to 1007538
+273 - sub vassal: c_kavorin - Setting to vassal of d_qazew in Validate Realm
+273 - vassal: d_sorin - Lost vassal: c_kavorin
+273 - sub vassal: d_sorin - Lost vassal: c_kavorin
+273 - sub vassal: c_riduo - Setting to vassal of d_qazew in Validate Realm
+273 - vassal: d_sorin - Lost vassal: c_riduo
+273 - sub vassal: d_sorin - Lost vassal: c_riduo
+273 - sub vassal: c_wodew - Setting to vassal of d_qazew in Validate Realm
+273 - vassal: d_sorin - Lost vassal: c_wodew
+273 - sub vassal: d_sorin - Lost vassal: c_wodew
+273 - vassal: d_qazew - Gained vassal: c_wodew
+273 - sub vassal: d_qazew - Gained vassal: c_wodew
+273 - vassal: d_qazew - Gained vassal: c_riduo
+273 - sub vassal: d_qazew - Gained vassal: c_riduo
+273 - vassal: d_qazew - Gained vassal: c_kavorin
+273 - sub vassal: d_qazew - Gained vassal: c_kavorin
+273 - vassal: d_qazew - Holder 1007538 - Primary title: d_qazew has lost the title: d_qazew
+273 - sub vassal: d_qazew - Holder 1007538 - Primary title: d_qazew has lost the title: d_qazew
+273 - vassal: d_qazew - Title given to 1007538 - Primary title: d_sorin
+273 - sub vassal: d_qazew - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: d_sorin - Holder (1007538) has gained d_qazew
+273 - sub vassal: d_sorin - Holder (1007538) has gained d_qazew
+273 - sub vassal: c_kavorin - Holder 1007538 - Primary title: c_kavorin has lost the title: c_kavorin
+273 - sub vassal: c_kavorin - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: d_sorin - Holder (1007538) has gained c_kavorin
+273 - sub vassal: d_sorin - Holder (1007538) has gained c_kavorin
+273 - sub vassal: c_riduo - Holder 1007538 - Primary title: c_riduo has lost the title: c_riduo
+273 - sub vassal: c_riduo - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: d_sorin - Holder (1007538) has gained c_riduo
+273 - sub vassal: d_sorin - Holder (1007538) has gained c_riduo
+273 - sub vassal: c_wodew - Holder 1007538 - Primary title: c_wodew has lost the title: c_wodew
+273 - sub vassal: c_wodew - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: d_sorin - Holder (1007538) has gained c_wodew
+273 - sub vassal: d_sorin - Holder (1007538) has gained c_wodew
+273 - sub vassal: c_salely - Holder 1007538 - Primary title: c_salely has lost the title: c_salely
+273 - sub vassal: c_salely - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: d_sorin - Holder (1007538) has gained c_salely
+273 - sub vassal: d_sorin - Holder (1007538) has gained c_salely
+273 - sub vassal: c_sag - Holder 1007538 - Primary title: c_sag has lost the title: c_sag
+273 - sub vassal: c_sag - Title given to 1007538 - Primary title: d_sorin
+273 - vassal: d_sorin - Holder (1007538) has gained c_sag
+273 - sub vassal: d_sorin - Holder (1007538) has gained c_sag
+274 - vassal: d_sorin - Destroyed due to flagged problem
+274 - sub vassal: d_sorin - Destroyed due to flagged problem
+274 - vassal: d_sorin - Made independent
+274 - sub vassal: d_sorin - Made independent
+274 - Holder 1006077 - Primary title: k_loliana has lost the title: k_loliana
+274 - Title given to 1006077
+274 - vassal: d_saytuzh - Holder 1006077 - Primary title: d_saytuzh has lost the title: c_nasely
+274 - sub vassal: d_saytuzh - Holder 1006077 - Primary title: d_saytuzh has lost the title: c_nasely
+274 - sub vassal: c_nasely - Title given to 1006077 - Primary title: k_loliana
+274 - Holder (1006077) has gained c_nasely
+274 - sub vassal: c_nasely - Setting to vassal of k_loliana in Validate Realm
+274 - vassal: d_saytuzh - Lost vassal: c_nasely
+274 - sub vassal: d_saytuzh - Lost vassal: c_nasely
+274 - Gained vassal: c_nasely
+274 - vassal: d_saytuzh - Holder 1006077 - Primary title: d_saytuzh has lost the title: c_daneka
+274 - sub vassal: d_saytuzh - Holder 1006077 - Primary title: d_saytuzh has lost the title: c_daneka
+274 - sub vassal: c_daneka - Title given to 1006077 - Primary title: k_loliana
+274 - Holder (1006077) has gained c_daneka
+274 - sub vassal: c_daneka - Setting to vassal of k_loliana in Validate Realm
+274 - vassal: d_saytuzh - Lost vassal: c_daneka
+274 - sub vassal: d_saytuzh - Lost vassal: c_daneka
+274 - Gained vassal: c_daneka
+274 - vassal: d_saytuzh - Holder 1006077 - Primary title: d_saytuzh has lost the title: c_tarilda
+274 - sub vassal: d_saytuzh - Holder 1006077 - Primary title: d_saytuzh has lost the title: c_tarilda
+274 - sub vassal: c_tarilda - Title given to 1006077 - Primary title: k_loliana
+274 - Holder (1006077) has gained c_tarilda
+274 - sub vassal: c_tarilda - Setting to vassal of k_loliana in Validate Realm
+274 - vassal: d_saytuzh - Lost vassal: c_tarilda
+274 - sub vassal: d_saytuzh - Lost vassal: c_tarilda
+274 - Gained vassal: c_tarilda
+274 - vassal: d_saytuzh - Holder 1006077 - Primary title: d_saytuzh has lost the title: d_saytuzh
+274 - sub vassal: d_saytuzh - Holder 1006077 - Primary title: d_saytuzh has lost the title: d_saytuzh
+274 - vassal: d_saytuzh - Title given to 1006077 - Primary title: k_loliana
+274 - sub vassal: d_saytuzh - Title given to 1006077 - Primary title: k_loliana
+274 - Holder (1006077) has gained d_saytuzh
+274 - vassal: d_teseran - Holder 1006077 - Primary title: d_teseran has lost the title: d_teseran
+274 - sub vassal: d_teseran - Holder 1006077 - Primary title: d_teseran has lost the title: d_teseran
+274 - vassal: d_teseran - Title given to 1006077 - Primary title: k_loliana
+274 - sub vassal: d_teseran - Title given to 1006077 - Primary title: k_loliana
+274 - Holder (1006077) has gained d_teseran
+295 - vassal: d_qazew - Holder (1007538) has gained d_sorin
+295 - sub vassal: d_qazew - Holder (1007538) has gained d_sorin
+295 - Gained vassal: d_sorin
+295 - vassal: d_sorin - Made independent for title creation d_sorin for d_qazew
+295 - sub vassal: d_sorin - Made independent for title creation d_sorin for d_qazew
+295 - vassal: d_sorin - Made independent
+295 - sub vassal: d_sorin - Made independent
+295 - sub vassal: c_sag - Set liege on title creation d_sorin
+295 - vassal: d_qazew - Lost vassal: c_sag
+295 - sub vassal: d_qazew - Lost vassal: c_sag
+295 - sub vassal: c_salely - Set liege on title creation d_sorin
+295 - vassal: d_qazew - Lost vassal: c_salely
+295 - sub vassal: d_qazew - Lost vassal: c_salely
+295 - sub vassal: c_wodew - Set liege on title creation d_sorin
+295 - vassal: d_qazew - Lost vassal: c_wodew
+295 - sub vassal: d_qazew - Lost vassal: c_wodew
+295 - sub vassal: c_riduo - Set liege on title creation d_sorin
+295 - vassal: d_qazew - Lost vassal: c_riduo
+295 - sub vassal: d_qazew - Lost vassal: c_riduo
+295 - sub vassal: c_kavorin - Set liege on title creation d_sorin
+295 - vassal: d_qazew - Lost vassal: c_kavorin
+295 - sub vassal: d_qazew - Lost vassal: c_kavorin
+296 - Holder 1009441 - Primary title: k_loliana has lost the title: k_loliana
+296 - Title given to 1009441
+296 - vassal: d_teseran - Holder 1009441 - Primary title: d_teseran has lost the title: d_teseran
+296 - sub vassal: d_teseran - Holder 1009441 - Primary title: d_teseran has lost the title: d_teseran
+296 - vassal: d_teseran - Title given to 1009441 - Primary title: k_loliana
+296 - sub vassal: d_teseran - Title given to 1009441 - Primary title: k_loliana
+296 - Holder (1009441) has gained d_teseran
+296 - vassal: c_tarilda - Setting to vassal of d_saytuzh in Validate Realm
+296 - sub vassal: c_tarilda - Setting to vassal of d_saytuzh in Validate Realm
+296 - Lost vassal: c_tarilda
+296 - vassal: c_daneka - Setting to vassal of d_saytuzh in Validate Realm
+296 - sub vassal: c_daneka - Setting to vassal of d_saytuzh in Validate Realm
+296 - Lost vassal: c_daneka
+296 - vassal: c_nasely - Setting to vassal of d_saytuzh in Validate Realm
+296 - sub vassal: c_nasely - Setting to vassal of d_saytuzh in Validate Realm
+296 - Lost vassal: c_nasely
+296 - vassal: d_saytuzh - Gained vassal: c_nasely
+296 - sub vassal: d_saytuzh - Gained vassal: c_nasely
+296 - vassal: d_saytuzh - Gained vassal: c_daneka
+296 - sub vassal: d_saytuzh - Gained vassal: c_daneka
+296 - vassal: d_saytuzh - Gained vassal: c_tarilda
+296 - sub vassal: d_saytuzh - Gained vassal: c_tarilda
+296 - vassal: d_saytuzh - Holder 1009441 - Primary title: d_saytuzh has lost the title: d_saytuzh
+296 - sub vassal: d_saytuzh - Holder 1009441 - Primary title: d_saytuzh has lost the title: d_saytuzh
+296 - vassal: d_saytuzh - Title given to 1009441 - Primary title: k_loliana
+296 - sub vassal: d_saytuzh - Title given to 1009441 - Primary title: k_loliana
+296 - Holder (1009441) has gained d_saytuzh
+296 - sub vassal: c_tarilda - Holder 1009441 - Primary title: c_tarilda has lost the title: c_tarilda
+296 - sub vassal: c_tarilda - Title given to 1009441 - Primary title: k_loliana
+296 - Holder (1009441) has gained c_tarilda
+296 - sub vassal: c_daneka - Holder 1009441 - Primary title: c_daneka has lost the title: c_daneka
+296 - sub vassal: c_daneka - Title given to 1009441 - Primary title: k_loliana
+296 - Holder (1009441) has gained c_daneka
+296 - sub vassal: c_nasely - Holder 1009441 - Primary title: c_nasely has lost the title: c_nasely
+296 - sub vassal: c_nasely - Title given to 1009441 - Primary title: k_loliana
+296 - Holder (1009441) has gained c_nasely
+300 - sub vassal: c_kolely - Holder 1007538 - Primary title: c_kolely has lost the title: c_kolely
+300 - sub vassal: c_kolely - Title given to 1007538 - Primary title: d_qazew
+300 - vassal: d_qazew - Holder (1007538) has gained c_kolely
+300 - sub vassal: d_qazew - Holder (1007538) has gained c_kolely
+300 - sub vassal: c_asilda - Holder 1006567 - Primary title: c_asilda has lost the title: c_asilda
+300 - sub vassal: c_asilda - Title given to 1006567 - Primary title: c_alephen
+300 - sub vassal: c_alephen - Holder (1006567) has gained c_asilda
+300 - vassal: d_qazew - Holder 1009711 - Primary title: d_qazew has lost the title: c_wodew
+300 - sub vassal: d_qazew - Holder 1009711 - Primary title: d_qazew has lost the title: c_wodew
+300 - sub vassal: c_wodew - Title given to 1009711
+304 - vassal: c_ridaaq - Setting to vassal of d_taseran in Validate Realm
+304 - Lost vassal: c_ridaaq
+304 - vassal: c_rusabir - Setting to vassal of d_taseran in Validate Realm
+304 - Lost vassal: c_rusabir
+304 - vassal: c_tagari - Setting to vassal of d_taseran in Validate Realm
+304 - Lost vassal: c_tagari
+305 - vassal: c_ridaaq - Setting to vassal of d_taseran in Validate Realm
+305 - Lost vassal: c_ridaaq
+305 - vassal: c_rusabir - Setting to vassal of d_taseran in Validate Realm
+305 - Lost vassal: c_rusabir
+305 - vassal: c_tagari - Setting to vassal of d_taseran in Validate Realm
+305 - Lost vassal: c_tagari
+306 - Holder (1009441) has gained c_ridaaq
+306 - Holder (1009441) has gained c_rusabir
+306 - Holder (1009441) has gained c_tagari
+306 - Holder 1010200 - Primary title: k_loliana has lost the title: c_ridaaq
+306 - Gained vassal: c_ridaaq
+306 - vassal: c_ridaaq - Made vassal of neighbour (k_bolew) due to being a seperate island
+306 - sub vassal: c_ridaaq - Made vassal of neighbour (k_bolew) due to being a seperate island
+306 - Lost vassal: c_ridaaq
+306 - Holder 1006289 - Primary title: k_loliana has lost the title: c_rusabir
+306 - Holder 1006289 - Primary title: k_loliana has lost the title: c_tagari
+308 - vassal: d_qazew - Holder 1008887 - Primary title: d_qazew has lost the title: d_sorin
+308 - sub vassal: d_qazew - Holder 1008887 - Primary title: d_qazew has lost the title: d_so

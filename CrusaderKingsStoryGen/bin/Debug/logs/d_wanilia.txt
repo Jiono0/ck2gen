@@ -1,0 +1,56 @@
+200 - Title given to 1001234
+200 - vassal: c_raniktor - Holder 1001234 - Primary title: c_raniktor has lost the title: c_raniktor
+200 - sub vassal: c_raniktor - Holder 1001234 - Primary title: c_raniktor has lost the title: c_raniktor
+200 - vassal: c_raniktor - Title given to 1001234 - Primary title: d_wanilia
+200 - sub vassal: c_raniktor - Title given to 1001234 - Primary title: d_wanilia
+200 - Holder (1001234) has gained c_raniktor
+200 - vassal: c_ramerma - Holder 1001234 - Primary title: c_ramerma has lost the title: c_ramerma
+200 - sub vassal: c_ramerma - Holder 1001234 - Primary title: c_ramerma has lost the title: c_ramerma
+200 - vassal: c_ramerma - Title given to 1001234 - Primary title: d_wanilia
+200 - sub vassal: c_ramerma - Title given to 1001234 - Primary title: d_wanilia
+200 - Holder (1001234) has gained c_ramerma
+200 - vassal: c_tumerma - Holder 1001234 - Primary title: c_tumerma has lost the title: c_tumerma
+200 - sub vassal: c_tumerma - Holder 1001234 - Primary title: c_tumerma has lost the title: c_tumerma
+200 - vassal: c_tumerma - Title given to 1001234 - Primary title: d_wanilia
+200 - sub vassal: c_tumerma - Title given to 1001234 - Primary title: d_wanilia
+200 - Holder (1001234) has gained c_tumerma
+229 - Holder 1003260 - Primary title: d_wanilia has lost the title: d_wanilia
+229 - Title given to 1003260
+229 - vassal: c_raniktor - Holder 1003260 - Primary title: c_raniktor has lost the title: c_raniktor
+229 - vassal: c_raniktor - Title given to 1003260 - Primary title: d_wanilia
+229 - Holder (1003260) has gained c_raniktor
+229 - vassal: c_ramerma - Holder 1003260 - Primary title: c_ramerma has lost the title: c_ramerma
+229 - vassal: c_ramerma - Title given to 1003260 - Primary title: d_wanilia
+229 - Holder (1003260) has gained c_ramerma
+229 - vassal: c_tumerma - Holder 1003260 - Primary title: c_tumerma has lost the title: c_tumerma
+229 - vassal: c_tumerma - Title given to 1003260 - Primary title: d_wanilia
+229 - Holder (1003260) has gained c_tumerma
+271 - Holder 1004804 - Primary title: d_wanilia has lost the title: d_wanilia
+271 - Title given to 1004804
+271 - vassal: c_raniktor - Holder 1004804 - Primary title: c_raniktor has lost the title: c_raniktor
+271 - vassal: c_raniktor - Title given to 1004804 - Primary title: d_wanilia
+271 - Holder (1004804) has gained c_raniktor
+271 - vassal: c_ramerma - Holder 1004804 - Primary title: c_ramerma has lost the title: c_ramerma
+271 - vassal: c_ramerma - Title given to 1004804 - Primary title: d_wanilia
+271 - Holder (1004804) has gained c_ramerma
+271 - vassal: c_tumerma - Holder 1004804 - Primary title: c_tumerma has lost the title: c_tumerma
+271 - vassal: c_tumerma - Title given to 1004804 - Primary title: d_wanilia
+271 - Holder (1004804) has gained c_tumerma
+287 - Holder 1007996 - Primary title: d_wanilia has lost the title: d_wanilia
+287 - Title given to 1007996
+287 - vassal: c_tumerma - Holder 1007996 - Primary title: c_tumerma has lost the title: c_tumerma
+287 - vassal: c_tumerma - Title given to 1007996 - Primary title: d_wanilia
+287 - Holder (1007996) has gained c_tumerma
+287 - vassal: c_ramerma - Holder 1007996 - Primary title: c_ramerma has lost the title: c_ramerma
+287 - vassal: c_ramerma - Title given to 1007996 - Primary title: d_wanilia
+287 - Holder (1007996) has gained c_ramerma
+287 - vassal: c_raniktor - Holder 1007996 - Primary title: c_raniktor has lost the title: c_raniktor
+287 - vassal: c_raniktor - Title given to 1007996 - Primary title: d_wanilia
+287 - Holder (1007996) has gained c_raniktor
+288 - Holder 1004802 - Primary title: d_wanilia has lost the title: d_wanilia
+288 - Title given to 1004802 - Primary title: k_ratpal
+288 - vassal: c_tumerma - Holder 1004802 - Primary title: c_tumerma has lost the title: c_tumerma
+288 - vassal: c_tumerma - Title given to 1004802 - Primary title: k_ratpal
+288 - vassal: c_ramerma - Holder 1004802 - Primary title: c_ramerma has lost the title: c_ramerma
+288 - vassal: c_ramerma - Title given to 1004802 - Primary title: k_ratpal
+288 - vassal: c_raniktor -

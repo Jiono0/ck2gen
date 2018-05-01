@@ -1,0 +1,56 @@
+200 - Title given to 1001173
+200 - vassal: c_aribel - Given to 1001177 via AddCharacterForTitle
+200 - sub vassal: c_aribel - Given to 1001177 via AddCharacterForTitle
+200 - vassal: c_aribel - Holder 1001177 - Primary title: c_aribel has lost the title: c_aribel
+200 - sub vassal: c_aribel - Holder 1001177 - Primary title: c_aribel has lost the title: c_aribel
+200 - vassal: c_aribel - Title given to 1001177
+200 - sub vassal: c_aribel - Title given to 1001177
+200 - vassal: c_qunas - Holder 1001173 - Primary title: c_qunas has lost the title: c_qunas
+200 - sub vassal: c_qunas - Holder 1001173 - Primary title: c_qunas has lost the title: c_qunas
+200 - vassal: c_qunas - Title given to 1001173 - Primary title: d_rilulay
+200 - sub vassal: c_qunas - Title given to 1001173 - Primary title: d_rilulay
+200 - Holder (1001173) has gained c_qunas
+200 - vassal: c_ryaditya - Holder 1001173 - Primary title: c_ryaditya has lost the title: c_ryaditya
+200 - sub vassal: c_ryaditya - Holder 1001173 - Primary title: c_ryaditya has lost the title: c_ryaditya
+200 - vassal: c_ryaditya - Title given to 1001173 - Primary title: d_rilulay
+200 - sub vassal: c_ryaditya - Title given to 1001173 - Primary title: d_rilulay
+200 - Holder (1001173) has gained c_ryaditya
+200 - vassal: c_aribel - Holder 1001173 - Primary title: c_aribel has lost the title: c_aribel
+200 - sub vassal: c_aribel - Holder 1001173 - Primary title: c_aribel has lost the title: c_aribel
+200 - vassal: c_aribel - Title given to 1001173 - Primary title: d_rilulay
+200 - sub vassal: c_aribel - Title given to 1001173 - Primary title: d_rilulay
+200 - Holder (1001173) has gained c_aribel
+200 - vassal: c_kamin - Holder 1001173 - Primary title: c_kamin has lost the title: c_kamin
+200 - sub vassal: c_kamin - Holder 1001173 - Primary title: c_kamin has lost the title: c_kamin
+200 - vassal: c_kamin - Title given to 1001173 - Primary title: d_rilulay
+200 - sub vassal: c_kamin - Title given to 1001173 - Primary title: d_rilulay
+200 - Holder (1001173) has gained c_kamin
+241 - Holder 1001178 - Primary title: d_rilulay has lost the title: d_rilulay
+241 - Title given to 1001178 - Primary title: d_ruqunas
+241 - vassal: c_kamin - Holder 1001178 - Primary title: c_kamin has lost the title: c_kamin
+241 - vassal: c_kamin - Title given to 1001178 - Primary title: d_ruqunas
+241 - vassal: c_aribel - Holder 1001178 - Primary title: c_aribel has lost the title: c_aribel
+241 - vassal: c_aribel - Title given to 1001178 - Primary title: d_ruqunas
+241 - vassal: c_ryaditya - Holder 1001178 - Primary title: c_ryaditya has lost the title: c_ryaditya
+241 - vassal: c_ryaditya - Title given to 1001178 - Primary title: d_ruqunas
+241 - vassal: c_qunas - Holder 1001178 - Primary title: c_qunas has lost the title: c_qunas
+241 - vassal: c_qunas - Title given to 1001178 - Primary title: d_ruqunas
+242 - Holder 1005440 - Primary title: d_rilulay has lost the title: c_detli
+242 - Holder 1001501 - Primary title: d_rilulay has lost the title: d_ruqunas
+242 - Gained vassal: c_nintas
+242 - Gained vassal: c_rarpal
+242 - Holder 1005442 - Primary title: d_rilulay has lost the title: c_nyadirin
+242 - Holder 1005443 - Primary title: d_rilulay has lost the title: c_kibibel
+242 - Holder 1002366 - Primary title: d_rilulay has lost the title: c_kamin
+242 - vassal: c_kamin - Title given to 1002366
+253 - Holder 1002133 - Primary title: d_rilulay has lost the title: d_tyaritya
+253 - Holder 1002133 - Primary title: d_rilulay has lost the title: c_rarpal
+253 - vassal: c_rarpal - Title given to 1002133 - Primary title: d_tyaritya
+253 - vassal: c_rarpal - Setting to vassal of d_tyaritya in Validate Realm
+253 - Lost vassal: c_rarpal
+253 - Holder 1002133 - Primary title: d_rilulay has lost the title: c_nintas
+253 - vassal: c_nintas - Title given to 1002133 - Primary title: d_tyaritya
+253 - vassal: c_nintas - Setting to vassal of d_tyaritya in Validate Realm
+253 - Lost vassal: c_nintas
+253 - Holder 1002133 - Primary title: d_rilulay has lost the title: d_rilulay
+253 - Title given to 1002133 - Primary 

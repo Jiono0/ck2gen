@@ -1,0 +1,58 @@
+200 - Title given to 1000113
+200 - vassal: c_amenzao - Given to 1000116 via AddCharacterForTitle
+200 - sub vassal: c_amenzao - Given to 1000116 via AddCharacterForTitle
+200 - vassal: c_amenzao - Holder 1000116 - Primary title: c_amenzao has lost the title: c_amenzao
+200 - sub vassal: c_amenzao - Holder 1000116 - Primary title: c_amenzao has lost the title: c_amenzao
+200 - vassal: c_amenzao - Title given to 1000116
+200 - sub vassal: c_amenzao - Title given to 1000116
+200 - vassal: c_lazao - Holder 1000113 - Primary title: c_lazao has lost the title: c_lazao
+200 - sub vassal: c_lazao - Holder 1000113 - Primary title: c_lazao has lost the title: c_lazao
+200 - vassal: c_lazao - Title given to 1000113 - Primary title: d_numuyan
+200 - sub vassal: c_lazao - Title given to 1000113 - Primary title: d_numuyan
+200 - Holder (1000113) has gained c_lazao
+200 - vassal: c_amenzao - Holder 1000113 - Primary title: c_amenzao has lost the title: c_amenzao
+200 - sub vassal: c_amenzao - Holder 1000113 - Primary title: c_amenzao has lost the title: c_amenzao
+200 - vassal: c_amenzao - Title given to 1000113 - Primary title: d_numuyan
+200 - sub vassal: c_amenzao - Title given to 1000113 - Primary title: d_numuyan
+200 - Holder (1000113) has gained c_amenzao
+200 - vassal: c_tamemia - Holder 1000113 - Primary title: c_tamemia has lost the title: c_tamemia
+200 - sub vassal: c_tamemia - Holder 1000113 - Primary title: c_tamemia has lost the title: c_tamemia
+200 - vassal: c_tamemia - Title given to 1000113 - Primary title: d_numuyan
+200 - sub vassal: c_tamemia - Title given to 1000113 - Primary title: d_numuyan
+200 - Holder (1000113) has gained c_tamemia
+200 - vassal: c_lamirkuh - Holder 1000113 - Primary title: c_lamirkuh has lost the title: c_lamirkuh
+200 - sub vassal: c_lamirkuh - Holder 1000113 - Primary title: c_lamirkuh has lost the title: c_lamirkuh
+200 - vassal: c_lamirkuh - Title given to 1000113 - Primary title: d_numuyan
+200 - sub vassal: c_lamirkuh - Title given to 1000113 - Primary title: d_numuyan
+200 - Holder (1000113) has gained c_lamirkuh
+230 - Holder 1002201 - Primary title: d_numuyan has lost the title: d_numuyan
+230 - Title given to 1002201
+230 - vassal: c_lazao - Holder 1002201 - Primary title: c_lazao has lost the title: c_lazao
+230 - vassal: c_lazao - Title given to 1002201 - Primary title: d_numuyan
+230 - Holder (1002201) has gained c_lazao
+230 - vassal: c_amenzao - Holder 1002201 - Primary title: c_amenzao has lost the title: c_amenzao
+230 - vassal: c_amenzao - Title given to 1002201 - Primary title: d_numuyan
+230 - Holder (1002201) has gained c_amenzao
+230 - vassal: c_tamemia - Holder 1002201 - Primary title: c_tamemia has lost the title: c_tamemia
+230 - vassal: c_tamemia - Title given to 1002201 - Primary title: d_numuyan
+230 - Holder (1002201) has gained c_tamemia
+230 - vassal: c_lamirkuh - Holder 1002201 - Primary title: c_lamirkuh has lost the title: c_lamirkuh
+230 - vassal: c_lamirkuh - Title given to 1002201 - Primary title: d_numuyan
+230 - Holder (1002201) has gained c_lamirkuh
+250 - Holder (1002201) has gained k_wereij
+251 - vassal: c_lamirkuh - Title given to 1003080
+251 - vassal: c_amenzao - Title given to 1006150
+251 - vassal: c_tamemia - Title given to 1002428
+251 - vassal: c_lazao - Title given to 1006151
+252 - vassal: c_lazao - Given to 1006219 in HandleTitles - Too many duke titles
+252 - vassal: c_lazao - Holder 1006219 - Primary title: c_lazao has lost the title: c_lazao
+252 - vassal: c_lazao - Title given to 1006219
+252 - Title given to 1006219 - Primary title: c_lazao
+252 - vassal: c_lazao - Holder (1006219) has gained d_numuyan
+252 - Too many dukes, given to dejure: k_wereij
+259 - Holder 1006264 - Primary title: d_numuyan has lost the title: d_numuyan
+259 - Title given to 1006264
+259 - vassal: c_lazao - Holder 1006264 - Primary title: c_lazao has lost the title: c_lazao
+259 - vassal: c_lazao - Title given to 1006264 - Primary title: d_numuyan
+259 - Holder (1006264) has gained c_lazao
+260 - Holder 1006347 - Primary title: d_numuyan has lost the title:

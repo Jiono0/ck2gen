@@ -1,0 +1,120 @@
+200 - Title given to 1000545
+200 - vassal: c_negema - Given to 1000548 via AddCharacterForTitle
+200 - sub vassal: c_negema - Given to 1000548 via AddCharacterForTitle
+200 - vassal: c_negema - Holder 1000548 - Primary title: c_negema has lost the title: c_negema
+200 - sub vassal: c_negema - Holder 1000548 - Primary title: c_negema has lost the title: c_negema
+200 - vassal: c_negema - Title given to 1000548
+200 - sub vassal: c_negema - Title given to 1000548
+200 - vassal: c_selema - Holder 1000545 - Primary title: c_selema has lost the title: c_selema
+200 - sub vassal: c_selema - Holder 1000545 - Primary title: c_selema has lost the title: c_selema
+200 - vassal: c_selema - Title given to 1000545 - Primary title: d_erunet
+200 - sub vassal: c_selema - Title given to 1000545 - Primary title: d_erunet
+200 - Holder (1000545) has gained c_selema
+200 - vassal: c_negema - Holder 1000545 - Primary title: c_negema has lost the title: c_negema
+200 - sub vassal: c_negema - Holder 1000545 - Primary title: c_negema has lost the title: c_negema
+200 - vassal: c_negema - Title given to 1000545 - Primary title: d_erunet
+200 - sub vassal: c_negema - Title given to 1000545 - Primary title: d_erunet
+200 - Holder (1000545) has gained c_negema
+200 - vassal: c_letunet - Title given to 1000545 - Primary title: d_erunet
+200 - Holder (1000545) has gained c_letunet
+220 - Holder 1003085 - Primary title: d_erunet has lost the title: d_erunet
+220 - Title given to 1003085
+220 - vassal: c_selema - Holder 1003085 - Primary title: c_selema has lost the title: c_selema
+220 - vassal: c_selema - Title given to 1003085 - Primary title: d_erunet
+220 - Holder (1003085) has gained c_selema
+220 - vassal: c_negema - Holder 1003085 - Primary title: c_negema has lost the title: c_negema
+220 - vassal: c_negema - Title given to 1003085 - Primary title: d_erunet
+220 - Holder (1003085) has gained c_negema
+220 - vassal: c_letunet - Holder 1003085 - Primary title: c_letunet has lost the title: c_letunet
+220 - vassal: c_letunet - Title given to 1003085 - Primary title: d_erunet
+220 - Holder (1003085) has gained c_letunet
+268 - Holder 1004802 - Primary title: d_erunet has lost the title: d_erunet
+268 - Title given to 1004802 - Primary title: d_wona
+268 - vassal: c_selema - Holder 1004802 - Primary title: c_selema has lost the title: c_selema
+268 - vassal: c_selema - Title given to 1004802 - Primary title: d_wona
+268 - vassal: c_negema - Holder 1004802 - Primary title: c_negema has lost the title: c_negema
+268 - vassal: c_negema - Title given to 1004802 - Primary title: d_wona
+268 - vassal: c_letunet - Holder 1004802 - Primary title: c_letunet has lost the title: c_letunet
+268 - vassal: c_letunet - Title given to 1004802 - Primary title: d_wona
+281 - Holder (1004802) has gained k_nelyayka
+282 - vassal: c_negema - Given to 1009276 in HandleTitles - Too many duke titles
+282 - vassal: c_negema - Title given to 1009276
+282 - Title given to 1009276 - Primary title: c_negema
+282 - vassal: c_negema - Holder (1009276) has gained d_erunet
+282 - vassal: c_letunet - Setting to vassal of k_nelyayka in Validate Realm
+282 - Lost vassal: c_letunet
+282 - vassal: c_selema - Setting to vassal of k_nelyayka in Validate Realm
+282 - Lost vassal: c_selema
+282 - Too many dukes, given to dejure: k_nelyayka
+317 - Holder 1009416 - Primary title: d_erunet has lost the title: d_erunet
+317 - Title given to 1009416
+317 - vassal: c_negema - Holder 1009416 - Primary title: c_negema has lost the title: c_negema
+317 - vassal: c_negema - Title given to 1009416 - Primary title: d_erunet
+317 - Holder (1009416) has gained c_negema
+342 - Holder 1012891 - Primary title: d_erunet has lost the title: d_erunet
+342 - Title given to 1012891
+342 - vassal: c_negema - Holder 1012891 - Primary title: c_negema has lost the title: c_negema
+342 - vassal: c_negema - Title given to 1012891 - Primary title: d_erunet
+342 - Holder (1012891) has gained c_negema
+343 - Holder 1010244 - Primary title: d_erunet has lost the title: d_erunet
+343 - Title given to 1010244 - Primary title: k_nelyayka
+343 - vassal: c_negema - Holder 1010244 - Primary title: c_negema has lost the title: c_negema
+343 - vassal: c_negema - Title given to 1010244 - Primary title: k_nelyayka
+343 - vassal: c_negema - Title given to 1014099
+346 - Gained vassal: c_elyayka
+346 - Gained vassal: c_nerema
+346 - Gained vassal: c_rona
+346 - Gained vassal: c_letadeva
+346 - Gained vassal: c_tarulfus
+346 - Holder 1012247 - Primary title: d_erunet has lost the title: c_tarulfus
+346 - vassal: c_tarulfus - Title given to 1012247 - Primary title: k_nelyayka
+346 - vassal: c_tarulfus - Setting to vassal of k_nelyayka in Validate Realm
+346 - Lost vassal: c_tarulfus
+346 - Holder 1012247 - Primary title: d_erunet has lost the title: c_letadeva
+346 - vassal: c_letadeva - Title given to 1012247 - Primary title: k_nelyayka
+346 - vassal: c_letadeva - Setting to vassal of k_nelyayka in Validate Realm
+346 - Lost vassal: c_letadeva
+346 - Holder 1012247 - Primary title: d_erunet has lost the title: c_rona
+346 - vassal: c_rona - Title given to 1012247 - Primary title: k_nelyayka
+346 - vassal: c_rona - Setting to vassal of k_nelyayka in Validate Realm
+346 - Lost vassal: c_rona
+346 - Holder 1012247 - Primary title: d_erunet has lost the title: c_nerema
+346 - vassal: c_nerema - Title given to 1012247 - Primary title: k_nelyayka
+346 - vassal: c_nerema - Setting to vassal of k_nelyayka in Validate Realm
+346 - Lost vassal: c_nerema
+346 - Holder 1012247 - Primary title: d_erunet has lost the title: c_elyayka
+346 - vassal: c_elyayka - Title given to 1012247 - Primary title: k_nelyayka
+346 - vassal: c_elyayka - Setting to vassal of k_nelyayka in Validate Realm
+346 - Lost vassal: c_elyayka
+346 - Holder 1012247 - Primary title: d_erunet has lost the title: d_erunet
+346 - Title given to 1012247 - Primary title: k_nelyayka
+384 - Holder 1014551 - Primary title: d_erunet has lost the title: d_erunet
+384 - Title given to 1014551 - Primary title: k_nelyayka
+390 - Gained vassal: c_elyayka
+390 - Gained vassal: c_nerema
+390 - Gained vassal: c_rona
+390 - Gained vassal: c_letadeva
+390 - Gained vassal: c_tarulfus
+390 - Holder 1017126 - Primary title: d_erunet has lost the title: d_erunet
+390 - Title given to 1017126 - Primary title: k_nelyayka
+390 - vassal: c_tarulfus - Setting to vassal of d_wona in Validate Realm
+390 - Lost vassal: c_tarulfus
+390 - vassal: c_letadeva - Setting to vassal of d_wona in Validate Realm
+390 - Lost vassal: c_letadeva
+390 - vassal: c_rona - Setting to vassal of d_wona in Validate Realm
+390 - Lost vassal: c_rona
+390 - vassal: c_nerema - Setting to vassal of d_wona in Validate Realm
+390 - Lost vassal: c_nerema
+390 - vassal: c_elyayka - Setting to vassal of d_wona in Validate Realm
+390 - Lost vassal: c_elyayka
+392 - vassal: c_negema - Given to 1017568 in HandleTitles - Too many duke titles
+392 - vassal: c_negema - Holder 1017568 - Primary title: c_negema has lost the title: c_negema
+392 - vassal: c_negema - Title given to 1017568
+392 - Title given to 1017568 - Primary title: c_negema
+392 - vassal: c_negema - Holder (1017568) has gained d_erunet
+392 - Too many dukes, given to dejure: k_nelyayka
+393 - Holder 1017126 - Primary title: d_erunet has lost the title: d_erunet
+393 - Title given to 1017126 - Primary title: k_nelyayka
+393 - vassal: c_negema - Holder 1017126 - Primary title: c_negema has lost the title: c_negema
+393 - vassal: c_negema - Title given to 1017126 - Primary title: k_nelyayka
+393 - vassal: c_negema - Title given to 1017644

@@ -1,0 +1,481 @@
+200 - Title given to 1001551
+200 - vassal: d_barabel - Holder 1001551 - Primary title: d_barabel has lost the title: d_barabel
+200 - sub vassal: d_barabel - Holder 1001551 - Primary title: d_barabel has lost the title: d_barabel
+200 - vassal: d_barabel - Title given to 1001551 - Primary title: k_nair
+200 - sub vassal: d_barabel - Title given to 1001551 - Primary title: k_nair
+200 - Holder (1001551) has gained d_barabel
+200 - sub vassal: c_runew - Holder 1001551 - Primary title: c_runew has lost the title: c_runew
+200 - sub vassal: c_runew - Title given to 1001551 - Primary title: k_nair
+200 - Holder (1001551) has gained c_runew
+201 - Holder 1000472 - Primary title: k_nair has lost the title: k_nair
+201 - Title given to 1000472 - Primary title: d_kayasuaz
+201 - vassal: d_kayasuaz - Holder (1000472) has gained k_nair
+201 - sub vassal: d_kayasuaz - Holder (1000472) has gained k_nair
+201 - vassal: d_barabel - Holder 1000472 - Primary title: d_barabel has lost the title: d_barabel
+201 - sub vassal: d_barabel - Holder 1000472 - Primary title: d_barabel has lost the title: d_barabel
+201 - vassal: d_barabel - Title given to 1000472 - Primary title: k_nair
+201 - sub vassal: d_barabel - Title given to 1000472 - Primary title: k_nair
+201 - Holder (1000472) has gained d_barabel
+201 - sub vassal: c_runew - Holder 1000472 - Primary title: c_runew has lost the title: c_runew
+201 - sub vassal: c_runew - Title given to 1000472 - Primary title: k_nair
+201 - Holder (1000472) has gained c_runew
+212 - vassal: d_qarew - Holder 1000472 - Primary title: d_qarew has lost the title: d_qarew
+212 - sub vassal: d_qarew - Holder 1000472 - Primary title: d_qarew has lost the title: d_qarew
+212 - vassal: d_qarew - Title given to 1000472 - Primary title: k_nair
+212 - sub vassal: d_qarew - Title given to 1000472 - Primary title: k_nair
+212 - Holder (1000472) has gained d_qarew
+212 - sub vassal: c_sadike - Holder 1000472 - Primary title: c_sadike has lost the title: c_sadike
+212 - sub vassal: c_sadike - Title given to 1000472 - Primary title: k_nair
+212 - Holder (1000472) has gained c_sadike
+212 - sub vassal: c_radedas - Holder 1000472 - Primary title: c_radedas has lost the title: c_radedas
+212 - sub vassal: c_radedas - Title given to 1000472 - Primary title: k_nair
+212 - Holder (1000472) has gained c_radedas
+212 - sub vassal: c_racabel - Holder 1000472 - Primary title: c_racabel has lost the title: c_racabel
+212 - sub vassal: c_racabel - Title given to 1000472 - Primary title: k_nair
+212 - Holder (1000472) has gained c_racabel
+212 - sub vassal: c_kacayya - Given to 1003456 in HandleTitles - Too many duke titles
+212 - Holder 1003456 - Primary title: k_nair has lost the title: c_kacayya
+212 - sub vassal: c_kacayya - Title given to 1003456
+212 - Holder 1003456 - Primary title: k_nair has lost the title: d_kayasuaz
+212 - vassal: d_kayasuaz - Title given to 1003456 - Primary title: c_kacayya
+212 - sub vassal: d_kayasuaz - Title given to 1003456 - Primary title: c_kacayya
+212 - sub vassal: c_kacayya - Holder (1003456) has gained d_kayasuaz
+212 - sub vassal: c_egopedas - Setting to vassal of k_nair in Validate Realm
+212 - vassal: d_kayasuaz - Lost vassal: c_egopedas
+212 - sub vassal: d_kayasuaz - Lost vassal: c_egopedas
+212 - sub vassal: c_qingilip - Setting to vassal of k_nair in Validate Realm
+212 - vassal: d_kayasuaz - Lost vassal: c_qingilip
+212 - sub vassal: d_kayasuaz - Lost vassal: c_qingilip
+212 - Gained vassal: c_qingilip
+212 - Gained vassal: c_egopedas
+212 - vassal: d_kayasuaz - Too many dukes, given to dejure: k_nair
+212 - sub vassal: d_kayasuaz - Too many dukes, given to dejure: k_nair
+212 - Holder 1003457 - Primary title: k_nair has lost the title: c_sadike
+212 - sub vassal: c_sadike - Title given to 1003457
+249 - Holder 1002197 - Primary title: k_nair has lost the title: k_nair
+249 - Title given to 1002197
+249 - vassal: d_barabel - Holder 1002197 - Primary title: d_barabel has lost the title: d_barabel
+249 - sub vassal: d_barabel - Holder 1002197 - Primary title: d_barabel has lost the title: d_barabel
+249 - vassal: d_barabel - Title given to 1002197 - Primary title: k_nair
+249 - sub vassal: d_barabel - Title given to 1002197 - Primary title: k_nair
+249 - Holder (1002197) has gained d_barabel
+249 - vassal: c_egopedas - Setting to vassal of d_qarew in Validate Realm
+249 - sub vassal: c_egopedas - Setting to vassal of d_qarew in Validate Realm
+249 - Lost vassal: c_egopedas
+249 - vassal: c_qingilip - Setting to vassal of d_qarew in Validate Realm
+249 - sub vassal: c_qingilip - Setting to vassal of d_qarew in Validate Realm
+249 - Lost vassal: c_qingilip
+249 - sub vassal: c_runew - Setting to vassal of d_qarew in Validate Realm
+249 - vassal: d_barabel - Lost vassal: c_runew
+249 - sub vassal: d_barabel - Lost vassal: c_runew
+249 - vassal: d_qarew - Gained vassal: c_runew
+249 - sub vassal: d_qarew - Gained vassal: c_runew
+249 - vassal: d_qarew - Gained vassal: c_qingilip
+249 - sub vassal: d_qarew - Gained vassal: c_qingilip
+249 - vassal: d_qarew - Gained vassal: c_egopedas
+249 - sub vassal: d_qarew - Gained vassal: c_egopedas
+249 - vassal: d_qarew - Holder 1002197 - Primary title: d_qarew has lost the title: d_qarew
+249 - sub vassal: d_qarew - Holder 1002197 - Primary title: d_qarew has lost the title: d_qarew
+249 - vassal: d_qarew - Title given to 1002197 - Primary title: k_nair
+249 - sub vassal: d_qarew - Title given to 1002197 - Primary title: k_nair
+249 - Holder (1002197) has gained d_qarew
+249 - sub vassal: c_egopedas - Holder 1002197 - Primary title: c_egopedas has lost the title: c_egopedas
+249 - sub vassal: c_egopedas - Title given to 1002197 - Primary title: k_nair
+249 - Holder (1002197) has gained c_egopedas
+249 - sub vassal: c_qingilip - Holder 1002197 - Primary title: c_qingilip has lost the title: c_qingilip
+249 - sub vassal: c_qingilip - Title given to 1002197 - Primary title: k_nair
+249 - Holder (1002197) has gained c_qingilip
+249 - sub vassal: c_runew - Holder 1002197 - Primary title: c_runew has lost the title: c_runew
+249 - sub vassal: c_runew - Title given to 1002197 - Primary title: k_nair
+249 - Holder (1002197) has gained c_runew
+249 - sub vassal: c_radedas - Holder 1002197 - Primary title: c_radedas has lost the title: c_radedas
+249 - sub vassal: c_radedas - Title given to 1002197 - Primary title: k_nair
+249 - Holder (1002197) has gained c_radedas
+249 - sub vassal: c_racabel - Holder 1002197 - Primary title: c_racabel has lost the title: c_racabel
+249 - sub vassal: c_racabel - Title given to 1002197 - Primary title: k_nair
+249 - Holder (1002197) has gained c_racabel
+253 - Holder 1006836 - Primary title: k_nair has lost the title: k_nair
+253 - Title given to 1006836
+253 - vassal: d_barabel - Holder 1006836 - Primary title: d_barabel has lost the title: d_barabel
+253 - sub vassal: d_barabel - Holder 1006836 - Primary title: d_barabel has lost the title: d_barabel
+253 - vassal: d_barabel - Title given to 1006836 - Primary title: k_nair
+253 - sub vassal: d_barabel - Title given to 1006836 - Primary title: k_nair
+253 - Holder (1006836) has gained d_barabel
+253 - vassal: d_qarew - Holder 1006836 - Primary title: d_qarew has lost the title: d_qarew
+253 - sub vassal: d_qarew - Holder 1006836 - Primary title: d_qarew has lost the title: d_qarew
+253 - vassal: d_qarew - Title given to 1006836 - Primary title: k_nair
+253 - sub vassal: d_qarew - Title given to 1006836 - Primary title: k_nair
+253 - Holder (1006836) has gained d_qarew
+253 - sub vassal: c_egopedas - Holder 1006836 - Primary title: c_egopedas has lost the title: c_egopedas
+253 - sub vassal: c_egopedas - Title given to 1006836 - Primary title: k_nair
+253 - Holder (1006836) has gained c_egopedas
+253 - sub vassal: c_qingilip - Holder 1006836 - Primary title: c_qingilip has lost the title: c_qingilip
+253 - sub vassal: c_qingilip - Title given to 1006836 - Primary title: k_nair
+253 - Holder (1006836) has gained c_qingilip
+253 - sub vassal: c_runew - Holder 1006836 - Primary title: c_runew has lost the title: c_runew
+253 - sub vassal: c_runew - Title given to 1006836 - Primary title: k_nair
+253 - Holder (1006836) has gained c_runew
+253 - sub vassal: c_radedas - Holder 1006836 - Primary title: c_radedas has lost the title: c_radedas
+253 - sub vassal: c_radedas - Title given to 1006836 - Primary title: k_nair
+253 - Holder (1006836) has gained c_radedas
+253 - sub vassal: c_racabel - Holder 1006836 - Primary title: c_racabel has lost the title: c_racabel
+253 - sub vassal: c_racabel - Title given to 1006836 - Primary title: k_nair
+253 - Holder (1006836) has gained c_racabel
+260 - vassal: d_kayasuaz - Holder 1003708 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+260 - sub vassal: d_kayasuaz - Holder 1003708 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+260 - vassal: d_kayasuaz - Title given to 1003708
+260 - sub vassal: d_kayasuaz - Title given to 1003708
+260 - sub vassal: c_kacayya - Holder 1003708 - Primary title: c_kacayya has lost the title: c_kacayya
+260 - sub vassal: c_kacayya - Title given to 1003708 - Primary title: d_kayasuaz
+260 - vassal: d_kayasuaz - Holder (1003708) has gained c_kacayya
+260 - sub vassal: d_kayasuaz - Holder (1003708) has gained c_kacayya
+268 - Holder 1007529 - Primary title: k_nair has lost the title: k_nair
+268 - Title given to 1007529
+268 - vassal: d_barabel - Holder 1007529 - Primary title: d_barabel has lost the title: d_barabel
+268 - sub vassal: d_barabel - Holder 1007529 - Primary title: d_barabel has lost the title: d_barabel
+268 - vassal: d_barabel - Title given to 1007529 - Primary title: k_nair
+268 - sub vassal: d_barabel - Title given to 1007529 - Primary title: k_nair
+268 - Holder (1007529) has gained d_barabel
+268 - vassal: d_qarew - Holder 1007529 - Primary title: d_qarew has lost the title: d_qarew
+268 - sub vassal: d_qarew - Holder 1007529 - Primary title: d_qarew has lost the title: d_qarew
+268 - vassal: d_qarew - Title given to 1007529 - Primary title: k_nair
+268 - sub vassal: d_qarew - Title given to 1007529 - Primary title: k_nair
+268 - Holder (1007529) has gained d_qarew
+268 - sub vassal: c_racabel - Holder 1007529 - Primary title: c_racabel has lost the title: c_racabel
+268 - sub vassal: c_racabel - Title given to 1007529 - Primary title: k_nair
+268 - Holder (1007529) has gained c_racabel
+268 - sub vassal: c_radedas - Holder 1007529 - Primary title: c_radedas has lost the title: c_radedas
+268 - sub vassal: c_radedas - Title given to 1007529 - Primary title: k_nair
+268 - Holder (1007529) has gained c_radedas
+268 - sub vassal: c_runew - Holder 1007529 - Primary title: c_runew has lost the title: c_runew
+268 - sub vassal: c_runew - Title given to 1007529 - Primary title: k_nair
+268 - Holder (1007529) has gained c_runew
+268 - sub vassal: c_qingilip - Holder 1007529 - Primary title: c_qingilip has lost the title: c_qingilip
+268 - sub vassal: c_qingilip - Title given to 1007529 - Primary title: k_nair
+268 - Holder (1007529) has gained c_qingilip
+268 - sub vassal: c_egopedas - Holder 1007529 - Primary title: c_egopedas has lost the title: c_egopedas
+268 - sub vassal: c_egopedas - Title given to 1007529 - Primary title: k_nair
+268 - Holder (1007529) has gained c_egopedas
+271 - Holder 1008370 - Primary title: k_nair has lost the title: k_nair
+271 - Title given to 1008370
+271 - vassal: d_barabel - Holder 1008370 - Primary title: d_barabel has lost the title: d_barabel
+271 - sub vassal: d_barabel - Holder 1008370 - Primary title: d_barabel has lost the title: d_barabel
+271 - vassal: d_barabel - Title given to 1008370 - Primary title: k_nair
+271 - sub vassal: d_barabel - Title given to 1008370 - Primary title: k_nair
+271 - Holder (1008370) has gained d_barabel
+271 - vassal: d_qarew - Holder 1008370 - Primary title: d_qarew has lost the title: d_qarew
+271 - sub vassal: d_qarew - Holder 1008370 - Primary title: d_qarew has lost the title: d_qarew
+271 - vassal: d_qarew - Title given to 1008370 - Primary title: k_nair
+271 - sub vassal: d_qarew - Title given to 1008370 - Primary title: k_nair
+271 - Holder (1008370) has gained d_qarew
+271 - sub vassal: c_racabel - Holder 1008370 - Primary title: c_racabel has lost the title: c_racabel
+271 - sub vassal: c_racabel - Title given to 1008370 - Primary title: k_nair
+271 - Holder (1008370) has gained c_racabel
+271 - sub vassal: c_radedas - Holder 1008370 - Primary title: c_radedas has lost the title: c_radedas
+271 - sub vassal: c_radedas - Title given to 1008370 - Primary title: k_nair
+271 - Holder (1008370) has gained c_radedas
+271 - sub vassal: c_runew - Holder 1008370 - Primary title: c_runew has lost the title: c_runew
+271 - sub vassal: c_runew - Title given to 1008370 - Primary title: k_nair
+271 - Holder (1008370) has gained c_runew
+271 - sub vassal: c_qingilip - Holder 1008370 - Primary title: c_qingilip has lost the title: c_qingilip
+271 - sub vassal: c_qingilip - Title given to 1008370 - Primary title: k_nair
+271 - Holder (1008370) has gained c_qingilip
+271 - sub vassal: c_egopedas - Holder 1008370 - Primary title: c_egopedas has lost the title: c_egopedas
+271 - sub vassal: c_egopedas - Title given to 1008370 - Primary title: k_nair
+271 - Holder (1008370) has gained c_egopedas
+273 - vassal: d_kayasuaz - Holder 1007851 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+273 - sub vassal: d_kayasuaz - Holder 1007851 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+273 - vassal: d_kayasuaz - Title given to 1007851
+273 - sub vassal: d_kayasuaz - Title given to 1007851
+273 - sub vassal: c_kacayya - Holder 1007851 - Primary title: c_kacayya has lost the title: c_kacayya
+273 - sub vassal: c_kacayya - Title given to 1007851 - Primary title: d_kayasuaz
+273 - vassal: d_kayasuaz - Holder (1007851) has gained c_kacayya
+273 - sub vassal: d_kayasuaz - Holder (1007851) has gained c_kacayya
+287 - vassal: d_kayasuaz - Holder 1008370 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+287 - sub vassal: d_kayasuaz - Holder 1008370 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+287 - vassal: d_kayasuaz - Title given to 1008370 - Primary title: k_nair
+287 - sub vassal: d_kayasuaz - Title given to 1008370 - Primary title: k_nair
+287 - Holder (1008370) has gained d_kayasuaz
+287 - sub vassal: c_kacayya - Holder 1008370 - Primary title: c_kacayya has lost the title: c_kacayya
+287 - sub vassal: c_kacayya - Title given to 1008370 - Primary title: k_nair
+287 - Holder (1008370) has gained c_kacayya
+287 - sub vassal: c_sadike - Given to 1009681 in HandleTitles - Too many duke titles
+287 - sub vassal: c_sadike - Holder 1009681 - Primary title: c_sadike has lost the title: c_sadike
+287 - sub vassal: c_sadike - Title given to 1009681
+287 - Holder 1009681 - Primary title: k_nair has lost the title: d_qarew
+287 - vassal: d_qarew - Title given to 1009681 - Primary title: c_sadike
+287 - sub vassal: d_qarew - Title given to 1009681 - Primary title: c_sadike
+287 - sub vassal: c_sadike - Holder (1009681) has gained d_qarew
+287 - sub vassal: c_egopedas - Setting to vassal of k_nair in Validate Realm
+287 - vassal: d_qarew - Lost vassal: c_egopedas
+287 - sub vassal: d_qarew - Lost vassal: c_egopedas
+287 - sub vassal: c_qingilip - Setting to vassal of k_nair in Validate Realm
+287 - vassal: d_qarew - Lost vassal: c_qingilip
+287 - sub vassal: d_qarew - Lost vassal: c_qingilip
+287 - sub vassal: c_runew - Setting to vassal of k_nair in Validate Realm
+287 - vassal: d_qarew - Lost vassal: c_runew
+287 - sub vassal: d_qarew - Lost vassal: c_runew
+287 - sub vassal: c_radedas - Setting to vassal of k_nair in Validate Realm
+287 - vassal: d_qarew - Lost vassal: c_radedas
+287 - sub vassal: d_qarew - Lost vassal: c_radedas
+287 - sub vassal: c_racabel - Setting to vassal of k_nair in Validate Realm
+287 - vassal: d_qarew - Lost vassal: c_racabel
+287 - sub vassal: d_qarew - Lost vassal: c_racabel
+287 - Gained vassal: c_racabel
+287 - Gained vassal: c_radedas
+287 - Gained vassal: c_runew
+287 - Gained vassal: c_qingilip
+287 - Gained vassal: c_egopedas
+287 - vassal: d_qarew - Too many dukes, given to dejure: k_nair
+287 - sub vassal: d_qarew - Too many dukes, given to dejure: k_nair
+287 - Holder 1009682 - Primary title: k_nair has lost the title: c_runew
+287 - vassal: c_runew - Title given to 1009682
+287 - sub vassal: c_runew - Title given to 1009682
+289 - vassal: d_qarew - Holder 1008370 - Primary title: d_qarew has lost the title: d_qarew
+289 - sub vassal: d_qarew - Holder 1008370 - Primary title: d_qarew has lost the title: d_qarew
+289 - vassal: d_qarew - Title given to 1008370 - Primary title: k_nair
+289 - sub vassal: d_qarew - Title given to 1008370 - Primary title: k_nair
+289 - Holder (1008370) has gained d_qarew
+289 - sub vassal: c_sadike - Holder 1008370 - Primary title: c_sadike has lost the title: c_sadike
+289 - sub vassal: c_sadike - Title given to 1008370 - Primary title: k_nair
+289 - Holder (1008370) has gained c_sadike
+289 - sub vassal: c_sadike - Given to 1003215 in HandleTitles - Too many duke titles
+289 - Holder 1003215 - Primary title: k_nair has lost the title: c_sadike
+289 - sub vassal: c_sadike - Title given to 1003215
+289 - Holder 1003215 - Primary title: k_nair has lost the title: d_qarew
+289 - vassal: d_qarew - Title given to 1003215 - Primary title: c_sadike
+289 - sub vassal: d_qarew - Title given to 1003215 - Primary title: c_sadike
+289 - sub vassal: c_sadike - Holder (1003215) has gained d_qarew
+289 - vassal: d_qarew - Too many dukes, given to dejure: k_nair
+289 - sub vassal: d_qarew - Too many dukes, given to dejure: k_nair
+290 - vassal: d_qarew - Holder 1008370 - Primary title: d_qarew has lost the title: d_qarew
+290 - sub vassal: d_qarew - Holder 1008370 - Primary title: d_qarew has lost the title: d_qarew
+290 - vassal: d_qarew - Title given to 1008370 - Primary title: k_nair
+290 - sub vassal: d_qarew - Title given to 1008370 - Primary title: k_nair
+290 - Holder (1008370) has gained d_qarew
+290 - sub vassal: c_sadike - Holder 1008370 - Primary title: c_sadike has lost the title: c_sadike
+290 - sub vassal: c_sadike - Title given to 1008370 - Primary title: k_nair
+290 - Holder (1008370) has gained c_sadike
+290 - sub vassal: c_sadike - Given to 1009910 in HandleTitles - Too many duke titles
+290 - Holder 1009910 - Primary title: k_nair has lost the title: c_sadike
+290 - sub vassal: c_sadike - Title given to 1009910
+290 - Holder 1009910 - Primary title: k_nair has lost the title: d_qarew
+290 - vassal: d_qarew - Title given to 1009910 - Primary title: c_sadike
+290 - sub vassal: d_qarew - Title given to 1009910 - Primary title: c_sadike
+290 - sub vassal: c_sadike - Holder (1009910) has gained d_qarew
+290 - vassal: d_qarew - Too many dukes, given to dejure: k_nair
+290 - sub vassal: d_qarew - Too many dukes, given to dejure: k_nair
+300 - sub vassal: c_azoti - Holder 1008370 - Primary title: c_azoti has lost the title: c_azoti
+300 - sub vassal: c_azoti - Title given to 1008370 - Primary title: k_nair
+300 - Holder (1008370) has gained c_azoti
+300 - sub vassal: c_amarayya - Holder 1008370 - Primary title: c_amarayya has lost the title: c_amarayya
+300 - sub vassal: c_amarayya - Title given to 1008370 - Primary title: k_nair
+300 - Holder (1008370) has gained c_amarayya
+300 - sub vassal: c_qanura - Holder 1008370 - Primary title: c_qanura has lost the title: c_qanura
+300 - sub vassal: c_qanura - Title given to 1008370 - Primary title: k_nair
+300 - Holder (1008370) has gained c_qanura
+300 - Holder 1010791 - Primary title: k_nair has lost the title: c_kacayya
+300 - sub vassal: c_kacayya - Title given to 1010791
+300 - Holder 1010792 - Primary title: k_nair has lost the title: c_racabel
+300 - vassal: c_racabel - Title given to 1010792
+300 - sub vassal: c_racabel - Title given to 1010792
+300 - Holder 1010793 - Primary title: k_nair has lost the title: c_radedas
+300 - vassal: c_radedas - Title given to 1010793
+300 - sub vassal: c_radedas - Title given to 1010793
+309 - vassal: d_qarew - Holder 1010208 - Primary title: d_qarew has lost the title: d_qarew
+309 - sub vassal: d_qarew - Holder 1010208 - Primary title: d_qarew has lost the title: d_qarew
+309 - vassal: d_qarew - Title given to 1010208
+309 - sub vassal: d_qarew - Title given to 1010208
+309 - sub vassal: c_sadike - Holder 1010208 - Primary title: c_sadike has lost the title: c_sadike
+309 - sub vassal: c_sadike - Title given to 1010208 - Primary title: d_qarew
+309 - vassal: d_qarew - Holder (1010208) has gained c_sadike
+309 - sub vassal: d_qarew - Holder (1010208) has gained c_sadike
+311 - Holder 1009115 - Primary title: k_nair has lost the title: k_nair
+311 - Title given to 1009115
+311 - vassal: d_barabel - Holder 1009115 - Primary title: d_barabel has lost the title: d_barabel
+311 - sub vassal: d_barabel - Holder 1009115 - Primary title: d_barabel has lost the title: d_barabel
+311 - vassal: d_barabel - Title given to 1009115 - Primary title: k_nair
+311 - sub vassal: d_barabel - Title given to 1009115 - Primary title: k_nair
+311 - Holder (1009115) has gained d_barabel
+311 - sub vassal: c_qanura - Setting to vassal of d_kayasuaz in Validate Realm
+311 - vassal: d_barabel - Lost vassal: c_qanura
+311 - sub vassal: d_barabel - Lost vassal: c_qanura
+311 - sub vassal: c_amarayya - Setting to vassal of d_kayasuaz in Validate Realm
+311 - vassal: d_barabel - Lost vassal: c_amarayya
+311 - sub vassal: d_barabel - Lost vassal: c_amarayya
+311 - sub vassal: c_azoti - Setting to vassal of d_kayasuaz in Validate Realm
+311 - vassal: d_barabel - Lost vassal: c_azoti
+311 - sub vassal: d_barabel - Lost vassal: c_azoti
+311 - vassal: c_qingilip - Setting to vassal of d_kayasuaz in Validate Realm
+311 - sub vassal: c_qingilip - Setting to vassal of d_kayasuaz in Validate Realm
+311 - Lost vassal: c_qingilip
+311 - vassal: c_egopedas - Setting to vassal of d_kayasuaz in Validate Realm
+311 - sub vassal: c_egopedas - Setting to vassal of d_kayasuaz in Validate Realm
+311 - Lost vassal: c_egopedas
+311 - vassal: d_kayasuaz - Gained vassal: c_egopedas
+311 - sub vassal: d_kayasuaz - Gained vassal: c_egopedas
+311 - vassal: d_kayasuaz - Gained vassal: c_qingilip
+311 - sub vassal: d_kayasuaz - Gained vassal: c_qingilip
+311 - vassal: d_kayasuaz - Gained vassal: c_azoti
+311 - sub vassal: d_kayasuaz - Gained vassal: c_azoti
+311 - vassal: d_kayasuaz - Gained vassal: c_amarayya
+311 - sub vassal: d_kayasuaz - Gained vassal: c_amarayya
+311 - vassal: d_kayasuaz - Gained vassal: c_qanura
+311 - sub vassal: d_kayasuaz - Gained vassal: c_qanura
+311 - vassal: d_kayasuaz - Holder 1009115 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+311 - sub vassal: d_kayasuaz - Holder 1009115 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+311 - vassal: d_kayasuaz - Title given to 1009115 - Primary title: k_nair
+311 - sub vassal: d_kayasuaz - Title given to 1009115 - Primary title: k_nair
+311 - Holder (1009115) has gained d_kayasuaz
+311 - sub vassal: c_qanura - Holder 1009115 - Primary title: c_qanura has lost the title: c_qanura
+311 - sub vassal: c_qanura - Title given to 1009115 - Primary title: k_nair
+311 - Holder (1009115) has gained c_qanura
+311 - sub vassal: c_amarayya - Holder 1009115 - Primary title: c_amarayya has lost the title: c_amarayya
+311 - sub vassal: c_amarayya - Title given to 1009115 - Primary title: k_nair
+311 - Holder (1009115) has gained c_amarayya
+311 - sub vassal: c_azoti - Holder 1009115 - Primary title: c_azoti has lost the title: c_azoti
+311 - sub vassal: c_azoti - Title given to 1009115 - Primary title: k_nair
+311 - Holder (1009115) has gained c_azoti
+311 - sub vassal: c_qingilip - Holder 1009115 - Primary title: c_qingilip has lost the title: c_qingilip
+311 - sub vassal: c_qingilip - Title given to 1009115 - Primary title: k_nair
+311 - Holder (1009115) has gained c_qingilip
+311 - sub vassal: c_egopedas - Holder 1009115 - Primary title: c_egopedas has lost the title: c_egopedas
+311 - sub vassal: c_egopedas - Title given to 1009115 - Primary title: k_nair
+311 - Holder (1009115) has gained c_egopedas
+312 - vassal: d_barabel - Destroyed due to flagged problem
+312 - sub vassal: d_barabel - Destroyed due to flagged problem
+312 - vassal: d_barabel - Made independent
+312 - sub vassal: d_barabel - Made independent
+328 - vassal: d_qarew - Holder 1012890 - Primary title: d_qarew has lost the title: d_qarew
+328 - sub vassal: d_qarew - Holder 1012890 - Primary title: d_qarew has lost the title: d_qarew
+328 - vassal: d_qarew - Title given to 1012890
+328 - sub vassal: d_qarew - Title given to 1012890
+328 - sub vassal: c_sadike - Holder 1012890 - Primary title: c_sadike has lost the title: c_sadike
+328 - sub vassal: c_sadike - Title given to 1012890 - Primary title: d_qarew
+328 - vassal: d_qarew - Holder (1012890) has gained c_sadike
+328 - sub vassal: d_qarew - Holder (1012890) has gained c_sadike
+330 - Holder 1012890 - Primary title: k_nair has lost the title: k_nair
+330 - Title given to 1012890 - Primary title: d_qarew
+330 - vassal: d_qarew - Holder (1012890) has gained k_nair
+330 - sub vassal: d_qarew - Holder (1012890) has gained k_nair
+330 - vassal: d_kayasuaz - Holder 1012890 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+330 - sub vassal: d_kayasuaz - Holder 1012890 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+330 - vassal: d_kayasuaz - Title given to 1012890 - Primary title: k_nair
+330 - sub vassal: d_kayasuaz - Title given to 1012890 - Primary title: k_nair
+330 - Holder (1012890) has gained d_kayasuaz
+330 - sub vassal: c_egopedas - Holder 1012890 - Primary title: c_egopedas has lost the title: c_egopedas
+330 - sub vassal: c_egopedas - Title given to 1012890 - Primary title: k_nair
+330 - Holder (1012890) has gained c_egopedas
+330 - sub vassal: c_qingilip - Holder 1012890 - Primary title: c_qingilip has lost the title: c_qingilip
+330 - sub vassal: c_qingilip - Title given to 1012890 - Primary title: k_nair
+330 - Holder (1012890) has gained c_qingilip
+330 - sub vassal: c_azoti - Holder 1012890 - Primary title: c_azoti has lost the title: c_azoti
+330 - sub vassal: c_azoti - Title given to 1012890 - Primary title: k_nair
+330 - Holder (1012890) has gained c_azoti
+330 - sub vassal: c_amarayya - Holder 1012890 - Primary title: c_amarayya has lost the title: c_amarayya
+330 - sub vassal: c_amarayya - Title given to 1012890 - Primary title: k_nair
+330 - Holder (1012890) has gained c_amarayya
+330 - sub vassal: c_qanura - Holder 1012890 - Primary title: c_qanura has lost the title: c_qanura
+330 - sub vassal: c_qanura - Title given to 1012890 - Primary title: k_nair
+330 - Holder (1012890) has gained c_qanura
+331 - Holder 1013217 - Primary title: k_nair has lost the title: c_sadike
+331 - sub vassal: c_sadike - Title given to 1013217
+348 - Holder 1010793 - Primary title: k_nair has lost the title: k_nair
+348 - Title given to 1010793 - Primary title: c_radedas
+348 - vassal: c_radedas - Holder (1010793) has gained k_nair
+348 - sub vassal: c_radedas - Holder (1010793) has gained k_nair
+348 - vassal: d_kayasuaz - Holder 1010793 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+348 - sub vassal: d_kayasuaz - Holder 1010793 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+348 - vassal: d_kayasuaz - Title given to 1010793 - Primary title: k_nair
+348 - sub vassal: d_kayasuaz - Title given to 1010793 - Primary title: k_nair
+348 - Holder (1010793) has gained d_kayasuaz
+348 - sub vassal: c_qanura - Setting to vassal of d_qarew in Validate Realm
+348 - vassal: d_kayasuaz - Lost vassal: c_qanura
+348 - sub vassal: d_kayasuaz - Lost vassal: c_qanura
+348 - sub vassal: c_amarayya - Setting to vassal of d_qarew in Validate Realm
+348 - vassal: d_kayasuaz - Lost vassal: c_amarayya
+348 - sub vassal: d_kayasuaz - Lost vassal: c_amarayya
+348 - sub vassal: c_azoti - Setting to vassal of d_qarew in Validate Realm
+348 - vassal: d_kayasuaz - Lost vassal: c_azoti
+348 - sub vassal: d_kayasuaz - Lost vassal: c_azoti
+348 - sub vassal: c_qingilip - Setting to vassal of d_qarew in Validate Realm
+348 - vassal: d_kayasuaz - Lost vassal: c_qingilip
+348 - sub vassal: d_kayasuaz - Lost vassal: c_qingilip
+348 - sub vassal: c_egopedas - Setting to vassal of d_qarew in Validate Realm
+348 - vassal: d_kayasuaz - Lost vassal: c_egopedas
+348 - sub vassal: d_kayasuaz - Lost vassal: c_egopedas
+348 - vassal: d_qarew - Gained vassal: c_egopedas
+348 - sub vassal: d_qarew - Gained vassal: c_egopedas
+348 - vassal: d_qarew - Gained vassal: c_qingilip
+348 - sub vassal: d_qarew - Gained vassal: c_qingilip
+348 - vassal: d_qarew - Gained vassal: c_azoti
+348 - sub vassal: d_qarew - Gained vassal: c_azoti
+348 - vassal: d_qarew - Gained vassal: c_amarayya
+348 - sub vassal: d_qarew - Gained vassal: c_amarayya
+348 - vassal: d_qarew - Gained vassal: c_qanura
+348 - sub vassal: d_qarew - Gained vassal: c_qanura
+348 - vassal: d_qarew - Holder 1010793 - Primary title: d_qarew has lost the title: d_qarew
+348 - sub vassal: d_qarew - Holder 1010793 - Primary title: d_qarew has lost the title: d_qarew
+348 - vassal: d_qarew - Title given to 1010793 - Primary title: k_nair
+348 - sub vassal: d_qarew - Title given to 1010793 - Primary title: k_nair
+348 - Holder (1010793) has gained d_qarew
+348 - sub vassal: c_qanura - Holder 1010793 - Primary title: c_qanura has lost the title: c_qanura
+348 - sub vassal: c_qanura - Title given to 1010793 - Primary title: k_nair
+348 - Holder (1010793) has gained c_qanura
+348 - sub vassal: c_amarayya - Holder 1010793 - Primary title: c_amarayya has lost the title: c_amarayya
+348 - sub vassal: c_amarayya - Title given to 1010793 - Primary title: k_nair
+348 - Holder (1010793) has gained c_amarayya
+348 - sub vassal: c_azoti - Holder 1010793 - Primary title: c_azoti has lost the title: c_azoti
+348 - sub vassal: c_azoti - Title given to 1010793 - Primary title: k_nair
+348 - Holder (1010793) has gained c_azoti
+348 - sub vassal: c_qingilip - Holder 1010793 - Primary title: c_qingilip has lost the title: c_qingilip
+348 - sub vassal: c_qingilip - Title given to 1010793 - Primary title: k_nair
+348 - Holder (1010793) has gained c_qingilip
+348 - sub vassal: c_egopedas - Holder 1010793 - Primary title: c_egopedas has lost the title: c_egopedas
+348 - sub vassal: c_egopedas - Title given to 1010793 - Primary title: k_nair
+348 - Holder (1010793) has gained c_egopedas
+349 - Holder 1014549 - Primary title: k_nair has lost the title: c_radedas
+349 - vassal: c_radedas - Title given to 1014549
+349 - sub vassal: c_radedas - Title given to 1014549
+356 - Holder 1014693 - Primary title: k_nair has lost the title: k_nair
+356 - Title given to 1014693
+356 - vassal: d_kayasuaz - Holder 1014693 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+356 - sub vassal: d_kayasuaz - Holder 1014693 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+356 - vassal: d_kayasuaz - Title given to 1014693 - Primary title: k_nair
+356 - sub vassal: d_kayasuaz - Title given to 1014693 - Primary title: k_nair
+356 - Holder (1014693) has gained d_kayasuaz
+356 - vassal: d_qarew - Holder 1014693 - Primary title: d_qarew has lost the title: d_qarew
+356 - sub vassal: d_qarew - Holder 1014693 - Primary title: d_qarew has lost the title: d_qarew
+356 - vassal: d_qarew - Title given to 1014693 - Primary title: k_nair
+356 - sub vassal: d_qarew - Title given to 1014693 - Primary title: k_nair
+356 - Holder (1014693) has gained d_qarew
+356 - sub vassal: c_qanura - Holder 1014693 - Primary title: c_qanura has lost the title: c_qanura
+356 - sub vassal: c_qanura - Title given to 1014693 - Primary title: k_nair
+356 - Holder (1014693) has gained c_qanura
+356 - sub vassal: c_amarayya - Holder 1014693 - Primary title: c_amarayya has lost the title: c_amarayya
+356 - sub vassal: c_amarayya - Title given to 1014693 - Primary title: k_nair
+356 - Holder (1014693) has gained c_amarayya
+356 - sub vassal: c_azoti - Holder 1014693 - Primary title: c_azoti has lost the title: c_azoti
+356 - sub vassal: c_azoti - Title given to 1014693 - Primary title: k_nair
+356 - Holder (1014693) has gained c_azoti
+356 - sub vassal: c_qingilip - Holder 1014693 - Primary title: c_qingilip has lost the title: c_qingilip
+356 - sub vassal: c_qingilip - Title given to 1014693 - Primary title: k_nair
+356 - Holder (1014693) has gained c_qingilip
+356 - sub vassal: c_egopedas - Holder 1014693 - Primary title: c_egopedas has lost the title: c_egopedas
+356 - sub vassal: c_egopedas - Title given to 1014693 - Primary title: k_nair
+356 - Holder (1014693) has gained c_egopedas
+384 - vassal: d_domilek - Setting independent in Validate Realm
+384 - vassal: d_domilek - Made independent
+400 - vassal: c_runew - Holder 1014693 - Primary title: c_runew has lost the title: c_runew
+400 - sub vassal: c_runew - Holder 1014693 - Primary title: c_runew has lost the title: c_runew
+400 - vassal: c_runew - Title given to 1014693 - Primary title: k_nair
+400 - sub vassal: c_runew - Title given to 1014693 - Primary title: k_nair
+400 - Holder (1014693) has gained c_runew
+400 - sub vassal: c_kacayya - Holder 1014693 - Primary title: c_kacayya has lost the title: c_kacayya
+400 - sub vassal: c_kacayya - Title given to 1014693 - Primary title: k_nair
+400 - Holder (1014693) has gained c_kacayya
+400 - vassal: c_racabel - Holder 1014693 - Primary title: c_racabel has lost the title: c_racabel
+400 - sub vassal: c_racabel - Holder 1014693 - Primary title: c_racabel has lost the title: c_racabel
+400 - vassal: c_racabel - Title given to 1014693 - Primary title: k_nair
+400 - sub vassal: c_racabel - Title given to 1014693 - Primary title: k_nair
+400 - Holder (1014693) has gained c_racabel

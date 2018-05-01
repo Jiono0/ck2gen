@@ -1,0 +1,147 @@
+200 - Title given to 1000852
+200 - vassal: c_arianuro - Given to 1000855 via AddCharacterForTitle
+200 - sub vassal: c_arianuro - Given to 1000855 via AddCharacterForTitle
+200 - vassal: c_arianuro - Holder 1000855 - Primary title: c_arianuro has lost the title: c_arianuro
+200 - sub vassal: c_arianuro - Holder 1000855 - Primary title: c_arianuro has lost the title: c_arianuro
+200 - vassal: c_arianuro - Title given to 1000855
+200 - sub vassal: c_arianuro - Title given to 1000855
+200 - vassal: c_kisari - Given to 1000857 via AddCharacterForTitle
+200 - sub vassal: c_kisari - Given to 1000857 via AddCharacterForTitle
+200 - vassal: c_kisari - Holder 1000857 - Primary title: c_kisari has lost the title: c_kisari
+200 - sub vassal: c_kisari - Holder 1000857 - Primary title: c_kisari has lost the title: c_kisari
+200 - vassal: c_kisari - Title given to 1000857
+200 - sub vassal: c_kisari - Title given to 1000857
+200 - vassal: c_qaoro - Holder 1000852 - Primary title: c_qaoro has lost the title: c_qaoro
+200 - sub vassal: c_qaoro - Holder 1000852 - Primary title: c_qaoro has lost the title: c_qaoro
+200 - vassal: c_qaoro - Title given to 1000852 - Primary title: d_adujumo
+200 - sub vassal: c_qaoro - Title given to 1000852 - Primary title: d_adujumo
+200 - Holder (1000852) has gained c_qaoro
+200 - vassal: c_arianuro - Holder 1000852 - Primary title: c_arianuro has lost the title: c_arianuro
+200 - sub vassal: c_arianuro - Holder 1000852 - Primary title: c_arianuro has lost the title: c_arianuro
+200 - vassal: c_arianuro - Title given to 1000852 - Primary title: d_adujumo
+200 - sub vassal: c_arianuro - Title given to 1000852 - Primary title: d_adujumo
+200 - Holder (1000852) has gained c_arianuro
+200 - vassal: c_razaaq - Title given to 1000852 - Primary title: d_adujumo
+200 - Holder (1000852) has gained c_razaaq
+209 - Holder 1002926 - Primary title: d_adujumo has lost the title: d_adujumo
+209 - Title given to 1002926
+209 - vassal: c_razaaq - Holder 1002926 - Primary title: c_razaaq has lost the title: c_razaaq
+209 - vassal: c_razaaq - Title given to 1002926 - Primary title: d_adujumo
+209 - Holder (1002926) has gained c_razaaq
+209 - vassal: c_arianuro - Holder 1002926 - Primary title: c_arianuro has lost the title: c_arianuro
+209 - vassal: c_arianuro - Title given to 1002926 - Primary title: d_adujumo
+209 - Holder (1002926) has gained c_arianuro
+209 - vassal: c_qaoro - Holder 1002926 - Primary title: c_qaoro has lost the title: c_qaoro
+209 - vassal: c_qaoro - Title given to 1002926 - Primary title: d_adujumo
+209 - Holder (1002926) has gained c_qaoro
+226 - Holder 1000980 - Primary title: d_adujumo has lost the title: d_adujumo
+226 - Title given to 1000980 - Primary title: d_tilaoro
+226 - vassal: c_qaoro - Holder 1000980 - Primary title: c_qaoro has lost the title: c_qaoro
+226 - vassal: c_qaoro - Title given to 1000980 - Primary title: d_tilaoro
+226 - vassal: c_arianuro - Holder 1000980 - Primary title: c_arianuro has lost the title: c_arianuro
+226 - vassal: c_arianuro - Title given to 1000980 - Primary title: d_tilaoro
+226 - vassal: c_razaaq - Holder 1000980 - Primary title: c_razaaq has lost the title: c_razaaq
+226 - vassal: c_razaaq - Title given to 1000980 - Primary title: d_tilaoro
+227 - Holder 1004259 - Primary title: d_adujumo has lost the title: c_sisuro
+227 - Holder 1001496 - Primary title: d_adujumo has lost the title: d_tegudo
+227 - Gained vassal: c_asopumo
+227 - Holder 1004262 - Primary title: d_adujumo has lost the title: c_qisuro
+227 - Holder 1004263 - Primary title: d_adujumo has lost the title: c_bisafu
+240 - Holder 1001833 - Primary title: d_adujumo has lost the title: d_adujumo
+240 - Title given to 1001833
+240 - vassal: c_razaaq - Setting to vassal of d_tilaoro in Validate Realm
+240 - Lost vassal: c_razaaq
+240 - vassal: c_arianuro - Setting to vassal of d_tilaoro in Validate Realm
+240 - Lost vassal: c_arianuro
+240 - vassal: c_qaoro - Setting to vassal of d_tilaoro in Validate Realm
+240 - Lost vassal: c_qaoro
+240 - vassal: c_asopumo - Setting to vassal of d_tilaoro in Validate Realm
+240 - Lost vassal: c_asopumo
+240 - Holder (1001833) has gained d_tilaoro
+240 - Holder (1001833) has gained c_razaaq
+240 - Holder (1001833) has gained c_arianuro
+240 - Holder (1001833) has gained c_qaoro
+240 - Holder (1001833) has gained c_asopumo
+240 - Holder (1001833) has gained c_ebisulah
+241 - Destroyed due to flagged problem
+241 - Made independent
+241 - Title destroyed
+244 - Given to 1001833 in TestCreateEmpire
+244 - Title given to 1001833 - Primary title: d_tilaoro
+244 - Made independent for title creation d_adujumo for d_tilaoro
+244 - Made independent
+244 - Gained vassal: c_razaaq
+244 - Gained vassal: c_arianuro
+244 - Gained vassal: c_qaoro
+244 - Gained vassal: c_asopumo
+244 - Gained vassal: c_ebisulah
+244 - Destroyed due to no capital's obtainable
+244 - Title destroyed
+244 - vassal: c_arianuro - Setting independent due to liege destruction
+244 - vassal: c_arianuro - Made independent
+244 - vassal: c_qaoro - Setting independent due to liege destruction
+244 - vassal: c_qaoro - Made independent
+244 - vassal: c_razaaq - Setting independent due to liege destruction
+244 - vassal: c_razaaq - Made independent
+244 - vassal: c_asopumo - Setting independent due to liege destruction
+244 - vassal: c_asopumo - Made independent
+244 - vassal: c_ebisulah - Setting independent due to liege destruction
+244 - vassal: c_ebisulah - Made independent
+255 - Given to 1001833 in TestCreateEmpire
+255 - Title given to 1001833 - Primary title: d_tilaoro
+255 - Made independent for title creation d_adujumo for d_tilaoro
+255 - Made independent
+255 - Gained vassal: c_razaaq
+255 - Gained vassal: c_arianuro
+255 - Gained vassal: c_asopumo
+255 - Gained vassal: c_ebisulah
+255 - Gained vassal: c_bisafu
+255 - Destroyed due to no capital's obtainable
+255 - Title destroyed
+255 - vassal: c_bisafu - Setting independent due to liege destruction
+255 - vassal: c_bisafu - Made independent
+255 - vassal: c_ebisulah - Setting independent due to liege destruction
+255 - vassal: c_ebisulah - Made independent
+255 - vassal: c_asopumo - Setting independent due to liege destruction
+255 - vassal: c_asopumo - Made independent
+255 - vassal: c_arianuro - Setting independent due to liege destruction
+255 - vassal: c_arianuro - Made independent
+255 - vassal: c_razaaq - Setting independent due to liege destruction
+255 - vassal: c_razaaq - Made independent
+258 - Given to 1001833 in TestCreateEmpire
+258 - Title given to 1001833 - Primary title: d_tilaoro
+258 - Made independent for title creation d_adujumo for d_tilaoro
+258 - Made independent
+258 - Gained vassal: c_razaaq
+258 - Gained vassal: c_arianuro
+258 - Gained vassal: c_asopumo
+258 - Gained vassal: c_bisafu
+258 - Gained vassal: c_qaoro
+258 - Destroyed due to no capital's obtainable
+258 - Title destroyed
+258 - vassal: c_qaoro - Setting independent due to liege destruction
+258 - vassal: c_qaoro - Made independent
+258 - vassal: c_bisafu - Setting independent due to liege destruction
+258 - vassal: c_bisafu - Made independent
+258 - vassal: c_asopumo - Setting independent due to liege destruction
+258 - vassal: c_asopumo - Made independent
+258 - vassal: c_arianuro - Setting independent due to liege destruction
+258 - vassal: c_arianuro - Made independent
+258 - vassal: c_razaaq - Setting independent due to liege destruction
+258 - vassal: c_razaaq - Made independent
+267 - Given to 1001833 in TestCreateEmpire
+267 - Title given to 1001833 - Primary title: d_tilaoro
+267 - Made independent for title creation d_adujumo for d_tilaoro
+267 - Made independent
+267 - Gained vassal: c_ebisulah
+267 - Gained vassal: c_qaoro
+267 - Gained vassal: c_bisafu
+267 - Gained vassal: c_arianuro
+267 - Gained vassal: c_razaaq
+267 - Destroyed due to no capital's obtainable
+267 - Title destroyed
+267 - vassal: c_razaaq - Setting independent due to liege destruction
+267 - vassal: c_razaaq - Made independent
+267 - vassal: c_arianuro - Setting independent due to liege destruction
+267 - vassal: c_arianuro - Made independent
+267 - vassal: c_bisafu - Setting independent due

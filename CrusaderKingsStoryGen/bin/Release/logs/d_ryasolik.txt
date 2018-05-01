@@ -1,0 +1,74 @@
+200 - Title given to 1001470
+200 - vassal: c_ladenda - Holder 1001470 - Primary title: c_ladenda has lost the title: c_ladenda
+200 - sub vassal: c_ladenda - Holder 1001470 - Primary title: c_ladenda has lost the title: c_ladenda
+200 - vassal: c_ladenda - Title given to 1001470 - Primary title: d_ryasolik
+200 - sub vassal: c_ladenda - Title given to 1001470 - Primary title: d_ryasolik
+200 - Holder (1001470) has gained c_ladenda
+200 - vassal: c_kibin - Holder 1001470 - Primary title: c_kibin has lost the title: c_kibin
+200 - sub vassal: c_kibin - Holder 1001470 - Primary title: c_kibin has lost the title: c_kibin
+200 - vassal: c_kibin - Title given to 1001470 - Primary title: d_ryasolik
+200 - sub vassal: c_kibin - Title given to 1001470 - Primary title: d_ryasolik
+200 - Holder (1001470) has gained c_kibin
+200 - vassal: c_resarl - Holder 1001470 - Primary title: c_resarl has lost the title: c_resarl
+200 - sub vassal: c_resarl - Holder 1001470 - Primary title: c_resarl has lost the title: c_resarl
+200 - vassal: c_resarl - Title given to 1001470 - Primary title: d_ryasolik
+200 - sub vassal: c_resarl - Title given to 1001470 - Primary title: d_ryasolik
+200 - Holder (1001470) has gained c_resarl
+200 - vassal: c_telelsa - Holder 1001470 - Primary title: c_telelsa has lost the title: c_telelsa
+200 - sub vassal: c_telelsa - Holder 1001470 - Primary title: c_telelsa has lost the title: c_telelsa
+200 - vassal: c_telelsa - Title given to 1001470 - Primary title: d_ryasolik
+200 - sub vassal: c_telelsa - Title given to 1001470 - Primary title: d_ryasolik
+200 - Holder (1001470) has gained c_telelsa
+203 - Holder 1002405 - Primary title: d_ryasolik has lost the title: d_ryasolik
+203 - Title given to 1002405
+203 - vassal: c_telelsa - Holder 1002405 - Primary title: c_telelsa has lost the title: c_telelsa
+203 - vassal: c_telelsa - Title given to 1002405 - Primary title: d_ryasolik
+203 - Holder (1002405) has gained c_telelsa
+203 - vassal: c_resarl - Holder 1002405 - Primary title: c_resarl has lost the title: c_resarl
+203 - vassal: c_resarl - Title given to 1002405 - Primary title: d_ryasolik
+203 - Holder (1002405) has gained c_resarl
+203 - vassal: c_kibin - Holder 1002405 - Primary title: c_kibin has lost the title: c_kibin
+203 - vassal: c_kibin - Title given to 1002405 - Primary title: d_ryasolik
+203 - Holder (1002405) has gained c_kibin
+203 - vassal: c_ladenda - Holder 1002405 - Primary title: c_ladenda has lost the title: c_ladenda
+203 - vassal: c_ladenda - Title given to 1002405 - Primary title: d_ryasolik
+203 - Holder (1002405) has gained c_ladenda
+205 - Holder 1001591 - Primary title: d_ryasolik has lost the title: d_ryasolik
+205 - Title given to 1001591 - Primary title: k_welsa
+205 - vassal: c_telelsa - Holder 1001591 - Primary title: c_telelsa has lost the title: c_telelsa
+205 - vassal: c_telelsa - Title given to 1001591 - Primary title: k_welsa
+205 - vassal: c_resarl - Holder 1001591 - Primary title: c_resarl has lost the title: c_resarl
+205 - vassal: c_resarl - Title given to 1001591 - Primary title: k_welsa
+205 - vassal: c_kibin - Holder 1001591 - Primary title: c_kibin has lost the title: c_kibin
+205 - vassal: c_kibin - Title given to 1001591 - Primary title: k_welsa
+205 - vassal: c_ladenda - Holder 1001591 - Primary title: c_ladenda has lost the title: c_ladenda
+205 - vassal: c_ladenda - Title given to 1001591 - Primary title: k_welsa
+217 - Gained vassal: c_belilar
+217 - Holder 1002287 - Primary title: d_ryasolik has lost the title: c_belilar
+217 - vassal: c_belilar - Title given to 1002287 - Primary title: k_welsa
+217 - vassal: c_belilar - Setting to vassal of k_welsa in Validate Realm
+217 - Lost vassal: c_belilar
+217 - Holder 1002287 - Primary title: d_ryasolik has lost the title: d_ryasolik
+217 - Title given to 1002287 - Primary title: k_welsa
+217 - vassal: c_telelsa - Holder 1002287 - Primary title: c_telelsa has lost the title: c_telelsa
+217 - vassal: c_telelsa - Title given to 1002287 - Primary title: k_welsa
+217 - vassal: c_resarl - Holder 1002287 - Primary title: c_resarl has lost the title: c_resarl
+217 - vassal: c_resarl - Title given to 1002287 - Primary title: k_welsa
+217 - vassal: c_kibin - Holder 1002287 - Primary title: c_kibin has lost the title: c_kibin
+217 - vassal: c_kibin - Title given to 1002287 - Primary title: k_welsa
+217 - vassal: c_ladenda - Holder 1002287 - Primary title: c_ladenda has lost the title: c_ladenda
+217 - vassal: c_ladenda - Title given to 1002287 - Primary title: k_welsa
+236 - Captured byk_dakolik in minor war
+240 - Holder 1004166 - Primary title: d_ryasolik has lost the title: d_ryasolik
+240 - Title given to 1004166 - Primary title: k_welsa
+240 - vassal: c_telelsa - Setting to vassal of d_rarya in Validate Realm
+240 - Lost vassal: c_telelsa
+240 - vassal: c_resarl - Setting to vassal of d_rarya in Validate Realm
+240 - Lost vassal: c_resarl
+240 - vassal: c_kibin - Setting to vassal of d_rarya in Validate Realm
+240 - Lost vassal: c_kibin
+240 - vassal: c_ladenda - Setting to vassal of d_rarya in Validate Realm
+240 - Lost vassal: c_ladenda
+241 - Destroyed due to flagged problem
+241 - Made independent
+241 - Title destroyed

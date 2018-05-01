@@ -1,0 +1,86 @@
+200 - Title given to 1000472
+200 - vassal: c_kacayya - Holder 1000472 - Primary title: c_kacayya has lost the title: c_kacayya
+200 - sub vassal: c_kacayya - Holder 1000472 - Primary title: c_kacayya has lost the title: c_kacayya
+200 - vassal: c_kacayya - Title given to 1000472 - Primary title: d_kayasuaz
+200 - sub vassal: c_kacayya - Title given to 1000472 - Primary title: d_kayasuaz
+200 - Holder (1000472) has gained c_kacayya
+200 - vassal: c_qingilip - Holder 1000472 - Primary title: c_qingilip has lost the title: c_qingilip
+200 - sub vassal: c_qingilip - Holder 1000472 - Primary title: c_qingilip has lost the title: c_qingilip
+200 - vassal: c_qingilip - Title given to 1000472 - Primary title: d_kayasuaz
+200 - sub vassal: c_qingilip - Title given to 1000472 - Primary title: d_kayasuaz
+200 - Holder (1000472) has gained c_qingilip
+200 - vassal: c_egopedas - Holder 1000472 - Primary title: c_egopedas has lost the title: c_egopedas
+200 - sub vassal: c_egopedas - Holder 1000472 - Primary title: c_egopedas has lost the title: c_egopedas
+200 - vassal: c_egopedas - Title given to 1000472 - Primary title: d_kayasuaz
+200 - sub vassal: c_egopedas - Title given to 1000472 - Primary title: d_kayasuaz
+200 - Holder (1000472) has gained c_egopedas
+201 - Holder (1000472) has gained k_nair
+212 - vassal: c_kacayya - Given to 1003456 in HandleTitles - Too many duke titles
+212 - vassal: c_kacayya - Title given to 1003456
+212 - Title given to 1003456 - Primary title: c_kacayya
+212 - vassal: c_kacayya - Holder (1003456) has gained d_kayasuaz
+212 - vassal: c_egopedas - Setting to vassal of k_nair in Validate Realm
+212 - Lost vassal: c_egopedas
+212 - vassal: c_qingilip - Setting to vassal of k_nair in Validate Realm
+212 - Lost vassal: c_qingilip
+212 - Too many dukes, given to dejure: k_nair
+260 - Holder 1003708 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+260 - Title given to 1003708
+260 - vassal: c_kacayya - Holder 1003708 - Primary title: c_kacayya has lost the title: c_kacayya
+260 - vassal: c_kacayya - Title given to 1003708 - Primary title: d_kayasuaz
+260 - Holder (1003708) has gained c_kacayya
+273 - Holder 1007851 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+273 - Title given to 1007851
+273 - vassal: c_kacayya - Holder 1007851 - Primary title: c_kacayya has lost the title: c_kacayya
+273 - vassal: c_kacayya - Title given to 1007851 - Primary title: d_kayasuaz
+273 - Holder (1007851) has gained c_kacayya
+287 - Holder 1008370 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+287 - Title given to 1008370 - Primary title: k_nair
+287 - vassal: c_kacayya - Holder 1008370 - Primary title: c_kacayya has lost the title: c_kacayya
+287 - vassal: c_kacayya - Title given to 1008370 - Primary title: k_nair
+300 - vassal: c_kacayya - Title given to 1010791
+311 - Gained vassal: c_egopedas
+311 - Gained vassal: c_qingilip
+311 - Gained vassal: c_azoti
+311 - Gained vassal: c_amarayya
+311 - Gained vassal: c_qanura
+311 - Holder 1009115 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+311 - Title given to 1009115 - Primary title: k_nair
+311 - vassal: c_qanura - Holder 1009115 - Primary title: c_qanura has lost the title: c_qanura
+311 - vassal: c_qanura - Title given to 1009115 - Primary title: k_nair
+311 - vassal: c_amarayya - Holder 1009115 - Primary title: c_amarayya has lost the title: c_amarayya
+311 - vassal: c_amarayya - Title given to 1009115 - Primary title: k_nair
+311 - vassal: c_azoti - Holder 1009115 - Primary title: c_azoti has lost the title: c_azoti
+311 - vassal: c_azoti - Title given to 1009115 - Primary title: k_nair
+311 - vassal: c_qingilip - Holder 1009115 - Primary title: c_qingilip has lost the title: c_qingilip
+311 - vassal: c_qingilip - Title given to 1009115 - Primary title: k_nair
+311 - vassal: c_egopedas - Holder 1009115 - Primary title: c_egopedas has lost the title: c_egopedas
+311 - vassal: c_egopedas - Title given to 1009115 - Primary title: k_nair
+330 - Holder 1012890 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+330 - Title given to 1012890 - Primary title: k_nair
+330 - vassal: c_egopedas - Holder 1012890 - Primary title: c_egopedas has lost the title: c_egopedas
+330 - vassal: c_egopedas - Title given to 1012890 - Primary title: k_nair
+330 - vassal: c_qingilip - Holder 1012890 - Primary title: c_qingilip has lost the title: c_qingilip
+330 - vassal: c_qingilip - Title given to 1012890 - Primary title: k_nair
+330 - vassal: c_azoti - Holder 1012890 - Primary title: c_azoti has lost the title: c_azoti
+330 - vassal: c_azoti - Title given to 1012890 - Primary title: k_nair
+330 - vassal: c_amarayya - Holder 1012890 - Primary title: c_amarayya has lost the title: c_amarayya
+330 - vassal: c_amarayya - Title given to 1012890 - Primary title: k_nair
+330 - vassal: c_qanura - Holder 1012890 - Primary title: c_qanura has lost the title: c_qanura
+330 - vassal: c_qanura - Title given to 1012890 - Primary title: k_nair
+348 - Holder 1010793 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+348 - Title given to 1010793 - Primary title: k_nair
+348 - vassal: c_qanura - Setting to vassal of d_qarew in Validate Realm
+348 - Lost vassal: c_qanura
+348 - vassal: c_amarayya - Setting to vassal of d_qarew in Validate Realm
+348 - Lost vassal: c_amarayya
+348 - vassal: c_azoti - Setting to vassal of d_qarew in Validate Realm
+348 - Lost vassal: c_azoti
+348 - vassal: c_qingilip - Setting to vassal of d_qarew in Validate Realm
+348 - Lost vassal: c_qingilip
+348 - vassal: c_egopedas - Setting to vassal of d_qarew in Validate Realm
+348 - Lost vassal: c_egopedas
+356 - Holder 1014693 - Primary title: d_kayasuaz has lost the title: d_kayasuaz
+356 - Title given to 1014693 - Primary title: k_nair
+400 - vassal: c_kacayya - Holder 1014693 - Primary title: c_kacayya has lost the title: c_kacayya
+400 - vassal: c_kacayya - Title given to 1014693 - Primary title: k_nair

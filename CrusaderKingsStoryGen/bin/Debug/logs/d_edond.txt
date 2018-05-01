@@ -1,0 +1,62 @@
+200 - Title given to 1000483
+200 - vassal: c_ryake - Given to 1000486 via AddCharacterForTitle
+200 - sub vassal: c_ryake - Given to 1000486 via AddCharacterForTitle
+200 - vassal: c_ryake - Holder 1000486 - Primary title: c_ryake has lost the title: c_ryake
+200 - sub vassal: c_ryake - Holder 1000486 - Primary title: c_ryake has lost the title: c_ryake
+200 - vassal: c_ryake - Title given to 1000486
+200 - sub vassal: c_ryake - Title given to 1000486
+200 - vassal: c_tyod - Holder 1000483 - Primary title: c_tyod has lost the title: c_tyod
+200 - sub vassal: c_tyod - Holder 1000483 - Primary title: c_tyod has lost the title: c_tyod
+200 - vassal: c_tyod - Title given to 1000483 - Primary title: d_edond
+200 - sub vassal: c_tyod - Title given to 1000483 - Primary title: d_edond
+200 - Holder (1000483) has gained c_tyod
+200 - vassal: c_ryake - Holder 1000483 - Primary title: c_ryake has lost the title: c_ryake
+200 - sub vassal: c_ryake - Holder 1000483 - Primary title: c_ryake has lost the title: c_ryake
+200 - vassal: c_ryake - Title given to 1000483 - Primary title: d_edond
+200 - sub vassal: c_ryake - Title given to 1000483 - Primary title: d_edond
+200 - Holder (1000483) has gained c_ryake
+200 - vassal: c_wacitar - Holder 1000483 - Primary title: c_wacitar has lost the title: c_wacitar
+200 - sub vassal: c_wacitar - Holder 1000483 - Primary title: c_wacitar has lost the title: c_wacitar
+200 - vassal: c_wacitar - Title given to 1000483 - Primary title: d_edond
+200 - sub vassal: c_wacitar - Title given to 1000483 - Primary title: d_edond
+200 - Holder (1000483) has gained c_wacitar
+200 - Holder 1001481 - Primary title: d_edond has lost the title: d_edond
+200 - Title given to 1001481 - Primary title: k_evalloth
+200 - vassal: c_tyod - Holder 1001481 - Primary title: c_tyod has lost the title: c_tyod
+200 - vassal: c_tyod - Title given to 1001481 - Primary title: k_evalloth
+244 - Gained vassal: c_kava
+244 - Gained vassal: c_ajond
+244 - Holder 1000558 - Primary title: d_edond has lost the title: d_edond
+244 - Title given to 1000558 - Primary title: k_evalloth
+244 - vassal: c_ajond - Setting to vassal of d_alezs in Validate Realm
+244 - Lost vassal: c_ajond
+244 - vassal: c_tyod - Setting to vassal of d_alezs in Validate Realm
+244 - Lost vassal: c_tyod
+244 - vassal: c_kava - Setting to vassal of d_alezs in Validate Realm
+244 - Lost vassal: c_kava
+250 - Holder 1002226 - Primary title: d_edond has lost the title: d_edond
+250 - Title given to 1002226 - Primary title: k_evalloth
+257 - vassal: c_ryake - Holder 1002226 - Primary title: c_ryake has lost the title: c_wacitar
+257 - vassal: c_wacitar - Title given to 1002226 - Primary title: k_evalloth
+257 - vassal: c_wacitar - Given to 1006583 in HandleTitles - Too many duke titles
+257 - vassal: c_wacitar - Title given to 1006583
+257 - Title given to 1006583 - Primary title: c_wacitar
+257 - vassal: c_wacitar - Holder (1006583) has gained d_edond
+257 - Too many dukes, given to dejure: k_evalloth
+300 - vassal: c_ryake - Holder 1006583 - Primary title: c_ryake has lost the title: c_ryake
+300 - vassal: c_ryake - Title given to 1006583 - Primary title: d_edond
+300 - Holder (1006583) has gained c_ryake
+301 - Holder 1007193 - Primary title: d_edond has lost the title: d_edond
+301 - Title given to 1007193
+301 - vassal: c_ryake - Holder 1007193 - Primary title: c_ryake has lost the title: c_ryake
+301 - vassal: c_ryake - Title given to 1007193 - Primary title: d_edond
+301 - Holder (1007193) has gained c_ryake
+301 - vassal: c_wacitar - Holder 1007193 - Primary title: c_wacitar has lost the title: c_wacitar
+301 - vassal: c_wacitar - Title given to 1007193 - Primary title: d_edond
+301 - Holder (1007193) has gained c_wacitar
+311 - Holder 1010427 - Primary title: d_edond has lost the title: d_edond
+311 - Title given to 1010427
+311 - vassal: c_ryake - Holder 1010427 - Primary title: c_ryake has lost the title: c_ryake
+311 - vassal: c_ryake - Title given to 1010427 - Primary title: d_edond
+311 - Holder (1010427) has gained c_ryake
+311 - vassal: c_wacitar - Ho

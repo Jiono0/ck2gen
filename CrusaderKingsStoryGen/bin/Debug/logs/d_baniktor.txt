@@ -1,0 +1,56 @@
+200 - Title given to 1001208
+200 - vassal: c_kerula - Holder 1001208 - Primary title: c_kerula has lost the title: c_kerula
+200 - sub vassal: c_kerula - Holder 1001208 - Primary title: c_kerula has lost the title: c_kerula
+200 - vassal: c_kerula - Title given to 1001208 - Primary title: d_baniktor
+200 - sub vassal: c_kerula - Title given to 1001208 - Primary title: d_baniktor
+200 - Holder (1001208) has gained c_kerula
+200 - vassal: c_nanidn - Holder 1001208 - Primary title: c_nanidn has lost the title: c_nanidn
+200 - sub vassal: c_nanidn - Holder 1001208 - Primary title: c_nanidn has lost the title: c_nanidn
+200 - vassal: c_nanidn - Title given to 1001208 - Primary title: d_baniktor
+200 - sub vassal: c_nanidn - Title given to 1001208 - Primary title: d_baniktor
+200 - Holder (1001208) has gained c_nanidn
+200 - vassal: c_ababulei - Holder 1001208 - Primary title: c_ababulei has lost the title: c_ababulei
+200 - sub vassal: c_ababulei - Holder 1001208 - Primary title: c_ababulei has lost the title: c_ababulei
+200 - vassal: c_ababulei - Title given to 1001208 - Primary title: d_baniktor
+200 - sub vassal: c_ababulei - Title given to 1001208 - Primary title: d_baniktor
+200 - Holder (1001208) has gained c_ababulei
+227 - Holder 1002367 - Primary title: d_baniktor has lost the title: d_baniktor
+227 - Title given to 1002367
+227 - vassal: c_kerula - Holder 1002367 - Primary title: c_kerula has lost the title: c_kerula
+227 - vassal: c_kerula - Title given to 1002367 - Primary title: d_baniktor
+227 - Holder (1002367) has gained c_kerula
+227 - vassal: c_nanidn - Holder 1002367 - Primary title: c_nanidn has lost the title: c_nanidn
+227 - vassal: c_nanidn - Title given to 1002367 - Primary title: d_baniktor
+227 - Holder (1002367) has gained c_nanidn
+227 - vassal: c_ababulei - Holder 1002367 - Primary title: c_ababulei has lost the title: c_ababulei
+227 - vassal: c_ababulei - Title given to 1002367 - Primary title: d_baniktor
+227 - Holder (1002367) has gained c_ababulei
+237 - Holder 1002370 - Primary title: d_baniktor has lost the title: d_baniktor
+237 - Title given to 1002370 - Primary title: d_terma
+237 - vassal: c_kerula - Holder 1002370 - Primary title: c_kerula has lost the title: c_kerula
+237 - vassal: c_kerula - Title given to 1002370 - Primary title: d_terma
+237 - vassal: c_nanidn - Holder 1002370 - Primary title: c_nanidn has lost the title: c_nanidn
+237 - vassal: c_nanidn - Title given to 1002370 - Primary title: d_terma
+237 - vassal: c_ababulei - Holder 1002370 - Primary title: c_ababulei has lost the title: c_ababulei
+237 - vassal: c_ababulei - Title given to 1002370 - Primary title: d_terma
+238 - Holder 1005098 - Primary title: d_baniktor has lost the title: c_ranikari
+238 - Holder 1002372 - Primary title: d_baniktor has lost the title: d_terma
+238 - Gained vassal: c_suderma
+238 - Gained vassal: c_kamegh
+238 - Holder 1002372 - Primary title: d_baniktor has lost the title: c_kamegh
+238 - vassal: c_kamegh - Title given to 1002372 - Primary title: d_wanulei
+238 - vassal: c_kamegh - Setting to vassal of d_wanulei in Validate Realm
+238 - Lost vassal: c_kamegh
+238 - Holder 1002372 - Primary title: d_baniktor has lost the title: c_suderma
+238 - vassal: c_suderma - Title given to 1002372 - Primary title: d_wanulei
+238 - vassal: c_suderma - Setting to vassal of d_wanulei in Validate Realm
+238 - Lost vassal: c_suderma
+238 - Holder 1002372 - Primary title: d_baniktor has lost the title: d_baniktor
+238 - Title given to 1002372 - Primary title: d_wanulei
+238 - vassal: c_kerula - Holder 1002372 - Primary title: c_kerula has lost the title: c_kerula
+238 - vassal: c_kerula - Title given to 1002372 - Primary title: d_wanulei
+238 - vassal: c_nanidn - Holder 1002372 - Primary title: c_nanidn has lost the title: c_nanidn
+238 - vassal: c_nanidn - Title given to 1002372 - Primary title: d_wanulei
+238 - vassal: c_ababulei - Holder 1002372 - Primary title: c_ababulei has lost the title: c_ababulei
+238 - vassal: c_ababulei - Title given to 1002372 - Primary title: d_wanulei
+239 - Holder 1002281 -

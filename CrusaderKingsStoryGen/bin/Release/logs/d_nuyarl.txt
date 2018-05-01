@@ -1,0 +1,143 @@
+200 - Title given to 1000752
+200 - vassal: c_qasena - Holder 1000752 - Primary title: c_qasena has lost the title: c_qasena
+200 - sub vassal: c_qasena - Holder 1000752 - Primary title: c_qasena has lost the title: c_qasena
+200 - vassal: c_qasena - Title given to 1000752 - Primary title: d_nuyarl
+200 - sub vassal: c_qasena - Title given to 1000752 - Primary title: d_nuyarl
+200 - Holder (1000752) has gained c_qasena
+200 - vassal: c_teygena - Holder 1000752 - Primary title: c_teygena has lost the title: c_teygena
+200 - sub vassal: c_teygena - Holder 1000752 - Primary title: c_teygena has lost the title: c_teygena
+200 - vassal: c_teygena - Title given to 1000752 - Primary title: d_nuyarl
+200 - sub vassal: c_teygena - Title given to 1000752 - Primary title: d_nuyarl
+200 - Holder (1000752) has gained c_teygena
+200 - vassal: c_reryana - Holder 1000752 - Primary title: c_reryana has lost the title: c_reryana
+200 - sub vassal: c_reryana - Holder 1000752 - Primary title: c_reryana has lost the title: c_reryana
+200 - vassal: c_reryana - Title given to 1000752 - Primary title: d_nuyarl
+200 - sub vassal: c_reryana - Title given to 1000752 - Primary title: d_nuyarl
+200 - Holder (1000752) has gained c_reryana
+214 - Holder (1000752) has gained d_eruang
+214 - Holder (1000752) has gained c_rulimir
+214 - Holder (1000752) has gained c_kuhimia
+249 - Holder 1002218 - Primary title: d_nuyarl has lost the title: d_nuyarl
+249 - Title given to 1002218
+249 - vassal: c_reryana - Setting to vassal of d_eruang in Validate Realm
+249 - Lost vassal: c_reryana
+249 - vassal: c_teygena - Setting to vassal of d_eruang in Validate Realm
+249 - Lost vassal: c_teygena
+249 - vassal: c_qasena - Setting to vassal of d_eruang in Validate Realm
+249 - Lost vassal: c_qasena
+249 - Holder (1002218) has gained d_eruang
+249 - Holder (1002218) has gained c_reryana
+249 - Holder (1002218) has gained c_teygena
+249 - Holder (1002218) has gained c_qasena
+249 - Holder (1002218) has gained c_rulimir
+249 - Holder (1002218) has gained c_kuhimia
+250 - Destroyed due to flagged problem
+250 - Made independent
+250 - Title destroyed
+257 - Given to 1002218 in TestCreateEmpire
+257 - Title given to 1002218 - Primary title: d_eruang
+257 - Made independent for title creation d_nuyarl for d_eruang
+257 - Made independent
+257 - Gained vassal: c_reryana
+257 - Gained vassal: c_teygena
+257 - Gained vassal: c_qasena
+257 - Gained vassal: c_rulimir
+257 - Gained vassal: c_kuhimia
+257 - Destroyed due to no capital's obtainable
+257 - Title destroyed
+257 - vassal: c_reryana - Setting independent due to liege destruction
+257 - vassal: c_reryana - Made independent
+257 - vassal: c_teygena - Setting independent due to liege destruction
+257 - vassal: c_teygena - Made independent
+257 - vassal: c_qasena - Setting independent due to liege destruction
+257 - vassal: c_qasena - Made independent
+257 - vassal: c_rulimir - Setting independent due to liege destruction
+257 - vassal: c_rulimir - Made independent
+257 - vassal: c_kuhimia - Setting independent due to liege destruction
+257 - vassal: c_kuhimia - Made independent
+272 - Given to 1006551 in TestCreateEmpire
+272 - Title given to 1006551 - Primary title: c_reryana
+272 - Gained vassal: c_reryana
+272 - Made independent for title creation d_nuyarl for d_nuyarl
+272 - vassal: c_reryana - Set liege on title creation d_nuyarl
+272 - sub vassal: c_reryana - Set liege on title creation d_nuyarl
+272 - Gained vassal: c_teygena
+272 - Gained vassal: c_qasena
+272 - Gained vassal: c_rulimir
+272 - Gained vassal: c_kuhimia
+272 - Destroyed due to no capital's obtainable
+272 - Title destroyed
+272 - vassal: c_kuhimia - Setting independent due to liege destruction
+272 - vassal: c_kuhimia - Made independent
+272 - vassal: c_rulimir - Setting independent due to liege destruction
+272 - vassal: c_rulimir - Made independent
+272 - vassal: c_qasena - Setting independent due to liege destruction
+272 - vassal: c_qasena - Made independent
+272 - vassal: c_teygena - Setting independent due to liege destruction
+272 - vassal: c_teygena - Made independent
+272 - vassal: c_reryana - Setting independent due to liege destruction
+272 - vassal: c_reryana - Made independent
+277 - Given to 1006551 in TestCreateEmpire
+277 - Title given to 1006551 - Primary title: c_reryana
+277 - Gained vassal: c_reryana
+277 - Made independent for title creation d_nuyarl for d_nuyarl
+277 - vassal: c_reryana - Set liege on title creation d_nuyarl
+277 - sub vassal: c_reryana - Set liege on title creation d_nuyarl
+277 - Gained vassal: c_teygena
+277 - Gained vassal: c_qasena
+277 - Gained vassal: c_rulimir
+277 - Gained vassal: c_kuhimia
+277 - Destroyed due to no capital's obtainable
+277 - Title destroyed
+277 - vassal: c_kuhimia - Setting independent due to liege destruction
+277 - vassal: c_kuhimia - Made independent
+277 - vassal: c_rulimir - Setting independent due to liege destruction
+277 - vassal: c_rulimir - Made independent
+277 - vassal: c_qasena - Setting independent due to liege destruction
+277 - vassal: c_qasena - Made independent
+277 - vassal: c_teygena - Setting independent due to liege destruction
+277 - vassal: c_teygena - Made independent
+277 - vassal: c_reryana - Setting independent due to liege destruction
+277 - vassal: c_reryana - Made independent
+300 - Given to 1008847 in TestCreateEmpire
+300 - Title given to 1008847 - Primary title: d_eruang
+300 - Made independent for title creation d_nuyarl for d_eruang
+300 - Gained vassal: c_kuhimia
+300 - Gained vassal: c_rulimir
+300 - Gained vassal: c_qasena
+300 - Gained vassal: c_teygena
+300 - Gained vassal: c_reryana
+300 - Destroyed due to no capital's obtainable
+300 - Title destroyed
+300 - vassal: c_reryana - Setting independent due to liege destruction
+300 - vassal: c_reryana - Made independent
+300 - vassal: c_teygena - Setting independent due to liege destruction
+300 - vassal: c_teygena - Made independent
+300 - vassal: c_qasena - Setting independent due to liege destruction
+300 - vassal: c_qasena - Made independent
+300 - vassal: c_rulimir - Setting independent due to liege destruction
+300 - vassal: c_rulimir - Made independent
+300 - vassal: c_kuhimia - Setting independent due to liege destruction
+300 - vassal: c_kuhimia - Made independent
+304 - Given to 1008847 in TestCreateEmpire
+304 - Title given to 1008847 - Primary title: c_reryana
+304 - Gained vassal: c_reryana
+304 - Made independent for title creation d_nuyarl for d_nuyarl
+304 - vassal: c_reryana - Set liege on title creation d_nuyarl
+304 - sub vassal: c_reryana - Set liege on title creation d_nuyarl
+304 - Gained vassal: c_teygena
+304 - Gained vassal: c_qasena
+304 - Gained vassal: c_rulimir
+304 - Gained vassal: c_kuhimia
+304 - Destroyed due to no capital's obtainable
+304 - Title destroyed
+304 - vassal: c_kuhimia - Setting independent due to liege destruction
+304 - vassal: c_kuhimia - Made independent
+304 - vassal: c_rulimir - Setting independent due to liege destruction
+304 - vassal: c_rulimir - Made independent
+304 - vassal: c_qasena - Setting independent due to liege destruction
+304 - vassal: c_qasena - Made independent
+304 - vassal: c_teygena - Setting independent due to liege destruction
+304 - vassal: c_teygena - Made independent
+304 - vassal: c_reryana - Setting independent due to liege destruction
+304 - vassal: c_reryana - Made independent

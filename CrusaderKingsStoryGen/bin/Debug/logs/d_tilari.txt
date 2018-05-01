@@ -1,0 +1,60 @@
+200 - Title given to 1000909
+200 - vassal: c_liliin - Given to 1000912 via AddCharacterForTitle
+200 - sub vassal: c_liliin - Given to 1000912 via AddCharacterForTitle
+200 - vassal: c_liliin - Holder 1000912 - Primary title: c_liliin has lost the title: c_liliin
+200 - sub vassal: c_liliin - Holder 1000912 - Primary title: c_liliin has lost the title: c_liliin
+200 - vassal: c_liliin - Title given to 1000912
+200 - sub vassal: c_liliin - Title given to 1000912
+200 - vassal: c_ebisari - Holder 1000909 - Primary title: c_ebisari has lost the title: c_ebisari
+200 - sub vassal: c_ebisari - Holder 1000909 - Primary title: c_ebisari has lost the title: c_ebisari
+200 - vassal: c_ebisari - Title given to 1000909 - Primary title: d_tilari
+200 - sub vassal: c_ebisari - Title given to 1000909 - Primary title: d_tilari
+200 - Holder (1000909) has gained c_ebisari
+200 - vassal: c_liliin - Holder 1000909 - Primary title: c_liliin has lost the title: c_liliin
+200 - sub vassal: c_liliin - Holder 1000909 - Primary title: c_liliin has lost the title: c_liliin
+200 - vassal: c_liliin - Title given to 1000909 - Primary title: d_tilari
+200 - sub vassal: c_liliin - Title given to 1000909 - Primary title: d_tilari
+200 - Holder (1000909) has gained c_liliin
+200 - vassal: c_kisari - Holder 1000909 - Primary title: c_kisari has lost the title: c_kisari
+200 - sub vassal: c_kisari - Holder 1000909 - Primary title: c_kisari has lost the title: c_kisari
+200 - vassal: c_kisari - Title given to 1000909 - Primary title: d_tilari
+200 - sub vassal: c_kisari - Title given to 1000909 - Primary title: d_tilari
+200 - Holder (1000909) has gained c_kisari
+212 - Holder 1002662 - Primary title: d_tilari has lost the title: d_tilari
+212 - Title given to 1002662
+212 - vassal: c_kisari - Holder 1002662 - Primary title: c_kisari has lost the title: c_kisari
+212 - vassal: c_kisari - Title given to 1002662 - Primary title: d_tilari
+212 - Holder (1002662) has gained c_kisari
+212 - vassal: c_liliin - Holder 1002662 - Primary title: c_liliin has lost the title: c_liliin
+212 - vassal: c_liliin - Title given to 1002662 - Primary title: d_tilari
+212 - Holder (1002662) has gained c_liliin
+212 - vassal: c_ebisari - Holder 1002662 - Primary title: c_ebisari has lost the title: c_ebisari
+212 - vassal: c_ebisari - Title given to 1002662 - Primary title: d_tilari
+212 - Holder (1002662) has gained c_ebisari
+227 - Holder 1000923 - Primary title: d_tilari has lost the title: d_tilari
+227 - Title given to 1000923 - Primary title: k_kusumo
+227 - vassal: c_ebisari - Holder 1000923 - Primary title: c_ebisari has lost the title: c_ebisari
+227 - vassal: c_ebisari - Title given to 1000923 - Primary title: k_kusumo
+227 - vassal: c_liliin - Holder 1000923 - Primary title: c_liliin has lost the title: c_liliin
+227 - vassal: c_liliin - Title given to 1000923 - Primary title: k_kusumo
+227 - vassal: c_kisari - Holder 1000923 - Primary title: c_kisari has lost the title: c_kisari
+227 - vassal: c_kisari - Title given to 1000923 - Primary title: k_kusumo
+227 - vassal: c_liliin - Title given to 1004290
+227 - vassal: c_ebisari - Title given to 1004291
+227 - vassal: c_kisari - Title given to 1004292
+238 - Gained vassal: c_rasulah
+238 - Gained vassal: c_kisine
+238 - Gained vassal: c_rigafu
+238 - Gained vassal: c_edilaaq
+238 - Gained vassal: c_bigumo
+238 - Holder 1002468 - Primary title: d_tilari has lost the title: c_bigumo
+238 - vassal: c_bigumo - Title given to 1002468 - Primary title: k_kusumo
+238 - vassal: c_bigumo - Setting to vassal of k_kusumo in Validate Realm
+238 - Lost vassal: c_bigumo
+238 - Holder 1002468 - Primary title: d_tilari has lost the title: c_edilaaq
+238 - vassal: c_edilaaq - Title given to 1002468 - Primary title: k_kusumo
+238 - vassal: c_edilaaq - Setting to vassal of k_kusumo in Validate Realm
+238 - Lost vassal: c_edilaaq
+238 - Holder 1002468 - Primary title: d_tilari has lost the title: c_rigafu
+238 - vassal: c_rigafu - Title given to 1002468 - Primary title: k_kusumo
+238 - vassal: c_rigafu - Setting to vassal of k_kusumo in V

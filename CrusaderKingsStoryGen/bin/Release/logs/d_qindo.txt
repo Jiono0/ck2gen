@@ -1,0 +1,107 @@
+200 - Title given to 1000072
+200 - vassal: c_benelgi - Holder 1000072 - Primary title: c_benelgi has lost the title: c_benelgi
+200 - sub vassal: c_benelgi - Holder 1000072 - Primary title: c_benelgi has lost the title: c_benelgi
+200 - vassal: c_benelgi - Title given to 1000072 - Primary title: d_qindo
+200 - sub vassal: c_benelgi - Title given to 1000072 - Primary title: d_qindo
+200 - Holder (1000072) has gained c_benelgi
+200 - vassal: c_belgi - Holder 1000072 - Primary title: c_belgi has lost the title: c_belgi
+200 - sub vassal: c_belgi - Holder 1000072 - Primary title: c_belgi has lost the title: c_belgi
+200 - vassal: c_belgi - Title given to 1000072 - Primary title: d_qindo
+200 - sub vassal: c_belgi - Title given to 1000072 - Primary title: d_qindo
+200 - Holder (1000072) has gained c_belgi
+200 - vassal: c_aconoj - Holder 1000072 - Primary title: c_aconoj has lost the title: c_aconoj
+200 - sub vassal: c_aconoj - Holder 1000072 - Primary title: c_aconoj has lost the title: c_aconoj
+200 - vassal: c_aconoj - Title given to 1000072 - Primary title: d_qindo
+200 - sub vassal: c_aconoj - Title given to 1000072 - Primary title: d_qindo
+200 - Holder (1000072) has gained c_aconoj
+225 - Holder 1003259 - Primary title: d_qindo has lost the title: d_qindo
+225 - Title given to 1003259
+225 - vassal: c_benelgi - Holder 1003259 - Primary title: c_benelgi has lost the title: c_benelgi
+225 - vassal: c_benelgi - Title given to 1003259 - Primary title: d_qindo
+225 - Holder (1003259) has gained c_benelgi
+225 - vassal: c_belgi - Holder 1003259 - Primary title: c_belgi has lost the title: c_belgi
+225 - vassal: c_belgi - Title given to 1003259 - Primary title: d_qindo
+225 - Holder (1003259) has gained c_belgi
+225 - vassal: c_aconoj - Holder 1003259 - Primary title: c_aconoj has lost the title: c_aconoj
+225 - vassal: c_aconoj - Title given to 1003259 - Primary title: d_qindo
+225 - Holder (1003259) has gained c_aconoj
+247 - Holder (1003259) has gained d_qisco
+247 - Holder (1003259) has gained c_sacaric
+247 - Holder (1003259) has gained c_qionesi
+247 - Holder (1003259) has gained c_daarel
+247 - Holder (1003259) has gained c_tor
+248 - Holder (1003259) has gained c_wible
+248 - Holder (1003259) has gained c_achu
+248 - Holder (1003259) has gained c_wanenav
+248 - Holder (1003259) has gained c_sacera
+249 - vassal: c_aconoj - Title given to 1006448
+249 - vassal: c_benelgi - Title given to 1006449
+249 - vassal: c_belgi - Title given to 1006450
+249 - Title given to 1004627
+249 - Holder (1004627) has gained c_sacaric
+249 - Gained vassal: c_sacaric
+249 - Holder (1004627) has gained c_qionesi
+249 - Gained vassal: c_qionesi
+249 - Holder (1004627) has gained c_daarel
+249 - Gained vassal: c_daarel
+249 - Holder (1004627) has gained d_qenindo
+249 - Holder (1004627) has gained c_wible
+249 - Holder (1004627) has gained c_achu
+250 - Title given to 1006447 - Primary title: d_qisco
+250 - vassal: c_sacaric - Setting to vassal of d_qenindo in Validate Realm
+250 - Lost vassal: c_sacaric
+250 - vassal: c_qionesi - Setting to vassal of d_qenindo in Validate Realm
+250 - Lost vassal: c_qionesi
+250 - vassal: c_daarel - Setting to vassal of d_qenindo in Validate Realm
+250 - Lost vassal: c_daarel
+251 - vassal: c_belgi - Given to 1006631 in HandleTitles - Too many duke titles
+251 - vassal: c_belgi - Holder 1006631 - Primary title: c_belgi has lost the title: c_belgi
+251 - vassal: c_belgi - Title given to 1006631
+251 - Title given to 1002409 - Primary title: k_benalme
+251 - Too many dukes, made direct title into vassal of k_benalme
+251 - Title given to 1006632
+261 - Holder 1007157 - Primary title: d_qindo has lost the title: d_qindo
+261 - Title given to 1007157 - Primary title: d_qisco
+270 - Holder (1007157) has gained d_kaytaric
+271 - vassal: c_belgi - Given to 1008340 in HandleTitles - Too many duke titles
+271 - vassal: c_belgi - Holder 1008340 - Primary title: c_belgi has lost the title: c_belgi
+271 - vassal: c_belgi - Title given to 1008340
+271 - Title given to 1006447 - Primary title: k_benalme
+271 - Too many dukes, made direct title into vassal of k_benalme
+271 - Title given to 1008341
+310 - Holder 1008514 - Primary title: d_qindo has lost the title: d_qindo
+310 - Title given to 1008514
+317 - Holder (1008514) has gained d_lamum
+317 - Holder (1008514) has gained c_dionera
+349 - Holder 1011747 - Primary title: d_qindo has lost the title: d_qindo
+349 - Title given to 1011747
+349 - Holder (1011747) has gained d_lamum
+349 - Holder (1011747) has gained c_dionera
+363 - Holder 1014597 - Primary title: d_qindo has lost the title: d_qindo
+363 - Title given to 1014597
+363 - Holder (1014597) has gained d_lamum
+363 - Holder (1014597) has gained c_dionera
+378 - Holder (1014597) has gained k_benalme
+382 - Gained vassal: c_ahenalme
+382 - Gained vassal: c_ranoxti
+382 - Gained vassal: c_keorihl
+382 - Gained vassal: c_denible
+382 - Gained vassal: c_achu
+382 - Holder 1015724 - Primary title: d_qindo has lost the title: d_qindo
+382 - Title given to 1015724 - Primary title: k_benalme
+382 - vassal: c_achu - Holder 1015724 - Primary title: c_achu has lost the title: c_achu
+382 - vassal: c_achu - Title given to 1015724 - Primary title: k_benalme
+382 - vassal: c_denible - Holder 1015724 - Primary title: c_denible has lost the title: c_denible
+382 - vassal: c_denible - Title given to 1015724 - Primary title: k_benalme
+382 - vassal: c_keorihl - Holder 1015724 - Primary title: c_keorihl has lost the title: c_keorihl
+382 - vassal: c_keorihl - Title given to 1015724 - Primary title: k_benalme
+382 - vassal: c_ranoxti - Holder 1015724 - Primary title: c_ranoxti has lost the title: c_ranoxti
+382 - vassal: c_ranoxti - Title given to 1015724 - Primary title: k_benalme
+382 - vassal: c_ahenalme - Holder 1015724 - Primary title: c_ahenalme has lost the title: c_ahenalme
+382 - vassal: c_ahenalme - Title given to 1015724 - Primary title: k_benalme
+400 - vassal: c_aconoj - Holder 1015724 - Primary title: c_aconoj has lost the title: c_aconoj
+400 - vassal: c_aconoj - Title given to 1015724 - Primary title: k_benalme
+400 - vassal: c_benelgi - Holder 1015724 - Primary title: c_benelgi has lost the title: c_benelgi
+400 - vassal: c_benelgi - Title given to 1015724 - Primary title: k_benalme
+400 - vassal: c_belgi - Holder 1015724 - Primary title: c_belgi has lost the title: c_belgi
+400 - vassal: c_belgi - Title given to 1015724 - Primary title: k_benalme

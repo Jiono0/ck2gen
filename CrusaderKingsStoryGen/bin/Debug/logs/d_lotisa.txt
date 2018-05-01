@@ -1,0 +1,64 @@
+200 - Title given to 1000613
+200 - vassal: c_satyam - Holder 1000613 - Primary title: c_satyam has lost the title: c_satyam
+200 - sub vassal: c_satyam - Holder 1000613 - Primary title: c_satyam has lost the title: c_satyam
+200 - vassal: c_satyam - Title given to 1000613 - Primary title: d_lotisa
+200 - sub vassal: c_satyam - Title given to 1000613 - Primary title: d_lotisa
+200 - Holder (1000613) has gained c_satyam
+200 - vassal: c_kobachi - Holder 1000613 - Primary title: c_kobachi has lost the title: c_kobachi
+200 - sub vassal: c_kobachi - Holder 1000613 - Primary title: c_kobachi has lost the title: c_kobachi
+200 - vassal: c_kobachi - Title given to 1000613 - Primary title: d_lotisa
+200 - sub vassal: c_kobachi - Title given to 1000613 - Primary title: d_lotisa
+200 - Holder (1000613) has gained c_kobachi
+210 - Holder 1002743 - Primary title: d_lotisa has lost the title: d_lotisa
+210 - Title given to 1002743
+210 - vassal: c_kobachi - Holder 1002743 - Primary title: c_kobachi has lost the title: c_kobachi
+210 - vassal: c_kobachi - Title given to 1002743 - Primary title: d_lotisa
+210 - Holder (1002743) has gained c_kobachi
+210 - vassal: c_satyam - Holder 1002743 - Primary title: c_satyam has lost the title: c_satyam
+210 - vassal: c_satyam - Title given to 1002743 - Primary title: d_lotisa
+210 - Holder (1002743) has gained c_satyam
+248 - Holder 1004718 - Primary title: d_lotisa has lost the title: d_lotisa
+248 - Title given to 1004718
+248 - vassal: c_kobachi - Holder 1004718 - Primary title: c_kobachi has lost the title: c_kobachi
+248 - vassal: c_kobachi - Title given to 1004718 - Primary title: d_lotisa
+248 - Holder (1004718) has gained c_kobachi
+248 - vassal: c_satyam - Holder 1004718 - Primary title: c_satyam has lost the title: c_satyam
+248 - vassal: c_satyam - Title given to 1004718 - Primary title: d_lotisa
+248 - Holder (1004718) has gained c_satyam
+260 - Holder (1004718) has gained k_dubael
+276 - vassal: c_satyam - Given to 1008074 in HandleTitles - Too many duke titles
+276 - vassal: c_satyam - Title given to 1008074
+276 - Title given to 1008074 - Primary title: c_satyam
+276 - vassal: c_satyam - Holder (1008074) has gained d_lotisa
+276 - vassal: c_kobachi - Setting to vassal of k_dubael in Validate Realm
+276 - Lost vassal: c_kobachi
+276 - Too many dukes, given to dejure: k_dubael
+285 - Holder 1008124 - Primary title: d_lotisa has lost the title: d_lotisa
+285 - Title given to 1008124
+285 - vassal: c_satyam - Holder 1008124 - Primary title: c_satyam has lost the title: c_satyam
+285 - vassal: c_satyam - Title given to 1008124 - Primary title: d_lotisa
+285 - Holder (1008124) has gained c_satyam
+288 - Holder 1008580 - Primary title: d_lotisa has lost the title: d_lotisa
+288 - Title given to 1008580 - Primary title: k_dubael
+288 - vassal: c_satyam - Holder 1008580 - Primary title: c_satyam has lost the title: c_satyam
+288 - vassal: c_satyam - Title given to 1008580 - Primary title: k_dubael
+288 - vassal: c_satyam - Title given to 1008906
+296 - Gained vassal: c_kobachi
+296 - Gained vassal: c_wobadiq
+296 - Gained vassal: c_kenci
+296 - Gained vassal: c_busael
+296 - Gained vassal: c_qeduchi
+296 - Holder 1009437 - Primary title: d_lotisa has lost the title: c_qeduchi
+296 - vassal: c_qeduchi - Title given to 1009437 - Primary title: k_dubael
+296 - vassal: c_qeduchi - Setting to vassal of k_dubael in Validate Realm
+296 - Lost vassal: c_qeduchi
+296 - Holder 1009437 - Primary title: d_lotisa has lost the title: c_busael
+296 - vassal: c_busael - Title given to 1009437 - Primary title: k_dubael
+296 - vassal: c_busael - Setting to vassal of k_dubael in Validate Realm
+296 - Lost vassal: c_busael
+296 - Holder 1009437 - Primary title: d_lotisa has lost the title: c_kenci
+296 - vassal: c_kenci - Title given to 1009437 - Primary title: k_dubael
+296 - vassal: c_kenci - Setting to vassal of k_dubael in Validate Realm
+296 - Lost vassal: c_kenci
+296 - Holder 1009437 - Primary title: d_lotisa has lost the title: c_wobadiq
+296 - vassal: c_wobadiq - Title given to 1009437 - Primary tit

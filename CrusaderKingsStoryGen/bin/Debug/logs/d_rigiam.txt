@@ -1,0 +1,61 @@
+200 - Title given to 1000942
+200 - vassal: c_ridaaq - Given to 1000945 via AddCharacterForTitle
+200 - sub vassal: c_ridaaq - Given to 1000945 via AddCharacterForTitle
+200 - vassal: c_ridaaq - Holder 1000945 - Primary title: c_ridaaq has lost the title: c_ridaaq
+200 - sub vassal: c_ridaaq - Holder 1000945 - Primary title: c_ridaaq has lost the title: c_ridaaq
+200 - vassal: c_ridaaq - Title given to 1000945
+200 - sub vassal: c_ridaaq - Title given to 1000945
+200 - vassal: c_tagari - Holder 1000942 - Primary title: c_tagari has lost the title: c_tagari
+200 - sub vassal: c_tagari - Holder 1000942 - Primary title: c_tagari has lost the title: c_tagari
+200 - vassal: c_tagari - Title given to 1000942 - Primary title: d_rigiam
+200 - sub vassal: c_tagari - Title given to 1000942 - Primary title: d_rigiam
+200 - Holder (1000942) has gained c_tagari
+200 - vassal: c_ridaaq - Holder 1000942 - Primary title: c_ridaaq has lost the title: c_ridaaq
+200 - sub vassal: c_ridaaq - Holder 1000942 - Primary title: c_ridaaq has lost the title: c_ridaaq
+200 - vassal: c_ridaaq - Title given to 1000942 - Primary title: d_rigiam
+200 - sub vassal: c_ridaaq - Title given to 1000942 - Primary title: d_rigiam
+200 - Holder (1000942) has gained c_ridaaq
+238 - Holder 1002116 - Primary title: d_rigiam has lost the title: d_rigiam
+238 - Title given to 1002116
+238 - vassal: c_tagari - Holder 1002116 - Primary title: c_tagari has lost the title: c_tagari
+238 - vassal: c_tagari - Title given to 1002116 - Primary title: d_rigiam
+238 - Holder (1002116) has gained c_tagari
+238 - vassal: c_ridaaq - Holder 1002116 - Primary title: c_ridaaq has lost the title: c_ridaaq
+238 - vassal: c_ridaaq - Title given to 1002116 - Primary title: d_rigiam
+238 - Holder (1002116) has gained c_ridaaq
+264 - Holder 1004267 - Primary title: d_rigiam has lost the title: d_rigiam
+264 - Title given to 1004267 - Primary title: d_taseran
+264 - vassal: c_tagari - Holder 1004267 - Primary title: c_tagari has lost the title: c_tagari
+264 - vassal: c_tagari - Title given to 1004267 - Primary title: d_taseran
+264 - vassal: c_ridaaq - Holder 1004267 - Primary title: c_ridaaq has lost the title: c_ridaaq
+264 - vassal: c_ridaaq - Title given to 1004267 - Primary title: d_taseran
+270 - Holder 1004041 - Primary title: d_rigiam has lost the title: d_taseran
+270 - Gained vassal: c_lisari
+270 - Gained vassal: c_rusabir
+270 - Gained vassal: c_topaaq
+270 - Holder 1004041 - Primary title: d_rigiam has lost the title: c_topaaq
+270 - vassal: c_topaaq - Title given to 1004041 - Primary title: d_budo
+270 - vassal: c_topaaq - Setting to vassal of d_budo in Validate Realm
+270 - Lost vassal: c_topaaq
+270 - Holder 1004041 - Primary title: d_rigiam has lost the title: c_rusabir
+270 - vassal: c_rusabir - Title given to 1004041 - Primary title: d_budo
+270 - vassal: c_rusabir - Setting to vassal of d_budo in Validate Realm
+270 - Lost vassal: c_rusabir
+270 - Holder 1004041 - Primary title: d_rigiam has lost the title: c_lisari
+270 - vassal: c_lisari - Title given to 1004041 - Primary title: d_budo
+270 - vassal: c_lisari - Setting to vassal of d_budo in Validate Realm
+270 - Lost vassal: c_lisari
+270 - Holder 1004041 - Primary title: d_rigiam has lost the title: d_rigiam
+270 - Title given to 1004041 - Primary title: d_budo
+270 - vassal: c_tagari - Holder 1004041 - Primary title: c_tagari has lost the title: c_tagari
+270 - vassal: c_tagari - Title given to 1004041 - Primary title: d_budo
+270 - vassal: c_ridaaq - Holder 1004041 - Primary title: c_ridaaq has lost the title: c_ridaaq
+270 - vassal: c_ridaaq - Title given to 1004041 - Primary title: d_budo
+271 - Holder 1007679 - Primary title: d_rigiam has lost the title: c_topaaq
+271 - Holder 1007680 - Primary title: d_rigiam has lost the title: c_lisari
+278 - Holder 1008057 - Primary title: d_rigiam has lost the title: d_budo
+278 - Gained vassal: c_rusabir
+278 - Gained vassal: c_wavb
+278 - Gained vassal: c_raniana
+278 - Holder 1008057 - Primary title: d_rigiam has lost the title: c_raniana
+278 - vassal: c_raniana - T

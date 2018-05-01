@@ -1,0 +1,79 @@
+200 - Title given to 1000361
+200 - vassal: c_dakhe - Holder 1000361 - Primary title: c_dakhe has lost the title: c_dakhe
+200 - sub vassal: c_dakhe - Holder 1000361 - Primary title: c_dakhe has lost the title: c_dakhe
+200 - vassal: c_dakhe - Title given to 1000361 - Primary title: d_lacew
+200 - sub vassal: c_dakhe - Title given to 1000361 - Primary title: d_lacew
+200 - Holder (1000361) has gained c_dakhe
+200 - vassal: c_kafinan - Holder 1000361 - Primary title: c_kafinan has lost the title: c_kafinan
+200 - sub vassal: c_kafinan - Holder 1000361 - Primary title: c_kafinan has lost the title: c_kafinan
+200 - vassal: c_kafinan - Title given to 1000361 - Primary title: d_lacew
+200 - sub vassal: c_kafinan - Title given to 1000361 - Primary title: d_lacew
+200 - Holder (1000361) has gained c_kafinan
+216 - Holder 1002482 - Primary title: d_lacew has lost the title: d_lacew
+216 - Title given to 1002482
+216 - vassal: c_kafinan - Holder 1002482 - Primary title: c_kafinan has lost the title: c_kafinan
+216 - vassal: c_kafinan - Title given to 1002482 - Primary title: d_lacew
+216 - Holder (1002482) has gained c_kafinan
+216 - vassal: c_dakhe - Holder 1002482 - Primary title: c_dakhe has lost the title: c_dakhe
+216 - vassal: c_dakhe - Title given to 1002482 - Primary title: d_lacew
+216 - Holder (1002482) has gained c_dakhe
+222 - Holder 1003945 - Primary title: d_lacew has lost the title: d_lacew
+222 - Title given to 1003945
+222 - vassal: c_dakhe - Holder 1003945 - Primary title: c_dakhe has lost the title: c_dakhe
+222 - vassal: c_dakhe - Title given to 1003945 - Primary title: d_lacew
+222 - Holder (1003945) has gained c_dakhe
+222 - vassal: c_kafinan - Holder 1003945 - Primary title: c_kafinan has lost the title: c_kafinan
+222 - vassal: c_kafinan - Title given to 1003945 - Primary title: d_lacew
+222 - Holder (1003945) has gained c_kafinan
+273 - Holder 1005396 - Primary title: d_lacew has lost the title: d_lacew
+273 - Title given to 1005396 - Primary title: k_lanibel
+273 - vassal: c_dakhe - Holder 1005396 - Primary title: c_dakhe has lost the title: c_dakhe
+273 - vassal: c_dakhe - Title given to 1005396 - Primary title: k_lanibel
+273 - vassal: c_kafinan - Holder 1005396 - Primary title: c_kafinan has lost the title: c_kafinan
+273 - vassal: c_kafinan - Title given to 1005396 - Primary title: k_lanibel
+273 - vassal: c_dakhe - Title given to 1008555
+279 - vassal: c_kafinan - Given to 1009029 in HandleTitles - Too many duke titles
+279 - vassal: c_kafinan - Title given to 1009029
+279 - Title given to 1009029 - Primary title: c_kafinan
+279 - vassal: c_kafinan - Holder (1009029) has gained d_lacew
+279 - Too many dukes, given to dejure: k_lanibel
+298 - Holder 1009734 - Primary title: d_lacew has lost the title: d_lacew
+298 - Title given to 1009734
+298 - vassal: c_kafinan - Holder 1009734 - Primary title: c_kafinan has lost the title: c_kafinan
+298 - vassal: c_kafinan - Title given to 1009734 - Primary title: d_lacew
+298 - Holder (1009734) has gained c_kafinan
+344 - Holder 1011228 - Primary title: d_lacew has lost the title: d_lacew
+344 - Title given to 1011228
+344 - vassal: c_kafinan - Holder 1011228 - Primary title: c_kafinan has lost the title: c_kafinan
+344 - vassal: c_kafinan - Title given to 1011228 - Primary title: d_lacew
+344 - Holder (1011228) has gained c_kafinan
+365 - Holder 1014450 - Primary title: d_lacew has lost the title: d_lacew
+365 - Title given to 1014450
+365 - vassal: c_kafinan - Holder 1014450 - Primary title: c_kafinan has lost the title: c_kafinan
+365 - vassal: c_kafinan - Title given to 1014450 - Primary title: d_lacew
+365 - Holder (1014450) has gained c_kafinan
+368 - Holder 1014834 - Primary title: d_lacew has lost the title: d_lacew
+368 - Title given to 1014834 - Primary title: k_lanibel
+368 - vassal: c_kafinan - Holder 1014834 - Primary title: c_kafinan has lost the title: c_kafinan
+368 - vassal: c_kafinan - Title given to 1014834 - Primary title: k_lanibel
+368 - vassal: c_kafinan - Title given to 1015889
+383 - Gained vassal: c_aprahike
+383 - Gained vassal: c_walutan
+383 - Gained vassal: c_qakhulf
+383 - Gained vassal: c_retutan
+383 - Gained vassal: c_someus
+383 - Holder 1016794 - Primary title: d_lacew has lost the title: d_lacew
+383 - Title given to 1016794 - Primary title: k_lanibel
+383 - vassal: c_someus - Holder 1016794 - Primary title: c_someus has lost the title: c_someus
+383 - vassal: c_someus - Title given to 1016794 - Primary title: k_lanibel
+383 - vassal: c_retutan - Holder 1016794 - Primary title: c_retutan has lost the title: c_retutan
+383 - vassal: c_retutan - Title given to 1016794 - Primary title: k_lanibel
+383 - vassal: c_qakhulf - Holder 1016794 - Primary title: c_qakhulf has lost the title: c_qakhulf
+383 - vassal: c_qakhulf - Title given to 1016794 - Primary title: k_lanibel
+383 - vassal: c_walutan - Holder 1016794 - Primary title: c_walutan has lost the title: c_walutan
+383 - vassal: c_walutan - Title given to 1016794 - Primary title: k_lanibel
+383 - vassal: c_aprahike - Holder 1016794 - Primary title: c_aprahike has lost the title: c_aprahike
+383 - vassal: c_aprahike - Title given to 1016794 - Primary title: k_lanibel
+400 - vassal: c_dakhe - Holder 1015889 - Primary title: c_dakhe has lost the title: c_dakhe
+400 - vassal: c_dakhe - Title given to 1015889 - Primary title: c_kafinan
+400 - vassal: c_kafinan - Holder (1015889) has gained c_dakhe

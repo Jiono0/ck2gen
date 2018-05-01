@@ -1,0 +1,98 @@
+200 - Title given to 1001133
+200 - vassal: c_beetage - Given to 1001136 via AddCharacterForTitle
+200 - sub vassal: c_beetage - Given to 1001136 via AddCharacterForTitle
+200 - vassal: c_beetage - Holder 1001136 - Primary title: c_beetage has lost the title: c_beetage
+200 - sub vassal: c_beetage - Holder 1001136 - Primary title: c_beetage has lost the title: c_beetage
+200 - vassal: c_beetage - Title given to 1001136
+200 - sub vassal: c_beetage - Title given to 1001136
+200 - vassal: c_rurava - Holder 1001133 - Primary title: c_rurava has lost the title: c_rurava
+200 - sub vassal: c_rurava - Holder 1001133 - Primary title: c_rurava has lost the title: c_rurava
+200 - vassal: c_rurava - Title given to 1001133 - Primary title: d_lomalom
+200 - sub vassal: c_rurava - Title given to 1001133 - Primary title: d_lomalom
+200 - Holder (1001133) has gained c_rurava
+200 - vassal: c_beetage - Holder 1001133 - Primary title: c_beetage has lost the title: c_beetage
+200 - sub vassal: c_beetage - Holder 1001133 - Primary title: c_beetage has lost the title: c_beetage
+200 - vassal: c_beetage - Title given to 1001133 - Primary title: d_lomalom
+200 - sub vassal: c_beetage - Title given to 1001133 - Primary title: d_lomalom
+200 - Holder (1001133) has gained c_beetage
+220 - Holder 1003198 - Primary title: d_lomalom has lost the title: d_lomalom
+220 - Title given to 1003198
+220 - vassal: c_rurava - Holder 1003198 - Primary title: c_rurava has lost the title: c_rurava
+220 - vassal: c_rurava - Title given to 1003198 - Primary title: d_lomalom
+220 - Holder (1003198) has gained c_rurava
+220 - vassal: c_beetage - Holder 1003198 - Primary title: c_beetage has lost the title: c_beetage
+220 - vassal: c_beetage - Title given to 1003198 - Primary title: d_lomalom
+220 - Holder (1003198) has gained c_beetage
+265 - Holder 1007335 - Primary title: d_lomalom has lost the title: d_lomalom
+265 - Title given to 1007335
+265 - vassal: c_rurava - Holder 1007335 - Primary title: c_rurava has lost the title: c_rurava
+265 - vassal: c_rurava - Title given to 1007335 - Primary title: d_lomalom
+265 - Holder (1007335) has gained c_rurava
+265 - vassal: c_beetage - Holder 1007335 - Primary title: c_beetage has lost the title: c_beetage
+265 - vassal: c_beetage - Title given to 1007335 - Primary title: d_lomalom
+265 - Holder (1007335) has gained c_beetage
+275 - Holder 1007539 - Primary title: d_lomalom has lost the title: d_lomalom
+275 - Title given to 1007539 - Primary title: k_eguvona
+275 - vassal: c_rurava - Holder 1007539 - Primary title: c_rurava has lost the title: c_rurava
+275 - vassal: c_rurava - Title given to 1007539 - Primary title: k_eguvona
+275 - vassal: c_beetage - Holder 1007539 - Primary title: c_beetage has lost the title: c_beetage
+275 - vassal: c_beetage - Title given to 1007539 - Primary title: k_eguvona
+275 - vassal: c_beetage - Given to 1008709 in HandleTitles - Too many duke titles
+275 - vassal: c_beetage - Title given to 1008709
+275 - Title given to 1008709 - Primary title: c_beetage
+275 - vassal: c_beetage - Holder (1008709) has gained d_lomalom
+275 - vassal: c_rurava - Setting to vassal of k_eguvona in Validate Realm
+275 - Lost vassal: c_rurava
+275 - Too many dukes, given to dejure: k_eguvona
+293 - Holder 1009106 - Primary title: d_lomalom has lost the title: d_lomalom
+293 - Title given to 1009106
+293 - vassal: c_beetage - Holder 1009106 - Primary title: c_beetage has lost the title: c_beetage
+293 - vassal: c_beetage - Title given to 1009106 - Primary title: d_lomalom
+293 - Holder (1009106) has gained c_beetage
+295 - Holder (1009106) has gained k_eguvona
+296 - vassal: c_beetage - Given to 1010445 in HandleTitles - Too many duke titles
+296 - vassal: c_beetage - Title given to 1010445
+296 - Title given to 1010445 - Primary title: c_beetage
+296 - vassal: c_beetage - Holder (1010445) has gained d_lomalom
+296 - Too many dukes, given to dejure: k_eguvona
+324 - Holder 1010982 - Primary title: d_lomalom has lost the title: d_lomalom
+324 - Title given to 1010982
+324 - vassal: c_beetage - Holder 1010982 - Primary title: c_beetage has lost the title: c_beetage
+324 - vassal: c_beetage - Title given to 1010982 - Primary title: d_lomalom
+324 - Holder (1010982) has gained c_beetage
+359 - Holder 1013046 - Primary title: d_lomalom has lost the title: d_lomalom
+359 - Title given to 1013046
+359 - vassal: c_beetage - Holder 1013046 - Primary title: c_beetage has lost the title: c_beetage
+359 - vassal: c_beetage - Title given to 1013046 - Primary title: d_lomalom
+359 - Holder (1013046) has gained c_beetage
+363 - Captured byd_kaicha in minor war
+363 - Made independent
+363 - Given to 1014683 in minor war along with lower
+363 - Holder 1014683 - Primary title: d_lomalom has lost the title: d_lomalom
+363 - Title given to 1014683 - Primary title: d_kaicha
+363 - vassal: c_beetage - Holder 1014683 - Primary title: c_beetage has lost the title: c_beetage
+363 - vassal: c_beetage - Title given to 1014683 - Primary title: d_kaicha
+373 - Holder 1015122 - Primary title: d_lomalom has lost the title: d_lomalom
+373 - Title given to 1015122 - Primary title: d_kaicha
+373 - vassal: c_beetage - Title given to 1015122 - Primary title: d_kaicha
+374 - Holder 1009664 - Primary title: d_lomalom has lost the title: d_lomalom
+374 - Title given to 1009664 - Primary title: d_kaicha
+374 - vassal: c_beetage - Holder 1009664 - Primary title: c_beetage has lost the title: c_beetage
+374 - vassal: c_beetage - Title given to 1009664 - Primary title: d_kaicha
+381 - Holder 1016484 - Primary title: d_lomalom has lost the title: d_lomalom
+381 - Title given to 1016484 - Primary title: d_kaicha
+381 - vassal: c_beetage - Holder 1016484 - Primary title: c_beetage has lost the title: c_beetage
+381 - vassal: c_beetage - Title given to 1016484 - Primary title: d_kaicha
+391 - Holder 1015181 - Primary title: d_lomalom has lost the title: d_lomalom
+391 - Title given to 1015181 - Primary title: d_kaicha
+391 - vassal: c_beetage - Holder 1015181 - Primary title: c_beetage has lost the title: c_beetage
+391 - vassal: c_beetage - Title given to 1015181 - Primary title: d_kaicha
+397 - vassal: c_beetage - Title given to 1017905
+398 - Holder 1017903 - Primary title: d_lomalom has lost the title: d_lomalom
+398 - Title given to 1017903 - Primary title: k_kiwuel
+399 - vassal: c_beetage - Given to 1018046 in HandleTitles - Too many duke titles
+399 - vassal: c_beetage - Holder 1018046 - Primary title: c_beetage has lost the title: c_beetage
+399 - vassal: c_beetage - Title given to 1018046
+399 - Title given to 1018046 - Primary title: c_beetage
+399 - vassal: c_beetage - Holder (1018046) has gained d_lomalom
+399 - Too many dukes, made direct title into vassal of k_kiwuel

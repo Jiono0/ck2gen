@@ -1,0 +1,56 @@
+200 - Title given to 1000202
+200 - vassal: c_tutaytas - Given to 1000206 via AddCharacterForTitle
+200 - sub vassal: c_tutaytas - Given to 1000206 via AddCharacterForTitle
+200 - vassal: c_tutaytas - Holder 1000206 - Primary title: c_tutaytas has lost the title: c_tutaytas
+200 - sub vassal: c_tutaytas - Holder 1000206 - Primary title: c_tutaytas has lost the title: c_tutaytas
+200 - vassal: c_tutaytas - Title given to 1000206
+200 - sub vassal: c_tutaytas - Title given to 1000206
+200 - vassal: c_tanao - Holder 1000202 - Primary title: c_tanao has lost the title: c_tanao
+200 - sub vassal: c_tanao - Holder 1000202 - Primary title: c_tanao has lost the title: c_tanao
+200 - vassal: c_tanao - Title given to 1000202 - Primary title: d_rodehmd
+200 - sub vassal: c_tanao - Title given to 1000202 - Primary title: d_rodehmd
+200 - Holder (1000202) has gained c_tanao
+200 - vassal: c_toduyan - Holder 1000202 - Primary title: c_toduyan has lost the title: c_toduyan
+200 - sub vassal: c_toduyan - Holder 1000202 - Primary title: c_toduyan has lost the title: c_toduyan
+200 - vassal: c_toduyan - Title given to 1000202 - Primary title: d_rodehmd
+200 - sub vassal: c_toduyan - Title given to 1000202 - Primary title: d_rodehmd
+200 - Holder (1000202) has gained c_toduyan
+200 - vassal: c_danugel - Holder 1000202 - Primary title: c_danugel has lost the title: c_danugel
+200 - sub vassal: c_danugel - Holder 1000202 - Primary title: c_danugel has lost the title: c_danugel
+200 - vassal: c_danugel - Title given to 1000202 - Primary title: d_rodehmd
+200 - sub vassal: c_danugel - Title given to 1000202 - Primary title: d_rodehmd
+200 - Holder (1000202) has gained c_danugel
+219 - Holder 1002321 - Primary title: d_rodehmd has lost the title: d_rodehmd
+219 - Title given to 1002321
+219 - vassal: c_danugel - Holder 1002321 - Primary title: c_danugel has lost the title: c_danugel
+219 - vassal: c_danugel - Title given to 1002321 - Primary title: d_rodehmd
+219 - Holder (1002321) has gained c_danugel
+219 - vassal: c_toduyan - Holder 1002321 - Primary title: c_toduyan has lost the title: c_toduyan
+219 - vassal: c_toduyan - Title given to 1002321 - Primary title: d_rodehmd
+219 - Holder (1002321) has gained c_toduyan
+219 - vassal: c_tanao - Holder 1002321 - Primary title: c_tanao has lost the title: c_tanao
+219 - vassal: c_tanao - Title given to 1002321 - Primary title: d_rodehmd
+219 - Holder (1002321) has gained c_tanao
+252 - Holder 1003804 - Primary title: d_rodehmd has lost the title: d_rodehmd
+252 - Title given to 1003804
+252 - vassal: c_danugel - Holder 1003804 - Primary title: c_danugel has lost the title: c_danugel
+252 - vassal: c_danugel - Title given to 1003804 - Primary title: d_rodehmd
+252 - Holder (1003804) has gained c_danugel
+252 - vassal: c_toduyan - Holder 1003804 - Primary title: c_toduyan has lost the title: c_toduyan
+252 - vassal: c_toduyan - Title given to 1003804 - Primary title: d_rodehmd
+252 - Holder (1003804) has gained c_toduyan
+252 - vassal: c_tanao - Holder 1003804 - Primary title: c_tanao has lost the title: c_tanao
+252 - vassal: c_tanao - Title given to 1003804 - Primary title: d_rodehmd
+252 - Holder (1003804) has gained c_tanao
+261 - Holder 1003460 - Primary title: d_rodehmd has lost the title: d_rodehmd
+261 - Title given to 1003460 - Primary title: k_waintas
+261 - vassal: c_tanao - Holder 1003460 - Primary title: c_tanao has lost the title: c_tanao
+261 - vassal: c_tanao - Title given to 1003460 - Primary title: k_waintas
+261 - vassal: c_toduyan - Holder 1003460 - Primary title: c_toduyan has lost the title: c_toduyan
+261 - vassal: c_toduyan - Title given to 1003460 - Primary title: k_waintas
+261 - vassal: c_danugel - Holder 1003460 - Primary title: c_danugel has lost the title: c_danugel
+261 - vassal: c_danugel - Title given to 1003460 - Primary title: k_waintas
+263 - Holder 1004872 - Primary title: d_rodehmd has lost the title: d_rodehmd
+263 - Title given to 1004872 - Primary title: k_waintas
+263 - vassal: c_tanao - Holder 1004872 - Primary title: c_tanao has lost the title: c_tanao
+26

@@ -1,0 +1,81 @@
+200 - Title given to 1000865
+200 - vassal: c_buraa - Given to 1000868 via AddCharacterForTitle
+200 - sub vassal: c_buraa - Given to 1000868 via AddCharacterForTitle
+200 - vassal: c_buraa - Holder 1000868 - Primary title: c_buraa has lost the title: c_buraa
+200 - sub vassal: c_buraa - Holder 1000868 - Primary title: c_buraa has lost the title: c_buraa
+200 - vassal: c_buraa - Title given to 1000868
+200 - sub vassal: c_buraa - Title given to 1000868
+200 - vassal: c_rutebia - Holder 1000865 - Primary title: c_rutebia has lost the title: c_rutebia
+200 - sub vassal: c_rutebia - Holder 1000865 - Primary title: c_rutebia has lost the title: c_rutebia
+200 - vassal: c_rutebia - Title given to 1000865 - Primary title: d_keinatti
+200 - sub vassal: c_rutebia - Title given to 1000865 - Primary title: d_keinatti
+200 - Holder (1000865) has gained c_rutebia
+200 - vassal: c_buraa - Holder 1000865 - Primary title: c_buraa has lost the title: c_buraa
+200 - sub vassal: c_buraa - Holder 1000865 - Primary title: c_buraa has lost the title: c_buraa
+200 - vassal: c_buraa - Title given to 1000865 - Primary title: d_keinatti
+200 - sub vassal: c_buraa - Title given to 1000865 - Primary title: d_keinatti
+200 - Holder (1000865) has gained c_buraa
+201 - Holder 1001898 - Primary title: d_keinatti has lost the title: d_keinatti
+201 - Title given to 1001898
+201 - vassal: c_buraa - Holder 1001898 - Primary title: c_buraa has lost the title: c_buraa
+201 - vassal: c_buraa - Title given to 1001898 - Primary title: d_keinatti
+201 - Holder (1001898) has gained c_buraa
+201 - vassal: c_rutebia - Holder 1001898 - Primary title: c_rutebia has lost the title: c_rutebia
+201 - vassal: c_rutebia - Title given to 1001898 - Primary title: d_keinatti
+201 - Holder (1001898) has gained c_rutebia
+217 - Holder 1003717 - Primary title: d_keinatti has lost the title: d_keinatti
+217 - Title given to 1003717
+217 - vassal: c_buraa - Holder 1003717 - Primary title: c_buraa has lost the title: c_buraa
+217 - vassal: c_buraa - Title given to 1003717 - Primary title: d_keinatti
+217 - Holder (1003717) has gained c_buraa
+217 - vassal: c_rutebia - Holder 1003717 - Primary title: c_rutebia has lost the title: c_rutebia
+217 - vassal: c_rutebia - Title given to 1003717 - Primary title: d_keinatti
+217 - Holder (1003717) has gained c_rutebia
+262 - Holder 1006056 - Primary title: d_keinatti has lost the title: d_keinatti
+262 - Title given to 1006056
+262 - vassal: c_rutebia - Holder 1006056 - Primary title: c_rutebia has lost the title: c_rutebia
+262 - vassal: c_rutebia - Title given to 1006056 - Primary title: d_keinatti
+262 - Holder (1006056) has gained c_rutebia
+262 - vassal: c_buraa - Holder 1006056 - Primary title: c_buraa has lost the title: c_buraa
+262 - vassal: c_buraa - Title given to 1006056 - Primary title: d_keinatti
+262 - Holder (1006056) has gained c_buraa
+290 - Holder 1008182 - Primary title: d_keinatti has lost the title: d_keinatti
+290 - Title given to 1008182
+290 - vassal: c_buraa - Holder 1008182 - Primary title: c_buraa has lost the title: c_buraa
+290 - vassal: c_buraa - Title given to 1008182 - Primary title: d_keinatti
+290 - Holder (1008182) has gained c_buraa
+290 - vassal: c_rutebia - Holder 1008182 - Primary title: c_rutebia has lost the title: c_rutebia
+290 - vassal: c_rutebia - Title given to 1008182 - Primary title: d_keinatti
+290 - Holder (1008182) has gained c_rutebia
+330 - Holder 1011051 - Primary title: d_keinatti has lost the title: d_keinatti
+330 - Title given to 1011051
+330 - vassal: c_buraa - Holder 1011051 - Primary title: c_buraa has lost the title: c_buraa
+330 - vassal: c_buraa - Title given to 1011051 - Primary title: d_keinatti
+330 - Holder (1011051) has gained c_buraa
+330 - vassal: c_rutebia - Holder 1011051 - Primary title: c_rutebia has lost the title: c_rutebia
+330 - vassal: c_rutebia - Title given to 1011051 - Primary title: d_keinatti
+330 - Holder (1011051) has gained c_rutebia
+349 - Holder 1013605 - Primary title: d_keinatti has lost the title: d_keinatti
+349 - Title given to 1013605 - Primary title: k_kaeloos
+349 - vassal: c_rutebia - Holder 1013605 - Primary title: c_rutebia has lost the title: c_rutebia
+349 - vassal: c_rutebia - Title given to 1013605 - Primary title: k_kaeloos
+349 - vassal: c_buraa - Holder 1013605 - Primary title: c_buraa has lost the title: c_buraa
+349 - vassal: c_buraa - Title given to 1013605 - Primary title: k_kaeloos
+349 - vassal: c_buraa - Given to 1014553 in HandleTitles - Too many duke titles
+349 - vassal: c_buraa - Title given to 1014553
+349 - Title given to 1014553 - Primary title: c_buraa
+349 - vassal: c_buraa - Holder (1014553) has gained d_keinatti
+349 - vassal: c_rutebia - Setting to vassal of k_kaeloos in Validate Realm
+349 - Lost vassal: c_rutebia
+349 - Too many dukes, given to dejure: k_kaeloos
+376 - Holder 1015131 - Primary title: d_keinatti has lost the title: d_keinatti
+376 - Title given to 1015131 - Primary title: k_wurebia
+376 - vassal: c_buraa - Holder 1015131 - Primary title: c_buraa has lost the title: c_buraa
+376 - vassal: c_buraa - Title given to 1015131 - Primary title: k_wurebia
+377 - vassal: c_buraa - Title given to 1016507
+379 - vassal: c_buraa - Given to 1016662 in HandleTitles - Too many duke titles
+379 - vassal: c_buraa - Holder 1016662 - Primary title: c_buraa has lost the title: c_buraa
+379 - vassal: c_buraa - Title given to 1016662
+379 - Title given to 1016662 - Primary title: c_buraa
+379 - vassal: c_buraa - Holder (1016662) has gained d_keinatti
+379 - Too many dukes, given to dejure: k_kaeloos

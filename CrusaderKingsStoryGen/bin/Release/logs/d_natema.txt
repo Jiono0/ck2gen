@@ -1,0 +1,73 @@
+200 - Title given to 1000604
+200 - vassal: c_rona - Given to 1000608 via AddCharacterForTitle
+200 - sub vassal: c_rona - Given to 1000608 via AddCharacterForTitle
+200 - vassal: c_rona - Holder 1000608 - Primary title: c_rona has lost the title: c_rona
+200 - sub vassal: c_rona - Holder 1000608 - Primary title: c_rona has lost the title: c_rona
+200 - vassal: c_rona - Title given to 1000608
+200 - sub vassal: c_rona - Title given to 1000608
+200 - vassal: c_nerema - Holder 1000604 - Primary title: c_nerema has lost the title: c_nerema
+200 - sub vassal: c_nerema - Holder 1000604 - Primary title: c_nerema has lost the title: c_nerema
+200 - vassal: c_nerema - Title given to 1000604 - Primary title: d_natema
+200 - sub vassal: c_nerema - Title given to 1000604 - Primary title: d_natema
+200 - Holder (1000604) has gained c_nerema
+200 - vassal: c_elyayka - Holder 1000604 - Primary title: c_elyayka has lost the title: c_elyayka
+200 - sub vassal: c_elyayka - Holder 1000604 - Primary title: c_elyayka has lost the title: c_elyayka
+200 - vassal: c_elyayka - Title given to 1000604 - Primary title: d_natema
+200 - sub vassal: c_elyayka - Title given to 1000604 - Primary title: d_natema
+200 - Holder (1000604) has gained c_elyayka
+200 - vassal: c_rona - Holder 1000604 - Primary title: c_rona has lost the title: c_rona
+200 - sub vassal: c_rona - Holder 1000604 - Primary title: c_rona has lost the title: c_rona
+200 - vassal: c_rona - Title given to 1000604 - Primary title: d_natema
+200 - sub vassal: c_rona - Title given to 1000604 - Primary title: d_natema
+200 - Holder (1000604) has gained c_rona
+200 - Holder 1001556 - Primary title: d_natema has lost the title: c_rona
+200 - vassal: c_rona - Title given to 1001556 - Primary title: k_nelyayka
+202 - Holder (1000604) has gained k_nelyayka
+202 - vassal: c_rona - Setting to vassal of d_nerema in Validate Realm
+202 - Lost vassal: c_rona
+232 - Gained vassal: c_rona
+232 - Holder 1002209 - Primary title: d_natema has lost the title: d_natema
+232 - Title given to 1002209 - Primary title: k_nelyayka
+232 - vassal: c_rona - Holder 1002209 - Primary title: c_rona has lost the title: c_rona
+232 - vassal: c_rona - Title given to 1002209 - Primary title: k_nelyayka
+232 - vassal: c_nerema - Holder 1002209 - Primary title: c_nerema has lost the title: c_nerema
+232 - vassal: c_nerema - Title given to 1002209 - Primary title: k_nelyayka
+232 - vassal: c_elyayka - Holder 1002209 - Primary title: c_elyayka has lost the title: c_elyayka
+232 - vassal: c_elyayka - Title given to 1002209 - Primary title: k_nelyayka
+234 - Holder 1000609 - Primary title: d_natema has lost the title: d_natema
+234 - Title given to 1000609 - Primary title: k_nelyayka
+234 - vassal: c_rona - Holder 1000609 - Primary title: c_rona has lost the title: c_rona
+234 - vassal: c_rona - Title given to 1000609 - Primary title: k_nelyayka
+234 - vassal: c_nerema - Holder 1000609 - Primary title: c_nerema has lost the title: c_nerema
+234 - vassal: c_nerema - Title given to 1000609 - Primary title: k_nelyayka
+234 - vassal: c_elyayka - Holder 1000609 - Primary title: c_elyayka has lost the title: c_elyayka
+234 - vassal: c_elyayka - Title given to 1000609 - Primary title: k_nelyayka
+261 - Gained vassal: c_letadeva
+261 - Gained vassal: c_tarulfus
+261 - Holder 1005288 - Primary title: d_natema has lost the title: d_natema
+261 - Title given to 1005288 - Primary title: k_nelyayka
+261 - vassal: c_tarulfus - Holder 1005288 - Primary title: c_tarulfus has lost the title: c_tarulfus
+261 - vassal: c_tarulfus - Title given to 1005288 - Primary title: k_nelyayka
+261 - vassal: c_letadeva - Holder 1005288 - Primary title: c_letadeva has lost the title: c_letadeva
+261 - vassal: c_letadeva - Title given to 1005288 - Primary title: k_nelyayka
+261 - vassal: c_rona - Holder 1005288 - Primary title: c_rona has lost the title: c_rona
+261 - vassal: c_rona - Title given to 1005288 - Primary title: k_nelyayka
+261 - vassal: c_nerema - Holder 1005288 - Primary title: c_nerema has lost the title: c_nerema
+261 - vassal: c_nerema - Title given to 1005288 - Primary title: k_nelyayka
+261 - vassal: c_elyayka - Holder 1005288 - Primary title: c_elyayka has lost the title: c_elyayka
+261 - vassal: c_elyayka - Title given to 1005288 - Primary title: k_nelyayka
+281 - Holder 1004802 - Primary title: d_natema has lost the title: d_natema
+281 - Title given to 1004802 - Primary title: k_nelyayka
+281 - vassal: c_elyayka - Setting to vassal of d_nerema in Validate Realm
+281 - Lost vassal: c_elyayka
+281 - vassal: c_nerema - Setting to vassal of d_nerema in Validate Realm
+281 - Lost vassal: c_nerema
+281 - vassal: c_rona - Setting to vassal of d_nerema in Validate Realm
+281 - Lost vassal: c_rona
+281 - vassal: c_letadeva - Setting to vassal of d_nerema in Validate Realm
+281 - Lost vassal: c_letadeva
+281 - vassal: c_tarulfus - Setting to vassal of d_nerema in Validate Realm
+281 - Lost vassal: c_tarulfus
+282 - Destroyed due to flagged problem
+282 - Made independent
+282 - Title destroyed

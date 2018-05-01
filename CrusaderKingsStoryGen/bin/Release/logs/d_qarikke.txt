@@ -1,0 +1,59 @@
+200 - Title given to 1000250
+200 - vassal: c_reyasco - Given to 1000254 via AddCharacterForTitle
+200 - sub vassal: c_reyasco - Given to 1000254 via AddCharacterForTitle
+200 - vassal: c_reyasco - Holder 1000254 - Primary title: c_reyasco has lost the title: c_reyasco
+200 - sub vassal: c_reyasco - Holder 1000254 - Primary title: c_reyasco has lost the title: c_reyasco
+200 - vassal: c_reyasco - Title given to 1000254
+200 - sub vassal: c_reyasco - Title given to 1000254
+200 - vassal: c_dalayor - Holder 1000250 - Primary title: c_dalayor has lost the title: c_dalayor
+200 - sub vassal: c_dalayor - Holder 1000250 - Primary title: c_dalayor has lost the title: c_dalayor
+200 - vassal: c_dalayor - Title given to 1000250 - Primary title: d_qarikke
+200 - sub vassal: c_dalayor - Title given to 1000250 - Primary title: d_qarikke
+200 - Holder (1000250) has gained c_dalayor
+200 - vassal: c_ryenayor - Holder 1000250 - Primary title: c_ryenayor has lost the title: c_ryenayor
+200 - sub vassal: c_ryenayor - Holder 1000250 - Primary title: c_ryenayor has lost the title: c_ryenayor
+200 - vassal: c_ryenayor - Title given to 1000250 - Primary title: d_qarikke
+200 - sub vassal: c_ryenayor - Title given to 1000250 - Primary title: d_qarikke
+200 - Holder (1000250) has gained c_ryenayor
+200 - vassal: c_reyasco - Holder 1000250 - Primary title: c_reyasco has lost the title: c_reyasco
+200 - sub vassal: c_reyasco - Holder 1000250 - Primary title: c_reyasco has lost the title: c_reyasco
+200 - vassal: c_reyasco - Title given to 1000250 - Primary title: d_qarikke
+200 - sub vassal: c_reyasco - Title given to 1000250 - Primary title: d_qarikke
+200 - Holder (1000250) has gained c_reyasco
+208 - Holder 1001757 - Primary title: d_qarikke has lost the title: d_qarikke
+208 - Title given to 1001757
+208 - vassal: c_reyasco - Holder 1001757 - Primary title: c_reyasco has lost the title: c_reyasco
+208 - vassal: c_reyasco - Title given to 1001757 - Primary title: d_qarikke
+208 - Holder (1001757) has gained c_reyasco
+208 - vassal: c_ryenayor - Holder 1001757 - Primary title: c_ryenayor has lost the title: c_ryenayor
+208 - vassal: c_ryenayor - Title given to 1001757 - Primary title: d_qarikke
+208 - Holder (1001757) has gained c_ryenayor
+208 - vassal: c_dalayor - Holder 1001757 - Primary title: c_dalayor has lost the title: c_dalayor
+208 - vassal: c_dalayor - Title given to 1001757 - Primary title: d_qarikke
+208 - Holder (1001757) has gained c_dalayor
+213 - Holder 1002962 - Primary title: d_qarikke has lost the title: d_qarikke
+213 - Title given to 1002962 - Primary title: d_sutayor
+213 - vassal: c_reyasco - Holder 1002962 - Primary title: c_reyasco has lost the title: c_reyasco
+213 - vassal: c_reyasco - Title given to 1002962 - Primary title: d_sutayor
+213 - vassal: c_ryenayor - Holder 1002962 - Primary title: c_ryenayor has lost the title: c_ryenayor
+213 - vassal: c_ryenayor - Title given to 1002962 - Primary title: d_sutayor
+213 - vassal: c_dalayor - Holder 1002962 - Primary title: c_dalayor has lost the title: c_dalayor
+213 - vassal: c_dalayor - Title given to 1002962 - Primary title: d_sutayor
+214 - Holder 1003580 - Primary title: d_qarikke has lost the title: c_ragiaco
+239 - Holder 1004719 - Primary title: d_qarikke has lost the title: d_qarikke
+239 - Title given to 1004719
+239 - vassal: c_dalayor - Setting to vassal of d_sutayor in Validate Realm
+239 - Lost vassal: c_dalayor
+239 - vassal: c_ryenayor - Setting to vassal of d_sutayor in Validate Realm
+239 - Lost vassal: c_ryenayor
+239 - vassal: c_reyasco - Setting to vassal of d_sutayor in Validate Realm
+239 - Lost vassal: c_reyasco
+239 - Holder (1004719) has gained d_sutayor
+239 - Holder (1004719) has gained c_dalayor
+239 - Holder (1004719) has gained c_ryenayor
+239 - Holder (1004719) has gained c_reyasco
+239 - Holder (1004719) has gained c_qulinar
+239 - Holder (1004719) has gained c_tacinar
+240 - Destroyed due to flagged problem
+240 - Made independent
+240 - Title destroyed

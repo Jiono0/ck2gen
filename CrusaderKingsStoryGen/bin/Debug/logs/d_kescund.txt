@@ -1,0 +1,62 @@
+200 - Title given to 1000629
+200 - vassal: c_nadabha - Given to 1000633 via AddCharacterForTitle
+200 - sub vassal: c_nadabha - Given to 1000633 via AddCharacterForTitle
+200 - vassal: c_nadabha - Holder 1000633 - Primary title: c_nadabha has lost the title: c_nadabha
+200 - sub vassal: c_nadabha - Holder 1000633 - Primary title: c_nadabha has lost the title: c_nadabha
+200 - vassal: c_nadabha - Title given to 1000633
+200 - sub vassal: c_nadabha - Title given to 1000633
+200 - vassal: c_banati - Holder 1000629 - Primary title: c_banati has lost the title: c_banati
+200 - sub vassal: c_banati - Holder 1000629 - Primary title: c_banati has lost the title: c_banati
+200 - vassal: c_banati - Title given to 1000629 - Primary title: d_kescund
+200 - sub vassal: c_banati - Title given to 1000629 - Primary title: d_kescund
+200 - Holder (1000629) has gained c_banati
+200 - vassal: c_satabha - Holder 1000629 - Primary title: c_satabha has lost the title: c_satabha
+200 - sub vassal: c_satabha - Holder 1000629 - Primary title: c_satabha has lost the title: c_satabha
+200 - vassal: c_satabha - Title given to 1000629 - Primary title: d_kescund
+200 - sub vassal: c_satabha - Title given to 1000629 - Primary title: d_kescund
+200 - Holder (1000629) has gained c_satabha
+212 - Holder (1000629) has gained d_laress
+212 - Holder (1000629) has gained c_waytougu
+237 - Holder 1002649 - Primary title: d_kescund has lost the title: d_kescund
+237 - Title given to 1002649
+237 - vassal: c_banati - Holder 1002649 - Primary title: c_banati has lost the title: c_banati
+237 - vassal: c_banati - Title given to 1002649 - Primary title: d_kescund
+237 - Holder (1002649) has gained c_banati
+237 - vassal: c_satabha - Holder 1002649 - Primary title: c_satabha has lost the title: c_satabha
+237 - vassal: c_satabha - Title given to 1002649 - Primary title: d_kescund
+237 - Holder (1002649) has gained c_satabha
+237 - Holder (1002649) has gained d_layting
+237 - Holder (1002649) has gained c_anugel
+237 - Holder (1002649) has gained c_rahile
+237 - Holder (1002649) has gained c_raygg
+248 - Gained vassal: c_anugel
+248 - Gained vassal: c_rahile
+248 - Gained vassal: c_raygg
+248 - Holder 1005654 - Primary title: d_kescund has lost the title: d_kescund
+248 - Title given to 1005654 - Primary title: d_layting
+248 - vassal: c_raygg - Holder 1005654 - Primary title: c_raygg has lost the title: c_raygg
+248 - vassal: c_raygg - Title given to 1005654 - Primary title: d_layting
+248 - vassal: c_rahile - Holder 1005654 - Primary title: c_rahile has lost the title: c_rahile
+248 - vassal: c_rahile - Title given to 1005654 - Primary title: d_layting
+248 - vassal: c_anugel - Holder 1005654 - Primary title: c_anugel has lost the title: c_anugel
+248 - vassal: c_anugel - Title given to 1005654 - Primary title: d_layting
+248 - vassal: c_satabha - Holder 1005654 - Primary title: c_satabha has lost the title: c_satabha
+248 - vassal: c_satabha - Title given to 1005654 - Primary title: d_layting
+248 - vassal: c_banati - Holder 1005654 - Primary title: c_banati has lost the title: c_banati
+248 - vassal: c_banati - Title given to 1005654 - Primary title: d_layting
+250 - Holder (1005654) has gained d_sacing
+250 - Holder (1005654) has gained c_dahabha
+250 - Holder (1005654) has gained c_kolamba
+250 - Holder (1005654) has gained c_rurict
+251 - vassal: c_raygg - Title given to 1006131
+251 - vassal: c_banati - Title given to 1006132
+251 - vassal: c_anugel - Title given to 1006133
+265 - Title given to 1004590 - Primary title: k_kanaud
+265 - vassal: c_banati - Holder 1004590 - Primary title: c_banati has lost the title: c_banati
+265 - vassal: c_banati - Title given to 1004590 - Primary title: k_kanaud
+265 - vassal: c_satabha - Setting to vassal of d_sacing in Validate Realm
+265 - Lost vassal: c_satabha
+265 - vassal: c_rahile - Setting to vassal of d_sacing in Validate Realm
+265 - Lost vassal: c_rahile
+265 - vassal: c_raygg - Holder 1004590 - Primary title: c_raygg has lost the title: c_raygg
+265 - vassal: c_raygg - Title given to 1004590 - Primary title: k

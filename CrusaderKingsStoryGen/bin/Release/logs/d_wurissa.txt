@@ -1,0 +1,1328 @@
+200 - Title given to 1000912
+200 - vassal: c_tarege - Holder 1000912 - Primary title: c_tarege has lost the title: c_tarege
+200 - sub vassal: c_tarege - Holder 1000912 - Primary title: c_tarege has lost the title: c_tarege
+200 - vassal: c_tarege - Title given to 1000912 - Primary title: d_wurissa
+200 - sub vassal: c_tarege - Title given to 1000912 - Primary title: d_wurissa
+200 - Holder (1000912) has gained c_tarege
+200 - vassal: c_tyiande - Holder 1000912 - Primary title: c_tyiande has lost the title: c_tyiande
+200 - sub vassal: c_tyiande - Holder 1000912 - Primary title: c_tyiande has lost the title: c_tyiande
+200 - vassal: c_tyiande - Title given to 1000912 - Primary title: d_wurissa
+200 - sub vassal: c_tyiande - Title given to 1000912 - Primary title: d_wurissa
+200 - Holder (1000912) has gained c_tyiande
+200 - vassal: c_syod - Holder 1000912 - Primary title: c_syod has lost the title: c_syod
+200 - sub vassal: c_syod - Holder 1000912 - Primary title: c_syod has lost the title: c_syod
+200 - vassal: c_syod - Title given to 1000912 - Primary title: d_wurissa
+200 - sub vassal: c_syod - Title given to 1000912 - Primary title: d_wurissa
+200 - Holder (1000912) has gained c_syod
+200 - Holder 1001567 - Primary title: d_wurissa has lost the title: c_syod
+200 - vassal: c_syod - Title given to 1001567 - Primary title: k_nugona
+200 - vassal: c_syod - Setting to vassal of k_nugona in Validate Realm
+200 - Lost vassal: c_syod
+209 - Holder 1000870 - Primary title: d_wurissa has lost the title: d_wurissa
+209 - Title given to 1000870 - Primary title: d_dutisey
+209 - vassal: c_tyiande - Holder 1000870 - Primary title: c_tyiande has lost the title: c_tyiande
+209 - vassal: c_tyiande - Title given to 1000870 - Primary title: d_dutisey
+209 - vassal: c_tarege - Holder 1000870 - Primary title: c_tarege has lost the title: c_tarege
+209 - vassal: c_tarege - Title given to 1000870 - Primary title: d_dutisey
+210 - Holder (1000870) has gained d_evoo
+211 - vassal: c_tarege - Title given to 1003354
+234 - Holder 1003094 - Primary title: d_wurissa has lost the title: d_wurissa
+234 - Title given to 1003094
+234 - vassal: c_tyiande - Setting to vassal of d_evoo in Validate Realm
+234 - Lost vassal: c_tyiande
+234 - Holder (1003094) has gained d_evoo
+234 - Holder (1003094) has gained c_dagily
+234 - Holder (1003094) has gained c_tanimir
+234 - Holder (1003094) has gained c_ranonza
+234 - Holder (1003094) has gained c_tyiande
+234 - Holder (1003094) has gained c_qumena
+235 - vassal: c_tarege - Holder 1003094 - Primary title: c_tarege has lost the title: c_tarege
+235 - vassal: c_tarege - Title given to 1003094 - Primary title: d_wurissa
+235 - Holder (1003094) has gained c_tarege
+235 - Holder 1002515 - Primary title: d_wurissa has lost the title: c_dagily
+254 - Holder 1006906 - Primary title: d_wurissa has lost the title: d_wurissa
+254 - Title given to 1006906
+254 - vassal: c_tarege - Setting to vassal of d_evoo in Validate Realm
+254 - Lost vassal: c_tarege
+254 - Holder (1006906) has gained d_evoo
+254 - Holder (1006906) has gained c_tarege
+254 - Holder (1006906) has gained c_qumena
+254 - Holder (1006906) has gained c_tyiande
+254 - Holder (1006906) has gained c_ranonza
+254 - Holder (1006906) has gained c_tanimir
+255 - Destroyed due to flagged problem
+255 - Made independent
+255 - Title destroyed
+262 - Given to 1006906 in TestCreateEmpire
+262 - Title given to 1006906 - Primary title: d_evoo
+262 - Made independent for title creation d_wurissa for d_evoo
+262 - Made independent
+262 - Gained vassal: c_tanimir
+262 - Gained vassal: c_ranonza
+262 - Gained vassal: c_tyiande
+262 - Gained vassal: c_qumena
+262 - Gained vassal: c_tarege
+263 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+263 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+263 - Lost vassal: c_qumena
+263 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+263 - Gained vassal: c_qumena
+263 - Gained vassal: c_qumena
+263 - vassal: c_qumena - Given to neighbour holder of k_tazina
+263 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+264 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+264 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+264 - Lost vassal: c_qumena
+264 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+264 - Gained vassal: c_qumena
+264 - Gained vassal: c_qumena
+264 - vassal: c_qumena - Given to neighbour holder of k_tazina
+264 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+265 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+265 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+265 - Lost vassal: c_qumena
+265 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+265 - Gained vassal: c_qumena
+265 - Gained vassal: c_qumena
+265 - vassal: c_qumena - Given to neighbour holder of k_tazina
+265 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+266 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+266 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+266 - Lost vassal: c_qumena
+266 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+266 - Gained vassal: c_qumena
+266 - Gained vassal: c_qumena
+266 - vassal: c_qumena - Given to neighbour holder of k_tazina
+266 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+267 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+267 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+267 - Lost vassal: c_qumena
+267 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+267 - Gained vassal: c_qumena
+267 - Gained vassal: c_qumena
+267 - vassal: c_qumena - Given to neighbour holder of k_tazina
+267 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+268 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+268 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+268 - Lost vassal: c_qumena
+268 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+268 - Gained vassal: c_qumena
+268 - Gained vassal: c_qumena
+268 - vassal: c_qumena - Given to neighbour holder of k_tazina
+268 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+269 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+269 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+269 - Lost vassal: c_qumena
+269 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+269 - Gained vassal: c_qumena
+269 - Gained vassal: c_qumena
+269 - vassal: c_qumena - Given to neighbour holder of k_tazina
+269 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+270 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+270 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+270 - Lost vassal: c_qumena
+270 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+270 - Gained vassal: c_qumena
+270 - Gained vassal: c_qumena
+270 - vassal: c_qumena - Given to neighbour holder of k_tazina
+270 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+271 - Gained vassal: c_qamond
+271 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+271 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+271 - Lost vassal: c_qumena
+271 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+271 - Gained vassal: c_qumena
+271 - Gained vassal: c_qumena
+271 - vassal: c_qumena - Given to neighbour holder of k_tazina
+271 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+271 - vassal: c_qamond - Made vassal of neighbour (k_tazina) due to being a seperate island
+271 - sub vassal: c_qamond - Made vassal of neighbour (k_tazina) due to being a seperate island
+271 - Lost vassal: c_qamond
+272 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+272 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+272 - Lost vassal: c_qumena
+272 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+272 - Gained vassal: c_qumena
+272 - Gained vassal: c_qumena
+272 - vassal: c_qumena - Given to neighbour holder of k_tazina
+272 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+273 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+273 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+273 - Lost vassal: c_qumena
+273 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+273 - Gained vassal: c_qumena
+273 - Gained vassal: c_qumena
+273 - vassal: c_qumena - Given to neighbour holder of k_tazina
+273 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+274 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+274 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+274 - Lost vassal: c_qumena
+274 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+274 - Gained vassal: c_qumena
+274 - Gained vassal: c_qumena
+274 - vassal: c_qumena - Given to neighbour holder of k_tazina
+274 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+275 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+275 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+275 - Lost vassal: c_qumena
+275 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+275 - Gained vassal: c_qumena
+275 - Gained vassal: c_qumena
+275 - vassal: c_qumena - Given to neighbour holder of k_tazina
+275 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+276 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+276 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+276 - Lost vassal: c_qumena
+276 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+276 - Gained vassal: c_qumena
+276 - Gained vassal: c_qumena
+276 - vassal: c_qumena - Given to neighbour holder of k_tazina
+276 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+277 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+277 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+277 - Lost vassal: c_qumena
+277 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+277 - Gained vassal: c_qumena
+277 - Gained vassal: c_qumena
+277 - vassal: c_qumena - Given to neighbour holder of k_tazina
+277 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+278 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+278 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+278 - Lost vassal: c_qumena
+278 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+278 - Gained vassal: c_qumena
+278 - Gained vassal: c_qumena
+278 - vassal: c_qumena - Given to neighbour holder of k_tazina
+278 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+279 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+279 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+279 - Lost vassal: c_qumena
+279 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+279 - Gained vassal: c_qumena
+279 - Gained vassal: c_qumena
+279 - vassal: c_qumena - Given to neighbour holder of k_tazina
+279 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+279 - Holder 1007325 - Primary title: d_wurissa has lost the title: c_tanimir
+279 - vassal: c_tanimir - Title given to 1007325
+279 - sub vassal: c_tanimir - Title given to 1007325
+279 - Holder 1007325 - Primary title: d_wurissa has lost the title: c_ranonza
+279 - vassal: c_ranonza - Title given to 1007325 - Primary title: c_tanimir
+279 - sub vassal: c_ranonza - Title given to 1007325 - Primary title: c_tanimir
+279 - vassal: c_tanimir - Holder (1007325) has gained c_ranonza
+279 - sub vassal: c_tanimir - Holder (1007325) has gained c_ranonza
+279 - Holder 1007325 - Primary title: d_wurissa has lost the title: c_tyiande
+279 - vassal: c_tyiande - Title given to 1007325 - Primary title: c_tanimir
+279 - sub vassal: c_tyiande - Title given to 1007325 - Primary title: c_tanimir
+279 - vassal: c_tanimir - Holder (1007325) has gained c_tyiande
+279 - sub vassal: c_tanimir - Holder (1007325) has gained c_tyiande
+279 - Holder 1007325 - Primary title: d_wurissa has lost the title: c_qumena
+279 - vassal: c_qumena - Title given to 1007325 - Primary title: c_tanimir
+279 - sub vassal: c_qumena - Title given to 1007325 - Primary title: c_tanimir
+279 - vassal: c_tanimir - Holder (1007325) has gained c_qumena
+279 - sub vassal: c_tanimir - Holder (1007325) has gained c_qumena
+279 - Holder 1007325 - Primary title: d_wurissa has lost the title: c_tarege
+279 - vassal: c_tarege - Title given to 1007325 - Primary title: c_tanimir
+279 - sub vassal: c_tarege - Title given to 1007325 - Primary title: c_tanimir
+279 - vassal: c_tanimir - Holder (1007325) has gained c_tarege
+279 - sub vassal: c_tanimir - Holder (1007325) has gained c_tarege
+279 - Holder 1007325 - Primary title: d_wurissa has lost the title: d_wurissa
+279 - Title given to 1007325 - Primary title: c_tanimir
+279 - vassal: c_tanimir - Holder (1007325) has gained d_wurissa
+279 - sub vassal: c_tanimir - Holder (1007325) has gained d_wurissa
+280 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+280 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+280 - Lost vassal: c_qumena
+280 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+280 - Gained vassal: c_qumena
+280 - Gained vassal: c_qumena
+280 - vassal: c_qumena - Given to neighbour holder of k_tazina
+280 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+281 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+281 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+281 - Lost vassal: c_qumena
+281 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+281 - Gained vassal: c_qumena
+281 - Gained vassal: c_qumena
+281 - vassal: c_qumena - Given to neighbour holder of k_tazina
+281 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+282 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+282 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+282 - Lost vassal: c_qumena
+282 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+282 - Gained vassal: c_qumena
+282 - Gained vassal: c_qumena
+282 - vassal: c_qumena - Given to neighbour holder of k_tazina
+282 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+283 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+283 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+283 - Lost vassal: c_qumena
+283 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+283 - Gained vassal: c_qumena
+283 - Gained vassal: c_qumena
+283 - vassal: c_qumena - Given to neighbour holder of k_tazina
+283 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+284 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+284 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+284 - Lost vassal: c_qumena
+284 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+284 - Gained vassal: c_qumena
+284 - Gained vassal: c_qumena
+284 - vassal: c_qumena - Given to neighbour holder of k_tazina
+284 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+284 - Holder 1009100 - Primary title: d_wurissa has lost the title: d_wurissa
+284 - Title given to 1009100
+284 - vassal: c_tarege - Holder 1009100 - Primary title: c_tarege has lost the title: c_tarege
+284 - sub vassal: c_tarege - Holder 1009100 - Primary title: c_tarege has lost the title: c_tarege
+284 - vassal: c_tarege - Title given to 1009100 - Primary title: d_wurissa
+284 - sub vassal: c_tarege - Title given to 1009100 - Primary title: d_wurissa
+284 - Holder (1009100) has gained c_tarege
+284 - vassal: c_qumena - Holder 1009100 - Primary title: c_qumena has lost the title: c_qumena
+284 - sub vassal: c_qumena - Holder 1009100 - Primary title: c_qumena has lost the title: c_qumena
+284 - vassal: c_qumena - Title given to 1009100 - Primary title: d_wurissa
+284 - sub vassal: c_qumena - Title given to 1009100 - Primary title: d_wurissa
+284 - Holder (1009100) has gained c_qumena
+284 - vassal: c_tyiande - Holder 1009100 - Primary title: c_tyiande has lost the title: c_tyiande
+284 - sub vassal: c_tyiande - Holder 1009100 - Primary title: c_tyiande has lost the title: c_tyiande
+284 - vassal: c_tyiande - Title given to 1009100 - Primary title: d_wurissa
+284 - sub vassal: c_tyiande - Title given to 1009100 - Primary title: d_wurissa
+284 - Holder (1009100) has gained c_tyiande
+284 - vassal: c_ranonza - Holder 1009100 - Primary title: c_ranonza has lost the title: c_ranonza
+284 - sub vassal: c_ranonza - Holder 1009100 - Primary title: c_ranonza has lost the title: c_ranonza
+284 - vassal: c_ranonza - Title given to 1009100 - Primary title: d_wurissa
+284 - sub vassal: c_ranonza - Title given to 1009100 - Primary title: d_wurissa
+284 - Holder (1009100) has gained c_ranonza
+284 - vassal: c_tanimir - Holder 1009100 - Primary title: c_tanimir has lost the title: c_tanimir
+284 - sub vassal: c_tanimir - Holder 1009100 - Primary title: c_tanimir has lost the title: c_tanimir
+284 - vassal: c_tanimir - Title given to 1009100 - Primary title: d_wurissa
+284 - sub vassal: c_tanimir - Title given to 1009100 - Primary title: d_wurissa
+284 - Holder (1009100) has gained c_tanimir
+285 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+285 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+285 - Lost vassal: c_qumena
+285 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+285 - Gained vassal: c_qumena
+285 - Gained vassal: c_qumena
+285 - vassal: c_qumena - Given to neighbour holder of k_tazina
+285 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+286 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+286 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+286 - Lost vassal: c_qumena
+286 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+286 - Gained vassal: c_qumena
+286 - Gained vassal: c_qumena
+286 - vassal: c_qumena - Given to neighbour holder of k_tazina
+286 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+287 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+287 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+287 - Lost vassal: c_qumena
+287 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+287 - Gained vassal: c_qumena
+287 - Gained vassal: c_qumena
+287 - vassal: c_qumena - Given to neighbour holder of k_tazina
+287 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+288 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+288 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+288 - Lost vassal: c_qumena
+288 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+288 - Gained vassal: c_qumena
+288 - Gained vassal: c_qumena
+288 - vassal: c_qumena - Given to neighbour holder of k_tazina
+288 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+289 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+289 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+289 - Lost vassal: c_qumena
+289 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+289 - Gained vassal: c_qumena
+289 - Gained vassal: c_qumena
+289 - vassal: c_qumena - Given to neighbour holder of k_tazina
+289 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+290 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+290 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+290 - Lost vassal: c_qumena
+290 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+290 - Gained vassal: c_qumena
+290 - Gained vassal: c_qumena
+290 - vassal: c_qumena - Given to neighbour holder of k_tazina
+290 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+291 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+291 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+291 - Lost vassal: c_qumena
+291 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+291 - Gained vassal: c_qumena
+291 - Gained vassal: c_qumena
+291 - vassal: c_qumena - Given to neighbour holder of k_tazina
+291 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+292 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+292 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+292 - Lost vassal: c_qumena
+292 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+292 - Gained vassal: c_qumena
+292 - Gained vassal: c_qumena
+292 - vassal: c_qumena - Given to neighbour holder of k_tazina
+292 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+293 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+293 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+293 - Lost vassal: c_qumena
+293 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+293 - Gained vassal: c_qumena
+293 - Gained vassal: c_qumena
+293 - vassal: c_qumena - Given to neighbour holder of k_tazina
+293 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+294 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+294 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+294 - Lost vassal: c_qumena
+294 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+294 - Gained vassal: c_qumena
+294 - Gained vassal: c_qumena
+294 - vassal: c_qumena - Given to neighbour holder of k_tazina
+294 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+295 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+295 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+295 - Lost vassal: c_qumena
+295 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+295 - Gained vassal: c_qumena
+295 - Gained vassal: c_qumena
+295 - vassal: c_qumena - Given to neighbour holder of k_tazina
+295 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+296 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+296 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+296 - Lost vassal: c_qumena
+296 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+296 - Gained vassal: c_qumena
+296 - Gained vassal: c_qumena
+296 - vassal: c_qumena - Given to neighbour holder of k_tazina
+296 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+297 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+297 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+297 - Lost vassal: c_qumena
+297 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+297 - Gained vassal: c_qumena
+297 - Gained vassal: c_qumena
+297 - vassal: c_qumena - Given to neighbour holder of k_tazina
+297 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+298 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+298 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+298 - Lost vassal: c_qumena
+298 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+298 - Gained vassal: c_qumena
+298 - Gained vassal: c_qumena
+298 - vassal: c_qumena - Given to neighbour holder of k_tazina
+298 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+299 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+299 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+299 - Lost vassal: c_qumena
+299 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+299 - Gained vassal: c_qumena
+299 - Gained vassal: c_qumena
+299 - vassal: c_qumena - Given to neighbour holder of k_tazina
+299 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+300 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+300 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+300 - Lost vassal: c_qumena
+300 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+300 - Gained vassal: c_qumena
+300 - Gained vassal: c_qumena
+300 - vassal: c_qumena - Given to neighbour holder of k_tazina
+300 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+301 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+301 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+301 - Lost vassal: c_qumena
+301 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+301 - Gained vassal: c_qumena
+301 - Gained vassal: c_qumena
+301 - vassal: c_qumena - Given to neighbour holder of k_tazina
+301 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+302 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+302 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+302 - Lost vassal: c_qumena
+302 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+302 - Gained vassal: c_qumena
+302 - Gained vassal: c_qumena
+302 - vassal: c_qumena - Given to neighbour holder of k_tazina
+302 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+303 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+303 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+303 - Lost vassal: c_qumena
+303 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+303 - Gained vassal: c_qumena
+303 - Gained vassal: c_qumena
+303 - vassal: c_qumena - Given to neighbour holder of k_tazina
+303 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+304 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+304 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+304 - Lost vassal: c_qumena
+304 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+304 - Gained vassal: c_qumena
+304 - Gained vassal: c_qumena
+304 - vassal: c_qumena - Given to neighbour holder of k_tazina
+304 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+305 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+305 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+305 - Lost vassal: c_qumena
+305 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+305 - Gained vassal: c_qumena
+305 - Gained vassal: c_qumena
+305 - vassal: c_qumena - Given to neighbour holder of k_tazina
+305 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+306 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+306 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+306 - Lost vassal: c_qumena
+306 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+306 - Gained vassal: c_qumena
+306 - Gained vassal: c_qumena
+306 - vassal: c_qumena - Given to neighbour holder of k_tazina
+306 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+307 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+307 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+307 - Lost vassal: c_qumena
+307 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+307 - Gained vassal: c_qumena
+307 - Gained vassal: c_qumena
+307 - vassal: c_qumena - Given to neighbour holder of k_tazina
+307 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+308 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+308 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+308 - Lost vassal: c_qumena
+308 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+308 - Gained vassal: c_qumena
+308 - Gained vassal: c_qumena
+308 - vassal: c_qumena - Given to neighbour holder of k_tazina
+308 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+309 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+309 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+309 - Lost vassal: c_qumena
+309 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+309 - Gained vassal: c_qumena
+309 - Gained vassal: c_qumena
+309 - vassal: c_qumena - Given to neighbour holder of k_tazina
+309 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+310 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+310 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+310 - Lost vassal: c_qumena
+310 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+310 - Gained vassal: c_qumena
+310 - Gained vassal: c_qumena
+310 - vassal: c_qumena - Given to neighbour holder of k_tazina
+310 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+311 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+311 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+311 - Lost vassal: c_qumena
+311 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+311 - Gained vassal: c_qumena
+311 - Gained vassal: c_qumena
+311 - vassal: c_qumena - Given to neighbour holder of k_tazina
+311 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+312 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+312 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+312 - Lost vassal: c_qumena
+312 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+312 - Gained vassal: c_qumena
+312 - Gained vassal: c_qumena
+312 - vassal: c_qumena - Given to neighbour holder of k_tazina
+312 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+313 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+313 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+313 - Lost vassal: c_qumena
+313 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+313 - Gained vassal: c_qumena
+313 - Gained vassal: c_qumena
+313 - vassal: c_qumena - Given to neighbour holder of k_tazina
+313 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+314 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+314 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+314 - Lost vassal: c_qumena
+314 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+314 - Gained vassal: c_qumena
+314 - Gained vassal: c_qumena
+314 - vassal: c_qumena - Given to neighbour holder of k_tazina
+314 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+314 - Holder 1010503 - Primary title: d_wurissa has lost the title: d_wurissa
+314 - Title given to 1010503
+314 - vassal: c_tanimir - Holder 1010503 - Primary title: c_tanimir has lost the title: c_tanimir
+314 - sub vassal: c_tanimir - Holder 1010503 - Primary title: c_tanimir has lost the title: c_tanimir
+314 - vassal: c_tanimir - Title given to 1010503 - Primary title: d_wurissa
+314 - sub vassal: c_tanimir - Title given to 1010503 - Primary title: d_wurissa
+314 - Holder (1010503) has gained c_tanimir
+314 - vassal: c_ranonza - Holder 1010503 - Primary title: c_ranonza has lost the title: c_ranonza
+314 - sub vassal: c_ranonza - Holder 1010503 - Primary title: c_ranonza has lost the title: c_ranonza
+314 - vassal: c_ranonza - Title given to 1010503 - Primary title: d_wurissa
+314 - sub vassal: c_ranonza - Title given to 1010503 - Primary title: d_wurissa
+314 - Holder (1010503) has gained c_ranonza
+314 - vassal: c_tyiande - Holder 1010503 - Primary title: c_tyiande has lost the title: c_tyiande
+314 - sub vassal: c_tyiande - Holder 1010503 - Primary title: c_tyiande has lost the title: c_tyiande
+314 - vassal: c_tyiande - Title given to 1010503 - Primary title: d_wurissa
+314 - sub vassal: c_tyiande - Title given to 1010503 - Primary title: d_wurissa
+314 - Holder (1010503) has gained c_tyiande
+314 - vassal: c_qumena - Holder 1010503 - Primary title: c_qumena has lost the title: c_qumena
+314 - sub vassal: c_qumena - Holder 1010503 - Primary title: c_qumena has lost the title: c_qumena
+314 - vassal: c_qumena - Title given to 1010503 - Primary title: d_wurissa
+314 - sub vassal: c_qumena - Title given to 1010503 - Primary title: d_wurissa
+314 - Holder (1010503) has gained c_qumena
+314 - vassal: c_tarege - Holder 1010503 - Primary title: c_tarege has lost the title: c_tarege
+314 - sub vassal: c_tarege - Holder 1010503 - Primary title: c_tarege has lost the title: c_tarege
+314 - vassal: c_tarege - Title given to 1010503 - Primary title: d_wurissa
+314 - sub vassal: c_tarege - Title given to 1010503 - Primary title: d_wurissa
+314 - Holder (1010503) has gained c_tarege
+315 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+315 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+315 - Lost vassal: c_qumena
+315 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+315 - Gained vassal: c_qumena
+315 - Gained vassal: c_qumena
+315 - vassal: c_qumena - Given to neighbour holder of k_tazina
+315 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+316 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+316 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+316 - Lost vassal: c_qumena
+316 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+316 - Gained vassal: c_qumena
+316 - Gained vassal: c_qumena
+316 - vassal: c_qumena - Given to neighbour holder of k_tazina
+316 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+317 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+317 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+317 - Lost vassal: c_qumena
+317 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+317 - Gained vassal: c_qumena
+317 - Gained vassal: c_qumena
+317 - vassal: c_qumena - Given to neighbour holder of k_tazina
+317 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+318 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+318 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+318 - Lost vassal: c_qumena
+318 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+318 - Gained vassal: c_qumena
+318 - Gained vassal: c_qumena
+318 - vassal: c_qumena - Given to neighbour holder of k_tazina
+318 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+319 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+319 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+319 - Lost vassal: c_qumena
+319 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+319 - Gained vassal: c_qumena
+319 - Gained vassal: c_qumena
+319 - vassal: c_qumena - Given to neighbour holder of k_tazina
+319 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+320 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+320 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+320 - Lost vassal: c_qumena
+320 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+320 - Gained vassal: c_qumena
+320 - Gained vassal: c_qumena
+320 - vassal: c_qumena - Given to neighbour holder of k_tazina
+320 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+321 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+321 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+321 - Lost vassal: c_qumena
+321 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+321 - Gained vassal: c_qumena
+321 - Gained vassal: c_qumena
+321 - vassal: c_qumena - Given to neighbour holder of k_tazina
+321 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+322 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+322 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+322 - Lost vassal: c_qumena
+322 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+322 - Gained vassal: c_qumena
+322 - Gained vassal: c_qumena
+322 - vassal: c_qumena - Given to neighbour holder of k_tazina
+322 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+323 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+323 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+323 - Lost vassal: c_qumena
+323 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+323 - Gained vassal: c_qumena
+323 - Gained vassal: c_qumena
+323 - vassal: c_qumena - Given to neighbour holder of k_tazina
+323 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+324 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+324 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+324 - Lost vassal: c_qumena
+324 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+324 - Gained vassal: c_qumena
+324 - Gained vassal: c_qumena
+324 - vassal: c_qumena - Given to neighbour holder of k_tazina
+324 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+325 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+325 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+325 - Lost vassal: c_qumena
+325 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+325 - Gained vassal: c_qumena
+325 - Gained vassal: c_qumena
+325 - vassal: c_qumena - Given to neighbour holder of k_tazina
+325 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+326 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+326 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+326 - Lost vassal: c_qumena
+326 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+326 - Gained vassal: c_qumena
+326 - Gained vassal: c_qumena
+326 - vassal: c_qumena - Given to neighbour holder of k_tazina
+326 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+327 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+327 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+327 - Lost vassal: c_qumena
+327 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+327 - Gained vassal: c_qumena
+327 - Gained vassal: c_qumena
+327 - vassal: c_qumena - Given to neighbour holder of k_tazina
+327 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+328 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+328 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+328 - Lost vassal: c_qumena
+328 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+328 - Gained vassal: c_qumena
+328 - Gained vassal: c_qumena
+328 - vassal: c_qumena - Given to neighbour holder of k_tazina
+328 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+329 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+329 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+329 - Lost vassal: c_qumena
+329 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+329 - Gained vassal: c_qumena
+329 - Gained vassal: c_qumena
+329 - vassal: c_qumena - Given to neighbour holder of k_tazina
+329 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+330 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+330 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+330 - Lost vassal: c_qumena
+330 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+330 - Gained vassal: c_qumena
+330 - Gained vassal: c_qumena
+330 - vassal: c_qumena - Given to neighbour holder of k_tazina
+330 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+331 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+331 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+331 - Lost vassal: c_qumena
+331 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+331 - Gained vassal: c_qumena
+331 - Gained vassal: c_qumena
+331 - vassal: c_qumena - Given to neighbour holder of k_tazina
+331 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+332 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+332 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+332 - Lost vassal: c_qumena
+332 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+332 - Gained vassal: c_qumena
+332 - Gained vassal: c_qumena
+332 - vassal: c_qumena - Given to neighbour holder of k_tazina
+332 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+333 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+333 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+333 - Lost vassal: c_qumena
+333 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+333 - Gained vassal: c_qumena
+333 - Gained vassal: c_qumena
+333 - vassal: c_qumena - Given to neighbour holder of k_tazina
+333 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+334 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+334 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+334 - Lost vassal: c_qumena
+334 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+334 - Gained vassal: c_qumena
+334 - Gained vassal: c_qumena
+334 - vassal: c_qumena - Given to neighbour holder of k_tazina
+334 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+335 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+335 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+335 - Lost vassal: c_qumena
+335 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+335 - Gained vassal: c_qumena
+335 - Gained vassal: c_qumena
+335 - vassal: c_qumena - Given to neighbour holder of k_tazina
+335 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+336 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+336 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+336 - Lost vassal: c_qumena
+336 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+336 - Gained vassal: c_qumena
+336 - Gained vassal: c_qumena
+336 - vassal: c_qumena - Given to neighbour holder of k_tazina
+336 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+337 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+337 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+337 - Lost vassal: c_qumena
+337 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+337 - Gained vassal: c_qumena
+337 - Gained vassal: c_qumena
+337 - vassal: c_qumena - Given to neighbour holder of k_tazina
+337 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+338 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+338 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+338 - Lost vassal: c_qumena
+338 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+338 - Gained vassal: c_qumena
+338 - Gained vassal: c_qumena
+338 - vassal: c_qumena - Given to neighbour holder of k_tazina
+338 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+339 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+339 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+339 - Lost vassal: c_qumena
+339 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+339 - Gained vassal: c_qumena
+339 - Gained vassal: c_qumena
+339 - vassal: c_qumena - Given to neighbour holder of k_tazina
+339 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+340 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+340 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+340 - Lost vassal: c_qumena
+340 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+340 - Gained vassal: c_qumena
+340 - Gained vassal: c_qumena
+340 - vassal: c_qumena - Given to neighbour holder of k_tazina
+340 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+341 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+341 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+341 - Lost vassal: c_qumena
+341 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+341 - Gained vassal: c_qumena
+341 - Gained vassal: c_qumena
+341 - vassal: c_qumena - Given to neighbour holder of k_tazina
+341 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+342 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+342 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+342 - Lost vassal: c_qumena
+342 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+342 - Gained vassal: c_qumena
+342 - Gained vassal: c_qumena
+342 - vassal: c_qumena - Given to neighbour holder of k_tazina
+342 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+343 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+343 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+343 - Lost vassal: c_qumena
+343 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+343 - Gained vassal: c_qumena
+343 - Gained vassal: c_qumena
+343 - vassal: c_qumena - Given to neighbour holder of k_tazina
+343 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+343 - Holder 1012379 - Primary title: d_wurissa has lost the title: d_wurissa
+343 - Title given to 1012379
+343 - vassal: c_tanimir - Holder 1012379 - Primary title: c_tanimir has lost the title: c_tanimir
+343 - sub vassal: c_tanimir - Holder 1012379 - Primary title: c_tanimir has lost the title: c_tanimir
+343 - vassal: c_tanimir - Title given to 1012379 - Primary title: d_wurissa
+343 - sub vassal: c_tanimir - Title given to 1012379 - Primary title: d_wurissa
+343 - Holder (1012379) has gained c_tanimir
+343 - vassal: c_ranonza - Holder 1012379 - Primary title: c_ranonza has lost the title: c_ranonza
+343 - sub vassal: c_ranonza - Holder 1012379 - Primary title: c_ranonza has lost the title: c_ranonza
+343 - vassal: c_ranonza - Title given to 1012379 - Primary title: d_wurissa
+343 - sub vassal: c_ranonza - Title given to 1012379 - Primary title: d_wurissa
+343 - Holder (1012379) has gained c_ranonza
+343 - vassal: c_tyiande - Holder 1012379 - Primary title: c_tyiande has lost the title: c_tyiande
+343 - sub vassal: c_tyiande - Holder 1012379 - Primary title: c_tyiande has lost the title: c_tyiande
+343 - vassal: c_tyiande - Title given to 1012379 - Primary title: d_wurissa
+343 - sub vassal: c_tyiande - Title given to 1012379 - Primary title: d_wurissa
+343 - Holder (1012379) has gained c_tyiande
+343 - vassal: c_qumena - Holder 1012379 - Primary title: c_qumena has lost the title: c_qumena
+343 - sub vassal: c_qumena - Holder 1012379 - Primary title: c_qumena has lost the title: c_qumena
+343 - vassal: c_qumena - Title given to 1012379 - Primary title: d_wurissa
+343 - sub vassal: c_qumena - Title given to 1012379 - Primary title: d_wurissa
+343 - Holder (1012379) has gained c_qumena
+343 - vassal: c_tarege - Holder 1012379 - Primary title: c_tarege has lost the title: c_tarege
+343 - sub vassal: c_tarege - Holder 1012379 - Primary title: c_tarege has lost the title: c_tarege
+343 - vassal: c_tarege - Title given to 1012379 - Primary title: d_wurissa
+343 - sub vassal: c_tarege - Title given to 1012379 - Primary title: d_wurissa
+343 - Holder (1012379) has gained c_tarege
+344 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+344 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+344 - Lost vassal: c_qumena
+344 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+344 - Gained vassal: c_qumena
+344 - Gained vassal: c_qumena
+344 - vassal: c_qumena - Given to neighbour holder of k_tazina
+344 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+345 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+345 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+345 - Lost vassal: c_qumena
+345 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+345 - Gained vassal: c_qumena
+345 - Gained vassal: c_qumena
+345 - vassal: c_qumena - Given to neighbour holder of k_tazina
+345 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+346 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+346 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+346 - Lost vassal: c_qumena
+346 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+346 - Gained vassal: c_qumena
+346 - Gained vassal: c_qumena
+346 - vassal: c_qumena - Given to neighbour holder of k_tazina
+346 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+347 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+347 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+347 - Lost vassal: c_qumena
+347 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+347 - Gained vassal: c_qumena
+347 - Gained vassal: c_qumena
+347 - vassal: c_qumena - Given to neighbour holder of k_tazina
+347 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+348 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+348 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+348 - Lost vassal: c_qumena
+348 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+348 - Gained vassal: c_qumena
+348 - Gained vassal: c_qumena
+348 - vassal: c_qumena - Given to neighbour holder of k_tazina
+348 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+349 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+349 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+349 - Lost vassal: c_qumena
+349 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+349 - Gained vassal: c_qumena
+349 - Gained vassal: c_qumena
+349 - vassal: c_qumena - Given to neighbour holder of k_tazina
+349 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+350 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+350 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+350 - Lost vassal: c_qumena
+350 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+350 - Gained vassal: c_qumena
+350 - Gained vassal: c_qumena
+350 - vassal: c_qumena - Given to neighbour holder of k_tazina
+350 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+351 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+351 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+351 - Lost vassal: c_qumena
+351 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+351 - Gained vassal: c_qumena
+351 - Gained vassal: c_qumena
+351 - vassal: c_qumena - Given to neighbour holder of k_tazina
+351 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+352 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+352 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+352 - Lost vassal: c_qumena
+352 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+352 - Gained vassal: c_qumena
+352 - Gained vassal: c_qumena
+352 - vassal: c_qumena - Given to neighbour holder of k_tazina
+352 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+353 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+353 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+353 - Lost vassal: c_qumena
+353 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+353 - Gained vassal: c_qumena
+353 - Gained vassal: c_qumena
+353 - vassal: c_qumena - Given to neighbour holder of k_tazina
+353 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+354 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+354 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+354 - Lost vassal: c_qumena
+354 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+354 - Gained vassal: c_qumena
+354 - Gained vassal: c_qumena
+354 - vassal: c_qumena - Given to neighbour holder of k_tazina
+354 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+355 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+355 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+355 - Lost vassal: c_qumena
+355 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+355 - Gained vassal: c_qumena
+355 - Gained vassal: c_qumena
+355 - vassal: c_qumena - Given to neighbour holder of k_tazina
+355 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+356 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+356 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+356 - Lost vassal: c_qumena
+356 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+356 - Gained vassal: c_qumena
+356 - Gained vassal: c_qumena
+356 - vassal: c_qumena - Given to neighbour holder of k_tazina
+356 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+357 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+357 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+357 - Lost vassal: c_qumena
+357 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+357 - Gained vassal: c_qumena
+357 - Gained vassal: c_qumena
+357 - vassal: c_qumena - Given to neighbour holder of k_tazina
+357 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+358 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+358 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+358 - Lost vassal: c_qumena
+358 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+358 - Gained vassal: c_qumena
+358 - Gained vassal: c_qumena
+358 - vassal: c_qumena - Given to neighbour holder of k_tazina
+358 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+359 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+359 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+359 - Lost vassal: c_qumena
+359 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+359 - Gained vassal: c_qumena
+359 - Gained vassal: c_qumena
+359 - vassal: c_qumena - Given to neighbour holder of k_tazina
+359 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+360 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+360 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+360 - Lost vassal: c_qumena
+360 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+360 - Gained vassal: c_qumena
+360 - Gained vassal: c_qumena
+360 - vassal: c_qumena - Given to neighbour holder of k_tazina
+360 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+361 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+361 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+361 - Lost vassal: c_qumena
+361 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+361 - Gained vassal: c_qumena
+361 - Gained vassal: c_qumena
+361 - vassal: c_qumena - Given to neighbour holder of k_tazina
+361 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+362 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+362 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+362 - Lost vassal: c_qumena
+362 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+362 - Gained vassal: c_qumena
+362 - Gained vassal: c_qumena
+362 - vassal: c_qumena - Given to neighbour holder of k_tazina
+362 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+363 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+363 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+363 - Lost vassal: c_qumena
+363 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+363 - Gained vassal: c_qumena
+363 - Gained vassal: c_qumena
+363 - vassal: c_qumena - Given to neighbour holder of k_tazina
+363 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+364 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+364 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+364 - Lost vassal: c_qumena
+364 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+364 - Gained vassal: c_qumena
+364 - Gained vassal: c_qumena
+364 - vassal: c_qumena - Given to neighbour holder of k_tazina
+364 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+365 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+365 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+365 - Lost vassal: c_qumena
+365 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+365 - Gained vassal: c_qumena
+365 - Gained vassal: c_qumena
+365 - vassal: c_qumena - Given to neighbour holder of k_tazina
+365 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+366 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+366 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+366 - Lost vassal: c_qumena
+366 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+366 - Gained vassal: c_qumena
+366 - Gained vassal: c_qumena
+366 - vassal: c_qumena - Given to neighbour holder of k_tazina
+366 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+367 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+367 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+367 - Lost vassal: c_qumena
+367 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+367 - Gained vassal: c_qumena
+367 - Gained vassal: c_qumena
+367 - vassal: c_qumena - Given to neighbour holder of k_tazina
+367 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+368 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+368 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+368 - Lost vassal: c_qumena
+368 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+368 - Gained vassal: c_qumena
+368 - Gained vassal: c_qumena
+368 - vassal: c_qumena - Given to neighbour holder of k_tazina
+368 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+369 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+369 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+369 - Lost vassal: c_qumena
+369 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+369 - Gained vassal: c_qumena
+369 - Gained vassal: c_qumena
+369 - vassal: c_qumena - Given to neighbour holder of k_tazina
+369 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+370 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+370 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+370 - Lost vassal: c_qumena
+370 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+370 - Gained vassal: c_qumena
+370 - Gained vassal: c_qumena
+370 - vassal: c_qumena - Given to neighbour holder of k_tazina
+370 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+371 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+371 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+371 - Lost vassal: c_qumena
+371 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+371 - Gained vassal: c_qumena
+371 - Gained vassal: c_qumena
+371 - vassal: c_qumena - Given to neighbour holder of k_tazina
+371 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+372 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+372 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+372 - Lost vassal: c_qumena
+372 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+372 - Gained vassal: c_qumena
+372 - Gained vassal: c_qumena
+372 - vassal: c_qumena - Given to neighbour holder of k_tazina
+372 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+372 - Holder 1016137 - Primary title: d_wurissa has lost the title: d_wurissa
+372 - Title given to 1016137
+372 - vassal: c_tarege - Holder 1016137 - Primary title: c_tarege has lost the title: c_tarege
+372 - sub vassal: c_tarege - Holder 1016137 - Primary title: c_tarege has lost the title: c_tarege
+372 - vassal: c_tarege - Title given to 1016137 - Primary title: d_wurissa
+372 - sub vassal: c_tarege - Title given to 1016137 - Primary title: d_wurissa
+372 - Holder (1016137) has gained c_tarege
+372 - vassal: c_qumena - Holder 1016137 - Primary title: c_qumena has lost the title: c_qumena
+372 - sub vassal: c_qumena - Holder 1016137 - Primary title: c_qumena has lost the title: c_qumena
+372 - vassal: c_qumena - Title given to 1016137 - Primary title: d_wurissa
+372 - sub vassal: c_qumena - Title given to 1016137 - Primary title: d_wurissa
+372 - Holder (1016137) has gained c_qumena
+372 - vassal: c_tyiande - Holder 1016137 - Primary title: c_tyiande has lost the title: c_tyiande
+372 - sub vassal: c_tyiande - Holder 1016137 - Primary title: c_tyiande has lost the title: c_tyiande
+372 - vassal: c_tyiande - Title given to 1016137 - Primary title: d_wurissa
+372 - sub vassal: c_tyiande - Title given to 1016137 - Primary title: d_wurissa
+372 - Holder (1016137) has gained c_tyiande
+372 - vassal: c_ranonza - Holder 1016137 - Primary title: c_ranonza has lost the title: c_ranonza
+372 - sub vassal: c_ranonza - Holder 1016137 - Primary title: c_ranonza has lost the title: c_ranonza
+372 - vassal: c_ranonza - Title given to 1016137 - Primary title: d_wurissa
+372 - sub vassal: c_ranonza - Title given to 1016137 - Primary title: d_wurissa
+372 - Holder (1016137) has gained c_ranonza
+372 - vassal: c_tanimir - Holder 1016137 - Primary title: c_tanimir has lost the title: c_tanimir
+372 - sub vassal: c_tanimir - Holder 1016137 - Primary title: c_tanimir has lost the title: c_tanimir
+372 - vassal: c_tanimir - Title given to 1016137 - Primary title: d_wurissa
+372 - sub vassal: c_tanimir - Title given to 1016137 - Primary title: d_wurissa
+372 - Holder (1016137) has gained c_tanimir
+373 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+373 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+373 - Lost vassal: c_qumena
+373 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+373 - Gained vassal: c_qumena
+373 - Gained vassal: c_qumena
+373 - vassal: c_qumena - Given to neighbour holder of k_tazina
+373 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+374 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+374 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+374 - Lost vassal: c_qumena
+374 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+374 - Gained vassal: c_qumena
+374 - Gained vassal: c_qumena
+374 - vassal: c_qumena - Given to neighbour holder of k_tazina
+374 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+375 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+375 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+375 - Lost vassal: c_qumena
+375 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+375 - Gained vassal: c_qumena
+375 - Gained vassal: c_qumena
+375 - vassal: c_qumena - Given to neighbour holder of k_tazina
+375 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+376 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+376 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+376 - Lost vassal: c_qumena
+376 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+376 - Gained vassal: c_qumena
+376 - Gained vassal: c_qumena
+376 - vassal: c_qumena - Given to neighbour holder of k_tazina
+376 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+377 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+377 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+377 - Lost vassal: c_qumena
+377 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+377 - Gained vassal: c_qumena
+377 - Gained vassal: c_qumena
+377 - vassal: c_qumena - Given to neighbour holder of k_tazina
+377 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+378 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+378 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+378 - Lost vassal: c_qumena
+378 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+378 - Gained vassal: c_qumena
+378 - Gained vassal: c_qumena
+378 - vassal: c_qumena - Given to neighbour holder of k_tazina
+378 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+379 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+379 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+379 - Lost vassal: c_qumena
+379 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+379 - Gained vassal: c_qumena
+379 - Gained vassal: c_qumena
+379 - vassal: c_qumena - Given to neighbour holder of k_tazina
+379 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+380 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+380 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+380 - Lost vassal: c_qumena
+380 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+380 - Gained vassal: c_qumena
+380 - Gained vassal: c_qumena
+380 - vassal: c_qumena - Given to neighbour holder of k_tazina
+380 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+380 - Holder 1016203 - Primary title: d_wurissa has lost the title: d_wurissa
+380 - Title given to 1016203
+380 - vassal: c_tanimir - Holder 1016203 - Primary title: c_tanimir has lost the title: c_tanimir
+380 - sub vassal: c_tanimir - Holder 1016203 - Primary title: c_tanimir has lost the title: c_tanimir
+380 - vassal: c_tanimir - Title given to 1016203 - Primary title: d_wurissa
+380 - sub vassal: c_tanimir - Title given to 1016203 - Primary title: d_wurissa
+380 - Holder (1016203) has gained c_tanimir
+380 - vassal: c_ranonza - Holder 1016203 - Primary title: c_ranonza has lost the title: c_ranonza
+380 - sub vassal: c_ranonza - Holder 1016203 - Primary title: c_ranonza has lost the title: c_ranonza
+380 - vassal: c_ranonza - Title given to 1016203 - Primary title: d_wurissa
+380 - sub vassal: c_ranonza - Title given to 1016203 - Primary title: d_wurissa
+380 - Holder (1016203) has gained c_ranonza
+380 - vassal: c_tyiande - Holder 1016203 - Primary title: c_tyiande has lost the title: c_tyiande
+380 - sub vassal: c_tyiande - Holder 1016203 - Primary title: c_tyiande has lost the title: c_tyiande
+380 - vassal: c_tyiande - Title given to 1016203 - Primary title: d_wurissa
+380 - sub vassal: c_tyiande - Title given to 1016203 - Primary title: d_wurissa
+380 - Holder (1016203) has gained c_tyiande
+380 - vassal: c_qumena - Holder 1016203 - Primary title: c_qumena has lost the title: c_qumena
+380 - sub vassal: c_qumena - Holder 1016203 - Primary title: c_qumena has lost the title: c_qumena
+380 - vassal: c_qumena - Title given to 1016203 - Primary title: d_wurissa
+380 - sub vassal: c_qumena - Title given to 1016203 - Primary title: d_wurissa
+380 - Holder (1016203) has gained c_qumena
+380 - vassal: c_tarege - Holder 1016203 - Primary title: c_tarege has lost the title: c_tarege
+380 - sub vassal: c_tarege - Holder 1016203 - Primary title: c_tarege has lost the title: c_tarege
+380 - vassal: c_tarege - Title given to 1016203 - Primary title: d_wurissa
+380 - sub vassal: c_tarege - Title given to 1016203 - Primary title: d_wurissa
+380 - Holder (1016203) has gained c_tarege
+381 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+381 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+381 - Lost vassal: c_qumena
+381 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+381 - Gained vassal: c_qumena
+381 - Gained vassal: c_qumena
+381 - vassal: c_qumena - Given to neighbour holder of k_tazina
+381 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+382 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+382 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+382 - Lost vassal: c_qumena
+382 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+382 - Gained vassal: c_qumena
+382 - Gained vassal: c_qumena
+382 - vassal: c_qumena - Given to neighbour holder of k_tazina
+382 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+383 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+383 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+383 - Lost vassal: c_qumena
+383 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+383 - Gained vassal: c_qumena
+383 - Gained vassal: c_qumena
+383 - vassal: c_qumena - Given to neighbour holder of k_tazina
+383 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+384 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+384 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+384 - Lost vassal: c_qumena
+384 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+384 - Gained vassal: c_qumena
+384 - Gained vassal: c_qumena
+384 - vassal: c_qumena - Given to neighbour holder of k_tazina
+384 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+385 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+385 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+385 - Lost vassal: c_qumena
+385 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+385 - Gained vassal: c_qumena
+385 - Gained vassal: c_qumena
+385 - vassal: c_qumena - Given to neighbour holder of k_tazina
+385 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+386 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+386 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+386 - Lost vassal: c_qumena
+386 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+386 - Gained vassal: c_qumena
+386 - Gained vassal: c_qumena
+386 - vassal: c_qumena - Given to neighbour holder of k_tazina
+386 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+387 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+387 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+387 - Lost vassal: c_qumena
+387 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+387 - Gained vassal: c_qumena
+387 - Gained vassal: c_qumena
+387 - vassal: c_qumena - Given to neighbour holder of k_tazina
+387 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+388 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+388 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+388 - Lost vassal: c_qumena
+388 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+388 - Gained vassal: c_qumena
+388 - Gained vassal: c_qumena
+388 - vassal: c_qumena - Given to neighbour holder of k_tazina
+388 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+389 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+389 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+389 - Lost vassal: c_qumena
+389 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+389 - Gained vassal: c_qumena
+389 - Gained vassal: c_qumena
+389 - vassal: c_qumena - Given to neighbour holder of k_tazina
+389 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+390 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+390 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+390 - Lost vassal: c_qumena
+390 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+390 - Gained vassal: c_qumena
+390 - Gained vassal: c_qumena
+390 - vassal: c_qumena - Given to neighbour holder of k_tazina
+390 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+391 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+391 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+391 - Lost vassal: c_qumena
+391 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+391 - Gained vassal: c_qumena
+391 - Gained vassal: c_qumena
+391 - vassal: c_qumena - Given to neighbour holder of k_tazina
+391 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+392 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+392 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+392 - Lost vassal: c_qumena
+392 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+392 - Gained vassal: c_qumena
+392 - Gained vassal: c_qumena
+392 - vassal: c_qumena - Given to neighbour holder of k_tazina
+392 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+392 - Holder (1016203) has gained d_namimon
+393 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+393 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+393 - Lost vassal: c_qumena
+393 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+393 - Gained vassal: c_qumena
+393 - Gained vassal: c_qumena
+393 - vassal: c_qumena - Given to neighbour holder of k_tazina
+393 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+393 - sub vassal: c_enily - Made vassal of neighbour (k_dyie) due to being a seperate island
+394 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+394 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+394 - Lost vassal: c_qumena
+394 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+394 - Gained vassal: c_qumena
+394 - Gained vassal: c_qumena
+394 - vassal: c_qumena - Given to neighbour holder of k_tazina
+394 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+395 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+395 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+395 - Lost vassal: c_qumena
+395 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+395 - Gained vassal: c_qumena
+395 - Gained vassal: c_qumena
+395 - vassal: c_qumena - Given to neighbour holder of k_tazina
+395 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+396 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+396 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+396 - Lost vassal: c_qumena
+396 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+396 - Gained vassal: c_qumena
+396 - Gained vassal: c_qumena
+396 - vassal: c_qumena - Given to neighbour holder of k_tazina
+396 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+397 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+397 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+397 - Lost vassal: c_qumena
+397 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+397 - Gained vassal: c_qumena
+397 - Gained vassal: c_qumena
+397 - vassal: c_qumena - Given to neighbour holder of k_tazina
+397 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+398 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+398 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+398 - Lost vassal: c_qumena
+398 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+398 - Gained vassal: c_qumena
+398 - Gained vassal: c_qumena
+398 - vassal: c_qumena - Given to neighbour holder of k_tazina
+398 - sub vassal: c_qumena - Given to neighbour holder of k_tazina
+399 - vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+399 - sub vassal: c_qumena - Made vassal of neighbour (k_tazina) due to being a seperate island
+399 - Lost vassal: c_qumena
+399 - sub vassal: c_qumena - Setting to vassal of d_wurissa in Validate Realm
+399 - Gained vassal: c_qumena
+399 - Gained vassal: c_qumena
+399 - vassal: c_qumena - Given to neighbour holder of k_tazina
+399 - sub vassal: c_qumena - Given to neighbour holder of k_tazina

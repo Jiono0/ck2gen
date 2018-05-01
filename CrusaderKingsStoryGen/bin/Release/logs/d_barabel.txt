@@ -1,0 +1,56 @@
+200 - Title given to 1000459
+200 - vassal: c_runew - Holder 1000459 - Primary title: c_runew has lost the title: c_runew
+200 - sub vassal: c_runew - Holder 1000459 - Primary title: c_runew has lost the title: c_runew
+200 - vassal: c_runew - Title given to 1000459 - Primary title: d_barabel
+200 - sub vassal: c_runew - Title given to 1000459 - Primary title: d_barabel
+200 - Holder (1000459) has gained c_runew
+200 - vassal: c_azoti - Holder 1000459 - Primary title: c_azoti has lost the title: c_azoti
+200 - sub vassal: c_azoti - Holder 1000459 - Primary title: c_azoti has lost the title: c_azoti
+200 - vassal: c_azoti - Title given to 1000459 - Primary title: d_barabel
+200 - sub vassal: c_azoti - Title given to 1000459 - Primary title: d_barabel
+200 - Holder (1000459) has gained c_azoti
+200 - vassal: c_amarayya - Holder 1000459 - Primary title: c_amarayya has lost the title: c_amarayya
+200 - sub vassal: c_amarayya - Holder 1000459 - Primary title: c_amarayya has lost the title: c_amarayya
+200 - vassal: c_amarayya - Title given to 1000459 - Primary title: d_barabel
+200 - sub vassal: c_amarayya - Title given to 1000459 - Primary title: d_barabel
+200 - Holder (1000459) has gained c_amarayya
+200 - vassal: c_qanura - Holder 1000459 - Primary title: c_qanura has lost the title: c_qanura
+200 - sub vassal: c_qanura - Holder 1000459 - Primary title: c_qanura has lost the title: c_qanura
+200 - vassal: c_qanura - Title given to 1000459 - Primary title: d_barabel
+200 - sub vassal: c_qanura - Title given to 1000459 - Primary title: d_barabel
+200 - Holder (1000459) has gained c_qanura
+200 - Holder 1001551 - Primary title: d_barabel has lost the title: d_barabel
+200 - Title given to 1001551 - Primary title: k_nair
+200 - vassal: c_runew - Holder 1001551 - Primary title: c_runew has lost the title: c_runew
+200 - vassal: c_runew - Title given to 1001551 - Primary title: k_nair
+201 - Holder 1000472 - Primary title: d_barabel has lost the title: d_barabel
+201 - Title given to 1000472 - Primary title: k_nair
+201 - vassal: c_runew - Holder 1000472 - Primary title: c_runew has lost the title: c_runew
+201 - vassal: c_runew - Title given to 1000472 - Primary title: k_nair
+249 - Holder 1002197 - Primary title: d_barabel has lost the title: d_barabel
+249 - Title given to 1002197 - Primary title: k_nair
+249 - vassal: c_runew - Setting to vassal of d_qarew in Validate Realm
+249 - Lost vassal: c_runew
+253 - Holder 1006836 - Primary title: d_barabel has lost the title: d_barabel
+253 - Title given to 1006836 - Primary title: k_nair
+268 - Holder 1007529 - Primary title: d_barabel has lost the title: d_barabel
+268 - Title given to 1007529 - Primary title: k_nair
+271 - Holder 1008370 - Primary title: d_barabel has lost the title: d_barabel
+271 - Title given to 1008370 - Primary title: k_nair
+300 - vassal: c_azoti - Holder 1008370 - Primary title: c_azoti has lost the title: c_azoti
+300 - vassal: c_azoti - Title given to 1008370 - Primary title: k_nair
+300 - vassal: c_amarayya - Holder 1008370 - Primary title: c_amarayya has lost the title: c_amarayya
+300 - vassal: c_amarayya - Title given to 1008370 - Primary title: k_nair
+300 - vassal: c_qanura - Holder 1008370 - Primary title: c_qanura has lost the title: c_qanura
+300 - vassal: c_qanura - Title given to 1008370 - Primary title: k_nair
+311 - Holder 1009115 - Primary title: d_barabel has lost the title: d_barabel
+311 - Title given to 1009115 - Primary title: k_nair
+311 - vassal: c_qanura - Setting to vassal of d_kayasuaz in Validate Realm
+311 - Lost vassal: c_qanura
+311 - vassal: c_amarayya - Setting to vassal of d_kayasuaz in Validate Realm
+311 - Lost vassal: c_amarayya
+311 - vassal: c_azoti - Setting to vassal of d_kayasuaz in Validate Realm
+311 - Lost vassal: c_azoti
+312 - Destroyed due to flagged problem
+312 - Made independent
+312 - Title destroyed

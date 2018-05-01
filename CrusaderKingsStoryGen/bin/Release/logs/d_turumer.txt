@@ -1,0 +1,66 @@
+200 - Title given to 1000904
+200 - vassal: c_dorage - Given to 1000908 via AddCharacterForTitle
+200 - sub vassal: c_dorage - Given to 1000908 via AddCharacterForTitle
+200 - vassal: c_dorage - Holder 1000908 - Primary title: c_dorage has lost the title: c_dorage
+200 - sub vassal: c_dorage - Holder 1000908 - Primary title: c_dorage has lost the title: c_dorage
+200 - vassal: c_dorage - Title given to 1000908
+200 - sub vassal: c_dorage - Title given to 1000908
+200 - vassal: c_dodimir - Holder 1000904 - Primary title: c_dodimir has lost the title: c_dodimir
+200 - sub vassal: c_dodimir - Holder 1000904 - Primary title: c_dodimir has lost the title: c_dodimir
+200 - vassal: c_dodimir - Title given to 1000904 - Primary title: d_turumer
+200 - sub vassal: c_dodimir - Title given to 1000904 - Primary title: d_turumer
+200 - Holder (1000904) has gained c_dodimir
+200 - vassal: c_tyoelage - Holder 1000904 - Primary title: c_tyoelage has lost the title: c_tyoelage
+200 - sub vassal: c_tyoelage - Holder 1000904 - Primary title: c_tyoelage has lost the title: c_tyoelage
+200 - vassal: c_tyoelage - Title given to 1000904 - Primary title: d_turumer
+200 - sub vassal: c_tyoelage - Title given to 1000904 - Primary title: d_turumer
+200 - Holder (1000904) has gained c_tyoelage
+200 - vassal: c_dorage - Holder 1000904 - Primary title: c_dorage has lost the title: c_dorage
+200 - sub vassal: c_dorage - Holder 1000904 - Primary title: c_dorage has lost the title: c_dorage
+200 - vassal: c_dorage - Title given to 1000904 - Primary title: d_turumer
+200 - sub vassal: c_dorage - Title given to 1000904 - Primary title: d_turumer
+200 - Holder (1000904) has gained c_dorage
+200 - Holder 1001567 - Primary title: d_turumer has lost the title: d_turumer
+200 - Title given to 1001567 - Primary title: k_nugona
+204 - Gained vassal: c_syod
+204 - Holder 1000832 - Primary title: d_turumer has lost the title: d_turumer
+204 - Title given to 1000832 - Primary title: k_nugona
+204 - vassal: c_syod - Setting to vassal of d_namimon in Validate Realm
+204 - Lost vassal: c_syod
+205 - vassal: c_dodimir - Given to 1002788 in HandleTitles - Too many duke titles
+205 - vassal: c_dodimir - Holder 1002788 - Primary title: c_dodimir has lost the title: c_dodimir
+205 - vassal: c_dodimir - Title given to 1002788
+205 - Title given to 1002788 - Primary title: c_dodimir
+205 - vassal: c_dodimir - Holder (1002788) has gained d_turumer
+205 - Too many dukes, given to dejure: k_nugona
+209 - Holder 1003191 - Primary title: d_turumer has lost the title: d_turumer
+209 - Title given to 1003191
+209 - vassal: c_dodimir - Holder 1003191 - Primary title: c_dodimir has lost the title: c_dodimir
+209 - vassal: c_dodimir - Title given to 1003191 - Primary title: d_turumer
+209 - Holder (1003191) has gained c_dodimir
+221 - Captured byk_nacaba in minor war
+226 - Holder 1002551 - Primary title: d_turumer has lost the title: d_turumer
+226 - Title given to 1002551 - Primary title: k_nacaba
+226 - vassal: c_dodimir - Holder 1002551 - Primary title: c_dodimir has lost the title: c_dodimir
+226 - vassal: c_dodimir - Title given to 1002551 - Primary title: k_nacaba
+256 - Holder 1004836 - Primary title: d_turumer has lost the title: d_turumer
+256 - Title given to 1004836 - Primary title: k_nacaba
+256 - vassal: c_dodimir - Setting to vassal of d_woratti in Validate Realm
+256 - Lost vassal: c_dodimir
+262 - Holder 1007346 - Primary title: d_turumer has lost the title: d_turumer
+262 - Title given to 1007346 - Primary title: k_nacaba
+290 - Holder 1009913 - Primary title: d_turumer has lost the title: d_turumer
+290 - Title given to 1009913 - Primary title: k_nacaba
+300 - vassal: c_tyoelage - Holder 1009913 - Primary title: c_tyoelage has lost the title: c_tyoelage
+300 - vassal: c_tyoelage - Title given to 1009913 - Primary title: k_nacaba
+300 - vassal: c_dorage - Holder 1009913 - Primary title: c_dorage has lost the title: c_dorage
+300 - vassal: c_dorage - Title given to 1009913 - Primary title: k_nacaba
+303 - Holder 1011074 - Primary title: d_turumer has lost the title: d_turumer
+303 - Title given to 1011074 - Primary title: k_nacaba
+303 - vassal: c_dorage - Setting to vassal of d_woratti in Validate Realm
+303 - Lost vassal: c_dorage
+303 - vassal: c_tyoelage - Setting to vassal of d_woratti in Validate Realm
+303 - Lost vassal: c_tyoelage
+304 - Destroyed due to flagged problem
+304 - Made independent
+304 - Title destroyed

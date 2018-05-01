@@ -1,0 +1,58 @@
+200 - Title given to 1000384
+200 - vassal: c_tisal - Given to 1000388 via AddCharacterForTitle
+200 - sub vassal: c_tisal - Given to 1000388 via AddCharacterForTitle
+200 - vassal: c_tisal - Holder 1000388 - Primary title: c_tisal has lost the title: c_tisal
+200 - sub vassal: c_tisal - Holder 1000388 - Primary title: c_tisal has lost the title: c_tisal
+200 - vassal: c_tisal - Title given to 1000388
+200 - sub vassal: c_tisal - Title given to 1000388
+200 - vassal: c_kerjn - Holder 1000384 - Primary title: c_kerjn has lost the title: c_kerjn
+200 - sub vassal: c_kerjn - Holder 1000384 - Primary title: c_kerjn has lost the title: c_kerjn
+200 - vassal: c_kerjn - Title given to 1000384 - Primary title: d_kerjn
+200 - sub vassal: c_kerjn - Title given to 1000384 - Primary title: d_kerjn
+200 - Holder (1000384) has gained c_kerjn
+200 - vassal: c_bintou - Holder 1000384 - Primary title: c_bintou has lost the title: c_bintou
+200 - sub vassal: c_bintou - Holder 1000384 - Primary title: c_bintou has lost the title: c_bintou
+200 - vassal: c_bintou - Title given to 1000384 - Primary title: d_kerjn
+200 - sub vassal: c_bintou - Title given to 1000384 - Primary title: d_kerjn
+200 - Holder (1000384) has gained c_bintou
+200 - vassal: c_wisatay - Holder 1000384 - Primary title: c_wisatay has lost the title: c_wisatay
+200 - sub vassal: c_wisatay - Holder 1000384 - Primary title: c_wisatay has lost the title: c_wisatay
+200 - vassal: c_wisatay - Title given to 1000384 - Primary title: d_kerjn
+200 - sub vassal: c_wisatay - Title given to 1000384 - Primary title: d_kerjn
+200 - Holder (1000384) has gained c_wisatay
+250 - Holder 1002639 - Primary title: d_kerjn has lost the title: d_kerjn
+250 - Title given to 1002639
+250 - vassal: c_wisatay - Holder 1002639 - Primary title: c_wisatay has lost the title: c_wisatay
+250 - vassal: c_wisatay - Title given to 1002639 - Primary title: d_kerjn
+250 - Holder (1002639) has gained c_wisatay
+250 - vassal: c_bintou - Holder 1002639 - Primary title: c_bintou has lost the title: c_bintou
+250 - vassal: c_bintou - Title given to 1002639 - Primary title: d_kerjn
+250 - Holder (1002639) has gained c_bintou
+250 - vassal: c_kerjn - Holder 1002639 - Primary title: c_kerjn has lost the title: c_kerjn
+250 - vassal: c_kerjn - Title given to 1002639 - Primary title: d_kerjn
+250 - Holder (1002639) has gained c_kerjn
+254 - Holder 1005209 - Primary title: d_kerjn has lost the title: d_kerjn
+254 - Title given to 1005209 - Primary title: c_kyaa
+254 - Gained vassal: c_kyaa
+254 - vassal: c_wisatay - Holder 1005209 - Primary title: c_wisatay has lost the title: c_wisatay
+254 - vassal: c_wisatay - Title given to 1005209 - Primary title: d_kerjn
+254 - Holder (1005209) has gained c_wisatay
+254 - vassal: c_bintou - Holder 1005209 - Primary title: c_bintou has lost the title: c_bintou
+254 - vassal: c_bintou - Title given to 1005209 - Primary title: d_kerjn
+254 - Holder (1005209) has gained c_bintou
+254 - vassal: c_kerjn - Holder 1005209 - Primary title: c_kerjn has lost the title: c_kerjn
+254 - vassal: c_kerjn - Title given to 1005209 - Primary title: d_kerjn
+254 - Holder (1005209) has gained c_kerjn
+256 - Holder 1005206 - Primary title: d_kerjn has lost the title: d_kerjn
+256 - Title given to 1005206 - Primary title: d_etzerjn
+256 - vassal: c_kyaa - Holder 1005206 - Primary title: c_kyaa has lost the title: c_kyaa
+256 - vassal: c_kyaa - Title given to 1005206 - Primary title: d_etzerjn
+256 - vassal: c_wisatay - Holder 1005206 - Primary title: c_wisatay has lost the title: c_wisatay
+256 - vassal: c_wisatay - Title given to 1005206 - Primary title: d_etzerjn
+256 - vassal: c_bintou - Holder 1005206 - Primary title: c_bintou has lost the title: c_bintou
+256 - vassal: c_bintou - Title given to 1005206 - Primary title: d_etzerjn
+256 - vassal: c_kerjn - Holder 1005206 - Primary title: c_kerjn has lost the title: c_kerjn
+256 - vassal: c_kerjn - Title given to 1005206 - Primary title: d_etzerjn
+267 - Holder (1005206) has gained d_ranoke
+267 - Holder (1005206) has gained c_suisaha
+275 - Title gi

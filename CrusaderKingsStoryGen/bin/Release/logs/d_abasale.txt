@@ -1,0 +1,141 @@
+200 - Title given to 1001191
+200 - vassal: c_kapala - Given to 1001195 via AddCharacterForTitle
+200 - sub vassal: c_kapala - Given to 1001195 via AddCharacterForTitle
+200 - vassal: c_kapala - Holder 1001195 - Primary title: c_kapala has lost the title: c_kapala
+200 - sub vassal: c_kapala - Holder 1001195 - Primary title: c_kapala has lost the title: c_kapala
+200 - vassal: c_kapala - Title given to 1001195
+200 - sub vassal: c_kapala - Title given to 1001195
+200 - vassal: c_walayor - Holder 1001183 - Primary title: c_walayor has lost the title: c_novigo
+200 - sub vassal: c_walayor - Holder 1001183 - Primary title: c_walayor has lost the title: c_novigo
+200 - sub vassal: c_novigo - Title given to 1001183 - Primary title: d_esale
+200 - vassal: c_walayor - Holder 1001187 - Primary title: c_walayor has lost the title: c_relayor
+200 - sub vassal: c_walayor - Holder 1001187 - Primary title: c_walayor has lost the title: c_relayor
+200 - sub vassal: c_relayor - Title given to 1001187 - Primary title: d_qesetmar
+200 - vassal: c_dusalk - Holder 1001191 - Primary title: c_dusalk has lost the title: c_dusalk
+200 - sub vassal: c_dusalk - Holder 1001191 - Primary title: c_dusalk has lost the title: c_dusalk
+200 - vassal: c_dusalk - Title given to 1001191 - Primary title: d_abasale
+200 - sub vassal: c_dusalk - Title given to 1001191 - Primary title: d_abasale
+200 - Holder (1001191) has gained c_dusalk
+200 - vassal: c_qujku - Holder 1001191 - Primary title: c_qujku has lost the title: c_qujku
+200 - sub vassal: c_qujku - Holder 1001191 - Primary title: c_qujku has lost the title: c_qujku
+200 - vassal: c_qujku - Title given to 1001191 - Primary title: d_abasale
+200 - sub vassal: c_qujku - Title given to 1001191 - Primary title: d_abasale
+200 - Holder (1001191) has gained c_qujku
+200 - vassal: c_walayor - Holder 1001191 - Primary title: c_walayor has lost the title: c_walayor
+200 - sub vassal: c_walayor - Holder 1001191 - Primary title: c_walayor has lost the title: c_walayor
+200 - vassal: c_walayor - Title given to 1001191 - Primary title: d_abasale
+200 - sub vassal: c_walayor - Title given to 1001191 - Primary title: d_abasale
+200 - Holder (1001191) has gained c_walayor
+200 - Holder 1001581 - Primary title: d_abasale has lost the title: d_abasale
+200 - Title given to 1001581 - Primary title: k_ditedas
+200 - vassal: c_dusalk - Holder 1001581 - Primary title: c_dusalk has lost the title: c_dusalk
+200 - vassal: c_dusalk - Title given to 1001581 - Primary title: k_ditedas
+236 - Holder 1001976 - Primary title: d_abasale has lost the title: d_abasale
+236 - Title given to 1001976 - Primary title: d_kiviogo
+236 - vassal: c_dusalk - Holder 1001976 - Primary title: c_dusalk has lost the title: c_dusalk
+236 - vassal: c_dusalk - Title given to 1001976 - Primary title: d_kiviogo
+245 - vassal: c_qujku - Made vassal of neighbour (k_kyutila) due to being a seperate island
+245 - Lost vassal: c_qujku
+245 - vassal: c_walayor - Setting independent in Validate Realm
+245 - vassal: c_walayor - Made independent
+245 - vassal: c_dusalk - Made vassal of neighbour (k_kyutila) due to being a seperate island
+245 - Lost vassal: c_dusalk
+246 - Destroyed due to flagged problem
+246 - Made independent
+246 - Title destroyed
+267 - Given to 1006882 in TestCreateEmpire
+267 - Title given to 1006882 - Primary title: c_qujku
+267 - Gained vassal: c_qujku
+267 - Made independent for title creation d_abasale for d_abasale
+267 - vassal: c_qujku - Set liege on title creation d_abasale
+267 - sub vassal: c_qujku - Set liege on title creation d_abasale
+267 - Gained vassal: c_walayor
+279 - Holder 1009018 - Primary title: d_abasale has lost the title: d_abasale
+279 - Title given to 1009018
+279 - vassal: c_qujku - Holder 1009018 - Primary title: c_qujku has lost the title: c_qujku
+279 - sub vassal: c_qujku - Holder 1009018 - Primary title: c_qujku has lost the title: c_qujku
+279 - vassal: c_qujku - Title given to 1009018 - Primary title: d_abasale
+279 - sub vassal: c_qujku - Title given to 1009018 - Primary title: d_abasale
+279 - Holder (1009018) has gained c_qujku
+279 - vassal: c_walayor - Holder 1009018 - Primary title: c_walayor has lost the title: c_walayor
+279 - sub vassal: c_walayor - Holder 1009018 - Primary title: c_walayor has lost the title: c_walayor
+279 - vassal: c_walayor - Title given to 1009018 - Primary title: d_abasale
+279 - sub vassal: c_walayor - Title given to 1009018 - Primary title: d_abasale
+279 - Holder (1009018) has gained c_walayor
+283 - Holder 1009351 - Primary title: d_abasale has lost the title: d_abasale
+283 - Title given to 1009351
+283 - vassal: c_walayor - Holder 1009351 - Primary title: c_walayor has lost the title: c_walayor
+283 - sub vassal: c_walayor - Holder 1009351 - Primary title: c_walayor has lost the title: c_walayor
+283 - vassal: c_walayor - Title given to 1009351 - Primary title: d_abasale
+283 - sub vassal: c_walayor - Title given to 1009351 - Primary title: d_abasale
+283 - Holder (1009351) has gained c_walayor
+283 - vassal: c_qujku - Holder 1009351 - Primary title: c_qujku has lost the title: c_qujku
+283 - sub vassal: c_qujku - Holder 1009351 - Primary title: c_qujku has lost the title: c_qujku
+283 - vassal: c_qujku - Title given to 1009351 - Primary title: d_abasale
+283 - sub vassal: c_qujku - Title given to 1009351 - Primary title: d_abasale
+283 - Holder (1009351) has gained c_qujku
+287 - Holder 1009668 - Primary title: d_abasale has lost the title: d_abasale
+287 - Title given to 1009668
+287 - vassal: c_walayor - Holder 1009668 - Primary title: c_walayor has lost the title: c_walayor
+287 - sub vassal: c_walayor - Holder 1009668 - Primary title: c_walayor has lost the title: c_walayor
+287 - vassal: c_walayor - Title given to 1009668 - Primary title: d_abasale
+287 - sub vassal: c_walayor - Title given to 1009668 - Primary title: d_abasale
+287 - Holder (1009668) has gained c_walayor
+287 - vassal: c_qujku - Holder 1009668 - Primary title: c_qujku has lost the title: c_qujku
+287 - sub vassal: c_qujku - Holder 1009668 - Primary title: c_qujku has lost the title: c_qujku
+287 - vassal: c_qujku - Title given to 1009668 - Primary title: d_abasale
+287 - sub vassal: c_qujku - Title given to 1009668 - Primary title: d_abasale
+287 - Holder (1009668) has gained c_qujku
+289 - Holder 1009823 - Primary title: d_abasale has lost the title: d_abasale
+289 - Title given to 1009823
+289 - vassal: c_walayor - Holder 1009823 - Primary title: c_walayor has lost the title: c_walayor
+289 - sub vassal: c_walayor - Holder 1009823 - Primary title: c_walayor has lost the title: c_walayor
+289 - vassal: c_walayor - Title given to 1009823 - Primary title: d_abasale
+289 - sub vassal: c_walayor - Title given to 1009823 - Primary title: d_abasale
+289 - Holder (1009823) has gained c_walayor
+289 - vassal: c_qujku - Holder 1009823 - Primary title: c_qujku has lost the title: c_qujku
+289 - sub vassal: c_qujku - Holder 1009823 - Primary title: c_qujku has lost the title: c_qujku
+289 - vassal: c_qujku - Title given to 1009823 - Primary title: d_abasale
+289 - sub vassal: c_qujku - Title given to 1009823 - Primary title: d_abasale
+289 - Holder (1009823) has gained c_qujku
+294 - Holder (1009823) has gained k_ditedas
+294 - vassal: c_walayor - Given to 1010256 in HandleTitles - Too many duke titles
+294 - vassal: c_walayor - Title given to 1010256
+294 - Title given to 1010256 - Primary title: c_walayor
+294 - vassal: c_walayor - Holder (1010256) has gained d_abasale
+294 - vassal: c_qujku - Setting to vassal of k_ditedas in Validate Realm
+294 - Lost vassal: c_qujku
+294 - Too many dukes, given to dejure: k_ditedas
+312 - Holder 1011244 - Primary title: d_abasale has lost the title: d_abasale
+312 - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_walayor - Holder 1011244 - Primary title: c_walayor has lost the title: c_walayor
+312 - vassal: c_walayor - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_walayor - Given to 1011782 in HandleTitles - Too many duke titles
+312 - vassal: c_walayor - Title given to 1011782
+312 - Title given to 1011782 - Primary title: c_walayor
+312 - vassal: c_walayor - Holder (1011782) has gained d_abasale
+312 - Too many dukes, given to dejure: k_ditedas
+323 - Holder 1011780 - Primary title: d_abasale has lost the title: d_abasale
+323 - Title given to 1011780 - Primary title: d_esale
+323 - vassal: c_walayor - Holder 1011780 - Primary title: c_walayor has lost the title: c_walayor
+323 - vassal: c_walayor - Title given to 1011780 - Primary title: d_esale
+330 - Holder 1012035 - Primary title: d_abasale has lost the title: d_esale
+330 - Gained vassal: c_kyesale
+330 - Holder 1012035 - Primary title: d_abasale has lost the title: c_kyesale
+330 - vassal: c_kyesale - Title given to 1012035 - Primary title: d_esale
+330 - vassal: c_kyesale - Setting to vassal of d_esale in Validate Realm
+330 - Lost vassal: c_kyesale
+330 - Holder 1012035 - Primary title: d_abasale has lost the title: d_abasale
+330 - Title given to 1012035 - Primary title: d_esale
+330 - vassal: c_walayor - Holder 1012035 - Primary title: c_walayor has lost the title: c_walayor
+330 - vassal: c_walayor - Title given to 1012035 - Primary title: d_esale
+376 - vassal: c_walayor - Given to 1016397 in HandleTitles - Too many duke titles
+376 - vassal: c_walayor - Title given to 1016397
+376 - Title given to 1015825 - Primary title: k_ditedas
+376 - Too many dukes, made direct title into vassal of k_ditedas
+376 - Title given to 1016399
+382 - Holder 1016488 - Primary title: d_abasale has lost the title: d_abasale
+382 - Title given to 1016488
+400 - vassal: c_walayor - Holder 1016488 - Primary title: c_walayor has lost the title: c_walayor
+400 - vassal: c_walayor - Title given to 1016488 - Primary title: d_abasale
+400 - Holder (1016488) has gained c_walayor

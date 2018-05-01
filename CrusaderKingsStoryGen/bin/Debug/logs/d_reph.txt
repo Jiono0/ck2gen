@@ -1,0 +1,71 @@
+200 - Title given to 1001012
+200 - vassal: c_ketleph - Given to 1001015 via AddCharacterForTitle
+200 - sub vassal: c_ketleph - Given to 1001015 via AddCharacterForTitle
+200 - vassal: c_ketleph - Holder 1001015 - Primary title: c_ketleph has lost the title: c_ketleph
+200 - sub vassal: c_ketleph - Holder 1001015 - Primary title: c_ketleph has lost the title: c_ketleph
+200 - vassal: c_ketleph - Title given to 1001015
+200 - sub vassal: c_ketleph - Title given to 1001015
+200 - vassal: c_diseph - Holder 1001012 - Primary title: c_diseph has lost the title: c_diseph
+200 - sub vassal: c_diseph - Holder 1001012 - Primary title: c_diseph has lost the title: c_diseph
+200 - vassal: c_diseph - Title given to 1001012 - Primary title: d_reph
+200 - sub vassal: c_diseph - Title given to 1001012 - Primary title: d_reph
+200 - Holder (1001012) has gained c_diseph
+200 - vassal: c_ketleph - Holder 1001012 - Primary title: c_ketleph has lost the title: c_ketleph
+200 - sub vassal: c_ketleph - Holder 1001012 - Primary title: c_ketleph has lost the title: c_ketleph
+200 - vassal: c_ketleph - Title given to 1001012 - Primary title: d_reph
+200 - sub vassal: c_ketleph - Title given to 1001012 - Primary title: d_reph
+200 - Holder (1001012) has gained c_ketleph
+200 - vassal: c_tanona - Holder 1001012 - Primary title: c_tanona has lost the title: c_tanona
+200 - sub vassal: c_tanona - Holder 1001012 - Primary title: c_tanona has lost the title: c_tanona
+200 - vassal: c_tanona - Title given to 1001012 - Primary title: d_reph
+200 - sub vassal: c_tanona - Title given to 1001012 - Primary title: d_reph
+200 - Holder (1001012) has gained c_tanona
+256 - Holder 1002251 - Primary title: d_reph has lost the title: d_reph
+256 - Title given to 1002251
+256 - vassal: c_tanona - Holder 1002251 - Primary title: c_tanona has lost the title: c_tanona
+256 - vassal: c_tanona - Title given to 1002251 - Primary title: d_reph
+256 - Holder (1002251) has gained c_tanona
+256 - vassal: c_ketleph - Holder 1002251 - Primary title: c_ketleph has lost the title: c_ketleph
+256 - vassal: c_ketleph - Title given to 1002251 - Primary title: d_reph
+256 - Holder (1002251) has gained c_ketleph
+256 - vassal: c_diseph - Holder 1002251 - Primary title: c_diseph has lost the title: c_diseph
+256 - vassal: c_diseph - Title given to 1002251 - Primary title: d_reph
+256 - Holder (1002251) has gained c_diseph
+262 - Holder (1002251) has gained d_sona
+262 - Holder (1002251) has gained c_simamin
+265 - Title given to 1006571
+265 - vassal: c_diseph - Setting to vassal of d_sona in Validate Realm
+265 - Lost vassal: c_diseph
+265 - vassal: c_ketleph - Setting to vassal of d_sona in Validate Realm
+265 - Lost vassal: c_ketleph
+265 - vassal: c_tanona - Setting to vassal of d_sona in Validate Realm
+265 - Lost vassal: c_tanona
+265 - Holder (1006571) has gained c_diseph
+265 - Gained vassal: c_diseph
+265 - Holder (1006571) has gained c_ketleph
+265 - Gained vassal: c_ketleph
+265 - Holder (1006571) has gained c_tanona
+265 - Gained vassal: c_tanona
+265 - Holder (1006571) has gained d_sona
+265 - Holder (1006571) has gained c_simamin
+300 - Holder (1006571) has gained c_sona
+304 - Holder (1006571) has gained d_egisabah
+304 - Holder (1006571) has gained c_danamin
+304 - Holder (1006571) has gained c_tanary
+305 - vassal: c_ketleph - Given to 1010119 in HandleTitles - Too many duke titles
+305 - vassal: c_ketleph - Title given to 1010119
+305 - Title given to 1007483 - Primary title: k_lilare
+305 - vassal: c_diseph - Setting to vassal of d_egisabah in Validate Realm
+305 - Lost vassal: c_diseph
+305 - vassal: c_tanona - Setting to vassal of d_egisabah in Validate Realm
+305 - Lost vassal: c_tanona
+305 - Too many dukes, made direct title into vassal of k_lilare
+305 - Title given to 1010120
+315 - Holder (1010120) has gained d_sona
+315 - Holder (1010120) has gained c_diseph
+315 - Gained vassal: c_diseph
+315 - Holder (1010120) has gained c_tanona
+315 - Gained vassal: c_tanona
+315 - Holder (1010120) has gained c_simamin
+315 - Gained vassal: c_simamin
+315 - Holder (10

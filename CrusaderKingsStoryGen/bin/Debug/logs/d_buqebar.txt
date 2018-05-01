@@ -1,0 +1,118 @@
+200 - Title given to 1001190
+200 - vassal: c_solitya - Given to 1001194 via AddCharacterForTitle
+200 - sub vassal: c_solitya - Given to 1001194 via AddCharacterForTitle
+200 - vassal: c_solitya - Holder 1001194 - Primary title: c_solitya has lost the title: c_solitya
+200 - sub vassal: c_solitya - Holder 1001194 - Primary title: c_solitya has lost the title: c_solitya
+200 - vassal: c_solitya - Title given to 1001194
+200 - sub vassal: c_solitya - Title given to 1001194
+200 - vassal: c_ralitya - Holder 1001190 - Primary title: c_ralitya has lost the title: c_ralitya
+200 - sub vassal: c_ralitya - Holder 1001190 - Primary title: c_ralitya has lost the title: c_ralitya
+200 - vassal: c_ralitya - Title given to 1001190 - Primary title: d_buqebar
+200 - sub vassal: c_ralitya - Title given to 1001190 - Primary title: d_buqebar
+200 - Holder (1001190) has gained c_ralitya
+200 - vassal: c_dyadibel - Holder 1001190 - Primary title: c_dyadibel has lost the title: c_dyadibel
+200 - sub vassal: c_dyadibel - Holder 1001190 - Primary title: c_dyadibel has lost the title: c_dyadibel
+200 - vassal: c_dyadibel - Title given to 1001190 - Primary title: d_buqebar
+200 - sub vassal: c_dyadibel - Title given to 1001190 - Primary title: d_buqebar
+200 - Holder (1001190) has gained c_dyadibel
+200 - vassal: c_solitya - Holder 1001190 - Primary title: c_solitya has lost the title: c_solitya
+200 - sub vassal: c_solitya - Holder 1001190 - Primary title: c_solitya has lost the title: c_solitya
+200 - vassal: c_solitya - Title given to 1001190 - Primary title: d_buqebar
+200 - sub vassal: c_solitya - Title given to 1001190 - Primary title: d_buqebar
+200 - Holder (1001190) has gained c_solitya
+200 - vassal: c_rameph - Holder 1001190 - Primary title: c_rameph has lost the title: c_rameph
+200 - sub vassal: c_rameph - Holder 1001190 - Primary title: c_rameph has lost the title: c_rameph
+200 - vassal: c_rameph - Title given to 1001190 - Primary title: d_buqebar
+200 - sub vassal: c_rameph - Title given to 1001190 - Primary title: d_buqebar
+200 - Holder (1001190) has gained c_rameph
+200 - Holder 1001501 - Primary title: d_buqebar has lost the title: d_buqebar
+200 - Title given to 1001501 - Primary title: k_ralirma
+243 - Holder 1002007 - Primary title: d_buqebar has lost the title: d_buqebar
+243 - Title given to 1002007 - Primary title: k_ralirma
+260 - vassal: c_solitya - Given to 1006840 in HandleTitles - Too many duke titles
+260 - vassal: c_ralitya - Holder 1006840 - Primary title: c_ralitya has lost the title: c_solitya
+260 - vassal: c_solitya - Title given to 1006840
+260 - Title given to 1006840 - Primary title: c_solitya
+260 - vassal: c_solitya - Holder (1006840) has gained d_buqebar
+260 - Too many dukes, given to dejure: k_ralirma
+262 - Holder 1006912 - Primary title: d_buqebar has lost the title: d_buqebar
+262 - Title given to 1006912
+262 - vassal: c_solitya - Holder 1006912 - Primary title: c_solitya has lost the title: c_solitya
+262 - vassal: c_solitya - Title given to 1006912 - Primary title: d_buqebar
+262 - Holder (1006912) has gained c_solitya
+286 - Holder 1008137 - Primary title: d_buqebar has lost the title: d_buqebar
+286 - Title given to 1008137
+286 - vassal: c_solitya - Holder 1008137 - Primary title: c_solitya has lost the title: c_solitya
+286 - vassal: c_solitya - Title given to 1008137 - Primary title: d_buqebar
+286 - Holder (1008137) has gained c_solitya
+291 - Holder 1006842 - Primary title: d_buqebar has lost the title: d_buqebar
+291 - Title given to 1006842 - Primary title: k_ralirma
+291 - vassal: c_solitya - Holder 1006842 - Primary title: c_solitya has lost the title: c_solitya
+291 - vassal: c_solitya - Title given to 1006842 - Primary title: k_ralirma
+303 - vassal: c_ralitya - Holder 1006842 - Primary title: c_ralitya has lost the title: c_ralitya
+303 - vassal: c_ralitya - Title given to 1006842 - Primary title: k_ralirma
+303 - vassal: c_dyadibel - Holder 1006842 - Primary title: c_dyadibel has lost the title: c_dyadibel
+303 - vassal: c_dyadibel - Title given to 1006842 - Primary title: k_ralirma
+303 - vassal: c_rameph - Holder 1006842 - Primary title: c_rameph has lost the title: c_rameph
+303 - vassal: c_rameph - Title given to 1006842 - Primary title: k_ralirma
+303 - vassal: c_solitya - Title given to 1010004
+307 - sub vassal: d_eshirdas - Setting independent due to liege destruction
+307 - sub vassal: d_eshirdas - Made independent
+307 - Setting independent due to liege destruction
+307 - sub vassal: d_buqebar - Setting independent due to liege destruction
+307 - Made independent
+307 - sub vassal: d_buqebar - Made independent
+307 - sub vassal: c_alebar - Setting independent due to liege destruction
+307 - sub vassal: c_alebar - Made independent
+307 - sub vassal: c_lisamin - Setting independent due to liege destruction
+307 - sub vassal: c_lisamin - Made independent
+307 - Holder 1010004 - Primary title: d_buqebar has lost the title: d_buqebar
+307 - Title given to 1010004 - Primary title: c_solitya
+307 - vassal: c_solitya - Holder (1010004) has gained d_buqebar
+307 - sub vassal: c_solitya - Holder (1010004) has gained d_buqebar
+307 - vassal: c_ralitya - Setting to vassal of d_eshirdas in Validate Realm
+307 - Lost vassal: c_ralitya
+307 - vassal: c_dyadibel - Setting to vassal of d_eshirdas in Validate Realm
+307 - Lost vassal: c_dyadibel
+307 - vassal: c_rameph - Setting to vassal of d_eshirdas in Validate Realm
+307 - Lost vassal: c_rameph
+307 - Holder (1010004) has gained d_eshirdas
+307 - Holder (1010004) has gained c_alebar
+307 - Holder (1010004) has gained c_lisamin
+307 - sub vassal: c_ralitya - Holder 1010004 - Primary title: c_ralitya has lost the title: c_ralitya
+307 - sub vassal: c_ralitya - Title given to 1010004 - Primary title: d_buqebar
+307 - Holder (1010004) has gained c_ralitya
+307 - sub vassal: c_dyadibel - Holder 1010004 - Primary title: c_dyadibel has lost the title: c_dyadibel
+307 - sub vassal: c_dyadibel - Title given to 1010004 - Primary title: d_buqebar
+307 - Holder (1010004) has gained c_dyadibel
+307 - sub vassal: c_rameph - Holder 1010004 - Primary title: c_rameph has lost the title: c_rameph
+307 - sub vassal: c_rameph - Title given to 1010004 - Primary title: d_buqebar
+307 - Holder (1010004) has gained c_rameph
+307 - Holder 1010254 - Primary title: d_buqebar has lost the title: c_alebar
+307 - Gained vassal: c_alebar
+307 - sub vassal: c_betlha - Made vassal of neighbour (d_tamin) due to being a seperate island
+307 - Holder 1007325 - Primary title: d_buqebar has lost the title: c_lisamin
+322 - Holder 1010518 - Primary title: d_buqebar has lost the title: d_buqebar
+322 - Title given to 1010518
+322 - Holder (1010518) has gained d_eshirdas
+322 - sub vassal: c_rameph - Holder 1010518 - Primary title: c_rameph has lost the title: c_rameph
+322 - sub vassal: c_rameph - Title given to 1010518 - Primary title: d_buqebar
+322 - Holder (1010518) has gained c_rameph
+322 - vassal: c_solitya - Setting independent in Validate Realm
+322 - sub vassal: c_solitya - Setting independent in Validate Realm
+322 - vassal: c_solitya - Made independent
+322 - sub vassal: c_solitya - Made independent
+322 - sub vassal: c_dyadibel - Holder 1010518 - Primary title: c_dyadibel has lost the title: c_dyadibel
+322 - sub vassal: c_dyadibel - Title given to 1010518 - Primary title: d_buqebar
+322 - Holder (1010518) has gained c_dyadibel
+322 - sub vassal: c_ralitya - Holder 1010518 - Primary title: c_ralitya has lost the title: c_ralitya
+322 - sub vassal: c_ralitya - Title given to 1010518 - Primary title: d_buqebar
+322 - Holder (1010518) has gained c_ralitya
+322 - Holder (1010518) has gained c_solitya
+323 - vassal: c_alebar - Holder 1010518 - Primary title: c_alebar has lost the title: c_alebar
+323 - sub vassal: c_alebar - Holder 1010518 - Primary title: c_alebar has lost the title: c_alebar
+323 - vassal: c_alebar - Title given to 1010518 - Primary title: d_buqebar
+323 - sub vassal: c_alebar - Title given to 1010518 - Primary title: d_buqebar
+323 - Holder (1010518) has gained c_alebar
+345 - Holder 1012092 - Primary title: d_buqebar has lost the title: d_buqebar
+345 - Title

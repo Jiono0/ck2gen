@@ -1,0 +1,97 @@
+200 - Title given to 1001038
+200 - vassal: c_lagalp - Given to 1001041 via AddCharacterForTitle
+200 - sub vassal: c_lagalp - Given to 1001041 via AddCharacterForTitle
+200 - vassal: c_lagalp - Holder 1001041 - Primary title: c_lagalp has lost the title: c_lagalp
+200 - sub vassal: c_lagalp - Holder 1001041 - Primary title: c_lagalp has lost the title: c_lagalp
+200 - vassal: c_lagalp - Title given to 1001041
+200 - sub vassal: c_lagalp - Title given to 1001041
+200 - vassal: c_wodoppi - Holder 1001038 - Primary title: c_wodoppi has lost the title: c_wodoppi
+200 - sub vassal: c_wodoppi - Holder 1001038 - Primary title: c_wodoppi has lost the title: c_wodoppi
+200 - vassal: c_wodoppi - Title given to 1001038 - Primary title: d_lonona
+200 - sub vassal: c_wodoppi - Title given to 1001038 - Primary title: d_lonona
+200 - Holder (1001038) has gained c_wodoppi
+200 - vassal: c_lagalp - Holder 1001038 - Primary title: c_lagalp has lost the title: c_lagalp
+200 - sub vassal: c_lagalp - Holder 1001038 - Primary title: c_lagalp has lost the title: c_lagalp
+200 - vassal: c_lagalp - Title given to 1001038 - Primary title: d_lonona
+200 - sub vassal: c_lagalp - Title given to 1001038 - Primary title: d_lonona
+200 - Holder (1001038) has gained c_lagalp
+232 - Holder (1001038) has gained d_kutaz
+232 - Holder (1001038) has gained c_nonalter
+238 - Title given to 1002377
+238 - vassal: c_wodoppi - Setting to vassal of d_kutaz in Validate Realm
+238 - Lost vassal: c_wodoppi
+238 - vassal: c_lagalp - Setting to vassal of d_kutaz in Validate Realm
+238 - Lost vassal: c_lagalp
+238 - Holder (1002377) has gained c_wodoppi
+238 - Gained vassal: c_wodoppi
+238 - Holder (1002377) has gained c_lagalp
+238 - Gained vassal: c_lagalp
+238 - Holder (1002377) has gained d_kutaz
+238 - Holder (1002377) has gained c_nonalter
+253 - vassal: c_lagalp - Given to 1006815 in HandleTitles - Too many duke titles
+253 - vassal: c_lagalp - Title given to 1006815
+253 - Title given to 1002644 - Primary title: k_bodalp
+253 - vassal: c_wodoppi - Setting to vassal of d_qozona in Validate Realm
+253 - Lost vassal: c_wodoppi
+253 - Too many dukes, made direct title into vassal of k_bodalp
+253 - Title given to 1006816
+272 - Holder 1006981 - Primary title: d_lonona has lost the title: d_lonona
+272 - Title given to 1006981
+276 - Holder 1008778 - Primary title: d_lonona has lost the title: d_lonona
+276 - Title given to 1008778
+281 - Holder 1004815 - Primary title: d_lonona has lost the title: d_lonona
+281 - Title given to 1004815 - Primary title: d_wenamon
+293 - Holder 1008686 - Primary title: d_lonona has lost the title: d_wenamon
+293 - Gained vassal: c_nonalp
+293 - Holder 1008686 - Primary title: d_lonona has lost the title: c_nonalp
+293 - vassal: c_nonalp - Title given to 1008686 - Primary title: d_wenamon
+293 - vassal: c_nonalp - Setting to vassal of d_wenamon in Validate Realm
+293 - Lost vassal: c_nonalp
+293 - Holder 1008686 - Primary title: d_lonona has lost the title: d_lonona
+293 - Title given to 1008686 - Primary title: d_wenamon
+300 - Holder 1007885 - Primary title: d_lonona has lost the title: d_wenamon
+300 - Gained vassal: c_nonalp
+300 - Holder 1007885 - Primary title: d_lonona has lost the title: c_nonalp
+300 - vassal: c_nonalp - Title given to 1007885 - Primary title: d_wenamon
+300 - vassal: c_nonalp - Setting to vassal of d_wenamon in Validate Realm
+300 - Lost vassal: c_nonalp
+300 - Holder 1007885 - Primary title: d_lonona has lost the title: d_lonona
+300 - Title given to 1007885 - Primary title: d_wenamon
+301 - Gained vassal: c_wodoppi
+301 - Gained vassal: c_nonalp
+301 - Holder 1010763 - Primary title: d_lonona has lost the title: d_lonona
+301 - Title given to 1010763 - Primary title: d_wenamon
+301 - vassal: c_nonalp - Holder 1010763 - Primary title: c_nonalp has lost the title: c_nonalp
+301 - vassal: c_nonalp - Title given to 1010763 - Primary title: d_wenamon
+301 - vassal: c_wodoppi - Holder 1010763 - Primary title: c_wodoppi has lost the title: c_wodoppi
+301 - vassal: c_wodoppi - Title given to 1010763 - Primary title: d_wenamon
+316 - Gained vassal: c_kenona
+316 - Holder 1012102 - Primary title: d_lonona has lost the title: d_lonona
+316 - Title given to 1012102 - Primary title: d_wenamon
+316 - vassal: c_nonalp - Holder 1012102 - Primary title: c_nonalp has lost the title: c_nonalp
+316 - vassal: c_nonalp - Title given to 1012102 - Primary title: d_wenamon
+316 - vassal: c_wodoppi - Holder 1012102 - Primary title: c_wodoppi has lost the title: c_wodoppi
+316 - vassal: c_wodoppi - Title given to 1012102 - Primary title: d_wenamon
+316 - vassal: c_kenona - Holder 1012102 - Primary title: c_kenona has lost the title: c_kenona
+316 - vassal: c_kenona - Title given to 1012102 - Primary title: d_wenamon
+366 - Holder 1015037 - Primary title: d_lonona has lost the title: d_lonona
+366 - Title given to 1015037 - Primary title: k_bodalp
+366 - vassal: c_lagalp - Holder 1015037 - Primary title: c_lagalp has lost the title: c_lagalp
+366 - vassal: c_lagalp - Title given to 1015037 - Primary title: k_bodalp
+366 - vassal: c_kenona - Holder 1015037 - Primary title: c_kenona has lost the title: c_nonalp
+366 - vassal: c_nonalp - Title given to 1015037 - Primary title: k_bodalp
+366 - vassal: c_kenona - Holder 1015037 - Primary title: c_kenona has lost the title: c_wodoppi
+366 - vassal: c_wodoppi - Title given to 1015037 - Primary title: k_bodalp
+366 - vassal: c_kenona - Holder 1015037 - Primary title: c_kenona has lost the title: c_kenona
+366 - vassal: c_kenona - Title given to 1015037 - Primary title: k_bodalp
+366 - vassal: c_lagalp - Given to 1015752 in HandleTitles - Too many duke titles
+366 - vassal: c_lagalp - Title given to 1015752
+366 - Title given to 1015752 - Primary title: c_lagalp
+366 - vassal: c_lagalp - Holder (1015752) has gained d_lonona
+366 - vassal: c_nonalp - Setting to vassal of k_bodalp in Validate Realm
+366 - Lost vassal: c_nonalp
+366 - vassal: c_wodoppi - Setting to vassal of k_bodalp in Validate Realm
+366 - Lost vassal: c_wodoppi
+366 - vassal: c_kenona - Setting to vassal of k_bodalp in Validate Realm
+366 - Lost vassal: c_kenona
+366 - Too many dukes, given to dejure: k_bodalp

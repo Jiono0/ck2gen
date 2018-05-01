@@ -1,0 +1,54 @@
+200 - Title given to 1000707
+200 - vassal: c_nucund - Given to 1000710 via AddCharacterForTitle
+200 - sub vassal: c_nucund - Given to 1000710 via AddCharacterForTitle
+200 - vassal: c_nucund - Holder 1000710 - Primary title: c_nucund has lost the title: c_nucund
+200 - sub vassal: c_nucund - Holder 1000710 - Primary title: c_nucund has lost the title: c_nucund
+200 - vassal: c_nucund - Title given to 1000710
+200 - sub vassal: c_nucund - Title given to 1000710
+200 - vassal: c_ladabha - Holder 1000707 - Primary title: c_ladabha has lost the title: c_ladabha
+200 - sub vassal: c_ladabha - Holder 1000707 - Primary title: c_ladabha has lost the title: c_ladabha
+200 - vassal: c_ladabha - Title given to 1000707 - Primary title: d_nibuyu
+200 - sub vassal: c_ladabha - Title given to 1000707 - Primary title: d_nibuyu
+200 - Holder (1000707) has gained c_ladabha
+200 - vassal: c_nucund - Holder 1000707 - Primary title: c_nucund has lost the title: c_nucund
+200 - sub vassal: c_nucund - Holder 1000707 - Primary title: c_nucund has lost the title: c_nucund
+200 - vassal: c_nucund - Title given to 1000707 - Primary title: d_nibuyu
+200 - sub vassal: c_nucund - Title given to 1000707 - Primary title: d_nibuyu
+200 - Holder (1000707) has gained c_nucund
+200 - vassal: c_sanoul - Holder 1000707 - Primary title: c_sanoul has lost the title: c_sanoul
+200 - sub vassal: c_sanoul - Holder 1000707 - Primary title: c_sanoul has lost the title: c_sanoul
+200 - vassal: c_sanoul - Title given to 1000707 - Primary title: d_nibuyu
+200 - sub vassal: c_sanoul - Title given to 1000707 - Primary title: d_nibuyu
+200 - Holder (1000707) has gained c_sanoul
+200 - vassal: c_tolamba - Holder 1000707 - Primary title: c_tolamba has lost the title: c_tolamba
+200 - sub vassal: c_tolamba - Holder 1000707 - Primary title: c_tolamba has lost the title: c_tolamba
+200 - vassal: c_tolamba - Title given to 1000707 - Primary title: d_nibuyu
+200 - sub vassal: c_tolamba - Title given to 1000707 - Primary title: d_nibuyu
+200 - Holder (1000707) has gained c_tolamba
+235 - Holder 1004660 - Primary title: d_nibuyu has lost the title: d_nibuyu
+235 - Title given to 1004660 - Primary title: c_rescugel
+235 - Gained vassal: c_rescugel
+235 - vassal: c_ladabha - Holder 1004660 - Primary title: c_ladabha has lost the title: c_ladabha
+235 - vassal: c_ladabha - Title given to 1004660 - Primary title: d_nibuyu
+235 - Holder (1004660) has gained c_ladabha
+235 - vassal: c_nucund - Holder 1004660 - Primary title: c_nucund has lost the title: c_nucund
+235 - vassal: c_nucund - Title given to 1004660 - Primary title: d_nibuyu
+235 - Holder (1004660) has gained c_nucund
+235 - vassal: c_sanoul - Holder 1004660 - Primary title: c_sanoul has lost the title: c_sanoul
+235 - vassal: c_sanoul - Title given to 1004660 - Primary title: d_nibuyu
+235 - Holder (1004660) has gained c_sanoul
+235 - vassal: c_tolamba - Holder 1004660 - Primary title: c_tolamba has lost the title: c_tolamba
+235 - vassal: c_tolamba - Title given to 1004660 - Primary title: d_nibuyu
+235 - Holder (1004660) has gained c_tolamba
+265 - Holder 1004590 - Primary title: d_nibuyu has lost the title: d_nibuyu
+265 - Title given to 1004590 - Primary title: k_kanaud
+265 - vassal: c_rescugel - Holder 1004590 - Primary title: c_rescugel has lost the title: c_ladabha
+265 - vassal: c_ladabha - Title given to 1004590 - Primary title: k_kanaud
+265 - vassal: c_rescugel - Holder 1004590 - Primary title: c_rescugel has lost the title: c_nucund
+265 - vassal: c_nucund - Title given to 1004590 - Primary title: k_kanaud
+265 - vassal: c_rescugel - Holder 1004590 - Primary title: c_rescugel has lost the title: c_sanoul
+265 - vassal: c_sanoul - Title given to 1004590 - Primary title: k_kanaud
+265 - vassal: c_rescugel - Holder 1004590 - Primary title: c_rescugel has lost the title: c_tolamba
+265 - vassal: c_tolamba - Title given to 1004590 - Primary title: k_kanaud
+265 - vassal: c_rescugel - Holder 1004590 - Primary title: c_rescugel has lost the title: c_rescugel
+265 - vassal: c_rescugel - Title given to 1004590 - Prima

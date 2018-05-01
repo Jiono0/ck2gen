@@ -1,0 +1,123 @@
+200 - Title given to 1001311
+200 - vassal: c_tazana - Holder 1001311 - Primary title: c_tazana has lost the title: c_tazana
+200 - sub vassal: c_tazana - Holder 1001311 - Primary title: c_tazana has lost the title: c_tazana
+200 - vassal: c_tazana - Title given to 1001311 - Primary title: d_qorana
+200 - sub vassal: c_tazana - Title given to 1001311 - Primary title: d_qorana
+200 - Holder (1001311) has gained c_tazana
+200 - vassal: c_bugila - Holder 1001311 - Primary title: c_bugila has lost the title: c_bugila
+200 - sub vassal: c_bugila - Holder 1001311 - Primary title: c_bugila has lost the title: c_bugila
+200 - vassal: c_bugila - Title given to 1001311 - Primary title: d_qorana
+200 - sub vassal: c_bugila - Title given to 1001311 - Primary title: d_qorana
+200 - Holder (1001311) has gained c_bugila
+200 - Holder 1001583 - Primary title: d_qorana has lost the title: d_qorana
+200 - Title given to 1001583 - Primary title: k_rugoman
+200 - vassal: c_tazana - Holder 1001583 - Primary title: c_tazana has lost the title: c_tazana
+200 - vassal: c_tazana - Title given to 1001583 - Primary title: k_rugoman
+200 - Holder 1001302 - Primary title: d_qorana has lost the title: d_qorana
+200 - Title given to 1001302 - Primary title: k_rugoman
+200 - vassal: c_tazana - Holder 1001302 - Primary title: c_tazana has lost the title: c_tazana
+200 - vassal: c_tazana - Title given to 1001302 - Primary title: k_rugoman
+201 - vassal: c_bugila - Given to 1002284 in HandleTitles - Too many duke titles
+201 - vassal: c_bugila - Holder 1002284 - Primary title: c_bugila has lost the title: c_bugila
+201 - vassal: c_bugila - Title given to 1002284
+201 - Title given to 1002284 - Primary title: c_bugila
+201 - vassal: c_bugila - Holder (1002284) has gained d_qorana
+201 - vassal: c_tazana - Setting to vassal of k_rugoman in Validate Realm
+201 - Lost vassal: c_tazana
+201 - Too many dukes, given to dejure: k_rugoman
+221 - Holder (1002284) has gained d_lamemme
+221 - Holder (1002284) has gained c_nameike
+221 - Holder (1002284) has gained c_wozel
+221 - Holder (1002284) has gained c_dadeser
+221 - Holder (1002284) has gained c_evanows
+221 - Holder (1002284) has gained c_tiolvi
+221 - Holder (1002284) has gained c_rorandi
+222 - vassal: c_bugila - Given to 1004240 in HandleTitles - Too many duke titles
+222 - vassal: c_bugila - Title given to 1004240
+222 - Title given to 1002558 - Primary title: k_rugoman
+222 - Too many dukes, made direct title into vassal of k_rugoman
+222 - Title given to 1004241
+223 - Holder 1002284 - Primary title: d_qorana has lost the title: d_qorana
+223 - Title given to 1002284 - Primary title: d_ruroman
+224 - Holder 1004404 - Primary title: d_qorana has lost the title: c_rorandi
+224 - Holder 1002558 - Primary title: d_qorana has lost the title: d_ruroman
+224 - Gained vassal: c_tiolvi
+224 - Gained vassal: c_evanows
+224 - Holder 1003730 - Primary title: d_qorana has lost the title: d_lamemme
+224 - Gained vassal: c_wozel
+224 - Gained vassal: c_nameike
+224 - Holder 1003730 - Primary title: d_qorana has lost the title: c_nameike
+224 - vassal: c_nameike - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: c_nameike - Setting to vassal of d_lamemme in Validate Realm
+224 - Lost vassal: c_nameike
+224 - Holder 1003730 - Primary title: d_qorana has lost the title: c_wozel
+224 - vassal: c_wozel - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: c_wozel - Setting to vassal of d_lamemme in Validate Realm
+224 - Lost vassal: c_wozel
+224 - Holder 1003730 - Primary title: d_qorana has lost the title: c_evanows
+224 - vassal: c_evanows - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: c_evanows - Setting to vassal of d_lamemme in Validate Realm
+224 - Lost vassal: c_evanows
+224 - Holder 1003730 - Primary title: d_qorana has lost the title: c_tiolvi
+224 - vassal: c_tiolvi - Title given to 1003730 - Primary title: d_lamemme
+224 - vassal: c_tiolvi - Setting to vassal of d_lamemme in Validate Realm
+224 - Lost vassal: c_tiolvi
+224 - Holder 1003730 - Primary title: d_qorana has lost the title: d_qorana
+224 - Title given to 1003730 - Primary title: d_lamemme
+225 - Holder (1003730) has gained d_ruroman
+283 - Gained vassal: c_nameike
+283 - Gained vassal: c_evanows
+283 - Gained vassal: c_tiolvi
+283 - Holder 1005189 - Primary title: d_qorana has lost the title: d_qorana
+283 - Title given to 1005189 - Primary title: d_ruroman
+283 - vassal: c_tiolvi - Holder 1005189 - Primary title: c_tiolvi has lost the title: c_tiolvi
+283 - vassal: c_tiolvi - Title given to 1005189 - Primary title: d_ruroman
+283 - vassal: c_evanows - Holder 1005189 - Primary title: c_evanows has lost the title: c_evanows
+283 - vassal: c_evanows - Title given to 1005189 - Primary title: d_ruroman
+283 - vassal: c_nameike - Holder 1005189 - Primary title: c_nameike has lost the title: c_nameike
+283 - vassal: c_nameike - Title given to 1005189 - Primary title: d_ruroman
+300 - vassal: c_nameike - Title given to 1010772
+301 - Holder 1009436 - Primary title: d_qorana has lost the title: d_qorana
+301 - Title given to 1009436 - Primary title: d_lamemme
+301 - vassal: c_evanows - Setting independent in Validate Realm
+301 - vassal: c_evanows - Made independent
+301 - vassal: c_tiolvi - Setting independent in Validate Realm
+301 - vassal: c_tiolvi - Made independent
+301 - vassal: c_bugila - Made vassal of neighbour (k_doredas) due to being a seperate island
+301 - Lost vassal: c_bugila
+322 - Gained vassal: c_kawurd
+322 - Gained vassal: c_etameike
+322 - Gained vassal: c_evanows
+322 - Gained vassal: c_tiolvi
+322 - Holder 1011145 - Primary title: d_qorana has lost the title: d_qorana
+322 - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: c_tiolvi - Holder 1011145 - Primary title: c_tiolvi has lost the title: c_tiolvi
+322 - vassal: c_tiolvi - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: c_evanows - Holder 1011145 - Primary title: c_evanows has lost the title: c_evanows
+322 - vassal: c_evanows - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: c_etameike - Holder 1011145 - Primary title: c_etameike has lost the title: c_etameike
+322 - vassal: c_etameike - Title given to 1011145 - Primary title: d_lamemme
+322 - vassal: c_kawurd - Holder 1011145 - Primary title: c_kawurd has lost the title: c_kawurd
+322 - vassal: c_kawurd - Title given to 1011145 - Primary title: d_lamemme
+356 - Holder 1012822 - Primary title: d_qorana has lost the title: d_qorana
+356 - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: c_kawurd - Holder 1012822 - Primary title: c_kawurd has lost the title: c_kawurd
+356 - vassal: c_kawurd - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: c_etameike - Holder 1012822 - Primary title: c_etameike has lost the title: c_etameike
+356 - vassal: c_etameike - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: c_evanows - Holder 1012822 - Primary title: c_evanows has lost the title: c_evanows
+356 - vassal: c_evanows - Title given to 1012822 - Primary title: d_lamemme
+356 - vassal: c_tiolvi - Holder 1012822 - Primary title: c_tiolvi has lost the title: c_tiolvi
+356 - vassal: c_tiolvi - Title given to 1012822 - Primary title: d_lamemme
+375 - vassal: c_tiolvi - Set liege on title creation d_naradas
+375 - Lost vassal: c_tiolvi
+375 - vassal: c_evanows - Set liege on title creation d_naradas
+375 - Lost vassal: c_evanows
+375 - vassal: c_etameike - Set liege on title creation d_naradas
+375 - Lost vassal: c_etameike
+375 - vassal: c_kawurd - Set liege on title creation d_naradas
+375 - Lost vassal: c_kawurd
+386 - Holder 1016141 - Primary title: d_qorana has lost the title: d_qorana
+386 - Title given to 1016141 - Primary title: d_lamemme
+400 - vassal: c_nameike - Holder 1016141 - Primary title: c_nameike has lost the title: c_nameike
+400 - vassal: c_nameike - Title given to 1016141 - Primary title: d_lamemme

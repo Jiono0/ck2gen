@@ -1,0 +1,110 @@
+200 - Title given to 1001187
+200 - vassal: c_kesetmar - Given to 1001190 via AddCharacterForTitle
+200 - sub vassal: c_kesetmar - Given to 1001190 via AddCharacterForTitle
+200 - vassal: c_kesetmar - Holder 1001190 - Primary title: c_kesetmar has lost the title: c_kesetmar
+200 - sub vassal: c_kesetmar - Holder 1001190 - Primary title: c_kesetmar has lost the title: c_kesetmar
+200 - vassal: c_kesetmar - Title given to 1001190
+200 - sub vassal: c_kesetmar - Title given to 1001190
+200 - vassal: c_tusapala - Holder 1001187 - Primary title: c_tusapala has lost the title: c_tusapala
+200 - sub vassal: c_tusapala - Holder 1001187 - Primary title: c_tusapala has lost the title: c_tusapala
+200 - vassal: c_tusapala - Title given to 1001187 - Primary title: d_qesetmar
+200 - sub vassal: c_tusapala - Title given to 1001187 - Primary title: d_qesetmar
+200 - Holder (1001187) has gained c_tusapala
+200 - vassal: c_kesetmar - Holder 1001187 - Primary title: c_kesetmar has lost the title: c_kesetmar
+200 - sub vassal: c_kesetmar - Holder 1001187 - Primary title: c_kesetmar has lost the title: c_kesetmar
+200 - vassal: c_kesetmar - Title given to 1001187 - Primary title: d_qesetmar
+200 - sub vassal: c_kesetmar - Title given to 1001187 - Primary title: d_qesetmar
+200 - Holder (1001187) has gained c_kesetmar
+200 - vassal: c_relayor - Title given to 1001187 - Primary title: d_qesetmar
+200 - Holder (1001187) has gained c_relayor
+200 - vassal: c_wafent - Holder 1001187 - Primary title: c_wafent has lost the title: c_wafent
+200 - sub vassal: c_wafent - Holder 1001187 - Primary title: c_wafent has lost the title: c_wafent
+200 - vassal: c_wafent - Title given to 1001187 - Primary title: d_qesetmar
+200 - sub vassal: c_wafent - Title given to 1001187 - Primary title: d_qesetmar
+200 - Holder (1001187) has gained c_wafent
+249 - Holder 1003977 - Primary title: d_qesetmar has lost the title: d_qesetmar
+249 - Title given to 1003977
+249 - vassal: c_wafent - Holder 1003977 - Primary title: c_wafent has lost the title: c_wafent
+249 - vassal: c_wafent - Title given to 1003977 - Primary title: d_qesetmar
+249 - Holder (1003977) has gained c_wafent
+249 - vassal: c_relayor - Holder 1003977 - Primary title: c_relayor has lost the title: c_relayor
+249 - vassal: c_relayor - Title given to 1003977 - Primary title: d_qesetmar
+249 - Holder (1003977) has gained c_relayor
+249 - vassal: c_kesetmar - Holder 1003977 - Primary title: c_kesetmar has lost the title: c_kesetmar
+249 - vassal: c_kesetmar - Title given to 1003977 - Primary title: d_qesetmar
+249 - Holder (1003977) has gained c_kesetmar
+249 - vassal: c_tusapala - Holder 1003977 - Primary title: c_tusapala has lost the title: c_tusapala
+249 - vassal: c_tusapala - Title given to 1003977 - Primary title: d_qesetmar
+249 - Holder (1003977) has gained c_tusapala
+259 - Captured byk_kyutila in minor war
+259 - Made vassal of neighbour (k_ditedas) due to being a seperate island
+259 - Given to neighbour holder of k_ditedas
+259 - Holder 1004752 - Primary title: d_qesetmar has lost the title: d_qesetmar
+259 - Title given to 1004752 - Primary title: k_ditedas
+269 - vassal: c_tusapala - Given to 1008204 in HandleTitles - Too many duke titles
+269 - vassal: c_wafent - Holder 1008204 - Primary title: c_wafent has lost the title: c_tusapala
+269 - vassal: c_tusapala - Title given to 1008204
+269 - Title given to 1008204 - Primary title: c_tusapala
+269 - vassal: c_tusapala - Holder (1008204) has gained d_qesetmar
+269 - Too many dukes, given to dejure: k_ditedas
+291 - Holder 1008363 - Primary title: d_qesetmar has lost the title: d_qesetmar
+291 - Title given to 1008363
+291 - vassal: c_tusapala - Holder 1008363 - Primary title: c_tusapala has lost the title: c_tusapala
+291 - vassal: c_tusapala - Title given to 1008363 - Primary title: d_qesetmar
+291 - Holder (1008363) has gained c_tusapala
+294 - Holder 1009823 - Primary title: d_qesetmar has lost the title: d_qesetmar
+294 - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_tusapala - Holder 1009823 - Primary title: c_tusapala has lost the title: c_tusapala
+294 - vassal: c_tusapala - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_wafent - Holder 1009823 - Primary title: c_wafent has lost the title: c_kesetmar
+294 - vassal: c_kesetmar - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_wafent - Holder 1009823 - Primary title: c_wafent has lost the title: c_relayor
+294 - vassal: c_relayor - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_wafent - Holder 1009823 - Primary title: c_wafent has lost the title: c_wafent
+294 - vassal: c_wafent - Title given to 1009823 - Primary title: k_ditedas
+294 - vassal: c_tusapala - Given to 1010254 in HandleTitles - Too many duke titles
+294 - vassal: c_tusapala - Title given to 1010254
+294 - Title given to 1010254 - Primary title: c_tusapala
+294 - vassal: c_tusapala - Holder (1010254) has gained d_qesetmar
+294 - vassal: c_kesetmar - Setting to vassal of k_ditedas in Validate Realm
+294 - Lost vassal: c_kesetmar
+294 - vassal: c_relayor - Setting to vassal of k_ditedas in Validate Realm
+294 - Lost vassal: c_relayor
+294 - vassal: c_wafent - Setting to vassal of k_ditedas in Validate Realm
+294 - Lost vassal: c_wafent
+294 - Too many dukes, given to dejure: k_ditedas
+312 - Holder 1011244 - Primary title: d_qesetmar has lost the title: d_qesetmar
+312 - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_tusapala - Holder 1011244 - Primary title: c_tusapala has lost the title: c_tusapala
+312 - vassal: c_tusapala - Title given to 1011244 - Primary title: k_ditedas
+312 - vassal: c_tusapala - Given to 1011779 in HandleTitles - Too many duke titles
+312 - vassal: c_tusapala - Title given to 1011779
+312 - Title given to 1011779 - Primary title: c_tusapala
+312 - vassal: c_tusapala - Holder (1011779) has gained d_qesetmar
+312 - Too many dukes, given to dejure: k_ditedas
+350 - Holder 1011792 - Primary title: d_qesetmar has lost the title: d_qesetmar
+350 - Title given to 1011792 - Primary title: c_bamayor
+350 - Gained vassal: c_bamayor
+350 - vassal: c_tusapala - Holder 1011792 - Primary title: c_tusapala has lost the title: c_tusapala
+350 - vassal: c_tusapala - Title given to 1011792 - Primary title: d_qesetmar
+350 - Holder (1011792) has gained c_tusapala
+362 - Holder 1015123 - Primary title: d_qesetmar has lost the title: d_qesetmar
+362 - Title given to 1015123
+362 - vassal: c_tusapala - Holder 1015123 - Primary title: c_tusapala has lost the title: c_tusapala
+362 - vassal: c_tusapala - Title given to 1015123 - Primary title: d_qesetmar
+362 - Holder (1015123) has gained c_tusapala
+362 - vassal: c_bamayor - Holder 1015123 - Primary title: c_bamayor has lost the title: c_bamayor
+362 - vassal: c_bamayor - Title given to 1015123 - Primary title: d_qesetmar
+362 - Holder (1015123) has gained c_bamayor
+384 - Holder 1016339 - Primary title: d_qesetmar has lost the title: d_qesetmar
+384 - Title given to 1016339
+384 - vassal: c_bamayor - Holder 1016339 - Primary title: c_bamayor has lost the title: c_bamayor
+384 - vassal: c_bamayor - Title given to 1016339 - Primary title: d_qesetmar
+384 - Holder (1016339) has gained c_bamayor
+384 - vassal: c_tusapala - Holder 1016339 - Primary title: c_tusapala has lost the title: c_tusapala
+384 - vassal: c_tusapala - Title given to 1016339 - Primary title: d_qesetmar
+384 - Holder (1016339) has gained c_tusapala
+400 - Holder (1016339) has gained c_novigo
+400 - Gained vassal: c_novigo
+400 - Holder (1016339) has gained c_kesetmar
+400 - Gained vassal: c_kesetmar

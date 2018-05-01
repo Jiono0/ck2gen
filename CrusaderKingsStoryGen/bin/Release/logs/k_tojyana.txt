@@ -1,0 +1,1032 @@
+200 - Title given to 1001566
+200 - vassal: d_ehumimir - Holder 1001566 - Primary title: d_ehumimir has lost the title: d_ehumimir
+200 - sub vassal: d_ehumimir - Holder 1001566 - Primary title: d_ehumimir has lost the title: d_ehumimir
+200 - vassal: d_ehumimir - Title given to 1001566 - Primary title: k_tojyana
+200 - sub vassal: d_ehumimir - Title given to 1001566 - Primary title: k_tojyana
+200 - Holder (1001566) has gained d_ehumimir
+200 - sub vassal: c_sorarl - Holder 1001566 - Primary title: c_sorarl has lost the title: c_sorarl
+200 - sub vassal: c_sorarl - Title given to 1001566 - Primary title: k_tojyana
+200 - Holder (1001566) has gained c_sorarl
+205 - vassal: d_kelina - Holder 1001566 - Primary title: d_kelina has lost the title: d_kelina
+205 - sub vassal: d_kelina - Holder 1001566 - Primary title: d_kelina has lost the title: d_kelina
+205 - vassal: d_kelina - Title given to 1001566 - Primary title: k_tojyana
+205 - sub vassal: d_kelina - Title given to 1001566 - Primary title: k_tojyana
+205 - Holder (1001566) has gained d_kelina
+205 - sub vassal: c_lekyo - Holder 1001566 - Primary title: c_lekyo has lost the title: c_lekyo
+205 - sub vassal: c_lekyo - Title given to 1001566 - Primary title: k_tojyana
+205 - Holder (1001566) has gained c_lekyo
+205 - sub vassal: c_lurasa - Holder 1001566 - Primary title: c_lurasa has lost the title: c_lurasa
+205 - sub vassal: c_lurasa - Title given to 1001566 - Primary title: k_tojyana
+205 - Holder (1001566) has gained c_lurasa
+205 - sub vassal: c_duler - Holder 1001566 - Primary title: c_duler has lost the title: c_duler
+205 - sub vassal: c_duler - Title given to 1001566 - Primary title: k_tojyana
+205 - Holder (1001566) has gained c_duler
+205 - sub vassal: c_aguyyo - Holder 1001566 - Primary title: c_aguyyo has lost the title: c_aguyyo
+205 - sub vassal: c_aguyyo - Title given to 1001566 - Primary title: k_tojyana
+205 - Holder (1001566) has gained c_aguyyo
+215 - Holder 1002274 - Primary title: k_tojyana has lost the title: k_tojyana
+215 - Title given to 1002274
+215 - vassal: d_ehumimir - Holder 1002274 - Primary title: d_ehumimir has lost the title: d_ehumimir
+215 - sub vassal: d_ehumimir - Holder 1002274 - Primary title: d_ehumimir has lost the title: d_ehumimir
+215 - vassal: d_ehumimir - Title given to 1002274 - Primary title: k_tojyana
+215 - sub vassal: d_ehumimir - Title given to 1002274 - Primary title: k_tojyana
+215 - Holder (1002274) has gained d_ehumimir
+215 - sub vassal: c_sorarl - Setting to vassal of d_kelina in Validate Realm
+215 - vassal: d_ehumimir - Lost vassal: c_sorarl
+215 - sub vassal: d_ehumimir - Lost vassal: c_sorarl
+215 - vassal: d_kelina - Gained vassal: c_sorarl
+215 - sub vassal: d_kelina - Gained vassal: c_sorarl
+215 - vassal: d_kelina - Holder 1002274 - Primary title: d_kelina has lost the title: c_sorarl
+215 - sub vassal: d_kelina - Holder 1002274 - Primary title: d_kelina has lost the title: c_sorarl
+215 - sub vassal: c_sorarl - Title given to 1002274 - Primary title: k_tojyana
+215 - Holder (1002274) has gained c_sorarl
+215 - sub vassal: c_sorarl - Setting to vassal of k_tojyana in Validate Realm
+215 - vassal: d_kelina - Lost vassal: c_sorarl
+215 - sub vassal: d_kelina - Lost vassal: c_sorarl
+215 - Gained vassal: c_sorarl
+215 - vassal: d_kelina - Holder 1002274 - Primary title: d_kelina has lost the title: d_kelina
+215 - sub vassal: d_kelina - Holder 1002274 - Primary title: d_kelina has lost the title: d_kelina
+215 - vassal: d_kelina - Title given to 1002274 - Primary title: k_tojyana
+215 - sub vassal: d_kelina - Title given to 1002274 - Primary title: k_tojyana
+215 - Holder (1002274) has gained d_kelina
+215 - sub vassal: c_lekyo - Holder 1002274 - Primary title: c_lekyo has lost the title: c_lekyo
+215 - sub vassal: c_lekyo - Title given to 1002274 - Primary title: k_tojyana
+215 - Holder (1002274) has gained c_lekyo
+215 - sub vassal: c_lurasa - Holder 1002274 - Primary title: c_lurasa has lost the title: c_lurasa
+215 - sub vassal: c_lurasa - Title given to 1002274 - Primary title: k_tojyana
+215 - Holder (1002274) has gained c_lurasa
+215 - sub vassal: c_duler - Holder 1002274 - Primary title: c_duler has lost the title: c_duler
+215 - sub vassal: c_duler - Title given to 1002274 - Primary title: k_tojyana
+215 - Holder (1002274) has gained c_duler
+215 - sub vassal: c_aguyyo - Holder 1002274 - Primary title: c_aguyyo has lost the title: c_aguyyo
+215 - sub vassal: c_aguyyo - Title given to 1002274 - Primary title: k_tojyana
+215 - Holder (1002274) has gained c_aguyyo
+228 - vassal: d_suryo - Holder 1003810 - Primary title: d_suryo has lost the title: d_suryo
+228 - sub vassal: d_suryo - Holder 1003810 - Primary title: d_suryo has lost the title: d_suryo
+228 - vassal: d_suryo - Title given to 1003810
+228 - sub vassal: d_suryo - Title given to 1003810
+228 - sub vassal: c_bephen - Holder 1003810 - Primary title: c_bephen has lost the title: c_bephen
+228 - sub vassal: c_bephen - Title given to 1003810 - Primary title: d_suryo
+228 - vassal: d_suryo - Holder (1003810) has gained c_bephen
+228 - sub vassal: d_suryo - Holder (1003810) has gained c_bephen
+228 - sub vassal: c_bulyo - Holder 1003810 - Primary title: c_bulyo has lost the title: c_bulyo
+228 - sub vassal: c_bulyo - Title given to 1003810 - Primary title: d_suryo
+228 - vassal: d_suryo - Holder (1003810) has gained c_bulyo
+228 - sub vassal: d_suryo - Holder (1003810) has gained c_bulyo
+228 - sub vassal: c_nanimia - Holder 1003810 - Primary title: c_nanimia has lost the title: c_nanimia
+228 - sub vassal: c_nanimia - Title given to 1003810 - Primary title: d_suryo
+228 - vassal: d_suryo - Holder (1003810) has gained c_nanimia
+228 - sub vassal: d_suryo - Holder (1003810) has gained c_nanimia
+229 - vassal: d_wuler - Holder 1001328 - Primary title: d_wuler has lost the title: d_wuler
+229 - sub vassal: d_wuler - Holder 1001328 - Primary title: d_wuler has lost the title: d_wuler
+229 - vassal: d_wuler - Title given to 1001328 - Primary title: d_turyo
+229 - sub vassal: d_wuler - Title given to 1001328 - Primary title: d_turyo
+229 - vassal: d_turyo - Holder (1001328) has gained d_wuler
+229 - sub vassal: d_turyo - Holder (1001328) has gained d_wuler
+229 - sub vassal: c_tuder - Holder 1001328 - Primary title: c_tuder has lost the title: c_tuder
+229 - sub vassal: c_tuder - Title given to 1001328 - Primary title: d_turyo
+229 - vassal: d_turyo - Holder (1001328) has gained c_tuder
+229 - sub vassal: d_turyo - Holder (1001328) has gained c_tuder
+229 - sub vassal: c_waryo - Holder 1001328 - Primary title: c_waryo has lost the title: c_waryo
+229 - sub vassal: c_waryo - Title given to 1001328 - Primary title: d_turyo
+229 - vassal: d_turyo - Holder (1001328) has gained c_waryo
+229 - sub vassal: d_turyo - Holder (1001328) has gained c_waryo
+229 - sub vassal: c_sosush - Holder 1001328 - Primary title: c_sosush has lost the title: c_sosush
+229 - sub vassal: c_sosush - Title given to 1001328 - Primary title: d_turyo
+229 - vassal: d_turyo - Holder (1001328) has gained c_sosush
+229 - sub vassal: d_turyo - Holder (1001328) has gained c_sosush
+230 - vassal: d_wuler - Holder 1004904 - Primary title: d_wuler has lost the title: c_egzush
+230 - sub vassal: d_wuler - Holder 1004904 - Primary title: d_wuler has lost the title: c_egzush
+230 - sub vassal: c_egzush - Title given to 1004904
+232 - vassal: d_suryo - Holder 1001328 - Primary title: d_suryo has lost the title: d_suryo
+232 - sub vassal: d_suryo - Holder 1001328 - Primary title: d_suryo has lost the title: d_suryo
+232 - vassal: d_suryo - Title given to 1001328 - Primary title: d_wuler
+232 - sub vassal: d_suryo - Title given to 1001328 - Primary title: d_wuler
+232 - vassal: d_wuler - Holder (1001328) has gained d_suryo
+232 - sub vassal: d_wuler - Holder (1001328) has gained d_suryo
+232 - sub vassal: c_bephen - Holder 1001328 - Primary title: c_bephen has lost the title: c_bephen
+232 - sub vassal: c_bephen - Title given to 1001328 - Primary title: d_turyo
+232 - vassal: d_turyo - Holder (1001328) has gained c_bephen
+232 - sub vassal: d_turyo - Holder (1001328) has gained c_bephen
+232 - sub vassal: c_bulyo - Holder 1001328 - Primary title: c_bulyo has lost the title: c_bulyo
+232 - sub vassal: c_bulyo - Title given to 1001328 - Primary title: d_turyo
+232 - vassal: d_turyo - Holder (1001328) has gained c_bulyo
+232 - sub vassal: d_turyo - Holder (1001328) has gained c_bulyo
+232 - sub vassal: c_nanimia - Holder 1001328 - Primary title: c_nanimia has lost the title: c_nanimia
+232 - sub vassal: c_nanimia - Title given to 1001328 - Primary title: d_turyo
+232 - vassal: d_turyo - Holder (1001328) has gained c_nanimia
+232 - sub vassal: d_turyo - Holder (1001328) has gained c_nanimia
+233 - sub vassal: c_sosush - Given to 1005117 in HandleTitles - Too many duke titles
+233 - vassal: d_suryo - Holder 1005117 - Primary title: d_suryo has lost the title: c_sosush
+233 - sub vassal: d_suryo - Holder 1005117 - Primary title: d_suryo has lost the title: c_sosush
+233 - sub vassal: c_sosush - Title given to 1005117
+233 - vassal: d_suryo - Holder 1002274 - Primary title: d_suryo has lost the title: d_wuler
+233 - sub vassal: d_suryo - Holder 1002274 - Primary title: d_suryo has lost the title: d_wuler
+233 - vassal: d_wuler - Title given to 1002274 - Primary title: k_tojyana
+233 - sub vassal: d_wuler - Title given to 1002274 - Primary title: k_tojyana
+233 - Holder (1002274) has gained d_wuler
+233 - sub vassal: c_tuder - Setting to vassal of d_suryo in Validate Realm
+233 - vassal: d_wuler - Lost vassal: c_tuder
+233 - sub vassal: d_wuler - Lost vassal: c_tuder
+233 - sub vassal: c_waryo - Setting to vassal of d_suryo in Validate Realm
+233 - vassal: d_wuler - Lost vassal: c_waryo
+233 - sub vassal: d_wuler - Lost vassal: c_waryo
+233 - vassal: d_suryo - Gained vassal: c_waryo
+233 - sub vassal: d_suryo - Gained vassal: c_waryo
+233 - vassal: d_suryo - Gained vassal: c_tuder
+233 - sub vassal: d_suryo - Gained vassal: c_tuder
+233 - vassal: d_wuler - Too many dukes, made direct title into vassal of k_tojyana
+233 - sub vassal: d_wuler - Too many dukes, made direct title into vassal of k_tojyana
+233 - Holder 1005118 - Primary title: k_tojyana has lost the title: d_wuler
+233 - vassal: d_wuler - Title given to 1005118
+233 - sub vassal: d_wuler - Title given to 1005118
+233 - vassal: d_suryo - Holder 1005119 - Primary title: d_suryo has lost the title: c_sorena
+233 - sub vassal: d_suryo - Holder 1005119 - Primary title: d_suryo has lost the title: c_sorena
+233 - sub vassal: c_sorena - Title given to 1005119
+233 - vassal: d_suryo - Holder 1005121 - Primary title: d_suryo has lost the title: c_sujyana
+233 - sub vassal: d_suryo - Holder 1005121 - Primary title: d_suryo has lost the title: c_sujyana
+233 - sub vassal: c_sujyana - Title given to 1005121
+235 - vassal: d_wojyana - Holder 1002511 - Primary title: d_wojyana has lost the title: d_wojyana
+235 - sub vassal: d_wojyana - Holder 1002511 - Primary title: d_wojyana has lost the title: d_wojyana
+235 - vassal: d_wojyana - Title given to 1002511
+235 - sub vassal: d_wojyana - Title given to 1002511
+235 - sub vassal: c_kojinia - Holder 1002511 - Primary title: c_kojinia has lost the title: c_kojinia
+235 - sub vassal: c_kojinia - Title given to 1002511 - Primary title: d_wojyana
+235 - vassal: d_wojyana - Holder (1002511) has gained c_kojinia
+235 - sub vassal: d_wojyana - Holder (1002511) has gained c_kojinia
+235 - sub vassal: c_tumimir - Holder 1002511 - Primary title: c_tumimir has lost the title: c_tumimir
+235 - sub vassal: c_tumimir - Title given to 1002511 - Primary title: d_wojyana
+235 - vassal: d_wojyana - Holder (1002511) has gained c_tumimir
+235 - sub vassal: d_wojyana - Holder (1002511) has gained c_tumimir
+235 - sub vassal: c_anazyana - Holder 1002511 - Primary title: c_anazyana has lost the title: c_anazyana
+235 - sub vassal: c_anazyana - Title given to 1002511 - Primary title: d_wojyana
+235 - vassal: d_wojyana - Holder (1002511) has gained c_anazyana
+235 - sub vassal: d_wojyana - Holder (1002511) has gained c_anazyana
+243 - vassal: d_suryo - Holder 1002773 - Primary title: d_suryo has lost the title: d_suryo
+243 - sub vassal: d_suryo - Holder 1002773 - Primary title: d_suryo has lost the title: d_suryo
+243 - vassal: d_suryo - Title given to 1002773
+243 - sub vassal: d_suryo - Title given to 1002773
+243 - sub vassal: c_nanimia - Setting to vassal of d_turyo in Validate Realm
+243 - vassal: d_suryo - Lost vassal: c_nanimia
+243 - sub vassal: d_suryo - Lost vassal: c_nanimia
+243 - sub vassal: c_bulyo - Setting to vassal of d_turyo in Validate Realm
+243 - vassal: d_suryo - Lost vassal: c_bulyo
+243 - sub vassal: d_suryo - Lost vassal: c_bulyo
+243 - sub vassal: c_bephen - Setting to vassal of d_turyo in Validate Realm
+243 - vassal: d_suryo - Lost vassal: c_bephen
+243 - sub vassal: d_suryo - Lost vassal: c_bephen
+243 - sub vassal: c_waryo - Setting to vassal of d_turyo in Validate Realm
+243 - vassal: d_suryo - Lost vassal: c_waryo
+243 - sub vassal: d_suryo - Lost vassal: c_waryo
+243 - sub vassal: c_tuder - Setting to vassal of d_turyo in Validate Realm
+243 - vassal: d_suryo - Lost vassal: c_tuder
+243 - sub vassal: d_suryo - Lost vassal: c_tuder
+243 - vassal: d_turyo - Gained vassal: c_tuder
+243 - sub vassal: d_turyo - Gained vassal: c_tuder
+243 - vassal: d_turyo - Gained vassal: c_waryo
+243 - sub vassal: d_turyo - Gained vassal: c_waryo
+243 - vassal: d_turyo - Gained vassal: c_bephen
+243 - sub vassal: d_turyo - Gained vassal: c_bephen
+243 - vassal: d_turyo - Gained vassal: c_bulyo
+243 - sub vassal: d_turyo - Gained vassal: c_bulyo
+243 - vassal: d_turyo - Gained vassal: c_nanimia
+243 - sub vassal: d_turyo - Gained vassal: c_nanimia
+243 - vassal: d_turyo - Holder 1002773 - Primary title: d_turyo has lost the title: d_turyo
+243 - sub vassal: d_turyo - Holder 1002773 - Primary title: d_turyo has lost the title: d_turyo
+243 - vassal: d_turyo - Title given to 1002773 - Primary title: d_suryo
+243 - sub vassal: d_turyo - Title given to 1002773 - Primary title: d_suryo
+243 - vassal: d_suryo - Holder (1002773) has gained d_turyo
+243 - sub vassal: d_suryo - Holder (1002773) has gained d_turyo
+243 - sub vassal: c_nanimia - Holder 1002773 - Primary title: c_nanimia has lost the title: c_nanimia
+243 - sub vassal: c_nanimia - Title given to 1002773 - Primary title: d_suryo
+243 - vassal: d_suryo - Holder (1002773) has gained c_nanimia
+243 - sub vassal: d_suryo - Holder (1002773) has gained c_nanimia
+243 - sub vassal: c_bulyo - Holder 1002773 - Primary title: c_bulyo has lost the title: c_bulyo
+243 - sub vassal: c_bulyo - Title given to 1002773 - Primary title: d_suryo
+243 - vassal: d_suryo - Holder (1002773) has gained c_bulyo
+243 - sub vassal: d_suryo - Holder (1002773) has gained c_bulyo
+243 - sub vassal: c_bephen - Holder 1002773 - Primary title: c_bephen has lost the title: c_bephen
+243 - sub vassal: c_bephen - Title given to 1002773 - Primary title: d_suryo
+243 - vassal: d_suryo - Holder (1002773) has gained c_bephen
+243 - sub vassal: d_suryo - Holder (1002773) has gained c_bephen
+243 - sub vassal: c_waryo - Holder 1002773 - Primary title: c_waryo has lost the title: c_waryo
+243 - sub vassal: c_waryo - Title given to 1002773 - Primary title: d_suryo
+243 - vassal: d_suryo - Holder (1002773) has gained c_waryo
+243 - sub vassal: d_suryo - Holder (1002773) has gained c_waryo
+243 - sub vassal: c_tuder - Holder 1002773 - Primary title: c_tuder has lost the title: c_tuder
+243 - sub vassal: c_tuder - Title given to 1002773 - Primary title: d_suryo
+243 - vassal: d_suryo - Holder (1002773) has gained c_tuder
+243 - sub vassal: d_suryo - Holder (1002773) has gained c_tuder
+244 - vassal: d_suryo - Destroyed due to flagged problem
+244 - sub vassal: d_suryo - Destroyed due to flagged problem
+244 - vassal: d_suryo - Made independent
+244 - sub vassal: d_suryo - Made independent
+246 - vassal: d_wojyana - Holder 1002274 - Primary title: d_wojyana has lost the title: d_wojyana
+246 - sub vassal: d_wojyana - Holder 1002274 - Primary title: d_wojyana has lost the title: d_wojyana
+246 - vassal: d_wojyana - Title given to 1002274 - Primary title: k_tojyana
+246 - sub vassal: d_wojyana - Title given to 1002274 - Primary title: k_tojyana
+246 - Holder (1002274) has gained d_wojyana
+246 - sub vassal: c_anazyana - Holder 1002274 - Primary title: c_anazyana has lost the title: c_anazyana
+246 - sub vassal: c_anazyana - Title given to 1002274 - Primary title: k_tojyana
+246 - Holder (1002274) has gained c_anazyana
+246 - sub vassal: c_tumimir - Holder 1002274 - Primary title: c_tumimir has lost the title: c_tumimir
+246 - sub vassal: c_tumimir - Title given to 1002274 - Primary title: k_tojyana
+246 - Holder (1002274) has gained c_tumimir
+246 - sub vassal: c_kojinia - Holder 1002274 - Primary title: c_kojinia has lost the title: c_kojinia
+246 - sub vassal: c_kojinia - Title given to 1002274 - Primary title: k_tojyana
+246 - Holder (1002274) has gained c_kojinia
+246 - sub vassal: c_anazyana - Given to 1003274 in HandleTitles - Too many duke titles
+246 - Holder 1003274 - Primary title: k_tojyana has lost the title: c_anazyana
+246 - sub vassal: c_anazyana - Title given to 1003274
+246 - Holder 1003274 - Primary title: k_tojyana has lost the title: d_wojyana
+246 - vassal: d_wojyana - Title given to 1003274 - Primary title: c_anazyana
+246 - sub vassal: d_wojyana - Title given to 1003274 - Primary title: c_anazyana
+246 - sub vassal: c_anazyana - Holder (1003274) has gained d_wojyana
+246 - sub vassal: c_tumimir - Setting to vassal of k_tojyana in Validate Realm
+246 - vassal: d_wojyana - Lost vassal: c_tumimir
+246 - sub vassal: d_wojyana - Lost vassal: c_tumimir
+246 - sub vassal: c_kojinia - Setting to vassal of k_tojyana in Validate Realm
+246 - vassal: d_wojyana - Lost vassal: c_kojinia
+246 - sub vassal: d_wojyana - Lost vassal: c_kojinia
+246 - Gained vassal: c_kojinia
+246 - Gained vassal: c_tumimir
+246 - vassal: d_wojyana - Too many dukes, given to dejure: k_tojyana
+246 - sub vassal: d_wojyana - Too many dukes, given to dejure: k_tojyana
+246 - Holder 1006237 - Primary title: k_tojyana has lost the title: c_duler
+246 - sub vassal: c_duler - Title given to 1006237
+246 - Holder 1006238 - Primary title: k_tojyana has lost the title: c_tumimir
+246 - vassal: c_tumimir - Title given to 1006238
+246 - sub vassal: c_tumimir - Title given to 1006238
+248 - vassal: d_turyo - Holder (1002773) has gained d_suryo
+248 - sub vassal: d_turyo - Holder (1002773) has gained d_suryo
+248 - Gained vassal: d_suryo
+248 - vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+248 - sub vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+248 - vassal: d_suryo - Made independent
+248 - sub vassal: d_suryo - Made independent
+248 - sub vassal: c_nanimia - Set liege on title creation d_suryo
+248 - vassal: d_turyo - Lost vassal: c_nanimia
+248 - sub vassal: d_turyo - Lost vassal: c_nanimia
+248 - sub vassal: c_bulyo - Set liege on title creation d_suryo
+248 - vassal: d_turyo - Lost vassal: c_bulyo
+248 - sub vassal: d_turyo - Lost vassal: c_bulyo
+248 - sub vassal: c_bephen - Set liege on title creation d_suryo
+248 - vassal: d_turyo - Lost vassal: c_bephen
+248 - sub vassal: d_turyo - Lost vassal: c_bephen
+248 - sub vassal: c_waryo - Set liege on title creation d_suryo
+248 - vassal: d_turyo - Lost vassal: c_waryo
+248 - sub vassal: d_turyo - Lost vassal: c_waryo
+248 - sub vassal: c_tuder - Set liege on title creation d_suryo
+248 - vassal: d_turyo - Lost vassal: c_tuder
+248 - sub vassal: d_turyo - Lost vassal: c_tuder
+248 - sub vassal: c_bephen - Setting independent due to liege destruction
+248 - sub vassal: c_bephen - Made independent
+248 - sub vassal: c_waryo - Setting independent due to liege destruction
+248 - sub vassal: c_waryo - Made independent
+248 - sub vassal: c_tuder - Setting independent due to liege destruction
+248 - sub vassal: c_tuder - Made independent
+248 - sub vassal: c_nanimia - Setting independent due to liege destruction
+248 - sub vassal: c_nanimia - Made independent
+248 - sub vassal: c_bulyo - Setting independent due to liege destruction
+248 - sub vassal: c_bulyo - Made independent
+252 - vassal: d_wuler - Holder 1005646 - Primary title: d_wuler has lost the title: d_wuler
+252 - sub vassal: d_wuler - Holder 1005646 - Primary title: d_wuler has lost the title: d_wuler
+252 - vassal: d_wuler - Title given to 1005646
+252 - sub vassal: d_wuler - Title given to 1005646
+253 - vassal: d_turyo - Holder 1006740 - Primary title: d_turyo has lost the title: d_turyo
+253 - sub vassal: d_turyo - Holder 1006740 - Primary title: d_turyo has lost the title: d_turyo
+253 - vassal: d_turyo - Title given to 1006740
+253 - sub vassal: d_turyo - Title given to 1006740
+253 - vassal: d_turyo - Holder (1006740) has gained c_nanimia
+253 - sub vassal: d_turyo - Holder (1006740) has gained c_nanimia
+253 - vassal: d_turyo - Holder (1006740) has gained c_bulyo
+253 - sub vassal: d_turyo - Holder (1006740) has gained c_bulyo
+253 - vassal: d_turyo - Holder (1006740) has gained c_bephen
+253 - sub vassal: d_turyo - Holder (1006740) has gained c_bephen
+253 - vassal: d_turyo - Holder (1006740) has gained c_waryo
+253 - sub vassal: d_turyo - Holder (1006740) has gained c_waryo
+253 - vassal: d_turyo - Holder (1006740) has gained c_tuder
+253 - sub vassal: d_turyo - Holder (1006740) has gained c_tuder
+255 - Holder 1004072 - Primary title: k_tojyana has lost the title: k_tojyana
+255 - Title given to 1004072
+255 - vassal: d_kelina - Holder 1004072 - Primary title: d_kelina has lost the title: d_kelina
+255 - sub vassal: d_kelina - Holder 1004072 - Primary title: d_kelina has lost the title: d_kelina
+255 - vassal: d_kelina - Title given to 1004072 - Primary title: k_tojyana
+255 - sub vassal: d_kelina - Title given to 1004072 - Primary title: k_tojyana
+255 - Holder (1004072) has gained d_kelina
+255 - vassal: c_sorarl - Setting to vassal of d_ehumimir in Validate Realm
+255 - sub vassal: c_sorarl - Setting to vassal of d_ehumimir in Validate Realm
+255 - Lost vassal: c_sorarl
+255 - sub vassal: c_lekyo - Setting to vassal of d_ehumimir in Validate Realm
+255 - vassal: d_kelina - Lost vassal: c_lekyo
+255 - sub vassal: d_kelina - Lost vassal: c_lekyo
+255 - sub vassal: c_lurasa - Setting to vassal of d_ehumimir in Validate Realm
+255 - vassal: d_kelina - Lost vassal: c_lurasa
+255 - sub vassal: d_kelina - Lost vassal: c_lurasa
+255 - sub vassal: c_aguyyo - Setting to vassal of d_ehumimir in Validate Realm
+255 - vassal: d_kelina - Lost vassal: c_aguyyo
+255 - sub vassal: d_kelina - Lost vassal: c_aguyyo
+255 - vassal: c_kojinia - Setting to vassal of d_ehumimir in Validate Realm
+255 - sub vassal: c_kojinia - Setting to vassal of d_ehumimir in Validate Realm
+255 - Lost vassal: c_kojinia
+255 - vassal: d_ehumimir - Gained vassal: c_kojinia
+255 - sub vassal: d_ehumimir - Gained vassal: c_kojinia
+255 - vassal: d_ehumimir - Gained vassal: c_aguyyo
+255 - sub vassal: d_ehumimir - Gained vassal: c_aguyyo
+255 - vassal: d_ehumimir - Gained vassal: c_lurasa
+255 - sub vassal: d_ehumimir - Gained vassal: c_lurasa
+255 - vassal: d_ehumimir - Gained vassal: c_lekyo
+255 - sub vassal: d_ehumimir - Gained vassal: c_lekyo
+255 - vassal: d_ehumimir - Gained vassal: c_sorarl
+255 - sub vassal: d_ehumimir - Gained vassal: c_sorarl
+255 - vassal: d_ehumimir - Holder 1004072 - Primary title: d_ehumimir has lost the title: d_ehumimir
+255 - sub vassal: d_ehumimir - Holder 1004072 - Primary title: d_ehumimir has lost the title: d_ehumimir
+255 - vassal: d_ehumimir - Title given to 1004072 - Primary title: k_tojyana
+255 - sub vassal: d_ehumimir - Title given to 1004072 - Primary title: k_tojyana
+255 - Holder (1004072) has gained d_ehumimir
+255 - sub vassal: c_sorarl - Holder 1004072 - Primary title: c_sorarl has lost the title: c_sorarl
+255 - sub vassal: c_sorarl - Title given to 1004072 - Primary title: k_tojyana
+255 - Holder (1004072) has gained c_sorarl
+255 - sub vassal: c_lekyo - Holder 1004072 - Primary title: c_lekyo has lost the title: c_lekyo
+255 - sub vassal: c_lekyo - Title given to 1004072 - Primary title: k_tojyana
+255 - Holder (1004072) has gained c_lekyo
+255 - sub vassal: c_lurasa - Holder 1004072 - Primary title: c_lurasa has lost the title: c_lurasa
+255 - sub vassal: c_lurasa - Title given to 1004072 - Primary title: k_tojyana
+255 - Holder (1004072) has gained c_lurasa
+255 - sub vassal: c_aguyyo - Holder 1004072 - Primary title: c_aguyyo has lost the title: c_aguyyo
+255 - sub vassal: c_aguyyo - Title given to 1004072 - Primary title: k_tojyana
+255 - Holder (1004072) has gained c_aguyyo
+255 - sub vassal: c_kojinia - Holder 1004072 - Primary title: c_kojinia has lost the title: c_kojinia
+255 - sub vassal: c_kojinia - Title given to 1004072 - Primary title: k_tojyana
+255 - Holder (1004072) has gained c_kojinia
+256 - vassal: d_turyo - Holder (1006740) has gained d_suryo
+256 - sub vassal: d_turyo - Holder (1006740) has gained d_suryo
+256 - Gained vassal: d_suryo
+256 - vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+256 - sub vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+256 - vassal: d_suryo - Made independent
+256 - sub vassal: d_suryo - Made independent
+256 - sub vassal: c_tuder - Setting independent due to liege destruction
+256 - sub vassal: c_tuder - Made independent
+256 - sub vassal: c_waryo - Setting independent due to liege destruction
+256 - sub vassal: c_waryo - Made independent
+256 - sub vassal: c_bephen - Setting independent due to liege destruction
+256 - sub vassal: c_bephen - Made independent
+256 - sub vassal: c_bulyo - Setting independent due to liege destruction
+256 - sub vassal: c_bulyo - Made independent
+256 - sub vassal: c_nanimia - Setting independent due to liege destruction
+256 - sub vassal: c_nanimia - Made independent
+268 - vassal: d_wojyana - Holder 1006650 - Primary title: d_wojyana has lost the title: d_wojyana
+268 - sub vassal: d_wojyana - Holder 1006650 - Primary title: d_wojyana has lost the title: d_wojyana
+268 - vassal: d_wojyana - Title given to 1006650
+268 - sub vassal: d_wojyana - Title given to 1006650
+268 - sub vassal: c_anazyana - Holder 1006650 - Primary title: c_anazyana has lost the title: c_anazyana
+268 - sub vassal: c_anazyana - Title given to 1006650 - Primary title: d_wojyana
+268 - vassal: d_wojyana - Holder (1006650) has gained c_anazyana
+268 - sub vassal: d_wojyana - Holder (1006650) has gained c_anazyana
+276 - Holder 1007256 - Primary title: k_tojyana has lost the title: k_tojyana
+276 - Title given to 1007256
+276 - vassal: d_kelina - Holder 1007256 - Primary title: d_kelina has lost the title: d_kelina
+276 - sub vassal: d_kelina - Holder 1007256 - Primary title: d_kelina has lost the title: d_kelina
+276 - vassal: d_kelina - Title given to 1007256 - Primary title: k_tojyana
+276 - sub vassal: d_kelina - Title given to 1007256 - Primary title: k_tojyana
+276 - Holder (1007256) has gained d_kelina
+276 - vassal: d_ehumimir - Holder 1007256 - Primary title: d_ehumimir has lost the title: d_ehumimir
+276 - sub vassal: d_ehumimir - Holder 1007256 - Primary title: d_ehumimir has lost the title: d_ehumimir
+276 - vassal: d_ehumimir - Title given to 1007256 - Primary title: k_tojyana
+276 - sub vassal: d_ehumimir - Title given to 1007256 - Primary title: k_tojyana
+276 - Holder (1007256) has gained d_ehumimir
+276 - sub vassal: c_kojinia - Holder 1007256 - Primary title: c_kojinia has lost the title: c_kojinia
+276 - sub vassal: c_kojinia - Title given to 1007256 - Primary title: k_tojyana
+276 - Holder (1007256) has gained c_kojinia
+276 - sub vassal: c_aguyyo - Holder 1007256 - Primary title: c_aguyyo has lost the title: c_aguyyo
+276 - sub vassal: c_aguyyo - Title given to 1007256 - Primary title: k_tojyana
+276 - Holder (1007256) has gained c_aguyyo
+276 - sub vassal: c_lurasa - Holder 1007256 - Primary title: c_lurasa has lost the title: c_lurasa
+276 - sub vassal: c_lurasa - Title given to 1007256 - Primary title: k_tojyana
+276 - Holder (1007256) has gained c_lurasa
+276 - sub vassal: c_lekyo - Holder 1007256 - Primary title: c_lekyo has lost the title: c_lekyo
+276 - sub vassal: c_lekyo - Title given to 1007256 - Primary title: k_tojyana
+276 - Holder (1007256) has gained c_lekyo
+276 - sub vassal: c_sorarl - Holder 1007256 - Primary title: c_sorarl has lost the title: c_sorarl
+276 - sub vassal: c_sorarl - Title given to 1007256 - Primary title: k_tojyana
+276 - Holder (1007256) has gained c_sorarl
+280 - vassal: d_turyo - Holder (1006740) has gained d_suryo
+280 - sub vassal: d_turyo - Holder (1006740) has gained d_suryo
+280 - Gained vassal: d_suryo
+280 - vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+280 - sub vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+280 - vassal: d_suryo - Made independent
+280 - sub vassal: d_suryo - Made independent
+280 - sub vassal: c_tuder - Setting independent due to liege destruction
+280 - sub vassal: c_tuder - Made independent
+280 - sub vassal: c_waryo - Setting independent due to liege destruction
+280 - sub vassal: c_waryo - Made independent
+280 - sub vassal: c_bephen - Setting independent due to liege destruction
+280 - sub vassal: c_bephen - Made independent
+280 - sub vassal: c_bulyo - Setting independent due to liege destruction
+280 - sub vassal: c_bulyo - Made independent
+280 - sub vassal: c_nanimia - Setting independent due to liege destruction
+280 - sub vassal: c_nanimia - Made independent
+285 - vassal: d_wojyana - Holder 1007256 - Primary title: d_wojyana has lost the title: d_wojyana
+285 - sub vassal: d_wojyana - Holder 1007256 - Primary title: d_wojyana has lost the title: d_wojyana
+285 - vassal: d_wojyana - Title given to 1007256 - Primary title: k_tojyana
+285 - sub vassal: d_wojyana - Title given to 1007256 - Primary title: k_tojyana
+285 - Holder (1007256) has gained d_wojyana
+285 - sub vassal: c_anazyana - Holder 1007256 - Primary title: c_anazyana has lost the title: c_anazyana
+285 - sub vassal: c_anazyana - Title given to 1007256 - Primary title: k_tojyana
+285 - Holder (1007256) has gained c_anazyana
+285 - sub vassal: c_duler - Holder 1007256 - Primary title: c_duler has lost the title: c_duler
+285 - sub vassal: c_duler - Title given to 1007256 - Primary title: k_tojyana
+285 - Holder (1007256) has gained c_duler
+285 - sub vassal: c_duler - Given to 1009516 in HandleTitles - Too many duke titles
+285 - Holder 1009516 - Primary title: k_tojyana has lost the title: c_duler
+285 - sub vassal: c_duler - Title given to 1009516
+285 - Holder 1009516 - Primary title: k_tojyana has lost the title: d_kelina
+285 - vassal: d_kelina - Title given to 1009516 - Primary title: c_duler
+285 - sub vassal: d_kelina - Title given to 1009516 - Primary title: c_duler
+285 - sub vassal: c_duler - Holder (1009516) has gained d_kelina
+285 - vassal: d_kelina - Too many dukes, given to dejure: k_tojyana
+285 - sub vassal: d_kelina - Too many dukes, given to dejure: k_tojyana
+285 - Holder 1009517 - Primary title: k_tojyana has lost the title: c_anazyana
+285 - sub vassal: c_anazyana - Title given to 1009517
+286 - vassal: d_turyo - Holder (1006740) has gained d_suryo
+286 - sub vassal: d_turyo - Holder (1006740) has gained d_suryo
+286 - Gained vassal: d_suryo
+286 - vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+286 - sub vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+286 - vassal: d_suryo - Made independent
+286 - sub vassal: d_suryo - Made independent
+286 - sub vassal: c_tuder - Setting independent due to liege destruction
+286 - sub vassal: c_tuder - Made independent
+286 - sub vassal: c_waryo - Setting independent due to liege destruction
+286 - sub vassal: c_waryo - Made independent
+286 - sub vassal: c_bephen - Setting independent due to liege destruction
+286 - sub vassal: c_bephen - Made independent
+286 - sub vassal: c_bulyo - Setting independent due to liege destruction
+286 - sub vassal: c_bulyo - Made independent
+286 - sub vassal: c_nanimia - Setting independent due to liege destruction
+286 - sub vassal: c_nanimia - Made independent
+292 - Holder 1009764 - Primary title: k_tojyana has lost the title: k_tojyana
+292 - Title given to 1009764
+292 - vassal: d_ehumimir - Holder 1009764 - Primary title: d_ehumimir has lost the title: d_ehumimir
+292 - sub vassal: d_ehumimir - Holder 1009764 - Primary title: d_ehumimir has lost the title: d_ehumimir
+292 - vassal: d_ehumimir - Title given to 1009764 - Primary title: k_tojyana
+292 - sub vassal: d_ehumimir - Title given to 1009764 - Primary title: k_tojyana
+292 - Holder (1009764) has gained d_ehumimir
+292 - sub vassal: c_sorarl - Setting to vassal of d_wojyana in Validate Realm
+292 - vassal: d_ehumimir - Lost vassal: c_sorarl
+292 - sub vassal: d_ehumimir - Lost vassal: c_sorarl
+292 - sub vassal: c_lekyo - Setting to vassal of d_wojyana in Validate Realm
+292 - vassal: d_ehumimir - Lost vassal: c_lekyo
+292 - sub vassal: d_ehumimir - Lost vassal: c_lekyo
+292 - sub vassal: c_lurasa - Setting to vassal of d_wojyana in Validate Realm
+292 - vassal: d_ehumimir - Lost vassal: c_lurasa
+292 - sub vassal: d_ehumimir - Lost vassal: c_lurasa
+292 - sub vassal: c_aguyyo - Setting to vassal of d_wojyana in Validate Realm
+292 - vassal: d_ehumimir - Lost vassal: c_aguyyo
+292 - sub vassal: d_ehumimir - Lost vassal: c_aguyyo
+292 - sub vassal: c_kojinia - Setting to vassal of d_wojyana in Validate Realm
+292 - vassal: d_ehumimir - Lost vassal: c_kojinia
+292 - sub vassal: d_ehumimir - Lost vassal: c_kojinia
+292 - vassal: d_wojyana - Gained vassal: c_kojinia
+292 - sub vassal: d_wojyana - Gained vassal: c_kojinia
+292 - vassal: d_wojyana - Gained vassal: c_aguyyo
+292 - sub vassal: d_wojyana - Gained vassal: c_aguyyo
+292 - vassal: d_wojyana - Gained vassal: c_lurasa
+292 - sub vassal: d_wojyana - Gained vassal: c_lurasa
+292 - vassal: d_wojyana - Gained vassal: c_lekyo
+292 - sub vassal: d_wojyana - Gained vassal: c_lekyo
+292 - vassal: d_wojyana - Gained vassal: c_sorarl
+292 - sub vassal: d_wojyana - Gained vassal: c_sorarl
+292 - vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_sorarl
+292 - sub vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_sorarl
+292 - sub vassal: c_sorarl - Title given to 1009764 - Primary title: k_tojyana
+292 - Holder (1009764) has gained c_sorarl
+292 - sub vassal: c_sorarl - Setting to vassal of k_tojyana in Validate Realm
+292 - vassal: d_wojyana - Lost vassal: c_sorarl
+292 - sub vassal: d_wojyana - Lost vassal: c_sorarl
+292 - Gained vassal: c_sorarl
+292 - vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_lekyo
+292 - sub vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_lekyo
+292 - sub vassal: c_lekyo - Title given to 1009764 - Primary title: k_tojyana
+292 - Holder (1009764) has gained c_lekyo
+292 - sub vassal: c_lekyo - Setting to vassal of k_tojyana in Validate Realm
+292 - vassal: d_wojyana - Lost vassal: c_lekyo
+292 - sub vassal: d_wojyana - Lost vassal: c_lekyo
+292 - Gained vassal: c_lekyo
+292 - vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_lurasa
+292 - sub vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_lurasa
+292 - sub vassal: c_lurasa - Title given to 1009764 - Primary title: k_tojyana
+292 - Holder (1009764) has gained c_lurasa
+292 - sub vassal: c_lurasa - Setting to vassal of k_tojyana in Validate Realm
+292 - vassal: d_wojyana - Lost vassal: c_lurasa
+292 - sub vassal: d_wojyana - Lost vassal: c_lurasa
+292 - Gained vassal: c_lurasa
+292 - vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_aguyyo
+292 - sub vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_aguyyo
+292 - sub vassal: c_aguyyo - Title given to 1009764 - Primary title: k_tojyana
+292 - Holder (1009764) has gained c_aguyyo
+292 - sub vassal: c_aguyyo - Setting to vassal of k_tojyana in Validate Realm
+292 - vassal: d_wojyana - Lost vassal: c_aguyyo
+292 - sub vassal: d_wojyana - Lost vassal: c_aguyyo
+292 - Gained vassal: c_aguyyo
+292 - vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_kojinia
+292 - sub vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: c_kojinia
+292 - sub vassal: c_kojinia - Title given to 1009764 - Primary title: k_tojyana
+292 - Holder (1009764) has gained c_kojinia
+292 - sub vassal: c_kojinia - Setting to vassal of k_tojyana in Validate Realm
+292 - vassal: d_wojyana - Lost vassal: c_kojinia
+292 - sub vassal: d_wojyana - Lost vassal: c_kojinia
+292 - Gained vassal: c_kojinia
+292 - vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: d_wojyana
+292 - sub vassal: d_wojyana - Holder 1009764 - Primary title: d_wojyana has lost the title: d_wojyana
+292 - vassal: d_wojyana - Title given to 1009764 - Primary title: k_tojyana
+292 - sub vassal: d_wojyana - Title given to 1009764 - Primary title: k_tojyana
+292 - Holder (1009764) has gained d_wojyana
+293 - vassal: d_wuler - Holder 1007245 - Primary title: d_wuler has lost the title: d_wuler
+293 - sub vassal: d_wuler - Holder 1007245 - Primary title: d_wuler has lost the title: d_wuler
+293 - vassal: d_wuler - Title given to 1007245
+293 - sub vassal: d_wuler - Title given to 1007245
+295 - vassal: d_turyo - Holder (1006740) has gained d_suryo
+295 - sub vassal: d_turyo - Holder (1006740) has gained d_suryo
+295 - Gained vassal: d_suryo
+295 - vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+295 - sub vassal: d_suryo - Made independent for title creation d_suryo for d_turyo
+295 - vassal: d_suryo - Made independent
+295 - sub vassal: d_suryo - Made independent
+295 - sub vassal: c_tuder - Setting independent due to liege destruction
+295 - sub vassal: c_tuder - Made independent
+295 - sub vassal: c_waryo - Setting independent due to liege destruction
+295 - sub vassal: c_waryo - Made independent
+295 - sub vassal: c_bephen - Setting independent due to liege destruction
+295 - sub vassal: c_bephen - Made independent
+295 - sub vassal: c_bulyo - Setting independent due to liege destruction
+295 - sub vassal: c_bulyo - Made independent
+295 - sub vassal: c_nanimia - Setting independent due to liege destruction
+295 - sub vassal: c_nanimia - Made independent
+300 - sub vassal: c_sulena - Holder 1009764 - Primary title: c_sulena has lost the title: c_sulena
+300 - sub vassal: c_sulena - Title given to 1009764 - Primary title: k_tojyana
+300 - Holder (1009764) has gained c_sulena
+300 - sub vassal: c_tanarl - Holder 1009764 - Primary title: c_tanarl has lost the title: c_tanarl
+300 - sub vassal: c_tanarl - Title given to 1009764 - Primary title: k_tojyana
+300 - Holder (1009764) has gained c_tanarl
+300 - Holder 1010821 - Primary title: k_tojyana has lost the title: c_sorarl
+300 - vassal: c_sorarl - Title given to 1010821
+300 - sub vassal: c_sorarl - Title given to 1010821
+300 - Holder 1010822 - Primary title: k_tojyana has lost the title: c_aguyyo
+300 - vassal: c_aguyyo - Title given to 1010822
+300 - sub vassal: c_aguyyo - Title given to 1010822
+303 - Holder 1006740 - Primary title: k_tojyana has lost the title: k_tojyana
+303 - Title given to 1006740 - Primary title: d_turyo
+303 - vassal: d_turyo - Holder (1006740) has gained k_tojyana
+303 - sub vassal: d_turyo - Holder (1006740) has gained k_tojyana
+303 - vassal: c_kojinia - Setting to vassal of d_wojyana in Validate Realm
+303 - sub vassal: c_kojinia - Setting to vassal of d_wojyana in Validate Realm
+303 - Lost vassal: c_kojinia
+303 - vassal: c_lurasa - Setting to vassal of d_wojyana in Validate Realm
+303 - sub vassal: c_lurasa - Setting to vassal of d_wojyana in Validate Realm
+303 - Lost vassal: c_lurasa
+303 - vassal: c_lekyo - Setting to vassal of d_wojyana in Validate Realm
+303 - sub vassal: c_lekyo - Setting to vassal of d_wojyana in Validate Realm
+303 - Lost vassal: c_lekyo
+303 - vassal: d_wojyana - Gained vassal: c_lekyo
+303 - sub vassal: d_wojyana - Gained vassal: c_lekyo
+303 - vassal: d_wojyana - Gained vassal: c_lurasa
+303 - sub vassal: d_wojyana - Gained vassal: c_lurasa
+303 - vassal: d_wojyana - Gained vassal: c_kojinia
+303 - sub vassal: d_wojyana - Gained vassal: c_kojinia
+303 - vassal: d_wojyana - Holder 1006740 - Primary title: d_wojyana has lost the title: d_wojyana
+303 - sub vassal: d_wojyana - Holder 1006740 - Primary title: d_wojyana has lost the title: d_wojyana
+303 - vassal: d_wojyana - Title given to 1006740 - Primary title: k_tojyana
+303 - sub vassal: d_wojyana - Title given to 1006740 - Primary title: k_tojyana
+303 - Holder (1006740) has gained d_wojyana
+303 - sub vassal: c_kojinia - Setting to vassal of d_ehumimir in Validate Realm
+303 - vassal: d_wojyana - Lost vassal: c_kojinia
+303 - sub vassal: d_wojyana - Lost vassal: c_kojinia
+303 - sub vassal: c_lurasa - Setting to vassal of d_ehumimir in Validate Realm
+303 - vassal: d_wojyana - Lost vassal: c_lurasa
+303 - sub vassal: d_wojyana - Lost vassal: c_lurasa
+303 - sub vassal: c_lekyo - Setting to vassal of d_ehumimir in Validate Realm
+303 - vassal: d_wojyana - Lost vassal: c_lekyo
+303 - sub vassal: d_wojyana - Lost vassal: c_lekyo
+303 - vassal: d_ehumimir - Gained vassal: c_lekyo
+303 - sub vassal: d_ehumimir - Gained vassal: c_lekyo
+303 - vassal: d_ehumimir - Gained vassal: c_lurasa
+303 - sub vassal: d_ehumimir - Gained vassal: c_lurasa
+303 - vassal: d_ehumimir - Gained vassal: c_kojinia
+303 - sub vassal: d_ehumimir - Gained vassal: c_kojinia
+303 - vassal: d_ehumimir - Holder 1006740 - Primary title: d_ehumimir has lost the title: d_ehumimir
+303 - sub vassal: d_ehumimir - Holder 1006740 - Primary title: d_ehumimir has lost the title: d_ehumimir
+303 - vassal: d_ehumimir - Title given to 1006740 - Primary title: k_tojyana
+303 - sub vassal: d_ehumimir - Title given to 1006740 - Primary title: k_tojyana
+303 - Holder (1006740) has gained d_ehumimir
+303 - sub vassal: c_tanarl - Holder 1006740 - Primary title: c_tanarl has lost the title: c_tanarl
+303 - sub vassal: c_tanarl - Title given to 1006740 - Primary title: k_tojyana
+303 - Holder (1006740) has gained c_tanarl
+303 - sub vassal: c_sulena - Holder 1006740 - Primary title: c_sulena has lost the title: c_sulena
+303 - sub vassal: c_sulena - Title given to 1006740 - Primary title: k_tojyana
+303 - Holder (1006740) has gained c_sulena
+303 - sub vassal: c_kojinia - Holder 1006740 - Primary title: c_kojinia has lost the title: c_kojinia
+303 - sub vassal: c_kojinia - Title given to 1006740 - Primary title: k_tojyana
+303 - Holder (1006740) has gained c_kojinia
+303 - sub vassal: c_lurasa - Holder 1006740 - Primary title: c_lurasa has lost the title: c_lurasa
+303 - sub vassal: c_lurasa - Title given to 1006740 - Primary title: k_tojyana
+303 - Holder (1006740) has gained c_lurasa
+303 - sub vassal: c_lekyo - Holder 1006740 - Primary title: c_lekyo has lost the title: c_lekyo
+303 - sub vassal: c_lekyo - Title given to 1006740 - Primary title: k_tojyana
+303 - Holder (1006740) has gained c_lekyo
+304 - sub vassal: c_anazyana - Given to 1011158 in HandleTitles - Too many duke titles
+304 - sub vassal: c_anazyana - Holder 1011158 - Primary title: c_anazyana has lost the title: c_anazyana
+304 - sub vassal: c_anazyana - Title given to 1011158
+304 - Holder 1011158 - Primary title: k_tojyana has lost the title: d_wojyana
+304 - vassal: d_wojyana - Title given to 1011158 - Primary title: c_anazyana
+304 - sub vassal: d_wojyana - Title given to 1011158 - Primary title: c_anazyana
+304 - sub vassal: c_anazyana - Holder (1011158) has gained d_wojyana
+304 - vassal: d_wojyana - Too many dukes, given to dejure: k_tojyana
+304 - sub vassal: d_wojyana - Too many dukes, given to dejure: k_tojyana
+304 - Holder 1011159 - Primary title: k_tojyana has lost the title: c_bulyo
+304 - Gained vassal: c_bulyo
+304 - Holder 1007441 - Primary title: k_tojyana has lost the title: c_nanimia
+304 - Gained vassal: c_nanimia
+304 - Holder 1008201 - Primary title: k_tojyana has lost the title: c_tuder
+304 - Gained vassal: c_tuder
+304 - Holder 1011160 - Primary title: k_tojyana has lost the title: c_waryo
+304 - Gained vassal: c_waryo
+304 - Holder 1011161 - Primary title: k_tojyana has lost the title: c_bephen
+304 - Gained vassal: c_bephen
+309 - vassal: d_wuler - Holder 1010513 - Primary title: d_wuler has lost the title: d_wuler
+309 - sub vassal: d_wuler - Holder 1010513 - Primary title: d_wuler has lost the title: d_wuler
+309 - vassal: d_wuler - Title given to 1010513
+309 - sub vassal: d_wuler - Title given to 1010513
+318 - vassal: d_wojyana - Holder 1006740 - Primary title: d_wojyana has lost the title: d_wojyana
+318 - sub vassal: d_wojyana - Holder 1006740 - Primary title: d_wojyana has lost the title: d_wojyana
+318 - vassal: d_wojyana - Title given to 1006740 - Primary title: k_tojyana
+318 - sub vassal: d_wojyana - Title given to 1006740 - Primary title: k_tojyana
+318 - Holder (1006740) has gained d_wojyana
+318 - sub vassal: c_anazyana - Holder 1006740 - Primary title: c_anazyana has lost the title: c_anazyana
+318 - sub vassal: c_anazyana - Title given to 1006740 - Primary title: k_tojyana
+318 - Holder (1006740) has gained c_anazyana
+318 - sub vassal: c_egzush - Given to 1012250 in HandleTitles - Too many duke titles
+318 - sub vassal: c_egzush - Holder 1012250 - Primary title: c_egzush has lost the title: c_egzush
+318 - sub vassal: c_egzush - Title given to 1012250
+318 - Holder 1012250 - Primary title: k_tojyana has lost the title: d_turyo
+318 - vassal: d_turyo - Title given to 1012250 - Primary title: c_egzush
+318 - sub vassal: d_turyo - Title given to 1012250 - Primary title: c_egzush
+318 - sub vassal: c_egzush - Holder (1012250) has gained d_turyo
+318 - vassal: d_turyo - Too many dukes, given to dejure: k_tojyana
+318 - sub vassal: d_turyo - Too many dukes, given to dejure: k_tojyana
+318 - Holder 1012251 - Primary title: k_tojyana has lost the title: c_anazyana
+318 - sub vassal: c_anazyana - Title given to 1012251
+319 - Holder 1010513 - Primary title: k_tojyana has lost the title: k_tojyana
+319 - Title given to 1010513 - Primary title: d_wuler
+319 - vassal: d_wuler - Holder (1010513) has gained k_tojyana
+319 - sub vassal: d_wuler - Holder (1010513) has gained k_tojyana
+319 - vassal: d_ehumimir - Holder 1010513 - Primary title: d_ehumimir has lost the title: d_ehumimir
+319 - sub vassal: d_ehumimir - Holder 1010513 - Primary title: d_ehumimir has lost the title: d_ehumimir
+319 - vassal: d_ehumimir - Title given to 1010513 - Primary title: k_tojyana
+319 - sub vassal: d_ehumimir - Title given to 1010513 - Primary title: k_tojyana
+319 - Holder (1010513) has gained d_ehumimir
+319 - sub vassal: c_tanarl - Setting to vassal of d_wojyana in Validate Realm
+319 - vassal: d_ehumimir - Lost vassal: c_tanarl
+319 - sub vassal: d_ehumimir - Lost vassal: c_tanarl
+319 - sub vassal: c_sulena - Setting to vassal of d_wojyana in Validate Realm
+319 - vassal: d_ehumimir - Lost vassal: c_sulena
+319 - sub vassal: d_ehumimir - Lost vassal: c_sulena
+319 - sub vassal: c_kojinia - Setting to vassal of d_wojyana in Validate Realm
+319 - vassal: d_ehumimir - Lost vassal: c_kojinia
+319 - sub vassal: d_ehumimir - Lost vassal: c_kojinia
+319 - sub vassal: c_lurasa - Setting to vassal of d_wojyana in Validate Realm
+319 - vassal: d_ehumimir - Lost vassal: c_lurasa
+319 - sub vassal: d_ehumimir - Lost vassal: c_lurasa
+319 - sub vassal: c_lekyo - Setting to vassal of d_wojyana in Validate Realm
+319 - vassal: d_ehumimir - Lost vassal: c_lekyo
+319 - sub vassal: d_ehumimir - Lost vassal: c_lekyo
+319 - vassal: d_wojyana - Gained vassal: c_lekyo
+319 - sub vassal: d_wojyana - Gained vassal: c_lekyo
+319 - vassal: d_wojyana - Gained vassal: c_lurasa
+319 - sub vassal: d_wojyana - Gained vassal: c_lurasa
+319 - vassal: d_wojyana - Gained vassal: c_kojinia
+319 - sub vassal: d_wojyana - Gained vassal: c_kojinia
+319 - vassal: d_wojyana - Gained vassal: c_sulena
+319 - sub vassal: d_wojyana - Gained vassal: c_sulena
+319 - vassal: d_wojyana - Gained vassal: c_tanarl
+319 - sub vassal: d_wojyana - Gained vassal: c_tanarl
+319 - vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_tanarl
+319 - sub vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_tanarl
+319 - sub vassal: c_tanarl - Title given to 1010513 - Primary title: k_tojyana
+319 - Holder (1010513) has gained c_tanarl
+319 - sub vassal: c_tanarl - Setting to vassal of k_tojyana in Validate Realm
+319 - vassal: d_wojyana - Lost vassal: c_tanarl
+319 - sub vassal: d_wojyana - Lost vassal: c_tanarl
+319 - Gained vassal: c_tanarl
+319 - vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_sulena
+319 - sub vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_sulena
+319 - sub vassal: c_sulena - Title given to 1010513 - Primary title: k_tojyana
+319 - Holder (1010513) has gained c_sulena
+319 - sub vassal: c_sulena - Setting to vassal of k_tojyana in Validate Realm
+319 - vassal: d_wojyana - Lost vassal: c_sulena
+319 - sub vassal: d_wojyana - Lost vassal: c_sulena
+319 - Gained vassal: c_sulena
+319 - vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_kojinia
+319 - sub vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_kojinia
+319 - sub vassal: c_kojinia - Title given to 1010513 - Primary title: k_tojyana
+319 - Holder (1010513) has gained c_kojinia
+319 - sub vassal: c_kojinia - Setting to vassal of k_tojyana in Validate Realm
+319 - vassal: d_wojyana - Lost vassal: c_kojinia
+319 - sub vassal: d_wojyana - Lost vassal: c_kojinia
+319 - Gained vassal: c_kojinia
+319 - vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_lurasa
+319 - sub vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_lurasa
+319 - sub vassal: c_lurasa - Title given to 1010513 - Primary title: k_tojyana
+319 - Holder (1010513) has gained c_lurasa
+319 - sub vassal: c_lurasa - Setting to vassal of k_tojyana in Validate Realm
+319 - vassal: d_wojyana - Lost vassal: c_lurasa
+319 - sub vassal: d_wojyana - Lost vassal: c_lurasa
+319 - Gained vassal: c_lurasa
+319 - vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_lekyo
+319 - sub vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: c_lekyo
+319 - sub vassal: c_lekyo - Title given to 1010513 - Primary title: k_tojyana
+319 - Holder (1010513) has gained c_lekyo
+319 - sub vassal: c_lekyo - Setting to vassal of k_tojyana in Validate Realm
+319 - vassal: d_wojyana - Lost vassal: c_lekyo
+319 - sub vassal: d_wojyana - Lost vassal: c_lekyo
+319 - Gained vassal: c_lekyo
+319 - vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: d_wojyana
+319 - sub vassal: d_wojyana - Holder 1010513 - Primary title: d_wojyana has lost the title: d_wojyana
+319 - vassal: d_wojyana - Title given to 1010513 - Primary title: k_tojyana
+319 - sub vassal: d_wojyana - Title given to 1010513 - Primary title: k_tojyana
+319 - Holder (1010513) has gained d_wojyana
+320 - vassal: d_ehumimir - Destroyed due to flagged problem
+320 - sub vassal: d_ehumimir - Destroyed due to flagged problem
+320 - vassal: d_ehumimir - Made independent
+320 - sub vassal: d_ehumimir - Made independent
+326 - vassal: d_kelina - Holder 1009993 - Primary title: d_kelina has lost the title: d_kelina
+326 - sub vassal: d_kelina - Holder 1009993 - Primary title: d_kelina has lost the title: d_kelina
+326 - vassal: d_kelina - Title given to 1009993
+326 - sub vassal: d_kelina - Title given to 1009993
+326 - sub vassal: c_duler - Holder 1009993 - Primary title: c_duler has lost the title: c_duler
+326 - sub vassal: c_duler - Title given to 1009993 - Primary title: d_kelina
+326 - vassal: d_kelina - Holder (1009993) has gained c_duler
+326 - sub vassal: d_kelina - Holder (1009993) has gained c_duler
+340 - Gained vassal: c_sularl
+340 - vassal: c_sularl - Given to neighbour holder of k_tojyana
+340 - sub vassal: c_sularl - Given to neighbour holder of k_tojyana
+340 - vassal: c_sularl - Holder 1010513 - Primary title: c_sularl has lost the title: c_sularl
+340 - sub vassal: c_sularl - Holder 1010513 - Primary title: c_sularl has lost the title: c_sularl
+340 - vassal: c_sularl - Title given to 1010513 - Primary title: k_tojyana
+340 - sub vassal: c_sularl - Title given to 1010513 - Primary title: k_tojyana
+340 - Holder (1010513) has gained c_sularl
+340 - Holder 1013880 - Primary title: k_tojyana has lost the title: c_lurasa
+340 - vassal: c_lurasa - Title given to 1013880
+340 - sub vassal: c_lurasa - Title given to 1013880
+346 - vassal: d_kelina - Holder 1010513 - Primary title: d_kelina has lost the title: d_kelina
+346 - sub vassal: d_kelina - Holder 1010513 - Primary title: d_kelina has lost the title: d_kelina
+346 - vassal: d_kelina - Title given to 1010513 - Primary title: k_tojyana
+346 - sub vassal: d_kelina - Title given to 1010513 - Primary title: k_tojyana
+346 - Holder (1010513) has gained d_kelina
+346 - sub vassal: c_duler - Holder 1010513 - Primary title: c_duler has lost the title: c_duler
+346 - sub vassal: c_duler - Title given to 1010513 - Primary title: k_tojyana
+346 - Holder (1010513) has gained c_duler
+346 - sub vassal: c_anazyana - Given to 1010679 in HandleTitles - Too many duke titles
+346 - sub vassal: c_anazyana - Holder 1010679 - Primary title: c_anazyana has lost the title: c_anazyana
+346 - sub vassal: c_anazyana - Title given to 1010679
+346 - Holder 1010679 - Primary title: k_tojyana has lost the title: d_wojyana
+346 - vassal: d_wojyana - Title given to 1010679 - Primary title: c_anazyana
+346 - sub vassal: d_wojyana - Title given to 1010679 - Primary title: c_anazyana
+346 - sub vassal: c_anazyana - Holder (1010679) has gained d_wojyana
+346 - vassal: d_wojyana - Too many dukes, given to dejure: k_tojyana
+346 - sub vassal: d_wojyana - Too many dukes, given to dejure: k_tojyana
+346 - Holder 1014319 - Primary title: k_tojyana has lost the title: c_duler
+346 - sub vassal: c_duler - Title given to 1014319
+354 - Holder 1013304 - Primary title: k_tojyana has lost the title: k_tojyana
+354 - Title given to 1013304
+354 - vassal: d_wuler - Holder 1013304 - Primary title: d_wuler has lost the title: d_wuler
+354 - sub vassal: d_wuler - Holder 1013304 - Primary title: d_wuler has lost the title: d_wuler
+354 - vassal: d_wuler - Title given to 1013304 - Primary title: k_tojyana
+354 - sub vassal: d_wuler - Title given to 1013304 - Primary title: k_tojyana
+354 - Holder (1013304) has gained d_wuler
+354 - vassal: c_sularl - Setting to vassal of d_kelina in Validate Realm
+354 - sub vassal: c_sularl - Setting to vassal of d_kelina in Validate Realm
+354 - Lost vassal: c_sularl
+354 - vassal: c_tanarl - Setting to vassal of d_kelina in Validate Realm
+354 - sub vassal: c_tanarl - Setting to vassal of d_kelina in Validate Realm
+354 - Lost vassal: c_tanarl
+354 - vassal: c_sulena - Setting to vassal of d_kelina in Validate Realm
+354 - sub vassal: c_sulena - Setting to vassal of d_kelina in Validate Realm
+354 - Lost vassal: c_sulena
+354 - vassal: c_kojinia - Setting to vassal of d_kelina in Validate Realm
+354 - sub vassal: c_kojinia - Setting to vassal of d_kelina in Validate Realm
+354 - Lost vassal: c_kojinia
+354 - vassal: c_lekyo - Setting to vassal of d_kelina in Validate Realm
+354 - sub vassal: c_lekyo - Setting to vassal of d_kelina in Validate Realm
+354 - Lost vassal: c_lekyo
+354 - vassal: d_kelina - Gained vassal: c_lekyo
+354 - sub vassal: d_kelina - Gained vassal: c_lekyo
+354 - vassal: d_kelina - Gained vassal: c_kojinia
+354 - sub vassal: d_kelina - Gained vassal: c_kojinia
+354 - vassal: d_kelina - Gained vassal: c_sulena
+354 - sub vassal: d_kelina - Gained vassal: c_sulena
+354 - vassal: d_kelina - Gained vassal: c_tanarl
+354 - sub vassal: d_kelina - Gained vassal: c_tanarl
+354 - vassal: d_kelina - Gained vassal: c_sularl
+354 - sub vassal: d_kelina - Gained vassal: c_sularl
+354 - vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_sularl
+354 - sub vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_sularl
+354 - sub vassal: c_sularl - Title given to 1013304 - Primary title: k_tojyana
+354 - Holder (1013304) has gained c_sularl
+354 - sub vassal: c_sularl - Setting to vassal of k_tojyana in Validate Realm
+354 - vassal: d_kelina - Lost vassal: c_sularl
+354 - sub vassal: d_kelina - Lost vassal: c_sularl
+354 - Gained vassal: c_sularl
+354 - vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_tanarl
+354 - sub vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_tanarl
+354 - sub vassal: c_tanarl - Title given to 1013304 - Primary title: k_tojyana
+354 - Holder (1013304) has gained c_tanarl
+354 - sub vassal: c_tanarl - Setting to vassal of k_tojyana in Validate Realm
+354 - vassal: d_kelina - Lost vassal: c_tanarl
+354 - sub vassal: d_kelina - Lost vassal: c_tanarl
+354 - Gained vassal: c_tanarl
+354 - vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_sulena
+354 - sub vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_sulena
+354 - sub vassal: c_sulena - Title given to 1013304 - Primary title: k_tojyana
+354 - Holder (1013304) has gained c_sulena
+354 - sub vassal: c_sulena - Setting to vassal of k_tojyana in Validate Realm
+354 - vassal: d_kelina - Lost vassal: c_sulena
+354 - sub vassal: d_kelina - Lost vassal: c_sulena
+354 - Gained vassal: c_sulena
+354 - vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_kojinia
+354 - sub vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_kojinia
+354 - sub vassal: c_kojinia - Title given to 1013304 - Primary title: k_tojyana
+354 - Holder (1013304) has gained c_kojinia
+354 - sub vassal: c_kojinia - Setting to vassal of k_tojyana in Validate Realm
+354 - vassal: d_kelina - Lost vassal: c_kojinia
+354 - sub vassal: d_kelina - Lost vassal: c_kojinia
+354 - Gained vassal: c_kojinia
+354 - vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_lekyo
+354 - sub vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: c_lekyo
+354 - sub vassal: c_lekyo - Title given to 1013304 - Primary title: k_tojyana
+354 - Holder (1013304) has gained c_lekyo
+354 - sub vassal: c_lekyo - Setting to vassal of k_tojyana in Validate Realm
+354 - vassal: d_kelina - Lost vassal: c_lekyo
+354 - sub vassal: d_kelina - Lost vassal: c_lekyo
+354 - Gained vassal: c_lekyo
+354 - vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: d_kelina
+354 - sub vassal: d_kelina - Holder 1013304 - Primary title: d_kelina has lost the title: d_kelina
+354 - vassal: d_kelina - Title given to 1013304 - Primary title: k_tojyana
+354 - sub vassal: d_kelina - Title given to 1013304 - Primary title: k_tojyana
+354 - Holder (1013304) has gained d_kelina
+362 - vassal: d_wojyana - Holder 1015032 - Primary title: d_wojyana has lost the title: d_wojyana
+362 - sub vassal: d_wojyana - Holder 1015032 - Primary title: d_wojyana has lost the title: d_wojyana
+362 - vassal: d_wojyana - Title given to 1015032
+362 - sub vassal: d_wojyana - Title given to 1015032
+362 - sub vassal: c_anazyana - Holder 1015032 - Primary title: c_anazyana has lost the title: c_anazyana
+362 - sub vassal: c_anazyana - Title given to 1015032 - Primary title: d_wojyana
+362 - vassal: d_wojyana - Holder (1015032) has gained c_anazyana
+362 - sub vassal: d_wojyana - Holder (1015032) has gained c_anazyana
+363 - vassal: d_turyo - Holder 1014616 - Primary title: d_turyo has lost the title: d_turyo
+363 - sub vassal: d_turyo - Holder 1014616 - Primary title: d_turyo has lost the title: d_turyo
+363 - vassal: d_turyo - Title given to 1014616
+363 - sub vassal: d_turyo - Title given to 1014616
+363 - sub vassal: c_egzush - Holder 1014616 - Primary title: c_egzush has lost the title: c_egzush
+363 - sub vassal: c_egzush - Title given to 1014616 - Primary title: d_turyo
+363 - vassal: d_turyo - Holder (1014616) has gained c_egzush
+363 - sub vassal: d_turyo - Holder (1014616) has gained c_egzush
+389 - Holder 1014981 - Primary title: k_tojyana has lost the title: k_tojyana
+389 - Title given to 1014981
+389 - vassal: d_kelina - Holder 1014981 - Primary title: d_kelina has lost the title: d_kelina
+389 - sub vassal: d_kelina - Holder 1014981 - Primary title: d_kelina has lost the title: d_kelina
+389 - vassal: d_kelina - Title given to 1014981 - Primary title: k_tojyana
+389 - sub vassal: d_kelina - Title given to 1014981 - Primary title: k_tojyana
+389 - Holder (1014981) has gained d_kelina
+389 - vassal: c_sularl - Setting to vassal of d_wuler in Validate Realm
+389 - sub vassal: c_sularl - Setting to vassal of d_wuler in Validate Realm
+389 - Lost vassal: c_sularl
+389 - vassal: c_tanarl - Setting to vassal of d_wuler in Validate Realm
+389 - sub vassal: c_tanarl - Setting to vassal of d_wuler in Validate Realm
+389 - Lost vassal: c_tanarl
+389 - vassal: c_sulena - Setting to vassal of d_wuler in Validate Realm
+389 - sub vassal: c_sulena - Setting to vassal of d_wuler in Validate Realm
+389 - Lost vassal: c_sulena
+389 - vassal: c_kojinia - Setting to vassal of d_wuler in Validate Realm
+389 - sub vassal: c_kojinia - Setting to vassal of d_wuler in Validate Realm
+389 - Lost vassal: c_kojinia
+389 - vassal: c_lekyo - Setting to vassal of d_wuler in Validate Realm
+389 - sub vassal: c_lekyo - Setting to vassal of d_wuler in Validate Realm
+389 - Lost vassal: c_lekyo
+389 - vassal: d_wuler - Gained vassal: c_lekyo
+389 - sub vassal: d_wuler - Gained vassal: c_lekyo
+389 - vassal: d_wuler - Gained vassal: c_kojinia
+389 - sub vassal: d_wuler - Gained vassal: c_kojinia
+389 - vassal: d_wuler - Gained vassal: c_sulena
+389 - sub vassal: d_wuler - Gained vassal: c_sulena
+389 - vassal: d_wuler - Gained vassal: c_tanarl
+389 - sub vassal: d_wuler - Gained vassal: c_tanarl
+389 - vassal: d_wuler - Gained vassal: c_sularl
+389 - sub vassal: d_wuler - Gained vassal: c_sularl
+389 - vassal: d_wuler - Holder 1014981 - Primary title: d_wuler has lost the title: d_wuler
+389 - sub vassal: d_wuler - Holder 1014981 - Primary title: d_wuler has lost the title: d_wuler
+389 - vassal: d_wuler - Title given to 1014981 - Primary title: k_tojyana
+389 - sub vassal: d_wuler - Title given to 1014981 - Primary title: k_tojyana
+389 - Holder (1014981) has gained d_wuler
+389 - sub vassal: c_sularl - Holder 1014981 - Primary title: c_sularl has lost the title: c_sularl
+389 - sub vassal: c_sularl - Title given to 1014981 - Primary title: k_tojyana
+389 - Holder (1014981) has gained c_sularl
+389 - sub vassal: c_tanarl - Holder 1014981 - Primary title: c_tanarl has lost the title: c_tanarl
+389 - sub vassal: c_tanarl - Title given to 1014981 - Primary title: k_tojyana
+389 - Holder (1014981) has gained c_tanarl
+389 - sub vassal: c_sulena - Holder 1014981 - Primary title: c_sulena has lost the title: c_sulena
+389 - sub vassal: c_sulena - Title given to 1014981 - Primary title: k_tojyana
+389 - Holder (1014981) has gained c_sulena
+389 - sub vassal: c_kojinia - Holder 1014981 - Primary title: c_kojinia has lost the title: c_kojinia
+389 - sub vassal: c_kojinia - Title given to 1014981 - Primary title: k_tojyana
+389 - Holder (1014981) has gained c_kojinia
+389 - sub vassal: c_lekyo - Holder 1014981 - Primary title: c_lekyo has lost the title: c_lekyo
+389 - sub vassal: c_lekyo - Title given to 1014981 - Primary title: k_tojyana
+389 - Holder (1014981) has gained c_lekyo
+400 - sub vassal: c_sosush - Holder 1014981 - Primary title: c_sosush has lost the title: c_sosush
+400 - sub vassal: c_sosush - Title given to 1014981 - Primary title: k_tojyana
+400 - Holder (1014981) has gained c_sosush
+400 - sub vassal: c_sorena - Holder 1014616 - Primary title: c_sorena has lost the title: c_sorena
+400 - sub vassal: c_sorena - Title given to 1014616 - Primary title: d_turyo
+400 - vassal: d_turyo - Holder (1014616) has gained c_sorena
+400 - sub vassal: d_turyo - Holder (1014616) has gained c_sorena
+400 - sub vassal: c_sujyana - Holder 1014616 - Primary title: c_sujyana has lost the title: c_sujyana
+400 - sub vassal: c_sujyana - Title given to 1014616 - Primary title: d_turyo
+400 - vassal: d_turyo - Holder (1014616) has gained c_sujyana
+400 - sub vassal: d_turyo - Holder (1014616) has gained c_sujyana
+400 - vassal: c_tumimir - Holder 1014616 - Primary title: c_tumimir has lost the title: c_tumimir
+400 - sub vassal: c_tumimir - Holder 1014616 - Primary title: c_tumimir has lost the title: c_tumimir
+400 - vassal: c_tumimir - Title given to 1014616 - Primary title: d_turyo
+400 - sub vassal: c_tumimir - Title given to 1014616 - Primary title: d_turyo
+400 - vassal: d_turyo - Holder (1014616) has gained c_tumimir
+400 - sub vassal: d_turyo - Holder (1014616) has gained c_tumimir
+400 - vassal: c_tumimir - Setting to vassal of d_turyo in Validate Realm
+400 - sub vassal: c_tumimir - Setting to vassal of d_turyo in Validate Realm
+400 - Lost vassal: c_tumimir
+400 - vassal: d_turyo - Gained vassal: c_tumimir
+400 - sub vassal: d_turyo - Gained vassal: c_tumimir
+400 - vassal: c_nanimia - Holder 1011159 - Primary title: c_nanimia has lost the title: c_nanimia
+400 - sub vassal: c_nanimia - Holder 1011159 - Primary title: c_nanimia has lost the title: c_nanimia
+400 - vassal: c_nanimia - Title given to 1011159 - Primary title: c_bulyo
+400 - sub vassal: c_nanimia - Title given to 1011159 - Primary title: c_bulyo
+400 - vassal: c_bulyo - Holder (1011159) has gained c_nanimia
+400 - sub vassal: c_bulyo - Holder (1011159) has gained c_nanimia
+400 - vassal: c_tuder - Holder 1015032 - Primary title: c_tuder has lost the title: c_tuder
+400 - sub vassal: c_tuder - Holder 1015032 - Primary title: c_tuder has lost the title: c_tuder
+400 - vassal: c_tuder - Title given to 1015032 - Primary title: d_wojyana
+400 - sub vassal: c_tuder - Title given to 1015032 - Primary title: d_wojyana
+400 - vassal: d_wojyana - Holder (1015032) has gained c_tuder
+400 - sub vassal: d_wojyana - Holder (1015032) has gained c_tuder
+400 - vassal: c_tuder - Setting to vassal of d_wojyana in Validate Realm
+400 - sub vassal: c_tuder - Setting to vassal of d_wojyana in Validate Realm
+400 - Lost vassal: c_tuder
+400 - vassal: d_wojyana - Gained vassal: c_tuder
+400 - sub vassal: d_wojyana - Gained vassal: c_tuder
+400 - vassal: c_sorarl - Holder 1014981 - Primary title: c_sorarl has lost the title: c_sorarl
+400 - sub vassal: c_sorarl - Holder 1014981 - Primary title: c_sorarl has lost the title: c_sorarl
+400 - vassal: c_sorarl - Title given to 1014981 - Primary title: k_tojyana
+400 - sub vassal: c_sorarl - Title given to 1014981 - Primary title: k_tojyana
+400 - Holder (1014981) has gained c_sorarl
+400 - vassal: c_aguyyo - Holder 1018056 - Primary title: c_aguyyo has lost the title: c_aguyyo
+400 - sub vassal: c_aguyyo - Holder 1018056 - Primary title: c_aguyyo has lost the title: c_aguyyo
+400 - vassal: c_aguyyo - Title given to 1018056
+400 - sub vassal: c_aguyyo - Title given to 1018056
+400 - vassal: c_nanimia - Holder 1014616 - Primary title: c_nanimia has lost the title: c_bulyo
+400 - sub vassal: c_nanimia - Holder 1014616 - Primary title: c_nanimia has lost the title: c_bulyo
+400 - vassal: c_bulyo - Title given to 1014616 - Primary title: d_turyo
+400 - sub vassal: c_bulyo - Title given to 1014616 - Primary title: d_turyo
+400 - vassal: d_turyo - Holder (1014616) has gained c_bulyo
+400 - sub vassal: d_turyo - Holder (1014616) has gained c_bulyo
+400 - vassal: c_bulyo - Setting to vassal of d_turyo in Validate Realm
+400 - sub vassal: c_bulyo - Setting to vassal of d_turyo in Validate Realm
+400 - Lost vassal: c_bulyo
+400 - vassal: d_turyo - Gained vassal: c_bulyo
+400 - sub vassal: d_turyo - Gained vassal: c_bulyo
+400 - vassal: c_nanimia - Holder 1014616 - Primary title: c_nanimia has lost the title: c_nanimia
+400 - sub vassal: c_nanimia - Holder 1014616 - Primary title: c_nanimia has lost the title: c_nanimia
+400 - vassal: c_nanimia - Title given to 1014616 - Primary title: d_turyo
+400 - sub vassal: c_nanimia - Title given to 1014616 - Primary title: d_turyo
+400 - vassal: d_turyo - Holder (1014616) has gained c_nanimia
+400 - sub vassal: d_turyo - Holder (1014616) has gained c_nanimia
+400 - vassal: c_nanimia - Setting to vassal of d_turyo in Validate Realm
+400 - sub vassal: c_nanimia - Setting to vassal of d_turyo in Validate Realm
+400 - Lost vassal: c_nanimia
+400 - vassal: d_turyo - Gained vassal: c_nanimia
+400 - sub vassal: d_turyo - Gained vassal: c_nanimia
+400 - vassal: c_waryo - Holder 1015032 - Primary title: c_waryo has lost the title: c_waryo
+400 - sub vassal: c_waryo - Holder 1015032 - Primary title: c_waryo has lost the title: c_waryo
+400 - vassal: c_waryo - Title given to 1015032 - Primary title: d_wojyana
+400 - sub vassal: c_waryo - Title given to 1015032 - Primary title: d_wojyana
+400 - vassal: d_wojyana - Holder (1015032) has gained c_waryo
+400 - sub vassal: d_wojyana - Holder (1015032) has gained c_waryo
+400 - vassal: c_waryo - Setting to vassal of d_wojyana in Validate Realm
+400 - sub vassal: c_waryo - Setting to vassal of d_wojyana in Validate Realm
+400 - Lost vassal: c_waryo
+400 - vassal: d_wojyana - Gained vassal: c_waryo
+400 - sub vassal: d_wojyana - Gained vassal: c_waryo
+400 - vassal: c_bephen - Holder 1014981 - Primary title: c_bephen has lost the title: c_bephen
+400 - sub vassal: c_bephen - Holder 1014981 - Primary title: c_bephen has lost the title: c_bephen
+400 - vassal: c_bephen - Title given to 1014981 - Primary title: k_tojyana
+400 - sub vassal: c_bephen - Title given to 1014981 - Primary title: k_tojyana
+400 - Holder (1014981) has gained c_bephen

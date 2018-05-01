@@ -1,0 +1,89 @@
+200 - Title given to 1001486
+200 - vassal: c_edashad - Given to 1001489 via AddCharacterForTitle
+200 - sub vassal: c_edashad - Given to 1001489 via AddCharacterForTitle
+200 - vassal: c_edashad - Holder 1001489 - Primary title: c_edashad has lost the title: c_edashad
+200 - sub vassal: c_edashad - Holder 1001489 - Primary title: c_edashad has lost the title: c_edashad
+200 - vassal: c_edashad - Title given to 1001489
+200 - sub vassal: c_edashad - Title given to 1001489
+200 - vassal: c_kadebia - Given to 1001491 via AddCharacterForTitle
+200 - sub vassal: c_kadebia - Given to 1001491 via AddCharacterForTitle
+200 - vassal: c_kadebia - Holder 1001491 - Primary title: c_kadebia has lost the title: c_kadebia
+200 - sub vassal: c_kadebia - Holder 1001491 - Primary title: c_kadebia has lost the title: c_kadebia
+200 - vassal: c_kadebia - Title given to 1001491
+200 - sub vassal: c_kadebia - Title given to 1001491
+200 - vassal: c_keraba - Holder 1001434 - Primary title: c_keraba has lost the title: c_dasika
+200 - sub vassal: c_keraba - Holder 1001434 - Primary title: c_keraba has lost the title: c_dasika
+200 - sub vassal: c_dasika - Title given to 1001434 - Primary title: d_senda
+200 - vassal: c_keraba - Holder 1001445 - Primary title: c_keraba has lost the title: c_reradata
+200 - sub vassal: c_keraba - Holder 1001445 - Primary title: c_keraba has lost the title: c_reradata
+200 - sub vassal: c_reradata - Title given to 1001445 - Primary title: d_nasude
+200 - vassal: c_kelorz - Holder 1001486 - Primary title: c_kelorz has lost the title: c_kelorz
+200 - sub vassal: c_kelorz - Holder 1001486 - Primary title: c_kelorz has lost the title: c_kelorz
+200 - vassal: c_kelorz - Title given to 1001486 - Primary title: d_qaselsa
+200 - sub vassal: c_kelorz - Title given to 1001486 - Primary title: d_qaselsa
+200 - Holder (1001486) has gained c_kelorz
+200 - vassal: c_edashad - Holder 1001486 - Primary title: c_edashad has lost the title: c_edashad
+200 - sub vassal: c_edashad - Holder 1001486 - Primary title: c_edashad has lost the title: c_edashad
+200 - vassal: c_edashad - Title given to 1001486 - Primary title: d_qaselsa
+200 - sub vassal: c_edashad - Title given to 1001486 - Primary title: d_qaselsa
+200 - Holder (1001486) has gained c_edashad
+200 - vassal: c_keraba - Holder 1001486 - Primary title: c_keraba has lost the title: c_keraba
+200 - sub vassal: c_keraba - Holder 1001486 - Primary title: c_keraba has lost the title: c_keraba
+200 - vassal: c_keraba - Title given to 1001486 - Primary title: d_qaselsa
+200 - sub vassal: c_keraba - Title given to 1001486 - Primary title: d_qaselsa
+200 - Holder (1001486) has gained c_keraba
+207 - Holder 1002663 - Primary title: d_qaselsa has lost the title: d_qaselsa
+207 - Title given to 1002663
+207 - vassal: c_keraba - Holder 1002663 - Primary title: c_keraba has lost the title: c_keraba
+207 - vassal: c_keraba - Title given to 1002663 - Primary title: d_qaselsa
+207 - Holder (1002663) has gained c_keraba
+207 - vassal: c_edashad - Holder 1002663 - Primary title: c_edashad has lost the title: c_edashad
+207 - vassal: c_edashad - Title given to 1002663 - Primary title: d_qaselsa
+207 - Holder (1002663) has gained c_edashad
+207 - vassal: c_kelorz - Holder 1002663 - Primary title: c_kelorz has lost the title: c_kelorz
+207 - vassal: c_kelorz - Title given to 1002663 - Primary title: d_qaselsa
+207 - Holder (1002663) has gained c_kelorz
+228 - Holder 1004064 - Primary title: d_qaselsa has lost the title: d_qaselsa
+228 - Title given to 1004064
+228 - vassal: c_kelorz - Holder 1004064 - Primary title: c_kelorz has lost the title: c_kelorz
+228 - vassal: c_kelorz - Title given to 1004064 - Primary title: d_qaselsa
+228 - Holder (1004064) has gained c_kelorz
+228 - vassal: c_edashad - Holder 1004064 - Primary title: c_edashad has lost the title: c_edashad
+228 - vassal: c_edashad - Title given to 1004064 - Primary title: d_qaselsa
+228 - Holder (1004064) has gained c_edashad
+228 - vassal: c_keraba - Holder 1004064 - Primary title: c_keraba has lost the title: c_keraba
+228 - vassal: c_keraba - Title given to 1004064 - Primary title: d_qaselsa
+228 - Holder (1004064) has gained c_keraba
+285 - Holder 1005877 - Primary title: d_qaselsa has lost the title: d_qaselsa
+285 - Title given to 1005877 - Primary title: k_resolik
+285 - vassal: c_keraba - Holder 1005877 - Primary title: c_keraba has lost the title: c_keraba
+285 - vassal: c_keraba - Title given to 1005877 - Primary title: k_resolik
+285 - vassal: c_edashad - Holder 1005877 - Primary title: c_edashad has lost the title: c_edashad
+285 - vassal: c_edashad - Title given to 1005877 - Primary title: k_resolik
+285 - vassal: c_kelorz - Holder 1005877 - Primary title: c_kelorz has lost the title: c_kelorz
+285 - vassal: c_kelorz - Title given to 1005877 - Primary title: k_resolik
+285 - vassal: c_keraba - Given to 1009524 in HandleTitles - Too many duke titles
+285 - vassal: c_keraba - Title given to 1009524
+285 - Title given to 1009524 - Primary title: c_keraba
+285 - vassal: c_keraba - Holder (1009524) has gained d_qaselsa
+285 - vassal: c_edashad - Setting to vassal of k_resolik in Validate Realm
+285 - Lost vassal: c_edashad
+285 - vassal: c_kelorz - Setting to vassal of k_resolik in Validate Realm
+285 - Lost vassal: c_kelorz
+285 - Too many dukes, given to dejure: k_resolik
+330 - Holder 1013053 - Primary title: d_qaselsa has lost the title: d_qaselsa
+330 - Title given to 1013053
+330 - vassal: c_keraba - Holder 1013053 - Primary title: c_keraba has lost the title: c_keraba
+330 - vassal: c_keraba - Title given to 1013053 - Primary title: d_qaselsa
+330 - Holder (1013053) has gained c_keraba
+335 - Holder 1010369 - Primary title: d_qaselsa has lost the title: d_qaselsa
+335 - Title given to 1010369 - Primary title: k_resolik
+335 - vassal: c_keraba - Holder 1010369 - Primary title: c_keraba has lost the title: c_keraba
+335 - vassal: c_keraba - Title given to 1010369 - Primary title: k_resolik
+335 - vassal: c_keraba - Title given to 1013539
+354 - Holder 1012397 - Primary title: d_qaselsa has lost the title: d_qaselsa
+354 - Title given to 1012397 - Primary title: k_resolik
+367 - Holder 1015489 - Primary title: d_qaselsa has lost the title: d_qaselsa
+367 - Title given to 1015489 - Primary title: k_resolik
+400 - vassal: c_keraba - Holder 1015489 - Primary title: c_keraba has lost the title: c_keraba
+400 - vassal: c_keraba - Title given to 1015489 - Primary title: k_resolik

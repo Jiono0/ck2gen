@@ -1,0 +1,84 @@
+200 - Title given to 1000365
+200 - vassal: c_kungati - Holder 1000365 - Primary title: c_kungati has lost the title: c_kungati
+200 - sub vassal: c_kungati - Holder 1000365 - Primary title: c_kungati has lost the title: c_kungati
+200 - vassal: c_kungati - Title given to 1000365 - Primary title: d_rivrd
+200 - sub vassal: c_kungati - Title given to 1000365 - Primary title: d_rivrd
+200 - Holder (1000365) has gained c_kungati
+200 - vassal: c_rahegluk - Holder 1000365 - Primary title: c_rahegluk has lost the title: c_rahegluk
+200 - sub vassal: c_rahegluk - Holder 1000365 - Primary title: c_rahegluk has lost the title: c_rahegluk
+200 - vassal: c_rahegluk - Title given to 1000365 - Primary title: d_rivrd
+200 - sub vassal: c_rahegluk - Title given to 1000365 - Primary title: d_rivrd
+200 - Holder (1000365) has gained c_rahegluk
+200 - vassal: c_qakhulf - Holder 1000365 - Primary title: c_qakhulf has lost the title: c_qakhulf
+200 - sub vassal: c_qakhulf - Holder 1000365 - Primary title: c_qakhulf has lost the title: c_qakhulf
+200 - vassal: c_qakhulf - Title given to 1000365 - Primary title: d_rivrd
+200 - sub vassal: c_qakhulf - Title given to 1000365 - Primary title: d_rivrd
+200 - Holder (1000365) has gained c_qakhulf
+200 - Holder 1001547 - Primary title: d_rivrd has lost the title: c_qakhulf
+200 - vassal: c_qakhulf - Title given to 1001547 - Primary title: k_lanibel
+216 - vassal: c_qakhulf - Setting to vassal of k_lanibel in Validate Realm
+216 - Lost vassal: c_qakhulf
+242 - Holder 1003075 - Primary title: d_rivrd has lost the title: d_rivrd
+242 - Title given to 1003075
+242 - vassal: c_rahegluk - Holder 1003075 - Primary title: c_rahegluk has lost the title: c_rahegluk
+242 - vassal: c_rahegluk - Title given to 1003075 - Primary title: d_rivrd
+242 - Holder (1003075) has gained c_rahegluk
+242 - vassal: c_kungati - Holder 1003075 - Primary title: c_kungati has lost the title: c_kungati
+242 - vassal: c_kungati - Title given to 1003075 - Primary title: d_rivrd
+242 - Holder (1003075) has gained c_kungati
+259 - Holder 1006125 - Primary title: d_rivrd has lost the title: d_rivrd
+259 - Title given to 1006125
+259 - vassal: c_rahegluk - Holder 1006125 - Primary title: c_rahegluk has lost the title: c_rahegluk
+259 - vassal: c_rahegluk - Title given to 1006125 - Primary title: d_rivrd
+259 - Holder (1006125) has gained c_rahegluk
+259 - vassal: c_kungati - Holder 1006125 - Primary title: c_kungati has lost the title: c_kungati
+259 - vassal: c_kungati - Title given to 1006125 - Primary title: d_rivrd
+259 - Holder (1006125) has gained c_kungati
+279 - Holder 1005396 - Primary title: d_rivrd has lost the title: d_rivrd
+279 - Title given to 1005396 - Primary title: k_lanibel
+279 - vassal: c_kungati - Holder 1005396 - Primary title: c_kungati has lost the title: c_kungati
+279 - vassal: c_kungati - Title given to 1005396 - Primary title: k_lanibel
+279 - vassal: c_rahegluk - Holder 1005396 - Primary title: c_rahegluk has lost the title: c_rahegluk
+279 - vassal: c_rahegluk - Title given to 1005396 - Primary title: k_lanibel
+279 - vassal: c_rahegluk - Title given to 1009030
+285 - Holder 1009512 - Primary title: d_rivrd has lost the title: d_rivrd
+285 - Title given to 1009512 - Primary title: k_lanibel
+285 - vassal: c_kungati - Setting to vassal of d_qahomeus in Validate Realm
+285 - Lost vassal: c_kungati
+308 - Gained vassal: c_aprahike
+308 - Gained vassal: c_walutan
+308 - Gained vassal: c_qakhulf
+308 - Gained vassal: c_retutan
+308 - Gained vassal: c_someus
+308 - Holder 1011472 - Primary title: d_rivrd has lost the title: d_rivrd
+308 - Title given to 1011472 - Primary title: k_lanibel
+308 - vassal: c_someus - Holder 1011472 - Primary title: c_someus has lost the title: c_someus
+308 - vassal: c_someus - Title given to 1011472 - Primary title: k_lanibel
+308 - vassal: c_retutan - Holder 1011472 - Primary title: c_retutan has lost the title: c_retutan
+308 - vassal: c_retutan - Title given to 1011472 - Primary title: k_lanibel
+308 - vassal: c_qakhulf - Holder 1011472 - Primary title: c_qakhulf has lost the title: c_qakhulf
+308 - vassal: c_qakhulf - Title given to 1011472 - Primary title: k_lanibel
+308 - vassal: c_walutan - Holder 1011472 - Primary title: c_walutan has lost the title: c_walutan
+308 - vassal: c_walutan - Title given to 1011472 - Primary title: k_lanibel
+308 - vassal: c_aprahike - Holder 1011472 - Primary title: c_aprahike has lost the title: c_aprahike
+308 - vassal: c_aprahike - Title given to 1011472 - Primary title: k_lanibel
+335 - Captured byd_egopibel in minor war
+335 - Made independent
+335 - Given to 1010147 in minor war along with lower
+335 - Title given to 1010147 - Primary title: d_egopibel
+335 - vassal: c_rahegluk - Holder 1010147 - Primary title: c_rahegluk has lost the title: c_rahegluk
+335 - vassal: c_rahegluk - Title given to 1010147 - Primary title: d_egopibel
+335 - vassal: c_aprahike - Setting to vassal of k_lanibel in Validate Realm
+335 - Lost vassal: c_aprahike
+335 - vassal: c_walutan - Setting to vassal of k_lanibel in Validate Realm
+335 - Lost vassal: c_walutan
+335 - vassal: c_qakhulf - Setting to vassal of k_lanibel in Validate Realm
+335 - Lost vassal: c_qakhulf
+335 - vassal: c_retutan - Setting to vassal of k_lanibel in Validate Realm
+335 - Lost vassal: c_retutan
+335 - vassal: c_someus - Setting to vassal of k_lanibel in Validate Realm
+335 - Lost vassal: c_someus
+336 - vassal: c_rahegluk - Made vassal of neighbour (k_lanibel) due to being a seperate island
+336 - Lost vassal: c_rahegluk
+337 - Destroyed due to flagged problem
+337 - Title destroyed

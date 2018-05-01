@@ -1,0 +1,1172 @@
+200 - Title given to 1001490
+200 - vassal: d_tayleva - Holder 1001490 - Primary title: d_tayleva has lost the title: d_tayleva
+200 - sub vassal: d_tayleva - Holder 1001490 - Primary title: d_tayleva has lost the title: d_tayleva
+200 - vassal: d_tayleva - Title given to 1001490 - Primary title: k_wenab
+200 - sub vassal: d_tayleva - Title given to 1001490 - Primary title: k_wenab
+200 - Holder (1001490) has gained d_tayleva
+200 - vassal: d_tilapiv - Holder 1001490 - Primary title: d_tilapiv has lost the title: d_tilapiv
+200 - sub vassal: d_tilapiv - Holder 1001490 - Primary title: d_tilapiv has lost the title: d_tilapiv
+200 - vassal: d_tilapiv - Title given to 1001490 - Primary title: k_wenab
+200 - sub vassal: d_tilapiv - Title given to 1001490 - Primary title: k_wenab
+200 - Holder (1001490) has gained d_tilapiv
+200 - Holder (1001490) has gained c_wena
+200 - Holder 1001491 - Primary title: k_wenab has lost the title: c_wena
+200 - Gained vassal: d_beriin
+201 - Holder (1001490) has gained c_wena
+201 - Holder 1001491 - Primary title: k_wenab has lost the title: c_wena
+202 - vassal: d_lairiin - Holder 1001490 - Primary title: d_lairiin has lost the title: d_lairiin
+202 - sub vassal: d_lairiin - Holder 1001490 - Primary title: d_lairiin has lost the title: d_lairiin
+202 - vassal: d_lairiin - Title given to 1001490 - Primary title: k_wenab
+202 - sub vassal: d_lairiin - Title given to 1001490 - Primary title: k_wenab
+202 - Holder (1001490) has gained d_lairiin
+202 - sub vassal: c_rerabir - Holder 1001490 - Primary title: c_rerabir has lost the title: c_rerabir
+202 - sub vassal: c_rerabir - Title given to 1001490 - Primary title: k_wenab
+202 - Holder (1001490) has gained c_rerabir
+202 - sub vassal: c_waruro - Holder 1001490 - Primary title: c_waruro has lost the title: c_waruro
+202 - sub vassal: c_waruro - Title given to 1001490 - Primary title: k_wenab
+202 - Holder (1001490) has gained c_waruro
+202 - sub vassal: c_nayyuter - Holder 1001490 - Primary title: c_nayyuter has lost the title: c_nayyuter
+202 - sub vassal: c_nayyuter - Title given to 1001490 - Primary title: k_wenab
+202 - Holder (1001490) has gained c_nayyuter
+202 - Holder (1001490) has gained c_wena
+202 - vassal: d_tayleva - Destroyed due to flagged problem
+202 - sub vassal: d_tayleva - Destroyed due to flagged problem
+202 - vassal: d_tayleva - Made independent
+202 - sub vassal: d_tayleva - Made independent
+202 - Gained vassal: c_wena
+202 - vassal: c_wena - Given to 1002272 in HandleTitles - Too many duke titles
+202 - sub vassal: c_wena - Given to 1002272 in HandleTitles - Too many duke titles
+202 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+202 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+202 - vassal: c_wena - Given to neighbour holder of k_seateas
+202 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+203 - Holder (1001490) has gained c_bakearl
+203 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+203 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+203 - vassal: c_wena - Given to neighbour holder of k_seateas
+203 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+203 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+204 - Holder (1001490) has gained c_bakearl
+204 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+204 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+204 - vassal: c_wena - Given to neighbour holder of k_seateas
+204 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+204 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+205 - vassal: d_wigeter - Holder 1000798 - Primary title: d_wigeter has lost the title: d_wigeter
+205 - sub vassal: d_wigeter - Holder 1000798 - Primary title: d_wigeter has lost the title: d_wigeter
+205 - vassal: d_wigeter - Title given to 1000798 - Primary title: d_ligaaq
+205 - sub vassal: d_wigeter - Title given to 1000798 - Primary title: d_ligaaq
+205 - vassal: d_ligaaq - Holder (1000798) has gained d_wigeter
+205 - sub vassal: d_ligaaq - Holder (1000798) has gained d_wigeter
+205 - sub vassal: c_neheter - Holder 1000798 - Primary title: c_neheter has lost the title: c_neheter
+205 - sub vassal: c_neheter - Title given to 1000798 - Primary title: d_ligaaq
+205 - vassal: d_ligaaq - Holder (1000798) has gained c_neheter
+205 - sub vassal: d_ligaaq - Holder (1000798) has gained c_neheter
+205 - sub vassal: c_eberiens - Holder 1000798 - Primary title: c_eberiens has lost the title: c_eberiens
+205 - sub vassal: c_eberiens - Title given to 1000798 - Primary title: d_ligaaq
+205 - vassal: d_ligaaq - Holder (1000798) has gained c_eberiens
+205 - sub vassal: d_ligaaq - Holder (1000798) has gained c_eberiens
+205 - sub vassal: c_nehadan - Holder 1000798 - Primary title: c_nehadan has lost the title: c_nehadan
+205 - sub vassal: c_nehadan - Title given to 1000798 - Primary title: d_ligaaq
+205 - vassal: d_ligaaq - Holder (1000798) has gained c_nehadan
+205 - sub vassal: d_ligaaq - Holder (1000798) has gained c_nehadan
+205 - Holder (1001490) has gained c_bakearl
+205 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+205 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+205 - vassal: c_wena - Given to neighbour holder of k_seateas
+205 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+205 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+206 - Holder (1001490) has gained c_bakearl
+206 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+206 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+206 - vassal: c_wena - Given to neighbour holder of k_seateas
+206 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+206 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+207 - vassal: d_beriin - Holder 1002344 - Primary title: d_beriin has lost the title: d_beriin
+207 - sub vassal: d_beriin - Holder 1002344 - Primary title: d_beriin has lost the title: d_beriin
+207 - vassal: d_beriin - Title given to 1002344
+207 - sub vassal: d_beriin - Title given to 1002344
+207 - sub vassal: c_tulenis - Holder 1002344 - Primary title: c_tulenis has lost the title: c_tulenis
+207 - sub vassal: c_tulenis - Title given to 1002344 - Primary title: d_beriin
+207 - vassal: d_beriin - Holder (1002344) has gained c_tulenis
+207 - sub vassal: d_beriin - Holder (1002344) has gained c_tulenis
+207 - sub vassal: c_rehiin - Holder 1002344 - Primary title: c_rehiin has lost the title: c_rehiin
+207 - sub vassal: c_rehiin - Title given to 1002344 - Primary title: d_beriin
+207 - vassal: d_beriin - Holder (1002344) has gained c_rehiin
+207 - sub vassal: d_beriin - Holder (1002344) has gained c_rehiin
+207 - sub vassal: c_lulaaq - Holder 1002344 - Primary title: c_lulaaq has lost the title: c_lulaaq
+207 - sub vassal: c_lulaaq - Title given to 1002344 - Primary title: d_beriin
+207 - vassal: d_beriin - Holder (1002344) has gained c_lulaaq
+207 - sub vassal: d_beriin - Holder (1002344) has gained c_lulaaq
+207 - Holder (1001490) has gained c_bakearl
+207 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+207 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+207 - vassal: c_wena - Given to neighbour holder of k_seateas
+207 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+207 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+208 - Holder (1001490) has gained c_bakearl
+208 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+208 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+208 - vassal: c_wena - Given to neighbour holder of k_seateas
+208 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+208 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+209 - Holder (1001490) has gained c_bakearl
+209 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+209 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+209 - vassal: c_wena - Given to neighbour holder of k_seateas
+209 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+209 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+210 - Holder (1001490) has gained c_bakearl
+210 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+210 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+210 - vassal: c_wena - Given to neighbour holder of k_seateas
+210 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+210 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+211 - Holder (1001490) has gained c_bakearl
+211 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+211 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+211 - vassal: c_wena - Given to neighbour holder of k_seateas
+211 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+211 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+212 - Holder (1001490) has gained c_bakearl
+212 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+212 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+212 - vassal: c_wena - Given to neighbour holder of k_seateas
+212 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+212 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+213 - Holder (1001490) has gained c_bakearl
+213 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+213 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+213 - vassal: c_wena - Given to neighbour holder of k_seateas
+213 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+213 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+214 - Holder (1001490) has gained c_bakearl
+214 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+214 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+214 - vassal: c_wena - Given to neighbour holder of k_seateas
+214 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+214 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+215 - Holder (1001490) has gained c_bakearl
+215 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+215 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+215 - vassal: c_wena - Given to neighbour holder of k_seateas
+215 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+215 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+216 - Holder (1001490) has gained c_bakearl
+216 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+216 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+216 - vassal: c_wena - Given to neighbour holder of k_seateas
+216 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+216 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+217 - Holder (1001490) has gained c_bakearl
+217 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+217 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+217 - vassal: c_wena - Given to neighbour holder of k_seateas
+217 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+217 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+218 - Holder (1001490) has gained c_bakearl
+218 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+218 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+218 - vassal: c_wena - Given to neighbour holder of k_seateas
+218 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+218 - Holder 1001491 - Primary title: k_wenab has lost the title: c_bakearl
+219 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+219 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+219 - vassal: c_wena - Given to neighbour holder of k_seateas
+219 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+220 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+220 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+220 - vassal: c_wena - Given to neighbour holder of k_seateas
+220 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+221 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+221 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+221 - vassal: c_wena - Given to neighbour holder of k_seateas
+221 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+222 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+222 - vassal: c_wena - Given to neighbour holder of k_seateas
+222 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+223 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+223 - vassal: c_wena - Given to neighbour holder of k_seateas
+223 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+224 - vassal: d_tiam - Holder 1003319 - Primary title: d_tiam has lost the title: d_tiam
+224 - sub vassal: d_tiam - Holder 1003319 - Primary title: d_tiam has lost the title: d_tiam
+224 - vassal: d_tiam - Title given to 1003319
+224 - sub vassal: d_tiam - Title given to 1003319
+224 - sub vassal: c_qasadir - Holder 1003319 - Primary title: c_qasadir has lost the title: c_qasadir
+224 - sub vassal: c_qasadir - Title given to 1003319 - Primary title: d_tiam
+224 - vassal: d_tiam - Holder (1003319) has gained c_qasadir
+224 - sub vassal: d_tiam - Holder (1003319) has gained c_qasadir
+224 - sub vassal: c_wevna - Holder 1003319 - Primary title: c_wevna has lost the title: c_wevna
+224 - sub vassal: c_wevna - Title given to 1003319 - Primary title: d_tiam
+224 - vassal: d_tiam - Holder (1003319) has gained c_wevna
+224 - sub vassal: d_tiam - Holder (1003319) has gained c_wevna
+224 - sub vassal: c_nermiin - Holder 1003319 - Primary title: c_nermiin has lost the title: c_nermiin
+224 - sub vassal: c_nermiin - Title given to 1003319 - Primary title: d_tiam
+224 - vassal: d_tiam - Holder (1003319) has gained c_nermiin
+224 - sub vassal: d_tiam - Holder (1003319) has gained c_nermiin
+224 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+224 - vassal: c_wena - Given to neighbour holder of k_seateas
+224 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+225 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+225 - vassal: c_wena - Given to neighbour holder of k_seateas
+225 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+226 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+226 - vassal: c_wena - Given to neighbour holder of k_seateas
+226 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+227 - vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - sub vassal: c_wena - Made vassal of neighbour (k_seateas) due to being a seperate island
+227 - vassal: c_wena - Given to neighbour holder of k_seateas
+227 - sub vassal: c_wena - Given to neighbour holder of k_seateas
+227 - Holder (1001490) has gained c_bakearl
+228 - vassal: d_beriin - Holder 1001490 - Primary title: d_beriin has lost the title: d_beriin
+228 - sub vassal: d_beriin - Holder 1001490 - Primary title: d_beriin has lost the title: d_beriin
+228 - vassal: d_beriin - Title given to 1001490 - Primary title: k_wenab
+228 - sub vassal: d_beriin - Title given to 1001490 - Primary title: k_wenab
+228 - Holder (1001490) has gained d_beriin
+228 - sub vassal: c_lulaaq - Holder 1001490 - Primary title: c_lulaaq has lost the title: c_lulaaq
+228 - sub vassal: c_lulaaq - Title given to 1001490 - Primary title: k_wenab
+228 - Holder (1001490) has gained c_lulaaq
+228 - sub vassal: c_rehiin - Holder 1001490 - Primary title: c_rehiin has lost the title: c_rehiin
+228 - sub vassal: c_rehiin - Title given to 1001490 - Primary title: k_wenab
+228 - Holder (1001490) has gained c_rehiin
+228 - sub vassal: c_tulenis - Holder 1001490 - Primary title: c_tulenis has lost the title: c_tulenis
+228 - sub vassal: c_tulenis - Title given to 1001490 - Primary title: k_wenab
+228 - Holder (1001490) has gained c_tulenis
+228 - sub vassal: c_nayyuter - Given to 1004356 in HandleTitles - Too many duke titles
+228 - Holder 1004356 - Primary title: k_wenab has lost the title: c_nayyuter
+228 - sub vassal: c_nayyuter - Title given to 1004356
+228 - Holder 1004356 - Primary title: k_wenab has lost the title: d_lairiin
+228 - vassal: d_lairiin - Title given to 1004356 - Primary title: c_nayyuter
+228 - sub vassal: d_lairiin - Title given to 1004356 - Primary title: c_nayyuter
+228 - sub vassal: c_nayyuter - Holder (1004356) has gained d_lairiin
+228 - sub vassal: c_waruro - Setting to vassal of k_wenab in Validate Realm
+228 - vassal: d_lairiin - Lost vassal: c_waruro
+228 - sub vassal: d_lairiin - Lost vassal: c_waruro
+228 - sub vassal: c_rerabir - Setting to vassal of k_wenab in Validate Realm
+228 - vassal: d_lairiin - Lost vassal: c_rerabir
+228 - sub vassal: d_lairiin - Lost vassal: c_rerabir
+228 - Gained vassal: c_rerabir
+228 - Gained vassal: c_waruro
+228 - vassal: d_lairiin - Too many dukes, given to dejure: k_wenab
+228 - sub vassal: d_lairiin - Too many dukes, given to dejure: k_wenab
+228 - Holder 1004357 - Primary title: k_wenab has lost the title: c_bakearl
+228 - Gained vassal: c_bakearl
+228 - Holder 1004358 - Primary title: k_wenab has lost the title: c_wena
+228 - vassal: c_wena - Title given to 1004358
+228 - sub vassal: c_wena - Title given to 1004358
+228 - vassal: c_wena - Made independent due to being a seperate island
+228 - sub vassal: c_wena - Made independent due to being a seperate island
+228 - vassal: c_wena - Made independent
+228 - sub vassal: c_wena - Made independent
+228 - vassal: c_bakearl - Made independent due to being a seperate island
+228 - sub vassal: c_bakearl - Made independent due to being a seperate island
+228 - vassal: c_bakearl - Made independent
+228 - sub vassal: c_bakearl - Made independent
+230 - Holder 1002273 - Primary title: k_wenab has lost the title: k_wenab
+230 - Title given to 1002273
+230 - vassal: d_tilapiv - Holder 1002273 - Primary title: d_tilapiv has lost the title: c_waruro
+230 - sub vassal: d_tilapiv - Holder 1002273 - Primary title: d_tilapiv has lost the title: c_waruro
+230 - vassal: c_waruro - Title given to 1002273 - Primary title: k_wenab
+230 - sub vassal: c_waruro - Title given to 1002273 - Primary title: k_wenab
+230 - Holder (1002273) has gained c_waruro
+230 - vassal: c_rerabir - Setting to vassal of d_tilapiv in Validate Realm
+230 - sub vassal: c_rerabir - Setting to vassal of d_tilapiv in Validate Realm
+230 - Lost vassal: c_rerabir
+230 - vassal: d_tilapiv - Gained vassal: c_rerabir
+230 - sub vassal: d_tilapiv - Gained vassal: c_rerabir
+230 - vassal: d_tilapiv - Holder 1002273 - Primary title: d_tilapiv has lost the title: c_rerabir
+230 - sub vassal: d_tilapiv - Holder 1002273 - Primary title: d_tilapiv has lost the title: c_rerabir
+230 - sub vassal: c_rerabir - Title given to 1002273 - Primary title: k_wenab
+230 - Holder (1002273) has gained c_rerabir
+230 - sub vassal: c_rerabir - Setting to vassal of k_wenab in Validate Realm
+230 - vassal: d_tilapiv - Lost vassal: c_rerabir
+230 - sub vassal: d_tilapiv - Lost vassal: c_rerabir
+230 - Gained vassal: c_rerabir
+230 - vassal: d_tilapiv - Holder 1002273 - Primary title: d_tilapiv has lost the title: d_tilapiv
+230 - sub vassal: d_tilapiv - Holder 1002273 - Primary title: d_tilapiv has lost the title: d_tilapiv
+230 - vassal: d_tilapiv - Title given to 1002273 - Primary title: k_wenab
+230 - sub vassal: d_tilapiv - Title given to 1002273 - Primary title: k_wenab
+230 - Holder (1002273) has gained d_tilapiv
+230 - vassal: d_beriin - Holder 1002273 - Primary title: d_beriin has lost the title: d_beriin
+230 - sub vassal: d_beriin - Holder 1002273 - Primary title: d_beriin has lost the title: d_beriin
+230 - vassal: d_beriin - Title given to 1002273 - Primary title: k_wenab
+230 - sub vassal: d_beriin - Title given to 1002273 - Primary title: k_wenab
+230 - Holder (1002273) has gained d_beriin
+230 - sub vassal: c_lulaaq - Holder 1002273 - Primary title: c_lulaaq has lost the title: c_lulaaq
+230 - sub vassal: c_lulaaq - Title given to 1002273 - Primary title: k_wenab
+230 - Holder (1002273) has gained c_lulaaq
+230 - sub vassal: c_rehiin - Holder 1002273 - Primary title: c_rehiin has lost the title: c_rehiin
+230 - sub vassal: c_rehiin - Title given to 1002273 - Primary title: k_wenab
+230 - Holder (1002273) has gained c_rehiin
+230 - sub vassal: c_tulenis - Holder 1002273 - Primary title: c_tulenis has lost the title: c_tulenis
+230 - sub vassal: c_tulenis - Title given to 1002273 - Primary title: k_wenab
+230 - Holder (1002273) has gained c_tulenis
+232 - vassal: d_tiam - Holder 1002273 - Primary title: d_tiam has lost the title: d_tiam
+232 - sub vassal: d_tiam - Holder 1002273 - Primary title: d_tiam has lost the title: d_tiam
+232 - vassal: d_tiam - Title given to 1002273 - Primary title: k_wenab
+232 - sub vassal: d_tiam - Title given to 1002273 - Primary title: k_wenab
+232 - Holder (1002273) has gained d_tiam
+232 - sub vassal: c_qasadir - Holder 1002273 - Primary title: c_qasadir has lost the title: c_qasadir
+232 - sub vassal: c_qasadir - Title given to 1002273 - Primary title: k_wenab
+232 - Holder (1002273) has gained c_qasadir
+232 - sub vassal: c_wevna - Holder 1002273 - Primary title: c_wevna has lost the title: c_wevna
+232 - sub vassal: c_wevna - Title given to 1002273 - Primary title: k_wenab
+232 - Holder (1002273) has gained c_wevna
+232 - sub vassal: c_nermiin - Holder 1002273 - Primary title: c_nermiin has lost the title: c_nermiin
+232 - sub vassal: c_nermiin - Title given to 1002273 - Primary title: k_wenab
+232 - Holder (1002273) has gained c_nermiin
+232 - vassal: d_tilapiv - Destroyed due to flagged problem
+232 - sub vassal: d_tilapiv - Destroyed due to flagged problem
+232 - vassal: d_tilapiv - Made independent
+232 - sub vassal: d_tilapiv - Made independent
+232 - Gained vassal: c_eberevna
+232 - Holder 1004665 - Primary title: k_wenab has lost the title: c_rehiin
+232 - sub vassal: c_rehiin - Title given to 1004665
+232 - Holder 1004666 - Primary title: k_wenab has lost the title: c_rerabir
+232 - vassal: c_rerabir - Title given to 1004666
+232 - sub vassal: c_rerabir - Title given to 1004666
+232 - Holder 1004667 - Primary title: k_wenab has lost the title: c_nermiin
+232 - sub vassal: c_nermiin - Title given to 1004667
+232 - vassal: c_eberevna - Made independent due to being a seperate island
+232 - sub vassal: c_eberevna - Made independent due to being a seperate island
+232 - vassal: c_eberevna - Made independent
+232 - sub vassal: c_eberevna - Made independent
+237 - vassal: d_samaaq - Holder 1001786 - Primary title: d_samaaq has lost the title: d_samaaq
+237 - sub vassal: d_samaaq - Holder 1001786 - Primary title: d_samaaq has lost the title: d_samaaq
+237 - vassal: d_samaaq - Title given to 1001786
+237 - sub vassal: d_samaaq - Title given to 1001786
+237 - sub vassal: c_bigiam - Holder 1001786 - Primary title: c_bigiam has lost the title: c_bigiam
+237 - sub vassal: c_bigiam - Title given to 1001786 - Primary title: d_samaaq
+237 - vassal: d_samaaq - Holder (1001786) has gained c_bigiam
+237 - sub vassal: d_samaaq - Holder (1001786) has gained c_bigiam
+237 - sub vassal: c_qerabir - Holder 1001786 - Primary title: c_qerabir has lost the title: c_qerabir
+237 - sub vassal: c_qerabir - Title given to 1001786 - Primary title: d_samaaq
+237 - vassal: d_samaaq - Holder (1001786) has gained c_qerabir
+237 - sub vassal: d_samaaq - Holder (1001786) has gained c_qerabir
+237 - sub vassal: c_qeter - Holder 1001786 - Primary title: c_qeter has lost the title: c_qeter
+237 - sub vassal: c_qeter - Title given to 1001786 - Primary title: d_samaaq
+237 - vassal: d_samaaq - Holder (1001786) has gained c_qeter
+237 - sub vassal: d_samaaq - Holder (1001786) has gained c_qeter
+237 - Holder 1004812 - Primary title: k_wenab has lost the title: k_wenab
+237 - Title given to 1004812
+237 - vassal: d_beriin - Holder 1004812 - Primary title: d_beriin has lost the title: c_waruro
+237 - sub vassal: d_beriin - Holder 1004812 - Primary title: d_beriin has lost the title: c_waruro
+237 - vassal: c_waruro - Title given to 1004812 - Primary title: k_wenab
+237 - sub vassal: c_waruro - Title given to 1004812 - Primary title: k_wenab
+237 - Holder (1004812) has gained c_waruro
+237 - vassal: d_beriin - Holder 1004812 - Primary title: d_beriin has lost the title: d_beriin
+237 - sub vassal: d_beriin - Holder 1004812 - Primary title: d_beriin has lost the title: d_beriin
+237 - vassal: d_beriin - Title given to 1004812 - Primary title: k_wenab
+237 - sub vassal: d_beriin - Title given to 1004812 - Primary title: k_wenab
+237 - Holder (1004812) has gained d_beriin
+237 - sub vassal: c_lulaaq - Setting to vassal of d_tiam in Validate Realm
+237 - vassal: d_beriin - Lost vassal: c_lulaaq
+237 - sub vassal: d_beriin - Lost vassal: c_lulaaq
+237 - sub vassal: c_tulenis - Setting to vassal of d_tiam in Validate Realm
+237 - vassal: d_beriin - Lost vassal: c_tulenis
+237 - sub vassal: d_beriin - Lost vassal: c_tulenis
+237 - vassal: d_tiam - Gained vassal: c_tulenis
+237 - sub vassal: d_tiam - Gained vassal: c_tulenis
+237 - vassal: d_tiam - Gained vassal: c_lulaaq
+237 - sub vassal: d_tiam - Gained vassal: c_lulaaq
+237 - vassal: d_tiam - Holder 1004812 - Primary title: d_tiam has lost the title: c_lulaaq
+237 - sub vassal: d_tiam - Holder 1004812 - Primary title: d_tiam has lost the title: c_lulaaq
+237 - sub vassal: c_lulaaq - Title given to 1004812 - Primary title: k_wenab
+237 - Holder (1004812) has gained c_lulaaq
+237 - sub vassal: c_lulaaq - Setting to vassal of k_wenab in Validate Realm
+237 - vassal: d_tiam - Lost vassal: c_lulaaq
+237 - sub vassal: d_tiam - Lost vassal: c_lulaaq
+237 - Gained vassal: c_lulaaq
+237 - vassal: d_tiam - Holder 1004812 - Primary title: d_tiam has lost the title: c_tulenis
+237 - sub vassal: d_tiam - Holder 1004812 - Primary title: d_tiam has lost the title: c_tulenis
+237 - sub vassal: c_tulenis - Title given to 1004812 - Primary title: k_wenab
+237 - Holder (1004812) has gained c_tulenis
+237 - sub vassal: c_tulenis - Setting to vassal of k_wenab in Validate Realm
+237 - vassal: d_tiam - Lost vassal: c_tulenis
+237 - sub vassal: d_tiam - Lost vassal: c_tulenis
+237 - Gained vassal: c_tulenis
+237 - vassal: d_tiam - Holder 1004812 - Primary title: d_tiam has lost the title: d_tiam
+237 - sub vassal: d_tiam - Holder 1004812 - Primary title: d_tiam has lost the title: d_tiam
+237 - vassal: d_tiam - Title given to 1004812 - Primary title: k_wenab
+237 - sub vassal: d_tiam - Title given to 1004812 - Primary title: k_wenab
+237 - Holder (1004812) has gained d_tiam
+237 - sub vassal: c_qasadir - Holder 1004812 - Primary title: c_qasadir has lost the title: c_qasadir
+237 - sub vassal: c_qasadir - Title given to 1004812 - Primary title: k_wenab
+237 - Holder (1004812) has gained c_qasadir
+237 - sub vassal: c_wevna - Holder 1004812 - Primary title: c_wevna has lost the title: c_wevna
+237 - sub vassal: c_wevna - Title given to 1004812 - Primary title: k_wenab
+237 - Holder (1004812) has gained c_wevna
+239 - vassal: d_samaaq - Holder 1000733 - Primary title: d_samaaq has lost the title: d_samaaq
+239 - sub vassal: d_samaaq - Holder 1000733 - Primary title: d_samaaq has lost the title: d_samaaq
+239 - vassal: d_samaaq - Title given to 1000733 - Primary title: d_raila
+239 - sub vassal: d_samaaq - Title given to 1000733 - Primary title: d_raila
+239 - vassal: d_raila - Holder (1000733) has gained d_samaaq
+239 - sub vassal: d_raila - Holder (1000733) has gained d_samaaq
+239 - sub vassal: c_bigiam - Holder 1000733 - Primary title: c_bigiam has lost the title: c_bigiam
+239 - sub vassal: c_bigiam - Title given to 1000733 - Primary title: d_raila
+239 - vassal: d_raila - Holder (1000733) has gained c_bigiam
+239 - sub vassal: d_raila - Holder (1000733) has gained c_bigiam
+239 - sub vassal: c_qerabir - Holder 1000733 - Primary title: c_qerabir has lost the title: c_qerabir
+239 - sub vassal: c_qerabir - Title given to 1000733 - Primary title: d_raila
+239 - vassal: d_raila - Holder (1000733) has gained c_qerabir
+239 - sub vassal: d_raila - Holder (1000733) has gained c_qerabir
+239 - sub vassal: c_qeter - Holder 1000733 - Primary title: c_qeter has lost the title: c_qeter
+239 - sub vassal: c_qeter - Title given to 1000733 - Primary title: d_raila
+239 - vassal: d_raila - Holder (1000733) has gained c_qeter
+239 - sub vassal: d_raila - Holder (1000733) has gained c_qeter
+239 - Holder 1004356 - Primary title: k_wenab has lost the title: k_wenab
+239 - Title given to 1004356 - Primary title: d_lairiin
+239 - vassal: d_lairiin - Holder (1004356) has gained k_wenab
+239 - sub vassal: d_lairiin - Holder (1004356) has gained k_wenab
+239 - vassal: c_waruro - Setting to vassal of d_beriin in Validate Realm
+239 - sub vassal: c_waruro - Setting to vassal of d_beriin in Validate Realm
+239 - Lost vassal: c_waruro
+239 - vassal: c_lulaaq - Setting to vassal of d_beriin in Validate Realm
+239 - sub vassal: c_lulaaq - Setting to vassal of d_beriin in Validate Realm
+239 - Lost vassal: c_lulaaq
+239 - vassal: c_tulenis - Setting to vassal of d_beriin in Validate Realm
+239 - sub vassal: c_tulenis - Setting to vassal of d_beriin in Validate Realm
+239 - Lost vassal: c_tulenis
+239 - vassal: d_beriin - Gained vassal: c_tulenis
+239 - sub vassal: d_beriin - Gained vassal: c_tulenis
+239 - vassal: d_beriin - Gained vassal: c_lulaaq
+239 - sub vassal: d_beriin - Gained vassal: c_lulaaq
+239 - vassal: d_beriin - Gained vassal: c_waruro
+239 - sub vassal: d_beriin - Gained vassal: c_waruro
+239 - vassal: d_beriin - Holder 1004356 - Primary title: d_beriin has lost the title: c_waruro
+239 - sub vassal: d_beriin - Holder 1004356 - Primary title: d_beriin has lost the title: c_waruro
+239 - sub vassal: c_waruro - Title given to 1004356 - Primary title: k_wenab
+239 - Holder (1004356) has gained c_waruro
+239 - sub vassal: c_waruro - Setting to vassal of k_wenab in Validate Realm
+239 - vassal: d_beriin - Lost vassal: c_waruro
+239 - sub vassal: d_beriin - Lost vassal: c_waruro
+239 - Gained vassal: c_waruro
+239 - vassal: d_beriin - Holder 1004356 - Primary title: d_beriin has lost the title: d_beriin
+239 - sub vassal: d_beriin - Holder 1004356 - Primary title: d_beriin has lost the title: d_beriin
+239 - vassal: d_beriin - Title given to 1004356 - Primary title: k_wenab
+239 - sub vassal: d_beriin - Title given to 1004356 - Primary title: k_wenab
+239 - Holder (1004356) has gained d_beriin
+239 - sub vassal: c_lulaaq - Setting to vassal of d_tiam in Validate Realm
+239 - vassal: d_beriin - Lost vassal: c_lulaaq
+239 - sub vassal: d_beriin - Lost vassal: c_lulaaq
+239 - sub vassal: c_tulenis - Setting to vassal of d_tiam in Validate Realm
+239 - vassal: d_beriin - Lost vassal: c_tulenis
+239 - sub vassal: d_beriin - Lost vassal: c_tulenis
+239 - vassal: d_tiam - Gained vassal: c_tulenis
+239 - sub vassal: d_tiam - Gained vassal: c_tulenis
+239 - vassal: d_tiam - Gained vassal: c_lulaaq
+239 - sub vassal: d_tiam - Gained vassal: c_lulaaq
+239 - vassal: d_tiam - Holder 1004356 - Primary title: d_tiam has lost the title: c_lulaaq
+239 - sub vassal: d_tiam - Holder 1004356 - Primary title: d_tiam has lost the title: c_lulaaq
+239 - sub vassal: c_lulaaq - Title given to 1004356 - Primary title: k_wenab
+239 - Holder (1004356) has gained c_lulaaq
+239 - sub vassal: c_lulaaq - Setting to vassal of k_wenab in Validate Realm
+239 - vassal: d_tiam - Lost vassal: c_lulaaq
+239 - sub vassal: d_tiam - Lost vassal: c_lulaaq
+239 - Gained vassal: c_lulaaq
+239 - vassal: d_tiam - Holder 1004356 - Primary title: d_tiam has lost the title: c_tulenis
+239 - sub vassal: d_tiam - Holder 1004356 - Primary title: d_tiam has lost the title: c_tulenis
+239 - sub vassal: c_tulenis - Title given to 1004356 - Primary title: k_wenab
+239 - Holder (1004356) has gained c_tulenis
+239 - sub vassal: c_tulenis - Setting to vassal of k_wenab in Validate Realm
+239 - vassal: d_tiam - Lost vassal: c_tulenis
+239 - sub vassal: d_tiam - Lost vassal: c_tulenis
+239 - Gained vassal: c_tulenis
+239 - vassal: d_tiam - Holder 1004356 - Primary title: d_tiam has lost the title: d_tiam
+239 - sub vassal: d_tiam - Holder 1004356 - Primary title: d_tiam has lost the title: d_tiam
+239 - vassal: d_tiam - Title given to 1004356 - Primary title: k_wenab
+239 - sub vassal: d_tiam - Title given to 1004356 - Primary title: k_wenab
+239 - Holder (1004356) has gained d_tiam
+239 - sub vassal: c_qasadir - Holder 1004356 - Primary title: c_qasadir has lost the title: c_qasadir
+239 - sub vassal: c_qasadir - Title given to 1004356 - Primary title: k_wenab
+239 - Holder (1004356) has gained c_qasadir
+239 - sub vassal: c_wevna - Holder 1004356 - Primary title: c_wevna has lost the title: c_wevna
+239 - sub vassal: c_wevna - Title given to 1004356 - Primary title: k_wenab
+239 - Holder (1004356) has gained c_wevna
+240 - vassal: d_samaaq - Holder 1002840 - Primary title: d_samaaq has lost the title: c_taro
+240 - sub vassal: d_samaaq - Holder 1002840 - Primary title: d_samaaq has lost the title: c_taro
+240 - sub vassal: c_taro - Title given to 1002840
+240 - sub vassal: c_rehiin - Holder 1004356 - Primary title: c_rehiin has lost the title: c_rehiin
+240 - sub vassal: c_rehiin - Title given to 1004356 - Primary title: k_wenab
+240 - Holder (1004356) has gained c_rehiin
+240 - sub vassal: c_rehiin - Given to 1005293 in HandleTitles - Too many duke titles
+240 - Holder 1005293 - Primary title: k_wenab has lost the title: c_rehiin
+240 - sub vassal: c_rehiin - Title given to 1005293
+240 - Holder 1005293 - Primary title: k_wenab has lost the title: d_beriin
+240 - vassal: d_beriin - Title given to 1005293 - Primary title: c_rehiin
+240 - sub vassal: d_beriin - Title given to 1005293 - Primary title: c_rehiin
+240 - sub vassal: c_rehiin - Holder (1005293) has gained d_beriin
+240 - vassal: d_beriin - Too many dukes, made direct title into vassal of k_wenab
+240 - sub vassal: d_beriin - Too many dukes, made direct title into vassal of k_wenab
+240 - Holder 1005294 - Primary title: k_wenab has lost the title: c_wevna
+240 - sub vassal: c_wevna - Title given to 1005294
+250 - vassal: d_wigeter - Holder 1002463 - Primary title: d_wigeter has lost the title: d_wigeter
+250 - sub vassal: d_wigeter - Holder 1002463 - Primary title: d_wigeter has lost the title: d_wigeter
+250 - vassal: d_wigeter - Title given to 1002463
+250 - sub vassal: d_wigeter - Title given to 1002463
+250 - sub vassal: c_neheter - Setting to vassal of d_ligaaq in Validate Realm
+250 - vassal: d_wigeter - Lost vassal: c_neheter
+250 - sub vassal: d_wigeter - Lost vassal: c_neheter
+250 - sub vassal: c_eberiens - Setting to vassal of d_ligaaq in Validate Realm
+250 - vassal: d_wigeter - Lost vassal: c_eberiens
+250 - sub vassal: d_wigeter - Lost vassal: c_eberiens
+250 - sub vassal: c_nehadan - Setting to vassal of d_ligaaq in Validate Realm
+250 - vassal: d_wigeter - Lost vassal: c_nehadan
+250 - sub vassal: d_wigeter - Lost vassal: c_nehadan
+250 - vassal: d_ligaaq - Gained vassal: c_nehadan
+250 - sub vassal: d_ligaaq - Gained vassal: c_nehadan
+250 - vassal: d_ligaaq - Gained vassal: c_eberiens
+250 - sub vassal: d_ligaaq - Gained vassal: c_eberiens
+250 - vassal: d_ligaaq - Gained vassal: c_neheter
+250 - sub vassal: d_ligaaq - Gained vassal: c_neheter
+250 - vassal: d_ligaaq - Holder 1002463 - Primary title: d_ligaaq has lost the title: d_ligaaq
+250 - sub vassal: d_ligaaq - Holder 1002463 - Primary title: d_ligaaq has lost the title: d_ligaaq
+250 - vassal: d_ligaaq - Title given to 1002463 - Primary title: d_wigeter
+250 - sub vassal: d_ligaaq - Title given to 1002463 - Primary title: d_wigeter
+250 - vassal: d_wigeter - Holder (1002463) has gained d_ligaaq
+250 - sub vassal: d_wigeter - Holder (1002463) has gained d_ligaaq
+250 - sub vassal: c_egisenis - Holder 1002463 - Primary title: c_egisenis has lost the title: c_egisenis
+250 - sub vassal: c_egisenis - Title given to 1002463 - Primary title: d_wigeter
+250 - vassal: d_wigeter - Holder (1002463) has gained c_egisenis
+250 - sub vassal: d_wigeter - Holder (1002463) has gained c_egisenis
+250 - sub vassal: c_tirdas - Holder 1002463 - Primary title: c_tirdas has lost the title: c_tirdas
+250 - sub vassal: c_tirdas - Title given to 1002463 - Primary title: d_wigeter
+250 - vassal: d_wigeter - Holder (1002463) has gained c_tirdas
+250 - sub vassal: d_wigeter - Holder (1002463) has gained c_tirdas
+250 - sub vassal: c_neheter - Holder 1002463 - Primary title: c_neheter has lost the title: c_neheter
+250 - sub vassal: c_neheter - Title given to 1002463 - Primary title: d_wigeter
+250 - vassal: d_wigeter - Holder (1002463) has gained c_neheter
+250 - sub vassal: d_wigeter - Holder (1002463) has gained c_neheter
+250 - sub vassal: c_eberiens - Holder 1002463 - Primary title: c_eberiens has lost the title: c_eberiens
+250 - sub vassal: c_eberiens - Title given to 1002463 - Primary title: d_wigeter
+250 - vassal: d_wigeter - Holder (1002463) has gained c_eberiens
+250 - sub vassal: d_wigeter - Holder (1002463) has gained c_eberiens
+250 - sub vassal: c_nehadan - Holder 1002463 - Primary title: c_nehadan has lost the title: c_nehadan
+250 - sub vassal: c_nehadan - Title given to 1002463 - Primary title: d_wigeter
+250 - vassal: d_wigeter - Holder (1002463) has gained c_nehadan
+250 - sub vassal: d_wigeter - Holder (1002463) has gained c_nehadan
+251 - vassal: d_wigeter - Destroyed due to flagged problem
+251 - sub vassal: d_wigeter - Destroyed due to flagged problem
+251 - vassal: d_wigeter - Made independent
+251 - sub vassal: d_wigeter - Made independent
+252 - vassal: d_ruladir - Holder 1001782 - Primary title: d_ruladir has lost the title: d_ruladir
+252 - sub vassal: d_ruladir - Holder 1001782 - Primary title: d_ruladir has lost the title: d_ruladir
+252 - vassal: d_ruladir - Title given to 1001782
+252 - sub vassal: d_ruladir - Title given to 1001782
+252 - sub vassal: c_domonza - Holder 1001782 - Primary title: c_domonza has lost the title: c_domonza
+252 - sub vassal: c_domonza - Title given to 1001782 - Primary title: d_ruladir
+252 - vassal: d_ruladir - Holder (1001782) has gained c_domonza
+252 - sub vassal: d_ruladir - Holder (1001782) has gained c_domonza
+252 - sub vassal: c_rehabir - Holder 1001782 - Primary title: c_rehabir has lost the title: c_rehabir
+252 - sub vassal: c_rehabir - Title given to 1001782 - Primary title: d_ruladir
+252 - vassal: d_ruladir - Holder (1001782) has gained c_rehabir
+252 - sub vassal: d_ruladir - Holder (1001782) has gained c_rehabir
+252 - sub vassal: c_tameze - Holder 1001782 - Primary title: c_tameze has lost the title: c_tameze
+252 - sub vassal: c_tameze - Title given to 1001782 - Primary title: d_ruladir
+252 - vassal: d_ruladir - Holder (1001782) has gained c_tameze
+252 - sub vassal: d_ruladir - Holder (1001782) has gained c_tameze
+252 - sub vassal: c_qadir - Holder 1001782 - Primary title: c_qadir has lost the title: c_qadir
+252 - sub vassal: c_qadir - Title given to 1001782 - Primary title: d_ruladir
+252 - vassal: d_ruladir - Holder (1001782) has gained c_qadir
+252 - sub vassal: d_ruladir - Holder (1001782) has gained c_qadir
+254 - vassal: d_samaaq - Holder 1002654 - Primary title: d_samaaq has lost the title: d_samaaq
+254 - sub vassal: d_samaaq - Holder 1002654 - Primary title: d_samaaq has lost the title: d_samaaq
+254 - vassal: d_samaaq - Title given to 1002654
+254 - sub vassal: d_samaaq - Title given to 1002654
+254 - sub vassal: c_qeter - Setting to vassal of d_raila in Validate Realm
+254 - vassal: d_samaaq - Lost vassal: c_qeter
+254 - sub vassal: d_samaaq - Lost vassal: c_qeter
+254 - sub vassal: c_qerabir - Setting to vassal of d_raila in Validate Realm
+254 - vassal: d_samaaq - Lost vassal: c_qerabir
+254 - sub vassal: d_samaaq - Lost vassal: c_qerabir
+254 - sub vassal: c_bigiam - Setting to vassal of d_raila in Validate Realm
+254 - vassal: d_samaaq - Lost vassal: c_bigiam
+254 - sub vassal: d_samaaq - Lost vassal: c_bigiam
+254 - vassal: d_raila - Gained vassal: c_bigiam
+254 - sub vassal: d_raila - Gained vassal: c_bigiam
+254 - vassal: d_raila - Gained vassal: c_qerabir
+254 - sub vassal: d_raila - Gained vassal: c_qerabir
+254 - vassal: d_raila - Gained vassal: c_qeter
+254 - sub vassal: d_raila - Gained vassal: c_qeter
+254 - vassal: d_raila - Holder 1002654 - Primary title: d_raila has lost the title: d_raila
+254 - sub vassal: d_raila - Holder 1002654 - Primary title: d_raila has lost the title: d_raila
+254 - vassal: d_raila - Title given to 1002654 - Primary title: d_samaaq
+254 - sub vassal: d_raila - Title given to 1002654 - Primary title: d_samaaq
+254 - vassal: d_samaaq - Holder (1002654) has gained d_raila
+254 - sub vassal: d_samaaq - Holder (1002654) has gained d_raila
+254 - sub vassal: c_qeter - Holder 1002654 - Primary title: c_qeter has lost the title: c_qeter
+254 - sub vassal: c_qeter - Title given to 1002654 - Primary title: d_samaaq
+254 - vassal: d_samaaq - Holder (1002654) has gained c_qeter
+254 - sub vassal: d_samaaq - Holder (1002654) has gained c_qeter
+254 - sub vassal: c_qerabir - Holder 1002654 - Primary title: c_qerabir has lost the title: c_qerabir
+254 - sub vassal: c_qerabir - Title given to 1002654 - Primary title: d_samaaq
+254 - vassal: d_samaaq - Holder (1002654) has gained c_qerabir
+254 - sub vassal: d_samaaq - Holder (1002654) has gained c_qerabir
+254 - sub vassal: c_bigiam - Holder 1002654 - Primary title: c_bigiam has lost the title: c_bigiam
+254 - sub vassal: c_bigiam - Title given to 1002654 - Primary title: d_samaaq
+254 - vassal: d_samaaq - Holder (1002654) has gained c_bigiam
+254 - sub vassal: d_samaaq - Holder (1002654) has gained c_bigiam
+254 - sub vassal: c_rulenis - Holder 1002654 - Primary title: c_rulenis has lost the title: c_rulenis
+254 - sub vassal: c_rulenis - Title given to 1002654 - Primary title: d_samaaq
+254 - vassal: d_samaaq - Holder (1002654) has gained c_rulenis
+254 - sub vassal: d_samaaq - Holder (1002654) has gained c_rulenis
+254 - sub vassal: c_tantas - Holder 1002654 - Primary title: c_tantas has lost the title: c_tantas
+254 - sub vassal: c_tantas - Title given to 1002654 - Primary title: d_samaaq
+254 - vassal: d_samaaq - Holder (1002654) has gained c_tantas
+254 - sub vassal: d_samaaq - Holder (1002654) has gained c_tantas
+255 - vassal: d_samaaq - Destroyed due to flagged problem
+255 - sub vassal: d_samaaq - Destroyed due to flagged problem
+255 - vassal: d_samaaq - Made independent
+255 - sub vassal: d_samaaq - Made independent
+255 - vassal: d_raila - Holder (1002654) has gained d_samaaq
+255 - sub vassal: d_raila - Holder (1002654) has gained d_samaaq
+255 - Gained vassal: d_samaaq
+255 - vassal: d_samaaq - Made independent for title creation d_samaaq for d_raila
+255 - sub vassal: d_samaaq - Made independent for title creation d_samaaq for d_raila
+255 - vassal: d_samaaq - Made independent
+255 - sub vassal: d_samaaq - Made independent
+255 - sub vassal: c_qeter - Set liege on title creation d_samaaq
+255 - vassal: d_raila - Lost vassal: c_qeter
+255 - sub vassal: d_raila - Lost vassal: c_qeter
+255 - sub vassal: c_qerabir - Set liege on title creation d_samaaq
+255 - vassal: d_raila - Lost vassal: c_qerabir
+255 - sub vassal: d_raila - Lost vassal: c_qerabir
+255 - sub vassal: c_bigiam - Set liege on title creation d_samaaq
+255 - vassal: d_raila - Lost vassal: c_bigiam
+255 - sub vassal: d_raila - Lost vassal: c_bigiam
+255 - sub vassal: c_rulenis - Set liege on title creation d_samaaq
+255 - vassal: d_raila - Lost vassal: c_rulenis
+255 - sub vassal: d_raila - Lost vassal: c_rulenis
+255 - sub vassal: c_tantas - Set liege on title creation d_samaaq
+255 - vassal: d_raila - Lost vassal: c_tantas
+255 - sub vassal: d_raila - Lost vassal: c_tantas
+255 - vassal: d_ligaaq - Holder (1002463) has gained d_wigeter
+255 - sub vassal: d_ligaaq - Holder (1002463) has gained d_wigeter
+255 - Gained vassal: d_wigeter
+255 - vassal: d_wigeter - Made independent for title creation d_wigeter for d_ligaaq
+255 - sub vassal: d_wigeter - Made independent for title creation d_wigeter for d_ligaaq
+255 - vassal: d_wigeter - Made independent
+255 - sub vassal: d_wigeter - Made independent
+255 - sub vassal: c_egisenis - Set liege on title creation d_wigeter
+255 - vassal: d_ligaaq - Lost vassal: c_egisenis
+255 - sub vassal: d_ligaaq - Lost vassal: c_egisenis
+255 - sub vassal: c_tirdas - Set liege on title creation d_wigeter
+255 - vassal: d_ligaaq - Lost vassal: c_tirdas
+255 - sub vassal: d_ligaaq - Lost vassal: c_tirdas
+255 - sub vassal: c_neheter - Set liege on title creation d_wigeter
+255 - vassal: d_ligaaq - Lost vassal: c_neheter
+255 - sub vassal: d_ligaaq - Lost vassal: c_neheter
+255 - sub vassal: c_eberiens - Set liege on title creation d_wigeter
+255 - vassal: d_ligaaq - Lost vassal: c_eberiens
+255 - sub vassal: d_ligaaq - Lost vassal: c_eberiens
+255 - sub vassal: c_nehadan - Set liege on title creation d_wigeter
+255 - vassal: d_ligaaq - Lost vassal: c_nehadan
+255 - sub vassal: d_ligaaq - Lost vassal: c_nehadan
+255 - sub vassal: c_egisenis - Setting independent due to liege destruction
+255 - sub vassal: c_egisenis - Made independent
+255 - sub vassal: c_tirdas - Setting independent due to liege destruction
+255 - sub vassal: c_tirdas - Made independent
+255 - sub vassal: c_neheter - Setting independent due to liege destruction
+255 - sub vassal: c_neheter - Made independent
+255 - sub vassal: c_eberiens - Setting independent due to liege destruction
+255 - sub vassal: c_eberiens - Made independent
+255 - sub vassal: c_nehadan - Setting independent due to liege destruction
+255 - sub vassal: c_nehadan - Made independent
+256 - vassal: d_ligaaq - Destroyed due to flagged problem
+256 - sub vassal: d_ligaaq - Destroyed due to flagged problem
+256 - vassal: d_ligaaq - Made independent
+256 - sub vassal: d_ligaaq - Made independent
+257 - Holder 1004857 - Primary title: k_wenab has lost the title: k_wenab
+257 - Title given to 1004857
+257 - vassal: d_tiam - Holder 1004857 - Primary title: d_tiam has lost the title: d_tiam
+257 - sub vassal: d_tiam - Holder 1004857 - Primary title: d_tiam has lost the title: d_tiam
+257 - vassal: d_tiam - Title given to 1004857 - Primary title: k_wenab
+257 - sub vassal: d_tiam - Title given to 1004857 - Primary title: k_wenab
+257 - Holder (1004857) has gained d_tiam
+257 - sub vassal: c_qasadir - Setting to vassal of d_lairiin in Validate Realm
+257 - vassal: d_tiam - Lost vassal: c_qasadir
+257 - sub vassal: d_tiam - Lost vassal: c_qasadir
+257 - vassal: c_tulenis - Setting to vassal of d_lairiin in Validate Realm
+257 - sub vassal: c_tulenis - Setting to vassal of d_lairiin in Validate Realm
+257 - Lost vassal: c_tulenis
+257 - vassal: c_lulaaq - Setting to vassal of d_lairiin in Validate Realm
+257 - sub vassal: c_lulaaq - Setting to vassal of d_lairiin in Validate Realm
+257 - Lost vassal: c_lulaaq
+257 - vassal: c_waruro - Setting to vassal of d_lairiin in Validate Realm
+257 - sub vassal: c_waruro - Setting to vassal of d_lairiin in Validate Realm
+257 - Lost vassal: c_waruro
+257 - vassal: d_lairiin - Gained vassal: c_waruro
+257 - sub vassal: d_lairiin - Gained vassal: c_waruro
+257 - vassal: d_lairiin - Gained vassal: c_lulaaq
+257 - sub vassal: d_lairiin - Gained vassal: c_lulaaq
+257 - vassal: d_lairiin - Gained vassal: c_tulenis
+257 - sub vassal: d_lairiin - Gained vassal: c_tulenis
+257 - vassal: d_lairiin - Gained vassal: c_qasadir
+257 - sub vassal: d_lairiin - Gained vassal: c_qasadir
+257 - vassal: d_lairiin - Holder 1004857 - Primary title: d_lairiin has lost the title: d_lairiin
+257 - sub vassal: d_lairiin - Holder 1004857 - Primary title: d_lairiin has lost the title: d_lairiin
+257 - vassal: d_lairiin - Title given to 1004857 - Primary title: k_wenab
+257 - sub vassal: d_lairiin - Title given to 1004857 - Primary title: k_wenab
+257 - Holder (1004857) has gained d_lairiin
+257 - sub vassal: c_qasadir - Holder 1004857 - Primary title: c_qasadir has lost the title: c_qasadir
+257 - sub vassal: c_qasadir - Title given to 1004857 - Primary title: k_wenab
+257 - Holder (1004857) has gained c_qasadir
+257 - sub vassal: c_tulenis - Holder 1004857 - Primary title: c_tulenis has lost the title: c_tulenis
+257 - sub vassal: c_tulenis - Title given to 1004857 - Primary title: k_wenab
+257 - Holder (1004857) has gained c_tulenis
+257 - sub vassal: c_lulaaq - Holder 1004857 - Primary title: c_lulaaq has lost the title: c_lulaaq
+257 - sub vassal: c_lulaaq - Title given to 1004857 - Primary title: k_wenab
+257 - Holder (1004857) has gained c_lulaaq
+257 - sub vassal: c_waruro - Holder 1004857 - Primary title: c_waruro has lost the title: c_waruro
+257 - sub vassal: c_waruro - Title given to 1004857 - Primary title: k_wenab
+257 - Holder (1004857) has gained c_waruro
+257 - sub vassal: c_nayyuter - Holder 1004857 - Primary title: c_nayyuter has lost the title: c_nayyuter
+257 - sub vassal: c_nayyuter - Title given to 1004857 - Primary title: k_wenab
+257 - Holder (1004857) has gained c_nayyuter
+264 - Gained vassal: c_tirdas
+268 - vassal: d_raila - Holder 1004857 - Primary title: d_raila has lost the title: d_samaaq
+268 - sub vassal: d_raila - Holder 1004857 - Primary title: d_raila has lost the title: d_samaaq
+268 - Holder (1004857) has gained d_samaaq
+268 - sub vassal: c_tantas - Setting to vassal of d_raila in Validate Realm
+268 - sub vassal: c_rulenis - Setting to vassal of d_raila in Validate Realm
+268 - sub vassal: c_bigiam - Setting to vassal of d_raila in Validate Realm
+268 - sub vassal: c_qerabir - Setting to vassal of d_raila in Validate Realm
+268 - sub vassal: c_qeter - Setting to vassal of d_raila in Validate Realm
+268 - vassal: d_raila - Gained vassal: c_qeter
+268 - sub vassal: d_raila - Gained vassal: c_qeter
+268 - vassal: d_raila - Gained vassal: c_qerabir
+268 - sub vassal: d_raila - Gained vassal: c_qerabir
+268 - vassal: d_raila - Gained vassal: c_bigiam
+268 - sub vassal: d_raila - Gained vassal: c_bigiam
+268 - vassal: d_raila - Gained vassal: c_rulenis
+268 - sub vassal: d_raila - Gained vassal: c_rulenis
+268 - vassal: d_raila - Gained vassal: c_tantas
+268 - sub vassal: d_raila - Gained vassal: c_tantas
+268 - vassal: d_raila - Holder 1004857 - Primary title: d_raila has lost the title: d_raila
+268 - sub vassal: d_raila - Holder 1004857 - Primary title: d_raila has lost the title: d_raila
+268 - vassal: d_raila - Title given to 1004857 - Primary title: k_wenab
+268 - sub vassal: d_raila - Title given to 1004857 - Primary title: k_wenab
+268 - Holder (1004857) has gained d_raila
+268 - sub vassal: c_tantas - Holder 1004857 - Primary title: c_tantas has lost the title: c_tantas
+268 - sub vassal: c_tantas - Title given to 1004857 - Primary title: k_wenab
+268 - Holder (1004857) has gained c_tantas
+268 - sub vassal: c_rulenis - Holder 1004857 - Primary title: c_rulenis has lost the title: c_rulenis
+268 - sub vassal: c_rulenis - Title given to 1004857 - Primary title: k_wenab
+268 - Holder (1004857) has gained c_rulenis
+268 - sub vassal: c_bigiam - Holder 1004857 - Primary title: c_bigiam has lost the title: c_bigiam
+268 - sub vassal: c_bigiam - Title given to 1004857 - Primary title: k_wenab
+268 - Holder (1004857) has gained c_bigiam
+268 - sub vassal: c_qerabir - Holder 1004857 - Primary title: c_qerabir has lost the title: c_qerabir
+268 - sub vassal: c_qerabir - Title given to 1004857 - Primary title: k_wenab
+268 - Holder (1004857) has gained c_qerabir
+268 - sub vassal: c_qeter - Holder 1004857 - Primary title: c_qeter has lost the title: c_qeter
+268 - sub vassal: c_qeter - Title given to 1004857 - Primary title: k_wenab
+268 - Holder (1004857) has gained c_qeter
+268 - sub vassal: c_nermiin - Holder 1004857 - Primary title: c_nermiin has lost the title: c_nermiin
+268 - sub vassal: c_nermiin - Title given to 1004857 - Primary title: k_wenab
+268 - Holder (1004857) has gained c_nermiin
+268 - sub vassal: c_nermiin - Given to 1007473 in HandleTitles - Too many duke titles
+268 - Holder 1007473 - Primary title: k_wenab has lost the title: c_nermiin
+268 - sub vassal: c_nermiin - Title given to 1007473
+268 - Holder 1007473 - Primary title: k_wenab has lost the title: d_tiam
+268 - vassal: d_tiam - Title given to 1007473 - Primary title: c_nermiin
+268 - sub vassal: d_tiam - Title given to 1007473 - Primary title: c_nermiin
+268 - sub vassal: c_nermiin - Holder (1007473) has gained d_tiam
+268 - vassal: d_tiam - Too many dukes, given to dejure: k_wenab
+268 - sub vassal: d_tiam - Too many dukes, given to dejure: k_wenab
+268 - Holder 1007474 - Primary title: k_wenab has lost the title: c_nayyuter
+268 - sub vassal: c_nayyuter - Title given to 1007474
+268 - Holder 1007475 - Primary title: k_wenab has lost the title: c_waruro
+268 - sub vassal: c_waruro - Title given to 1007475
+268 - Holder 1007476 - Primary title: k_wenab has lost the title: c_lulaaq
+268 - sub vassal: c_lulaaq - Title given to 1007476
+268 - Holder 1007477 - Primary title: k_wenab has lost the title: c_tulenis
+268 - sub vassal: c_tulenis - Title given to 1007477
+268 - Holder 1007479 - Primary title: k_wenab has lost the title: c_qasadir
+268 - sub vassal: c_qasadir - Title given to 1007479
+270 - vassal: d_ruladir - Holder 1006274 - Primary title: d_ruladir has lost the title: d_ruladir
+270 - sub vassal: d_ruladir - Holder 1006274 - Primary title: d_ruladir has lost the title: d_ruladir
+270 - vassal: d_ruladir - Title given to 1006274
+270 - sub vassal: d_ruladir - Title given to 1006274
+270 - sub vassal: c_qadir - Holder 1006274 - Primary title: c_qadir has lost the title: c_qadir
+270 - sub vassal: c_qadir - Title given to 1006274 - Primary title: d_ruladir
+270 - vassal: d_ruladir - Holder (1006274) has gained c_qadir
+270 - sub vassal: d_ruladir - Holder (1006274) has gained c_qadir
+270 - sub vassal: c_tameze - Holder 1006274 - Primary title: c_tameze has lost the title: c_tameze
+270 - sub vassal: c_tameze - Title given to 1006274 - Primary title: d_ruladir
+270 - vassal: d_ruladir - Holder (1006274) has gained c_tameze
+270 - sub vassal: d_ruladir - Holder (1006274) has gained c_tameze
+270 - sub vassal: c_rehabir - Holder 1006274 - Primary title: c_rehabir has lost the title: c_rehabir
+270 - sub vassal: c_rehabir - Title given to 1006274 - Primary title: d_ruladir
+270 - vassal: d_ruladir - Holder (1006274) has gained c_rehabir
+270 - sub vassal: d_ruladir - Holder (1006274) has gained c_rehabir
+270 - sub vassal: c_domonza - Holder 1006274 - Primary title: c_domonza has lost the title: c_domonza
+270 - sub vassal: c_domonza - Title given to 1006274 - Primary title: d_ruladir
+270 - vassal: d_ruladir - Holder (1006274) has gained c_domonza
+270 - sub vassal: d_ruladir - Holder (1006274) has gained c_domonza
+273 - vassal: d_ruladir - Holder 1004857 - Primary title: d_ruladir has lost the title: d_ruladir
+273 - sub vassal: d_ruladir - Holder 1004857 - Primary title: d_ruladir has lost the title: d_ruladir
+273 - vassal: d_ruladir - Title given to 1004857 - Primary title: k_wenab
+273 - sub vassal: d_ruladir - Title given to 1004857 - Primary title: k_wenab
+273 - Holder (1004857) has gained d_ruladir
+273 - sub vassal: c_qadir - Holder 1004857 - Primary title: c_qadir has lost the title: c_qadir
+273 - sub vassal: c_qadir - Title given to 1004857 - Primary title: k_wenab
+273 - Holder (1004857) has gained c_qadir
+273 - sub vassal: c_tameze - Holder 1004857 - Primary title: c_tameze has lost the title: c_tameze
+273 - sub vassal: c_tameze - Title given to 1004857 - Primary title: k_wenab
+273 - Holder (1004857) has gained c_tameze
+273 - sub vassal: c_rehabir - Holder 1004857 - Primary title: c_rehabir has lost the title: c_rehabir
+273 - sub vassal: c_rehabir - Title given to 1004857 - Primary title: k_wenab
+273 - Holder (1004857) has gained c_rehabir
+273 - sub vassal: c_domonza - Holder 1004857 - Primary title: c_domonza has lost the title: c_domonza
+273 - sub vassal: c_domonza - Title given to 1004857 - Primary title: k_wenab
+273 - Holder (1004857) has gained c_domonza
+273 - sub vassal: c_qadir - Given to 1007855 in HandleTitles - Too many duke titles
+273 - Holder 1007855 - Primary title: k_wenab has lost the title: c_qadir
+273 - sub vassal: c_qadir - Title given to 1007855
+273 - Holder 1007855 - Primary title: k_wenab has lost the title: d_ruladir
+273 - vassal: d_ruladir - Title given to 1007855 - Primary title: c_qadir
+273 - sub vassal: d_ruladir - Title given to 1007855 - Primary title: c_qadir
+273 - sub vassal: c_qadir - Holder (1007855) has gained d_ruladir
+273 - sub vassal: c_tameze - Setting to vassal of k_wenab in Validate Realm
+273 - vassal: d_ruladir - Lost vassal: c_tameze
+273 - sub vassal: d_ruladir - Lost vassal: c_tameze
+273 - sub vassal: c_rehabir - Setting to vassal of k_wenab in Validate Realm
+273 - vassal: d_ruladir - Lost vassal: c_rehabir
+273 - sub vassal: d_ruladir - Lost vassal: c_rehabir
+273 - sub vassal: c_domonza - Setting to vassal of k_wenab in Validate Realm
+273 - vassal: d_ruladir - Lost vassal: c_domonza
+273 - sub vassal: d_ruladir - Lost vassal: c_domonza
+273 - Gained vassal: c_domonza
+273 - Gained vassal: c_rehabir
+273 - Gained vassal: c_tameze
+273 - vassal: d_ruladir - Too many dukes, given to dejure: k_wenab
+273 - sub vassal: d_ruladir - Too many dukes, given to dejure: k_wenab
+273 - Holder 1007856 - Primary title: k_wenab has lost the title: c_rehabir
+273 - vassal: c_rehabir - Title given to 1007856
+273 - sub vassal: c_rehabir - Title given to 1007856
+273 - Holder 1007857 - Primary title: k_wenab has lost the title: c_domonza
+273 - vassal: c_domonza - Title given to 1007857
+273 - sub vassal: c_domonza - Title given to 1007857
+273 - Holder 1007858 - Primary title: k_wenab has lost the title: c_tameze
+273 - vassal: c_tameze - Title given to 1007858
+273 - sub vassal: c_tameze - Title given to 1007858
+274 - vassal: d_ruladir - Holder 1007858 - Primary title: d_ruladir has lost the title: d_ruladir
+274 - sub vassal: d_ruladir - Holder 1007858 - Primary title: d_ruladir has lost the title: d_ruladir
+274 - vassal: d_ruladir - Title given to 1007858 - Primary title: c_tameze
+274 - sub vassal: d_ruladir - Title given to 1007858 - Primary title: c_tameze
+274 - vassal: c_tameze - Holder (1007858) has gained d_ruladir
+274 - sub vassal: c_tameze - Holder (1007858) has gained d_ruladir
+274 - vassal: c_tameze - Setting to vassal of d_ruladir in Validate Realm
+274 - sub vassal: c_tameze - Setting to vassal of d_ruladir in Validate Realm
+274 - Lost vassal: c_tameze
+274 - vassal: d_ruladir - Gained vassal: c_tameze
+274 - sub vassal: d_ruladir - Gained vassal: c_tameze
+274 - sub vassal: c_qadir - Holder 1007858 - Primary title: c_qadir has lost the title: c_qadir
+274 - sub vassal: c_qadir - Title given to 1007858 - Primary title: d_ruladir
+274 - vassal: d_ruladir - Holder (1007858) has gained c_qadir
+274 - sub vassal: d_ruladir - Holder (1007858) has gained c_qadir
+276 - Holder 1007399 - Primary title: k_wenab has lost the title: k_wenab
+276 - Title given to 1007399
+276 - vassal: d_lairiin - Holder 1007399 - Primary title: d_lairiin has lost the title: d_lairiin
+276 - sub vassal: d_lairiin - Holder 1007399 - Primary title: d_lairiin has lost the title: d_lairiin
+276 - vassal: d_lairiin - Title given to 1007399 - Primary title: k_wenab
+276 - sub vassal: d_lairiin - Title given to 1007399 - Primary title: k_wenab
+276 - Holder (1007399) has gained d_lairiin
+276 - vassal: d_raila - Holder 1007399 - Primary title: d_raila has lost the title: d_raila
+276 - sub vassal: d_raila - Holder 1007399 - Primary title: d_raila has lost the title: d_raila
+276 - vassal: d_raila - Title given to 1007399 - Primary title: k_wenab
+276 - sub vassal: d_raila - Title given to 1007399 - Primary title: k_wenab
+276 - Holder (1007399) has gained d_raila
+276 - sub vassal: c_tantas - Holder 1007399 - Primary title: c_tantas has lost the title: c_tantas
+276 - sub vassal: c_tantas - Title given to 1007399 - Primary title: k_wenab
+276 - Holder (1007399) has gained c_tantas
+276 - sub vassal: c_rulenis - Holder 1007399 - Primary title: c_rulenis has lost the title: c_rulenis
+276 - sub vassal: c_rulenis - Title given to 1007399 - Primary title: k_wenab
+276 - Holder (1007399) has gained c_rulenis
+276 - sub vassal: c_bigiam - Holder 1007399 - Primary title: c_bigiam has lost the title: c_bigiam
+276 - sub vassal: c_bigiam - Title given to 1007399 - Primary title: k_wenab
+276 - Holder (1007399) has gained c_bigiam
+276 - sub vassal: c_qerabir - Holder 1007399 - Primary title: c_qerabir has lost the title: c_qerabir
+276 - sub vassal: c_qerabir - Title given to 1007399 - Primary title: k_wenab
+276 - Holder (1007399) has gained c_qerabir
+276 - sub vassal: c_qeter - Holder 1007399 - Primary title: c_qeter has lost the title: c_qeter
+276 - sub vassal: c_qeter - Title given to 1007399 - Primary title: k_wenab
+276 - Holder (1007399) has gained c_qeter
+279 - vassal: d_tiam - Holder 1008267 - Primary title: d_tiam has lost the title: d_tiam
+279 - sub vassal: d_tiam - Holder 1008267 - Primary title: d_tiam has lost the title: d_tiam
+279 - vassal: d_tiam - Title given to 1008267
+279 - sub vassal: d_tiam - Title given to 1008267
+279 - sub vassal: c_nermiin - Holder 1008267 - Primary title: c_nermiin has lost the title: c_nermiin
+279 - sub vassal: c_nermiin - Title given to 1008267 - Primary title: d_tiam
+279 - vassal: d_tiam - Holder (1008267) has gained c_nermiin
+279 - sub vassal: d_tiam - Holder (1008267) has gained c_nermiin
+285 - vassal: d_beriin - Holder 1006980 - Primary title: d_beriin has lost the title: d_beriin
+285 - sub vassal: d_beriin - Holder 1006980 - Primary title: d_beriin has lost the title: d_beriin
+285 - vassal: d_beriin - Title given to 1006980
+285 - sub vassal: d_beriin - Title given to 1006980
+285 - sub vassal: c_rehiin - Holder 1006980 - Primary title: c_rehiin has lost the title: c_rehiin
+285 - sub vassal: c_rehiin - Title given to 1006980 - Primary title: d_beriin
+285 - vassal: d_beriin - Holder (1006980) has gained c_rehiin
+285 - sub vassal: d_beriin - Holder (1006980) has gained c_rehiin
+292 - Holder 1007857 - Primary title: k_wenab has lost the title: k_wenab
+292 - Title given to 1007857 - Primary title: c_domonza
+292 - vassal: c_domonza - Holder (1007857) has gained k_wenab
+292 - sub vassal: c_domonza - Holder (1007857) has gained k_wenab
+292 - vassal: d_raila - Holder 1007857 - Primary title: d_raila has lost the title: d_raila
+292 - sub vassal: d_raila - Holder 1007857 - Primary title: d_raila has lost the title: d_raila
+292 - vassal: d_raila - Title given to 1007857 - Primary title: k_wenab
+292 - sub vassal: d_raila - Title given to 1007857 - Primary title: k_wenab
+292 - Holder (1007857) has gained d_raila
+292 - sub vassal: c_qeter - Setting to vassal of d_lairiin in Validate Realm
+292 - vassal: d_raila - Lost vassal: c_qeter
+292 - sub vassal: d_raila - Lost vassal: c_qeter
+292 - sub vassal: c_qerabir - Setting to vassal of d_lairiin in Validate Realm
+292 - vassal: d_raila - Lost vassal: c_qerabir
+292 - sub vassal: d_raila - Lost vassal: c_qerabir
+292 - sub vassal: c_bigiam - Setting to vassal of d_lairiin in Validate Realm
+292 - vassal: d_raila - Lost vassal: c_bigiam
+292 - sub vassal: d_raila - Lost vassal: c_bigiam
+292 - sub vassal: c_rulenis - Setting to vassal of d_lairiin in Validate Realm
+292 - vassal: d_raila - Lost vassal: c_rulenis
+292 - sub vassal: d_raila - Lost vassal: c_rulenis
+292 - sub vassal: c_tantas - Setting to vassal of d_lairiin in Validate Realm
+292 - vassal: d_raila - Lost vassal: c_tantas
+292 - sub vassal: d_raila - Lost vassal: c_tantas
+292 - vassal: d_lairiin - Gained vassal: c_tantas
+292 - sub vassal: d_lairiin - Gained vassal: c_tantas
+292 - vassal: d_lairiin - Gained vassal: c_rulenis
+292 - sub vassal: d_lairiin - Gained vassal: c_rulenis
+292 - vassal: d_lairiin - Gained vassal: c_bigiam
+292 - sub vassal: d_lairiin - Gained vassal: c_bigiam
+292 - vassal: d_lairiin - Gained vassal: c_qerabir
+292 - sub vassal: d_lairiin - Gained vassal: c_qerabir
+292 - vassal: d_lairiin - Gained vassal: c_qeter
+292 - sub vassal: d_lairiin - Gained vassal: c_qeter
+292 - vassal: d_lairiin - Holder 1007857 - Primary title: d_lairiin has lost the title: d_lairiin
+292 - sub vassal: d_lairiin - Holder 1007857 - Primary title: d_lairiin has lost the title: d_lairiin
+292 - vassal: d_lairiin - Title given to 1007857 - Primary title: k_wenab
+292 - sub vassal: d_lairiin - Title given to 1007857 - Primary title: k_wenab
+292 - Holder (1007857) has gained d_lairiin
+292 - sub vassal: c_qeter - Holder 1007857 - Primary title: c_qeter has lost the title: c_qeter
+292 - sub vassal: c_qeter - Title given to 1007857 - Primary title: k_wenab
+292 - Holder (1007857) has gained c_qeter
+292 - sub vassal: c_qerabir - Holder 1007857 - Primary title: c_qerabir has lost the title: c_qerabir
+292 - sub vassal: c_qerabir - Title given to 1007857 - Primary title: k_wenab
+292 - Holder (1007857) has gained c_qerabir
+292 - sub vassal: c_bigiam - Holder 1007857 - Primary title: c_bigiam has lost the title: c_bigiam
+292 - sub vassal: c_bigiam - Title given to 1007857 - Primary title: k_wenab
+292 - Holder (1007857) has gained c_bigiam
+292 - sub vassal: c_rulenis - Holder 1007857 - Primary title: c_rulenis has lost the title: c_rulenis
+292 - sub vassal: c_rulenis - Title given to 1007857 - Primary title: k_wenab
+292 - Holder (1007857) has gained c_rulenis
+292 - sub vassal: c_tantas - Holder 1007857 - Primary title: c_tantas has lost the title: c_tantas
+292 - sub vassal: c_tantas - Title given to 1007857 - Primary title: k_wenab
+292 - Holder (1007857) has gained c_tantas
+293 - Holder 1004039 - Primary title: k_wenab has lost the title: c_tantas
+293 - sub vassal: c_tantas - Title given to 1004039
+315 - vassal: d_beriin - Holder 1009099 - Primary title: d_beriin has lost the title: d_beriin
+315 - sub vassal: d_beriin - Holder 1009099 - Primary title: d_beriin has lost the title: d_beriin
+315 - vassal: d_beriin - Title given to 1009099
+315 - sub vassal: d_beriin - Title given to 1009099
+315 - sub vassal: c_rehiin - Holder 1009099 - Primary title: c_rehiin has lost the title: c_rehiin
+315 - sub vassal: c_rehiin - Title given to 1009099 - Primary title: d_beriin
+315 - vassal: d_beriin - Holder (1009099) has gained c_rehiin
+315 - sub vassal: d_beriin - Holder (1009099) has gained c_rehiin
+316 - Holder 1009757 - Primary title: k_wenab has lost the title: k_wenab
+316 - Title given to 1009757
+316 - vassal: d_lairiin - Holder 1009757 - Primary title: d_lairiin has lost the title: d_lairiin
+316 - sub vassal: d_lairiin - Holder 1009757 - Primary title: d_lairiin has lost the title: d_lairiin
+316 - vassal: d_lairiin - Title given to 1009757 - Primary title: k_wenab
+316 - sub vassal: d_lairiin - Title given to 1009757 - Primary title: k_wenab
+316 - Holder (1009757) has gained d_lairiin
+316 - sub vassal: c_rulenis - Setting to vassal of d_raila in Validate Realm
+316 - vassal: d_lairiin - Lost vassal: c_rulenis
+316 - sub vassal: d_lairiin - Lost vassal: c_rulenis
+316 - sub vassal: c_bigiam - Setting to vassal of d_raila in Validate Realm
+316 - vassal: d_lairiin - Lost vassal: c_bigiam
+316 - sub vassal: d_lairiin - Lost vassal: c_bigiam
+316 - sub vassal: c_qerabir - Setting to vassal of d_raila in Validate Realm
+316 - vassal: d_lairiin - Lost vassal: c_qerabir
+316 - sub vassal: d_lairiin - Lost vassal: c_qerabir
+316 - sub vassal: c_qeter - Setting to vassal of d_raila in Validate Realm
+316 - vassal: d_lairiin - Lost vassal: c_qeter
+316 - sub vassal: d_lairiin - Lost vassal: c_qeter
+316 - vassal: c_domonza - Setting to vassal of d_raila in Validate Realm
+316 - sub vassal: c_domonza - Setting to vassal of d_raila in Validate Realm
+316 - Lost vassal: c_domonza
+316 - vassal: d_raila - Gained vassal: c_domonza
+316 - sub vassal: d_raila - Gained vassal: c_domonza
+316 - vassal: d_raila - Gained vassal: c_qeter
+316 - sub vassal: d_raila - Gained vassal: c_qeter
+316 - vassal: d_raila - Gained vassal: c_qerabir
+316 - sub vassal: d_raila - Gained vassal: c_qerabir
+316 - vassal: d_raila - Gained vassal: c_bigiam
+316 - sub vassal: d_raila - Gained vassal: c_bigiam
+316 - vassal: d_raila - Gained vassal: c_rulenis
+316 - sub vassal: d_raila - Gained vassal: c_rulenis
+316 - vassal: d_raila - Holder 1009757 - Primary title: d_raila has lost the title: d_raila
+316 - sub vassal: d_raila - Holder 1009757 - Primary title: d_raila has lost the title: d_raila
+316 - vassal: d_raila - Title given to 1009757 - Primary title: k_wenab
+316 - sub vassal: d_raila - Title given to 1009757 - Primary title: k_wenab
+316 - Holder (1009757) has gained d_raila
+316 - sub vassal: c_rulenis - Holder 1009757 - Primary title: c_rulenis has lost the title: c_rulenis
+316 - sub vassal: c_rulenis - Title given to 1009757 - Primary title: k_wenab
+316 - Holder (1009757) has gained c_rulenis
+316 - sub vassal: c_bigiam - Holder 1009757 - Primary title: c_bigiam has lost the title: c_bigiam
+316 - sub vassal: c_bigiam - Title given to 1009757 - Primary title: k_wenab
+316 - Holder (1009757) has gained c_bigiam
+316 - sub vassal: c_qerabir - Holder 1009757 - Primary title: c_qerabir has lost the title: c_qerabir
+316 - sub vassal: c_qerabir - Title given to 1009757 - Primary title: k_wenab
+316 - Holder (1009757) has gained c_qerabir
+316 - sub vassal: c_qeter - Holder 1009757 - Primary title: c_qeter has lost the title: c_qeter
+316 - sub vassal: c_qeter - Title given to 1009757 - Primary title: k_wenab
+316 - Holder (1009757) has gained c_qeter
+316 - sub vassal: c_domonza - Holder 1009757 - Primary title: c_domonza has lost the title: c_domonza
+316 - sub vassal: c_domonza - Title given to 1009757 - Primary title: k_wenab
+316 - Holder (1009757) has gained c_domonza
+317 - vassal: d_ruladir - Holder 1008194 - Primary title: d_ruladir has lost the title: d_ruladir
+317 - sub vassal: d_ruladir - Holder 1008194 - Primary title: d_ruladir has lost the title: d_ruladir
+317 - vassal: d_ruladir - Title given to 1008194
+317 - sub vassal: d_ruladir - Title given to 1008194
+317 - sub vassal: c_tameze - Holder 1008194 - Primary title: c_tameze has lost the title: c_tameze
+317 - sub vassal: c_tameze - Title given to 1008194 - Primary title: d_ruladir
+317 - vassal: d_ruladir - Holder (1008194) has gained c_tameze
+317 - sub vassal: d_ruladir - Holder (1008194) has gained c_tameze
+317 - sub vassal: c_qadir - Holder 1008194 - Primary title: c_qadir has lost the title: c_qadir
+317 - sub vassal: c_qadir - Title given to 1008194 - Primary title: d_ruladir
+317 - vassal: d_ruladir - Holder (1008194) has gained c_qadir
+317 - sub vassal: d_ruladir - Holder (1008194) has gained c_qadir
+326 - vassal: d_tiam - Holder 1008414 - Primary title: d_tiam has lost the title: d_tiam
+326 - sub vassal: d_tiam - Holder 1008414 - Primary title: d_tiam has lost the title: d_tiam
+326 - vassal: d_tiam - Title given to 1008414
+326 - sub vassal: d_tiam - Title given to 1008414
+326 - sub vassal: c_nermiin - Holder 1008414 - Primary title: c_nermiin has lost the title: c_nermiin
+326 - sub vassal: c_nermiin - Title given to 1008414 - Primary title: d_tiam
+326 - vassal: d_tiam - Holder (1008414) has gained c_nermiin
+326 - sub vassal: d_tiam - Holder (1008414) has gained c_nermiin
+329 - vassal: d_ruladir - Holder 1011067 - Primary title: d_ruladir has lost the title: d_ruladir
+329 - sub vassal: d_ruladir - Holder 1011067 - Primary title: d_ruladir has lost the title: d_ruladir
+329 - vassal: d_ruladir - Title given to 1011067
+329 - sub vassal: d_ruladir - Title given to 1011067
+329 - sub vassal: c_qadir - Holder 1011067 - Primary title: c_qadir has lost the title: c_qadir
+329 - sub vassal: c_qadir - Title given to 1011067 - Primary title: d_ruladir
+329 - vassal: d_ruladir - Holder (1011067) has gained c_qadir
+329 - sub vassal: d_ruladir - Holder (1011067) has gained c_qadir
+329 - sub vassal: c_tameze - Holder 1011067 - Primary title: c_tameze has lost the title: c_tameze
+329 - sub vassal: c_tameze - Title given to 1011067 - Primary title: d_ruladir
+329 - vassal: d_ruladir - Holder (1011067) has gained c_tameze
+329 - sub vassal: d_ruladir - Holder (1011067) has gained c_tameze
+331 - vassal: d_tiam - Holder 1011708 - Primary title: d_tiam has lost the title: d_tiam
+331 - sub vassal: d_tiam - Holder 1011708 - Primary title: d_tiam has lost the title: d_tiam
+331 - vassal: d_tiam - Title given to 1011708
+331 - sub vassal: d_tiam - Title given to 1011708
+331 - sub vassal: c_nermiin - Holder 1011708 - Primary title: c_nermiin has lost the title: c_nermiin
+331 - sub vassal: c_nermiin - Title given to 1011708 - Primary title: d_tiam
+331 - vassal: d_tiam - Holder (1011708) has gained c_nermiin
+331 - sub vassal: d_tiam - Holder (1011708) has gained c_nermiin
+335 - vassal: d_tiam - Holder 1009099 - Primary title: d_tiam has lost the title: d_tiam
+335 - sub vassal: d_tiam - Holder 1009099 - Primary title: d_tiam has lost the title: d_tiam
+335 - vassal: d_tiam - Title given to 1009099 - Primary title: d_beriin
+335 - sub vassal: d_tiam - Title given to 1009099 - Primary title: d_beriin
+335 - vassal: d_beriin - Holder (1009099) has gained d_tiam
+335 - sub vassal: d_beriin - Holder (1009099) has gained d_tiam
+335 - sub vassal: c_nermiin - Holder 1009099 - Primary title: c_nermiin has lost the title: c_nermiin
+335 - sub vassal: c_nermiin - Title given to 1009099 - Primary title: d_beriin
+335 - vassal: d_beriin - Holder (1009099) has gained c_nermiin
+335 - sub vassal: d_beriin - Holder (1009099) has gained c_nermiin
+337 - Holder 1010949 - Primary title: k_wenab has lost the title: k_wenab
+337 - Title given to 1010949
+337 - vassal: d_raila - Holder 1010949 - Primary title: d_raila has lost the title: d_raila
+337 - sub vassal: d_raila - Holder 1010949 - Primary title: d_raila has lost the title: d_raila
+337 - vassal: d_raila - Title given to 1010949 - Primary title: k_wenab
+337 - sub vassal: d_raila - Title given to 1010949 - Primary title: k_wenab
+337 - Holder (1010949) has gained d_raila
+337 - sub vassal: c_domonza - Setting to vassal of d_lairiin in Validate Realm
+337 - vassal: d_raila - Lost vassal: c_domonza
+337 - sub vassal: d_raila - Lost vassal: c_domonza
+337 - sub vassal: c_qeter - Setting to vassal of d_lairiin in Validate Realm
+337 - vassal: d_raila - Lost vassal: c_qeter
+337 - sub vassal: d_raila - Lost vassal: c_qeter
+337 - sub vassal: c_qerabir - Setting to vassal of d_lairiin in Validate Realm
+337 - vassal: d_raila - Lost vassal: c_qerabir
+337 - sub vassal: d_raila - Lost vassal: c_qerabir
+337 - sub vassal: c_bigiam - Setting to vassal of d_lairiin in Validate Realm
+337 - vassal: d_raila - Lost vassal: c_bigiam
+337 - sub vassal: d_raila - Lost vassal: c_bigiam
+337 - sub vassal: c_rulenis - Setting to vassal of d_lairiin in Validate Realm
+337 - vassal: d_raila - Lost vassal: c_rulenis
+337 - sub vassal: d_raila - Lost vassal: c_rulenis
+337 - vassal: d_lairiin - Gained vassal: c_rulenis
+337 - sub vassal: d_lairiin - Gained vassal: c_rulenis
+337 - vassal: d_lairiin - Gained vassal: c_bigiam
+337 - sub vassal: d_lairiin - Gained vassal: c_bigiam
+337 - vassal: d_lairiin - Gained vassal: c_qerabir
+337 - sub vassal: d_lairiin - Gained vassal: c_qerabir
+337 - vassal: d_lairiin - Gained vassal: c_qeter
+337 - sub vassal: d_lairiin - Gained vassal: c_qeter
+337 - vassal: d_lairiin - Gained vassal: c_domonza
+337 - sub vassal: d_lairiin - Gained vassal: c_domonza
+337 - vassal: d_lairiin - Holder 1010949 - Primary title: d_lairiin has lost the title: d_lairiin
+337 - sub vassal: d_lairiin - Holder 1010949 - Primary title: d_lairiin has lost the title: d_lairiin
+337 - vassal: d_lairiin - Title given to 1010949 - Primary title: k_wenab
+337 - sub vassal: d_lairiin - Title given to 1010949 - Primary title: k_wenab
+337 - Holder (1010949) has gained d_lairiin
+337 - sub vassal: c_domonza - Holder 1010949 - Primary title: c_domonza has lost the title: c_domonza
+337 - sub vassal: c_domonza - Title given to 1010949 - Primary title: k_wenab
+337 - Holder (1010949) has gained c_domonza
+337 - sub vassal: c_qeter - Holder 1010949 - Primary title: c_qeter has lost the title: c_qeter
+337 - sub vassal: c_qeter - Title given to 1010949 - Primary title: k_wenab
+337 - Holder (1010949) has gained c_qeter
+337 - sub vassal: c_qerabir - Holder 1010949 - Primary title: c_qerabir has lost the title: c_qerabir
+337 - sub vassal: c_qerabir - Title given to 1010949 - Primary title: k_wenab
+337 - Holder (1010949) has gained c_qerabir
+337 - sub vassal: c_bigiam - Holder 1010949 - Primary title: c_bigiam has lost the title: c_bigiam
+337 - sub vassal: c_bigiam - Title given to 1010949 - Primary title: k_wenab
+337 - Holder (1010949) has gained c_bigiam
+337 - sub vassal: c_rulenis - Holder 1010949 - Primary title: c_rulenis has lost the title: c_rulenis
+337 - sub vassal: c_rulenis - Title given to 1010949 - Primary title: k_wenab
+337 - Holder (1010949) has gained c_rulenis
+338 - Holder 1009099 - Primary title: k_wenab has lost the title: k_wenab
+338 - Title given to 1009099 - Primary title: d_tiam
+338 - vassal: d_tiam - Holder (1009099) has gained k_wenab
+338 - sub vassal: d_tiam - Holder (1009099) has gained k_wenab
+338 - vassal: d_raila - Holder 1009099 - Primary title: d_raila has lost the title: d_raila
+338 - sub vassal: d_raila - Holder 1009099 - Primary title: d_raila has lost the title: d_raila
+338 - vassal: d_raila - Title given to 1009099 - Primary title: k_wenab
+338 - sub vassal: d_raila - Title given to 1009099 - Primary title: k_wenab
+338 - Holder (1009099) has gained d_raila
+338 - vassal: d_lairiin - Holder 1009099 - Primary title: d_lairiin has lost the title: d_lairiin
+338 - sub vassal: d_lairiin - Holder 1009099 - Primary title: d_lairiin has lost the title: d_lairiin
+338 - vassal: d_lairiin - Title given to 1009099 - Primary title: k_wenab
+338 - sub vassal: d_lairiin - Title given to 1009099 - Primary title: k_wenab
+338 - Holder (1009099) has gained d_lairiin
+338 - sub vassal: c_domonza - Holder 1009099 - Primary title: c_domonza has lost the title: c_domonza
+338 - sub vassal: c_domonza - Title given to 1009099 - Primary title: k_wenab
+338 - Holder (1009099) has gained c_domonza
+338 - sub vassal: c_qeter - Holder 1009099 - Primary title: c_qeter has lost the title: c_qeter
+338 - sub vassal: c_qeter - Title given to 1009099 - Primary title: k_wenab
+338 - Holder (1009099) has gained c_qeter
+338 - sub vassal: c_qerabir - Holder 1009099 - Primary title: c_qerabir has lost the title: c_qerabir
+338 - sub vassal: c_qerabir - Title given to 1009099 - Primary title: k_wenab
+338 - Holder (1009099) has gained c_qerabir
+338 - sub vassal: c_bigiam - Holder 1009099 - Primary title: c_bigiam has lost the title: c_bigiam
+338 - sub vassal: c_bigiam - Title given to 1009099 - Primary title: k_wenab
+338 - Holder (1009099) has gained c_bigiam
+338 - sub vassal: c_rulenis - Holder 1009099 - Primary title: c_rulenis has lost the title: c_rulenis
+338 - sub vassal: c_rulenis - Title given to 1009099 - Primary title: k_wenab
+338 - Holder (1009099) has gained c_rulenis
+339 - sub vassal: c_nermiin - Given to 1009293 in HandleTitles - Too many duke titles
+339 - Holder 1009293 - Primary title: k_wenab has lost the title: c_nermiin
+339 - sub vassal: c_nermiin - Title given to 1009293
+339 - Holder 1009293 - Primary title: k_wenab has lost the title: d_tiam
+339 - vassal: d_tiam - Title given to 1009293 - Primary title: c_nermiin
+339 - sub vassal: d_tiam - Title given to 1009293 - Primary title: c_nermiin
+339 - sub vassal: c_nermiin - Holder (1009293) has gained d_tiam
+339 - vassal: d_tiam - Too many dukes, given to dejure: k_wenab
+339 -

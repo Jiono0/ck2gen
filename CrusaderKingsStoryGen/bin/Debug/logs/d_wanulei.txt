@@ -1,0 +1,67 @@
+200 - Title given to 1001266
+200 - vassal: c_ranikari - Given to 1001270 via AddCharacterForTitle
+200 - sub vassal: c_ranikari - Given to 1001270 via AddCharacterForTitle
+200 - vassal: c_ranikari - Holder 1001270 - Primary title: c_ranikari has lost the title: c_ranikari
+200 - sub vassal: c_ranikari - Holder 1001270 - Primary title: c_ranikari has lost the title: c_ranikari
+200 - vassal: c_ranikari - Title given to 1001270
+200 - sub vassal: c_ranikari - Title given to 1001270
+200 - vassal: c_totidn - Holder 1001266 - Primary title: c_totidn has lost the title: c_totidn
+200 - sub vassal: c_totidn - Holder 1001266 - Primary title: c_totidn has lost the title: c_totidn
+200 - vassal: c_totidn - Title given to 1001266 - Primary title: d_wanulei
+200 - sub vassal: c_totidn - Title given to 1001266 - Primary title: d_wanulei
+200 - Holder (1001266) has gained c_totidn
+200 - vassal: c_ramela - Holder 1001266 - Primary title: c_ramela has lost the title: c_ramela
+200 - sub vassal: c_ramela - Holder 1001266 - Primary title: c_ramela has lost the title: c_ramela
+200 - vassal: c_ramela - Title given to 1001266 - Primary title: d_wanulei
+200 - sub vassal: c_ramela - Title given to 1001266 - Primary title: d_wanulei
+200 - Holder (1001266) has gained c_ramela
+232 - Holder 1002372 - Primary title: d_wanulei has lost the title: d_wanulei
+232 - Title given to 1002372
+232 - vassal: c_totidn - Holder 1002372 - Primary title: c_totidn has lost the title: c_totidn
+232 - vassal: c_totidn - Title given to 1002372 - Primary title: d_wanulei
+232 - Holder (1002372) has gained c_totidn
+232 - vassal: c_ramela - Holder 1002372 - Primary title: c_ramela has lost the title: c_ramela
+232 - vassal: c_ramela - Title given to 1002372 - Primary title: d_wanulei
+232 - Holder (1002372) has gained c_ramela
+238 - Holder (1002372) has gained d_terma
+238 - Holder (1002372) has gained c_kamegh
+238 - Gained vassal: c_kamegh
+238 - Holder (1002372) has gained c_suderma
+238 - Gained vassal: c_suderma
+238 - Holder (1002372) has gained d_baniktor
+238 - Holder (1002372) has gained c_kerula
+238 - Holder (1002372) has gained c_nanidn
+238 - Holder (1002372) has gained c_ababulei
+239 - vassal: c_totidn - Title given to 1005196
+239 - vassal: c_suderma - Title given to 1005197
+258 - vassal: c_kamegh - Title given to 1006664
+258 - vassal: c_ramela - Title given to 1006665
+260 - vassal: c_ramela - Given to 1006819 in HandleTitles - Too many duke titles
+260 - vassal: c_ramela - Holder 1006819 - Primary title: c_ramela has lost the title: c_ramela
+260 - vassal: c_ramela - Title given to 1006819
+260 - Title given to 1002281 - Primary title: k_serazja
+260 - Too many dukes, made direct title into vassal of k_serazja
+260 - Title given to 1002855
+264 - Holder 1002369 - Primary title: d_wanulei has lost the title: d_wanulei
+264 - Title given to 1002369 - Primary title: d_kanegh
+267 - Holder 1004738 - Primary title: d_wanulei has lost the title: d_kanegh
+267 - Gained vassal: c_tumazja
+267 - Gained vassal: c_averilia
+267 - Holder 1004738 - Primary title: d_wanulei has lost the title: c_averilia
+267 - vassal: c_averilia - Title given to 1004738 - Primary title: d_terma
+267 - vassal: c_averilia - Setting to vassal of d_terma in Validate Realm
+267 - Lost vassal: c_averilia
+267 - Holder 1004738 - Primary title: d_wanulei has lost the title: c_tumazja
+267 - vassal: c_tumazja - Title given to 1004738 - Primary title: d_terma
+267 - vassal: c_tumazja - Setting to vassal of d_terma in Validate Realm
+267 - Lost vassal: c_tumazja
+267 - Holder 1004738 - Primary title: d_wanulei has lost the title: d_wanulei
+267 - Title given to 1004738 - Primary title: d_terma
+267 - Holder 1007384 - Primary title: d_wanulei has lost the title: c_enaterma
+267 - Holder 1002281 - Primary title: d_wanulei has lost the title: d_tumius
+267 - Gained vassal: c_ababulei
+267 - Gained vassal: c_kerula
+267 - Gained vassal: c_kudikari
+267 - Gained vassal: c_tanerma
+267 - Holder 1002281 - Primary title: d_wanulei has lost the title: d_terma
+267 - Gained vassal: c_tuma
