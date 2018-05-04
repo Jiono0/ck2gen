@@ -217,8 +217,8 @@ namespace CrusaderKingsStoryGen.MapGen
             Turbulence finalTerrain = new Turbulence(terrainSelector);
             finalTerrain.Frequency = 4;
             finalTerrain.Power = 0.075;
-            Width = width;
-            Height = height;
+            this.Width = width;
+            this.Height = height;
             //   ResultBitmap2 = new NoiseTexture(width, height, clamp);
             //   System.Console.Out.WriteLine("Left: " + ResultBitmap2.minRange + " - " + ResultBitmap2.maxRange);
 

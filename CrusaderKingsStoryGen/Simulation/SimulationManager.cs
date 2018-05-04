@@ -2539,7 +2539,6 @@ namespace CrusaderKingsStoryGen.Simulation
         {
             if (Form1.instance.SelectedTitleLast == breakTest)
             {
-                Debugger.Break();
                 Form1.instance.SelectedTitleLast = null;
             }
         }
