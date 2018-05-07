@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using csDelaunay;
 using FloodFill2;
 using LibNoise.Modfiers;
+using static System.Drawing.Color;
 
 namespace CrusaderKingsStoryGen.MapGen
 {
@@ -36,8 +37,9 @@ namespace CrusaderKingsStoryGen.MapGen
         public List<Province> provinces = new List<Province>();
         public Dictionary<Color, Province> colorProvinceMap = new Dictionary<Color, Province>();
         public HashSet<Color> areaColors = new HashSet<Color>();
-        Color last = Color.White;
+        Color last = White;
         private float provincesDelta = 1.0f;
+
         public void Init(LockBitmap bmp, float sizeDelta, GeneratedTerrainMap generatedMap)
         {
             provincesDelta = sizeDelta;
@@ -45,8 +47,8 @@ namespace CrusaderKingsStoryGen.MapGen
                 provincesDelta *= 1.8f;
 
             LoadProvinceColors();
-            Color col = Color.FromArgb(255, 1, 0, 0);
-            
+            Color col = FromArgb(255, 1, 0, 0);
+
             int r = 1;
             int g = 0;
             int b = 0;
@@ -54,19 +56,21 @@ namespace CrusaderKingsStoryGen.MapGen
             float DivNoise = 1200.0f * (generatedMap.Height / 2048.0f);
 
             NoiseGenerator noiseH = new NoiseGenerator();
-            NoiseGenerator noiseM = new NoiseGenerator();
 
             generatedMap.Map.LockBits();
             generatedMap.MoistureMap.LockBits();
             generatedMap.HeatMap.LockBits();
-            SolidBrush br = new SolidBrush(Color.Black);
-            using(Graphics gg = Graphics.FromImage(bmp.Source))
+
+            SolidBrush br = new SolidBrush(Black);
+
+            using (Graphics gg = Graphics.FromImage(bmp.Source))
+            {
                 for (int x = 0; x < generatedMap.Map.Width; x++)
                 {
                     for (int y = 0; y < generatedMap.Map.Height; y++)
                     {
                         float height = generatedMap.Map.GetHeight(x, y);
-                    
+
                         if (height >= highmountainLevel * 255)
                         {
                             gg.FillEllipse(br, new Rectangle(x - 2, y - 2, 4, 4));
@@ -75,120 +79,81 @@ namespace CrusaderKingsStoryGen.MapGen
 
                     }
                 }
+            }
+
             LockBitmap bmp2 = new LockBitmap(new Bitmap(bmp.Source));
             bmp2.LockBits();
+
             using (Graphics gg = Graphics.FromImage(bmp.Source))
-                for (int x = 0; x < generatedMap.Map.Width; x++)
             {
-                for (int y = 0; y < generatedMap.Map.Height; y++)
+                for (int x = 0; x < generatedMap.Map.Width; x++)
                 {
-                    float heat = generatedMap.HeatMap.GetHeight(x, y) / 255.0f;// + (Rand.Next(-30, 30) / 8000.0f);
-                    float moisture = generatedMap.MoistureMap.GetHeight(x/4, y/4) / 255.0f;// + (Rand.Next(-30, 30) / 8000.0f);
-
-                    float no = (float)((float)((noiseH.Noise(x / DivNoise / 8, y / DivNoise / 8)) - 0.5f) * 0.2);
-                    heat += no * 1.4f;
-                    moisture -= no * 0.5f;
-
-                    float desertLevel = 0.48f;
-                    float desertDry = 0.28f;
-                    bool hot = heat > desertLevel;
-                    bool dry = moisture <= desertDry;
-
-                    if (hot && dry && bmp2.GetPixel(x, y)== Color.FromArgb(255, 130, 158, 75))
+                    for (int y = 0; y < generatedMap.Map.Height; y++)
                     {
+                        float heat = generatedMap.HeatMap.GetHeight(x, y) / 255.0f; // + (Rand.Next(-30, 30) / 8000.0f);
+                        float moisture =
+                            generatedMap.MoistureMap.GetHeight(x / 4, y / 4) /
+                            255.0f; // + (Rand.Next(-30, 30) / 8000.0f);
+
+                        float no = (float) ((float) ((noiseH.Noise(x / DivNoise / 8, y / DivNoise / 8)) - 0.5f) * 0.2);
+                        heat += no * 1.4f;
+                        moisture -= no * 0.5f;
+
+                        float desertLevel = 0.48f;
+                        float desertDry = 0.28f;
+                        bool hot = heat > desertLevel;
+                        bool dry = moisture <= desertDry;
+
+                        if (hot && dry && bmp2.GetPixel(x, y) == FromArgb(255, 130, 158, 75))
+                        {
                             gg.FillEllipse(br, new Rectangle(x - 5, y - 5, 10, 10));
-                     }
-
-
+                        }
+                    }
                 }
             }
+
             bmp2.UnlockBits();
             generatedMap.Map.UnlockBits();
             generatedMap.MoistureMap.UnlockBits();
             generatedMap.HeatMap.UnlockBits();
-//            bmp.Save24(Globals.MapOutputTotalDir + "testprovinces.bmp");
             bmp.LockBits();
-            UnsafeQueueLinearFloodFiller filler = new UnsafeQueueLinearFloodFiller(null);
-            filler.Bitmap = bmp;
+
+            var filler = new UnsafeQueueLinearFloodFiller(null)
+            {
+                Bitmap = bmp
+            };
+
             Bitmap = bmp;
+
             for (int x = 0; x < bmp.Width; x++)
             {
                 for (int y = 0; y < bmp.Height; y++)
                 {
               
                     Color pix = bmp.GetPixel(x, y);
-                    if (pix == Color.FromArgb(255, 69, 91, 186) || pix == Color.FromArgb(255, 130, 158, 75))
+                    if (pix == FromArgb(255, 69, 91, 186) || pix == FromArgb(255, 130, 158, 75))
                     {
-                        areaColors.Add(col);
-                        filler.FillColor = col;
-                        filler.FloodFill(new Point(x, y));
-
-                        bool valid = false;
-                        foreach (var point in filler.pts)
-                        {
-                            for (int yy = -1; yy <= 1; yy++)
-                            {
-                                for (int xx = -1; xx <= 1; xx++)
-                                {
-                                    if (xx == 0 && yy == 0)
-                                        continue;
-                                    if (point.X + xx < 0 || point.Y + yy < 0 || point.X + xx >= bmp.Width || point.Y + yy >= bmp.Height)
-                                        continue;
-
-                                    var ccc = bmp.GetPixel(xx + point.X, yy + point.Y);
-                                    if (col.R == ccc.R && ccc.G == col.G && ccc.B == col.B)
-                                        continue;
-                                    if (ccc.R > 0 || ccc.G > 0 || ccc.B > 0)
-                                    {
-                                        valid = true;
-                                    }
-                                }
-                            }
-                        }
-
-                        if (!valid)
-                        {
-                            filler.FillColor = Color.Black;
-                            filler.FloodFill(new Point(x, y));
-                            continue;
-                        }
-
-                        {
-                            int numProvinces = (int) (filler.pts.Count / (3000));
-                            if (pix == Color.FromArgb(255, 130, 158, 75))
-                                numProvinces = (int) (numProvinces * sizeDelta);
-                            if (numProvinces == 0)
-                                numProvinces = 1;
-                            if (pix != Color.FromArgb(255, 130, 158, 75))
-                            {
-                                numProvinces /= 6;
-                                if (numProvinces < 1)
-                                    numProvinces = 1;
-                            }
-                            CreateProvinces(numProvinces, col, filler.pts, bmp.Width, bmp.Height, bmp, pix != Color.FromArgb(255, 130, 158, 75));
-                            FixupProvinces(col, filler, bmp);
-                        }
-                        r += 1;
-                        if (r > 255)
-                        {
-                            r = 0;
-                            g += 1;
-                        }
-                        if (g > 255)
-                        {
-                            g = 0;
-                            b += 1;
-                        }
-                        col = Color.FromArgb(255, r, g, b);
+                        col = setColor(bmp, sizeDelta, col, filler, x, y, pix, ref r, ref g, ref b);
                     }
                 }
             }
+
             provinces = provinces.Distinct().ToList();
+
             foreach (var province in provinces)
             {
                 province.points.Clear();
                 colorProvinceMap[province.Color] = province;
             }
+
+            CalculateProvinceColor(bmp);
+
+            CalculateDetails();
+            bmp.UnlockDirect();
+        }
+
+        private void CalculateProvinceColor(LockBitmap bmp)
+        {
             for (int x = 0; x < bmp.Width; x++)
             {
                 for (int y = 0; y < bmp.Height; y++)
@@ -200,20 +165,92 @@ namespace CrusaderKingsStoryGen.MapGen
                     }
                     else
                     {
-                        
+                    }
+                }
+            }
+        }
+
+        private Color setColor(LockBitmap bmp, float sizeDelta, Color col, UnsafeQueueLinearFloodFiller filler, int x, int y,
+            Color pix, ref int r, ref int g, ref int b)
+        {
+            areaColors.Add(col);
+            filler.FillColor = col;
+            filler.FloodFill(new Point(x, y));
+
+            bool valid = false;
+            foreach (var point in filler.pts)
+            {
+                for (int yy = -1; yy <= 1; yy++)
+                {
+                    for (int xx = -1; xx <= 1; xx++)
+                    {
+                        if (xx == 0 && yy == 0)
+                        {
+                            continue;
+                        }
+
+                        if (point.X + xx < 0 || point.Y + yy < 0 || point.X + xx >= bmp.Width ||
+                            point.Y + yy >= bmp.Height)
+                        {
+                            continue;
+                        }
+                        var ccc = bmp.GetPixel(xx + point.X, yy + point.Y);
+
+                        if (col.R == ccc.R && ccc.G == col.G && ccc.B == col.B)
+                        {
+                            continue;
+                        }
+
+                        if (ccc.R > 0 || ccc.G > 0 || ccc.B > 0)
+                        {
+                            valid = true;
+                        }
                     }
                 }
             }
 
-            CalculateDetails();
-           
-            bmp.UnlockDirect();
-         
+            if (!valid)
+            {
+                filler.FillColor = Black;
+                filler.FloodFill(new Point(x, y));
+                return col;
+            }
 
-        //    bmp.Save24("C:\\Users\\LEMMY\\Documents\\terrainNew.bmp");
+            int numProvinces = (int) (filler.pts.Count / (3000));
+            if (pix == FromArgb(255, 130, 158, 75))
+                numProvinces = (int) (numProvinces * sizeDelta);
+            if (numProvinces == 0)
+            {
+                numProvinces = 1;
+            }
 
-          
-    
+            if (pix != FromArgb(255, 130, 158, 75))
+            {
+                numProvinces /= 6;
+                if (numProvinces < 1)
+                {
+                    numProvinces = 1;
+                }
+            }
+
+            CreateProvinces(numProvinces, col, filler.pts, bmp.Width, bmp.Height, bmp,
+                pix != FromArgb(255, 130, 158, 75));
+            FixupProvinces(col, filler, bmp);
+            r += 1;
+            if (r > 255)
+            {
+                r = 0;
+                g += 1;
+            }
+
+            if (g > 255)
+            {
+                g = 0;
+                b += 1;
+            }
+
+            col = FromArgb(255, r, g, b);
+            return col;
         }
 
         private void CalculateDetails()
@@ -621,7 +658,7 @@ namespace CrusaderKingsStoryGen.MapGen
 
                 Province p = colorProvinceMap[test];
              
-                filler.FillColor = Color.White;
+                filler.FillColor = White;
                 filler.FloodFill(point);
 
                 Color t = bmp.GetPixel(676, 1935);
@@ -664,12 +701,12 @@ namespace CrusaderKingsStoryGen.MapGen
                         done.Add(test);
                     }
                     Color newCol = FindBestNeighbour(filler.pts, test, true);
-                    if (newCol == Color.White)
+                    if (newCol == White)
                     {
                         newCol = FindBestNeighbour(filler.pts, test, false);
                     }
 
-                    if (newCol != Color.White)
+                    if (newCol != White)
                     {
                         filler.FillColor = newCol;
                         filler.FloodFill(point);
@@ -717,7 +754,7 @@ namespace CrusaderKingsStoryGen.MapGen
                         {
                             pNew.Color = colorMap[totalGeneratedProvinces++];
 
-                        } while ((pNew.Color.G == 0 && pNew.Color.B == 0) || pNew.Color == Color.FromArgb(255, 69, 91, 186) || pNew.Color == Color.FromArgb(255, 130, 158, 75) || colorProvinceMap.ContainsKey(pNew.Color));
+                        } while ((pNew.Color.G == 0 && pNew.Color.B == 0) || pNew.Color == FromArgb(255, 69, 91, 186) || pNew.Color == FromArgb(255, 130, 158, 75) || colorProvinceMap.ContainsKey(pNew.Color));
 
                         filler.FillColor = pNew.Color;
                         filler.FloodFill(point);
@@ -781,7 +818,7 @@ namespace CrusaderKingsStoryGen.MapGen
                     }
                 }
             }
-            Color biggest = Color.White;
+            Color biggest = White;
             int biggestCount = 0;
 
             foreach (var i in count)
@@ -935,7 +972,7 @@ seasons = ""seasons.txt""
                         int g = Convert.ToInt32(sp[2]);
                         int b = Convert.ToInt32(sp[3]);
 
-                        Color col = Color.FromArgb(255, r, g, b);
+                        Color col = FromArgb(255, r, g, b);
                         colorMap[id] = col;
                         invColorMap[col] = id;
                     }
@@ -952,12 +989,13 @@ seasons = ""seasons.txt""
             Regions.Clear();
             int numPoints = numProvinces * 50;
             if (bSea)
+            {
                 numPoints = numProvinces*50;
-
+            }
             #region GenerateRandomPoints
 
             var points = new List<TerritoryPoint>();
-            var usePts = new HashSet<Point>(pts);
+            var usePts = new HashSet<Point>(pts.Distinct());
             List<Vector2f> vpoints = new List<Vector2f>();
             HashSet<Point> done = new HashSet<Point>();
             // int numSeaPoints = numPoints / 140;
@@ -966,36 +1004,18 @@ seasons = ""seasons.txt""
             {
                 Point newPoint = Point.Empty;
                 bool duplicate = true;
-
-
-             
-                {
-                  
-
-                    int nn = Rand.Next(pts.Count);
-                    newPoint = pts[nn];
-
-                 //   pts.RemoveAt(nn);
-
-                    /*
-                                        foreach (TerritoryPoint p in points)
-                                            if (p.Position.X == newPoint.Position.X && p.Position.Y == newPoint.Position.Y)
-                                            {
-                                                duplicate = true;
-                                                break;
-                                            }*/
-                }
-
-             
-                {
-                    vpoints.Add(new Vector2f(newPoint.X, newPoint.Y));
-                
-                }
+                int nn = Rand.Next(pts.Count);
+                newPoint = pts[nn];
+                vpoints.Add(new Vector2f(newPoint.X, newPoint.Y));
             }
+
             points.Clear();
             int vorStrength = 0;
             if (pts.Count > 150)
+            {
                 vorStrength += 2;
+            }
+
             Voronoi v = new Voronoi(vpoints, new Rectf(0, 0, w, h), 0);
             var coords = v.SiteCoords();
             coords = coords.Where(c => usePts.Contains(new Point((int) c.x, (int) c.y))).ToList();
@@ -1009,7 +1029,6 @@ seasons = ""seasons.txt""
                 if (newPoint != null)
                 {
                     points.Add(newPoint);
-
                 }
             }
 
@@ -1027,7 +1046,7 @@ seasons = ""seasons.txt""
             for (int n = 0; n < numProvinces; n++)
             {
                 TerritoryPoint initialPoint = null;
-                int i = 0;//rand.Next(points.Count());
+                int i = 0; //rand.Next(points.Count());
                 while (initialPoint == null)
                 {
                     i = Rand.Next(origPoints.Count());
@@ -1038,56 +1057,57 @@ seasons = ""seasons.txt""
                     {
                         i = points.IndexOf(initialPoint);
                     }
-
                 }
+
                 bool requireSea = false;
                 if (initialPoint.Sea)
                 {
                     requireSea = true;
                 }
+
                 foreach (TerritoryPoint p in points)
                 {
                     int dx = p.Position.X - initialPoint.Position.X;
                     int dy = p.Position.Y - initialPoint.Position.Y;
-                    p.Distance = (float)Math.Sqrt(dx * dx + dy * dy);
+                    p.Distance = (float) Math.Sqrt(dx * dx + dy * dy);
                 }
 
                 points.Sort(SortByDistance);
 
                 int c = 0;
-           
+
                 for (c = 0; c < Math.Min(maxPointsPerTerritory, points.Count); c++)
-                    if (points[c].Owner != -1) break;
+                {
+                    if (points[c].Owner != -1)
+                    {
+                        break;
+                    }
+                }
 
                 int owner = n + totalGeneratedProvinces;
-                while ((colorMap[owner + 1].G==0 && colorMap[owner + 1].B==0) || colorMap[owner + 1] == Color.FromArgb(255, 69, 91, 186) || colorMap[owner + 1] == Color.FromArgb(255, 130, 158, 75) || colorProvinceMap.ContainsKey(colorMap[owner+1])) 
+                while ((colorMap[owner + 1].G == 0 && colorMap[owner + 1].B == 0) ||
+                       colorMap[owner + 1] == FromArgb(255, 69, 91, 186) ||
+                       colorMap[owner + 1] == FromArgb(255, 130, 158, 75) ||
+                       colorProvinceMap.ContainsKey(colorMap[owner + 1]))
                 {
                     owner = n + (++totalGeneratedProvinces);
+                }
 
-                } 
-
-
-                // if (c >= minPointsPerTerritory)// || i >= seaStart)
+                for (int c2 = 0; c2 < c; c2++)
                 {
-                    for (int c2 = 0; c2 < c; c2++)
+                    if (points[c2].Owner == -1)
                     {
-
-                        if (points[c2].Owner == -1)
-                        {
-
-                            points[c2].Owner = owner;
-                            origPoints.Remove(points[c2]);
-                            AddPointToRegion(points[c2]);
-                        }
-
+                        points[c2].Owner = owner;
+                        origPoints.Remove(points[c2]);
+                        AddPointToRegion(points[c2]);
                     }
                 }
 
                 totalGeneratedProvinces++;
-
             }
 
             #endregion
+            
 
             #region GenerateBitmap
             foreach (var point in usePts)
