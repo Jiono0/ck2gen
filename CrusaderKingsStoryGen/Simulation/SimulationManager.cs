@@ -897,7 +897,11 @@ namespace CrusaderKingsStoryGen.Simulation
             if (bDonePreStage2)
             {     
                 if (this.Year >= SimulationManager.instance.MaxYear)
+                {
+                    StoryManager.instance.CreateEvent(this.Year, "History generation has ended", null);
+                    Form1.instance.stopButtonClick();
                     return;
+                }
             
                 if (this.Year%100 == 0 && Active)
                     CharacterManager.instance.DoPurge();

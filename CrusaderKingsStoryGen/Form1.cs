@@ -784,6 +784,11 @@ replace_path=""common/religious_titles""
       
         private void stop_Click(object sender, EventArgs e)
         {
+            this.stopButtonClick();
+        }
+
+        public void stopButtonClick()
+        {
             start.Enabled = true;
             stop.Enabled = false;
             resetButton.Enabled = true;
@@ -792,7 +797,7 @@ replace_path=""common/religious_titles""
             if (SimulationManager.instance.Year <= SimulationManager.StartYear)
                 return;
 
-        //    while (tickWorker.IsBusy)
+            //    while (tickWorker.IsBusy)
             {
                 Thread.Sleep(1000);
             }
