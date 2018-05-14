@@ -125,18 +125,17 @@ namespace CrusaderKingsStoryGen.MapGen
 
             Bitmap = bmp;
 
-            for (int x = 0; x < bmp.Width; x++)
+            Parallel.For(0, bmp.Width - 1, x =>
             {
-                for (int y = 0; y < bmp.Height; y++)
+                for(int y = 0; y < bmp.Height; y++)
                 {
-              
                     Color pix = bmp.GetPixel(x, y);
                     if (pix == FromArgb(255, 69, 91, 186) || pix == FromArgb(255, 130, 158, 75))
                     {
                         col = setColor(bmp, sizeDelta, col, filler, x, y, pix, ref r, ref g, ref b);
                     }
                 }
-            }
+            });
 
             provinces = provinces.Distinct().ToList();
 
@@ -178,6 +177,7 @@ namespace CrusaderKingsStoryGen.MapGen
             filler.FloodFill(new Point(x, y));
 
             bool valid = false;
+
             foreach (var point in filler.pts)
             {
                 for (int yy = -1; yy <= 1; yy++)
@@ -194,6 +194,7 @@ namespace CrusaderKingsStoryGen.MapGen
                         {
                             continue;
                         }
+
                         var ccc = bmp.GetPixel(xx + point.X, yy + point.Y);
 
                         if (col.R == ccc.R && ccc.G == col.G && ccc.B == col.B)
