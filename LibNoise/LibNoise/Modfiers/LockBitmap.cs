@@ -352,47 +352,47 @@ namespace LibNoise.Modfiers
             if (x < 0 || y < 0 || x >= Width || y >= Height)
                 return;
 
-            int index = x + (y * Width);
-            int col = color.ToArgb();
-            if (this.Bits == null)
+            //int index = x + (y * Width);
+            //int col = color.ToArgb();
+            //if (this.Bits == null)
+            //{
+            //    this.Bits = new Int32[Width * Height];
+            //}
+
+            //Bits[index] = col;
+
+            unsafe
             {
-                this.Bits = new Int32[Width * Height];
+                var scan0 = (byte*)Iptr;
+                int bitmapStride = Stride;
+                int bitmapPixelFormatSize = Depth / 8;
+
+                int index = (bitmapStride * y) + (x * bitmapPixelFormatSize);
+                if (bitmapPixelFormatSize == 4)
+                {
+                    scan0[index + 3] = color.A;
+                    scan0[index + 2] = color.R;
+                    scan0[index + 1] = color.G;
+                    scan0[index] = color.B;
+
+                }
+                else if (bitmapPixelFormatSize == 1)
+                {
+                    scan0[index] = color.R;
+
+                }
+                else
+                {
+                    scan0[index + 2] = color.R;
+                    scan0[index + 1] = color.G;
+                    scan0[index] = color.B;
+
+                }
+                return;
+                //                return Color.FromArgb(255, scan0[index + 2], scan0[index + 1], scan0[index]);
             }
 
-            Bits[index] = col;
-
-            //            unsafe
-            //            {
-            //                var scan0 = (byte*)Iptr;
-            //                int bitmapStride = Stride;
-            //                int bitmapPixelFormatSize = Depth / 8;
-
-            //                int index = (bitmapStride * y) + (x * bitmapPixelFormatSize);
-            //                if (bitmapPixelFormatSize == 4)
-            //                {
-            //                    scan0[index + 3] = color.A;
-            //                    scan0[index + 2] = color.R;
-            //                    scan0[index + 1] = color.G;
-            //                    scan0[index] = color.B;
-
-            //                }
-            //                else if (bitmapPixelFormatSize == 1)
-            //                {
-            //                    scan0[index] = color.R;
-
-            //                }
-            //                else
-            //                {
-            //                    scan0[index + 2] = color.R;
-            //                    scan0[index + 1] = color.G;
-            //                    scan0[index] = color.B;
-
-            //                }
-            //                return;
-            ////                return Color.FromArgb(255, scan0[index + 2], scan0[index + 1], scan0[index]);
-            //            }
-
-            // Get color components count
+            //Get color components count
             //int cCount = Depth / 8;
 
             //// Get start index of the specified pixel
@@ -478,26 +478,26 @@ namespace LibNoise.Modfiers
             if (x < 0 || y < 0 || x >= Width || y >= Height)
                 return Color.Transparent;
 
-            int index = x + (y * Width);
-            int col = Bits[index];
-            return Color.FromArgb(col);
+            //int index = x + (y * Width);
+            //int col = Bits[index];
+            //return Color.FromArgb(col);
 
-            //unsafe
-            //{
-            //    var scan0 = (byte*) Iptr;
-            //    int bitmapStride = Stride;
-            //    int bitmapPixelFormatSize = Depth / 8;
+            unsafe
+            {
+                var scan0 = (byte*)Iptr;
+                int bitmapStride = Stride;
+                int bitmapPixelFormatSize = Depth / 8;
 
-            //    int index = (bitmapStride * y) + (x * bitmapPixelFormatSize);
-            //    if (bitmapPixelFormatSize == 4)
-            //        return Color.FromArgb(scan0[index + 3], scan0[index + 2], scan0[index + 1], scan0[index]);
-            //    else if(bitmapPixelFormatSize == 1)
-            //        return Color.FromArgb(scan0[index], scan0[index], scan0[index], scan0[index]);
-            //    else
-            //        return Color.FromArgb(255, scan0[index + 2], scan0[index + 1], scan0[index]);
-            //}
+                int index = (bitmapStride * y) + (x * bitmapPixelFormatSize);
+                if (bitmapPixelFormatSize == 4)
+                    return Color.FromArgb(scan0[index + 3], scan0[index + 2], scan0[index + 1], scan0[index]);
+                else if (bitmapPixelFormatSize == 1)
+                    return Color.FromArgb(scan0[index], scan0[index], scan0[index], scan0[index]);
+                else
+                    return Color.FromArgb(255, scan0[index + 2], scan0[index + 1], scan0[index]);
+            }
 
-            //return Color.Black;
+            return Color.Black;
         }
 
 

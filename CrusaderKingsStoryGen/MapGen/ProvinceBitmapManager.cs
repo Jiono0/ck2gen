@@ -125,8 +125,7 @@ namespace CrusaderKingsStoryGen.MapGen
 
             Bitmap = bmp;
 
-            Parallel.For(0, bmp.Width - 1, x =>
-            {
+            for(int x = 0; x < bmp.Width; x++) {
                 for(int y = 0; y < bmp.Height; y++)
                 {
                     Color pix = bmp.GetPixel(x, y);
@@ -135,7 +134,7 @@ namespace CrusaderKingsStoryGen.MapGen
                         col = setColor(bmp, sizeDelta, col, filler, x, y, pix, ref r, ref g, ref b);
                     }
                 }
-            });
+            }
 
             provinces = provinces.Distinct().ToList();
 
@@ -996,7 +995,16 @@ seasons = ""seasons.txt""
             #region GenerateRandomPoints
 
             var points = new List<TerritoryPoint>();
-            var usePts = new HashSet<Point>(pts.Distinct());
+            HashSet<Point> usePts = new HashSet<Point>(new PointComparer());
+
+            foreach (var point in pts)
+            {
+                lock (pts)
+                {
+                    usePts.Add(point);
+                }
+            }
+
             List<Vector2f> vpoints = new List<Vector2f>();
             HashSet<Point> done = new HashSet<Point>();
             // int numSeaPoints = numPoints / 140;

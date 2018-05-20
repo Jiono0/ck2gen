@@ -226,6 +226,7 @@
     <Compile Include="NoiseTexture.cs" />
     <Compile Include="OnActionsManager.cs" />
     <Compile Include="Parser.cs" />
+    <Compile Include="PointComparer.cs" />
     <Compile Include="Progress\AlertForm.cs">
       <SubType>Form</SubType>
     </Compile>
