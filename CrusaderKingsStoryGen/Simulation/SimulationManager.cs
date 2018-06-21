@@ -5,6 +5,8 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Runtime.Remoting.Messaging;
+using System.Windows.Forms;
+using System.Windows.Forms.VisualStyles;
 using CrusaderKingsStoryGen.Story;
 using static CrusaderKingsStoryGen.TitleManager;
 
@@ -896,8 +898,13 @@ namespace CrusaderKingsStoryGen.Simulation
             
             if (bDonePreStage2)
             {     
-                if (this.Year >= SimulationManager.instance.MaxYear)
+                if (this.Year >= instance.MaxYear)
+                {
+                    StoryManager.instance.CreateEvent(this.Year, "History generation has ended", null);
+                    Form1.instance.stopButtonClick();
+                    MessageBox.Show($"Generating has completed after {instance.MaxYear} years", "Generating completed!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     return;
+                }
             
                 if (this.Year%100 == 0 && Active)
                     CharacterManager.instance.DoPurge();
@@ -2539,7 +2546,6 @@ namespace CrusaderKingsStoryGen.Simulation
         {
             if (Form1.instance.SelectedTitleLast == breakTest)
             {
-                Debugger.Break();
                 Form1.instance.SelectedTitleLast = null;
             }
         }

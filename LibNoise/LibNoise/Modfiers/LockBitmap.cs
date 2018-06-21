@@ -17,9 +17,12 @@ namespace LibNoise.Modfiers
         public int Width { get; private set; }
         public int Height { get; private set; }
 
+        public Int32[] Bits { get; set; }
+
         public LockBitmap(Bitmap source)
         {
             this.source = source;
+            this.Bits = new Int32[source.Width * source.Height];
         }
         public LockBitmap()
         {
@@ -28,6 +31,7 @@ namespace LibNoise.Modfiers
         public LockBitmap(int width, int height)
         {
             this.source = new Bitmap(width, height);
+            this.Bits = new Int32[width * height];
         }
         public LockBitmap(int width, int height, PixelFormat format)
         {
@@ -348,6 +352,15 @@ namespace LibNoise.Modfiers
             if (x < 0 || y < 0 || x >= Width || y >= Height)
                 return;
 
+            //int index = x + (y * Width);
+            //int col = color.ToArgb();
+            //if (this.Bits == null)
+            //{
+            //    this.Bits = new Int32[Width * Height];
+            //}
+
+            //Bits[index] = col;
+
             unsafe
             {
                 var scan0 = (byte*)Iptr;
@@ -376,33 +389,33 @@ namespace LibNoise.Modfiers
 
                 }
                 return;
-//                return Color.FromArgb(255, scan0[index + 2], scan0[index + 1], scan0[index]);
+                //                return Color.FromArgb(255, scan0[index + 2], scan0[index + 1], scan0[index]);
             }
 
-            // Get color components count
-            int cCount = Depth / 8;
+            //Get color components count
+            //int cCount = Depth / 8;
 
-            // Get start index of the specified pixel
-            int i = ((y * Width) + x) * cCount;
+            //// Get start index of the specified pixel
+            //int i = ((y * Width) + x) * cCount;
 
-            if (Depth == 32) // For 32 bpp set Red, Green, Blue and Alpha
-            {
-                Pixels[i] = color.B;
-                Pixels[i + 1] = color.G;
-                Pixels[i + 2] = color.R;
-                Pixels[i + 3] = color.A;
-            }
-            if (Depth == 24) // For 24 bpp set Red, Green and Blue
-            {
-                Pixels[i] = color.B;
-                Pixels[i + 1] = color.G;
-                Pixels[i + 2] = color.R;
-            }
-            if (Depth == 8)
-            // For 8 bpp set color value (Red, Green and Blue values are the same)
-            {
-                Pixels[i] = color.B;
-            }
+            //if (Depth == 32) // For 32 bpp set Red, Green, Blue and Alpha
+            //{
+            //    Pixels[i] = color.B;
+            //    Pixels[i + 1] = color.G;
+            //    Pixels[i + 2] = color.R;
+            //    Pixels[i + 3] = color.A;
+            //}
+            //if (Depth == 24) // For 24 bpp set Red, Green and Blue
+            //{
+            //    Pixels[i] = color.B;
+            //    Pixels[i + 1] = color.G;
+            //    Pixels[i + 2] = color.R;
+            //}
+            //if (Depth == 8)
+            //// For 8 bpp set color value (Red, Green and Blue values are the same)
+            //{
+            //    Pixels[i] = color.B;
+            //}
         }
         public void SetPixelOld(int x, int y, Color color)
         {
@@ -465,16 +478,20 @@ namespace LibNoise.Modfiers
             if (x < 0 || y < 0 || x >= Width || y >= Height)
                 return Color.Transparent;
 
+            //int index = x + (y * Width);
+            //int col = Bits[index];
+            //return Color.FromArgb(col);
+
             unsafe
             {
-                var scan0 = (byte*) Iptr;
+                var scan0 = (byte*)Iptr;
                 int bitmapStride = Stride;
                 int bitmapPixelFormatSize = Depth / 8;
 
                 int index = (bitmapStride * y) + (x * bitmapPixelFormatSize);
                 if (bitmapPixelFormatSize == 4)
                     return Color.FromArgb(scan0[index + 3], scan0[index + 2], scan0[index + 1], scan0[index]);
-                else if(bitmapPixelFormatSize == 1)
+                else if (bitmapPixelFormatSize == 1)
                     return Color.FromArgb(scan0[index], scan0[index], scan0[index], scan0[index]);
                 else
                     return Color.FromArgb(255, scan0[index + 2], scan0[index + 1], scan0[index]);
