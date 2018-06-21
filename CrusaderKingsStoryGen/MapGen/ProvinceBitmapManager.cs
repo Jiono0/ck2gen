@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -997,13 +998,13 @@ seasons = ""seasons.txt""
             var points = new List<TerritoryPoint>();
             HashSet<Point> usePts = new HashSet<Point>(new PointComparer());
 
-            foreach (var point in pts)
+            Parallel.ForEach(pts, (point) =>
             {
                 lock (pts)
                 {
                     usePts.Add(point);
                 }
-            }
+            });
 
             List<Vector2f> vpoints = new List<Vector2f>();
             HashSet<Point> done = new HashSet<Point>();
@@ -1134,28 +1135,29 @@ seasons = ""seasons.txt""
                     int range = 1;
                     while (!found)
                     {
-                        for (int xx = -range; xx <= range; xx++)
+                        Parallel.For(-range, range, xx =>
                         {
-                            for (int yy = -range; yy <= range; yy++)
-                            {
-                                int gx = x / RegionGridSize;
-                                int gy = y / RegionGridSize;
-
-                                int tx = xx + gx;
-                                int ty = yy + gy;
-
-                                if (Regions.ContainsKey(new Point(tx, ty)))
+                                for (int yy = -range; yy <= range; yy++)
                                 {
-                                    var l = Regions[new Point(tx, ty)];
+                                    int gx = x / RegionGridSize;
+                                    int gy = y / RegionGridSize;
 
-                                    list.AddRange(l.Where(p => p.Owner != -1));
+                                    int tx = xx + gx;
+                                    int ty = yy + gy;
+
+                                    if (Regions.ContainsKey(new Point(tx, ty)))
+                                    {
+                                        var l = Regions[new Point(tx, ty)];
+                                        lock (list)
+                                        {
+                                            list.AddRange(l.Where(p => p.Owner != -1));
+                                        }
+                                    }
                                 }
+                            
+                        });
 
-
-                            }
-                        }
-
-                        if (list.Count > 1)
+                    if (list.Count > 1)
                             break;
 
                         range++;

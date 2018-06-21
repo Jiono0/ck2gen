@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -16,25 +17,13 @@ namespace CrusaderKingsStoryGen
         [STAThread]
         static void Main()
         {
-            //    GeneratedTerrainMap map = new GeneratedTerrainMap();
-            //   map.Init(3072, 2048);
-            //      return;
-         /*   Rand.SetSeed();
-            Globals.GameDir = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Crusader Kings II\\";
-
-            CulturalDnaManager.instance.Init();
-            CultureManager.instance.Init();
-
-            for (int x = 0; x < 1000; x++)
+            if (Directory.Exists("logs"))
             {
-                String str = CultureManager.instance.AllCultures[0].dna.GetPlaceName();
-                System.Console.Out.WriteLine(str);
+                Directory.Delete("logs");
             }
-            */
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-         //   Application.Run(new ScriptBlueprint());
         }
     }
 }
