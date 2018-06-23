@@ -19,7 +19,8 @@ namespace CrusaderKingsStoryGen
         {
             if (Directory.Exists("logs"))
             {
-                Directory.Delete("logs");
+                
+                Directory.Delete("logs", true);
             }
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
