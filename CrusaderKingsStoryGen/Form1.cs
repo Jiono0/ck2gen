@@ -649,14 +649,27 @@ namespace CrusaderKingsStoryGen
 
                     int y = 200;
 
+                    var coat = "coat_of_arms.txt";
+                    var coats = "coats_of_arms.txt";
+
+                    bool coatWithS;
+
                     var local = Directory.GetFiles(Globals.GameDir, "coats_of_arms.txt", SearchOption.AllDirectories);
 
                     if (string.IsNullOrEmpty(local[0]))
                     {
-                        local[0] = Globals.GameDir + "interface\\coats_of_arms.txt";
+                        coatWithS = false;
+                        local = Directory.GetFiles(Globals.GameDir, "coat_of_arms.txt", SearchOption.AllDirectories);
+                        
+                    }
+                    else
+                    {
+                        coatWithS = true;
                     }
 
-                    if(File.Exists(Globals.ModDir + "interface\\coat_of_arms.txt"))
+                    Globals.GameDir + "interface\\coats_of_arms.txt";
+
+                    if (File.Exists(Globals.ModDir + "interface\\coat_of_arms.txt"))
                         File.Delete(Globals.ModDir + "interface\\coat_of_arms.txt");
                     File.Copy(local[0], Globals.ModDir + "interface\\coats_of_arms.txt");
                     ArbitaryFileEditor.instance.CopyAndSubstitute("common\\defines.lua", new Dictionary<string, string>()
