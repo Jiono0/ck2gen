@@ -17,7 +17,7 @@ namespace CrusaderKingsStoryGen.Simulation
         public static SimulationManager instance = new SimulationManager();
         public List<CharacterParser> characters = new List<CharacterParser>();
         public int PreYear = 0;
-        public int MaxYear;//1337;
+        public int MaxYear; // Value set by custom fields or 400 as a fall back, Form1.cs startClick()
         public static int StartYear = 200;
         public int Year = SimulationManager.StartYear;
         public bool Active { get; set; }
