@@ -647,18 +647,32 @@ namespace CrusaderKingsStoryGen
                     progress++;
 #endregion
 
-                    int y = 200;
-
-                    var local = Directory.GetFiles(Globals.GameDir, "coats_of_arms.txt", SearchOption.AllDirectories);
+                    string[] local = Directory.GetFiles(Globals.GameDir, "coats_of_arms.txt", SearchOption.AllDirectories);
 
                     if (string.IsNullOrEmpty(local[0]))
                     {
-                        local[0] = Globals.GameDir + "interface\\coats_of_arms.txt";
+                        local = Directory.GetFiles(Globals.GameDir, "coat_of_arms.txt", SearchOption.AllDirectories);
+
+                        if (string.IsNullOrEmpty(local[0]))
+                        {
+                            log.WriteLine("coat_of_arms.txt could not be found");
+                        }
                     }
 
-                    if(File.Exists(Globals.ModDir + "interface\\coat_of_arms.txt"))
-                        File.Delete(Globals.ModDir + "interface\\coat_of_arms.txt");
-                    File.Copy(local[0], Globals.ModDir + "interface\\coats_of_arms.txt");
+                    string coatOfArmsLocation = local[0].Replace(Globals.GameDir, string.Empty);
+
+                    if (File.Exists(Globals.ModDir + coatOfArmsLocation))
+                    {
+                        File.Delete(Globals.ModDir + coatOfArmsLocation);
+                    }
+
+                    var modPath = Path.GetDirectoryName(Globals.ModDir + coatOfArmsLocation);
+                    Directory.CreateDirectory(modPath);
+
+                    File.Copy(Globals.GameDir + coatOfArmsLocation, Globals.ModDir + coatOfArmsLocation);
+
+                    int y = 200;
+
                     ArbitaryFileEditor.instance.CopyAndSubstitute("common\\defines.lua", new Dictionary<string, string>()
                     {
                         ["DONT_EXECUTE_TECH_BEFORE"] = "DONT_EXECUTE_TECH_BEFORE = " + (y) + ","
@@ -757,6 +771,8 @@ replace_path=""common/religious_titles""
             //     this.Close();
 
             SimulationManager.instance.Active = false;
+
+            MessageBox.Show("Export of the map has finished", "Export finished!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         public void CopyDir(string from, string to)
