@@ -109,6 +109,11 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveProjectToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.yearInstructions = new System.Windows.Forms.Label();
+            this.setYearsDropDown = new System.Windows.Forms.ComboBox();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.customYearInput = new System.Windows.Forms.TextBox();
             this.inspectTree = new MultiSelectTreeview.MultiSelectTreeview();
             this.renderPanel = new CrusaderKingsStoryGen.RenderPanel();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
@@ -395,6 +400,11 @@
             // 
             // generateTab
             // 
+            this.generateTab.Controls.Add(this.yearInstructions);
+            this.generateTab.Controls.Add(this.setYearsDropDown);
+            this.generateTab.Controls.Add(this.label15);
+            this.generateTab.Controls.Add(this.label14);
+            this.generateTab.Controls.Add(this.customYearInput);
             this.generateTab.Controls.Add(this.generationOptionTabs);
             this.generateTab.Controls.Add(this.addYear);
             this.generateTab.Controls.Add(this.addDecade);
@@ -424,7 +434,7 @@
             this.generationOptionTabs.Location = new System.Drawing.Point(3, 3);
             this.generationOptionTabs.Name = "generationOptionTabs";
             this.generationOptionTabs.SelectedIndex = 0;
-            this.generationOptionTabs.Size = new System.Drawing.Size(1196, 111);
+            this.generationOptionTabs.Size = new System.Drawing.Size(869, 111);
             this.generationOptionTabs.TabIndex = 4;
             // 
             // tabPage4
@@ -438,7 +448,7 @@
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(1188, 85);
+            this.tabPage4.Size = new System.Drawing.Size(861, 85);
             this.tabPage4.TabIndex = 0;
             this.tabPage4.Text = "Government";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -532,7 +542,7 @@
             this.tabPage5.Location = new System.Drawing.Point(4, 22);
             this.tabPage5.Name = "tabPage5";
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(1188, 85);
+            this.tabPage5.Size = new System.Drawing.Size(861, 85);
             this.tabPage5.TabIndex = 1;
             this.tabPage5.Text = "Religion";
             this.tabPage5.UseVisualStyleBackColor = true;
@@ -571,7 +581,7 @@
             this.tabPage6.Controls.Add(this.label8);
             this.tabPage6.Location = new System.Drawing.Point(4, 22);
             this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Size = new System.Drawing.Size(1188, 85);
+            this.tabPage6.Size = new System.Drawing.Size(861, 85);
             this.tabPage6.TabIndex = 2;
             this.tabPage6.Text = "Culture";
             this.tabPage6.UseVisualStyleBackColor = true;
@@ -613,7 +623,7 @@
             this.tabPage7.Controls.Add(this.techSpreadSpeed);
             this.tabPage7.Location = new System.Drawing.Point(4, 22);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(1188, 85);
+            this.tabPage7.Size = new System.Drawing.Size(861, 85);
             this.tabPage7.TabIndex = 3;
             this.tabPage7.Text = "Technology";
             this.tabPage7.UseVisualStyleBackColor = true;
@@ -704,7 +714,7 @@
             this.tabPage8.Controls.Add(this.conquererAmount);
             this.tabPage8.Location = new System.Drawing.Point(4, 22);
             this.tabPage8.Name = "tabPage8";
-            this.tabPage8.Size = new System.Drawing.Size(1188, 85);
+            this.tabPage8.Size = new System.Drawing.Size(861, 85);
             this.tabPage8.TabIndex = 4;
             this.tabPage8.Text = "War";
             this.tabPage8.UseVisualStyleBackColor = true;
@@ -1048,7 +1058,7 @@
             // toolStripLabel3
             // 
             this.toolStripLabel3.Name = "toolStripLabel3";
-            this.toolStripLabel3.Size = new System.Drawing.Size(39, 22);
+            this.toolStripLabel3.Size = new System.Drawing.Size(38, 22);
             this.toolStripLabel3.Text = "Tools:";
             // 
             // selectMode
@@ -1107,6 +1117,60 @@
             this.saveProjectToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
             this.saveProjectToolStripMenuItem.Text = "Save Project...";
             this.saveProjectToolStripMenuItem.Click += new System.EventHandler(this.saveProjectToolStripMenuItem_Click_1);
+            // 
+            // yearInstructions
+            // 
+            this.yearInstructions.AutoSize = true;
+            this.yearInstructions.Location = new System.Drawing.Point(902, 14);
+            this.yearInstructions.Name = "yearInstructions";
+            this.yearInstructions.Size = new System.Drawing.Size(289, 26);
+            this.yearInstructions.TabIndex = 27;
+            this.yearInstructions.Text = "Enter a year into the text box or choose from the drop down.\r\nIf neither have val" +
+    "ues, 400 will be used.";
+            // 
+            // setYearsDropDown
+            // 
+            this.setYearsDropDown.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.setYearsDropDown.FormattingEnabled = true;
+            this.setYearsDropDown.ImeMode = System.Windows.Forms.ImeMode.Disable;
+            this.setYearsDropDown.Items.AddRange(new object[] {
+            "769",
+            "867",
+            "1066",
+            "1081",
+            "1241",
+            "1337"});
+            this.setYearsDropDown.Location = new System.Drawing.Point(999, 83);
+            this.setYearsDropDown.Name = "setYearsDropDown";
+            this.setYearsDropDown.Size = new System.Drawing.Size(121, 21);
+            this.setYearsDropDown.TabIndex = 26;
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(902, 86);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(91, 13);
+            this.label15.TabIndex = 25;
+            this.label15.Text = "Generation dates:";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(927, 57);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(66, 13);
+            this.label14.TabIndex = 24;
+            this.label14.Text = "Generate till:";
+            // 
+            // customYearInput
+            // 
+            this.customYearInput.ImeMode = System.Windows.Forms.ImeMode.Disable;
+            this.customYearInput.Location = new System.Drawing.Point(999, 54);
+            this.customYearInput.MaxLength = 4;
+            this.customYearInput.Name = "customYearInput";
+            this.customYearInput.Size = new System.Drawing.Size(121, 20);
+            this.customYearInput.TabIndex = 23;
             // 
             // inspectTree
             // 
@@ -1278,6 +1342,11 @@
         private System.Windows.Forms.ToolStripMenuItem saveProjectToolStripMenuItem;
         private System.Windows.Forms.NumericUpDown simulationDate;
         private System.Windows.Forms.Button loadHistoryToDate;
+        private System.Windows.Forms.Label yearInstructions;
+        private System.Windows.Forms.ComboBox setYearsDropDown;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.TextBox customYearInput;
     }
 }
 
