@@ -889,6 +889,31 @@ replace_path=""common/religious_titles""
 
         private void start_Click(object sender, EventArgs e)
         {
+            int generateTill;
+
+            if (!string.IsNullOrEmpty(this.customYearInput.Text))
+            {
+                foreach (char c in this.customYearInput.Text)
+                {
+                    if (c < '0' || c > '9')
+                    {
+                        MessageBox.Show("Custom date field can only contain numeric characters",
+                            "Invalid character in custom date field", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                        return;
+                    }
+                }
+
+                generateTill = int.Parse(this.customYearInput.Text);
+            }
+            else if (setYearsDropDown.SelectedIndex != -1)
+            {
+                generateTill = int.Parse(setYearsDropDown.SelectedItem.ToString());
+            }
+            else
+            {
+                generateTill = 400;
+            }
+
             start.Enabled = false;
             stop.Enabled = true;
             doneTick = false;
@@ -899,6 +924,7 @@ replace_path=""common/religious_titles""
             
               if (!SimulationManager.instance.bTicked)            
 #endif
+            SimulationManager.instance.MaxYear = generateTill;
             SimulationManager.instance.Active = true;
             renderPanel.Invalidate();
         }
