@@ -386,7 +386,7 @@ namespace CrusaderKingsStoryGen
 		         
 		            ai_convert_other_group = " + ai_convert_other_group + @" # always try to convert
 	
-		            color = { " + (r/255.0f) + " " + (g/255.0f) + " " + (b/255.0f) + @" }
+		            color = { " + (int)(r/255.0f) + " " + (int)(g/255.0f) + " " + (int)(b/255.0f) + @" }
 		
 		            crusade_name = " + safecrusade_name + @"
 		            scripture_name = " + safescripture_name + @"
