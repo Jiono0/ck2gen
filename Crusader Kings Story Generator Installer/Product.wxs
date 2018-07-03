@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="*" Name="Crusader Kings Story Generator" Language="1033" Version="1.0.0.0" Manufacturer="252afh" UpgradeCode="648e51cb-7a14-4307-9429-f592f7d9cdf7">
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" Description="Installer for Crusader Kings Story Generator" />
+
+    <ComponentGroup Id="Licenses" Directory="LICENSES">
+      <Component Id="LICENSE_txt">
+        <File Id="LICENSE_txt" Name="LICENSE.TXT" KeyPath="yes" Source="Licenses\" />
+      </Component>
+    </ComponentGroup>
+
+    <!-- Set properties visible in Programs and Features -->
+    <Property Id="ARPURLINFOABOUT" Value="http://ck2generator.com/" />
+    <Property Id="ARPHELPLINK" Value="http://ck2generator.com/" />
+    <Property Id="ARPURLUPDATEINFO" Value="http://ck2generator.com/" />
+
+    <MajorUpgrade Schedule="afterInstallInitialize" DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <Media Id="1" Cabinet="Ck2gen_cab.cab" EmbedCab="yes" />
+
+    <Feature Id="ProductFeature" Title="Crusader Kings Story Generator" Level="1">
+      <ComponentGroupRef Id="CK2GenComponents" />
+      <ComponentGroupRef Id="Licenses" />
+      <ComponentRef Id="CK2GenComponents" />
+      <ComponentRef Id="LICENSES" />
+      <ComponentRef Id="Registry_FriendlyName" />
+      <ComponentRef Id="Registry_Description" />
+      <ComponentRef Id="Registry_Manifest" />
+      <ComponentRef Id="Registry_LoadBehavior" />
+    </Feature>
+  </Product>
+
+  <Fragment>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="ck2GenDir" Name="Crusader Kings Story Generator" >
+          <Component Id="CK2GenComponents" KeyPath="yes" Guid="64303013-a1fd-42cc-a606-2d79e44e4aaa" Permanent="no" Transitive="no" Win64="no" Location="either"/>
+          <Directory Id="LICENSES" Name="Licenses">
+            <Component Id="LICENSES" Guid="bde9ca4d-8087-44c3-98af-b26250a5cb8e" KeyPath="yes" Permanent="no" Transitive="no" Win64="no" Location="either" />
+          </Directory>
+        </Directory>
+        <Component Id="Registry_FriendlyName">
+          <RegistryValue Id="RegKey_FriendlyName" Root="HKCU"
+			                   Key="Software\CK2Gen\Crusader Kings Story Generator"
+			                   Name="FriendlyName"
+			                   Value="Crusader Kings Story Generator"
+			                   Type="string" KeyPath="yes" />
+        </Component>
+        <Component Id="Registry_Description">
+          <RegistryValue Id="RegKey_Description" Root="HKCU"
+			                   Key="Software\CK2Gen\Crusader Kings Story Generator"
+			                   Name="Description"
+			                   Value="Crusader Kings Story Generator"
+			                   Type="string" KeyPath="yes" />
+        </Component>
+        <Component Id="Registry_Manifest">
+          <RegistryValue Id="RegKey_Manifest" Root="HKCU"
+			                   Key="Software\CK2Gen\Crusader Kings Story Generator"
+			                   Name="Manifest" Value="[Crusader Kings Story Generator]Crusader Kings Story Generator.vsto|vstolocal"
+			                   Type="string" KeyPath="yes" />
+        </Component>
+        <Component Id="Registry_LoadBehavior">
+          <RegistryValue Id="RegKey_LoadBehavior" Root="HKCU"
+			                   Key="Software\CK2Gen\Crusader Kings Story Generator"
+			                   Name="LoadBehavior" Value="3"
+			                   Type="integer" KeyPath="yes" />
+        </Component>
+      </Directory>
+    </Directory>
+  </Fragment>
+</Wix>

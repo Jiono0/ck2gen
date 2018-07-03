@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrusaderKingsStoryGen", "Cr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNoise", "..\LibNoise\LibNoise\LibNoise.csproj", "{031C8CFF-F147-44EA-B7E5-0A5644808A7E}"
 EndProject
-Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "CrusaderKingsStoryGen Installer", "..\CrusaderKingsStoryGen Installer\CrusaderKingsStoryGen Installer.wixproj", "{50D7BE83-0E09-493B-9961-55376B613331}"
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "Crusader Kings Story Generator Installer", "..\Crusader Kings Story Generator Installer\Crusader Kings Story Generator Installer.wixproj", "{CD31CA43-DA07-4411-88EB-C2073149F048}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,14 +43,14 @@ Global
 		{031C8CFF-F147-44EA-B7E5-0A5644808A7E}.Release|x64.Build.0 = Release|Any CPU
 		{031C8CFF-F147-44EA-B7E5-0A5644808A7E}.Release|x86.ActiveCfg = Release|x86
 		{031C8CFF-F147-44EA-B7E5-0A5644808A7E}.Release|x86.Build.0 = Release|x86
-		{50D7BE83-0E09-493B-9961-55376B613331}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{50D7BE83-0E09-493B-9961-55376B613331}.Debug|x64.ActiveCfg = Debug|x86
-		{50D7BE83-0E09-493B-9961-55376B613331}.Debug|x86.ActiveCfg = Debug|x86
-		{50D7BE83-0E09-493B-9961-55376B613331}.Debug|x86.Build.0 = Debug|x86
-		{50D7BE83-0E09-493B-9961-55376B613331}.Release|Any CPU.ActiveCfg = Release|x86
-		{50D7BE83-0E09-493B-9961-55376B613331}.Release|x64.ActiveCfg = Release|x86
-		{50D7BE83-0E09-493B-9961-55376B613331}.Release|x86.ActiveCfg = Release|x86
-		{50D7BE83-0E09-493B-9961-55376B613331}.Release|x86.Build.0 = Release|x86
+		{CD31CA43-DA07-4411-88EB-C2073149F048}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CD31CA43-DA07-4411-88EB-C2073149F048}.Debug|x64.ActiveCfg = Debug|x86
+		{CD31CA43-DA07-4411-88EB-C2073149F048}.Debug|x86.ActiveCfg = Debug|x86
+		{CD31CA43-DA07-4411-88EB-C2073149F048}.Debug|x86.Build.0 = Debug|x86
+		{CD31CA43-DA07-4411-88EB-C2073149F048}.Release|Any CPU.ActiveCfg = Release|x86
+		{CD31CA43-DA07-4411-88EB-C2073149F048}.Release|x64.ActiveCfg = Release|x86
+		{CD31CA43-DA07-4411-88EB-C2073149F048}.Release|x86.ActiveCfg = Release|x86
+		{CD31CA43-DA07-4411-88EB-C2073149F048}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
