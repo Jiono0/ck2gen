@@ -9,6 +9,20 @@
       </Component>
     </ComponentGroup>
 
+    <ComponentGroup Id="CK2GenComponents" Directory="INSTALLDIR">
+      <Component Id="EXE" Guid="07b88734-09c7-403a-be26-ae73cc195efb">
+        <File Id="CrusaderKingsStoryGenExe" Name="CrusaderKingsStoryGen.exe" DiskId="1" Source="CrusaderKingsStoryGen.exe" KeyPath="yes">
+          <Shortcut Id="CrusaderKingsStoryGenStartMenu" Directory="ProgramMenuDir" Name="Crusader King Story Generator" Advertise="yes" />
+        </File>
+      </Component>
+      <Component Id="EXEConfig" Guid="6310fe5b-009b-45aa-9406-8acf27ca3a42">
+        <File Id="CrusaderKingsStoryGenExeConfig" Name="CrusaderKingsStoryGen.exe.config" DiskId="1" Source="CrusaderKingsStoryGen.exe.config" />
+      </Component>
+      <Component Id="EXEManifest" Guid="2e828918-d22c-4c43-8a54-6c74a45e3f42">
+        <File Id="CrusaderKingsStoryGenExeManifest" Name="CrusaderKingsStoryGen.exe.manifest" DiskId="1" Source="CrusaderKingsStoryGen.exe.manifest" />
+      </Component>
+    </ComponentGroup>
+
     <!-- Set properties visible in Programs and Features -->
     <Property Id="ARPURLINFOABOUT" Value="http://ck2generator.com/" />
     <Property Id="ARPHELPLINK" Value="http://ck2generator.com/" />
