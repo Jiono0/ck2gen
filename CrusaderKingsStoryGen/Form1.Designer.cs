@@ -52,6 +52,11 @@
             this.button3 = new System.Windows.Forms.Button();
             this.chooseMods = new System.Windows.Forms.Button();
             this.generateTab = new System.Windows.Forms.TabPage();
+            this.yearInstructions = new System.Windows.Forms.Label();
+            this.setYearsDropDown = new System.Windows.Forms.ComboBox();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.customYearInput = new System.Windows.Forms.TextBox();
             this.generationOptionTabs = new System.Windows.Forms.TabControl();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.label7 = new System.Windows.Forms.Label();
@@ -86,9 +91,11 @@
             this.rerollName = new System.Windows.Forms.Button();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
             this.splitContainer3 = new System.Windows.Forms.SplitContainer();
+            this.inspectTree = new MultiSelectTreeview.MultiSelectTreeview();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.propertyGrid = new System.Windows.Forms.PropertyGrid();
             this.splitContainer4 = new System.Windows.Forms.SplitContainer();
+            this.renderPanel = new CrusaderKingsStoryGen.RenderPanel();
             this.logView = new System.Windows.Forms.ListBox();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripLabel2 = new System.Windows.Forms.ToolStripLabel();
@@ -109,13 +116,6 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveProjectToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.yearInstructions = new System.Windows.Forms.Label();
-            this.setYearsDropDown = new System.Windows.Forms.ComboBox();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.customYearInput = new System.Windows.Forms.TextBox();
-            this.inspectTree = new MultiSelectTreeview.MultiSelectTreeview();
-            this.renderPanel = new CrusaderKingsStoryGen.RenderPanel();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.mainTabs.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -144,9 +144,9 @@
             this.splitContainer4.Panel1.SuspendLayout();
             this.splitContainer4.Panel2.SuspendLayout();
             this.splitContainer4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.renderPanel)).BeginInit();
             this.toolStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.renderPanel)).BeginInit();
             this.SuspendLayout();
             // 
             // timer1
@@ -199,7 +199,7 @@
             // 
             this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(1401, 18);
+            this.label5.Location = new System.Drawing.Point(851, 18);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(35, 13);
             this.label5.TabIndex = 11;
@@ -208,7 +208,7 @@
             // numericUpDown1
             // 
             this.numericUpDown1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.numericUpDown1.Location = new System.Drawing.Point(1442, 16);
+            this.numericUpDown1.Location = new System.Drawing.Point(892, 16);
             this.numericUpDown1.Maximum = new decimal(new int[] {
             10000000,
             0,
@@ -298,7 +298,7 @@
             // 
             this.stop.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.stop.Enabled = false;
-            this.stop.Location = new System.Drawing.Point(1699, 14);
+            this.stop.Location = new System.Drawing.Point(1149, 14);
             this.stop.Margin = new System.Windows.Forms.Padding(2);
             this.stop.Name = "stop";
             this.stop.Size = new System.Drawing.Size(79, 27);
@@ -310,7 +310,7 @@
             // start
             // 
             this.start.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.start.Location = new System.Drawing.Point(1616, 14);
+            this.start.Location = new System.Drawing.Point(1066, 14);
             this.start.Margin = new System.Windows.Forms.Padding(2);
             this.start.Name = "start";
             this.start.Size = new System.Drawing.Size(79, 27);
@@ -327,7 +327,7 @@
             this.mainTabs.Location = new System.Drawing.Point(0, 0);
             this.mainTabs.Name = "mainTabs";
             this.mainTabs.SelectedIndex = 0;
-            this.mainTabs.Size = new System.Drawing.Size(1904, 143);
+            this.mainTabs.Size = new System.Drawing.Size(1354, 143);
             this.mainTabs.TabIndex = 16;
             // 
             // tabPage1
@@ -346,7 +346,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1896, 117);
+            this.tabPage1.Size = new System.Drawing.Size(1346, 117);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Configuration";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -416,10 +416,69 @@
             this.generateTab.Controls.Add(this.stop);
             this.generateTab.Location = new System.Drawing.Point(4, 22);
             this.generateTab.Name = "generateTab";
-            this.generateTab.Size = new System.Drawing.Size(1896, 117);
+            this.generateTab.Size = new System.Drawing.Size(1346, 117);
             this.generateTab.TabIndex = 2;
             this.generateTab.Text = "Generate";
             this.generateTab.UseVisualStyleBackColor = true;
+            // 
+            // yearInstructions
+            // 
+            this.yearInstructions.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.yearInstructions.AutoSize = true;
+            this.yearInstructions.Location = new System.Drawing.Point(360, 14);
+            this.yearInstructions.Name = "yearInstructions";
+            this.yearInstructions.Size = new System.Drawing.Size(289, 26);
+            this.yearInstructions.TabIndex = 27;
+            this.yearInstructions.Text = "Enter a year into the text box or choose from the drop down.\r\nIf neither have val" +
+    "ues, 400 will be used.";
+            // 
+            // setYearsDropDown
+            // 
+            this.setYearsDropDown.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.setYearsDropDown.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.setYearsDropDown.FormattingEnabled = true;
+            this.setYearsDropDown.ImeMode = System.Windows.Forms.ImeMode.Disable;
+            this.setYearsDropDown.Items.AddRange(new object[] {
+            "769",
+            "867",
+            "1066",
+            "1081",
+            "1241",
+            "1337"});
+            this.setYearsDropDown.Location = new System.Drawing.Point(459, 81);
+            this.setYearsDropDown.Name = "setYearsDropDown";
+            this.setYearsDropDown.Size = new System.Drawing.Size(121, 21);
+            this.setYearsDropDown.TabIndex = 26;
+            // 
+            // label15
+            // 
+            this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(362, 84);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(91, 13);
+            this.label15.TabIndex = 25;
+            this.label15.Text = "Generation dates:";
+            // 
+            // label14
+            // 
+            this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(387, 55);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(66, 13);
+            this.label14.TabIndex = 24;
+            this.label14.Text = "Generate till:";
+            // 
+            // customYearInput
+            // 
+            this.customYearInput.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.customYearInput.ImeMode = System.Windows.Forms.ImeMode.Disable;
+            this.customYearInput.Location = new System.Drawing.Point(459, 52);
+            this.customYearInput.MaxLength = 4;
+            this.customYearInput.Name = "customYearInput";
+            this.customYearInput.Size = new System.Drawing.Size(121, 20);
+            this.customYearInput.TabIndex = 23;
             // 
             // generationOptionTabs
             // 
@@ -434,7 +493,7 @@
             this.generationOptionTabs.Location = new System.Drawing.Point(3, 3);
             this.generationOptionTabs.Name = "generationOptionTabs";
             this.generationOptionTabs.SelectedIndex = 0;
-            this.generationOptionTabs.Size = new System.Drawing.Size(869, 111);
+            this.generationOptionTabs.Size = new System.Drawing.Size(319, 111);
             this.generationOptionTabs.TabIndex = 4;
             // 
             // tabPage4
@@ -448,7 +507,7 @@
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(861, 85);
+            this.tabPage4.Size = new System.Drawing.Size(311, 85);
             this.tabPage4.TabIndex = 0;
             this.tabPage4.Text = "Government";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -748,7 +807,7 @@
             // addYear
             // 
             this.addYear.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.addYear.Location = new System.Drawing.Point(1216, 14);
+            this.addYear.Location = new System.Drawing.Point(666, 14);
             this.addYear.Margin = new System.Windows.Forms.Padding(2);
             this.addYear.Name = "addYear";
             this.addYear.Size = new System.Drawing.Size(79, 27);
@@ -760,7 +819,7 @@
             // addDecade
             // 
             this.addDecade.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.addDecade.Location = new System.Drawing.Point(1299, 14);
+            this.addDecade.Location = new System.Drawing.Point(749, 14);
             this.addDecade.Margin = new System.Windows.Forms.Padding(2);
             this.addDecade.Name = "addDecade";
             this.addDecade.Size = new System.Drawing.Size(79, 27);
@@ -775,7 +834,7 @@
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Controls.Add(this.modname);
             this.groupBox2.Controls.Add(this.exportButton);
-            this.groupBox2.Location = new System.Drawing.Point(1404, 47);
+            this.groupBox2.Location = new System.Drawing.Point(854, 47);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(485, 65);
             this.groupBox2.TabIndex = 0;
@@ -785,7 +844,7 @@
             // resetButton
             // 
             this.resetButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.resetButton.Location = new System.Drawing.Point(1805, 14);
+            this.resetButton.Location = new System.Drawing.Point(1255, 14);
             this.resetButton.Margin = new System.Windows.Forms.Padding(2);
             this.resetButton.Name = "resetButton";
             this.resetButton.Size = new System.Drawing.Size(79, 27);
@@ -797,7 +856,7 @@
             // button2
             // 
             this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button2.Location = new System.Drawing.Point(1793, 0);
+            this.button2.Location = new System.Drawing.Point(1243, 0);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(104, 23);
             this.button2.TabIndex = 16;
@@ -824,14 +883,14 @@
             this.splitContainer1.Panel2.Controls.Add(this.button2);
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
             this.splitContainer1.Panel2.Controls.Add(this.toolStrip1);
-            this.splitContainer1.Size = new System.Drawing.Size(1904, 1018);
+            this.splitContainer1.Size = new System.Drawing.Size(1354, 709);
             this.splitContainer1.SplitterDistance = 143;
             this.splitContainer1.TabIndex = 2;
             // 
             // addBookmark
             // 
             this.addBookmark.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.addBookmark.Location = new System.Drawing.Point(1573, 0);
+            this.addBookmark.Location = new System.Drawing.Point(1023, 0);
             this.addBookmark.Name = "addBookmark";
             this.addBookmark.Size = new System.Drawing.Size(104, 23);
             this.addBookmark.TabIndex = 17;
@@ -842,7 +901,7 @@
             // rerollName
             // 
             this.rerollName.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.rerollName.Location = new System.Drawing.Point(1683, 0);
+            this.rerollName.Location = new System.Drawing.Point(1133, 0);
             this.rerollName.Name = "rerollName";
             this.rerollName.Size = new System.Drawing.Size(104, 23);
             this.rerollName.TabIndex = 16;
@@ -863,8 +922,8 @@
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.Controls.Add(this.splitContainer4);
-            this.splitContainer2.Size = new System.Drawing.Size(1904, 846);
-            this.splitContainer2.SplitterDistance = 302;
+            this.splitContainer2.Size = new System.Drawing.Size(1354, 537);
+            this.splitContainer2.SplitterDistance = 214;
             this.splitContainer2.TabIndex = 1;
             // 
             // splitContainer3
@@ -881,9 +940,22 @@
             // splitContainer3.Panel2
             // 
             this.splitContainer3.Panel2.Controls.Add(this.propertyGrid);
-            this.splitContainer3.Size = new System.Drawing.Size(302, 846);
-            this.splitContainer3.SplitterDistance = 465;
+            this.splitContainer3.Size = new System.Drawing.Size(214, 537);
+            this.splitContainer3.SplitterDistance = 295;
             this.splitContainer3.TabIndex = 0;
+            // 
+            // inspectTree
+            // 
+            this.inspectTree.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.inspectTree.ImageIndex = 0;
+            this.inspectTree.ImageList = this.imageList1;
+            this.inspectTree.Location = new System.Drawing.Point(0, 0);
+            this.inspectTree.Name = "inspectTree";
+            this.inspectTree.SelectedImageIndex = 0;
+            this.inspectTree.SelectedNodes = ((System.Collections.Generic.List<System.Windows.Forms.TreeNode>)(resources.GetObject("inspectTree.SelectedNodes")));
+            this.inspectTree.Size = new System.Drawing.Size(214, 295);
+            this.inspectTree.TabIndex = 0;
+            this.inspectTree.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.inspectTree_AfterSelect);
             // 
             // imageList1
             // 
@@ -901,7 +973,7 @@
             this.propertyGrid.LineColor = System.Drawing.SystemColors.ControlDark;
             this.propertyGrid.Location = new System.Drawing.Point(0, 0);
             this.propertyGrid.Name = "propertyGrid";
-            this.propertyGrid.Size = new System.Drawing.Size(302, 377);
+            this.propertyGrid.Size = new System.Drawing.Size(214, 238);
             this.propertyGrid.TabIndex = 0;
             this.propertyGrid.PropertyValueChanged += new System.Windows.Forms.PropertyValueChangedEventHandler(this.propertyGrid_PropertyValueChanged);
             // 
@@ -919,9 +991,26 @@
             // splitContainer4.Panel2
             // 
             this.splitContainer4.Panel2.Controls.Add(this.logView);
-            this.splitContainer4.Size = new System.Drawing.Size(1598, 846);
-            this.splitContainer4.SplitterDistance = 632;
+            this.splitContainer4.Size = new System.Drawing.Size(1136, 537);
+            this.splitContainer4.SplitterDistance = 401;
             this.splitContainer4.TabIndex = 1;
+            // 
+            // renderPanel
+            // 
+            this.renderPanel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.renderPanel.Location = new System.Drawing.Point(0, 0);
+            this.renderPanel.Margin = new System.Windows.Forms.Padding(2);
+            this.renderPanel.Name = "renderPanel";
+            this.renderPanel.Size = new System.Drawing.Size(1136, 401);
+            this.renderPanel.TabIndex = 0;
+            this.renderPanel.TabStop = false;
+            this.renderPanel.Click += new System.EventHandler(this.renderPanel_Click);
+            this.renderPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.renderPanel_Paint);
+            this.renderPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.renderPanel_MouseDown);
+            this.renderPanel.MouseHover += new System.EventHandler(this.renderPanel_MouseHover);
+            this.renderPanel.MouseMove += new System.Windows.Forms.MouseEventHandler(this.renderPanel_MouseMove);
+            this.renderPanel.MouseUp += new System.Windows.Forms.MouseEventHandler(this.renderPanel_MouseUp);
+            this.renderPanel.Resize += new System.EventHandler(this.renderPanel_Resize);
             // 
             // logView
             // 
@@ -929,7 +1018,7 @@
             this.logView.FormattingEnabled = true;
             this.logView.Location = new System.Drawing.Point(0, 0);
             this.logView.Name = "logView";
-            this.logView.Size = new System.Drawing.Size(1598, 210);
+            this.logView.Size = new System.Drawing.Size(1136, 132);
             this.logView.TabIndex = 0;
             // 
             // toolStrip1
@@ -952,7 +1041,7 @@
             this.CaptureMode});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(1904, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(1354, 25);
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -1058,7 +1147,7 @@
             // toolStripLabel3
             // 
             this.toolStripLabel3.Name = "toolStripLabel3";
-            this.toolStripLabel3.Size = new System.Drawing.Size(38, 22);
+            this.toolStripLabel3.Size = new System.Drawing.Size(39, 22);
             this.toolStripLabel3.Text = "Tools:";
             // 
             // selectMode
@@ -1099,7 +1188,7 @@
             this.fileToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1904, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1354, 24);
             this.menuStrip1.TabIndex = 17;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -1118,95 +1207,11 @@
             this.saveProjectToolStripMenuItem.Text = "Save Project...";
             this.saveProjectToolStripMenuItem.Click += new System.EventHandler(this.saveProjectToolStripMenuItem_Click_1);
             // 
-            // yearInstructions
-            // 
-            this.yearInstructions.AutoSize = true;
-            this.yearInstructions.Location = new System.Drawing.Point(902, 14);
-            this.yearInstructions.Name = "yearInstructions";
-            this.yearInstructions.Size = new System.Drawing.Size(289, 26);
-            this.yearInstructions.TabIndex = 27;
-            this.yearInstructions.Text = "Enter a year into the text box or choose from the drop down.\r\nIf neither have val" +
-    "ues, 400 will be used.";
-            // 
-            // setYearsDropDown
-            // 
-            this.setYearsDropDown.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.setYearsDropDown.FormattingEnabled = true;
-            this.setYearsDropDown.ImeMode = System.Windows.Forms.ImeMode.Disable;
-            this.setYearsDropDown.Items.AddRange(new object[] {
-            "769",
-            "867",
-            "1066",
-            "1081",
-            "1241",
-            "1337"});
-            this.setYearsDropDown.Location = new System.Drawing.Point(999, 83);
-            this.setYearsDropDown.Name = "setYearsDropDown";
-            this.setYearsDropDown.Size = new System.Drawing.Size(121, 21);
-            this.setYearsDropDown.TabIndex = 26;
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(902, 86);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(91, 13);
-            this.label15.TabIndex = 25;
-            this.label15.Text = "Generation dates:";
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(927, 57);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(66, 13);
-            this.label14.TabIndex = 24;
-            this.label14.Text = "Generate till:";
-            // 
-            // customYearInput
-            // 
-            this.customYearInput.ImeMode = System.Windows.Forms.ImeMode.Disable;
-            this.customYearInput.Location = new System.Drawing.Point(999, 54);
-            this.customYearInput.MaxLength = 4;
-            this.customYearInput.Name = "customYearInput";
-            this.customYearInput.Size = new System.Drawing.Size(121, 20);
-            this.customYearInput.TabIndex = 23;
-            // 
-            // inspectTree
-            // 
-            this.inspectTree.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.inspectTree.ImageIndex = 0;
-            this.inspectTree.ImageList = this.imageList1;
-            this.inspectTree.Location = new System.Drawing.Point(0, 0);
-            this.inspectTree.Name = "inspectTree";
-            this.inspectTree.SelectedImageIndex = 0;
-            this.inspectTree.SelectedNodes = ((System.Collections.Generic.List<System.Windows.Forms.TreeNode>)(resources.GetObject("inspectTree.SelectedNodes")));
-            this.inspectTree.Size = new System.Drawing.Size(302, 465);
-            this.inspectTree.TabIndex = 0;
-            this.inspectTree.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.inspectTree_AfterSelect);
-            // 
-            // renderPanel
-            // 
-            this.renderPanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.renderPanel.Location = new System.Drawing.Point(0, 0);
-            this.renderPanel.Margin = new System.Windows.Forms.Padding(2);
-            this.renderPanel.Name = "renderPanel";
-            this.renderPanel.Size = new System.Drawing.Size(1598, 632);
-            this.renderPanel.TabIndex = 0;
-            this.renderPanel.TabStop = false;
-            this.renderPanel.Click += new System.EventHandler(this.renderPanel_Click);
-            this.renderPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.renderPanel_Paint);
-            this.renderPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.renderPanel_MouseDown);
-            this.renderPanel.MouseHover += new System.EventHandler(this.renderPanel_MouseHover);
-            this.renderPanel.MouseMove += new System.Windows.Forms.MouseEventHandler(this.renderPanel_MouseMove);
-            this.renderPanel.MouseUp += new System.Windows.Forms.MouseEventHandler(this.renderPanel_MouseUp);
-            this.renderPanel.Resize += new System.EventHandler(this.renderPanel_Resize);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1904, 1042);
+            this.ClientSize = new System.Drawing.Size(1354, 733);
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.menuStrip1);
             this.Margin = new System.Windows.Forms.Padding(2);
@@ -1249,11 +1254,11 @@
             this.splitContainer4.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer4)).EndInit();
             this.splitContainer4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.renderPanel)).EndInit();
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.renderPanel)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
