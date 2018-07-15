@@ -1155,7 +1155,7 @@ namespace CrusaderKingsStoryGen
 
                             if (MapMode == MapModeType.Religion)
                             {
-                                col = provinceParser.Religion.color;
+                                col = provinceParser.Religion.Color;
                             }
                             if (MapMode == MapModeType.Government && provinceParser.Title != null)
                             {

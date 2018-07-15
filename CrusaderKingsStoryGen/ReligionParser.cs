@@ -1,172 +1,178 @@
-﻿using System;
+﻿using CrusaderKingsStoryGen.Simulation;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Xml;
-using CrusaderKingsStoryGen.Simulation;
 
 namespace CrusaderKingsStoryGen
 {
     class ReligionParser : Parser
     {
         public ReligionGroupParser Group;
-       
-        private ProvinceParser capital;
-        public bool Modern { get; set; }
+        public ProvinceParser capital;
+        public TitleParser ReligiousHeadTitle { get; set; }
+
+        public string LanguageName { get; set; }
+
+        public string PopeName { get; set; }
+
+        public List<String> gods = new List<string>();
+        public List<String> evilgods = new List<string>();
+
+        public string high_god_name;
+        public string devil;
+        public string priest;
+        public string scripture_name;
+        public string crusade_name;
+        public string god;
+        public string egods;
+        public string safecrusade_name;
+        public string safescripture_name;
+        public string safepriest;
+        public string safehigh_god_name;
+
+        public int Resilience = 0;
+        public int icon = 0;
+        public int heresy_icon = 0;
+        public int ai_convert_other_group = 0;
+        public int religious_clothing_head = 0;
+        public int religious_clothing_priest = 0;
+        public int max_wives = 1;
+        public int max_consorts = 3;
+
+        public bool investiture = false;
+        public bool can_have_antipopes = false;
+        public bool can_excommunicate = false;
+        public bool can_grant_divorce = false;
+        public bool can_grant_claim = false;
+        public bool can_call_crusade = false;
+        public bool can_retire_to_monastery = false;
+        public bool priests_can_inherit = true;
+        public bool can_hold_temples = true;
+        public bool pacifist = false;
+        public bool bs_marriage = false;
+        public bool pc_marriage = false;
+        public bool psc_marriage = false;
+        public bool cousin_marriage = false;
+        public bool matrilineal_marriages = true;
+        public bool allow_viking_invasion = false;
+        public bool allow_looting = true;
+        public bool allow_rivermovement = true;
+        public bool female_temple_holders = true;
+        public bool autocephaly = false;
+        public bool divine_blood = false;
+        public bool has_heir_designation = false;
+        public bool peace_prestige_loss = false;
+        public bool hasLeader = false;
+        public bool polytheism = true;
+        public bool uses_decadence = false;
+        public bool uses_jizya_tax = false;
+        public bool intermarry = true;
+
+        private CulturalDna dna;
+
+        public int r;
+        public int g;
+        public int b;
+
+        public Color Color
+        {
+            get { return Color.FromArgb(255, r, g, b); }
+            set
+            {
+                r = value.R;
+                g = value.G;
+                b = value.B;
+            }
+        }
+
         public HashSet<ProvinceParser> holySites = new HashSet<ProvinceParser>();
+
         public ReligionParser(ScriptScope scope) : base(scope)
         {
             Name = scope.Name;
         }
 
-        private bool dirty = true;
-        Rectangle _bounds = new Rectangle();
-        public Rectangle Bounds
-        {
-            get
-            {
-                if (dirty)
-                    _bounds = GetBounds();
-                dirty = false;
-                return _bounds;
-            }
-        }
-
-        public Point TextPos
-        {
-            get
-            {
-                if (dirty)
-                    _bounds = GetBounds();
-                dirty = false;
-
-                return _textPos;
-            }
-            set { _textPos = value; }
-        }
-
-        public Rectangle GetBounds()
-        {
-            var prov = Provinces;
-
-            float avx = 0;
-            float avy = 0;
-
-            Rectangle tot = Rectangle.Empty;
-            foreach (var provinceParser in prov)
-            {
-                int cx = provinceParser.Bounds.X + (provinceParser.Bounds.Width / 2);
-                int cy = provinceParser.Bounds.Y + (provinceParser.Bounds.Height / 2);
-
-                avx += cx;
-                avy += cy;
-
-
-                if (tot.Width == 0)
-                    tot = provinceParser.Bounds;
-                else
-                {
-                    if (tot.Left > provinceParser.Bounds.Left)
-                    {
-                        int right = tot.Right;
-                        tot.X = provinceParser.Bounds.Left;
-                        tot.Width = (right - tot.X);
-                    }
-                    if (tot.Top > provinceParser.Bounds.Top)
-                    {
-                        int right = tot.Top;
-                        tot.Y = provinceParser.Bounds.Top;
-                        tot.Height = (right - tot.Y);
-                    }
-                    if (tot.Right < provinceParser.Bounds.Right)
-                    {
-                        tot.Width = provinceParser.Bounds.Right - tot.X;
-                    }
-
-                    if (tot.Bottom < provinceParser.Bounds.Bottom)
-                    {
-                        tot.Height = provinceParser.Bounds.Bottom - tot.Y;
-                    }
-                }
-            }
-            avx /= prov.Count;
-            avy /= prov.Count;
-            TextPos = new Point((int)avx, (int)avy);
-            return tot;
-        }
-        public override ScriptScope CreateScope()
-        {
-            return null;
-        }
-  
         public ReligionParser BranchReligion(String name)
         {
             ScriptScope scope = new ScriptScope();
             scope.Name = name;
             Group.Scope.Add(scope);
+
             ReligionParser r = new ReligionParser(scope);
             r.Group = Group;
+
             ReligionManager.instance.AllReligions.Add(r);
+
             return r;
         }
 
-       
         public void RandomReligionProperties()
         {
-            this.divine_blood = Rand.Next(2) == 0;
-            this.female_temple_holders =Rand.Next(2)==0;
-            this.priests_can_inherit = Rand.Next(2) == 0;
+            divine_blood = Rand.Next(2) == 0;
+            female_temple_holders = Rand.Next(2) == 0;
+            priests_can_inherit = Rand.Next(2) == 0;
             
             matrilineal_marriages = Rand.Next(4) != 0;
             
             bool warLike = Rand.Next(4) != 0;
+
             if(Rand.Next(2)==0)
                 Resilience = Rand.Next(2);
             else
                 Resilience = Rand.Next(5);
+
             if (warLike)
             {
-                this.allow_looting = true;
-                this.allow_viking_invasion = true;
-                this.can_call_crusade = true;
+                allow_looting = true;
+                allow_viking_invasion = true;
+                can_call_crusade = true;
+
                 if (Rand.Next(2) == 0)
                 {
-                    this.peace_prestige_loss = true;
+                    peace_prestige_loss = true;
                 }
             }
+
             else
             {
                 if (Rand.Next(5) == 0)
                 {
-                    this.pacifist = true;
+                    pacifist = true;
                 }
-                if(Rand.Next(2)==0)
-                    this.can_call_crusade = false;
+
+                if (Rand.Next(2) == 0)
+                {
+                    can_call_crusade = false;
+                }
+                    
             }
 
             this.polytheism = Rand.Next(2) == 0;
-         //   this.polytheism = true;
-            if (polytheism)
-                this.hasLeader = Rand.Next(3) != 0;
-            else
-                this.hasLeader = true;
-         
-            this.can_grant_claim = Rand.Next(3) != 0;
-            this.can_grant_divorce = Rand.Next(2) != 0;
-            this.can_excommunicate = Rand.Next(2) != 0;
-            this.can_hold_temples = Rand.Next(3) != 0;
-            this.can_retire_to_monastery = Rand.Next(2) != 0;
-            this.can_have_antipopes = Rand.Next(2) != 0 && hasLeader;
-            this.autocephaly = Rand.Next(3) == 0;
-            investiture = Rand.Next(2) == 0 && hasLeader;
-            this.icon = Rand.Next(52) + 1;
-            this.heresy_icon = Rand.Next(52) + 1;
-            if (Rand.Next(2) == 0)
-                this.ai_convert_other_group = 0;
-            else
-                this.ai_convert_other_group = 2;
 
-            this.has_heir_designation = Rand.Next(4) == 0;
+            if (polytheism)
+                hasLeader = Rand.Next(3) != 0;
+            else
+                hasLeader = true;
+
+            can_grant_claim = Rand.Next(3) != 0;
+            can_grant_divorce = Rand.Next(2) != 0;
+            can_excommunicate = Rand.Next(2) != 0;
+            can_hold_temples = Rand.Next(3) != 0;
+            can_retire_to_monastery = Rand.Next(2) != 0;
+            can_have_antipopes = Rand.Next(2) != 0 && hasLeader;
+            autocephaly = Rand.Next(3) == 0;
+            investiture = Rand.Next(2) == 0 && hasLeader;
+            icon = Rand.Next(52) + 1;
+            heresy_icon = Rand.Next(52) + 1;
+
+            if (Rand.Next(2) == 0)
+                ai_convert_other_group = 0;
+            else
+                ai_convert_other_group = 2;
+
+            has_heir_designation = Rand.Next(4) == 0;
 
             if (Rand.Next(2) == 0)
             {
@@ -175,9 +181,9 @@ namespace CrusaderKingsStoryGen
                     max_consorts = 1 + Rand.Next(5);
 
                 }
+
                 else
                 {
-
                     {
                         max_wives = 2 + Rand.Next(4);
                     }
@@ -187,12 +193,12 @@ namespace CrusaderKingsStoryGen
 
             if (Rand.Next(6) == 0)
             {
-                this.bs_marriage = !bs_marriage;
-                if (Rand.Next(3) == 0)
-                    this.pc_marriage = bs_marriage;
-            }
+                bs_marriage = !bs_marriage;
 
-          
+                if (Rand.Next(3) == 0)
+
+                    pc_marriage = bs_marriage;
+            }
 
             religious_clothing_head = Rand.Next(4);
             religious_clothing_priest = Rand.Next(4);
@@ -200,8 +206,6 @@ namespace CrusaderKingsStoryGen
 
         public void TryFillHolySites()
         {
-           
-          
             if (holySites.Count >= 5)
             {
               
@@ -215,12 +219,10 @@ namespace CrusaderKingsStoryGen
 
             while (holySites.Count < 5)
             {
-
                 var chosen = Provinces[Rand.Next(Provinces.Count)];
+
                 if (holySites.Count == Provinces.Count)
                 {
-                    if (holySites.Count < 5)
-                        IncompleteReligion = true;
                     break;
                 }
 
@@ -240,47 +242,43 @@ namespace CrusaderKingsStoryGen
             }
         }
 
-        public bool IncompleteReligion { get; set; }
-
-        public List<String> gods = new List<string>();
-        List<String> evilgods = new List<string>();
-
-        public void CreateRandomReligion(ReligionGroupParser group)
+        public void CreateNewReligion()
         {
             String culture = "";
+
             CulturalDna dna = null;
-            if (this.capital == null)
+
+            if (capital == null)
             {
                 dna = CulturalDnaManager.instance.GetVanillaCulture((string) null);
             }
+
             else
             {
                 culture = capital.Title.Holder.culture;
+
                 dna = CultureManager.instance.CultureMap[culture].dna;
             }
-            RandomReligionProperties();
-      //     Modern = true;
+
+            //RandomReligionProperties();
+
             int r = Rand.Next(255);
             int g = Rand.Next(255);
             int b = Rand.Next(255);
+
             string god = dna.GetGodName();
             string devil = dna.GetPlaceName();
             string priest = dna.GetPlaceName();
-            this.priest = priest;
-            high_god_name = dna.GetGodName();
             string scripture_name = dna.GetPlaceName();
             string crusade_name = dna.GetPlaceName();
 
-            this.high_god_name = god;
+            high_god_name = god;
             
             this.devil = devil;
             this.priest = priest;
             this.scripture_name = scripture_name;
             this.crusade_name = crusade_name;
-  if (Name == "sanappa")
-            {
-                int gfdgdf = 0;
-            }
+
             DoReligionScope(god, devil, priest, scripture_name, crusade_name, dna, r, g, b);
         }
 
@@ -289,8 +287,7 @@ namespace CrusaderKingsStoryGen
             DoReligionScope(god, devil, priest, scripture_name, crusade_name, dna, r, g, b, false);
         }
 
-        private void DoReligionScope(string god, string devil, string priest, string scripture_name, string crusade_name,
-            CulturalDna dna, int r, int g, int b, bool bNew = true)
+        private void DoReligionScope(string god, string devil, string priest, string scripture_name, string crusade_name, CulturalDna dna, int r, int g, int b, bool bNew = true)
         {
             string safegod = StarNames.SafeName(god);
             string safedevil = StarNames.SafeName(devil);
@@ -298,17 +295,19 @@ namespace CrusaderKingsStoryGen
             string safehigh_god_name = StarNames.SafeName(high_god_name);
             string safescripture_name = StarNames.SafeName(scripture_name);
             string safecrusade_name = StarNames.SafeName(crusade_name);
+
             String desc = "";
+
             this.god = god;
             this.devil = devil;
             this.scripture_name = scripture_name;
+
             if (!polytheism)
                 desc = "All praise the almighty " + high_god_name + "!";
             else
                 desc = "The Gods smile upon you.";
 
-            LanguageManager.instance.Add(this.Name + "_DESC", desc);
-
+            LanguageManager.instance.Add(Name + "_DESC", desc);
             LanguageManager.instance.Add(safegod, god);
             LanguageManager.instance.Add(safedevil, devil);
             LanguageManager.instance.Add(safepriest, priest);
@@ -321,6 +320,7 @@ namespace CrusaderKingsStoryGen
             this.b = b;
 
             String gods = "";
+
             if(bNew)
             {
                 for (int n = 0; n < 10; n++)
@@ -335,17 +335,17 @@ namespace CrusaderKingsStoryGen
             }
 
             String egods = "";
+
             if (bNew)
                 for (int n = 0; n < 5; n++)
             {
                 string go = dna.GetGodName();
                 var sg = StarNames.SafeName(go);
                 LanguageManager.instance.Add(sg, go);
-                this.evilgods.Add(sg);
+                evilgods.Add(sg);
 
                 egods += sg + " ";
             }
-
 
             if (!polytheism)
             {
@@ -362,17 +362,12 @@ namespace CrusaderKingsStoryGen
             this.safepriest = safepriest;
             this.safehigh_god_name = safehigh_god_name;
             this.egods = egods;
+
             if (max_wives > 1 && max_consorts > 0)
                 max_consorts = 0;
-            if (Name == "sanappa")
-            {
-                int gfdgdf = 0;
-            }
 
             ScopeReligionDetails();
         }
-
-        public bool intermarry ;
   
         public void ScopeReligionDetails()
         {
@@ -411,15 +406,13 @@ namespace CrusaderKingsStoryGen
 		            can_retire_to_monastery  = " + (can_retire_to_monastery ? "yes" : "no") + @"
 		            priests_can_inherit  = " + (priests_can_inherit ? "yes" : "no") + @"
 		            can_hold_temples  = " + (can_hold_temples ? "yes" : "no") + @"
-		            pacifist  = " + (pacifist ? "yes" : "no") + @"
-		           
+		            pacifist  = " + (pacifist ? "yes" : "no") + @"  
                     bs_marriage  = " + (bs_marriage ? "yes" : "no") + @"
 		            pc_marriage  = " + (pc_marriage ? "yes" : "no") + @"
 		            psc_marriage  = " + (psc_marriage ? "yes" : "no") + @"
 		            cousin_marriage  = " + (cousin_marriage ? "yes" : "no") + @"
 		            matrilineal_marriages  = " + (matrilineal_marriages ? "yes" : "no") + @"
 		            intermarry  = " + (intermarry ? "yes" : "no") + @"
- 
 		            allow_viking_invasion  = " + (allow_viking_invasion ? "yes" : "no") + @"
 		            allow_looting  = " + (allow_looting ? "yes" : "no") + @"
 		            allow_rivermovement  = " + (allow_rivermovement ? "yes" : "no") + @"
@@ -427,128 +420,74 @@ namespace CrusaderKingsStoryGen
 		            autocephaly  = " + (autocephaly ? "yes" : "no") + @"
 		            divine_blood  = " + (divine_blood ? "yes" : "no") + @"
 		            has_heir_designation  = " + (has_heir_designation ? "yes" : "no") + @"
-		            peace_prestige_loss  = " + (peace_prestige_loss ? "yes" : "no") + @"
-		         
+		            peace_prestige_loss  = " + (peace_prestige_loss ? "yes" : "no") + @"	         
 		            " + (max_consorts > 0 ? ("max_consorts = " + max_consorts.ToString()) : "") + @"
-		
                     max_wives  = " + max_wives + @"
 		            uses_decadence = " + (uses_decadence ? "yes" : "no") + @"
                     uses_jizya_tax = " + (uses_jizya_tax ? "yes" : "no") + @"
-          
-                    can_grant_invasion_cb = invasion
-		            
+                    can_grant_invasion_cb = invasion           
 		            religious_clothing_head = " + religious_clothing_head + @"
 		            religious_clothing_priest = " + religious_clothing_priest + @"
 ");
         }
 
-        public int icon = 0;
-        public int heresy_icon = 0;
-        public int ai_convert_other_group = 0;
-        public int religious_clothing_head = 0;
-        public int religious_clothing_priest = 1;
-        public int max_wives = 1;
-        public int max_consorts = 0;
-        internal bool investiture = true;
-        internal bool can_have_antipopes = true;
-        internal bool can_excommunicate = true;
-        internal bool can_grant_divorce = true;
-        internal bool can_grant_claim = true;
-        public bool can_call_crusade = true;
-        internal bool can_retire_to_monastery = true;
-        internal bool priests_can_inherit = false;
-        internal bool can_hold_temples = true;
-        public bool pacifist = false;
-        internal bool bs_marriage = false;
-        internal bool pc_marriage = false;
-        internal bool psc_marriage = true;
-        internal bool cousin_marriage = true;
-        internal bool matrilineal_marriages = true;
-
-
-        public bool allow_viking_invasion = false;
-        public bool allow_looting = false;
-        internal bool allow_rivermovement = false;
-        internal bool female_temple_holders = false;
-        public bool autocephaly = false;
-        internal bool divine_blood = false;
-        internal bool has_heir_designation = false;
-        internal bool peace_prestige_loss = false;
-        public bool hasLeader = true;
-        public string LanguageName { get; set; }
-        public int Resilience = 0;
-        public bool polytheism = true;
-        public string high_god_name;
-        private string devil;
-        public string priest;
-        public string scripture_name;
-        public string crusade_name;
-        public int r;
-        public int g;
-        public int b;
-        private CulturalDna dna;
-        public bool uses_decadence;
-        private bool uses_jizya_tax;
-
-
         public void DoLeader(ProvinceParser capital)
         {
-        
-
                 String popeName = StarNames.SafeName(StarNames.Generate(10000000));
 
                 LanguageManager.instance.Add(popeName, StarNames.Generate(10000000));
 
-                this.PopeName = popeName;
+                PopeName = popeName;
                 TitleParser title = null;
                 bool bNew = false;
                 ReligiousHeadTitle = null;
+
                 if (ReligiousHeadTitle == null)
                 {
                     bNew = true;
+
                     switch (Rand.Next(8))
                     {
+                        case 0:
+                        case 1:
+                        case 2:
+                        case 3:
+                            title = TitleManager.instance.CreateKingScriptScope(capital, Name);
+                            break;
+                        case 4:
+                            title = TitleManager.instance.CreateEmpireScriptScope(capital, Name);
+                            break;
                         case 5:
                         case 6:
                         case 7:
-                        case 0:
-                            title = TitleManager.instance.CreateKingScriptScope(capital, Name);
-                            break;
-                        case 1:
-                            title = TitleManager.instance.CreateEmpireScriptScope(capital, Name);
-                            break;
-                        case 2:
-                        case 3:
-                        case 4:
                             title = TitleManager.instance.CreateDukeScriptScope(capital, Name);
                             break;
                     }
-                    ReligiousHeadTitle = title;
 
+                    ReligiousHeadTitle = title;
                 }
 
                 ReligiousHeadTitle.Religious = true;
                 ReligiousHeadTitle.Active = true;
                 ReligiousHeadTitle.religion = Name;
+
                 TitleManager.instance.ReligiousTitles.Add(ReligiousHeadTitle);
-                //  ch.UpdateCultural();
+
                 if (bNew)
                 {
                     var ch = SimulationManager.instance.AddCharacterForTitle(ReligiousHeadTitle, true);
                     ch.religion = Name;
                     ch.UpdateCultural();
-                   /* var liege = ReligiousHeadTitle.CapitalProvince.Title;
-                    if (Rand.Next(3) == 0)
-                        ch.GiveTitle(ReligiousHeadTitle.CapitalProvince.Title);
-                        */
-             //       CharacterManager.instance.Characters.Add(ch);
+
                 }
+
                 String religious_names = "";
 
                 for (int n = 0; n < 40; n++)
                 {
                     religious_names = CultureManager.instance.CultureMap[ReligiousHeadTitle.Holder.culture].dna.GetMaleName() + " ";
                 }
+
                 ReligiousHeadTitle.Scope.Do(@"
 
 	        title = """ + popeName + @"""
@@ -564,18 +503,9 @@ namespace CrusaderKingsStoryGen
 
 ");
 
-
-
-                LanguageManager.instance.Add(ReligiousHeadTitle.Name, this.LanguageName);
-      
-
+            LanguageManager.instance.Add(ReligiousHeadTitle.Name, this.LanguageName);
         }
 
-        public string PopeName { get; set; }
-
-        public TitleParser ReligiousHeadTitle { get; set; }
-
- 
         public void MakeChange()
         {
             switch (Rand.Next(24))
@@ -583,61 +513,66 @@ namespace CrusaderKingsStoryGen
                 case 0:
                 {
                     bool warLike = Rand.Next(2) == 0;
+
                     if (Rand.Next(2) == 0)
                         Resilience = Rand.Next(2);
                     else
                         Resilience = Rand.Next(5);
+
                     if (warLike)
                     {
-                        this.allow_looting = true;
-                        this.allow_viking_invasion = true;
-                        this.can_call_crusade = true;
+                        allow_looting = true;
+                        allow_viking_invasion = true;
+                        can_call_crusade = true;
+
                         if (Rand.Next(2) == 0)
                         {
-                            this.peace_prestige_loss = true;
+                            peace_prestige_loss = true;
                         }
                     }
+
                     else
                     {
                         if (Rand.Next(5) == 0)
                         {
-                            this.pacifist = true;
+                            pacifist = true;
                         }
+
                         if (Rand.Next(2) == 0)
-                            this.can_call_crusade = false;
+                            can_call_crusade = false;
                     }
                 }
                     break;
                 case 1:
-                    this.can_grant_claim = Rand.Next(3) != 0;
+                    can_grant_claim = Rand.Next(3) != 0;
                     break;
                 case 2:
-                    this.can_grant_divorce = Rand.Next(2) != 0;
+                    can_grant_divorce = Rand.Next(2) != 0;
                     break;
                 case 3:
-                    this.can_excommunicate = Rand.Next(2) != 0;
+                    can_excommunicate = Rand.Next(2) != 0;
                     break;
                 case 4:
-                    this.can_hold_temples = Rand.Next(3) != 0;
+                    can_hold_temples = Rand.Next(3) != 0;
                     break;
                 case 5:
-                    this.can_retire_to_monastery = Rand.Next(2) != 0;
+                    can_retire_to_monastery = Rand.Next(2) != 0;
                     break;
                 case 6:
-                    this.can_have_antipopes = Rand.Next(2) != 0 && hasLeader;
+                    can_have_antipopes = Rand.Next(2) != 0 && hasLeader;
                     break;
                 case 7:
                     investiture = Rand.Next(2) == 0 && hasLeader;
                     break;
                 case 8:
                     if (Rand.Next(2) == 0)
-                        this.ai_convert_other_group = 0;
+                        ai_convert_other_group = 0;
                     else
-                        this.ai_convert_other_group = 2;
+                        ai_convert_other_group = 2;
                     break;
                 case 9:
 
-                    this.has_heir_designation = Rand.Next(4) == 0;
+                    has_heir_designation = Rand.Next(4) == 0;
 
                     break;
                 case 10:
@@ -647,97 +582,67 @@ namespace CrusaderKingsStoryGen
                         if (Rand.Next(2) == 0)
                         {
                             max_consorts = 1 + Rand.Next(5);
-
                         }
                         else
                         {
-
                             {
                                 max_wives = 2 + Rand.Next(4);
                             }
                         }
                     }
-
-
                     break;
+
                 case 11:
 
                     if (Rand.Next(6) == 0)
                     {
-                        this.bs_marriage = !bs_marriage;
+                        bs_marriage = !bs_marriage;
                         if (Rand.Next(3) == 0)
-                            this.pc_marriage = bs_marriage;
+                            pc_marriage = bs_marriage;
                     }
-
-
                     break;
-                case 12:
 
+                case 12:
                     religious_clothing_head = Rand.Next(4);
                     religious_clothing_priest = Rand.Next(4);
-
-
-
                     break;
                 case 13:
-
                     high_god_name = dna.GetGodName();
-
                     break;
                 case 14:
-
                     devil = dna.GetGodName();
-
                     break;
                 case 15:
-
                     scripture_name = dna.GetGodName();
-
                     break;
                 case 16:
-
                     crusade_name = dna.GetGodName();
-
                     break;
                 case 17:
-
                     priest = dna.GetGodName();
-
                     break;
                 case 18:
-
                     matrilineal_marriages = !matrilineal_marriages;
-
                     break;
                 case 19:
-
-               this.divine_blood = Rand.Next(2) == 0; ;
-      
+                    divine_blood = Rand.Next(2) == 0; ;
                     break;
                 case 20:
-
-                    this.female_temple_holders = !female_temple_holders;
-      
+                    female_temple_holders = !female_temple_holders;
                     break;
                 case 21:
-                    this.priests_can_inherit = !priests_can_inherit;
-
+                    priests_can_inherit = !priests_can_inherit;
                     break;
                 case 22:
-                    this.uses_decadence = !uses_decadence;
-
+                    uses_decadence = !uses_decadence;
                     break;
                 case 23:
-                    this.uses_jizya_tax = !uses_jizya_tax;
-
+                    uses_jizya_tax = !uses_jizya_tax;
                     break;
             }
 
+        }
 
-       
-          
-
-          }
         public void Mutate(ReligionParser rel, CultureParser culture, int nChanges)
         {
             this.dna = culture.dna;
@@ -779,7 +684,6 @@ namespace CrusaderKingsStoryGen
 
             gods.AddRange(rel.gods);
 
-
             int r = Rand.Next(255);
             int g = Rand.Next(255);
             int b = Rand.Next(255);
@@ -788,6 +692,7 @@ namespace CrusaderKingsStoryGen
             g = rel.g;
             b = rel.b;
             int mul = -1;
+
             if (Rand.Next(2) == 0)
                 mul = 1;
 
@@ -812,6 +717,7 @@ namespace CrusaderKingsStoryGen
 
                     break;
             }
+
             if (r > 255)
                 r = 255;
             if (g > 255)
@@ -826,40 +732,23 @@ namespace CrusaderKingsStoryGen
             if (b < 0)
                 b = 0;
 
-            for(int n=0;n<nChanges;n++)
+            for(int n = 0;n < nChanges; n++)
+
                 MakeChange();
   
             DoReligionScope(high_god_name, devil, priest, scripture_name, crusade_name, culture.dna, r, g, b);
 
         }
 
-        public void RemoveProvince(ProvinceParser provinceParser)
-        {
-            Provinces.Remove(provinceParser);
-
-            Group.RemoveProvince(provinceParser);
-            dirty = true;
-
-        }
+        // province / drawing stuff ... why is this in here?
 
         public List<ProvinceParser> Provinces = new List<ProvinceParser>();
-        public Color color
-        {
-            get { return Color.FromArgb(255, r, g, b); }
-            set { r = value.R;
-                g = value.G;
-                b = value.B;
-            }
-        }
 
-        private string god;
         private Point _textPos;
-        public string egods;
-        public string safecrusade_name;
-        public string safescripture_name;
-        public string safepriest;
-        public string safehigh_god_name;
-      
+
+        Rectangle _bounds = new Rectangle();
+
+        private bool dirty = true;
 
         public void AddProvince(ProvinceParser provinceParser)
         {
@@ -888,6 +777,15 @@ namespace CrusaderKingsStoryGen
 
                 provinceParser.Religion = this;
             }
+        }
+
+        public void RemoveProvince(ProvinceParser provinceParser)
+        {
+            Provinces.Remove(provinceParser);
+
+            Group.RemoveProvince(provinceParser);
+            dirty = true;
+
         }
 
         public void SaveXml(XmlWriter writer)
@@ -967,5 +865,85 @@ namespace CrusaderKingsStoryGen
             ScripterTriggerManager.instance.AddTrigger(this);
             SocietyManager.instance.CreateSocietyForReligion(this, culture, null, SocietyManager.Template.the_assassins);
         }
+
+        public Rectangle Bounds
+        {
+            get
+            {
+                if (dirty)
+                    _bounds = GetBounds();
+                dirty = false;
+                return _bounds;
+            }
+        }
+
+        public Point TextPos
+        {
+            get
+            {
+                if (dirty)
+                    _bounds = GetBounds();
+                dirty = false;
+
+                return _textPos;
+            }
+            set { _textPos = value; }
+        }
+
+        public Rectangle GetBounds()
+        {
+            var prov = Provinces;
+
+            float avx = 0;
+            float avy = 0;
+
+            Rectangle tot = Rectangle.Empty;
+            foreach (var provinceParser in prov)
+            {
+                int cx = provinceParser.Bounds.X + (provinceParser.Bounds.Width / 2);
+                int cy = provinceParser.Bounds.Y + (provinceParser.Bounds.Height / 2);
+
+                avx += cx;
+                avy += cy;
+
+
+                if (tot.Width == 0)
+                    tot = provinceParser.Bounds;
+                else
+                {
+                    if (tot.Left > provinceParser.Bounds.Left)
+                    {
+                        int right = tot.Right;
+                        tot.X = provinceParser.Bounds.Left;
+                        tot.Width = (right - tot.X);
+                    }
+                    if (tot.Top > provinceParser.Bounds.Top)
+                    {
+                        int right = tot.Top;
+                        tot.Y = provinceParser.Bounds.Top;
+                        tot.Height = (right - tot.Y);
+                    }
+                    if (tot.Right < provinceParser.Bounds.Right)
+                    {
+                        tot.Width = provinceParser.Bounds.Right - tot.X;
+                    }
+
+                    if (tot.Bottom < provinceParser.Bounds.Bottom)
+                    {
+                        tot.Height = provinceParser.Bounds.Bottom - tot.Y;
+                    }
+                }
+            }
+            avx /= prov.Count;
+            avy /= prov.Count;
+            TextPos = new Point((int)avx, (int)avy);
+            return tot;
+        }
+
+        public override ScriptScope CreateScope()
+        {
+            return null;
+        }
+
     }
 }

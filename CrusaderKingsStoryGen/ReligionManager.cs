@@ -45,6 +45,27 @@ namespace CrusaderKingsStoryGen
 
         public Dictionary<String, ReligionGroupParser> GroupMap = new Dictionary<string, ReligionGroupParser>();
 
+        public void Init()
+        {
+            LanguageManager.instance.Add("urtru", StarNames.Generate(Rand.Next(1000000)));
+
+            Script s = new Script();
+            script = s;
+            s.Name = Globals.ModDir + "common\\religions\\00_religions.txt";
+            s.Root = new ScriptScope();
+
+            ReligionGroupParser r = AddReligionGroup("urtru");
+
+            r.Init();
+
+            var firstReligion = r.AddReligion("urtru");
+
+            firstReligion.CreateNewReligion();
+
+            AllReligionGroups.Add(r);
+
+        }
+
         public ReligionGroupParser AddReligionGroup(String name)
         {
             ScriptScope scope = new ScriptScope();
@@ -286,27 +307,6 @@ namespace CrusaderKingsStoryGen
 
             return 0;
         }
-    
-        public void Init()
-        {
-            LanguageManager.instance.Add("urtru", StarNames.Generate(Rand.Next(1000000)));
-
-            Script s = new Script();
-            script = s; 
-            s.Name = Globals.ModDir + "common\\religions\\00_religions.txt";
-            s.Root = new ScriptScope();
-
-            ReligionGroupParser r = AddReligionGroup("urtru");
-
-            r.Init();
-
-            var firstReligion = r.AddReligion("urtru");
-
-            firstReligion.CreateRandomReligion(null); 
-            
-            AllReligionGroups.Add(r);
-         
-        }
 
         public ReligionParser BranchReligion(string religion,  String culture)
         {
@@ -330,9 +330,9 @@ namespace CrusaderKingsStoryGen
 
                 var rel2 = group.AddReligion(rell);
 
-                rel2.RandomReligionProperties();
+                //rel2.RandomReligionProperties();
 
-                rel2.CreateRandomReligion(group);
+                rel2.CreateNewReligion();
 
                 rel2.Mutate(rel, CultureManager.instance.CultureMap[culture], 6);
 
@@ -365,9 +365,9 @@ namespace CrusaderKingsStoryGen
 
                 var rel2 = group.AddReligion(name);
 
-                rel2.RandomReligionProperties();
+                //rel2.RandomReligionProperties();
 
-                rel2.CreateRandomReligion(group);
+                rel2.CreateNewReligion();
 
                 return rel2;
             }
