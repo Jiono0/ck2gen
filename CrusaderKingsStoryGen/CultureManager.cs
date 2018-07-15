@@ -9,14 +9,11 @@ namespace CrusaderKingsStoryGen
     class CultureGroupParser : Parser
     {
         public List<CultureParser> Cultures = new List<CultureParser>();
-
         internal string chosenGfx;
         public int r;
         public int b;
         public int g;
-
         public List<Government> Governments = new List<Government>();
-
         private string preferedSucc;
         private string preferedGender;
 
@@ -61,7 +58,6 @@ namespace CrusaderKingsStoryGen
                 return preferedSucc;
             }
         }
-
         public String PreferedGenderLaw
         {
             get
@@ -81,9 +77,10 @@ namespace CrusaderKingsStoryGen
                             preferedGender = "cognatic_succession";
                             break;
 
+
+
                     }
                 }
-
                 return preferedGender;
             }
         }
