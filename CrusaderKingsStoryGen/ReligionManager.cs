@@ -1,21 +1,37 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml;
-using CrusaderKingsStoryGen.Simulation;
 
 namespace CrusaderKingsStoryGen
-{        
+{
     class ReligionManager : ISerializeXml
     {
-        public static ReligionManager instance = new ReligionManager();
         private Script script;
-        public List<ReligionParser> AllReligions = new List<ReligionParser>();
-        public Dictionary<String, ReligionParser> ReligionMap = new Dictionary<String, ReligionParser>();
-        public List<ReligionGroupParser> AllReligionGroups = new List<ReligionGroupParser>();
-        
+
+        public static ReligionManager               instance = new ReligionManager();
+
+        public List<ReligionGroupParser>            AllReligionGroups = new List<ReligionGroupParser>();
+        public List<ReligionParser>                 AllReligions = new List<ReligionParser>();
+        public Dictionary<String, ReligionParser>   ReligionMap = new Dictionary<String, ReligionParser>();
+
+        public ReligionGroupParser PaganGroupSub { get; set; }
+        public ReligionGroupParser JewGroupSub { get; set; }
+        public ReligionGroupParser MuslimGroupSub { get; set; }
+        public ReligionGroupParser ChristianGroupSub { get; set; }
+        public ReligionGroupParser IndianGroupSub { get; set; }
+        public ReligionGroupParser ZoroGroupSub { get; set; }
+
+        public ReligionParser JainEquiv { get; set; }
+        public ReligionParser BuddhistEquiv { get; set; }
+        public ReligionParser HinduEquiv { get; set; }
+        public ReligionParser OrthodoxSub { get; set; }
+        public ReligionParser ShiiteEquiv { get; set; }
+        public ReligionParser SunniEquiv { get; set; }
+        public ReligionParser NorseSub { get; set; }
+        public ReligionParser CatholicSub { get; set; }
+        public ReligionParser NorseReformSub { get; set; }
+
         public ReligionManager()
         {
         
@@ -46,7 +62,6 @@ namespace CrusaderKingsStoryGen
             return r;
         }
 
-     
         public void DoReligiousEquivelents()
         {
             if (!SaveReligions)
@@ -54,12 +69,7 @@ namespace CrusaderKingsStoryGen
 
             if (AllReligionGroups.Count == 1)
                 return;
-            ReligionGroupParser biggestGroup = null;
-            ReligionGroupParser secondGroup = null;
-            ReligionGroupParser thirdGroup = null;
-            ReligionGroupParser fourthGroup = null;
-            ReligionGroupParser fifthGroup = null;
-            ReligionGroupParser sixthGroup = null;
+
             AllReligionGroups.Sort(SortByBelievers);
 
             if (AllReligionGroups.Count >= 6)
@@ -68,21 +78,28 @@ namespace CrusaderKingsStoryGen
                 this.ChristianGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count) / 2];
                 this.ChristianGroupSub.Name = this.ChristianGroupSub.Scope.Name;
                 AllReligionGroups.Remove(ChristianGroupSub);
+
                 this.MuslimGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)/2];
                 this.MuslimGroupSub.Name = this.MuslimGroupSub.Scope.Name;
                 AllReligionGroups.Remove(MuslimGroupSub);
+
                 this.IndianGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)/2];
                 this.IndianGroupSub.Name = this.IndianGroupSub.Scope.Name;
                 AllReligionGroups.Remove(IndianGroupSub);
+
                 this.ZoroGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)/2];
                 ZoroGroupSub.Name = this.ZoroGroupSub.Scope.Name;
                 AllReligionGroups.Remove(ZoroGroupSub);
+
                 this.PaganGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)/2];
                 PaganGroupSub.Name = this.PaganGroupSub.Scope.Name;
                 AllReligionGroups.Remove(PaganGroupSub);
+
                 this.JewGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)/2];
                 JewGroupSub.Name = this.JewGroupSub.Scope.Name;
                 AllReligionGroups.Remove(JewGroupSub);
+
+                // prevent the following groups from being the same
 
                 while (ZoroGroupSub == MuslimGroupSub)
                 {
@@ -93,12 +110,13 @@ namespace CrusaderKingsStoryGen
                 {
                     ChristianGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                 }
+
                 while (JewGroupSub == MuslimGroupSub)
                 {
                     JewGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                 }
-
             }
+
             else
             {
                 if (AllReligionGroups.Count > 3)
@@ -106,6 +124,7 @@ namespace CrusaderKingsStoryGen
                     this.ChristianGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count/2)];
                     this.ChristianGroupSub.Name = this.ChristianGroupSub.Scope.Name;
                     AllReligionGroups.Remove(ChristianGroupSub);
+
                     this.MuslimGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count / 2)];
                     this.MuslimGroupSub.Name = this.MuslimGroupSub.Scope.Name;
                     AllReligionGroups.Remove(MuslimGroupSub);
@@ -114,18 +133,24 @@ namespace CrusaderKingsStoryGen
                 {
                     this.ChristianGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                     this.ChristianGroupSub.Name = this.ChristianGroupSub.Scope.Name;
+
                     this.MuslimGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                     this.MuslimGroupSub.Name = this.MuslimGroupSub.Scope.Name;
-
                 }
+
                 this.IndianGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                 this.IndianGroupSub.Name = this.IndianGroupSub.Scope.Name;
+
                 this.ZoroGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                 ZoroGroupSub.Name = this.ZoroGroupSub.Scope.Name;
+
                 this.PaganGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                 PaganGroupSub.Name = this.PaganGroupSub.Scope.Name;
+
                 this.JewGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                 JewGroupSub.Name = this.JewGroupSub.Scope.Name;
+
+                // prevent the following groups from being the same
 
                 while (ZoroGroupSub == MuslimGroupSub)
                 {
@@ -136,6 +161,7 @@ namespace CrusaderKingsStoryGen
                 {
                     ChristianGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
                 }
+
                 while (JewGroupSub == MuslimGroupSub)
                 {
                     JewGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
@@ -161,6 +187,7 @@ namespace CrusaderKingsStoryGen
                 this.IndianGroupSub = AllReligionGroups[Rand.Next(AllReligionGroups.Count)];
             //    this.IndianGroupSub.Name = this.IndianGroupSub.Scope.Name;
             }
+
             { 
                 this.HinduEquiv = this.IndianGroupSub.Religions[0];
             //    this.HinduEquiv.Name = this.HinduEquiv.Scope.Name;
@@ -188,12 +215,16 @@ namespace CrusaderKingsStoryGen
             {
                 religionParser.hasLeader = true;
             }
+
             this.NorseSub.allow_viking_invasion = true;
             this.NorseSub.allow_looting = true;
+
             this.JainEquiv.pacifist = false;
             this.JainEquiv.can_call_crusade = true;
+
             this.HinduEquiv.pacifist = true;
             this.HinduEquiv.can_call_crusade = false;
+
             this.BuddhistEquiv.pacifist = true;
             this.BuddhistEquiv.can_call_crusade = false;
 
@@ -203,34 +234,15 @@ namespace CrusaderKingsStoryGen
             }
         }
 
-        public ReligionParser JainEquiv { get; set; }
-
-        public ReligionParser BuddhistEquiv { get; set; }
-
-        public ReligionParser HinduEquiv { get; set; }
-
-        public ReligionParser OrthodoxSub { get; set; }
-
-        public ReligionParser ShiiteEquiv { get; set; }
-
-        public ReligionParser SunniEquiv { get; set; }
-
-        public ReligionParser NorseSub { get; set; }
-
-        public ReligionParser CatholicSub { get; set; }
-        public ReligionParser NorseReformSub { get; set; }
-
-
         public void Save()
         {
             if (!SaveReligions)
                 return;
 
-            int biggest = -1;
-         
             LanguageManager.instance.SetupReligionEventSubsitutions();
 
             var list = new List<ScriptScope>();
+
             foreach (var child in script.Root.Children)
             {
                 list.AddRange((child as ScriptScope)?.Children.Where((o => o is ScriptScope)).Where(o => !((ScriptScope)o).Name.Contains("_names")).Cast<ScriptScope>());                     
@@ -274,30 +286,23 @@ namespace CrusaderKingsStoryGen
 
             return 0;
         }
-        public ReligionGroupParser PaganGroupSub { get; set; }
-        public ReligionGroupParser JewGroupSub { get; set; }
-
-        public ReligionGroupParser MuslimGroupSub { get; set; }
-        public ReligionGroupParser ChristianGroupSub { get; set; }
-        public ReligionGroupParser IndianGroupSub { get; set; }
-
-        public ReligionGroupParser ZoroGroupSub { get; set; }
     
         public void Init()
         {
-            LanguageManager.instance.Add("norse", StarNames.Generate(Rand.Next(1000000)));
-            LanguageManager.instance.Add("pagan", StarNames.Generate(Rand.Next(1000000)));
-            LanguageManager.instance.Add("christian", StarNames.Generate(Rand.Next(1000000)));
-            
+            LanguageManager.instance.Add("urtru", StarNames.Generate(Rand.Next(1000000)));
+
             Script s = new Script();
             script = s; 
             s.Name = Globals.ModDir + "common\\religions\\00_religions.txt";
             s.Root = new ScriptScope();
-            ReligionGroupParser r = AddReligionGroup("pagan");
-            r.Init();
-            var pagan = r.AddReligion("pagan");
 
-            pagan.CreateRandomReligion(null); 
+            ReligionGroupParser r = AddReligionGroup("urtru");
+
+            r.Init();
+
+            var firstReligion = r.AddReligion("urtru");
+
+            firstReligion.CreateRandomReligion(null); 
             
             AllReligionGroups.Add(r);
          
@@ -305,52 +310,65 @@ namespace CrusaderKingsStoryGen
 
         public ReligionParser BranchReligion(string religion,  String culture)
         {
-            var rel = this.ReligionMap[religion];
+            var rel = ReligionMap[religion];
             var group = rel.Group;
             int totCount = 0;
+
             foreach (var religionParser in rel.Group.Religions)
             {
                 totCount += religionParser.Provinces.Count;
             }
-            if (!CultureManager.instance.allowMultiCultureGroups)
+
+            if (CultureManager.instance.allowMultiCultureGroups)
+            {
+                var rell = StarNames.Generate(culture);
+
+                while (instance.ReligionMap.ContainsKey(StarNames.SafeName(rell)))
+                {
+                    rell = StarNames.Generate(culture);
+                }
+
+                var rel2 = group.AddReligion(rell);
+
+                rel2.RandomReligionProperties();
+
+                rel2.CreateRandomReligion(group);
+
+                rel2.Mutate(rel, CultureManager.instance.CultureMap[culture], 6);
+
+                return rel2;
+
+            }
+
+            else
             {
                 String name = StarNames.Generate(culture);
                 String safe = StarNames.SafeName(name);
-                while (ReligionManager.instance.GroupMap.ContainsKey(safe))
+
+                while (instance.GroupMap.ContainsKey(safe))
                 {
                     name = StarNames.Generate(culture);
                     safe = StarNames.Generate(culture);
                 }
 
                 LanguageManager.instance.Add(safe, name);
+
                 group = AddReligionGroup(safe);
+
                 name = StarNames.Generate(culture);
-                while (ReligionManager.instance.ReligionMap.ContainsKey(safe))
+
+                while (instance.ReligionMap.ContainsKey(safe))
                 {
                     name = StarNames.Generate(culture);
                     safe = StarNames.SafeName(name);
                 }
 
                 var rel2 = group.AddReligion(name);
-                 rel2.RandomReligionProperties();
-                rel2.CreateRandomReligion(group);
-                return rel2;
-            }
-            else
-            {
-                var rell = StarNames.Generate(culture);
-
-                while (ReligionManager.instance.ReligionMap.ContainsKey(StarNames.SafeName(rell)))
-                {
-
-                    rell = StarNames.Generate(culture);
-                }
-                var rel2 = group.AddReligion(rell);
 
                 rel2.RandomReligionProperties();
+
                 rel2.CreateRandomReligion(group);
-  
-                rel2.Mutate(rel, CultureManager.instance.CultureMap[culture], 6);
+
                 return rel2;
             }
          

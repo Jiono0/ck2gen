@@ -9,10 +9,12 @@ namespace CrusaderKingsStoryGen
     class CultureGroupParser : Parser
     {
         public List<CultureParser> Cultures = new List<CultureParser>();
+
         internal string chosenGfx;
         public int r;
         public int b;
         public int g;
+
         public List<Government> Governments = new List<Government>();
         private string preferedSucc;
         private string preferedGender;

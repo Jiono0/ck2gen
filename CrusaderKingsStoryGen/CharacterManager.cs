@@ -271,9 +271,9 @@ namespace CrusaderKingsStoryGen
             var scope = new ScriptScope();
             scope.Name = CharacterParser.IDMax.ToString();
            
-            scope.Add("name", "Bob");
-            scope.Add("culture", "norse");
-            scope.Add("religion", "pagan");
+            scope.Add("name", "urda");
+            scope.Add("culture", "urtru");
+            scope.Add("religion", "urtru");
             var born = scope.AddScope("1.1.1");
             
             var died = scope.AddScope("3.1.1");

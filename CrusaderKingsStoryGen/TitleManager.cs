@@ -1,14 +1,10 @@
-﻿using System;
+﻿using CrusaderKingsStoryGen.Simulation;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Linq;
-using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms.VisualStyles;
 using System.Xml;
-using CrusaderKingsStoryGen.Simulation;
 
 namespace CrusaderKingsStoryGen
 {
@@ -579,7 +575,7 @@ namespace CrusaderKingsStoryGen
                         titleParser.culture = titleParser.Dejure.culture;          
                     }
                     else
-                        titleParser.culture = "norse";
+                        titleParser.culture = "urtru";
                 }                
                 if(titleParser.Rank > 1 && titleParser.Scope.Find("capital")==null)
                 {

@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml;
 
 namespace CrusaderKingsStoryGen
@@ -12,6 +9,7 @@ namespace CrusaderKingsStoryGen
     {
         public static GovernmentManager instance = new GovernmentManager();
         public List<Government> governments = new List<Government>();
+
         public void Init()
         {
            
@@ -46,9 +44,11 @@ namespace CrusaderKingsStoryGen
                 newGov.cultureGroupAllow.Add(culture.Group.Name);
             return newGov;
         }
+
         public void Save()
         {
             return;
+
             foreach (var cultureParser in CultureManager.instance.AllCultureGroups)
             {
                 if (cultureParser.Governments.Count == 0)
@@ -78,6 +78,7 @@ namespace CrusaderKingsStoryGen
             if (!Directory.Exists(Globals.ModDir + "gfx\\interface\\"))
                 Directory.CreateDirectory(Globals.ModDir + "gfx\\interface\\");
             var files = Directory.GetFiles(Globals.ModDir + "gfx\\interface\\");
+
             foreach (var file in files)
             {
                 File.Delete(file);

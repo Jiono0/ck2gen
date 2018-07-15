@@ -3210,9 +3210,8 @@ namespace CrusaderKingsStoryGen.Simulation
                 nn--;
             if (ReligionManager.instance.ReligionMap[character.religion].Provinces.Count > 300)
                 nn--;
-            if (character.religion == "pagan")
+            if (character.religion == "urtru")
                 nn = 0;
-          
         
             if (Rand.Next(Globals.OneInChanceOfCultureSplinter) == 0)
             {
@@ -3225,7 +3224,6 @@ namespace CrusaderKingsStoryGen.Simulation
             
             }
         }
-
 
         public void DebugTest(TitleParser titleParser)
         {

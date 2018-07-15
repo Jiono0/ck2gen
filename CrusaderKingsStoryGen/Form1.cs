@@ -402,10 +402,9 @@ namespace CrusaderKingsStoryGen
                 try
 #endif
                 {
-                    LanguageManager.instance.Add("norse", StarNames.Generate(Rand.Next(1000000)));
-                    LanguageManager.instance.Add("pagan", StarNames.Generate(Rand.Next(1000000)));
+                    LanguageManager.instance.Add("urtru", StarNames.Generate(Rand.Next(1000000)));
+                    LanguageManager.instance.Add("urtru_group", StarNames.Generate(Rand.Next(1000000)));
 
-                    LanguageManager.instance.Add("pagan_group", StarNames.Generate(Rand.Next(1000000)));
                     log.WriteLine("Exporting at " + SimulationManager.instance.Year);
                     log.WriteLine("Characters #: " + CharacterManager.instance.Characters.Count);
                     log.WriteLine("Provinces #: " + MapManager.instance.Provinces.Count);

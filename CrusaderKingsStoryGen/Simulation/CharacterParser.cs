@@ -17,8 +17,8 @@ namespace CrusaderKingsStoryGen.Simulation
 {
     class CharacterParser : Parser
     {
-        public string religion = "pagan";
-        public string culture = "norse";
+        public string religion = "urtru";
+        public string culture = "urtru";
         public List<TitleParser> Titles = new List<TitleParser>();
         private Color _color;
         private TitleParser _primaryTitle;
@@ -76,7 +76,7 @@ namespace CrusaderKingsStoryGen.Simulation
                 top.culture = CultureManager.instance.CultureMap.Values.OrderBy(r=>Rand.Next(10000)).First().Name;
             }
             this.culture = top.culture;
-            if (religion != "pagan")
+            if (religion != "urtru")
             {
 
             }

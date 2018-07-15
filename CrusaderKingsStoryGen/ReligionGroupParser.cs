@@ -2,10 +2,8 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using System.Security.Policy;
 using System.Windows.Forms;
 using System.Xml;
-using MultiSelectTreeview = MultiSelectTreeview.MultiSelectTreeview;
 
 namespace CrusaderKingsStoryGen
 {
@@ -46,6 +44,7 @@ namespace CrusaderKingsStoryGen
             Religions.Remove(r);
             Scope.Remove(r);
         }
+
         public void AddReligion(ReligionParser r)
         {
             if (r.Group != null)
@@ -55,13 +54,13 @@ namespace CrusaderKingsStoryGen
             Scope.Add(r.Scope);
             Religions.Add(r);
         }
+
         public ReligionParser AddReligion(String name, String orig = null)
         {
-            if (name != "pagan")
+            if (name != "urtru")
             {
                 String oname = name;
                 name = StarNames.SafeName(name);
-
 
                 LanguageManager.instance.Add(name, oname);
                 orig = oname;
@@ -73,23 +72,29 @@ namespace CrusaderKingsStoryGen
 
             ReligionParser r = new ReligionParser(scope);
             ReligionManager.instance.AllReligions.Add(r);
+
             if (orig != null)
             {
                 r.LanguageName = orig;
             }
+
             r.Name = r.Scope.Name;
             r.Group = this;
+
             var col= Col();
+
             r.r = col.R;
             r.g = col.G;
             r.b = col.B;
+
             Religions.Add(r);
             ReligionManager.instance.ReligionMap[name] = r;
-            System.Console.Out.WriteLine(r.Name + " added");
 
-            //  TraitManager.instance.AddReligiousTraits(r);
+            Console.Out.WriteLine(r.Name + " added");
+
             return r;
         }
+
         private Color Col()
         {
             var r = color.R + Rand.Next(-40, 40);
@@ -129,6 +134,7 @@ namespace CrusaderKingsStoryGen
             };
 
         public bool hostile_within_group = false;
+
         public void Init()
         {
             color = Color.FromArgb(255, Rand.Next(255), Rand.Next(255), Rand.Next(255));
@@ -142,19 +148,7 @@ namespace CrusaderKingsStoryGen
 	            graphical_culture = " + g + @"
 	            playable = yes
 	            hostile_within_group = " + (hostile_within_group ? "yes" : "no") + @"
-	
-	            # Names given only to Pagan characters (base names)
-	            male_names = {
-		            Anund Asbjörn Aslak Audun Bagge Balder Brage Egil Emund Frej Gnupa Gorm Gudmund Gudröd Hardeknud Helge Odd Orm 
-		            Orvar Ottar Rikulfr Rurik Sigbjörn Styrbjörn Starkad Styrkar Sämund Sölve Sörkver Thorolf Tjudmund Toke Tolir 
-		            Torbjörn Torbrand Torfinn Torgeir Toste Tyke
-	            }
-	            female_names = {
-		            Aslaug Bothild Björg Freja Grima Gytha Kráka Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde
-	            }
-
 ");
-
 
         }
 
@@ -162,22 +156,14 @@ namespace CrusaderKingsStoryGen
 
         public void TryFillHolySites()
         {
-
-            if (Name == "aranahap")
-            {
-
-            }
             if (holySites.Count >= 5)
             {
-                if (Name == "aranahap")
-                {
-
-                }
                 while (holySites.Count > 5)
                 {
                     holySites.ToArray()[0].Title.Scope.Remove(holySites.ToArray()[0].Title.Scope.Find("holy_site"));
                     holySites.Remove(holySites.ToArray()[0]);
                 }
+
                 return;
             }
 
@@ -185,7 +171,9 @@ namespace CrusaderKingsStoryGen
             {
                 if (holySites.Count == Provinces.Count)
                     break;
+
                 var chosen = Provinces[Rand.Next(Provinces.Count)];
+
                 if (holySites.Contains(chosen))
                     continue;
 

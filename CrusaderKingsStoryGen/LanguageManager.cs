@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace CrusaderKingsStoryGen
 {
@@ -20,8 +19,8 @@ namespace CrusaderKingsStoryGen
             AddSafe("Count");
             AddSafe("Baron");
             AddSafe("Mayor");
-
         }
+
         public String Add(String key, String english)
         {
             if (english == null || english.Length == 1)
@@ -34,6 +33,7 @@ namespace CrusaderKingsStoryGen
             this.english[key + "_desc"] = english;
             return english;
         }
+
         public String AddDirect(String key, String english)
         {
          
@@ -217,10 +217,11 @@ namespace CrusaderKingsStoryGen
             return;
 
         }
+
         Dictionary<String, String> substitutions = new Dictionary<string, string>();
+
         public bool trimProvinces = true;
 
-    
         public void SetupReligionEventSubsitutions()
         {
 
@@ -265,8 +266,8 @@ namespace CrusaderKingsStoryGen
                 substitutions["Kafir"] = "infidels";
 
 
-                substitutions["pagan"] = Get(ReligionManager.instance.PaganGroupSub.Name);
-                substitutions["Pagan"] = Get(ReligionManager.instance.PaganGroupSub.Name);
+                substitutions["urtru"] = Get(ReligionManager.instance.PaganGroupSub.Name);
+                substitutions["urtru"] = Get(ReligionManager.instance.PaganGroupSub.Name);
                 substitutions["Blot"] = ReligionManager.instance.NorseSub.Provinces[0].Culture.dna.ConstructWord(4, 5);
                 substitutions["blot"] = substitutions["Blot"];
                 substitutions["Odin"] = ReligionManager.instance.NorseSub.gods[0];
