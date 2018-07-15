@@ -66,8 +66,11 @@ namespace CrusaderKingsStoryGen
                 orig = oname;
             }
 
-            ScriptScope scope = new ScriptScope();
-            scope.Name = name;
+            ScriptScope scope = new ScriptScope
+            {
+                Name = name
+            };
+
             Scope.Add(scope);
 
             ReligionParser r = new ReligionParser(scope);

@@ -68,9 +68,11 @@ namespace CrusaderKingsStoryGen
 
         public ReligionGroupParser AddReligionGroup(String name)
         {
-            ScriptScope scope = new ScriptScope();
-            scope.Name = name;
-            
+            ScriptScope scope = new ScriptScope
+            {
+                Name = name
+            };
+
             script.Root.Add(scope);
             
             ReligionGroupParser r = new ReligionGroupParser(scope);

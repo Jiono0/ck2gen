@@ -10,7 +10,7 @@ namespace CrusaderKingsStoryGen
     class ReligionParser : Parser
     {
         public ReligionGroupParser Group;
-        public ProvinceParser capital;
+        public ProvinceParser Capitol;
         public TitleParser ReligiousHeadTitle { get; set; }
 
         public string LanguageName { get; set; }
@@ -96,12 +96,17 @@ namespace CrusaderKingsStoryGen
 
         public ReligionParser BranchReligion(String name)
         {
-            ScriptScope scope = new ScriptScope();
-            scope.Name = name;
+            ScriptScope scope = new ScriptScope
+            {
+                Name = name
+            };
+
             Group.Scope.Add(scope);
 
-            ReligionParser r = new ReligionParser(scope);
-            r.Group = Group;
+            ReligionParser r = new ReligionParser(scope)
+            {
+                Group = Group
+            };
 
             ReligionManager.instance.AllReligions.Add(r);
 
@@ -248,14 +253,14 @@ namespace CrusaderKingsStoryGen
 
             CulturalDna dna = null;
 
-            if (capital == null)
+            if (Capitol == null)
             {
                 dna = CulturalDnaManager.instance.GetVanillaCulture((string) null);
             }
 
             else
             {
-                culture = capital.Title.Holder.culture;
+                culture = Capitol.Title.Holder.culture;
 
                 dna = CultureManager.instance.CultureMap[culture].dna;
             }
