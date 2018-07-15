@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace CrusaderKingsStoryGen
@@ -11,11 +9,14 @@ namespace CrusaderKingsStoryGen
     class CultureGroupParser : Parser
     {
         public List<CultureParser> Cultures = new List<CultureParser>();
+
         internal string chosenGfx;
         public int r;
         public int b;
         public int g;
+
         public List<Government> Governments = new List<Government>();
+
         private string preferedSucc;
         private string preferedGender;
 
@@ -56,9 +57,11 @@ namespace CrusaderKingsStoryGen
 
                     }
                 }
+
                 return preferedSucc;
             }
         }
+
         public String PreferedGenderLaw
         {
             get
@@ -77,11 +80,10 @@ namespace CrusaderKingsStoryGen
                         case 5:
                             preferedGender = "cognatic_succession";
                             break;
-                     
-                            
 
                     }
                 }
+
                 return preferedGender;
             }
         }
@@ -91,7 +93,7 @@ namespace CrusaderKingsStoryGen
         {
             if (scope.UnsavedData.ContainsKey("color"))
             {
-                var col = (Color) Scope.UnsavedData["color"];
+                var col = (Color)Scope.UnsavedData["color"];
 
                 r = col.R;
                 g = col.G;
@@ -117,10 +119,12 @@ namespace CrusaderKingsStoryGen
         public void AddCulture(CultureParser r)
         {
             r.group = this;
+
             if (r.Group != null)
             {
                 r.Group.Scope.Remove(r.Scope);
             }
+
             Scope.Add(r.Scope);
             Cultures.Add(r);
             Cultures = Cultures.Distinct().ToList();
@@ -133,18 +137,20 @@ namespace CrusaderKingsStoryGen
             res.ImageIndex = 0;
             foreach (var religionParser in Cultures)
             {
-                if(religionParser.LanguageName == "")
+                if (religionParser.LanguageName == "")
                     continue;
-                
+
                 var res2 = res.Nodes.Add(religionParser.LanguageName);
                 res2.Tag = religionParser;
                 res2.ImageIndex = 0;
             }
         }
+
         public CultureParser AddCulture(String name)
         {
             string langName = "";
-            if (name != "norse")
+
+            if (name != "Urtru")
             {
                 String oname = name;
                 name = StarNames.SafeName(name);
@@ -245,7 +251,7 @@ namespace CrusaderKingsStoryGen
 
         public string LanguageName { get; set; }
         public CulturalDna dna { get; set; }
-     
+
         public List<Dynasty> Dynasties = new List<Dynasty>();
         private bool dirty = true;
         Rectangle _bounds = new Rectangle();
@@ -336,17 +342,13 @@ namespace CrusaderKingsStoryGen
 
         public void Init()
         {
-            if (Name == "kedaras")
-            {
-
-            }
-            //        Scope.Clear();
-
             String fx = Group.chosenGfx;
+
             if (Group.chosenGfx == null)
             {
                 fx = Group.Scope.Scopes[0].Data;
             }
+
             int r = Rand.Next(255);
             int g = Rand.Next(255);
             int b = Rand.Next(255);
@@ -354,6 +356,7 @@ namespace CrusaderKingsStoryGen
             r = Group.r;
             g = Group.g;
             b = Group.b;
+
             switch (Rand.Next(3))
             {
                 case 0:
@@ -375,6 +378,7 @@ namespace CrusaderKingsStoryGen
 
                     break;
             }
+
             if (r > 255)
                 r = 255;
             if (g > 255)
@@ -398,8 +402,9 @@ namespace CrusaderKingsStoryGen
 
         public void DoDetailsForCulture()
         {
-         
-             dna.culture = this;
+
+            dna.culture = this;
+
             if (dna.portraitPool.Count == 0)
             {
                 int c = 1;
@@ -418,6 +423,7 @@ namespace CrusaderKingsStoryGen
             {
                 portrait += p + " ";
             }
+
             int r = Rand.Next(255);
             int g = Rand.Next(255);
             int b = Rand.Next(255);
@@ -425,6 +431,7 @@ namespace CrusaderKingsStoryGen
             r = Group.r;
             g = Group.g;
             b = Group.b;
+
             switch (Rand.Next(3))
             {
                 case 0:
@@ -446,6 +453,7 @@ namespace CrusaderKingsStoryGen
 
                     break;
             }
+
             if (r > 255)
                 r = 255;
             if (g > 255)
@@ -467,20 +475,23 @@ namespace CrusaderKingsStoryGen
             ScopeCultureDetails();
 
         }
-      
+
         public int r = 0;
         public int g = 0;
         public int b = 0;
+
         public void ScopeCultureDetails()
         {
-            List<string> maleNameBlockSet;//= new List<string>();
-            List<string> femaleNameBlockSet;//= new List<string>();
+            List<string> maleNameBlockSet; //= new List<string>();
+            List<string> femaleNameBlockSet; //= new List<string>();
 
-                 maleNameBlockSet = dna.maleNameBlockSet;
-                femaleNameBlockSet = dna.femaleNameBlockSet;
+            maleNameBlockSet = dna.maleNameBlockSet;
+            femaleNameBlockSet = dna.femaleNameBlockSet;
 
             Scope.Clear();
+
             var portrait = dna.portraitPool[0];
+
             Scope.Do(@"
             
                color = { " + (r) + " " + (g) + " " + (b) + @" }
@@ -575,7 +586,7 @@ namespace CrusaderKingsStoryGen
         {
             "norsegfx", "germangfx", "frankishgfx", "westerngfx", "saxongfx", "italiangfx", "southerngfx", "occitangfx",
             "easterngfx", "byzantinegfx", "easternslavicgfx", "westernslavicgfx",
-            "celticgfx", "ugricgfx", "turkishgfx", "mongolgfx", "muslimgfx", "persiangfx", "cumangfx", "arabicgfx",
+            "celticgfx",  "mongolgfx", "ugricgfx", "turkishgfx", "muslimgfx", "persiangfx", "cumangfx", "arabicgfx",
             "andalusiangfx", "africangfx", "mesoamericangfx", "indiangfx"
         };
 
@@ -598,9 +609,9 @@ namespace CrusaderKingsStoryGen
 
         private static List<String> bl = new List<string>()
         {
+            "mongolgfx",
             "ugricgfx",
             "turkishgfx",
-            "mongolgfx",
             "muslimgfx",
             "persiangfx",
             "cumangfx",
@@ -623,69 +634,41 @@ namespace CrusaderKingsStoryGen
                 b = value.B;
             }
         }
-        
-        //   public String government = "tribal";
-
 
         internal static string GetRandomCultureGraphics(CultureGroupParser group = null)
         {
             if (group != null)
             {
-                if (Rand.Next(3) == 0)
+                switch (group.chosenGfx)
                 {
-                    switch (group.chosenGfx)
-                    {
-                        case "norsegfx":
-                        case "germangfx":
-                        case "frankishgfx":
-                        case "westerngfx":
-                        case "saxongfx":
-                        case "italiangfx":
-                        case "celticgfx":
-                        case "mongolgfx":
-                            return wh[Rand.Next(gfx.Count())];
-                            break;
-                        case "ugricgfx":
-                        case "turkishgfx":
-                        case "muslimgfx":
-                        case "persiangfx":
-                        case "cumangfx":
-                        case "arabicgfx":
-                        case "andalusiangfx":
-                        case "africangfx":
-                        case "mesoamericangfx":
-                        case "indiangfx":
-                            return bl[Rand.Next(gfx.Count())];
-                            break;
-                    }
-                }
-                else
-                {
-                    switch (group.chosenGfx)
-                    {
-                        case "norsegfx":
-                        case "germangfx":
-                        case "frankishgfx":
-                        case "westerngfx":
-                        case "saxongfx":
-                        case "italiangfx":
-                        case "celticgfx":
-                        case "mongolgfx":
-                            return bl[Rand.Next(gfx.Count())];
-                            break;
-                        case "ugricgfx":
-                        case "turkishgfx":
-                        case "muslimgfx":
-                        case "persiangfx":
-                        case "cumangfx":
-                        case "arabicgfx":
-                        case "andalusiangfx":
-                        case "africangfx":
-                        case "mesoamericangfx":
-                        case "indiangfx":
-                            return wh[Rand.Next(gfx.Count())];
-                            break;
-                    }
+                    case "norsegfx":
+                    case "germangfx":
+                    case "frankishgfx":
+                    case "westerngfx":
+                    case "saxongfx":
+                    case "italiangfx":
+                    case "southerngfx":
+                    case "occitangfx":
+                    case "easterngfx":
+                    case "byzantinegfx":
+                    case "easternslavicgfx":
+                    case "westernslavicgfx":
+                    case "celticgfx":
+                        return wh[Rand.Next(gfx.Count())];
+                    case "mongolgfx":
+                    case "ugricgfx":
+                    case "turkishgfx":
+                    case "muslimgfx":
+                    case "persiangfx":
+                    case "cumangfx":
+                    case "arabicgfx":
+                    case "andalusiangfx":
+                    case "africangfx":
+                    case "mesoamericangfx":
+                    case "indiangfx":
+                        return bl[Rand.Next(gfx.Count())];
+                    default:
+                        return gfx[Rand.Next(gfx.Count())];
                 }
             }
 
@@ -700,6 +683,7 @@ namespace CrusaderKingsStoryGen
         public String PickCharacterName(bool isFemale)
         {
             String str = "";
+
             do
             {
                 str = DoPickCharacterName(isFemale);
@@ -729,7 +713,7 @@ namespace CrusaderKingsStoryGen
             {
                 provinceParser.Culture.RemoveProvince(provinceParser);
             }
-            if(!Group.Provinces.Contains(provinceParser))
+            if (!Group.Provinces.Contains(provinceParser))
                 Group.AddProvince(provinceParser);
 
             if (!Provinces.Contains(provinceParser))
@@ -761,7 +745,6 @@ namespace CrusaderKingsStoryGen
         public Dictionary<String, CultureGroupParser> CultureGroupMap = new Dictionary<String, CultureGroupParser>();
         public List<CultureGroupParser> AllCultureGroups = new List<CultureGroupParser>();
 
-
         public Script Script
         {
             get { return script; }
@@ -777,19 +760,25 @@ namespace CrusaderKingsStoryGen
             scope.Name = name;
             script.Root.Add(scope);
 
-            CultureGroupParser r = new CultureGroupParser(scope);
-            r.Name = scope.Name;
-            r.Init();
+            CultureGroupParser cgParser = new CultureGroupParser(scope);
+
+            cgParser.Name = scope.Name;
+            cgParser.Init();
+
             if (group != null)
             {
-                r.chosenGfx = GetRelatedCultureGfx(group);
+                cgParser.chosenGfx = GetRelatedCultureGfx(group);
             }
-            GroupMap[name] = r;
-            AllCultureGroups.Add(r);
+
+            GroupMap[name] = cgParser;
+
+            AllCultureGroups.Add(cgParser);
             AllCultureGroups = AllCultureGroups.Distinct().ToList();
-            r.color = Color.FromArgb(255, Rand.Next(255), Rand.Next(255), Rand.Next(255));
-            r.chosenGfx = scope.Scopes[0].Data;
-            return r;
+
+            cgParser.color = Color.FromArgb(255, Rand.Next(255), Rand.Next(255), Rand.Next(255));
+            cgParser.chosenGfx = scope.Scopes[0].Data;
+
+            return cgParser;
         }
 
         private string GetRelatedCultureGfx(CultureGroupParser group)
@@ -800,76 +789,89 @@ namespace CrusaderKingsStoryGen
 
         public void Save()
         {
-            if(SaveCultures)
-            script.Save();
+            if (SaveCultures)
+                script.Save();
         }
 
         public void Init()
         {
             Script s = new Script();
             script = s;
+
             s.Name = Globals.ModDir + "common\\cultures\\00_cultures.txt";
             s.Root = new ScriptScope();
-            CultureGroupParser r = AddCultureGroup("barbarian");
+
+            CultureGroupParser r = AddCultureGroup("Urtru");
 
             AllCultureGroups.Add(r);
-            CultureGroupMap["barbarian"] = r;
-            var cul = r.AddCulture("norse");
-            r.Name = "barbarian";
+
+            CultureGroupMap["Urtru"] = r;
+
+            var cul = r.AddCulture("Urtru");
+
+            r.Name = "Urtru";
+
             cul.dna = CulturalDnaManager.instance.GetNewFromVanillaCulture();
+
             cul.dna.horde = false;
 
             cul.DoDetailsForCulture();
-            LanguageManager.instance.Add("barbarian", cul.dna.GetPlaceName());
+
+            LanguageManager.instance.Add("Urtru", cul.dna.GetPlaceName());
 
             cul.Name = cul.Scope.Name;
+
             CultureMap[cul.Scope.Name] = cul;
 
             AllCultures.Add(cul);
-
-
         }
 
         public CultureParser BranchCulture(string Culture)
         {
-            var rel = this.CultureMap[Culture];
+            var rel = CultureMap[Culture];
+
             var group = rel.Group;
 
-            var naa = rel.dna.GetPlaceName();
-            while (GroupMap.ContainsKey(StarNames.SafeName(naa)))
+            var cultureName = rel.dna.GetPlaceName();
+
+            while (GroupMap.ContainsKey(StarNames.SafeName(cultureName)))
             {
-                naa = rel.dna.GetPlaceName();
+                cultureName = rel.dna.GetPlaceName();
             }
 
             CultureParser rel2 = null;
 
-            if (!allowMultiCultureGroups)
+            if (allowMultiCultureGroups)
             {
-                var na = rel.dna.GetPlaceName();
-                while (GroupMap.ContainsKey(StarNames.SafeName(na)))
+                rel2 = group.AddCulture(cultureName);
+                rel2.Init();
+                rel2.dna = rel.dna.MutateSmall(4);
+            }
+
+            else
+            {
+                // need to make a new group for the culture
+
+                var newGroupName = rel.dna.GetPlaceName();
+
+                while (GroupMap.ContainsKey(StarNames.SafeName(newGroupName)))
                 {
-                    na = rel.dna.GetPlaceName();
+                    newGroupName = rel.dna.GetPlaceName();
                 }
 
-                LanguageManager.instance.Add(StarNames.SafeName(na), na);
-                
-                var group2 = AddCultureGroup(StarNames.SafeName(na), group);
-                group2.Name = StarNames.SafeName(na);
-                rel2 = group2.AddCulture(naa);
-                group2.AddCulture(rel2);
+                LanguageManager.instance.Add(StarNames.SafeName(newGroupName), newGroupName);
+
+                var newCultureGroup = AddCultureGroup(StarNames.SafeName(newGroupName), group);
+
+                newCultureGroup.Name = StarNames.SafeName(newGroupName);
+                rel2 = newCultureGroup.AddCulture(cultureName);
+                newCultureGroup.AddCulture(rel2);
 
                 rel2.Init();
                 rel2.dna = rel.dna.Mutate(16, rel);
                 rel2.dna.DoRandom();
-                CultureGroupMap[group2.Name] = group2;
-            
 
-            }
-            else
-            {
-                rel2 = group.AddCulture(naa);
-                rel2.Init();
-                rel2.dna = rel.dna.MutateSmall(4);
+                CultureGroupMap[newCultureGroup.Name] = newCultureGroup;
 
             }
 
@@ -878,11 +880,13 @@ namespace CrusaderKingsStoryGen
             return rel2;
         }
 
+        // Following function sets 'allowMultiCultureGroups' to true
+
         public void CalculateCulturesProper()
         {
             foreach (var cultureGroupParser in AllCultureGroups)
             {
-                if (cultureGroupParser.Name == "norse")
+                if (cultureGroupParser.Name == "Urtru")
                     continue;
                 if (cultureGroupParser.Provinces.Count == 0)
                     continue;
@@ -899,7 +903,9 @@ namespace CrusaderKingsStoryGen
                     target.ForEach(p => toAdd.AddRange(p.Adjacent.Where(pp => pp.land && pp.title != null && !target.Contains(pp))));
                     target.AddRange(toAdd);
                 }
+
                 HashSet<ProvinceParser> toDo = new HashSet<ProvinceParser>(target);
+
                 foreach (var provinceParser in toDo)
                 {
                     provinceParser.Culture = cultureGroupParser.Cultures[0];
@@ -947,11 +953,12 @@ namespace CrusaderKingsStoryGen
                     Script.Root.Remove(cultureGroupParser.Scope);
                     CultureMap.Remove(cultureGroupParser.Cultures[0].Name);
                     AllCultures.Remove(cultureGroupParser.Cultures[0]);
+
                     foreach (var characterParser in CharacterManager.instance.Characters)
                     {
                         if (characterParser.culture == cultureGroupParser.Cultures[0].Name)
                         {
-                            characterParser.culture = AllCultures[AllCultures.Count-1].Name;
+                            characterParser.culture = AllCultures[AllCultures.Count - 1].Name;
                         }
                     }
 
@@ -967,54 +974,69 @@ namespace CrusaderKingsStoryGen
 
 
             }
+
+            //Enable in-group culture branching
+
             allowMultiCultureGroups = true;
+
             for (int index = 0; index < AllCultureGroups.Count; index++)
             {
                 var cultureGroupParser = AllCultureGroups[index];
 
                 var provinces = new List<ProvinceParser>(cultureGroupParser.Provinces);
-                // Now do the same for cultures...
+
+                // Sets a main culture for the culture group
 
                 var mainCulture = cultureGroupParser.Cultures[0];
 
                 int size = cultureGroupParser.Provinces.Count;
+
+                int iterations = 0;
+
                 if (size <= 4)
-                    size = 2;
+                    iterations = 2;
                 else if (size < 12)
-                    size = 4;
+                    iterations = 4;
                 else if (size < 24)
-                    size = 5;
+                    iterations = 5;
                 else if (size < 32)
-                    size = 6;
+                    iterations = 6;
                 else if (size < 40)
-                    size = 7;
+                    iterations = 7;
                 else
-                    size = 8;
+                    iterations = 8;
 
-                for (int c = 0; c < size; c++)
+                for (int c = 0; c < iterations; c++)
                 {
-                    if (provinces.Count == 0)
-                        break;
-                    var start = provinces[Rand.Next(provinces.Count)];
+                    if (provinces.Count == 0) break;
 
-                    if (!CultureManager.instance.CultureMap.ContainsKey(mainCulture.Name))
+                    ProvinceParser start = provinces[Rand.Next(provinces.Count)];
+
+                    if (!instance.CultureMap.ContainsKey(mainCulture.Name))
                     {
-                        mainCulture = cultureGroupParser.Cultures[cultureGroupParser.Cultures.Count-1];
+                        mainCulture = cultureGroupParser.Cultures[cultureGroupParser.Cultures.Count - 1];
                     }
+
                     if (!CultureMap.ContainsKey(mainCulture.Name))
                     {
                         CultureMap[mainCulture.Name] = mainCulture;
                     }
 
                     start.Culture = BranchCulture(mainCulture.Name);
-                    var newC = start.Culture;
+
+                    var newCulture = start.Culture;
+
                     List<ProvinceParser> target = new List<ProvinceParser>();
+
                     target.Add(start);
                     target.AddRange(start.Adjacent.Where(p => provinces.Contains(p)));
+
                     int s = 1;
-                    if (size > 8)
+
+                    if (iterations > 8)
                         s = 2;
-                    if (size > 15)
+
+                    if (iterations > 15)
                         s = 3;
 
                     for (int x = 0; x < s; x++)
@@ -1023,15 +1045,18 @@ namespace CrusaderKingsStoryGen
                         target.ForEach(p => toAdd.AddRange(p.Adjacent.Where(pp => pp.land && pp.title != null)));
                         target.AddRange(toAdd);
                     }
+
                     HashSet<ProvinceParser> toDo = new HashSet<ProvinceParser>(target);
+
                     foreach (var provinceParser in toDo)
                     {
-                        provinceParser.Culture = newC;
+                        provinceParser.Culture = newCulture;
                         provinces.Remove(provinceParser);
                     }
 
                 }
             }
+
             // Create big religion groups covering multiple culture groups
 
             foreach (var religionGroupParser in ReligionManager.instance.AllReligionGroups)
@@ -1040,60 +1065,67 @@ namespace CrusaderKingsStoryGen
 
                 var cultureGroupList = new List<CultureGroupParser>(cgenum);
 
-                int n = Rand.Next(5)+4;
+                int n = Rand.Next(5) + 4;
 
                 for (int x = 0; x < n; x++)
                 {
                     var adjacentProv = new List<ProvinceParser>();
                     var adjacent = new HashSet<CultureGroupParser>();
-                    cultureGroupList.ForEach(g=> g.Provinces.ForEach(p => adjacentProv.AddRange(p.Adjacent.Where(pa=>pa.land && pa.title != null && pa.Culture != null && pa.Culture.Group != g))));
-                    adjacentProv.ForEach(p=> adjacent.Add(p.Culture.Group));
+
+                    cultureGroupList.ForEach(g => g.Provinces.ForEach(p => adjacentProv.AddRange(p.Adjacent.Where(pa => pa.land && pa.title != null && pa.Culture != null && pa.Culture.Group != g))));
+
+                    adjacentProv.ForEach(p => adjacent.Add(p.Culture.Group));
 
                     if (adjacent.Count > 0)
                     {
                         List<CultureGroupParser> list = new List<CultureGroupParser>(adjacent);
 
                         var chosen = list[Rand.Next(list.Count)];
+
                         chosen.ReligionGroup = religionGroupParser;
-                        chosen.Provinces.ForEach(p=>p.Religion = religionGroupParser.Religions[0]);
+
+                        chosen.Provinces.ForEach(p => p.Religion = religionGroupParser.Religions[0]);
                     }
                 }
             }
 
-            // Cut out small ones
-
-
             // Now find the biggest two and make them bigger...
+
             ReligionGroupParser biggest = null;
             ReligionGroupParser second = null;
-      
 
             for (int index = 0; index < ReligionManager.instance.AllReligionGroups.Count; index++)
             {
                 var religionGroupParser = ReligionManager.instance.AllReligionGroups[index];
 
-                
                 if (religionGroupParser.Provinces.Count < 50)
                 {
                     while (religionGroupParser.Provinces.Count > 0)
                     {
                         bool possible = true;
+
                         while (religionGroupParser.Provinces.Count > 0 && possible)
                         {
                             for (int i = 0; i < religionGroupParser.Provinces.Count; i++)
                             {
                                 var provinceParser = religionGroupParser.Provinces[i];
-                                var difcul =
-                                    provinceParser.Adjacent.Where(
-                                        p => p.Religion != provinceParser.Religion && p.Religion != null);
+
+                                var difcul = provinceParser.Adjacent.Where(p => p.Religion != provinceParser.Religion && p.Religion != null);
+
                                 if (!difcul.Any())
                                 {
                                     if (i == religionGroupParser.Provinces.Count - 1)
+                                    {
                                         possible = false;
+                                    }
+
                                     continue;
                                 }
+
                                 var list = new List<ProvinceParser>(difcul);
+
                                 provinceParser.Religion = list[Rand.Next(list.Count)].Religion;
+
                                 break;
                             }
 
@@ -1104,28 +1136,30 @@ namespace CrusaderKingsStoryGen
                         {
                             var provinceParser = religionGroupParser.Provinces[0];
 
-                            var list =
-                                MapManager.instance.Provinces.Where(
-                                    p => p.land && p.title != null && p.Religion.Group != religionGroupParser).ToList();
+                            var list = MapManager.instance.Provinces.Where(p => p.land && p.title != null && p.Religion.Group != religionGroupParser).ToList();
 
                             distanceTest = provinceParser;
+
                             list.Sort(SortByDistance);
 
                             provinceParser.Religion = list[0].Religion;
+
                             provinceParser.Culture.Group.ReligionGroup = list[0].Religion.Group;
                         }
                     }
 
 
-               
+
                 }
-                
+
                 if (religionGroupParser.Provinces.Count == 0)
                 {
                     ReligionManager.instance.AllReligionGroups.Remove(religionGroupParser);
-                    System.Console.Out.WriteLine(religionGroupParser.Religions[0].Name + " removed");
-              
+
+                    Console.Out.WriteLine(religionGroupParser.Religions[0].Name + " removed");
+
                     religionGroupParser.Scope.Remove(religionGroupParser.Religions[0].Scope);
+
                     ReligionManager.instance.Script.Root.Remove(religionGroupParser.Scope);
                     ReligionManager.instance.ReligionMap.Remove(religionGroupParser.Religions[0].Name);
                     ReligionManager.instance.AllReligions.Remove(religionGroupParser.Religions[0]);
@@ -1134,9 +1168,10 @@ namespace CrusaderKingsStoryGen
                     {
                         if (characterParser.religion == religionGroupParser.Religions[0].Name)
                         {
-                            characterParser.religion = ReligionManager.instance.AllReligions[ReligionManager.instance.AllReligions.Count-1].Name;
+                            characterParser.religion = ReligionManager.instance.AllReligions[ReligionManager.instance.AllReligions.Count - 1].Name;
                         }
                     }
+
                     index--;
                 }
 
@@ -1145,7 +1180,10 @@ namespace CrusaderKingsStoryGen
 
             ReligionManager.instance.AllReligionGroups.Sort(ReligionManager.instance.SortByBelievers);
 
+            //After sorting grab largest & second-largest religions
+
             biggest = ReligionManager.instance.AllReligionGroups[0];
+
             if (ReligionManager.instance.AllReligionGroups.Count > 1)
             {
                 second = ReligionManager.instance.AllReligionGroups[1];
@@ -1157,44 +1195,52 @@ namespace CrusaderKingsStoryGen
                 var religionGroup = ReligionManager.instance.AllReligionGroups[index];
 
                 var provinces = new List<ProvinceParser>(religionGroup.Provinces);
-                // Now do the same for cultures...
 
                 var mainReligion = religionGroup.Religions[0];
 
                 int size = religionGroup.Provinces.Count;
-                if (size <= 4)
-                    size = 1;
-                else if (size < 12)
-                    size = 1;
-                else if (size < 32)
-                    size = 2;
-                else
-                    size = 3;
 
+                int iterations = 0;
+
+                if (size <= 4)
+                    iterations = 1;
+                else if (size < 12)
+                    iterations = 1;
+                else if (size < 32)
+                    iterations = 2;
+                else
+                    iterations = 3;
+
+                // Do max iterations for first & second groups to make them larger
 
                 if (biggest == religionGroup || second == religionGroup)
                 {
-                    size = 3;
+                    iterations = 3;
                 }
 
-                for (int c = 0; c < size; c++)
+                for (int c = 0; c < iterations; c++)
                 {
                     if (provinces.Count == 0)
                         break;
 
-
                     var start = provinces[Rand.Next(provinces.Count)];
 
                     start.Religion = ReligionManager.instance.BranchReligion(mainReligion.Name, start.Culture.Name);
+
                     var newC = start.Religion;
+
                     List<ProvinceParser> target = new List<ProvinceParser>();
+
                     target.Add(start);
                     target.AddRange(start.Adjacent.Where(p => provinces.Contains(p)));
+
                     int s = 2;
                     if (size > 16)
                         s = 3;
                     if (size > 32)
                         s = 4;
+
+                    //If this is for first/second group, do the next loop two more times than usual the first few iterations
 
                     if (biggest == religionGroup || second == religionGroup)
                     {
@@ -1210,7 +1256,9 @@ namespace CrusaderKingsStoryGen
                         target.ForEach(p => toAdd.AddRange(p.Adjacent.Where(pp => pp.land && pp.title != null && pp.Religion.Group == start.Religion.Group)));
                         target.AddRange(toAdd);
                     }
+
                     HashSet<ProvinceParser> toDo = new HashSet<ProvinceParser>(target);
+
                     foreach (var provinceParser in toDo)
                     {
                         provinceParser.Religion = newC;
@@ -1220,38 +1268,42 @@ namespace CrusaderKingsStoryGen
                 }
             }
 
+            //Remove any groups with no provinces? then fill some holy sites?
+
             for (int index = 0; index < ReligionManager.instance.AllReligionGroups.Count; index++)
             {
                 var religionParser = ReligionManager.instance.AllReligionGroups[index];
+
                 if (religionParser.Provinces.Count == 0)
                 {
                     ReligionManager.instance.AllReligionGroups.Remove(religionParser);
                     index--;
                     continue;
                 }
+
                 religionParser.TryFillHolySites();
             }
 
             for (int index = 0; index < ReligionManager.instance.AllReligions.Count; index++)
             {
                 var religionParser = ReligionManager.instance.AllReligions[index];
+
                 if (religionParser.Provinces.Count == 0)
                 {
-                    System.Console.Out.WriteLine(religionParser.Name + " removed");
-                    if (religionParser.Scope.Name == "enuique")
-                    {
-
-                    }
-           
+                    Console.Out.WriteLine(religionParser.Name + " removed");
                     ReligionManager.instance.AllReligions.Remove(religionParser);
                     ReligionManager.instance.ReligionMap.Remove(religionParser.Name);
                     religionParser.Group.Scope.Remove(religionParser.Scope);
+
                     index--;
+
                     continue;
                 }
+
                 religionParser.TryFillHolySites();
             }
 
+            //What's going on here? Setting char culture and religion to that of their primary title? Hmmm
 
             foreach (var characterParser in CharacterManager.instance.Characters)
             {
@@ -1274,7 +1326,7 @@ namespace CrusaderKingsStoryGen
                         titleParser.culture = characterParser.culture;
                     }
                 }
-              
+
             }
 
             var l = MapManager.instance.Provinces.Where(p => p.title != null).ToList();
@@ -1285,16 +1337,19 @@ namespace CrusaderKingsStoryGen
                 provinceParser.initialCulture = provinceParser.Culture.Name;
             }
 
+            //Set up map & leader for any religion with > 0 provinces
 
             foreach (var religionParser in ReligionManager.instance.AllReligions)
             {
-           
+
                 if (religionParser.Provinces.Count > 0)
+                {
                     ReligionManager.instance.ReligionMap[religionParser.Name] = religionParser;
+                }
+
                 if (religionParser.Provinces.Count > 0 && (religionParser.hasLeader || religionParser.autocephaly))
                 {
                     religionParser.DoLeader(religionParser.Provinces[Rand.Next(religionParser.Provinces.Count)]);
-
                 }
             }
         }
@@ -1370,7 +1425,7 @@ namespace CrusaderKingsStoryGen
                     }
                 }
             }
-         
+
         }
 
         public bool SaveCultures { get; set; } = true;
