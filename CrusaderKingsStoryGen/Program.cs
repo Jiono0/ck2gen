@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using CrusaderKingsStoryGen.MapGen;
 
 namespace CrusaderKingsStoryGen
 {
@@ -19,7 +14,7 @@ namespace CrusaderKingsStoryGen
         {
             if (Directory.Exists("logs"))
             {
-                Directory.Delete("logs");
+                Directory.Delete("logs", true);
             }
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

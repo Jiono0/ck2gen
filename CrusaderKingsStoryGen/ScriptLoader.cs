@@ -799,6 +799,7 @@ namespace CrusaderKingsStoryGen
             Directory.CreateDirectory(Globals.ModDir + "gfx\\traits\\");
             Directory.CreateDirectory(Globals.ModDir + "gfx\\flags\\");
             Directory.CreateDirectory(Globals.ModDir + "interface\\");
+            Directory.CreateDirectory(Globals.ModDir + "interface\\coat_of_arms\\");
             Directory.CreateDirectory(Globals.ModDir + "localisation\\");
             Directory.CreateDirectory(Globals.ModDir + "map\\");
           
