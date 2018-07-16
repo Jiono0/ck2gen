@@ -332,8 +332,6 @@ namespace CrusaderKingsStoryGen
 
                 var rel2 = group.AddReligion(rell);
 
-                //rel2.RandomReligionProperties();
-
                 rel2.CreateNewReligion();
 
                 rel2.Mutate(rel, CultureManager.instance.CultureMap[culture], 6);
@@ -366,8 +364,6 @@ namespace CrusaderKingsStoryGen
                 }
 
                 var rel2 = group.AddReligion(name);
-
-                //rel2.RandomReligionProperties();
 
                 rel2.CreateNewReligion();
 

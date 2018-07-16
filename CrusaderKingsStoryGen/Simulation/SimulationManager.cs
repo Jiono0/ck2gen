@@ -1,14 +1,8 @@
-﻿using System;
+﻿using CrusaderKingsStoryGen.Story;
+using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Drawing;
-using System.IO;
 using System.Linq;
-using System.Runtime.Remoting.Messaging;
 using System.Windows.Forms;
-using System.Windows.Forms.VisualStyles;
-using CrusaderKingsStoryGen.Story;
-using static CrusaderKingsStoryGen.TitleManager;
 
 namespace CrusaderKingsStoryGen.Simulation
 {
@@ -17,9 +11,9 @@ namespace CrusaderKingsStoryGen.Simulation
         public static SimulationManager instance = new SimulationManager();
         public List<CharacterParser> characters = new List<CharacterParser>();
         public int PreYear = 0;
-        public int MaxYear = 400;//1337;
-        public static int StartYear = 200;
-        public int Year = SimulationManager.StartYear;
+        public int MaxYear = 5000;
+        public static int StartYear = 1;
+        public int Year = StartYear;
         public bool Active { get; set; }
         public bool AutoValidateRealm { get; set; } = true;
         public bool AllowCapitalPicking { get; set; } = true;
